@@ -1,0 +1,390 @@
+	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+0	Alberto Balsalm	Aphex Twin	...I Care Because You Do	LIKE	5:11	X5rLfFzdXoc	MPREb_xNiFq2GwXko	UCWmnkYUzoOiOztmPBhIlZjg
+1	Ágætis byrjun (1998 Demo)	Sigur Rós	Ágætis byrjun - A Good Beginning (20th Anniversary Deluxe Edition)	LIKE	8:02	pNr8Zhhe36Y	MPREb_UkDGZCSQhpI	UCgI0KusPV2kAfsflrsAunUw
+2	Soul Surfing	Fatboy Slim	You've Come A Long Way Baby	LIKE	4:57	Vc58OlwIpqU	MPREb_AgB11zOkQqj	UCNekatqy_ys1SX8NfjpwixA
+3	Love Island	Fatboy Slim	You've Come A Long Way Baby	LIKE	5:19	ENRjkiCLkow	MPREb_AgB11zOkQqj	UCNekatqy_ys1SX8NfjpwixA
+4	Praise You	Fatboy Slim	You've Come A Long Way Baby	LIKE	5:24	wXaRyNgIMCw	MPREb_AgB11zOkQqj	UCNekatqy_ys1SX8NfjpwixA
+5	Triumph (feat. Cappadonna)	Wu-Tang Clan	Wu-Tang Forever	LIKE	5:39	7AFEWPAir8s	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
+6	Windowlicker	Aphex Twin	Windowlicker	LIKE	6:09	cDKU9T8ZhV4	MPREb_tjaUqaMpXFt	UCWmnkYUzoOiOztmPBhIlZjg
+7	How To Roll A Blunt	Redman	Whut? Thee Album	LIKE	3:22	CnGn1VMUsyc	MPREb_xaQqYrN1OKu	UC9QGE9WThC4e-1l7OOeFhKw
+8	Cortez the Killer (Live)	Neil Young And Crazy Horse	Weld	LIKE	9:46	j04HRm_9yYA	MPREb_kOEH4Yd5Zfy	UC6JhadLTf6g6f-ZdeEaAqBQ
+9	Domsbore	Boredoms	Wow 2	LIKE	3:53	-_tYCqkzhvM	MPREb_KOvkZcLl8Kn	UCI2G16tOmo4TOZvJnayP0OQ
+10	100 Dom	Boredoms	Wow 2	LIKE	4:39	RDm5ku9fqQM	MPREb_KOvkZcLl8Kn	UCI2G16tOmo4TOZvJnayP0OQ
+11	Sweetest Perfection (2006 Remaster)	Depeche Mode	Violator	LIKE	4:42	OJ5mnUABvcg	MPREb_LoHFqyQd59N	UC-CcyIM_seGnGL5-2Fsppow
+12	Yamaha Cs-60	Klaus Stuehlen	Vintage Synths Vol.1	LIKE	3:46	3IQwrU_kskU	MPREb_aOzdjeEH54R	UCe2tVaomp_UjOL55szjpuWw
+13	Bitter Sweet Symphony (Extended Version)	The Verve	Urban Hymns (Super Deluxe / Remastered 2016)	LIKE	7:50	1WTATreAg08	MPREb_KOt6PrA0bWj	UCt2KxZpY5D__kapeQ8cauQw
+14	Walkin' Blues (Acoustic) [Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992]	Eric Clapton	Unplugged (Deluxe Edition)	LIKE	3:36	i9hdjoHfVhE	MPREb_qnI5PxMgKIO	UCXmEE051j5RhUENn7saUF3g
+15	Malted Milk (Acoustic) [Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992]	Eric Clapton	Unplugged (Deluxe Edition)	LIKE	3:37	s14D3xokDSo	MPREb_qnI5PxMgKIO	UCXmEE051j5RhUENn7saUF3g
+16	Alberta (Acoustic) [Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992]	Eric Clapton	Unplugged	LIKE	3:38	Y5-zo6Qq9GQ	MPREb_irHYV3rF1Mj	UCXmEE051j5RhUENn7saUF3g
+17	REC Room	Inspectah Deck	Uncontrolled Substance	LIKE	3:15	W-ee4n5JlL8	MPREb_YD5FqMXOMJy	UC2aNH0DJposE_E8NHWJmrsQ
+18	Bad Girls Dub	Prince Jammy	Uhuru In Dub	LIKE	3:25	Okk29mricO8	MPREb_zs9vjfYD0gk	UCtIw9aEa92z0inAUZ7wsNag
+19	U-Mass	Pixies	Trompe le Monde	LIKE	3:00	anVauyMv-nE	MPREb_HWcDOSp5Adt	UCRt5ckI8kNVMFr-jyj1IIVg
+20	Planet of Sound	Pixies	Trompe le Monde	LIKE	2:06	MzqChYMR6kc	MPREb_HWcDOSp5Adt	UCRt5ckI8kNVMFr-jyj1IIVg
+21	The Sad Punk	Pixies	Trompe le Monde	LIKE	2:59	zcVpFug2p00	MPREb_HWcDOSp5Adt	UCRt5ckI8kNVMFr-jyj1IIVg
+22	Bird Dream of the Olympus Mons	Pixies	Trompe le Monde	LIKE	2:48	DNtRoTB9gB4	MPREb_HWcDOSp5Adt	UCRt5ckI8kNVMFr-jyj1IIVg
+23	Motorway to Roswell	Pixies	Trompe le Monde	LIKE	4:43	mPzLGTgyAw4	MPREb_HWcDOSp5Adt	UCRt5ckI8kNVMFr-jyj1IIVg
+24	Overand	Autechre	Tri Repetae	LIKE	7:34	1D6he6cOSw0	MPREb_skz5xguq2D3	UCBUAlfIrcw1f0c4qGrYn3xA
+25	Turn It On	The Flaming Lips	Transmissions From The Satellite Heart	LIKE	4:41	g1tXKgj8BSg	MPREb_eUK2xIwhVf5	UCPxZkX90JURVTyWW0caNnGg
+26	I'll Be There For You/ You're All I Need To Get By (Razor Sharp Mix/Instrumental) (feat. Mary J. Blige)	Method Man	Tical (Deluxe Edition)	LIKE	3:46	dr4rvcoCQPU	MPREb_35YjV96Rgba	UCc1r7FILg1s6rXuE4quij5Q
+27	The Next Movement (feat. DJ Jazzy Jeff & Jazzyfatnastees)	The Roots	Things Fall Apart (Deluxe Edition)	LIKE	4:11	fTgI-vzTz9I	MPREb_pZgRxaTqzrG	UCkOV250OgD1qUOAvGYgCSvA
+28	Don't See Us	The Roots	Things Fall Apart	LIKE	4:30	XVHhp3Y1lT8	MPREb_cqlmw05KudW	UCkOV250OgD1qUOAvGYgCSvA
+29	Double Trouble (feat. Mos Def)	The Roots	Things Fall Apart (Deluxe Edition)	LIKE	5:48	z56v8HvN_Yg	MPREb_pZgRxaTqzrG	UCkOV250OgD1qUOAvGYgCSvA
+30	Big Dipper	Built to Spill	There's Nothing Wrong With Love	LIKE	4:09	G1r0YvVg_nc	MPREb_rP6xrasMTsu	UCrMHecWO6fui7O2d9dnpEZg
+31	The Source	Built to Spill	There's Nothing Wrong With Love	LIKE	3:20	YzbZiyVWBC8	MPREb_rP6xrasMTsu	UCrMHecWO6fui7O2d9dnpEZg
+32	Cause, I Lover	The Brian Jonestown Massacre	Their Satanic Majesties' Second Request	LIKE	1:18	Jrbp651Sr4E	MPREb_WYi5GRoh0Dm	UCXybUoBoCwQntpbpblywN4Q
+33	Anemone	The Brian Jonestown Massacre	Their Satanic Majesties' Second Request	LIKE	5:35	8Nzi3gFolS8	MPREb_WYi5GRoh0Dm	UCXybUoBoCwQntpbpblywN4Q
+34	St. James Infirmary Blues	The White Stripes	The White Stripes	INDIFFERENT	2:25	HrMUsKa0JHA	MPREb_KwE1AKi1FSj	UCD0Wge1UpszMtqK3P9x50vA
+35	Neva Die Alone (feat. Tragedy Khadafi)	Capone-N-Noreaga	The War Report	LIKE	3:24	EuOul7CMOcY	MPREb_IpXBj0UYOtW	UCOZeZ7jaQAXIauXaQxxtQhA
+36	Freddie's Dead (Theme From 'Superfly') [Single Edit]	Curtis Mayfield	The Very Best of Curtis Mayfield	LIKE	3:19	c66pB-6_yDE	MPREb_YkYvw6KZKLV	UCJmw3MTR4v8eYIGm3N2zRLw
+37	Smile (feat. 2Pac & Johnny P)	Scarface	The Untouchable	LIKE	5:00	lMcUEKNNK3o	MPREb_lCAVq76VpxM	UC9v3AUfaYiap8vPHN5lyOYQ
+38	Dry The Rain (Remaster)	The Beta Band	The Three E.P.’s (20th Anniversary Remaster)	LIKE	6:06	JoOMCZnndvA	MPREb_7DQFrK47uLP	UCDIwq5TEZecPTAUHLzJ4cWw
+39	Push It Out (Remaster)	The Beta Band	The Three E.P.’s (20th Anniversary Remaster)	INDIFFERENT	5:22	hrE-SIdXqQE	MPREb_7DQFrK47uLP	UCDIwq5TEZecPTAUHLzJ4cWw
+40	Perverted Monks In Tha House (Theme)	Jeru The Damaja	The Sun Rises In The East	LIKE	1:03	knbkOfmPPbs	MPREb_7BCMOo1QJNe	UCPG04OSqYhV-sRaCm_XqxTw
+41	Ain't The Devil Happy	Jeru The Damaja	The Sun Rises In The East	LIKE	3:45	uoP9xsFcymQ	MPREb_7BCMOo1QJNe	UCPG04OSqYhV-sRaCm_XqxTw
+42	Intergalactic	Beastie Boys	The Sounds Of Science: Beastie Boys Anthology	LIKE	3:33	jwqyTB_MUNg	MPREb_dJPeUsbFmiF	UCe6E2f1FNQZ0XuCJ4GlONwQ
+43	Feeling Yourself Disintegrate	The Flaming Lips	The Soft Bulletin	LIKE	5:18	XvvGYEjloOg	MPREb_A2QRDzf1aLw	UCPxZkX90JURVTyWW0caNnGg
+44	The Gash	The Flaming Lips	The Soft Bulletin	LIKE	4:03	Qo7brAQi0j4	MPREb_A2QRDzf1aLw	UCPxZkX90JURVTyWW0caNnGg
+45	The Mask	Fugees	The Score (Expanded Edition)	LIKE	4:51	mIue359_ZN4	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
+46	Cowboys	Fugees	The Score (Expanded Edition)	LIKE	5:24	kqEtXUehkMY	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
+47	Fu-Gee-La (Sly & Robbie Mix)	Fugees	The Score (Expanded Edition)	LIKE	5:28	20psI-NYR2k	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
+48	Ready or Not	Fugees	The Score (Expanded Edition)	LIKE	3:47	NJHKraasQ_I	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
+49	Zealots	Fugees	The Score (Expanded Edition)	LIKE	4:21	2LtHAZpO1jg	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
+50	No Woman, No Cry	Fugees	The Score (Expanded Edition)	LIKE	4:34	PEHs2WbPac0	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
+51	It Was A Good Day	Ice Cube	The Predator	LIKE	4:20	LcF2KUJVdLE	MPREb_6ZIvcsWVUQM	UCA9eJHcx3lkhyaln9ZHs90Q
+52	Dr. Rock	Ween	The Pod	LIKE	3:11	XMZiz4y05gU	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+53	Oh my dear (falling in love)	Ween	The Pod	LIKE	1:57	54ygnpdI0xY	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+54	Mononucleosis	Ween	The Pod	LIKE	3:01	9s1qEI6hpC8	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+55	Right to the ways and the rules of the world	Ween	The Pod	LIKE	5:05	PAQA3oLnbiA	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+56	Don't sweat it	Ween	The Pod	LIKE	4:02	E2ddHm7EwZg	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+57	Alone	Ween	The Pod	LIKE	3:13	GdxJHhfViiA	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+58	Moving Away	Ween	The Pod	LIKE	3:06	ROrl0gR_w9c	MPREb_8WH9ND0mYPX	UCXWUt1Cu2hVZYTaJ44ddusA
+59	Nothing Even Matters (feat. D'Angelo)	Lauryn Hill	The Miseducation of Lauryn Hill	LIKE	5:51	g3a__bcJeW8	MPREb_zQCF2kLSloY	UC3j9UpJkGNY9GDm3EdbEiVA
+60	Every Ghetto, Every City	Lauryn Hill	The Miseducation of Lauryn Hill	LIKE	5:15	oZXWbTCtWPw	MPREb_zQCF2kLSloY	UC3j9UpJkGNY9GDm3EdbEiVA
+61	When It Hurts so Bad	Lauryn Hill	The Miseducation of Lauryn Hill	LIKE	5:43	-soXVBWGCgQ	MPREb_zQCF2kLSloY	UC3j9UpJkGNY9GDm3EdbEiVA
+62	Waiting For The World To End	Rakim	The Master	LIKE	4:06	8XhT2jBqOhI	MPREb_0AnCfHfjtnC	UCFMS1sbij1WaZzZpnBDCs3A
+63	Polar Opposites	Modest Mouse	The Lonesome Crowded West	LIKE	3:31	QDoGdHpqcCg	MPREb_AlgdTOSWRiL	UCiX0EqRfobz765eBovS1BNQ
+64	Lounge (Closing Time)	Modest Mouse	The Lonesome Crowded West	LIKE	7:04	muAwTA2XCVA	MPREb_AlgdTOSWRiL	UCiX0EqRfobz765eBovS1BNQ
+65	Holy, Holy	Fred Hammond	The Inner Court	LIKE	4:11	NCCS2GRs5lM	MPREb_7E9C6D0GtsS	UCel_9MOfv7wFlAZBxh3IjHg
+66	Right Back at You (feat. Ghostface Killah, Raekwon & Big Noyd)	Mobb Deep	The Infamous - 25th Anniversary Expanded Edition	LIKE	4:54	YG-aynHYaJ8	MPREb_xmurjCLO4fr	UCrZE2q5Y0Kti9IPxbWCc7mA
+67	Y the Quale and Vaguely Bird Noisily Enjoying Their Forbidden Tryst/I'd Be a Yellow Feathered Loon	of Montreal	The Gay Parade	INDIFFERENT	2:41	ASAuDDd5q28	MPREb_7t8SFl0i3qw	UCTc-gLB4Gy6BxJhMAYZ6m4A
+68	A Man's Life Flashing Before His Eyes While He and His Wife Drive Off a Cliff into the Ocean	of Montreal	The Gay Parade	INDIFFERENT	3:05	omWtX-T5iQ4	MPREb_7t8SFl0i3qw	UCTc-gLB4Gy6BxJhMAYZ6m4A
+69	Ill Vibe (feat. Q-Tip)	Busta Rhymes	The Coming	LIKE	3:29	3ZYECRGFtek	MPREb_ohVaKVreOPF	UCaSeNTljGkpoj1ijhs72nag
+70	Visions of Johanna (Alternate Take)	Bob Dylan	No Direction Home: Bootleg Volume 7	LIKE	6:38	tFOwVxp1h-s	MPREb_ROLQGrmfzj1	UCBqkojCXby4zGkWX86FEY7Q
+71	Like a Rolling Stone	Bob Dylan	Bob Dylan's Greatest Hits	LIKE	6:08	SSJWPw9EFxI	MPREb_bIZvhFautmX	UCBqkojCXby4zGkWX86FEY7Q
+72	Fourth Time Around (Live at Royal Albert Hall, London, UK - May 26, 1966)	Bob Dylan	The Real Royal Albert Hall 1966 Concert (Live)	LIKE	4:32	iaLI8oIAmoI	MPREb_JiA6GS4qwp2	UCBqkojCXby4zGkWX86FEY7Q
+73	House at Pooh Corner	Loggins & Messina	The Best: Loggins & Messina Sittin' In Again	LIKE	4:23	mcPz3G6cWPw	MPREb_Zpq7SgBPyBO	UC6xL5tN9qVdjC07-CoS-Ghw
+74	Fake Plastic Trees	Radiohead	The Bends	LIKE	4:50	6gDhsUWCHrg	MPREb_xsmDKhqhQrG	UCr_iyUANcn9OX_yy9piYoLw
+75	Black Star	Radiohead	The Bends	LIKE	4:06	d7lbzUUXj0k	MPREb_xsmDKhqhQrG	UCr_iyUANcn9OX_yy9piYoLw
+76	High And Dry	Radiohead	The Bends	LIKE	4:17	7fv84nPfTH0	MPREb_xsmDKhqhQrG	UCr_iyUANcn9OX_yy9piYoLw
+77	Can I Kick It?	A Tribe Called Quest	The Anthology	LIKE	4:26	FGZoJS8bSeM	MPREb_L84iMEzN7Be	UCiOPPAw9e2Fj-i2uMNpoRNQ
+78	The Swimmer	The Ladybug Transistor	The Albemarle Sound	LIKE	3:52	V27H9dUZ4gA	MPREb_kmCZ9XfdRCp	UC0DTkhpNWPDwKk5Zs5xInPw
+79	Oh Lord	The Brian Jonestown Massacre	Tepid Peppermint Wonderland - A Retrospective	LIKE	3:22	d1fV3RWaT5E	MPREb_ZZlC5JbPxZl	UCXybUoBoCwQntpbpblywN4Q
+80	B.S.A.	The Brian Jonestown Massacre	Take It From The Man	LIKE	4:42	qOiWz8H-a7A	MPREb_tCbnkOB2MV9	UCXybUoBoCwQntpbpblywN4Q
+81	Maria Maria (radio mix) (feat. The Product G&B)	Santana	Supernatural	LIKE	4:22	Y9XXeznskQ4	MPREb_kw8Dova0NEd	UCX0rR7x8-nLew2t8UH-n2aw
+82	I Get Around (feat. Digital Underground)	2Pac	Strictly 4 My N.I.G.G.A.Z...	LIKE	4:19	96IgXis9WNw	MPREb_zJSArzUsPHP	UC5RrGzC-JXglhFW5NhT4r6w
+83	Last Wordz (feat. Ice T & Ice Cube)	2Pac	Strictly 4 My N.I.G.G.A.Z...	LIKE	3:37	Gmof3Z-g0do	MPREb_zJSArzUsPHP	UC5RrGzC-JXglhFW5NhT4r6w
+84	The Queen of Hearts	Duster	Stratosphere	LIKE	4:19	DE-vS9RLN3U	MPREb_B1sOajhmNH5	UCZkINlw1KmC1GiOqyx3tBPA
+85	Topical Solution	Duster	Stratosphere	LIKE	5:00	g-lF0RNAIK8	MPREb_B1sOajhmNH5	UCZkINlw1KmC1GiOqyx3tBPA
+86	Badfish (Live At Kommotion/1994)	Sublime	Stand By Your Van - Live!	LIKE	3:03	tb-sD5BKBqM	MPREb_RedvpZvNkVU	UCPu227hd28pLRBC-S6i5e6g
+87	Don, Aman	Slint	Spiderland (remastered)	LIKE	6:27	Vsf6cnfC6cg	MPREb_N2vE2gM47Qd	UCiHdxkS3T69_-I0uCRQbZVA
+88	Washer	Slint	Spiderland (remastered)	LIKE	8:49	v_WasYXxjDI	MPREb_N2vE2gM47Qd	UCiHdxkS3T69_-I0uCRQbZVA
+89	Nosferatu Man (4 Track Vocal Demo)	Slint	Spiderland (remastered)	LIKE	5:23	FmkRk5OUxcc	MPREb_N2vE2gM47Qd	UCiHdxkS3T69_-I0uCRQbZVA
+90	Breadcrumb Trail	Slint	Spiderland (remastered)	LIKE	5:54	7jst4--Wsv8	MPREb_N2vE2gM47Qd	UCiHdxkS3T69_-I0uCRQbZVA
+91	Good Morning, Captain	Slint	Spiderland	LIKE	7:39	CuqEpjcBfaU	MPREb_ur8iGYISD11	UCiHdxkS3T69_-I0uCRQbZVA
+92	For Dinner…	Slint	Spiderland	LIKE	5:05	oKINKblbx2s	MPREb_ur8iGYISD11	UCiHdxkS3T69_-I0uCRQbZVA
+93	Altogether	Slowdive	Souvlaki	LIKE	3:42	DDpoO3ZiNuM	MPREb_fHXcMhv5Thh	UC2o9vA6xBUQE6Tmk86oYQig
+94	Dagger	Slowdive	Souvlaki	LIKE	3:38	7kHqIQVxIuA	MPREb_CzX2z4WledH	UC2o9vA6xBUQE6Tmk86oYQig
+95	When the Sun Hits	Slowdive	Souvlaki	LIKE	4:47	9u-gACkK4LA	MPREb_fHXcMhv5Thh	UC2o9vA6xBUQE6Tmk86oYQig
+96	Sing	Slowdive	Souvlaki	LIKE	4:51	Ek_ttFy6q0s	MPREb_fHXcMhv5Thh	UC2o9vA6xBUQE6Tmk86oYQig
+97	Alison	Slowdive	Souvlaki	LIKE	3:50	5D2u3ASuelQ	MPREb_CzX2z4WledH	UC2o9vA6xBUQE6Tmk86oYQig
+98	40 Days	Slowdive	Souvlaki	LIKE	3:15	e2p4Zb3u0jI	MPREb_fHXcMhv5Thh	UC2o9vA6xBUQE6Tmk86oYQig
+99	Souvlaki Space Station	Slowdive	Souvlaki	LIKE	5:59	lH5wlRrKzK4	MPREb_fHXcMhv5Thh	UC2o9vA6xBUQE6Tmk86oYQig
+100	Night Life in Twin Peaks (Instrumental)	Angelo Badalamenti	Soundtrack From Twin Peaks	LIKE	3:28	xgQ418SHXXg	MPREb_A83lOZic22r	UC7ygKpFFov9EnbZQq3SqRCA
+101	Dirty South (feat. Big Boi & Cool Breeze)	Goodie Mob	Soul Food	LIKE	3:35	_5HC8tijTXk	MPREb_J6Uc1gIKj0w	UCweVqDsiovvEo4SWiK2JiJA
+102	Baltimore	Tamlins	Sly & Robbie Hits 1978-1990	LIKE	4:38	AMjwpTpcdFc	MPREb_DDQMBbD0VXb	UCL5a7Dp7fzpfyWVx_w2qypQ
+103	"Summer Baby (7"" Version)"	Pavement	Slanted & Enchanted: Luxe & Reduxe	LIKE	3:14	Xn4hDWY39GI	MPREb_UPAFxJ0ZrvT	UCxVgV50bfT-UB-hcpaZqmoQ
+104	Here	Pavement	Slanted & Enchanted	LIKE	3:56	bKipkWC90eU	MPREb_Zoh7i3yCeWM	UCxVgV50bfT-UB-hcpaZqmoQ
+105	"""Light Mass Prayers"""	Porcupine Tree	Signify (Remaster)	LIKE	7:36	mIBDPMc_x4w	MPREb_DEXw194kVGy	UCc3TEf15ldupda3ifbVzNMA
+106	Cherub Rock	Smashing Pumpkins	Siamese Dream (Deluxe Edition)	LIKE	4:59	6ywIjjj3YuA	MPREb_ag4IulWrDJa	UCZM3bF24BS-qDMe0OigpeZw
+107	Blue Calx	Aphex Twin	Selected Ambient Works Volume II	LIKE	7:20	Xk9GG3PW1vE	MPREb_JZHgTUr1DoZ	UCWmnkYUzoOiOztmPBhIlZjg
+108	Ageispolis	Aphex Twin	Selected Ambient Works 85-92	LIKE	5:23	bdWIwpTS48s	MPREb_gaJgUErCmNd	UCWmnkYUzoOiOztmPBhIlZjg
+109	Pulsewidth	Aphex Twin	Selected Ambient Works 85-92	LIKE	3:48	OtAweb0IV14	MPREb_gaJgUErCmNd	UCWmnkYUzoOiOztmPBhIlZjg
+110	Xtal	Aphex Twin	Selected Ambient Works 85-92	LIKE	4:53	sWcLccMuCA8	MPREb_gaJgUErCmNd	UCWmnkYUzoOiOztmPBhIlZjg
+111	Higher Than the Sun (Single Mix)	Primal Scream	Screamadelica	LIKE	3:38	QxPAp0M9aiE	MPREb_oL1HpATeIl4	UCxhWp1a-q00fDipFUQ22yBg
+112	Realization (2000 Remaster)	Eric Clapton	Rush (Music from the Motion Picture Soundtrack)	LIKE	2:42	NMwgwvFX93w	MPREb_58SFFBRyiZJ	UCXmEE051j5RhUENn7saUF3g
+113	Condor Ave	Elliott Smith	Roman Candle	LIKE	3:34	Y4VOrtLw3GY	MPREb_DmtA56xWuve	UCuNTMHPl8dVBpJRtvygl-9A
+114	Fingerbib	Aphex Twin	Richard D. James Album	LIKE	3:49	41FQ1_N0Ft8	MPREb_Na3YHIkf5Mf	UCWmnkYUzoOiOztmPBhIlZjg
+115	Baby C'Mon (2020 Remaster)	Ol' Dirty Bastard	Return to the 36 Chambers: The Dirty Version (25th Anniversary Remaster)	LIKE	3:27	JWaOANOHjEM	MPREb_h8aq8hwuiBY	UCrYJAAly5ySwMg0t-LC1r0Q
+116	Return of The Crooklyn Dodgers	Crooklyn Dodgers 95'	90s Underground Hip Hop	LIKE	5:05	vmhWoG_EhQw	MPREb_4b8CDDYS23k	
+117	Resurrection	Common	Resurrection	LIKE	3:47	B344I9CohF4	MPREb_jW6UAnQ5rFh	UCHGKcYq0mKucntOv9-qBRJw
+118	Regulate feat Nate Dogg (feat. Snoop Dogg)	Warren G	Hip-Hop Legacy, Vol. 3	LIKE	4:12	CgZAwlnw-Z0	MPREb_KV0eEWJI1Gu	UCdVRxxZs3-ZP7lNso5lO2RQ
+119	Regulate (Remix Version)	Warren G	Regulate... G Funk Era (Special Edition)	LIKE	4:20	LSJ9X7SNnHw	MPREb_oVGsyTdbo50	UCdVRxxZs3-ZP7lNso5lO2RQ
+120	Feelin' It	Jay-Z	Reasonable Doubt	LIKE	3:48	2MggS4f-Puc	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
+121	Regrets	JAY-Z	Reasonable Doubt	LIKE	4:33	uABZCd1O08c	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
+122	Dead Presidents II	Jay-Z	Reasonable Doubt	LIKE	4:27	p3grvCbdONk	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
+123	Friend Or Foe	Jay-Z	Reasonable Doubt	LIKE	1:50	JEYcr5iMjm0	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
+124	Can I Live II (feat. Memphis Bleek)	JAY-Z	Reasonable Doubt	LIKE	3:58	yBQ210avlx4	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
+125	Warning (2005 Remaster)	The Notorious B.I.G.	Ready To Die	LIKE	3:41	hB7mLcX-LuM	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
+126	Ready to Die (2006 Remaster)	The Notorious B.I.G.	Ready To Die	LIKE	4:25	ynuW1SylEHY	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
+127	Who Shot Ya? (2005 Remaster)	The Notorious B.I.G.	Ready To Die	LIKE	5:20	M8q5mg-yj0A	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
+128	Rebirth Of Slick (Cool Like Dat)	Digable Planets	Reachin' (A New Refutation Of Time And Space)	LIKE	4:22	kSa7cKUtt5M	MPREb_OyZJYxFINa0	UCyi6pisEIouLIx9i-KDcrtA
+129	Where I'm From	Digable Planets	Reachin' (A New Refutation Of Time And Space)	LIKE	4:36	JMQHQy7fIp8	MPREb_OyZJYxFINa0	UCyi6pisEIouLIx9i-KDcrtA
+130	Us and Them	Pink Floyd	Pulse (Live)	LIKE	6:58	H_8j_7BC5Wo	MPREb_f2vB8lZZ9XZ	UCO6LS_5W7vqG9mALDNzSFug
+131	The Great Gig in the Sky	Pink Floyd	Pulse (Live)	LIKE	5:52	BhEA1MdAU1A	MPREb_f2vB8lZZ9XZ	UCO6LS_5W7vqG9mALDNzSFug
+132	Unreal	UNKLE	Psyence Fiction	LIKE	5:09	e2K7qSGPNSU	MPREb_EEjD3zApkcq	UCjXr3YQrOJoqRuSXMdU2eww
+133	More Mess on My Thing	The Poets of Rhythm	Practice What You Preach	LIKE	4:11	GlbIUEMEWPk	MPREb_y2TLEyXBr0G	UCdFEpyvXo2A4iwpXsrpPCRQ
+134	Poison (Extended Club Version)	Bell Biv DeVoe	Poison	LIKE	7:06	Lgx6xen5_5Q	MPREb_dMgahRwHbtC	UC7AXW4dtZ4OJcEoCqo0F3uw
+135	Inside	Moby	Play & Play: The B Sides	LIKE	4:49	K42QwR3x3Po	MPREb_5VXBqzMGceT	UC35GdXKfexT9GAZv3SJq0uA
+136	No Other One	Weezer	Pinkerton	LIKE	3:02	F8VwP5OvJ3o	MPREb_nrpUXJsZqQ5	UCtHZHneyvFGwxg6MHcbMLAw
+137	Side One	Pennywise	Pennywise (2005 Remaster)	LIKE	2:10	Cz-xPTKX2Lg	MPREb_pUQmiCk5UXu	UCAADRs729bcPvnXXVG2Kaag
+138	Olson (Version 3) (Peel Session)	Boards Of Canada	Peel Session	LIKE	2:32	H6ec0uaLQD8	MPREb_sCIOz0Lf4Ox	UCidyEq0ZC6rcqZmwKt_g_2g
+139	Aquarius (Version 3) (Peel Session)	Boards Of Canada	Peel Session	LIKE	6:24	FSsctlcGBHM	MPREb_sCIOz0Lf4Ox	UCidyEq0ZC6rcqZmwKt_g_2g
+140	Girls and Boys	Blur	Parklife (Special Edition)	LIKE	4:52	-SNV1WJzjsY	MPREb_6mCzyKURDo8	UCI3EFb2lvZyBMykNd64JDhg
+141	Cuando Limpia El Humo	Atmosphere	Overcast! (20 Year Anniversary Remaster)	INDIFFERENT	5:19	Bh5favNeCRU	MPREb_MeUuQMgD3dm	UCdjemvPRcetrtbhgOIcZHRg
+142	Halcyon (Live)	Orbital	Live At Glastonbury	LIKE	8:04	whuUHwhW96g	MPREb_7CrMXOn50jr	UCAObJYwBDFQWmIcT57UAptQ
+143	Doomsday (Instrumental)	MF DOOM	Operation: Doomsday (Complete)	LIKE	5:00	htqkfusNi8k	MPREb_2GXWuRXcPr3	UCooTDYkIERWBwDC1JKyoElQ
+144	Ice Cream	Raekwon	Only Built 4 Cuban Linx...	LIKE	4:14	XzkHQlR4Hzo	MPREb_Z2U9PujcM92	UC5xA-S_yp5X9nRWM8d-Iheg
+145	Glaciers of Ice	Raekwon	Only Built 4 Cuban Linx...	LIKE	5:21	EwakmiKoGUo	MPREb_Z2U9PujcM92	UC5xA-S_yp5X9nRWM8d-Iheg
+146	Naomi	Neutral Milk Hotel	On Avery Island	LIKE	4:53	Dd_alco-gIQ	MPREb_s2uBV4OYo2T	UCvMA46Xu1xApqZyXFIrnukw
+147	Jack-Ass	Beck	Odelay (Deluxe Edition)	LIKE	4:13	qLyT4MMSNj4	MPREb_F5N1JbnFmMV	UC8fxkahdLdfHk8pF1fRYD-w
+148	Sirena	Dirty Three	Ocean Songs	LIKE	4:06	LScKpnX1FGU	MPREb_1KuNTQQ2Ebd	UCs0T3BR8QMPnKFp930liUdg
+149	Fitter Happier	Radiohead	OK Computer	LIKE	1:57	O4SzvsMFaek	MPREb_yXhSI4FCUo6	UCr_iyUANcn9OX_yy9piYoLw
+150	Let Down	Radiohead	OK Computer OKNOTOK 1997 2017	LIKE	4:59	ZVgHPSyEIqk	MPREb_b9Yfli6Cg79	UCr_iyUANcn9OX_yy9piYoLw
+151	Nuttin' But Love (Reggae)	Heavy D & The Boyz	Nuttin' But Love (Remixes)	LIKE	4:37	7QEQakXvnUo	MPREb_XAsVH1GOY9H	UCZeGo9tVkSpuzXDlSEijkDg
+152	Lilith (feat. Bjork)	Plaid	Not For Threes	LIKE	4:38	hzjxPXOAnMI	MPREb_vWZ7qovCGIk	UCj_N3cY01lMhGHJlUfrl3gw
+153	Smells Like Teen Spirit	Nirvana	Nevermind (Deluxe Edition)	LIKE	5:02	7TDeBi34OtE	MPREb_d8vgAvq1kPj	UCrPe3hLA51968GwxHSZ1llw
+154	Come As You Are	Nirvana	Nevermind (Deluxe Edition)	LIKE	3:39	f1IdyrhOrGs	MPREb_d8vgAvq1kPj	UCrPe3hLA51968GwxHSZ1llw
+155	On A Plain	Nirvana	Nevermind (Super Deluxe)	LIKE	3:15	L7-QxO4KmGU	MPREb_XB9EMRIxjPd	UCrPe3hLA51968GwxHSZ1llw
+156	Polly (Smart Sessions)	Nirvana	Nevermind (Deluxe Edition)	LIKE	2:59	xtGpWgDt9sQ	MPREb_d8vgAvq1kPj	UCrPe3hLA51968GwxHSZ1llw
+157	Lithium	Nirvana	Nevermind (Super Deluxe)	LIKE	4:18	gvnZabGpIKY	MPREb_XB9EMRIxjPd	UCrPe3hLA51968GwxHSZ1llw
+158	In Bloom (Nevermind Version)	Nirvana	Nevermind (Super Deluxe)	LIKE	4:16	-R98gr7A7cM	MPREb_XB9EMRIxjPd	UCrPe3hLA51968GwxHSZ1llw
+159	Fuckin Wit Dis Click	Three-6 Mafia	Mystic Stylez	LIKE	6:18	hFMp9CEtb5Y	MPREb_j4mA771fCBk	UCETpWjWnRzckJkqGGgq6xgQ
+160	Broccoli	E-40	The Element Of Surprise	LIKE	4:06	_lxLoOU7nlM	MPREb_7FoXKv20w0p	UCKlkhvMKkJdaz48cpscL7eg
+161	Open The Light	Boards Of Canada	Music Has The Right To Children	LIKE	4:24	643nXJGHH7E	MPREb_MEQIpurhIQN	UCidyEq0ZC6rcqZmwKt_g_2g
+162	No Growing (exegesis)	The Olivia Tremor Control	Dusk At Cubist Castle	LIKE	3:00	yl2euUMJBKw	MPREb_hPmQpjNo5VD	UCTV0PAtGq7nHMy1BIo-bg9g
+163	Get Behind The Mule	Tom Waits	Mule Variations	LIKE	6:52	4161GdIqUs0	MPREb_LDMDhYqnFk7	UC39N3pyt2Z15oOMjouokl8A
+164	Whateva Man (feat. Erick Sermon)	Redman	Muddy Waters	LIKE	3:09	Pv_cNS8zTcU	MPREb_BGjBfQeWmju	UC9QGE9WThC4e-1l7OOeFhKw
+165	Pick It Up	Redman	Muddy Waters	LIKE	4:12	r0OG2HOwz3Y	MPREb_BGjBfQeWmju	UC9QGE9WThC4e-1l7OOeFhKw
+166	Machine Gun Kelly	James Taylor	Mud Slide Slim and the Blue Horizon	LIKE	2:37	ymC8DM9mAek	MPREb_CKtczq8t1vF	UCZJikx4babgeliqeRPnE9rA
+167	Remember	Air	Moon Safari	LIKE	2:34	JqMdhEy4hG8	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
+168	Betrayal (feat. Scarface)	Gang Starr	Moment Of Truth	LIKE	5:30	jP8QqdUfjgw	MPREb_Y1isVpR2abb	UCPN9k1RTnz3OxA3t8Dc5lCQ
+169	Above The Clouds (feat. Inspectah Deck)	Gang Starr	Moment Of Truth	LIKE	3:42	NqhNTA2VHqk	MPREb_Y1isVpR2abb	UCPN9k1RTnz3OxA3t8Dc5lCQ
+170	Moment Of Truth	Gang Starr	Moment Of Truth	LIKE	4:08	Rr46FS7tkk4	MPREb_Y1isVpR2abb	UCPN9k1RTnz3OxA3t8Dc5lCQ
+171	Oily Water	Blur	Modern Life Is Rubbish (Special Edition)	LIKE	5:02	9ZnqHBs5zOg	MPREb_106EF43G32M	UCI3EFb2lvZyBMykNd64JDhg
+172	Miss America	Blur	Modern Life Is Rubbish (Special Edition)	LIKE	5:36	Hbd8SM_kXTQ	MPREb_106EF43G32M	UCI3EFb2lvZyBMykNd64JDhg
+173	From the Edge of the Deep Green Sea (Love in Vain Mix 2018)	The Cure	Mixed Up (Deluxe Edition)	LIKE	6:24	HYg9HkH8sHk	MPREb_Rgtvl0FFTqV	UCKuG9-MGolUuWbEcoz5qijw
+174	Along the Banks of Rivers	Tortoise	Millions Now Living Will Never Die	LIKE	5:51	NeX5hxyAL54	MPREb_BKNaYYpZ4fb	UC4p81SffxAyf_EqpPU1zBaA
+175	Bu Bu Bu Ba	Mike & Rich	Expert Knob Twiddlers	LIKE	6:53	BGtx8Ql7NWM	MPREb_RwwHhNKzRMZ	UCS245uySeCVGJ9RyzrLreGA
+176	Exchange	Massive Attack	Mezzanine	LIKE	4:12	wlc7cikBpg4	MPREb_Ibts2W4TjGD	UCr1uxon7aFztw_dnrau0TDA
+177	Crushed	The Brian Jonestown Massacre	Methodrone	LIKE	4:11	bywdTZocRlY	MPREb_mu1zf30wQkc	UCXybUoBoCwQntpbpblywN4Q
+178	Loser	Beck	Mellow Gold	LIKE	3:55	e904xBnyEGw	MPREb_ZA0YXY39zty	UC8fxkahdLdfHk8pF1fRYD-w
+179	Pay No Mind (Snoozer)	Beck	Mellow Gold	LIKE	3:15	VHl77Es7qkg	MPREb_ZA0YXY39zty	UC8fxkahdLdfHk8pF1fRYD-w
+180	They Reminisce Over You (T.R.O.Y.)	Pete Rock & C.L. Smooth	Mecca And The Soul Brother	LIKE	4:46	0xZHe8Q8Mlk	MPREb_VM6zes2f4HW	UCmH331qHkIZdDZeqshhycOw
+181	Hell Is Round The Corner	Tricky	Maxinquaye (Deluxe Edition)	LIKE	3:48	C4ebCs2mWaw	MPREb_FXsrff61QYE	UCSuP436X3nxcLjeJQOnlOPg
+182	When Love Is New	Cedar Walton Trio	Manhattan Afternoon	LIKE	7:21	YOU9u_Jzdog	MPREb_9gtKaJcSuoo	UCu-WQsz9922w0IidCeAcuZA
+183	Come As You Are	Nirvana	MTV Unplugged In New York	LIKE	4:14	5BUOdyGcJ8U	MPREb_99mXCzrVmLg	UCrPe3hLA51968GwxHSZ1llw
+184	I Only Said	My Bloody Valentine	Loveless	LIKE	5:34	Zh6excugyG0	MPREb_4a5MckMvCsB	UCuoGeza7Dl9Ni_hmeLTPdkg
+185	Sometimes	My Bloody Valentine	Loveless	LIKE	5:19	fH0NQzXlzyQ	MPREb_4a5MckMvCsB	UCuoGeza7Dl9Ni_hmeLTPdkg
+186	Thunderstruck (Live - 1991)	AC/DC	Live (Collector's Edition)	LIKE	6:36	MgSItr_engs	MPREb_OCZScHcOlRK	UCVm4YdI3hobkwsHTTOMVJKg
+187	Cold World (feat. Inspectah Deck)	GZA	Liquid Swords	LIKE	5:31	h4m3hoGphkQ	MPREb_XFpeKOertbT	UC--gj3l4eBnO_hxJsalqIFg
+188	4th Chamber (feat. RZA, Ghostface Killah & Killah Priest)	GZA	Liquid Swords	LIKE	4:37	nkjait7wm4k	MPREb_XFpeKOertbT	UC--gj3l4eBnO_hxJsalqIFg
+189	Shadowboxin' (feat. Method Man)	GZA	Liquid Swords	LIKE	3:30	xRQ5mmVfNdY	MPREb_XFpeKOertbT	UC--gj3l4eBnO_hxJsalqIFg
+190	Somebody's Gotta Die	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	4:27	y4Mxi3jBzyM	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+191	Mo Money Mo Problems (feat. Mase & Puff Daddy)	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	4:18	ioYkj7SjhbY	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+192	Miss U	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	5:00	Z1rV07ilnxE	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+193	Sky's the Limit (feat. 112)	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	5:30	34gRAYGFwzc	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+194	Ten Crack Commandments	The Notorious B.I.G.	Life After Death	LIKE	3:25	jzjl3agCvhQ	MPREb_eLL2tuzOJ1Y	UCczXQ2ehGOS2U2UnR8rY3Hg
+195	You're Nobody (Til Somebody Kills You)	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	4:53	-oXXVLPWLiM	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+196	Hypnotize	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	3:50	H9NuWEeODew	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+197	Kick in the Door	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	4:47	BQzfQg3fEic	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+198	What's Beef?	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	5:16	HVWGQ9txMLw	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+199	Playa Hater	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	3:58	nlj0gQXkVJM	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
+200	You Know How We Do It	Ice Cube	Lethal Injection	LIKE	3:53	_HGZBLdn9_c	MPREb_9iTDYEE7Tg6	UCA9eJHcx3lkhyaln9ZHs90Q
+201	Release the Pressure	Leftfield	Leftism	LIKE	7:40	IbmXemypQbM	MPREb_9Okuv9Q0oeu	UCOrpszBwWhM6a1a67ezZhTQ
+202	I Think I'm in Love	Spiritualized	Ladies and Gentlemen We Are Floating in Space	LIKE	8:11	n0f2tv-Iuso	MPREb_Qk58gNb2JEU	UCZHwZqC6T5tjEH5XhsXh_Cw
+203	Broken Heart	Spiritualized	Ladies and Gentlemen We Are Floating in Space	LIKE	6:39	aovWL_qMHV0	MPREb_Qk58gNb2JEU	UCZHwZqC6T5tjEH5XhsXh_Cw
+204	Ladies and Gentlemen We Are Floating in Space	Spiritualized	Ladies and Gentlemen We Are Floating in Space	LIKE	3:55	-UGbOqadHb0	MPREb_Qk58gNb2JEU	UCZHwZqC6T5tjEH5XhsXh_Cw
+205	Runnin' (A Cappella)	The Pharcyde	Runnin' / 4 Better Or 4 Worse (Remixes)	LIKE	6:46	eaaiOI_cdIc	MPREb_w4NH6OkLalD	UCPBVpB_roy80QRKWi4vwRVQ
+206	Bower Dub	Sir Coxsone Sound	King Of The Dub Rock Part 2	LIKE	4:03	iWBp1B_kOs8	MPREb_n7mtOVXNwJl	UCn3I6N2sX6LPhMz_rRhR-nA
+207	Cross Road Blues	Robert Johnson	King of the Delta Blues Singers (1961)	LIKE	2:28	bJ_7nYEpkBo	MPREb_HfYEiajU4om	UCjcp3ChO5oUZyx3f0FnGVUA
+208	Kind Hearted Woman Blues	Robert Johnson	King Of The Delta Blues Singers	LIKE	2:51	3IcotmtEqjY	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
+209	Sweet Home Chicago	Robert Johnson	Robert Johnson's Blues Collection	LIKE	2:57	5tpgWF5aKWA	MPREb_mBhz15YXV1X	UCjcp3ChO5oUZyx3f0FnGVUA
+210	Come On In My Kitchen (Take 2)	Robert Johnson	King Of The Delta Blues	LIKE	2:49	_Ke_Sx54nqg	MPREb_EOYuhbro4jl	UCjcp3ChO5oUZyx3f0FnGVUA
+211	Love in Vain	Robert Johnson	Robert Johnson's Blues Collection	LIKE	2:24	VfXn5t6-fKs	MPREb_mBhz15YXV1X	UCjcp3ChO5oUZyx3f0FnGVUA
+212	I Believe I'll Dust My Broom	Robert Johnson	King Of The Delta Blues	LIKE	2:57	s5l8U0IuCAs	MPREb_EOYuhbro4jl	UCjcp3ChO5oUZyx3f0FnGVUA
+213	No Justice for the Poor	Lee Perry	King Tubby Meets The Upsetter At The Grass Roots Of Dub	LIKE	3:09	QoUv2wtQKZI	MPREb_HjiluxSkHrp	UCVmm7YVkjrFy-fjJkBDeSwg
+214	African Roots	King Tubby	King Tubby Meets The Upsetter At The Grass Roots Of Dub	LIKE	3:06	MQT6mUCNbCc	MPREb_HjiluxSkHrp	UCKXb5pogU_SBmt39cYE5Efw
+215	Temporarily Blind	Built To Spill	Keep It Like a Secret	LIKE	4:49	aP8JVuyhBx8	MPREb_ISkeLHDXozB	UCrMHecWO6fui7O2d9dnpEZg
+216	Primal	Slowdive	Just For A Day	LIKE	5:31	xuiE4AMe6QM	MPREb_eX8Qy5DNIhd	UC2o9vA6xBUQE6Tmk86oYQig
+217	Look Thru My Eyes	DMX	It's Dark And Hell Is Hot	LIKE	3:51	gybUn8Ps6KE	MPREb_8K5P577eZsU	UCZe87x5wDk_YUmdmfAGymPQ
+218	Ruff Ryders Anthem	DMX	It's Dark And Hell Is Hot	LIKE	3:35	3xpI7VZVw6g	MPREb_PbK8qZA1diP	UCZe87x5wDk_YUmdmfAGymPQ
+219	How's It Goin' Down	DMX	It's Dark And Hell Is Hot	LIKE	4:43	9J-THCTjn60	MPREb_8K5P577eZsU	UCZe87x5wDk_YUmdmfAGymPQ
+220	260 (feat. Raekwon)	Ghostface Killah	Ironman	LIKE	2:47	7c40K1BjZC0	MPREb_HoMur50JXYD	UC9BR9FK85Ez13EZ34Z5yZnw
+221	Assassination Day	Ghostface Killah	Ironman	LIKE	4:18	AG31eIfUIhg	MPREb_HoMur50JXYD	UC9BR9FK85Ez13EZ34Z5yZnw
+222	Fish (feat. Cappadonna & Raekwon)	Ghostface Killah	Ironman	LIKE	3:51	R40HfUN1_7Y	MPREb_HoMur50JXYD	UC9BR9FK85Ez13EZ34Z5yZnw
+223	Maetl	Autechre	Incunabula	LIKE	6:33	tmZEsWeOo_o	MPREb_NwHaS1JDrMa	UCBUAlfIrcw1f0c4qGrYn3xA
+224	Eggshell	Autechre	Incunabula	LIKE	9:03	zS-LgVWlsYg	MPREb_NwHaS1JDrMa	UCBUAlfIrcw1f0c4qGrYn3xA
+225	King of Carrot Flowers Pt. 1	Neutral Milk Hotel	In the Aeroplane Over the Sea	LIKE	2:00	jsM7XS-2X50	MPREb_l12Sl9prpGw	UCvMA46Xu1xApqZyXFIrnukw
+226	(What A) Wonderful World	The Flaming Lips	In A Priest Driven Ambulance	LIKE	3:41	CzQ2TuUYJkw	MPREb_6oLLXY0iLKC	UCPxZkX90JURVTyWW0caNnGg
+227	Dumb	Nirvana	In Utero (20th Anniversary Remaster)	LIKE	2:32	11G9j9utRCs	MPREb_fOBl6NeUrW5	UCrPe3hLA51968GwxHSZ1llw
+228	Rape Me (Live & Loud)	Nirvana	In Utero (Super Deluxe)	LIKE	2:40	f7_qNYgOE8o	MPREb_gHQoSqbsKWU	UCrPe3hLA51968GwxHSZ1llw
+229	Serve The Servants	Nirvana	In Utero (20th Anniversary Deluxe Edition)	LIKE	3:38	5nURZfSHN_k	MPREb_njJeHWRR2L1	UCrPe3hLA51968GwxHSZ1llw
+230	Dumb	Nirvana	In Utero (Super Deluxe)	LIKE	2:32	jQaFwk0AvGg	MPREb_gHQoSqbsKWU	UCrPe3hLA51968GwxHSZ1llw
+231	Heart-Shaped Box	Nirvana	In Utero (Super Deluxe)	LIKE	4:42	H2AjTQFGOa4	MPREb_gHQoSqbsKWU	UCrPe3hLA51968GwxHSZ1llw
+232	No Alibi	The Roots	Illadelph Halflife	LIKE	5:11	V3AqCqLhZTs	MPREb_eZxSxHuWOGR	UCkOV250OgD1qUOAvGYgCSvA
+233	Sure Shot (Remastered 2009)	Beastie Boys	Ill Communication (Deluxe Version)	LIKE	3:20	A4TIgyustCs	MPREb_o6QDBMXVSu6	UCe6E2f1FNQZ0XuCJ4GlONwQ
+234	Sabotage (Remastered 2009)	Beastie Boys	Ill Communication (Deluxe Version)	LIKE	2:59	a64cJiGKr7c	MPREb_o6QDBMXVSu6	UCe6E2f1FNQZ0XuCJ4GlONwQ
+235	I Want To Do Everything For You	Johnny Adams	I Won't Cry	LIKE	2:31	Pgw43AeHHbs	MPREb_gHIQ6DERzd5	UCuGIBICRD1oJbmZfOeCOz2w
+236	Same Ol' Thing	Del Tha Funkee Homosapien	I Wish My Brother George Was Here	LIKE	4:20	qTRAWzpU1to	MPREb_3hRgEsBgk3y	UCI4Agy8_4djmQDU0edHEJ0A
+237	Ahonetwo, Ahonetwo	Del Tha Funkee Homosapien	I Wish My Brother George Was Here	LIKE	2:45	1p2vUsGKcTg	MPREb_3hRgEsBgk3y	UCI4Agy8_4djmQDU0edHEJ0A
+238	Sunny Meadowz	Del Tha Funkee Homosapien	I Wish My Brother George Was Here	LIKE	4:25	OoXaT00rKa4	MPREb_3hRgEsBgk3y	UCI4Agy8_4djmQDU0edHEJ0A
+239	Return to Hot Chicken	Yo La Tengo	I Can Hear the Heart Beating As One	LIKE	1:39	Jp1MDdMDCno	MPREb_pjgfqa6nbLu	UCz5bvM-t9ynI48T0u195y2A
+240	All Is Full Of Love	Björk	Screaming Masterpiece	LIKE	3:44	X2Ur72Kj9bQ	MPREb_uLWEs0Qd2xB	UCAjidy3vxRkgGVNIFqZMl_Q
+241	Immature	Björk	Homogenic Live	LIKE	3:00	yz9jAegP77g	MPREb_fo95X0CwLZg	UCAjidy3vxRkgGVNIFqZMl_Q
+242	Daftendirekt	Daft Punk	Homework	LIKE	2:44	H9gERrxL78U	MPREb_dMHztPsrDgN	UCRr1xG_2WIDs18a6cIiCxeA
+243	Benefits of Lying (With Your Friend)	The Apples in Stereo	Her Wallpaper Reverie	LIKE	3:35	gudQDnhGscQ	MPREb_ATbeM3Mh3Rj	UCjOgeOSF6Y3xLtx4LmcQErA
+244	The Shiney Sea	The Apples in Stereo	Her Wallpaper Reverie	LIKE	3:40	WXNN9yNGu4o	MPREb_ATbeM3Mh3Rj	UCjOgeOSF6Y3xLtx4LmcQErA
+245	Hell on Earth (Front Lines)	Mobb Deep	Hell On Earth	LIKE	4:35	R2P0XrkMy-c	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
+246	Extortion	Mobb Deep	Hell On Earth	LIKE	3:32	-mBycGprplc	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
+247	Bloodsport	Mobb Deep	Hell On Earth	LIKE	3:36	HXnGxS_GjIA	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
+248	Give It Up Fast	Mobb Deep	Hell On Earth	LIKE	3:59	GXRCrLzFDGY	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
+249	Arched Maid Via RDJ	AFX	Hangable Auto Bulb	LIKE	5:24	5QYH5Say3nE	MPREb_xl5QEnj2UoF	UCabdVJ3p3taM8aTqJLnYNrg
+250	Every Day	AFX	Hangable Auto Bulb	LIKE	3:51	dfQNGyhbcaM	MPREb_xl5QEnj2UoF	UCabdVJ3p3taM8aTqJLnYNrg
+251	Hangable Auto Bulb	AFX	Hangable Auto Bulb	LIKE	6:53	sFgVcdJ05Z0	MPREb_xl5QEnj2UoF	UCabdVJ3p3taM8aTqJLnYNrg
+252	Chewing Chewing Gum (2019 - Remaster)	Super Furry Animals	Guerrilla (20th Anniversary Edition)	LIKE	4:50	tyVjgpQ3_dU	MPREb_yADZR3GlZeM	UCWqnDhp97KMd1JguPyQOiMg
+253	Kool Thing	Sonic Youth	Goo (Deluxe Edition)	LIKE	4:07	Q6kvTpAy6Zg	MPREb_a7TFBYdbQMU	UC7Ot1CZwD2fBUgP7YncvpLQ
+254	Time Machine (2001 Remaster)	Ride	Going Blank Again (Expanded)	LIKE	5:54	OjnBLpZj3J4	MPREb_RsgljD8YAr4	UC1agXNA0qr9yCDX6gYOcKAg
+255	Howard Hughes (2001 Remaster)	Ride	Going Blank Again (Expanded)	LIKE	4:02	2tDitNdgHJg	MPREb_RsgljD8YAr4	UC1agXNA0qr9yCDX6gYOcKAg
+256	My Balls	Snot	Get Some	LIKE	2:57	v7ZleJvj7yE	MPREb_GQv1ExiJ1Zw	UCSsDs_5sIVRKyDR_iec1Ucw
+257	Cissy Strut	The Meters	Funk	INDIFFERENT	3:06	3Ok4L7hg_Nk	MPREb_lPcZu9NFB3q	UC-avhp8M8mQEklxxh3AGhQw
+258	Seed	Korn	Follow The Leader	LIKE	5:54	mj4zZ-HdG_Q	MPREb_juYedhgZbpn	UCdSgOgQ0WtelXBMKF3tDsqg
+259	Great Day	Paul McCartney	Pure McCartney (Deluxe Edition)		2:10	FHdxqoj55x4		
+260	Crocodile Tears (the Mankey Version)	Mumps	Fatal Charm	LIKE	2:14	t1d__Kf5Ju0	MPREb_0Y8j3xZITaL	UCfwGOHFBsu5SL-hhsE_mbog
+261	Hyperspeed (G-force Part 2)	The Prodigy	Experience	LIKE	5:15	Jk_nZmfQv5U	MPREb_U8JDEG234Qh	UCOEO40PfRXSKhslXNgS0H8Q
+262	Expensive Shit (DJ Quest Gh Remix)	Wizkid	3Some Mix	LIKE	3:01	ebK_r8BLnro	MPREb_CPAXNUYjO5q	UC25DGtgYk5TwdksvtpeWYvA
+263	Water No Get Enemy (Intro) (feat. Roy Hargrove, Nile Rodgers, The Soultronics & Positive Force)	D'Angelo	Red Hot + Riot	LIKE	4:05	lePLNaDei_c	MPREb_FYQTi6hIQnu	UClNtwl7d6s42-L8yRG6VEgg
+264	He Miss Road	Fela Kuti	He Miss Road	LIKE	10:47	izQM7peY5fM	MPREb_o34mmdPjsyS	UCoFUl09hePTptc4UOSISC9Q
+265	Everything Is	Neutral Milk Hotel	Everything Is	LIKE	3:41	Svp0uuFQE3Q	MPREb_Juds250CrA5	UCvMA46Xu1xApqZyXFIrnukw
+266	Latent Quarter	Autechre	Envane	LIKE	7:38	jizQVvzpekQ	MPREb_Adzy0md2xDQ	UCBUAlfIrcw1f0c4qGrYn3xA
+267	Protect Ya Neck (The Jump Off)	Wu-Tang Clan	The W	LIKE	3:59	cEKJUwrWNGE	MPREb_OveZeAsb6q3	UCdQKMtGgbbahJWE3rkPaGoA
+268	Shame On a Nigga	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	2:58	zpTXVP2LXq8	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
+269	Wu-Tang Clan Ain't Nuthing ta F' Wit	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	3:37	G1GdDt5mrqo	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
+270	Bring Da Ruckus	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	4:12	ni8JeRpSTYA	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
+271	Method Man	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	5:51	AN3uJh_X16U	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
+272	Tearz	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	4:18	B0KLqZP1UFs	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
+273	Who Got Da Props	Black Moon	Enta Da Stage	LIKE	4:30	KfCaacYKN6s	MPREb_hJPwlFPcHp9	UCy2P4JutFzqz9EtGo2lyEkA
+274	Buck Em Down	Black Moon	Enta Da Stage	LIKE	4:39	_X-a3Z5ZqdQ	MPREb_hJPwlFPcHp9	UCy2P4JutFzqz9EtGo2lyEkA
+275	Midnight In A Perfect World	DJ Shadow	Endtroducing.....	LIKE	4:59	AtVNn63FfaI	MPREb_EHShW2T1Tl8	UCtTuSKgCdeTyxBGPCD3TgxQ
+276	Napalm Brain / Scatter Brain (Medley)	DJ Shadow	Endtroducing.....	LIKE	9:22	_Z7O575ykKI	MPREb_EHShW2T1Tl8	UCtTuSKgCdeTyxBGPCD3TgxQ
+277	Building Steam With A Grain Of Salt	DJ Shadow	Endtroducing.....	LIKE	6:40	dt-EhEsdbEQ	MPREb_EHShW2T1Tl8	UCtTuSKgCdeTyxBGPCD3TgxQ
+278	Untitled	DJ Shadow	Endtroducing.....	LIKE	0:25	lu3PCDhS-xg	MPREb_EHShW2T1Tl8	UCtTuSKgCdeTyxBGPCD3TgxQ
+279	Emperor Tomato Ketchup	Stereolab	Emperor Tomato Ketchup	LIKE	4:38	KoFLXhmgFxU	MPREb_dQM5mmDnUW2	UCRUe8cfECb_SNa-Y15Z4EZw
+280	Ice Dance	Danny Elfman	Edward Scissorhands	LIKE	1:46	fVHo4HNqKjM	MPREb_YnthJwr4H4n	UCTR28KzMVCvi5g5B3NgKnNA
+281	Mr. Bill Collector	Bone Thugs-n-Harmony	E. 1999 Eternal	LIKE	5:02	Ju5OQ__xLnU	MPREb_lM2zVgP8qXq	UCm70qxlDpDzJ4kfDYskZXLA
+282	Me Killa	Bone Thugs-n-Harmony	E. 1999 Eternal	LIKE	0:59	GfoSwb1T-dM	MPREb_p52nJgSOQOE	UCm70qxlDpDzJ4kfDYskZXLA
+283	Tha Crossroads	Bone Thugs-n-Harmony	E. 1999 Eternal	LIKE	3:43	cJWYTetgsns	MPREb_p52nJgSOQOE	UCm70qxlDpDzJ4kfDYskZXLA
+284	Jumping Fences	The Olivia Tremor Control	Dusk At Cubist Castle	LIKE	1:52	qw_UcCwUjMI	MPREb_hPmQpjNo5VD	UCTV0PAtGq7nHMy1BIo-bg9g
+285	Define A Transparent Dream	The Olivia Tremor Control	Dusk At Cubist Castle	LIKE	2:49	6ZlWV9AA9Sg	MPREb_hPmQpjNo5VD	UCTV0PAtGq7nHMy1BIo-bg9g
+286	Roads	Portishead	Dummy	LIKE	5:03	7nxWP9BhI7w	MPREb_G6JQUdInW98	UCweAx0TIRdAylp6G1nviqbQ
+287	Wandering Star	Portishead	Dummy	LIKE	4:53	8T0cRt8efsQ	MPREb_G6JQUdInW98	UCweAx0TIRdAylp6G1nviqbQ
+288	Circe (Live January 20th, 1946) (feat. Django Reinhardt)	Duke Ellington Orchestra	Duke Ellington - The Great Chicago Concerts	LIKE	4:46	RM44p82sRQQ	MPREb_V4Nb9l63zCl	UCvwUPRgFawNNBdQg497gHJw
+289	Down with the King (Richard Russell Mix)	RUN DMC	Down with the King EP	LIKE	5:24	LznzC5WyLg0	MPREb_8INiufiFcGa	UCZ1zPzqwelYI7RpNPf68zqA
+290	Halo Bender	Halo Benders	Don't Tell Me Now	LIKE	4:30	gc1FhM9SCFA	MPREb_hWJQrjgCcy2	UCQTDGCBIS9JIjpBWUBm0iBg
+291	Gin And Juice (feat. Dat Nigga Daz)	Snoop Dogg	Doggystyle	LIKE	3:31	8FXzMHgqfos	MPREb_YIsf8r6eL0y	UC7xz_YipuZtypOuVALNzeog
+292	G Funk (Intro)	Snoop Dogg	Doggystyle	LIKE	2:24	utvI6WsI8ng	MPREb_0d9vS8CDlkf	UC7xz_YipuZtypOuVALNzeog
+293	Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)	Snoop Dogg	Doggystyle	LIKE	4:06	Xq8_mdYYRTM	MPREb_YIsf8r6eL0y	UC7xz_YipuZtypOuVALNzeog
+294	Who Am I (What's My Name)?	Snoop Dogg	Doggystyle	LIKE	4:06	YyHS_e47xI4	MPREb_YIsf8r6eL0y	UC7xz_YipuZtypOuVALNzeog
+295	Sugar Kane	Sonic Youth	Dirty (Deluxe Edition)	LIKE	5:58	dWBFG6dzU_U	MPREb_IZy4FSxpNC3	UC7Ot1CZwD2fBUgP7YncvpLQ
+296	Shoot	Sonic Youth	Dirty	LIKE	5:17	QmwJ6kyKnlI	MPREb_fmbFB9fOdd3	UC7Ot1CZwD2fBUgP7YncvpLQ
+297	Goddess On A Hiway	Mercury Rev	Deserter's Songs ()	LIKE	3:45	n0EV47JtVgg	MPREb_A7FclYdzBYP	UCcyPNbtPjAU99Q0wjfzhrCA
+298	Pick Up If You're There	Mercury Rev	Deserter's Songs (Deluxe Edition) (Deluxe Edition)	LIKE	3:05	zboj3Odntv8	MPREb_UC0VPQUyIjc	UCcyPNbtPjAU99Q0wjfzhrCA
+299	Alive On Arrival	Ice Cube	Death Certificate (25th Anniversary Edition)	LIKE	3:12	EejHyyCZ544	MPREb_WbexjW7kdvg	UCA9eJHcx3lkhyaln9ZHs90Q
+300	I Wanna Kill Sam	Ice Cube	Death Certificate (25th Anniversary Edition)	LIKE	3:23	etgH6O2j6eY	MPREb_WbexjW7kdvg	UCA9eJHcx3lkhyaln9ZHs90Q
+301	A Bird In The Hand	Ice Cube	Death Certificate (25th Anniversary Edition)	LIKE	2:18	Ro-ezktHX4c	MPREb_WbexjW7kdvg	UCA9eJHcx3lkhyaln9ZHs90Q
+302	Wuditlooklike	Redman	Dare Iz A Darkside	LIKE	4:09	M3mXmPZLn2g	MPREb_GAn1fTXw4uE	UC9QGE9WThC4e-1l7OOeFhKw
+303	Butcher	Swans	Cop / Young God	LIKE	4:01	XvfWkc5tQJM	MPREb_MmzWzSAmnOF	UCw8td8ajENm2IOhk6AkBdJA
+304	Funny Little Man	Aphex Twin	Come To Daddy	LIKE	3:59	YELI_G42xTw	MPREb_1JO38tEh2YH	UCWmnkYUzoOiOztmPBhIlZjg
+305	So What'Cha Want (Butt Naked Version)	Beastie Boys	Check Your Head (Deluxe Version)	LIKE	3:27	Ku1nqL0c2t8	MPREb_VI6X39tAM5N	UCe6E2f1FNQZ0XuCJ4GlONwQ
+306	Something's Got To Give (Remastered 2009)	Beastie Boys	Check Your Head (Deluxe Version)	LIKE	3:28	3w-8viRuG6E	MPREb_VI6X39tAM5N	UCe6E2f1FNQZ0XuCJ4GlONwQ
+307	Lighten Up (Remastered 2009)	Beastie Boys	Check Your Head (Deluxe Version)	LIKE	2:42	UFnIoIObmJE	MPREb_VI6X39tAM5N	UCe6E2f1FNQZ0XuCJ4GlONwQ
+308	Turn Your Lights Down Low (feat. Lauryn Hill)	Bob Marley	Chant Down Babylon	LIKE	5:47	TVBrBQelUGs	MPREb_0xCubVvB0LZ	UCBfv87kvVXyNi88URZ1zvCA
+309	Still Not a Player (Radio Version) (feat. Joe)	Big Pun	Capital Punishment	LIKE	3:57	5tSDhGea27E	MPREb_e95qjmzKn0Z	UChH5fTMt-pijTxWCpU8NP-g
+310	Super Lyrical (feat. Black Thought Of The Roots)	Big Punisher	Capital Punishment	LIKE	3:29	zB2wJV-htiY	MPREb_e95qjmzKn0Z	UChH5fTMt-pijTxWCpU8NP-g
+311	You Ain't a Killer	Big Punisher	Capital Punishment	LIKE	4:15	c8rfpda1s-o	MPREb_e95qjmzKn0Z	UChH5fTMt-pijTxWCpU8NP-g
+312	Galore	Gregory Isaacs	Can't Stay Away	LIKE	3:24	Mnb0PtfaLro	MPREb_9DftZKbdpRP	UCrWrf0Dyue7UNulBwPhbI2A
+313	Otherside	Red Hot Chili Peppers	Californication (Deluxe Edition)	LIKE	4:15	8901V1M5lDk	MPREb_9zDg9WFf7KR	UCrSorX845CEWXzU4Z7BojjA
+314	Around the World	Red Hot Chili Peppers	Californication (Deluxe Edition)	LIKE	3:58	i6RCNEm5bcM	MPREb_9zDg9WFf7KR	UCrSorX845CEWXzU4Z7BojjA
+315	De Camino a La Vereda	Buena Vista Social Club	Buena Vista Social Club	LIKE	5:04	b3RM5wr9Cec	MPREb_k1b1fqv47ir	UChUeUKui2gkL6vqhuKBeCMA
+316	Fin	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	5:25	9ggVvIjAHJ4	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+317	Cataracts ((Unreleased Song))	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	4:16	2U_5uD0fnqc	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+318	Harness Your Hopes ((B-side))	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	3:26	oHsGr6RYpJA	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+319	Stereo	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	3:08	d5PMZCAfiJA	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+320	Chevy (Old To Begin) [[Alternate Mix]]	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	3:49	JZDetT9eLQY	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+321	Grave Architecture ((BBC John Peel session August 21, 1997))	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	4:10	DW1B8y600sk	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+322	Nigel ((Unreleased Song))	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	3:45	k1ylEJrZucs	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+323	Embassy Row Psych Intro ((Unreleased Song))	Pavement	Brighten The Corners: Nicene Creedence Ed.	LIKE	1:05	MxKIDtzKO70	MPREb_gsjkvFOgl8g	UCxVgV50bfT-UB-hcpaZqmoQ
+324	The Nasty	Amon Tobin	Bricolage	LIKE	3:50	OlmBDI91Z1w	MPREb_5ktOZiw7Q1n	UCCbVPlwGMWlYTzFDyt5LUNQ
+325	Something To Say	The Action	Brain / Rolled Gold	LIKE	3:17	f8aK7f7paFI	MPREb_738PYCLWvme	UCUrQD3xEpak5kRBvDQxFLLw
+326	Velouria	Pixies	Bossanova	LIKE	3:40	N1s5LJRe07c	MPREb_BrSh03yJ8jN	UCRt5ckI8kNVMFr-jyj1IIVg
+327	Havalina	Pixies	Bossanova	LIKE	2:33	Oxj8pZROcZM	MPREb_tAX9CCYdqNh	UCRt5ckI8kNVMFr-jyj1IIVg
+328	Cecilia Ann	Pixies	Bossanova	LIKE	2:06	L1R0wLJ1_04	MPREb_tAX9CCYdqNh	UCRt5ckI8kNVMFr-jyj1IIVg
+329	Is She Weird	Pixies	Bossanova	LIKE	3:01	RbR1idwPl1o	MPREb_tAX9CCYdqNh	UCRt5ckI8kNVMFr-jyj1IIVg
+330	Allison	Pixies	Bossanova	LIKE	1:17	37PhHlPhNpM	MPREb_BrSh03yJ8jN	UCRt5ckI8kNVMFr-jyj1IIVg
+331	Who Shot Ya? (2005 Remaster)	The Notorious B.I.G.	Born Again	LIKE	3:48	3qfQdABNsGQ	MPREb_APxmBx3Pyqw	UCczXQ2ehGOS2U2UnR8rY3Hg
+332	Only Tomorrow	Dirty Looks	Bootlegs	LIKE	4:12	3AGkUXPYDOs	MPREb_yPTLfuwqNhJ	UCZymapCAbEgPXkuywdEmtGQ
+333	Sixtyniner	Boards Of Canada	Twoism	LIKE	5:18	qYoDINXAo7w	MPREb_pctSJ7BHKkD	UCidyEq0ZC6rcqZmwKt_g_2g
+334	Beetlebum	Blur	Blur (Special Edition)	LIKE	5:05	9SB22gM7-Ac	MPREb_ayxQzKPe8iM	UCI3EFb2lvZyBMykNd64JDhg
+335	Song 2	Blur	Midlife: A Beginner's Guide To Blur	LIKE	2:01	sJPJwrtDY1s	MPREb_4NWddmIZyVP	UCI3EFb2lvZyBMykNd64JDhg
+336	Five Man Army (2012 Mix/Master)	Massive Attack	Blue Lines (2012 Mix/Master)	LIKE	6:04	JOkykdCdyNY	MPREb_wT1mZHKgy6D	UCr1uxon7aFztw_dnrau0TDA
+337	Be Thankful For What You've Got (2012 Mix/Master)	Massive Attack	Blue Lines (2012 Mix/Master)	LIKE	4:09	um06u9Zg8ww	MPREb_wT1mZHKgy6D	UCr1uxon7aFztw_dnrau0TDA
+338	Safe From Harm (2012 Mix/Master)	Massive Attack	Blue Lines (2012 Mix/Master)	LIKE	5:19	YVrMBBR5QW8	MPREb_wT1mZHKgy6D	UCr1uxon7aFztw_dnrau0TDA
+339	One Love (2012 Mix/Master)	Massive Attack	Blue Lines (2012 Mix/Master)	LIKE	4:48	qvkyXiOeq9o	MPREb_wT1mZHKgy6D	UCr1uxon7aFztw_dnrau0TDA
+340	Funky Monks	Red Hot Chili Peppers	Blood Sugar Sex Magik (Deluxe Edition)	LIKE	5:23	vGMqOhXtIa0	MPREb_uildifVKXkg	UCrSorX845CEWXzU4Z7BojjA
+341	Sir Psycho Sexy	Red Hot Chili Peppers	Blood Sugar Sex Magik	LIKE	8:16	cb21ntIiQf0	MPREb_j7deMtIDHAx	UCrSorX845CEWXzU4Z7BojjA
+342	I Could Have Lied	Red Hot Chili Peppers	Blood Sugar Sex Magik	LIKE	4:04	4upIYEHHM2o	MPREb_j7deMtIDHAx	UCrSorX845CEWXzU4Z7BojjA
+343	Da Rockwilder	Method Man	Blackout!	LIKE	2:17	nUmv36XP1xw	MPREb_Ot8zVV3PF6n	UCc1r7FILg1s6rXuE4quij5Q
+344	How High (Remix)	Method Man	Blackout!	LIKE	4:43	--wiHdo96Pk	MPREb_Ot8zVV3PF6n	UCc1r7FILg1s6rXuE4quij5Q
+345	A Sleepy Company	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:40	t1sPwt3SXT0	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+346	The Sylvan Screen	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	6:07	jGN8BX8ctfQ	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+347	Black Foliage (Animation 1)	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	1:11	Y5sX7g4QhNE	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+348	Black Foliage (Animation 4)	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	1:35	_Q3ZoMXEeQM	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+349	Grass Canons	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:21	ods-y4SCF5g	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+350	Paranormal Echoes	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:29	HNr9gt8IRfM	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+351	Mystery	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:25	OZX7TbVr5Ss	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+352	Black Foliage (itself)	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	2:54	UQMeEJCBiVk	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+353	"A Peculiar Noise Called ""Train Director"""	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:01	vkD06C6OV08	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+354	I Have Been Floated	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:39	c_keuepSnyE	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
+355	Passin' Me By (Acapella)	The Pharcyde	Bizarre Ride II The Pharcyde (25th Anniversary Edition)	LIKE	4:39	5Ix9wRu67y8	MPREb_8nrIspWedqw	UCPBVpB_roy80QRKWi4vwRVQ
+356	One More Chance / Stay with Me (2005 Remaster)	The Notorious B.I.G.	Bad Boy Greatest Hits Vol. 1	LIKE	4:38	mlQdv1qflmo	MPREb_eppbFr96m4Q	UCczXQ2ehGOS2U2UnR8rY3Hg
+357	Mutism	Basic Channel	Bcd	LIKE	5:56	GdR9Okss8cc	MPREb_hMAog2qjEOl	UCqCmLDfSNRqx6kEif2qjtdw
+358	Be Quiet and Drive (Far Away)	Deftones	Around the Fur	LIKE	4:59	_t1vqLwqbyA	MPREb_ldHH2TnjL9l	UCXQtyZ6gWbOYR5B8Sc2sr3g
+359	Ambitionz Az A Ridah	2Pac	All Eyez On Me	LIKE	4:39	la5Sp0-ZHFY	MPREb_53G588JCapN	UC5RrGzC-JXglhFW5NhT4r6w
+360	Skandalouz (feat. Nate Dogg)	2Pac	All Eyez On Me	LIKE	4:09	R7J2A03zdZ4	MPREb_0lH3elDekEF	UC5RrGzC-JXglhFW5NhT4r6w
+361	Rising and Falling in a Little World	Elf Power	A Dream in Sound	LIKE	3:32	Dy0PlW5QBU4	MPREb_zzfPx2R999H	UCVVudE-Gc3G1HGbEdefK3yg
+362	Olde Tyme Waves	Elf Power	A Dream in Sound	LIKE	3:25	y7d6lz2csAM	MPREb_zzfPx2R999H	UCVVudE-Gc3G1HGbEdefK3yg
+363	93 'Til Infinity (Acapella Version)	Souls Of Mischief	93 'Til Infinity (The Remixes)	LIKE	4:42	BLjGXiLRejY	MPREb_O8cbWzCtqBv	UCrQvCPpaNN_C-C3jfKEu0Qw
+364	Constant Elevation	Gravediggaz	6 Feet Deep	LIKE	2:30	FhN2Y3KNB8c	MPREb_yYVKBHzVTBn	UCdLIxZhaItKn3t3WiVhUTAA
+365	Badfish	Sublime	40oz. To Freedom	LIKE	3:06	9HfbZdadoZQ	MPREb_U1GMlYL78wD	UCPu227hd28pLRBC-S6i5e6g
+366	Still D.R.E. (feat. Snoop Dogg)	Dr. Dre	2001 (Bonus Tracks)	LIKE	4:31	Qeem6ZVr8Ic	MPREb_6EiilRp9nkg	UC1g7JmTw4Gv8W9YINg3M1FA
+367	The Next Episode (feat. Snoop Dogg)	Dr. Dre	2001 (Bonus Tracks)	LIKE	2:42	nL2HPPHdPAA	MPREb_6EiilRp9nkg	UC1g7JmTw4Gv8W9YINg3M1FA
+368	The Watcher	Dr. Dre	2001	LIKE	3:27	HrGrSh050SE	MPREb_QouBlMBLbvN	UC1g7JmTw4Gv8W9YINg3M1FA
+369	Bitch Niggaz (feat. Hittman, Six-Two & Snoop Dogg)	Dr. Dre	2001 (Bonus Tracks)	LIKE	4:14	JrBcYb3fH6E	MPREb_6EiilRp9nkg	UC1g7JmTw4Gv8W9YINg3M1FA
+370	Big Ego's (feat. Hittman)	Dr. Dre	2001 (Bonus Tracks)	LIKE	3:59	XomLB_qIIDo	MPREb_6EiilRp9nkg	UC1g7JmTw4Gv8W9YINg3M1FA
+371	Some Things Last A Long Time	Daniel Johnston	1990	LIKE	4:54	qghpdpiGnu4	MPREb_cjAd3mPphhk	UCRjlG1MBlEr9Sn-J2T7N88A
+372	Coffee and TV (Radio Edit)	Blur	Blur: The Best Of	LIKE	5:19	cHrNTR05voQ	MPREb_Rnn4AjAndmP	UCI3EFb2lvZyBMykNd64JDhg
+373	Catamaran	Kyuss	...And The Circus Leaves Town	LIKE	2:59	kdkeorF6Fiw	MPREb_KfOu3PeXAYl	UCd8AMfxIQBvKgPVNvyybWZg
+374	Champagne Supernova	Oasis	(What's The Story) Morning Glory?	LIKE	7:32	NcUhYQQrvyI	MPREb_9nqEki4ZDpp	UCmMUZbaYdNH0bEd1PAlAqsA
+375	Call It Sane	Faraquet	Anthology 1997-98	LIKE	3:39	sM5R9HFO8Hs	MPREb_hNYA09YMQLp	UCUVbh-bC-QV3hyMYlXa2_Tw
+376	Plenty (feat. Erykah Badu)	Guru's Jazzmatazz	The Best Of Guru's Jazzmatazz	LIKE	4:34	XFafAGsy1Lo	MPREb_ELtFVMQhZCo	UCeZVYymjpCOu26-xRJLtjEA
+377	Buckingham Green (Live)	Ween	At the Cat's Cradle, 1992 (Live)	LIKE	7:48	aXUKpyjrhn8	MPREb_FT1V6UhckDd	UCXWUt1Cu2hVZYTaJ44ddusA
+378	Wynona's Big Brown Beaver	PRIMUS	Zack and Miri Make a Porno	LIKE	4:22	ous2-nYVcTY	MPREb_0EOB7HY01e1	UC_g748A40yHw0fQjXRqZYug
+379	Honey Power	My Bloody Valentine	Just Say Anything (Vol. V of Just Say Yes)	LIKE	4:20	OTSUeSwjarY	MPREb_NZSaVNMclhb	UCuoGeza7Dl9Ni_hmeLTPdkg
+380	Breakadawn	The Hit Co.	Alternative Rap Essentials	LIKE	4:17	gQOdsFnLMTo	MPREb_DH1qS4SwfeW	UCkQYUgJdt46F5Vc_gS8vkNQ
+381	Nothin' But The Cavi Hit	Mack 10	Best Of Mack 10	LIKE	4:01	IPe6j6FkWLY	MPREb_zNFtCvoKquK	UCSPk05HPOctMkcndtOvJfnw
+382	Twin Peaks	Various Artists	All-Time Tv Hits	LIKE	3:01	D925GvwXh5Y	MPREb_a2JWRG6AR1A	UChXNXYa1nCtNuW6LhG_fq-w
+383	Alameda	Elliott Smith	Either/Or: Expanded Edition	LIKE	3:43	24sDg3gkMgU	MPREb_TpPNy1SsiS9	UCuNTMHPl8dVBpJRtvygl-9A
+384	Between the Bars	Elliott Smith	Either/Or: Expanded Edition	LIKE	2:21	2FmYzACF-kg	MPREb_TpPNy1SsiS9	UCuNTMHPl8dVBpJRtvygl-9A
+385	Angles	Bone Thugs-N-Harmony	Thug Brothers 2	LIKE	3:03	A67BATXzVsU	MPREb_jLE8sGxooRh	UCm70qxlDpDzJ4kfDYskZXLA
+386	Shimmy Shimmy Ya	Ol' Dirty Bastard	Old School Hip Hop	LIKE	2:41	Bl35iAv3eUM	MPREb_HuCeBhjfPN8	UCrYJAAly5ySwMg0t-LC1r0Q
+387	Bring the Pain	Method Man	Hip-Hop Legacy, Vol. 3	LIKE	3:10	9nIOTJDDFLA	MPREb_KV0eEWJI1Gu	UCc1r7FILg1s6rXuE4quij5Q
+388	Suite Two: Frosted Ambassador / Green Typewriters / The Princess Turns the Key to Cubist Castle / Looking for Meaning (Peel Session)	The Olivia Tremor Control	John Peel Session	LIKE	7:17	U0SiMGMwSvw	MPREb_ainuP62KZX9	UCTV0PAtGq7nHMy1BIo-bg9g

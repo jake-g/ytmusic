@@ -1,0 +1,583 @@
+	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+0	Hey Bulldog	The Beatles	Yellow Submarine Songtrack	LIKE	3:12	KNsee-gRLAY	MPREb_ruSCBUWyKBO	UC2XdaAVUannpujzv32jcouQ
+1	You Really Got A Hold On Me (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	3:02	9rokS8Ao4nQ	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+2	The House of the Rising Sun	Woody Guthrie	Woody Guthrie Sings Folk Songs	LIKE	2:58	IMXxDB2J03U	MPREb_8pk4Cnupjy8	UCgbCJIqwRQbo8xuVWvQFqYg
+3	Not A Second Time (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:07	Gi8dTDuRCOk	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+4	Devil In Her Heart (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:27	IGe-jfFrxCk	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+5	Please Mister Postman (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:35	v2Kk5IG2b8E	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+6	It Won't Be Long (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:14	UVKU6SevefY	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+7	Till There Was You (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:14	SHAqAO7w8M8	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+8	All My Loving (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:08	TSpiwK5fig0	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+9	Money (That's What I Want) [Remastered 2009]	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:50	CeWjEYhk7Xo	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+10	Don't Bother Me (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:29	k03IQbaTcxc	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+11	All I've Got To Do (Remastered 2009)	The Beatles	With The Beatles (Remastered 2009)	LIKE	2:03	anMW41uvb_s	MPREb_cfiGXKbRGXM	UC2XdaAVUannpujzv32jcouQ
+12	Wipe Out	The Surfaris	Wipe Out	LIKE	2:47	dBURLdhmmZ8	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+13	Night Drive	The Surfaris	Wipe Out	LIKE	3:35	oYttinGgxJs	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+14	Thrasher	The Surfaris	Wipe Out	LIKE	3:05	-e3fuVLpiOE	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+15	Magic Sands	The Surfaris	Wipe Out	LIKE	3:12	Q3JlVDcOjno	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+16	Dream At Dusk	The Surfaris	Wipe Out	LIKE	2:58	OY0ZYrXSg98	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+17	Avalanche	The Surfaris	Wipe Out	LIKE	3:32	jUqO7UwgySA	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+18	Walkin' On Water	The Surfaris	Wipe Out	LIKE	2:46	3MZLTMmWb40	MPREb_KZ8yyRw0RjF	UCNxuPP8T5zM9bpCRcfpEwWg
+19	Side O' The Road	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	3:24	txju0X1iFCI	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+20	Down On The Corner	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	2:46	z3rWGUAnQek	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+21	Feelin' Blue	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	5:06	YC3pc0Lsl-s	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+22	Don't Look Now	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	2:11	GEP5Vt8tKaw	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+23	Midnight Special	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	4:13	QBPqlxZD-h8	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+24	Fortunate Son	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	2:20	r5NzAksjfDI	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+25	Effigy	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	6:27	6W0d1SOEz_4	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
+26	Here She Comes Now	The Velvet Underground	White Light / White Heat	LIKE	2:06	Ds_LUEe23dM	MPREb_Z9Z8jdMztvF	UCXNWrugB_J3sRBYR9idQWzg
+27	As You Said	Cream	Wheels Of Fire	LIKE	4:21	89z56OFLaqU	MPREb_YGfXoHVdCwJ	UC_oKib7DXJ7JE5erWrFUbEQ
+28	White Room	Cream	Wheels Of Fire	LIKE	4:59	V5BF1V1pbTs	MPREb_YGfXoHVdCwJ	UC_oKib7DXJ7JE5erWrFUbEQ
+29	Crossroads	Cream	Wheels Of Fire	LIKE	4:19	rIgX4e2Z9Qk	MPREb_YGfXoHVdCwJ	UC_oKib7DXJ7JE5erWrFUbEQ
+30	Pressed Rat And Warthog	Cream	Wheels Of Fire	LIKE	3:14	7YrNgwRqfy8	MPREb_YGfXoHVdCwJ	UC_oKib7DXJ7JE5erWrFUbEQ
+31	The Sound of Silence (Acoustic Version)	Simon & Garfunkel	Wednesday Morning, 3 A.M.	LIKE	3:05	-eqJGVl0Pr0	MPREb_DVz1MKPfMQl	UCOovQ5kcvRFGh4ix6Q1SsKA
+32	Sparrow	Simon & Garfunkel	Wednesday Morning, 3 A.M.	LIKE	2:47	MSEr2sjsuYk	MPREb_DVz1MKPfMQl	UCOovQ5kcvRFGh4ix6Q1SsKA
+33	Concentration Moon	The Mothers Of Invention	We're Only In It For The Money	LIKE	2:23	b-17PvW30eQ	MPREb_T7i6Plx1ipI	UCo8OHSefy7bRjqzoEj2frXA
+34	Absolutely Free	The Mothers Of Invention	We're Only In It For The Money	LIKE	3:25	j8NJcd0cft0	MPREb_ZL1BUSDmHcD	UCo8OHSefy7bRjqzoEj2frXA
+35	Who Needs The Peace Corps?	The Mothers Of Invention	We're Only In It For The Money	LIKE	2:35	8LaZmyqCKUs	MPREb_T7i6Plx1ipI	UCo8OHSefy7bRjqzoEj2frXA
+36	My Foolish Heart (Live)	Bill Evans Trio	Waltz For Debby	LIKE	4:55	Nwlsiuj8xgs	MPREb_ApUKbAh9IQp	UCriB97bZopXsBHVYOQEIIZg
+37	Waltz For Debby (Live / Take 1)	Bill Evans Trio	Waltz For Debby	LIKE	6:51	tHoAFD0IZ0I	MPREb_ApUKbAh9IQp	UCriB97bZopXsBHVYOQEIIZg
+38	Some Other Time (Live)	Bill Evans Trio	Waltz For Debby	LIKE	5:00	cmw7byMafR0	MPREb_ApUKbAh9IQp	UCriB97bZopXsBHVYOQEIIZg
+39	Love Street	The Doors	Waiting For The Sun	LIKE	2:50	V6XSijqFA-g	MPREb_TR5J1MHw64L	UCdx4iSJpg33jNmd9auQT04Q
+40	Five to One	The Doors	Waiting For The Sun	LIKE	4:25	oOzpncIHCLs	MPREb_TR5J1MHw64L	UCdx4iSJpg33jNmd9auQT04Q
+41	Yes, the River Knows	The Doors	Waiting For The Sun	LIKE	2:35	VFCCvaghUnU	MPREb_TR5J1MHw64L	UCdx4iSJpg33jNmd9auQT04Q
+42	Hello, I Love You	The Doors	Waiting For The Sun	LIKE	2:14	MY0xkq8J59c	MPREb_TR5J1MHw64L	UCdx4iSJpg33jNmd9auQT04Q
+43	Summer's Almost Gone	The Doors	Waiting For The Sun	LIKE	3:20	aRGm2JrsXAg	MPREb_TR5J1MHw64L	UCdx4iSJpg33jNmd9auQT04Q
+44	Wintertime Love	The Doors	Waiting For The Sun	LIKE	1:53	pqpUwR84Nmg	MPREb_TR5J1MHw64L	UCdx4iSJpg33jNmd9auQT04Q
+45	The Narrow Way, Pt. 3	Pink Floyd	Ummagumma	LIKE	5:58	RpmJCKOvIVk	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+46	The Grand Vizier's Garden Party, Pt. 2 (Entertainment)	Pink Floyd	Ummagumma	LIKE	7:06	yYeuE79_odU	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+47	The Grand Vizier's Garden Party, Pt. 3 (Exit)	Pink Floyd	Ummagumma	LIKE	0:42	-GEVsvVLCrE	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+48	The Narrow Way, Pt. 1	Pink Floyd	Ummagumma	LIKE	3:29	uk9v1QekW8w	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+49	Grantchester Meadows	Pink Floyd	Ummagumma	LIKE	7:28	NyBh2GAL0bE	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+50	Sysyphus, Pt. 4	Pink Floyd	Ummagumma	LIKE	7:00	uFrZ5Uo8FPw	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+51	Sysyphus, Pt. 3	Pink Floyd	Ummagumma	LIKE	1:50	yis79jySb6E	MPREb_EdmHt7TYeGI	UCO6LS_5W7vqG9mALDNzSFug
+52	It's A Boy	The Who	Tommy	LIKE	0:39	QiowaIrevRI	MPREb_yhvBXAZZXp5	UCpxn_sVrLQWNGFK1eulpYgw
+53	Pinball Wizard	The Who	Tommy	LIKE	3:01	461bbLbiUZY	MPREb_yhvBXAZZXp5	UCpxn_sVrLQWNGFK1eulpYgw
+54	The Lantern	The Rolling Stones	Their Satanic Majesties Request	LIKE	4:23	9dRyCruH3d4	MPREb_nUkTfsNfbcT	UCNYhhkQqeFLUc-YEDcLpSYQ
+55	In Another Land	The Rolling Stones	Their Satanic Majesties Request	LIKE	3:14	fMoJXybE40k	MPREb_nUkTfsNfbcT	UCNYhhkQqeFLUc-YEDcLpSYQ
+56	2000 Man	The Rolling Stones	Their Satanic Majesties Request	LIKE	3:08	_OnA5yXk1JE	MPREb_nUkTfsNfbcT	UCNYhhkQqeFLUc-YEDcLpSYQ
+57	2000 Light Years From Home	The Rolling Stones	Their Satanic Majesties Request	LIKE	4:46	ZgIvkW5sqMc	MPREb_nUkTfsNfbcT	UCNYhhkQqeFLUc-YEDcLpSYQ
+58	Girl's Eyes	The Who	The Who Sell Out	LIKE	3:51	cFYDgkWtq2M	MPREb_CEGZZYeSgMo	UCpxn_sVrLQWNGFK1eulpYgw
+59	The Black Angel's Death Song	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	3:13	csuYzuVIChI	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+60	There She Goes Again	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	2:42	ucuGQ-yNr5g	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+61	Sunday Morning	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	2:56	eCd7iUaE5F0	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+62	Venus In Furs	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	5:13	GiobySgFP2s	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+63	Femme Fatale	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	2:40	wC_0W7f4gl4	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+64	Heroin	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	7:14	2f_Md22IIj0	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+65	European Son	The Velvet Underground & Nico	The Velvet Underground & Nico [Deluxe Edition]	LIKE	7:48	ZohTJlq0H0g	MPREb_6ieKPEzGz1N	UCXNWrugB_J3sRBYR9idQWzg
+66	I'm Waiting For The Man	The Velvet Underground	The Velvet Underground & Nico	LIKE	4:40	99og_g7rXnA	MPREb_xUQzHavBxlt	UCXNWrugB_J3sRBYR9idQWzg
+67	Come Back Baby	John Fahey	The Transfiguration Of Blind Joe Death	LIKE	2:20	6OZg99aeaJg	MPREb_yqFKxcG5B33	UC84nV7P2Ptlv7GKB-wQOBnA
+68	The Times They Are A-Changin'	Bob Dylan	The Times They Are A-Changin'	LIKE	3:13	9ywYohqoM60	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+69	North Country Blues	Bob Dylan	The Times They Are A-Changin'	LIKE	4:32	ksGKwYyUlUw	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+70	Only a Pawn in Their Game	Bob Dylan	The Times They Are A-Changin'	LIKE	3:30	aXXU8utWqko	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+71	When the Ship Comes In	Bob Dylan	The Times They Are A-Changin'	LIKE	3:15	c7KKFejS58s	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+72	The Lonesome Death of Hattie Carroll	Bob Dylan	The Times They Are A-Changin'	LIKE	5:46	-a4Qhrzq6yo	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+73	Just One More Day	Otis Redding	The Soul Album	LIKE	3:31	99SVBhUpcpM	MPREb_ftnljmaEe7k	UCqgDLm2XV81s2IdoF4Skgbg
+74	You're Gonna Miss Me (Stereo LP Version)	13th Floor Elevators	The Psychedelic Sounds Of The 13th Floor Elevators	LIKE	2:28	8BFTr4YY3Eo	MPREb_O3RQ39zseFi	UCAwuokMGAQsp1gy2GmXT2AA
+75	Reverberation - Doubt	13th Floor Elevators	The Psychedelic Sounds Of The 13th Floor Elevators	LIKE	2:48	9C0VqnLvtJM	MPREb_O3RQ39zseFi	UCAwuokMGAQsp1gy2GmXT2AA
+76	Splash 1 (Stereo LP Version)	13th Floor Elevators	The Psychedelic Sounds Of The 13th Floor Elevators	LIKE	3:54	Odm5xwz2xEs	MPREb_O3RQ39zseFi	UCAwuokMGAQsp1gy2GmXT2AA
+77	Roller Coaster (Stereo LP Version)	13th Floor Elevators	The Psychedelic Sounds Of The 13th Floor Elevators	LIKE	5:06	MU33gsdjHgo	MPREb_O3RQ39zseFi	UCAwuokMGAQsp1gy2GmXT2AA
+78	Astronomy Domine	Pink Floyd	The Piper at the Gates of Dawn	LIKE	4:12	EOta1fulN1Y	MPREb_U3U2Ezk2k5i	UCO6LS_5W7vqG9mALDNzSFug
+79	Here Comes the Meter Man	The Meters	The Meters	LIKE	2:55	jEA4FiYZWaM	MPREb_0HOBn6R3g6c	UCwye34yhtCbWGQsrFS4oMNw
+80	Cissy Strut	The Meters	Funk	INDIFFERENT	3:06	3Ok4L7hg_Nk	MPREb_lPcZu9NFB3q	UC-avhp8M8mQEklxxh3AGhQw
+81	Stormy	The Meters	The Meters	LIKE	3:40	S-uAWYOy0YI	MPREb_0HOBn6R3g6c	UCwye34yhtCbWGQsrFS4oMNw
+82	Sitting By the Riverside (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:27	YEgypC2aB3s	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+83	Village Green (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:12	g8zDDCMENQw	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+84	Do You Remember Walter? (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:30	qjYtnKrK-8A	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+85	Picture Book (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:40	p1d55vkJKzo	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+86	Big Sky (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:53	OykDgQ6MNCs	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+87	Starstruck (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:25	DCcItzpiMBA	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+88	The Village Green Preservation Society (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:52	xUsZGtcUWqM	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+89	All of My Friends Were There (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:29	M5bpq59onV8	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+90	Phenomenal Cat (2018 Stereo Remaster)	The Kinks	The Kinks Are The Village Green Preservation Society (2018 Stereo Remaster)	LIKE	2:42	0BsNf8XknYs	MPREb_wESxwGTVce7	UCsQHS0_Fw1vIXm3TEbPokvA
+91	The Golden Road	Grateful Dead	The Grateful Dead	LIKE	2:13	7jIVt-0L_3Y	MPREb_fU31CyD95oi	UC9dWluHyEwvIj5NNs7KkJ0A
+92	Feelin' Sad	Ray Charles	The Genius Sings the Blues	LIKE	2:50	UPYrbyEIIQM	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+93	Early in the Morning	Ray Charles	The Genius Sings the Blues	LIKE	2:47	_ZkehFKTMa4	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+94	Hard Times (No One Knows Better Than I)	Ray Charles	The Genius Sings the Blues	LIKE	2:55	tN96yGezSgg	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+95	The Midnight Hour	Ray Charles	The Genius Sings the Blues	LIKE	3:02	d9QRWtSCzjw	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+96	The Right Time	Ray Charles	The Genius Sings the Blues	LIKE	3:24	7eHTDfqavQg	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+97	Some Day Baby	Ray Charles	The Genius Sings the Blues	LIKE	3:00	UONqsqGFiVU	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+98	Ray's Blues	Ray Charles	The Genius Sings the Blues	LIKE	2:54	qpB33AHHseg	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+99	Mr. Charles' Blues	Ray Charles	The Genius Sings the Blues	LIKE	2:47	I-rPUwTORwA	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+100	I Wonder Who	Ray Charles	The Genius Sings the Blues	LIKE	2:46	HqPcOQ-BuUw	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+101	Nobody Cares	Ray Charles	The Genius Sings the Blues	LIKE	2:40	Ro_GoCGzzm0	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+102	I Believe to My Soul	Ray Charles	The Genius Sings the Blues	LIKE	3:01	p4-ZX01eIJ0	MPREb_DofGOThME4F	UClapQBGYNOoLYmCct6e3B5Q
+103	Masters of War	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	4:32	xMxm8lRm4Cc	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+104	Don't Think Twice, It's All Right	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	3:38	Kv7K9ghgcgA	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+105	Blowin' in the Wind	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	2:46	KJBbX0jzM2c	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+106	Oxford Town	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	1:48	dwD2NaPWC9g	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+107	Bob Dylan's Blues	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	2:21	CSv5OqoXRhI	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+108	A Hard Rain's A-Gonna Fall	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	6:53	MGeP2GDlGyo	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+109	I Shall Be Free	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	4:48	5nbG52D_SGs	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+110	You Gonna Need My Help	Muddy Waters	The Folk Singer	LIKE	3:14	2aT_mnDPgDo	MPREb_18UeZIuk6ea	UCZ5YpKcmxGptLgRRW8ujxHA
+111	Long Distance	Muddy Waters	The Folk Singer	LIKE	3:34	zgA9_AyhZ_c	MPREb_18UeZIuk6ea	UCZ5YpKcmxGptLgRRW8ujxHA
+112	My Home Is In The Delta	Muddy Waters	The Folk Singer	LIKE	4:02	Y_TJoSf6_z0	MPREb_18UeZIuk6ea	UCZ5YpKcmxGptLgRRW8ujxHA
+113	You Can't Lose What You Ain't Never Had	Muddy Waters	The Folk Singer	LIKE	3:00	VcjowO17SyA	MPREb_18UeZIuk6ea	UCZ5YpKcmxGptLgRRW8ujxHA
+114	It's So Heartbreakin'	Aretha Franklin	The Electrifying Aretha Franklin	LIKE	2:39	eyGVp-_6Sv4	MPREb_PVd1q9ygvtP	UCW02f_MjH8n1uMZhSds4mQQ
+115	Blue Holiday	Aretha Franklin	The Electrifying Aretha Franklin	LIKE	2:52	mF9EJ58l5XU	MPREb_PVd1q9ygvtP	UCW02f_MjH8n1uMZhSds4mQQ
+116	Operation Heartbreak	Aretha Franklin	The Electrifying Aretha Franklin	LIKE	2:59	N_SFYFMFKoc	MPREb_PVd1q9ygvtP	UCW02f_MjH8n1uMZhSds4mQQ
+117	End of the Night	The Doors	The Doors	LIKE	2:51	sO6ouK39mf8	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+118	Back Door Man	The Doors	The Doors	LIKE	3:33	WTwNzhLvRGs	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+119	Light My Fire	The Doors	The Doors	LIKE	7:06	jKU74Uns9_0	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+120	Alabama Song (Whisky Bar)	The Doors	The Doors	LIKE	3:18	nbtEkZIvMAg	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+121	Twentieth Century Fox	The Doors	The Doors	LIKE	2:32	p1IEQr2bOns	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+122	Break On Through (To The Other Side)	The Doors	The Doors	LIKE	2:28	NFeUko-lQHg	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+123	Steel Guitar Rag (Bonus Track)	John Fahey	The Dance Of Death & Other Plantation Favorites	LIKE	2:11	B-MWFzKE818	MPREb_b7ZmSZolspV	UC84nV7P2Ptlv7GKB-wQOBnA
+124	Stolen Moments	Oliver Nelson	The Blues and the Abstract Truth	LIKE	8:46	cszIgQsPff4	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
+125	Cascades	Oliver Nelson	The Blues and the Abstract Truth	LIKE	5:32	qWpGO341XSQ	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
+126	Yearnin'	Oliver Nelson	The Blues and the Abstract Truth	LIKE	6:24	RJUq0IlPbyI	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
+127	Track B- Duete Solo Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	6:46	f9FzSSGTufQ	MPREb_k0emTDEsIH3	UCXSaOCck3oVxhB4W_4Ca3MQ
+128	Track C-Group Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	7:23	vv3DnIvCifI	MPREb_k0emTDEsIH3	UCXSaOCck3oVxhB4W_4Ca3MQ
+129	While My Guitar Gently Weeps (Remastered 2009)	The Beatles	The Beatles	LIKE	4:45	bI8P6ZSHSvE	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+130	Happiness Is A Warm Gun (Remastered 2009)	The Beatles	The Beatles	LIKE	2:45	vdvnOH060Qg	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+131	Martha My Dear (Remastered 2009)	The Beatles	The Beatles	LIKE	2:29	RXawa90YU2s	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+132	Blackbird (Remastered 2009)	The Beatles	The Beatles	LIKE	2:19	Man4Xw8Xypo	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+133	Piggies (Remastered 2009)	The Beatles	The Beatles	LIKE	2:05	RhY1x8CpWeI	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+134	Rocky Raccoon (Remastered 2009)	The Beatles	The Beatles	LIKE	3:34	sDcDCZGcZj8	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+135	Don't Pass Me By (Remastered 2009)	The Beatles	The Beatles	LIKE	3:51	PTKEiQHHsuk	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+136	Why Don't We Do It In The Road? (Remastered 2009)	The Beatles	The Beatles	LIKE	1:42	p4E6KtQg_z0	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+137	I Will (Remastered 2009)	The Beatles	The Beatles	LIKE	1:46	p-abNGP1BK4	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+138	Julia (Remastered 2009)	The Beatles	The Beatles	LIKE	2:57	TZip_br_v3w	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+139	I'm So Tired (Remastered 2009)	The Beatles	The Beatles	LIKE	2:04	7cqHtGb9WYM	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+140	Mother Nature's Son (Remastered 2009)	The Beatles	The Beatles	LIKE	2:49	TMMiXjwhODU	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+141	Yer Blues (Remastered 2009)	The Beatles	The Beatles	LIKE	4:01	HEQQ-1rd4A0	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+142	Everybody's Got Something To Hide Except Me And My Monkey (Remastered 2009)	The Beatles	The Beatles	LIKE	2:25	eyV3zCq1OHM	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+143	Sexy Sadie (Remastered 2009)	The Beatles	The Beatles	LIKE	3:16	tSk5U4oHhu0	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+144	Back In The U.S.S.R. (Remastered 2009)	The Beatles	The Beatles	LIKE	2:44	0ArlUSVDQIw	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+145	Revolution 1 (Remastered 2009)	The Beatles	The Beatles	LIKE	4:16	OmsXsIv2Ppw	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+146	Cry Baby Cry (Remastered 2009)	The Beatles	The Beatles	LIKE	3:03	8Zeyej5bfZE	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+147	Dear Prudence (Remastered 2009)	The Beatles	The Beatles	LIKE	3:56	wQA59IkCF5I	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+148	Glass Onion (Remastered 2009)	The Beatles	The Beatles	LIKE	2:18	2tSIZLuCKUI	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+149	Long, Long, Long (Remastered 2009)	The Beatles	The Beatles	LIKE	3:07	e9vUCdfwlgw	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
+150	I'm So Young	The Beach Boys	The Beach Boys Today!	LIKE	2:33	kvqE7nvhG-k	MPREb_YonB4YXg7Oq	UCrnD8aXhy4oQMS0ITw471tA
+151	Kiss Me, Baby	The Beach Boys	The Beach Boys Today!	LIKE	2:38	JEQMMRU9Kq8	MPREb_YonB4YXg7Oq	UCrnD8aXhy4oQMS0ITw471tA
+152	She Knows Me Too Well	The Beach Boys	The Beach Boys Today!	LIKE	2:31	nxtp7pl8ijs	MPREb_YonB4YXg7Oq	UCrnD8aXhy4oQMS0ITw471tA
+153	Talkin' Bout You	The Animals	The Animals	LIKE	1:56	HG5sdXngTzo	MPREb_vqyupltNGMR	UCcFlzgDVSL9dMUo66cEyWJQ
+154	I've Been Around	The Animals	The Animals	LIKE	1:40	4buHm_8lbLg	MPREb_vqyupltNGMR	UCcFlzgDVSL9dMUo66cEyWJQ
+155	House Of The Rising Sun	The Animals	The Animals	LIKE	4:32	MJkr0DWbhTk	MPREb_vqyupltNGMR	UCcFlzgDVSL9dMUo66cEyWJQ
+156	Blue Feeling	The Animals	The Animals	LIKE	2:35	rZPxyzJ7I2c	MPREb_vqyupltNGMR	UCcFlzgDVSL9dMUo66cEyWJQ
+157	Baby Let Me Take You Home	The Animals	The Animals	LIKE	2:22	O3rghxJModI	MPREb_vqyupltNGMR	UCcFlzgDVSL9dMUo66cEyWJQ
+158	She Has Funny Cars	Jefferson Airplane	Surrealistic Pillow	LIKE	3:09	p7knZICgLko	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+159	Somebody to Love	Jefferson Airplane	Surrealistic Pillow	LIKE	2:55	RD4TFzkY5F0	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+160	Comin' Back to Me	Jefferson Airplane	Surrealistic Pillow	LIKE	5:16	U0RfUl-M-1E	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+161	Embryonic Journey	Jefferson Airplane	Surrealistic Pillow	LIKE	1:53	VPaTOBwx1Pc	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+162	White Rabbit	Jefferson Airplane	Surrealistic Pillow	LIKE	2:31	5aeWicwy7fA	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+163	Come Back Baby	Jefferson Airplane	Surrealistic Pillow	LIKE	2:56	O0uGlwG2jaU	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+164	Somebody To Love (Mono Single Version)	Jefferson Airplane	Surrealistic Pillow	LIKE	2:59	SrGSt5eDt9o	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+165	White Rabbit (Mono Single Version)	Jefferson Airplane	Surrealistic Pillow	LIKE	5:21	tUXxSIUYyYQ	MPREb_uzoM1fRAMTd	UCGRlR1uXGOTqvEy0b06L7jw
+166	Cuckoo Clock (Mono/Remastered 2001)	The Beach Boys	Surfin' Safari	LIKE	2:11	egnw6kKrZ-w	MPREb_E6b4mZhC9O5	UCrnD8aXhy4oQMS0ITw471tA
+167	409	The Beach Boys	Surfin' Safari	LIKE	2:01	4jrJs4PO1NU	MPREb_E6b4mZhC9O5	UCrnD8aXhy4oQMS0ITw471tA
+168	Little Girl (You're My Miss America) (Mono/Remastered 2001)	The Beach Boys	Surfin' Safari	LIKE	2:07	v2gLDoVsfbw	MPREb_E6b4mZhC9O5	UCrnD8aXhy4oQMS0ITw471tA
+169	Surfin'	The Beach Boys	Surfin' Safari	LIKE	2:13	vhin9nxKoNM	MPREb_E6b4mZhC9O5	UCrnD8aXhy4oQMS0ITw471tA
+170	Surf Beat	Dick Dale & His Del-Tones	Surfer's Choice	LIKE	3:00	p3NuFGQsKGY	MPREb_T3pAYznrfZE	UCsIBLw01R85QwRft8D_ONgQ
+171	A Run for Life	Dick Dale & His Del-Tones	Surfer's Choice	LIKE	2:08	ulGVQO0Hw9E	MPREb_T3pAYznrfZE	UCsIBLw01R85QwRft8D_ONgQ
+172	Miserlou	Dick Dale & His Del-Tones	Surfer's Choice	LIKE	2:17	MXB6T55oytE	MPREb_T3pAYznrfZE	UCsIBLw01R85QwRft8D_ONgQ
+173	Miserlou Twist	Dick Dale & His Del-Tones	Surfer's Choice	LIKE	4:07	1al8S19tNTc	MPREb_T3pAYznrfZE	UCsIBLw01R85QwRft8D_ONgQ
+174	Gloria's Step (Live At The Village Vanguard, 1961 / Take 2)	Bill Evans Trio	Sunday At The Village Vanguard	LIKE	6:10	bee01X6Es3I	MPREb_k6K1E9HD83C	UCriB97bZopXsBHVYOQEIIZg
+175	You're Lost Little Girl	The Doors	Strange Days	LIKE	3:01	ZuWqrBaq9xE	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+176	I Can't See Your Face in My Mind	The Doors	Strange Days	LIKE	3:24	KElzMBKBGZo	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+177	People Are Strange	The Doors	Strange Days	LIKE	2:11	-NyC6mrutj0	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+178	When the Music's Over	The Doors	Strange Days	LIKE	11:00	nOJSmXSFCWk	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+179	Unhappy Girl	The Doors	Strange Days	LIKE	1:58	6BFDRY2Ijdk	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+180	Love Me Two Times	The Doors	Strange Days	LIKE	3:16	AVez4RS7IJw	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+181	Strange Days	The Doors	Strange Days	LIKE	3:07	tHOK87ozcho	MPREb_mYiGmNGg7sp	UCdx4iSJpg33jNmd9auQT04Q
+182	Somebody's Watching You	Sly & The Family Stone	Stand	LIKE	3:21	eyCuIBDjehg	MPREb_xEbZegZ9wLB	UCgwJnBJfprQYGX3OPQrTvqw
+183	Sing a Simple Song (Single Version)	Sly & The Family Stone	Stand	LIKE	3:56	_jwVnvkZh4Y	MPREb_xEbZegZ9wLB	UCgwJnBJfprQYGX3OPQrTvqw
+184	Sex Machine	Sly & The Family Stone	Stand	LIKE	13:47	ex3NJqRgNho	MPREb_xEbZegZ9wLB	UCgwJnBJfprQYGX3OPQrTvqw
+185	Kathy's Song	Simon & Garfunkel	Sounds Of Silence	LIKE	3:18	ylCGvOUL938	MPREb_K0Dm5mD5u1U	UCOovQ5kcvRFGh4ix6Q1SsKA
+186	The Sound of Silence (Electric Version)	Simon & Garfunkel	Sounds Of Silence	LIKE	3:06	bjkPQYWNTlg	MPREb_K0Dm5mD5u1U	UCOovQ5kcvRFGh4ix6Q1SsKA
+187	Leaves That Are Green	Simon & Garfunkel	Sounds Of Silence	LIKE	2:22	OTlpdCPrx14	MPREb_K0Dm5mD5u1U	UCOovQ5kcvRFGh4ix6Q1SsKA
+188	I Am a Rock	Simon & Garfunkel	Sounds Of Silence	LIKE	2:50	O4psVQHsUq8	MPREb_K0Dm5mD5u1U	UCOovQ5kcvRFGh4ix6Q1SsKA
+189	Anji	Simon & Garfunkel	Sounds Of Silence	LIKE	2:14	1JxMHL9h-W0	MPREb_K0Dm5mD5u1U	UCOovQ5kcvRFGh4ix6Q1SsKA
+190	Suzanne	Leonard Cohen	Songs Of Leonard Cohen	LIKE	3:48	b1D3tOhXvxw	MPREb_PRmKZZf0r8Q	UCWVX22z2KlJCQ0XqtfHIH7w
+191	Stories of the Street	Leonard Cohen	Songs Of Leonard Cohen	LIKE	4:34	gkLkdOO1ZFc	MPREb_PRmKZZf0r8Q	UCWVX22z2KlJCQ0XqtfHIH7w
+192	One of Us Cannot Be Wrong	Leonard Cohen	Songs Of Leonard Cohen	LIKE	4:24	KWCnyQM0-x4	MPREb_PRmKZZf0r8Q	UCWVX22z2KlJCQ0XqtfHIH7w
+193	Hey, That's No Way to Say Goodbye	Leonard Cohen	Songs Of Leonard Cohen	LIKE	2:56	uwG3n6eyrIk	MPREb_PRmKZZf0r8Q	UCWVX22z2KlJCQ0XqtfHIH7w
+194	Lady Midnight	Leonard Cohen	Songs From A Room	LIKE	2:58	hOJFmGwv1Zk	MPREb_YHN0hNwSEfN	UCWVX22z2KlJCQ0XqtfHIH7w
+195	The Butcher	Leonard Cohen	Songs From A Room	LIKE	3:18	eRdhCxG_SGc	MPREb_YHN0hNwSEfN	UCWVX22z2KlJCQ0XqtfHIH7w
+196	Two Sisters	The Kinks	Something Else (Deluxe Edition)	LIKE	2:00	adwqkO0oZKw	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+197	Situation Vacant (Stereo Mix)	The Kinks	Something Else (Deluxe Edition)	LIKE	3:15	ujbeT5TW65o	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+198	Death of a Clown (Live At the BBC)	The Kinks	Something Else (Deluxe Edition)	LIKE	2:46	y8sE6enQu_A	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+199	Afternoon Tea (Mono Mix)	The Kinks	Something Else (Deluxe Edition)	LIKE	3:25	fDSfEFju4jQ	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+200	Act Nice and Gentle	The Kinks	Something Else (Deluxe Edition)	LIKE	2:38	YZF7JvbMslw	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+201	Waterloo Sunset (Mono Mix)	The Kinks	Something Else (Deluxe Edition)	LIKE	3:15	SJ1BuKUCIC8	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+202	End of the Season	The Kinks	Something Else (Deluxe Edition)	LIKE	2:57	IKDrSgkg4M4	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+203	Lazy Old Sun (Mono Mix)	The Kinks	Something Else (Deluxe Edition)	LIKE	2:48	p3GpG0h43sM	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+204	No Return (Stereo Mix)	The Kinks	Something Else (Deluxe Edition)	LIKE	2:00	4AUXJY6zbz0	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+205	Harry Rag (Live At the BBC)	The Kinks	Something Else (Deluxe Edition)	LIKE	2:27	eXx7UY1863I	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+206	Autumn Almanac (Live At the BBC)	The Kinks	Something Else (Deluxe Edition)	LIKE	3:06	WpRWZdCi-Fc	MPREb_f8Exd7ocRlw	UCsQHS0_Fw1vIXm3TEbPokvA
+207	Good Vibrations	The Beach Boys	Smiley Smile	LIKE	3:39	pOkSQH5Dlkk	MPREb_Dlsf3FJOm0J	UCrnD8aXhy4oQMS0ITw471tA
+208	Heroes And Villains	The Beach Boys	Smiley Smile	LIKE	3:39	4tN1jFFy_08	MPREb_Dlsf3FJOm0J	UCrnD8aXhy4oQMS0ITw471tA
+209	Wind Chimes (2001 Remaster)	The Beach Boys	Smiley Smile	LIKE	2:38	ususRR09u8A	MPREb_Dlsf3FJOm0J	UCrnD8aXhy4oQMS0ITw471tA
+210	Little Pad (2001 Remaster)	The Beach Boys	Smiley Smile	LIKE	2:33	jgRESp8aLO0	MPREb_Dlsf3FJOm0J	UCrnD8aXhy4oQMS0ITw471tA
+211	With A Little Help From My Friends (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	2:45	0C58ttB2-Qg	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+212	Fixing A Hole (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	2:37	UPBd8eHQqIw	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+213	Lucy In The Sky With Diamonds (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	3:29	naoknj1ebqI	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+214	Being For The Benefit Of Mr. Kite! (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	2:38	bJVWZy4QOy0	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+215	A Day In The Life (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	5:38	UYeV7jLBXvA	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+216	Sgt. Pepper's Lonely Hearts Club Band (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	2:03	VtXl8xAPAtA	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+217	Within You Without You (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	5:05	HsffxGyY4ck	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+218	Lovely Rita (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	2:43	ysDwR5SIR1Q	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
+219	Grown So Ugly	Captain Beefheart & His Magic Band	Safe As Milk	LIKE	2:27	p-0P8Bnd01I	MPREb_vhdbyPsyAPk	UCRlJs9KpXAXdQI36nkZRYTQ
+220	Where There's Woman	Captain Beefheart & His Magic Band	Safe As Milk	LIKE	2:08	WekKH1HvvHs	MPREb_vhdbyPsyAPk	UCRlJs9KpXAXdQI36nkZRYTQ
+221	I'm Glad	Captain Beefheart & His Magic Band	Safe As Milk	LIKE	3:30	M59puEnSvd8	MPREb_vhdbyPsyAPk	UCRlJs9KpXAXdQI36nkZRYTQ
+222	Plastic Factory	Captain Beefheart & His Magic Band	Safe As Milk	LIKE	3:07	vInuXvjj2Gc	MPREb_vhdbyPsyAPk	UCRlJs9KpXAXdQI36nkZRYTQ
+223	Nowhere Man (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:44	8scSwaKbE64	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+224	Norwegian Wood (This Bird Has Flown) (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:05	Y_V6y1ZCg_8	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+225	You Won't See Me (Remastered 2009)	The Beatles	Rubber Soul	LIKE	3:20	OsjTO0yZQjk	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+226	Drive My Car (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:29	kfSQkZuIx84	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+227	In My Life (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:27	YBcdt6DsLQA	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+228	I'm Looking Through You (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:27	gH6i9JAdJrQ	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+229	Girl (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:32	-8l3ntDR_lI	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+230	Michelle (Remastered 2009)	The Beatles	Rubber Soul	LIKE	2:43	WoBLi5eE-wY	MPREb_NPpc9jtWHdJ	UC2XdaAVUannpujzv32jcouQ
+231	Here, There And Everywhere (Remastered 2009)	The Beatles	Revolver	LIKE	2:25	xdcSFVXd3MU	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+232	Eleanor Rigby (Remastered 2009)	The Beatles	Revolver	LIKE	2:07	wbxTlxuECJA	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+233	I'm Only Sleeping (Remastered 2009)	The Beatles	Revolver	LIKE	3:01	BT5j9OQ7Sh0	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+234	Love You To (Remastered 2009)	The Beatles	Revolver	LIKE	3:00	s1X-q7MweIc	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+235	Yellow Submarine (Remastered 2009)	The Beatles	Revolver	LIKE	2:39	RhoprlMxteE	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+236	For No One (Remastered 2009)	The Beatles	Revolver	LIKE	2:00	ELlLIwhvknk	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+237	Tomorrow Never Knows (Remastered 2009)	The Beatles	Revolver	LIKE	3:00	pHNbHn3i9S4	MPREb_eHEOTy3DS94	UC2XdaAVUannpujzv32jcouQ
+238	Repent Walpurgis	Procol Harum	Procol Harum [2009 remaster]	LIKE	5:06	6UtdbIxzLRU	MPREb_4sTRddUQy6d	UCa9MClu1yI4u_Ci4daHYAIQ
+239	Conquistador	Procol Harum	Procol Harum [2009 remaster]	LIKE	2:39	C6RUvUM8LFk	MPREb_4sTRddUQy6d	UCa9MClu1yI4u_Ci4daHYAIQ
+240	Something Followed Me	Procol Harum	Procol Harum [2009 remaster]	LIKE	3:38	xsu1JMsbEz4	MPREb_4sTRddUQy6d	UCa9MClu1yI4u_Ci4daHYAIQ
+241	Baby It's You (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:41	AWUTlM6hz0g	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+242	A Taste Of Honey (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:04	MkQ1eOcl5ug	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+243	Anna (Go To Him) (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:58	b3zNKWyLfus	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+244	Chains (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:26	rJOhavaeJYk	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+245	Do You Want To Know A Secret (Remastered 2009)	The Beatles	Please Please Me	LIKE	1:58	uRQ7ecvU56k	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+246	Love Me Do (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:22	0pGOFX1D_jg	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+247	Please Please Me (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:01	czw8eqepir8	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+248	Twist And Shout (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:36	2RicaUqd9Hg	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+249	Ask Me Why (Remastered 2009)	The Beatles	Please Please Me	LIKE	2:27	2ttGjtfQ7EA	MPREb_EB1GQowDeAh	UC2XdaAVUannpujzv32jcouQ
+250	Life Is a Circus	Roger Bunn	Piece of Mind	LIKE	6:12	FyCN2nu3Suo	MPREb_U7nh8OijqQC	UC0JdWfqktyIw2C2B7_kkxXQ
+251	I'm Waiting For The Day	The Beach Boys	Pet Sounds (Mono)	LIKE	3:06	Bm-4EFW1Wy0	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+252	Wouldn't It Be Nice	The Beach Boys	Pet Sounds (Mono)	LIKE	2:26	sdojzBhtaO0	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+253	You Still Believe In Me (Mono / Remastered 2012)	The Beach Boys	Pet Sounds (Mono)	LIKE	2:32	43-fgENHnDg	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+254	That's Not Me	The Beach Boys	Pet Sounds (Mono)	LIKE	2:29	5Z7uKLl6PzM	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+255	Don't Talk (Put Your Head On My Shoulder)	The Beach Boys	Pet Sounds (Mono)	LIKE	2:54	aXf1TVn_dZs	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+256	Let's Go Away For Awhile	The Beach Boys	Pet Sounds (Mono)	LIKE	2:21	BiAIOV1wFyo	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+257	Pet Sounds	The Beach Boys	Pet Sounds (Mono)	LIKE	2:23	o_8h8-9T4ns	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+258	God Only Knows	The Beach Boys	Pet Sounds (Mono)	LIKE	2:52	419h7qS8yfk	MPREb_sfBrqa29uDk	UCrnD8aXhy4oQMS0ITw471tA
+259	Pain in My Heart	Otis Redding	Pain in My Heart	LIKE	2:24	T0w99HuHcK0	MPREb_WJqTaRSj5NY	UCqgDLm2XV81s2IdoF4Skgbg
+260	You Send Me	Otis Redding	Pain in My Heart	LIKE	3:16	5i1KucpyEeY	MPREb_WJqTaRSj5NY	UCqgDLm2XV81s2IdoF4Skgbg
+261	Something Is Worrying Me	Otis Redding	Pain in My Heart	LIKE	2:30	g2ughAT80R8	MPREb_WJqTaRSj5NY	UCqgDLm2XV81s2IdoF4Skgbg
+262	Stand by Me	Otis Redding	Pain in My Heart	LIKE	2:53	IatStctYBPw	MPREb_WJqTaRSj5NY	UCqgDLm2XV81s2IdoF4Skgbg
+263	Good Times (Remastered 2002)	The Rolling Stones	Out Of Our Heads	LIKE	1:59	CwmFrRO3c3A	MPREb_cGmepIa3yKG	UCNYhhkQqeFLUc-YEDcLpSYQ
+264	(I Can't Get No) Satisfaction (Mono Version)	The Rolling Stones	Out Of Our Heads	LIKE	3:43	eUpb-ALfUzc	MPREb_cGmepIa3yKG	UCNYhhkQqeFLUc-YEDcLpSYQ
+265	Play With Fire (Mono Version)	The Rolling Stones	Out Of Our Heads	LIKE	2:14	Tf-jtTMbWMk	MPREb_cGmepIa3yKG	UCNYhhkQqeFLUc-YEDcLpSYQ
+266	La Passerella Di Otto E Mezzo	Nino Rota	Otto e Mezzo (Original Motion Picture Soundtrack)	INDIFFERENT	2:26	maS3HJhCrvE	MPREb_DvnIVFIAAHf	UCTO1PEchntrQlVBW0NwkmoA
+267	My Girl	Otis Redding	Otis Blue: Otis Redding Sings Soul (Collector's Edition)	LIKE	2:56	tjDwzDyULvI	MPREb_gefNy13PnJ1	UCqgDLm2XV81s2IdoF4Skgbg
+268	Respect	Otis Redding	Otis Blue: Otis Redding Sings Soul (Collector's Edition)	LIKE	2:19	uUPqdPQhtUo	MPREb_gefNy13PnJ1	UCqgDLm2XV81s2IdoF4Skgbg
+269	Wonderful World	Otis Redding	Otis Blue: Otis Redding Sings Soul (Collector's Edition)	LIKE	3:31	BlUHR2XbIX8	MPREb_gefNy13PnJ1	UCqgDLm2XV81s2IdoF4Skgbg
+270	A Minha Menina	Os Mutantes	Os Mutantes	LIKE	4:45	XIbJylD_c84	MPREb_1pgLcqvFxOk	UCs2f3CbQaKctne90X5DUIkA
+271	Le Premier Bonheur Du Jour	Os Mutantes	Os Mutantes	LIKE	3:40	Jx9DqBABygo	MPREb_1pgLcqvFxOk	UCs2f3CbQaKctne90X5DUIkA
+272	Baby	Os Mutantes	Os Mutantes	LIKE	3:03	JNcDfm3PRBs	MPREb_1pgLcqvFxOk	UCs2f3CbQaKctne90X5DUIkA
+273	Senhor F	Os Mutantes	Os Mutantes	LIKE	2:36	IQ8GWF4SmHs	MPREb_1pgLcqvFxOk	UCs2f3CbQaKctne90X5DUIkA
+274	A Rose For Emily	The Zombies	Odessey And Oracle	LIKE	3:19	BlFSeYJzVNQ	MPREb_AGoz1cKRywv	UCweKPvb6MUhb8X4X0nbObBw
+275	Beechwood Park	The Zombies	Odessey And Oracle	LIKE	2:07	RC7jjGZ7S0U	MPREb_AGoz1cKRywv	UCweKPvb6MUhb8X4X0nbObBw
+276	I Want Her She Wants Me	The Zombies	Odessey And Oracle	LIKE	3:55	lhnPQI6P_T4	MPREb_AGoz1cKRywv	UCweKPvb6MUhb8X4X0nbObBw
+277	Time of the Season	The Zombies	Odessey And Oracle	LIKE	3:30	pfw20G0nU2o	MPREb_AGoz1cKRywv	UCweKPvb6MUhb8X4X0nbObBw
+278	Care Of Cell 44	The Zombies	Odessey And Oracle	LIKE	3:01	Sv3mRovN6qw	MPREb_AGoz1cKRywv	UCweKPvb6MUhb8X4X0nbObBw
+279	You Gotta Move	Sam Cooke	Night Beat	LIKE	2:38	sp9bCSGiTVk	MPREb_DnTcOhIZ05B	UCYW9vMurwIpx1l0bb8gyK7g
+280	I Lost Everything	Sam Cooke	Night Beat	LIKE	3:24	eUX-N1fB2tw	MPREb_DnTcOhIZ05B	UCYW9vMurwIpx1l0bb8gyK7g
+281	The Last Trip to Tulsa (2009 Remaster)	Neil Young	Neil Young (2009 Remaster)	LIKE	9:26	HNMjjsFlUas	MPREb_wbcFBswPWFm	UC6JhadLTf6g6f-ZdeEaAqBQ
+282	Here We Are in the Years (2009 Remaster)	Neil Young	Neil Young (2009 Remaster)	LIKE	3:17	2vSiSRWkluU	MPREb_wbcFBswPWFm	UC6JhadLTf6g6f-ZdeEaAqBQ
+283	The Loner (2009 Remaster)	Neil Young	Neil Young (2009 Remaster)	LIKE	3:52	rX5bDqk7Qmo	MPREb_wbcFBswPWFm	UC6JhadLTf6g6f-ZdeEaAqBQ
+284	Please, Please, Please (Stereo Version)	The Who	My Generation	LIKE	2:44	FB0JPnky3Ps	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+285	My Generation (Stereo Version)	The Who	My Generation	LIKE	3:19	MgJ9K7cPRKk	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+286	I Don't Mind (Stereo Version)	The Who	My Generation	LIKE	2:37	7gJsx2bWnlA	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+287	Circles (Stereo Version)	The Who	My Generation	LIKE	3:14	B5PyPnFYCl8	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+288	I Don't Mind (Full Length Stereo Version)	The Who	My Generation	LIKE	3:46	1Ul_1MJ8vAY	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+289	I Can't Explain (Stereo Version)	The Who	My Generation	LIKE	2:06	3UZ4ZTIG4ig	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+290	(Love Is Like A) Heat Wave (Stereo Version)	The Who	My Generation	LIKE	2:42	0I-FPi92uqs	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
+291	Summertime	John Coltrane	My Favorite Things	LIKE	11:37	0p7HhzzfgyE	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
+292	My Favorite Things	John Coltrane	My Favorite Things	LIKE	13:44	rqpriUFsMQQ	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
+293	But Not for Me	John Coltrane	My Favorite Things	LIKE	9:41	sG2BWWkX4EQ	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
+294	Everytime We Say Goodbye	John Coltrane	My Favorite Things	LIKE	5:45	4e1qcBbZlg8	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
+295	Green Is The Colour	Pink Floyd	More	LIKE	2:58	DySNnz5N9WA	MPREb_jSqUSP8fEjQ	UCO6LS_5W7vqG9mALDNzSFug
+296	Cirrus Minor	Pink Floyd	More	LIKE	5:18	GfPVM5dFlp8	MPREb_jSqUSP8fEjQ	UCO6LS_5W7vqG9mALDNzSFug
+297	You Doo Right	Can	Monster Movie	LIKE	20:28	QxX5ZORy95w	MPREb_XlCOjgMss0h	UC6jcXPWtn2rb2GftstqZdqA
+298	Mary, Mary So Contrary	Can	Monster Movie	LIKE	6:14	fBRtK9tNjOs	MPREb_XlCOjgMss0h	UC6jcXPWtn2rb2GftstqZdqA
+299	You Don't Know Me	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	3:17	hGA0HnBjnDs	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+300	Half As Much	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	3:26	Y-upu5TEaCg	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+301	I Love You So Much It Hurts	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	3:36	7fPKT9i-eD0	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+302	Worried Mind	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	2:56	Nto1EgkQnzg	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+303	It Makes No Difference Now	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	3:36	9AFOyLBRKs8	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+304	Careless Love	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	4:02	UY7tCauwgQE	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+305	Hey, Good Lookin'	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	2:13	g0G7ouYKjJw	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+306	No Letter Today	Ray Charles	Modern Sounds in Country and Western Music, Vols 1 & 2	LIKE	3:02	EN5sftlaCA0	MPREb_pTyUz46XD3r	UClapQBGYNOoLYmCct6e3B5Q
+307	Memories Of You	Charles Mingus	Mingus Plays Piano	LIKE	4:36	pDH8enmhAOI	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
+308	Myself When I Am Real	Charles Mingus	Mingus Plays Piano	LIKE	7:36	tk71dhCz7wM	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
+309	She's Just Miss Popular Hybrid	Charles Mingus	Mingus Plays Piano	LIKE	3:09	Hq9tGgP53VI	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
+310	Mellow Yellow	Donovan	Mellow Yellow	LIKE	3:48	NLjyUySZAc4	MPREb_e1LQbQq4XPz	UCWHFP-8DVayYpMtfSyRIh7g
+311	Young Girl Blues	Donovan	Mellow Yellow	LIKE	3:45	0eTnLkf39GE	MPREb_e1LQbQq4XPz	UCWHFP-8DVayYpMtfSyRIh7g
+312	Your Mother Should Know (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	2:29	tCXsFjzMKdc	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+313	Flying (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	2:16	Z1ONJQLdZrk	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+314	Strawberry Fields Forever (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	4:08	10LSq_J5ol4	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+315	Penny Lane (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	3:01	vfxQ1oDiEJM	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+316	Baby, You're A Rich Man (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	3:02	i5m-sgtwFck	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+317	Hello, Goodbye (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	3:29	ywZqBGHDTlA	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+318	All You Need Is Love (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	3:51	1A8sOOKianA	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+319	Blue Jay Way (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	3:56	ixmOAb6qzvY	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+320	I Am The Walrus (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	4:36	t1Jm5epJr10	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+321	The Fool On The Hill (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	3:00	wsRatIMUSu8	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
+322	How Blue Can You Get?	B.B. King	Live At The Regal	LIKE	3:36	5LSd1KO8a68	MPREb_a8pCeUpKqKT	UCqKrqzF3eX7R17m_MIMte4w
+323	Worry, Worry	B.B. King	Live At The Regal	LIKE	6:24	aZPpXhIOZnU	MPREb_a8pCeUpKqKT	UCqKrqzF3eX7R17m_MIMte4w
+324	Dark Star	Grateful Dead	Live / Dead	LIKE	23:19	zhL03mLfu2I	MPREb_0Us0kLOYZMM	UC9dWluHyEwvIj5NNs7KkJ0A
+325	Let It Bleed	The Rolling Stones	Let It Bleed	LIKE	5:28	DK9jyXD5yWA	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
+326	You Can't Always Get What You Want	The Rolling Stones	Let It Bleed	LIKE	7:29	jv9sDn_2XkI	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
+327	Love In Vain	The Rolling Stones	Let It Bleed	LIKE	4:20	q4x_oSD8ZZU	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
+328	Gimme Shelter	The Rolling Stones	Let It Bleed	LIKE	4:31	EJRdDhnTRoo	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
+329	You Shook Me (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	6:29	aywXuljytH0	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+330	Good Times Bad Times (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	2:47	lsZG7n7ries	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+331	Dazed and Confused (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	6:29	yO2n7QoyieM	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+332	Your Time Is Gonna Come (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	4:35	5cvEVivHVsU	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+333	Black Mountain Side (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	2:13	5Y2yoadwSQ0	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+334	I Can't Quit You Baby (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	4:43	0dA5Vfl1bbU	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+335	Babe I'm Gonna Leave You (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	6:43	UyOg0mt2R2k	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+336	Groovin'	Aretha Franklin	Lady Soul	LIKE	2:57	9uRnWNW9t9I	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
+337	People Get Ready	Aretha Franklin	Lady Soul	LIKE	3:44	NBRWMkULGYI	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
+338	Chain of Fools	Aretha Franklin	Lady Soul	LIKE	4:22	o0s5CP2kXsc	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
+339	Walkin' Blues	Robert Johnson	King Of The Delta Blues Singers	LIKE	2:30	BgXA-dEfnN8	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
+340	Come On In My Kitchen	Robert Johnson	King Of The Delta Blues Singers	LIKE	2:52	HVHT1Ylw9dI	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
+341	Ramblin' On My Mind	Robert Johnson	King Of The Delta Blues Singers	LIKE	2:52	VL4Oenmba7E	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
+342	Kind Hearted Woman Blues	Robert Johnson	King Of The Delta Blues Singers	LIKE	2:51	3IcotmtEqjY	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
+343	Cross Road Blues	Robert Johnson	King Of The Delta Blues Singers	LIKE	2:29	doZ-SAVJ8z0	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
+344	All Along the Watchtower	Bob Dylan	John Wesley Harding	LIKE	2:32	HyIlDPLDCP0	MPREb_cVHsPwz3LU9	UCBqkojCXby4zGkWX86FEY7Q
+345	I Pity the Poor Immigrant	Bob Dylan	John Wesley Harding	LIKE	4:14	U8sLQqW-bW0	MPREb_cVHsPwz3LU9	UCBqkojCXby4zGkWX86FEY7Q
+346	I Am a Lonesome Hobo	Bob Dylan	John Wesley Harding	LIKE	3:21	IfblPApLuL8	MPREb_cVHsPwz3LU9	UCBqkojCXby4zGkWX86FEY7Q
+347	Dear Landlord	Bob Dylan	John Wesley Harding	LIKE	3:15	6bOhJ9HlZAE	MPREb_cVHsPwz3LU9	UCBqkojCXby4zGkWX86FEY7Q
+348	Drifter's Escape	Bob Dylan	John Wesley Harding	LIKE	2:47	ho5Mrs1QsuU	MPREb_cVHsPwz3LU9	UCBqkojCXby4zGkWX86FEY7Q
+349	The Ballad of Frankie Lee and Judas Priest	Bob Dylan	John Wesley Harding	LIKE	5:33	Y7XyQ1jv_8Y	MPREb_cVHsPwz3LU9	UCBqkojCXby4zGkWX86FEY7Q
+350	You Are Too Beautiful	John Coltrane	John Coltrane And Johnny Hartman	LIKE	5:37	pv8APxAjpQw	MPREb_jWnCGQIPO4z	UCH4T2kv7rr9qnuP0DOXLxMA
+351	My One And Only Love	John Coltrane	John Coltrane And Johnny Hartman	LIKE	4:59	5swO2vPKxm4	MPREb_jWnCGQIPO4z	UCH4T2kv7rr9qnuP0DOXLxMA
+352	Lush Life	John Coltrane	John Coltrane And Johnny Hartman	LIKE	5:31	BVgiZ2rkV3E	MPREb_jWnCGQIPO4z	UCH4T2kv7rr9qnuP0DOXLxMA
+353	Dedicated To You	John Coltrane	John Coltrane And Johnny Hartman	LIKE	5:32	iRplag38XxM	MPREb_jWnCGQIPO4z	UCH4T2kv7rr9qnuP0DOXLxMA
+354	They Say It's Wonderful	John Coltrane	John Coltrane And Johnny Hartman	LIKE	5:21	5Xrj0uTBoIQ	MPREb_jWnCGQIPO4z	UCH4T2kv7rr9qnuP0DOXLxMA
+355	Search For Nirvana	Gabor Szabo	Jazz Raga	LIKE	2:07	boMKkjRwCy8	MPREb_CkyjTXsER1S	UCOR9UO5R0ISybK33CZhFqUw
+356	Raga Doll	Gabor Szabo	Jazz Raga	LIKE	3:43	-_hBvWTk-yc	MPREb_CkyjTXsER1S	UCOR9UO5R0ISybK33CZhFqUw
+357	Paint It Black	Gabor Szabo	Jazz Raga	LIKE	4:41	lH_Yc0-Qw9E	MPREb_CkyjTXsER1S	UCOR9UO5R0ISybK33CZhFqUw
+358	Caravan	Gabor Szabo	Jazz Raga	LIKE	3:00	nVtNgxvxTqI	MPREb_CkyjTXsER1S	UCOR9UO5R0ISybK33CZhFqUw
+359	Carolina In My Mind	James Taylor	James Taylor	LIKE	3:08	jwFMKM6hNGQ	MPREb_J1OtDz3yRA5	UCZJikx4babgeliqeRPnE9rA
+360	Milk and Honey (2001 Remaster)	Jackson C. Frank	Jackson C. Frank (2001 Remastered Version)	LIKE	3:37	l3PJPPffEk4	MPREb_ENKfM6TCGbr	UC_Mzy5_LC9E2U7safjYfowA
+361	Here Come the Blues (2001 Remaster)	Jackson C. Frank	Jackson C. Frank (2001 Remastered Version)	LIKE	4:01	kFlyDvC4DcQ	MPREb_ENKfM6TCGbr	UC_Mzy5_LC9E2U7safjYfowA
+362	Blues Run the Game (2001 Remaster)	Jackson C. Frank	Jackson C. Frank (2001 Remastered Version)	LIKE	3:31	GgB1UA176ak	MPREb_ENKfM6TCGbr	UC_Mzy5_LC9E2U7safjYfowA
+363	Inner Mystique	The Chocolate Watch Band	Inner Mystique	LIKE	5:36	wRZAECNgc6w	MPREb_EWRXHw8v5xe	UCYhfmRTgiCvu2kglQGtkKGw
+364	In The Past	The Chocolate Watch Band	Inner Mystique	LIKE	3:08	RKY0UXcOWGo	MPREb_EWRXHw8v5xe	UCYhfmRTgiCvu2kglQGtkKGw
+365	California Dreamin'	The Mamas And The Papas	If You Can Believe Your Eyes And Ears	LIKE	2:38	K59mWngm4jQ	MPREb_iHeJkwmJLlp	UCUifbmzuPtWDjyefmmIWzFA
+366	Good Times	Aretha Franklin	I Never Loved A Man The Way I Love You	LIKE	2:10	ryDlxlMPWXw	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
+367	Respect	Aretha Franklin	I Never Loved A Man The Way I Love You	LIKE	2:28	9iayJ8u4Qew	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
+368	That Was the President	Phil Ochs	I Ain't Marching Anymore	LIKE	3:24	H-Pd7azytEk	MPREb_M2IIP1sfiAi	UCTHgiquGC31PdI8czIPtdJg
+369	Goin' Down Slow	Howlin' Wolf	Howlin' Wolf	LIKE	3:28	6abAJgvMdBc	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+370	Spoonful	Howlin' Wolf	Howlin' Wolf	LIKE	2:50	4fjviTLYqoc	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+371	Little Baby	Howlin' Wolf	Howlin' Wolf	LIKE	2:49	GFbjx6Yqx3o	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+372	Wang Dang Doodle	Howlin' Wolf	Howlin' Wolf	LIKE	2:28	1bCtAhaQgqw	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+373	Who's Been Talking?	Howlin' Wolf	Howlin' Wolf	LIKE	2:27	fX0sgKmSZ34	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+374	Little Red Rooster	Howlin' Wolf	Howlin' Wolf	LIKE	2:30	M95tCfMxwiM	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+375	Shake For Me	Howlin' Wolf	Howlin' Wolf	LIKE	2:20	uhc_YxdtbXA	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
+376	Willie The Pimp	Frank Zappa	Hot Rats	LIKE	9:24	KHiclrHm-ig	MPREb_VcS4rAsEHS0	UCj5ZiBBqpe0Tg4zfKGHEFuQ
+377	It Must Be A Camel	Frank Zappa	Hot Rats	LIKE	5:18	4xg_elzHQz8	MPREb_VcS4rAsEHS0	UCj5ZiBBqpe0Tg4zfKGHEFuQ
+378	Walk On By	Isaac Hayes	Hot Buttered Soul	LIKE	12:00	5loAY27W5IY	MPREb_J1Hzi4LmxfW	UC8CgmVlKFWdFr3e3JH-QnVQ
+379	Ships on the Ocean	Junior Wells' Chicago Blues Band	Hoodoo Man Blues		4:08	zIAN5aTjjfM		
+380	Ballad of a Thin Man	Bob Dylan	Highway 61 Revisited	LIKE	5:57	yDC0b7rfK5U	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+381	Tombstone Blues	Bob Dylan	Highway 61 Revisited	LIKE	5:57	J6yWZUv9QJA	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+382	Like A Rolling Stone	Bob Dylan	Highway 61 Revisited	LIKE	6:10	syNLBJ_Lq9E	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+383	Desolation Row	Bob Dylan	Highway 61 Revisited	LIKE	11:22	AL1HUsJJCzU	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+384	Highway 61 Revisited	Bob Dylan	Highway 61 Revisited	LIKE	3:26	gXjAVqLhXuo	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+385	Queen Jane Approximately	Bob Dylan	Highway 61 Revisited	LIKE	5:28	sYxlugz28IQ	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+386	From a Buick 6	Bob Dylan	Highway 61 Revisited	LIKE	3:16	op7jAuZ4QXw	MPREb_0FQVSw7L7c7	UCBqkojCXby4zGkWX86FEY7Q
+387	Do You Love Me	The Sonics	Here Are The Sonics	LIKE	2:18	2PCTdsgDyFI	MPREb_CknrXtJEkFD	UCRj3ssXllXwutAfPI-mu4CA
+388	Money	The Sonics	Here Are The Sonics	LIKE	2:00	Sumq7cU5dlM	MPREb_CknrXtJEkFD	UCRj3ssXllXwutAfPI-mu4CA
+389	Stranger on the Shore	Booker T. & The MG's	Green Onions	LIKE	2:22	IkCbp33K4Iw	MPREb_5BDlO7gZqzY	UCArwMp9q2N-UvSXih_0ahTA
+390	Green Onions	Booker T. & The MG's	Green Onions	LIKE	2:56	Gc_3Xpo9Z_Y	MPREb_5BDlO7gZqzY	UCArwMp9q2N-UvSXih_0ahTA
+391	Viola Lee Blues	Grateful Dead	Grateful Dead	LIKE	10:10	5TVEU2C3XEA	MPREb_DNbr8q0pQRA	UC9dWluHyEwvIj5NNs7KkJ0A
+392	Cold Rain and Snow	Grateful Dead	Grateful Dead	LIKE	2:27	1LUZGVxuzuI	MPREb_DNbr8q0pQRA	UC9dWluHyEwvIj5NNs7KkJ0A
+393	The Good, The Bad And The Ugly (Main Title)	Ennio Morricone	Good, the Bad and the Ugly [Expanded]	LIKE	2:43	bBixD-rTB_c	MPREb_b238bXTO4H5	UC6wtBSpA_X6XXk0YIHJj4gw
+394	The Strong	Ennio Morricone	Good, the Bad and the Ugly [Expanded]	LIKE	2:23	6tTGc4qxGsI	MPREb_b238bXTO4H5	UC6wtBSpA_X6XXk0YIHJj4gw
+395	Desafinado (feat. Antonio Carlos Jobim)	Stan Getz	Getz / Gilberto	LIKE	4:16	UYoMKVOslhg	MPREb_JeO5xmhgmAo	UCITWDrIiWv0Y-zj8xrvoY-Q
+396	Corcovado (Quiet Nights Of Quiet Stars) (feat. Astrud Gilberto & Antonio Carlos Jobim)	Stan Getz	Getz / Gilberto	LIKE	4:17	Uh9e3V1oLYk	MPREb_JeO5xmhgmAo	UCITWDrIiWv0Y-zj8xrvoY-Q
+397	Dreaming	Cream	Fresh Cream	LIKE	1:59	N_SMfa96TM8	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+398	Spoonful	Cream	Fresh Cream	LIKE	6:31	JEl0ZhKm-lo	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+399	Four Until Late	Cream	Fresh Cream	LIKE	2:08	HCVPw9ILB_k	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+400	Sleepy Time Time	Cream	Fresh Cream	LIKE	4:21	wjpXld_pcig	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+401	I Feel Free	Cream	Fresh Cream	LIKE	2:52	prnbF8Eagdg	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+402	Sweet Wine	Cream	Fresh Cream	LIKE	3:18	ND5C7K3t7Ps	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+403	I'm So Glad	Cream	Fresh Cream	LIKE	3:58	_hSiqy9v9FM	MPREb_elVgxXh9re3	UC_oKib7DXJ7JE5erWrFUbEQ
+404	Anyway The Wind Blows	The Mothers Of Invention	Freak Out!	LIKE	2:56	mS_fAjXyaFI	MPREb_kPC3H2G06lO	UCj5ZiBBqpe0Tg4zfKGHEFuQ
+405	Go Cry On Somebody Else's Shoulder	The Mothers Of Invention	Freak Out!	LIKE	3:42	umZ_yQZEFlY	MPREb_kPC3H2G06lO	UCj5ZiBBqpe0Tg4zfKGHEFuQ
+406	Maybe the People Would Be the Times or Between Clark and Hilldale	Love	Forever Changes (2015 Remastered Version)	LIKE	3:35	hwnyoH5DpNE	MPREb_EgchpMsXaH7	UCEjBSuqvwI9a1p-7PA2YxBg
+407	The Good Humor Man He Sees Everything Like This	Love	Forever Changes (2015 Remastered Version)	LIKE	3:09	NXtWtf6Mmcw	MPREb_EgchpMsXaH7	UCEjBSuqvwI9a1p-7PA2YxBg
+408	Mother's Little Helper	The Rolling Stones	Flowers	LIKE	2:47	xedyZ0RMcy4	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+409	My Girl	The Rolling Stones	Flowers	LIKE	2:39	0YxVIi1yzX4	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+410	Out Of Time (Edit Version)	The Rolling Stones	Flowers	LIKE	3:42	qWtoYqT045E	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+411	Let's Spend The Night Together	The Rolling Stones	Flowers	LIKE	3:36	-003tyHPDd0	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+412	Lady Jane (Mono Version)	The Rolling Stones	Flowers	LIKE	3:08	4JgYATrm-Hg	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+413	Take It Or Leave It	The Rolling Stones	Flowers	LIKE	2:47	_aLzpKVMHmI	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+414	Ruby Tuesday	The Rolling Stones	Flowers	LIKE	3:17	ByZIE3eEEyE	MPREb_snzMep4rwEa	UCNYhhkQqeFLUc-YEDcLpSYQ
+415	Man In A Shed	Nick Drake	Five Leaves Left	LIKE	3:52	RPETztdS7Fk	MPREb_lhT6zoo6CGC	UCiryJZISyBldwm9ocAE-QfQ
+416	The Thoughts Of Mary Jane	Nick Drake	Five Leaves Left	LIKE	3:19	XpR_OdvyRNI	MPREb_lhT6zoo6CGC	UCiryJZISyBldwm9ocAE-QfQ
+417	Day Is Done	Nick Drake	Five Leaves Left	LIKE	2:27	9VNfZwvuyBA	MPREb_lhT6zoo6CGC	UCiryJZISyBldwm9ocAE-QfQ
+418	Time Has Told Me	Nick Drake	Five Leaves Left	LIKE	4:25	G8SmkwS82u4	MPREb_lhT6zoo6CGC	UCiryJZISyBldwm9ocAE-QfQ
+419	5D (Fifth Dimension)	The Byrds	Fifth Dimension	LIKE	2:33	dKAc9MRq28w	MPREb_GwTcCDdNoyU	UCWgHSjTVKbR3z-MKow8OydA
+420	Eight Miles High	The Byrds	Fifth Dimension	LIKE	3:34	Le42qL3h8dw	MPREb_GwTcCDdNoyU	UCWgHSjTVKbR3z-MKow8OydA
+421	Eight Miles High (Alternate/RCA Studios Version)	The Byrds	Fifth Dimension	LIKE	3:19	WI-RNel3CNQ	MPREb_GwTcCDdNoyU	UCWgHSjTVKbR3z-MKow8OydA
+422	Sunny Afternoon (Mono Mix)	The Kinks	Face to Face (Deluxe Edition)	LIKE	3:31	3YMXrO3RzdE	MPREb_gNrJdaRZM6h	UCsQHS0_Fw1vIXm3TEbPokvA
+423	Fancy (Mono Mix)	The Kinks	Face to Face (Deluxe Edition)	LIKE	2:30	fqHEslqS04Y	MPREb_gNrJdaRZM6h	UCsQHS0_Fw1vIXm3TEbPokvA
+424	Little Miss Queen of Darkness (Mono Mix)	The Kinks	Face to Face (Deluxe Edition)	LIKE	3:16	lg8l-ajrRLw	MPREb_gNrJdaRZM6h	UCsQHS0_Fw1vIXm3TEbPokvA
+425	Rosy Won't You Please Come Home (Mono Mix)	The Kinks	Face to Face (Deluxe Edition)	LIKE	2:32	SwtvHcQhu5Y	MPREb_gNrJdaRZM6h	UCsQHS0_Fw1vIXm3TEbPokvA
+426	Round & Round (It Won't Be Long) [2009 Remaster]	Neil Young with Crazy Horse	Everybody Knows This Is Nowhere	LIKE	5:54	dh5KHaNkIv0	MPREb_87Zm1C9KpdG	UC6JhadLTf6g6f-ZdeEaAqBQ
+427	Down by the River (2009 Remaster)	Neil Young with Crazy Horse	Everybody Knows This Is Nowhere	LIKE	9:18	KflCXmEX6BY	MPREb_87Zm1C9KpdG	UC6JhadLTf6g6f-ZdeEaAqBQ
+428	Cinnamon Girl	Neil Young with Crazy Horse	Everybody Knows This Is Nowhere	LIKE	3:00	jREf47BPe5w	MPREb_87Zm1C9KpdG	UC6JhadLTf6g6f-ZdeEaAqBQ
+429	Everybody Knows This Is Nowhere (2009 Remaster)	Neil Young with Crazy Horse	Everybody Knows This Is Nowhere	LIKE	2:29	bsZjKQEN1tY	MPREb_87Zm1C9KpdG	UC6JhadLTf6g6f-ZdeEaAqBQ
+430	Cowgirl in the Sand (2009 Remaster)	Neil Young with Crazy Horse	Everybody Knows This Is Nowhere	LIKE	10:06	SNl13t9ZtmA	MPREb_87Zm1C9KpdG	UC6JhadLTf6g6f-ZdeEaAqBQ
+431	Section 43	Country Joe & The Fish	Electric Music For The Mind And Body	LIKE	7:27	cZVrTrWLsek	MPREb_n9TDOMxFuE6	UCZyKxTmG5RFF6vdhPJt5EWQ
+432	Death Sound	Country Joe & The Fish	Electric Music For The Mind And Body	LIKE	4:27	6cGk0kK9hZw	MPREb_n9TDOMxFuE6	UCZyKxTmG5RFF6vdhPJt5EWQ
+433	Porpoise Mouth	Country Joe & The Fish	Electric Music For The Mind And Body	LIKE	2:52	OhsgSw8E7ek	MPREb_n9TDOMxFuE6	UCZyKxTmG5RFF6vdhPJt5EWQ
+434	Bass Strings	Country Joe & The Fish	Electric Music For The Mind And Body	LIKE	5:04	P9uCG6wV0Ag	MPREb_n9TDOMxFuE6	UCZyKxTmG5RFF6vdhPJt5EWQ
+435	Grace	Country Joe & The Fish	Electric Music For The Mind And Body	LIKE	7:04	IG3WSugvRE0	MPREb_n9TDOMxFuE6	UCZyKxTmG5RFF6vdhPJt5EWQ
+436	Voodoo Child (Slight Return)	The Jimi Hendrix Experience	Experience Hendrix (The Best Of Jimi Hendrix)		5:13	8wjUWisTU7U		
+437	Rainy Day, Dream Away	Norm Peterson	The Element	LIKE	5:15	kI1iEnKk8a0	MPREb_bEo02ZTN2tD	UCuAPLUJNcHlH7bSCQJXtUDA
+438	All Along The Watchtower	Jimi Hendrix	Music Encyclopedia of Rock		4:02	KYOxxdvnRhA		
+439	Crosstown Traffic	The Jimi Hendrix Experience	Experience Hendrix (The Best Of Jimi Hendrix)		2:20	TygLIzdKpGs		
+440	Voodoo Chile	The Jimi Hendrix Experience	TOP 40 HITDOSSIER - 70s		15:00	aPmuzFJ0HSw		
+441	In A Sentimental Mood	John Coltrane	Duke Ellington & John Coltrane	LIKE	4:16	JiP7jKdAhD0	MPREb_vBEwvYKBmU8	UCH4T2kv7rr9qnuP0DOXLxMA
+442	Stevie	John Coltrane	Duke Ellington & John Coltrane	LIKE	4:23	fuxpwj-D4L8	MPREb_vBEwvYKBmU8	UCH4T2kv7rr9qnuP0DOXLxMA
+443	My Little Brown Book	John Coltrane	Duke Ellington & John Coltrane	LIKE	5:20	3Q18F--zZ-I	MPREb_vBEwvYKBmU8	UCH4T2kv7rr9qnuP0DOXLxMA
+444	Straight A's In Love	Johnny Cash	Down at Folsom Prison	LIKE	2:14	IQDA-uSTuTY	MPREb_SGg1oD4qQ4r	UCiGs21G3KeE2tpbbMPzn9Qg
+445	Folsom Prison Blues	Johnny Cash	Down at Folsom Prison	LIKE	2:46	z8ziPzCUOS8	MPREb_SGg1oD4qQ4r	UCiGs21G3KeE2tpbbMPzn9Qg
+446	I Love You Because	Johnny Cash	Down at Folsom Prison	LIKE	2:24	rRNd-viULQ8	MPREb_SGg1oD4qQ4r	UCiGs21G3KeE2tpbbMPzn9Qg
+447	Hurdy Gurdy Man (Single Version)	Donovan	Donovan's Greatest Hits	LIKE	3:20	4AZAQiOU60A	MPREb_c29rmnkXZ47	UCWHFP-8DVayYpMtfSyRIh7g
+448	Lalena (Single Version)	Donovan	Donovan's Greatest Hits	LIKE	2:56	JDSf8BbqGSQ	MPREb_c29rmnkXZ47	UCWHFP-8DVayYpMtfSyRIh7g
+449	Sunshine Superman	Donovan	Donovan's Greatest Hits	LIKE	4:32	5x8dnICHg2Q	MPREb_c29rmnkXZ47	UCWHFP-8DVayYpMtfSyRIh7g
+450	Wear Your Love Like Heaven (Single Version)	Donovan	Donovan's Greatest Hits	LIKE	2:26	jle9zuUlk1s	MPREb_c29rmnkXZ47	UCWHFP-8DVayYpMtfSyRIh7g
+451	Mellow Yellow	Donovan	Donovan's Greatest Hits	LIKE	3:41	jeUeMsQw8Fo	MPREb_c29rmnkXZ47	UCWHFP-8DVayYpMtfSyRIh7g
+452	Sunshine Of Your Love	Cream	Disraeli Gears (Deluxe Edition)	LIKE	4:11	y_u1eu6Lpds	MPREb_5h81Nq8u7Y9	UC_oKib7DXJ7JE5erWrFUbEQ
+453	World Of Pain	Cream	Disraeli Gears (Deluxe Edition)	LIKE	3:03	nU_Nd1Q_WQY	MPREb_5h81Nq8u7Y9	UC_oKib7DXJ7JE5erWrFUbEQ
+454	Stomping Tonight On The Pennsylvania /Alabama Border (Version 1)	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	6:59	fmNPuFSYNHg	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+455	Spanish Dance (Re-Recorded Version)	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	2:07	lnrk9uSCZjc	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+456	Sunflower River Blues (Re-Recorded Version)	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	3:21	tRyne6rjF1g	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+457	When The Springtime Comes Again	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	3:51	fAU-aGb6y00	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+458	Some Summer Day	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	3:22	9kxwESVWW9k	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+459	Dance Of The Inhabitants Of The Palace Of King Philip Of Spain	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	2:30	77IKlQF4FMc	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+460	Episcopal Hymn	John Fahey	Death Chants, Breakdowns And Military Waltzes	LIKE	1:10	Ao0jWJcqNQ8	MPREb_CPiBASlhJ56	UC84nV7P2Ptlv7GKB-wQOBnA
+461	Tuesday Afternoon (Alternate Mix)	The Moody Blues	Days Of Future Passed (Expanded Edition)	LIKE	4:20	XvpK67rNzzA	MPREb_2zwnmftIhpt	UC4HQKRyk4s13hiAnZBXxZWQ
+462	The Morning: Another Morning	The Moody Blues	Days Of Future Passed	LIKE	3:41	JLW4UbOVfjY	MPREb_qF1Jj30nsn4	UC4HQKRyk4s13hiAnZBXxZWQ
+463	Dawn: Dawn Is A Feeling	The Moody Blues	Days Of Future Passed	LIKE	3:48	l2vXJTeDJg8	MPREb_qF1Jj30nsn4	UC4HQKRyk4s13hiAnZBXxZWQ
+464	Lana	Roy Orbison	Crying	LIKE	2:17	hTkg5k-FIWs	MPREb_O6g3doghUYJ	UCjMI6Jhz6i608_B2pvYNrfg
+465	Suzie Q	Creedence Clearwater Revival	Creedence Clearwater Revival	LIKE	8:38	7x60p7UNLnQ	MPREb_D3f320YzQSn	UCRbMcMQeSFVvsyEuOn7uAKQ
+466	Gloomy	Creedence Clearwater Revival	Creedence Clearwater Revival	LIKE	3:49	oGS0W0D5jro	MPREb_D3f320YzQSn	UCRbMcMQeSFVvsyEuOn7uAKQ
+467	Walking On The Water	Creedence Clearwater Revival	Creedence Clearwater Revival	LIKE	4:39	A9AjQXb3-nY	MPREb_D3f320YzQSn	UCRbMcMQeSFVvsyEuOn7uAKQ
+468	I Put A Spell On You	Creedence Clearwater Revival	Creedence Clearwater Revival	LIKE	4:32	xyhKwNbPVWo	MPREb_D3f320YzQSn	UCRbMcMQeSFVvsyEuOn7uAKQ
+469	Does Anybody Really Know What Time It Is? (2002 Remaster)	Chicago	Chicago Transit Authority	LIKE	4:35	xoJpyYu_NMk	MPREb_jGO8o4S6tFF	UC8vVfqDySe2dz-wCNcy6jew
+470	Over the Rainbow	Chet Baker	Chet is Back	LIKE	3:29	qsnJzyHnq9w	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
+471	These Foolish Things	Chet Baker	Chet is Back	LIKE	4:56	Nz5cvyYJzGM	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
+472	Il Mio Domani	Chet Baker	Chet is Back	LIKE	5:18	s3IQpObPoAo	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
+473	Motivo Su Raggio Di Luna	Chet Baker	Chet is Back	LIKE	3:51	RmmzycCLbiY	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
+474	Chetty's Lullaby	Chet Baker	Chet is Back	LIKE	3:56	jQ05-8gPO-A	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
+475	Star Eyes	Chet Baker	Chet is Back	LIKE	6:57	eHi7d31CN-4	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
+476	Piece of My Heart	Big Brother & The Holding Company	Cheap Thrills	LIKE	4:14	ms1oXOtvfNY	MPREb_HKBTNxs7YyA	UC7_X7oXO73abqsd-mlzfMVQ
+477	Combination of the Two	Big Brother & The Holding Company	Cheap Thrills	LIKE	5:48	NEAlRCg5haM	MPREb_HKBTNxs7YyA	UC7_X7oXO73abqsd-mlzfMVQ
+478	Out of My Mind	Buffalo Springfield	Buffalo Springfield	LIKE	3:08	4bSRa8v9fPU	MPREb_bchHY3x2qsw	UCH-BBvNWh1CONPAjpeocGcw
+479	For What It's Worth	Buffalo Springfield	Buffalo Springfield	LIKE	2:33	1eD-8NTwP9I	MPREb_bchHY3x2qsw	UCH-BBvNWh1CONPAjpeocGcw
+480	Subterranean Homesick Blues	Bob Dylan	Bringing It All Back Home	LIKE	2:22	Mgk3oOOd1io	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+481	It's All over Now, Baby Blue	Bob Dylan	Bringing It All Back Home	LIKE	4:13	VR9Th0GzSQ4	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+482	Mr. Tambourine Man	Bob Dylan	Bringing It All Back Home	LIKE	5:31	m8tN2HgPH6I	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+483	Bob Dylan's 115th Dream	Bob Dylan	Bringing It All Back Home	LIKE	6:30	SfPSCDu6NQ4	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+484	It's Alright, Ma (I'm Only Bleeding)	Bob Dylan	Bringing It All Back Home	LIKE	7:30	yYgRwefr-JU	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+485	Love Minus Zero	Bob Dylan	Bringing It All Back Home	LIKE	2:52	6PIDv6DriF4	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+486	She Belongs to Me	Bob Dylan	Bringing It All Back Home	LIKE	2:47	IOa_vejKO34	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+487	Born Under A Bad Sign	Albert King	Born Under A Bad Sign	LIKE	2:47	F2IqJtBL6yk	MPREb_lFds0b3PZIO	UC9XFvJIqt0duVgnlvkXBeKA
+488	Personal Manager	Albert King	Born Under A Bad Sign	LIKE	4:29	-A7K7eNF7mc	MPREb_lFds0b3PZIO	UC9XFvJIqt0duVgnlvkXBeKA
+489	In My Time of Dyin'	Bob Dylan	Bob Dylan	LIKE	2:39	dD7_skGBjOY	MPREb_bjxUuTHRORP	UCBqkojCXby4zGkWX86FEY7Q
+490	Talkin' New York	Bob Dylan	Bob Dylan	LIKE	3:18	jVtHPqlEjXg	MPREb_bjxUuTHRORP	UCBqkojCXby4zGkWX86FEY7Q
+491	Baby, Let Me Follow You Down	Bob Dylan	Bob Dylan	LIKE	2:35	QgJ9oUX1pbA	MPREb_bjxUuTHRORP	UCBqkojCXby4zGkWX86FEY7Q
+492	Gospel Plow	Bob Dylan	Bob Dylan	LIKE	1:46	6KT5wbub77w	MPREb_bjxUuTHRORP	UCBqkojCXby4zGkWX86FEY7Q
+493	House of the Risin' Sun	Bob Dylan	Bob Dylan	LIKE	5:19	mrYw3nKwwEY	MPREb_bjxUuTHRORP	UCBqkojCXby4zGkWX86FEY7Q
+494	Song to Woody	Bob Dylan	Bob Dylan	LIKE	2:41	NEmxshYM6Zk	MPREb_bjxUuTHRORP	UCBqkojCXby4zGkWX86FEY7Q
+495	Folsom Prison Blues (Live)	Johnny Cash	The Essential Johnny Cash	LIKE	2:43	b3A4l-mmMhU	MPREb_yXyLjFWHCkQ	UCiGs21G3KeE2tpbbMPzn9Qg
+496	Strolling Down the Highway	Bert Jansch	Bert Jansch	LIKE	3:03	kfCawPPlgYA	MPREb_U6ZyyRsEIlp	UC6xUwdmOnnBYiEG410Nj0GQ
+497	Smokey River	Bert Jansch	Bert Jansch	LIKE	2:52	rJO-0Y0nmbI	MPREb_U6ZyyRsEIlp	UC6xUwdmOnnBYiEG410Nj0GQ
+498	Veronica	Bert Jansch	Bert Jansch	LIKE	1:30	Mtmx-i5oCJo	MPREb_U6ZyyRsEIlp	UC6xUwdmOnnBYiEG410Nj0GQ
+499	Dreams of Love	Bert Jansch	Bert Jansch	LIKE	1:41	D-6GgWSxTWM	MPREb_U6ZyyRsEIlp	UC6xUwdmOnnBYiEG410Nj0GQ
+500	Angie	Bert Jansch	Bert Jansch	LIKE	3:10	BBVl1lyUkIo	MPREb_U6ZyyRsEIlp	UC6xUwdmOnnBYiEG410Nj0GQ
+501	I Remember When I Loved Her	The Zombies	Begin Here	LIKE	1:56	-PNjYIfsbJI	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+502	Can't Nobody Love You	The Zombies	Begin Here	LIKE	2:11	FoxLRyCvHDs	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+503	I Can't Make My Mind Up	The Zombies	Begin Here	LIKE	2:33	vh1IM_AJR-Q	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+504	You've Really Got a Hold On Me	The Zombies	Begin Here	LIKE	3:36	X6BlsmMhO3s	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+505	She's Not There	The Zombies	Begin Here	LIKE	2:20	3f33ZUM1RjM	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+506	Salt Of The Earth	The Rolling Stones	Beggars Banquet	LIKE	4:48	zGFjF3qkOX4	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+507	Sympathy For The Devil	The Rolling Stones	Beggars Banquet	LIKE	6:18	DfgmjtukS7g	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+508	Prodigal Son	The Rolling Stones	Beggars Banquet	LIKE	2:51	yQg-J3wS9IM	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+509	Street Fighting Man	The Rolling Stones	Beggars Banquet	LIKE	3:15	hU8o6usr_oU	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+510	Jigsaw Puzzle	The Rolling Stones	Beggars Banquet	LIKE	6:06	5O8wa3vY1pM	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+511	No Expectations	The Rolling Stones	Beggars Banquet	LIKE	3:56	KrdoLrPrX0U	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+512	I Don't Want To Spoil The Party (Remastered 2009)	The Beatles	Beatles For Sale	LIKE	2:35	zqVDvLDLsjI	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+513	What You're Doing (Remastered 2009)	The Beatles	Beatles For Sale	LIKE	2:31	7Sba2LbhkVY	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+514	Everybody's Trying To Be My Baby (Remastered 2009)	The Beatles	Beatles For Sale	LIKE	2:26	wn7FiAdHcmw	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+515	Mr Moonlight (Remastered 2009)	The Beatles	Beatles For Sale	LIKE	2:39	FZQ8nWZJrhA	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+516	I'll Follow The Sun (Remastered 2009)	The Beatles	Beatles For Sale	LIKE	1:49	28d_A_NuJ7A	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+517	Eight Days A Week (Remastered 2009)	The Beatles	Beatles For Sale	LIKE	2:44	0soSE-RMH3s	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+518	What's New	John Coltrane Quartet	Ballads	LIKE	3:45	_Gnuf53D9m8	MPREb_mcmW8Au6sPa	UCH4T2kv7rr9qnuP0DOXLxMA
+519	Little Wing	The Jimi Hendrix Experience	Axis: Bold As Love		2:25	j1gfAStPNlU		
+520	Ain't No Telling	The Jimi Hendrix Experience	Axis: Bold As Love		1:48	JBRO7W50PUo		
+521	Wait Until Tomorrow	The Jimi Hendrix Experience	Axis: Bold As Love		3:02	D73GE04-l5s		
+522	If 6 Was 9	The Jimi Hendrix Experience	Axis: Bold As Love		5:34	cQCM2vHIZ3o		
+523	Castles Made of Sand	The Jimi Hendrix Experience	Experience Hendrix (The Best Of Jimi Hendrix)		2:47	0MCCvY2oD2w		
+524	One Rainy Wish	The Jimi Hendrix Experience	Axis: Bold As Love		3:41	2ytmDeSJC2Y		
+525	Little Miss Lover	The Jimi Hendrix Experience	Axis: Bold As Love		2:21	faty99ema9w		
+526	Bold as Love	The Jimi Hendrix Experience	Axis: Bold As Love		4:11	ZYxfOxjswxc		
+527	Spanish Castle Magic	The Jimi Hendrix Experience	Axis: Bold As Love		3:03	P6lDmcrRths		
+528	Up From The Skies	The Jimi Hendrix Experience	Axis: Bold As Love		2:57	wagVqW_cD5c		
+529	Astral Weeks	Van Morrison	Astral Weeks	LIKE	7:06	vDgyJbc66tI	MPREb_5kagWL5l7Fb	UCCiTDgyKWFNs6GXxMVR2ZbQ
+530	Slim Slow Slider (1999 Remaster)	Van Morrison	Astral Weeks	LIKE	3:17	yO6k4JRafrU	MPREb_5kagWL5l7Fb	UCCiTDgyKWFNs6GXxMVR2ZbQ
+531	The Wind Cries Mary	The Jimi Hendrix Experience	Smash Hits		3:22	1AyVXGHxHec		
+532	Purple Haze	Jimi Hendrix		LIKE	2:53	WGoDaYjdfSg		UC5NwXf8hOgZgInaYiOCZmUg
+533	Hey Joe	The Jimi Hendrix Experience	Are You Experienced		3:31	Smp6AepJIhM		
+534	May This Be Love	Jimi Hendrix	Singles - Original Motion Picture Soundtrack	LIKE	3:09	CfFlO6lHZ2g	MPREb_3OHQROaVfst	UC5NwXf8hOgZgInaYiOCZmUg
+535	Red House	The Jimi Hendrix Experience	Smash Hits		3:51	HVaCfwjl_gM		
+536	Third Stone from the Sun (Karaoke Version) [Originally Performed By Jimi Hendrix]	Dohn Joe	50 Greatest Karaoke Hits, Vol. 2 (Karaoke Version)		4:07	_igkElwCGrY		
+537	Rosemary	Grateful Dead	Aoxomoxoa	LIKE	2:01	KrLkH3NZWBw	MPREb_9tOoFtUxFKL	UC9dWluHyEwvIj5NNs7KkJ0A
+538	China Cat Sunflower	Grateful Dead	Aoxomoxoa	LIKE	3:43	DWgjKDlvjDM	MPREb_9tOoFtUxFKL	UC9dWluHyEwvIj5NNs7KkJ0A
+539	Dupree's Diamond Blues	Grateful Dead	Aoxomoxoa	LIKE	3:35	YK3f4SwNCTk	MPREb_9tOoFtUxFKL	UC9dWluHyEwvIj5NNs7KkJ0A
+540	St. Stephen	Grateful Dead	Aoxomoxoa	LIKE	4:28	W-s0lFpflQw	MPREb_9tOoFtUxFKL	UC9dWluHyEwvIj5NNs7KkJ0A
+541	Get Back	Al Green	Al Green Is Blues	LIKE	2:26	Hl8niNgZMhw	MPREb_Ta36rzTjqBF	UC7tb2Of68kIlrtj2qUnJtbQ
+542	Talk to Me	Al Green	Al Green Is Blues	LIKE	2:10	Yn_NZHecGhU	MPREb_Ta36rzTjqBF	UC7tb2Of68kIlrtj2qUnJtbQ
+543	My Girl	Al Green	Al Green Is Blues	LIKE	2:55	qyC8YZHdc8Y	MPREb_Ta36rzTjqBF	UC7tb2Of68kIlrtj2qUnJtbQ
+544	Another Saturday Night	Sam Cooke	Ain't That Good News	LIKE	2:40	yaBkIstHkD0	MPREb_FrQ40S57vrH	UCYW9vMurwIpx1l0bb8gyK7g
+545	Rome (Wasn't Built In A Day)	Sam Cooke	Ain't That Good News	LIKE	2:33	YxNfeC-dc_I	MPREb_FrQ40S57vrH	UCYW9vMurwIpx1l0bb8gyK7g
+546	I Am Waiting	The Rolling Stones	Aftermath	LIKE	3:11	k2rAtuYGT_k	MPREb_Kv1Y3Zh54dy	UCNYhhkQqeFLUc-YEDcLpSYQ
+547	High And Dry	The Rolling Stones	Aftermath	LIKE	3:08	yfrvst3QgN8	MPREb_Kv1Y3Zh54dy	UCNYhhkQqeFLUc-YEDcLpSYQ
+548	Think	The Rolling Stones	Aftermath	LIKE	3:10	2JXyuhEkhHw	MPREb_Kv1Y3Zh54dy	UCNYhhkQqeFLUc-YEDcLpSYQ
+549	Doncha Bother Me	The Rolling Stones	Aftermath	LIKE	2:42	pLFNhlV3fIE	MPREb_Kv1Y3Zh54dy	UCNYhhkQqeFLUc-YEDcLpSYQ
+550	Under My Thumb	The Rolling Stones	Aftermath	LIKE	3:42	aGRnokznTF0	MPREb_Kv1Y3Zh54dy	UCNYhhkQqeFLUc-YEDcLpSYQ
+551	Come Together (Remastered 2009)	The Beatles	Abbey Road	LIKE	4:20	oolpPmuK2I8	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+552	The End (Remastered 2009)	The Beatles	Abbey Road	LIKE	2:22	12R4FzIhdoQ	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+553	Something (Remastered 2009)	The Beatles	Abbey Road	LIKE	3:03	VWO3nEuWo4k	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+554	Carry That Weight (Remastered 2009)	The Beatles	Abbey Road	LIKE	1:37	6B224XDJw6g	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+555	She Came In Through The Bathroom Window (Remastered 2009)	The Beatles	Abbey Road	LIKE	1:59	NVv7IzEVf3M	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+556	Sun King (Remastered 2009)	The Beatles	Abbey Road	LIKE	2:27	6bNMxWGHlTI	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+557	You Never Give Me Your Money (Remastered 2009)	The Beatles	Abbey Road	LIKE	4:03	BpndGZ71yww	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+558	Because (Remastered 2009)	The Beatles	Abbey Road	LIKE	2:46	hL0tnrl2L_U	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+559	Here Comes The Sun (Remastered 2009)	The Beatles	Abbey Road	LIKE	3:06	xUNqsfFUwhY	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+560	I Want You (She's So Heavy) (Remastered 2009)	The Beatles	Abbey Road	LIKE	7:48	tAe2Q_LhY8g	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+561	Oh! Darling (Remastered 2009)	The Beatles	Abbey Road	LIKE	3:28	9BznFjbcBVs	MPREb_pyQa1mky9hE	UC2XdaAVUannpujzv32jcouQ
+562	See-Saw	Pink Floyd	A Saucerful of Secrets	LIKE	4:36	5WtraNl6ol4	MPREb_nFilxkztvZG	UCO6LS_5W7vqG9mALDNzSFug
+563	Let There Be More Light	Pink Floyd	A Saucerful of Secrets	LIKE	5:38	fcFrivOpCwc	MPREb_nFilxkztvZG	UCO6LS_5W7vqG9mALDNzSFug
+564	Remember A Day	Pink Floyd	A Saucerful of Secrets	LIKE	4:32	nF8iDyMniNg	MPREb_nFilxkztvZG	UCO6LS_5W7vqG9mALDNzSFug
+565	Set The Controls For The Heart Of The Sun	Pink Floyd	A Saucerful of Secrets	LIKE	5:28	ZnIxWznakz8	MPREb_nFilxkztvZG	UCO6LS_5W7vqG9mALDNzSFug
+566	Batman	The Who	A Quick One	LIKE	1:38	KNldFQGtfoY	MPREb_qmRYvUNMpyb	UCpxn_sVrLQWNGFK1eulpYgw
+567	"My Generation / Land Of Hope And Glory (""Ready Steady Go"" Live Version)"	The Who	A Quick One	LIKE	2:06	P9xPt9sYqFg	MPREb_qmRYvUNMpyb	UCpxn_sVrLQWNGFK1eulpYgw
+568	Barbara Ann	The Who	A Quick One	LIKE	2:00	8tJ3yAKDAIw	MPREb_qmRYvUNMpyb	UCpxn_sVrLQWNGFK1eulpYgw
+569	Money (That's What I Want)	Buddy Guy	A Man And The Blues	LIKE	2:55	o1Aw0IEXFRU	MPREb_tLPikAvjPVk	UCqQnmSnXS_qlyP6qok7lCAA
+570	If I Fell (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	2:20	F_80s6S_7Vw	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+571	I'll Be Back (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	2:25	fJSTBNTac6k	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+572	I'll Cry Instead (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	1:46	zfnkMBOSIUQ	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+573	A Hard Day's Night (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	2:35	zx2TFk0vh1I	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+574	Any Time At All (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	2:12	WuB7F-gRdJo	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+575	Can't Buy Me Love (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	2:12	TBSpmoA8V78	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+576	Tell Me Why (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	2:09	GVub1QCUCGc	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+577	I'm Happy Just To Dance With You (Remastered 2009)	The Beatles	A Hard Day's Night	LIKE	1:57	B7X1oUfa8uE	MPREb_lMwnCCnXwKZ	UC2XdaAVUannpujzv32jcouQ
+578	If You Need Me	The Rolling Stones	12 X 5	LIKE	2:05	038NVTEaWuk	MPREb_7DCilAEIioz	UCNYhhkQqeFLUc-YEDcLpSYQ
+579	Congratulations (Mono Version)	The Rolling Stones	12 X 5	LIKE	2:29	A0OoeFnh3VA	MPREb_7DCilAEIioz	UCNYhhkQqeFLUc-YEDcLpSYQ
+580	Under The Boardwalk	The Rolling Stones	12 X 5	LIKE	2:47	MC_XZbjPMSM	MPREb_7DCilAEIioz	UCNYhhkQqeFLUc-YEDcLpSYQ
+581	Time Is On My Side (Mono Version / Organ Intro)	The Rolling Stones	12 X 5	LIKE	2:53	7jStGLgQkSw	MPREb_7DCilAEIioz	UCNYhhkQqeFLUc-YEDcLpSYQ

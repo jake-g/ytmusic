@@ -1,0 +1,906 @@
+	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+0	09:13	Bibio	Phantom Brickworks	LIKE	7:04	v-jV1vzDyAQ	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+1	Phantom Brickworks III	Bibio	Phantom Brickworks III	INDIFFERENT	9:28	IM_etQuG9OA	MPREb_y3LoTSy6lVN	UCuJ1ytddNReUXXZb3QPNEtg
+2	PHANTOM BRICKWORKS	Bibio	Phantom Brickworks	LIKE	13:48	tVpUE1gU4_U	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+3	Phantom Brickworks III (Edit)	Bibio	Phantom Brickworks III	INDIFFERENT	3:26	yZfXPYcAEUo	MPREb_y3LoTSy6lVN	UCuJ1ytddNReUXXZb3QPNEtg
+4	PANTGLAS	Bibio	Phantom Brickworks	LIKE	4:32	0alT3YTVVUc	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+5	PHANTOM BRICKWORKS II	Bibio	Phantom Brickworks	LIKE	16:45	Qk9nus_xarg	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+6	CAPEL CELYN	Bibio	Phantom Brickworks	LIKE	8:13	srHdKg3RGBc	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+7	PHANTOM BRICKWORKS III	Bibio	Phantom Brickworks	LIKE	9:28	q1CC89LOHA8	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+8	IVY CHARCOAL	Bibio	Phantom Brickworks	LIKE	2:04	hNUFkL2No3w	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+9	BRANCH LINE	Bibio	Phantom Brickworks	LIKE	8:43	fyQfADnWF3M	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+10	CAPEL BETHANIA	Bibio	Phantom Brickworks	LIKE	2:45	HvwvedFrJA8	MPREb_wB0x2TlCxHF	UCuJ1ytddNReUXXZb3QPNEtg
+11	Map to the Stars	Ducktails	Jersey Devil	LIKE	3:20	4vFUP1wjsCs	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+12	Light a Candle	Ducktails	Jersey Devil	INDIFFERENT	3:48	On3B_ms9hyY	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+13	In the Hallway	Ducktails	Jersey Devil	INDIFFERENT	3:50	DneDQCIn9Kk	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+14	Keeper of the Garden	Ducktails	Jersey Devil	INDIFFERENT	3:21	1EtAWsfqNuU	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+15	Solitary Star	Ducktails	Jersey Devil	INDIFFERENT	3:58	2eU38wt1k0I	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+16	Lover	Ducktails	Jersey Devil	LIKE	3:23	NDJgn-1cwQk	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+17	Mannequin	Ducktails	Jersey Devil	INDIFFERENT	3:33	6UOWh662RaI	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+18	Wearing a Mask	Ducktails	Jersey Devil	LIKE	4:49	LAwUrL7oYGY	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+19	Shattered Mirror Travel	Ducktails	Jersey Devil	LIKE	3:53	SpTEaNoJrRY	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+20	The Rising Sun	Ducktails	Jersey Devil	INDIFFERENT	4:20	mKS4heezh_Q	MPREb_VfI9UAonfmu	UC9G6XGIZaMAezs-65gE0QsQ
+21	Sympathy	Mux Mool	Implied Lines	LIKE	3:12	f0JM889pe7s	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+22	Monday	Mux Mool	Implied Lines	INDIFFERENT	4:44	l3aGe9RBAPc	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+23	Eyebrow Dandruff	Mux Mool	Implied Lines	LIKE	4:23	CNEZR5k8oBc	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+24	Six Am	Mux Mool	Implied Lines	INDIFFERENT	4:44	MAbo4TIm_G4	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+25	Never Go Home	Mux Mool	Implied Lines	INDIFFERENT	4:00	CPueSBlsbdA	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+26	Fifteen Tons	Mux Mool	Implied Lines	INDIFFERENT	2:27	5OgzhDe9cTw	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+27	The IRS	Mux Mool	Implied Lines	LIKE	2:35	0db5sFXrN9U	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+28	Starfighter Courage	Mux Mool	Implied Lines	LIKE	3:58	LKrJH0GQKEU	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+29	Sing Heal All	Mux Mool	Implied Lines	LIKE	4:10	YsgIhntuf0c	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+30	Love Song	Mux Mool	Implied Lines	LIKE	4:00	_71TheG1JGo	MPREb_Pvcf0vv9LwG	UCUKazpsCZaiI4rdPLqFOh-w
+31	This Year	Beach Fossils	Somersault	LIKE	2:48	cwk2_CDeDnw	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+32	Tangerine	Beach Fossils	Somersault	LIKE	3:14	cAj9GncWPjs	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+33	Saint Ivy	Beach Fossils	Somersault	LIKE	3:44	8g8dcB7k5Do	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+34	May 1st	Beach Fossils	Somersault	LIKE	2:58	cVn-jOqiWvw	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+36	Sugar	Beach Fossils	Somersault	LIKE	3:24	Qt5IkXZCq3w	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+37	Closer Everywhere	Beach Fossils	Somersault	INDIFFERENT	3:16	C27IqT-j4SM	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+38	Social Jetlag	Beach Fossils	Somersault	LIKE	3:02	EFhX6TgdjyQ	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+39	Down the Line	Beach Fossils	Somersault	LIKE	2:38	noV5ERlN-_Q	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+40	Be Nothing	Beach Fossils	Somersault	INDIFFERENT	5:01	WM8xWvRmfZ0	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+41	That’s All for Now	Beach Fossils	Somersault	INDIFFERENT	3:10	cB0Cy9bZ5zQ	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
+42	Intro: I Switched My Robot Off	Gorillaz	Humanz	INDIFFERENT	0:23	8i0rXZcEyIA	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+43	Ascension (feat. Vince Staples)	Gorillaz	Humanz	LIKE	2:35	FSpkIHuYn2E	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+44	Strobelite (feat. Peven Everett)	Gorillaz	Humanz	INDIFFERENT	4:32	Op_UhnD6CmE	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+45	Saturnz Barz (feat. Popcaan)	Gorillaz	Humanz	LIKE	3:01	eCxjpGhorPs	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+46	Momentz (feat. De La Soul)	Gorillaz	Humanz	INDIFFERENT	3:16	wgFDXSCHkgo	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+47	Interlude: The Non-Conformist Oath	Gorillaz	Humanz	INDIFFERENT	0:21	-IMM6OlbDIc	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+48	Submission (feat. Danny Brown & Kelela)	Gorillaz	Humanz	INDIFFERENT	3:21	sK4_drvjb4U	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+49	Charger (feat. Grace Jones)	Gorillaz	Humanz	INDIFFERENT	3:34	15qFDdYTUFI	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+51	Andromeda (feat. DRAM)	Gorillaz	Humanz	LIKE	3:17	o3Dv4L2RnRQ	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+52	Busted and Blue	Gorillaz	Humanz	LIKE	4:36	fmQ6t8evUCU	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+53	Interlude: Talk Radio	Gorillaz	Humanz	INDIFFERENT	0:19	NqxwOURlvdQ	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+54	Carnival (feat. Anthony Hamilton)	Gorillaz	Humanz	LIKE	2:15	6nALmZ1cjwE	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+55	Let Me Out (feat. Pusha T & Mavis Staples)	Gorillaz	Humanz	LIKE	2:55	xDE-YIHMgdM	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+56	Interlude: Penthouse	Gorillaz	Humanz	LIKE	0:11	Hzu03Y7BtCY	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+57	Sex Murder Party (feat. Zebra Katz & Jamie Principle)	Gorillaz	Humanz	LIKE	4:19	zbeuxm8-Inc	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+58	She's My Collar (feat. Kali Uchis)	Gorillaz	Humanz	INDIFFERENT	3:29	GdGKlTyGeR0	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+59	Interlude: The Elephant	Gorillaz	Humanz	INDIFFERENT	0:11	ZHoxCiU4Lj8	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+60	Hallelujah Money (feat. Benjamin Clementine)	Gorillaz	Humanz	LIKE	4:23	3rKCUq5PCqY	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+61	We Got the Power (feat. Jehnny Beth)	Gorillaz	Humanz	INDIFFERENT	2:19	W2M_7Et8o2c	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+62	A Private Understanding	Protomartyr	Relatives In Descent	LIKE	5:18	_q4ZfqzftME	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+63	Here Is The Thing	Protomartyr	Relatives In Descent	LIKE	3:22	qgUcyMQeEwA	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+64	My Children	Protomartyr	Relatives In Descent	INDIFFERENT	2:43	eL42lHc-ZzI	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+65	Caitriona	Protomartyr	Relatives In Descent	LIKE	5:04	3tiGPhxIxto	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+66	The Chuckler	Protomartyr	Relatives In Descent	LIKE	2:50	cEIFQiWOEHg	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+67	Windsor Hum	Protomartyr	Relatives In Descent	LIKE	3:42	5AqnapQkXKA	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+68	Don’t Go To Anacita	Protomartyr	Relatives In Descent	LIKE	1:44	ElnxJVx-8tA	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+69	Up The Tower	Protomartyr	Relatives In Descent	INDIFFERENT	3:43	CKI9lj9V_Ow	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+70	Night-Blooming Cereus	Protomartyr	Relatives In Descent	LIKE	4:40	rqkQ4vUsBNo	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+71	Male Plague	Protomartyr	Relatives In Descent	INDIFFERENT	3:12	HquTW2pwl-M	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+72	Corpses In Regalia	Protomartyr	Relatives In Descent	LIKE	3:38	2dEq2UYjQEE	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+73	Half Sister	Protomartyr	Relatives In Descent	LIKE	3:25	5sd9nEpqVOQ	MPREb_Avz1h4IpF14	UCb0wN1RCsCuyrSRgGqG_1aQ
+74	Certainty	Temples	Volcano	LIKE	4:24	QVApCwGQETQ	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+75	All Join In	Temples	Volcano	LIKE	4:08	u-kwtONEcU8	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+76	I Wanna Be Your Mirror	Temples	Volcano	LIKE	4:46	MiVGdWAwmF4	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+77	Oh the Saviour	Temples	Volcano	INDIFFERENT	3:45	NBYQ9ZN7wq4	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+78	Born Into the Sunset	Temples	Volcano	LIKE	4:46	IifuUGFzyj4	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+79	How Would You Like to Go?	Temples	Volcano	INDIFFERENT	3:35	1J2AtHZ-4HI	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+80	Open Air	Temples	Volcano	LIKE	4:46	MT611Wkru3c	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+81	In My Pocket	Temples	Volcano	INDIFFERENT	3:03	5NJRBf-vVBg	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+82	Celebration	Temples	Volcano	LIKE	4:19	p4cx2SUqn9Q	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+83	Mystery of Pop	Temples	Volcano	LIKE	3:24	TE9KoFloqSA	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+84	Roman Godlike Man	Temples	Volcano	INDIFFERENT	3:50	UDFUsWBNUCQ	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+85	Strange or Be Forgotten	Temples	Volcano	LIKE	4:08	SWOyGMqcaDY	MPREb_yVrmUQfLoit	UCAwEVNrw_7At5j2ccsDc_wQ
+86	Break a Guitar	Ty Segall	Ty Segall	INDIFFERENT	3:39	QWa_IMi-gx0	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+87	Freedom	Ty Segall	Ty Segall	LIKE	2:08	yqTdkTD5odc	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+88	Warm Hands (Freedom Returned)	Ty Segall	Ty Segall	LIKE	10:22	ug22AkEDgQg	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+89	Talkin'	Ty Segall	Ty Segall	LIKE	3:52	Y-TkZSIstXc	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+90	The Only One	Ty Segall	Ty Segall	LIKE	3:55	lENLmJHU0s8	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+91	Thank You Mr. K	Ty Segall	Ty Segall	INDIFFERENT	2:53	93NdWDNjYr0	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+92	Orange Color Queen	Ty Segall	Ty Segall	LIKE	3:05	HHdyGASqHAA	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+93	Papers	Ty Segall	Ty Segall	LIKE	3:01	WqnTVNbkNYA	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+94	Take Care (To Comb Your Hair)	Ty Segall	Ty Segall	LIKE	3:08	26RCVU9utNs	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
+95	HEAT	BROCKHAMPTON	SATURATION	LIKE	4:32	ke6cux-KR4I	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+96	QUEER	BROCKHAMPTON	SATURATION II	LIKE	3:47	-RHRQOxubqk	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+97	GOLD	BROCKHAMPTON	SATURATION	LIKE	4:25	friqL2l8rNE	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+98	STAR	BROCKHAMPTON	SATURATION	LIKE	2:40	uFkIj7DU1-g	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+99	BOYS	BROCKHAMPTON	SATURATION	LIKE	4:38	pLK423kAeSo	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+100	LIQUID	BROCKHAMPTON	SATURATION III	INDIFFERENT	1:22	JjPuwOsOr6E	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+101	2PAC	BROCKHAMPTON	SATURATION	INDIFFERENT	1:02	2fospwcRASQ	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+102	CINEMA 1	BROCKHAMPTON	SATURATION III	INDIFFERENT	0:45	2ackIZd6nQI	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+103	SWAMP	BROCKHAMPTON	SATURATION II	LIKE	4:11	X6Aa-4XccnE	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+104	SCENE	BROCKHAMPTON	SATURATION II	INDIFFERENT	0:39	LtBQc_ilk_4	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+106	FAKE	BROCKHAMPTON	SATURATION	LIKE	4:35	94nuoYQORDw	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+107	TOKYO	BROCKHAMPTON	SATURATION II	INDIFFERENT	3:12	mMeRqxIk-lk	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+108	BANK	BROCKHAMPTON	SATURATION	LIKE	3:15	-aBD5rPG6As	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+109	JESUS	BROCKHAMPTON	SATURATION II	INDIFFERENT	1:20	jDp4o7veX9g	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+111	TRIP	BROCKHAMPTON	SATURATION	LIKE	3:22	1v_vYl4Rfb0	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+112	SWIM	BROCKHAMPTON	SATURATION	INDIFFERENT	3:33	B50Ye_-yEHU	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+113	BUMP	BROCKHAMPTON	SATURATION	LIKE	2:38	MVbDJdn8EsE	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+114	FIGHT	BROCKHAMPTON	SATURATION II	LIKE	3:01	SlZLoMB7JfE	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+115	CASH	BROCKHAMPTON	SATURATION	INDIFFERENT	3:15	jC6KgOKqjO8	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+116	STAINS	BROCKHAMPTON	SATURATION III	LIKE	2:59	alZrkH0jnz4	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+117	GAMBA	BROCKHAMPTON	SATURATION II	INDIFFERENT	3:22	rkIFmtZZAZA	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+119	MILK	BROCKHAMPTON	SATURATION	LIKE	4:54	MiyR1aZvrdM	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+120	TEAM	BROCKHAMPTON	SATURATION III	INDIFFERENT	4:33	uOpgaOqJrEg	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+121	SUNNY	BROCKHAMPTON	SATURATION II	INDIFFERENT	2:50	5nSmNzmlfA8	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+122	FACE	BROCKHAMPTON	SATURATION	INDIFFERENT	4:18	kVh7cHc9oXQ	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+123	SUMMER	BROCKHAMPTON	SATURATION II	INDIFFERENT	3:24	p38xW-IjvOc	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+124	WASTE	BROCKHAMPTON	SATURATION	INDIFFERENT	2:34	8ejLGe0GeHA	MPREb_XU9skuxYO18	UCRcQe8G_HrwMCHJ60sqMXMw
+125	Everything_Now (continued)	Arcade Fire	Everything Now	INDIFFERENT	0:47	Qf0ZMM-oa2c	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+126	Everything Now	Arcade Fire	Everything Now	LIKE	5:04	6vG5WqYJViY	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+127	Signs of Life	Arcade Fire	Everything Now	INDIFFERENT	4:37	RM_9dw4jEI0	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+128	Creature Comfort	Arcade Fire	Everything Now	LIKE	4:44	TGO1vHRYJFk	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+129	Peter Pan	Arcade Fire	Everything Now	INDIFFERENT	2:49	JvChi_Knhi4	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+130	Chemistry	Arcade Fire	Everything Now	INDIFFERENT	3:38	-Mh1ou0AXRk	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+131	Infinite Content	Arcade Fire	Everything Now	INDIFFERENT	1:38	csfgyzbFcQg	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+132	Infinite_Content	Arcade Fire	Everything Now	LIKE	1:42	PUEGQodDLaM	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+133	Electric Blue	Arcade Fire	Everything Now	LIKE	4:03	eG4CCMxAvqY	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+134	Good God Damn	Arcade Fire	Everything Now	LIKE	3:35	5jmj0S859_0	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+135	Put Your Money on Me	Arcade Fire	Everything Now	INDIFFERENT	5:54	J5I0vld0lqQ	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+136	We Don't Deserve Love	Arcade Fire	Everything Now	INDIFFERENT	6:30	LgoOE_-KXKg	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+137	Everything Now (continued)	Arcade Fire	Everything Now	LIKE	2:23	gfP4L-cjSgo	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
+138	My Old Man	Mac DeMarco	This Old Dog	LIKE	3:42	NbngFp3FJSQ	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+139	This Old Dog	Mac DeMarco	This Old Dog	LIKE	2:31	egINTUn5Pug	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+140	Baby You're Out	Mac DeMarco	This Old Dog	LIKE	2:38	Oh-tvbCB62U	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+141	For the First Time	Mac DeMarco	This Old Dog	LIKE	3:03	cZCm_i6YvAk	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+142	One Another	Mac DeMarco	This Old Dog	LIKE	2:47	q2uXeS1luT4	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+143	Still Beating	Mac DeMarco	This Old Dog	LIKE	3:02	Z1zPvvh3KxU	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+144	Sister	Mac DeMarco	This Old Dog	INDIFFERENT	1:19	IlyoBA7E910	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+145	Dreams from Yesterday	Mac DeMarco	This Old Dog	LIKE	3:28	uci501SHsfE	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+146	A Wolf Who Wears Sheeps Clothes	Mac DeMarco	This Old Dog	INDIFFERENT	2:50	cc0QKce5_dk	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+147	One More Love Song	Mac DeMarco	This Old Dog	LIKE	4:02	eMztEjtPm4o	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+148	On the Level	Mac DeMarco	This Old Dog	INDIFFERENT	3:48	WOV3c0t-Mwk	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+149	Moonlight on the River	Mac DeMarco	This Old Dog	LIKE	7:03	1VYbKamjB-4	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+150	Watching Him Fade Away	Mac DeMarco	This Old Dog	INDIFFERENT	2:24	x8cFcSq4EIs	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
+151	Title Card	Washed Out	Mister Mellow	LIKE	0:31	J3_vy59Q3gQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+152	Burn Out Blues	Washed Out	Mister Mellow	LIKE	3:44	n_5yqvszTVQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+153	Time Off	Washed Out	Mister Mellow	INDIFFERENT	1:02	mfverS5JZq4	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+154	Floating By	Washed Out	Mister Mellow	INDIFFERENT	3:42	IpSBmSJuTjE	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+155	I’ve Been Daydreaming My Entire Life	Washed Out	Mister Mellow	LIKE	2:10	bV72eTu_lh8	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+156	Hard To Say Goodbye	Washed Out	Mister Mellow	INDIFFERENT	4:13	QcTwnV_NIIQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+157	Down And Out	Washed Out	Mister Mellow	INDIFFERENT	1:08	UfmKSxAOBto	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+158	Instant Calm	Washed Out	Mister Mellow	LIKE	2:10	pFsQgCy1a6Q	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+159	Zonked	Washed Out	Mister Mellow	INDIFFERENT	1:11	Tl1_IordNH4	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+160	Get Lost	Washed Out	Mister Mellow	INDIFFERENT	4:05	lIzq9zrYEYI	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+161	Easy Does It	Washed Out	Mister Mellow	INDIFFERENT	0:53	_TpS4daKR3Q	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+162	Million Miles Away	Washed Out	Mister Mellow	INDIFFERENT	4:48	pCJ4gYkRe5Y	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+163	Oczy Mlody	The Flaming Lips	Oczy Mlody	LIKE	2:54	u6T6GaetuTg	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+164	How??	The Flaming Lips	Oczy Mlody	INDIFFERENT	4:25	9h6JuKDmY68	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+165	There Should Be Unicorns	The Flaming Lips	Oczy Mlody	INDIFFERENT	5:50	kwD8oQW7EkE	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+166	Sunrise (Eyes of the Young)	The Flaming Lips	Oczy Mlody	LIKE	4:06	1AN-DDUqfCo	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+167	Nigdy Nie (Never No)	The Flaming Lips	Oczy Mlody	INDIFFERENT	4:11	B_MXLH2IJMI	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+168	Galaxy I Sink	The Flaming Lips	Oczy Mlody	LIKE	3:58	o9rXhnUox_s	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+169	One Night While Hunting for Faeries and Witches and Wizards to Kill	The Flaming Lips	Oczy Mlody	INDIFFERENT	6:09	hc1RxBX8R60	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+170	Do Glowy	The Flaming Lips	Oczy Mlody	INDIFFERENT	4:19	iGy6cOQ9bvE	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+171	Listening to the Frogs with Demon Eyes	The Flaming Lips	Oczy Mlody	LIKE	7:36	NW6CxsVKmhQ	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+172	The Castle	The Flaming Lips	Oczy Mlody	INDIFFERENT	4:51	1EJy0a32DQ8	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+173	Almost Home (Blisko Domu)	The Flaming Lips	Oczy Mlody	LIKE	4:54	wuwqsaoVXFE	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+174	We a Famly	The Flaming Lips	Oczy Mlody	LIKE	4:45	Y02zLG6RhCI	MPREb_Zbn8VUsQ491	UCPxZkX90JURVTyWW0caNnGg
+175	In Undertow	Alvvays	Antisocialites	LIKE	3:18	OyHEKqAQchw	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+176	Dreams Tonite	Alvvays	Antisocialites	LIKE	3:17	sttsKvhPVMI	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+177	Plimsoll Punks	Alvvays	Antisocialites	LIKE	4:50	v64KjYsUH58	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+178	Your Type	Alvvays	Antisocialites	INDIFFERENT	2:04	eYjJWUPKn-k	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+179	Not My Baby	Alvvays	Antisocialites	LIKE	4:17	Ra1l19zJts8	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+180	Hey	Alvvays	Antisocialites	INDIFFERENT	2:49	8ncJubziJ9o	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+181	Lollipop (Ode To Jim)	Alvvays	Antisocialites	INDIFFERENT	3:18	EKhEtYG6a2Q	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+182	Already Gone	Alvvays	Antisocialites	LIKE	3:04	puvZ6wbQQ1M	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+183	Saved By A Waif	Alvvays	Antisocialites	LIKE	3:00	HM7rt01hF_U	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+184	Forget About Life	Alvvays	Antisocialites	INDIFFERENT	2:43	lgMHWAydN8w	MPREb_yoeiSvWPFcr	UCijE8N5dNSqbRkhOcmsxWKw
+185	Sol Luna	Broken Social Scene	Hug Of Thunder		1:20	ILTdF1ckAi8		
+186	Halfway Home	Broken Social Scene	Hug Of Thunder		4:42	slNAGAP0OZk		
+187	Protest Song	Broken Social Scene	Hug Of Thunder		4:19	T5hWseF5Pf8		
+188	Skyline	Broken Social Scene	Hug Of Thunder		4:12	VDlUcATawd4		
+189	Stay Happy	Broken Social Scene	Hug Of Thunder		4:11	hXTw5kDlxmw		
+190	Vanity Pail Kids	Broken Social Scene	Hug Of Thunder		4:00	eHF_mqS4acA		
+191	Hug Of Thunder	Broken Social Scene	Hug Of Thunder		4:55	gIf4p2wnIPI		
+192	Towers And Masons	Broken Social Scene	Hug Of Thunder		4:01	dcX9IPiIOu8		
+193	Victim Lover	Broken Social Scene	Hug Of Thunder		4:56	Eo3eFtgDNaA		
+194	Please Take Me With You	Broken Social Scene	Hug Of Thunder		4:54	7lPW0IJRuXE		
+195	Gonna Get Better	Broken Social Scene	Hug Of Thunder		5:11	N1WIobcwCdE		
+196	Mouth Guards Of The Apocalypse	Broken Social Scene	Hug Of Thunder		5:45	VIHy_kJc-6Y		
+197	Over Everything	Courtney Barnett	Lotta Sea Lice	INDIFFERENT	6:19	-0IGDV3TUXU	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+198	Let It Go	Courtney Barnett	Lotta Sea Lice	INDIFFERENT	4:33	GHQ0CK2KtS8	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+199	Fear Is Like a Forest	Courtney Barnett	Lotta Sea Lice	LIKE	4:47	U6VpRKMu0Ig	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+200	Outta the Woodwork	Courtney Barnett	Lotta Sea Lice	INDIFFERENT	6:20	gwomdKDWnuQ	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+201	Continental Breakfast	Courtney Barnett	Lotta Sea Lice	LIKE	4:53	3RRyQ4nnvGo	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+202	On Script	Courtney Barnett	Lotta Sea Lice	INDIFFERENT	3:59	s6wUkMSrwM8	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+203	Blue Cheese	Courtney Barnett	Lotta Sea Lice	INDIFFERENT	4:37	4GDCKUQvkvc	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+204	Peepin' Tom	Courtney Barnett	Lotta Sea Lice	LIKE	4:14	dtBK5oVUKTw	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+205	Untogether	Courtney Barnett	Lotta Sea Lice	INDIFFERENT	4:50	EW_ucYHI1wA	MPREb_TakEuUpYXdJ	UCAR6fZVOSmnctDecWdS9rtQ
+206	Undoing a Luciferian Towers	Godspeed You! Black Emperor	Luciferian Towers	INDIFFERENT	7:47	ekGZEFzRBUs	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+207	Undoing a Luciferian Towers	Godspeed You! Black Emperor	Undoing a Luciferian Towers	LIKE	7:47	ZjmUGiMs2BU	MPREb_R5N2vs4fIQ0	UCDhKhucVT-9sNQExgHPcabg
+208	Bosses Hang, Pt. I	Godspeed You! Black Emperor	Luciferian Towers	INDIFFERENT	4:39	tsgb0wgSwzA	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+209	Bosses Hang, Pt. II	Godspeed You! Black Emperor	Luciferian Towers	INDIFFERENT	4:40	oPDzKpjn7Rc	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+210	Bosses Hang, Pt. III	Godspeed You! Black Emperor	Luciferian Towers	INDIFFERENT	5:24	PbjzAZi6bfQ	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+211	Fam/Famine	Godspeed You! Black Emperor	Luciferian Towers	LIKE	6:44	H5HIzO8K9rU	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+212	Anthem for No State, Pt. I	Godspeed You! Black Emperor	Luciferian Towers	LIKE	3:05	RzJEm64IABU	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+213	Anthem for No State, Pt. II	Godspeed You! Black Emperor	Luciferian Towers	LIKE	2:55	8T7_HYKtY_E	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+214	Anthem for No State, Pt. III	Godspeed You! Black Emperor	Luciferian Towers	INDIFFERENT	8:36	VZ7wqxNSMVE	MPREb_i3x4CnUrI5U	UCDhKhucVT-9sNQExgHPcabg
+215	30000 Megatons	Pond	The Weather	INDIFFERENT	4:03	FlHqqo4ureE	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+216	Sweep Me Off My Feet	Pond	The Weather	LIKE	3:30	8TeAay3amxg	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+217	Paint Me Silver	Pond	The Weather	LIKE	3:46	Ll7vbLuBO6Y	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+218	Colder Than Ice	Pond	The Weather	INDIFFERENT	3:11	FBkp34wDWPw	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+219	Edge Of The World Pt. 1	Pond	The Weather	INDIFFERENT	4:55	918R2XGEpVg	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+220	A/B	Pond	The Weather	LIKE	3:29	O6LLWHElVeU	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+221	Zen Automaton	Pond	The Weather	INDIFFERENT	4:02	FbrkWs6_Rp0	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+222	All I Want For Xmas (Is A Tascam 388)	Pond	The Weather	LIKE	2:37	uPE8XOwHBxA	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+223	Edge Of The World Pt. 2	Pond	The Weather	INDIFFERENT	6:23	42wMgm2Eogo	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+224	The Weather	Pond	The Weather	LIKE	3:59	8zz_X9cD9NE	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+225	Fire In The Water (Bonus Track)	Pond	The Weather	INDIFFERENT	4:04	bTgcCI2vOgY	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+226	Matter of Time	Sharon Jones & The Dap-Kings	Soul of a Woman	INDIFFERENT	3:23	hDXc-ZIIODE	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+227	Sail On!	Sharon Jones & The Dap-Kings	Soul of a Woman	INDIFFERENT	3:01	sncHmwcnOLQ	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+228	Just Give Me Your Time	Sharon Jones & the Dap-Kings	Soul of a Woman	LIKE	2:30	ca7CAMqWYow	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+229	Come and Be a Winner	Sharon Jones & the Dap-Kings	Soul of a Woman	LIKE	2:57	eXRdCkus-GE	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+230	Rumors	Sharon Jones & the Dap-Kings	Soul of a Woman	INDIFFERENT	2:34	HscM4htcQ5E	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+231	Pass Me By	Sharon Jones & the Dap-Kings	Soul of a Woman	INDIFFERENT	3:21	JOFlkeDGtYQ	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+232	Searching for a New Day	Sharon Jones & the Dap-Kings	Soul of a Woman	LIKE	3:15	R3qsh-EPom4	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+233	These Tears (No Longer for You)	Sharon Jones & the Dap-Kings	Soul of a Woman	LIKE	3:36	pwNH2E4gGdo	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+234	When I Saw Your Face	Sharon Jones & the Dap-Kings	Soul of a Woman	INDIFFERENT	3:24	dKP2CyCpRCU	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+235	Girl! (You Got to Forgive Him)	Sharon Jones & The Dap-Kings	Soul of a Woman	INDIFFERENT	4:10	sVrFJYNCYnk	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+236	Call on God	Sharon Jones & the Dap-Kings	Soul of a Woman	INDIFFERENT	3:38	cyDSA9j3XhM	MPREb_72RGxbmjhhR	UCY0qyRfFGwhDO0xEGyBQjRw
+237	Family Don't Matter (feat. Millie Go Lightly)	Young Thug	Beautiful Thugger Girls	LIKE	4:56	did30PsD0n4	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+238	Tomorrow 'Til Infinity (feat. Gunna)	Young Thug	Beautiful Thugger Girls	INDIFFERENT	3:49	GW6YTTE2U2w	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+239	She Wanna Party (feat. Millie Go Lightly)	Young Thug	Beautiful Thugger Girls	INDIFFERENT	4:11	Uo91bXPl93M	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+240	Daddy's Birthday	Young Thug	Beautiful Thugger Girls	LIKE	3:29	brWrZFicD4o	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+241	Do U Love Me	Young Thug	Beautiful Thugger Girls	LIKE	3:30	ix-AvEFc__c	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+242	Relationship (feat. Future)	Young Thug	Beautiful Thugger Girls	LIKE	3:36	GOCY1nDsdGI	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+243	You Said (feat. Quavo)	Young Thug	Beautiful Thugger Girls	LIKE	6:43	x6O6wu52Kdw	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+244	On Fire	Young Thug	Beautiful Thugger Girls	INDIFFERENT	4:00	G5-pgK5aj2c	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+245	Get High (feat. Snoop Dogg & Lil Durk)	Young Thug	Beautiful Thugger Girls	INDIFFERENT	4:54	ZSjP3rJTDfA	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+246	Feel It	Young Thug	Beautiful Thugger Girls	INDIFFERENT	3:57	rL891ZklCx4	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+247	Me or Us	Young Thug	Beautiful Thugger Girls	LIKE	2:38	p4iSDgSRaRg	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+248	Oh Yeah	Young Thug	Beautiful Thugger Girls	INDIFFERENT	3:50	Lz0Xk0XKiN8	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+249	For Y'all (feat. Jacquees)	Young Thug	Beautiful Thugger Girls	INDIFFERENT	3:40	m2rsDYUFw0k	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+250	Take Care	Young Thug	Beautiful Thugger Girls	INDIFFERENT	3:38	A8WbyunpjVY	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
+251	Veggies (feat. Ty Dolla $ign)	Aminé	Good For You	LIKE	3:24	xhdp7DaDtIM	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+252	Yellow (feat. Nelly)	Aminé	Good For You	INDIFFERENT	3:00	eHAEL4shHoU	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+253	Caroline	Aminé	Good For You	LIKE	3:30	Ln8DwKHaejo	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+254	Hero	Aminé	Good For You	INDIFFERENT	3:14	Gda-lPQrXPc	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+255	Spice Girl	Aminé	Good For You	LIKE	2:54	L26FaCh7YNA	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+256	STFU	Aminé	Good For You	LIKE	3:26	RTIUAW3mIMA	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+257	Wedding Crashers (feat. Offset)	Aminé	Good For You	LIKE	3:50	r2dLWpjzs7E	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+258	Sundays	Aminé	Good For You	LIKE	4:08	bj0qKhJSumo	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+259	Turf	Aminé	Good For You	INDIFFERENT	4:26	HEs0sXetnog	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+260	Blinds	Aminé	Good For You	INDIFFERENT	1:27	H0d2Iu0rOYU	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+261	Dakota (feat. Charlie Wilson)	Aminé	Good For You	INDIFFERENT	3:46	NQ7DnICOGoo	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+262	Slide	Aminé	Good For You	INDIFFERENT	2:50	dBSBopQ0hJY	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+263	Money	Aminé	Good For You	INDIFFERENT	4:17	MCabvrjp4O0	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+264	Beach Boy	Aminé	Good For You	LIKE	4:44	DruRaMjap2U	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+265	Heebiejeebies (Bonus) (feat. Kehlani)	Aminé	Good For You	INDIFFERENT	3:41	oKXG8vmDrfU	MPREb_9eNJXYAWGyy	UCoKiKscYu7yf_FMQbKWI_Ww
+266	The Explanation	XXXTENTACION	17	INDIFFERENT	0:50	pG-tbrzlMVU	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+267	Jocelyn Flores	XXXTENTACION	17	LIKE	1:59	C1D3G2VGQ_8	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+268	Depression & Obsession	XXXTENTACION	17	LIKE	2:24	5bh_4iR3Gds	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+269	Everybody Dies In Their Nightmares	XXXTENTACION	17	LIKE	1:35	Tg6HGcj7pGo	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+270	Revenge	XXXTENTACION	17	LIKE	2:00	3CJsqGa1ltM	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+271	Save Me	XXXTENTACION	17	INDIFFERENT	2:43	jpBYWpKKgTc	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+272	Dead Inside (Interlude)	XXXTENTACION	17	LIKE	1:26	UgZyhGU8r04	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+273	Fuck Love (feat. Trippie Redd)	XXXTENTACION	17	INDIFFERENT	2:26	8aaoYbPXOPs	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+274	Carry On	XXXTENTACION	17	INDIFFERENT	2:09	qB_Dzvpz0m8	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+275	Orlando	XXXTENTACION	17	INDIFFERENT	2:43	y36IIz5SixM	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+276	Ayala (Outro)	XXXTENTACION	17	INDIFFERENT	1:39	NxMJvb2inyA	MPREb_Tr9YVfRfip1	UCnAcxgRZ065f_eXK1o85c1w
+277	TEETH	BROCKHAMPTON	SATURATION II	LIKE	1:20	4h9lRBtCvHg	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+278	CHICK	BROCKHAMPTON	SATURATION II	LIKE	3:24	bQeDSwkE8GY	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+279	SWEET	BROCKHAMPTON	SATURATION II	LIKE	4:34	jBJd6vbjxYg	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+280	Slide (feat. Frank Ocean & Migos)	Calvin Harris	Funk Wav Bounces Vol.1	LIKE	3:51	YfY6QB1ctYY	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+281	Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)	Calvin Harris	Funk Wav Bounces Vol.1	LIKE	3:56	Ou-iewIBiBk	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+282	Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)	Calvin Harris	Funk Wav Bounces Vol.1	LIKE	3:50	ySaJeqM_KfQ	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+283	Rollin (feat. Future & Khalid)	Calvin Harris	Funk Wav Bounces Vol.1	INDIFFERENT	4:33	Hz-xwToiHa4	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+284	Prayers Up (feat. Travis Scott & A-Trak)	Calvin Harris	Funk Wav Bounces Vol.1	LIKE	3:25	UOR7SYVV5fA	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+285	Holiday (feat. Snoop Dogg, John Legend & Takeoff)	Calvin Harris	Funk Wav Bounces Vol.1	LIKE	2:50	02Eg708nnx8	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+286	Skrt On Me (feat. Nicki Minaj)	Calvin Harris	Funk Wav Bounces Vol.1	INDIFFERENT	3:49	4JhijjvMkoA	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+287	Feels (feat. Pharrell Williams, Katy Perry & Big Sean)	Calvin Harris	Funk Wav Bounces Vol.1	INDIFFERENT	3:44	fqqcXP1D0Fw	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+288	Faking It (feat. Kehlani & Lil Yachty)	Calvin Harris	Funk Wav Bounces Vol.1	INDIFFERENT	4:01	zi_8ZSt5ezg	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+289	Hard to Love (feat. Jessie Reyez)	Calvin Harris	Funk Wav Bounces Vol.1	INDIFFERENT	3:51	P4HWMit3Bq4	MPREb_7JA7fLM7ZzF	UCZ0Aezmtk-S2l8A9Ln-2lKw
+290	Fall	Jacques Greene	Feel Infinite	LIKE	2:27	ssK8fnZtZTc	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+291	Feel Infinite	Jacques Greene	Feel Infinite	INDIFFERENT	4:24	rbqU_G9WP0E	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+292	To Say	Jacques Greene	Feel Infinite	LIKE	3:20	JDTr1aYvCwA	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+293	True (feat. How To Dress Well)	Jacques Greene	Feel Infinite	LIKE	3:34	SJF74prqo7Y	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+294	I Won't Judge	Jacques Greene	Feel Infinite	LIKE	4:29	f40H3I02UL0	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+295	Dundas Collapse	Jacques Greene	Feel Infinite	INDIFFERENT	2:25	HxSIxlJ2VaQ	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+296	Real Time	Jacques Greene	Feel Infinite	LIKE	4:01	NHfG3NI1HJE	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+297	Cycles	Jacques Greene	Feel Infinite	INDIFFERENT	1:15	Agayg9YSYTw	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+298	You Can't Deny	Jacques Greene	Feel Infinite	LIKE	3:51	MtZKf03d5zM	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+299	Afterglow	Jacques Greene	Feel Infinite	LIKE	3:53	e5WKP41B6oA	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+300	You See All My Light	Jacques Greene	Feel Infinite	INDIFFERENT	3:10	8wk2PToN-SQ	MPREb_xzuifeUs2Bq	UCe8iUza1vwtLe2IsT2sfXlQ
+301	Midnattssol	Talaboman	The Night Land	LIKE	6:15	Nx_lPc5p5vU	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+302	Safe Changes	Talaboman	The Night Land	LIKE	6:23	FP_g3KckEnY	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+303	Samsa	Talaboman	The Night Land	INDIFFERENT	10:52	QGKeS5uVqLI	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+304	Six Million Ways	Talaboman	The Night Land	INDIFFERENT	6:23	gQizOy2AnvM	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+305	Loser's Hymn	Talaboman	The Night Land	LIKE	8:30	Pg6KyiIJ9P4	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+306	Brutal Chugga-Chugga	Talaboman	The Night Land	INDIFFERENT	7:26	RiKZVHznb5I	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+307	The Ghosts Hood	Talaboman	The Night Land	INDIFFERENT	8:23	MttYNB2F1r8	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+308	Dins el Llit	Talaboman	The Night Land	INDIFFERENT	5:19	jbbCRrAOsSg	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
+309	Time Spent Away From U	DJ Seinfeld	Time Spent Away From U	LIKE	5:33	PdUj0iEZQLA	MPREb_ycLhRGahCsC	UCshOz0mzWg4enVtjm-Dk6rw
+310	I Hope I Sleep Tonight	DJ Seinfeld	Time Spent Away From U	LIKE	4:07	JRJMc4OxERY	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+311	I Saw Her Kiss Him in Front of Me and I Was Like Wtf?	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	5:12	6k7zpH5ejVM	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+312	Too Late for U and M1	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:38	za-3ntR7XNo	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+313	It's Just My Luv	DJ Seinfeld	Time Spent Away From U	LIKE	5:58	QtSLSwie9lU	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+314	How U Make Me Feel	DJ Seinfeld	Time Spent Away From U	LIKE	6:18	uC2cBTTRZvQ	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+315	U Hold Me Without Touch	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:28	cpq7ewau540	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+316	Come Thru for U	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:10	BZJY7oLtla4	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+317	U	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:09	6F6Sxrd7rw4	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+318	GUMMY	BROCKHAMPTON	SATURATION II	LIKE	4:21	okG374CFWFc	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+319	BOOGIE	BROCKHAMPTON	SATURATION III	INDIFFERENT	3:13	GtCa-f7X2T8	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+320	ZIPPER	BROCKHAMPTON	SATURATION III	LIKE	3:22	7lKl_YvTizw	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+321	JELLO	BROCKHAMPTON	SATURATION II	INDIFFERENT	4:00	esoWYUZxMls	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+322	JOHNNY	BROCKHAMPTON	SATURATION III	LIKE	4:11	tXaeLbheT0k	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+323	STUPID	BROCKHAMPTON	SATURATION III	LIKE	3:36	ui9sIEBFyyE	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+324	BLEACH	BROCKHAMPTON	SATURATION III	LIKE	4:33	cTMucy4PR2k	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+325	ALASKA	BROCKHAMPTON	SATURATION III	LIKE	3:19	Xy0HY7nNO4Y	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+326	HOTTIE	BROCKHAMPTON	SATURATION III	LIKE	3:17	IVvW-cBxTTY	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+327	CINEMA 2	BROCKHAMPTON	SATURATION III	INDIFFERENT	0:38	ktCY37YhnNY	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+328	JUNKY	BROCKHAMPTON	SATURATION II	LIKE	4:08	_M235JEf_WA	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+329	SCENE 2	BROCKHAMPTON	SATURATION II	INDIFFERENT	0:29	qQmKB31GFxE	MPREb_nljz90bjE4R	UCRcQe8G_HrwMCHJ60sqMXMw
+330	SISTER/NATION	BROCKHAMPTON	SATURATION III	INDIFFERENT	6:04	u1iI4A0ToGI	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+331	RENTAL	BROCKHAMPTON	SATURATION III	INDIFFERENT	3:33	ZcgTCjzMCZc	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+332	CINEMA 3	BROCKHAMPTON	SATURATION III	INDIFFERENT	0:51	Ou3qvoYCLBc	MPREb_4rf9KtUjHH2	UCRcQe8G_HrwMCHJ60sqMXMw
+333	Las Palmas	DJ Python	Dulce Compañia	LIKE	4:04	W_aqUXJLRks	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+334	Cuál	DJ Python	Dulce Compañia	INDIFFERENT	6:53	PqkvQz382fw	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+335	Todo Era Azul (Versión Afuera)	DJ Python	Dulce Compañia	INDIFFERENT	5:41	VgiDSHsa3tY	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+336	Todo Era Azul (Siempre Dub)	DJ Python	Dulce Compañia	INDIFFERENT	4:34	k9BRrZsIZ_k	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+337	q.e.p.d	DJ Python	Dulce Compañia	LIKE	5:58	AxLjSVy_GS4	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+338	Acostados	DJ Python	Dulce Compañia	INDIFFERENT	8:58	AZe2LaLTczM	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+339	Esteban	DJ Python	Dulce Compañia	LIKE	5:03	Xcd1wmjOYyg	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+340	Yo Ran (Do)	DJ Python	Dulce Compañia	INDIFFERENT	7:56	Ac6GZeuXBqU	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
+341	Ai Papi	Okokko	XP +1	LIKE	1:03	Js4vvOavsrI	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+342	Peruvian Bump	Okokko	XP +1	LIKE	1:41	g3vCHmIhLh8	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+343	Blakesko7	Okokko	XP +1	INDIFFERENT	1:38	N3lAGOPazCA	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+344	Touched Fuzzy Got Dizzy	Okokko	XP +1	LIKE	2:43	ol-nHlea5y0	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+345	Clave	Okokko	XP +1	INDIFFERENT	2:06	HSiLxyMsnOI	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+346	Coolie	Okokko	XP +1	LIKE	2:24	PH4QZp3sfD4	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+347	Down Some	Okokko	XP +1	INDIFFERENT	3:33	TiX1msFEtII	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+348	Game Over 4	Okokko	XP +1	INDIFFERENT	1:56	f_pNFFLno7g	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+349	Habit	Okokko	XP +1	INDIFFERENT	2:48	-7RJpPM3yWU	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+350	Haha Clouds	Okokko	XP +1	INDIFFERENT	2:16	DcIjnOelQRs	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+351	Slowest of Trumpets (feat. Al Lü)	Okokko	XP +1	INDIFFERENT	1:58	3wLVVQglu8I	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+352	Snes Blues	Okokko	XP +1	LIKE	1:59	rndcCV6DlJE	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+353	Flight Test	Okokko	XP +1	INDIFFERENT	3:38	3ODfVJBgFjA	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+354	Tsumo	Okokko	XP +1	INDIFFERENT	3:06	hq423pu8Jzc	MPREb_iwFNyA11tY9	UC1_RfmMz5wyJaDGrbG83DNA
+355	Piel	Arca	Arca	LIKE	4:07	vQKchw74OWo	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+356	Anoche	Arca	Arca	INDIFFERENT	3:36	_KMUKz4LKX0	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+357	Saunter	Arca	Arca	LIKE	2:09	rgFbY-eBnFo	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+358	Urchin	Arca	Arca	INDIFFERENT	4:00	rwCrWaEaCnQ	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+359	Reverie	Arca	Arca	LIKE	3:12	6kztuWx-9Hc	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+360	Castration	Arca	Arca	INDIFFERENT	3:21	ZgAAZ9DGaMg	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+361	Sin Rumbo	Arca	Arca	INDIFFERENT	3:35	LfTUK3ViKHk	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+362	Coraje	Arca	Arca	LIKE	4:31	_zIG8DkN3J4	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+363	Whip	Arca	Arca	INDIFFERENT	1:20	f3Iw39vn86A	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+364	Desafío	Arca	Arca	INDIFFERENT	3:53	_m47UJNUjrw	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+365	Fugaces	Arca	Arca	INDIFFERENT	3:07	vB9mShE03DY	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+366	Miel	Arca	Arca	INDIFFERENT	2:56	2YIcYJnmeb8	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+367	Child	Arca	Arca	LIKE	3:23	NEpE-E4CF1Y	MPREb_9tS3ffZt8iT	UCxtNUmTQo1hJ3jEW7Z8EiYg
+368	Time To Meet Your God	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	2:41	maWByQBAetk	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+369	Feels Like Heaven	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	3:17	Pe7cvJbvDKM	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+370	Death Patrol	Ariel Pink	Dedicated To Bobby Jameson	LIKE	3:21	ynRrw985UtQ	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+371	Santa's In The Closet	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	3:02	Q-SuVP3ONJk	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+372	Dedicated To Bobby Jameson	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	3:51	MzqWzbJFX0E	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+373	Time To Live	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	5:44	5YaxGLXDFjI	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+374	Another Weekend	Ariel Pink	Dedicated To Bobby Jameson	LIKE	4:15	BPyUJGRCmqQ	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+375	I Wanna Be Young	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	2:37	KhHT553YZ4g	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+376	Bubblegum Dreams	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	3:13	O_oxZhrIrIM	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+377	Dreamdate Narcissist	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	2:29	EKooK9WBvLE	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+378	Kitchen Witch	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	3:39	LnvnE7LDxtM	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+379	Do Yourself A Favor	Ariel Pink	Dedicated To Bobby Jameson	LIKE	3:41	vy2fkxDIW4w	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+380	Acting (feat. Dâm-Funk)	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	4:32	TfkEL_YeEUk	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+381	Revenge Of The Iceman	Ariel Pink	Dedicated To Bobby Jameson	INDIFFERENT	3:26	sXqp2bRb2tw	MPREb_b4PAKSLVhp6	UCxpf1Sstn2G6JYF0Ntd7R9Q
+382	Hot In The Shade	Poolside	Heat	LIKE	3:54	ZTbV7m5-cCk	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+383	Which Way To Paradise	Poolside	Heat	LIKE	4:24	ejZQD3LaqDc	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+384	Feel Alright	Poolside	Heat	LIKE	4:05	m3fKD1yKaAY	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+385	Tropical Heartache	Poolside	Heat	LIKE	4:15	x6AGCwVK1Xk	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+386	And The Sea	Poolside	Heat	INDIFFERENT	4:35	VKWwGsp9tjg	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+387	We Can Work It Out	Poolside	Heat	INDIFFERENT	5:42	t4htwmGrUXg	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+388	Strange Overtones	Poolside	Heat	INDIFFERENT	4:43	jNm6zlvGl9o	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+389	Summer Friends	Poolside	Heat	INDIFFERENT	4:12	Csttaqn4g40	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+390	Scenic Drive	Poolside	Heat	INDIFFERENT	4:46	6EoMgJpibCg	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+391	Drifting	Poolside	Heat	INDIFFERENT	4:31	FwkpnueUktU	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+392	Heat	Poolside	Heat	INDIFFERENT	4:34	XPST3UgK4nk	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+393	Everything Goes	Poolside	Heat	INDIFFERENT	5:29	1kvdumHsZWY	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+394	Lost At Last	Poolside	Heat	INDIFFERENT	3:08	c-k0HJP7KVg	MPREb_OFjFJwflDLP	UC31l8BCauKMT4TMLPeIUOhA
+395	Worms	Pile	A Hairshirt of Purpose	INDIFFERENT	2:28	UZ_jebDcomA	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+396	Hissing for Peace	Pile	A Hairshirt of Purpose	INDIFFERENT	3:02	Hd8BF0HLLes	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+397	Rope's Length	Pile	A Hairshirt of Purpose	LIKE	5:44	se8WnJGQ4eU	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+398	No Bone	Pile	A Hairshirt of Purpose	INDIFFERENT	1:42	kIrgp7gYR2w	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+399	Milkshake	Pile	A Hairshirt of Purpose	INDIFFERENT	3:46	S7cnaIvK5Bk	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+400	Leaning on a Wheel	Pile	A Hairshirt of Purpose	INDIFFERENT	5:04	w-5jxBCaS2s	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+401	Texas	Pile	A Hairshirt of Purpose	LIKE	2:13	SbIXoixVQzM	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+402	Hairshirt	Pile	A Hairshirt of Purpose	INDIFFERENT	2:38	P7kPSE5syPI	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+403	I Don't Want to Do This Anymore	Pile	A Hairshirt of Purpose	INDIFFERENT	1:55	yqHkw5IVFp8	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+404	Dogs	Pile	A Hairshirt of Purpose	LIKE	4:37	V4shq-HMN-Y	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+405	Making Eyes	Pile	A Hairshirt of Purpose	INDIFFERENT	3:40	LTxLkITFur0	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+406	Slippery	Pile	A Hairshirt of Purpose	INDIFFERENT	3:47	ud-1CJs5Tws	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+407	Fingers	Pile	A Hairshirt of Purpose	INDIFFERENT	4:53	uIvl9RF1bj0	MPREb_q7vO4D2rnrR	UCVmxAjQY6DiVpaKZC5N3fTw
+408	Mirage	Toro Y Moi	Boo Boo	LIKE	5:09	gEYTLKQYGnM	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+409	No Show	Toro Y Moi	Boo Boo	LIKE	3:14	dhCRrPeFcoE	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+410	Mona Lisa	Toro Y Moi	Boo Boo	INDIFFERENT	4:15	yeljrlX7gRM	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+411	Pavement	Toro Y Moi	Boo Boo	LIKE	2:22	lx3eS1CSbBI	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+412	Don't Try	Toro Y Moi	Boo Boo	INDIFFERENT	4:25	Io_Id-apq-I	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+413	Windows	Toro Y Moi	Boo Boo	INDIFFERENT	4:05	AIuM9utvU1o	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+414	Embarcadero	Toro Y Moi	Boo Boo	LIKE	2:46	cN7dTvxPdjQ	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+415	Girl Like You	Toro Y Moi	Boo Boo	INDIFFERENT	3:43	qm_Uzv9VrHE	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+416	You and I	Toro Y Moi	Boo Boo	INDIFFERENT	3:51	5q1X5qRDYYQ	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+417	Labyrinth	Toro Y Moi	Boo Boo	INDIFFERENT	4:01	EvSgzCDvsj4	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+418	Inside My Head	Toro Y Moi	Boo Boo	INDIFFERENT	4:11	K7G6-D9MouY	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+419	W.I.W.W.T.W.	Toro Y Moi	Boo Boo	INDIFFERENT	4:38	kTrzXzTZcSI	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+420	(Be) (feat. Madeline Kenney)	Toro Y Moi	Boo Boo	INDIFFERENT	2:31	YZDtrAFDvhU	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+421	Follow the Leader	Foxygen	Hang	LIKE	4:13	O_EdgxikTuo	MPREb_OaIw03Q44hC	UCwRCAiWyrpxMa6tjy0D0WYw
+422	Avalon	Foxygen	Hang	INDIFFERENT	3:45	kUf8zS3LoS0	MPREb_OaIw03Q44hC	UCwRCAiWyrpxMa6tjy0D0WYw
+424	America	Foxygen	Hang	INDIFFERENT	5:18	2DVnPBrYPuo	MPREb_OaIw03Q44hC	UCwRCAiWyrpxMa6tjy0D0WYw
+425	On Lankershim	Foxygen	Hang	INDIFFERENT	2:58	n4YIbdzx9N4	MPREb_OaIw03Q44hC	UCwRCAiWyrpxMa6tjy0D0WYw
+428	Rise Up	Foxygen	Hang	INDIFFERENT	5:10	6rCb74fmHV8	MPREb_OaIw03Q44hC	UCwRCAiWyrpxMa6tjy0D0WYw
+429	The Call	Xiu Xiu	FORGET	INDIFFERENT	3:18	_Vbd457-OA8	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+430	Queen of the Losers	Xiu Xiu	FORGET	INDIFFERENT	4:24	If67QhcNlnY	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+431	Wondering	Xiu Xiu	FORGET	INDIFFERENT	4:13	8-i1687Z2IQ	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+432	Get Up	Xiu Xiu	FORGET	INDIFFERENT	5:00	4ngvpXMOXE8	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+433	Hay Choco Bananas	Xiu Xiu	FORGET	INDIFFERENT	3:48	650ldQjx1vY	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+434	Jenny GoGo	Xiu Xiu	FORGET	INDIFFERENT	3:58	dQbVWD2ZIrw	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+435	At Last, At Last	Xiu Xiu	FORGET	INDIFFERENT	3:13	lKIXx69PSU8	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+436	Forget	Xiu Xiu	FORGET	INDIFFERENT	4:12	wRlql9NsUNE	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+437	Petite	Xiu Xiu	FORGET	INDIFFERENT	4:02	YhAb3Xwt230	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+438	Faith, Torn Apart	Xiu Xiu	FORGET	INDIFFERENT	7:56	8AVmYqP5FAk	MPREb_D6R7j3jJm2I	UCPtysC104h087M9BhYwXF9Q
+439	Wu-Tang The Saga Continues Intro (feat. RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	1:31	ylp4sN5_Swg	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+440	Lesson Learn'd (feat. Inspectah Deck & Redman)	Wu-Tang	The Saga Continues	LIKE	3:23	hO3fVcIODvA	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+441	Fast and Furious (feat. Hue Hef & Raekwon)	Wu-Tang	The Saga Continues	INDIFFERENT	3:42	nnjXwL_dZ84	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+442	Famous Fighters (Skit)	Wu-Tang	The Saga Continues	INDIFFERENT	1:21	7ompgmS9iWs	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+443	If Time Is Money (Fly Navigation) (feat. Method Man)	Wu-Tang	The Saga Continues	LIKE	3:54	D3CZM_aJy3w	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+444	Frozen (feat. Method Man, Killa Priest & Chris Rivers)	Wu-Tang	The Saga Continues	INDIFFERENT	4:10	frohjyAW5qw	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+445	Berto and the Fiend (Skit) (feat. Ghostface Killa)	Wu-Tang	The Saga Continues	INDIFFERENT	0:46	OJiS4x6p1vk	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+446	Pearl Harbor (feat. Ghostface Killah, Sean Price, Method Man & RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	4:58	B5MKOvpM6YU	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+447	People Say (feat. Redman)	Wu-Tang Clan	The Saga Continues	INDIFFERENT	4:24	nUlG1h6OaVs	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+448	Family (Skit)	Wu-Tang	The Saga Continues	INDIFFERENT	1:07	1hJZK-JbaeY	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+449	Why Why Why (feat. Swnkah & RZA)	Wu-Tang	The Saga Continues	LIKE	4:00	kBKTlF1ovrE	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+450	G'd up (feat. Mzee Jones, R-Mean & Method Man)	Wu-Tang	The Saga Continues	INDIFFERENT	4:25	FTzktXbmcDw	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+451	If What You Say Is True (feat. Streetlife)	Wu-Tang Clan	The Saga Continues	INDIFFERENT	3:55	OiN2bdqLkf4	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+452	Saga (Skit) (feat. RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	0:59	g4ob0ygqO7I	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+453	Saga (Skit) (feat. RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	0:58	75jAthj0jOk	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+454	Hood Go Bang! (feat. Redman & Method Man)	Wu-Tang	The Saga Continues	INDIFFERENT	1:32	u7kyOaouCgg	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+455	My Only One (feat. Cappadonna, Steven Latorre, Ghostface Killa & RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	4:44	OfNuXwxjspc	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+456	Message	Wu-Tang	The Saga Continues	INDIFFERENT	2:05	YuvlEpZF500	MPREb_03OeISChz9B	UCdQKMtGgbbahJWE3rkPaGoA
+457	The Saga Continues Outro (feat. RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	0:46	TAkPuP3SVYA	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
+458	Big K.R.I.T.	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	2:52	QqBPX4cNnvo	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+459	Justin Scott	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:00	cZXYrDvckDo	MPREb_aMR465rcurc	UCa9FjiSKRSzqnwW_kkVR48g
+460	Mixed Messages	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:26	1qcuYmHSpto	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+461	Confetti	Big K.R.I.T.	4eva Is A Mighty Long Time	LIKE	3:18	F5jPgAI0PRc	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+462	Keep The Devil Off	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	5:10	z704AT7BxW0	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+463	Big Bank (feat. T.I.)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	3:44	Foah3xSDP90	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+464	Keep The devil Off	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	5:10	Kl5GG6SMCpM	MPREb_aMR465rcurc	UCa9FjiSKRSzqnwW_kkVR48g
+465	Subenstein (My Sub IV)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:03	Kn_Ab6o5RqQ	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+466	Miss Georgia Fornia (feat. Joi)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	6:00	CtWx7jB1r0w	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+467	1999 (feat. Lloyd)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	3:42	UC0QPCq4nuw	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+468	Everlasting	Big K.R.I.T.	4eva Is A Mighty Long Time	LIKE	3:23	4PLqo17DVS4	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+469	Ride Wit Me (feat. Pimp C & Bun B)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	3:34	aiB1mjm_6ao	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+470	Higher Calling (feat. Jill Scott)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	3:53	6alCRfyP7b8	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+471	Weekend Interlude	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	0:48	iRS7agUVsOE	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+472	Get Up 2 Come Down (feat. CeeLo Green & Sleepy Brown)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:37	j8uF0rwZzzM	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+473	Layup	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:20	qT_w99dviqg	MPREb_aMR465rcurc	UCa9FjiSKRSzqnwW_kkVR48g
+474	Price of Fame	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:14	q-fx46IocM4	MPREb_aMR465rcurc	UCa9FjiSKRSzqnwW_kkVR48g
+475	Classic Interlude	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	0:53	QMfNetILV1M	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+476	Drinking Sessions (feat. Keyon Harrold)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	5:11	iC9dZK5jZhI	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+477	Aux Cord	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	3:15	tGLa77SNW6o	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+478	The Light (feat. Bilal, Robert Glasper Jr., Kenneth Whalum & Burniss Earl Travis II)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:04	xRbnA9FDPSw	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+479	The Light (feat. Bilal, Robert Glasper Jr., Kenneth Whalum & Burniss Earl Travis II)	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:04	mmNhW9WXzH4	MPREb_aMR465rcurc	UCa9FjiSKRSzqnwW_kkVR48g
+480	Bury Me In Gold	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:24	XZgaYqFXXDs	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+481	Get Away	Big K.R.I.T.	4eva Is A Mighty Long Time	INDIFFERENT	4:57	dsWE-3Juvkw	MPREb_rnkp0gPdmA6	UCa9FjiSKRSzqnwW_kkVR48g
+482	Free Smoke	Drake	More Life	INDIFFERENT	3:39	ntfrR0p4VOI	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+483	No Long Talk (feat. Giggs)	Drake	More Life	INDIFFERENT	2:30	FOeQMiu7LOU	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+484	Passionfruit	Drake	More Life	LIKE	4:59	LDN_CuuUl2I	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+485	Jorja Interlude	Drake	More Life	INDIFFERENT	1:48	Q0-v0iemZhY	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+486	Get It Together (feat. Black Coffee & Jorja Smith)	Drake	More Life	INDIFFERENT	4:11	AswD6IDro1Q	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+487	Madiba Riddim	Drake	More Life	INDIFFERENT	3:26	XF4BH3GdOuQ	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+488	Blem	Drake	More Life	INDIFFERENT	3:37	dkUzWxVgV_8	MPREb_ugseweYWTr4	UCU6cE7pdJPc6DU2jSrKEsdQ
+489	4422 (feat. Sampha)	Drake	More Life	INDIFFERENT	3:07	0895n_p3oWE	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+490	Gyalchester	Drake	More Life	INDIFFERENT	3:10	0zGxGJE4Urs	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+491	Skepta Interlude	Drake	More Life	INDIFFERENT	2:24	rAhnYDbmndw	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+492	Portland (feat. Quavo & Travi$ Scott)	Drake	More Life	INDIFFERENT	3:57	HGxNw3AVfiQ	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+493	Sacrifices (feat. 2 Chainz & Young Thug)	Drake	More Life	LIKE	5:08	kGBCaCUtM84	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+494	Nothings Into Somethings	Drake	More Life	INDIFFERENT	2:34	H5ZoXBy2Gvs	MPREb_ugseweYWTr4	UCU6cE7pdJPc6DU2jSrKEsdQ
+495	Teenage Fever	Drake	More Life	INDIFFERENT	3:40	a6TDACqVHRE	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+496	KMT (feat. Giggs)	Drake	More Life	INDIFFERENT	2:43	IJDru-AdItI	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+497	Lose You	Drake	More Life	INDIFFERENT	5:06	6g_h8uR6ngk	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+498	Can't Have Everything	Drake	More Life	INDIFFERENT	3:49	J9q180iCF5I	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+499	Glow (feat. Kanye West)	Drake	More Life	INDIFFERENT	3:27	bIz-rPtjdBw	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+500	Since Way Back (feat. PARTYNEXTDOOR)	Drake	More Life	INDIFFERENT	6:09	jQ1D6Sw6U9E	MPREb_ugseweYWTr4	UCU6cE7pdJPc6DU2jSrKEsdQ
+501	Fake Love	Drake	More Life	LIKE	3:31	OYOcnrVE4Gc	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+502	Ice Melts (feat. Young Thug)	Drake	More Life	INDIFFERENT	4:11	r0gc2YRFSzs	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+503	Do Not Disturb	Drake	More Life	INDIFFERENT	4:44	g5g_AGtO_CI	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
+504	Pure Comedy	Father John Misty	Pure Comedy	INDIFFERENT	6:23	D3Ocbjb6dnw	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+505	Total Entertainment Forever	Father John Misty	Pure Comedy	INDIFFERENT	2:53	JeD9CUn93N8	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+506	Things It Would Have Been Helpful to Know Before the Revolution	Father John Misty	Pure Comedy	LIKE	4:18	bzFzYNrhEsg	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+507	Ballad of the Dying Man	Father John Misty	Pure Comedy	LIKE	4:50	FrP0rd0D3OE	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+508	Birdie	Father John Misty	Pure Comedy	INDIFFERENT	5:19	V4_D9KUz0vU	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+509	Leaving LA	Father John Misty	Pure Comedy	INDIFFERENT	13:11	4i-HeAzu6yo	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+510	A Bigger Paper Bag	Father John Misty	Pure Comedy	INDIFFERENT	4:41	rNJuPccaQus	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+511	When the God of Love Returns There'll Be Hell to Pay	Father John Misty	Pure Comedy	INDIFFERENT	4:04	kog7C7RcONs	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+512	Smoochie	Father John Misty	Pure Comedy	INDIFFERENT	3:45	fit9FV8Mi3k	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+513	Two Wildly Different Perspectives	Father John Misty	Pure Comedy	INDIFFERENT	3:12	S0Ceib21QZw	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+514	The Memo	Father John Misty	Pure Comedy	INDIFFERENT	5:16	lLSZedpTcU8	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+515	So I'm Growing Old on Magic Mountain	Father John Misty	Pure Comedy	INDIFFERENT	9:58	jvNzPmMydsg	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+516	In Twenty Years or So	Father John Misty	Pure Comedy	INDIFFERENT	6:27	T7SsY-8IJpQ	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
+517	Wanna Sip	Fever Ray	Plunge	INDIFFERENT	3:28	xzVW4Py7jWk	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+518	Mustn't Hurry	Fever Ray	Plunge	LIKE	4:17	LQCiC45wVLU	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+519	A Part Of Us (feat. Tami T)	Fever Ray	Plunge	INDIFFERENT	3:30	2MqRi_mOLgE	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+520	Falling	Fever Ray	Plunge	INDIFFERENT	5:03	k_tKDlXSgpM	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+521	IDK About You	Fever Ray	Plunge	INDIFFERENT	3:40	Ky2OlrMAfLc	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+522	This Country	Fever Ray	Plunge	INDIFFERENT	3:12	o5qOqZ027VE	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+523	Plunge	Fever Ray	Plunge	INDIFFERENT	5:36	GbuC7eugdHc	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+524	To The Moon And Back	Fever Ray	Plunge	INDIFFERENT	4:37	T07KFjQv1DU	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+525	Red Trails	Fever Ray	Plunge	INDIFFERENT	4:50	nJ4fm7ted_o	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+526	An Itch	Fever Ray	Plunge	INDIFFERENT	3:45	jW8YHAFk--U	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+527	Mama's Hand	Fever Ray	Plunge	INDIFFERENT	4:58	v0s5XjBFanI	MPREb_VQQP6W4hJQ8	UCRaHFNd1y3DzyPHSLSeIR-Q
+528	TED Talk	Jonwayne	Rap Album Two	LIKE	3:47	IDyeGMrbogE	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+529	LIVE from the Fuck You	Jonwayne	Rap Album Two	INDIFFERENT	2:54	EgzdFxgkZDk	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+530	Human Condition	Jonwayne	Rap Album Two	INDIFFERENT	3:21	kqIiimekLLQ	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+531	Out of Sight	Jonwayne	Rap Album Two	INDIFFERENT	4:27	vMucoAUuRC4	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+532	The Single	Jonwayne	Rap Album Two	INDIFFERENT	1:39	DavFuZ0_-iU	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+533	Paper	Jonwayne	Rap Album Two	LIKE	3:22	ioJChJnABkc	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+534	City Lights	Jonwayne	Rap Album Two	INDIFFERENT	3:53	iU3MJb2LXd4	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+535	Rainbow	Jonwayne	Rap Album Two	INDIFFERENT	3:08	1DbfYj24dFI	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+536	Afraid of Us	Jonwayne	Rap Album Two	LIKE	7:24	RgEiuBYUoBY	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+537	Blue Green	Jonwayne	Rap Album Two	INDIFFERENT	3:43	1Qn24Q7OT0Y	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+538	Hills	Jonwayne	Rap Album Two	LIKE	1:48	IoHOobNKkI0	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+539	These Words Are Everything	Jonwayne	Rap Album Two	LIKE	5:11	TFWQNYCqt5o	MPREb_N18IGsWCF5k	UCvc5goRDzFHpP_n_ro2kNFA
+540	S.O	Kelly Lee Owens	Kelly Lee Owens	INDIFFERENT	3:12	tbz4WaEtROo	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+541	Arthur	Kelly Lee Owens	Kelly Lee Owens	INDIFFERENT	4:05	ibrp8n49-4c	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+542	Anxi.	Kelly Lee Owens	Kelly Lee Owens	INDIFFERENT	3:47	GeF5Kf5hYLM	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+543	Lucid	Kelly Lee Owens	Kelly Lee Owens	LIKE	3:32	W4CA2ldU54g	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+544	Evolution	Kelly Lee Owens	Kelly Lee Owens	INDIFFERENT	4:02	3skhDjnCWlg	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+545	Bird	Kelly Lee Owens	Kelly Lee Owens	LIKE	5:15	MvbkS-BGFVY	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+546	Throwing Lines	Kelly Lee Owens	Kelly Lee Owens	LIKE	3:07	ZcuCGztuFfI	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+547	CBM	Kelly Lee Owens	Kelly Lee Owens	INDIFFERENT	5:00	ELEY-t0ZN5s	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+548	Keep Walking	Kelly Lee Owens	Kelly Lee Owens	LIKE	4:43	NsfYDwsWhRU	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+549	8	Kelly Lee Owens	Kelly Lee Owens	INDIFFERENT	9:39	_4GvpNakBAM	MPREb_pNMnhtMc3ug	UCvjT6Q9IDRNwrc8345BpwMg
+550	BLOOD.	Kendrick Lamar	DAMN.	LIKE	1:58	jvDZEoEdjzo	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+551	DNA.	Kendrick Lamar	DAMN.	LIKE	3:05	GfpxPWSH_qg	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+552	YAH.	Kendrick Lamar	DAMN.	INDIFFERENT	2:40	y-GWhui7obA	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+553	ELEMENT.	Kendrick Lamar	DAMN.	LIKE	3:28	ZUBGbTV-hvs	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+555	LOYALTY. (feat. Rihanna)	Kendrick Lamar	DAMN.	INDIFFERENT	3:47	J9JFXTENxvo	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+556	PRIDE.	Kendrick Lamar	DAMN.	LIKE	4:35	BBT2q7hsQRA	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+557	HUMBLE.	Kendrick Lamar	DAMN.	LIKE	2:57	cFEB3V5ueH0	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+558	LUST.	Kendrick Lamar	DAMN.	INDIFFERENT	5:07	cA93cs-YReE	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+559	LOVE. (feat. Zacari & Zacari Pacaldo)	Kendrick Lamar	DAMN.	INDIFFERENT	3:33	XjitVg7z4vs	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+560	XXX. (feat. U2)	Kendrick Lamar	DAMN.	INDIFFERENT	4:14	jHKnssHObhM	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+561	FEAR.	Kendrick Lamar	DAMN.	LIKE	7:40	nIb2-q3TqUU	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+562	GOD.	Kendrick Lamar	DAMN.	INDIFFERENT	4:08	ZdBU440FFOg	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+563	DUCKWORTH.	Kendrick Lamar	DAMN.	LIKE	4:08	VDhPjmPuD9k	MPREb_4bCz6FCRC8M	UCprAFmT0C6O4X0ToEXpeFTQ
+564	Reverence	Lapalux	Ruinism	LIKE	3:07	jtQ_Eo2hDTs	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+565	Data Demon (feat. GABI)	Lapalux	Ruinism	LIKE	3:21	p9n2CR7lqDQ	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+566	Petty Passion	Lapalux	Ruinism	LIKE	3:19	rMn8AL9hWow	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+567	Rotted Arp (feat. Louisahhh)	Lapalux	Ruinism	LIKE	4:09	Czw_fZRtecE	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+568	Falling Down (feat. JFDR)	Lapalux	Ruinism	LIKE	4:41	W7u2M__KVhU	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+569	Displacer	Lapalux	Ruinism	LIKE	2:56	5iPB0ksMFHs	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+570	4EVA (feat. Talvi)	Lapalux	Ruinism	LIKE	3:34	i8o_-REsy_M	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+571	Essex Is Burning	Lapalux	Ruinism	INDIFFERENT	4:34	yCq6BuzMZbI	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+572	Flickering (feat. JFDR)	Lapalux	Ruinism	INDIFFERENT	3:31	98VKcFWTVa0	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+573	Running To Evaporate	Lapalux	Ruinism	INDIFFERENT	3:41	xyCpcKknUE8	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+574	Phase Violet	Lapalux	Ruinism	LIKE	5:04	mxmQSBNMdaU	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+575	Tessellate	Lapalux	Ruinism	LIKE	5:12	EQeOxcbhzlk	MPREb_KOIXYQeU9KZ	UC7_25O0eU-qJQc97_BmaCkg
+576	Produced by the BasedGod Intro	Lil B	Black Ken	INDIFFERENT	2:54	Ky70rcbfh6w	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+577	Still Run It	Lil B	Black Ken	LIKE	3:34	7iJNhw6OjTU	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+578	Bad Mf	Lil B	Black Ken	INDIFFERENT	3:41	EpdCeGlyrlI	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+579	Wasup JoJo	Lil B	Black Ken	INDIFFERENT	3:06	v0A0vEI6KWE	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+580	Hip Hop	Lil B	Black Ken	LIKE	2:59	7fVLXDhrnDk	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+581	DJ BasedGod	Lil B	Black Ken	INDIFFERENT	6:53	k6JQ9H1h42g	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+582	Berkeley	Lil B	Black Ken	INDIFFERENT	5:10	ia36na3Havs	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+583	Free Life	Lil B	Black Ken	INDIFFERENT	5:10	LdCFQD3nlJk	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+584	Pretty Boy Skit	Lil B	Black Ken	INDIFFERENT	0:39	2AHr8OdPxh8	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+585	Young Niggaz	Lil B	Black Ken	INDIFFERENT	3:31	yvem_-Tg5is	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+586	Getting Hot	Lil B	Black Ken	INDIFFERENT	3:43	ouL8XoTyAgY	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+587	Go Stupid Go Dumb	Lil B	Black Ken	INDIFFERENT	3:47	fhY_rHlYZqk	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+588	Global (feat. iLoveMakonnen)	Lil B	Black Ken	INDIFFERENT	5:21	dV9ygau3wms	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+589	Ride (Hold Up)	Lil B	Black Ken	INDIFFERENT	3:21	-fpi68PGwn8	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+590	Mexico Skit	Lil B	Black Ken	INDIFFERENT	0:47	MRZYh42hMxw	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+591	Zam Bose (In San Jose)	Lil B	Black Ken	INDIFFERENT	3:25	qi3Qso7JR1g	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+592	Go Senorita Go	Lil B	Black Ken	INDIFFERENT	3:53	fOjCVrUYZps	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+593	Turn up (Till You Can't)	Lil B	Black Ken	INDIFFERENT	3:32	hdwplPBCVXg	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+594	Ain't Me	Lil B	Black Ken	INDIFFERENT	3:19	Ynf60117-JQ	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+595	Raw	Lil B	Black Ken	INDIFFERENT	5:28	lDswm1lkBqY	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+596	West Coast	Lil B	Black Ken	INDIFFERENT	4:17	xcT-T-gsmNY	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+597	The Real Is Back	Lil B	Black Ken	INDIFFERENT	4:27	epBsPlQSgqE	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+598	Rawest Rapper Alive	Lil B	Black Ken	INDIFFERENT	4:56	eubshIe43Fs	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+599	Da Backstreetz	Lil B	Black Ken	INDIFFERENT	4:09	StLqxqJ57U0	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+600	Rare Art	Lil B	Black Ken	INDIFFERENT	4:19	UF7zNxa7gjs	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+601	Show Promoter Skit	Lil B	Black Ken	INDIFFERENT	0:27	atWNRWuHiMM	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+602	Live from the Island - Hawaii	Lil B	Black Ken	INDIFFERENT	2:54	BaASdecj6C4	MPREb_VfLl7eqOxmU	UCNIkqTuRw-nljcf5khe9BbQ
+603	Darling	Real Estate	In Mind	LIKE	4:20	TUXR16Sxny4	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+604	Serve The Song	Real Estate	In Mind	INDIFFERENT	3:17	Xq8MJyouidg	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+605	Stained Glass	Real Estate	In Mind	LIKE	5:04	Ibp_LB7NQSo	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+606	After The Moon	Real Estate	In Mind	INDIFFERENT	3:13	QFGsa6UOznI	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+607	Two Arrows	Real Estate	In Mind	INDIFFERENT	3:54	J7z9ylaIzH0	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+608	White Light	Real Estate	In Mind	INDIFFERENT	4:50	qkkXfJ-PBeY	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+609	Holding Pattern	Real Estate	In Mind	LIKE	6:50	JL8FBqzeIik	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+610	Time	Real Estate	In Mind	LIKE	3:14	UwnVWMo_lVc	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+611	Diamond Eyes	Real Estate	In Mind	INDIFFERENT	3:46	EnqKQnTjivw	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+612	Same Sun	Real Estate	In Mind	INDIFFERENT	3:49	PZcOrwsYoCM	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+613	Saturday	Real Estate	In Mind	INDIFFERENT	2:34	n-8X0kFupao	MPREb_Kh8Xpm9IiX2	UCTGjXChUUJcFlj_MotDrg1w
+614	Monolith (Overture)	Sinjin Hawke	First Opus	LIKE	3:44	3-qqsi3gNIg	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+615	Dawn of Infinity	Sinjin Hawke	First Opus	LIKE	3:03	18lMTrNv5hI	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+616	They Can't Love You	Sinjin Hawke	First Opus	LIKE	4:02	Y8bHiTbgjMc	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+617	Shimmer	Sinjin Hawke	First Opus	LIKE	2:03	GJTJ5Zf8fpg	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+618	Don't Lose Yourself to This	Sinjin Hawke	First Opus	LIKE	3:58	qDUIWaFF0fs	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+619	Nailgun	Sinjin Hawke	First Opus	INDIFFERENT	2:22	CarebM-SVT4	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+620	Flood Gates	Sinjin Hawke	First Opus	INDIFFERENT	2:30	4IOUOaEI-vw	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+621	By Any Means	Sinjin Hawke	First Opus	INDIFFERENT	2:39	HiCXD5cIEdQ	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+622	Snow Blind	Sinjin Hawke	First Opus	INDIFFERENT	3:28	BAemconC24s	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+623	Prophecy of Martyn Bootyspoon	Sinjin Hawke	First Opus	INDIFFERENT	2:29	tfE3S1uIc6o	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+624	Onset	Sinjin Hawke	First Opus	LIKE	3:23	_yrQ8I0_Y_U	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+625	Cold Blood	Sinjin Hawke	First Opus	INDIFFERENT	2:46	t-WZs28U6Xg	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+626	Divination	Sinjin Hawke	First Opus	LIKE	3:38	-njNbbKhEqU	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+627	In Loving Memory	Sinjin Hawke	First Opus	INDIFFERENT	3:38	R4R5dMyOU80	MPREb_bTm9c0cW0Mx	UCNG0ny36vrtbhVsjmpyQRFg
+628	Preset Tense	Soulwax	FROM DEEWEE	INDIFFERENT	1:32	r9oQZLRGFdw	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+629	Masterplanned	Soulwax	FROM DEEWEE	INDIFFERENT	4:07	pdcbDkrBVaY	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+630	Missing Wires	Soulwax	FROM DEEWEE	LIKE	4:49	IRsm8hazbqo	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+631	Conditions of a Shared Belief	Soulwax	FROM DEEWEE	INDIFFERENT	3:13	I5Iz4obHF0c	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+632	Is It Always Binary	Soulwax	FROM DEEWEE	INDIFFERENT	3:30	W_21IVzPGvY	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+633	Do You Want to Get Into Trouble?	Soulwax	FROM DEEWEE	INDIFFERENT	4:26	u9s88htrmnU	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+634	My Tired Eyes	Soulwax	FROM DEEWEE	INDIFFERENT	4:18	mOceWJXx4bU	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+635	Transient Program for Drums and Machinery	Soulwax	FROM DEEWEE	INDIFFERENT	6:24	u7IwbqFmAiE	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+636	Trespassers	Soulwax	FROM DEEWEE	INDIFFERENT	4:05	jJxWVe5M2S8	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+637	The Singer Has Become a Deejay	Soulwax	FROM DEEWEE	INDIFFERENT	3:22	BmJdBBLba9Q	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+638	Here Come the Men in Suits	Soulwax	FROM DEEWEE	INDIFFERENT	5:10	jIeopjvrCWI	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+639	Goodnight Transmission	Soulwax	FROM DEEWEE	INDIFFERENT	4:08	dYOCKQJvxAM	MPREb_dePtQrH4wBQ	UCHvcelhZMS1T1bUTCC5r54w
+640	In the Morning I'll Be Better	Tennis	Yours Conditionally	LIKE	3:33	jlqNrJNWS5o	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+641	My Emotions Are Blinding	Tennis	Yours Conditionally	INDIFFERENT	3:39	4GRIayrMIio	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+642	Fields of Blue	Tennis	Yours Conditionally	INDIFFERENT	3:41	dsyHEkwhN7A	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+643	Ladies Don't Play Guitar	Tennis	Yours Conditionally	INDIFFERENT	3:28	QprVQHO0Asw	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+644	Matrimony	Tennis	Yours Conditionally	INDIFFERENT	3:44	WgEf4mhqezI	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+645	Baby Don't Believe	Tennis	Yours Conditionally	INDIFFERENT	3:20	qw3Ljbe0R94	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+646	Please Don't Ruin This for Me	Tennis	Yours Conditionally	INDIFFERENT	4:53	g1wnEvr6IpE	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+647	10 Minutes 10 Years	Tennis	Yours Conditionally	INDIFFERENT	2:45	ruf9L_2Y_U0	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+648	Modern Woman	Tennis	Yours Conditionally	INDIFFERENT	3:11	9zNK2NTHo3w	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+649	Island Music	Tennis	Yours Conditionally	INDIFFERENT	4:03	WeMrNIMvxjU	MPREb_3kmvTVlAqGm	UCEv91IRGs8ETIcUOEI8UOIA
+650	Up All Night	The War On Drugs	A Deeper Understanding	INDIFFERENT	6:23	7y0caTEhOgw	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+651	Pain	The War On Drugs	A Deeper Understanding	LIKE	5:30	nbQTBYfLcfg	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+652	Holding On	The War On Drugs	A Deeper Understanding	INDIFFERENT	5:50	C08__yI_48U	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+653	Strangest Thing	The War On Drugs	A Deeper Understanding	INDIFFERENT	6:41	iVVCGyWDfH0	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+654	Knocked Down	The War On Drugs	A Deeper Understanding	INDIFFERENT	3:59	NLsBfbw57_Y	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+655	Nothing To Find	The War On Drugs	A Deeper Understanding	INDIFFERENT	6:10	v_DDJNNnpoA	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+656	Thinking Of A Place	The War On Drugs	A Deeper Understanding	LIKE	11:10	NVKbnXRXQog	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+657	In Chains	The War On Drugs	A Deeper Understanding	INDIFFERENT	7:20	Y_1RR93EeNc	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+658	Clean Living	The War On Drugs	A Deeper Understanding	INDIFFERENT	6:28	ACgLf6bzoqo	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+659	You Don't Have To Go	The War On Drugs	A Deeper Understanding	INDIFFERENT	6:42	P2T_rpGRku0	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
+660	Dangerous	The xx	I See You	LIKE	4:09	jYEXcFdR81I	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+661	Say Something Loving	The xx	I See You	INDIFFERENT	3:58	gzTiPISjU0M	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+662	Lips	The xx	I See You	INDIFFERENT	3:20	5TEstYArPOc	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+663	A Violent Noise	The xx	I See You	INDIFFERENT	3:47	_1ZBLlsNtns	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+664	Performance	The xx	I See You	LIKE	4:06	wNh3TPqHL8E	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+665	Replica	The xx	I See You	INDIFFERENT	4:08	62GuzYWg6xw	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+666	Brave For You	The xx	I See You	INDIFFERENT	4:13	cXIGk0OUE9k	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+667	On Hold	The xx	I See You	LIKE	3:44	-K1gPWRJzhI	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+668	I Dare You	The xx	I See You	INDIFFERENT	3:53	tK1k3IYmlUE	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+669	Test Me	The xx	I See You	INDIFFERENT	3:55	8IVHdHtJ1Tw	MPREb_fJ2KnKCZPgf	UCQ1Xqlk89CLZ9aAFyo-1THg
+670	Slomo	Slowdive	Slowdive	LIKE	6:53	KDIDLIE7Z1E	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+671	Star Roving	Slowdive	Slowdive	LIKE	5:38	Vnq_dan219c	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+672	Don't Know Why	Slowdive	Slowdive	LIKE	4:36	5bjoIkuJztI	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+673	Everyone Knows	Slowdive	Slowdive	LIKE	4:22	2hY0bFCtZbA	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+674	No Longer Making Time	Slowdive	Slowdive	LIKE	5:48	CMSAELTTgrk	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+675	Go Get It	Slowdive	Slowdive	INDIFFERENT	6:09	G8M5kq-pujw	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+676	Falling Ashes	Slowdive	Slowdive	INDIFFERENT	8:00	4Gi3WKu5IvY	MPREb_4ftNAn97AlY	UC2o9vA6xBUQE6Tmk86oYQig
+677	Rabbot Ho	Thundercat	Drunk	INDIFFERENT	0:38	4d6yu4cfmA4	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+678	Captain Stupido	Thundercat	Drunk	INDIFFERENT	1:41	e8TdgBWEOP8	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+679	Uh Uh	Thundercat	Drunk	INDIFFERENT	2:15	wawFGZQSqYk	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+680	Bus In These Streets	Thundercat	Drunk	INDIFFERENT	2:24	TQYSTAW_2s4	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+681	A Fan's Mail (Tron Song Suite II)	Thundercat	Drunk	INDIFFERENT	2:38	WFUEf8MHGnA	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+682	Lava Lamp	Thundercat	Drunk	INDIFFERENT	2:58	ppHQa2h2qiI	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+683	Jethro	Thundercat	Drunk	INDIFFERENT	1:34	2WFBM_GFzmk	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+684	Day & Night	Thundercat	Drunk	INDIFFERENT	0:37	RTCmGcTaLXQ	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+685	Show You The Way (feat. Kenny Loggins & Michael McDonald)	Thundercat	Drunk	LIKE	3:34	1rBYb84sfvw	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+686	Walk on By (feat. Kendrick Lamar)	Thundercat	Drunk	INDIFFERENT	3:19	sYKcMR1WK6A	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+687	Blackkk	Thundercat	Drunk	INDIFFERENT	1:59	QWTj8vt4nY0	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+688	Tokyo	Thundercat	Drunk	INDIFFERENT	2:24	0mZsFNDBay4	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+689	Jameel's Space Ride	Thundercat	Drunk	INDIFFERENT	1:09	muTL17Eh0Ks	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+690	Friend Zone	Thundercat	Drunk	INDIFFERENT	3:12	heDAio31LEk	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+691	Them Changes	Thundercat	Drunk	LIKE	3:08	BuzJ5NArvgw	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+692	Where I'm Going	Thundercat	Drunk	INDIFFERENT	2:09	qpvlWQi1BCs	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+693	Drink Dat (feat. Wiz Khalifa)	Thundercat	Drunk	INDIFFERENT	3:35	wc2VzRLhklw	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+694	Inferno	Thundercat	Drunk	INDIFFERENT	4:00	cuJv1v62hx4	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+695	I am Crazy	Thundercat	Drunk	INDIFFERENT	0:25	WiyfMPajVh8	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+696	3AM	Thundercat	Drunk	INDIFFERENT	1:15	BqiLD8KCHG0	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+697	Drunk	Thundercat	Drunk	INDIFFERENT	1:42	2KgrLWvMPI0	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+698	The Turn Down (feat. Pharrell)	Thundercat	Drunk	INDIFFERENT	2:29	l3w47CT3BRw	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+699	DUI	Thundercat	Drunk	INDIFFERENT	2:18	O0kS88zAzh8	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+700	Crabs In A Bucket	Vince Staples	Big Fish Theory	INDIFFERENT	3:18	8x0R-MHNNw4	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+701	Big Fish	Vince Staples	Big Fish Theory	LIKE	3:19	aylBqU9nm7I	MPREb_E3FJQTVwpT0	UCCn7DeREpok-P8lDnYkyZWA
+702	Alyssa Interlude	Vince Staples	Big Fish Theory	INDIFFERENT	2:39	94PJe7SeQRo	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+703	Love Can Be...	Vince Staples	Big Fish Theory	INDIFFERENT	2:59	xgwen9BsWFQ	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+704	745	Vince Staples	Big Fish Theory	LIKE	3:48	nise0jZLlQM	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+705	Ramona Park Is Yankee Stadium	Vince Staples	Big Fish Theory	INDIFFERENT	0:52	alIotV5qWaM	MPREb_E3FJQTVwpT0	UCCn7DeREpok-P8lDnYkyZWA
+706	Yeah Right	Vince Staples	Big Fish Theory	LIKE	3:09	kcbjO6h0GV0	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+707	Homage	Vince Staples	Big Fish Theory	INDIFFERENT	2:54	1L8GGlDLtdI	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+708	SAMO	Vince Staples	Big Fish Theory	INDIFFERENT	2:55	KlHP5491z-w	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+709	Party People	Vince Staples	Big Fish Theory	INDIFFERENT	2:59	GpXJeIxzaoA	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+710	BagBak	Vince Staples	Big Fish Theory	INDIFFERENT	2:41	3KpZ9Wc7MvA	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
+711	Rain Come Down	Vince Staples	Big Fish Theory	INDIFFERENT	4:42	9XFxAvNDRro	MPREb_E3FJQTVwpT0	UCCn7DeREpok-P8lDnYkyZWA
+712	oh baby	LCD Soundsystem	american dream	INDIFFERENT	5:49	9l6DSf3fE94	MPREb_Som0RNrZLxg	UCdsmJG8eFcr6Lxgau8E7afg
+713	other voices	LCD Soundsystem	american dream	INDIFFERENT	6:43	PXM0RyMDOqU	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+714	i used to	LCD Soundsystem	american dream	INDIFFERENT	5:32	P3tNaLXGPXc	MPREb_Som0RNrZLxg	UCdsmJG8eFcr6Lxgau8E7afg
+715	change yr mind	LCD Soundsystem	american dream	INDIFFERENT	4:57	KxJBZwFk4DE	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+716	how do you sleep?	LCD Soundsystem	american dream	INDIFFERENT	9:12	cV0Ut2vNtF4	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+717	tonite	LCD Soundsystem	american dream	LIKE	5:47	enGrI3ZKgI8	MPREb_Som0RNrZLxg	UCdsmJG8eFcr6Lxgau8E7afg
+718	call the police	LCD Soundsystem	american dream	INDIFFERENT	6:58	b4AYQa0j_v8	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+719	american dream	LCD Soundsystem	american dream	LIKE	6:06	pUo4Waix-ww	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+720	emotional haircut	LCD Soundsystem	american dream	LIKE	5:29	N2olnx1bTW0	MPREb_Som0RNrZLxg	UCdsmJG8eFcr6Lxgau8E7afg
+721	black screen	LCD Soundsystem	american dream	INDIFFERENT	12:08	jrYhLtcPFvE	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+722	pulse (v.1)	LCD Soundsystem	american dream	INDIFFERENT	13:42	s5ng2mXdZVU	MPREb_ctLH3bwxOSk	UCdsmJG8eFcr6Lxgau8E7afg
+723	Plastic 100°C	Sampha	Process	INDIFFERENT	5:16	M_E8ZgfTLLM	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+724	Blood on Me	Sampha	Process	LIKE	4:06	2K2LXuK3A78	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+725	Kora Sings	Sampha	Process	LIKE	4:17	L5ZdLSzvPm4	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+726	(No One Knows Me) Like the Piano	Sampha	Process	LIKE	3:38	GkDSaWO3G4E	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+727	Take Me Inside	Sampha	Process	INDIFFERENT	2:18	nQAIaxvwxqs	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+728	Reverse Faults	Sampha	Process	LIKE	4:13	bfn59y4P4S0	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+729	Under	Sampha	Process	INDIFFERENT	4:41	qRYOng0-zYs	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+730	Timmy's Prayer	Sampha	Process	INDIFFERENT	4:23	izFFYWc_5VQ	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+731	Incomplete Kisses	Sampha	Process	LIKE	3:53	n9-2cAviSg4	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+732	What Shouldn't I Be?	Sampha	Process	INDIFFERENT	3:32	t5u6qcoI6UU	MPREb_14MvU7SbN1e	UCI9Z9DS6RYE4FS6UUojZxVA
+733	War It	Forest Swords	Compassion	INDIFFERENT	5:55	GG9MtghNek0	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+734	The Highest Flood	Forest Swords	Compassion	INDIFFERENT	5:08	t0zeNJLkwWA	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+735	Panic	Forest Swords	Compassion	INDIFFERENT	4:49	UIMDpnpDrv0	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+736	Exalter	Forest Swords	Compassion	INDIFFERENT	5:37	dX2212DuQx4	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+737	Border Margin Barrier	Forest Swords	Compassion	LIKE	3:09	29JXDptKgFM	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+738	Arms Out	Forest Swords	Compassion	INDIFFERENT	5:48	sZVblEl1-o0	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+739	Vandalism	Forest Swords	Compassion	INDIFFERENT	4:38	ckZmrNEVzso	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+740	Sjurvival	Forest Swords	Compassion	INDIFFERENT	2:27	MTHr2Q6GnEk	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+741	Raw Language	Forest Swords	Compassion	LIKE	4:29	3oGiYXOuxFs	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+742	Knife Edge	Forest Swords	Compassion	INDIFFERENT	6:17	MjafDiEdY9E	MPREb_2T4jx7oZLaf	UCsIRWWLzm_nzDkKipCE349A
+743	Supermodel	SZA	Ctrl	INDIFFERENT	3:02	_l4JICxZYlk	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+744	Love Galore (feat. Travis Scott)	SZA	Ctrl	INDIFFERENT	4:36	wku2PjKQcA4	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+745	Doves In The Wind (feat. Kendrick Lamar)	SZA	Ctrl	INDIFFERENT	4:27	VpymZzZ8Opg	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+746	Drew Barrymore	SZA	Ctrl	INDIFFERENT	3:52	AeCwbYrsWI4	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+747	Prom	SZA	Ctrl	INDIFFERENT	3:17	vmuz4kwsKPQ	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+748	The Weekend	SZA	Ctrl	INDIFFERENT	4:33	gAX8Xan7BDw	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+749	Go Gina	SZA	Ctrl	INDIFFERENT	2:42	gpyw6M9zSlM	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+750	Garden (Say It Like Dat)	SZA	Ctrl	INDIFFERENT	3:29	bY88tNDpHyI	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+751	Broken Clocks	SZA	Ctrl	INDIFFERENT	3:52	D2330pNNvK4	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+752	Anything	SZA	Ctrl	INDIFFERENT	2:30	RLSp8lcaS2Q	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+753	Wavy (Interlude) (feat. James Fauntleroy)	SZA	Ctrl	INDIFFERENT	1:16	r8OFo-8winw	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+754	Normal Girl	SZA	Ctrl	INDIFFERENT	4:14	aVbg4uInGX0	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+755	Pretty Little Birds (feat. Isaiah Rashad)	SZA	Ctrl	INDIFFERENT	4:06	iIGet4m5pt8	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+756	20 Something	SZA	Ctrl	INDIFFERENT	3:19	vTrQXpwRXFE	MPREb_hij2TtkPGUq	UCeKDV9JgivrXehVluw5bKFA
+757	Velvet Gloves & Spit	Timber Timbre	Sincerely, Future Pollution	INDIFFERENT	4:34	IToXXyDMikw	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+758	Grifting	Timber Timbre	Sincerely, Future Pollution	INDIFFERENT	4:21	0V3RMbJxI_0	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+759	Skin Tone	Timber Timbre	Sincerely, Future Pollution	LIKE	3:11	z-F7elX5Kd8	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+760	Moment	Timber Timbre	Sincerely, Future Pollution	LIKE	5:45	HHtVl1oyh04	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+761	Sewer Blues	Timber Timbre	Sincerely, Future Pollution	LIKE	4:37	v21O8q6b73U	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+762	Western Questions	Timber Timbre	Sincerely, Future Pollution	LIKE	4:40	Vy9ZdqdZD-I	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+763	Sincerely, Future Pollution	Timber Timbre	Sincerely, Future Pollution	INDIFFERENT	4:01	mD0xS7M2Xkc	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+764	Bleu Nuit	Timber Timbre	Sincerely, Future Pollution	LIKE	4:05	RMhHclhvD0A	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+765	Floating Cathedral	Timber Timbre	Sincerely, Future Pollution	INDIFFERENT	4:45	iehI2DnR0R4	MPREb_3bGevhxMUKB	UC5VCJhyZM1tVz7IC2Uzdg8w
+766	The Space Program	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	5:42	ixfpzEqt6Og	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+767	We The People....	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	2:53	ZNDLbT_CSR8	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+768	Whateva Will Be	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	2:53	7HzJv7DwenE	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+769	Solid Wall of Sound	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	3:44	L400S6Flz2I	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+770	Dis Generation	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	3:34	I0VH9OKEFeo	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+771	Kids...	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	3:49	KArPmTJnYmQ	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+772	Melatonin	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	4:45	OZmreJMSvEY	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+773	Enough!!	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	3:21	wMA1kP7gWS4	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+774	Mobius	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	2:52	xGZlSHszVu4	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+775	Black Spasmodic	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	3:04	UNfBvHerzLs	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+776	The Killing Season	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	LIKE	2:44	zar75xmMkvU	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+777	Lost Somebody	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	4:20	boQfbi-D8ag	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+778	Movin Backwards	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	4:42	aB7AbkeauLs	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+779	Conrad Tokyo	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	3:32	Eg2ps6KtGRI	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+780	Ego (feat. Jack White)	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	3:18	fA707YJqUUI	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+781	The Donald	A Tribe Called Quest	We Got It from Here... Thank You 4 Your Service	INDIFFERENT	5:23	ReLIvQNlkLQ	MPREb_KA3Yyiy7pR2	UCiOPPAw9e2Fj-i2uMNpoRNQ
+782	Tape Machine	STRFKR	Being No One, Going Nowhere	LIKE	3:15	SkAXrvzUb5s	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+783	Satellite	STRFKR	Being No One, Going Nowhere	LIKE	3:57	oLiXGpaSoKw	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+784	Never Ever	STRFKR	Being No One, Going Nowhere	LIKE	3:35	ucnCQsp0Jm4	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+785	Something Ain't Right	STRFKR	Being No One, Going Nowhere	LIKE	4:05	NZFxTpWYjps	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+786	Open Your Eyes	STRFKR	Being No One, Going Nowhere	INDIFFERENT	3:53	FpzqXv0zfF0	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+787	interspace	STRFKR	Being No One, Going Nowhere	INDIFFERENT	1:11	KjU2YUpXu0E	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+788	In The End	STRFKR	Being No One, Going Nowhere	INDIFFERENT	3:45	ofA13iw3zTA	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+789	Maps	STRFKR	Being No One, Going Nowhere	INDIFFERENT	4:37	q8_C8PGa40s	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+790	When I'm With You	STRFKR	Being No One, Going Nowhere	INDIFFERENT	4:34	zkBHQ7NQn-o	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+791	Dark Days	STRFKR	Being No One, Going Nowhere	LIKE	3:43	LAoSQcxk97g	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+792	Being No One, Going Nowhere	STRFKR	Being No One, Going Nowhere	LIKE	4:40	xahkcHp23DE	MPREb_az2ZNl7Q2YO	UCL6qpCZZBTfp1MtI3bmL7jw
+793	Sirens of Jupiter	The Olympians	The Olympians	LIKE	3:42	4c_i_JmttKg	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+794	Venus	The Olympians	The Olympians	LIKE	4:01	keU2zM3wKcE	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+795	Apollo's Mood	The Olympians	The Olympians	LIKE	4:31	WQfx5jmzAyU	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+796	Mars	The Olympians	The Olympians	LIKE	3:38	PUUDWVhxZ4I	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+797	Neptune	The Olympians	The Olympians	LIKE	3:53	F_6wEdg2-TM	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+798	Saturn	The Olympians	The Olympians	LIKE	3:37	Yj1VHGIwZUI	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+799	Diana By My Side	The Olympians	The Olympians	LIKE	3:29	1OcjYV_SZr0	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+800	Pluto's Lament	The Olympians	The Olympians	LIKE	2:45	3ZanKCDvCUo	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+801	Mercury's Odyssey	The Olympians	The Olympians	LIKE	3:38	ta4G1xOUcrE	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+802	Europa and the Bull	The Olympians	The Olympians	LIKE	2:57	isSWqPRY4jc	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+803	Sagittarius By Moonlight	The Olympians	The Olympians	LIKE	3:30	iKbBjuZRLiI	MPREb_uIvIIC0SuA4	UCFE7df6PR_vdTFK4w73_9TQ
+804	Excuses	Bibio	Mind Bokeh	INDIFFERENT	5:59	ng1pSUsYCwA	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+805	Pretentious	Bibio	Mind Bokeh	LIKE	6:03	RkByS7xegrM	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+806	Anything New	Bibio	Mind Bokeh	LIKE	4:08	9yToXc5-lJc	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+808	Light Seep	Bibio	Mind Bokeh	LIKE	3:54	ujZ4I1bkex0	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+810	Artists' Valley	Bibio	Mind Bokeh	INDIFFERENT	6:01	d9G5T7wMYaw	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+812	Mind Bokeh	Bibio	Mind Bokeh	INDIFFERENT	2:34	zoOZXV5jVLM	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+813	More Excuses	Bibio	Mind Bokeh	INDIFFERENT	4:28	JjY5Rx0IQjo	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+814	Feminine Eye	Bibio	Mind Bokeh	LIKE	1:51	69lqWLwlpc4	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+816	Dark Fantasy	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	4:41	UTH1VNHLjng	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+817	Gorgeous	Kanye West	My Beautiful Dark Twisted Fantasy	LIKE	5:58	miJAfs7jhak	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+818	POWER	Kanye West	My Beautiful Dark Twisted Fantasy	LIKE	4:53	k8JflBNovLE	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+819	All Of The Lights (Interlude)	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	1:03	WHxRd_va950	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+820	All Of The Lights	Kanye West	My Beautiful Dark Twisted Fantasy	LIKE	5:00	DTq4XEliPag	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+821	Monster (feat. JAY-Z, Rick Ross, Nicki Minaj & Bon Iver)	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	6:19	pS6HRKZQLFA	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+822	So Appalled	Kanye West	My Beautiful Dark Twisted Fantasy	LIKE	6:38	0o9HzQ3zAcE	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+823	Devil In A New Dress	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	5:52	sk3rpYkiHe8	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+824	Runaway	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	9:08	VhEoCOWUtcU	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+825	Hell Of A Life	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	5:28	tJKNcI6jC6A	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+826	Blame Game	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	7:50	6mp72xUirfs	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+827	Lost In The World	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	4:17	1nawiZsuFI8	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+828	Who Will Survive In America	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	1:39	UB6sXiZ1ldw	MPREb_TeXtApchIhq	UCRY5dYsbIN5TylSbd7gVnZg
+829	Operation Costs (Disassembled Mix)	Lusine	Ghostly By Night	INDIFFERENT	4:33	W5hHDSyppfQ	MPREb_PwFBAyCLXNa	UCuT7nowJuCra1vUc3Q0-VOg
+830	Mowgli the Lynx	Deastro	Ghostly By Night	INDIFFERENT	3:51	FWlcauRpYRU	MPREb_PwFBAyCLXNa	UC-97C2ZiPEVcOoanJ7DrHeQ
+831	Rally Rasser Good	Matthew Dear	Ghostly By Night	INDIFFERENT	4:36	6qI50lIDtyQ	MPREb_PwFBAyCLXNa	UCwrOfciTBb4zSninHNwQ-6Q
+832	Sky of the Revolution	Shigeto	Ghostly By Night	INDIFFERENT	5:07	-Jtp4lARFBw	MPREb_PwFBAyCLXNa	UC9HVpucaFBCEw2C7y15v2CQ
+833	1st and 4th	Mux Mool	Ghostly By Night	INDIFFERENT	5:38	SnCKKBof0Vg	MPREb_PwFBAyCLXNa	UCIcg46D-9usuLVbn2sAUHlA
+834	CWCIII	Richard Devine & Telefon Tel Aviv	Ghostly By Night	INDIFFERENT	6:12	TzdibWFCctE	MPREb_PwFBAyCLXNa	
+835	Plans That Fade (Faded Dub)	Pale Sketcher	Ghostly By Night	INDIFFERENT	6:24	D43koFL5Xhs	MPREb_PwFBAyCLXNa	UCgQdQF08vg9qJkDGgbVc2SA
+836	No Back Seat	Michna	Ghostly By Night	INDIFFERENT	3:14	CWU6uN4MhmE	MPREb_PwFBAyCLXNa	UCA0hz4mVRWYpUAw1jJiEJWA
+837	Life-Size Image	Solvent	Ghostly By Night	INDIFFERENT	3:04	-TfUnAZ5wZI	MPREb_PwFBAyCLXNa	UCzH4xq-DKMXMY2vtWwx-q2w
+838	Unforetold	The Sight Below	Ghostly By Night	INDIFFERENT	5:30	ykMwvE-CSa0	MPREb_PwFBAyCLXNa	UCqBYAe6nLJnEybWRxaBhaag
+839	Rendezvous	Sasha's Bloc	Club Rendezvous	INDIFFERENT	3:20	gNCtdU7tyhA	MPREb_t26GGBNvsNq	UCrhrdx6dt-HJQ2lkl_X6g-A
+840	Wreckin' Bar (Ra Ra Ra)	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	1:22	cd51JTMlHlk	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+841	If You Wanna	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	2:55	hOkeNOlKfo8	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+842	A Lack of Understanding	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	2:59	yZ0EzG2B90o	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+843	Blow It Up	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	2:37	mHpaSMBkYRw	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+844	Wetsuit	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	4:01	D25aWri5wFI	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+846	Post Break-Up Sex	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	2:55	OjJ_N7HIr_Y	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+847	Under Your Thumb	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	2:21	IQAz39l89Dg	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+848	All In White	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	4:38	ATDtT8xu-n4	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+849	Wolf Pack	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	2:27	uq_kSwmfvvE	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+850	Family Friend	The Vaccines	What Did You Expect from The Vaccines?	INDIFFERENT	5:06	XfGvPAAxr7E	MPREb_nYKxQXIzowe	UCgkRceouNXGqiX0QHQNUr_Q
+852	Dignity	ARCA	Stretch 1 (EP)	INDIFFERENT	3:52	YGrW5SNdjOI	MPREb_eFxctRN2SFz	UCxtNUmTQo1hJ3jEW7Z8EiYg
+853	Focus	ARCA	Stretch 1 (EP)	LIKE	2:29	SQTuPXjSd8c	MPREb_eFxctRN2SFz	UCxtNUmTQo1hJ3jEW7Z8EiYg
+854	Doep	ARCA	Stretch 1 (EP)	INDIFFERENT	2:51	A9y2TkpnQfw	MPREb_eFxctRN2SFz	UCxtNUmTQo1hJ3jEW7Z8EiYg
+855	Walls	ARCA	Stretch 1 (EP)	LIKE	3:16	VZKLxnJP9gQ	MPREb_eFxctRN2SFz	UCxtNUmTQo1hJ3jEW7Z8EiYg
+856	Ass Swung Low	ARCA	Stretch 1 (EP)	INDIFFERENT	3:32	a8togjwLpYM	MPREb_eFxctRN2SFz	UCxtNUmTQo1hJ3jEW7Z8EiYg
+857	Truly Carrying	ARCA	Stretch 1 (EP)	INDIFFERENT	2:58	_cEXZtkhYrc	MPREb_eFxctRN2SFz	UCxtNUmTQo1hJ3jEW7Z8EiYg
+858	Who To Love?	Romare	Love Songs: Part Two	INDIFFERENT	3:17	A7gh4U2td_I	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+859	Your Love (You Give Me Fever)	Romare	Love Songs, Pt. 1	INDIFFERENT	5:54	foYRAxD3riA	MPREb_nPaN0EHDx8w	UC858JZWXNKcfag4hQt8cvyQ
+860	All Night	Romare	Love Songs: Part Two	INDIFFERENT	4:55	pWQD1g-FEgg	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+861	Jimi & Faye, Pt. 1	Romare	Love Songs, Pt. 1	LIKE	5:13	4UPBaNBMq_U	MPREb_nPaN0EHDx8w	UC858JZWXNKcfag4hQt8cvyQ
+862	Taste of Honey (From the City)	Romare	Love Songs, Pt. 1	INDIFFERENT	6:17	1boLCVfDnJk	MPREb_nPaN0EHDx8w	UC858JZWXNKcfag4hQt8cvyQ
+863	Je T’aime	Romare	Love Songs: Part Two	LIKE	6:57	hFpm42jb3Yo	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+864	Honey	Romare	Love Songs: Part Two	LIKE	5:40	pLn0g6QN5Vg	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+865	Hey Now (When I Give You All My Lovin')	Romare	Love Songs, Pt. 1	INDIFFERENT	2:27	WYryCLdJhIc	MPREb_nPaN0EHDx8w	UC858JZWXNKcfag4hQt8cvyQ
+866	Come Close To Me	Romare	Love Songs: Part Two	LIKE	6:42	EUjKrxybNbc	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+867	Don’t Stop	Romare	Love Songs: Part Two	LIKE	4:09	4uWWNvHP-Oc	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+868	Who Loves You?	Romare	Love Songs: Part Two	INDIFFERENT	8:26	OFYWU6cfTBI	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+869	L.U.V	Romare	Love Songs: Part Two	LIKE	6:25	wwhQa0QRzng	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+870	New Love	Romare	Love Songs: Part Two	LIKE	6:30	vVOIOQpgWqo	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+871	My Last Affair	Romare	Love Songs: Part Two	LIKE	5:37	zWB9pyT3L28	MPREb_6ry5H02c8nr	UC858JZWXNKcfag4hQt8cvyQ
+872	Met You for the First Time	Ricky Eat Acid	Mixtape 1	INDIFFERENT	1:57	hEUimcr7bfg	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+873	Madison	Ricky Eat Acid	Mixtape 1	INDIFFERENT	1:31	E85zFJWBnY8	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+874	Deep Run Park	Ricky Eat Acid	Mixtape 1	INDIFFERENT	2:27	ZPw1BBvn8A4	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+875	Outside Dan's House	Ricky Eat Acid	Mixtape 1	LIKE	2:49	ReTVHH7hzkc	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+876	Snowden McDonald's	Ricky Eat Acid	Mixtape 1	INDIFFERENT	2:26	KIpOz_S-AzU	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+877	Nasa Channel	Ricky Eat Acid	Mixtape 1	INDIFFERENT	1:15	Sjqq9Yaglc8	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+878	Skate 2 on Xbox 360	Ricky Eat Acid	Mixtape 1	INDIFFERENT	2:00	aKVoUEO_MaY	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+879	Town & Country	Ricky Eat Acid	Mixtape 1	INDIFFERENT	1:42	6EfReTU-XVs	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+880	4th of July	Ricky Eat Acid	Mixtape 1	INDIFFERENT	2:11	FW6Pc00ol5c	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+881	Daniels	Ricky Eat Acid	Mixtape 1	INDIFFERENT	2:32	9zqpwdTVGCo	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+882	Sun	Ricky Eat Acid	Mixtape 1	LIKE	1:03	7AQWIAV-vn0	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+883	What Changes Could Improve Your Level of Happiness?	Ricky Eat Acid	Mixtape 1	INDIFFERENT	3:05	WtFv--r2Y48	MPREb_zuzm00OUjoR	UCALjtt9UMVClsw9HZQ7jwGQ
+884	With Them	Young Thug	Slime Season 3	INDIFFERENT	3:18	WIuWCpHlGAc	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+885	Memo	Young Thug	Slime Season 3	INDIFFERENT	3:16	HdKRrcLmjLg	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+886	Drippin'	Young Thug	Slime Season 3	INDIFFERENT	3:07	dZSNZNz-D0c	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+887	Slime Shit (feat. Yak Gotti, Duke & Peewee Roscoe)	Young Thug	Slime Season 3	INDIFFERENT	4:39	bKj2kZrSXS4	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+888	Digits	Young Thug	Slime Season 3	LIKE	2:57	qouA-xzhYZo	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+889	Worth It	Young Thug	Slime Season 3	INDIFFERENT	3:07	92KEMb3h6Vs	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+890	Tattoos	Young Thug	Slime Season 3	INDIFFERENT	4:02	eTChhTrJzWE	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+891	Problem	Young Thug	Slime Season 3	INDIFFERENT	4:02	4cfhNvfy3Mo	MPREb_y2Z0pSij1Wg	UCm6WwhIkHJFRGQd7ttnr9lQ
+892	The Healing Component	Mick Jenkins	The Healing Component	LIKE	5:03	fpJ_6MReDnQ	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+893	Spread Love	Mick Jenkins	The Healing Component	INDIFFERENT	3:54	crTIGrVCzFY	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+894	Daniels Bloom	Mick Jenkins	The Healing Component	LIKE	3:41	tC_l3JEwPlA	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+895	Strange Love	Mick Jenkins	The Healing Component	INDIFFERENT	6:09	xsfwIyRFDCs	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+896	This Type Love?	Mick Jenkins	The Healing Component	INDIFFERENT	2:25	R4UwznSwZUs	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+897	Drowning (feat. BADBADNOTGOOD)	Mick Jenkins	The Healing Component	INDIFFERENT	6:01	g1l3uDPAdCw	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+898	As Seen in Bethsaida (feat. theMIND)	Mick Jenkins	The Healing Component	INDIFFERENT	2:38	FPAd2X3lRII	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+899	Communicate (feat. Ravyn Lenae)	Mick Jenkins	The Healing Component	INDIFFERENT	3:58	sN75MTEwTV8	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+900	Plugged	Mick Jenkins	The Healing Component	LIKE	3:56	WU2BORgd7TI	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+901	1000 Xans (feat. theMIND)	Mick Jenkins	The Healing Component	INDIFFERENT	3:16	u6x_JKH8ixM	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+902	Prosperity (feat. theMIND)	Mick Jenkins	The Healing Component	INDIFFERENT	4:45	UiB9I1Mo0iQ	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+903	Fall Through	Mick Jenkins	The Healing Component	INDIFFERENT	3:54	OMe64f5GZVw	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+904	Love, Robert Horry (feat. J-Stock)	Mick Jenkins	The Healing Component	INDIFFERENT	3:37	BkgaXkjs85s	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+905	Angles (feat. Noname & Xavier Omär)	Mick Jenkins	The Healing Component	LIKE	4:24	g57YTosTH4k	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+906	Fucked up Outro (feat. Michael Anthony)	Mick Jenkins	The Healing Component	INDIFFERENT	4:51	xbb8G3dz9lw	MPREb_oB0HdP0BbXG	UCDBhdRIanIWk7M7aorhKexg
+907	Triangle	BADBADNOTGOOD	III	LIKE	3:48	fvX7zu3Mgys	MPREb_zrFCm9CLnMm	UCeLdRRQwPb-KP8Qj7j3P5dw
+908	A Calf Born in Winter	Khruangbin	A Calf Born in Winter	LIKE	3:29	PmRzT7HMS5k	MPREb_0S0p9dPRcPW	UCW2SLxltqPa553qretr4KzQ
+909	Flipside	Hypnotic Brass Ensemble	Hypnotic Brass Ensemble	LIKE	4:52	tG0_MnP93Gg	MPREb_WJs4NFQbtUT	UC2lV_CLM3_HfEvOQY-QQFlw
+910	The Traitor	Menahan Street Band	Make the Road By Walking	LIKE	2:42	WmSb9YLDSYs	MPREb_aJm3Z1iHJvP	UCjuVg-DCkLMP-R83_iV_8pQ
+911	Down the Line (It Takes a Number)	Romare	One2Nine / Ten	LIKE	4:15	Rtcfk84Qiho	MPREb_JB1AcS5nrHP	UC858JZWXNKcfag4hQt8cvyQ
+912	Places	Shlohmo	Places - EP	LIKE	5:04	Bjo6Z9ZXqR4	MPREb_FV2cUryZ4aL	UCnCEHQJ4sNkIkkqsPp9u-Ag
+913	Gutter Glitter	Lapalux	When You're Gone	LIKE	4:04	noYoobmaH8Q	MPREb_AgO7UDbS7im	UC7_25O0eU-qJQc97_BmaCkg
+914	Wings (Floating Points Remix)	The Invisible	Wings	INDIFFERENT	7:25	FSyJq8vPMYM	MPREb_TlSu7SRrJil	UCOSXy79KX2D2wWQQEu36rkQ
+915	VIII. Juliet	Matthew Bourne	Montauk Variations	INDIFFERENT	3:20	2YcP8t7UO50	MPREb_gTWhA6oh67s	UCculhN0WQmEmXu7nia8rrVA
+916	South Congress	Airhead	Wait	LIKE	3:54	y1gUVFDErKU	MPREb_ug57cDkmx4d	UCeGDpS3UP2DtOQzTS8S_d2w
+917	Sailing Out to Sea	Matthew Halsall	Fletcher Moss Park	INDIFFERENT	1:29	TVlZ4-oiNIY	MPREb_tl5xbciURf7	UCwSovRiiv24sgTebtpipdwQ
+918	Essence of Sapphire	Dorothy Ashby	The Fantastic Jazz Harp of Dorothy Ashby		3:13	PxaqiH14Vx0		
+919	Peace Piece	Bill Evans	Say Listen	LIKE	6:42	pwCvb189P_Y	MPREb_GqCUpINOjlJ	UCriB97bZopXsBHVYOQEIIZg
