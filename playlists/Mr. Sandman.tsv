@@ -1,8 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	My Way (Remastered 2008)	Frank Sinatra	Nothing But The Best	INDIFFERENT	4:37	qQzdAsjWGPg	MPREb_5tfZLfoluiN	UC1zsfp3OD8qWQ0HfLbz2TXg
 1	Stand by Me	Ben E. King	Don't Play That Song	LIKE	2:56	b-D5yAAXYng	MPREb_yNClkub1N9w	UC7IsXxzPSpxbFRAtmxyJ_3Q
-2	Rhythm Of The Rain	The Cascades	Seleção Exclusiva	INDIFFERENT	2:24	yTGj15FXb_I	MPREb_f8M7sH6FQaG	UCdVh0vMHTfqKkJ1I02ijXjg
-3	A Change Is Gonna Come	Sam Cooke	30 Greatest Hits: Portrait of a Legend 1951-1964	INDIFFERENT	3:14	Z5zDRtEC0x0	MPREb_1tJE5PccPOx	UCYW9vMurwIpx1l0bb8gyK7g
+2	A Change Is Gonna Come	Sam Cooke	Ain't That Good News	LIKE	3:12	AaA6cIr7U_Y	MPREb_FrQ40S57vrH	UCYW9vMurwIpx1l0bb8gyK7g
+3	Rhythm Of The Rain	The Cascades	Seleção Exclusiva	INDIFFERENT	2:24	yTGj15FXb_I	MPREb_f8M7sH6FQaG	UCdVh0vMHTfqKkJ1I02ijXjg
 4	Cry Me A River	Julie London	Julie Is Her Name	INDIFFERENT	2:59	gCGNYJOrebA	MPREb_Nfkazpn8GAo	UC8VFWn9s0SJck0NE_iKkuWw
 5	Lonesome Town	Ricky Nelson	Ricky Sings Again (Expanded Edition / Remastered)	LIKE	2:14	gsf2OYzPDYA	MPREb_7vLhCHJkMKm	UCTMqfqcEMQalFFcuzoQe6Ew
 6	A Sunday Kind Of Love	Etta James	At Last!	LIKE	3:17	sfPOD2zrQSI	MPREb_QM68a58WKqx	UCieyolnCbsWzyEt6wsd7lgQ
@@ -23,8 +23,8 @@
 21	This Bitter Earth	Dinah Washington	Unforgettable (Expanded Edition)	INDIFFERENT	2:31	qkceLjNzWVk	MPREb_EUfbUIzrJmt	UCyJMoW5XxogEfARq3tx18fQ
 22	In Dreams	Roy Orbison	In Dreams	INDIFFERENT	2:49	6tEdYQozrM8	MPREb_bGh9FqEjoHI	UCjMI6Jhz6i608_B2pvYNrfg
 23	No One Knows	Dion & The Belmonds	Teen Angel	INDIFFERENT	2:38	dCCPt8ScOm4	MPREb_fA1W1OkLyXQ	UC4n-w3lbKMFnpuhDMw0jTTQ
-24	Gee Whiz, Look at His Eyes	Carla Thomas	Gee Whiz	LIKE	2:22	ghFdGP7skgM	MPREb_2Y73CZG7xGQ	UCMpfKKpbjRSQsYRKou-1H0w
-25	Cryin' Time	Ray Charles	Over The Rainbow	INDIFFERENT	2:58	BvuxPKKWdRc	MPREb_Broft4Z7uav	UClapQBGYNOoLYmCct6e3B5Q
+24	Cryin' Time	Ray Charles	Over The Rainbow	INDIFFERENT	2:58	BvuxPKKWdRc	MPREb_Broft4Z7uav	UClapQBGYNOoLYmCct6e3B5Q
+25	Gee Whiz, Look at His Eyes	Carla Thomas	Gee Whiz	LIKE	2:22	ghFdGP7skgM	MPREb_2Y73CZG7xGQ	UCMpfKKpbjRSQsYRKou-1H0w
 26	The Great Pretender	Sam Cooke	Hits Of The 50's	INDIFFERENT	3:05	apW44KApiB8	MPREb_dp60ipZKNEL	UCYW9vMurwIpx1l0bb8gyK7g
 27	I Must Be Dreaming	Neil Sedaka	The Very Best	INDIFFERENT	2:15	5Aj56jvPogk	MPREb_cdCASHPIu2k	UCUGiTIfFJARlo8U6gaKP8FA
 28	Dear Heart	Andy Williams	Dear Heart	INDIFFERENT	2:54	AXvZbZ5VSjc	MPREb_J25KYAXjGuU	UC57u7-9NbAvxc4upxxnKlyw
@@ -43,14 +43,14 @@
 41	Pledging My Love	Johnny Ace	America's Greatest Hits 1955 Expanded Edition, Vol. 1	INDIFFERENT	2:28	oswmHeGmkLc	MPREb_IAq25v4JMQy	UC6NX1LlQt7YMI5YIGMN5wCQ
 42	Every Day Will Be Like a Holiday	The Sweet Inspirations	Sweets For My Sweet	INDIFFERENT	2:31	bsB6ApJLANo	MPREb_WekONtJQvAA	UCXKplfHdw2Vld5S8MVjsCCw
 43	Cole, Cooke & Redding	Wilson Pickett	Pick It Wilson	INDIFFERENT	3:53	nVyGSg0hueU	MPREb_6xBJavBlQ6w	UC_nBrnmRNUgbvTbsr20gssQ
-44	Secret Love	Sam Cooke	Hits Of The 50's	INDIFFERENT	2:49	qa__E3NM2tY	MPREb_dp60ipZKNEL	UCYW9vMurwIpx1l0bb8gyK7g
-45	Stop The Wedding	Etta James	The Essential Etta James	INDIFFERENT	2:52	NbHqiZheg7U	MPREb_O3YucLtQKoT	UCieyolnCbsWzyEt6wsd7lgQ
+44	Stop The Wedding	Etta James	The Essential Etta James	INDIFFERENT	2:52	NbHqiZheg7U	MPREb_O3YucLtQKoT	UCieyolnCbsWzyEt6wsd7lgQ
+45	Secret Love	Sam Cooke	Hits Of The 50's	INDIFFERENT	2:49	qa__E3NM2tY	MPREb_dp60ipZKNEL	UCYW9vMurwIpx1l0bb8gyK7g
 46	18. Like Strangers	THE EVERLY BROTHERS	THE EVERLY BROTHERS	INDIFFERENT	1:59	oxzj9kfS1w8	MPREb_w3VwfBysngA	UC6HvsRZWT4Z_T-mJmYxKmLg
 47	Will You Still Love Me Tomorrow	Ben E. King	Pop Corn Oldies - The Groove	INDIFFERENT	2:43	90mC4_5kJPE	MPREb_UmQKmZKzY6S	UC7IsXxzPSpxbFRAtmxyJ_3Q
 48	All My Sorrows	The Chordettes	The Chordettes' Best	INDIFFERENT	2:25	OeEfoV3hsxo	MPREb_VN0SaRIbf4I	UCbN48WfBpHTGcj4yxl8Revg
 49	Twilight Time	Andy Williams	Two Time Winners	INDIFFERENT	2:37	d_37TuBgR_k	MPREb_jBvlA0xdkGc	UC57u7-9NbAvxc4upxxnKlyw
-50	You Send Me	Sam Cooke	40 Great Songs for Rockin' & Lovin' on Valentine's Day	INDIFFERENT	2:44	SIjKRrpev10	MPREb_RXxiVZoEemP	UCYW9vMurwIpx1l0bb8gyK7g
-51	Are You Keeping Score	The Exciters	Tell Him - The Best Of	INDIFFERENT	2:44	sHKEPtQrUsQ	MPREb_vwBe9sD0vqq	UCJ9EjFMQSTCPeRiv2CA2oJQ
+50	Are You Keeping Score	The Exciters	Tell Him - The Best Of	INDIFFERENT	2:44	sHKEPtQrUsQ	MPREb_vwBe9sD0vqq	UCJ9EjFMQSTCPeRiv2CA2oJQ
+51	You Send Me	Sam Cooke	40 Great Songs for Rockin' & Lovin' on Valentine's Day	INDIFFERENT	2:44	SIjKRrpev10	MPREb_RXxiVZoEemP	UCYW9vMurwIpx1l0bb8gyK7g
 52	Once There Lived A Fool	Anita O'Day	Times Square Cool A Jazz Sampler	INDIFFERENT	2:59	grRehITLFBg	MPREb_R8FPMutfsb4	UC4GFW-ropyi5RuyL-Yac4NA
 53	Georgia On My Mind (Live)	Ray Charles	Cruisin' To The Hits Of The '50s & '60s	INDIFFERENT	7:31	AdNbY2pKNBI	MPREb_U4YfwIr7PM7	UClapQBGYNOoLYmCct6e3B5Q
 54	So Long, Goodnight	The Exciters	Tell Him - The Best Of	INDIFFERENT	2:08	0Me2pp2E7W8	MPREb_vwBe9sD0vqq	UCJ9EjFMQSTCPeRiv2CA2oJQ
