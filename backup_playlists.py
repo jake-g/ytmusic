@@ -9,7 +9,7 @@ PLAYLIST_SONG_LIMIT=10000
 USER='Jake G'
 REMOVE_DISLIKE = True
 BACKUP_DIR  = './playlists/'
-METADATA_TSV = '_metadata.tsv'
+PLAYLISTS_TSV = '_playlists.tsv'
 TRACKS_TSV = '_tracks.tsv'
 
 PLAYLIST_TSV_COLS = ['title', 'artist', 'album', 'likeStatus', 'duration', 'videoId', 'albumId', 'artistId']
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     print('Backed up joined playlist tracks to: %s' % BACKUP_DIR)
 
     all_metadata = pd.DataFrame(all_metadata)[METADATA_TSV_COLS]
-    all_metadata.to_csv(os.path.join(BACKUP_DIR, METADATA_TSV), sep='\t', header=True)
+    all_metadata.to_csv(os.path.join(BACKUP_DIR, PLAYLISTS_TSV), sep='\t', header=True)
     print('Backed up playlist metadata:\n%s' % all_metadata)
     print('Backed up %d playlists in %d minutes to: %s' % (len(all_metadata), elapsed_minutes, BACKUP_DIR))
 
