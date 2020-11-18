@@ -99,7 +99,7 @@ def get_track_info(yt, row):
 def get_tracks_info(yt, track_df):
     i = 0
     tracks_w_info = []
-    for name, row in track_df.iterrows():
+    for vid, row in track_df.iterrows():
         i += 1
         print('(%d/%d): %s - %s - %s' % (i, len(track_df),
                                          row['artist'], row['album'], row['title']))
@@ -115,13 +115,8 @@ if __name__ == "__main__":
     AUTH = 'headers_auth.json'
 
     yt_api = YTMusic(AUTH)
-
     playlist_tracks = backup_playlists_and_collect_tracks(
         yt_api, BACKUP_DIR, remove_disliked=True, include_library_tracks=True)
-    # Tmp
-    playlist_tracks.to_csv(os.path.join(
-        BACKUP_DIR, '_playlist_tracks_no_meta.tsv'), sep='\t', header=True)
-
     track_db = pd.read_csv(os.path.join(
         BACKUP_DIR, TRACKS_TSV), sep='\t', index_col=0)
     new_tracks = playlist_tracks.loc[set(
