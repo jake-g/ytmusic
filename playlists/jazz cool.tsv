@@ -1,68 +1,122 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-0	Gloomy Morning	Art Farmer	Gentle Eyes	LIKE	5:20	OrYtrRD_1_8	MPREb_st0Bru57TUZ	UCcxEwxKM5GEAGWTrVEoyEAw
-1	Branca	Baden Powell	Lembranças	LIKE	4:28	4CDmI36vZb8	MPREb_SCDFToaEBJF	UC3wsl-MT-3zBC-PSy7jT5Gw
-2	Misty	Ben Webster	Gone With The Wind	LIKE	3:35	_8eANdZ3dd4	MPREb_FuAwiDi2VHN	UCANynQMnWY6tEaDl4eWwm1Q
-3	Tenderly	Ben Webster	King Of The Tenors	LIKE	3:02	rFK4wpShs5g	MPREb_Gk2vNrddThL	UCANynQMnWY6tEaDl4eWwm1Q
-4	Peace Piece	Bill Evans	Everybody Digs Bill Evans	LIKE	6:44	pBCS2YjtIXY	MPREb_ZTNPucg97Mu	UCriB97bZopXsBHVYOQEIIZg
-5	Angel Face	Bill Evans	Intermodulation	LIKE	6:35	IXzL-lN1Ntw	MPREb_7UJBOS6x6C9	UCriB97bZopXsBHVYOQEIIZg
-6	Spring Is Here	Bill Evans Trio	Plays For Lovers	LIKE	5:07	vwUahKrv1_Q	MPREb_Hkijn3F9Ghm	UCriB97bZopXsBHVYOQEIIZg
-7	My Foolish Heart	The Bill Evans Trio	Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)	LIKE	4:58	3y0lb5OG69E	MPREb_a2ZHJZi2dxM	UCriB97bZopXsBHVYOQEIIZg
-8	Goodbye	Bill Holman	In a Jazz Orbit	LIKE	3:29	3e4sl3skCDE	MPREb_vLDsAnW3OWr	UCz3OaEwDdSzQUzHX__Vo2yg
-9	The Awakening	Bud Shank	Groove Jazz	LIKE	4:26	cNudXe7TXVU	MPREb_kK9Fa807vyK	UCUsbdgI8UrgydSYjl_9IeIQ
-10	"The Surf And I (From ""Slippery When Wet"" Soundtrack)"	Bud Shank	Slippery When Wet (Original Motion Picture Soundtrack)	LIKE	3:09	1PEnQSsYS8g	MPREb_ByB2dxh8TkC	UCUsbdgI8UrgydSYjl_9IeIQ
-11	Track B- Duete Solo Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	6:46	f9FzSSGTufQ	MPREb_k0emTDEsIH3	UCXSaOCck3oVxhB4W_4Ca3MQ
-12	Mood Indigo	Charles Mingus	Charles Mingus, Jazz Masters Deluxe Collection	LIKE	4:44	6aj8pyAo9Xs	MPREb_9twWTJJdp26	UCXSaOCck3oVxhB4W_4Ca3MQ
-13	Stardust	Clifford Brown	Clifford Brown With Strings	LIKE	3:23	tzr5yTHLE5g	MPREb_AbeTjVwfk8J	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-14	Don't Take Your Love From Me	Coleman Hawkins	Night Hawk	LIKE	8:37	nUjCa7EY19s	MPREb_2sySVmX6n6c	UCaqOj5uQl-733nBtBpEEGBw
-15	Audrey	The Dave Brubeck Quartet	Ken Burns Jazz-Dave Brubeck	LIKE	3:33	sIH3CUbkLas	MPREb_2yCShUcipNG	UCMBevFAp40kVlvIcOvzv5Bw
-16	Quiet Mood	The Dave Brubeck Quartet	Offshot	LIKE	6:01	G9s9N9GdzEg	MPREb_bkE3Jtjbs84	UCMBevFAp40kVlvIcOvzv5Bw
 17	Where We Used To Live	e.s.t. Esbjörn Svensson Trio	Tuesday Wonderland	LIKE	4:27	wLwCZhHUwVc	MPREb_UmxDLowdxX8	UCUzDPhpNPFEJWHSdriQfZAQ
-18	Tenderly	George Benson	Guitar Man	LIKE	2:02	p8fsj7oBrFo	MPREb_aucPM2c75Cv	UC16DzwxorG8xZCoaqzaUQSQ
-19	Wintersong	Gerry Mulligan	Blues In Time	LIKE	6:59	AQdpslPZiQ0	MPREb_eNVIXIBFVL8	UC7aJZwPljwluquEXN1j3p4w
-20	I See Your Face Before Me	Hank Mobley	Dippin'	LIKE	5:29	MetWGkwlpHk	MPREb_98Alt0sXw1U	UCASAhhcTDUg2_r0Nt60mxaQ
-21	Two for the Road	Harvie Swartz	Steve Kuhn: Mostly Ballads	LIKE	2:52	lrNZuI2hgRs	MPREb_VnxfsyETd7X	UCFwev4E3woHuWaeGzXVO1Kg
-22	Speak Like A Child	Herbie Hancock	Speak Like A Child (Rudy Van Gelder Edition / Expanded Edition)	LIKE	7:51	FhKBbsTspJA	MPREb_iUNJBVYI9pa	UCq_O_14tCKbx9U9uUT_LEPA
-23	Loie (Rudy Van Gelder Edition / 2007 Digital Remaster)	Ike Quebec	Bossa Nova Soul Samba (Rudy Van Gelder Edition)	INDIFFERENT	3:10	WL3lJITPb8U	MPREb_OHiXQMmwSqG	UCEhbEqOBqliX5pTStANPYBQ
-24	I Cover the Waterfront	Joe Roland	Easy Living	LIKE	3:44	1_psnf6PrTk	MPREb_kDph78DhzgQ	UCT5CeeBiuS0yGArH1UI6d5A
-25	Naima	John Coltrane	Giant Steps	LIKE	4:18	mLlwp1aB8Eo	MPREb_AhnSQis5zq6	UCH4T2kv7rr9qnuP0DOXLxMA
-26	Homework	Marian McPartland	Contrasts	LIKE	3:32	DwK5NZqDTEU	MPREb_TqWRd6GGGCg	UCUKvRda5t2ieVqNpizRwUeA
-27	Days Of Wine And Roses	McCoy Tyner	Nights Of Ballads & Blues	LIKE	3:22	XD9P3M7FARM	MPREb_JaTxqQKi4bH	UCry80POSt0-Wwzfn1geo9_A
-28	Bye Bye Blackbird (feat. John Coltrane & Red Garland)	Miles Davis	The Essential Miles Davis	LIKE	7:54	hnV29LznOFs	MPREb_JqhnDsifJph	UCIev2PktTH5mI-QlGmbUkiw
-29	All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	11:33	xb3iCpu-JFs	MPREb_bhSA1pu1e1E	UCIev2PktTH5mI-QlGmbUkiw
-30	Stella By Starlight (feat. John Coltrane & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	4:45	PhkQRiF_bG4	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
-31	Summertime	Miles Davis	Porgy And Bess	LIKE	3:18	EPj22GjTUzw	MPREb_WrPxPSzddLs	UCIev2PktTH5mI-QlGmbUkiw
-32	Why Are You Blue	The Modern Jazz Quartet	Lonely Woman	LIKE	6:35	Sldb-l4VOLA	MPREb_9j6qErtGNks	UCQjf61NuHvxHrm4gkdx0ZaQ
-33	One Never Knows	The Modern Jazz Quartet	No Sun In Venice	LIKE	9:13	93FbWvdrCPk	MPREb_1cTO6OnteXT	UCQjf61NuHvxHrm4gkdx0ZaQ
-34	Crespuscular Air	Mose Allison	Local Color	LIKE	3:44	6SVWvszGfzc	MPREb_tkMIrzzngTp	UCHftue3JEfzN9X6bURGSB3g
-35	Icon (feat. Tivon Pennicott)	The Next Step Quintet	2	LIKE	4:11	kBiIS_2qkAI	MPREb_4BQDqctC9sY	UCY9UL_B1nbTPiQEJHX8-Ikg
-36	People	The Oscar Peterson Trio	We Get Requests	LIKE	3:34	16Rnelnh2NU	MPREb_cWaCJ9oBFOr	UCGO2MrCyB3dLCID5wLE0JUw
-37	Bewitched	Paul Desmond	Cool Imagination	LIKE	6:24	kz_fHe6im7E	MPREb_utBPJ8DZ3VH	UCnEtwvQYjKy9Px5lg9TO8sQ
-38	When Joanna Loved Me	Paul Desmond	Easy Living	LIKE	5:42	DS51jwmqpO4	MPREb_DWS579mh34h	UCnEtwvQYjKy9Px5lg9TO8sQ
-39	Here's That Rainy Day	Paul Desmond	Easy Living	LIKE	5:45	NrWetMWq2fc	MPREb_DWS579mh34h	UCnEtwvQYjKy9Px5lg9TO8sQ
-40	Nancy	Paul Desmond	Take Ten	LIKE	6:07	Bl7ls688LR4	MPREb_ayMKddp9KBN	UCnEtwvQYjKy9Px5lg9TO8sQ
-41	Good Morning Heartache	Scott Hamilton	Remembering Billie	LIKE	5:22	A1rSzByQxnQ	MPREb_vLAHrKjjWTu	UCW6P3Iti88X6ujyhleXcBqg
-42	My Reverie	Sonny Rollins Quartet	Tenor Madness	LIKE	6:06	XLHJf_rdG0c	MPREb_PNVksdO5utt	UCqwmTSEZTKX_BmxlmDSOzGQ
-43	A Handful Of Stars	Stan Getz	West Coast Jazz	LIKE	3:24	2ux68AIfnkI	MPREb_8ECGkuYZwkK	UCITWDrIiWv0Y-zj8xrvoY-Q
+118	Yesterday's Child	Wes Montgomery Trio	Portrait Of Wes	LIKE	4:13	xkgjDHR8j9I	MPREb_jU2MdDGxecI	UCYs8ep9Xe3RQc3Oy4BWKNAw
+49	Infant Eyes (Remastered1998/Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil	LIKE	6:54	CYg_3pQN-LU	MPREb_pM93M0SFf4M	UC3X4afoYfFCLWw1LTfeLCqA
+164	Teru (Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering)	Wayne Shorter	Adam's Apple (Rudy Van Gelder Edition)	LIKE	6:12	1N6AmFNlgWU	MPREb_RqvtCvPaLQP	UC3X4afoYfFCLWw1LTfeLCqA
+117	Lover Man	Warne Marsh	Intuition	LIKE	4:32	AuoCrR0ce1k	MPREb_8tan2cJsLo9	UCW0Q1uGoI_5Bm6nkQp-K40g
+163	Alone Together	Walter Bishop Jr.	Milestones	LIKE	6:50	TizUk7j4PQ8	MPREb_tfvPnFMYQoo	UCxe9ovObUunSBRI3MS_ZVcw
+48	Star Song	Vince Guaraldi	The Definitive Vince Guaraldi	LIKE	4:49	rS9w-58xIv8	MPREb_J91zccnCw2Q	UC_DRP-u7c3iOwytg4-ddifw
+116	On Green Dolphin Street	Vince Guaraldi	In Person	LIKE	5:54	loXiFNnO5tQ	MPREb_GGaAXFxFTIh	UC_DRP-u7c3iOwytg4-ddifw
+125	Peace (Instrumental)	Tommy Flanagan	Something Borrowed, Something Blue	LIKE	6:14	a-L492oAZio	MPREb_QqMVwLTDAXh	UCqU1W9XMO-9cQ6s1rvHevMg
+115	Willow Weep For Me	Thelonious Monk Trio	Ruby My Dear	LIKE	3:01	9F6ZyAd5QNI	MPREb_hpVvDPvsh6d	UCyCL_gVNVoWZTjkw-KnuIDg
 44	I Surrender Dear	Thelonious Monk	Brilliant Corners (Keepnews Collection)	LIKE	5:27	fdECHcQgclk	MPREb_SD38THFpaoU	UCyCL_gVNVoWZTjkw-KnuIDg
 45	Ruby My Dear (Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster)	Thelonious Monk	Genius Of Modern Music: Vol. 1	LIKE	3:07	e8zvyBHLyok	MPREb_iOmBP9iVWtx	UCyCL_gVNVoWZTjkw-KnuIDg
 46	April In Paris	Thelonious Monk	Thelonious Himself	LIKE	3:51	8_krSkbHeS8	MPREb_l6kO7lgyIm4	UCyCL_gVNVoWZTjkw-KnuIDg
 47	Ruby, My Dear (feat. John Coltrane)	Thelonious Monk	Thelonious Monk with John Coltrane (OJC Remaster)	LIKE	6:22	36whtV-POOs	MPREb_JFeS3pWYCdL	UCyCL_gVNVoWZTjkw-KnuIDg
-48	Star Song	Vince Guaraldi	The Definitive Vince Guaraldi	LIKE	4:49	rS9w-58xIv8	MPREb_J91zccnCw2Q	UC_DRP-u7c3iOwytg4-ddifw
-49	Infant Eyes (Remastered1998/Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil	LIKE	6:54	CYg_3pQN-LU	MPREb_pM93M0SFf4M	UC3X4afoYfFCLWw1LTfeLCqA
-50	Spring Is Here	Bill Evans	Portrait In Jazz [Keepnews Collection]	LIKE	5:09	x2JSi_UZxjA	MPREb_qstOIKc5y7B	UCriB97bZopXsBHVYOQEIIZg
-51	Lonely Town	Gerry Mulligan	Jeru	LIKE	5:34	sxCjpWAgr0E	MPREb_QDFEVMZrJS6	UC7aJZwPljwluquEXN1j3p4w
-52	Peace Piece	Bill Evans	LateNightTales (Unmixed Tracks)	LIKE	6:42	vciaARtRRWM	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIdbGF0ZW5pZ2h0dGFsZXMgdW5taXhlZCB0cmFja3MaBmJvbm9ibyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIKYmlsbCBldmFucw
-53	I Hear A Rhapsody	Bill Evans	Undercurrent	LIKE	4:41	_yllZCBksf0	MPREb_dk5GfcQBl45	UCriB97bZopXsBHVYOQEIIZg
-54	Peace Piece	Bill Evans	Everybody Digs Bill Evans	LIKE	6:44	pBCS2YjtIXY	MPREb_ZTNPucg97Mu	UCriB97bZopXsBHVYOQEIIZg
-55	Turn Out The Stars	Bill Evans	Intermodulation	LIKE	7:35	OTZ1VT29Kpk	MPREb_7UJBOS6x6C9	UCriB97bZopXsBHVYOQEIIZg
-56	Skating In Central Park	Bill Evans	Undercurrent	LIKE	5:25	qGF7873UxTw	MPREb_dk5GfcQBl45	UCriB97bZopXsBHVYOQEIIZg
-57	Stairway To The Stars	Bill Evans	Undercurrent	LIKE	5:42	-skD2seYSy0	MPREb_dk5GfcQBl45	UCriB97bZopXsBHVYOQEIIZg
+79	Round Midnight	Thelonious Monk	After Dark Jazz	LIKE	5:43	xwVGLtGc3y4	MPREb_VfFLxqIITV2	UCyCL_gVNVoWZTjkw-KnuIDg
+36	People	The Oscar Peterson Trio	We Get Requests	LIKE	3:34	16Rnelnh2NU	MPREb_cWaCJ9oBFOr	UCGO2MrCyB3dLCID5wLE0JUw
+35	Icon (feat. Tivon Pennicott)	The Next Step Quintet	2	LIKE	4:11	kBiIS_2qkAI	MPREb_4BQDqctC9sY	UCY9UL_B1nbTPiQEJHX8-Ikg
+32	Why Are You Blue	The Modern Jazz Quartet	Lonely Woman	LIKE	6:35	Sldb-l4VOLA	MPREb_9j6qErtGNks	UCQjf61NuHvxHrm4gkdx0ZaQ
+33	One Never Knows	The Modern Jazz Quartet	No Sun In Venice	LIKE	9:13	93FbWvdrCPk	MPREb_1cTO6OnteXT	UCQjf61NuHvxHrm4gkdx0ZaQ
+114	Angel Eyes	The Modern Jazz Quartet	Fontessa	LIKE	3:52	WYCWwDXERa4	MPREb_JEZFhNLwJer	UCQjf61NuHvxHrm4gkdx0ZaQ
+162	Something I Dreamed Last Night	The Miles Davis Quintet	Steamin' [Rudy Van Gelder edition]	LIKE	6:13	-bhUjA-7Anc	MPREb_DjSQr6mJdMf	UCIev2PktTH5mI-QlGmbUkiw
+15	Audrey	The Dave Brubeck Quartet	Ken Burns Jazz-Dave Brubeck	LIKE	3:33	sIH3CUbkLas	MPREb_2yCShUcipNG	UCMBevFAp40kVlvIcOvzv5Bw
+16	Quiet Mood	The Dave Brubeck Quartet	Offshot	LIKE	6:01	G9s9N9GdzEg	MPREb_bkE3Jtjbs84	UCMBevFAp40kVlvIcOvzv5Bw
+82	Strange Meadow Lark	The Dave Brubeck Quartet	Time Out	LIKE	7:23	r4U0u00mqyg	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
+102	Take Five	The Dave Brubeck Quartet	Time Out	LIKE	5:25	QsHc2IGmk60	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
+103	Kathy's Waltz	The Dave Brubeck Quartet	Time Out	LIKE	4:49	cHmM5SaMK1o	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
+154	Take Five	The Dave Brubeck Quartet	Time Out	LIKE	5:25	ryA6eHZNnXY	MPREb_ExuBWZ82MoW	UCMBevFAp40kVlvIcOvzv5Bw
+7	My Foolish Heart	The Bill Evans Trio	Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)	LIKE	4:58	3y0lb5OG69E	MPREb_a2ZHJZi2dxM	UCriB97bZopXsBHVYOQEIIZg
 58	Waltz for Debby (Take 2)	The Bill Evans Trio	Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)	LIKE	7:01	uXs1kT9sR5A	MPREb_a2ZHJZi2dxM	UCriB97bZopXsBHVYOQEIIZg
 59	Waltz for Debby (take 1) (Alternate Take)	The Bill Evans Trio	Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)	LIKE	6:50	mNBHiPudVYU	MPREb_a2ZHJZi2dxM	UCriB97bZopXsBHVYOQEIIZg
-60	Track C-Group Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	7:23	vv3DnIvCifI	MPREb_k0emTDEsIH3	UCXSaOCck3oVxhB4W_4Ca3MQ
-61	Myself When I Am Real	Charles Mingus	Mingus Plays Piano	LIKE	7:36	tk71dhCz7wM	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
-62	Memories Of You	Charles Mingus	Mingus Plays Piano	LIKE	4:36	pDH8enmhAOI	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
-63	She's Just Miss Popular Hybrid	Charles Mingus	Mingus Plays Piano	LIKE	3:09	Hq9tGgP53VI	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
+95	Soulville	The Ben Webster Quintet	Soulville	LIKE	8:07	f3RFT3exSF0	MPREb_yEpiYIxBb0Y	UCANynQMnWY6tEaDl4eWwm1Q
+43	A Handful Of Stars	Stan Getz	West Coast Jazz	LIKE	3:24	2ux68AIfnkI	MPREb_8ECGkuYZwkK	UCITWDrIiWv0Y-zj8xrvoY-Q
+78	Doralice (feat. Antonio Carlos Jobim)	Stan Getz	Getz / Gilberto	LIKE	2:47	2xIiRDb6G40	MPREb_JeO5xmhgmAo	UCITWDrIiWv0Y-zj8xrvoY-Q
+42	My Reverie	Sonny Rollins Quartet	Tenor Madness	LIKE	6:06	XLHJf_rdG0c	MPREb_PNVksdO5utt	UCqwmTSEZTKX_BmxlmDSOzGQ
+150	My Ship	Sonny Rollins & Co.	The Standard Sonny Rollins	LIKE	4:12	15QW5uN17UI	MPREb_92KdhhJ62oP	UCqwmTSEZTKX_BmxlmDSOzGQ
+145	Dreamsville	Shelly Manne and His Men	Shelly Manne and His Men Play Peter Gunn	LIKE	3:51	OO5z5_Thc6w	MPREb_AynNoLfkKag	UC_UsjRxH5RVe7z6BGRHFXyw
+41	Good Morning Heartache	Scott Hamilton	Remembering Billie	LIKE	5:22	A1rSzByQxnQ	MPREb_vLAHrKjjWTu	UCW6P3Iti88X6ujyhleXcBqg
+37	Bewitched	Paul Desmond	Cool Imagination	LIKE	6:24	kz_fHe6im7E	MPREb_utBPJ8DZ3VH	UCnEtwvQYjKy9Px5lg9TO8sQ
+38	When Joanna Loved Me	Paul Desmond	Easy Living	LIKE	5:42	DS51jwmqpO4	MPREb_DWS579mh34h	UCnEtwvQYjKy9Px5lg9TO8sQ
+39	Here's That Rainy Day	Paul Desmond	Easy Living	LIKE	5:45	NrWetMWq2fc	MPREb_DWS579mh34h	UCnEtwvQYjKy9Px5lg9TO8sQ
+40	Nancy	Paul Desmond	Take Ten	LIKE	6:07	Bl7ls688LR4	MPREb_ayMKddp9KBN	UCnEtwvQYjKy9Px5lg9TO8sQ
+171	Here's That Rainy Day	Paul Desmond	Cool Imagination	LIKE	5:40	CWSoK-cQjKM	MPREb_utBPJ8DZ3VH	UCnEtwvQYjKy9Px5lg9TO8sQ
+74	Stolen Moments	Oliver Nelson	The Blues and the Abstract Truth	LIKE	8:46	cszIgQsPff4	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
+75	Cascades	Oliver Nelson	The Blues and the Abstract Truth	LIKE	5:32	qWpGO341XSQ	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
+76	Yearnin'	Oliver Nelson	The Blues and the Abstract Truth	LIKE	6:24	RJUq0IlPbyI	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
+34	Crespuscular Air	Mose Allison	Local Color	LIKE	3:44	6SVWvszGfzc	MPREb_tkMIrzzngTp	UCHftue3JEfzN9X6bURGSB3g
+113	My Funny Valentine	Miles Davis Quintet	Miles Davis: Milestones	LIKE	6:02	Qplyam5e5_E	MPREb_08SMKR0VaaS	UCIev2PktTH5mI-QlGmbUkiw
+28	Bye Bye Blackbird (feat. John Coltrane & Red Garland)	Miles Davis	The Essential Miles Davis	LIKE	7:54	hnV29LznOFs	MPREb_JqhnDsifJph	UCIev2PktTH5mI-QlGmbUkiw
+29	All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	11:33	xb3iCpu-JFs	MPREb_bhSA1pu1e1E	UCIev2PktTH5mI-QlGmbUkiw
+30	Stella By Starlight (feat. John Coltrane & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	4:45	PhkQRiF_bG4	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
+31	Summertime	Miles Davis	Porgy And Bess	LIKE	3:18	EPj22GjTUzw	MPREb_WrPxPSzddLs	UCIev2PktTH5mI-QlGmbUkiw
+72	'Round Midnight (feat. John Coltrane)	Miles Davis	The Essential Miles Davis	LIKE	5:56	zB18sNTgf3U	MPREb_JqhnDsifJph	UCIev2PktTH5mI-QlGmbUkiw
+73	Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	9:27	UpwlFYvdUXY	MPREb_bhSA1pu1e1E	UCIev2PktTH5mI-QlGmbUkiw
+142	Duet For Saxophone & Guitar	Miles Davis	Conception	LIKE	2:38	BZxTlMr6CbE	MPREb_vi3XlnHJPyC	UCIev2PktTH5mI-QlGmbUkiw
+143	So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	9:23	9rD3zdscDRQ	MPREb_bhSA1pu1e1E	UCIev2PktTH5mI-QlGmbUkiw
+144	Bye Bye Blackbird	Miles Davis	'Round About Midnight (Legacy Edition)	LIKE	7:55	CieM9gurwZ4	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
+161	'Round Midnight	Miles Davis	'Round About Midnight (Legacy Edition)	LIKE	5:56	7r77GLcGlvQ	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
+149	Sunset	McCoy Tyner Trio	Inception	LIKE	4:42	1XtUK5Boy7o	MPREb_4xr34cZEsyO	UC3jpT0TjNg9Lgh2nGTJqbNQ
+27	Days Of Wine And Roses	McCoy Tyner	Nights Of Ballads & Blues	LIKE	3:22	XD9P3M7FARM	MPREb_JaTxqQKi4bH	UCry80POSt0-Wwzfn1geo9_A
+141	When Sunny Gets Blue	McCoy Tyner	Today And Tomorrow	LIKE	4:43	frYLvC0mM50	MPREb_I4xhBTPlaLe	UCry80POSt0-Wwzfn1geo9_A
+112	Hope so Elmo	Max Roach	The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali	LIKE	3:53	lkl9Obae4I4	MPREb_sR732KiaNTe	UCxTSDTDzVM4MW42oD9iTPqQ
+124	The Essence	Marquis Hill	Modern Flows EP, Vol. 1	LIKE	4:20	QNB-wdEXSI4	MPREb_m7akhNL4JTc	UC_BX6opGq49YU-_z1of-vbw
+26	Homework	Marian McPartland	Contrasts	LIKE	3:32	DwK5NZqDTEU	MPREb_TqWRd6GGGCg	UCUKvRda5t2ieVqNpizRwUeA
+140	These Foolish Things	Lennie Tristano	The Very Best Of	LIKE	2:36	atCztQ9f0uI	MPREb_0JTsOrwgVNd	UC6KJj6EShWvAtNn0Jr9KRAg
+138	Melancholee (Remastered 2000/Rudy Van Gelder Edition)	Lee Morgan	Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)	LIKE	6:14	IhoRxd9RiDQ	MPREb_3PjxiPfbSn1	UCw-ObIVVFPxf6McrsKHQT0A
+139	Twilight Mist (2005 Digital Remaster)	Lee Morgan	Tom Cat	LIKE	6:56	KWTgEvBltI0	MPREb_qOEfLOeppXW	UCw-ObIVVFPxf6McrsKHQT0A
+111	I Can't Get Started	Lee Konitz	Lee Konitz with Warne Marsh	LIKE	3:56	ZV5n5VcOigQ	MPREb_HdkRbI1iVgh	UCr5SYAnLH5Mc2OARzNkFfAg
+123	Skylark	Lee Konitz	Konitz	LIKE	3:06	CKMxw_sHMX4	MPREb_g0UMdvIFUPL	UCr5SYAnLH5Mc2OARzNkFfAg
+110	Round Midnight (2001 Remaster)	Johnny Smith	The Sound Of Johnny Smith	LIKE	4:28	1jK2j32ngFA	MPREb_t9zz7t2mce1	UCOQ5iX2y8S1mVAM-oVDvc8Q
+137	Passion Flower	Johnny Hodges & his Orchestra	The Great Ellington Units	LIKE	3:11	e-ab-Z8R7ME	MPREb_kgR0wzRxO4h	UCcQc-cBJhYq08uHGKEUHd2w
+109	You Don't Know What Love Is	John Coltrane Quartet	Ballads	LIKE	5:16	L4YgvQ88sQ4	MPREb_uf66pRDufT2	UCH4T2kv7rr9qnuP0DOXLxMA
+122	It's Easy To Remember	John Coltrane Quartet	Ballads	LIKE	2:50	XpDjDhRTEtk	MPREb_uf66pRDufT2	UCH4T2kv7rr9qnuP0DOXLxMA
+160	I Wish I Knew	John Coltrane Quartet	Ballads	LIKE	4:51	T06fMkPkFYw	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
+168	It's Easy To Remember	John Coltrane Quartet	Ballads	LIKE	2:46	T8m6gY2OpTE	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
+25	Naima	John Coltrane	Giant Steps	LIKE	4:18	mLlwp1aB8Eo	MPREb_AhnSQis5zq6	UCH4T2kv7rr9qnuP0DOXLxMA
+88	Blue Train (Remastered 2003)	John Coltrane	Blue Train (Expanded Edition)	LIKE	10:45	HT_Zs5FKDZE	MPREb_rFKLCbFI9Te	UCH4T2kv7rr9qnuP0DOXLxMA
+89	Summertime	John Coltrane	My Favorite Things	LIKE	11:37	0p7HhzzfgyE	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
+90	Theme For Ernie	John Coltrane	The Very Best Of John Coltrane	LIKE	4:59	KKa4lT_QMjs	MPREb_NYCejGQpLnF	UCH4T2kv7rr9qnuP0DOXLxMA
+136	Everytime We Say Goodbye	John Coltrane	My Favorite Things	LIKE	5:45	4e1qcBbZlg8	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
+158	I'm Old Fashioned (Remastered 2003/Rudy Van Gelder Edition)	John Coltrane	Blue Train (Expanded Edition)	LIKE	7:58	eMqOA7qN9B4	MPREb_rFKLCbFI9Te	UCH4T2kv7rr9qnuP0DOXLxMA
+159	A Love Supreme, Pt. IV - Psalm	John Coltrane	A Love Supreme	LIKE	7:03	yjZc7KIFlNs	MPREb_d0lggJKktFo	UCH4T2kv7rr9qnuP0DOXLxMA
+24	I Cover the Waterfront	Joe Roland	Easy Living	LIKE	3:44	1_psnf6PrTk	MPREb_kDph78DhzgQ	UCT5CeeBiuS0yGArH1UI6d5A
+135	Too Late Now (feat. Bob Brookmeyer)	Jimmy Raney	Late Night Jazz	LIKE	4:18	KeLZ45C2sA0	MPREb_c0f2mG54ywS	UCrXwh1runcSNAjAZ7udR8Sw
+165	Our Love Is Here To Stay (From “The Goldwyn Follies”)	James Morrison	The Great American Songbook	LIKE	5:31	CXHEoKTt6KY	MPREb_YFo5OeBDY94	UChW338E6bAcF6Z2-kwB9fFQ
+148	Resilience	Jacky Terrasson	53	LIKE	3:19	tkQDepTLUIw	MPREb_UnqG4GVvbN1	UCugwIu5q06qX_URMH2JviJQ
+134	Peace (Rudy Van Gelder 24Bit Mastering / 2004 Digital Remaster)	Horace Silver	Music For Lovers	LIKE	6:01	9EmGM-fWX2c	MPREb_4b3TUco3n0B	UC834B7DbQ6WZzigm4UCwuKg
+167	Autumn in New York	Hilton Ruiz	Amsterdam After Dark	LIKE	10:17	NhhUn9Ipix0	MPREb_koWhuCP2XND	UC5kT533u3IRAJJrgIixyJXA
+22	Speak Like A Child	Herbie Hancock	Speak Like A Child (Rudy Van Gelder Edition / Expanded Edition)	LIKE	7:51	FhKBbsTspJA	MPREb_iUNJBVYI9pa	UCq_O_14tCKbx9U9uUT_LEPA
+133	Alone And I	Herbie Hancock	Takin' Off (Expanded Edition)	LIKE	6:30	qbd0oDkSqVQ	MPREb_cZ4wCYhaw2Q	UCq_O_14tCKbx9U9uUT_LEPA
+21	Two for the Road	Harvie Swartz	Steve Kuhn: Mostly Ballads	LIKE	2:52	lrNZuI2hgRs	MPREb_VnxfsyETd7X	UCFwev4E3woHuWaeGzXVO1Kg
+20	I See Your Face Before Me	Hank Mobley	Dippin'	LIKE	5:29	MetWGkwlpHk	MPREb_98Alt0sXw1U	UCASAhhcTDUg2_r0Nt60mxaQ
+83	Down Here On The Ground (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)	Grant Green	Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)	LIKE	6:49	DZA8YFXMx3w	MPREb_uBD2tLrsMNR	UC0bbAAPQu2YK6Sw-FrKAKQw
+84	Idle Moments (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	14:57	aq0m0hbCjFQ	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
+85	Idle Moments (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	14:57	aq0m0hbCjFQ	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
+87	Django (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	8:45	bA9qpIB8xQM	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
+19	Wintersong	Gerry Mulligan	Blues In Time	LIKE	6:59	AQdpslPZiQ0	MPREb_eNVIXIBFVL8	UC7aJZwPljwluquEXN1j3p4w
+51	Lonely Town	Gerry Mulligan	Jeru	LIKE	5:34	sxCjpWAgr0E	MPREb_QDFEVMZrJS6	UC7aJZwPljwluquEXN1j3p4w
+108	In A Mellotone	Gerry Mulligan	Gerry Mulligan Meets Ben Webster	LIKE	6:57	Dumzetstmv0	MPREb_ckyRkyfgJ6U	UC7aJZwPljwluquEXN1j3p4w
+132	Walkin' Shoes	Gerry Mulligan	The Original Quartet With Chet Baker	LIKE	3:14	w0HZ4CeT5sY	MPREb_bjbluiMZ2fq	UC7aJZwPljwluquEXN1j3p4w
+157	My Funny Valentine	Gerry Mulligan	What Is There To Say?	LIKE	4:06	5SMIe4X7Sm0	MPREb_pfGe1Pzu8QE	UC7aJZwPljwluquEXN1j3p4w
+18	Tenderly	George Benson	Guitar Man	LIKE	2:02	p8fsj7oBrFo	MPREb_aucPM2c75Cv	UC16DzwxorG8xZCoaqzaUQSQ
+106	Easy Living	George Benson	The New Boss Guitar	LIKE	6:37	csRaF_P39mU	MPREb_GOJMUltwROU	UC16DzwxorG8xZCoaqzaUQSQ
+105	The Elephant Vanishes	Fumi Tomita	The Elephant Vanishes: Jazz Interpretations of the Short Stories of Haruki Murakami	LIKE	5:32	jRHQv2N3NLo	MPREb_Appfj7wyxO6	UCJFgkHhbqBaJm1EUPbe2T8A
+104	Listen To The Dawn	Frank Morgan	Jazz 'Round Midnight	LIKE	7:56	2MKpu8pVTMc	MPREb_2c9sp9tvFW8	UCWcA4fI1PRvOG1h5txKfKaw
+131	Pavanne	Erroll Garner	Serenade In Blue	LIKE	3:14	t1vloISQjp4	MPREb_mNTV9Z7qnWy	UCs3BHE6jtTfaoDTd9yu2EDg
+156	Something Sweet, Something Tender (Rudy Van Gelder 24-Bit Digital Remaster/1998)	Eric Dolphy	Out To Lunch (The Rudy Van Gelder Edition)	LIKE	6:03	rUNDPUIac4E	MPREb_YLBgFnpPFt3	UCDZbdZMMTGl_0MU2pTjatZw
+121	Farewell Machelle	Duke Pearson	Wahoo!	LIKE	2:48	hsoXflq0NR4	MPREb_Ub4yhets7nV	UCdmkGxodNl6ohgcd8IeJWww
+130	Reflections In D	Duke Ellington	Piano Reflections	LIKE	3:35	Z5w-cGmQ9hk	MPREb_BLv8is8bUes	UCvwUPRgFawNNBdQg497gHJw
+147	December Blue	Duke Ellington	Piano Reflections	LIKE	2:40	sZC916CLzp8	MPREb_BLv8is8bUes	UCvwUPRgFawNNBdQg497gHJw
+155	Warm Valley	Duke Ellington	Money Jungle	LIKE	3:32	UryIva-bn1U	MPREb_kMyBYwef8sN	UCvwUPRgFawNNBdQg497gHJw
+80	Audrey	Dave Brubeck	Interchanges '54	LIKE	3:33	hASG4nniLQs	MPREb_8P5XE2PIeuU	UCMBevFAp40kVlvIcOvzv5Bw
+81	Stardust	Dave Brubeck	Jazz for a Lazy Day	LIKE	3:03	aW0HS1q_fBg	MPREb_as8v2kNdFLh	UCMBevFAp40kVlvIcOvzv5Bw
+129	Smoke Gets in Your Eyes	Coleman Hawkins Quartet	The Complete Jazz Sessions, 1962	LIKE	4:38	q95v8Ed8V1M	MPREb_y6bor4yuZfK	UCaqOj5uQl-733nBtBpEEGBw
+14	Don't Take Your Love From Me	Coleman Hawkins	Night Hawk	LIKE	8:37	nUjCa7EY19s	MPREb_2sySVmX6n6c	UCaqOj5uQl-733nBtBpEEGBw
+13	Stardust	Clifford Brown	Clifford Brown With Strings	LIKE	3:23	tzr5yTHLE5g	MPREb_AbeTjVwfk8J	UCQFCMVgOtWDn5Vd3Nt1SRfQ
+71	Easy Living	Clifford Brown	Brownie Speaks: The Complete Blue Note Recordings	LIKE	3:44	snlimN8KEF4	MPREb_XuxcYT8nkl8	UCQFCMVgOtWDn5Vd3Nt1SRfQ
+128	The Star-Crossed Lovers	Clark Terry	The Chicago Sessions	LIKE	6:48	ihplmEBRNxs	MPREb_qihAprqx2zG	UC4GXSp_mtcTNBbbIOpymNxQ
+101	In A Sentimental Mood	Chico Hamilton Quintet	The Original Ellington Suite (feat. Eric Dolphy)	LIKE	5:40	9Te7mlfl5oM	MPREb_pLKuHyBHfsU	UCC1eo7l1MrbnA5ZCqQng-tg
 64	The Thrill Is Gone	Chet Baker	Time After Time	LIKE	6:38	eK4JSrLuZ3I	MPREb_jxZcbPMNQrJ	UCVNfRXuaWVILL9giCEg0rQg
 65	These Foolish Things	Chet Baker	Chet is Back	LIKE	4:56	Nz5cvyYJzGM	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
 66	Star Eyes	Chet Baker	Chet is Back	LIKE	6:57	eHi7d31CN-4	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
@@ -70,104 +124,50 @@
 68	Chetty's Lullaby	Chet Baker	Chet is Back	LIKE	3:56	jQ05-8gPO-A	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
 69	Motivo Su Raggio Di Luna	Chet Baker	Chet is Back	LIKE	3:51	RmmzycCLbiY	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
 70	Il Mio Domani	Chet Baker	Chet is Back	LIKE	5:18	s3IQpObPoAo	MPREb_HYFX1DqwIeY	UCVNfRXuaWVILL9giCEg0rQg
-71	Easy Living	Clifford Brown	Brownie Speaks: The Complete Blue Note Recordings	LIKE	3:44	snlimN8KEF4	MPREb_XuxcYT8nkl8	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-72	'Round Midnight (feat. John Coltrane)	Miles Davis	The Essential Miles Davis	LIKE	5:56	zB18sNTgf3U	MPREb_JqhnDsifJph	UCIev2PktTH5mI-QlGmbUkiw
-73	Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	9:27	UpwlFYvdUXY	MPREb_bhSA1pu1e1E	UCIev2PktTH5mI-QlGmbUkiw
-74	Stolen Moments	Oliver Nelson	The Blues and the Abstract Truth	LIKE	8:46	cszIgQsPff4	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
-75	Cascades	Oliver Nelson	The Blues and the Abstract Truth	LIKE	5:32	qWpGO341XSQ	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
-76	Yearnin'	Oliver Nelson	The Blues and the Abstract Truth	LIKE	6:24	RJUq0IlPbyI	MPREb_Urz7c1RX4SE	UCBQeutAJsXHfpzjZNPLSD6A
-77	Desafinado	Stan Getz	Jazz Samba	INDIFFERENT	5:53	i1cQte6VAHE	MPREb_gBiyNc8poQt	UCITWDrIiWv0Y-zj8xrvoY-Q
-78	Doralice (feat. Antonio Carlos Jobim)	Stan Getz	Getz / Gilberto	LIKE	2:47	2xIiRDb6G40	MPREb_JeO5xmhgmAo	UCITWDrIiWv0Y-zj8xrvoY-Q
-79	Round Midnight	Thelonious Monk	After Dark Jazz	LIKE	5:43	xwVGLtGc3y4	MPREb_VfFLxqIITV2	UCyCL_gVNVoWZTjkw-KnuIDg
-80	Audrey	Dave Brubeck	Interchanges '54	LIKE	3:33	hASG4nniLQs	MPREb_8P5XE2PIeuU	UCMBevFAp40kVlvIcOvzv5Bw
-81	Stardust	Dave Brubeck	Jazz for a Lazy Day	LIKE	3:03	aW0HS1q_fBg	MPREb_as8v2kNdFLh	UCMBevFAp40kVlvIcOvzv5Bw
-82	Strange Meadow Lark	The Dave Brubeck Quartet	Time Out	LIKE	7:23	r4U0u00mqyg	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
-83	Down Here On The Ground (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)	Grant Green	Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)	LIKE	6:49	DZA8YFXMx3w	MPREb_uBD2tLrsMNR	UC0bbAAPQu2YK6Sw-FrKAKQw
-84	Idle Moments (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	14:57	aq0m0hbCjFQ	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
-85	Idle Moments (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	14:57	aq0m0hbCjFQ	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
-86	Jean De Fleur (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	INDIFFERENT	6:50	vnEQmnrMWt4	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
-87	Django (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	8:45	bA9qpIB8xQM	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
-88	Blue Train (Remastered 2003)	John Coltrane	Blue Train (Expanded Edition)	LIKE	10:45	HT_Zs5FKDZE	MPREb_rFKLCbFI9Te	UCH4T2kv7rr9qnuP0DOXLxMA
-89	Summertime	John Coltrane	My Favorite Things	LIKE	11:37	0p7HhzzfgyE	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
-90	Theme For Ernie	John Coltrane	The Very Best Of John Coltrane	LIKE	4:59	KKa4lT_QMjs	MPREb_NYCejGQpLnF	UCH4T2kv7rr9qnuP0DOXLxMA
+170	Lost Love	Chet Baker	"Theme Music From ""The James Dean Story"""	LIKE	3:40	MGNZRM-RhYM	MPREb_z2zygfsTlZF	UCVNfRXuaWVILL9giCEg0rQg
+99	Meandering	Charlie Parker's Re-Boppers	Charlie Parker - Genius in the Making	LIKE	3:16	y7abRAOBJ7k	MPREb_jq0gXgRyoBH	UCPFmyRluI7yvEdbHCrecUng
+98	Embraceable You (Take B)	Charlie Parker	Charlie Parker on Dial: The Complete Sessions	LIKE	3:29	sAHMQyRLKNY	MPREb_1vmIhJGMW62	UCPFmyRluI7yvEdbHCrecUng
+166	Stormy Weather	Charlie Mingus	Crate Music, Vol. 1	LIKE	3:16	-zaEEstK_KM	MPREb_EVzbwDIT564	UCXSaOCck3oVxhB4W_4Ca3MQ
+97	Nocturnal (Instrumental)	Charlie Haden	Nocturne	LIKE	6:53	vHFzfCKE-Co	MPREb_2QOjMIKB81a	UCphZOvc25w5fJGZ-HqnUggA
+120	Come Sunday	Charlie Haden	Come Sunday	LIKE	3:31	yq9RBK0R2TI	MPREb_8xshtJGpDMK	UCphZOvc25w5fJGZ-HqnUggA
+11	Track B- Duete Solo Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	6:46	f9FzSSGTufQ	MPREb_k0emTDEsIH3	UCXSaOCck3oVxhB4W_4Ca3MQ
+12	Mood Indigo	Charles Mingus	Charles Mingus, Jazz Masters Deluxe Collection	LIKE	4:44	6aj8pyAo9Xs	MPREb_9twWTJJdp26	UCXSaOCck3oVxhB4W_4Ca3MQ
+60	Track C-Group Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	7:23	vv3DnIvCifI	MPREb_k0emTDEsIH3	UCXSaOCck3oVxhB4W_4Ca3MQ
+61	Myself When I Am Real	Charles Mingus	Mingus Plays Piano	LIKE	7:36	tk71dhCz7wM	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
+62	Memories Of You	Charles Mingus	Mingus Plays Piano	LIKE	4:36	pDH8enmhAOI	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
+63	She's Just Miss Popular Hybrid	Charles Mingus	Mingus Plays Piano	LIKE	3:09	Hq9tGgP53VI	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
 91	Memories of You	Charles Mingus	Classic Piano Jazz	LIKE	4:39	_LrI878ANCI	MPREb_wH5Sj0s9UWP	UCXSaOCck3oVxhB4W_4Ca3MQ
 92	Goodbye Pork Pie Hat	Charles Mingus	Mingus Ah Um	LIKE	4:48	CWWO_VcdnHY	MPREb_Hhb1Km8R0mV	UCXSaOCck3oVxhB4W_4Ca3MQ
-93	It Could Happen to You	André Previn	Essential Jazz Masters	LIKE	5:57	mtCVToBIrwE	MPREb_kHeuASohjxh	UCm4TN69kuXR-b-ZJUHtauDQ
-94	Sleeping Dancer Sleep On	Art Blakey & The Jazz Messengers	Like Someone In Love	LIKE	8:07	lLafHexndK4	MPREb_pkHJaZSYd0J	UCMki-b0zfAQiMQ0nbsrIuBQ
-95	Soulville	The Ben Webster Quintet	Soulville	LIKE	8:07	f3RFT3exSF0	MPREb_yEpiYIxBb0Y	UCANynQMnWY6tEaDl4eWwm1Q
-96	Moonglow (Take 1)	Benny Goodman Quartet	The Legendary Small Groups	LIKE	3:24	yy2X-3R-qQs	MPREb_RWxZpyuvsYq	UCJhmf1IP1bXfPB3XTQcJJmw
-97	Nocturnal (Instrumental)	Charlie Haden	Nocturne	LIKE	6:53	vHFzfCKE-Co	MPREb_2QOjMIKB81a	UCphZOvc25w5fJGZ-HqnUggA
-98	Embraceable You (Take B)	Charlie Parker	Charlie Parker on Dial: The Complete Sessions	LIKE	3:29	sAHMQyRLKNY	MPREb_1vmIhJGMW62	UCPFmyRluI7yvEdbHCrecUng
-99	Meandering	Charlie Parker's Re-Boppers	Charlie Parker - Genius in the Making	LIKE	3:16	y7abRAOBJ7k	MPREb_jq0gXgRyoBH	UCPFmyRluI7yvEdbHCrecUng
-100	Lover Man	Charlie Parker	Jazz of the 40's	INDIFFERENT	3:22	7KiJu4jVeRM	MPREb_lHTE6P6aNRq	UCPFmyRluI7yvEdbHCrecUng
-101	In A Sentimental Mood	Chico Hamilton Quintet	The Original Ellington Suite (feat. Eric Dolphy)	LIKE	5:40	9Te7mlfl5oM	MPREb_pLKuHyBHfsU	UCC1eo7l1MrbnA5ZCqQng-tg
-102	Take Five	The Dave Brubeck Quartet	Time Out	LIKE	5:25	QsHc2IGmk60	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
-103	Kathy's Waltz	The Dave Brubeck Quartet	Time Out	LIKE	4:49	cHmM5SaMK1o	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
-104	Listen To The Dawn	Frank Morgan	Jazz 'Round Midnight	LIKE	7:56	2MKpu8pVTMc	MPREb_2c9sp9tvFW8	UCWcA4fI1PRvOG1h5txKfKaw
-105	The Elephant Vanishes	Fumi Tomita	The Elephant Vanishes: Jazz Interpretations of the Short Stories of Haruki Murakami	LIKE	5:32	jRHQv2N3NLo	MPREb_Appfj7wyxO6	UCJFgkHhbqBaJm1EUPbe2T8A
-106	Easy Living	George Benson	The New Boss Guitar	LIKE	6:37	csRaF_P39mU	MPREb_GOJMUltwROU	UC16DzwxorG8xZCoaqzaUQSQ
-107	A Ballad	Gerry Mulligan	For Two	LIKE	2:56	l5GiqldvXus	MPREb_gfbV4XmO2Cr	UC7aJZwPljwluquEXN1j3p4w
-108	In A Mellotone	Gerry Mulligan	Gerry Mulligan Meets Ben Webster	LIKE	6:57	Dumzetstmv0	MPREb_ckyRkyfgJ6U	UC7aJZwPljwluquEXN1j3p4w
-109	You Don't Know What Love Is	John Coltrane Quartet	Ballads	LIKE	5:16	L4YgvQ88sQ4	MPREb_uf66pRDufT2	UCH4T2kv7rr9qnuP0DOXLxMA
-110	Round Midnight (2001 Remaster)	Johnny Smith	The Sound Of Johnny Smith	LIKE	4:28	1jK2j32ngFA	MPREb_t9zz7t2mce1	UCOQ5iX2y8S1mVAM-oVDvc8Q
-111	I Can't Get Started	Lee Konitz	Lee Konitz with Warne Marsh	LIKE	3:56	ZV5n5VcOigQ	MPREb_HdkRbI1iVgh	UCr5SYAnLH5Mc2OARzNkFfAg
-112	Hope so Elmo	Max Roach	The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali	LIKE	3:53	lkl9Obae4I4	MPREb_sR732KiaNTe	UCxTSDTDzVM4MW42oD9iTPqQ
-113	My Funny Valentine	Miles Davis Quintet	Miles Davis: Milestones	LIKE	6:02	Qplyam5e5_E	MPREb_08SMKR0VaaS	UCIev2PktTH5mI-QlGmbUkiw
-114	Angel Eyes	The Modern Jazz Quartet	Fontessa	LIKE	3:52	WYCWwDXERa4	MPREb_JEZFhNLwJer	UCQjf61NuHvxHrm4gkdx0ZaQ
-115	Willow Weep For Me	Thelonious Monk Trio	Ruby My Dear	LIKE	3:01	9F6ZyAd5QNI	MPREb_hpVvDPvsh6d	UCyCL_gVNVoWZTjkw-KnuIDg
-116	On Green Dolphin Street	Vince Guaraldi	In Person	LIKE	5:54	loXiFNnO5tQ	MPREb_GGaAXFxFTIh	UC_DRP-u7c3iOwytg4-ddifw
-117	Lover Man	Warne Marsh	Intuition	LIKE	4:32	AuoCrR0ce1k	MPREb_8tan2cJsLo9	UCW0Q1uGoI_5Bm6nkQp-K40g
-118	Yesterday's Child	Wes Montgomery Trio	Portrait Of Wes	LIKE	4:13	xkgjDHR8j9I	MPREb_jU2MdDGxecI	UCYs8ep9Xe3RQc3Oy4BWKNAw
-119	Dorsem	Aaron Diehl Trio	Live At The Players	LIKE	5:37	rkbB_kQRZrs	MPREb_HYsCAOkIIEk	UC_R1P0JftSj9cgSYFYf_Rhg
-120	Come Sunday	Charlie Haden	Come Sunday	LIKE	3:31	yq9RBK0R2TI	MPREb_8xshtJGpDMK	UCphZOvc25w5fJGZ-HqnUggA
-121	Farewell Machelle	Duke Pearson	Wahoo!	LIKE	2:48	hsoXflq0NR4	MPREb_Ub4yhets7nV	UCdmkGxodNl6ohgcd8IeJWww
-122	It's Easy To Remember	John Coltrane Quartet	Ballads	LIKE	2:50	XpDjDhRTEtk	MPREb_uf66pRDufT2	UCH4T2kv7rr9qnuP0DOXLxMA
-123	Skylark	Lee Konitz	Konitz	LIKE	3:06	CKMxw_sHMX4	MPREb_g0UMdvIFUPL	UCr5SYAnLH5Mc2OARzNkFfAg
-124	The Essence	Marquis Hill	Modern Flows EP, Vol. 1	LIKE	4:20	QNB-wdEXSI4	MPREb_m7akhNL4JTc	UC_BX6opGq49YU-_z1of-vbw
-125	Peace (Instrumental)	Tommy Flanagan	Something Borrowed, Something Blue	LIKE	6:14	a-L492oAZio	MPREb_QqMVwLTDAXh	UCqU1W9XMO-9cQ6s1rvHevMg
-126	The Look Of Love	Barney Kessel	Blue Guitar	LIKE	4:10	VdBeX3BzAV0	MPREb_Hq0HdizyU5h	UC8n0tfmW9Hxnl0SBbrTv9kQ
-127	In A Sentimental Mood (1999 Digital Remaster)	Bill Holman	Stan Kenton Presents Bob Cooper, Bill Holman & Frank Rosolino	LIKE	3:39	epq3AuTgJ1Q	MPREb_tY5YBLRgdyO	UCz3OaEwDdSzQUzHX__Vo2yg
-128	The Star-Crossed Lovers	Clark Terry	The Chicago Sessions	LIKE	6:48	ihplmEBRNxs	MPREb_qihAprqx2zG	UC4GXSp_mtcTNBbbIOpymNxQ
-129	Smoke Gets in Your Eyes	Coleman Hawkins Quartet	The Complete Jazz Sessions, 1962	LIKE	4:38	q95v8Ed8V1M	MPREb_y6bor4yuZfK	UCaqOj5uQl-733nBtBpEEGBw
-130	Reflections In D	Duke Ellington	Piano Reflections	LIKE	3:35	Z5w-cGmQ9hk	MPREb_BLv8is8bUes	UCvwUPRgFawNNBdQg497gHJw
-131	Pavanne	Erroll Garner	Serenade In Blue	LIKE	3:14	t1vloISQjp4	MPREb_mNTV9Z7qnWy	UCs3BHE6jtTfaoDTd9yu2EDg
-132	Walkin' Shoes	Gerry Mulligan	The Original Quartet With Chet Baker	LIKE	3:14	w0HZ4CeT5sY	MPREb_bjbluiMZ2fq	UC7aJZwPljwluquEXN1j3p4w
-133	Alone And I	Herbie Hancock	Takin' Off (Expanded Edition)	LIKE	6:30	qbd0oDkSqVQ	MPREb_cZ4wCYhaw2Q	UCq_O_14tCKbx9U9uUT_LEPA
-134	Peace (Rudy Van Gelder 24Bit Mastering / 2004 Digital Remaster)	Horace Silver	Music For Lovers	LIKE	6:01	9EmGM-fWX2c	MPREb_4b3TUco3n0B	UC834B7DbQ6WZzigm4UCwuKg
-135	Too Late Now (feat. Bob Brookmeyer)	Jimmy Raney	Late Night Jazz	LIKE	4:18	KeLZ45C2sA0	MPREb_c0f2mG54ywS	UCrXwh1runcSNAjAZ7udR8Sw
-136	Everytime We Say Goodbye	John Coltrane	My Favorite Things	LIKE	5:45	4e1qcBbZlg8	MPREb_rlBBBKC2cMb	UCH4T2kv7rr9qnuP0DOXLxMA
-137	Passion Flower	Johnny Hodges & his Orchestra	The Great Ellington Units	LIKE	3:11	e-ab-Z8R7ME	MPREb_kgR0wzRxO4h	UCcQc-cBJhYq08uHGKEUHd2w
-138	Melancholee (Remastered 2000/Rudy Van Gelder Edition)	Lee Morgan	Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)	LIKE	6:14	IhoRxd9RiDQ	MPREb_3PjxiPfbSn1	UCw-ObIVVFPxf6McrsKHQT0A
-139	Twilight Mist (2005 Digital Remaster)	Lee Morgan	Tom Cat	LIKE	6:56	KWTgEvBltI0	MPREb_qOEfLOeppXW	UCw-ObIVVFPxf6McrsKHQT0A
-140	These Foolish Things	Lennie Tristano	The Very Best Of	LIKE	2:36	atCztQ9f0uI	MPREb_0JTsOrwgVNd	UC6KJj6EShWvAtNn0Jr9KRAg
-141	When Sunny Gets Blue	McCoy Tyner	Today And Tomorrow	LIKE	4:43	frYLvC0mM50	MPREb_I4xhBTPlaLe	UCry80POSt0-Wwzfn1geo9_A
-142	Duet For Saxophone & Guitar	Miles Davis	Conception	LIKE	2:38	BZxTlMr6CbE	MPREb_vi3XlnHJPyC	UCIev2PktTH5mI-QlGmbUkiw
-143	So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	9:23	9rD3zdscDRQ	MPREb_bhSA1pu1e1E	UCIev2PktTH5mI-QlGmbUkiw
-144	Bye Bye Blackbird	Miles Davis	'Round About Midnight (Legacy Edition)	LIKE	7:55	CieM9gurwZ4	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
-145	Dreamsville	Shelly Manne and His Men	Shelly Manne and His Men Play Peter Gunn	LIKE	3:51	OO5z5_Thc6w	MPREb_AynNoLfkKag	UC_UsjRxH5RVe7z6BGRHFXyw
-146	Autumn Leaves	Cannonball Adderley	Somethin' Else (Rudy Van Gelder Edition)	LIKE	11:00	CpB7-8SGlJ0	MPREb_7VEcMqni2Rt	UCRQLvDfTNOFUgst4GpnyDvA
-147	December Blue	Duke Ellington	Piano Reflections	LIKE	2:40	sZC916CLzp8	MPREb_BLv8is8bUes	UCvwUPRgFawNNBdQg497gHJw
-148	Resilience	Jacky Terrasson	53	LIKE	3:19	tkQDepTLUIw	MPREb_UnqG4GVvbN1	UCugwIu5q06qX_URMH2JviJQ
-149	Sunset	McCoy Tyner Trio	Inception	LIKE	4:42	1XtUK5Boy7o	MPREb_4xr34cZEsyO	UC3jpT0TjNg9Lgh2nGTJqbNQ
-150	My Ship	Sonny Rollins & Co.	The Standard Sonny Rollins	LIKE	4:12	15QW5uN17UI	MPREb_92KdhhJ62oP	UCqwmTSEZTKX_BmxlmDSOzGQ
-151	A Foggy Day	Bill Perkins	Essential Jazz Masters	LIKE	3:39	3ZEIElHAz2Q	MPREb_0C1IJaAqF3c	UC4-8RGtTvaQRfP08afj-FbA
-152	When Love Is New	Cedar Walton Trio	Manhattan Afternoon	LIKE	7:21	YOU9u_Jzdog	MPREb_9gtKaJcSuoo	UCu-WQsz9922w0IidCeAcuZA
 153	Goodbye Pork Pie Hat	Charles Mingus	Ah Um	LIKE	5:43	H2x3jbX0ePk	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
-154	Take Five	The Dave Brubeck Quartet	Time Out	LIKE	5:25	ryA6eHZNnXY	MPREb_ExuBWZ82MoW	UCMBevFAp40kVlvIcOvzv5Bw
-155	Warm Valley	Duke Ellington	Money Jungle	LIKE	3:32	UryIva-bn1U	MPREb_kMyBYwef8sN	UCvwUPRgFawNNBdQg497gHJw
-156	Something Sweet, Something Tender (Rudy Van Gelder 24-Bit Digital Remaster/1998)	Eric Dolphy	Out To Lunch (The Rudy Van Gelder Edition)	LIKE	6:03	rUNDPUIac4E	MPREb_YLBgFnpPFt3	UCDZbdZMMTGl_0MU2pTjatZw
-157	My Funny Valentine	Gerry Mulligan	What Is There To Say?	LIKE	4:06	5SMIe4X7Sm0	MPREb_pfGe1Pzu8QE	UC7aJZwPljwluquEXN1j3p4w
-158	I'm Old Fashioned (Remastered 2003/Rudy Van Gelder Edition)	John Coltrane	Blue Train (Expanded Edition)	LIKE	7:58	eMqOA7qN9B4	MPREb_rFKLCbFI9Te	UCH4T2kv7rr9qnuP0DOXLxMA
-159	A Love Supreme, Pt. IV - Psalm	John Coltrane	A Love Supreme	LIKE	7:03	yjZc7KIFlNs	MPREb_d0lggJKktFo	UCH4T2kv7rr9qnuP0DOXLxMA
-160	I Wish I Knew	John Coltrane Quartet	Ballads	LIKE	4:51	T06fMkPkFYw	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
-161	'Round Midnight	Miles Davis	'Round About Midnight (Legacy Edition)	LIKE	5:56	7r77GLcGlvQ	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
-162	Something I Dreamed Last Night	The Miles Davis Quintet	Steamin' [Rudy Van Gelder edition]	LIKE	6:13	-bhUjA-7Anc	MPREb_DjSQr6mJdMf	UCIev2PktTH5mI-QlGmbUkiw
-163	Alone Together	Walter Bishop Jr.	Milestones	LIKE	6:50	TizUk7j4PQ8	MPREb_tfvPnFMYQoo	UCxe9ovObUunSBRI3MS_ZVcw
-164	Teru (Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering)	Wayne Shorter	Adam's Apple (Rudy Van Gelder Edition)	LIKE	6:12	1N6AmFNlgWU	MPREb_RqvtCvPaLQP	UC3X4afoYfFCLWw1LTfeLCqA
-165	Our Love Is Here To Stay (From “The Goldwyn Follies”)	James Morrison	The Great American Songbook	LIKE	5:31	CXHEoKTt6KY	MPREb_YFo5OeBDY94	UChW338E6bAcF6Z2-kwB9fFQ
-166	Stormy Weather	Charlie Mingus	Crate Music, Vol. 1	LIKE	3:16	-zaEEstK_KM	MPREb_EVzbwDIT564	UCXSaOCck3oVxhB4W_4Ca3MQ
-167	Autumn in New York	Hilton Ruiz	Amsterdam After Dark	LIKE	10:17	NhhUn9Ipix0	MPREb_koWhuCP2XND	UC5kT533u3IRAJJrgIixyJXA
-168	It's Easy To Remember	John Coltrane Quartet	Ballads	LIKE	2:46	T8m6gY2OpTE	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
+152	When Love Is New	Cedar Walton Trio	Manhattan Afternoon	LIKE	7:21	YOU9u_Jzdog	MPREb_9gtKaJcSuoo	UCu-WQsz9922w0IidCeAcuZA
+146	Autumn Leaves	Cannonball Adderley	Somethin' Else (Rudy Van Gelder Edition)	LIKE	11:00	CpB7-8SGlJ0	MPREb_7VEcMqni2Rt	UCRQLvDfTNOFUgst4GpnyDvA
+9	The Awakening	Bud Shank	Groove Jazz	LIKE	4:26	cNudXe7TXVU	MPREb_kK9Fa807vyK	UCUsbdgI8UrgydSYjl_9IeIQ
+10	"The Surf And I (From ""Slippery When Wet"" Soundtrack)"	Bud Shank	Slippery When Wet (Original Motion Picture Soundtrack)	LIKE	3:09	1PEnQSsYS8g	MPREb_ByB2dxh8TkC	UCUsbdgI8UrgydSYjl_9IeIQ
+151	A Foggy Day	Bill Perkins	Essential Jazz Masters	LIKE	3:39	3ZEIElHAz2Q	MPREb_0C1IJaAqF3c	UC4-8RGtTvaQRfP08afj-FbA
+8	Goodbye	Bill Holman	In a Jazz Orbit	LIKE	3:29	3e4sl3skCDE	MPREb_vLDsAnW3OWr	UCz3OaEwDdSzQUzHX__Vo2yg
+127	In A Sentimental Mood (1999 Digital Remaster)	Bill Holman	Stan Kenton Presents Bob Cooper, Bill Holman & Frank Rosolino	LIKE	3:39	epq3AuTgJ1Q	MPREb_tY5YBLRgdyO	UCz3OaEwDdSzQUzHX__Vo2yg
+6	Spring Is Here	Bill Evans Trio	Plays For Lovers	LIKE	5:07	vwUahKrv1_Q	MPREb_Hkijn3F9Ghm	UCriB97bZopXsBHVYOQEIIZg
+4	Peace Piece	Bill Evans	Everybody Digs Bill Evans	LIKE	6:44	pBCS2YjtIXY	MPREb_ZTNPucg97Mu	UCriB97bZopXsBHVYOQEIIZg
+5	Angel Face	Bill Evans	Intermodulation	LIKE	6:35	IXzL-lN1Ntw	MPREb_7UJBOS6x6C9	UCriB97bZopXsBHVYOQEIIZg
+50	Spring Is Here	Bill Evans	Portrait In Jazz [Keepnews Collection]	LIKE	5:09	x2JSi_UZxjA	MPREb_qstOIKc5y7B	UCriB97bZopXsBHVYOQEIIZg
+52	Peace Piece	Bill Evans	LateNightTales (Unmixed Tracks)	LIKE	6:42	vciaARtRRWM	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIdbGF0ZW5pZ2h0dGFsZXMgdW5taXhlZCB0cmFja3MaBmJvbm9ibyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIKYmlsbCBldmFucw
+53	I Hear A Rhapsody	Bill Evans	Undercurrent	LIKE	4:41	_yllZCBksf0	MPREb_dk5GfcQBl45	UCriB97bZopXsBHVYOQEIIZg
+54	Peace Piece	Bill Evans	Everybody Digs Bill Evans	LIKE	6:44	pBCS2YjtIXY	MPREb_ZTNPucg97Mu	UCriB97bZopXsBHVYOQEIIZg
+55	Turn Out The Stars	Bill Evans	Intermodulation	LIKE	7:35	OTZ1VT29Kpk	MPREb_7UJBOS6x6C9	UCriB97bZopXsBHVYOQEIIZg
+56	Skating In Central Park	Bill Evans	Undercurrent	LIKE	5:25	qGF7873UxTw	MPREb_dk5GfcQBl45	UCriB97bZopXsBHVYOQEIIZg
+57	Stairway To The Stars	Bill Evans	Undercurrent	LIKE	5:42	-skD2seYSy0	MPREb_dk5GfcQBl45	UCriB97bZopXsBHVYOQEIIZg
+96	Moonglow (Take 1)	Benny Goodman Quartet	The Legendary Small Groups	LIKE	3:24	yy2X-3R-qQs	MPREb_RWxZpyuvsYq	UCJhmf1IP1bXfPB3XTQcJJmw
+2	Misty	Ben Webster	Gone With The Wind	LIKE	3:35	_8eANdZ3dd4	MPREb_FuAwiDi2VHN	UCANynQMnWY6tEaDl4eWwm1Q
+3	Tenderly	Ben Webster	King Of The Tenors	LIKE	3:02	rFK4wpShs5g	MPREb_Gk2vNrddThL	UCANynQMnWY6tEaDl4eWwm1Q
+126	The Look Of Love	Barney Kessel	Blue Guitar	LIKE	4:10	VdBeX3BzAV0	MPREb_Hq0HdizyU5h	UC8n0tfmW9Hxnl0SBbrTv9kQ
+1	Branca	Baden Powell	Lembranças	LIKE	4:28	4CDmI36vZb8	MPREb_SCDFToaEBJF	UC3wsl-MT-3zBC-PSy7jT5Gw
 169	Patricia	Art Pepper	Jazz For Beginners	LIKE	3:40	XlH9PL7iPWo	MPREb_oWbcmWvstwC	UCQ6s8dxxZYIRCeuFtB3Zdxw
-170	Lost Love	Chet Baker	"Theme Music From ""The James Dean Story"""	LIKE	3:40	MGNZRM-RhYM	MPREb_z2zygfsTlZF	UCVNfRXuaWVILL9giCEg0rQg
-171	Here's That Rainy Day	Paul Desmond	Cool Imagination	LIKE	5:40	CWSoK-cQjKM	MPREb_utBPJ8DZ3VH	UCnEtwvQYjKy9Px5lg9TO8sQ
+0	Gloomy Morning	Art Farmer	Gentle Eyes	LIKE	5:20	OrYtrRD_1_8	MPREb_st0Bru57TUZ	UCcxEwxKM5GEAGWTrVEoyEAw
+94	Sleeping Dancer Sleep On	Art Blakey & The Jazz Messengers	Like Someone In Love	LIKE	8:07	lLafHexndK4	MPREb_pkHJaZSYd0J	UCMki-b0zfAQiMQ0nbsrIuBQ
+93	It Could Happen to You	André Previn	Essential Jazz Masters	LIKE	5:57	mtCVToBIrwE	MPREb_kHeuASohjxh	UCm4TN69kuXR-b-ZJUHtauDQ
+119	Dorsem	Aaron Diehl Trio	Live At The Players	LIKE	5:37	rkbB_kQRZrs	MPREb_HYsCAOkIIEk	UC_R1P0JftSj9cgSYFYf_Rhg
+77	Desafinado	Stan Getz	Jazz Samba	INDIFFERENT	5:53	i1cQte6VAHE	MPREb_gBiyNc8poQt	UCITWDrIiWv0Y-zj8xrvoY-Q
+23	Loie (Rudy Van Gelder Edition / 2007 Digital Remaster)	Ike Quebec	Bossa Nova Soul Samba (Rudy Van Gelder Edition)	INDIFFERENT	3:10	WL3lJITPb8U	MPREb_OHiXQMmwSqG	UCEhbEqOBqliX5pTStANPYBQ
+86	Jean De Fleur (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	INDIFFERENT	6:50	vnEQmnrMWt4	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
+107	A Ballad	Gerry Mulligan	Acetate Master Collection Vol.1	INDIFFERENT	2:56	YD7vdLVcrzY	MPREb_xzQlUqbzviq	UC7aJZwPljwluquEXN1j3p4w
+100	Lover Man	Charlie Parker	Jazz of the 40's	INDIFFERENT	3:22	7KiJu4jVeRM	MPREb_lHTE6P6aNRq	UCPFmyRluI7yvEdbHCrecUng

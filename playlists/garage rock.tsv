@@ -1,192 +1,52 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-0	High & Wild	Angel Olsen	Burn Your Fire For No Witness	LIKE	3:53	oZ1pUoWPQ9Y	MPREb_yUfNHybkzSU	UCLYqVE2kmsNw2uJFNjHv8yw
-1	Hi-Five	Angel Olsen	Burn Your Fire For No Witness (Deluxe Edition)	LIKE	2:57	9WTKqNuygv8	MPREb_NeZLMr8BstW	UCLYqVE2kmsNw2uJFNjHv8yw
-2	On My Team	The Babies	Our House on the Hill	LIKE	2:28	Da7_buClwvY	MPREb_efjDSRwFlxY	UCWgO0ZFCjfc3Zu2dF3Evutw
-3	Gb City	Bass Drum Of Death	Gb City	LIKE	3:03	tbSpwkJXYKU	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
-4	Record Store	Broncho	Can't Get Past the Lips	LIKE	2:21	hOLhQ-j5jF4	MPREb_n5Ig6noRiuy	UCGVp42SNSN6osaaynw6Mevg
-5	Taj Mahal	BRONCHO	Just Enough Hip to Be Woman	LIKE	2:43	CucsB5cL3gM	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
-6	Kurt	BRONCHO	Just Enough Hip to Be Woman	LIKE	3:03	9uzkF5YLX-U	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
-7	China	BRONCHO	Just Enough Hip to Be Woman	LIKE	4:43	aN7L3Wjvo1s	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
-8	Fill in the Blank	Car Seat Headrest	Teens Of Denial	LIKE	4:04	_-l44-wxqcA	MPREb_aFoQxiVdKon	UC97xosBrQZ7jdWVFInndIDg
-9	Duplex Planet	Deerhunter	Fading Frontier	LIKE	2:40	rBSS4AjCiDA	MPREb_gQmVsEEf8aL	UCYvqcYNDW5Ebw6nnq-mYN4Q
-10	The Missing	Deerhunter	Monomania	LIKE	3:40	9Ul6ruEMjfU	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
-11	Sleepwalking	Deerhunter	Monomania	LIKE	3:08	ORBs5Y9uW2Q	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
-12	Mystic Portal II	JEFF the Brotherhood	Hypnotic Nights	LIKE	4:50	kTTyorHt6Ls	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
-13	Hypnotic Mind	JEFF the Brotherhood	Hypnotic Nights	LIKE	3:15	_ep9uG-J1fI	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
-14	Dark Energy	JEFF the Brotherhood	Hypnotic Nights	LIKE	4:31	Zp351leoHkM	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
-15	Sleepless	The Men	Tomorrow's Hits	LIKE	3:11	mqsBIvRkQZQ	MPREb_l8DOd42izs8	UCQMuPvtlUh_TYoZjAdTGFOA
-16	The Mule	METZ	METZ	LIKE	2:25	6vTYRCT1BBM	MPREb_gO3oJ27lW48	UColti3XSQ4uFufiEQ0gz4cQ
-17	Is It Alright?	Mikal Cronin	Mikal Cronin	LIKE	3:28	Apeyf67-180	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
-18	Outside	Parquet Courts	Human Performance	LIKE	1:44	fV74AWZNxc4	MPREb_Tyoo1TRZ4br	UC9mjOu5Vl7zQo-DvNeMES_g
-19	Yr No Stoner	Parquet Courts	Light Up Gold	LIKE	1:50	r5fkniXTCO0	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
-20	Bodies Made Of	Parquet Courts	Sunbathing Animal	LIKE	3:21	b8snGUkuHCo	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
-21	Black And White	Parquet Courts	Sunbathing Animal	LIKE	3:02	Tu6tgnhKQaQ	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
-22	Dope Cloud	Protomartyr	The Agent Intellect	LIKE	2:56	mHUvSUWFWXs	MPREb_fme18sNIm3F	UCb0wN1RCsCuyrSRgGqG_1aQ
-23	Surprise	Royal Headache	Royal Headache	LIKE	1:31	9Q7kUd2H58s	MPREb_oW0Ia9rwd7S	UC9yoxVYhkxrkgj9tG5Mcu8w
-24	Good Neck	Speedy Ortiz	Foil Deer	LIKE	1:36	OAL5ycTLK6M	MPREb_QTD0vU05CTh	UCDaTpUyPT1KCNBUW7stdLFA
-25	Wrong Idea	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	1:52	vD81l1qSt-4	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
-26	Toe Cutter - Thumb Buster	Thee Oh Sees	Floating Coffin	LIKE	3:32	aqmJEkgdu5Y	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
-27	Night Crawler	Thee Oh Sees	Floating Coffin	LIKE	4:12	gcwnLdpA-xI	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
-28	Ticklish Warrior	Thee Oh Sees	A Weird Exits	LIKE	3:06	xvD423QRYXI	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
-29	Natural Villain	Twin Peaks	Sunken	INDIFFERENT	2:17	UF1b97Qz5-k	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
-30	Irene	Twin Peaks	Sunken	INDIFFERENT	2:38	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
-31	Strawberry Smoothie	Twin Peaks	Wild Onion	LIKE	2:24	gw4wDIfBzWg	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-32	Mirror of Time	Twin Peaks	Wild Onion	LIKE	2:20	U4UWiL6N5Ls	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-33	Strange World	Twin Peaks	Wild Onion	LIKE	1:49	ZVEzdOOFWQQ	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-34	Sweet Thing	Twin Peaks	Wild Onion	LIKE	2:07	JiPORVlnT_0	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-35	Mind Frame	Twin Peaks	Wild Onion	LIKE	2:08	tj4NBnyiifQ	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+161	Strangers of Our Time	levitation room	Ethos	LIKE	2:20	ulN_AHNA1xE	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
+162	Till You Reach Your Last Breath	levitation room	Ethos	LIKE	2:48	KUFOfqWPVBg	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
+163	Friends	levitation room	Minds Of Our Own	LIKE	3:38	JbTqt79CC38	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
+253	Reasons Why	levitation room	Minds Of Our Own	LIKE	2:42	-64K84tahCE	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
+269	There Are No Words	levitation room	Minds Of Our Own	LIKE	2:23	9rISurIO06A	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
+43	Get Away	Yuck	Yuck	LIKE	3:34	4VRdVqMSfpg	MPREb_gagsFmY1Nwa	UCqSWMyPkaN3g7vnZ6YMhoJA
+44	The Wall	Yuck	Yuck (Deluxe)	LIKE	3:56	OaoI9OJo1vc	MPREb_5Pm5o8AE5fV	UCqSWMyPkaN3g7vnZ6YMhoJA
+45	Operation	Yuck	Yuck (Deluxe)	LIKE	3:47	KOTd6g0GYe0	MPREb_5Pm5o8AE5fV	UCqSWMyPkaN3g7vnZ6YMhoJA
+42	Shining	Woods	With Light And With Love	LIKE	2:31	rzpisr7ERHo	MPREb_btlchV8Eqnd	UCW6GLzO2xPPzxGQAWQLjIYw
+94	Mornin' Time	Woods	At Echo Lake	LIKE	1:52	hfVdxSV-peI	MPREb_F6RobdKXoSj	UCW6GLzO2xPPzxGQAWQLjIYw
+245	To Have In The Home	Woods	Sun and Shade	LIKE	2:47	NcdQEPHZnr4	MPREb_E0fbI71TyDr	UCW6GLzO2xPPzxGQAWQLjIYw
+209	In the Direction of the Moon	Wolf Parade	EXPO 86	LIKE	5:46	xufug4zM8Vk	MPREb_XapoElsFBG7	UCcSBYlEz6WW8M9b2WhmtveA
+210	Oh You, Old Thing	Wolf Parade	EXPO 86	LIKE	5:46	bLP5UiV8Fi8	MPREb_XapoElsFBG7	UCcSBYlEz6WW8M9b2WhmtveA
+51	When There Is No Crowd	White Fence	Is Growing Faith	LIKE	3:49	S-aUvboKRm0	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
+86	Stranger Things Have Happened (To You)	White Fence	Is Growing Faith	LIKE	2:44	oUhubaQfNZU	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
+203	Wolf Gets Red Faced	White Fence	For the Recently Found Innocent	LIKE	5:10	apOOQSwJ-lM	MPREb_n4C2xFqnuqn	UCuoJbbqftLdL9LBbIuAQVEQ
+204	Goodbye Law	White Fence	For the Recently Found Innocent	LIKE	2:31	P7G8zCYwPow	MPREb_n4C2xFqnuqn	UCuoJbbqftLdL9LBbIuAQVEQ
+205	Fear	White Fence	For the Recently Found Innocent	LIKE	3:01	yVmMGfwmQgw	MPREb_n4C2xFqnuqn	UCuoJbbqftLdL9LBbIuAQVEQ
+207	Tumble, Lies & Honesty	White Fence	Is Growing Faith	LIKE	3:26	k4HtulxPYx0	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
+208	You Can't Put Your Arms Around a Memory	White Fence	Is Growing Faith	LIKE	3:16	ZCa3vFBTvr0	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
+87	Take on the World	Wavves	King Of The Beach	LIKE	2:50	KPG9lsLnD_E	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
+197	Everything Is My Fault	Wavves	Afraid Of Heights	LIKE	2:38	w4N-OeWAs4U	MPREb_vI7zbkx18Ng	UCBYaFtXX67SKAvMqQ4m0NMQ
+198	Post Acid	Wavves	King Of The Beach	LIKE	2:28	wEpOwT-kdIo	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
+199	Green Eyes	Wavves	King Of The Beach	LIKE	2:42	E2pIIar5wEo	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
+200	Baby Say Goodbye	Wavves	King Of The Beach	LIKE	3:46	Z9hHY897LC4	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
+201	Heavy Metal Detox	Wavves	V	LIKE	3:17	eImRcza9Oro	MPREb_Hm4XgiKv0M1	UCBYaFtXX67SKAvMqQ4m0NMQ
+202	Vermin	Wavves	Wavves	LIKE	4:14	HSXoqe1I578	MPREb_1YvRTHybL2M	UCBYaFtXX67SKAvMqQ4m0NMQ
+214	Mickey Mouse	Wavves	King Of The Beach	LIKE	3:02	ExZnD6mNvCs	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
+220	Baseball Cards	Wavves	King Of The Beach	LIKE	2:31	op2I0khflts	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
+244	Weed Demon	Wavves	Wavvves	LIKE	2:39	FmgETCqpPy4	MPREb_Wnr8UVLaymp	UCBYaFtXX67SKAvMqQ4m0NMQ
+243	6661.0	Wand	Ganglion Reef	LIKE	3:43	-VqkX4nIxi8	MPREb_36WQdp2XPXr	UCjk9dHhZzgD--4D085Nz4fw
+265	Grave Robber	Wand	1000 Days	LIKE	3:34	cm9E6fYofYw	MPREb_mlu6zUQQoMe	UCjk9dHhZzgD--4D085Nz4fw
+111	Spirit Forest	Wampire	Curiosity	LIKE	3:08	LzE_yr8QfVs	MPREb_7IdxG5gCXwm	UC-XPGiKD-50Lw35kqjun28Q
+196	Wave Goodbye	Ty Segall Band	Slaughterhouse	LIKE	4:34	iqdIRzbW9Uw	MPREb_EjtWPSGNJ3o	UC-Z_sxJOcuEGSq822j9VqNw
+206	The Black Glove / Rag	Ty Segall & White Fence	Hair	LIKE	5:05	K9g_oik3qPU	MPREb_NSNrbWKnpBX	UC-Z_sxJOcuEGSq822j9VqNw
+195	I Wear Black	Ty Segall & Mikal Cronin	Reverse Shark Attack	LIKE	2:14	E260YLbkMss	MPREb_DVydUgQSmyQ	UC-Z_sxJOcuEGSq822j9VqNw
 36	Squealer	Ty Segall	Emotional Mugger	LIKE	3:47	xqTRp3cj34U	MPREb_FvRsh2fi3Mr	UC-Z_sxJOcuEGSq822j9VqNw
 37	You Make The Sun Fry	Ty Segall	Goodbye Bread	LIKE	2:32	UrpE_XqdWZU	MPREb_TW5nemQdbQc	UC-Z_sxJOcuEGSq822j9VqNw
 38	The Faker	Ty Segall	Manipulator	LIKE	4:08	MYlHy7LyZyY	MPREb_gpRx3sEnpyd	UC-Z_sxJOcuEGSq822j9VqNw
 39	Imaginary Person	Ty Segall	Melted	LIKE	3:05	aucbZ8n5H5o	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
 40	Standing at the Station (feat. Ty Segall)	Ty Segall	Singles 2007-2010	LIKE	2:04	dxzbIgqlEIo	MPREb_8mayYLQ7XkT	UC-Z_sxJOcuEGSq822j9VqNw
 41	The Slider	Ty Segall	Ty Rex	LIKE	3:21	X5ZIzQ4i38w	MPREb_sGqy7WLTw5v	UC-Z_sxJOcuEGSq822j9VqNw
-42	Shining	Woods	With Light And With Love	LIKE	2:31	rzpisr7ERHo	MPREb_btlchV8Eqnd	UCW6GLzO2xPPzxGQAWQLjIYw
-43	Get Away	Yuck	Yuck	LIKE	3:34	4VRdVqMSfpg	MPREb_gagsFmY1Nwa	UCqSWMyPkaN3g7vnZ6YMhoJA
-44	The Wall	Yuck	Yuck (Deluxe)	LIKE	3:56	OaoI9OJo1vc	MPREb_5Pm5o8AE5fV	UCqSWMyPkaN3g7vnZ6YMhoJA
-45	Operation	Yuck	Yuck (Deluxe)	LIKE	3:47	KOTd6g0GYe0	MPREb_5Pm5o8AE5fV	UCqSWMyPkaN3g7vnZ6YMhoJA
-46	Third Ave	The King Khan & BBQ Show	Invisible Girl	LIKE	4:43	i_Hjg5rK6ng	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
-47	Chem-Farmer	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	4:07	jDk9ySTpwAA	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
-48	No Voodoo	Allah-Las	Allah-Las	LIKE	3:01	euIaVxCuyzo	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-49	White Fright	Bass Drum of Death	Bass Drum of Death	LIKE	2:42	1l27OKV_pBw	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
-50	I Found A New Way	Twin Peaks	Wild Onion	LIKE	2:45	5raiGb2wVN4	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-51	When There Is No Crowd	White Fence	Is Growing Faith	LIKE	3:49	S-aUvboKRm0	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
-52	Preacher	Fuzz	Fuzz	LIKE	2:20	XodTc1aut6M	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
-53	Love Ain't Strange (Everything Else Is)	Night Beats	Sonic Bloom	LIKE	3:25	ALlHL8HW4aI	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-54	Follow You Down	Allah-Las	Worship the Sun	LIKE	3:11	yp4IQTnXG8w	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
-55	Meat Step Lively	Thee Oh Sees	Help	LIKE	2:48	cx_m_NofoiE	MPREb_FtTK9KDh5QR	UCy-Gzb-aCE1vWkbwQZaoIXQ
-56	Tell Me (What's on Your Mind)	Allah-Las	Allah-Las	LIKE	3:31	6gt0_7hak8Q	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
 57	Girlfriend	Ty Segall	Melted	LIKE	2:12	K8li0Hsz1ak	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
-58	I’ll Be Loving You	The King Khan & BBQ Show	Invisible Girl	LIKE	3:10	wzUDWSkA9TM	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
-59	Yemeni Jade	Allah-Las	Worship the Sun	LIKE	2:39	q04DwPeXX1g	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
-60	Slow Jam 1	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	2:54	clj2xPYmRRg	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
 61	Thank God For Sinners	Ty Segall	Twins	LIKE	2:50	W7ef33ZSdqE	MPREb_nECDk4mQqOl	UC-Z_sxJOcuEGSq822j9VqNw
-62	Minotaur	Thee Oh Sees	Floating Coffin	LIKE	4:50	WktVJHEFEbk	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
-63	Tony's Song	Tijuana Panthers	Semi-Sweet	LIKE	2:07	-W58xAc_q-w	MPREb_uWZ2Wxbv5RY	UC7OdXNZHFp8takrRl1EOLaA
 64	Sad Fuzz	Ty Segall	Melted	LIKE	3:00	oSIYtBIUh4Q	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
-65	Apathy	Mikal Cronin	Mikal Cronin	LIKE	2:38	ytTq4tgnBbg	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
-66	Oh It's Such a Shame	Jay Reatard	Blood Visions	LIKE	2:29	_N719XYMjqM	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
-67	Moon Bog	Oh Sees	Smote Reverser	LIKE	4:56	0uNjq5rfjm8	MPREb_2KpN3IhgENg	UCy-Gzb-aCE1vWkbwQZaoIXQ
-68	Master Of My Craft	Parquet Courts	Light Up Gold	LIKE	3:10	w9HpMMRAW1Q	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
 69	Drug Mugger	Ty Segall	Mr. Face	LIKE	3:03	z-kVGxwid3w	MPREb_2GkikuszYkj	UC-Z_sxJOcuEGSq822j9VqNw
 70	Alone	Ty Segall	Melted	LIKE	3:55	bDXFei8rD9g	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
-71	No Demons	Bass Drum of Death	Bass Drum of Death	LIKE	2:37	9aYcca7OGP8	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
-72	N Dakota	Parquet Courts	Light Up Gold + Tally All The Things That You Broke	LIKE	2:20	Pl6tUkbzVnk	MPREb_7RTO98PGXf6	UC9mjOu5Vl7zQo-DvNeMES_g
 73	Tall Man Skinny Lady	Ty Segall	Manipulator	LIKE	4:03	X-xxhr8WwVw	MPREb_gpRx3sEnpyd	UC-Z_sxJOcuEGSq822j9VqNw
-74	Human Performance	Parquet Courts	Human Performance	LIKE	4:15	Y-Jw7XmHQT0	MPREb_Tyoo1TRZ4br	UC9mjOu5Vl7zQo-DvNeMES_g
-75	Catamaran	Allah-Las	Allah-Las	LIKE	3:32	SfWi1l1aQG4	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-76	Leave Me Out	JEFF the Brotherhood	Hypnotic Nights	LIKE	3:35	G7PeeDlBUxA	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
-77	Summer With Phil	Dead Ghosts	Can't Get No	INDIFFERENT	3:09	FNiIiTSTSso	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
-78	In the Darkness	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	2:01	si8RUjEQ_p0	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
-79	Borrowed Time	Parquet Courts	Light Up Gold	LIKE	2:31	euxfCfix3Jk	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
-80	Better Days	Bass Drum of Death	Rip This	LIKE	2:07	6SicdX-s710	MPREb_kVQkrz84ZtN	UCT4pJ5jzFXrDFdYToBwvHXQ
-81	Sandy	Allah-Las	Allah-Las	LIKE	2:44	4S9dUVg7TU0	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-82	Oh Yeah	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	5:16	pIcZUToudt4	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
-83	My Shadow	Jay Reatard	Blood Visions	LIKE	3:19	DGiSbKRHOvw	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
-84	At the Gates	Night Beats	Sonic Bloom	LIKE	2:51	kPuilDM9VDI	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-85	Guillotine	Jacuzzi Boys	Jacuzzi Boys	LIKE	3:39	1mSaN7p3fUs	MPREb_2iWxvkdIp4a	UC-i0MRws7MZutdYyhbq2vMw
-86	Stranger Things Have Happened (To You)	White Fence	Is Growing Faith	LIKE	2:44	oUhubaQfNZU	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
-87	Take on the World	Wavves	King Of The Beach	LIKE	2:50	KPG9lsLnD_E	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-88	Logos	Atlas Sound	Logos	LIKE	3:29	3wo-QeowZsc	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
-89	Never Stops	Deerhunter	Microcastle	LIKE	3:04	Gm_YBdbq4Mk	MPREb_0TIjVMFnCN2	UCYvqcYNDW5Ebw6nnq-mYN4Q
-90	Ivy Covered House	Ducktails	The Flower Lane	LIKE	6:09	jU5ZN0dl25E	MPREb_aHPPWPSpRbQ	UC9G6XGIZaMAezs-65gE0QsQ
-91	Revival	Deerhunter	Halcyon Digest	LIKE	2:13	bTNHpxb8bBE	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
-92	Best Friend	Smith Westerns	Soft Will	LIKE	3:48	7CGCoyNnHyQ	MPREb_fPVtpty27zD	UCPr2fd8CQgvSpHHsjs9H4Yw
-93	The Shakes	Atlas Sound	Parallax	LIKE	2:57	CQt4uQDz6IA	MPREb_Tq0CpDO4TEK	UCVGPtgz351AuhqwCcai74tg
-94	Mornin' Time	Woods	At Echo Lake	LIKE	1:52	hfVdxSV-peI	MPREb_F6RobdKXoSj	UCW6GLzO2xPPzxGQAWQLjIYw
-95	Rosie	Lower Dens	Twin-Hand Movement	LIKE	3:09	60pqbGCddz0	MPREb_jrJ7NTcsR5M	UCRZpd2CMttEErzMVjUPHNug
-96	Agoraphobia	Deerhunter	Microcastle	LIKE	3:22	fLAKJSbwmhU	MPREb_0TIjVMFnCN2	UCYvqcYNDW5Ebw6nnq-mYN4Q
-97	Shelia	Atlas Sound	Logos	LIKE	3:33	gyAX1S-bCBc	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
-98	Sleep Apnea	Beach Fossils	Clash the Truth	LIKE	2:26	nuvJSl24wAw	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg
-99	Generique Noir	The Holydrug Couple	Moonlust	LIKE	2:48	EL3DjcRBanE	MPREb_49IG41w8SEL	UCa9j6qYsEFttptJN-DpmSyA
-100	After Glow	Porches	Slow Dance in the Cosmos	LIKE	2:13	V0CAUP3DZGQ	MPREb_vg2kBGBJESh	UC77Q0vvwpnfa6rybo4IJyrQ
-101	Summer Rain	GUM	Delorean Highway	LIKE	2:47	UNlwkjkRp7w	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
-102	All Of My Life	Kevin Morby	Still Life	LIKE	3:30	RGh05RNHbyc	MPREb_CbXqQdIlcHX	UC5f6zyIPpGOWL0_ZAcwSBqA
-103	De Vida Voz	Allah-Las	Worship the Sun	LIKE	2:32	pW2Xey2fkn8	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
-104	Something Soon	Car Seat Headrest	Teens of Style	LIKE	4:20	QPVuAgpFydU	MPREb_8ztz9X67tYb	UC97xosBrQZ7jdWVFInndIDg
-105	Rainbow's Run	King Tuff	Black Moon Spell	LIKE	3:25	0g4E2yibisA	MPREb_HR2AQxlZdLq	UCjwqoZVdhJg4-T-b1XRe0ng
-106	Cosmic Sass	Good Morning	Shawcross	INDIFFERENT	1:46	gwGzHwL2fLI	MPREb_fNQvqmA77Za	UCUWBedYLbCpXOS13_RSWAsA
-107	No Werewolf	Allah-Las	Worship the Sun	LIKE	2:29	w08FDDIKhQQ	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
-108	Sloop Jay D	Twin Peaks	Wild Onion	LIKE	3:24	Hmzlnws738U	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-109	Before My Ears Explode	Good Morning	Shawcross	LIKE	2:37	iVsfgFIqqMg	MPREb_fNQvqmA77Za	UCUWBedYLbCpXOS13_RSWAsA
-110	Star Power IV: Ooh Ooh	Foxygen	…And Star Power	LIKE	1:51	Nb6zxGmInTQ	MPREb_mFvVhUEgSXw	UCwRCAiWyrpxMa6tjy0D0WYw
-111	Spirit Forest	Wampire	Curiosity	LIKE	3:08	LzE_yr8QfVs	MPREb_7IdxG5gCXwm	UC-XPGiKD-50Lw35kqjun28Q
-112	Freebird II	Parquet Courts	Wide Awake!	LIKE	2:55	AryU6Q7Rq9k	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
-113	On the Lips	Frankie Cosmos	Next Thing	LIKE	1:48	L0Zf2uevdUA	MPREb_Hutt79K6bf8	UCaO0_wxK62ldnVYyzriD7iA
-114	Dear Ramona	Parquet Courts	Sunbathing Animal	LIKE	2:34	v2YH-MilUd8	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
-115	Give It Up	Angel Olsen	MY WOMAN	LIKE	2:57	hHOtRHwxR6E	MPREb_SVjCYss4AG2	UCLYqVE2kmsNw2uJFNjHv8yw
-116	Blue Rose	Amen Dunes	Freedom (Deluxe Edition)	LIKE	4:06	UoM0hAniy68	MPREb_GLwh7NHxp05	UCy_PraUXmFLNhE6RNcECVrg
-117	Hi-Five	Angel Olsen	Burn Your Fire For No Witness	LIKE	2:57	CZ4QLs2jSWg	MPREb_yUfNHybkzSU	UCLYqVE2kmsNw2uJFNjHv8yw
-118	Destroyed By Hippie Powers	Car Seat Headrest	Teens Of Denial	LIKE	5:03	ARndKOfSEUQ	MPREb_aFoQxiVdKon	UC97xosBrQZ7jdWVFInndIDg
-119	Unfucktheworld	Angel Olsen	Burn Your Fire For No Witness (Deluxe Edition)	LIKE	2:05	mqPTEjadIvI	MPREb_NeZLMr8BstW	UCLYqVE2kmsNw2uJFNjHv8yw
-120	Cut Your Bangs	Radiator Hospital	Torch Song	LIKE	2:06	O093pI9IIsw	MPREb_eDpiaQwz4s3	UCPo1H9iCgyTqM5nGAYbUVVA
-121	Adult Diversion	Alvvays	Alvvays	LIKE	3:28	JDceFg5HhE4	MPREb_LnLbbkn13kn	UCijE8N5dNSqbRkhOcmsxWKw
-122	Avant Gardener	Courtney Barnett	The Double EP: A Sea of Split Peas	LIKE	5:12	C1QSt1kcJWo	MPREb_oPYoBvcCRvw	UCAR6fZVOSmnctDecWdS9rtQ
-123	Maud Gone	Car Seat Headrest	Teens of Style	LIKE	5:58	Ef5N0xaHCRU	MPREb_8ztz9X67tYb	UC97xosBrQZ7jdWVFInndIDg
-124	Drunk Drivers/Killer Whales	Car Seat Headrest	Teens Of Denial	LIKE	6:14	sG_2ngI6MOE	MPREb_aFoQxiVdKon	UC97xosBrQZ7jdWVFInndIDg
-125	Destroyer	Kevin Morby	Singing Saw	LIKE	4:26	kbMlrumN7to	MPREb_H6jktXcIb68	UC5f6zyIPpGOWL0_ZAcwSBqA
-126	Need A Little Time	Courtney Barnett	Tell Me How You Really Feel	LIKE	3:58	JMWjUuAghQg	MPREb_3MrKYiJcw65	UCAR6fZVOSmnctDecWdS9rtQ
-127	High to Death	Car Seat Headrest	Twin Fantasy	LIKE	7:39	RyK1w3OwWAY	MPREb_uHqhqEkLRa4	UC97xosBrQZ7jdWVFInndIDg
-128	Intimate	Porches	Slow Dance in the Cosmos	LIKE	2:03	HAKWm9DCqj8	MPREb_vg2kBGBJESh	UC77Q0vvwpnfa6rybo4IJyrQ
-129	I Remember	Bully	Feels Like	LIKE	1:47	jiebMjyfDn0	MPREb_kUprHNHQsAC	UCRcjwMx8IcPoU3Daq-okOOQ
-130	Sacred Sands	Allah-Las	Allah-Las	LIKE	3:31	ATKHBq2z7Nk	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-131	High & Dry	Allah-Las	Calico Review	LIKE	2:50	9qIbF06pxXg	MPREb_2yti6EcWDCE	UCRg0dGQ51ZX7b3SF-6HkMDA
-132	Ferus Gallery	Allah-Las	Worship the Sun	LIKE	3:36	KSqpIEGBMws	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
-133	Spare Room	Bass Drum Of Death	Gb City	LIKE	2:56	BLUr5SCavLc	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
-134	Heart Attack Kid	Bass Drum Of Death	Gb City	LIKE	2:43	lsfeCgVTmZM	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
-135	Leaves	Bass Drum Of Death	Gb City	LIKE	3:58	P3lAZODMTiY	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
-136	Trapped In A Basement	Black Lips	200 Million Thousand	LIKE	2:32	dt7Vi3Qe084	MPREb_Xp4jQhq6H1y	UClAClLwMYeeJS28cid9HkSw
-137	Modern Art	Black Lips	Arabia Mountain	LIKE	2:04	5GDyfn1MUgE	MPREb_m8D5WsoLHIA	UClAClLwMYeeJS28cid9HkSw
-138	Raw Meat	Black Lips	Arabia Mountain	LIKE	1:48	fj7LeTnGOAQ	MPREb_m8D5WsoLHIA	UClAClLwMYeeJS28cid9HkSw
-139	When I Go	Coachwhips	Hands on the Controls	LIKE	2:01	a51Kmb9ShuU	MPREb_wyBD5YvCfNw	UCzCzcnf7G9LgYKuAHPlAk4A
-140	When It Comes To You	Dead Ghosts	S/T	LIKE	3:00	d6GN_Nj-0IQ	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
-141	She Likes It	Dead Ghosts	S/T	LIKE	2:50	yxb_CgQCfwc	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
-142	Girl Across The Street	Dead Ghosts	S/T	LIKE	3:09	fDcd3WxSaAs	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
-143	Dead Ghosts	Dead Ghosts	S/T	LIKE	1:50	qMFNsBKHEtM	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
-144	I Want Your Love	Dead Ghosts	S/T	LIKE	3:31	KuOOhuZTJ0Q	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
-145	No Destruction	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	4:56	E2WpR8ZaHWg	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
-146	Cosmic Vibrations	Foxygen	…And Star Power	LIKE	5:02	EufM_CSzaEc	MPREb_mFvVhUEgSXw	UCwRCAiWyrpxMa6tjy0D0WYw
-147	Richard Likes Grey Sky/Untitled (Feedback)	Froth	Bleak	INDIFFERENT	1:42	feY6JT-pRcM	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
-148	Lost My Mind	Froth	Patterns	INDIFFERENT	3:39	JfWjTV1F3oE	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow
-149	What's In My Head?	Fuzz	Fuzz	LIKE	3:54	m8RUsJqTps8	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
-150	One	Fuzz	Fuzz	LIKE	6:05	jFngQ64usck	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
-151	Chill Spot	Gap Dream	Shine Your Light	LIKE	3:39	_b4gZ7D-WSA	MPREb_kaAmWNrzXr1	UCq6zO6Ov4G390wqvchRFoew
-152	Night Ride	The Growlers	City Club	LIKE	4:11	lTBTp7mRbXc	MPREb_LRRRrvV4SMh	UCJNle5_HHB85Hsm8kM7aTHg
-153	Someday	The Growlers	Hung at Heart	INDIFFERENT	3:36	JVz721tN7ik	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-154	Do You Feel It	Holy Wave	Relax	LIKE	3:34	Fkb2QCZShW0	MPREb_nW47BTlZTAE	UC2qO7aL5hhhsS5v326P7eEw
-155	Sol Love	Holy Wave	Relax	LIKE	2:30	0IfrlY-Nx5g	MPREb_nW47BTlZTAE	UC2qO7aL5hhhsS5v326P7eEw
-156	Sailor	The Holydrug Couple	Noctuary	LIKE	2:39	aD1wMnb1UKI	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
-157	Blood Visions	Jay Reatard	Blood Visions	LIKE	1:32	DqtfCTbU0oA	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
-158	Nightmares	Jay Reatard	Blood Visions	LIKE	2:13	6792MThD5CI	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
-159	Mellow Out	JEFF the Brotherhood	We Are The Champions	LIKE	2:26	cb0JnUa9OlI	MPREb_nqZdT0IqiRA	UCAaETnLcP0wpVt6C8WF_MvQ
-160	Into The Snow	The King Khan & BBQ Show	What's For Dinner?	LIKE	3:17	kvCA_8c68l4	MPREb_QI4eKSf68oi	UCRq4R0Kpaizm6qyKXc-5FoA
-161	Strangers of Our Time	levitation room	Ethos	LIKE	2:20	ulN_AHNA1xE	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
-162	Till You Reach Your Last Breath	levitation room	Ethos	LIKE	2:48	KUFOfqWPVBg	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
-163	Friends	levitation room	Minds Of Our Own	LIKE	3:38	JbTqt79CC38	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
-164	Gone	Mikal Cronin	Mikal Cronin	LIKE	3:54	yIYqvtxfm5g	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
-165	Hold on Me	Mikal Cronin	Mikal Cronin	LIKE	3:05	WBVyAVQHomQ	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
-166	The Way Things Go	Mikal Cronin	Mikal Cronin	LIKE	5:15	kRtH4qDBRXE	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
-167	B$G P$MP$N	Natural Child	Hard In Heaven	LIKE	2:21	s0xc9W55_es	MPREb_JPxVtMFcKH6	UCt5rALPKongoXyF78YyVatA
-168	H-Bomb	Night Beats	Get Wyld! Volume 1	LIKE	3:12	wAO_qcyV0qs	MPREb_1V3sw7gHSiP	UC7TdjdmgLjRvuKK-F7E8JEQ
-169	Puppet On a String	Night Beats	Vicious Tape (The Vicious Soul Festival Compilation / Play It Loud)	INDIFFERENT	3:08	Xk6upHePYXI	MPREb_WAPhZMnYDip	UC7TdjdmgLjRvuKK-F7E8JEQ
-170	Playing Dead	Night Beats	Sonic Bloom	LIKE	4:11	NB7vhaQpeX4	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-171	Outta Mind	Night Beats	Sonic Bloom	LIKE	2:37	Ov7x3wcSFYA	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-172	Real Change	Night Beats	Sonic Bloom	LIKE	4:40	kQXHOrjas-Y	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-173	Satisfy Your Mind	Night Beats	Sonic Bloom	LIKE	2:56	2LukWvOL27k	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-174	The Seven Poison Wonders	Night Beats	Sonic Bloom	LIKE	5:01	ETh77iGca0o	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-175	As You Want	Night Beats	Sonic Bloom	LIKE	2:06	5Jp9-3pEs1w	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
-176	Flies Bump Against The Glass	Oh Sees	Smote Reverser	LIKE	4:25	9H2_9t-vamk	MPREb_2KpN3IhgENg	UCy-Gzb-aCE1vWkbwQZaoIXQ
-177	Stoned And Starving	Parquet Courts	Light Up Gold	LIKE	5:11	XQjnCoDgqEM	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
-178	Into the Garden	Parquet Courts	Sunbathing Animal	LIKE	3:00	hAAsJ2LdZ0M	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
-179	Elegant Design	Pond	Beard, Wives, Denim	LIKE	4:08	W1UOORldAyg	MPREb_Si7ciLlQj8R	UCV-D85RlUj_QXf3Hzx5I5dA
-180	The World Is Flat	Quilt	Held In Splendor	LIKE	2:04	Xce7EsB0A-w	MPREb_n9LoX73F6vO	UC5dGTQf6j9NCHSSWFlYE9Dw
-181	A Man You've Never Known	The Strange Boys	And Girls Club	LIKE	1:59	A2SkKW-9BrM	MPREb_gO05ZCf4VxX	UCqxGj35tv4JV3lFy-AuUbXg
-182	Carrion Crawler	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	5:50	fHE73mvDlDA	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
-183	Contraption/Soul Desert	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	5:21	1426G6gSQ-M	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
-184	Heavy Doctor	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	3:06	0-nv9tlLr64	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
-185	Wax Face	Thee Oh Sees	Putrifiers II	LIKE	4:00	OhehkJy6TZI	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
-186	Lupine Dominus	Thee Oh Sees	Putrifiers II	LIKE	3:28	rt5bybIbgjI	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
-187	The Axis	Thee Oh Sees	A Weird Exits	LIKE	6:11	uIXkpzKSXwo	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
 188	Isolation	Ty Segall	Fudge Sandwich	LIKE	2:54	t6d2l3sUsOw	MPREb_8mIZeduNU0w	UC-Z_sxJOcuEGSq822j9VqNw
 189	Goodbye Bread	Ty Segall	Goodbye Bread	LIKE	3:25	ce2FGLzGKIo	MPREb_TW5nemQdbQc	UC-Z_sxJOcuEGSq822j9VqNw
 190	Circles	Ty Segall	Mr. Face	LIKE	3:06	hmR-Wu7FLLU	MPREb_2GkikuszYkj	UC-Z_sxJOcuEGSq822j9VqNw
@@ -194,78 +54,218 @@
 192	The Drag (feat. Ty Segall)	Ty Segall	Singles 2007-2010	LIKE	2:57	1SUwQMyQHeo	MPREb_8mayYLQ7XkT	UC-Z_sxJOcuEGSq822j9VqNw
 193	There Is No Tomorrow	Ty Segall	Twins	LIKE	3:26	GD_dq6Jt0XU	MPREb_nECDk4mQqOl	UC-Z_sxJOcuEGSq822j9VqNw
 194	Fist Heart Mighty Dawn Dart	Ty Segall	Ty Rex	LIKE	3:16	z2yHfCsIVaw	MPREb_sGqy7WLTw5v	UC-Z_sxJOcuEGSq822j9VqNw
-195	I Wear Black	Ty Segall & Mikal Cronin	Reverse Shark Attack	LIKE	2:14	E260YLbkMss	MPREb_DVydUgQSmyQ	UC-Z_sxJOcuEGSq822j9VqNw
-196	Wave Goodbye	Ty Segall Band	Slaughterhouse	LIKE	4:34	iqdIRzbW9Uw	MPREb_EjtWPSGNJ3o	UC-Z_sxJOcuEGSq822j9VqNw
-197	Everything Is My Fault	Wavves	Afraid Of Heights	LIKE	2:38	w4N-OeWAs4U	MPREb_vI7zbkx18Ng	UCBYaFtXX67SKAvMqQ4m0NMQ
-198	Post Acid	Wavves	King Of The Beach	LIKE	2:28	wEpOwT-kdIo	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-199	Green Eyes	Wavves	King Of The Beach	LIKE	2:42	E2pIIar5wEo	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-200	Baby Say Goodbye	Wavves	King Of The Beach	LIKE	3:46	Z9hHY897LC4	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-201	Heavy Metal Detox	Wavves	V	LIKE	3:17	eImRcza9Oro	MPREb_Hm4XgiKv0M1	UCBYaFtXX67SKAvMqQ4m0NMQ
-202	Vermin	Wavves	Wavves	LIKE	4:13	HSXoqe1I578	MPREb_1YvRTHybL2M	UCBYaFtXX67SKAvMqQ4m0NMQ
-203	Wolf Gets Red Faced	White Fence	For the Recently Found Innocent	LIKE	5:10	apOOQSwJ-lM	MPREb_n4C2xFqnuqn	UCuoJbbqftLdL9LBbIuAQVEQ
-204	Goodbye Law	White Fence	For the Recently Found Innocent	LIKE	2:31	P7G8zCYwPow	MPREb_n4C2xFqnuqn	UCuoJbbqftLdL9LBbIuAQVEQ
-205	Fear	White Fence	For the Recently Found Innocent	LIKE	3:01	yVmMGfwmQgw	MPREb_n4C2xFqnuqn	UCuoJbbqftLdL9LBbIuAQVEQ
-206	The Black Glove / Rag	Ty Segall & White Fence	Hair	LIKE	5:05	K9g_oik3qPU	MPREb_NSNrbWKnpBX	UC-Z_sxJOcuEGSq822j9VqNw
-207	Tumble, Lies & Honesty	White Fence	Is Growing Faith	LIKE	3:26	k4HtulxPYx0	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
-208	You Can't Put Your Arms Around a Memory	White Fence	Is Growing Faith	LIKE	3:16	ZCa3vFBTvr0	MPREb_VnKQDLYgpjH	UCuoJbbqftLdL9LBbIuAQVEQ
-209	In the Direction of the Moon	Wolf Parade	EXPO 86	LIKE	5:46	xufug4zM8Vk	MPREb_XapoElsFBG7	UCcSBYlEz6WW8M9b2WhmtveA
-210	Oh You, Old Thing	Wolf Parade	EXPO 86	LIKE	5:46	bLP5UiV8Fi8	MPREb_XapoElsFBG7	UCcSBYlEz6WW8M9b2WhmtveA
-211	I Am a Girlfriend	Nobunny	Love Visions	LIKE	2:30	Xynl6TnJ0rc	MPREb_oCqlpJs7SCG	UCW27C-trnez1QvhBIWcJSGg
 212	Freedom	Ty Segall	Ty Segall	LIKE	2:08	yqTdkTD5odc	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
-213	Welfare Bread	King Khan & the Shrines	What Is?!	LIKE	4:08	Q99VrJhWW4U	MPREb_XCSTpYA466k	UCmGg_XQPB2EJo47k2vb2asw
-214	Mickey Mouse	Wavves	King Of The Beach	LIKE	3:02	ExZnD6mNvCs	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-215	Neon Junkyard	Deerhunter	Monomania	LIKE	2:51	pw12rN-A7YA	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
 216	Take Care (To Comb Your Hair)	Ty Segall	Ty Segall	LIKE	3:08	26RCVU9utNs	MPREb_q6nCWqpPpVX	UC-Z_sxJOcuEGSq822j9VqNw
-217	Chuck Berry Holiday	Nobunny	Love Visions	LIKE	3:08	SAepnH-8sSQ	MPREb_oCqlpJs7SCG	UCW27C-trnez1QvhBIWcJSGg
-218	I Know I Know	Nobunny	Love Visions	LIKE	1:51	BTspo-RYWHk	MPREb_oCqlpJs7SCG	UCW27C-trnez1QvhBIWcJSGg
-219	Dream Captain	Deerhunter	Monomania	LIKE	3:01	vAlVmlFg1Vk	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
-220	Baseball Cards	Wavves	King Of The Beach	LIKE	2:31	op2I0khflts	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
 221	My Head Explodes	Ty Segall	Goodbye Bread	LIKE	3:11	MeobGb1179U	MPREb_TW5nemQdbQc	UC-Z_sxJOcuEGSq822j9VqNw
-222	Disappearing Ink	Deerhunter	Rainwater Cassette Exchange	LIKE	2:22	FNI4yODQWt8	MPREb_wRvOlrVoTcU	UCYvqcYNDW5Ebw6nnq-mYN4Q
+241	Fine	Ty Segall	Goodbye Bread	LIKE	4:27	efRbrYbPvs4	MPREb_TW5nemQdbQc	UC-Z_sxJOcuEGSq822j9VqNw
+242	Cat Black	Ty Segall	Ty Rex	LIKE	2:49	cXbPaQdZh5s	MPREb_sGqy7WLTw5v	UC-Z_sxJOcuEGSq822j9VqNw
+259	Dating	Ty Segall	Singles 2007-2010	LIKE	2:14	vNHfwzdwoBo	MPREb_8mayYLQ7XkT	UC-Z_sxJOcuEGSq822j9VqNw
+31	Strawberry Smoothie	Twin Peaks	Wild Onion	LIKE	2:24	gw4wDIfBzWg	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+32	Mirror of Time	Twin Peaks	Wild Onion	LIKE	2:20	U4UWiL6N5Ls	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+33	Strange World	Twin Peaks	Wild Onion	LIKE	1:49	ZVEzdOOFWQQ	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+34	Sweet Thing	Twin Peaks	Wild Onion	LIKE	2:07	JiPORVlnT_0	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+35	Mind Frame	Twin Peaks	Wild Onion	LIKE	2:08	tj4NBnyiifQ	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+50	I Found A New Way	Twin Peaks	Wild Onion	LIKE	2:45	5raiGb2wVN4	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+108	Sloop Jay D	Twin Peaks	Wild Onion	LIKE	3:24	Hmzlnws738U	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
+63	Tony's Song	Tijuana Panthers	Semi-Sweet	LIKE	2:07	-W58xAc_q-w	MPREb_uWZ2Wxbv5RY	UC7OdXNZHFp8takrRl1EOLaA
+258	Creature	Tijuana Panthers	Max Baker	LIKE	3:00	gMncIAuKO3M	MPREb_iwA5z5PcbX8	UC7OdXNZHFp8takrRl1EOLaA
+25	Wrong Idea	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	1:52	vD81l1qSt-4	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
+26	Toe Cutter - Thumb Buster	Thee Oh Sees	Floating Coffin	LIKE	3:32	aqmJEkgdu5Y	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
+27	Night Crawler	Thee Oh Sees	Floating Coffin	LIKE	4:12	gcwnLdpA-xI	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
+28	Ticklish Warrior	Thee Oh Sees	A Weird Exits	LIKE	3:06	xvD423QRYXI	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
+47	Chem-Farmer	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	4:07	jDk9ySTpwAA	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
+55	Meat Step Lively	Thee Oh Sees	Help	LIKE	2:48	cx_m_NofoiE	MPREb_FtTK9KDh5QR	UCy-Gzb-aCE1vWkbwQZaoIXQ
+62	Minotaur	Thee Oh Sees	Floating Coffin	LIKE	4:50	WktVJHEFEbk	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
+182	Carrion Crawler	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	5:50	fHE73mvDlDA	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
+183	Contraption/Soul Desert	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	5:21	1426G6gSQ-M	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
+184	Heavy Doctor	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	3:06	0-nv9tlLr64	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
+185	Wax Face	Thee Oh Sees	Putrifiers II	LIKE	4:00	OhehkJy6TZI	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
+186	Lupine Dominus	Thee Oh Sees	Putrifiers II	LIKE	3:28	rt5bybIbgjI	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
+187	The Axis	Thee Oh Sees	A Weird Exits	LIKE	6:11	uIXkpzKSXwo	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
+239	Flood's New Light	Thee Oh Sees	Putrifiers II	LIKE	2:31	IUIGZ-T72Eg	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
+240	Plastic Plant	Thee Oh Sees	A Weird Exits	LIKE	5:39	boklk30lNA8	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
+257	Palace Doctor	Thee Oh Sees	Mutilator Defeated At Last	LIKE	4:40	GxunSGeXVmc	MPREb_2cmjrfDKuxj	UCy-Gzb-aCE1vWkbwQZaoIXQ
+260	Be My Baby	The UFO Club	The UFO Club	LIKE	3:15	Pd_4gU8oeNo	MPREb_MqnajZmji3V	UCzhSnaVJxHCPLqga7oL-r8Q
+181	A Man You've Never Known	The Strange Boys	And Girls Club	LIKE	1:59	A2SkKW-9BrM	MPREb_gO05ZCf4VxX	UCqxGj35tv4JV3lFy-AuUbXg
 223	Shot Down	The Sonics	The Sonics Boom	LIKE	2:12	YWoNqXfRABQ	MPREb_poRocJWTLPi	UCRj3ssXllXwutAfPI-mu4CA
-224	The Ghost With The Most	The Almighty Defenders	The Almighty Defenders	LIKE	4:07	kl2hSwmUo2U	MPREb_EkMZgZBGCyi	UC8XwYaa1PSOYojkcnNsbGGg
-225	Young Pros	Bass Drum Of Death	Gb City	LIKE	2:40	exAM6a_uFi8	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
-226	Middle School Dance (Song For Richard Swift)	Foxygen	Take The Kids Off Broadway	LIKE	3:58	ejP58rZ15KE	MPREb_87hY0cLkjU9	UCwRCAiWyrpxMa6tjy0D0WYw
-227	Oh No	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	5:21	y1nZixxdgNk	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
-228	Patterns	Froth	Patterns	INDIFFERENT	3:15	LyldiMxQpqA	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow
-229	HazeMaze	Fuzz	Fuzz	LIKE	5:50	G7gcqQ7M1hs	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
-230	Let It Live	Fuzz	II	LIKE	5:20	ehu9qd5rku8	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
-231	Pissed	Harlem	Hippies	LIKE	2:23	nZNvrpaEbCo	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
+15	Sleepless	The Men	Tomorrow's Hits	LIKE	3:11	mqsBIvRkQZQ	MPREb_l8DOd42izs8	UCQMuPvtlUh_TYoZjAdTGFOA
+46	Third Ave	The King Khan & BBQ Show	Invisible Girl	LIKE	4:43	i_Hjg5rK6ng	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
+58	I’ll Be Loving You	The King Khan & BBQ Show	Invisible Girl	LIKE	3:10	wzUDWSkA9TM	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
+160	Into The Snow	The King Khan & BBQ Show	What's For Dinner?	LIKE	3:17	kvCA_8c68l4	MPREb_QI4eKSf68oi	UCRq4R0Kpaizm6qyKXc-5FoA
 232	Tryin’	The King Khan & BBQ Show	Invisible Girl	LIKE	3:49	yVfZfKQfSHY	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
-233	Right / Wrong	Night Beats	Who Sold My Generation	INDIFFERENT	2:48	mRKvw20p7EY	MPREb_xULBxWdRWEY	UC7TdjdmgLjRvuKK-F7E8JEQ
-234	Burn to Breathe	Night Beats	Who Sold My Generation	INDIFFERENT	3:27	wfAT_wtX_3M	MPREb_xULBxWdRWEY	UC7TdjdmgLjRvuKK-F7E8JEQ
+99	Generique Noir	The Holydrug Couple	Moonlust	LIKE	2:48	EL3DjcRBanE	MPREb_49IG41w8SEL	UCa9j6qYsEFttptJN-DpmSyA
+156	Sailor	The Holydrug Couple	Noctuary	LIKE	2:39	aD1wMnb1UKI	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
+152	Night Ride	The Growlers	City Club	LIKE	4:11	lTBTp7mRbXc	MPREb_LRRRrvV4SMh	UCJNle5_HHB85Hsm8kM7aTHg
+2	On My Team	The Babies	Our House on the Hill	LIKE	2:28	Da7_buClwvY	MPREb_efjDSRwFlxY	UCWgO0ZFCjfc3Zu2dF3Evutw
+224	The Ghost With The Most	The Almighty Defenders	The Almighty Defenders	LIKE	4:07	kl2hSwmUo2U	MPREb_EkMZgZBGCyi	UC8XwYaa1PSOYojkcnNsbGGg
+24	Good Neck	Speedy Ortiz	Foil Deer	LIKE	1:36	OAL5ycTLK6M	MPREb_QTD0vU05CTh	UCDaTpUyPT1KCNBUW7stdLFA
+92	Best Friend	Smith Westerns	Soft Will	LIKE	3:48	7CGCoyNnHyQ	MPREb_fPVtpty27zD	UCPr2fd8CQgvSpHHsjs9H4Yw
+23	Surprise	Royal Headache	Royal Headache	LIKE	1:31	9Q7kUd2H58s	MPREb_oW0Ia9rwd7S	UC9yoxVYhkxrkgj9tG5Mcu8w
+120	Cut Your Bangs	Radiator Hospital	Torch Song	LIKE	2:06	O093pI9IIsw	MPREb_eDpiaQwz4s3	UCPo1H9iCgyTqM5nGAYbUVVA
+180	The World Is Flat	Quilt	Held In Splendor	LIKE	2:04	Xce7EsB0A-w	MPREb_n9LoX73F6vO	UC5dGTQf6j9NCHSSWFlYE9Dw
+22	Dope Cloud	Protomartyr	The Agent Intellect	LIKE	2:56	mHUvSUWFWXs	MPREb_fme18sNIm3F	UCb0wN1RCsCuyrSRgGqG_1aQ
+100	After Glow	Porches	Slow Dance in the Cosmos	LIKE	2:13	V0CAUP3DZGQ	MPREb_vg2kBGBJESh	UC77Q0vvwpnfa6rybo4IJyrQ
+128	Intimate	Porches	Slow Dance in the Cosmos	LIKE	2:03	HAKWm9DCqj8	MPREb_vg2kBGBJESh	UC77Q0vvwpnfa6rybo4IJyrQ
+179	Elegant Design	Pond	Beard, Wives, Denim	LIKE	4:08	W1UOORldAyg	MPREb_Si7ciLlQj8R	UCV-D85RlUj_QXf3Hzx5I5dA
+18	Outside	Parquet Courts	Human Performance	LIKE	1:44	fV74AWZNxc4	MPREb_Tyoo1TRZ4br	UC9mjOu5Vl7zQo-DvNeMES_g
+19	Yr No Stoner	Parquet Courts	Light Up Gold	LIKE	1:50	r5fkniXTCO0	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
+20	Bodies Made Of	Parquet Courts	Sunbathing Animal	LIKE	3:21	b8snGUkuHCo	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
+21	Black And White	Parquet Courts	Sunbathing Animal	LIKE	3:02	Tu6tgnhKQaQ	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
+68	Master Of My Craft	Parquet Courts	Light Up Gold	LIKE	3:10	w9HpMMRAW1Q	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
+72	N Dakota	Parquet Courts	Light Up Gold + Tally All The Things That You Broke	LIKE	2:20	Pl6tUkbzVnk	MPREb_7RTO98PGXf6	UC9mjOu5Vl7zQo-DvNeMES_g
+74	Human Performance	Parquet Courts	Human Performance	LIKE	4:15	Y-Jw7XmHQT0	MPREb_Tyoo1TRZ4br	UC9mjOu5Vl7zQo-DvNeMES_g
+79	Borrowed Time	Parquet Courts	Light Up Gold	LIKE	2:31	euxfCfix3Jk	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
+112	Freebird II	Parquet Courts	Wide Awake!	LIKE	2:55	AryU6Q7Rq9k	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
+114	Dear Ramona	Parquet Courts	Sunbathing Animal	LIKE	2:34	v2YH-MilUd8	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
+177	Stoned And Starving	Parquet Courts	Light Up Gold	LIKE	5:11	XQjnCoDgqEM	MPREb_3Lf7dAet4HX	UC9mjOu5Vl7zQo-DvNeMES_g
+178	Into the Garden	Parquet Courts	Sunbathing Animal	LIKE	3:00	hAAsJ2LdZ0M	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
 235	Total Football	Parquet Courts	Wide Awake!	LIKE	4:01	oJyB-T0bPfQ	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
 236	Before the Water Gets Too High	Parquet Courts	Wide Awake!	LIKE	4:05	7s65Zc6ULbo	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
 237	Death Will Bring Change	Parquet Courts	Wide Awake!	LIKE	2:42	l9BxObmqejw	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
 238	Tenderness	Parquet Courts	Wide Awake!	LIKE	3:06	eNk4JC_3S7s	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
-239	Flood's New Light	Thee Oh Sees	Putrifiers II	LIKE	2:31	IUIGZ-T72Eg	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
-240	Plastic Plant	Thee Oh Sees	A Weird Exits	LIKE	5:39	boklk30lNA8	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
-241	Fine	Ty Segall	Goodbye Bread	LIKE	4:27	efRbrYbPvs4	MPREb_TW5nemQdbQc	UC-Z_sxJOcuEGSq822j9VqNw
-242	Cat Black	Ty Segall	Ty Rex	LIKE	2:49	cXbPaQdZh5s	MPREb_sGqy7WLTw5v	UC-Z_sxJOcuEGSq822j9VqNw
-243	6661.0	Wand	Ganglion Reef	LIKE	3:43	-VqkX4nIxi8	MPREb_36WQdp2XPXr	UCjk9dHhZzgD--4D085Nz4fw
-244	Weed Demon	Wavves	Wavvves	LIKE	2:39	FmgETCqpPy4	MPREb_Wnr8UVLaymp	UCBYaFtXX67SKAvMqQ4m0NMQ
-245	To Have In The Home	Woods	Sun and Shade	LIKE	2:47	NcdQEPHZnr4	MPREb_E0fbI71TyDr	UCW6GLzO2xPPzxGQAWQLjIYw
-246	Cover It Up	Gap Dream	Gap Dream	INDIFFERENT	4:36	MLaN0gMeBN4	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
+256	Raw Milk	Parquet Courts	Sunbathing Animal	LIKE	3:59	2yo1WQoK6Ds	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
+67	Moon Bog	Oh Sees	Smote Reverser	LIKE	4:56	0uNjq5rfjm8	MPREb_2KpN3IhgENg	UCy-Gzb-aCE1vWkbwQZaoIXQ
+176	Flies Bump Against The Glass	Oh Sees	Smote Reverser	LIKE	4:25	9H2_9t-vamk	MPREb_2KpN3IhgENg	UCy-Gzb-aCE1vWkbwQZaoIXQ
+255	Animated Violence	Oh Sees	Orc	LIKE	5:06	vY1ob4VWqQk	MPREb_Iz3wATjd3Zo	UCy-Gzb-aCE1vWkbwQZaoIXQ
+211	I Am a Girlfriend	Nobunny	Love Visions	LIKE	2:30	Xynl6TnJ0rc	MPREb_oCqlpJs7SCG	UCW27C-trnez1QvhBIWcJSGg
+217	Chuck Berry Holiday	Nobunny	Love Visions	LIKE	3:08	SAepnH-8sSQ	MPREb_oCqlpJs7SCG	UCW27C-trnez1QvhBIWcJSGg
+218	I Know I Know	Nobunny	Love Visions	LIKE	1:51	BTspo-RYWHk	MPREb_oCqlpJs7SCG	UCW27C-trnez1QvhBIWcJSGg
+53	Love Ain't Strange (Everything Else Is)	Night Beats	Sonic Bloom	LIKE	3:25	ALlHL8HW4aI	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+84	At the Gates	Night Beats	Sonic Bloom	LIKE	2:51	kPuilDM9VDI	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+168	H-Bomb	Night Beats	Get Wyld! Volume 1	LIKE	3:12	wAO_qcyV0qs	MPREb_1V3sw7gHSiP	UC7TdjdmgLjRvuKK-F7E8JEQ
+170	Playing Dead	Night Beats	Sonic Bloom	LIKE	4:11	NB7vhaQpeX4	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+171	Outta Mind	Night Beats	Sonic Bloom	LIKE	2:37	Ov7x3wcSFYA	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+172	Real Change	Night Beats	Sonic Bloom	LIKE	4:40	kQXHOrjas-Y	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+173	Satisfy Your Mind	Night Beats	Sonic Bloom	LIKE	2:56	2LukWvOL27k	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+174	The Seven Poison Wonders	Night Beats	Sonic Bloom	LIKE	5:01	ETh77iGca0o	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+175	As You Want	Night Beats	Sonic Bloom	LIKE	2:06	5Jp9-3pEs1w	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
+167	B$G P$MP$N	Natural Child	Hard In Heaven	LIKE	2:21	s0xc9W55_es	MPREb_JPxVtMFcKH6	UCt5rALPKongoXyF78YyVatA
+254	Yer Birthday	Natural Child	1971	LIKE	3:07	RF-gXH7F4lE	MPREb_7qQPqRxjV61	UCt5rALPKongoXyF78YyVatA
+17	Is It Alright?	Mikal Cronin	Mikal Cronin	LIKE	3:28	Apeyf67-180	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
+65	Apathy	Mikal Cronin	Mikal Cronin	LIKE	2:38	ytTq4tgnBbg	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
+164	Gone	Mikal Cronin	Mikal Cronin	LIKE	3:54	yIYqvtxfm5g	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
+165	Hold on Me	Mikal Cronin	Mikal Cronin	LIKE	3:05	WBVyAVQHomQ	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
+166	The Way Things Go	Mikal Cronin	Mikal Cronin	LIKE	5:15	kRtH4qDBRXE	MPREb_hyBSnawxSuB	UCLHiC1fxcccc66FeLlYT5aA
+16	The Mule	METZ	METZ	LIKE	2:25	6vTYRCT1BBM	MPREb_gO3oJ27lW48	UColti3XSQ4uFufiEQ0gz4cQ
+95	Rosie	Lower Dens	Twin-Hand Movement	LIKE	3:09	60pqbGCddz0	MPREb_jrJ7NTcsR5M	UCRZpd2CMttEErzMVjUPHNug
+252	Never Run Away	Kurt Vile	Wakin On A Pretty Daze	LIKE	3:24	fjUydqmMR-o	MPREb_cWNqjQTqYMo	UCq5OLsfFcOGOwC6i0LzdtNw
+105	Rainbow's Run	King Tuff	Black Moon Spell	LIKE	3:25	0g4E2yibisA	MPREb_HR2AQxlZdLq	UCjwqoZVdhJg4-T-b1XRe0ng
+213	Welfare Bread	King Khan & the Shrines	What Is?!	LIKE	4:08	Q99VrJhWW4U	MPREb_XCSTpYA466k	UCmGg_XQPB2EJo47k2vb2asw
+268	Let Me Mend The Past	King Gizzard And The Lizard Wizard	Float Along - Fill Your Lungs	LIKE	2:31	7VssfU9QJLA	MPREb_0tWZx7PiQhM	UC-3mACkWPK3QluQYi5dHQCA
+60	Slow Jam 1	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	2:54	clj2xPYmRRg	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+250	Cellophane	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	3:10	L8qEiZAXPC4	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+251	Satan Speeds Up	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	3:39	MNsG3ZF3uDk	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+102	All Of My Life	Kevin Morby	Still Life	LIKE	3:30	RGh05RNHbyc	MPREb_CbXqQdIlcHX	UC5f6zyIPpGOWL0_ZAcwSBqA
+125	Destroyer	Kevin Morby	Singing Saw	LIKE	4:26	kbMlrumN7to	MPREb_H6jktXcIb68	UC5f6zyIPpGOWL0_ZAcwSBqA
+66	Oh It's Such a Shame	Jay Reatard	Blood Visions	LIKE	2:29	_N719XYMjqM	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
+83	My Shadow	Jay Reatard	Blood Visions	LIKE	3:19	DGiSbKRHOvw	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
+157	Blood Visions	Jay Reatard	Blood Visions	LIKE	1:32	DqtfCTbU0oA	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
+158	Nightmares	Jay Reatard	Blood Visions	LIKE	2:13	6792MThD5CI	MPREb_JuA0H2MUizK	UCiEv1P9TKtI4eGILS_4dVmA
+85	Guillotine	Jacuzzi Boys	Jacuzzi Boys	LIKE	3:39	1mSaN7p3fUs	MPREb_2iWxvkdIp4a	UC-i0MRws7MZutdYyhbq2vMw
+12	Mystic Portal II	JEFF the Brotherhood	Hypnotic Nights	LIKE	4:50	kTTyorHt6Ls	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
+13	Hypnotic Mind	JEFF the Brotherhood	Hypnotic Nights	LIKE	3:15	_ep9uG-J1fI	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
+14	Dark Energy	JEFF the Brotherhood	Hypnotic Nights	LIKE	4:31	Zp351leoHkM	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
+76	Leave Me Out	JEFF the Brotherhood	Hypnotic Nights	LIKE	3:35	G7PeeDlBUxA	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
+159	Mellow Out	JEFF the Brotherhood	We Are The Champions	LIKE	2:26	cb0JnUa9OlI	MPREb_nqZdT0IqiRA	UCAaETnLcP0wpVt6C8WF_MvQ
 247	Dream Theatre Dream	JEFF the Brotherhood	The Boys R Back In Town	LIKE	7:06	1eGpHuKPsog	MPREb_BVe4uZ6qKxS	UCAaETnLcP0wpVt6C8WF_MvQ
 248	Gouge Away	JEFF the Brotherhood	Dig The Classics	LIKE	2:51	p9AqAEosPvk	MPREb_ejDvn6munCZ	UCAaETnLcP0wpVt6C8WF_MvQ
 249	Endless Fire	JEFF the Brotherhood	We Are The Champions	LIKE	3:11	ohecDssN0lk	MPREb_nqZdT0IqiRA	UCAaETnLcP0wpVt6C8WF_MvQ
-250	Cellophane	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	3:10	L8qEiZAXPC4	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
-251	Satan Speeds Up	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	3:39	MNsG3ZF3uDk	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
-252	Never Run Away	Kurt Vile	Wakin On A Pretty Daze	LIKE	3:24	fjUydqmMR-o	MPREb_cWNqjQTqYMo	UCq5OLsfFcOGOwC6i0LzdtNw
-253	Reasons Why	levitation room	Minds Of Our Own	LIKE	2:42	-64K84tahCE	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
-254	Yer Birthday	Natural Child	1971	LIKE	3:07	RF-gXH7F4lE	MPREb_7qQPqRxjV61	UCt5rALPKongoXyF78YyVatA
-255	Animated Violence	Oh Sees	Orc	LIKE	5:06	vY1ob4VWqQk	MPREb_Iz3wATjd3Zo	UCy-Gzb-aCE1vWkbwQZaoIXQ
-256	Raw Milk	Parquet Courts	Sunbathing Animal	LIKE	3:59	2yo1WQoK6Ds	MPREb_MOmJAbJLoYg	UC9mjOu5Vl7zQo-DvNeMES_g
-257	Palace Doctor	Thee Oh Sees	Mutilator Defeated At Last	LIKE	4:40	GxunSGeXVmc	MPREb_2cmjrfDKuxj	UCy-Gzb-aCE1vWkbwQZaoIXQ
-258	Creature	Tijuana Panthers	Max Baker	LIKE	3:00	gMncIAuKO3M	MPREb_iwA5z5PcbX8	UC7OdXNZHFp8takrRl1EOLaA
-259	Dating	Ty Segall	Singles 2007-2010	LIKE	2:14	vNHfwzdwoBo	MPREb_8mayYLQ7XkT	UC-Z_sxJOcuEGSq822j9VqNw
-260	Be My Baby	The UFO Club	The UFO Club	LIKE	3:15	Pd_4gU8oeNo	MPREb_MqnajZmji3V	UCzhSnaVJxHCPLqga7oL-r8Q
-261	Catalina	Allah-Las	Allah-Las	LIKE	3:43	ATn7JdYGE-A	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+154	Do You Feel It	Holy Wave	Relax	LIKE	3:34	Fkb2QCZShW0	MPREb_nW47BTlZTAE	UC2qO7aL5hhhsS5v326P7eEw
+155	Sol Love	Holy Wave	Relax	LIKE	2:30	0IfrlY-Nx5g	MPREb_nW47BTlZTAE	UC2qO7aL5hhhsS5v326P7eEw
+231	Pissed	Harlem	Hippies	LIKE	2:23	nZNvrpaEbCo	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
+109	Before My Ears Explode	Good Morning	Shawcross	LIKE	2:37	iVsfgFIqqMg	MPREb_fNQvqmA77Za	UCUWBedYLbCpXOS13_RSWAsA
+151	Chill Spot	Gap Dream	Shine Your Light	LIKE	3:39	_b4gZ7D-WSA	MPREb_kaAmWNrzXr1	UCq6zO6Ov4G390wqvchRFoew
+101	Summer Rain	GUM	Delorean Highway	LIKE	2:47	UNlwkjkRp7w	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
+52	Preacher	Fuzz	Fuzz	LIKE	2:20	XodTc1aut6M	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
+149	What's In My Head?	Fuzz	Fuzz	LIKE	3:54	m8RUsJqTps8	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
+150	One	Fuzz	Fuzz	LIKE	6:05	jFngQ64usck	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
+229	HazeMaze	Fuzz	Fuzz	LIKE	5:50	G7gcqQ7M1hs	MPREb_PHMugeEHDaL	UCZ5wcF_rfHH6bgLejJjqFMw
+230	Let It Live	Fuzz	II	LIKE	5:20	ehu9qd5rku8	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
+113	On the Lips	Frankie Cosmos	Next Thing	LIKE	1:48	L0Zf2uevdUA	MPREb_Hutt79K6bf8	UCaO0_wxK62ldnVYyzriD7iA
+78	In the Darkness	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	2:01	si8RUjEQ_p0	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
+82	Oh Yeah	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	5:16	pIcZUToudt4	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
+110	Star Power IV: Ooh Ooh	Foxygen	…And Star Power	LIKE	1:51	Nb6zxGmInTQ	MPREb_mFvVhUEgSXw	UCwRCAiWyrpxMa6tjy0D0WYw
+145	No Destruction	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	4:56	E2WpR8ZaHWg	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
+146	Cosmic Vibrations	Foxygen	…And Star Power	LIKE	5:02	EufM_CSzaEc	MPREb_mFvVhUEgSXw	UCwRCAiWyrpxMa6tjy0D0WYw
+226	Middle School Dance (Song For Richard Swift)	Foxygen	Take The Kids Off Broadway	LIKE	3:58	ejP58rZ15KE	MPREb_87hY0cLkjU9	UCwRCAiWyrpxMa6tjy0D0WYw
+227	Oh No	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	5:21	y1nZixxdgNk	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
+267	On Blue Mountain	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	5:50	E-LmB3DBetA	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
+90	Ivy Covered House	Ducktails	The Flower Lane	LIKE	6:09	jU5ZN0dl25E	MPREb_aHPPWPSpRbQ	UC9G6XGIZaMAezs-65gE0QsQ
+9	Duplex Planet	Deerhunter	Fading Frontier	LIKE	2:40	rBSS4AjCiDA	MPREb_gQmVsEEf8aL	UCYvqcYNDW5Ebw6nnq-mYN4Q
+10	The Missing	Deerhunter	Monomania	LIKE	3:40	9Ul6ruEMjfU	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
+11	Sleepwalking	Deerhunter	Monomania	LIKE	3:08	ORBs5Y9uW2Q	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
+89	Never Stops	Deerhunter	Microcastle	LIKE	3:04	Gm_YBdbq4Mk	MPREb_0TIjVMFnCN2	UCYvqcYNDW5Ebw6nnq-mYN4Q
+91	Revival	Deerhunter	Halcyon Digest	LIKE	2:13	bTNHpxb8bBE	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
+96	Agoraphobia	Deerhunter	Microcastle	LIKE	3:22	fLAKJSbwmhU	MPREb_0TIjVMFnCN2	UCYvqcYNDW5Ebw6nnq-mYN4Q
+215	Neon Junkyard	Deerhunter	Monomania	LIKE	2:51	pw12rN-A7YA	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
+219	Dream Captain	Deerhunter	Monomania	LIKE	3:01	vAlVmlFg1Vk	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
+222	Disappearing Ink	Deerhunter	Rainwater Cassette Exchange	LIKE	2:22	FNI4yODQWt8	MPREb_wRvOlrVoTcU	UCYvqcYNDW5Ebw6nnq-mYN4Q
+266	Back to the Middle	Deerhunter	Monomania	LIKE	2:36	Yu6DuK-QCAM	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
+140	When It Comes To You	Dead Ghosts	S/T	LIKE	3:00	d6GN_Nj-0IQ	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
+141	She Likes It	Dead Ghosts	S/T	LIKE	2:50	yxb_CgQCfwc	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
+142	Girl Across The Street	Dead Ghosts	S/T	LIKE	3:09	fDcd3WxSaAs	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
+143	Dead Ghosts	Dead Ghosts	S/T	LIKE	1:50	qMFNsBKHEtM	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
+144	I Want Your Love	Dead Ghosts	S/T	LIKE	3:31	KuOOhuZTJ0Q	MPREb_uyoXVe4fb5W	UC4GaG0Z8KQ7fToZElC_OuoQ
+122	Avant Gardener	Courtney Barnett	The Double EP: A Sea of Split Peas	LIKE	5:12	C1QSt1kcJWo	MPREb_oPYoBvcCRvw	UCAR6fZVOSmnctDecWdS9rtQ
+126	Need A Little Time	Courtney Barnett	Tell Me How You Really Feel	LIKE	3:58	JMWjUuAghQg	MPREb_3MrKYiJcw65	UCAR6fZVOSmnctDecWdS9rtQ
+264	Grace	Cool Ghouls	Cool Ghouls	LIKE	3:25	4YNxRY470Ac	MPREb_HmeA1Xky51S	UCoysE9CimD4crJy9D2Y_PkA
+139	When I Go	Coachwhips	Hands on the Controls	LIKE	2:01	a51Kmb9ShuU	MPREb_wyBD5YvCfNw	UCzCzcnf7G9LgYKuAHPlAk4A
 262	13 Cent Killer	Christian Bland and the Revelators	Pig Boat Blues	LIKE	2:57	Wrq9936f_Hw	MPREb_2k9L14LAgJI	UCo_pcAb_y5wV5qBDKR694_w
 263	Diddley Stomp	Christian Bland & The Revelators	The Unseen Green Obscene	LIKE	1:50	VCHI14G93As	MPREb_N8cdXQUM6fE	UCR0UkIb_RXjD-Pkc54nStqQ
-264	Grace	Cool Ghouls	Cool Ghouls	LIKE	3:25	4YNxRY470Ac	MPREb_HmeA1Xky51S	UCoysE9CimD4crJy9D2Y_PkA
-265	Grave Robber	Wand	1000 Days	LIKE	3:34	cm9E6fYofYw	MPREb_mlu6zUQQoMe	UCjk9dHhZzgD--4D085Nz4fw
-266	Back to the Middle	Deerhunter	Monomania	LIKE	2:36	Yu6DuK-QCAM	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
-267	On Blue Mountain	Foxygen	We Are The 21st Century Ambassadors Of Peace & Magic	LIKE	5:50	E-LmB3DBetA	MPREb_9o9bJ9oJcHZ	UCwRCAiWyrpxMa6tjy0D0WYw
-268	Let Me Mend The Past	King Gizzard And The Lizard Wizard	Float Along - Fill Your Lungs	LIKE	2:31	7VssfU9QJLA	MPREb_0tWZx7PiQhM	UC-3mACkWPK3QluQYi5dHQCA
-269	There Are No Words	levitation room	Minds Of Our Own	LIKE	2:23	9rISurIO06A	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
+8	Fill in the Blank	Car Seat Headrest	Teens Of Denial	LIKE	4:04	_-l44-wxqcA	MPREb_aFoQxiVdKon	UC97xosBrQZ7jdWVFInndIDg
+104	Something Soon	Car Seat Headrest	Teens of Style	LIKE	4:20	QPVuAgpFydU	MPREb_8ztz9X67tYb	UC97xosBrQZ7jdWVFInndIDg
+118	Destroyed By Hippie Powers	Car Seat Headrest	Teens Of Denial	LIKE	5:03	ARndKOfSEUQ	MPREb_aFoQxiVdKon	UC97xosBrQZ7jdWVFInndIDg
+123	Maud Gone	Car Seat Headrest	Teens of Style	LIKE	5:58	Ef5N0xaHCRU	MPREb_8ztz9X67tYb	UC97xosBrQZ7jdWVFInndIDg
+124	Drunk Drivers/Killer Whales	Car Seat Headrest	Teens Of Denial	LIKE	6:14	sG_2ngI6MOE	MPREb_aFoQxiVdKon	UC97xosBrQZ7jdWVFInndIDg
+127	High to Death	Car Seat Headrest	Twin Fantasy	LIKE	7:39	RyK1w3OwWAY	MPREb_uHqhqEkLRa4	UC97xosBrQZ7jdWVFInndIDg
+129	I Remember	Bully	Feels Like	LIKE	1:47	jiebMjyfDn0	MPREb_kUprHNHQsAC	UCRcjwMx8IcPoU3Daq-okOOQ
+4	Record Store	Broncho	Can't Get Past the Lips	LIKE	2:21	hOLhQ-j5jF4	MPREb_n5Ig6noRiuy	UCGVp42SNSN6osaaynw6Mevg
+136	Trapped In A Basement	Black Lips	200 Million Thousand	LIKE	2:32	dt7Vi3Qe084	MPREb_Xp4jQhq6H1y	UClAClLwMYeeJS28cid9HkSw
+137	Modern Art	Black Lips	Arabia Mountain	LIKE	2:04	5GDyfn1MUgE	MPREb_m8D5WsoLHIA	UClAClLwMYeeJS28cid9HkSw
+138	Raw Meat	Black Lips	Arabia Mountain	LIKE	1:48	fj7LeTnGOAQ	MPREb_m8D5WsoLHIA	UClAClLwMYeeJS28cid9HkSw
+98	Sleep Apnea	Beach Fossils	Clash the Truth	LIKE	2:26	nuvJSl24wAw	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg
+49	White Fright	Bass Drum of Death	Bass Drum of Death	LIKE	2:42	1l27OKV_pBw	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
+71	No Demons	Bass Drum of Death	Bass Drum of Death	LIKE	2:37	9aYcca7OGP8	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
+80	Better Days	Bass Drum of Death	Rip This	LIKE	2:07	6SicdX-s710	MPREb_kVQkrz84ZtN	UCT4pJ5jzFXrDFdYToBwvHXQ
+3	Gb City	Bass Drum Of Death	Gb City	LIKE	3:04	tbSpwkJXYKU	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
+133	Spare Room	Bass Drum Of Death	Gb City	LIKE	2:57	BLUr5SCavLc	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
+134	Heart Attack Kid	Bass Drum Of Death	Gb City	LIKE	2:44	lsfeCgVTmZM	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
+135	Leaves	Bass Drum Of Death	Gb City	LIKE	3:59	P3lAZODMTiY	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
+225	Young Pros	Bass Drum Of Death	Gb City	LIKE	2:41	exAM6a_uFi8	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
+5	Taj Mahal	BRONCHO	Just Enough Hip to Be Woman	LIKE	2:43	CucsB5cL3gM	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
+6	Kurt	BRONCHO	Just Enough Hip to Be Woman	LIKE	3:03	9uzkF5YLX-U	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
+7	China	BRONCHO	Just Enough Hip to Be Woman	LIKE	4:43	aN7L3Wjvo1s	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
+88	Logos	Atlas Sound	Logos	LIKE	3:29	3wo-QeowZsc	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
+93	The Shakes	Atlas Sound	Parallax	LIKE	2:57	CQt4uQDz6IA	MPREb_Tq0CpDO4TEK	UCVGPtgz351AuhqwCcai74tg
+97	Shelia	Atlas Sound	Logos	LIKE	3:33	gyAX1S-bCBc	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
+0	High & Wild	Angel Olsen	Burn Your Fire For No Witness	LIKE	3:53	oZ1pUoWPQ9Y	MPREb_yUfNHybkzSU	UCLYqVE2kmsNw2uJFNjHv8yw
+1	Hi-Five	Angel Olsen	Burn Your Fire For No Witness (Deluxe Edition)	LIKE	2:57	9WTKqNuygv8	MPREb_NeZLMr8BstW	UCLYqVE2kmsNw2uJFNjHv8yw
+115	Give It Up	Angel Olsen	MY WOMAN	LIKE	2:57	hHOtRHwxR6E	MPREb_SVjCYss4AG2	UCLYqVE2kmsNw2uJFNjHv8yw
+117	Hi-Five	Angel Olsen	Burn Your Fire For No Witness	LIKE	2:57	CZ4QLs2jSWg	MPREb_yUfNHybkzSU	UCLYqVE2kmsNw2uJFNjHv8yw
+119	Unfucktheworld	Angel Olsen	Burn Your Fire For No Witness (Deluxe Edition)	LIKE	2:05	mqPTEjadIvI	MPREb_NeZLMr8BstW	UCLYqVE2kmsNw2uJFNjHv8yw
+116	Blue Rose	Amen Dunes	Freedom (Deluxe Edition)	LIKE	4:06	UoM0hAniy68	MPREb_GLwh7NHxp05	UCy_PraUXmFLNhE6RNcECVrg
+121	Adult Diversion	Alvvays	Alvvays	LIKE	3:28	JDceFg5HhE4	MPREb_LnLbbkn13kn	UCijE8N5dNSqbRkhOcmsxWKw
+48	No Voodoo	Allah-Las	Allah-Las	LIKE	3:01	euIaVxCuyzo	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+54	Follow You Down	Allah-Las	Worship the Sun	LIKE	3:11	yp4IQTnXG8w	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
+56	Tell Me (What's on Your Mind)	Allah-Las	Allah-Las	LIKE	3:31	6gt0_7hak8Q	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+59	Yemeni Jade	Allah-Las	Worship the Sun	LIKE	2:39	q04DwPeXX1g	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
+75	Catamaran	Allah-Las	Allah-Las	LIKE	3:32	SfWi1l1aQG4	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+81	Sandy	Allah-Las	Allah-Las	LIKE	2:44	4S9dUVg7TU0	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+103	De Vida Voz	Allah-Las	Worship the Sun	LIKE	2:32	pW2Xey2fkn8	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
+107	No Werewolf	Allah-Las	Worship the Sun	LIKE	2:29	w08FDDIKhQQ	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
+130	Sacred Sands	Allah-Las	Allah-Las	LIKE	3:31	ATKHBq2z7Nk	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+131	High & Dry	Allah-Las	Calico Review	LIKE	2:50	9qIbF06pxXg	MPREb_2yti6EcWDCE	UCRg0dGQ51ZX7b3SF-6HkMDA
+132	Ferus Gallery	Allah-Las	Worship the Sun	LIKE	3:36	KSqpIEGBMws	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
+261	Catalina	Allah-Las	Allah-Las	LIKE	3:43	ATn7JdYGE-A	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+29	Natural Villain	Twin Peaks	Sunken	INDIFFERENT	2:17	UF1b97Qz5-k	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
+30	Irene	Twin Peaks	Sunken	INDIFFERENT	2:38	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
+153	Someday	The Growlers	Hung at Heart	INDIFFERENT	3:36	JVz721tN7ik	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+169	Puppet On a String	Night Beats	Vicious Tape (The Vicious Soul Festival Compilation / Play It Loud)	INDIFFERENT	3:08	Xk6upHePYXI	MPREb_WAPhZMnYDip	UC7TdjdmgLjRvuKK-F7E8JEQ
+233	Right / Wrong	Night Beats	Who Sold My Generation	INDIFFERENT	2:48	mRKvw20p7EY	MPREb_xULBxWdRWEY	UC7TdjdmgLjRvuKK-F7E8JEQ
+234	Burn to Breathe	Night Beats	Who Sold My Generation	INDIFFERENT	3:27	wfAT_wtX_3M	MPREb_xULBxWdRWEY	UC7TdjdmgLjRvuKK-F7E8JEQ
+106	Cosmic Sass	Good Morning	Shawcross	INDIFFERENT	1:46	gwGzHwL2fLI	MPREb_fNQvqmA77Za	UCUWBedYLbCpXOS13_RSWAsA
+246	Cover It Up	Gap Dream	Gap Dream	INDIFFERENT	4:36	MLaN0gMeBN4	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
+147	Richard Likes Grey Sky/Untitled (Feedback)	Froth	Bleak	INDIFFERENT	1:42	feY6JT-pRcM	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
+148	Lost My Mind	Froth	Patterns	INDIFFERENT	3:39	JfWjTV1F3oE	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow
+228	Patterns	Froth	Patterns	INDIFFERENT	3:15	LyldiMxQpqA	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow
+77	Summer With Phil	Dead Ghosts	Can't Get No	INDIFFERENT	3:09	FNiIiTSTSso	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
