@@ -113,7 +113,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
 
 def get_yt_track_info(yt, row):
     copy_cols = ['keywords', 'averageRating', 'viewCount', 'release']
-    if type(row['albumId']) == str and 'privately_owned' not in row['albumId']:
+    if type(row['artistId']) == str and 'privately_owned' not in row['artistId']:
         try:
             song = yt.get_song(row.name)
             for col in copy_cols:
@@ -129,28 +129,27 @@ def get_yt_track_info(yt, row):
 
 
 def get_tracks_info(yt, track_df):
-    # ALTERNATIVE: tracks_w_info = track_df.apply(get_track_info, axis=1)
     i = 0
     tracks_w_info = []
     for vid, row in track_df.iterrows():
         i += 1
         print('(%d/%d): %s - %s - %s' % (i, len(track_df),
                                          row['artist'], row['album'], row['title']))
-
-        if type(row['artistId']) == str and 'library_privately_owned_artist' in row['artistId']:
-            tracks_w_info.append(row)
-        else:
-            tracks_w_info.append(get_yt_track_info(yt, row))
+        tracks_w_info.append(get_yt_track_info(yt, row))
+    tracks_w_info = pd.DataFrame(tracks_w_info)
 
     print('Scraped info for %d tracks' % len(tracks_w_info))
-    return pd.DataFrame(tracks_w_info)
+    return tracks_w_info
 
 
 def update_track_db(yt, track_db, new_tracks):
+    t0 = time.time()
     print('Track database has %d tracks, found %d unique new tracks' %
           (len(track_db), len(new_tracks)))
     track_db = pd.concat([track_db, get_tracks_info(yt, new_tracks)])
     track_db = track_db.sort_values(['artist', 'album'])
+    elapsed_t = (time.time() - t0) / 60
+    print('Finished in %d minutes' % elapsed_t)
     print('Track database now has %d tracks' % len(track_db))
     return track_db
 
@@ -158,10 +157,10 @@ def update_track_db(yt, track_db, new_tracks):
 if __name__ == "__main__":
     BACKUP_DIR = './playlists/'
     AUTH = 'headers_auth.json'
-    SKIP_PLAYLIST_BACKUP = True
+    SKIP_PLAYLIST_BACKUP = False
     TRACKS_NO_META_TSV = os.path.join(BACKUP_DIR, '_tracks_no_meta.tsv')
     TRACKS_DB_TSV = os.path.join(BACKUP_DIR, '_tracks_db.tsv')
-
+    start_time = time.time()
     yt_api = YTMusic(AUTH)
 
     # Backup playlists and fetch (or load from file) all playlist + library tracks
@@ -180,3 +179,6 @@ if __name__ == "__main__":
         tracks_no_meta.index) - set(track_db.index)]
     track_db = update_track_db(yt_api, track_db, new_tracks_no_meta)
     track_db.to_csv(TRACKS_DB_TSV, sep='\t', header=True)
+    
+    elapsed_time = (time.time() - start_time) / 60
+    print('Completed in %d minutes' % elapsed_time)
