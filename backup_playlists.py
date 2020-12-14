@@ -5,6 +5,7 @@ from ytmusicapi import YTMusic
 import time
 import datetime
 
+
 def valid_date(date_str):
     try:
         datetime.datetime.strptime(date_str, '%Y-%m-%d')
@@ -40,6 +41,7 @@ def merge_duplicates(group):
     row['playlists'] = _playlists
     return row
 
+
 def is_like_pl(name):
     name = name.lower()
     if 'thumbs_up' in name:
@@ -49,6 +51,7 @@ def is_like_pl(name):
     if ' top' in name:
         return True
 
+
 def update_like_tsv(liked_tracks, like_tsv, header):
     # Load already existing like list tsv
     like_tracks = pd.read_csv(like_tsv, sep='\t', index_col=0)
@@ -56,12 +59,14 @@ def update_like_tsv(liked_tracks, like_tsv, header):
         like_tsv, header, like_tracks.columns)
 
     # Append new like tracks in db but not in like list, save tsv.
-    new_like_tracks = liked_tracks.loc[set(liked_tracks.index) - set(like_tracks.index)]
-    all_like_tracks = pd.concat([like_tracks,new_like_tracks])
+    new_like_tracks = liked_tracks.loc[set(
+        liked_tracks.index) - set(like_tracks.index)]
+    all_like_tracks = pd.concat([like_tracks, new_like_tracks])
     all_like_tracks.to_csv(like_tsv, sep='\t', header=True)
     print('Updated liked tracks with %d new entries growing it from %d to %d entries.' % (
         len(new_like_tracks), len(like_tracks), len(all_like_tracks)))
     return all_like_tracks
+
 
 def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, include_library_tracks=True, song_lim=100000, playlist_lim=500, yt_user='Jake G'):
     # Backs up library playlists and returns playlist info summary df, also collects all unique tracks and returns track df.
@@ -182,7 +187,7 @@ if __name__ == "__main__":
     TRACKS_NO_META_TSV = os.path.join(BACKUP_DIR, '_tracks_no_meta.tsv')
     TRACKS_DB_TSV = os.path.join(BACKUP_DIR, '_tracks_db.tsv')
     LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_liked_tracks.tsv')
-    LIKE_TRACKS_HEADER = ['title', 'album', 'artist'] # more compact
+    LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact
 
     start_time = time.time()
     yt_api = YTMusic(AUTH)
@@ -203,22 +208,27 @@ if __name__ == "__main__":
         tracks_no_meta.index) - set(track_db.index)]
     track_db = update_track_db(yt_api, track_db, new_tracks_no_meta)
     track_db.to_csv(TRACKS_DB_TSV, sep='\t', header=True)
-    
+
     # Update Likes list with playlist.tsv
     playlist_files = sorted(os.listdir(BACKUP_DIR))
     like_playlists = [pl for pl in playlist_files if is_like_pl(pl)]
-    print('Found %d like playlists out ot the %d total' % (len(like_playlists), len(playlist_files)))
+    print('Found %d like playlists out ot the %d total' %
+          (len(like_playlists), len(playlist_files)))
     playlist_liked_tracks = []
     for pl in like_playlists:
-        track_df = pd.read_csv(os.path.join(BACKUP_DIR, pl), sep='\t', index_col=0)
+        track_df = pd.read_csv(os.path.join(
+            BACKUP_DIR, pl), sep='\t', index_col=0)
         tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
         tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
         playlist_liked_tracks.append(tracks_db_liked)
-        print('%s: %0.1f%% currently liked (of %d total tracks) ' % (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
-    playlist_liked_tracks = pd.concat(playlist_liked_tracks).sort_values('artist')
-    playlist_liked_tracks = playlist_liked_tracks.loc[~playlist_liked_tracks.index.duplicated(keep='first'), LIKE_TRACKS_HEADER] 
-    new_like_df = update_like_tsv(playlist_liked_tracks, , like_tsv=LIKE_TRACKS_TSV, header=LIKE_TRACKS_HEADER)
-
+        print('%s: %0.1f%% currently liked (of %d total tracks) ' %
+              (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
+    playlist_liked_tracks = pd.concat(
+        playlist_liked_tracks).sort_values('artist')
+    playlist_liked_tracks = playlist_liked_tracks.loc[~playlist_liked_tracks.index.duplicated(
+        keep='first'), LIKE_TRACKS_HEADER]
+    new_like_df = update_like_tsv(
+        playlist_liked_tracks, like_tsv=LIKE_TRACKS_TSV, header=LIKE_TRACKS_HEADER)
 
     elapsed_time = (time.time() - start_time) / 60
     print('Completed in %d minutes' % elapsed_time)
