@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+933	Folie Imposée	Yves Tumor	Heaven To A Tortured Mind	LIKE	3:06	PnXV_SVOEiY	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
 14	Family Don't Matter (feat. Millie Go Lightly)	Young Thug	Beautiful Thugger Girls	LIKE	4:56	did30PsD0n4	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
 17	Daddy's Birthday	Young Thug	Beautiful Thugger Girls	LIKE	3:29	brWrZFicD4o	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
 18	Do U Love Me	Young Thug	Beautiful Thugger Girls	LIKE	3:30	ix-AvEFc__c	MPREb_ojidC6eZ09q	UCm6WwhIkHJFRGQd7ttnr9lQ
@@ -519,6 +520,14 @@
 2572	On Another Ocean (January / June)	Fleet Foxes	Crack-Up	LIKE	4:23	Y-AQS-rlB_g	MPREb_d7Q9w5IQB4U	UCOz1sUIzEHqm8kylpb0W-Fg
 2574	I Should See Memphis	Fleet Foxes	Crack-Up	LIKE	4:44	VTs56FkWk6E	MPREb_d7Q9w5IQB4U	UCOz1sUIzEHqm8kylpb0W-Fg
 2575	Crack-Up	Fleet Foxes	Crack-Up	LIKE	6:24	BGsGINVzlSU	MPREb_d7Q9w5IQB4U	UCOz1sUIzEHqm8kylpb0W-Fg
+1846	Shameika	Fiona Apple	Fetch The Bolt Cutters	LIKE	4:09	0SbNuuSj_T4	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1847	Fetch The Bolt Cutters	Fiona Apple	Fetch The Bolt Cutters	LIKE	4:59	1OkoyfDAAm8	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1849	Relay	Fiona Apple	Fetch The Bolt Cutters	LIKE	4:50	-3EIQxfnNY4	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1850	Rack of His	Fiona Apple	Fetch The Bolt Cutters	LIKE	3:43	J5W-50x_JxE	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1851	Newspaper	Fiona Apple	Fetch The Bolt Cutters	LIKE	5:33	F1C87ZtflS8	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1852	Ladies	Fiona Apple	Fetch The Bolt Cutters	LIKE	5:26	HR83JsJU0Wo	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1853	Heavy Balloon	Fiona Apple	Fetch The Bolt Cutters	LIKE	3:27	gHlRoUxf_l0	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
+1854	Cosmonauts	Fiona Apple	Fetch The Bolt Cutters	LIKE	4:00	kHiur2gtuTw	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
 2326	Hangout at the Gallows	Father John Misty	God's Favorite Customer	LIKE	4:55	q91LGCdAK3c	MPREb_RujtyWUEVIm	UCbDizOzZ4qTxDBAVc5xbbAw
 2327	Mr. Tillman	Father John Misty	God's Favorite Customer	LIKE	3:03	Ng_N7UikjKQ	MPREb_RujtyWUEVIm	UCbDizOzZ4qTxDBAVc5xbbAw
 2328	Just Dumb Enough to Try	Father John Misty	God's Favorite Customer	LIKE	4:02	qs3pl7Eokyo	MPREb_RujtyWUEVIm	UCbDizOzZ4qTxDBAVc5xbbAw
@@ -856,7 +865,6 @@
 930	Romanticist	Yves Tumor	Romanticist / Dream Palette	INDIFFERENT	1:47	GCCT3sSllwk	MPREb_sY3zntxY6SD	UC42tK0ySS5GfdaN-c6acQcA
 931	Dream Palette	Yves Tumor	Romanticist / Dream Palette	INDIFFERENT	2:56	R7ccEgX-jhw	MPREb_sY3zntxY6SD	UC42tK0ySS5GfdaN-c6acQcA
 932	Super Stars	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:06	fejk7-RItDo	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-933	Folie Imposée	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:06	PnXV_SVOEiY	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
 934	Strawberry Privilege	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:53	_7GwbNX_ls0	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
 935	Asteroid Blues	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:03	ldEVpNv6uHs	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
 936	A Greater Love	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:05	WdG6SLsKNzo	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
@@ -3565,15 +3573,7 @@
 4458	YouAreMySunshine	Flatbush Zombies	Vacation In Hell	INDIFFERENT	2:49	Plr_3LlitB8	MPREb_oXruaWcodP1	UCeHJJ-gjQ6vki2H0ZCvuovw
 4459	The Glory (feat. Denzel Curry)	Flatbush Zombies	Vacation In Hell	INDIFFERENT	5:49	3wdsOFyfdYc	MPREb_oXruaWcodP1	UCeHJJ-gjQ6vki2H0ZCvuovw
 1845	I Want You To Love Me	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	3:58	tdp3LPK7cGA	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1846	Shameika	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	4:09	0SbNuuSj_T4	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1847	Fetch The Bolt Cutters	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	4:59	1OkoyfDAAm8	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
 1848	Under The Table	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	3:22	wepBOvGJ824	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1849	Relay	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	4:50	-3EIQxfnNY4	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1850	Rack of His	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	3:43	J5W-50x_JxE	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1851	Newspaper	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	5:33	F1C87ZtflS8	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1852	Ladies	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	5:26	HR83JsJU0Wo	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1853	Heavy Balloon	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	3:27	gHlRoUxf_l0	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
-1854	Cosmonauts	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	4:00	kHiur2gtuTw	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
 1855	For Her	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	2:44	aGsKQOSdK0o	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
 1856	Drumset	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	2:41	b7a3c2u0Gb0	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg
 1857	On I Go	Fiona Apple	Fetch The Bolt Cutters	INDIFFERENT	3:10	vbfaygk0Z9o	MPREb_THra6CyCfb4	UCLKPWf8Xm8m_VMb6i4PsMZg

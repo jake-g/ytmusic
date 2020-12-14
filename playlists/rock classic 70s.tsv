@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-451	Sharp Dressed Man (2008 Remaster)	ZZ Top	Eliminator	LIKE	4:19	lyIPvm4JukQ	MPREb_dAd7tpgnjCU	UCBh9D4lvrcpuwLo4P6WzTHA
-532	Tush (2006 Remaster)	ZZ Top	The Very Baddest of... ZZ Top	LIKE	2:15	_RIa--g0Lak	MPREb_s67mBKM9Ral	UCBh9D4lvrcpuwLo4P6WzTHA
-563	Tush	ZZ Top	Fandango!	LIKE	2:14	P7iPkiyG2jQ	MPREb_p0iQRPUCdcJ	UCBh9D4lvrcpuwLo4P6WzTHA
+451	Sharp Dressed Man (2008 Remaster)	ZZ Top	Eliminator	LIKE	4:19	lyIPvm4JukQ	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
+532	Tush (2006 Remaster)	ZZ Top	The Very Baddest of... ZZ Top	LIKE	2:15	_RIa--g0Lak	MPREb_s67mBKM9Ral	UC_Us2Zqt4ovGtdXKmws60mw
+563	Tush	ZZ Top	Fandango!	LIKE	2:14	P7iPkiyG2jQ	MPREb_p0iQRPUCdcJ	UC_Us2Zqt4ovGtdXKmws60mw
 901	Trouble Is Trouble Never Seen	White Fence	Cyclops Reap	LIKE	2:44	spN65KDz8V8	MPREb_Nz5kEDGDjjh	UCuoJbbqftLdL9LBbIuAQVEQ
 193	Dear Mr. Fantasy	Traffic	Mr. Fantasy	LIKE	5:34	sS_eHdqcrM8	MPREb_pEzFtyHuF1q	UCFh-Yyaep1Gl5c0O1JTvEBQ
 192	Draggin' the Line	Tommy James & The Shondells	Anthology	LIKE	2:46	BrOsr00k_MI	MPREb_WyO5enAkRu4	UCBwv3RxOvTdjJKhD5alG40Q
@@ -77,6 +77,7 @@
 18	Moving in Stereo	The Cars	The Cars	LIKE	4:46	y5oPZFDci80	MPREb_wZVikglLr7Z	UCu_gFD6YgmN85WjTSIotYcA
 516	5D (Fifth Dimension)	The Byrds	The Essential Byrds	LIKE	2:33	TVhuetyjmxE	MPREb_gAOs1PnjNS1	UCWgHSjTVKbR3z-MKow8OydA
 538	Mr. Tambourine Man	The Byrds	Mr. Tambourine Man	LIKE	2:30	ncSl9ljLsYs	MPREb_Dc6aR8SaZp5	UCWgHSjTVKbR3z-MKow8OydA
+658	My Back Pages	The Byrds	Younger Than Yesterday	LIKE	3:08	OADlrLHfYW4	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
 284	The Letter	The Box Tops	The Letter/Neon Rainbow	LIKE	1:53	l1Pw1SNP3Rk	MPREb_2lQIkXNfPrl	UC1pX55oPOqJzehRJtsXwF8g
 283	(We Ain't Got) Nothin' Yet	The Blues Magoos	Psychedelic Lollipop	LIKE	2:16	g2XtCF6F4e0	MPREb_whXQaEJI1Jg	UCRrECyGix7ljQpiLk_Qu8VA
 201	The Weight	The Band	Greatest Hits	LIKE	4:36	xLFAQuWFcTo	MPREb_yzA7M130QbE	UCFczEeze7e0Lghy3eXtl38Q
@@ -89,7 +90,6 @@
 498	Memories Can't Wait (2005 Remaster)	Talking Heads	Fear Of Music (Deluxe Version)	LIKE	3:30	ssCFwQkyCeI	MPREb_mbz8FP87Lvk	UCCmr_pJ7az1JfWUiujsiHWg
 499	New Feeling (2005 Remaster)	Talking Heads	Talking Heads '77 (Deluxe Version)	LIKE	3:09	qowEgRo3Q1E	MPREb_Lpjnw4k4o4d	UCCmr_pJ7az1JfWUiujsiHWg
 500	Sugar on My Tongue (2005 Remaster)	Talking Heads	Talking Heads '77 (Deluxe Version)	LIKE	2:36	vDVQO67NCZ4	MPREb_Lpjnw4k4o4d	UCCmr_pJ7az1JfWUiujsiHWg
-504	One Inch Rock (Live Stoke on Trent)	T.Rex	Total T.Rex, Vol. 3	LIKE	2:16	NiwiUnRu6Kw	MPREb_fFdFPsgQMCD	UC1-UNuCXUUtrC0vuWfl0z9w
 452	Mambo Sun	T. Rex	Electric Warrior	LIKE	3:41	EGg0g6vrlEs	MPREb_po5CtjF25R5	UC1-UNuCXUUtrC0vuWfl0z9w
 453	Cosmic Dancer	T. Rex	Electric Warrior	LIKE	4:30	bHTxaUe1RAw	MPREb_po5CtjF25R5	UC1-UNuCXUUtrC0vuWfl0z9w
 454	Monolith	T. Rex	Electric Warrior	LIKE	3:49	MevXHMA8bqc	MPREb_po5CtjF25R5	UC1-UNuCXUUtrC0vuWfl0z9w
@@ -566,7 +566,7 @@
 508	Sweet Emotion	Aerosmith	Toys In The Attic	LIKE	4:35	wwKwoU9cQ_o	MPREb_fU8zdzxEOTY	UCYuinPfuhK_rSlrJXvZQrng
 506	For Those About to Rock (We Salute You)	AC/DC	For Those About to Rock (We Salute You)	LIKE	5:45	qsaTFcXVCNU	MPREb_OQL07QPipUl	UCVm4YdI3hobkwsHTTOMVJKg
 505	Hold On Loosely	38 Special	Flashback	LIKE	4:40	ikHvz4zfZrw	MPREb_bnyB0uPJZ0w	UCdShUpkYKPfRT0Vsqo4kg4w
-918	Miller's Farm	ZZ Top	Chrome, Smoke & BBQ	INDIFFERENT	2:36	cmkpfFsiMpU	MPREb_uGBHKPEXQWy	UCBh9D4lvrcpuwLo4P6WzTHA
+918	Miller's Farm	ZZ Top	Chrome, Smoke & BBQ	INDIFFERENT	2:36	cmkpfFsiMpU	MPREb_uGBHKPEXQWy	UC_Us2Zqt4ovGtdXKmws60mw
 911	Rockestra Theme	Wings	Wingspan: Hits And History	INDIFFERENT	2:37	LSm8R3iRIhY	MPREb_ioTLddsOMBg	UCyyYmEud7d9iGVOYNMG9sAA
 900	Groovy Kind Of Love	Wayne Fontana	Love Songs	INDIFFERENT	1:59	E0dZOi1-kIg	MPREb_WSZz5aLtQbL	UCu9w3s_G4rzmVLNcodgUDmA
 897	Early In The Morning	Vanity Fare	Greatest Hits	INDIFFERENT	2:33	jkfUHrU24kI	MPREb_rRqd7seyjE6	UCFL3uhV7buDJ90OKn4M-5cw
@@ -623,7 +623,7 @@
 846	Down The Road Apiece	The Rolling Stones	The Rolling Stones, Now!	INDIFFERENT	2:56	HOpjhvCSDTM	MPREb_mFD0YBbYyii	UCNYhhkQqeFLUc-YEDcLpSYQ
 847	Paint It, Black (Original Single Mono Version)	The Rolling Stones	Singles 1965-1967	INDIFFERENT	3:45	b1uIM2nPocE	MPREb_tjxjvgOsPIe	UCNYhhkQqeFLUc-YEDcLpSYQ
 848	Shattered	The Rolling Stones	Some Girls (Deluxe Version)	INDIFFERENT	3:47	FVoUGdWSB2E	MPREb_nOsVLtXMuBo	UCNYhhkQqeFLUc-YEDcLpSYQ
-817	If You Wanna Get To Heaven	The Ozark Mountain Daredevils	The Ozark Mountain Daredevils	INDIFFERENT	3:04	ouP9Yz8TEBM	MPREb_vEle68IDuR1	UCGIWIe4f9T1yQ7VdLsgGO7A
+817	If You Wanna Get To Heaven	The Ozark Mountain Daredevils	The Ozark Mountain Daredevils	INDIFFERENT	3:05	ouP9Yz8TEBM	MPREb_vEle68IDuR1	UCGIWIe4f9T1yQ7VdLsgGO7A
 815	Tobacco Road	The Nashville Teens	Nashville Teens - The Best Of	INDIFFERENT	2:28	Fpv908CeI4I	MPREb_R85eBQRzQK0	UCB8ZamjpgQQmSiUOQqfQd4Q
 812	The Story In Your Eyes	The Moody Blues	The Best Of The Moody Blues	INDIFFERENT	3:06	yJyZBEKvFR4	MPREb_HSTuHU1pCVS	UC4HQKRyk4s13hiAnZBXxZWQ
 813	Ride My See-Saw	The Moody Blues	In Search Of The Lost Chord	INDIFFERENT	3:40	ExqvK56GiS0	MPREb_EH9HtVmNlnI	UC4HQKRyk4s13hiAnZBXxZWQ
@@ -659,7 +659,6 @@
 655	All I Really Want to Do	The Byrds	Mr. Tambourine Man	INDIFFERENT	2:04	nymd_ToIHB0	MPREb_Dc6aR8SaZp5	UCWgHSjTVKbR3z-MKow8OydA
 656	Turn! Turn! Turn! (To Everything There Is a Season)	The Byrds	Turn! Turn! Turn!	INDIFFERENT	3:50	vkQlQ6YvGYM	MPREb_ahZCdK6In5e	UCWgHSjTVKbR3z-MKow8OydA
 657	So You Want to Be a Rock 'N' Roll Star	The Byrds	Younger Than Yesterday	INDIFFERENT	2:06	9EiHojlaWrE	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
-658	My Back Pages	The Byrds	Younger Than Yesterday	INDIFFERENT	3:08	OADlrLHfYW4	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
 654	Kind of a Drag	The Buckinghams	Pop Classics Of The 60's	INDIFFERENT	2:04	CpW_toqriX4	MPREb_CrQOVWlHG6K	UChYLLD4VuF89c39x-cden_A
 648	Soul Deep	The Box Tops	Dimensions	INDIFFERENT	2:28	beB1owW-EzM	MPREb_tJnc4mA8mPt	UC1pX55oPOqJzehRJtsXwF8g
 622	Just A Little	The Beau Brummels	Rock n' Roll Masters: The Beau Brummels	INDIFFERENT	2:19	Jeu9_FK6ud8	MPREb_m91ufr2aLTI	UCx5XuXV61li0FsvI8LJ6qaA
@@ -670,6 +669,7 @@
 620	I Know There's An Answer	The Beach Boys	Pet Sounds (Original Mono & Stereo Mix Versions)	INDIFFERENT	3:12	jQk2yvkyejw	MPREb_3vajdQZ1KVX	UCrnD8aXhy4oQMS0ITw471tA
 621	That's Not Me	The Beach Boys	Pet Sounds (Original Mono & Stereo Mix Versions)	INDIFFERENT	2:32	X1XDMaz4TZ4	MPREb_3vajdQZ1KVX	UCrnD8aXhy4oQMS0ITw471tA
 604	Every Hungry Woman	The Allman Brothers Band	The Allman Brothers Band	INDIFFERENT	4:16	5XK2DDoAWTc	MPREb_DOxReUOcarp	UC8RbgxtYaViMHEKmcpsmi6w
+504	Get It On (Live at The Boston Gliderdrome, 15th January 1972)	T.Rex	Total T.Rex, Vol. 3	INDIFFERENT	2:16	rf4D7dZkAzE	MPREb_fFdFPsgQMCD	UC1-UNuCXUUtrC0vuWfl0z9w
 880	Dammit Janet	Susan Sarandon	The Rocky Horror Picture Show - Original Soundtrack	INDIFFERENT	2:46	G4T9CSJJAww	MPREb_rFIya4JN5u5	UCNPj-uTN_N07oxhUlz3e4JA
 879	Baby Love	Supremes	The 60´s, Vol. 1	INDIFFERENT	2:47	gwRxz4Pk-JU	MPREb_XSFH8mn3Any	UCaKbXyTyxKOyBKasPe7JB2w
 180	Breakfast In America	Supertramp	Breakfast In America	INDIFFERENT	2:40	oLDFQ5OSFmU	MPREb_0LoYnYtprVM	UCpS0hJ21amjA5eBApEOiIFw

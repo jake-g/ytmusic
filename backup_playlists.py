@@ -76,7 +76,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
     all_playlist_info = []
     all_tracks = []
     start_time = time.time()
-    print('Fetching and backing up playlists to %s (approx 10 min)' % backup_dir)
+    print('Fetching and backing up playlists to %s (approx 15 min)' % backup_dir)
     playlists = pd.DataFrame(yt.get_library_playlists(limit=playlist_lim))
     for i, row in playlists.iterrows():
         print('\n\n(%d/%d)\t%s' % (i+1, len(playlists), row['title']))
@@ -116,7 +116,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
 
     if include_library_tracks:
         t1 = time.time()
-        print('Fetching library tracks (approx 7 min)...')
+        print('Fetching library tracks (approx 10 min)...')
         library_tracks = parse_tracks(yt.get_library_songs(limit=song_lim))
         all_tracks.append(library_tracks)
         library_elapsed = (time.time() - t1) / 60
