@@ -49,7 +49,7 @@ def is_like_pl(name):
     if ' top' in name:
         return True
 
-def update_like_tsv(liked_tracks, like_tsv=LIKE_TRACKS_TSV, header=LIKE_TRACKS_HEADER):
+def update_like_tsv(liked_tracks, like_tsv, header):
     # Load already existing like list tsv
     like_tracks = pd.read_csv(like_tsv, sep='\t', index_col=0)
     assert list(like_tracks.columns) == header, 'Expected %s to have header %s, not: %s' % (
@@ -217,7 +217,7 @@ if __name__ == "__main__":
         print('%s: %0.1f%% currently liked (of %d total tracks) ' % (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
     playlist_liked_tracks = pd.concat(playlist_liked_tracks).sort_values('artist')
     playlist_liked_tracks = playlist_liked_tracks.loc[~playlist_liked_tracks.index.duplicated(keep='first'), LIKE_TRACKS_HEADER] 
-    new_like_df = update_like_tsv(playlist_liked_tracks)
+    new_like_df = update_like_tsv(playlist_liked_tracks, , like_tsv=LIKE_TRACKS_TSV, header=LIKE_TRACKS_HEADER)
 
 
     elapsed_time = (time.time() - start_time) / 60
