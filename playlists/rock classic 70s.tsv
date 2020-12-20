@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 451	Sharp Dressed Man (2008 Remaster)	ZZ Top	Eliminator	LIKE	4:19	lyIPvm4JukQ	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
-532	Tush (2006 Remaster)	ZZ Top	The Very Baddest of... ZZ Top	LIKE	2:15	_RIa--g0Lak	MPREb_s67mBKM9Ral	UC_Us2Zqt4ovGtdXKmws60mw
+532	Tush (2006 Remaster)	ZZ Top	The Very Baddest of... ZZ Top	LIKE	2:14	_RIa--g0Lak	MPREb_s67mBKM9Ral	UC_Us2Zqt4ovGtdXKmws60mw
 563	Tush	ZZ Top	Fandango!	LIKE	2:14	P7iPkiyG2jQ	MPREb_p0iQRPUCdcJ	UC_Us2Zqt4ovGtdXKmws60mw
 901	Trouble Is Trouble Never Seen	White Fence	Cyclops Reap	LIKE	2:44	spN65KDz8V8	MPREb_Nz5kEDGDjjh	UCuoJbbqftLdL9LBbIuAQVEQ
 193	Dear Mr. Fantasy	Traffic	Mr. Fantasy	LIKE	5:34	sS_eHdqcrM8	MPREb_pEzFtyHuF1q	UCFh-Yyaep1Gl5c0O1JTvEBQ
@@ -45,7 +45,7 @@
 529	Prodigal Son	The Rolling Stones	Beggars Banquet	LIKE	2:51	yQg-J3wS9IM	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
 530	Gimme Shelter	The Rolling Stones	Hot Rocks (1964-1971)	LIKE	4:31	BINqh-LMQX0	MPREb_bPmNjQylDId	UCNYhhkQqeFLUc-YEDcLpSYQ
 531	Love In Vain	The Rolling Stones	Let It Bleed	LIKE	4:20	q4x_oSD8ZZU	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
-228	Jackie Blue	The Ozark Mountain Daredevils	It'll Shine When It Shines	LIKE	4:10	OzCMXR3NgX8	MPREb_nSvafIvGt1Z	UCGIWIe4f9T1yQ7VdLsgGO7A
+228	Jackie Blue	The Ozark Mountain Daredevils	It'll Shine When It Shines	LIKE	4:11	OzCMXR3NgX8	MPREb_nSvafIvGt1Z	UCGIWIe4f9T1yQ7VdLsgGO7A
 227	Green Grass & High Tides	The Outlaws	The Outlaws	LIKE	9:51	cz2CAtExXgQ	MPREb_qoY2UsU2xSG	UC7-uHQ3DoO1ee7IwMmNJIiw
 218	Nights In White Satin (Single Version)	The Moody Blues	The Best Of The Moody Blues	LIKE	4:26	reGpXhDXwZM	MPREb_HSTuHU1pCVS	UC4HQKRyk4s13hiAnZBXxZWQ
 274	Tuesday Afternoon (Forever Afternoon) (Edit Single Version)	The Moody Blues	The Best Of The Moody Blues	LIKE	4:11	MibdP6lv-rY	MPREb_HSTuHU1pCVS	UC4HQKRyk4s13hiAnZBXxZWQ
@@ -336,7 +336,7 @@
 109	Fire and Rain	James Taylor	You've Got a Friend: The Best of James Taylor	LIKE	3:25	uV8mJgO15A0	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIreW91dmUgZ290IGEgZnJpZW5kIHRoZSBiZXN0IG9mIGphbWVzIHRheWxvchoMamFtZXMgdGF5bG9yIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIMamFtZXMgdGF5bG9y
 324	How Sweet It Is (To Be Loved by You)	James Taylor	Greatest Hits	LIKE	3:35	l08UY3WE3Pw	MPREb_hCDrR641s1r	UCZJikx4babgeliqeRPnE9rA
 325	Mexico	James Taylor	Greatest Hits	LIKE	2:58	87r4hYqfJ9U	MPREb_hCDrR641s1r	UCZJikx4babgeliqeRPnE9rA
-326	Something's Wrong	James Taylor	James Taylor	LIKE	3:09	yP9x3iOW1-4	MPREb_J1OtDz3yRA5	UCZJikx4babgeliqeRPnE9rA
+326	Something's Wrong	James Taylor	James Taylor	LIKE	3:10	yP9x3iOW1-4	MPREb_J1OtDz3yRA5	UCZJikx4babgeliqeRPnE9rA
 327	Your Smiling Face	James Taylor	JT	LIKE	2:46	H3LmUMMe4yU	MPREb_QJBZJQxCiAK	UCZJikx4babgeliqeRPnE9rA
 328	Secret O' Life	James Taylor	JT	LIKE	3:35	r0siaaHQauo	MPREb_QJBZJQxCiAK	UCZJikx4babgeliqeRPnE9rA
 329	Love Has Brought Me Around	James Taylor	Mud Slide Slim and the Blue Horizon	LIKE	2:44	ilTvktL9prE	MPREb_VrdJKoXMj2p	UCZJikx4babgeliqeRPnE9rA
@@ -608,7 +608,7 @@
 894	Margarita	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	3:17	c2Au3QoU-EE	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
 858	Leader Of The Pack	The Shangri-Las	Leader Of The Pack	INDIFFERENT	2:54	BWIf4Ifk6aQ	MPREb_nulwCdV58gU	UCOQZHdy6mFgXNOaZhvCsceA
 854	Sugar and Spice (Stereo Version)	The Searchers	The Definitive Pye Collection	INDIFFERENT	2:16	uHtSf2iAlBA	MPREb_RVWRwpSRj3O	UCDCnk3Qj_Dgexq8EErav5Sg
-855	Needles and Pins (Mono)	The Searchers	Needles & Pins	INDIFFERENT	2:11	Maq7i_KkFpY	MPREb_6mBTFOSh93r	UCDCnk3Qj_Dgexq8EErav5Sg
+855	Needles and Pins (Mono)	The Searchers	Needles & Pins	INDIFFERENT	2:12	Maq7i_KkFpY	MPREb_6mBTFOSh93r	UCDCnk3Qj_Dgexq8EErav5Sg
 856	Sugar & Spice (Merseybeat Version)	The Searchers	Spooky - The Songs Of Our Lives	INDIFFERENT	2:12	pQVvx2zRiDc	MPREb_XUTD6I31wJq	UCDCnk3Qj_Dgexq8EErav5Sg
 587	Factory Girl	The Rolling Stones	Beggars Banquet	INDIFFERENT	2:09	3hzlCHl7PWc	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
 588	Angie	The Rolling Stones	Goats Head Soup	INDIFFERENT	4:32	aVLBF-UKevY	MPREb_vLHx6Nz4ron	UCNYhhkQqeFLUc-YEDcLpSYQ
@@ -767,7 +767,7 @@
 763	You Love the Thunder	Jackson Browne	Running On Empty	INDIFFERENT	3:54	izxyq7WSZSE	MPREb_M4cA9e9fm3A	UChA5rox0PiIlow3yi5762bw
 764	The Load Out	Jackson Browne	Running On Empty	INDIFFERENT	5:35	RdbNiUgOJ74	MPREb_M4cA9e9fm3A	UChA5rox0PiIlow3yi5762bw
 758	It's Good News Week	Hedgehoppers Anonymous	Monster Hits From The 20th Century	INDIFFERENT	2:07	L_KS7OKhBew	MPREb_WX9wrUMqCIJ	UCtwFkeOvJQ7daP_Y8sshtMA
-757	Never Been Any Reason	Head East	Flat As A Pancake	INDIFFERENT	5:10	hI8Vg53nuF4	MPREb_Ec0sKjf3hWv	UCGflR6tDU0cVyAjpMnnNsfQ
+757	Never Been Any Reason	Head East	Flat As A Pancake	INDIFFERENT	5:11	hI8Vg53nuF4	MPREb_Ec0sKjf3hWv	UCGflR6tDU0cVyAjpMnnNsfQ
 756	"Everybody's Talkin' (From ""Midnight Cowboy"")"	Harry Nilsson	Aerial Ballet	INDIFFERENT	2:44	K5UNot9M-ro	MPREb_HhIWY6sI0Cb	UCVlbbMiyHZiH2hNLd0MOMhA
 750	Sundown	Gordon Lightfoot	Rhino Hi-Five: Gordon Lightfoot	INDIFFERENT	3:34	6BR1jalcdoM	MPREb_qL0azqgrocj	UCEx92reYe5I762oF5knkO2w
 749	Sexy Girl	Glenn Frey	Solo Collection	INDIFFERENT	3:31	zQ_fMWJZa3U	MPREb_wQKFrlLzAz5	UCx8OZop2S4F5vZY9_12MfYQ
@@ -808,7 +808,7 @@
 718	We'll Never Have to Say Goodbye Again (Single Version)	England Dan & John Ford Coley	Some Things Don't Come Easy	INDIFFERENT	2:53	EgTHkXKyyvc	MPREb_P99FxnUMAq2	UCvDQz5K-EtXNlNFdZ0BdKYg
 713	Blowin' In the Wind	Elvis Presley	Platinum - A Life In Music	INDIFFERENT	2:05	uIY64AlZDdI	MPREb_bj0ucK3gnV0	UChgxarBUCnPJV871-46bJ2g
 580	21st Century Man	Electric Light Orchestra	Time	INDIFFERENT	4:08	hbW7_R6m6Xs	MPREb_FPbUFXLVCt1	UCZQkZuaiV1DiJ4CG50oInTQ
-712	Summertime Blues	Eddie Cochran	Summertime Blues	INDIFFERENT	2:00	AIfS9R9mDkc	MPREb_1OzdITbig5E	UC0hH-HECShPwModEyrpQIZQ
+712	Summertime Blues	Eddie Cochran	Summertime Blues	INDIFFERENT	2:02	AIfS9R9mDkc	MPREb_1OzdITbig5E	UC0hH-HECShPwModEyrpQIZQ
 711	My Life Is Wrong	East River Pipe	Shining Hours in a Can	INDIFFERENT	3:20	o1U-XfXZbag	MPREb_dgOBaMQfh6c	UC7oOxJk9d7UQxbQrvP022iw
 60	Tequila Sunrise	Eagles	Legacy	INDIFFERENT	2:54	1K0N7UaZpz8	MPREb_E2rekB6aBjC	UC49r4GNHHpc-eQ9hmD2Rg6A
 61	Saturday Night	Eagles	Legacy	INDIFFERENT	3:21	GKwITVQtba0	MPREb_E2rekB6aBjC	UC49r4GNHHpc-eQ9hmD2Rg6A
@@ -875,9 +875,9 @@
 628	Black Sabbath	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	6:19	QD9tO4LCr7o	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
 629	Supernaut	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	4:32	7H4PIWBcnYs	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
 630	Sabbath Bloody Sabbath	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	5:47	FERVBCtcMxA	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
-631	Orchid	Black Sabbath	Master of Reality	INDIFFERENT	1:30	DLPzfi7u2CU	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
-632	Lord of This World	Black Sabbath	Master of Reality	INDIFFERENT	5:25	FvcBFsBt4hg	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
-633	Solitude	Black Sabbath	Master of Reality	INDIFFERENT	5:01	5Yx13RY6Vdk	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+631	Orchid	Black Sabbath	Master of Reality	INDIFFERENT	1:31	DLPzfi7u2CU	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+632	Lord of This World	Black Sabbath	Master of Reality	INDIFFERENT	5:26	FvcBFsBt4hg	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+633	Solitude	Black Sabbath	Master of Reality	INDIFFERENT	5:02	5Yx13RY6Vdk	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
 634	Looking for Today	Black Sabbath	Sabbath Bloody Sabbath (2009 Remaster)	INDIFFERENT	5:00	IPmQKtX_obM	MPREb_bTWSXogotc2	UCLCELUuoHbkUxZ9EMHTYebg
 635	Rat Salad	Black Sabbath	The Ultimate Collection	INDIFFERENT	2:30	S2H5hzOMhIs	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
 636	Electric Funeral	Black Sabbath	The Ultimate Collection	INDIFFERENT	4:50	2wJ-NBeEDIY	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
