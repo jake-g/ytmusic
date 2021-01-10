@@ -137,7 +137,7 @@
 471	Primary (2005 Remaster)	The Cure	Faith (Deluxe Edition)	LIKE	3:40	zvAYSG5wvno	MPREb_FPGF2LHlhar	UCKuG9-MGolUuWbEcoz5qijw
 480	Plainsong	The Cure	Disintegration	LIKE	5:17	O-J7GF_ivsc	MPREb_BBV3hJMs0YP	UCKuG9-MGolUuWbEcoz5qijw
 481	Lovesong (Live at Wembley 07/89 - Remix 07/09)	The Cure	Disintegration (Deluxe Edition)	LIKE	3:24	ZO9qj-c55pE	MPREb_iE3IRdOdGIL	UCKuG9-MGolUuWbEcoz5qijw
-498	Should I Stay or Should I Go	The Clash	Combat Rock	LIKE	3:09	wjZMcWaniA4	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
+498	Should I Stay or Should I Go	The Clash	Combat Rock	LIKE	3:08	wjZMcWaniA4	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
 441	The Ballad Of John And Yoko (Remastered 2009)	The Beatles	The Beatles 1967 - 1970	LIKE	3:02	vzd_DfGGx0I	MPREb_LAgCGKzQToD	UC2XdaAVUannpujzv32jcouQ
 442	I Want To Hold Your Hand (Anthology 1 Version)	The Beatles	Anthology 1	LIKE	2:38	nTeaoqLVaeg	MPREb_pgi9aw804Na	UC2XdaAVUannpujzv32jcouQ
 283	Miss These Things	The Bats	Daddy's Highway	LIKE	3:10	YQzsaoO-gME	MPREb_pJxwh0i69Ta	UCGiqykaBDrp9kN8Hpv4xCOw
@@ -226,8 +226,6 @@
 141	Computer Blue	Prince and the Revolution	Purple Rain	LIKE	4:00	bt0XdyBgSnE	MPREb_nkm7Zns6PR2	UCPIZb3A7k6zLefVNtaAmvGg
 142	When Doves Cry	Prince and the Revolution	Purple Rain	LIKE	5:53	oTUSeac7IuQ	MPREb_nkm7Zns6PR2	UCPIZb3A7k6zLefVNtaAmvGg
 433	When Doves Cry	Prince and the Revolution	Purple Rain	LIKE	5:53	oTUSeac7IuQ	MPREb_nkm7Zns6PR2	UCPIZb3A7k6zLefVNtaAmvGg
-363	1999	Prince	1999	LIKE	6:20	weUhBGA8mxo	MPREb_F3OEEO8Wyoj	UCPIZb3A7k6zLefVNtaAmvGg
-364	Automatic	Prince	1999	LIKE	9:29	ldbAKzI5tKM	MPREb_F3OEEO8Wyoj	UCPIZb3A7k6zLefVNtaAmvGg
 268	Monkey Gone to Heaven	Pixies	Doolittle	LIKE	2:58	SHUb-xQMTOI	MPREb_chb7xdBVmOZ	UCRt5ckI8kNVMFr-jyj1IIVg
 269	La La Love You	Pixies	Doolittle	LIKE	2:44	ii_7IbHFEhc	MPREb_chb7xdBVmOZ	UCRt5ckI8kNVMFr-jyj1IIVg
 270	Debaser	Pixies	Doolittle	LIKE	2:54	HvldypUz9w8	MPREb_chb7xdBVmOZ	UCRt5ckI8kNVMFr-jyj1IIVg
@@ -393,8 +391,8 @@
 368	Bad Mouth	Fugazi	13 Songs	LIKE	2:35	mVOyzEvtPXQ	MPREb_W9EVYTHez1o	UC2cjwtJB5rzpMetjDlnjGHg
 369	Waiting Room	Fugazi	13 Songs	LIKE	2:53	C3LXkdpHNOQ	MPREb_W9EVYTHez1o	UC2cjwtJB5rzpMetjDlnjGHg
 52	She Drives Me Crazy	Fine Young Cannibals	The Raw And The Cooked	LIKE	3:39	SLDpl3XSOpM	MPREb_7KbHp691MKJ	UCNcm9d5VOJ3WFRuDAYVPtGQ
-53	Ever Fallen In Love	Fine Young Cannibals		LIKE	3:30	5V7SINjz96E		UCNcm9d5VOJ3WFRuDAYVPtGQ
-387	Ever Fallen In Love	Fine Young Cannibals		LIKE	3:30	5V7SINjz96E		UCNcm9d5VOJ3WFRuDAYVPtGQ
+53	Ever Fallen in Love?	Fine Young Cannibals		LIKE	3:30	5V7SINjz96E		UCNcm9d5VOJ3WFRuDAYVPtGQ
+387	Ever Fallen in Love?	Fine Young Cannibals		LIKE	3:30	5V7SINjz96E		UCNcm9d5VOJ3WFRuDAYVPtGQ
 155	Extended Beat	Eric B. & Rakim	Paid In Full	LIKE	3:50	izzNlG7cVuc	MPREb_m7VCIorUStO	UC7V9Yyvznn-CEO6t7mz_H7g
 156	Paid In Full	Eric B. & Rakim	Paid In Full	LIKE	3:49	lQl6M1pAhi8	MPREb_m7VCIorUStO	UC7V9Yyvznn-CEO6t7mz_H7g
 157	Move The Crowd	Eric B. & Rakim	Paid In Full	LIKE	3:48	Z7ZMG_6ugDI	MPREb_m7VCIorUStO	UC7V9Yyvznn-CEO6t7mz_H7g
@@ -523,12 +521,14 @@
 63	Let's Go	The Feelies	The Good Earth	INDIFFERENT	2:40	-2JVm4QAOsw	MPREb_ZjtUEaIFAAF	UCz2W_8cm53XNRTxbNlcGVYQ
 285	Crazy Rhythms	The Feelies	Crazy Rhythms	INDIFFERENT	6:11	zEwisDeFkxo	MPREb_QGZPzppwT0m	UCz2W_8cm53XNRTxbNlcGVYQ
 290	Everybody's Got Something To Hide (Except Me And My Monkey)	The Feelies	Crazy Rhythms	INDIFFERENT	4:07	_IrmfOcLJws	MPREb_QGZPzppwT0m	UCz2W_8cm53XNRTxbNlcGVYQ
+364	Automatic	Prince	1999 (Super Deluxe Edition)	INDIFFERENT	9:27	Ec9d-KAE6ac	MPREb_JxiF8EQf1L3	UCPIZb3A7k6zLefVNtaAmvGg
 176	Family Doctoring	African Head Charge	My Life In A Hole In The Ground	INDIFFERENT	4:21	lASEjLHcGec	MPREb_fNWWSj7gGBJ	UCoNA5lACvJGREVIsunK6Pjg
 177	The Race (Part 1)	African Head Charge	My Life In A Hole In The Ground	INDIFFERENT	3:37	l7vNKz7HU7U	MPREb_fNWWSj7gGBJ	UCoNA5lACvJGREVIsunK6Pjg
 434	Cut Dead (Live)	The Jesus and Mary Chain	Psychocandy - Barrowlands Live		2:51	Kfx4or0hk_w		
 435	Taste the Floor (Live)	The Jesus and Mary Chain	Psychocandy - Barrowlands Live		3:34	GkiI-yhWCGU		
 420	Rock Box (Live)	Run-DMC	Run-DMC Live (Live)		3:40	8y3SuehOXFE		
 421	Jam Master Jay (Live)	Run-DMC	Run-DMC Live (Live)		3:01	p5fSVGFWORA		
+363	1999	Prince	1999		6:20	weUhBGA8mxo		
 529	Planet Earth (Poem)	Michael Jackson	Michael Jackson's This Is It		3:15	S2SC0oqirog		
 68	The Spectacular Commodity	Glenn Branca	The Ascension		12:38	hIgfcyj9AWY		
 211	Lesson No. 1 For Electric Guitar	Glenn Branca			8:14	bTnqiIx61UI		
