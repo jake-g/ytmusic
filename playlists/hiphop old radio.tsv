@@ -12,7 +12,7 @@
 457	Insane in the Brain	Cypress Hill	Black Sunday	LIKE	3:29	EfKkX_p_AtY	MPREb_NCVaRx9HaWF	UCcxp6abw1T9DmxzFIWLAz4g
 108	Gangsta's Paradise (feat. L.V.)	Coolio	Gangsta's Paradise	LIKE	4:01	L5KMO7lmLsA	MPREb_ugX4eCAcDXa	UC48nZNzBVu13HPwJ3upxQnQ
 192	The Light	Common	Like Water For Chocolate	LIKE	4:22	pK76GKkEc9o	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw
-455	Momma I'm So Sorry (Main Version - Explicit)	Clipse	Hell Hath No Fury	LIKE	3:58	n9NB5quiUMw	MPREb_ZefKu5zn0xD	UCYi72bTIgQw8hrDuQh0QnxA
+455	Momma I'm So Sorry	Clipse	Hell Hath No Fury	LIKE	3:58	n9NB5quiUMw	MPREb_ZefKu5zn0xD	UCYi72bTIgQw8hrDuQh0QnxA
 311	Twinz (Deep Cover 98) (feat. Fat Joe)	Big Punisher	Capital Punishment	LIKE	3:49	3AQBW-li_hE	MPREb_e95qjmzKn0Z	UChH5fTMt-pijTxWCpU8NP-g
 48	Keeping It Moving	A Tribe Called Quest	Beats, Rhymes & Life	LIKE	3:39	yeysGkd6m4U	MPREb_mlFnXKcYqcN	UCiOPPAw9e2Fj-i2uMNpoRNQ
 126	California Love (feat. Roger Troutman & Dr. Dre)	2Pac	Greatest Hits	LIKE	4:45	LRt6TdSvHag	MPREb_AM8MsSykxHd	UC5RrGzC-JXglhFW5NhT4r6w
@@ -198,8 +198,8 @@
 223	So Good	Pharoahe Monch	Desire	INDIFFERENT	3:16	E8J8Qc-AmiE	MPREb_m62jweSv4B2	UC1YU32LaOG9o_SwsdCjxqAQ
 233	Welcome To The Terrordome	Pharoahe Monch	Desire	INDIFFERENT	3:32	ejEACXDINXI	MPREb_w109XNrGUOS	UC1YU32LaOG9o_SwsdCjxqAQ
 240	Free	Pharoahe Monch	Desire	INDIFFERENT	3:35	MW6WE_mDVSU	MPREb_m62jweSv4B2	UC1YU32LaOG9o_SwsdCjxqAQ
-203	The Creator	Pete Rock & C.L. Smooth	All Souled Out	INDIFFERENT	4:44	SzuX4HGguT4	MPREb_SWWQXk0GExY	UCmH331qHkIZdDZeqshhycOw
-424	Skins (feat. Grand Puba)	Pete Rock & C. L. Smooth	Mecca And The Soul Brother	INDIFFERENT	4:16	e_16vIFgk1w	MPREb_VM6zes2f4HW	UCmH331qHkIZdDZeqshhycOw
+424	Skins (feat. Grand Puba)	Pete Rock & C.L. Smooth	Mecca And The Soul Brother	INDIFFERENT	4:16	e_16vIFgk1w	MPREb_VM6zes2f4HW	UCmH331qHkIZdDZeqshhycOw
+203	The Creator	Pete Rock	All Souled Out	INDIFFERENT	4:44	SzuX4HGguT4	MPREb_SWWQXk0GExY	UCOwnuQTYOU-1hE4rGM2ohAg
 253	Half Man Half Amazin (feat. Method Man)	Pete Rock	Soul Survivor	INDIFFERENT	4:32	izt3vxo_qTk	MPREb_ZCchJJNutDq	UCOwnuQTYOU-1hE4rGM2ohAg
 176	Bad Boy for Life	P. Diddy	The Saga Continues...	INDIFFERENT	4:14	1D-1pIb0Kqo	MPREb_H0nOM3E5jrO	UCa7UEhon5aHfncjkOWgwRDA
 5	Wailin'	Outkast	ATLiens	INDIFFERENT	1:59	b445sIG50Tk	MPREb_Tt5LuOLLYbe	UCpJG35xsNdMgxsXn7kqG4Ew
@@ -251,7 +251,7 @@
 497	Watch Dem Niggas	Nas	It Was Written	INDIFFERENT	4:05	8iA-HxbSMps	MPREb_VMY4230PUxe	UCPoQYATXIYvN5WB0c4f6jfQ
 498	Suspect	Nas	It Was Written	INDIFFERENT	4:13	d8N9VFdQsA4	MPREb_VMY4230PUxe	UCPoQYATXIYvN5WB0c4f6jfQ
 499	Poppa Was a Playa	Nas	The Lost Tapes	INDIFFERENT	3:44	8YZJEiteun0	MPREb_5NGnNPnJhyj	UCPoQYATXIYvN5WB0c4f6jfQ
-500	What Goes Around	Nas	Stillmatic	INDIFFERENT	5:00	MqtuPP66m28	MPREb_lydhFg4E149	UCPoQYATXIYvN5WB0c4f6jfQ
+500	What Goes Around	Nas	Stillmatic	INDIFFERENT	4:59	MqtuPP66m28	MPREb_lydhFg4E149	UCPoQYATXIYvN5WB0c4f6jfQ
 668	It Ain't Hard to Tell	Nas	Illmatic	INDIFFERENT	3:23	tN2Xwis-Qao	MPREb_NA9bTHvhFmF	UCPoQYATXIYvN5WB0c4f6jfQ
 689	You Owe Me (feat. Ginuwine)	Nas	Nastradamus	INDIFFERENT	4:47	Ed8DhhsIOlk	MPREb_TT5b9s3UbCe	UCPoQYATXIYvN5WB0c4f6jfQ
 125	Express Yourself (Remix)	N.W.A.	N.W.A. Greatest Hits	INDIFFERENT	4:22	djAdf-bF0NM	MPREb_XgCypeacfvt	UCZ4DZXWEzXbeUgHv1-MTvEg
@@ -455,7 +455,7 @@
 470	My Buddy	G-Unit	Beg for Mercy (Deluxe)	INDIFFERENT	3:45	JQRz6C6_eMg	MPREb_fq5K7Iqy56O	UCOqyGxp8d02g2pOUEwU4-Rw
 471	G'D Up	G-Unit	Beg for Mercy (Deluxe)	INDIFFERENT	4:48	UrJkzEJShG4	MPREb_fq5K7Iqy56O	UCOqyGxp8d02g2pOUEwU4-Rw
 654	Killing Me Softly	Fugees	The Score (Expanded Edition)	INDIFFERENT	4:59	H-RBJNqdnoM	MPREb_8ftRmNMBmlj	UCfybICpsMRaJ492ci9CFR3Q
-704	Nappy Heads (Remix)	Fugees	Blunted On Reality	INDIFFERENT	5:22	Eg2mF0gKtYw	MPREb_rmGKvouH7ER	UCfybICpsMRaJ492ci9CFR3Q
+704	Nappy Heads (Remix)	Fugees	Blunted On Reality	INDIFFERENT	5:23	Eg2mF0gKtYw	MPREb_rmGKvouH7ER	UCfybICpsMRaJ492ci9CFR3Q
 659	Get Me Home	Foxy Brown	Ill Na Na	INDIFFERENT	3:50	mGCVg76SDbg	MPREb_5jJvSnZudCQ	UCvuXZP247gluPFG4dx8_xcg
 669	I'll Be	Foxy Brown	Ill Na Na	INDIFFERENT	2:59	OuLuomtfLB4	MPREb_5jJvSnZudCQ	UCvuXZP247gluPFG4dx8_xcg
 275	Fire Water	Fat Joe	The Legacy: The Best Of Big Pun	INDIFFERENT	4:16	vHheOT8_NiI	MPREb_NJa9InaodWj	UCvujFDDYFSt0uu_aTxuVEIg
