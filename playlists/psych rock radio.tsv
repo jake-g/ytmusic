@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+11	Caesar	Ty Segall	Melted	LIKE	3:30	pPhWIPC6t70	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
 244	Irene	Twin Peaks	Sunken	LIKE	2:38	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
 252	Offer	together PANGEA	Badillac	INDIFFERENT	2:27	fW3oyBcdQB4	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
 18	Cosmic Flower	levitation room	Ethos	INDIFFERENT	1:55	zY3NLqRnuPM	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
@@ -28,7 +29,6 @@
 378	Ritual Knife	Uncle Acid & The Deadbeats	Blood Lust	INDIFFERENT	4:43	1KgDPJe4ecQ	MPREb_IOmMDcaYVKO	UCoAgEXzeQBZf56Ra-Ct_3Ng
 88	High School	Ty Segall & Mikal Cronin	Reverse Shark Attack	INDIFFERENT	1:49	lqLiSymmSUU	MPREb_DVydUgQSmyQ	UC-Z_sxJOcuEGSq822j9VqNw
 127	Bikini Babes	Ty Segall & Mikal Cronin	Reverse Shark Attack	INDIFFERENT	1:32	Vw2qfPxCSUw	MPREb_DVydUgQSmyQ	UC-Z_sxJOcuEGSq822j9VqNw
-11	Caesar	Ty Segall	Melted	INDIFFERENT	3:30	pPhWIPC6t70	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
 70	The Picture	Ty Segall	Mr. Face	INDIFFERENT	4:07	4IUuapZ0wzQ	MPREb_2GkikuszYkj	UC-Z_sxJOcuEGSq822j9VqNw
 182	The Floor	Ty Segall	Goodbye Bread	INDIFFERENT	3:37	jBTWNQoUwGg	MPREb_TW5nemQdbQc	UC-Z_sxJOcuEGSq822j9VqNw
 249	My Sunshine	Ty Segall	Melted	INDIFFERENT	2:11	qNt27xfiVJ8	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
@@ -101,13 +101,13 @@
 58	Light or Night	The Holydrug Couple	Moonlust	INDIFFERENT	3:57	_OOS86g1_WU	MPREb_49IG41w8SEL	UCa9j6qYsEFttptJN-DpmSyA
 93	Paisley	The Holydrug Couple	Noctuary	INDIFFERENT	4:32	gZ3AEP8hZXg	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
 107	Wonder	The Holydrug Couple	Noctuary	INDIFFERENT	3:37	beQb8wXCxJk	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
-8	One Million Lovers	The Growlers	Hung at Heart	INDIFFERENT	4:43	0tYXQ5DbqHo	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-73	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:39	b1YHYyzhREE	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+8	One Million Lovers	The Growlers	Hung at Heart	INDIFFERENT	4:42	0tYXQ5DbqHo	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+73	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:38	b1YHYyzhREE	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
 89	Nobody Owns You	The Growlers	Gilded Pleasures	INDIFFERENT	2:41	FGa1dipKEv4	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
 106	Dogheart II	The Growlers	Gilded Pleasures	INDIFFERENT	2:52	XluMlhw1t2o	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
 123	Underneath Our Palms	The Growlers	Hot Tropics	INDIFFERENT	3:10	EBGhnmidF-c	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
 143	Hiding Under Covers	The Growlers	Gilded Pleasures	INDIFFERENT	2:49	UDYsw8stGCM	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-264	Living in a Memory	The Growlers	Hung at Heart	INDIFFERENT	3:16	Gci7FwtsYd4	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+264	Living in a Memory	The Growlers	Hung at Heart	INDIFFERENT	3:15	Gci7FwtsYd4	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
 338	Super-Sonic	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:16	dUzKaFQcxCk	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
 339	Their Satanic Majesties' Second Request (Enrique's Dream)	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:36	zbuZvPWZMaw	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
 340	Spacegirl (Revisited)	The Brian Jonestown Massacre	Spacegirl And Other Favourites	INDIFFERENT	5:21	2pGZDg-nMFA	MPREb_aSOGJCqPGbw	UCXybUoBoCwQntpbpblywN4Q
@@ -367,7 +367,7 @@
 294	Coral By Numbers	Animal Collective	Tangerine Reef	INDIFFERENT	2:26	uy3oZ2vudBw	MPREb_y2KKpinn9ja	UC6X5Baxp63Ex9NaLZwAy7lQ
 308	I Remember Learning How To Dive	Animal Collective	Prospect Hummer	INDIFFERENT	2:18	SyMeMYOLdwI	MPREb_Sh6UtC3wIG6	UC6X5Baxp63Ex9NaLZwAy7lQ
 315	Kinda Bonkers	Animal Collective	Kinda Bonkers	INDIFFERENT	3:14	9bfxdxW-CGM	MPREb_WwjoWwsWFJ7	UC6X5Baxp63Ex9NaLZwAy7lQ
-13	Busman's Holiday	Allah-Las	Allah-Las	INDIFFERENT	3:27	YCWcfJwh2io	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+13	Busman's Holiday	Allah-Las	Allah-Las	INDIFFERENT	3:28	YCWcfJwh2io	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
 71	Buffalo Nickel	Allah-Las	Worship the Sun	INDIFFERENT	2:47	ju5rSSKEDd4	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
 90	Come On	Allah-Las	Aquarium Drunkard's Lagniappe Session	INDIFFERENT	1:57	9G0e-1LpI94	MPREb_P2m1dFUUMxG	UCRg0dGQ51ZX7b3SF-6HkMDA
 157	Could Be You	Allah-Las	Calico Review	INDIFFERENT	3:14	6K5G7lz2kYk	MPREb_2yti6EcWDCE	UCRg0dGQ51ZX7b3SF-6HkMDA
