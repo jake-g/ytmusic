@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 82	Song for Brian Jones	Ultimate Painting	Song for Brian Jones	LIKE	3:43	jfzlv4XAINM	MPREb_iUYM3KkkNXo	UCABD8ewUW0HLq8uOcaiLkyg
 18	Irene	Twin Peaks	Sunken	LIKE	2:38	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
+8	Blessa	Toro Y Moi	Causers Of This	LIKE	2:43	y_9geXMrvGk	MPREb_XCiXh3snT4i	UCJikOjbf3VffCdLXTsbxfxg
 53	The Brae	Yumi Zouma	EP	INDIFFERENT	4:16	WSNqOQrvACI	MPREb_Ox63Al3kpPl	UCQqAzIFazcwAg4dGcabd4dQ
 30	Sun City Creeps	Woods	City Sun Eater In The River Of Light	INDIFFERENT	5:58	94MutTcYRGc	MPREb_7Qu2h81oY7z	UCu1TD5DXSHEmlRHPJV2SEgA
 36	Creature Comfort	Woods	City Sun Eater In The River Of Light	INDIFFERENT	3:47	r68xN4k2iM8	MPREb_7Qu2h81oY7z	UCu1TD5DXSHEmlRHPJV2SEgA
@@ -12,7 +13,6 @@
 4	Too Late	Washed Out	Purple Noon	INDIFFERENT	4:13	K4_2mEcF1Uk	MPREb_1WaPzgXUqSN	UC1rCT_Cy1pP1wnRcEUV3nPA
 102	Lovers On The Sun (Radio Edit)	Various Artists	Lovers On The Sun (Radio Edit)	INDIFFERENT	3:15	4V-_Zawcr2A	MPREb_TvSmF4iIMoy	UCTMfFNnrtd0uu6NclpyWsfw
 88	Bills	Ultimate Painting	Bills	INDIFFERENT	3:49	l3UbZF5f2f0	MPREb_RT9sX3TW8Dx	UCABD8ewUW0HLq8uOcaiLkyg
-8	Blessa	Toro Y Moi	Causers Of This	INDIFFERENT	2:43	y_9geXMrvGk	MPREb_XCiXh3snT4i	UCJikOjbf3VffCdLXTsbxfxg
 22	I Was There	The War On Drugs	Slave Ambient	INDIFFERENT	3:49	ZQa16v3l2Tk	MPREb_SuI480ETR9j	UCnAZ69DaeHv6RR63qdp1U8g
 58	Iodine & Iron	The Veils	Total Depravity	INDIFFERENT	4:37	8pL2dq1mKyQ	MPREb_ANaWUsV9Ims	UCgZB201usXL76FhlKYYrocA
 39	Sagres	The Tallest Man On Earth	Dark Bird Is Home	INDIFFERENT	5:13	hfTEE_aZQa0	MPREb_SXxUehisZ4g	UCL2-Z80Bwi8W73F7ijvxHzg
@@ -47,7 +47,7 @@
 31	Blue Cigar	Midnight Sister	Saturn Over Sunset	INDIFFERENT	3:30	YhdnqGmT-3E	MPREb_qIeoHWXIL3P	UCv0tDGU7qdO69fIlueOulOQ
 81	Maybe We'll Drown	Menace Beach	Lemon Memory	INDIFFERENT	3:37	fKe6o91szSs	MPREb_cmHKuNJB8Is	UCx_OW7rJ30d-LXPV1JnyFBA
 19	Boca Chica	MUNYA	Boca Chica	INDIFFERENT	2:59	jvQWuC-SCWw	MPREb_AhOkX4zUJmN	UCbfb6D_jZxmIJJBbhEgx4Qw
-86	Weekenders	MINKS	Tides End	INDIFFERENT	4:12	8MyxXAeN4CA	MPREb_dWe2PWJkEY3	UC_eRD3kJNWKubpIQTs6-ZnQ
+86	Weekenders	MINKS	Tides End	INDIFFERENT	4:12	8MyxXAeN4CA	MPREb_dWe2PWJkEY3	UCVrqCVPBIh0eYQrWS0lrQ3g
 59	Real Thing	Lower Dens	Real Thing	INDIFFERENT	4:16	Hg-3WU6zKJQ	MPREb_KWvDo6G39pG	UCRZpd2CMttEErzMVjUPHNug
 54	The Bells	Lowell	We Loved Her Dearly	INDIFFERENT	4:19	gHQh2DIjHKc	MPREb_Ch663ioY0iM	UCdMlCZeAAU47zFv9WpsTMxw
 60	Strangers	Lotus Plaza	Spooky Action At a Distance	INDIFFERENT	4:30	k22Ip_k2wKE	MPREb_jpx8imvuUC0	UCL-gB0n61tlD5lq8Zst4NxQ
@@ -69,7 +69,7 @@
 35	Angel Eyes	Habibi	Angel Eyes	INDIFFERENT	4:43	jbITFh50Tzo	MPREb_VztHycdBEg8	UC7XrZJ68BofgZ7DRDaXu6cg
 6	Summer Girl (Bonus Track)	HAIM	Women In Music Pt. III	INDIFFERENT	3:26	y5KUqBu1bX0	MPREb_fiH4Hru80h2	UCxUTLbpwMNwO6g8kx-BHdQg
 45	Yet Again	Grizzly Bear	Shields	INDIFFERENT	5:19	vzLH006822s	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
-32	Denandra Moore	Goldensuns	Denandra Moore	INDIFFERENT	3:32	er0vVgA7cGc	MPREb_gB2LR6U8lOx	UCJRs7JJOE6TAgRJK79tKRYw
+32	Denandra Moore	Goldensuns		INDIFFERENT	3:32	istXLpr6CUc		UCJRs7JJOE6TAgRJK79tKRYw
 87	She's a Witch	Gengahr	She's a Witch	INDIFFERENT	2:42	6IxPMR7bMEM	MPREb_ybGRFk0Og2k	UC-zVbPNkH5-QDWTF4mEXwiQ
 20	I Wish I Was Sober	Frightened Rabbit	Painting Of A Panic Attack (Deluxe)	INDIFFERENT	3:22	uHLvYYcFNN8	MPREb_ngcRd4Za10z	UCq7GLwCeZCu6HdGabZG64sA
 55	Trouble	Frankie Rose	Cage Tropical	INDIFFERENT	4:33	q4xL3p-mpoU	MPREb_51hO33hR54p	UCOimY3azxWa_V9XiQ1SzzkA
