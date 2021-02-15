@@ -123,7 +123,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
         print('Fetched and saved %d tracks to _library.tsv in %d minutes\n' %
               (len(library_tracks), library_elapsed))
         library_tracks = library_tracks.sort_values(
-            ['likeStatus', 'artist'], ascending=False)
+            ['artist', 'album'], ascending=False)
         library_tracks[playlist_tsv_cols].to_csv(
             os.path.join(backup_dir, '%s.tsv' % '_library'), sep='\t', header=True)
 
