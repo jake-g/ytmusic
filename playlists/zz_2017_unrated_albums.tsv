@@ -17,6 +17,7 @@
 146	Title Card	Washed Out	Mister Mellow	LIKE	0:31	J3_vy59Q3gQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 147	Burn Out Blues	Washed Out	Mister Mellow	LIKE	3:44	n_5yqvszTVQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 150	I’ve Been Daydreaming My Entire Life	Washed Out	Mister Mellow	LIKE	2:10	bV72eTu_lh8	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
+151	Hard To Say Goodbye	Washed Out	Mister Mellow	LIKE	4:13	QcTwnV_NIIQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 153	Instant Calm	Washed Out	Mister Mellow	LIKE	2:10	pFsQgCy1a6Q	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 692	Big Fish	Vince Staples	Big Fish Theory	LIKE	3:19	aylBqU9nm7I	MPREb_E3FJQTVwpT0	UCCn7DeREpok-P8lDnYkyZWA
 695	745	Vince Staples	Big Fish Theory	LIKE	3:48	nise0jZLlQM	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
@@ -227,9 +228,9 @@
 485	Sacrifices (feat. 2 Chainz & Young Thug)	Drake	More Life	LIKE	5:08	kGBCaCUtM84	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
 493	Fake Love	Drake	More Life	LIKE	3:31	OYOcnrVE4Gc	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
 304	Time Spent Away From U	DJ Seinfeld	Time Spent Away From U	LIKE	5:33	PdUj0iEZQLA	MPREb_ycLhRGahCsC	UCshOz0mzWg4enVtjm-Dk6rw
-305	I Hope I Sleep Tonight	DJ Seinfeld	Time Spent Away From U	LIKE	4:07	JRJMc4OxERY	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
-308	It's Just My Luv	DJ Seinfeld	Time Spent Away From U	LIKE	5:58	QtSLSwie9lU	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
-309	How U Make Me Feel	DJ Seinfeld	Time Spent Away From U	LIKE	6:18	uC2cBTTRZvQ	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+305	I Hope I Sleep Tonight	DJ Seinfeld	Time Spent Away From U	LIKE		JRJMc4OxERY	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+308	It's Just My Luv	DJ Seinfeld	Time Spent Away From U	LIKE		QtSLSwie9lU	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+309	How U Make Me Feel	DJ Seinfeld	Time Spent Away From U	LIKE		uC2cBTTRZvQ	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
 328	Las Palmas	DJ Python	Dulce Compañia	LIKE	4:04	W_aqUXJLRks	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
 332	q.e.p.d	DJ Python	Dulce Compañia	LIKE	5:58	AxLjSVy_GS4	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
 334	Esteban	DJ Python	Dulce Compañia	LIKE	5:03	Xcd1wmjOYyg	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
@@ -367,7 +368,6 @@
 449	The Saga Continues Outro (feat. RZA)	Wu-Tang	The Saga Continues	INDIFFERENT	0:46	TAkPuP3SVYA	MPREb_wSn5Nq9qJYA	UCdQKMtGgbbahJWE3rkPaGoA
 148	Time Off	Washed Out	Mister Mellow	INDIFFERENT	1:02	mfverS5JZq4	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 149	Floating By	Washed Out	Mister Mellow	INDIFFERENT	3:42	IpSBmSJuTjE	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
-151	Hard To Say Goodbye	Washed Out	Mister Mellow	INDIFFERENT	4:13	QcTwnV_NIIQ	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 152	Down And Out	Washed Out	Mister Mellow	INDIFFERENT	1:08	UfmKSxAOBto	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 154	Zonked	Washed Out	Mister Mellow	INDIFFERENT	1:11	Tl1_IordNH4	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
 155	Get Lost	Washed Out	Mister Mellow	INDIFFERENT	4:05	lIzq9zrYEYI	MPREb_Z2mc3IZrnkw	UC1rCT_Cy1pP1wnRcEUV3nPA
@@ -992,11 +992,11 @@
 494	Ice Melts (feat. Young Thug)	Drake	More Life	INDIFFERENT	4:11	r0gc2YRFSzs	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
 495	Do Not Disturb	Drake	More Life	INDIFFERENT	4:44	g5g_AGtO_CI	MPREb_i5jHxQM0U3B	UCU6cE7pdJPc6DU2jSrKEsdQ
 817	Mowgli the Lynx	Deastro	Ghostly By Night	INDIFFERENT	3:51	FWlcauRpYRU	MPREb_PwFBAyCLXNa	UC-97C2ZiPEVcOoanJ7DrHeQ
-306	I Saw Her Kiss Him in Front of Me and I Was Like Wtf?	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	5:12	6k7zpH5ejVM	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
-307	Too Late for U and M1	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:38	za-3ntR7XNo	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
-310	U Hold Me Without Touch	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:28	cpq7ewau540	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
-311	Come Thru for U	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:10	BZJY7oLtla4	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
-312	U	DJ Seinfeld	Time Spent Away From U	INDIFFERENT	6:09	6F6Sxrd7rw4	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+306	I Saw Her Kiss Him in Front of Me and I Was Like Wtf?	DJ Seinfeld	Time Spent Away From U	INDIFFERENT		6k7zpH5ejVM	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+307	Too Late for U and M1	DJ Seinfeld	Time Spent Away From U	INDIFFERENT		za-3ntR7XNo	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+310	U Hold Me Without Touch	DJ Seinfeld	Time Spent Away From U	INDIFFERENT		cpq7ewau540	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+311	Come Thru for U	DJ Seinfeld	Time Spent Away From U	INDIFFERENT		BZJY7oLtla4	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
+312	U	DJ Seinfeld	Time Spent Away From U	INDIFFERENT		6F6Sxrd7rw4	MPREb_s9ztEYb1b4q	UCshOz0mzWg4enVtjm-Dk6rw
 329	Cuál	DJ Python	Dulce Compañia	INDIFFERENT	6:53	PqkvQz382fw	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
 330	Todo Era Azul (Versión Afuera)	DJ Python	Dulce Compañia	INDIFFERENT	5:41	VgiDSHsa3tY	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
 331	Todo Era Azul (Siempre Dub)	DJ Python	Dulce Compañia	INDIFFERENT	4:34	k9BRrZsIZ_k	MPREb_o1CitKFk17z	UCW4AJyMBD4oI62cry5X78lQ
