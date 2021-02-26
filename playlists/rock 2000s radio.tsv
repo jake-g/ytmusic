@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 39	Oxford Comma	Vampire Weekend	Vampire Weekend	LIKE	3:16	Xol4RPRnuXQ	MPREb_zXcVFdJ9Uu1	UCWy-MPuAh_GH8YwXxtq3gcA
+62	St. James Infirmary Blues	The White Stripes	The White Stripes	LIKE	2:25	HrMUsKa0JHA	MPREb_ke9q9bBLfdh	UCD0Wge1UpszMtqK3P9x50vA
 16	Machu Picchu	The Strokes	Angles	LIKE	3:30	Xt_F4J4O-xo	MPREb_ZB6767Lns0g	UC8N13xhRG78YQK7Ppc4Ytrg
 22	I Can't Win	The Strokes	Room On Fire	LIKE	2:43	LPNGT5BE6RU	MPREb_9HLfAiW2TOd	UC8N13xhRG78YQK7Ppc4Ytrg
 31	Last Nite	The Strokes	Is This It	LIKE	3:14	Bn-lcvrMOlc	MPREb_pPtBvGEbwzO	UC8N13xhRG78YQK7Ppc4Ytrg
@@ -72,7 +73,6 @@
 25	The Denial Twist	The White Stripes	Get Behind Me Satan	INDIFFERENT	2:36	B6CcYPh4iqI	MPREb_I2m9odE3hJi	UCD0Wge1UpszMtqK3P9x50vA
 35	Hypnotize	The White Stripes	Elephant	INDIFFERENT	1:49	cln5nI-RMvc	MPREb_sn5Vym75jtL	UCD0Wge1UpszMtqK3P9x50vA
 57	The Air Near My Fingers	The White Stripes	Elephant	INDIFFERENT	3:41	JufJkni9gX8	MPREb_sn5Vym75jtL	UCD0Wge1UpszMtqK3P9x50vA
-62	St. James Infirmary Blues	The White Stripes	The White Stripes	INDIFFERENT	2:25	HrMUsKa0JHA	MPREb_ke9q9bBLfdh	UCD0Wge1UpszMtqK3P9x50vA
 112	Seven Nation Army	The White Stripes	Elephant	INDIFFERENT	3:52	D_QLxj8jCF0	MPREb_sn5Vym75jtL	UCD0Wge1UpszMtqK3P9x50vA
 120	Fell in Love with a Girl	The White Stripes	Fell in Love with a Girl	INDIFFERENT	1:51	1CK7v9VUBvs	MPREb_4Av4wTcuzO8	UCD0Wge1UpszMtqK3P9x50vA
 133	Jumble, Jumble	The White Stripes	De Stijl	INDIFFERENT	1:54	pzRuiW5qX00	MPREb_YV4JdB6oLrR	UCD0Wge1UpszMtqK3P9x50vA
@@ -84,7 +84,7 @@
 89	Trying Your Luck	The Strokes	Is This It	INDIFFERENT	3:23	KadGvFjqGls	MPREb_pPtBvGEbwzO	UC8N13xhRG78YQK7Ppc4Ytrg
 97	Life Is Simple in the Moonlight	The Strokes	Angles	INDIFFERENT	4:16	Ke4Zh0QkPFw	MPREb_ZB6767Lns0g	UC8N13xhRG78YQK7Ppc4Ytrg
 121	Taken for a Fool	The Strokes	Angles	INDIFFERENT	3:24	tJoOmUp3XYQ	MPREb_ZB6767Lns0g	UC8N13xhRG78YQK7Ppc4Ytrg
-139	All The Time	The Strokes	Comedown Machine	INDIFFERENT	3:01	8Zmr7phCSkc	MPREb_afYlxCdI2XP	UC8N13xhRG78YQK7Ppc4Ytrg
+139	All The Time	The Strokes	Comedown Machine	INDIFFERENT	3:02	8Zmr7phCSkc	MPREb_afYlxCdI2XP	UC8N13xhRG78YQK7Ppc4Ytrg
 47	Pattern	The Last Shadow Puppets	Everything You’ve Come To Expect	INDIFFERENT	4:16	s59eaiEMQVU	MPREb_1WOL6rVTDAQ	UCgHH2qg9BvDCf8cVxO4PwoQ
 114	Tranquilize (feat. Lou Reed)	The Killers	Sawdust	INDIFFERENT	3:46	xh-FN2uuArs	MPREb_p2QSw3mrnmh	UCneQ7UWyu9USLDgMya6T7IA
 150	Green Fields	The Good, The Bad and The Queen	The Good, The Bad and The Queen	INDIFFERENT	2:30	Fg6V_lHfB1I	MPREb_TKjC4ESOTIz	UCoKUuYBuR-RdUZNZLqJpuPQ
