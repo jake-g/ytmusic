@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 11	Caesar	Ty Segall	Melted	LIKE	3:30	pPhWIPC6t70	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
-244	Irene	Twin Peaks	Sunken	LIKE	2:38	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
-252	Offer	together PANGEA	Badillac	INDIFFERENT	2:27	fW3oyBcdQB4	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
+244	Irene	Twin Peaks	Sunken	LIKE	2:37	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
+252	Offer	together PANGEA	Badillac	INDIFFERENT	2:26	fW3oyBcdQB4	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
 18	Cosmic Flower	levitation room	Ethos	INDIFFERENT	1:54	zY3NLqRnuPM	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
 47	Loved	levitation room	Minds Of Our Own	INDIFFERENT	3:52	-_yp3DrMwSM	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
 135	Standing in the Rain	levitation room	Ethos	INDIFFERENT	2:34	6Tb4OADgc3w	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
@@ -50,8 +50,8 @@
 78	Lull	Tomorrows Tulips	Eternally Teenage	INDIFFERENT	2:21	Cs8lt2dED-Y	MPREb_Q6IElFt0gNN	UCoHxqfzKFTcb0S2f0k8eGdg
 212	Try Harder	Times New Viking	Dancer Equired	INDIFFERENT	1:57	ZtdAIX0qL-s	MPREb_I5H3udJVd6H	UCAhIUr7tpeCvH2kWZJipeqw
 97	Foolish	Tijuana Panthers	POSTER	INDIFFERENT	2:54	6F02yTthN5U	MPREb_LzCkg9d7rSD	UC7OdXNZHFp8takrRl1EOLaA
-120	Money Jar	Tijuana Panthers	Wayne Interest	INDIFFERENT	3:24	HXDgnbHaq2I	MPREb_CMjgnYZoZQT	UC7OdXNZHFp8takrRl1EOLaA
-250	Cherry Street	Tijuana Panthers	Wayne Interest	INDIFFERENT	3:08	nNhgcZs8zVc	MPREb_CMjgnYZoZQT	UC7OdXNZHFp8takrRl1EOLaA
+120	Money Jar	Tijuana Panthers	Wayne Interest	INDIFFERENT	3:23	HXDgnbHaq2I	MPREb_CMjgnYZoZQT	UC7OdXNZHFp8takrRl1EOLaA
+250	Cherry Street	Tijuana Panthers	Wayne Interest	INDIFFERENT	3:07	nNhgcZs8zVc	MPREb_CMjgnYZoZQT	UC7OdXNZHFp8takrRl1EOLaA
 256	Boardwalk	Tijuana Panthers	Semi-Sweet	INDIFFERENT	2:03	uF4dZz_ItTs	MPREb_uWZ2Wxbv5RY	UC7OdXNZHFp8takrRl1EOLaA
 56	Web	Thee Oh Sees	Mutilator Defeated At Last	INDIFFERENT	4:59	DAG1fKJvIAQ	MPREb_2cmjrfDKuxj	UCy-Gzb-aCE1vWkbwQZaoIXQ
 75	The Lens	Thee Oh Sees	Drop	INDIFFERENT	2:36	7gaWxYYb_Vk	MPREb_EJMnzR9nJbf	UCy-Gzb-aCE1vWkbwQZaoIXQ
@@ -67,7 +67,7 @@
 296	Poor Queen	Thee Oh Sees	Mutilator Defeated At Last	INDIFFERENT	2:20	Idxn_Ctg8t4	MPREb_2cmjrfDKuxj	UCy-Gzb-aCE1vWkbwQZaoIXQ
 310	Withered Hand	Thee Oh Sees	Mutilator Defeated At Last	INDIFFERENT	3:30	RhHlxrIh2Yo	MPREb_2cmjrfDKuxj	UCy-Gzb-aCE1vWkbwQZaoIXQ
 326	Gelatinous Cube	Thee Oh Sees	A Weird Exits	INDIFFERENT	3:27	wM4sFtAokjs	MPREb_bGlyjFFUbYv	UCy-Gzb-aCE1vWkbwQZaoIXQ
-372	Losers in the Sun	Thee Oh Sees	The Cool Death Of Island Raiders	INDIFFERENT	2:24	hrnXvwLe0Vs	MPREb_9KTlZJ5UKM5	UCy-Gzb-aCE1vWkbwQZaoIXQ
+372	Losers in the Sun	Thee Oh Sees	The Cool Death Of Island Raiders	INDIFFERENT	2:24	nwVG8ksAfJA	MPREb_9KTlZJ5UKM5	UCy-Gzb-aCE1vWkbwQZaoIXQ
 373	The Poem	Thee Oh Sees	An Odd Entrances	INDIFFERENT	3:20	PZCpF9Uaflc	MPREb_AHYOgMBWqXK	UCy-Gzb-aCE1vWkbwQZaoIXQ
 382	Transparent Day	The West Coast Pop Art Experimental Band	60s Rock Nuggets	INDIFFERENT	2:19	B7x0Vz4FXas	MPREb_WpHIY3ZAsLs	UCKECYanyhVAioxt4hFTFYJw
 379	The American Metaphysical Circus	The United States of America	The United States Of America	INDIFFERENT	4:57	YYAkR2hrOnk	MPREb_BxoCzvknoOW	UC64is5DMxjBgiNTDeMzszUQ
@@ -77,8 +77,8 @@
 142	Chapel	The UFO Club	The UFO Club	INDIFFERENT	4:32	2McmdQmo5Is	MPREb_MqnajZmji3V	UCzhSnaVJxHCPLqga7oL-r8Q
 169	Hide in the Light	The Sunshine Fix	Age of the Sun	INDIFFERENT	2:10	9aG_QoaGgUo	MPREb_yxaHsdBDcaT	UCcwqyupaPOaEKHrR2x3O9oQ
 173	Labryinth Window	The Skygreen Leopards	Life And Love In Sparrow's Meadow	INDIFFERENT	2:07	AC_Ra1gFFLE	MPREb_3ZzGjrzMXP8	UCnCKwdUyyOM-8TJQlkFkoxQ
-122	Ride On	The Shivas	You Know What to Do	INDIFFERENT	2:45	mGRX0Blp_FA	MPREb_NtmeXdo6t2n	UCXXvv2FiLoF7fFvgU0AA1dA
-270	You Make Me Wanna Die	The Shivas	You Know What to Do	INDIFFERENT	2:51	COoTaaC-N5s	MPREb_NtmeXdo6t2n	UCXXvv2FiLoF7fFvgU0AA1dA
+122	Ride On	The Shivas	You Know What to Do	INDIFFERENT	2:44	mGRX0Blp_FA	MPREb_NtmeXdo6t2n	UCXXvv2FiLoF7fFvgU0AA1dA
+270	You Make Me Wanna Die	The Shivas	You Know What to Do	INDIFFERENT	2:50	COoTaaC-N5s	MPREb_NtmeXdo6t2n	UCXXvv2FiLoF7fFvgU0AA1dA
 104	Back to Zero	The People's Temple	Musical Garden	INDIFFERENT	2:08	L1755DPnb6U	MPREb_L4JWdvZU40d	UCxfNMkrxUl0wBsyOa9LKg5w
 175	A Place We Have Been To	The Olivia Tremor Control	Black Foliage: Animation Music	INDIFFERENT	2:24	stoyp0Zm9j0	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
 125	Too Many Girls	The Mystery Lights	The Mystery Lights	INDIFFERENT	1:49	I1iu1RYQLxw	MPREb_WQtwaq4naKq	UCX-1ZUdubb3hPjvMAr-0CzA
@@ -91,26 +91,26 @@
 57	Unknown Disease	The Murlocs	Young Blindness	INDIFFERENT	2:35	BbuGpbtQYkY	MPREb_vMPEfDWn5EA	UCdigueYl02CNgzV81nohTBg
 64	Young Blindness	The Murlocs	Young Blindness	INDIFFERENT	2:50	AIKfsaw3yV0	MPREb_vMPEfDWn5EA	UCdigueYl02CNgzV81nohTBg
 275	Oblivion	The Murlocs	Old Locomotive	INDIFFERENT	2:41	dfHKkbpM8IM	MPREb_r5HgXzPqWWK	UCdigueYl02CNgzV81nohTBg
-281	Withstand	The Murlocs	Manic Candid Episode	INDIFFERENT	3:15	chSi2FWQE5w	MPREb_SlwaHEaOLbV	UCdigueYl02CNgzV81nohTBg
-203	Candy	The Men	Open Your Heart	INDIFFERENT	3:17	dExCSTiaNRo	MPREb_KGyVjTcvwp0	UCQMuPvtlUh_TYoZjAdTGFOA
+281	Withstand	The Murlocs	Manic Candid Episode	INDIFFERENT	3:14	8EKWYn82H8w	MPREb_SlwaHEaOLbV	UCdigueYl02CNgzV81nohTBg
+203	Candy	The Men	Open Your Heart	INDIFFERENT	3:16	dExCSTiaNRo	MPREb_KGyVjTcvwp0	UCQMuPvtlUh_TYoZjAdTGFOA
 224	Lotus	The Men	Leave Home	INDIFFERENT	3:06	lpcT1Zg0FTw	MPREb_Tui6TXduVGU	UCQMuPvtlUh_TYoZjAdTGFOA
-240	Please Don’t Go Away	The Men	Open Your Heart	INDIFFERENT	3:01	dh4Y_Srg-ok	MPREb_KGyVjTcvwp0	UCQMuPvtlUh_TYoZjAdTGFOA
-360	Sleep On The Floor	The Lumineers	Cleopatra	INDIFFERENT	3:32	cIO-s2rkKx4	MPREb_AYe4njKFjvn	UCMcghb8JhNIYntWea9QKFGA
+240	Please Don’t Go Away	The Men	Open Your Heart	INDIFFERENT	3:00	dh4Y_Srg-ok	MPREb_KGyVjTcvwp0	UCQMuPvtlUh_TYoZjAdTGFOA
+360	Sleep On The Floor	The Lumineers	Cleopatra	INDIFFERENT	3:31	cIO-s2rkKx4	MPREb_AYe4njKFjvn	UCMcghb8JhNIYntWea9QKFGA
 25	My Sky Is Black	The Holydrug Couple	Soundtrack for Pantanal	INDIFFERENT	2:53	ALj9SYPhp4w	MPREb_ZZa756yzdL1	UCa9j6qYsEFttptJN-DpmSyA
 50	Submarine Gold	The Holydrug Couple	Moonlust	INDIFFERENT	4:06	bkY_yS4gm0Q	MPREb_49IG41w8SEL	UCa9j6qYsEFttptJN-DpmSyA
 58	Light or Night	The Holydrug Couple	Moonlust	INDIFFERENT	3:57	_OOS86g1_WU	MPREb_49IG41w8SEL	UCa9j6qYsEFttptJN-DpmSyA
 93	Paisley	The Holydrug Couple	Noctuary	INDIFFERENT	4:32	gZ3AEP8hZXg	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
 107	Wonder	The Holydrug Couple	Noctuary	INDIFFERENT	3:37	beQb8wXCxJk	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
-8	One Million Lovers	The Growlers	Hung at Heart	INDIFFERENT	4:42	0tYXQ5DbqHo	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-73	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:38	b1YHYyzhREE	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+8	One Million Lovers	The Growlers	Hung at Heart	INDIFFERENT	4:43	0tYXQ5DbqHo	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+73	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:39	b1YHYyzhREE	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
 89	Nobody Owns You	The Growlers	Gilded Pleasures	INDIFFERENT	2:41	FGa1dipKEv4	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
 106	Dogheart II	The Growlers	Gilded Pleasures	INDIFFERENT	2:52	XluMlhw1t2o	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
 123	Underneath Our Palms	The Growlers	Hot Tropics	INDIFFERENT	3:10	EBGhnmidF-c	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
 143	Hiding Under Covers	The Growlers	Gilded Pleasures	INDIFFERENT	2:49	UDYsw8stGCM	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-264	Living in a Memory	The Growlers	Hung at Heart	INDIFFERENT	3:15	Gci7FwtsYd4	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-338	Super-Sonic	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:16	dUzKaFQcxCk	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
-339	Their Satanic Majesties' Second Request (Enrique's Dream)	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:36	zbuZvPWZMaw	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
-340	Spacegirl (Revisited)	The Brian Jonestown Massacre	Spacegirl And Other Favourites	INDIFFERENT	5:21	2pGZDg-nMFA	MPREb_aSOGJCqPGbw	UCXybUoBoCwQntpbpblywN4Q
+264	Living in a Memory	The Growlers	Hung at Heart	INDIFFERENT	3:16	Gci7FwtsYd4	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+338	Super-Sonic	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:16	4iJRZ4mfMFY	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
+339	Their Satanic Majesties' Second Request (Enrique's Dream)	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:36	6Xq9J4KgJjg	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
+340	Spacegirl (Revisited)	The Brian Jonestown Massacre	Spacegirl And Other Favourites	INDIFFERENT	5:21	O40Isj52Fwk	MPREb_aSOGJCqPGbw	UCXybUoBoCwQntpbpblywN4Q
 113	An Occurrence at 4507 South Third Street	The Black Angels	Clear Lake Forest	INDIFFERENT	3:20	BzMoJy5A5Qg	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 130	Sunday Evening	The Black Angels	Clear Lake Forest	INDIFFERENT	3:40	yIE9kL4118k	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 332	Young Men Dead	The Black Angels	Crash (Music from the Original TV Series), Vol. 1	INDIFFERENT	5:34	SdRFHyL1vTo	MPREb_er6eeMaHx72	UCdMCMtXUYb-9gvK1srSECuQ
@@ -122,7 +122,7 @@
 49	Superstition Shadow Walk	The Babe Rainbow (AUS)	The Babe Rainbow (AUS)	INDIFFERENT	2:04	fn84ivaS1QU	MPREb_3YYfFUzDCHc	UCnmNJQ_W2ra79BAsOD6KAtA
 65	Survival Into the 21st Century	The Babe Rainbow (AUS)	The Babe Rainbow (AUS)	INDIFFERENT	3:40	QIce0Ky9vEE	MPREb_3YYfFUzDCHc	UCnmNJQ_W2ra79BAsOD6KAtA
 329	Magic In The Air	The Attack	Final Daze	INDIFFERENT	3:39	7zKo8CK2NNM	MPREb_jmouGKZoA2v	UC-wGE0tMfq-xUaUKWDcdlLw
-9	Mesmerise	Temples	Sun Structures	INDIFFERENT	3:42	E7AXYBlmSxw	MPREb_ot8bokp92ca	UCAwEVNrw_7At5j2ccsDc_wQ
+9	Mesmerise	Temples	Sun Structures	INDIFFERENT	3:43	E7AXYBlmSxw	MPREb_ot8bokp92ca	UCAwEVNrw_7At5j2ccsDc_wQ
 370	Island Walking	Tame Impala	InnerSpeaker B-Sides & Remixes	INDIFFERENT	3:05	oDPeGkoLpx0	MPREb_OUOah1peHWK	UCGz-eguN8tcic5kUG4s1ZgA
 371	Patience	Tame Impala	Patience	INDIFFERENT	4:53	VbcVAGgVnNE	MPREb_XrgqrBZyDFg	UCGz-eguN8tcic5kUG4s1ZgA
 163	Skirt	Tall Dwarfs	Fork Songs	INDIFFERENT	2:35	kT9sGhCfQqE	MPREb_c3m3dvicorF	UC99eTR_yEhCX0vdGiPDDL-g
@@ -156,10 +156,10 @@
 32	Lonely Jones	Post Animal	The Garden Series	INDIFFERENT	2:57	N3vnQAkBX8o	MPREb_IogOM8C1nrE	UC4liCZx9y8tNIKEuqhTFTlQ
 68	Aral Sea	Post Animal	Post Animal Perform the Most Curious Water Activities	INDIFFERENT	3:58	2mRNNCa9Uuo	MPREb_KUWV58IL4fQ	UC4liCZx9y8tNIKEuqhTFTlQ
 207	G Shock	Ponytail	Ice Cream Spiritual	INDIFFERENT	3:02	K4EthqdTaz8	MPREb_jJfs9RpAHfL	UCu-vZi1zG4V5973oJaa1lBQ
-31	Edge Of The World Pt. 1	Pond	The Weather	INDIFFERENT	4:55	918R2XGEpVg	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
-59	Colder Than Ice	Pond	The Weather	INDIFFERENT	3:11	FBkp34wDWPw	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
-254	Moth Wings	Pond	Beard, Wives, Denim	INDIFFERENT	3:22	z77xnT0bd1Q	MPREb_Si7ciLlQj8R	UCV-D85RlUj_QXf3Hzx5I5dA
-325	Outside Is The Right Side	Pond	Man It Feels Like Space Again	INDIFFERENT	5:10	daXKU-tCR8o	MPREb_VlSSlnHQDhI	UCV-D85RlUj_QXf3Hzx5I5dA
+31	Edge Of The World Pt. 1	Pond	The Weather	INDIFFERENT	4:54	918R2XGEpVg	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+59	Colder Than Ice	Pond	The Weather	INDIFFERENT	3:10	FBkp34wDWPw	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+254	Moth Wings	Pond	Beard, Wives, Denim	INDIFFERENT	3:21	z77xnT0bd1Q	MPREb_Si7ciLlQj8R	UCV-D85RlUj_QXf3Hzx5I5dA
+325	Outside Is The Right Side	Pond	Man It Feels Like Space Again	INDIFFERENT	5:09	daXKU-tCR8o	MPREb_VlSSlnHQDhI	UCV-D85RlUj_QXf3Hzx5I5dA
 41	Sweets & Treats	Pipe-eye	Laugh About Life	INDIFFERENT	2:40	nf9yeldNV4Y	MPREb_NBOmo87fRjw	UCKs-q2BRjALIcpdrebRfXow
 69	Walk The Dog	Pipe-eye	Laugh About Life	INDIFFERENT	2:23	e2LiTbjAbkc	MPREb_NBOmo87fRjw	UCKs-q2BRjALIcpdrebRfXow
 17	Normalization	Parquet Courts	Wide Awake!	INDIFFERENT	2:12	xaRgQwmDN-w	MPREb_KO5DiNuFrlg	UC9mjOu5Vl7zQo-DvNeMES_g
@@ -179,10 +179,10 @@
 287	Neighbor to None	OCS	Memory Of A Cut Off Head	INDIFFERENT	2:30	r8aANlyw2A4	MPREb_SyhXVopwcnF	UCy-Gzb-aCE1vWkbwQZaoIXQ
 298	The Baron Sleeps and Dreams	OCS	Memory Of A Cut Off Head	INDIFFERENT	3:34	ieD7Lzb6EmI	MPREb_SyhXVopwcnF	UCy-Gzb-aCE1vWkbwQZaoIXQ
 307	Lift a Finger By The Garden Path	OCS	Memory Of A Cut Off Head	INDIFFERENT	4:27	sGQ1JGUa44M	MPREb_SyhXVopwcnF	UCy-Gzb-aCE1vWkbwQZaoIXQ
-171	Here Should Be My Home	No Age	Nouns	INDIFFERENT	2:03	UXpdCHaZ1t8	MPREb_jaClSf2rCCT	UCLb8ArAGcph1wYPi64_V0BQ
+171	Here Should Be My Home	No Age	Nouns	INDIFFERENT	2:05	UXpdCHaZ1t8	MPREb_jaClSf2rCCT	UCLb8ArAGcph1wYPi64_V0BQ
 184	My Life's Alright Without You	No Age	Weirdo Rippers	INDIFFERENT	1:59	Cdsu6BlLsRA	MPREb_Mxz0U5JIE5j	UCLb8ArAGcph1wYPi64_V0BQ
 205	Dusted	No Age	Everything In Between	INDIFFERENT	2:43	xWSKE2YVx1M	MPREb_ZvuAk6l6D10	UCLb8ArAGcph1wYPi64_V0BQ
-229	Things I Did When I Was Dead	No Age	Nouns	INDIFFERENT	2:27	a9sjxACDl10	MPREb_jaClSf2rCCT	UCLb8ArAGcph1wYPi64_V0BQ
+229	Things I Did When I Was Dead	No Age	Nouns	INDIFFERENT	2:29	a9sjxACDl10	MPREb_jaClSf2rCCT	UCLb8ArAGcph1wYPi64_V0BQ
 114	Sonic Bloom	Night Beats	Sonic Bloom	INDIFFERENT	4:48	TQABQPaB9W8	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
 137	The Hidden Circle	Night Beats	Sonic Bloom	INDIFFERENT	3:31	Go0XnbbxnzA	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
 116	Laid, Paid, and Strange	Natural Child	Hard In Heaven	INDIFFERENT	2:20	31wu2Ss35UU	MPREb_JPxVtMFcKH6	UCt5rALPKongoXyF78YyVatA
@@ -211,9 +211,9 @@
 232	Pumpkin	Male Bonding	Nothing Hurts	INDIFFERENT	2:15	Uu3XNATzjv8	MPREb_l1dlr52ysIf	UCIxMUutlC2mN0udnxuBFH3w
 5	Boe Zaah	Mac Demarco	2	INDIFFERENT	1:41	W23E7lGJu54	MPREb_FHbnjfeVGQt	UCs95LJSHhdVhYQLvqsZqp_A
 61	Another (Demo) One #1	Mac DeMarco	Another (Demo) One	INDIFFERENT	2:33	HEliorCrjpI	MPREb_eEecrVd9fE6	UCs95LJSHhdVhYQLvqsZqp_A
-257	European Vegas	Mac DeMarco	Rock and Roll Night Club	INDIFFERENT	3:18	gDumy6gwDks	MPREb_BSlws4NGRqN	UCs95LJSHhdVhYQLvqsZqp_A
+257	European Vegas	Mac DeMarco	Rock and Roll Night Club	INDIFFERENT	3:17	gDumy6gwDks	MPREb_BSlws4NGRqN	UCs95LJSHhdVhYQLvqsZqp_A
 362	Electric Feel	MGMT	Surf Music Chill	INDIFFERENT	3:50	TesgKhaL9Dg	MPREb_NQgnlSVGujy	UCcP74mIhs125nerd5o5Dd-Q
-197	Two Cocks	Lower Dens	Twin-Hand Movement	INDIFFERENT	3:29	x0snzi6KH3k	MPREb_jrJ7NTcsR5M	UCRZpd2CMttEErzMVjUPHNug
+197	Two Cocks	Lower Dens	Twin-Hand Movement	INDIFFERENT	3:30	x0snzi6KH3k	MPREb_jrJ7NTcsR5M	UCRZpd2CMttEErzMVjUPHNug
 201	White Galactic One	Lotus Plaza	Spooky Action At a Distance	INDIFFERENT	4:06	zd9UycIdLsY	MPREb_jpx8imvuUC0	UCL-gB0n61tlD5lq8Zst4NxQ
 236	Red Oak Way	Lotus Plaza	The Floodlight Collective	INDIFFERENT	4:12	q2a8TB5GWDo	MPREb_P3wiAGuDCjE	UCL-gB0n61tlD5lq8Zst4NxQ
 72	I Wanna Be Alone (With You)	La Luz	Weirdo Shrine	INDIFFERENT	2:16	z6uGojH_Ezg	MPREb_F6uvGUo5m6t	UCEYnbttMVGHNeBVtjpkTlAg
@@ -233,12 +233,12 @@
 259	Was All Talk	Kurt Vile	Wakin On A Pretty Daze	INDIFFERENT	7:42	dIamnlNRj2Q	MPREb_cWNqjQTqYMo	UCq5OLsfFcOGOwC6i0LzdtNw
 266	Dust Bunnies	Kurt Vile	b'lieve i'm goin down...	INDIFFERENT	4:39	cLRVoM_RWdw	MPREb_it07qzv5603	UCq5OLsfFcOGOwC6i0LzdtNw
 269	Girl Called Alex	Kurt Vile	Wakin On A Pretty Daze	INDIFFERENT	6:20	GB5PhgH5D3c	MPREb_cWNqjQTqYMo	UCq5OLsfFcOGOwC6i0LzdtNw
-247	Sun Medallion	King Tuff	Was Dead	INDIFFERENT	2:31	Mhzv4QnixAQ	MPREb_UNOb88Tsh2Q	UCjwqoZVdhJg4-T-b1XRe0ng
+247	Sun Medallion	King Tuff	Was Dead	INDIFFERENT	2:30	Mhzv4QnixAQ	MPREb_UNOb88Tsh2Q	UCjwqoZVdhJg4-T-b1XRe0ng
 272	Circuits in the Sand	King Tuff	The Other	INDIFFERENT	2:59	JfdZ41NHTJA	MPREb_sjqVhzoPefp	UCjwqoZVdhJg4-T-b1XRe0ng
 356	Mystery Jack	King Gizzard And The Lizard Wizard	Float Along - Fill Your Lungs	INDIFFERENT	2:48	aOq1ir6wmrI	MPREb_0tWZx7PiQhM	UC-3mACkWPK3QluQYi5dHQCA
 357	Float Along – Fill Your Lungs	King Gizzard And The Lizard Wizard	Float Along - Fill Your Lungs	INDIFFERENT	6:46	sQCYy8ehJX8	MPREb_0tWZx7PiQhM	UC-3mACkWPK3QluQYi5dHQCA
 43	Lunch Meat	King Gizzard & the Lizard Wizard	Willoughby's Beach	INDIFFERENT	1:40	_W2eH55CAGM	MPREb_bHgIChhECYU	UC-3mACkWPK3QluQYi5dHQCA
-355	Plastic Boogie	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	3:04	2rW3qB7YthY	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
+355	Plastic Boogie	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	3:04	ARJz9LWgjJU	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 358	Anoxia	King Gizzard & The Lizard Wizard	Flying Microtonal Banana	INDIFFERENT	3:04	VdqQkDHRmng	MPREb_4GNlH4wHayL	UC-3mACkWPK3QluQYi5dHQCA
 359	Hot Wax	King Gizzard & The Lizard Wizard	Oddments	INDIFFERENT	3:30	XbQtKrnV9FU	MPREb_FJtUYYWtMbZ	UC-3mACkWPK3QluQYi5dHQCA
 33	Kogarashi	Kikagaku Moyo	House in the Tall Grass	INDIFFERENT	4:41	9B9PJRFJWPM	MPREb_m8BZBND5riT	UCNaS4ou9KLFO5YjEQkjuUwA
@@ -256,14 +256,14 @@
 159	Grey Lanes	Jacco Gardner	Hypnophobia	INDIFFERENT	3:07	RPDWTsujBlY	MPREb_uBeaWX20Yd8	UCmB6T0JihsQO4l5K1WzG-VQ
 301	Pringle Variations	JEFF The Brotherhood	Global Chakra Rhythms	INDIFFERENT	2:56	57CMgd1u7ow	MPREb_1238cgMHZbC	UCAaETnLcP0wpVt6C8WF_MvQ
 350	In-A-Gadda-Da-Vida	Iron Butterfly	The Beat Goes On: 1968 Rock	INDIFFERENT	17:05	1ftlqM9VCvU	MPREb_qYazpjhRfOB	UCn_jx84j5_rx1uwSx4t-nTw
-181	Total Drench	Iceage	New Brigade	INDIFFERENT	1:38	L8UxJVr-b64	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
-192	You're Blessed	Iceage	New Brigade	INDIFFERENT	1:52	mNbXXprZR68	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
-196	White Rune	Iceage	New Brigade	INDIFFERENT	2:41	mK9F29J5voQ	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
-213	Never Return	Iceage	New Brigade	INDIFFERENT	3:08	06o94OBhHUk	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
-227	Eyes	Iceage	New Brigade	INDIFFERENT	2:02	RD_gXdEEva8	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
+181	Total Drench	Iceage	New Brigade	INDIFFERENT	1:39	L8UxJVr-b64	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
+192	You're Blessed	Iceage	New Brigade	INDIFFERENT	1:55	mNbXXprZR68	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
+196	White Rune	Iceage	New Brigade	INDIFFERENT	2:42	mK9F29J5voQ	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
+213	Never Return	Iceage	New Brigade	INDIFFERENT	3:09	06o94OBhHUk	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
+227	Eyes	Iceage	New Brigade	INDIFFERENT	2:03	RD_gXdEEva8	MPREb_7tSrshtupjg	UClWQOFNoCZ5slyX-nxhvPIQ
 285	Take it all	Iceage	Beyondless	INDIFFERENT	3:51	hJssvtC0KpU	MPREb_wzPeWcLszhf	UClWQOFNoCZ5slyX-nxhvPIQ
 316	The day the music dies	Iceage	Beyondless	INDIFFERENT	3:49	8juoPgxEbZY	MPREb_wzPeWcLszhf	UClWQOFNoCZ5slyX-nxhvPIQ
-63	Wrapping Up	Homeshake	Fresh Air	INDIFFERENT	3:48	0t92_a9hAqE	MPREb_1YjjOruog9O	UCrkP4Oe7CBpYyZVwMNV3mPQ
+63	Wrapping Up	Homeshake	Fresh Air	INDIFFERENT	3:47	0t92_a9hAqE	MPREb_1YjjOruog9O	UCrkP4Oe7CBpYyZVwMNV3mPQ
 112	Psychological Thriller	Holy Wave	Relax	INDIFFERENT	2:39	dlEcT3pH74E	MPREb_nW47BTlZTAE	UC2qO7aL5hhhsS5v326P7eEw
 134	Star Stamp	Holy Wave	Relax	INDIFFERENT	3:32	ngQyQ5WgJxI	MPREb_nW47BTlZTAE	UC2qO7aL5hhhsS5v326P7eEw
 145	Minstrel's Gallop (feat. Dillon Fernandez)	Holy Wave	Freaks of Nurture	INDIFFERENT	3:33	z3q8zU9hjQI	MPREb_IWyQVS407N1	UC2qO7aL5hhhsS5v326P7eEw
@@ -282,48 +282,48 @@
 199	Milo Minute	Grass Widow	Internal Logic	INDIFFERENT	2:01	OtjW6hO2PL8	MPREb_PUQeFozP77c	UCI-wmE6zJdmwSswlIQBigfg
 225	Give Me Shapes	Grass Widow	Past Time	INDIFFERENT	1:49	iHAhe5-vllQ	MPREb_d4KyTrD4sLe	UCI-wmE6zJdmwSswlIQBigfg
 312	Try My Robe	Goat	Requiem	INDIFFERENT	3:30	Q2BDNYbpuEY	MPREb_znf8qL7WDyd	UCcH7ztnnyZmATQiGc--kQvQ
-346	Goathead (Live)	Goat	Live Ballroom Ritual	INDIFFERENT	3:27	DJblVQ_REzc	MPREb_fCbL3WRKYfe	UCXmmrXw-HsuNLP2adzH8ecg
-347	Goatman (Live)	Goat	Live Ballroom Ritual	INDIFFERENT	5:00	Sky2_hiVnU8	MPREb_fCbL3WRKYfe	UCXmmrXw-HsuNLP2adzH8ecg
+346	Goathead (Live)	Goat	Live Ballroom Ritual	INDIFFERENT	3:26	pn1P3G0_-sk	MPREb_fCbL3WRKYfe	UCXmmrXw-HsuNLP2adzH8ecg
+347	Goatman (Live)	Goat	Live Ballroom Ritual	INDIFFERENT	4:59	MLzMK3qIY5g	MPREb_fCbL3WRKYfe	UCXmmrXw-HsuNLP2adzH8ecg
 345	Silence of The Morning	Glass Sun	"Brown Acid ""The Second Trip"""	INDIFFERENT	5:15	GPWnQPW_z5o	MPREb_VSLbEcbrKvF	UCtGakvBBvcZ_3Y6Dyyv037w
 105	58th St. Fingers	Gap Dream	Gap Dream	INDIFFERENT	3:57	9Uo-dq_UYnw	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
 141	There's Blood on the Stone	Gap Dream	Shine Your Light	INDIFFERENT	3:19	z6mGZ6i6cfY	MPREb_kaAmWNrzXr1	UCq6zO6Ov4G390wqvchRFoew
 158	Immediate Life Sentence	Gap Dream	Shine Your Light	INDIFFERENT	3:36	vsJVDjTqO9o	MPREb_kaAmWNrzXr1	UCq6zO6Ov4G390wqvchRFoew
 176	Cold Night	Galaxie 500	On Fire	INDIFFERENT	2:36	HKnSR_JE_38	MPREb_VdoWDaDHW5D	UCfteAdNqNAwCKV-9PZOVD8g
-0	The Sky Opened Up	GUM	Delorean Highway	INDIFFERENT	2:30	g4I780UTE-c	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
-15	If You're Gonna Love Again	GUM	Flash in the Pan	INDIFFERENT	3:51	xQUxdTG2wIw	MPREb_esiGfR4BORU	UC4FKlRxemR7reIi_vmmPjhw
-35	New Eyes	GUM	Glamorous Damage	INDIFFERENT	5:14	69xje17G-0c	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
-40	R.Y.K	GUM	Glamorous Damage	INDIFFERENT	5:24	OVnEtyiVVL4	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
-55	Elafonissi Blue	GUM	Glamorous Damage	INDIFFERENT	4:17	ITt4rgE7YBU	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
-149	Delorean Highway	GUM	Delorean Highway	INDIFFERENT	3:32	4FnmqCa_npw	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
+0	The Sky Opened Up	GUM	Delorean Highway	INDIFFERENT	2:29	g4I780UTE-c	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
+15	If You're Gonna Love Again	GUM	Flash in the Pan	INDIFFERENT	3:50	xQUxdTG2wIw	MPREb_esiGfR4BORU	UC4FKlRxemR7reIi_vmmPjhw
+35	New Eyes	GUM	Glamorous Damage	INDIFFERENT	5:13	69xje17G-0c	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
+40	R.Y.K	GUM	Glamorous Damage	INDIFFERENT	5:23	OVnEtyiVVL4	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
+55	Elafonissi Blue	GUM	Glamorous Damage	INDIFFERENT	4:16	ITt4rgE7YBU	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
+149	Delorean Highway	GUM	Delorean Highway	INDIFFERENT	3:30	4FnmqCa_npw	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
 132	Sunderberry Dream	Fuzz	Sunderberry Dream	INDIFFERENT	2:31	4yV2rmadCOU	MPREb_vVOf30tZ7QP	UCZ5wcF_rfHH6bgLejJjqFMw
 277	New Flesh	Fuzz	II	INDIFFERENT	2:31	twrwwZG_cR8	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
 290	Rat Race	Fuzz	II	INDIFFERENT	2:45	IlE7jyVqZDQ	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
 300	Burning Wreath	Fuzz	II	INDIFFERENT	4:48	gY0E2qLmp44	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
 311	Pipe	Fuzz	II	INDIFFERENT	3:20	1DZe8uX41Ws	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
-80	Saccharine Sunshine	Froth	Bleak	INDIFFERENT	2:45	fPrVgPvieh0	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
+80	Saccharine Sunshine	Froth	Bleak	INDIFFERENT	2:44	fPrVgPvieh0	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
 91	Too Wet	Froth	Patterns	INDIFFERENT	2:52	8PfYuopET4M	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow
 289	Realization	Frankie and the Witch Fingers	ZAM	INDIFFERENT	4:40	_sQaaaoPHe8	MPREb_yRnZimhXB56	UCtv_kjZLUfvcTdbxXj-HDyw
 318	Work	Frankie and the Witch Fingers	ZAM	INDIFFERENT	4:12	w58n2FH4E70	MPREb_yRnZimhXB56	UCtv_kjZLUfvcTdbxXj-HDyw
 343	ZAM	Frankie and the Witch Fingers	ZAM	INDIFFERENT	8:27	ejIGHGhvrrA	MPREb_yRnZimhXB56	UCtv_kjZLUfvcTdbxXj-HDyw
 168	Into the Everlasting Time	Elf Power	When the Red King Comes	INDIFFERENT	1:58	9n_fGJLMQhc	MPREb_c2mfLdTogTz	UCVVudE-Gc3G1HGbEdefK3yg
-177	Moon River	Dump	Superpowerless	INDIFFERENT	2:36	LkdEhiZPe6M	MPREb_ydX5uru2eq8	UCN7COrasOv76dqKhzD_beqQ
+177	Moon River	Dump	Superpowerless	INDIFFERENT	2:36	LkdEhiZPe6M	MPREb_ydX5uru2eq8	UCZRT56v3LCC0JXhKGDzGQ9A
 210	Spring	Ducktails	Landscapes	INDIFFERENT	2:58	BHoIk9F5FFA	MPREb_QH07cQ3OrHM	UC9G6XGIZaMAezs-65gE0QsQ
 342	Sunshine Superman	Donovan	The All British Top 10 1965-1987 Volume 1	INDIFFERENT	4:04	IVDeBlYWoig	MPREb_0CleqfUUEky	UCWHFP-8DVayYpMtfSyRIh7g
 204	Hotel	Dirty Beaches	Badlands	INDIFFERENT	2:02	d0AiKmjO-5o	MPREb_3DmLlaAI58M	UCB86bFCMgOOip7fw6ezw7TQ
-239	Virgin with a Memory	Destroyer	Streethawk: A Seduction	INDIFFERENT		-pFYvugjRlQ	MPREb_pqhuMJBOPIG	UC_plNzaYghjuzu3CWNSv28g
-238	Flip	Department Of Eagles	Archive 2003-2006	INDIFFERENT	2:36	iI95cboJa50	MPREb_r9heR2gzcyW	UCM3kGxgJ0Z-UXKmcdBPO_ng
+239	Virgin with a Memory	Destroyer	Streethawk: A Seduction	INDIFFERENT	2:40	-pFYvugjRlQ	MPREb_pqhuMJBOPIG	UC_plNzaYghjuzu3CWNSv28g
+238	Flip	Department Of Eagles	Archive 2003-2006	INDIFFERENT	4:13	iI95cboJa50	MPREb_r9heR2gzcyW	UCM3kGxgJ0Z-UXKmcdBPO_ng
 189	Moon With Cartridge	Deerhunter	Weird Era Cont	INDIFFERENT	1:31	cOF-JCX-F-8	MPREb_jr3qMJrmLMA	UCYvqcYNDW5Ebw6nnq-mYN4Q
 211	Punk (La Vie Antérieure)	Deerhunter	Monomania	INDIFFERENT	3:28	hCHwlReFuhU	MPREb_YZHFcN0PUz3	UCYvqcYNDW5Ebw6nnq-mYN4Q
 162	Running Thoughts	Deerhoof	The Runners Four	INDIFFERENT	3:44	Gv028jPUf4I	MPREb_GMI1oMF5u1s	UCFBLjX6nbickOornMm5x93A
 172	Cooper	Deerhoof	Reveille	INDIFFERENT	2:04	Z7VuVQZa8Ck	MPREb_BBft0UgouVO	UCFBLjX6nbickOornMm5x93A
-76	Roky Said	Dead Ghosts	Can't Get No	INDIFFERENT	3:17	7zqlO0NjiAk	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
+76	Roky Said	Dead Ghosts	Can't Get No	INDIFFERENT	3:16	7zqlO0NjiAk	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
 86	That Old Feeling	Dead Ghosts	Can't Get No	INDIFFERENT	2:48	e5CgTGdGEFM	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
-99	Can't Get No	Dead Ghosts	Can't Get No	INDIFFERENT	2:43	B6i1HdwEGjA	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
-117	I Want You Back	Dead Ghosts	Can't Get No	INDIFFERENT	2:21	MpTC4_bwWPQ	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
-129	On Your Own	Dead Ghosts	Can't Get No	INDIFFERENT	2:35	t8CjcBj9qFU	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
-263	Cold Stare	Dead Ghosts	Can't Get No	INDIFFERENT	2:35	b3wvOkZ_PzM	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
-341	He Was A Friend Of Mine	Dave Van Ronk	Folksinger	INDIFFERENT	3:31	fmhJVDnrtcg	MPREb_DgkuPhaxLwF	UCCg341pNKqwul6fDzBIbhqw
-7	Sometime	DIIV	Oshin	INDIFFERENT	3:06	nXE4YFS4L9c	MPREb_JvZ6JTPE0Sa	UCWumh0WXTLCjbZlEOLWtQLQ
+99	Can't Get No	Dead Ghosts	Can't Get No	INDIFFERENT	2:35	B6i1HdwEGjA	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
+117	I Want You Back	Dead Ghosts	Can't Get No	INDIFFERENT	2:20	MpTC4_bwWPQ	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
+129	On Your Own	Dead Ghosts	Can't Get No	INDIFFERENT	2:34	t8CjcBj9qFU	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
+263	Cold Stare	Dead Ghosts	Can't Get No	INDIFFERENT	2:33	b3wvOkZ_PzM	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
+341	He Was A Friend Of Mine	Dave Van Ronk	Folksinger	INDIFFERENT	3:30	fmhJVDnrtcg	MPREb_DgkuPhaxLwF	UCCg341pNKqwul6fDzBIbhqw
+7	Sometime	DIIV	Oshin	INDIFFERENT	3:01	nXE4YFS4L9c	MPREb_JvZ6JTPE0Sa	UCWumh0WXTLCjbZlEOLWtQLQ
 295	A Real You	Cullen Omori	The Diet	INDIFFERENT	3:01	EYi5KtgSHmc	MPREb_iXBRHLfB9Kl	UCQun6_cfe5gslhCJ0gO22FQ
 305	Be a Man	Cullen Omori	New Misery	INDIFFERENT	3:20	TMs5dRtX7Oo	MPREb_Ks9UGiU181a	UCQun6_cfe5gslhCJ0gO22FQ
 313	All By Yourself	Cullen Omori	The Diet	INDIFFERENT	2:34	pg8wvbCmRZA	MPREb_iXBRHLfB9Kl	UCQun6_cfe5gslhCJ0gO22FQ
@@ -338,13 +338,13 @@
 79	Blue Glue	Christian Bland and the Revelators	Pig Boat Blues	INDIFFERENT	1:48	KScjCDdHasA	MPREb_2k9L14LAgJI	UCo_pcAb_y5wV5qBDKR694_w
 111	Panic Picnic	Christian Bland and the Revelators	Pig Boat Blues	INDIFFERENT	2:04	3jAqoGd1a0k	MPREb_2k9L14LAgJI	UCo_pcAb_y5wV5qBDKR694_w
 138	Black Crayon	Christian Bland and the Revelators	Pig Boat Blues	INDIFFERENT	3:05	QVQYi9UHR2E	MPREb_2k9L14LAgJI	UCo_pcAb_y5wV5qBDKR694_w
-174	Another Lego in tha Cross	Chocolate USA	Smoke Machine	INDIFFERENT	2:25	qlnSAFhcUdc	MPREb_sYYIYFdIKB0	UCeSYvwXabuqJJ4QQdl49Qnw
+174	Another Lego in tha Cross	Chocolate USA	Smoke Machine	INDIFFERENT	2:24	qlnSAFhcUdc	MPREb_sYYIYFdIKB0	UCeSYvwXabuqJJ4QQdl49Qnw
 183	Blonde Hash	Chad VanGaalen	Diaper Island	INDIFFERENT	4:08	_If9v2D7zN4	MPREb_88MORJ8Jdkq	UCxMm1MIvEHubD5N6h5Ggpcg
 219	Do Not Fear	Chad VanGaalen	Diaper Island	INDIFFERENT	2:27	6drF2WxsdJg	MPREb_88MORJ8Jdkq	UCxMm1MIvEHubD5N6h5Ggpcg
 234	Phantom Anthills	Chad VanGaalen	Soft Airplane	INDIFFERENT	3:00	vH5pLv67ffc	MPREb_fo4lp77QShY	UCxMm1MIvEHubD5N6h5Ggpcg
 230	New Forest (Five Heads of the Sun)	Candy Claws	Ceres & Calypso in the Deep Time	INDIFFERENT	3:23	UFU16Tuvl1Q	MPREb_icErivCdLgT	UCz-HPlKPuuBbQAVo5Mwg_-Q
 255	Insert Coin	Broncho	Can't Get Past the Lips	INDIFFERENT	2:10	W3MnlQuQXyw	MPREb_n5Ig6noRiuy	UCGVp42SNSN6osaaynw6Mevg
-320	Re: Stacks	Bon Iver	For Emma, Forever Ago	INDIFFERENT	6:41	3w68krri0bw	MPREb_72kyFnlqpDM	UCx-cwf1tCXoZr0KtnpaDwyA
+320	Re: Stacks	Bon Iver	For Emma, Forever Ago	INDIFFERENT	6:42	3w68krri0bw	MPREb_72kyFnlqpDM	UCx-cwf1tCXoZr0KtnpaDwyA
 220	Black Car	Black Tambourine	Black Tambourine	INDIFFERENT	3:28	2gkmDWEKY9k	MPREb_Ejk4vMgYXoI	UCEMPd_VKa_KoSFCy8mfDSDA
 319	Vietcaterpillar	Black Moth Super Rainbow	Start a People	INDIFFERENT	2:16	WH-sY2OvxXs	MPREb_OwQb8Z8HkuP	UCKaCe0uDVvefgJblhZ0uL6A
 302	It Wont Be Long	Black Lips	Satan's Graffiti or God's Art?	INDIFFERENT	2:37	cu4l9ytxDiI	MPREb_PmgUpKdL9X0	UClAClLwMYeeJS28cid9HkSw
@@ -366,20 +366,20 @@
 294	Coral By Numbers	Animal Collective	Tangerine Reef	INDIFFERENT	2:26	uy3oZ2vudBw	MPREb_y2KKpinn9ja	UC6X5Baxp63Ex9NaLZwAy7lQ
 308	I Remember Learning How To Dive	Animal Collective	Prospect Hummer	INDIFFERENT	2:18	SyMeMYOLdwI	MPREb_Sh6UtC3wIG6	UC6X5Baxp63Ex9NaLZwAy7lQ
 315	Kinda Bonkers	Animal Collective	Kinda Bonkers	INDIFFERENT	3:14	9bfxdxW-CGM	MPREb_WwjoWwsWFJ7	UC6X5Baxp63Ex9NaLZwAy7lQ
-13	Busman's Holiday	Allah-Las	Allah-Las	INDIFFERENT	3:28	YCWcfJwh2io	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
+13	Busman's Holiday	Allah-Las	Allah-Las	INDIFFERENT	3:27	YCWcfJwh2io	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
 71	Buffalo Nickel	Allah-Las	Worship the Sun	INDIFFERENT	2:47	ju5rSSKEDd4	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
 90	Come On	Allah-Las	Aquarium Drunkard's Lagniappe Session	INDIFFERENT	1:57	9G0e-1LpI94	MPREb_P2m1dFUUMxG	UCRg0dGQ51ZX7b3SF-6HkMDA
-157	Could Be You	Allah-Las	Calico Review	INDIFFERENT	3:14	6K5G7lz2kYk	MPREb_2yti6EcWDCE	UCRg0dGQ51ZX7b3SF-6HkMDA
+157	Could Be You	Allah-Las	Calico Review	INDIFFERENT	3:13	6K5G7lz2kYk	MPREb_2yti6EcWDCE	UCRg0dGQ51ZX7b3SF-6HkMDA
 258	501-415	Allah-Las	Worship the Sun	INDIFFERENT	1:44	i9vRztdfPLk	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
 262	Artifact	Allah-Las	Worship the Sun	INDIFFERENT	3:34	ZdxTrHxVqz0	MPREb_4issEzY6Wcv	UCRg0dGQ51ZX7b3SF-6HkMDA
 328	Don't Bring Me Coffee	All Them Witches	Sleeping Through the War (Deluxe Edition)	INDIFFERENT	3:10	RafUeBs_ChQ	MPREb_sE78gV62ZPL	UCyYGtzX--CaSWjM8SC9t1qQ
 10	Postal Blowfish	Albert Hammond Jr.	Yours to Keep	INDIFFERENT	2:19	BBEHcXDYZPE	MPREb_VTx39jOxFOu	UCURphfD7Jrv0WlvIn-SY8zQ
-193	November	Abe Vigoda	Crush	INDIFFERENT	2:49	3hV5BxkjM74	MPREb_OxIOQh2H8An	UCeGZ77DZtDxVqZh65WNSidw
+193	November	Abe Vigoda	Crush	INDIFFERENT	2:50	3hV5BxkjM74	MPREb_OxIOQh2H8An	UCeGZ77DZtDxVqZh65WNSidw
 241	Failure	A Sunny Day In Glasgow	Ashes Grammar	INDIFFERENT	3:30	HHCx5fEYLyQ	MPREb_P44saJeeTzb	UCKp1EK0yQ2X07g9fHCMNiLQ
 367	Dark Mountain (Performance For Two)	Rhythm of Black Lines	Human Hand, Animal Band		9:04	YWfebU6pywg		
-98	Dial 666	Night Beats	Night Beats		1:45	zQXtZFx5g0A		
-118	Dewayne's Drone	Night Beats	Night Beats		3:24	tSmBdoPwQgc		
-124	Hallucinojenny	Night Beats	Night Beats		2:05	Rq2-aQw3X80		
+98	Dial 666	Night Beats	Night Beats		1:45	EJ1yP_WpjU4		
+118	Dewayne's Drone	Night Beats	Night Beats		3:24	sau0uobyV0Y		
+124	Hallucinojenny	Night Beats	Night Beats		2:05	rnAdWHa8nN8		
 344	Jungle Rot	George Brigman	Soul Jazz Records Presents PUNK 45: Sick On You! One Way Spit! After The Love & Before The Revolution: Proto-Punk 1969-77			_txU5JXMsxc		
 186	Backyard	Ducktails	Ducktails		1:37	53hdXxMB8Sw		
 119	Caroline	Cosmonauts	If You Wanna Die Then I Wanna Die		1:46	qP9r-lGvoco		
