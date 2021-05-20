@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 31	Trouble Is Trouble Never Seen	White Fence	Cyclops Reap	LIKE	2:44	spN65KDz8V8	MPREb_Nz5kEDGDjjh	UCuoJbbqftLdL9LBbIuAQVEQ
 407	Irene	Twin Peaks	Sunken	LIKE	2:37	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
+446	Prairie My Heart	Harlem	Hippies	LIKE	2:56	GvaBUtp5eTs	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
 116	Smiling	Black Lips	Underneath The Rainbow	LIKE	2:11	gEK1NzFTldo	MPREb_wLUKQt8L9mB	UClAClLwMYeeJS28cid9HkSw
 33	Make Myself True	together PANGEA	Badillac	INDIFFERENT	2:13	9tVJcTCFY_Y	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
 114	Where The Night Ends	together PANGEA	Badillac	INDIFFERENT	3:43	zLFTDuEIqRs	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
@@ -150,18 +151,18 @@
 290	Kiss My Sister's Fist	The King Khan & BBQ Show	Bad News Boys	INDIFFERENT	2:50	yjvEHKZcv48	MPREb_eY1FOM9ZoAw	UCRq4R0Kpaizm6qyKXc-5FoA
 301	What's For Dinner?	The King Khan & BBQ Show	What's For Dinner?	INDIFFERENT	2:27	rwWj9HykX4A	MPREb_QI4eKSf68oi	UCRq4R0Kpaizm6qyKXc-5FoA
 419	Spin The Bottle	The King Khan & BBQ Show	Invisible Girl	INDIFFERENT	3:17	fVJ-ImtB-Tk	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
-52	Dogheart II	The Growlers	Gilded Pleasures	INDIFFERENT	2:52	XluMlhw1t2o	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-60	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:39	b1YHYyzhREE	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-80	Badlands	The Growlers	Hot Tropics	INDIFFERENT	2:53	efqLPY_bzYQ	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
-97	Something Someone Jr	The Growlers	Are You in or Out?	INDIFFERENT	3:33	bVfmpflGFKQ	MPREb_jdQ383F6Jz1	UCJNle5_HHB85Hsm8kM7aTHg
-107	Pet Shop Eyes	The Growlers	Hung at Heart	INDIFFERENT	3:34	CGSPLoTsZtc	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-125	Underneath Our Palms	The Growlers	Hot Tropics	INDIFFERENT	3:10	EBGhnmidF-c	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
-134	Camino Muerto	The Growlers	Hot Tropics	INDIFFERENT	3:24	S4JRmtut_BU	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
-139	Hiding Under Covers	The Growlers	Gilded Pleasures	INDIFFERENT	2:49	UDYsw8stGCM	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-183	Graveyard's Full	The Growlers	Hot Tropics	INDIFFERENT	2:07	PyDyDKAHhMw	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
+52	Dogheart II	The Growlers	Gilded Pleasures	INDIFFERENT	2:52	PjEntKV8Ck0	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+60	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:39	kwCbkh6mv1Q	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+80	Badlands	The Growlers	Hot Tropics	INDIFFERENT	2:53	1S6SsdumvLU	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
+97	Something Someone Jr	The Growlers	Are You in or Out?	INDIFFERENT	3:33	ZBRG5UB4Wx0	MPREb_jdQ383F6Jz1	UCJNle5_HHB85Hsm8kM7aTHg
+107	Pet Shop Eyes	The Growlers	Hung at Heart	INDIFFERENT	3:34	JpZn0dIuMF4	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+125	Underneath Our Palms	The Growlers	Hot Tropics	INDIFFERENT	3:10	R0nP-sL6zDI	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
+134	Camino Muerto	The Growlers	Hot Tropics	INDIFFERENT	3:24	Zhfa3AWvksk	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
+139	Hiding Under Covers	The Growlers	Gilded Pleasures	INDIFFERENT	2:49	EL9mAARVWbk	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+183	Graveyard's Full	The Growlers	Hot Tropics	INDIFFERENT	2:07	o-UgZbaPE54	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
 200	Drinking Song for Kids	The Growlers	Gay Thoughts - EP	INDIFFERENT	3:35	_2GxYhB74q4	MPREb_aMFt7HE8nbn	UCJNle5_HHB85Hsm8kM7aTHg
-243	Ego of Man	The Growlers	Gilded Pleasures	INDIFFERENT	2:55	IV8bTrTHVs8	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-283	Nobody Owns You	The Growlers	Gilded Pleasures	INDIFFERENT	2:41	FGa1dipKEv4	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+243	Ego of Man	The Growlers	Gilded Pleasures	INDIFFERENT	2:55	uA2-EvS_fW4	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+283	Nobody Owns You	The Growlers	Gilded Pleasures	INDIFFERENT	2:41	EsRPuIUzduQ	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
 442	Summer Of Love	The Fresh & Onlys	Play It Strange	INDIFFERENT	3:21	fP5vhQAQ87A	MPREb_MWSBBqGCdNf	UCKScTnwz0EnVjp1JIdWqAFw
 453	Peacock and Wing	The Fresh & Onlys	The Fresh & Onlys	INDIFFERENT	3:17	Plsl_aYxj4M	MPREb_5bGpfx1hhuh	UCKScTnwz0EnVjp1JIdWqAFw
 176	An Occurrence at 4507 South Third Street	The Black Angels	Clear Lake Forest	INDIFFERENT	3:20	BzMoJy5A5Qg	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
@@ -269,10 +270,10 @@
 440	69 Faces of Love	King Khan & the Shrines	What Is?!	INDIFFERENT	4:08	_mDJf97qULw	MPREb_XCSTpYA466k	UCmGg_XQPB2EJo47k2vb2asw
 1	Black Tooth	King Gizzard & the Lizard Wizard	Willoughby's Beach	INDIFFERENT	2:30	yLLP7VzzhhE	MPREb_bHgIChhECYU	UC-3mACkWPK3QluQYi5dHQCA
 68	Willoughby's Beach	King Gizzard & the Lizard Wizard	Willoughby's Beach	INDIFFERENT	2:53	3EsDEpZ5xPo	MPREb_bHgIChhECYU	UC-3mACkWPK3QluQYi5dHQCA
-23	I'm Not In Your Mind	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	2:58	YZjzXgPGjrE	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+23	I'm Not In Your Mind	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	2:59	VqzCFvTaWO0	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
 49	Muckraker	King Gizzard & The Lizard Wizard	12 Bar Bruise	INDIFFERENT	3:00	wRg56hpSRk0	MPREb_BIimqCfHTV9	UC-3mACkWPK3QluQYi5dHQCA
-99	Empty	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	4:10	qItUAuQJsYA	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
-137	Her And I (Slow Jam 2)	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	8:15	tCKnUwRo6ms	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+99	Empty	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	4:11	rFO4tmLZkWs	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
+137	Her and I (Slow Jam 2)	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	8:16	NiifalS0CXA	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
 89	Dreamscape	Jeff The Brotherhood	Heavy Days	INDIFFERENT	2:45	_0wiX0cAjvI	MPREb_3Erwfn4LGAg	UCAaETnLcP0wpVt6C8WF_MvQ
 310	Pleasure Centre	Jeff The Brotherhood	Heavy Days	INDIFFERENT	4:58	8qyZS8Dcubo	MPREb_3Erwfn4LGAg	UCAaETnLcP0wpVt6C8WF_MvQ
 343	Heavy Damage	Jeff The Brotherhood	Heavy Days	INDIFFERENT	3:50	pPO5kkJ0cZo	MPREb_3Erwfn4LGAg	UCAaETnLcP0wpVt6C8WF_MvQ
@@ -314,7 +315,6 @@
 418	Three Legged Dog	Harlem	Hippies	INDIFFERENT	2:39	uzJdI01GNOQ	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
 421	Scare You	Harlem	Hippies	INDIFFERENT	2:09	7HoGEuHEBGo	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
 436	Faces	Harlem	Hippies	INDIFFERENT	1:59	UJ0Cg-UV3ok	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
-446	Prairie My Heart	Harlem	Hippies	INDIFFERENT	2:56	GvaBUtp5eTs	MPREb_eHGzteewECG	UC9Z2-i2AXNwHg6ieIkdIySg
 215	Gonna Die Alone	Hanni El Khatib	Savage Times	INDIFFERENT	3:18	k207HgHxbeU	MPREb_w1uJI1sGMFj	UCGhIEm9avcUndrqmN_UK12Q
 229	Mexico	Hanni El Khatib	Moonlight	INDIFFERENT	4:56	UrYUKBAi6iQ	MPREb_ep79zudifqD	UCGhIEm9avcUndrqmN_UK12Q
 268	The Teeth	Hanni El Khatib	Moonlight	INDIFFERENT	3:11	lRyZDeTMfS8	MPREb_ep79zudifqD	UCGhIEm9avcUndrqmN_UK12Q

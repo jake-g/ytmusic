@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 195	Staring At The Sun	Wooden Shjips	V.	LIKE	7:28	6PfYo-YYVPY	MPREb_pLTBkur0fb1	UCQuG3da7z_2Q7UsoBKlOLPw
-319	Seer	Witch	Witch	LIKE	7:57	fu6NMOaswLU	MPREb_zso0mTpHVnw	UCtMYr3_YUchhKvoZ-XzLJrw
+319	Seer	Witch	Witch	LIKE	7:58	fu6NMOaswLU	MPREb_zso0mTpHVnw	UCtMYr3_YUchhKvoZ-XzLJrw
 194	Atomic Bomb	William Onyeabor	World Psychedelic Classics 5: Who Is William Onyeabor?	LIKE	7:59	RgWMkzLSA8o	MPREb_zdWPPOphj5a	UCC8Kbo8OnDN_NQTB-y7HT4g
 191	Mutilated Lips	Ween	Bananas and Blow	LIKE	3:48	igaARtMyfos	MPREb_HhC84KNJosm	UCXWUt1Cu2hVZYTaJ44ddusA
 192	Among His Tribe	Ween	Quebec	LIKE	2:58	wTdI9eijGFM	MPREb_dDqKKQxjVX8	UCXWUt1Cu2hVZYTaJ44ddusA
@@ -52,6 +52,7 @@
 30	Sound Of Confusion	The Brian Jonestown Massacre	Thank God For Mental Illness	LIKE	33:02	Tqwxn9qwNF8	MPREb_JdcQyjbkrlH	UCXybUoBoCwQntpbpblywN4Q
 20	Life Song	The Black Angels	Death Song	LIKE	6:30	cF5WAMSZ1xw	MPREb_mmcd4843ue6	UCdMCMtXUYb-9gvK1srSECuQ
 21	Entrance Song (Rain Dance Version)	The Black Angels	Phosgene Nightmare	LIKE	4:55	4gzKyxikVmQ	MPREb_nYaRv5ET8yG	UCdMCMtXUYb-9gvK1srSECuQ
+218	Currency	The Black Angels	Death Song	LIKE	5:17	0wHJp0LxeRs	MPREb_mmcd4843ue6	UCdMCMtXUYb-9gvK1srSECuQ
 220	Snake In The Grass	The Black Angels	Directions to See a Ghost	LIKE	16:13	kRUUocEbUAo	MPREb_nMUEZHXLo8f	UCdMCMtXUYb-9gvK1srSECuQ
 13	Strawberry Fields Forever (Take 1 / Anthology 2 Version)	The Beatles	Anthology 2	LIKE	2:35	y5g_DiZF5NI	MPREb_r9ehGUcIpog	UC2XdaAVUannpujzv32jcouQ
 14	Nowhere Man (Remastered 2009)	The Beatles	The Beatles 1962 - 1966	LIKE	2:45	9E3ODsSRY6k	MPREb_tymxbN4xRgQ	UC2XdaAVUannpujzv32jcouQ
@@ -144,11 +145,8 @@
 92	Work This Time	King Gizzard & The Lizard Wizard	Oddments	LIKE	4:37	Jop-OZ2IB4E	MPREb_FJtUYYWtMbZ	UC-3mACkWPK3QluQYi5dHQCA
 93	Crumbling Castle	King Gizzard & The Lizard Wizard	Polygondwanaland	LIKE	10:44	cqS8bphqBys	MPREb_ZV4kEeW8UtH	UC-3mACkWPK3QluQYi5dHQCA
 94	Inner Cell	King Gizzard & The Lizard Wizard	Polygondwanaland	LIKE	3:55	_TCA3sFEduU	MPREb_ZV4kEeW8UtH	UC-3mACkWPK3QluQYi5dHQCA
-95	The River	King Gizzard & The Lizard Wizard	Quarters!	LIKE	10:11	izVeJaEXMnc	MPREb_ZrRmJEWo5Fo	UC-3mACkWPK3QluQYi5dHQCA
-96	God is in the Rhythm	King Gizzard & The Lizard Wizard	Quarters!	LIKE	10:11	rG4pCZ0msTo	MPREb_ZrRmJEWo5Fo	UC-3mACkWPK3QluQYi5dHQCA
 97	Rattlesnake	King Gizzard & The Lizard Wizard	Flying Microtonal Banana	LIKE	7:48	nlEb8Jv6IFE	MPREb_4GNlH4wHayL	UC-3mACkWPK3QluQYi5dHQCA
 258	Melting	King Gizzard & The Lizard Wizard	Flying Microtonal Banana	LIKE	5:27	Ddm1H1B9lXI	MPREb_4GNlH4wHayL	UC-3mACkWPK3QluQYi5dHQCA
-76	Smoke and Mirrors	Kikagaku Moyo	Forest of Lost Children	LIKE	7:17	QT6pgaZMURs	MPREb_ZISC3DZzyyg	UCNaS4ou9KLFO5YjEQkjuUwA
 77	Trad	Kikagaku Moyo	House in the Tall Grass	LIKE	8:34	gAcEMjCDLCE	MPREb_m8BZBND5riT	UCNaS4ou9KLFO5YjEQkjuUwA
 78	Cardigan Song	Kikagaku Moyo	House in the Tall Grass	LIKE	4:48	9ZRQr7DISnA	MPREb_m8BZBND5riT	UCNaS4ou9KLFO5YjEQkjuUwA
 79	Tree Smoke	Kikagaku Moyo	Kikagaku Moyo	LIKE	6:40	I-gMdE5Hm4Y	MPREb_DAljCoRibV8	UCNaS4ou9KLFO5YjEQkjuUwA
@@ -203,7 +201,6 @@
 8	Do I Wanna Know?	Arctic Monkeys	AM	LIKE	4:32	pqrUQrAcfo4	MPREb_m7saomf2NFN	UC8Yu1_yfN5qPh601Y4btsYw
 7	My Girls (Live)	Animal Collective	Live at 9:30	LIKE	7:14	j-M0v3Yg8Ek	MPREb_btlp1GJcB2K	UC6X5Baxp63Ex9NaLZwAy7lQ
 6	RETURN TO SANITY	Andromeda	Beginnings 1967-68	LIKE	8:46	LvFhNuYJUXg	MPREb_uZWyzLNXc6v	UCxubVBQN7TpNMxbPgkOwq3w
-5	Jumpin Jack Flash	Ananda Shankar	Ananda Shankar Sitar	LIKE	3:37	QCn2nEBqK-s	MPREb_ANs0BTHceO0	UCkl7wjzpApHQEZguDLZuXaQ
 4	Raspberry Jam	Allah-Las	Raspberry Jam	LIKE	3:49	V17qku51Wm4	MPREb_GgZe1HVhqkE	UCRg0dGQ51ZX7b3SF-6HkMDA
 3	Bulls	All Them Witches	Sleeping Through the War	LIKE	6:40	AxGoRsEuxEA	MPREb_ERXcfII15p6	UCyYGtzX--CaSWjM8SC9t1qQ
 0	You're Gonna Miss Me (Original Mono Single Mix)	13th Floor Elevators	7th Heaven: Music of the Spheres	LIKE	2:30	mXFFu5yVspw	MPREb_SzwVD5hmtVR	UCAwuokMGAQsp1gy2GmXT2AA
@@ -250,7 +247,6 @@
 228	Their Satanic Majesties' Second Request (Enrique's Dream)	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:36	6Xq9J4KgJjg	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
 229	Spacegirl (Revisited)	The Brian Jonestown Massacre	Spacegirl And Other Favourites	INDIFFERENT	5:21	O40Isj52Fwk	MPREb_aSOGJCqPGbw	UCXybUoBoCwQntpbpblywN4Q
 217	Young Men Dead	The Black Angels	Crash (Music from the Original TV Series), Vol. 1	INDIFFERENT	5:34	SdRFHyL1vTo	MPREb_er6eeMaHx72	UCdMCMtXUYb-9gvK1srSECuQ
-218	Currency	The Black Angels	Death Song	INDIFFERENT	5:17	0wHJp0LxeRs	MPREb_mmcd4843ue6	UCdMCMtXUYb-9gvK1srSECuQ
 219	Science Killer	The Black Angels	Directions to See a Ghost	INDIFFERENT	4:45	4ugourjV3Gw	MPREb_nMUEZHXLo8f	UCdMCMtXUYb-9gvK1srSECuQ
 221	Doves (From Directions To See A Ghost)	The Black Angels	Light In the Attic Label Sampler	INDIFFERENT	4:30	q9WyLQHKh5A	MPREb_dcvMfUAogzV	UCdMCMtXUYb-9gvK1srSECuQ
 222	The Sniper At The Gates Of Heaven	The Black Angels	Passover	INDIFFERENT	4:16	zczkMCrNvsg	MPREb_ZGqvQtzfLgP	UCdMCMtXUYb-9gvK1srSECuQ
@@ -281,15 +277,18 @@
 82	The Cruel Millennial	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	4:57	gxqCQsJJlak	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 83	Real's Not Real	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	3:41	B44MsJgLAAE	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 84	Cyboogie	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	6:49	bvslmT80S0Q	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
-89	Cellophane	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:10	UKeMETL5jB8	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
-90	Slow Jam 1	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	2:54	VhxoizTbSgY	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
-91	Satan Speeds Up	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:39	8NA40RvT9m0	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+89	Cellophane	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:11	FpEl3AvpcoE	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
+90	Slow Jam 1	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	2:55	ujx2Wz_qup8	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
+91	Satan Speeds Up	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:40	PfDhMDk8gso	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
+95	The River	King Gizzard & The Lizard Wizard	Quarters!	INDIFFERENT	10:11	F3oYVABtEQY	MPREb_R5Ad1GZjlft	UC-3mACkWPK3QluQYi5dHQCA
+96	God Is in the Rhythm	King Gizzard & The Lizard Wizard	Quarters!	INDIFFERENT	10:11	HVQBdyhlVXk	MPREb_R5Ad1GZjlft	UC-3mACkWPK3QluQYi5dHQCA
 254	Plastic Boogie	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	3:04	ARJz9LWgjJU	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 255	Acarine	King Gizzard & The Lizard Wizard	Fishing For Fishies	INDIFFERENT	5:25	XX0biPwEQZI	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 259	Anoxia	King Gizzard & The Lizard Wizard	Flying Microtonal Banana	INDIFFERENT	3:04	VdqQkDHRmng	MPREb_4GNlH4wHayL	UC-3mACkWPK3QluQYi5dHQCA
-260	I'm In Your Mind	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:33	xbodKpSNrZI	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
-261	Hot Water	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:23	P3pyyNJEi7g	MPREb_Kv2FPz9uQVO	UC-3mACkWPK3QluQYi5dHQCA
+260	I'm In Your Mind	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:34	InalB3tNW-w	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
+261	Hot Water	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	INDIFFERENT	3:24	W5JnLFZXGLk	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
 262	Hot Wax	King Gizzard & The Lizard Wizard	Oddments	INDIFFERENT	3:30	XbQtKrnV9FU	MPREb_FJtUYYWtMbZ	UC-3mACkWPK3QluQYi5dHQCA
+76	Smoke and Mirrors	Kikagaku Moyo	Forest of Lost Children	INDIFFERENT	7:17	N9GbStZCfw4	MPREb_ZISC3DZzyyg	UCNaS4ou9KLFO5YjEQkjuUwA
 253	Stay Alive	José González	Good Morning Australia	INDIFFERENT	4:26	jOChtokTIds	MPREb_dXuJDsOUUXK	UCVKb7VKgr2i5X5cFZCF2gig
 252	The Water (feat. Laura Marling)	Johnny Flynn	Been Listening	INDIFFERENT	4:12	vS19ej0ZiDw	MPREb_zFkSAoTZcgv	UCEc162usE38oe18FcgbjGxA
 249	Today	Jefferson Airplane	Cleared For Take-Off	INDIFFERENT	3:16	jaMje5B08O4	MPREb_nZuwfiQ6ltp	UCGRlR1uXGOTqvEy0b06L7jw
@@ -312,6 +311,7 @@
 22	Wall of Gum	Black Moth Super Rainbow	Dandelion Gum	INDIFFERENT	1:00	BEO90P_sj_U	MPREb_TK2rJGk3644	UCKaCe0uDVvefgJblhZ0uL6A
 197	Vietcaterpillar	Black Moth Super Rainbow	Start a People	INDIFFERENT	2:16	WH-sY2OvxXs	MPREb_OwQb8Z8HkuP	UCKaCe0uDVvefgJblhZ0uL6A
 216	Many Moons of Love	Babe Rainbow	Many Moons of Love	INDIFFERENT	3:31	r1PRsIU6bYA	MPREb_ppgXhyctRDs	UCnmNJQ_W2ra79BAsOD6KAtA
+5	Jumpin' Jack Flash	Ananda Shankar	Ananda Shankar (US Internet Release)	INDIFFERENT	3:35	DYDbl3jSr8Q	MPREb_cFD9UZ7w4xG	UCkl7wjzpApHQEZguDLZuXaQ
 213	Don't Bring Me Coffee	All Them Witches	Sleeping Through the War (Deluxe Edition)	INDIFFERENT	3:10	RafUeBs_ChQ	MPREb_sE78gV62ZPL	UCyYGtzX--CaSWjM8SC9t1qQ
 210	Slip Inside This House (Original Mono Single Mix)	13th Floor Elevators	7th Heaven: Music of the Spheres	INDIFFERENT	4:06	R_13JkpuNo4	MPREb_SzwVD5hmtVR	UCAwuokMGAQsp1gy2GmXT2AA
 211	Kingdom Of Heaven	13th Floor Elevators	The Psychedelic World Of The 13th Floor Elevators CD1	INDIFFERENT	3:10	obzm9kVY2U4	MPREb_MJUFFc1wEKZ	UCAwuokMGAQsp1gy2GmXT2AA

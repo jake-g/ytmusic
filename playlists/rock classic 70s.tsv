@@ -20,6 +20,7 @@
 183	Mama Told Me (Not To Come) (Single Version)	Three Dog Night	It Ain't Easy	LIKE	3:18	9DZvJQ0PTEg	MPREb_jZNlHri9fb8	UChdJeqxlsCTZml6HzCuZ60A
 184	One (Single Version)	Three Dog Night	One	LIKE	3:05	BvA5xFuDb0o	MPREb_BzqvJyE7nA8	UChdJeqxlsCTZml6HzCuZ60A
 185	Joy To The World (Single Version)	Three Dog Night	Three Dog Night - The Complete Hit Singles	LIKE	3:15	wb_Hnyx8BmM	MPREb_ERcmRKmX6wF	UChdJeqxlsCTZml6HzCuZ60A
+917	Tell Her No	The Zombies	The Original Studio Recordings (Volume One)	LIKE	2:06	3OL9ncYozAM	MPREb_qI6bWGLFd8x	UCweKPvb6MUhb8X4X0nbObBw
 225	End Of The Line	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	LIKE	3:29	stxftCSiVBc	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
 242	Last Night	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	LIKE	3:51	_tMxLDTMatY	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
 243	Heading For The Light	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	LIKE	3:36	VarURT-pH8o	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
@@ -205,7 +206,6 @@
 485	Echoes (Live at Pompeii) [2016 Remix]	Pink Floyd	1972 Obfusc/ation	LIKE	24:56	_69ApglQdxI	MPREb_78F93Z5iriE	UCO6LS_5W7vqG9mALDNzSFug
 486	Money	Pink Floyd	A Collection Of Great Dance Songs	LIKE	6:45	5fBhFYkTezA	MPREb_kHoLjkEBtis	UCO6LS_5W7vqG9mALDNzSFug
 140	Penny For Your Thoughts	Peter Frampton	Frampton	LIKE	1:33	LHY0riupk08	MPREb_NWWaY4E2fTW	UCI5RQ0Z0J8whww9HWAYPxGg
-141	Baby, I Love Your Way	Peter Frampton	Frampton Comes Alive!	LIKE	4:37	2tkCrG2molk	MPREb_2kj1IeMoMvI	UCI5RQ0Z0J8whww9HWAYPxGg
 142	Baby, I Love Your Way	Peter Frampton	Greatest Hits	LIKE	4:49	uerF0GxBjR0	MPREb_Lc1oBIEo97Z	UCI5RQ0Z0J8whww9HWAYPxGg
 220	Signed, Sealed, Delivered I'm Yours	Peter Frampton	20th Century Masters - The Millennium Collection: The Best Of Peter Frampton	LIKE	3:49	8bjCMYJsumU	MPREb_thEqIhJf192	UCI5RQ0Z0J8whww9HWAYPxGg
 402	50 Ways to Leave Your Lover	Paul Simon	Over The Bridge Of Time (A Paul Simon Retrospective (1964-2011))	LIKE	3:34	nH9a6nZlFeY	MPREb_8kx3JIny2DA	UCocuTnrwKDhXqwr6Kv-T4_Q
@@ -246,7 +246,7 @@
 380	Heart of Gold (2009 Remaster)	Neil Young	Harvest (Remastered Version)	LIKE	3:07	X3IA6pIVank	MPREb_KmYrZvSr21k	UC6JhadLTf6g6f-ZdeEaAqBQ
 381	Old Man (2009 Remaster)	Neil Young	Harvest (Remastered Version)	LIKE	3:22	rAtDrFdomN4	MPREb_KmYrZvSr21k	UC6JhadLTf6g6f-ZdeEaAqBQ
 382	Words (Between the Lines of Age) [2009 Remaster]	Neil Young	Harvest (Remastered Version)	LIKE	6:47	pMRcFpIn49o	MPREb_KmYrZvSr21k	UC6JhadLTf6g6f-ZdeEaAqBQ
-383	Ohio (Live at Massey Hall 1971)	Neil Young	Live At Massey Hall 1971	LIKE	3:40	lvcs0zTF9vM	MPREb_bFp9jx0VKqe	UC6JhadLTf6g6f-ZdeEaAqBQ
+383	Ohio (Live at Massey Hall 1971)	Neil Young	Live At Massey Hall 1971	LIKE	3:41	lvcs0zTF9vM	MPREb_bFp9jx0VKqe	UC6JhadLTf6g6f-ZdeEaAqBQ
 384	The Loner (2009 Remaster)	Neil Young	Neil Young (2009 Remaster)	LIKE	3:52	rX5bDqk7Qmo	MPREb_mp0u1LyhVHB	UC6JhadLTf6g6f-ZdeEaAqBQ
 385	I've Loved Her so Long (2009 Remaster)	Neil Young	Neil Young (2009 Remaster)	LIKE	2:46	lNrgLm27YuU	MPREb_mp0u1LyhVHB	UC6JhadLTf6g6f-ZdeEaAqBQ
 386	Walk On	Neil Young	On the Beach	LIKE	2:42	Cby46XsFm7Y	MPREb_7mWTPcMygWC	UC6JhadLTf6g6f-ZdeEaAqBQ
@@ -439,21 +439,21 @@
 72	Turn to Stone	Electric Light Orchestra	Out of the Blue	LIKE	3:50	7gncH7WOQvY	MPREb_NTvm5vivAFP	UCZQkZuaiV1DiJ4CG50oInTQ
 302	Don't Bring Me Down	Electric Light Orchestra	A History of Rock Vol. 1	LIKE	4:08	H6iVr1r85nU	MPREb_EadrU4zoIZu	UCZQkZuaiV1DiJ4CG50oInTQ
 63	Life in the Fast Lane	Eagles	Their Greatest Hits, Volumes 1 & 2	LIKE	4:46	WncDBelUSHo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIjdGhlaXIgZ3JlYXRlc3QgaGl0cyB2b2x1bWVzIDEgYW5kIDIaBmVhZ2xlcyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGZWFnbGVz
-64	Seven Bridges Road (Live)	Eagles		LIKE	3:04	U61bPI8K04s		UC49r4GNHHpc-eQ9hmD2Rg6A
-65	In the City	Eagles	The Long Run	LIKE	3:44	ln07KmuedzQ	MPREb_SodMF0FVsuF	UC49r4GNHHpc-eQ9hmD2Rg6A
-66	Already Gone	Eagles	On The Border	LIKE	4:15	yJD8ABf5jbY	MPREb_jLMUc4zoP2z	UC49r4GNHHpc-eQ9hmD2Rg6A
-67	Is It True?	Eagles	On The Border	LIKE	3:14	9usknDllPD8	MPREb_jLMUc4zoP2z	UC49r4GNHHpc-eQ9hmD2Rg6A
+64	Seven Bridges Road (Live)	Eagles	Greatest Hits Volume 2	LIKE	3:05	U61bPI8K04s	MPREb_QRB1MQ2y540	UC49r4GNHHpc-eQ9hmD2Rg6A
+65	In the City	Eagles	The Long Run	LIKE	3:45	ln07KmuedzQ	MPREb_SodMF0FVsuF	UC49r4GNHHpc-eQ9hmD2Rg6A
+66	Already Gone	Eagles	On The Border	LIKE	4:16	yJD8ABf5jbY	MPREb_jLMUc4zoP2z	UC49r4GNHHpc-eQ9hmD2Rg6A
+67	Is It True?	Eagles	On The Border	LIKE	3:15	9usknDllPD8	MPREb_jLMUc4zoP2z	UC49r4GNHHpc-eQ9hmD2Rg6A
 68	Take It Easy	Eagles	Selected Works 1972-1999	LIKE	3:32	f7jkXqzsYzU	MPREb_zIJANMTjzfX	UC49r4GNHHpc-eQ9hmD2Rg6A
 211	Doolin-Dalton	Eagles	Desperado	LIKE	3:28	CQhzrpZztl4	MPREb_ozmAKC1Ckbp	UC49r4GNHHpc-eQ9hmD2Rg6A
-212	Train Leaves Here This Morning (Eagles 2013 Remaster)	Eagles	Eagles	LIKE	4:10	q3aS7370jLc	MPREb_GRG9HQrp1NA	UC49r4GNHHpc-eQ9hmD2Rg6A
+212	Train Leaves Here This Morning (Eagles 2013 Remaster)	Eagles	Eagles	LIKE	4:11	q3aS7370jLc	MPREb_GRG9HQrp1NA	UC49r4GNHHpc-eQ9hmD2Rg6A
 246	Seven Bridges Road (Live at Santa Monica Civic Auditorium, Santa Monica, CA, 7/28/1980)	Eagles	Legacy	LIKE	3:41	yyGM2_WyTsA	MPREb_E2rekB6aBjC	UC49r4GNHHpc-eQ9hmD2Rg6A
 297	Bitter Creek	Eagles	Desperado	LIKE	5:02	4R68eQ6rqV0	MPREb_ozmAKC1Ckbp	UC49r4GNHHpc-eQ9hmD2Rg6A
 298	Life's Been Good (Live) [1999 Remaster]	Eagles	Eagles Live	LIKE	8:57	v6pzg3HD4xI	MPREb_yBOylK6ymUH	UC49r4GNHHpc-eQ9hmD2Rg6A
-299	Journey of the Sorcerer	Eagles		LIKE	6:37	wZdZKolMIl0		UC49r4GNHHpc-eQ9hmD2Rg6A
+299	Journey of the Sorcerer	Eagles	One of These Nights	LIKE	6:38	wZdZKolMIl0	MPREb_zRuKWQTnTG8	UC49r4GNHHpc-eQ9hmD2Rg6A
 300	Doolin-Dalton	Eagles	Selected Works 1972-1999	LIKE	3:28	9TNBbWTp3q8	MPREb_zIJANMTjzfX	UC49r4GNHHpc-eQ9hmD2Rg6A
 301	Peaceful Easy Feeling	Eagles	Selected Works 1972-1999	LIKE	4:18	gWVDjgC0NVA	MPREb_zIJANMTjzfX	UC49r4GNHHpc-eQ9hmD2Rg6A
 544	Take It Easy (Live at The Forum, Los Angeles, CA, 10/20-22/1976)	Eagles	Hotel California (40th Anniversary Expanded Edition)	LIKE	4:48	GjlvB1sJ6yk	MPREb_NIMWnhjRoTJ	UC49r4GNHHpc-eQ9hmD2Rg6A
-545	Already Gone	Eagles	Their Greatest Hits (1971-1975)	LIKE	4:15	vKPPmNGGKrQ	MPREb_zyFCvyAy1A5	UC49r4GNHHpc-eQ9hmD2Rg6A
+545	Already Gone	Eagles	Their Greatest Hits (1971-1975)	LIKE	4:16	vKPPmNGGKrQ	MPREb_zyFCvyAy1A5	UC49r4GNHHpc-eQ9hmD2Rg6A
 296	Lipsill	Dungen	Ta det lugnt	LIKE	2:45	-whUsF3cm3o	MPREb_P5g558DNqMy	UC6Nt74QG_3RrleESWasXkOg
 700	Sunshine Superman	Donovan	Sunshine Superman	LIKE	3:15	9OGUO3Oc84I	MPREb_UpcKHR6Em6W	UCWHFP-8DVayYpMtfSyRIh7g
 52	All She Wants To Do Is Dance	Don Henley	Building The Perfect Beast	LIKE	4:29	wFBHBSPvZbw	MPREb_j9kXZr3DoQP	UCnPPs9X57Sl4dNCyIgLigzQ
@@ -464,11 +464,11 @@
 293	Runaround Sue	Dion	Runaround Sue	LIKE	2:52	nFch8vH81ks	MPREb_JMp96EcBfyh	UCcNiYPb4JhBLrjtnqiPHB6w
 49	Changes	David Bowie	Hunky Dory	LIKE	3:38	7fdhI3qUdSs	MPREb_e6Raab8DZaH	UCvY1eVE6lTebXsdFbbXUtkQ
 244	Young Americans (1990 Remaster)	David Bowie	ChangesBowie	LIKE	5:15	qZNIlrJt49A	MPREb_q10SqCX8bUS	UCvY1eVE6lTebXsdFbbXUtkQ
-290	Rebel Rebel	David Bowie	Diamond Dogs (2016 Remastered Version)	LIKE	4:34	8jxhpOYNcDY	MPREb_hEyT0axmMFL	UCvY1eVE6lTebXsdFbbXUtkQ
+290	Rebel Rebel	David Bowie	Diamond Dogs (2016 Remastered Version)	LIKE	4:35	8jxhpOYNcDY	MPREb_hEyT0axmMFL	UCvY1eVE6lTebXsdFbbXUtkQ
 291	Oh! You Pretty Things	David Bowie	Hunky Dory	LIKE	3:14	ccMYgiSC_eQ	MPREb_e6Raab8DZaH	UCvY1eVE6lTebXsdFbbXUtkQ
 292	Queen Bitch	David Bowie	Hunky Dory	LIKE	3:21	2_ayFz62eYE	MPREb_e6Raab8DZaH	UCvY1eVE6lTebXsdFbbXUtkQ
 463	John, I'm Only Dancing (1990 Remaster)	David Bowie	ChangesBowie	LIKE	2:48	otNCkxyWrjA	MPREb_q10SqCX8bUS	UCvY1eVE6lTebXsdFbbXUtkQ
-464	Sons of the Silent Age	David Bowie	"""Heroes"" (2017 Remastered Version)"	LIKE	3:20	1r3Y6hgaqTM	MPREb_9C36yscfgmJ	UCvY1eVE6lTebXsdFbbXUtkQ
+464	Sons of the Silent Age	David Bowie	"""Heroes"" (2017 Remastered Version)"	LIKE	3:21	1r3Y6hgaqTM	MPREb_9C36yscfgmJ	UCvY1eVE6lTebXsdFbbXUtkQ
 465	Eight Line Poem	David Bowie	Hunky Dory	LIKE	2:56	aVqNJKQiPCA	MPREb_e6Raab8DZaH	UCvY1eVE6lTebXsdFbbXUtkQ
 466	Always Crashing in the Same Car	David Bowie	Low	LIKE	3:36	R-ZdCS0dpus	MPREb_AxNu7mXUj2I	UCvY1eVE6lTebXsdFbbXUtkQ
 467	Black Country Rock	David Bowie	The Man Who Sold the World	LIKE	3:37	-c4Gj7XbrRQ	MPREb_UNi074GYZqD	UCvY1eVE6lTebXsdFbbXUtkQ
@@ -510,7 +510,7 @@
 25	White Room	Cream	Wheels Of Fire	LIKE	5:03	V5BF1V1pbTs	MPREb_YGfXoHVdCwJ	UC_oKib7DXJ7JE5erWrFUbEQ
 667	Badge	Cream	Goodbye	LIKE	2:47	1LmvAUmvLA4	MPREb_LEdlwodYmPk	UC_oKib7DXJ7JE5erWrFUbEQ
 21	Couldn't Get It Right	Climax Blues Band	Gold Plated	LIKE	3:19	KX412tBpxMg	MPREb_XQmlknyoKrY	UCjiIJnIWWpl1mLihmuorAnQ
-19	Saturday in the Park (2002 Remaster)	Chicago	Chicago V (Expanded & Remastered)	LIKE	3:55	JPOF31V-Xwg	MPREb_uwAetljTLw7	UC8vVfqDySe2dz-wCNcy6jew
+19	Saturday in the Park (2002 Remaster)	Chicago	Chicago V (Expanded & Remastered)	LIKE	3:56	JPOF31V-Xwg	MPREb_uwAetljTLw7	UC8vVfqDySe2dz-wCNcy6jew
 20	Does Anybody Really Know	Chicago	Pictures of Life	LIKE	3:20	RfZI0TlXtYw	MPREb_3PAEZN4KKTb	UC8vVfqDySe2dz-wCNcy6jew
 207	25 Or 6 To 4	Chicago	"Chicago - ""25 or 6 to 4"""	LIKE	4:52	qZyWYzBZLXg	MPREb_fWhg5ECR1vR	UC8vVfqDySe2dz-wCNcy6jew
 286	Baby, What a Big Surprise	Chicago	Take It Easy: Soft Pop	LIKE	3:04	sglTONldFaM	MPREb_QsOXvULMlYc	UC8vVfqDySe2dz-wCNcy6jew
@@ -546,18 +546,18 @@
 279	Pick up the Pieces (Single Version)	Average White Band	70's Funk	LIKE	3:05	feZrc89PGRY	MPREb_K8yHJfW08mH	UCN-nei8O1bNhTWh9J2wnBqw
 197	So Into You	Atlanta Rhythm Section	20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section	LIKE	4:23	qjIpUGO5rrQ	MPREb_Gr6bsfYehls	UCUT4ATLh_wyu-Eou3v1R_rA
 278	So Into You	Atlanta Rhythm Section	A Rock And Roll Alternative	LIKE	4:20	wzCdSJu5xqI	MPREb_tY3GgAqrPjC	UCUT4ATLh_wyu-Eou3v1R_rA
-1	Sandman	America	America	LIKE	5:08	ShYuNe5z0NU	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
-2	A Horse with No Name	America	America	LIKE	4:12	mSZXWdKSQNM	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
-3	I Need You	America	America	LIKE	3:03	jAQq0PV2yow	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
+1	Sandman	America	America	LIKE	5:09	ShYuNe5z0NU	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
+2	A Horse with No Name	America	America	LIKE	4:13	mSZXWdKSQNM	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
+3	I Need You	America	America	LIKE	3:04	jAQq0PV2yow	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
 4	Lonely People	America	The Complete Greatest Hits	LIKE	2:31	ezkcocz-_t0	MPREb_VQR0UE77x7x	UCfh0qsQYH1TEyTt0LrRgLOw
-5	Ventura Highway	America	History (America's Greatest Hits)	LIKE	3:31	dWsWw4CzDD0	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
-6	Sister Golden Hair	America	History (America's Greatest Hits)	LIKE	3:17	dKuz27nkDEs	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
+5	Ventura Highway	America	History (America's Greatest Hits)	LIKE	3:32	dWsWw4CzDD0	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
+6	Sister Golden Hair	America	History (America's Greatest Hits)	LIKE	3:18	dKuz27nkDEs	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
 7	Ventura Highway	America	Homecoming	LIKE	3:31	tnV7dTXlXxs	MPREb_f9MJHrU80jD	UCfh0qsQYH1TEyTt0LrRgLOw
 8	Don't Cross the River	America	Homecoming	LIKE	2:29	hV478KCqAcg	MPREb_f9MJHrU80jD	UCfh0qsQYH1TEyTt0LrRgLOw
 195	Tin Man	America	The Complete Greatest Hits	LIKE	3:30	Km7WWYpgclQ	MPREb_VQR0UE77x7x	UCfh0qsQYH1TEyTt0LrRgLOw
-509	Riverside	America	America	LIKE	3:01	OJQMkwsgQtY	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
+509	Riverside	America	America	LIKE	3:02	OJQMkwsgQtY	MPREb_JGwlv3nulTZ	UCfh0qsQYH1TEyTt0LrRgLOw
 533	Sister Golden Hair	America	The Complete Greatest Hits	LIKE	3:18	4RvplITcokM	MPREb_VQR0UE77x7x	UCfh0qsQYH1TEyTt0LrRgLOw
-534	Tin Man	America	History (America's Greatest Hits)	LIKE	3:29	JMv430ssTDs	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
+534	Tin Man	America	History (America's Greatest Hits)	LIKE	3:30	JMv430ssTDs	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
 565	Sister Golden Hair	America	Hearts	LIKE	3:17	exiyXAV-aVQ	MPREb_MuY5jzvfts4	UCfh0qsQYH1TEyTt0LrRgLOw
 280	School's Out (2002 Remaster)	Alice Cooper	Mascara & Monsters: The Best of Alice Cooper	LIKE	3:26	j8A9zFAArJQ	MPREb_79EPuQPLSqh	UCSjn-oQV136VoKk7FXxxZ0w
 281	Second Coming	Alice Cooper	The Studio Albums 1969-1983	LIKE	3:05	e0NWN5Ee5gQ	MPREb_rWa31Pap99q	UCSjn-oQV136VoKk7FXxxZ0w
@@ -583,7 +583,6 @@
 883	Shambala (Single Version)	Three Dog Night	Three Dog Night - The Complete Hit Singles	INDIFFERENT	3:25	Gc8QhdHpNwU	MPREb_ERcmRKmX6wF	UChdJeqxlsCTZml6HzCuZ60A
 592	Summertime	The Zombies	Begin Here	INDIFFERENT	2:10	wC-r9IKGf5A	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
 593	What More Can I Do	The Zombies	Begin Here	INDIFFERENT	1:35	MfzeJ5gUNDw	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
-917	Tell Her No	The Zombies	The Original Studio Recordings (Volume One)	INDIFFERENT	2:06	3OL9ncYozAM	MPREb_qI6bWGLFd8x	UCweKPvb6MUhb8X4X0nbObBw
 914	Good Lovin' (Single Version)	The Young Rascals	1966	INDIFFERENT	2:30	bVgw78bvfNw	MPREb_VmlkYOLQTzP	UCx-fvMVKvAAP7279ZYbX97Q
 915	How Can I Be Sure (Single Version)	The Young Rascals	Feelin' Groovy! Chilled 60's Classics	INDIFFERENT	2:56	2P3x6E35KBY	MPREb_rJsf8CwyFJ5	UCx-fvMVKvAAP7279ZYbX97Q
 916	Groovin'	The Young Rascals	Gettin' Together: Groovy Sounds from the Summer of Love	INDIFFERENT	2:30	lYTCI96ykfE	MPREb_hntPEN3MbIF	UCx-fvMVKvAAP7279ZYbX97Q
@@ -658,7 +657,7 @@
 655	All I Really Want to Do	The Byrds	Mr. Tambourine Man	INDIFFERENT	2:04	nymd_ToIHB0	MPREb_L9L05TSnMZf	UCWgHSjTVKbR3z-MKow8OydA
 656	Turn! Turn! Turn! (To Everything There Is a Season)	The Byrds	Turn! Turn! Turn!	INDIFFERENT	3:50	vkQlQ6YvGYM	MPREb_ahZCdK6In5e	UCWgHSjTVKbR3z-MKow8OydA
 657	So You Want to Be a Rock 'N' Roll Star	The Byrds	Younger Than Yesterday	INDIFFERENT	2:06	9EiHojlaWrE	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
-654	Kind of a Drag	The Buckinghams	Pop Classics Of The 60's	INDIFFERENT	2:04	CpW_toqriX4	MPREb_CrQOVWlHG6K	UChYLLD4VuF89c39x-cden_A
+654	Kind of a Drag	The Buckinghams	Pop Classics Of The 60's	INDIFFERENT	2:05	CpW_toqriX4	MPREb_CrQOVWlHG6K	UChYLLD4VuF89c39x-cden_A
 648	Soul Deep	The Box Tops	Dimensions	INDIFFERENT	2:28	beB1owW-EzM	MPREb_tJnc4mA8mPt	UC1pX55oPOqJzehRJtsXwF8g
 622	Just A Little	The Beau Brummels	Rock n' Roll Masters: The Beau Brummels	INDIFFERENT	2:19	Jeu9_FK6ud8	MPREb_m91ufr2aLTI	UCx5XuXV61li0FsvI8LJ6qaA
 573	Norwegian Wood (This Bird Has Flown) (Take 1 / Anthology 2 Version)	The Beatles	Anthology 2	INDIFFERENT	2:00	PuJZYI5qomk	MPREb_r9ehGUcIpog	UC2XdaAVUannpujzv32jcouQ
@@ -706,8 +705,9 @@
 828	Bike (Edit) [2001 Remastered Version]	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	3:24	6RKjzC7Tg-4	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
 829	The Final Cut	Pink Floyd	The Final Cut	INDIFFERENT	4:42	tFSRooc9yIQ	MPREb_B876Gc4yjiS	UCO6LS_5W7vqG9mALDNzSFug
 830	Arnold Layne	Pink Floyd	Relics	INDIFFERENT	2:56	sHO8dvEQpaI	MPREb_1YFuDzgPnyn	UCO6LS_5W7vqG9mALDNzSFug
+141	Baby, I Love Your Way	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	4:37	h6vpdMhkenY	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
 823	Something's Happening (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	5:41	pc5Rz-Mpu4o	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
-824	Wind Of Change (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	2:45	c1SZQCaF0b0	MPREb_2kj1IeMoMvI	UCI5RQ0Z0J8whww9HWAYPxGg
+824	Wind Of Change	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	2:45	eJs9SKeVrx0	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
 825	Show Me The Way (Live)	Peter Frampton	Greatest Hits	INDIFFERENT	4:38	SgskNKYQRi0	MPREb_Lc1oBIEo97Z	UCI5RQ0Z0J8whww9HWAYPxGg
 822	A World Without Love	Peter And Gordon	The Ultimate Peter And Gordon	INDIFFERENT	2:41	lFmt1YEQ8WA	MPREb_2P9ASkM1JeR	UCtsF3aggUHhStCT_Vbpxkyw
 821	Rock And Roll Fantasy	Paul Rodgers	Rock and Roll Fantasy	INDIFFERENT	3:34	Qn-GdD1u5A0	MPREb_hTItquocN5e	UCf8UvHCHsorLYHwtl0mfMlw
@@ -745,7 +745,6 @@
 780	Wrecking Ball	Joe Walsh	Analog Man	INDIFFERENT	3:45	YRKQ1-37tVs	MPREb_ekYmDOD22l3	UC0A6t1vuAs0Oi9XwERmFiLw
 778	Draggin' My Tail	Jimmy Page	Before Punk, Vol.2	INDIFFERENT	3:10	QR3t8qqG3oo	MPREb_rQgBNOdci2M	UC9LD4dzqmOKgpLCwQxvTMGg
 779	L.a. Breakdown	Jimmy Page	Slip Crop	INDIFFERENT	2:03	-7K10clJfO8	MPREb_wkyY2JuM2NC	UC9LD4dzqmOKgpLCwQxvTMGg
-680	Station Break (feat. Jimi Hendrix)	Jimi Hendrix		INDIFFERENT	2:34	wDcu15Wb3u0		UC5NwXf8hOgZgInaYiOCZmUg
 777	Lover Man (Live at the Fillmore East, NY - 1/1/70 - 2nd Set)	Jimi Hendrix		INDIFFERENT	3:44	JKfn_50wnH8		UC5NwXf8hOgZgInaYiOCZmUg
 774	Stoned Immaculate	Jim Morrison	An American Prayer	INDIFFERENT	1:33	TbF2T49ud0E	MPREb_aQNx9ibCvYi	UC6IB6Pcqx3LYQZxudR8y2kQ
 775	A Feast of Friends	Jim Morrison	An American Prayer	INDIFFERENT	2:10	zgvOX9OLZzQ	MPREb_aQNx9ibCvYi	UC6IB6Pcqx3LYQZxudR8y2kQ
@@ -761,7 +760,6 @@
 761	Boulevard	Jackson Browne	Hold Out	INDIFFERENT	3:21	Qj74CwUtCX0	MPREb_Wn56oubJXHW	UChA5rox0PiIlow3yi5762bw
 762	Tender Is the Night	Jackson Browne	Lawyers In Love	INDIFFERENT	4:53	9KNuZrEVB70	MPREb_kB78QPvPx1S	UChA5rox0PiIlow3yi5762bw
 763	You Love the Thunder	Jackson Browne	Running On Empty	INDIFFERENT	3:54	izxyq7WSZSE	MPREb_M4cA9e9fm3A	UChA5rox0PiIlow3yi5762bw
-764	The Load Out	Jackson Browne	Running On Empty	INDIFFERENT	5:35	RdbNiUgOJ74	MPREb_M4cA9e9fm3A	UChA5rox0PiIlow3yi5762bw
 758	It's Good News Week	Hedgehoppers Anonymous	Monster Hits From The 20th Century	INDIFFERENT	2:07	L_KS7OKhBew	MPREb_WX9wrUMqCIJ	UCtwFkeOvJQ7daP_Y8sshtMA
 757	Never Been Any Reason	Head East	Flat As A Pancake	INDIFFERENT	5:10	hI8Vg53nuF4	MPREb_Ec0sKjf3hWv	UCGflR6tDU0cVyAjpMnnNsfQ
 756	"Everybody's Talkin' (From ""Midnight Cowboy"")"	Harry Nilsson	Aerial Ballet	INDIFFERENT	2:44	K5UNot9M-ro	MPREb_HhIWY6sI0Cb	UCVlbbMiyHZiH2hNLd0MOMhA
@@ -834,6 +832,7 @@
 687	We Just Disagree	Dave Mason	Let It Flow	INDIFFERENT	3:01	3e8xSISlPJs	MPREb_If67Om91Gde	UCI0Xku1gzTjbYUv3G_wCpdw
 684	Hard to Say	Dan Fogelberg	The Innocent Age	INDIFFERENT	4:00	fGMYk1A84UU	MPREb_fEtHp3ss6ux	UCLoLHtbZAOqrjjiK2RRKS1Q
 685	Leader of the Band	Dan Fogelberg	The Very Best Of Dan Fogelberg	INDIFFERENT	4:19	KwLbdPIOOkM	MPREb_ICTGT2cefGo	UCLoLHtbZAOqrjjiK2RRKS1Q
+680	Station Break (feat. Jimi Hendrix)	Curtis Knight		INDIFFERENT	2:34	wDcu15Wb3u0		UCBYIGeOw8LWjb8U_xR0dCoA
 676	Dark Star	Crosby, Stills & Nash	CSN	INDIFFERENT	4:46	gUUsYurcCZw	MPREb_R1FoBfXsfYS	UC25j4DwEaTkGHCUpQo2mZPQ
 677	Marrakesh Express	Crosby, Stills & Nash	Greatest Hits	INDIFFERENT	2:40	4pIZaU3vmng	MPREb_Fradmz0dFME	UC25j4DwEaTkGHCUpQo2mZPQ
 678	Daylight Again	Crosby, Stills & Nash	Greatest Hits	INDIFFERENT	2:29	pSccg1beW54	MPREb_Fradmz0dFME	UC25j4DwEaTkGHCUpQo2mZPQ
@@ -847,11 +846,11 @@
 666	Born Under A Bad Sign	Cream	Gold	INDIFFERENT	3:09	mpDCUCeYWzk	MPREb_1Il8bwpacgJ	UC_oKib7DXJ7JE5erWrFUbEQ
 668	Wrapping Paper	Cream	The Very Best Of Cream	INDIFFERENT	2:21	A84AktICCg8	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
 669	Deserted Cities Of The Heart	Cream	The Very Best Of Cream	INDIFFERENT	3:38	CwMWEuM-YBM	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
-661	Make Me Smile	Chicago	Chicago IX: Chicago's Greatest Hits	INDIFFERENT	3:02	3HrjLRGTUXU	MPREb_xrNrnPxqfeN	UC8vVfqDySe2dz-wCNcy6jew
-662	Just You 'N' Me (2002 Remaster)	Chicago	Chicago VI (Expanded & Remastered)	INDIFFERENT	3:42	xWCBF8gZ9k0	MPREb_oNbk2Ko0wwV	UC8vVfqDySe2dz-wCNcy6jew
+661	Make Me Smile	Chicago	Chicago IX: Chicago's Greatest Hits	INDIFFERENT	3:03	3HrjLRGTUXU	MPREb_xrNrnPxqfeN	UC8vVfqDySe2dz-wCNcy6jew
+662	Just You 'N' Me (2002 Remaster)	Chicago	Chicago VI (Expanded & Remastered)	INDIFFERENT	3:43	xWCBF8gZ9k0	MPREb_oNbk2Ko0wwV	UC8vVfqDySe2dz-wCNcy6jew
 663	Does Anybody Really Know What Time It Is? (New Edit) [2003 Remaster)	Chicago	The Very Best Of Chicago (Only The Beginning)	INDIFFERENT	3:20	CyEUw37RCEk	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
 664	Old Days (2002 Remaster)	Chicago	The Very Best Of Chicago (Only The Beginning)	INDIFFERENT	3:30	XoXsyMP8v3s	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
-517	Wild World	Cat Stevens	The Best Of Cat Stevens 20th Century Masters The Millennium Collection	INDIFFERENT	3:19	5pcXAr9u_bs	MPREb_kOz1x4TKGrO	UCpzTj29sgB9oSPIuFqy1ShQ
+517	Wild World	Cat Stevens	On The Road To Find Out	INDIFFERENT	3:20	DZs7zyJ3KVc	MPREb_0zUXLYXfpij	UCpzTj29sgB9oSPIuFqy1ShQ
 659	Moonshadow	Cat Stevens	Teaser And The Firecat	INDIFFERENT	2:52	pwPK_JJvPbA	MPREb_PYYbM9OYSoo	UCpzTj29sgB9oSPIuFqy1ShQ
 660	Peace Train	Cat Stevens	Teaser And The Firecat	INDIFFERENT	4:11	vjUyM_xd6IA	MPREb_PYYbM9OYSoo	UCpzTj29sgB9oSPIuFqy1ShQ
 653	One Voice	Brian May	One Voice	INDIFFERENT	3:19	8ldyK1DtkSs	MPREb_tPyhkVwnkFh	UCDylZZI96AVppHRUziwTuCQ
@@ -894,7 +893,7 @@
 610	Mississippi Queen (Live)	Bachman-Turner Overdrive	The All-Time Greatest Hits Live, Vol. 1	INDIFFERENT	4:19	7cKqBx2nY_c	MPREb_0ptrwY3BC4n	UC5mrFYxM2gUV8zkM-kh4rJg
 611	Let It Ride	Bachman-Turner Overdrive	Bachman-Turner Overdrive II	INDIFFERENT	4:27	vKSUQ9ANoOE	MPREb_Txf4Lymr3L6	UC5mrFYxM2gUV8zkM-kh4rJg
 606	Daisy Jane	America	Hearts	INDIFFERENT	3:06	aUtcbkQBOyc	MPREb_MuY5jzvfts4	UCfh0qsQYH1TEyTt0LrRgLOw
-607	Woman Tonight	America	History (America's Greatest Hits)	INDIFFERENT	2:22	k_h7o-hfBJo	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
+607	Woman Tonight	America	History (America's Greatest Hits)	INDIFFERENT	2:23	k_h7o-hfBJo	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
 608	Tin Man	America	Holiday	INDIFFERENT	3:29	uWgJyJNcMIQ	MPREb_P3Pbb9zdnjq	UCfh0qsQYH1TEyTt0LrRgLOw
 609	You Can Do Magic	America	View From The Ground	INDIFFERENT	3:58	M-Z3BAW7o3c	MPREb_ikmJNL4lRnw	UCfh0qsQYH1TEyTt0LrRgLOw
 605	Holdin' on to Yesterday	Ambrosia	Ambrosia	INDIFFERENT	4:20	A1jeVdUo1-I	MPREb_8cwh25aa3K9	UCM_HemrtDWPa5R8PNn33azA
@@ -913,7 +912,7 @@
 180	Breakfast In America	Supertramp	Game Day		2:39	3JT85Qd3u50		
 448	School	Supertramp	Crime Of The Century (Deluxe)		5:35	DfMhmnN6VNk		
 878	Breakfast In America	Supertramp	Breakfast In America		2:39	7BSzftejmGg		
-484	If You Wanna	Paul McCartney	Flaming Pie		4:38	hPeLH0_fBR4		
+484	If You Wanna	Paul McCartney	Flaming Pie		4:37	hPeLH0_fBR4		
 776	Mr Bad Luck	King Solomon	Dirty Work Going On - Kent & Modern Records Blues Into The 60s Vol 1		3:23	YGEh3MEhidQ		
 112	Watching The Wheels	John Lennon	Power To The People: The Hits		3:32	_Dz04Y1jGJs		
 266	Rocky Mountain Way	Joe Walsh	Best Of The Test - The Old Grey Whistle Test		5:13	tnbtgC0r7Pk		

@@ -1,6 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 11	Caesar	Ty Segall	Melted	LIKE	3:30	pPhWIPC6t70	MPREb_Jrsv5eXINE0	UC-Z_sxJOcuEGSq822j9VqNw
 244	Irene	Twin Peaks	Sunken	LIKE	2:37	rOokXli4250	MPREb_FAxytBjt6GU	UC-IEGAj8jq4i3em-6Pztp6w
+333	Currency	The Black Angels	Death Song	LIKE	5:17	0wHJp0LxeRs	MPREb_mmcd4843ue6	UCdMCMtXUYb-9gvK1srSECuQ
+2	Golden Light	STRFKR	Miracle Mile	LIKE	4:43	85r9gP4w8Pw	MPREb_fwZfZd3MbWc	UCL6qpCZZBTfp1MtI3bmL7jw
 252	Offer	together PANGEA	Badillac	INDIFFERENT	2:26	fW3oyBcdQB4	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
 18	Cosmic Flower	levitation room	Ethos	INDIFFERENT	1:54	zY3NLqRnuPM	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
 47	Loved	levitation room	Minds Of Our Own	INDIFFERENT	3:52	-_yp3DrMwSM	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
@@ -101,20 +103,19 @@
 58	Light or Night	The Holydrug Couple	Moonlust	INDIFFERENT	3:57	_OOS86g1_WU	MPREb_49IG41w8SEL	UCa9j6qYsEFttptJN-DpmSyA
 93	Paisley	The Holydrug Couple	Noctuary	INDIFFERENT	4:32	gZ3AEP8hZXg	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
 107	Wonder	The Holydrug Couple	Noctuary	INDIFFERENT	3:37	beQb8wXCxJk	MPREb_YlEOeEXInXd	UCa9j6qYsEFttptJN-DpmSyA
-8	One Million Lovers	The Growlers	Hung at Heart	INDIFFERENT	4:43	0tYXQ5DbqHo	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-73	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:39	b1YHYyzhREE	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
-89	Nobody Owns You	The Growlers	Gilded Pleasures	INDIFFERENT	2:41	FGa1dipKEv4	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-106	Dogheart II	The Growlers	Gilded Pleasures	INDIFFERENT	2:52	XluMlhw1t2o	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-123	Underneath Our Palms	The Growlers	Hot Tropics	INDIFFERENT	3:10	EBGhnmidF-c	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
-143	Hiding Under Covers	The Growlers	Gilded Pleasures	INDIFFERENT	2:49	UDYsw8stGCM	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
-264	Living in a Memory	The Growlers	Hung at Heart	INDIFFERENT	3:16	Gci7FwtsYd4	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+8	One Million Lovers	The Growlers	Hung at Heart	INDIFFERENT	4:43	D6joAtmj7YY	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+73	The Fruit Is for Everyone	The Growlers	Hung at Heart	INDIFFERENT	1:39	kwCbkh6mv1Q	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
+89	Nobody Owns You	The Growlers	Gilded Pleasures	INDIFFERENT	2:41	EsRPuIUzduQ	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+106	Dogheart II	The Growlers	Gilded Pleasures	INDIFFERENT	2:52	PjEntKV8Ck0	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+123	Underneath Our Palms	The Growlers	Hot Tropics	INDIFFERENT	3:10	R0nP-sL6zDI	MPREb_SP3Esb0urdU	UCJNle5_HHB85Hsm8kM7aTHg
+143	Hiding Under Covers	The Growlers	Gilded Pleasures	INDIFFERENT	2:49	EL9mAARVWbk	MPREb_PeDfBwh1tlH	UCJNle5_HHB85Hsm8kM7aTHg
+264	Living in a Memory	The Growlers	Hung at Heart	INDIFFERENT	3:16	Ht11YKBUcRo	MPREb_Bwifu3nmpig	UCJNle5_HHB85Hsm8kM7aTHg
 338	Super-Sonic	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:16	4iJRZ4mfMFY	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
 339	Their Satanic Majesties' Second Request (Enrique's Dream)	The Brian Jonestown Massacre	Give It Back!	INDIFFERENT	5:36	6Xq9J4KgJjg	MPREb_F1VmfZlYMfg	UCXybUoBoCwQntpbpblywN4Q
 340	Spacegirl (Revisited)	The Brian Jonestown Massacre	Spacegirl And Other Favourites	INDIFFERENT	5:21	O40Isj52Fwk	MPREb_aSOGJCqPGbw	UCXybUoBoCwQntpbpblywN4Q
 113	An Occurrence at 4507 South Third Street	The Black Angels	Clear Lake Forest	INDIFFERENT	3:20	BzMoJy5A5Qg	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 130	Sunday Evening	The Black Angels	Clear Lake Forest	INDIFFERENT	3:40	yIE9kL4118k	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 332	Young Men Dead	The Black Angels	Crash (Music from the Original TV Series), Vol. 1	INDIFFERENT	5:34	SdRFHyL1vTo	MPREb_er6eeMaHx72	UCdMCMtXUYb-9gvK1srSECuQ
-333	Currency	The Black Angels	Death Song	INDIFFERENT	5:17	0wHJp0LxeRs	MPREb_mmcd4843ue6	UCdMCMtXUYb-9gvK1srSECuQ
 334	Science Killer	The Black Angels	Directions to See a Ghost	INDIFFERENT	4:45	4ugourjV3Gw	MPREb_nMUEZHXLo8f	UCdMCMtXUYb-9gvK1srSECuQ
 335	Doves (From Directions To See A Ghost)	The Black Angels	Light In the Attic Label Sampler	INDIFFERENT	4:30	q9WyLQHKh5A	MPREb_dcvMfUAogzV	UCdMCMtXUYb-9gvK1srSECuQ
 336	The Sniper At The Gates Of Heaven	The Black Angels	Passover	INDIFFERENT	4:16	zczkMCrNvsg	MPREb_ZGqvQtzfLgP	UCdMCMtXUYb-9gvK1srSECuQ
@@ -138,7 +139,6 @@
 51	Mandala	Skinshape	Oracolo	INDIFFERENT	5:45	Bx_XmIRjYr4	MPREb_efDqXhANV2f	UCil1XLYzKqVoM_2C_4tyOLA
 178	The Frontier Index	Silver Jews	The Natural Bridge	INDIFFERENT	3:38	f09NRpNQMbw	MPREb_BgQ50xPinSD	UCzr7LtGsgkGCMT0jHGCkVIw
 165	Jealous of Jesus	Sentridoh	Weed Forestin'	INDIFFERENT	1:47	Yc09GdgCOjg	MPREb_JtfVvOTtKFa	UCc7MT5f-emzQaXCflfsa4fA
-2	Golden Light	STRFKR	Miracle Mile	INDIFFERENT	4:43	85r9gP4w8Pw	MPREb_fwZfZd3MbWc	UCL6qpCZZBTfp1MtI3bmL7jw
 366	Brain Cycles	Radio Moscow	Brain Cycles	INDIFFERENT	3:23	Qm5daqD4Xzo	MPREb_s30YPD46rxh	UCCGMPJ9VBQ_lFS7uKG4nYCA
 77	FBI	Psychic Ills	One Track Mind	INDIFFERENT	3:33	ac23g8kXyB4	MPREb_dKEYCwNcXe8	UC-7fMxbBr9ghvyQXWigUS3Q
 85	Mind Daze	Psychic Ills	Hazed Dream	INDIFFERENT	3:38	OMaZEl8alBA	MPREb_3j8ri3MoqTk	UC-7fMxbBr9ghvyQXWigUS3Q
@@ -180,7 +180,7 @@
 298	The Baron Sleeps and Dreams	OCS	Memory Of A Cut Off Head	INDIFFERENT	3:34	ieD7Lzb6EmI	MPREb_SyhXVopwcnF	UCy-Gzb-aCE1vWkbwQZaoIXQ
 307	Lift a Finger By The Garden Path	OCS	Memory Of A Cut Off Head	INDIFFERENT	4:27	sGQ1JGUa44M	MPREb_SyhXVopwcnF	UCy-Gzb-aCE1vWkbwQZaoIXQ
 171	Here Should Be My Home	No Age	Nouns	INDIFFERENT	2:05	UXpdCHaZ1t8	MPREb_jaClSf2rCCT	UCLb8ArAGcph1wYPi64_V0BQ
-184	My Life's Alright Without You	No Age	Weirdo Rippers	INDIFFERENT	1:59	Cdsu6BlLsRA	MPREb_Mxz0U5JIE5j	UCLb8ArAGcph1wYPi64_V0BQ
+184	My Life's Alright Without You	No Age	Weirdo Rippers	INDIFFERENT	2:00	pq9ASvgA6N8	MPREb_r5uJnoWjibz	UCLb8ArAGcph1wYPi64_V0BQ
 205	Dusted	No Age	Everything In Between	INDIFFERENT	2:43	xWSKE2YVx1M	MPREb_ZvuAk6l6D10	UCLb8ArAGcph1wYPi64_V0BQ
 229	Things I Did When I Was Dead	No Age	Nouns	INDIFFERENT	2:29	a9sjxACDl10	MPREb_jaClSf2rCCT	UCLb8ArAGcph1wYPi64_V0BQ
 114	Sonic Bloom	Night Beats	Sonic Bloom	INDIFFERENT	4:48	TQABQPaB9W8	MPREb_d09WDnUDiFu	UC7TdjdmgLjRvuKK-F7E8JEQ
@@ -242,7 +242,7 @@
 358	Anoxia	King Gizzard & The Lizard Wizard	Flying Microtonal Banana	INDIFFERENT	3:04	VdqQkDHRmng	MPREb_4GNlH4wHayL	UC-3mACkWPK3QluQYi5dHQCA
 359	Hot Wax	King Gizzard & The Lizard Wizard	Oddments	INDIFFERENT	3:30	XbQtKrnV9FU	MPREb_FJtUYYWtMbZ	UC-3mACkWPK3QluQYi5dHQCA
 33	Kogarashi	Kikagaku Moyo	House in the Tall Grass	INDIFFERENT	4:41	9B9PJRFJWPM	MPREb_m8BZBND5riT	UCNaS4ou9KLFO5YjEQkjuUwA
-148	Streets of Calcutta	Kikagaku Moyo	Forest of Lost Children	INDIFFERENT	3:56	OVktBM2wLmQ	MPREb_ZISC3DZzyyg	UCNaS4ou9KLFO5YjEQkjuUwA
+148	Streets of Calcutta	Kikagaku Moyo	Forest of Lost Children	INDIFFERENT	3:56	SP4VCHuCeLk	MPREb_ZISC3DZzyyg	UCNaS4ou9KLFO5YjEQkjuUwA
 154	Old Snow, White Sun	Kikagaku Moyo	House in the Tall Grass	INDIFFERENT	3:25	km9hAp3tfN8	MPREb_m8BZBND5riT	UCNaS4ou9KLFO5YjEQkjuUwA
 297	Melted Crystal	Kikagaku Moyo	House in the Tall Grass	INDIFFERENT	5:30	ThGTYTMvv30	MPREb_m8BZBND5riT	UCNaS4ou9KLFO5YjEQkjuUwA
 251	The Ballad of Arlo Jones	Kevin Morby	Still Life	INDIFFERENT	2:46	pZhs2m27x6U	MPREb_CbXqQdIlcHX	UC5f6zyIPpGOWL0_ZAcwSBqA
@@ -289,12 +289,12 @@
 141	There's Blood on the Stone	Gap Dream	Shine Your Light	INDIFFERENT	3:19	z6mGZ6i6cfY	MPREb_kaAmWNrzXr1	UCq6zO6Ov4G390wqvchRFoew
 158	Immediate Life Sentence	Gap Dream	Shine Your Light	INDIFFERENT	3:36	vsJVDjTqO9o	MPREb_kaAmWNrzXr1	UCq6zO6Ov4G390wqvchRFoew
 176	Cold Night	Galaxie 500	On Fire	INDIFFERENT	2:36	HKnSR_JE_38	MPREb_VdoWDaDHW5D	UCfteAdNqNAwCKV-9PZOVD8g
-0	The Sky Opened Up	GUM	Delorean Highway	INDIFFERENT	2:29	g4I780UTE-c	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
+0	The Sky Opened Up	GUM	Delorean Highway	INDIFFERENT	2:29	DqsIhCrvn4w	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
 15	If You're Gonna Love Again	GUM	Flash in the Pan	INDIFFERENT	3:50	xQUxdTG2wIw	MPREb_esiGfR4BORU	UC4FKlRxemR7reIi_vmmPjhw
-35	New Eyes	GUM	Glamorous Damage	INDIFFERENT	5:13	69xje17G-0c	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
-40	R.Y.K	GUM	Glamorous Damage	INDIFFERENT	5:23	OVnEtyiVVL4	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
-55	Elafonissi Blue	GUM	Glamorous Damage	INDIFFERENT	4:16	ITt4rgE7YBU	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
-149	Delorean Highway	GUM	Delorean Highway	INDIFFERENT	3:30	4FnmqCa_npw	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
+35	New Eyes	GUM	Glamorous Damage	INDIFFERENT	5:13	DK5sGWyn-o0	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
+40	R.Y.K	GUM	Glamorous Damage	INDIFFERENT	5:23	z3lGeTM0zw8	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
+55	Elafonissi Blue	GUM	Glamorous Damage	INDIFFERENT	4:16	14VP3Mlkboc	MPREb_GEOkWDjOIrM	UC4FKlRxemR7reIi_vmmPjhw
+149	Delorean Highway	GUM	Delorean Highway	INDIFFERENT	3:30	khDF3yNRw5U	MPREb_ZuUL2U92c6j	UC4FKlRxemR7reIi_vmmPjhw
 132	Sunderberry Dream	Fuzz	Sunderberry Dream	INDIFFERENT	2:31	4yV2rmadCOU	MPREb_vVOf30tZ7QP	UCZ5wcF_rfHH6bgLejJjqFMw
 277	New Flesh	Fuzz	II	INDIFFERENT	2:31	twrwwZG_cR8	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
 290	Rat Race	Fuzz	II	INDIFFERENT	2:45	IlE7jyVqZDQ	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
