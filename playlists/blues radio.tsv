@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 84	The Thrill Is Gone	B.B. King	Completely Well	LIKE	5:25	kpC69qIe02E	MPREb_wX76uFiI9sJ	UCqKrqzF3eX7R17m_MIMte4w
-18	I Ain't Superstitious	Willie Dixon	I Am The Blues	INDIFFERENT	4:04	ZIxL47tPnp0	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
-32	The Seventh Son	Willie Dixon	I Am The Blues	INDIFFERENT	4:15	llOo7OmnmYA	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
+18	I Ain't Superstitious	Willie Dixon	I Am The Blues	INDIFFERENT	4:05	ZIxL47tPnp0	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
+32	The Seventh Son	Willie Dixon	I Am The Blues	INDIFFERENT	4:16	llOo7OmnmYA	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
 171	Walking The Blues	Willie Dixon	The Original Wang Dang Doodle	INDIFFERENT	3:05	Z8oKiX5q3rI	MPREb_cbyb6qe64St	UCqjv56WoIUXuzrpdRUufR-A
 174	The Seventh Son	Willie Dixon	Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)	INDIFFERENT	4:14	RffWiXScXZs	MPREb_NH3ZtKkHCPQ	UCqjv56WoIUXuzrpdRUufR-A
 185	I'm Your Hoochie Coochie Man	Willie Dixon	Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)	INDIFFERENT	4:47	cUikqW6UWAI	MPREb_NH3ZtKkHCPQ	UCqjv56WoIUXuzrpdRUufR-A
@@ -29,7 +29,7 @@
 37	Motherless Children	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	4:27	q0W_BOfX3fM	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
 59	Levee Camp Moan (Alternate Take)	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	4:50	Vpq8w0iSLdA	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
 78	Louise McGhee	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	6:11	GY7yZiIG-Aw	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
-192	Death Letter	Son House		INDIFFERENT	4:20	5UrvKLLKVZA		UCxo6H7Jta2YNrdk6a9cch6w
+192	Death Letter	Son House	Warming By The Devils Fire - A Film By Charles Burnett	INDIFFERENT	4:20	5UrvKLLKVZA	MPREb_3ku4s6lFeDO	UCxo6H7Jta2YNrdk6a9cch6w
 205	Empire State Express	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	3:39	WN98EMjmhjU	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
 207	Am I Right or Wrong	Son House	Essential Blues Masters	INDIFFERENT	1:48	jbcKalQogWs	MPREb_E3k6mMmogtH	UCxo6H7Jta2YNrdk6a9cch6w
 108	Got to Get You off My Mind	Solomon Burke	Rhino Hi-Five: Solomon Burke	INDIFFERENT	2:36	BCSLS56E2As	MPREb_7LdR9m0cPya	UCwIioEkBeMVDvsq0i6o5nvw
@@ -40,7 +40,7 @@
 53	Stones In My Passway	Robert Johnson	Love In Vain	INDIFFERENT	2:29	Dp9wUJcAFzw	MPREb_NzP1MtwzSzm	UCjcp3ChO5oUZyx3f0FnGVUA
 60	If I Had Possession Over Judgement Day	Robert Johnson	King Of The Delta Blues Singers	INDIFFERENT	2:37	w2-AYZ-0b0Y	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
 65	Kindhearted Woman Blues	Robert Johnson	King of the Delta Blues SIngers	INDIFFERENT	2:50	6eHeZkf5KOE	MPREb_4idEe6UxXfU	UCjcp3ChO5oUZyx3f0FnGVUA
-79	Ramblin' On My Mind	Robert Johnson	King Of The Delta Blues Singers (Volume 2)	INDIFFERENT	2:53	NkyEe3jrGPA	MPREb_AywYdbMV3WB	UCjcp3ChO5oUZyx3f0FnGVUA
+79	Ramblin' On My Mind	Robert Johnson	King Of The Delta Blues Singers (Volume 2)	INDIFFERENT	2:54	NkyEe3jrGPA	MPREb_AywYdbMV3WB	UCjcp3ChO5oUZyx3f0FnGVUA
 178	Walking Blues	Robert Johnson	King of the Delta Blues SIngers	INDIFFERENT	2:29	D3IqGNvEeRM	MPREb_4idEe6UxXfU	UCjcp3ChO5oUZyx3f0FnGVUA
 190	Preaching Blues	Robert Johnson	Crossroad Blues	INDIFFERENT	2:49	EcpwNuNV81g	MPREb_y9aVWzIZOHJ	UCjcp3ChO5oUZyx3f0FnGVUA
 198	Come On In My Kitchen	Robert Johnson	The Skeleton Key (Original Motion Picture Soundtrack)	INDIFFERENT	2:49	2sh483rVV2Y	MPREb_EZO1fsbsSP2	UCjcp3ChO5oUZyx3f0FnGVUA
@@ -148,7 +148,7 @@
 93	What A Diff'rence A Day Makes	Dinah Washington	20th Century Masters: The Best Of Dinah Washington - The Millennium Collection	INDIFFERENT	2:31	kxhk9mYFfzQ	MPREb_dcEYa4n5fBf	UCyJMoW5XxogEfARq3tx18fQ
 41	High Sheriff Blues	Charlie Patton	Founder Of The Delta Blues	INDIFFERENT	3:13	h-guTGU-Fsc	MPREb_kMSjQww8hyM	UChgqUv_teGypvyjv4BpsLEA
 50	Stone Pony Blues	Charlie Patton	Founder Of The Delta Blues	INDIFFERENT	2:53	uxnoTPuhaSY	MPREb_kMSjQww8hyM	UChgqUv_teGypvyjv4BpsLEA
-73	Revenue Man Blues	Charlie Patton	Primeval Blues, Rags, And Gospel Songs	INDIFFERENT	2:42	Cmxt0-GoJiE	MPREb_4q9deewwYjG	UChgqUv_teGypvyjv4BpsLEA
+73	Revenue Man Blues	Charley Patton - Topic		INDIFFERENT	2:42	L95Uqx5FqeM		UChgqUv_teGypvyjv4BpsLEA
 199	Spoonful Blues	Charley Patton	The History of Blues One	INDIFFERENT	3:12	pyRCV2wClig	MPREb_HaKRSPBW63l	UChgqUv_teGypvyjv4BpsLEA
 203	Pony Blues	Charley Patton	The History of Blues One	INDIFFERENT	3:00	95BKMEm62Gw	MPREb_HaKRSPBW63l	UChgqUv_teGypvyjv4BpsLEA
 83	B-A-B-Y	Carla Thomas	Songs of Isaac Hayes	INDIFFERENT	2:55	nNiGNstIujs	MPREb_5i8AlOAsLsG	UCXzap6tYtWJkURPa6cFq6GQ
@@ -176,7 +176,7 @@
 63	Lord I Just Can't Keep from Crying	Blind Willie Johnson	Blind Willie Johnson - Greatest Hits	INDIFFERENT	3:02	ZNtdnu4hnjA	MPREb_DTiqPLxng0a	UCp_csxupcgSwZa1glwDo2eQ
 77	Church, I'm Fully Saved Today	Blind Willie Johnson	The Complete Blind Willie Johnson	INDIFFERENT	3:06	vKV0ZEjg3_A	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
 201	Dark Was The Night (Cold Was The Ground)	Blind Willie Johnson	The Great Depression - American Music In The 30's	INDIFFERENT	3:21	qasPCNQuo88	MPREb_mQsZ8rGKnv7	UCp_csxupcgSwZa1glwDo2eQ
-46	Match Box Blues	Blind Lemon Jefferson	The Best Of Blind Lemon Jefferson	INDIFFERENT	3:01	R6toJNK4apQ	MPREb_npinSDibC4y	UCRfO0n1ycrnalER8PlGVlKw
+46	Match Box Blues	Blind Lemon Jefferson		INDIFFERENT	3:01	ZbySLOn4_Qg		UCRfO0n1ycrnalER8PlGVlKw
 68	Right of Way Blues	Blind Lemon Jefferson	See That My Grave Is Kept Clean	INDIFFERENT	2:54	IWjojpFq4jM	MPREb_vrMaflGFjcI	UCRfO0n1ycrnalER8PlGVlKw
 85	Fine And Mellow	Billie Holiday & Her Orchestra	Billie Holiday	INDIFFERENT	3:17	wNj409R8JWE	MPREb_aDWoN3isOiI	UCW-raws5Iq2xLADkLcEoVaA
 103	Lover Come Back To Me	Billie Holiday	Best Of The Blues - 50 Favorites	INDIFFERENT	2:21	7Ovudo5MObg	MPREb_2zXynDXFyl1	UCW-raws5Iq2xLADkLcEoVaA
