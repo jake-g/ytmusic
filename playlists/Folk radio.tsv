@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 165	Walk Right In	The Rooftop Singers	Vanguard Folk Sampler	LIKE	2:38	yDUMImLjYss	MPREb_LS4tZ8aiCqO	UCC1cy7ZVAU9VY9WCZHa_pnQ
+157	Leaving on a Jet Plane	Peter, Paul & Mary	Album 1700	LIKE	3:28	rr1sTloviTQ	MPREb_jzSunf5rz5H	UC3C92IWnn3aDkbUdigKcdFA
 43	Pastures Of Plenty	Woody Guthrie	Columbia River Collection	INDIFFERENT	2:24	_gM9pEMHLqI	MPREb_oFX1vaplJc9	UCgbCJIqwRQbo8xuVWvQFqYg
 60	John Henry	Woody Guthrie	Early Years	INDIFFERENT	2:43	rxo1w18DGpA	MPREb_xEfX0kBWX8M	UCgbCJIqwRQbo8xuVWvQFqYg
 107	Tear Down the Walls	Vince Martin & Fred Neil	Tear Down The Walls	INDIFFERENT	2:37	m5btrfjrsAY	MPREb_96D3lOeIfx4	UC3jRDV_Lb5s_Ey3GPoXkJIQ
@@ -42,7 +43,6 @@
 137	Mary Had a Baby	The Folksmiths	We've Got Some Singing to Do	INDIFFERENT	1:39	hRPA42qrrwE	MPREb_rQvP58qB4Hx	UC7GngwURY8UDsVCuENYW9Vw
 16	Can the Circle Be Unbroken	The Carter Family	Columbia Country Classics Volume 1: The Golden Age	INDIFFERENT	3:07	pEFTdmk9g1c	MPREb_XlP3ESDQxKw	UCv_9IkaKaqx0JiGT4AhUc7Q
 31	Wildwood Flower	The Carter Family	RCA Country Legends	INDIFFERENT	3:09	XT2AdYytaxw	MPREb_ShYj0pwbH3R	UCv_9IkaKaqx0JiGT4AhUc7Q
-5	Turn! Turn! Turn! (To Everything There Is a Season)	The Byrds	Turn! Turn! Turn!	INDIFFERENT	3:50	vkQlQ6YvGYM	MPREb_ahZCdK6In5e	UCWgHSjTVKbR3z-MKow8OydA
 47	Jack O’Diamonds	Terry Callier	The New Folk Sound Of Terry Callier (Deluxe Edition)	INDIFFERENT	5:38	F4rc5GKTU_I	MPREb_WbW4V7KIKqp	UC3ajF1efjPmFQIbsyspnKHQ
 162	900 Miles	Terry Callier	The New Folk Sound Of Terry Callier (Deluxe Edition)	INDIFFERENT	5:08	yz6KxA_48Q4	MPREb_WbW4V7KIKqp	UC3ajF1efjPmFQIbsyspnKHQ
 175	Johnny Be Gay If You Can Be	Terry Callier	The New Folk Sound Of Terry Callier (Deluxe Edition)	INDIFFERENT	4:26	v7jhSu-J6As	MPREb_WbW4V7KIKqp	UC3ajF1efjPmFQIbsyspnKHQ
@@ -86,7 +86,6 @@
 153	Puff, the Magic Dragon	Peter, Paul and Mary	(Moving)	INDIFFERENT	3:27	s26e_86-K0k	MPREb_RpU24xiWgd4	UC3C92IWnn3aDkbUdigKcdFA
 163	Day Is Done	Peter, Paul and Mary	Peter, Paul and Mommy	INDIFFERENT	3:17	I_3rvMknc4k	MPREb_oLeoSk9mwfG	UC3C92IWnn3aDkbUdigKcdFA
 145	Blowin' in the Wind	Peter, Paul & Mary	In the Wind	INDIFFERENT	2:58	33x39rRDGz0	MPREb_miEo92SEpFT	UC3C92IWnn3aDkbUdigKcdFA
-157	Leaving on a Jet Plane	Peter, Paul & Mary	Album 1700	INDIFFERENT	3:28	rr1sTloviTQ	MPREb_jzSunf5rz5H	UC3C92IWnn3aDkbUdigKcdFA
 160	500 Miles	Peter, Paul & Mary	Peter, Paul and Mary	INDIFFERENT	2:43	fWhktSucgsU	MPREb_B0Hba9PpsZW	UC3C92IWnn3aDkbUdigKcdFA
 35	We Shall Overcome (Live)	Pete Seeger	Pete Seeger's Greatest Hits	INDIFFERENT	4:40	kkOEQW4j0ls	MPREb_0XlH6KrawYB	UC6J7zes7i6Fr2GmwkadEq-w
 41	If I Had a Hammer (Hammer Song)	Pete Seeger	Love Songs for Friends and Foes	INDIFFERENT	1:55	pf4QmcBN_gE	MPREb_NMpZNvSdNQv	UC6J7zes7i6Fr2GmwkadEq-w
@@ -159,7 +158,7 @@
 11	Mr. Bojangles	Jerry Jeff Walker	Mr. Bojangles	INDIFFERENT	5:29	fM6x5WG0DWw	MPREb_bz92I8wi915	UCQBoRr29WiajIo-MhEL28RA
 3	At Seventeen	Janis Ian	Between the Lines ()	INDIFFERENT	4:43	J2QsXlhqMX4	MPREb_NfO4WnbQLaH	UCf1McDQn3hxpbqnGZNPIp6g
 20	Four Strong Winds	Ian & Sylvia	Four Strong Winds	INDIFFERENT	3:30	mBiLKTmRqkY	MPREb_JVQcnpchq4P	UCxyFIMd0QZ_9JghnwBbqdWg
-25	Some Day Soon	Ian & Sylvia	Northern Journey	INDIFFERENT	2:22	903ps4-lu7Q	MPREb_HmH5D7B5D4Y	UCxyFIMd0QZ_9JghnwBbqdWg
+25	Some Day Soon	Ian & Sylvia	Northern Journey	INDIFFERENT	2:21	903ps4-lu7Q	MPREb_HmH5D7B5D4Y	UCxyFIMd0QZ_9JghnwBbqdWg
 81	Euphoria	Holy Modal Rounders	1 & 2	INDIFFERENT	1:31	mZs0rfyuNCI	MPREb_FZKqtIFL2vz	UCOZU_xLoN4Oeq8PKaerQoxA
 87	The Cuckoo	Holy Modal Rounders	1 & 2	INDIFFERENT	3:05	yoqykmVkBVs	MPREb_FZKqtIFL2vz	UCOZU_xLoN4Oeq8PKaerQoxA
 10	Early Mornin' Rain	Gordon Lightfoot	The United Artists Collection	INDIFFERENT	3:09	WZ6dWyT-K1A	MPREb_EmRHEywXA6T	UCEx92reYe5I762oF5knkO2w
