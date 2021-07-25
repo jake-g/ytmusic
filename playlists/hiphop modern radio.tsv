@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+303	Where This Flower Blooms (feat. Frank Ocean)	Tyler, The Creator	Flower Boy	LIKE	3:15	1gAHhLb6tjA	MPREb_8DCHgYVRKEg	UCo1DYcm1IZ9v3UPkpiAcgtg
 293	untitled 08 | 09.06.2014.	Kendrick Lamar	untitled unmastered.	LIKE	3:55	JXikcHwPolM	MPREb_ijcPSPM2Isl	UCprAFmT0C6O4X0ToEXpeFTQ
 315	untitled 06 | 06.30.2014.	Kendrick Lamar	untitled unmastered.	LIKE	3:28	fZ2pXyBBwsQ	MPREb_ijcPSPM2Isl	UCprAFmT0C6O4X0ToEXpeFTQ
 664	LAND OF THE FREE	Joey Bada$$	ALL-AMERIKKKAN BADA$$	LIKE	4:44	3qfm0aFutNY	MPREb_kc2Ccmqs31T	UCCQZCaEwq3-mc5pj8be31Uw
@@ -90,7 +91,6 @@
 183	48	Tyler, The Creator	Wolf	INDIFFERENT	4:08	4DZuvcBj70w	MPREb_ZEurlrvAC2F	UCo1DYcm1IZ9v3UPkpiAcgtg
 208	Treehome95 (feat. Coco Owino & Erykah Badu)	Tyler, The Creator	Wolf	INDIFFERENT	3:01	kpVpEnP7ELM	MPREb_ZEurlrvAC2F	UCo1DYcm1IZ9v3UPkpiAcgtg
 216	Rusty (feat. Domo Genesis & Earl Sweatshirt)	Tyler, The Creator	Wolf	INDIFFERENT	5:10	4fGyXDiGvXQ	MPREb_ZEurlrvAC2F	UCo1DYcm1IZ9v3UPkpiAcgtg
-303	Where This Flower Blooms (feat. Frank Ocean)	Tyler, The Creator	Flower Boy	INDIFFERENT	3:15	1gAHhLb6tjA	MPREb_8DCHgYVRKEg	UCo1DYcm1IZ9v3UPkpiAcgtg
 453	Answer	Tyler, The Creator	Wolf	INDIFFERENT	3:51	QIuIdZ_L4iY	MPREb_ZEurlrvAC2F	UCo1DYcm1IZ9v3UPkpiAcgtg
 598	Slater (feat. Frank Ocean)	Tyler, The Creator	Wolf	INDIFFERENT	3:54	FD-0K8G3Nyk	MPREb_ZEurlrvAC2F	UCo1DYcm1IZ9v3UPkpiAcgtg
 614	Awkward	Tyler, The Creator	Wolf	INDIFFERENT	3:48	aG3mbIZY92E	MPREb_ZEurlrvAC2F	UCo1DYcm1IZ9v3UPkpiAcgtg
@@ -490,10 +490,10 @@
 350	Find a Topic (homies begged)	Isaiah Rashad	The Sun's Tirade	INDIFFERENT	2:46	9mejP3DpNqM	MPREb_UauA3L1bFke	UCnadtBjRhVZzRhro9CZPcSg
 597	Ronnie Drake (feat. SZA)	Isaiah Rashad	Cilvia Demo	INDIFFERENT	3:18	5yYq5Z78yrE	MPREb_qXECWyxsCS6	UCnadtBjRhVZzRhro9CZPcSg
 631	Dressed Like Rappers	Isaiah Rashad	The Sun's Tirade	INDIFFERENT	3:26	O1dRcRvSq7E	MPREb_UauA3L1bFke	UCnadtBjRhVZzRhro9CZPcSg
-347	Oh Shit!!!	Injury Reserve	Floss	INDIFFERENT	4:16	UMtdDXGGGPo	MPREb_Avzi7Sc08Se	UCLkVL4AEzj8c9lHBjuW5v8w
-376	All Quiet on the West Side	Injury Reserve	Floss	INDIFFERENT	2:39	zj_pjk0ZjzI	MPREb_Avzi7Sc08Se	UCLkVL4AEzj8c9lHBjuW5v8w
-615	Back Then	Injury Reserve	Floss	INDIFFERENT	3:20	ZT9DH1VWcrA	MPREb_Avzi7Sc08Se	UCLkVL4AEzj8c9lHBjuW5v8w
-649	No Words	IDK	IWASVERYBAD	INDIFFERENT	2:00	0zeNGNC_Qbc	MPREb_GlFtwxbj4sc	UCQfMblWBxaS1e9cDDKS5cvQ
+347	Oh Shit!!!	Injury Reserve	Floss	INDIFFERENT	4:17	UMtdDXGGGPo	MPREb_Avzi7Sc08Se	UCLkVL4AEzj8c9lHBjuW5v8w
+376	All Quiet on the West Side	Injury Reserve	Floss	INDIFFERENT	2:40	zj_pjk0ZjzI	MPREb_Avzi7Sc08Se	UCLkVL4AEzj8c9lHBjuW5v8w
+615	Back Then	Injury Reserve	Floss	INDIFFERENT	3:21	ZT9DH1VWcrA	MPREb_Avzi7Sc08Se	UCLkVL4AEzj8c9lHBjuW5v8w
+649	No Words	IDK	IWASVERYBAD	INDIFFERENT	2:01	7DkL5sTQRAg	MPREb_GlFtwxbj4sc	UCQfMblWBxaS1e9cDDKS5cvQ
 310	Kokamoe Freestyle	GoldLink	At What Cost	INDIFFERENT	3:44	Nypeo50oQks	MPREb_BjISHgULobG	UCYjJEXvzfS5Jif1Jj7sOvBQ
 648	Same Clothes As Yesterday (feat. Ciscero)	GoldLink	At What Cost	INDIFFERENT	3:21	QUKnudcbXAg	MPREb_BjISHgULobG	UCYjJEXvzfS5Jif1Jj7sOvBQ
 557	Emergency Procedure (feat. Pharoahe Monch & Pharaohe Monch)	Ghostface Killah	36 Seasons	INDIFFERENT	2:43	w6ub36k71Xw	MPREb_8hTQs0Ip6AU	UC9BR9FK85Ez13EZ34Z5yZnw
@@ -625,9 +625,9 @@
 403	Deserve It (feat. PARTYNEXTDOOR)	Big Sean	Dark Sky Paradise (Deluxe)	INDIFFERENT	4:21	O-QwtgOt9YU	MPREb_UBdKow5FsmD	UCm3ai8dGs4olHioc_xL3IXA
 513	Nothing Is Stopping You	Big Sean	Hall Of Fame (Deluxe)	INDIFFERENT	5:03	QoyJkq80TAw	MPREb_Glq6v4YyMvH	UCm3ai8dGs4olHioc_xL3IXA
 514	One Man Can Change The World (feat. Kanye West & John Legend)	Big Sean	Dark Sky Paradise	INDIFFERENT	4:14	LqLdhcPu5vk	MPREb_CRBS9mP7uQg	UCm3ai8dGs4olHioc_xL3IXA
-510	Cadillactica	Big K.R.I.T.	Cadillactica	INDIFFERENT	4:28	ikad_21edjY	MPREb_91jsQrwm8pw	UCh7bArXKWY3LieZfeBRHCuw
-511	King Of The South	Big K.R.I.T.	Cadillactica	INDIFFERENT	3:32	6CgwK6SyqHk	MPREb_91jsQrwm8pw	UCh7bArXKWY3LieZfeBRHCuw
-512	Standby (Interlude)	Big K.R.I.T.	Cadillactica	INDIFFERENT	1:39	dSZ7oLQu85g	MPREb_91jsQrwm8pw	UCh7bArXKWY3LieZfeBRHCuw
+510	Cadillactica	Big K.R.I.T.	Cadillactica	INDIFFERENT	4:28	ikad_21edjY	MPREb_91jsQrwm8pw	UCa9FjiSKRSzqnwW_kkVR48g
+511	King Of The South	Big K.R.I.T.	Cadillactica	INDIFFERENT	3:32	6CgwK6SyqHk	MPREb_91jsQrwm8pw	UCa9FjiSKRSzqnwW_kkVR48g
+512	Standby (Interlude)	Big K.R.I.T.	Cadillactica	INDIFFERENT	1:39	dSZ7oLQu85g	MPREb_91jsQrwm8pw	UCa9FjiSKRSzqnwW_kkVR48g
 641	Grey Luh	Berhana	Berhana	INDIFFERENT	4:21	yVldKvSlpoI	MPREb_JBAG5MFPb2P	UCnLPaRmUOAyeQD6iDfaHJBA
 37	Building Blocks (Interlude)	Bas	Last Winter	INDIFFERENT	1:35	56eeKnXSUfM	MPREb_I6DEyBK8y4i	UC3oN3GTQE2Dw5QVteykZSzA
 61	Nigga On The Dos Equis, The Most Interesting Man In The World	Bas	Last Winter	INDIFFERENT	3:26	Ck0eOFqE-YE	MPREb_I6DEyBK8y4i	UC3oN3GTQE2Dw5QVteykZSzA

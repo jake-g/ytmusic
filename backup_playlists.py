@@ -15,6 +15,11 @@ def valid_date(date_str):
         # raise ValueError("Incorrect data format, should be YYYY-MM-DD")
 
 
+def decode(string, encode_key='latin-1', decode_key='windows-1252'):
+    return str(string).encode(encode_key, errors='replace').decode(
+        decode_key, errors='replace')
+
+
 def parse_tracks(track_list):
     tracks = pd.DataFrame(track_list)
     tracks['artistId'] = tracks['artists'].dropna().apply(
@@ -70,41 +75,47 @@ def update_like_tsv(liked_tracks, like_tsv, header):
 
 def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, include_library_tracks=True, song_lim=100000, playlist_lim=500, yt_user='Jake G'):
     # Backs up library playlists and returns playlist info summary df, also collects all unique tracks and returns track df.
-    playlist_tsv_cols = ['title', 'artist', 'album',
-                         'likeStatus', 'duration', 'videoId', 'albumId', 'artistId']
+    playlist_tsv_cols = ['title', 'artist', 'album', 'likeStatus',
+                         'duration', 'videoId', 'albumId', 'artistId']
     metadata_tsv_cols = ['title', 'trackCount', 'duration', 'privacy', 'id']
     all_playlist_info = []
     all_tracks = []
     start_time = time.time()
-    print('Fetching and backing up playlists to %s (approx 15 min)' % backup_dir)
+    print('Fetching and backing up playlists to %s (~15 min)' % backup_dir)
     playlists = pd.DataFrame(yt.get_library_playlists(limit=playlist_lim))
     for i, row in playlists.iterrows():
-        print('\n\n(%d/%d)\t%s' % (i+1, len(playlists), row['title']))
-        playlist = yt.get_playlist(row['playlistId'], limit=song_lim)
-        if playlist['trackCount'] == 0:
-            print('Skipping: %s, due to zero tracks' % playlist['title'])
-            continue
+        try:
+            print('\n\n(%d/%d)\t%s' %
+                  (i+1, len(playlists), decode(row['title'])))
+            playlist = yt.get_playlist(row['playlistId'], limit=song_lim)
+            if playlist['trackCount'] == 0:
+                print('Skipping: %s, due to zero tracks' % decode(
+                    playlist['title']))
+                continue
 
-        tracks, metadata = parse_playlist(yt, playlist)
-        all_playlist_info.append(metadata)
-        tracks['playlists'] = playlist['title']
-        all_tracks.append(tracks)
+            tracks, metadata = parse_playlist(yt, playlist)
+            all_playlist_info.append(metadata)
+            tracks['playlists'] = playlist['title']
+            all_tracks.append(tracks)
 
-        if remove_disliked:
-            tracks_disliked = tracks.loc[tracks['likeStatus'] == 'DISLIKE']
-            if len(tracks_disliked) and metadata['author']['name'] == yt_user:
-                print('Removing %d tracks:\n%s' %
-                      (len(tracks_disliked), tracks_disliked['title']))
-                yt.remove_playlist_items(
-                    metadata['id'], tracks_disliked.to_dict('records'))
-                tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
+            if remove_disliked:
+                tracks_disliked = tracks.loc[tracks['likeStatus'] == 'DISLIKE']
+                if len(tracks_disliked) and metadata['author']['name'] == yt_user:
+                    print('Removing %d tracks:\n%s' %
+                          (len(tracks_disliked), tracks_disliked['title']))
+                    yt.remove_playlist_items(
+                        metadata['id'], tracks_disliked.to_dict('records'))
+                    tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
 
-        if len(tracks):
-            tracks = tracks.sort_values(
-                ['likeStatus', 'artist'], ascending=False)
-            tracks[playlist_tsv_cols].to_csv(
-                os.path.join(backup_dir, '%s.tsv' % playlist['title']), sep='\t', header=True)
-        print(90*'-')
+            if len(tracks):
+                tracks = tracks.sort_values(
+                    ['likeStatus', 'artist'], ascending=False)
+                tracks[playlist_tsv_cols].to_csv(
+                    os.path.join(backup_dir, '%s.tsv' % playlist['title']), sep='\t', header=True)
+            print(90*'-')
+        except Exception as e:
+            print('Error in playlist %d: %s' % (i, e))
+            print('Error in playlist title: %s' % decode(row['title']))
 
     playlist_info = pd.DataFrame(all_playlist_info)[metadata_tsv_cols]
     playlist_info.sort_values('title', ascending=False).to_csv(os.path.join(
@@ -158,12 +169,16 @@ def get_tracks_info(yt, track_df):
     i = 0
     tracks_w_info = []
     for vid, row in track_df.iterrows():
-        i += 1
-        print('(%d/%d): %s - %s - %s' % (i, len(track_df),
-                                         row['artist'], row['album'], row['title']))
-        tracks_w_info.append(get_yt_track_info(yt, row))
+        try:
+            i += 1
+            tracks_w_info.append(get_yt_track_info(yt, row))
+            track_str = decode('%s - %s - %s' % (
+                row['artist'], row['album'], row['title']))
+            print('(%d/%d): %s' % (i, len(track_df), track_str))
+        except Exception as e:
+            print('Error in  track %d with vid: %s\n%s' % (i, vid, e))
+            
     tracks_w_info = pd.DataFrame(tracks_w_info)
-
     print('Scraped info for %d tracks' % len(tracks_w_info))
     return tracks_w_info
 
