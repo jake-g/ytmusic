@@ -1,5 +1,13 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+42	Cypress Grove Blues	Skip James	Hard Time Killin' Floor	LIKE	3:13	qS3AT2eCsJ0	MPREb_jpSx1Ks5CHR	UCOUlyPoyLeFd9QGtRuwGuaA
+121	Champagne & Reefer	Muddy Waters	King Bee	LIKE	4:36	rea4Stp0SeE	MPREb_gX1Gj0mdGWN	UCZ5YpKcmxGptLgRRW8ujxHA
+212	I Feel Like Going Home	Muddy Waters	Chicago's Boss	LIKE	3:10	1UnOcYRc_TU	MPREb_pXNQfsdZn7L	UCZ5YpKcmxGptLgRRW8ujxHA
+34	Mother Earth	Memphis Slim	On My Way to Blues, Vol. 4	LIKE	3:20	C1wz5q_WvcE	MPREb_Bc2YHWxpmbd	UCppI7uxgMiE-9gntBeF67oA
+141	Same Old Blues	Freddie King	Getting Ready... (World)	LIKE	4:00	4GQFA0Wev-g	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
+110	I'm Feeling Alright	Big Mama Thornton	Big Mama Thornton with the Muddy Waters Blues Band - 1966	LIKE	3:02	Vg0pAG0olhk	MPREb_p0vAER94701	UC_8NmTaQn8Uy-Hz_jKoCOcA
+76	Frankie and Johnny	Big Bill Broonzy	Classic African-American Ballads from Smithsonian Folkways	LIKE	2:10	7jZ1Jvl7iJ0	MPREb_Dij40qn9NVe	UCP0ngc_IbrxTeSzQJ0YpGXA
 84	The Thrill Is Gone	B.B. King	Completely Well	LIKE	5:25	kpC69qIe02E	MPREb_wX76uFiI9sJ	UCqKrqzF3eX7R17m_MIMte4w
+137	Call It Stormy Monday	Albert King	In Session	LIKE	9:00	ebnGzxNcjFc	MPREb_7toPir64wS5	UC9XFvJIqt0duVgnlvkXBeKA
 18	I Ain't Superstitious	Willie Dixon	I Am The Blues	INDIFFERENT	4:05	ZIxL47tPnp0	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
 32	The Seventh Son	Willie Dixon	I Am The Blues	INDIFFERENT	4:16	llOo7OmnmYA	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
 171	Walking The Blues	Willie Dixon	The Original Wang Dang Doodle	INDIFFERENT	3:05	Z8oKiX5q3rI	MPREb_cbyb6qe64St	UCqjv56WoIUXuzrpdRUufR-A
@@ -33,7 +41,6 @@
 205	Empire State Express	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	3:39	WN98EMjmhjU	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
 207	Am I Right or Wrong	Son House	Essential Blues Masters	INDIFFERENT	1:48	jbcKalQogWs	MPREb_E3k6mMmogtH	UCxo6H7Jta2YNrdk6a9cch6w
 108	Got to Get You off My Mind	Solomon Burke	Rhino Hi-Five: Solomon Burke	INDIFFERENT	2:36	BCSLS56E2As	MPREb_7LdR9m0cPya	UCwIioEkBeMVDvsq0i6o5nvw
-42	Cypress Grove Blues	Skip James	Hard Time Killin' Floor	INDIFFERENT	3:13	qS3AT2eCsJ0	MPREb_jpSx1Ks5CHR	UCOUlyPoyLeFd9QGtRuwGuaA
 67	Illinois Blues	Skip James	Hard Time Killin' Floor	INDIFFERENT	3:06	SiCMzdtj9iM	MPREb_jpSx1Ks5CHR	UCOUlyPoyLeFd9QGtRuwGuaA
 80	Hold On I'm Coming	Sam & Dave	Blues Brother Soul Sister (Volume Two)	INDIFFERENT	2:24	GYxSZ_CKwvg	MPREb_Rbl8jvqmbUF	UC0jVmnViSoUHl_XwocssdPg
 24	Sweet Home Chicago	Robert Johnson	The Blues	INDIFFERENT	3:02	vq7Dh-NefDw	MPREb_G3RgPuvxEsT	UCjcp3ChO5oUZyx3f0FnGVUA
@@ -53,15 +60,12 @@
 72	She Moves Me	Muddy Waters	The Best Of Muddy Waters	INDIFFERENT	2:57	w9bXPxMTKl4	MPREb_T87ZmgoFEyP	UCZ5YpKcmxGptLgRRW8ujxHA
 91	Forty Days and Forty Nights	Muddy Waters	Muddy Waters Sings Delta Blues	INDIFFERENT	3:06	gZpeZZ0VoIU	MPREb_4Gw9MXAnXfX	UCZ5YpKcmxGptLgRRW8ujxHA
 120	Key To The Highway	Muddy Waters	The London Muddy Waters Sessions	INDIFFERENT	2:27	OZFBs8hyvOQ	MPREb_JGpC25mlrkU	UCZ5YpKcmxGptLgRRW8ujxHA
-121	Champagne & Reefer	Muddy Waters	King Bee	INDIFFERENT	4:36	rea4Stp0SeE	MPREb_gX1Gj0mdGWN	UCZ5YpKcmxGptLgRRW8ujxHA
 127	The Blues Had a Baby and They Named It Rock and Roll	Muddy Waters	Hard Again	INDIFFERENT	3:35	J4NNyZmmI3U	MPREb_AxpVLBzaPEj	UCZ5YpKcmxGptLgRRW8ujxHA
 158	Big Leg Woman	Muddy Waters	The Folk Singer	INDIFFERENT	3:30	wf3gf-ux9xA	MPREb_18UeZIuk6ea	UCZ5YpKcmxGptLgRRW8ujxHA
 202	Gipsy Woman	Muddy Waters	Chicago's Boss	INDIFFERENT	2:34	iUqK8jAdMAM	MPREb_pXNQfsdZn7L	UCZ5YpKcmxGptLgRRW8ujxHA
-212	I Feel Like Going Home	Muddy Waters	Chicago's Boss	INDIFFERENT	3:10	1UnOcYRc_TU	MPREb_pXNQfsdZn7L	UCZ5YpKcmxGptLgRRW8ujxHA
 43	Candy Man Blues	Mississippi John Hurt	The History of Blues One	INDIFFERENT	2:47	ka-POe1dVvo	MPREb_HaKRSPBW63l	UCDEcORxYIZA2yV7UjlBIuEg
 52	Fred's Worried Life Blues	Mississippi Fred McDowell	You Gotta Move	INDIFFERENT	2:43	80YPltOOs7E	MPREb_vq2tLvt5niC	UCbNXWMxWD39iFkSGr1auS2g
 27	Sassy Mae	Memphis Slim	I Am The Blues	INDIFFERENT	2:41	P5UMyPQ9MNE	MPREb_dVbEhxE6K1A	UCppI7uxgMiE-9gntBeF67oA
-34	Mother Earth	Memphis Slim	On My Way to Blues, Vol. 4	INDIFFERENT	3:20	C1wz5q_WvcE	MPREb_Bc2YHWxpmbd	UCppI7uxgMiE-9gntBeF67oA
 156	I Need You So Bad (feat. Mighty Joe Young, Stockholm Slim, Earnest Johnson & Odie Payne Jr.)	Magic Sam	West Side Soul (Deluxe Edition)	INDIFFERENT	4:57	1MoKLnUtoN0	MPREb_4qvXUH6tWle	UCX5BFM4QzfwzVJoTHU9V05w
 157	Lookin' Good (feat. Mighty Joe Young, Stockholm Slim, Earnest Johnson & Odie Payne Jr.)	Magic Sam	West Side Soul (Deluxe Edition)	INDIFFERENT	3:18	6rRcjfB1YAs	MPREb_4qvXUH6tWle	UCX5BFM4QzfwzVJoTHU9V05w
 152	Raggedy And Dirty	Luther Allison	Bad News Is Coming	INDIFFERENT	3:41	AtJQ0ot2tU8	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
@@ -127,7 +131,6 @@
 102	Cry Baby	Garnet Mimms & The Enchanters	The Best Of Garnet Mimms - Cry Baby	INDIFFERENT	3:27	qBfsw-Xsiwc	MPREb_yQoKwLfPZcc	UCKV0Un5ApazfhypYgI-Z3Qg
 6	I'm Tore Down	Freddy King	Mod Party All-Nighter, Vol. 4	INDIFFERENT	2:41	DWjwrZRm0D8	MPREb_P9ZWYy5dapF	UCj1uIBa_uRRMR9GQ6wviIMw
 31	San-Ho-Zay	Freddy King	Love Me Forever	INDIFFERENT	2:08	oS0S6vmwaXk	MPREb_HtNGQTrGJZa	UCj1uIBa_uRRMR9GQ6wviIMw
-141	Same Old Blues	Freddie King	Getting Ready... (World)	INDIFFERENT	4:00	4GQFA0Wev-g	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
 142	Key To The Highway	Freddie King	Getting Ready... (World)	INDIFFERENT	3:28	sfZOTY0ndho	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
 143	I'm Tore Down	Freddie King	Getting Ready... (World)	INDIFFERENT	4:14	YB52eLfirFA	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
 95	Дурак Это I Am	Etta James	Best of Etta James	INDIFFERENT	2:58	kZGvFQd8ZUo	MPREb_pFrsxITJR8W	UCieyolnCbsWzyEt6wsd7lgQ
@@ -151,7 +154,6 @@
 73	Revenue Man Blues	Charlie Patton	Primeval Blues, Rags, And Gospel Songs	INDIFFERENT	2:42	Cmxt0-GoJiE	MPREb_4q9deewwYjG	UChgqUv_teGypvyjv4BpsLEA
 199	Spoonful Blues	Charley Patton	The History of Blues One	INDIFFERENT	3:12	pyRCV2wClig	MPREb_HaKRSPBW63l	UChgqUv_teGypvyjv4BpsLEA
 203	Pony Blues	Charley Patton	The History of Blues One	INDIFFERENT	3:00	95BKMEm62Gw	MPREb_HaKRSPBW63l	UChgqUv_teGypvyjv4BpsLEA
-83	B-A-B-Y	Carla Thomas	Songs of Isaac Hayes	INDIFFERENT	2:55	nNiGNstIujs	MPREb_5i8AlOAsLsG	UCXzap6tYtWJkURPa6cFq6GQ
 211	Pinebluff, Arkansas	Bukka White	The Complete Bukka White	INDIFFERENT	2:47	r516CQNPTNs	MPREb_42flrw7a4Fs	UC5gCQ7rJd41LweNTasYo2uQ
 0	Ten Years Ago	Buddy Guy	I Was Walking Through the Woods (Expanded Edition)	INDIFFERENT	2:38	wfiehuJ0Z1Q	MPREb_oFOP46xPbsL	UCqQnmSnXS_qlyP6qok7lCAA
 5	When My Left Eye Jumps	Buddy Guy	Left My Blues In San Francisco	INDIFFERENT	3:57	w03l9i5I5l8	MPREb_QCpL5MVW0gq	UCqQnmSnXS_qlyP6qok7lCAA
@@ -172,7 +174,6 @@
 75	Blues Around Midnight	Blind Willie McTell	Atlanta Twelve String	INDIFFERENT	2:46	RyZm921d1BU	MPREb_BeaQ0HVe9mG	UCP7B8D5qS_Ex9y_Jwl4VUBA
 39	It's Nobody's Fault but Mine	Blind Willie Johnson	The Complete Blind Willie Johnson	INDIFFERENT	3:09	eZogzxAFiNg	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
 49	The Soul of a Man	Blind Willie Johnson	Blind Willie Johnson - Greatest Hits	INDIFFERENT	3:13	CA55DNlbIYU	MPREb_DTiqPLxng0a	UCp_csxupcgSwZa1glwDo2eQ
-56	Praise God I'm Satisfied	Blind Willie Johnson	Blind Willie Johnson - Greatest Hits	INDIFFERENT	3:11	w7F1my7TquU	MPREb_DTiqPLxng0a	UCp_csxupcgSwZa1glwDo2eQ
 63	Lord I Just Can't Keep from Crying	Blind Willie Johnson	Blind Willie Johnson - Greatest Hits	INDIFFERENT	3:02	ZNtdnu4hnjA	MPREb_DTiqPLxng0a	UCp_csxupcgSwZa1glwDo2eQ
 77	Church, I'm Fully Saved Today	Blind Willie Johnson	The Complete Blind Willie Johnson	INDIFFERENT	3:06	vKV0ZEjg3_A	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
 201	Dark Was The Night (Cold Was The Ground)	Blind Willie Johnson	The Great Depression - American Music In The 30's	INDIFFERENT	3:21	qasPCNQuo88	MPREb_mQsZ8rGKnv7	UCp_csxupcgSwZa1glwDo2eQ
@@ -186,11 +187,9 @@
 81	Hound Dog (Single Version)	Big Mama Thornton	Hound Dog (The Peacock Recordings)	INDIFFERENT	2:51	Jr9q485COk0	MPREb_TMHdEZMG4kA	UC_8NmTaQn8Uy-Hz_jKoCOcA
 89	They Call Me Big Mama	Big Mama Thornton	Hound Dog (The Peacock Recordings)	INDIFFERENT	2:04	FWbeHUNBpj0	MPREb_TMHdEZMG4kA	UC_8NmTaQn8Uy-Hz_jKoCOcA
 98	Life Goes On	Big Mama Thornton	Big Mama Thornton with the Muddy Waters Blues Band - 1966	INDIFFERENT	3:29	RCAxHHhLOCA	MPREb_p0vAER94701	UC_8NmTaQn8Uy-Hz_jKoCOcA
-110	I'm Feeling Alright	Big Mama Thornton	Big Mama Thornton with the Muddy Waters Blues Band - 1966	INDIFFERENT	3:02	Vg0pAG0olhk	MPREb_p0vAER94701	UC_8NmTaQn8Uy-Hz_jKoCOcA
 7	Mississippi River Blues	Big Bill Broonzy	C.C.Rider Meets Lonesome Road Blues	INDIFFERENT	2:44	-sevg3QwFeQ	MPREb_bLR0rzkS3Tl	UCP0ngc_IbrxTeSzQJ0YpGXA
 45	Worrying You Off My Mind-Part I	Big Bill Broonzy	Good Time Tonight	INDIFFERENT	3:03	RrkNzUg_VIY	MPREb_GwekuIQDs11	UCP0ngc_IbrxTeSzQJ0YpGXA
 66	Long Tall Mama	Big Bill Broonzy	Good Time Tonight	INDIFFERENT	2:46	6yZ2E36SyR8	MPREb_GwekuIQDs11	UCP0ngc_IbrxTeSzQJ0YpGXA
-76	Frankie and Johnny	Big Bill Broonzy	Classic African-American Ballads from Smithsonian Folkways	INDIFFERENT	2:10	7jZ1Jvl7iJ0	MPREb_Dij40qn9NVe	UCP0ngc_IbrxTeSzQJ0YpGXA
 209	All By Myself	Big Bill Broonzy	Kings of Blues, Vol. 1	INDIFFERENT	2:29	K9VcD5XJ9j4	MPREb_pESJnL8kwmy	UCP0ngc_IbrxTeSzQJ0YpGXA
 19	Three O'Clock Blues	B.B. King	The AM of R&B, Vol. 1	INDIFFERENT	2:43	3eERm-rMaMQ	MPREb_FjNoehIEhXH	UCqKrqzF3eX7R17m_MIMte4w
 36	Miss Martha King	B.B. King	All Time Best: B.B. King	INDIFFERENT	2:45	IGz9qTAKAlc	MPREb_BotHb9O7YTL	UCqKrqzF3eX7R17m_MIMte4w
@@ -204,7 +203,6 @@
 15	She's Dynamite	B. B. King	Legacy	INDIFFERENT	2:33	5aV7CrtLlNE	MPREb_Pckwy0AVzk5	UCqKrqzF3eX7R17m_MIMte4w
 86	Chain of Fools	Aretha Franklin	American 60's Soul	INDIFFERENT	2:44	dNZf-aDYciM	MPREb_jCcZQ0uv4kA	UCW02f_MjH8n1uMZhSds4mQQ
 51	Down Don't Bother Me	Albert King	Born Under A Bad Sign	INDIFFERENT	2:11	5fiC9BR_wkI	MPREb_lFds0b3PZIO	UC9XFvJIqt0duVgnlvkXBeKA
-137	Call It Stormy Monday	Albert King	In Session	INDIFFERENT	9:00	ebnGzxNcjFc	MPREb_7toPir64wS5	UC9XFvJIqt0duVgnlvkXBeKA
 176	Born Under A Bad Sign - Live	Albert King	New Orleans Heat	INDIFFERENT	3:29	KJGxPMME1rU	MPREb_63OjmfiNeAt	UC9XFvJIqt0duVgnlvkXBeKA
 184	Travelin' to California	Albert King	Conscience	INDIFFERENT	3:06	02XkpFsjRb8	MPREb_EJzIOgtIbSp	UC9XFvJIqt0duVgnlvkXBeKA
 118	Iceman	Albert Collins	Iceman	INDIFFERENT	5:03	iM4jTXiLRic	MPREb_EZXGqJFERwt	UCbwoSB3Jgv_K_IUQCj4xzUA
