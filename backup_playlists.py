@@ -60,21 +60,26 @@ def is_like_pl(name):
 def update_like_tsv(liked_tracks, like_tsv, header):
     # Load already existing like list tsv
     like_tracks = pd.read_csv(like_tsv, sep='\t', index_col=0)
-    assert list(like_tracks.columns) == header, 'Expected %s to have header %s, not: %s' % (
+    assert_msg = 'Expected %s to have header %s, not: %s' % (
         like_tsv, header, like_tracks.columns)
+    assert list(like_tracks.columns) == header, assert_msg
 
     # Append new like tracks in db but not in like list, save tsv.
     new_like_tracks = liked_tracks.loc[set(
         liked_tracks.index) - set(like_tracks.index)]
     all_like_tracks = pd.concat([like_tracks, new_like_tracks])
     all_like_tracks.to_csv(like_tsv, sep='\t', header=True)
-    print('Updated liked tracks with %d new entries growing it from %d to %d entries.' % (
+    print('Updated liked tracks with %d new entries (from %d to %d).' % (
         len(new_like_tracks), len(like_tracks), len(all_like_tracks)))
     return all_like_tracks
 
 
-def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, include_library_tracks=True, song_lim=100000, playlist_lim=500, yt_user='Jake G'):
-    # Backs up library playlists and returns playlist info summary df, also collects all unique tracks and returns track df.
+def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
+                                        include_library_tracks=True,
+                                        song_lim=100000, playlist_lim=500,
+                                        yt_user='Jake G'):
+    # Backs up library playlists and returns playlist info summary df,
+    # also collects all unique tracks and returns track df.
     playlist_tsv_cols = ['title', 'artist', 'album', 'likeStatus',
                          'duration', 'videoId', 'albumId', 'artistId']
     db_remove_tsv_cols = ['setVideoId', 'feedbackTokens']
@@ -101,7 +106,8 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
 
             if remove_disliked:
                 tracks_disliked = tracks.loc[tracks['likeStatus'] == 'DISLIKE']
-                if len(tracks_disliked) and metadata['author']['name'] == yt_user:
+                if (len(tracks_disliked) and
+                        metadata['author']['name'] == yt_user):
                     print('Removing %d tracks:\n%s' %
                           (len(tracks_disliked), tracks_disliked['title']))
                     yt.remove_playlist_items(
@@ -111,8 +117,8 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
             if len(tracks):
                 tracks = tracks.sort_values(
                     ['likeStatus', 'artist'], ascending=False)
-                tracks[playlist_tsv_cols].to_csv(
-                    os.path.join(backup_dir, '%s.tsv' % playlist['title']), sep='\t', header=True)
+                fname = os.path.join(backup_dir, '%s.tsv' % playlist['title'])
+                tracks[playlist_tsv_cols].to_csv(fname, sep='\t', header=True)
             print(90*'-')
         except Exception as e:
             print('Error in playlist %d: %s' % (i, e))
@@ -123,7 +129,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
         backup_dir, '_playlists.tsv'), sep='\t', header=True)
     playlist_elapsed = (time.time() - start_time) / 60
     print('Backed up playlist metadata:\n%s' % playlist_info)
-    print('Fetched playlist tracks and saved playlist .tsv files in %d minutes' %
+    print('Fetched playlist and saved playlist .tsv files in %d minutes' %
           playlist_elapsed)
 
     if include_library_tracks:
@@ -136,8 +142,8 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
               (len(library_tracks), library_elapsed))
         library_tracks = library_tracks.sort_values(
             ['artist', 'album'], ascending=False)
-        library_tracks[playlist_tsv_cols].to_csv(
-            os.path.join(backup_dir, '%s.tsv' % '_library'), sep='\t', header=True)
+        fname = os.path.join(backup_dir, '%s.tsv' % '_library')
+        library_tracks[playlist_tsv_cols].to_csv(fname, sep='\t', header=True)
 
     unique_tracks = pd.concat(all_tracks).groupby(
         'videoId').apply(merge_duplicates).set_index('videoId')
@@ -146,7 +152,8 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
         ['likeStatus', 'artist'], ascending=False)
     elapsed_minutes = (time.time() - start_time) / 60.0
     print('Backed up %d playlists and %d tracks in %d minutes to: %s' %
-          (len(playlist_info), len(unique_tracks), elapsed_minutes, backup_dir))
+          (len(playlist_info), len(unique_tracks),
+           elapsed_minutes, backup_dir))
     return unique_tracks
 
 
@@ -154,7 +161,8 @@ def get_yt_track_info(yt, row):
     copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
     copy_album_cols = ['type', 'trackCount', 'duration', 'year']
 
-    if type(row['artistId']) == str and 'privately_owned' not in row['artistId']:
+    if (type(row['artistId']) == str and
+            'privately_owned' not in row['artistId']):
         try:
             song = yt.get_song(row.name)
             for col in copy_song_cols:
@@ -173,7 +181,7 @@ def get_yt_track_info(yt, row):
                 if col not in album:
                     continue
                 new_col = f'album{col[0].upper()}{col[1:]}'
-                row[new_col] = album[col]     
+                row[new_col] = album[col]
         except Exception as e:
             print('Failed to get album info: %s\n%s' % (e, row))
     return row
@@ -191,7 +199,7 @@ def get_tracks_info(yt, track_df):
             print('(%d/%d): %s' % (i, len(track_df), track_str))
         except Exception as e:
             print('Error in  track %d with vid: %s\n%s' % (i, vid, e))
-            
+
     tracks_w_info = pd.DataFrame(tracks_w_info)
     print('Scraped info for %d tracks' % len(tracks_w_info))
     return tracks_w_info
@@ -221,17 +229,20 @@ if __name__ == "__main__":
     start_time = time.time()
     yt_api = YTMusic(AUTH)
 
-    # Backup playlists and fetch (or load from file) all playlist + library tracks
-    # The set of tracks are missing ytmusic metadata like release year
+    # Backup playlists and fetch (or load from file) all playlist
+    # and library tracks. The set of tracks are missing ytmusic
+    # metadata like release year.
     if SKIP_PLAYLIST_BACKUP:  # load last backup from file (faster)
         tracks_no_meta = pd.read_csv(
             TRACKS_NO_META_TSV, sep='\t', index_col=0)
     else:  # default do full backup
         tracks_no_meta = backup_playlists_and_collect_tracks(
-            yt_api, BACKUP_DIR, remove_disliked=True, include_library_tracks=True)
+            yt_api, BACKUP_DIR, remove_disliked=True,
+            include_library_tracks=True)
         tracks_no_meta.to_csv(TRACKS_NO_META_TSV, sep='\t', header=True)
 
-    # Get ytmusic metadata for new tracks from tracks_no_meta and update tracks_db
+    # Get ytmusic metadata for new tracks from tracks_no_meta
+    # and update tracks_db
     track_db = pd.read_csv(TRACKS_DB_TSV, sep='\t', index_col=0)
     new_tracks_no_meta = tracks_no_meta.loc[set(
         tracks_no_meta.index) - set(track_db.index)]
@@ -254,10 +265,12 @@ if __name__ == "__main__":
               (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
     playlist_liked_tracks = pd.concat(
         playlist_liked_tracks).sort_values('artist')
-    playlist_liked_tracks = playlist_liked_tracks.loc[~playlist_liked_tracks.index.duplicated(
-        keep='first'), LIKE_TRACKS_HEADER]
+    playlist_liked_tracks = playlist_liked_tracks.loc[
+        ~playlist_liked_tracks.index.duplicated(keep='first'),
+        LIKE_TRACKS_HEADER]
     new_like_df = update_like_tsv(
-        playlist_liked_tracks, like_tsv=LIKE_TRACKS_TSV, header=LIKE_TRACKS_HEADER)
+        playlist_liked_tracks, like_tsv=LIKE_TRACKS_TSV,
+        header=LIKE_TRACKS_HEADER)
 
     elapsed_time = (time.time() - start_time) / 60
     print('Completed in %d minutes' % elapsed_time)
