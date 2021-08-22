@@ -1,479 +1,635 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-339	Venus In Furs	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	5:13	1qQ0MG9OPzA	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
-8	Soul Kitchen	The Doors	The Doors	LIKE	3:33	kLbfviLC09k	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
-295	Don't Stop Me Now	Queen	Jazz	LIKE	3:30	RrDKoXWKMmY	MPREb_TejOLCudmVc	UCEPMVbUzImPl4p8k4LkGevA
-306	All Right Now	Free	Fire And Water	LIKE	5:30	lSdBtoIIYT4	MPREb_IPOt4hYAGEI	UCeAtDOq4xuN3pZnnmkSuAww
-336	Suspicious Minds	Elvis Presley	From Elvis in Memphis	LIKE	4:22	4Zt8yLQTNqM	MPREb_KHuUKrdLKiE	UChgxarBUCnPJV871-46bJ2g
-171	Peace Train	Cat Stevens	Teaser And The Firecat	LIKE	4:11	vjUyM_xd6IA	MPREb_PYYbM9OYSoo	UCpzTj29sgB9oSPIuFqy1ShQ
-323	Miller's Farm	ZZ Top	Chrome, Smoke & BBQ	INDIFFERENT	2:36	cmkpfFsiMpU	MPREb_uGBHKPEXQWy	UC_Us2Zqt4ovGtdXKmws60mw
-433	Gimme All Your Lovin'	ZZ Top	Eliminator	INDIFFERENT	4:02	_k1VSeudgxA	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
-455	Legs (2008 Remaster)	ZZ Top	Eliminator	INDIFFERENT	4:34	kELhHQ4sC_Y	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
-133	Rockestra Theme	Wings	Wingspan: Hits And History	INDIFFERENT	2:36	LSm8R3iRIhY	MPREb_ioTLddsOMBg	UCyyYmEud7d9iGVOYNMG9sAA
-101	Groovy Kind Of Love	Wayne Fontana	Love Songs	INDIFFERENT	1:59	E0dZOi1-kIg	MPREb_WSZz5aLtQbL	UCu9w3s_G4rzmVLNcodgUDmA
-452	Werewolves of London (2007 Remaster)	Warren Zevon	Excitable Boy	INDIFFERENT	3:29	lh0w01S7Jnk	MPREb_TNptpDKdduK	UChDuOKD_xJJqrHcwGtfch8g
-436	Low Rider	War	Why Can't We Be Friends?	INDIFFERENT	3:11	qMkwuz0iXQg	MPREb_RaGsFffxYkX	UCY9rJimufdb8imofVY8taNw
-82	Early In The Morning	Vanity Fare	Greatest Hits	INDIFFERENT	2:33	jkfUHrU24kI	MPREb_rRqd7seyjE6	UCFL3uhV7buDJ90OKn4M-5cw
-370	You Keep Me Hangin' On (Alternate Version)	Vanilla Fudge	Sound of the 70s	INDIFFERENT	3:00	q5ci6BmnIe4	MPREb_pX4oTvKQkzm	UCk5H0B8nneItZMiUwqiTTPw
-459	Domino (1999 Remaster)	Van Morrison	His Band and the Street Choir	INDIFFERENT	3:09	_6yCe6trspM	MPREb_3MttkFKZydE	UCCiTDgyKWFNs6GXxMVR2ZbQ
-464	Wild Night	Van Morrison	The Essential Van Morrison	INDIFFERENT	3:34	bXoBnmJtqhY	MPREb_zhwh9bpeelx	UCCiTDgyKWFNs6GXxMVR2ZbQ
-297	Dance the Night Away	Van Halen	Van Halen II	INDIFFERENT	3:09	E-rTKd-Alk8	MPREb_YH5fXCo1inX	UCPi7wU0ppI6ad7EEpHs7lHg
-456	Summer Nights	Van Halen	5150	INDIFFERENT	5:06	NSjnWI8HdhM	MPREb_WcQUvFfUqEi	UCPi7wU0ppI6ad7EEpHs7lHg
-356	Feelin' Alright?	Traffic	Traffic	INDIFFERENT	4:17	xYXxbtkGtW0	MPREb_dqxZs9cBREZ	UCFh-Yyaep1Gl5c0O1JTvEBQ
-382	Paper Sun	Traffic	Best Of Traffic	INDIFFERENT	4:15	80_UAuBEDlQ	MPREb_gRSLzux6D4j	UCFh-Yyaep1Gl5c0O1JTvEBQ
-81	Crimson and Clover	Tommy James and the Shondells	US Hot 100 Hits of 1968	INDIFFERENT	3:30	8YvJkPDmnvQ	MPREb_KnGK1o5ndql	UCBwv3RxOvTdjJKhD5alG40Q
-102	Hanky Panky (Single Version)	Tommy James & The Shondells	Rhino Hi-Five: Tommy James & The Shondells	INDIFFERENT	2:54	d-Z_Y1AqPfk	MPREb_rv4whqhPwLG	UCBwv3RxOvTdjJKhD5alG40Q
-113	Mony Mony	Tommy James & The Shondells	Rhino Hi-Five: Tommy James & The Shondells	INDIFFERENT	2:55	Jj3Ulzsx7Xo	MPREb_rv4whqhPwLG	UCBwv3RxOvTdjJKhD5alG40Q
-349	Crystal Blue Persuasion (Single Version)	Tommy James & The Shondells	The Essentials: Tommy James & The Shondells	INDIFFERENT	4:04	RBH9H0oTm00	MPREb_GerwFndeJRh	UCBwv3RxOvTdjJKhD5alG40Q
-353	Mony Mony	Tommy James & The Shondells	Mony Mony	INDIFFERENT	2:52	qdrx9F6WEzM	MPREb_6ediDBfPg3a	UCBwv3RxOvTdjJKhD5alG40Q
-398	I'm a Tangerine	Tommy James & The Shondells	Crimson and Clover	INDIFFERENT	3:37	TxA0SGUIT1Q	MPREb_m7q7ANcxWfM	UCBwv3RxOvTdjJKhD5alG40Q
-327	No Regrets (2008 Remaster)	Tom Rush	The Circle Game [Expanded & Remastered]	INDIFFERENT	3:51	Bb7ld3dWChE	MPREb_PHub4MwOBMk	UCFM797QRF-AQyJKB2Flodfg
-423	The Waiting	Tom Petty and the Heartbreakers	Hard Promises	INDIFFERENT	3:58	DdiFZw6jMjs	MPREb_Pc5xcjrinQo	UC6hGusDLTI8bW-P4pMYdIqA
-256	The Wild One, Forever	Tom Petty & The Heartbreakers	An American Treasure (Deluxe)	INDIFFERENT	3:01	bK54vsiYx88	MPREb_8htl4tE0beB	UC6hGusDLTI8bW-P4pMYdIqA
-213	You Got Lucky	Tom Petty	Long After Dark	INDIFFERENT	3:37	_QZixvUjNH4	MPREb_CnCsfA6JqyD	UC6hGusDLTI8bW-P4pMYdIqA
-209	I Saw the Light	Todd Rundgren	Rhino Hi-Five: Todd Rundgren	INDIFFERENT	3:03	xPEYXCv3sT0	MPREb_nnWdD2wZrB5	UCib5cKFdDMXgDJ-B8PoT6rQ
-328	International Feel	Todd Rundgren	A Wizard / A True Star	INDIFFERENT	2:51	Pnp2qpGgLcg	MPREb_EHdNBMRwPJ6	UCib5cKFdDMXgDJ-B8PoT6rQ
-158	Shambala (Single Version)	Three Dog Night	Three Dog Night - The Complete Hit Singles	INDIFFERENT	3:25	Gc8QhdHpNwU	MPREb_ERcmRKmX6wF	UChdJeqxlsCTZml6HzCuZ60A
-167	Pieces Of April	Three Dog Night	The Best Of 3 Dog Night	INDIFFERENT	4:10	4B5MtDY7z_U	MPREb_0ZV6Wb2wDKM	UChdJeqxlsCTZml6HzCuZ60A
-191	Out In The Country	Three Dog Night	The Best Of 3 Dog Night	INDIFFERENT	3:06	sQcEoxwHoVE	MPREb_0ZV6Wb2wDKM	UChdJeqxlsCTZml6HzCuZ60A
-439	The Boys Are Back In Town	Thin Lizzy	Jailbreak	INDIFFERENT	4:30	nN120kCiVyQ	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
-100	Summertime	The Zombies	Begin Here	INDIFFERENT	2:10	wC-r9IKGf5A	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
-125	What More Can I Do	The Zombies	Begin Here	INDIFFERENT	1:35	MfzeJ5gUNDw	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
-390	Darkness, Darkness	The Youngbloods	Elephant Mountain	INDIFFERENT	3:49	-ge1VLj2Vf0	MPREb_UXygQwp2zlY	UCbwFfD0YNyJ0Ic8e4p7UHVw
-75	How Can I Be Sure (Single Version)	The Young Rascals	Feelin' Groovy! Chilled 60's Classics	INDIFFERENT	2:56	2P3x6E35KBY	MPREb_rJsf8CwyFJ5	UCx-fvMVKvAAP7279ZYbX97Q
-84	Groovin'	The Young Rascals	Gettin' Together: Groovy Sounds from the Summer of Love	INDIFFERENT	2:30	lYTCI96ykfE	MPREb_hntPEN3MbIF	UCx-fvMVKvAAP7279ZYbX97Q
-105	Good Lovin' (Single Version)	The Young Rascals	1966	INDIFFERENT	2:30	bVgw78bvfNw	MPREb_VmlkYOLQTzP	UCx-fvMVKvAAP7279ZYbX97Q
-110	For Your Love (feat. Eric Clapton)	The Yardbirds	For Your Love - Live	INDIFFERENT	2:29	fAiVlHzfC_g	MPREb_8Ict4PgWHTJ	UC--CUY9RbIaFjKM3wZkIEOA
-278	Honey in Your Hips (Demo)	The Yardbirds	The Yardbirds Story - Pt. 2 - 1964 - Early Studio & At the Marquee (Live)	INDIFFERENT	2:17	fGmlyoYlX2s	MPREb_OY3gjhlIPBR	UC--CUY9RbIaFjKM3wZkIEOA
-0	Love Ain't For Keeping	The Who	Who's Next (Deluxe Edition) (Deluxe Edition)	INDIFFERENT	2:10	SdcOXqDVL_Y	MPREb_34QMPkZPwgF	UCpxn_sVrLQWNGFK1eulpYgw
-13	Going Mobile	The Who	Who's Next (Expanded Edition)	INDIFFERENT	3:43	pTg0hoS7zkE	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
-28	My Wife	The Who	Who's Next (Deluxe Edition) (Deluxe Edition)	INDIFFERENT	3:33	yBnfXM9-qp8	MPREb_34QMPkZPwgF	UCpxn_sVrLQWNGFK1eulpYgw
-42	Naked Eye	The Who	Who's Next (Expanded Edition)	INDIFFERENT	5:31	iPSc2effI4s	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
-45	Bald Headed Woman (Shel Talmy - Stereo Version)	The Who	My Generation	INDIFFERENT	2:32	0nq27dwE-Q8	MPREb_kPK6whfor7h	UCpxn_sVrLQWNGFK1eulpYgw
-46	I Don't Even Know Myself	The Who	Who's Next (Expanded Edition)	INDIFFERENT	4:56	u69_J8kE4m8	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
-54	Love Ain't For Keeping	The Who	Who's Next (Expanded Edition)	INDIFFERENT	2:10	eNXdSs99ZlU	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
-66	Pure And Easy	The Who	Who's Next (Expanded Edition)	INDIFFERENT	4:21	yOp111z0H0g	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
-268	I Can’t Explain (Live)	The Who	Live At The Isle Of Wight Festival 1970	INDIFFERENT	2:45	Yxxh0dqBQxU	MPREb_qMF3FNJvaem	UCpxn_sVrLQWNGFK1eulpYgw
-298	The Seeker (Edit)	The Who	Meaty, Beaty, Big And Bouncy	INDIFFERENT	3:10	M9PGmxmeaZI	MPREb_nPsRkDPhbBU	UCpxn_sVrLQWNGFK1eulpYgw
-386	Armenia City In The Sky	The Who	The Who Sell Out	INDIFFERENT	3:47	ojmhdT8qjoc	MPREb_CEGZZYeSgMo	UCpxn_sVrLQWNGFK1eulpYgw
-472	Summertime Blues	The Who	The Who Sell Out (Super Deluxe)	INDIFFERENT	2:39	PlfzJmL-Zg0	MPREb_ETnMJ9vdPC5	UCpxn_sVrLQWNGFK1eulpYgw
-477	Heat Wave	The Who	A Quick One	INDIFFERENT	1:57	-bK6gK1UGRs	MPREb_qmRYvUNMpyb	UCpxn_sVrLQWNGFK1eulpYgw
-118	Walk, Don't Run (Stereo)	The Ventures	Walk Don't Run	INDIFFERENT	2:02	j81sy1Ibf9M	MPREb_lO4gXgwLoF4	UCBTyn_Hs6HQQ6poBYsiQiVw
-326	Ocean (Session Outtake) [2015 Remastered]	The Velvet Underground	Loaded	INDIFFERENT	5:44	aqB8bdu66MI	MPREb_Xi6tzkPzoO5	UCXNWrugB_J3sRBYR9idQWzg
-361	I'll Be Your Mirror	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	INDIFFERENT	2:15	l9_aVPwDNzc	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
-99	You Baby	The Turtles	You Baby (Deluxe Version)	INDIFFERENT	2:16	EI8Pt7qBoF0	MPREb_TbXPcdznCTI	UCyaLZJOfKI9L4MQRfy65Psg
-368	Love Is All Around (Re-Recording)	The Troggs	For the One I Love	INDIFFERENT	3:00	BcbVTTpNaN0	MPREb_3oYhjBShAkL	UCHN3v9j_PgirkSPp9nFUcpg
-220	Not Alone Any More	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	3:24	cko3dBWiyus	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
-251	Margarita	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	3:16	c2Au3QoU-EE	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
-260	Rattled	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	2:59	r_7FAEvjN7M	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
-366	I'm A Man	The Spencer Davis Group	Revolutions: The Very Best Of Steve Winwood	INDIFFERENT	2:56	M1SGILsgLXs	MPREb_wHCJvw8YucM	UC6NoFSCgvc_B0VuSrf-TFsA
-387	Gimme Some Lovin' (Single Mix)	The Spencer Davis Group	More Songs From The Original Soundtrack Of The Big Chill 15th Anniversary	INDIFFERENT	2:59	eaU6EYHSBTw	MPREb_GnufZUIWYti	UC6NoFSCgvc_B0VuSrf-TFsA
-462	Gimme Some Lovin' (Single Mix)	The Spencer Davis Group	More Songs From The Original Soundtrack Of The Big Chill 15th Anniversary	INDIFFERENT	2:59	eaU6EYHSBTw	MPREb_GnufZUIWYti	UC6NoFSCgvc_B0VuSrf-TFsA
-112	Leader Of The Pack	The Shangri-Las	Leader Of The Pack	INDIFFERENT	2:53	BWIf4Ifk6aQ	MPREb_nulwCdV58gU	UCOQZHdy6mFgXNOaZhvCsceA
-79	Needles and Pins (Mono)	The Searchers	Needles & Pins	INDIFFERENT	2:12	sTR2UNrI1Jw	MPREb_YMNvumU9KL9	UCDCnk3Qj_Dgexq8EErav5Sg
-86	Sugar and Spice (Stereo Version)	The Searchers	The Definitive Pye Collection	INDIFFERENT	2:16	uHtSf2iAlBA	MPREb_RVWRwpSRj3O	UCDCnk3Qj_Dgexq8EErav5Sg
-119	Sugar & Spice (Merseybeat Version)	The Searchers	Spooky - The Songs Of Our Lives	INDIFFERENT	2:12	pQVvx2zRiDc	MPREb_XUTD6I31wJq	UCDCnk3Qj_Dgexq8EErav5Sg
+293	Dance the Night Away	Van Halen	Van Halen II	LIKE	3:09	E-rTKd-Alk8	MPREb_YH5fXCo1inX	UCPi7wU0ppI6ad7EEpHs7lHg
+498	Africa	Toto	Toto IV	LIKE	4:56	QAo_Ycocl1E	MPREb_dL9I6V1S1Ta	UCewH1MBbYlEZMWx3ZUNywyg
+206	I Saw the Light	Todd Rundgren	Rhino Hi-Five: Todd Rundgren	LIKE	3:03	xPEYXCv3sT0	MPREb_nnWdD2wZrB5	UCib5cKFdDMXgDJ-B8PoT6rQ
+487	I Saw the Light	Todd Rundgren	Something / Anything?	LIKE	3:01	C5zPHZ3i_FU	MPREb_nledYPFK91n	UCib5cKFdDMXgDJ-B8PoT6rQ
+99	Summertime	The Zombies	Begin Here	LIKE	2:10	wC-r9IKGf5A	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+108	For Your Love (feat. Eric Clapton)	The Yardbirds	For Your Love - Live	LIKE	2:29	fAiVlHzfC_g	MPREb_8Ict4PgWHTJ	UC--CUY9RbIaFjKM3wZkIEOA
+116	Walk, Don't Run (Stereo)	The Ventures	Walk Don't Run	LIKE	2:02	j81sy1Ibf9M	MPREb_lO4gXgwLoF4	UCBTyn_Hs6HQQ6poBYsiQiVw
+321	Ocean (Session Outtake) [2015 Remastered]	The Velvet Underground	Loaded	LIKE	5:44	aqB8bdu66MI	MPREb_Xi6tzkPzoO5	UCXNWrugB_J3sRBYR9idQWzg
+48	Paint It, Black (Original Single Mono Version)	The Rolling Stones	Singles 1965-1967	LIKE	3:44	b1uIM2nPocE	MPREb_tjxjvgOsPIe	UCNYhhkQqeFLUc-YEDcLpSYQ
+258	Shattered	The Rolling Stones	Some Girls (Deluxe Version)	LIKE	3:46	FVoUGdWSB2E	MPREb_nOsVLtXMuBo	UCNYhhkQqeFLUc-YEDcLpSYQ
+114	Daydream	The Lovin' Spoonful	Playlist: The Very Best Of The Lovin' Spoonful	LIKE	2:20	TOD5stXnUWQ	MPREb_S7IkRYw8hzQ	UCgTe55AB4dqeMMVgVZ-qQnQ
+291	Sunny Afternoon (Mono Mix)	The Kinks	The Singles Collection	LIKE	3:33	5BUsX5yOVrA	MPREb_5vwy63r5ayn	UCsQHS0_Fw1vIXm3TEbPokvA
+483	Lola (2020 Stereo Remaster)	The Kinks	Lola (2020 Stereo Remaster)	LIKE	4:02	uIVMbkuZLIM	MPREb_mnbsWzcfoQh	UCsQHS0_Fw1vIXm3TEbPokvA
+60	The Crystal Ship (New Stereo Mix)	The Doors	The Very Best Of The Doors	LIKE	2:34	Bm9Xue6MyfY	MPREb_dq7I3XxJW8r	UCdx4iSJpg33jNmd9auQT04Q
+474	Love Her Madly (New Stereo Mix)	The Doors	The Very Best Of The Doors	LIKE	3:39	qvI4c2EjpvM	MPREb_dq7I3XxJW8r	UCdx4iSJpg33jNmd9auQT04Q
+278	Norwegian Wood (This Bird Has Flown) (Take 1 / Anthology 2 Version)	The Beatles	Anthology 2	LIKE	2:00	PuJZYI5qomk	MPREb_r9ehGUcIpog	UC2XdaAVUannpujzv32jcouQ
+261	Voodoo Child (Slight Return)	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather (Legacy Edition)	LIKE	7:59	idpdiIyCAUM	MPREb_EkWi0ymkLW8	UCG47N6MrGcPaJpVRgBoAVAQ
+463	You're My Best Friend	Queen	A Night At The Opera (Deluxe Remastered Version)	LIKE	2:50	iIT89N78uX8	MPREb_mrZGcLOHyHy	UCEPMVbUzImPl4p8k4LkGevA
+475	Bohemian Rhapsody	Queen	A Night At The Opera (Deluxe Remastered Version)	LIKE	5:54	utwMHfDZ6SA	MPREb_mrZGcLOHyHy	UCEPMVbUzImPl4p8k4LkGevA
+497	Baby Come Back	Player	Player	LIKE	4:16	vLtmmFjxSoc	MPREb_T77ntpM1SOb	UC-_klagHUbDRQItySemn41A
+30	Us And Them (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	LIKE	7:51	h90j3lOXNvU	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
+263	Arnold Layne	Pink Floyd	Relics	LIKE	2:56	sHO8dvEQpaI	MPREb_1YFuDzgPnyn	UCO6LS_5W7vqG9mALDNzSFug
+482	Maybe I’m Amazed	Paul McCartney	McCartney (Archive Collection)	LIKE	3:50	slF3EBxZE6A	MPREb_7CvTjzxfWn9	UC0guXwTSf4hAOvCSgmViojw
+490	Hey Hey, My My (Into the Black)	Neil Young	Greatest Hits	LIKE	5:15	UDTx0JQlXRY	MPREb_SnCM2GjtnsC	UC6JhadLTf6g6f-ZdeEaAqBQ
+478	D'yer Mak'er (Remaster)	Led Zeppelin	Houses of the Holy (Deluxe Edition)	LIKE	4:23	8q4lZ8wpGMM	MPREb_DY6DlruwzRd	UCYtap7ujIPaxTS2iCDoMi3g
+219	Lights	Journey	Infinity	LIKE	3:11	BPazVAtD-xQ	MPREb_GJ9i94Xv7Z6	UCPKnuPciHDB8qw-wyBVQo9A
+11	It's So Hard	John Lennon	Imagine	LIKE	2:30	7ZHt8xyeVMg	MPREb_gDaohH1B2Wz	UCcSL2nYSJp_IgdzH0xBBdcg
+70	Something in the Way She Moves	James Taylor	Greatest Hits	LIKE	3:10	fa8KzA8BYjI	MPREb_hCDrR641s1r	UCZJikx4babgeliqeRPnE9rA
+184	Mexico	James Taylor	Gorilla	LIKE	2:57	C8H9h9uNiCI	MPREb_yBgVRDru2ef	UCZJikx4babgeliqeRPnE9rA
+335	In-A-Gadda-Da-Vida	Iron Butterfly	In-A-Gadda-Da-Vida	LIKE	17:05	Tfpn3wHoNGA	MPREb_y97B1R2pQ6m	UCn_jx84j5_rx1uwSx4t-nTw
+50	Lay Down Sally	Eric Clapton	20th Century Masters - The Millennium Collection: The Best Of Eric Clapton	LIKE	3:52	fAM4zQQVzG0	MPREb_xwZXrRNmm2p	UCXmEE051j5RhUENn7saUF3g
+290	Cocaine	Eric Clapton	The Cream Of Clapton	LIKE	3:38	O6yeLNNVa4A	MPREb_dX7dHEzKRhl	UCXmEE051j5RhUENn7saUF3g
+224	All She Wants To Do Is Dance	Don Henley	Actual Miles: Henley's Greatest Hits	LIKE	4:30	rpFRpGOiXpo	MPREb_MXMarVy0hRD	UCnPPs9X57Sl4dNCyIgLigzQ
+509	I Can't Go for That (No Can Do)	Daryl Hall & John Oates	Private Eyes (Expanded Edition)	LIKE	5:08	Ry04tCx4Bqw	MPREb_mQYMcGCgKFB	UC8zbYR5i0gecEZ3iPgm-i9g
+517	Kiss on My List	Daryl Hall & John Oates	Voices	LIKE	4:25	0pIHILw_ekA	MPREb_QdlWmily9V4	UC8zbYR5i0gecEZ3iPgm-i9g
+288	Down On The Corner	Creedence Clearwater Revival	Chronicle: 20 Greatest Hits	LIKE	2:44	cCkvJ9aecDQ	MPREb_bLI7GbfwBIH	UCRbMcMQeSFVvsyEuOn7uAKQ
+311	Travelin' Band	Creedence Clearwater Revival	Cosmo's Factory	LIKE	2:07	h_msJNjouqw	MPREb_a9r3qr5wLoN	UCRbMcMQeSFVvsyEuOn7uAKQ
+185	Does Anybody Really Know What Time It Is? (New Edit) [2003 Remaster)	Chicago	The Very Best Of Chicago (Only The Beginning)	LIKE	3:20	CyEUw37RCEk	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
+471	Peace of Mind	Boston	Boston	LIKE	5:04	tJ42CLtr7Jg	MPREb_b9VxOy5CQuI	UCwU_WvSAvmLZnvqRF0lg7Iw
+472	Don't Look Back	Boston	Don't Look Back	LIKE	6:01	KvmNRXdb2ng	MPREb_lGiz2s3TkWd	UCwU_WvSAvmLZnvqRF0lg7Iw
+23	Electric Funeral (2012 - Remaster)	Black Sabbath	Complete Studio Albums (1970-1978)	LIKE	4:49	-c6ytPRSv-I	MPREb_pToPfdUEQCw	UCLCELUuoHbkUxZ9EMHTYebg
+29	Black Sabbath	Black Sabbath	Greatest Hits (1970-1978)	LIKE	6:19	QD9tO4LCr7o	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
+36	War Pigs / Luke's Wall (2012 - Remaster)	Black Sabbath	We Sold Our Soul for Rock 'N' Roll	LIKE	7:54	qgz__d0VC5k	MPREb_LTNpdMa0YBH	UCLCELUuoHbkUxZ9EMHTYebg
+286	Rock 'n' Roll Fantasy (2009 Remaster)	Bad Company	Desolation Angels (2009 Remaster)	LIKE	3:18	D4KTCLrMR6Y	MPREb_FLVJGF6Z0Ye	UCNGSRmH2L_9N4B4tO_LmaXg
+164	Tin Man	America	Holiday	LIKE	3:30	uWgJyJNcMIQ	MPREb_P3Pbb9zdnjq	UCfh0qsQYH1TEyTt0LrRgLOw
+492	Sweet Emotion	Aerosmith	Pandora's Box	LIKE	4:35	eElceDOFyjg	MPREb_vHvPDDZrfx0	UCYuinPfuhK_rSlrJXvZQrng
+308	Dirty Deeds Done Dirt Cheap	AC/DC	Dirty Deeds Done Dirt Cheap	LIKE	3:52	UIE4UjBtx-o	MPREb_yuYe1U7YjBi	UCVm4YdI3hobkwsHTTOMVJKg
+318	Miller's Farm	ZZ Top	Chrome, Smoke & BBQ	INDIFFERENT	2:36	cmkpfFsiMpU	MPREb_uGBHKPEXQWy	UC_Us2Zqt4ovGtdXKmws60mw
+425	Gimme All Your Lovin'	ZZ Top	Eliminator	INDIFFERENT	4:02	_k1VSeudgxA	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
+445	Legs (2008 Remaster)	ZZ Top	Eliminator	INDIFFERENT	4:34	kELhHQ4sC_Y	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
+131	Rockestra Theme	Wings	Wingspan: Hits And History	INDIFFERENT	2:36	LSm8R3iRIhY	MPREb_ioTLddsOMBg	UCyyYmEud7d9iGVOYNMG9sAA
+100	Groovy Kind Of Love	Wayne Fontana	Love Songs	INDIFFERENT	1:59	E0dZOi1-kIg	MPREb_WSZz5aLtQbL	UCu9w3s_G4rzmVLNcodgUDmA
+442	Werewolves of London (2007 Remaster)	Warren Zevon	Excitable Boy	INDIFFERENT	3:29	lh0w01S7Jnk	MPREb_TNptpDKdduK	UChDuOKD_xJJqrHcwGtfch8g
+428	Low Rider	War	Why Can't We Be Friends?	INDIFFERENT	3:11	qMkwuz0iXQg	MPREb_RaGsFffxYkX	UCY9rJimufdb8imofVY8taNw
+525	Magnet and Steel	Walter Egan	Not Shy	INDIFFERENT	3:25	gqIlhQnn2z4	MPREb_9FFXerRCQEi	UCRdL_3Fy4Mubg4bIbb5agNg
+81	Early In The Morning	Vanity Fare	Greatest Hits	INDIFFERENT	2:33	jkfUHrU24kI	MPREb_rRqd7seyjE6	UCFL3uhV7buDJ90OKn4M-5cw
+362	You Keep Me Hangin' On (Alternate Version)	Vanilla Fudge	Sound of the 70s	INDIFFERENT	3:00	q5ci6BmnIe4	MPREb_pX4oTvKQkzm	UCk5H0B8nneItZMiUwqiTTPw
+449	Domino (1999 Remaster)	Van Morrison	His Band and the Street Choir	INDIFFERENT	3:09	_6yCe6trspM	MPREb_3MttkFKZydE	UCCiTDgyKWFNs6GXxMVR2ZbQ
+453	Wild Night	Van Morrison	The Essential Van Morrison	INDIFFERENT	3:34	bXoBnmJtqhY	MPREb_zhwh9bpeelx	UCCiTDgyKWFNs6GXxMVR2ZbQ
+446	Summer Nights	Van Halen	5150	INDIFFERENT	5:06	NSjnWI8HdhM	MPREb_WcQUvFfUqEi	UCPi7wU0ppI6ad7EEpHs7lHg
+348	Feelin' Alright?	Traffic	Traffic	INDIFFERENT	4:17	xYXxbtkGtW0	MPREb_dqxZs9cBREZ	UCFh-Yyaep1Gl5c0O1JTvEBQ
+374	Paper Sun	Traffic	Best Of Traffic	INDIFFERENT	4:15	80_UAuBEDlQ	MPREb_gRSLzux6D4j	UCFh-Yyaep1Gl5c0O1JTvEBQ
+468	Hold the Line	Toto	Toto	INDIFFERENT	3:56	ZP69PLBqFUo	MPREb_RtpxJDpku6b	UCewH1MBbYlEZMWx3ZUNywyg
+515	Rosanna	Toto	Toto IV	INDIFFERENT	5:32	SGtVZgCYVgk	MPREb_dL9I6V1S1Ta	UCewH1MBbYlEZMWx3ZUNywyg
+533	99	Toto	Hydra	INDIFFERENT	5:13	zdzUXqtD5jU	MPREb_S1DILBEcXFU	UCewH1MBbYlEZMWx3ZUNywyg
+567	Georgy Porgy	Toto	The Essential Toto	INDIFFERENT	4:08	o9goHsKTsfU	MPREb_SWLVbXqdADC	UCewH1MBbYlEZMWx3ZUNywyg
+609	Hold the Line	Toto	Toto	INDIFFERENT	3:56	ZP69PLBqFUo	MPREb_RtpxJDpku6b	UCewH1MBbYlEZMWx3ZUNywyg
+80	Crimson and Clover	Tommy James and the Shondells	US Hot 100 Hits of 1968	INDIFFERENT	3:30	8YvJkPDmnvQ	MPREb_KnGK1o5ndql	UCBwv3RxOvTdjJKhD5alG40Q
+101	Hanky Panky (Single Version)	Tommy James & The Shondells	Rhino Hi-Five: Tommy James & The Shondells	INDIFFERENT	2:54	d-Z_Y1AqPfk	MPREb_rv4whqhPwLG	UCBwv3RxOvTdjJKhD5alG40Q
+111	Mony Mony	Tommy James & The Shondells	Rhino Hi-Five: Tommy James & The Shondells	INDIFFERENT	2:55	Jj3Ulzsx7Xo	MPREb_rv4whqhPwLG	UCBwv3RxOvTdjJKhD5alG40Q
+341	Crystal Blue Persuasion (Single Version)	Tommy James & The Shondells	The Essentials: Tommy James & The Shondells	INDIFFERENT	4:04	RBH9H0oTm00	MPREb_GerwFndeJRh	UCBwv3RxOvTdjJKhD5alG40Q
+345	Mony Mony	Tommy James & The Shondells	Mony Mony	INDIFFERENT	2:52	qdrx9F6WEzM	MPREb_6ediDBfPg3a	UCBwv3RxOvTdjJKhD5alG40Q
+390	I'm a Tangerine	Tommy James & The Shondells	Crimson and Clover	INDIFFERENT	3:37	TxA0SGUIT1Q	MPREb_m7q7ANcxWfM	UCBwv3RxOvTdjJKhD5alG40Q
+593	Sure Enough	Tom Scott	Desire	INDIFFERENT	4:29	dQymAu7gabY	MPREb_RZV6A35bVUt	UCCgfA6vCdXalF3YqJS7ccZw
+322	No Regrets (2008 Remaster)	Tom Rush	The Circle Game [Expanded & Remastered]	INDIFFERENT	3:51	Bb7ld3dWChE	MPREb_PHub4MwOBMk	UCFM797QRF-AQyJKB2Flodfg
+415	The Waiting	Tom Petty and the Heartbreakers	Hard Promises	INDIFFERENT	3:58	DdiFZw6jMjs	MPREb_Pc5xcjrinQo	UC6hGusDLTI8bW-P4pMYdIqA
+253	The Wild One, Forever	Tom Petty & The Heartbreakers	An American Treasure (Deluxe)	INDIFFERENT	3:01	bK54vsiYx88	MPREb_8htl4tE0beB	UC6hGusDLTI8bW-P4pMYdIqA
+210	You Got Lucky	Tom Petty	Long After Dark	INDIFFERENT	3:37	_QZixvUjNH4	MPREb_CnCsfA6JqyD	UC6hGusDLTI8bW-P4pMYdIqA
+323	International Feel	Todd Rundgren	A Wizard / A True Star	INDIFFERENT	2:51	Pnp2qpGgLcg	MPREb_EHdNBMRwPJ6	UCib5cKFdDMXgDJ-B8PoT6rQ
+156	Shambala (Single Version)	Three Dog Night	Three Dog Night - The Complete Hit Singles	INDIFFERENT	3:25	Gc8QhdHpNwU	MPREb_ERcmRKmX6wF	UChdJeqxlsCTZml6HzCuZ60A
+165	Pieces Of April	Three Dog Night	The Best Of 3 Dog Night	INDIFFERENT	4:10	4B5MtDY7z_U	MPREb_0ZV6Wb2wDKM	UChdJeqxlsCTZml6HzCuZ60A
+188	Out In The Country	Three Dog Night	The Best Of 3 Dog Night	INDIFFERENT	3:06	sQcEoxwHoVE	MPREb_0ZV6Wb2wDKM	UChdJeqxlsCTZml6HzCuZ60A
+431	The Boys Are Back In Town	Thin Lizzy	Jailbreak	INDIFFERENT	4:30	nN120kCiVyQ	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+123	What More Can I Do	The Zombies	Begin Here	INDIFFERENT	1:35	MfzeJ5gUNDw	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
+382	Darkness, Darkness	The Youngbloods	Elephant Mountain	INDIFFERENT	3:49	-ge1VLj2Vf0	MPREb_UXygQwp2zlY	UCbwFfD0YNyJ0Ic8e4p7UHVw
+74	How Can I Be Sure (Single Version)	The Young Rascals	Feelin' Groovy! Chilled 60's Classics	INDIFFERENT	2:56	2P3x6E35KBY	MPREb_rJsf8CwyFJ5	UCx-fvMVKvAAP7279ZYbX97Q
+83	Groovin'	The Young Rascals	Gettin' Together: Groovy Sounds from the Summer of Love	INDIFFERENT	2:30	lYTCI96ykfE	MPREb_hntPEN3MbIF	UCx-fvMVKvAAP7279ZYbX97Q
+104	Good Lovin' (Single Version)	The Young Rascals	1966	INDIFFERENT	2:30	bVgw78bvfNw	MPREb_VmlkYOLQTzP	UCx-fvMVKvAAP7279ZYbX97Q
+275	Honey in Your Hips (Demo)	The Yardbirds	The Yardbirds Story - Pt. 2 - 1964 - Early Studio & At the Marquee (Live)	INDIFFERENT	2:17	fGmlyoYlX2s	MPREb_OY3gjhlIPBR	UC--CUY9RbIaFjKM3wZkIEOA
+0	Love Ain't For Keeping	The Who	Who's Next (Deluxe Edition)	INDIFFERENT	2:10	SdcOXqDVL_Y	MPREb_34QMPkZPwgF	UCpxn_sVrLQWNGFK1eulpYgw
+12	Going Mobile	The Who	Who's Next (Expanded Edition)	INDIFFERENT	3:43	pTg0hoS7zkE	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
+27	My Wife	The Who	Who's Next (Deluxe Edition)	INDIFFERENT	3:33	yBnfXM9-qp8	MPREb_34QMPkZPwgF	UCpxn_sVrLQWNGFK1eulpYgw
+41	Naked Eye	The Who	Who's Next (Expanded Edition)	INDIFFERENT	5:31	iPSc2effI4s	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
+44	Bald Headed Woman (Shel Talmy - Stereo Version)	The Who	My Generation	INDIFFERENT	2:32	0nq27dwE-Q8	MPREb_kPK6whfor7h	UCpxn_sVrLQWNGFK1eulpYgw
+45	I Don't Even Know Myself	The Who	Who's Next (Expanded Edition)	INDIFFERENT	4:56	u69_J8kE4m8	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
+53	Love Ain't For Keeping	The Who	Who's Next (Expanded Edition)	INDIFFERENT	2:10	eNXdSs99ZlU	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
+65	Pure And Easy	The Who	Who's Next (Expanded Edition)	INDIFFERENT	4:21	yOp111z0H0g	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
+265	I Can’t Explain (Live)	The Who	Live At The Isle Of Wight Festival 1970	INDIFFERENT	2:45	Yxxh0dqBQxU	MPREb_qMF3FNJvaem	UCpxn_sVrLQWNGFK1eulpYgw
+294	The Seeker (Edit)	The Who	Meaty, Beaty, Big And Bouncy	INDIFFERENT	3:10	M9PGmxmeaZI	MPREb_nPsRkDPhbBU	UCpxn_sVrLQWNGFK1eulpYgw
+378	Armenia City In The Sky	The Who	The Who Sell Out	INDIFFERENT	3:47	ojmhdT8qjoc	MPREb_CEGZZYeSgMo	UCpxn_sVrLQWNGFK1eulpYgw
+461	Summertime Blues	The Who	The Who Sell Out (Super Deluxe)	INDIFFERENT	2:39	PlfzJmL-Zg0	MPREb_ETnMJ9vdPC5	UCpxn_sVrLQWNGFK1eulpYgw
+466	Heat Wave	The Who	A Quick One	INDIFFERENT	1:57	-bK6gK1UGRs	MPREb_qmRYvUNMpyb	UCpxn_sVrLQWNGFK1eulpYgw
+485	Squeeze Box	The Who	The Who By Numbers (Expanded Edition)	INDIFFERENT	2:41	4n02PD18cFs	MPREb_IqzqjZhrlqW	UCpxn_sVrLQWNGFK1eulpYgw
+622	Squeeze Box	The Who	The Who By Numbers (Expanded Edition)	INDIFFERENT	2:41	4n02PD18cFs	MPREb_IqzqjZhrlqW	UCpxn_sVrLQWNGFK1eulpYgw
+353	I'll Be Your Mirror	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	INDIFFERENT	2:15	l9_aVPwDNzc	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
+98	You Baby	The Turtles	You Baby (Deluxe Version)	INDIFFERENT	2:16	EI8Pt7qBoF0	MPREb_TbXPcdznCTI	UCyaLZJOfKI9L4MQRfy65Psg
+360	Love Is All Around (Re-Recording)	The Troggs	For the One I Love	INDIFFERENT	3:00	BcbVTTpNaN0	MPREb_3oYhjBShAkL	UCHN3v9j_PgirkSPp9nFUcpg
+217	Not Alone Any More	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	3:24	cko3dBWiyus	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
+248	Margarita	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	3:16	c2Au3QoU-EE	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
+257	Rattled	The Traveling Wilburys	The Traveling Wilburys, Vol. 1	INDIFFERENT	2:59	r_7FAEvjN7M	MPREb_FdHDUDCeVjk	UC2zPxEtkJD0hh8cpXq2Rl9A
+358	I'm A Man	The Spencer Davis Group	Revolutions: The Very Best Of Steve Winwood	INDIFFERENT	2:56	M1SGILsgLXs	MPREb_wHCJvw8YucM	UC6NoFSCgvc_B0VuSrf-TFsA
+379	Gimme Some Lovin' (Single Mix)	The Spencer Davis Group	More Songs From The Original Soundtrack Of The Big Chill 15th Anniversary	INDIFFERENT	2:59	eaU6EYHSBTw	MPREb_GnufZUIWYti	UC6NoFSCgvc_B0VuSrf-TFsA
+110	Leader Of The Pack	The Shangri-Las	Leader Of The Pack	INDIFFERENT	2:53	BWIf4Ifk6aQ	MPREb_nulwCdV58gU	UCOQZHdy6mFgXNOaZhvCsceA
+78	Needles and Pins (Mono)	The Searchers	Needles & Pins	INDIFFERENT	2:12	sTR2UNrI1Jw	MPREb_YMNvumU9KL9	UCDCnk3Qj_Dgexq8EErav5Sg
+85	Sugar and Spice (Stereo Version)	The Searchers	The Definitive Pye Collection	INDIFFERENT	2:16	uHtSf2iAlBA	MPREb_RVWRwpSRj3O	UCDCnk3Qj_Dgexq8EErav5Sg
+117	Sugar & Spice (Merseybeat Version)	The Searchers	Spooky - The Songs Of Our Lives	INDIFFERENT	2:12	pQVvx2zRiDc	MPREb_XUTD6I31wJq	UCDCnk3Qj_Dgexq8EErav5Sg
 1	Country Honk	The Rolling Stones	Let It Bleed	INDIFFERENT	3:07	LHiaxet1y0U	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
-33	Midnight Rambler	The Rolling Stones	Let It Bleed	INDIFFERENT	6:52	4V1SvYwkVtk	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
-40	Factory Girl	The Rolling Stones	Beggars Banquet	INDIFFERENT	2:08	3hzlCHl7PWc	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
-49	Paint It, Black (Original Single Mono Version)	The Rolling Stones	Singles 1965-1967	INDIFFERENT	3:44	b1uIM2nPocE	MPREb_tjxjvgOsPIe	UCNYhhkQqeFLUc-YEDcLpSYQ
-55	Happy (2005 Digital Remaster)	The Rolling Stones	Made In The Shade	INDIFFERENT	3:03	ML1gH6mhfak	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
-246	Angie	The Rolling Stones	Goats Head Soup	INDIFFERENT	4:32	aVLBF-UKevY	MPREb_vLHx6Nz4ron	UCNYhhkQqeFLUc-YEDcLpSYQ
-261	Shattered	The Rolling Stones	Some Girls (Deluxe Version)	INDIFFERENT	3:46	FVoUGdWSB2E	MPREb_nOsVLtXMuBo	UCNYhhkQqeFLUc-YEDcLpSYQ
-271	Down The Road Apiece	The Rolling Stones	The Rolling Stones, Now!	INDIFFERENT	2:55	HOpjhvCSDTM	MPREb_mFD0YBbYyii	UCNYhhkQqeFLUc-YEDcLpSYQ
-275	Pain In My Heart	The Rolling Stones	The Rolling Stones No.2	INDIFFERENT	2:11	9WrlFLJ47eE	MPREb_62gLY9AQWc3	UCNYhhkQqeFLUc-YEDcLpSYQ
-276	Down Home Girl	The Rolling Stones	The Rolling Stones, Now!	INDIFFERENT	4:11	uVAcvSukfrI	MPREb_mFD0YBbYyii	UCNYhhkQqeFLUc-YEDcLpSYQ
-283	Street Fighting Man (Live)	The Rolling Stones	Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Deluxe Version)	INDIFFERENT	4:06	M8gPQWSXZ4I	MPREb_nrSezldDSXv	UCNYhhkQqeFLUc-YEDcLpSYQ
-286	It's Only Rock 'N' Roll (But I Like It) (Live / Remastered 2009)	The Rolling Stones	Love You Live	INDIFFERENT	4:31	G8X0DelcHoM	MPREb_kW3hdbLuOMH	UCNYhhkQqeFLUc-YEDcLpSYQ
-303	Doo Doo Doo Doo (Heartbreaker) (2005 Digital Remaster)	The Rolling Stones	Made In The Shade	INDIFFERENT	3:26	jhnn3St0i7U	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
-334	Sympathy For The Devil (50th Anniversary Edition)	The Rolling Stones	Beggars Banquet (50th Anniversary Edition)	INDIFFERENT	6:19	uWepTCBBnLo	MPREb_Ir7Xm3VAPcS	UCNYhhkQqeFLUc-YEDcLpSYQ
-453	Tumbling Dice	The Rolling Stones	Exile On Main Street (Deluxe Version)	INDIFFERENT	3:46	0C8i6tOjt-M	MPREb_sjrOcDh9zTz	UCNYhhkQqeFLUc-YEDcLpSYQ
-374	People Got to Be Free	The Rascals	Freedom Suite	INDIFFERENT	3:02	PGUhdwTyziM	MPREb_GiZLsOgwSb4	UCTyZg74MHOVOSN2prFqiG4Q
-447	Every Little Thing She Does Is Magic	The Police	Ghost In The Machine (Remastered 2003)	INDIFFERENT	4:21	5WEjz2YoH80	MPREb_dgXO6idIrNG	UCbsRGw640UF_F7AIwHW-zmg
-315	If You Wanna Get To Heaven	The Ozark Mountain Daredevils	The Ozark Mountain Daredevils	INDIFFERENT	3:04	ouP9Yz8TEBM	MPREb_vEle68IDuR1	UCGIWIe4f9T1yQ7VdLsgGO7A
-124	Tobacco Road	The Nashville Teens	Nashville Teens - The Best Of	INDIFFERENT	2:28	Fpv908CeI4I	MPREb_R85eBQRzQK0	UCB8ZamjpgQQmSiUOQqfQd4Q
-411	Crimson Witch	The Moving Sidewalks	Flash	INDIFFERENT	3:07	5fe6M35rn4w	MPREb_sdgLBK1nwFI	UCZFoVZm2Ou8JNYl696ZiP4w
-192	The Story In Your Eyes	The Moody Blues	The Best Of The Moody Blues	INDIFFERENT	3:05	yJyZBEKvFR4	MPREb_HSTuHU1pCVS	UC4HQKRyk4s13hiAnZBXxZWQ
-201	Ride My See-Saw	The Moody Blues	In Search Of The Lost Chord	INDIFFERENT	3:39	ExqvK56GiS0	MPREb_EH9HtVmNlnI	UC4HQKRyk4s13hiAnZBXxZWQ
-375	Tuesday Afternoon (Alternate Mix)	The Moody Blues	Days Of Future Passed (Deluxe Version)	INDIFFERENT	4:20	qgU-5ETnci0	MPREb_769ZxgScsRT	UC4HQKRyk4s13hiAnZBXxZWQ
-94	Daydream Believer	The Monkees	The Birds, The Bees, & The Monkees	INDIFFERENT	3:00	aG9MBS0fjyE	MPREb_fTQB7SF4zUz	UCFXwbDAkk-Ef4nWOpw9vqYQ
-357	Pleasant Valley Sunday (2007 Remaster)	The Monkees	Pisces, Aquarius, Capricorn & Jones Ltd. (Deluxe Edition)	INDIFFERENT	3:15	boJlejbuyw0	MPREb_DrZqu0guRE0	UCFXwbDAkk-Ef4nWOpw9vqYQ
-378	I'm a Believer (Alternate Mix) [2006 Remaster]	The Monkees	More of The Monkees (Deluxe Edition)	INDIFFERENT	2:51	55V6xLwsNGo	MPREb_iCm7ET5ktfY	UCFXwbDAkk-Ef4nWOpw9vqYQ
-117	Wishin' and Hopin'	The Merseybeats	Mr. Moonlight	INDIFFERENT	2:41	34CMgXwgTZU	MPREb_v6GjpeszZcY	UCCz30g-SR4HfS9bU-ABO3QQ
-351	Creeque Alley (Single Version)	The Mamas & The Papas	Deliver	INDIFFERENT	3:48	7ccDdIuJpOE	MPREb_JSMtWAX8Bm2	UCUifbmzuPtWDjyefmmIWzFA
-116	Daydream	The Lovin' Spoonful	Playlist: The Very Best Of The Lovin' Spoonful	INDIFFERENT	2:20	TOD5stXnUWQ	MPREb_S7IkRYw8hzQ	UCgTe55AB4dqeMMVgVZ-qQnQ
-438	Summer in the City	The Lovin' Spoonful	Hums Of The Lovin' Spoonful	INDIFFERENT	2:41	QT9_CJOw7E4	MPREb_Pcn7BUgZ1KQ	UCgTe55AB4dqeMMVgVZ-qQnQ
-95	Summer In The City	The Lovin Spoonful	A Gold Collection of Pop Classics	INDIFFERENT	2:46	5NmEty32Fkw	MPREb_PfMYIg9kjL4	UCgTe55AB4dqeMMVgVZ-qQnQ
-63	Long Tall Sally (Mono Mix)	The Kinks	Kinks (Deluxe Edition)	INDIFFERENT	2:11	TaZqHD58pSI	MPREb_gaTyP1B7tMR	UCsQHS0_Fw1vIXm3TEbPokvA
-70	Set Me Free	The Kinks	Kinda Kinks (Deluxe Edition)	INDIFFERENT	2:09	81qqyigh6D4	MPREb_fpPx7Yb6mSn	UCsQHS0_Fw1vIXm3TEbPokvA
-294	Sunny Afternoon (Mono Mix)	The Kinks	The Singles Collection	INDIFFERENT	3:33	5BUsX5yOVrA	MPREb_5vwy63r5ayn	UCsQHS0_Fw1vIXm3TEbPokvA
-371	I Ain't Superstitious	The Jeff Beck Group	Truth	INDIFFERENT	4:52	HNcJGWQsz1Q	MPREb_85HIqx5jWaB	UCDPMz5gHZt_TgS8JX7lS71w
-91	Tossing And Turning	The Ivy League	Tossing And Turning	INDIFFERENT	2:25	t0HmpAJ_0Gk	MPREb_H1IGzFoH4iy	UCwypwz4GElXr2TfsQZrgC2w
-469	And We Danced	The Hooters	Nervous Night	INDIFFERENT	3:49	aGXDN3CZuVY	MPREb_aUwptjGpR65	UCRqVtcShW_Tu_9eG2lNJBKg
-372	Let It Out (Let It All Hang Out)	The Hombres	60's Gold	INDIFFERENT	2:04	5nVAkvHTRB8	MPREb_RP8HFaPEUcb	
-92	Bus Stop (2003 Remaster)	The Hollies	6 Greatest Hits	INDIFFERENT	2:55	E50duKq8-8M	MPREb_nOu1ZqDQyzr	UC4lSAGYiQVrDIqE_cQf6GQQ
-170	Undun	The Guess Who	The Best Of The Guess Who	INDIFFERENT	3:29	WWMMOwKazus	MPREb_XsMR8oubK1j	UCeJzOtrRt4ToYZj336gNElg
-120	Let's Live For Today	The Grass Roots	Back To The 60's Rock 'N' Roll	INDIFFERENT	2:46	WanAvq9Siuc	MPREb_BFhBGcHW5Wo	UCLEbAV4KupKJ9wJHT2M9tYw
-156	Sooner Or Later	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	INDIFFERENT	2:41	_W8jAwU44gY	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
-197	Temptation Eyes	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	INDIFFERENT	2:39	J88_Qi9Et8Q	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
-210	Two Divided By Love	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	INDIFFERENT	2:35	s3Rig33j_YE	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
-392	Hot Burrito #2	The Flying Burrito Brothers	The Gilded Palace Of Sin	INDIFFERENT	3:17	su3a6SYmWtM	MPREb_4QuSQz8s4NL	UCD76tRLMSmSRL7SBx2F1SSA
-103	The Price of Love (Single Version)	The Everly Brothers	1965	INDIFFERENT	2:06	3dyFSTAX9Yw	MPREb_dEpP4a4oylr	UC6HvsRZWT4Z_T-mJmYxKmLg
-402	Killing Floor	The Electric Flag	A Long Time Comin'	INDIFFERENT	4:09	ZycIewGWdN8	MPREb_e4EU4E8vj5a	UClthr7cgqotyrAEvgmWAXsA
-44	Hyacinth House	The Doors	L.A. Woman	INDIFFERENT	3:11	Aeh_cU0pmR8	MPREb_2kpSbS0hp4L	UCdx4iSJpg33jNmd9auQT04Q
-61	The Crystal Ship (New Stereo Mix)	The Doors	The Very Best Of The Doors	INDIFFERENT	2:34	Bm9Xue6MyfY	MPREb_dq7I3XxJW8r	UCdx4iSJpg33jNmd9auQT04Q
-64	Touch Me	The Doors	The Soft Parade	INDIFFERENT	3:11	EZaQyYgAGfQ	MPREb_L4JXFYnYA0v	UCdx4iSJpg33jNmd9auQT04Q
-138	End of the Night (New Stereo Mix)	The Doors	The Very Best Of The Doors	INDIFFERENT	2:50	4aMamzJUdCc	MPREb_dq7I3XxJW8r	UCdx4iSJpg33jNmd9auQT04Q
-280	Roadhouse Blues (Live at Madison Square Garden, New York, 1970)	The Doors	Behind Closed Doors - The Rarities	INDIFFERENT	4:19	DTBRERuIIY0	MPREb_9PJ3mFeWKjH	UCdx4iSJpg33jNmd9auQT04Q
-287	(You Need Meat) Don't Go No Further	The Doors	Weird Scenes Inside the Gold Mine	INDIFFERENT	3:42	RnEycCq49P0	MPREb_rVekq89dvlW	UCdx4iSJpg33jNmd9auQT04Q
-341	The Crystal Ship	The Doors	The Doors	INDIFFERENT	2:32	GKa1W4a_5mI	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
-354	Hello, I Love You	The Doors	Waiting for the Sun (50th Anniversary Deluxe Edition)	INDIFFERENT	2:17	757wWbOgBNA	MPREb_SFP1PrsiSrO	UCdx4iSJpg33jNmd9auQT04Q
-172	Rockin' Down the Highway	The Doobie Brothers	Toulouse Street	INDIFFERENT	3:19	zqtrE-iZsz0	MPREb_yu0UbPpPhcH	UCu_glVzsM9pvbSyXi2zzuVA
-258	Take Me in Your Arms (Rock Me a Little While)	The Doobie Brothers	Stampede	INDIFFERENT	3:39	uSSxEGlf6WU	MPREb_Iji4NSMXr0n	UCu_glVzsM9pvbSyXi2zzuVA
-78	Do You Want to Know a Secret? (Mono) [1998 Remaster]	The Dakotas	Do You Want To Know A Secret? (The EMI Recordings 1963-1983)	INDIFFERENT	2:05	IZUoAg2y8xI	MPREb_UEB90cq1qwW	UCh05yBW9mOkgYBvGfGT8C8w
-98	Bad to Me (Mono) [1998 Remaster]	The Dakotas	Do You Want To Know A Secret? (The EMI Recordings 1963-1983)	INDIFFERENT	2:21	cvSL7T3TFNM	MPREb_UEB90cq1qwW	UCh05yBW9mOkgYBvGfGT8C8w
-83	He's so Fine	The Chiffons	The Girls' Sound	INDIFFERENT	2:38	Lipvrt0mBdU	MPREb_Pn9GVIvG7uH	UCrrXKjbhymi4ucJCPsoM1Vg
-93	One Fine Day	The Chiffons	The Girls' Sound	INDIFFERENT	2:42	0eXiByw_8Oc	MPREb_Pn9GVIvG7uH	UCrrXKjbhymi4ucJCPsoM1Vg
-410	Time Has Come Today (Single Version One)	The Chambers Brothers	The Time Has Come	INDIFFERENT	3:53	08rUnwQ-sDo	MPREb_r4ryjMUyCcB	UCR5_ndoopalrW_RS2OZI7Rw
-432	Magic	The Cars	Heartbeat City (Expanded Edition)	INDIFFERENT	3:58	qB_2B5tVbtk	MPREb_OjaALHg5yvL	UCu_gFD6YgmN85WjTSIotYcA
-73	So You Want to Be a Rock 'N' Roll Star	The Byrds	Younger Than Yesterday	INDIFFERENT	2:06	9EiHojlaWrE	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
-85	All I Really Want to Do	The Byrds	Mr. Tambourine Man	INDIFFERENT	2:04	nymd_ToIHB0	MPREb_L9L05TSnMZf	UCWgHSjTVKbR3z-MKow8OydA
-80	Kind of a Drag	The Buckinghams	Pop Classics Of The 60's	INDIFFERENT	2:05	CpW_toqriX4	MPREb_CrQOVWlHG6K	UChYLLD4VuF89c39x-cden_A
-389	Don't You Care	The Buckinghams	Pop Music: The Golden Era 1951-1975	INDIFFERENT	2:29	-nH0UNlfPRE	MPREb_iYXxpiQbpM4	UChYLLD4VuF89c39x-cden_A
-121	Soul Deep	The Box Tops	Dimensions	INDIFFERENT	2:28	beB1owW-EzM	MPREb_tJnc4mA8mPt	UC1pX55oPOqJzehRJtsXwF8g
-337	The Letter	The Box Tops	Dial A Hit	INDIFFERENT	1:56	nZ5yLt5fh7Q	MPREb_CZueVqHBwJW	UC1pX55oPOqJzehRJtsXwF8g
-76	I Fought the Law	The Bobby Fuller Four	Rock 'n' Roll, Vol. 3	INDIFFERENT	2:07	HebGbjudFGk	MPREb_4oINIpe3j6D	UCyJMN6XrYK78Pkp4pm4bmMw
-384	Tobacco Road	The Blues Magoos	Psychedelic Lollipop	INDIFFERENT	4:40	c1_3g_UM_F0	MPREb_whXQaEJI1Jg	UCRrECyGix7ljQpiLk_Qu8VA
-77	Just A Little	The Beau Brummels	Rock n' Roll Masters: The Beau Brummels	INDIFFERENT	2:19	Jeu9_FK6ud8	MPREb_m91ufr2aLTI	UCx5XuXV61li0FsvI8LJ6qaA
-281	Norwegian Wood (This Bird Has Flown) (Take 1 / Anthology 2 Version)	The Beatles	Anthology 2	INDIFFERENT	2:00	PuJZYI5qomk	MPREb_r9ehGUcIpog	UC2XdaAVUannpujzv32jcouQ
-344	Lucy In The Sky With Diamonds (Remix)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)	INDIFFERENT	3:28	HyPWWxqCpMc	MPREb_doCRM5YXYgb	UC2XdaAVUannpujzv32jcouQ
-445	Rock And Roll Music (Remastered 2009)	The Beatles	Beatles For Sale	INDIFFERENT	2:32	IRF6nmqcbxo	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
-449	Day Tripper (Remastered 2009)	The Beatles	The Beatles 1962 - 1966	INDIFFERENT	2:50	suRl1L2U6GY	MPREb_tymxbN4xRgQ	UC2XdaAVUannpujzv32jcouQ
-50	Here Today (Mono)	The Beach Boys	Pet Sounds (50th Anniversary Edition)	INDIFFERENT	2:55	mOh6YXNoR_M	MPREb_EUUqxE9U2Sg	UCrnD8aXhy4oQMS0ITw471tA
-53	That's Not Me	The Beach Boys	Pet Sounds (Original Mono & Stereo Mix Versions)	INDIFFERENT	2:32	X1XDMaz4TZ4	MPREb_3vajdQZ1KVX	UCrnD8aXhy4oQMS0ITw471tA
-56	I Know There's An Answer	The Beach Boys	Pet Sounds (Original Mono & Stereo Mix Versions)	INDIFFERENT	3:12	jQk2yvkyejw	MPREb_3vajdQZ1KVX	UCrnD8aXhy4oQMS0ITw471tA
-104	Cotton Fields (The Cotton Song) [Single Version]	The Beach Boys	Good Vibrations: Thirty Years Of The Beach Boys	INDIFFERENT	3:02	SiYOdEGMbgk	MPREb_cB9icZFRtZg	UCrnD8aXhy4oQMS0ITw471tA
-122	Sail On, Sailor	The Beach Boys	Good Vibrations: Thirty Years Of The Beach Boys	INDIFFERENT	3:19	ATVjYH7dURY	MPREb_cB9icZFRtZg	UCrnD8aXhy4oQMS0ITw471tA
-467	Good Vibrations	The Beach Boys	Good Vibrations	INDIFFERENT	3:38	oMfjgQ8ptrE	MPREb_bt02yk1puzh	UCrnD8aXhy4oQMS0ITw471tA
-364	Chest Fever	The Band	Music From Big Pink	INDIFFERENT	5:14	ERuUgVxi6JM	MPREb_YFkjxlhScEE	UCFczEeze7e0Lghy3eXtl38Q
-358	Windy (Remastered Version)	The Association	Insight Out	INDIFFERENT	2:57	VUv9OK4KUv8	MPREb_cPNDGHHNsBq	UC1xTzc2q-KzBPxIZ6vHViqQ
-412	Pandora's Golden Heebie Jeebies (Remastered Version)	The Association	Renaissance	INDIFFERENT	2:51	1WRw7E2obqQ	MPREb_taCAYWIGPI5	UC1xTzc2q-KzBPxIZ6vHViqQ
-285	Every Hungry Woman	The Allman Brothers Band	The Allman Brothers Band	INDIFFERENT	4:15	5XK2DDoAWTc	MPREb_DOxReUOcarp	UC8RbgxtYaViMHEKmcpsmi6w
-342	Whipping Post	The Allman Brothers Band	The Allman Brothers Band	INDIFFERENT	5:18	VZSNs6H-HDI	MPREb_K4rNVKMhQv5	UC8RbgxtYaViMHEKmcpsmi6w
-391	Up, Up and Away	The 5th Dimension	Up, Up And Away	INDIFFERENT	2:38	N2ltxx4iC9k	MPREb_utEogko93YI	UC2frP9pgMdxvA1qMzrbsFhw
-409	I Want To Know	Ten Years After	Ten Years After (Re-Presents)	INDIFFERENT	2:11	HU7uK4TPTmQ	MPREb_cx6Y69lvkPH	UCUdBaM2VvXJN4pWVPh9L9YA
-135	Dammit Janet	Susan Sarandon	The Rocky Horror Picture Show - Original Soundtrack	INDIFFERENT	2:46	G4T9CSJJAww	MPREb_rFIya4JN5u5	UCNPj-uTN_N07oxhUlz3e4JA
-97	Baby Love	Supremes	The 60´s, Vol. 1	INDIFFERENT	2:47	gwRxz4Pk-JU	MPREb_XSFH8mn3Any	UCaKbXyTyxKOyBKasPe7JB2w
-296	Goodbye Stranger (2010 Remastered)	Supertramp	Breakfast In America (Deluxe Edition)	INDIFFERENT	5:50	c6X73UUREAM	MPREb_PJEQd8cWAdJ	UCpS0hJ21amjA5eBApEOiIFw
-312	Renegade	Styx	Pieces Of Eight	INDIFFERENT	4:17	E9eLz4DrwF8	MPREb_2qxlFrE9NF5	UCigTxDNbQ3mIIyZgsTFWLMg
-352	Incense And Peppermints	Strawberry Alarm Clock	Incense And Peppermints	INDIFFERENT	2:47	eo7UxnXnRlQ	MPREb_AADrJTLN8iv	UCmXH7xVm7TI-mIqbNTLACog
-377	Rainy Day Mushroom Pillow	Strawberry Alarm Clock	Incense And Peppermints	INDIFFERENT	3:04	50LPTiI-0eY	MPREb_AADrJTLN8iv	UCmXH7xVm7TI-mIqbNTLACog
-16	Couldn't Stand the Weather	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather (Legacy Edition)	INDIFFERENT	4:42	MYs4nKywH8Q	MPREb_EkWi0ymkLW8	UCG47N6MrGcPaJpVRgBoAVAQ
-41	Mary Had a Little Lamb	Stevie Ray Vaughan And Double Trouble	Texas Flood	INDIFFERENT	2:47	7VE9I8su8Oo	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
-264	Voodoo Child (Slight Return)	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather (Legacy Edition)	INDIFFERENT	7:59	idpdiIyCAUM	MPREb_EkWi0ymkLW8	UCG47N6MrGcPaJpVRgBoAVAQ
-14	The Sky Is Crying (Live)	Stevie Ray Vaughan & Double Trouble	The Real Deal: Greatest Hits Volume 1	INDIFFERENT	7:19	6ns46LXhZKo	MPREb_iGstpRkf9xf	UCG47N6MrGcPaJpVRgBoAVAQ
-10	Shake for Me (Live at Steamboat 1874, Austin, TX - April 1980)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	3:49	bmASdI1H2ZA	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
-20	Superstition (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	4:41	JlinzJ71kcw	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
-22	Leave My Girl Alone (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	4:47	VtKmNVirnQE	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
-32	Wall of Denial	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	5:37	v0bZ70bUHj4	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
-39	Rude Mood/Hide Away (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	4:58	mBzud6-s5rg	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
-269	Scuttle Buttin' (Live at Carnegie Hall, New York, NY - October 1984)	Stevie Ray Vaughan	Live at Carnegie Hall	INDIFFERENT	2:44	ANOx3rAzVu4	MPREb_v5kLcnD2m6l	UCG47N6MrGcPaJpVRgBoAVAQ
-284	Letter to My Girlfriend (Live at Carnegie Hall, New York, NY - October 1984)	Stevie Ray Vaughan	Live at Carnegie Hall	INDIFFERENT	3:09	2ajSyh312Oo	MPREb_v5kLcnD2m6l	UCG47N6MrGcPaJpVRgBoAVAQ
-317	True Fine Love	Steve Miller Band	Book Of Dreams	INDIFFERENT	2:39	_jRnorE5vxg	MPREb_0G4YvkSmjp5	UCDlFd5kiM4QbD_NRGwgGu1w
-363	Living In The U.S.A.	Steve Miller Band	Sailor	INDIFFERENT	4:04	6_rKPuqxFtA	MPREb_CduCGM5m5nn	UCDlFd5kiM4QbD_NRGwgGu1w
-397	Baby's Callin' Me Home	Steve Miller Band	Children Of The Future	INDIFFERENT	3:16	9cK--Mt5iKE	MPREb_T15nGd3jARb	UCDlFd5kiM4QbD_NRGwgGu1w
-425	Take the Money and Run	Steve Miller Band	Fly Like An Eagle	INDIFFERENT	2:50	r9oW1dHBZ5M	MPREb_1d6aG32crPv	UCDlFd5kiM4QbD_NRGwgGu1w
-304	Born To Be Wild	Steppenwolf	Easy Rider (Music From The Soundtrack)	INDIFFERENT	3:37	yp8mlU29h_0	MPREb_lhYoAey9ibF	UC0aR1L5OoaiiaW73-bNl_Ug
-194	On And On	Stephen Bishop	Careless	INDIFFERENT	3:01	oRrlRbGT-LU	MPREb_dogG53GpjNr	UCEAF0l30Ju2DOQPuMZHDXRQ
-160	Moonlight Feels Right	Starbuck	Moonlight Feels Right (The Original Masters)	INDIFFERENT	3:42	baNVsZcbRXE	MPREb_CPHdbZyHxy0	UCPziG_yV_VdYeDot3atUPwg
-369	I Got a Line on You	Spirit	The Best Of Spirit	INDIFFERENT	2:39	mzoQvuCfin4	MPREb_C4PHWwGSFnu	UCE_-rbweYtbqn-dL4zVe1Ug
-393	Uncle Jack	Spirit	Spirit	INDIFFERENT	2:43	2iEoUdW74KU	MPREb_y8AcTknvZ3R	UCE_-rbweYtbqn-dL4zVe1Ug
-362	Sunday Will Never Be The Same	Spanky & Our Gang	Spanky & Our Gang	INDIFFERENT	3:00	07nK9CXZvAI	MPREb_34U8dQSfa9u	UC_YYtkK5aOQgyWIdl9hJX0g
-381	The Beat Goes On	Sonny & Cher	In Case You're In Love	INDIFFERENT	3:28	oC7ZgXmrs6Q	MPREb_uVZwVEBNnrm	UCT9j2t6ZNndL822NSf_fK2w
-137	Doing All Right (…revisited)	Smile	Bohemian Rhapsody (The Original Soundtrack)	INDIFFERENT	3:17	qcA5kfZLlK4	MPREb_RePGikaHmMB	
-388	Itchycoo Park (Stereo Version)	Small Faces	Small Faces - Deluxe Edition	INDIFFERENT	2:51	nO9DqvznjrQ	MPREb_VGJ0AmlSFRo	UCqmvlahzkVOFPipBAotsQ7w
-437	Hot Fun In The Summertime	Sly & The Family Stone	Pop Music: The Golden Era 1951-1975	INDIFFERENT	2:43	5K4h8NXA5L8	MPREb_iYXxpiQbpM4	UCgwJnBJfprQYGX3OPQrTvqw
-179	Castles in the Sand	Seals and Crofts	Seals & Crofts' Greatest Hits	INDIFFERENT	3:42	qrzNH1Ke030	MPREb_TdIryss8UJT	UCsf803dMVUj5thyQ_lG2bDw
-204	We May Never Pass This Way (Again)	Seals and Crofts	Rhino Hi-Five: Seals & Crofts	INDIFFERENT	4:15	S7OAjX4HNEA	MPREb_AlO2SMUGRji	UCsf803dMVUj5thyQ_lG2bDw
-162	Get Closer	Seals & Crofts	Get Closer	INDIFFERENT	3:59	rBUHdy8g8S4	MPREb_t2oxMdWAvvf	UCsf803dMVUj5thyQ_lG2bDw
-403	Train To Nowhere	Savoy Brown	Discover British Blues On Decca & Deram	INDIFFERENT	4:11	iRk-7ySlexw	MPREb_rvdRw2YhhRu	UCLg-Jz8kxV-NWVB2Kn9trJA
-18	Savor	Santana	Santana (Legacy Edition)	INDIFFERENT	2:48	c-NFN1xkBDA	MPREb_WogiuOWp9X5	UCX0rR7x8-nLew2t8UH-n2aw
-47	Treat	Santana	Santana (Legacy Edition)	INDIFFERENT	4:45	FU58lQdSSf8	MPREb_WogiuOWp9X5	UCX0rR7x8-nLew2t8UH-n2aw
-417	Soul Sacrifice	Santana	Tropical Spirits Parts I & II	INDIFFERENT	4:54	Slqpu-hEZWM	MPREb_OajNFTfH7G9	UCX0rR7x8-nLew2t8UH-n2aw
-446	Oye Como Va	Santana	Abraxas	INDIFFERENT	4:17	edDQFmK7HHg	MPREb_L54fdPS3ZqF	UC8FXf7veyvB-J0tdFfOTRcg
-150	Late Home Tonight, Pt. II	Roger Waters	Amused to Death	INDIFFERENT	2:13	isVAEXdKBS4	MPREb_rAMMWACD6ei	UCjL3Tr2bN7H6Ivx_dusK5XA
-217	You Wear It Well	Rod Stewart	Never A Dull Moment	INDIFFERENT	4:22	_5lX0eMI7Hw	MPREb_TiHK1ZR7t0O	UCE5MST8NSGuWr88dQcNZ0fw
-228	(Find A) Reason To Believe	Rod Stewart	Every Picture Tells A Story	INDIFFERENT	4:11	uhbs5Sbn-dM	MPREb_CkJDYC5glp5	UCE5MST8NSGuWr88dQcNZ0fw
-451	You Wear It Well	Rod Stewart	Never A Dull Moment	INDIFFERENT	4:22	_5lX0eMI7Hw	MPREb_TiHK1ZR7t0O	UCE5MST8NSGuWr88dQcNZ0fw
-443	Jessie's Girl	Rick Springfield	Working Class Dog	INDIFFERENT	3:15	mI1sxQi7USA	MPREb_wtwUBygngAP	UCzh1va376Chd_vSI51lz7Hg
-376	Follow	Richie Havens	Mixed Bag	INDIFFERENT	6:24	IEazNNJEcm0	MPREb_riiESmpSSYR	UC0aezVmCbJ-GF2js8M8JmNg
-131	Science Fiction/Double Feature (Reprise)	Richard O'Brien	The Rocky Horror Picture Show - Original Soundtrack	INDIFFERENT	1:31	r2jRskI1F1Y	MPREb_rFIya4JN5u5	UC_q3gkoDU036X9heNGKseqw
-473	I Love L.A.	Randy Newman	Trouble In Paradise	INDIFFERENT	3:28	cYUfGXPV_Sc	MPREb_OTs1o3EP23i	UCpXXBsB1exs7tMZUyw0T0FA
-470	Rockaway Beach (Remastered Version)	Ramones	Rocket to Russia	INDIFFERENT	2:06	fGSiWhQR_NE	MPREb_2hEuzLewYhg	UCXYTNaRC13Mc0muUaYDrT9g
-421	Keep on Loving You	REO Speedwagon	Hi Infidelity	INDIFFERENT	3:21	XKc7z-enzmA	MPREb_r6ZatyZ33RA	UCfAldYkhLRUDcWJPE-xrNqQ
-475	Take It on the Run	REO Speedwagon	The Hits	INDIFFERENT	4:01	gTJgRuSkreI	MPREb_3UzqU5z0TO9	UCfAldYkhLRUDcWJPE-xrNqQ
-379	Who Do You Love (Pt. 1)	Quicksilver Messenger Service	Happy Trails	INDIFFERENT	3:33	SHxwNxXBEYo	MPREb_jzyDBtrauT6	UC0X9KPL1GjPQ-uW46DT12Iw
-413	Pride Of Man (Rare Session)	Quicksilver Messenger Service	Fresh Air - Greatest Hits	INDIFFERENT	4:37	FkYGrOn59Po	MPREb_1iEyg9iND48	UC0X9KPL1GjPQ-uW46DT12Iw
-474	You're My Best Friend	Queen	A Night At The Opera (Deluxe Remastered Version)	INDIFFERENT	2:50	iIT89N78uX8	MPREb_mrZGcLOHyHy	UCEPMVbUzImPl4p8k4LkGevA
-178	Falling In And Out Of Love (Remastered 1988)	Pure Prairie League	Bustin' Out	INDIFFERENT	2:12	fNmXJ3mD9CI	MPREb_RucljqSVLOq	UCtuliIWo9o0mfEsxSirk8tA
-175	Crazy Love	Poco	Legend	INDIFFERENT	2:56	7Ki7f4g9X9g	MPREb_qUUr2OmT88J	UCFLNe4hB4DVzj6smic-hUSg
-21	Bike (Edit) [2001 Remastered Version]	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	3:24	6RKjzC7Tg-4	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
-31	Us And Them (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	7:51	h90j3lOXNvU	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
-62	Learning To Fly (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	4:50	cRe05aJxSfw	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
-67	The Final Cut	Pink Floyd	The Final Cut	INDIFFERENT	4:42	tFSRooc9yIQ	MPREb_B876Gc4yjiS	UCO6LS_5W7vqG9mALDNzSFug
-72	Mother	Pink Floyd	The Wall	INDIFFERENT	5:35	xe3NUKCnZp4	MPREb_6MwY5ApCXas	UCO6LS_5W7vqG9mALDNzSFug
-266	Arnold Layne	Pink Floyd	Relics	INDIFFERENT	2:56	sHO8dvEQpaI	MPREb_1YFuDzgPnyn	UCO6LS_5W7vqG9mALDNzSFug
-359	See Emily Play	Pink Floyd	Relics	INDIFFERENT	2:53	HwV3aTh6pi8	MPREb_1YFuDzgPnyn	UCO6LS_5W7vqG9mALDNzSFug
-373	Arnold Layne (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	2:52	mybz6bw65y0	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
-400	Outside Of A Small Circle Of Friends	Phil Ochs	Pleasures Of The Harbor	INDIFFERENT	3:40	9uUmLVzUQTA	MPREb_gDm5sGP6L1V	UCTHgiquGC31PdI8czIPtdJg
-226	Show Me The Way (Live)	Peter Frampton	Greatest Hits	INDIFFERENT	4:38	SgskNKYQRi0	MPREb_Lc1oBIEo97Z	UCI5RQ0Z0J8whww9HWAYPxGg
-241	Wind Of Change	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	2:45	eJs9SKeVrx0	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
-248	Something's Happening (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	5:41	pc5Rz-Mpu4o	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
-107	A World Without Love	Peter And Gordon	The Ultimate Peter And Gordon	INDIFFERENT	2:41	lFmt1YEQ8WA	MPREb_2P9ASkM1JeR	UCtsF3aggUHhStCT_Vbpxkyw
-444	You Can Call Me Al	Paul Simon	Graceland (25th Anniversary Deluxe Edition)	INDIFFERENT	4:40	OMbfT3Wppjo	MPREb_orGYTspcA5D	UCocuTnrwKDhXqwr6Kv-T4_Q
-322	Rock And Roll Fantasy	Paul Rodgers	Rock and Roll Fantasy	INDIFFERENT	3:34	Qn-GdD1u5A0	MPREb_hTItquocN5e	UCf8UvHCHsorLYHwtl0mfMlw
-148	Mamunia	Paul McCartney & Wings	Band On The Run (Standard)	INDIFFERENT	4:50	v9rDdaxK0nE	MPREb_Mw83bAU5WFE	UCyyYmEud7d9iGVOYNMG9sAA
-68	Another Day	Paul McCartney	Ram (Archive Collection)	INDIFFERENT	3:42	jgVyeCcCyw8	MPREb_E0BijTqzlf2	UC0guXwTSf4hAOvCSgmViojw
-69	Junior's Farm (DJ Edit)	Paul McCartney	Wingspan: Hits And History	INDIFFERENT	3:03	mGQZcHVMLZM	MPREb_ioTLddsOMBg	UC0guXwTSf4hAOvCSgmViojw
-189	Still the One	Orleans	Waking & Dreaming	INDIFFERENT	3:55	Nf87bzucZIc	MPREb_pNShupseU28	UCL37WcHfgaSthoMcwiXEdYQ
-476	Ridin' in My Car	NRBQ	All Hopped Up	INDIFFERENT	2:55	lReK7eO27Io	MPREb_fI4kvuFyzaO	UCjLXy6mCgHR7NDLoSZQmlUQ
-89	Little Bit O' Soul	Music Explosion	Lost Hits Of The 60's (All Original Artists & Versions)	INDIFFERENT	2:22	tPg8o1F90qI	MPREb_upss91qXr7p	
-319	The Creeper (Bonus Track)	Molly Hatchet	Molly Hatchet	INDIFFERENT	3:18	fPUaXA1Yhy4	MPREb_WO7wcNViaGj	UCQemljjiGrwXkGC7c--uFNQ
-321	It's All Over Now	Molly Hatchet	Flirtin' With Disaster	INDIFFERENT	3:43	WTzLJa8LYD0	MPREb_PorjBiuoF5a	UCQemljjiGrwXkGC7c--uFNQ
-355	The Mighty Quinn	Manfred Mann	Chapter Two: The Best Of The Fontana Years	INDIFFERENT	2:53	9oU2Rc1UzXk	MPREb_moaKs0LtLRF	UCiePHgbOXFyYTy2jf7DvXxw
-221	After The Thrill Is Gone ((Originally Performed by Eagles) [Karaoke Version])	MIDIFine Systems	Best of Eagles, Vol. 01 (Karaoke Version)	INDIFFERENT	3:59	-VIMSt0Yaao	MPREb_RFojs8xJ68O	UCsGQ0-mPsKAcuLGhac29hDA
-416	Kick out the Jams	MC5	Forever Changing: The Golden Age Of Elektra Records 1963-1973	INDIFFERENT	2:52	r_xKj1bF2ZY	MPREb_tUEq8t4d861	UCys4Uqf53x_6zI0Jgyvq1BA
-29	Down South Jukin' (Demo Version)	Lynyrd Skynyrd	(Pronounced 'Lĕh-'nérd 'Skin-'nérd)	INDIFFERENT	2:58	ZZy_nHQVNJQ	MPREb_vpqI6uMXvIr	UCk-bnZ8hrdOrKYGJ4JGcVzQ
-36	Mississippi Kid	Lynyrd Skynyrd	Pronounced' Leh-'Nerd 'Skin-'Nerd	INDIFFERENT	3:54	EWpmCd9Vs5w	MPREb_WEpbzETNFBg	UCk-bnZ8hrdOrKYGJ4JGcVzQ
-302	The Needle And The Spoon	Lynyrd Skynyrd	Second Helping	INDIFFERENT	3:53	oLPCyt9ine8	MPREb_VWz6PcHfxHG	UCk-bnZ8hrdOrKYGJ4JGcVzQ
-404	She Comes in Colors	Love	Da Capo (Deluxe Edition)	INDIFFERENT	2:47	f_6TA3S7JeU	MPREb_w4AmqSwzzCO	UCEjBSuqvwI9a1p-7PA2YxBg
-206	Nobody But You	Loggins & Messina	Sittin' In	INDIFFERENT	2:58	4as7FGQmYnQ	MPREb_4j7fy9rkn9L	UC6xL5tN9qVdjC07-CoS-Ghw
-186	Take It Easy On Me	Little River Band	Time Exposure	INDIFFERENT	3:48	vgRyZfMjtY4	MPREb_eT9Y2JFkKrB	UCreiohNB7aQ41Dv5daGfbcA
-90	The Locomotion	Little Eva	Llllloco-Motion	INDIFFERENT	2:18	1Lej7aQDrGM	MPREb_0mCVknYXH6u	UCugjaWay_M9OGE3zPsxoYHQ
-74	It's My Party	Lesley Gore	I'll Cry If I Want To	INDIFFERENT	2:19	RjdH_NmmO0I	MPREb_lrPyF16PSCR	UC1WFPFewF4cecnQxpkJLvcg
-96	1-2-3	Len Barry	Len Barry's Greatest Hits - The Original Masters	INDIFFERENT	2:25	H3dlzkXiB6o	MPREb_nX9uy9f8kf7	UC2YTwm5D9_b4gMhb-SB6LtQ
+32	Midnight Rambler	The Rolling Stones	Let It Bleed	INDIFFERENT	6:52	4V1SvYwkVtk	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
+39	Factory Girl	The Rolling Stones	Beggars Banquet	INDIFFERENT	2:08	3hzlCHl7PWc	MPREb_yTo0xtEmy9r	UCNYhhkQqeFLUc-YEDcLpSYQ
+54	Happy (2005 Digital Remaster)	The Rolling Stones	Made In The Shade	INDIFFERENT	3:03	ML1gH6mhfak	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
+243	Angie	The Rolling Stones	Goats Head Soup	INDIFFERENT	4:32	aVLBF-UKevY	MPREb_vLHx6Nz4ron	UCNYhhkQqeFLUc-YEDcLpSYQ
+268	Down The Road Apiece	The Rolling Stones	The Rolling Stones, Now!	INDIFFERENT	2:55	HOpjhvCSDTM	MPREb_mFD0YBbYyii	UCNYhhkQqeFLUc-YEDcLpSYQ
+272	Pain In My Heart	The Rolling Stones	The Rolling Stones No.2	INDIFFERENT	2:11	9WrlFLJ47eE	MPREb_62gLY9AQWc3	UCNYhhkQqeFLUc-YEDcLpSYQ
+273	Down Home Girl	The Rolling Stones	The Rolling Stones, Now!	INDIFFERENT	4:11	uVAcvSukfrI	MPREb_mFD0YBbYyii	UCNYhhkQqeFLUc-YEDcLpSYQ
+280	Street Fighting Man (Live)	The Rolling Stones	Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Deluxe Version)	INDIFFERENT	4:06	M8gPQWSXZ4I	MPREb_nrSezldDSXv	UCNYhhkQqeFLUc-YEDcLpSYQ
+283	It's Only Rock 'N' Roll (But I Like It) (Live / Remastered 2009)	The Rolling Stones	Love You Live	INDIFFERENT	4:31	G8X0DelcHoM	MPREb_kW3hdbLuOMH	UCNYhhkQqeFLUc-YEDcLpSYQ
+299	Doo Doo Doo Doo (Heartbreaker) (2005 Digital Remaster)	The Rolling Stones	Made In The Shade	INDIFFERENT	3:26	jhnn3St0i7U	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
+443	Tumbling Dice	The Rolling Stones	Exile On Main Street (Deluxe Version)	INDIFFERENT	3:46	0C8i6tOjt-M	MPREb_sjrOcDh9zTz	UCNYhhkQqeFLUc-YEDcLpSYQ
+473	It's Only Rock'n'Roll (But I Like It) (Remastered 2009)	The Rolling Stones	It's Only Rock 'N' Roll (2009 Re-Mastered)	INDIFFERENT	5:07	DmgCy__eUa8	MPREb_FwB72NOsuDG	UCNYhhkQqeFLUc-YEDcLpSYQ
+610	Angie	The Rolling Stones	Goats Head Soup	INDIFFERENT	4:32	aVLBF-UKevY	MPREb_vLHx6Nz4ron	UCNYhhkQqeFLUc-YEDcLpSYQ
+614	It's Only Rock'n'Roll (But I Like It) (Remastered 2009)	The Rolling Stones	It's Only Rock 'N' Roll (2009 Re-Mastered)	INDIFFERENT	5:07	DmgCy__eUa8	MPREb_FwB72NOsuDG	UCNYhhkQqeFLUc-YEDcLpSYQ
+623	Tumbling Dice	The Rolling Stones	Exile On Main Street (Deluxe Version)	INDIFFERENT	3:46	0C8i6tOjt-M	MPREb_sjrOcDh9zTz	UCNYhhkQqeFLUc-YEDcLpSYQ
+366	People Got to Be Free	The Rascals	Freedom Suite	INDIFFERENT	3:02	PGUhdwTyziM	MPREb_GiZLsOgwSb4	UCTyZg74MHOVOSN2prFqiG4Q
+438	Every Little Thing She Does Is Magic	The Police	Ghost In The Machine (Remastered 2003)	INDIFFERENT	4:21	5WEjz2YoH80	MPREb_dgXO6idIrNG	UCbsRGw640UF_F7AIwHW-zmg
+605	Slow Hand	The Pointer Sisters	The Best Of The Pointer Sisters	INDIFFERENT	3:52	a_FQKrY6Rsc	MPREb_Qbcxf7Dvw2r	UC5hmAzA43Il46USsJPKNXXQ
+310	If You Wanna Get To Heaven	The Ozark Mountain Daredevils	The Ozark Mountain Daredevils	INDIFFERENT	3:04	ouP9Yz8TEBM	MPREb_vEle68IDuR1	UCGIWIe4f9T1yQ7VdLsgGO7A
+122	Tobacco Road	The Nashville Teens	Nashville Teens - The Best Of	INDIFFERENT	2:28	Fpv908CeI4I	MPREb_R85eBQRzQK0	UCB8ZamjpgQQmSiUOQqfQd4Q
+403	Crimson Witch	The Moving Sidewalks	Flash	INDIFFERENT	3:07	5fe6M35rn4w	MPREb_sdgLBK1nwFI	UCZFoVZm2Ou8JNYl696ZiP4w
+189	The Story In Your Eyes	The Moody Blues	The Best Of The Moody Blues	INDIFFERENT	3:05	yJyZBEKvFR4	MPREb_HSTuHU1pCVS	UC4HQKRyk4s13hiAnZBXxZWQ
+198	Ride My See-Saw	The Moody Blues	In Search Of The Lost Chord	INDIFFERENT	3:39	ExqvK56GiS0	MPREb_EH9HtVmNlnI	UC4HQKRyk4s13hiAnZBXxZWQ
+367	Tuesday Afternoon (Alternate Mix)	The Moody Blues	Days Of Future Passed (Deluxe Version)	INDIFFERENT	4:20	qgU-5ETnci0	MPREb_769ZxgScsRT	UC4HQKRyk4s13hiAnZBXxZWQ
+93	Daydream Believer	The Monkees	The Birds, The Bees, & The Monkees	INDIFFERENT	3:00	aG9MBS0fjyE	MPREb_fTQB7SF4zUz	UCFXwbDAkk-Ef4nWOpw9vqYQ
+349	Pleasant Valley Sunday (2007 Remaster)	The Monkees	Pisces, Aquarius, Capricorn & Jones Ltd. (Deluxe Edition)	INDIFFERENT	3:15	boJlejbuyw0	MPREb_DrZqu0guRE0	UCFXwbDAkk-Ef4nWOpw9vqYQ
+370	I'm a Believer (Alternate Mix) [2006 Remaster]	The Monkees	More of The Monkees (Deluxe Edition)	INDIFFERENT	2:51	55V6xLwsNGo	MPREb_iCm7ET5ktfY	UCFXwbDAkk-Ef4nWOpw9vqYQ
+115	Wishin' and Hopin'	The Merseybeats	Mr. Moonlight	INDIFFERENT	2:41	34CMgXwgTZU	MPREb_v6GjpeszZcY	UCCz30g-SR4HfS9bU-ABO3QQ
+343	Creeque Alley (Single Version)	The Mamas & The Papas	Deliver	INDIFFERENT	3:48	7ccDdIuJpOE	MPREb_JSMtWAX8Bm2	UCUifbmzuPtWDjyefmmIWzFA
+430	Summer in the City	The Lovin' Spoonful	Hums Of The Lovin' Spoonful	INDIFFERENT	2:41	QT9_CJOw7E4	MPREb_Pcn7BUgZ1KQ	UCgTe55AB4dqeMMVgVZ-qQnQ
+94	Summer In The City	The Lovin Spoonful	A Gold Collection of Pop Classics	INDIFFERENT	2:46	5NmEty32Fkw	MPREb_PfMYIg9kjL4	UCgTe55AB4dqeMMVgVZ-qQnQ
+62	Long Tall Sally (Mono Mix)	The Kinks	Kinks (Deluxe Edition)	INDIFFERENT	2:11	TaZqHD58pSI	MPREb_gaTyP1B7tMR	UCsQHS0_Fw1vIXm3TEbPokvA
+69	Set Me Free	The Kinks	Kinda Kinks (Deluxe Edition)	INDIFFERENT	2:09	81qqyigh6D4	MPREb_fpPx7Yb6mSn	UCsQHS0_Fw1vIXm3TEbPokvA
+363	I Ain't Superstitious	The Jeff Beck Group	Truth	INDIFFERENT	4:52	HNcJGWQsz1Q	MPREb_85HIqx5jWaB	UCDPMz5gHZt_TgS8JX7lS71w
+90	Tossing And Turning	The Ivy League	Tossing And Turning	INDIFFERENT	2:25	t0HmpAJ_0Gk	MPREb_H1IGzFoH4iy	UCwypwz4GElXr2TfsQZrgC2w
+458	And We Danced	The Hooters	Nervous Night	INDIFFERENT	3:49	aGXDN3CZuVY	MPREb_aUwptjGpR65	UCRqVtcShW_Tu_9eG2lNJBKg
+364	Let It Out (Let It All Hang Out)	The Hombres	60's Gold	INDIFFERENT	2:04	5nVAkvHTRB8	MPREb_RP8HFaPEUcb	
+91	Bus Stop (2003 Remaster)	The Hollies	6 Greatest Hits	INDIFFERENT	2:55	E50duKq8-8M	MPREb_nOu1ZqDQyzr	UC4lSAGYiQVrDIqE_cQf6GQQ
+168	Undun	The Guess Who	The Best Of The Guess Who	INDIFFERENT	3:29	WWMMOwKazus	MPREb_XsMR8oubK1j	UCeJzOtrRt4ToYZj336gNElg
+118	Let's Live For Today	The Grass Roots	Back To The 60's Rock 'N' Roll	INDIFFERENT	2:46	WanAvq9Siuc	MPREb_BFhBGcHW5Wo	UCLEbAV4KupKJ9wJHT2M9tYw
+154	Sooner Or Later	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	INDIFFERENT	2:41	_W8jAwU44gY	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
+194	Temptation Eyes	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	INDIFFERENT	2:39	J88_Qi9Et8Q	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
+207	Two Divided By Love	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	INDIFFERENT	2:35	s3Rig33j_YE	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
+384	Hot Burrito #2	The Flying Burrito Brothers	The Gilded Palace Of Sin	INDIFFERENT	3:17	su3a6SYmWtM	MPREb_4QuSQz8s4NL	UCD76tRLMSmSRL7SBx2F1SSA
+102	The Price of Love (Single Version)	The Everly Brothers	1965	INDIFFERENT	2:06	3dyFSTAX9Yw	MPREb_dEpP4a4oylr	UC6HvsRZWT4Z_T-mJmYxKmLg
+394	Killing Floor	The Electric Flag	A Long Time Comin'	INDIFFERENT	4:09	ZycIewGWdN8	MPREb_e4EU4E8vj5a	UClthr7cgqotyrAEvgmWAXsA
+43	Hyacinth House	The Doors	L.A. Woman	INDIFFERENT	3:11	Aeh_cU0pmR8	MPREb_2kpSbS0hp4L	UCdx4iSJpg33jNmd9auQT04Q
+63	Touch Me	The Doors	The Soft Parade	INDIFFERENT	3:11	EZaQyYgAGfQ	MPREb_L4JXFYnYA0v	UCdx4iSJpg33jNmd9auQT04Q
+136	End of the Night (New Stereo Mix)	The Doors	The Very Best Of The Doors	INDIFFERENT	2:50	4aMamzJUdCc	MPREb_dq7I3XxJW8r	UCdx4iSJpg33jNmd9auQT04Q
+277	Roadhouse Blues (Live at Madison Square Garden, New York, 1970)	The Doors	Behind Closed Doors - The Rarities	INDIFFERENT	4:19	DTBRERuIIY0	MPREb_9PJ3mFeWKjH	UCdx4iSJpg33jNmd9auQT04Q
+284	(You Need Meat) Don't Go No Further	The Doors	Weird Scenes Inside the Gold Mine	INDIFFERENT	3:42	RnEycCq49P0	MPREb_rVekq89dvlW	UCdx4iSJpg33jNmd9auQT04Q
+333	The Crystal Ship	The Doors	The Doors	INDIFFERENT	2:32	GKa1W4a_5mI	MPREb_5TFkAq5mYDo	UCdx4iSJpg33jNmd9auQT04Q
+346	Hello, I Love You	The Doors	Waiting for the Sun (50th Anniversary Deluxe Edition)	INDIFFERENT	2:17	757wWbOgBNA	MPREb_SFP1PrsiSrO	UCdx4iSJpg33jNmd9auQT04Q
+467	L.A. Woman	The Doors	L.A. Woman	INDIFFERENT	7:52	vHXjcdNIN-Q	MPREb_2kpSbS0hp4L	UCdx4iSJpg33jNmd9auQT04Q
+608	L.A. Woman	The Doors	L.A. Woman	INDIFFERENT	7:52	vHXjcdNIN-Q	MPREb_2kpSbS0hp4L	UCdx4iSJpg33jNmd9auQT04Q
+169	Rockin' Down the Highway	The Doobie Brothers	Toulouse Street	INDIFFERENT	3:19	zqtrE-iZsz0	MPREb_yu0UbPpPhcH	UCu_glVzsM9pvbSyXi2zzuVA
+255	Take Me in Your Arms (Rock Me a Little While)	The Doobie Brothers	Stampede	INDIFFERENT	3:39	uSSxEGlf6WU	MPREb_Iji4NSMXr0n	UCu_glVzsM9pvbSyXi2zzuVA
+488	Long Train Runnin'	The Doobie Brothers	The Captain And Me	INDIFFERENT	3:27	CVsLEI-hCXw	MPREb_6IZNpeTfJ6E	UCu_glVzsM9pvbSyXi2zzuVA
+524	Minute by Minute	The Doobie Brothers	Minute By Minute	INDIFFERENT	3:26	Rq-7NgH-hcs	MPREb_ohPL6dIQv7P	UCu_glVzsM9pvbSyXi2zzuVA
+538	Real Love	The Doobie Brothers	One Step Closer	INDIFFERENT	4:20	WwxAKJX9jdw	MPREb_1H4ShtFDOzN	UCu_glVzsM9pvbSyXi2zzuVA
+547	You Belong to Me	The Doobie Brothers	Livin' On The Fault Line	INDIFFERENT	3:05	TYo5-EUE65E	MPREb_haQvS6QpVG7	UCu_glVzsM9pvbSyXi2zzuVA
+626	Long Train Runnin'	The Doobie Brothers	The Captain And Me	INDIFFERENT	3:27	CVsLEI-hCXw	MPREb_6IZNpeTfJ6E	UCu_glVzsM9pvbSyXi2zzuVA
+77	Do You Want to Know a Secret? (Mono) [1998 Remaster]	The Dakotas	Do You Want To Know A Secret? (The EMI Recordings 1963-1983)	INDIFFERENT	2:05	IZUoAg2y8xI	MPREb_UEB90cq1qwW	UCh05yBW9mOkgYBvGfGT8C8w
+97	Bad to Me (Mono) [1998 Remaster]	The Dakotas	Do You Want To Know A Secret? (The EMI Recordings 1963-1983)	INDIFFERENT	2:21	cvSL7T3TFNM	MPREb_UEB90cq1qwW	UCh05yBW9mOkgYBvGfGT8C8w
+82	He's so Fine	The Chiffons	The Girls' Sound	INDIFFERENT	2:38	Lipvrt0mBdU	MPREb_Pn9GVIvG7uH	UCrrXKjbhymi4ucJCPsoM1Vg
+92	One Fine Day	The Chiffons	The Girls' Sound	INDIFFERENT	2:42	0eXiByw_8Oc	MPREb_Pn9GVIvG7uH	UCrrXKjbhymi4ucJCPsoM1Vg
+402	Time Has Come Today (Single Version One)	The Chambers Brothers	The Time Has Come	INDIFFERENT	3:53	08rUnwQ-sDo	MPREb_r4ryjMUyCcB	UCR5_ndoopalrW_RS2OZI7Rw
+424	Magic	The Cars	Heartbeat City (Expanded Edition)	INDIFFERENT	3:58	qB_2B5tVbtk	MPREb_OjaALHg5yvL	UCu_gFD6YgmN85WjTSIotYcA
+72	So You Want to Be a Rock 'N' Roll Star	The Byrds	Younger Than Yesterday	INDIFFERENT	2:06	9EiHojlaWrE	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
+84	All I Really Want to Do	The Byrds	Mr. Tambourine Man	INDIFFERENT	2:04	nymd_ToIHB0	MPREb_L9L05TSnMZf	UCWgHSjTVKbR3z-MKow8OydA
+79	Kind of a Drag	The Buckinghams	Pop Classics Of The 60's	INDIFFERENT	2:05	CpW_toqriX4	MPREb_CrQOVWlHG6K	UChYLLD4VuF89c39x-cden_A
+381	Don't You Care	The Buckinghams	Pop Music: The Golden Era 1951-1975	INDIFFERENT	2:29	-nH0UNlfPRE	MPREb_iYXxpiQbpM4	UChYLLD4VuF89c39x-cden_A
+119	Soul Deep	The Box Tops	Dimensions	INDIFFERENT	2:28	beB1owW-EzM	MPREb_tJnc4mA8mPt	UC1pX55oPOqJzehRJtsXwF8g
+330	The Letter	The Box Tops	Dial A Hit	INDIFFERENT	1:56	nZ5yLt5fh7Q	MPREb_CZueVqHBwJW	UC1pX55oPOqJzehRJtsXwF8g
+75	I Fought the Law	The Bobby Fuller Four	Rock 'n' Roll, Vol. 3	INDIFFERENT	2:07	HebGbjudFGk	MPREb_4oINIpe3j6D	UCyJMN6XrYK78Pkp4pm4bmMw
+376	Tobacco Road	The Blues Magoos	Psychedelic Lollipop	INDIFFERENT	4:40	c1_3g_UM_F0	MPREb_whXQaEJI1Jg	UCRrECyGix7ljQpiLk_Qu8VA
+76	Just A Little	The Beau Brummels	Rock n' Roll Masters: The Beau Brummels	INDIFFERENT	2:19	Jeu9_FK6ud8	MPREb_m91ufr2aLTI	UCx5XuXV61li0FsvI8LJ6qaA
+336	Lucy In The Sky With Diamonds (Remix)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)	INDIFFERENT	3:28	HyPWWxqCpMc	MPREb_doCRM5YXYgb	UC2XdaAVUannpujzv32jcouQ
+436	Rock And Roll Music (Remastered 2009)	The Beatles	Beatles For Sale	INDIFFERENT	2:32	IRF6nmqcbxo	MPREb_GOFIhgRPUsi	UC2XdaAVUannpujzv32jcouQ
+440	Day Tripper (Remastered 2009)	The Beatles	The Beatles 1962 - 1966	INDIFFERENT	2:50	suRl1L2U6GY	MPREb_tymxbN4xRgQ	UC2XdaAVUannpujzv32jcouQ
+49	Here Today (Mono)	The Beach Boys	Pet Sounds (50th Anniversary Edition)	INDIFFERENT	2:55	mOh6YXNoR_M	MPREb_EUUqxE9U2Sg	UCrnD8aXhy4oQMS0ITw471tA
+52	That's Not Me	The Beach Boys	Pet Sounds (Original Mono & Stereo Mix Versions)	INDIFFERENT	2:32	X1XDMaz4TZ4	MPREb_3vajdQZ1KVX	UCrnD8aXhy4oQMS0ITw471tA
+55	I Know There's An Answer	The Beach Boys	Pet Sounds (Original Mono & Stereo Mix Versions)	INDIFFERENT	3:12	jQk2yvkyejw	MPREb_3vajdQZ1KVX	UCrnD8aXhy4oQMS0ITw471tA
+103	Cotton Fields (The Cotton Song) [Single Version]	The Beach Boys	Good Vibrations: Thirty Years Of The Beach Boys	INDIFFERENT	3:02	SiYOdEGMbgk	MPREb_cB9icZFRtZg	UCrnD8aXhy4oQMS0ITw471tA
+120	Sail On, Sailor	The Beach Boys	Good Vibrations: Thirty Years Of The Beach Boys	INDIFFERENT	3:19	ATVjYH7dURY	MPREb_cB9icZFRtZg	UCrnD8aXhy4oQMS0ITw471tA
+456	Good Vibrations	The Beach Boys	Good Vibrations	INDIFFERENT	3:38	oMfjgQ8ptrE	MPREb_bt02yk1puzh	UCrnD8aXhy4oQMS0ITw471tA
+356	Chest Fever	The Band	Music From Big Pink	INDIFFERENT	5:14	ERuUgVxi6JM	MPREb_YFkjxlhScEE	UCFczEeze7e0Lghy3eXtl38Q
+495	The Shape I'm In (Remix / 2020)	The Band	Stage Fright (Deluxe Remix 2020)	INDIFFERENT	4:02	PoHdxvgfRbQ	MPREb_V3pIpZPFKQV	UCFczEeze7e0Lghy3eXtl38Q
+632	The Shape I'm In (Remix / 2020)	The Band	Stage Fright (Deluxe Remix 2020)	INDIFFERENT	4:02	PoHdxvgfRbQ	MPREb_V3pIpZPFKQV	UCFczEeze7e0Lghy3eXtl38Q
+350	Windy (Remastered Version)	The Association	Insight Out	INDIFFERENT	2:57	VUv9OK4KUv8	MPREb_cPNDGHHNsBq	UC1xTzc2q-KzBPxIZ6vHViqQ
+404	Pandora's Golden Heebie Jeebies (Remastered Version)	The Association	Renaissance	INDIFFERENT	2:51	1WRw7E2obqQ	MPREb_taCAYWIGPI5	UC1xTzc2q-KzBPxIZ6vHViqQ
+282	Every Hungry Woman	The Allman Brothers Band	The Allman Brothers Band	INDIFFERENT	4:15	5XK2DDoAWTc	MPREb_DOxReUOcarp	UC8RbgxtYaViMHEKmcpsmi6w
+334	Whipping Post	The Allman Brothers Band	The Allman Brothers Band	INDIFFERENT	5:18	VZSNs6H-HDI	MPREb_K4rNVKMhQv5	UC8RbgxtYaViMHEKmcpsmi6w
+383	Up, Up and Away	The 5th Dimension	Up, Up And Away	INDIFFERENT	2:38	N2ltxx4iC9k	MPREb_utEogko93YI	UC2frP9pgMdxvA1qMzrbsFhw
+401	I Want To Know	Ten Years After	Ten Years After (Re-Presents)	INDIFFERENT	2:11	HU7uK4TPTmQ	MPREb_cx6Y69lvkPH	UCUdBaM2VvXJN4pWVPh9L9YA
+486	If You Can't Give Me Love	Suzi Quatro	If You Knew Suzi…	INDIFFERENT	3:53	j1Wo1OGQy9I	MPREb_yQGn9waLi8b	UC2BgKNrzZ93CGcISZ_WP4Sg
+624	If You Can't Give Me Love	Suzi Quatro	If You Knew Suzi…	INDIFFERENT	3:53	j1Wo1OGQy9I	MPREb_yQGn9waLi8b	UC2BgKNrzZ93CGcISZ_WP4Sg
+133	Dammit Janet	Susan Sarandon	The Rocky Horror Picture Show - Original Soundtrack	INDIFFERENT	2:46	G4T9CSJJAww	MPREb_rFIya4JN5u5	UCNPj-uTN_N07oxhUlz3e4JA
+96	Baby Love	Supremes	The 60´s, Vol. 1	INDIFFERENT	2:47	gwRxz4Pk-JU	MPREb_XSFH8mn3Any	UCaKbXyTyxKOyBKasPe7JB2w
+292	Goodbye Stranger (2010 Remastered)	Supertramp	Breakfast In America (Deluxe Edition)	INDIFFERENT	5:50	c6X73UUREAM	MPREb_PJEQd8cWAdJ	UCpS0hJ21amjA5eBApEOiIFw
+307	Renegade	Styx	Pieces Of Eight	INDIFFERENT	4:17	E9eLz4DrwF8	MPREb_2qxlFrE9NF5	UCigTxDNbQ3mIIyZgsTFWLMg
+611	Renegade	Styx	Pieces Of Eight	INDIFFERENT	4:17	E9eLz4DrwF8	MPREb_2qxlFrE9NF5	UCigTxDNbQ3mIIyZgsTFWLMg
+344	Incense And Peppermints	Strawberry Alarm Clock	Incense And Peppermints	INDIFFERENT	2:47	eo7UxnXnRlQ	MPREb_AADrJTLN8iv	UCmXH7xVm7TI-mIqbNTLACog
+369	Rainy Day Mushroom Pillow	Strawberry Alarm Clock	Incense And Peppermints	INDIFFERENT	3:04	50LPTiI-0eY	MPREb_AADrJTLN8iv	UCmXH7xVm7TI-mIqbNTLACog
+15	Couldn't Stand the Weather	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather (Legacy Edition)	INDIFFERENT	4:42	MYs4nKywH8Q	MPREb_EkWi0ymkLW8	UCG47N6MrGcPaJpVRgBoAVAQ
+40	Mary Had a Little Lamb	Stevie Ray Vaughan And Double Trouble	Texas Flood	INDIFFERENT	2:47	7VE9I8su8Oo	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
+13	The Sky Is Crying (Live)	Stevie Ray Vaughan & Double Trouble	The Real Deal: Greatest Hits Volume 1	INDIFFERENT	7:19	6ns46LXhZKo	MPREb_iGstpRkf9xf	UCG47N6MrGcPaJpVRgBoAVAQ
+9	Shake for Me (Live at Steamboat 1874, Austin, TX - April 1980)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	3:49	bmASdI1H2ZA	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
+19	Superstition (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	4:41	JlinzJ71kcw	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
+21	Leave My Girl Alone (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	4:47	VtKmNVirnQE	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
+31	Wall of Denial	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	5:37	v0bZ70bUHj4	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
+38	Rude Mood/Hide Away (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	INDIFFERENT	4:58	mBzud6-s5rg	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
+266	Scuttle Buttin' (Live at Carnegie Hall, New York, NY - October 1984)	Stevie Ray Vaughan	Live at Carnegie Hall	INDIFFERENT	2:44	ANOx3rAzVu4	MPREb_v5kLcnD2m6l	UCG47N6MrGcPaJpVRgBoAVAQ
+281	Letter to My Girlfriend (Live at Carnegie Hall, New York, NY - October 1984)	Stevie Ray Vaughan	Live at Carnegie Hall	INDIFFERENT	3:09	2ajSyh312Oo	MPREb_v5kLcnD2m6l	UCG47N6MrGcPaJpVRgBoAVAQ
+312	True Fine Love	Steve Miller Band	Book Of Dreams	INDIFFERENT	2:39	_jRnorE5vxg	MPREb_0G4YvkSmjp5	UCDlFd5kiM4QbD_NRGwgGu1w
+355	Living In The U.S.A.	Steve Miller Band	Sailor	INDIFFERENT	4:04	6_rKPuqxFtA	MPREb_CduCGM5m5nn	UCDlFd5kiM4QbD_NRGwgGu1w
+389	Baby's Callin' Me Home	Steve Miller Band	Children Of The Future	INDIFFERENT	3:16	9cK--Mt5iKE	MPREb_T15nGd3jARb	UCDlFd5kiM4QbD_NRGwgGu1w
+417	Take the Money and Run	Steve Miller Band	Fly Like An Eagle	INDIFFERENT	2:50	r9oW1dHBZ5M	MPREb_1d6aG32crPv	UCDlFd5kiM4QbD_NRGwgGu1w
+300	Born To Be Wild	Steppenwolf	Easy Rider (Music From The Soundtrack)	INDIFFERENT	3:37	yp8mlU29h_0	MPREb_lhYoAey9ibF	UC0aR1L5OoaiiaW73-bNl_Ug
+191	On And On	Stephen Bishop	Careless	INDIFFERENT	3:01	oRrlRbGT-LU	MPREb_dogG53GpjNr	UCEAF0l30Ju2DOQPuMZHDXRQ
+562	"It Might Be You (from ""Tootsie"")"	Stephen Bishop	More Themes & Tunes from Movies & Television	INDIFFERENT	4:19	6JKYEu0w9GE	MPREb_sQP7Q8H4wq2	UCEAF0l30Ju2DOQPuMZHDXRQ
+502	Hey Nineteen	Steely Dan	Gaucho	INDIFFERENT	5:08	cvg5mbM6FGs	MPREb_O0SAtxC1txR	UCvnGL-FVjYVe_0YJKxLlwqA
+521	Time Out Of Mind	Steely Dan	Gaucho	INDIFFERENT	4:13	XOuFO8KPnjw	MPREb_O0SAtxC1txR	UCvnGL-FVjYVe_0YJKxLlwqA
+158	Moonlight Feels Right	Starbuck	Moonlight Feels Right (The Original Masters)	INDIFFERENT	3:42	baNVsZcbRXE	MPREb_CPHdbZyHxy0	UCPziG_yV_VdYeDot3atUPwg
+540	Moonlight Feels Right	Starbuck	Moonlight Feels Right	INDIFFERENT	3:42	37ud30u5RNw	MPREb_CXdDMlxKesh	UCPziG_yV_VdYeDot3atUPwg
+361	I Got a Line on You	Spirit	The Best Of Spirit	INDIFFERENT	2:39	mzoQvuCfin4	MPREb_C4PHWwGSFnu	UCE_-rbweYtbqn-dL4zVe1Ug
+385	Uncle Jack	Spirit	Spirit	INDIFFERENT	2:43	2iEoUdW74KU	MPREb_y8AcTknvZ3R	UCE_-rbweYtbqn-dL4zVe1Ug
+354	Sunday Will Never Be The Same	Spanky & Our Gang	Spanky & Our Gang	INDIFFERENT	3:00	07nK9CXZvAI	MPREb_34U8dQSfa9u	UC_YYtkK5aOQgyWIdl9hJX0g
+373	The Beat Goes On	Sonny & Cher	In Case You're In Love	INDIFFERENT	3:28	oC7ZgXmrs6Q	MPREb_uVZwVEBNnrm	UCT9j2t6ZNndL822NSf_fK2w
+135	Doing All Right (…revisited)	Smile	Bohemian Rhapsody (The Original Soundtrack)	INDIFFERENT	3:17	qcA5kfZLlK4	MPREb_RePGikaHmMB	
+380	Itchycoo Park (Stereo Version)	Small Faces	Small Faces - Deluxe Edition	INDIFFERENT	2:51	nO9DqvznjrQ	MPREb_VGJ0AmlSFRo	UCqmvlahzkVOFPipBAotsQ7w
+429	Hot Fun In The Summertime	Sly & The Family Stone	Pop Music: The Golden Era 1951-1975	INDIFFERENT	2:43	5K4h8NXA5L8	MPREb_iYXxpiQbpM4	UCgwJnBJfprQYGX3OPQrTvqw
+176	Castles in the Sand	Seals and Crofts	Seals & Crofts' Greatest Hits	INDIFFERENT	3:42	qrzNH1Ke030	MPREb_TdIryss8UJT	UCsf803dMVUj5thyQ_lG2bDw
+201	We May Never Pass This Way (Again)	Seals and Crofts	Rhino Hi-Five: Seals & Crofts	INDIFFERENT	4:15	S7OAjX4HNEA	MPREb_AlO2SMUGRji	UCsf803dMVUj5thyQ_lG2bDw
+160	Get Closer	Seals & Crofts	Get Closer	INDIFFERENT	3:59	rBUHdy8g8S4	MPREb_t2oxMdWAvvf	UCsf803dMVUj5thyQ_lG2bDw
+523	Diamond Girl	Seals & Crofts	Diamond Girl	INDIFFERENT	4:13	tNtOYomo4Qg	MPREb_LhTD0SzBx0I	UCsf803dMVUj5thyQ_lG2bDw
+395	Train To Nowhere	Savoy Brown	Discover British Blues On Decca & Deram	INDIFFERENT	4:11	iRk-7ySlexw	MPREb_rvdRw2YhhRu	UCLg-Jz8kxV-NWVB2Kn9trJA
+17	Savor	Santana	Santana (Legacy Edition)	INDIFFERENT	2:48	c-NFN1xkBDA	MPREb_WogiuOWp9X5	UCX0rR7x8-nLew2t8UH-n2aw
+46	Treat	Santana	Santana (Legacy Edition)	INDIFFERENT	4:45	FU58lQdSSf8	MPREb_WogiuOWp9X5	UCX0rR7x8-nLew2t8UH-n2aw
+409	Soul Sacrifice	Santana	Tropical Spirits Parts I & II	INDIFFERENT	4:54	Slqpu-hEZWM	MPREb_OajNFTfH7G9	UCX0rR7x8-nLew2t8UH-n2aw
+437	Oye Como Va	Santana	Abraxas	INDIFFERENT	4:17	edDQFmK7HHg	MPREb_L54fdPS3ZqF	UC8FXf7veyvB-J0tdFfOTRcg
+494	Closer To The Heart	Rush	A Farewell To Kings	INDIFFERENT	2:51	WPeBwVXgR8I	MPREb_09PjipZWekI	UCDCgtKZG6r7C9n87FMxR5ow
+631	Closer To The Heart	Rush	A Farewell To Kings	INDIFFERENT	2:51	WPeBwVXgR8I	MPREb_09PjipZWekI	UCDCgtKZG6r7C9n87FMxR5ow
+499	Escape (The Pina Colada Song)	Rupert Holmes	Partners In Crime	INDIFFERENT	4:36	Xb6l38eP-4w	MPREb_t4d8hnZvV8V	UCY9Uye1FgNYWgayf-YtrcYw
+148	Late Home Tonight, Pt. II	Roger Waters	Amused to Death	INDIFFERENT	2:13	isVAEXdKBS4	MPREb_rAMMWACD6ei	UCjL3Tr2bN7H6Ivx_dusK5XA
+569	Get Used to It	Roger Voudouris	Radio Dreams	INDIFFERENT	3:03	3cv8y2x6Mnc	MPREb_q4gJxvRyYIe	UCbwCeOdO5vUBS-3KSzocjDA
+214	You Wear It Well	Rod Stewart	Never A Dull Moment	INDIFFERENT	4:22	_5lX0eMI7Hw	MPREb_TiHK1ZR7t0O	UCE5MST8NSGuWr88dQcNZ0fw
+225	(Find A) Reason To Believe	Rod Stewart	Every Picture Tells A Story	INDIFFERENT	4:11	uhbs5Sbn-dM	MPREb_CkJDYC5glp5	UCE5MST8NSGuWr88dQcNZ0fw
+615	You Wear It Well	Rod Stewart	Never A Dull Moment	INDIFFERENT	4:22	_5lX0eMI7Hw	MPREb_TiHK1ZR7t0O	UCE5MST8NSGuWr88dQcNZ0fw
+504	Sad Eyes	Robert John	Classic Masters	INDIFFERENT	4:14	yJyfnNUEytw	MPREb_q9HAPwvbdDG	UCdpH50EeqbRrESAX5wfUUlw
+526	Steal Away	Robbie Dupree	Robbie Dupree	INDIFFERENT	3:34	k1uA_Zw7zAk	MPREb_RW1Fz7Sh45M	UC12DQuH5cBQ2FiHzc2lZBCg
+542	Hot Rod Hearts	Robbie Dupree	Robbie Dupree	INDIFFERENT	3:42	OU40fuV8Tc0	MPREb_RW1Fz7Sh45M	UC12DQuH5cBQ2FiHzc2lZBCg
+603	House On The Rock	Rob Mehl	Back To The Rock	INDIFFERENT	3:25	L63xnjPQJNM	MPREb_7l3XFSwomdp	UCjB7KCsGLSknMsdmLWU941g
+479	Photograph	Ringo Starr	Ringo	INDIFFERENT	4:00	nevdSt_2PIM	MPREb_3guN6EAjVQV	UCJWrY1uIUlnGvs0sUz5ydwQ
+618	Photograph	Ringo Starr	Ringo	INDIFFERENT	4:00	nevdSt_2PIM	MPREb_3guN6EAjVQV	UCJWrY1uIUlnGvs0sUz5ydwQ
+435	Jessie's Girl	Rick Springfield	Working Class Dog	INDIFFERENT	3:15	mI1sxQi7USA	MPREb_wtwUBygngAP	UCzh1va376Chd_vSI51lz7Hg
+368	Follow	Richie Havens	Mixed Bag	INDIFFERENT	6:24	IEazNNJEcm0	MPREb_riiESmpSSYR	UC0aezVmCbJ-GF2js8M8JmNg
+129	Science Fiction/Double Feature (Reprise)	Richard O'Brien	The Rocky Horror Picture Show - Original Soundtrack	INDIFFERENT	1:31	r2jRskI1F1Y	MPREb_rFIya4JN5u5	UC_q3gkoDU036X9heNGKseqw
+539	You Can't Change That	Raydio	Rock On	INDIFFERENT	3:24	zKY1b5F6888	MPREb_VoB7c1Fcf0h	UCPP3zO3FxUhl_6dEOyhUsGw
+462	I Love L.A.	Randy Newman	Trouble In Paradise	INDIFFERENT	3:28	cYUfGXPV_Sc	MPREb_OTs1o3EP23i	UCpXXBsB1exs7tMZUyw0T0FA
+459	Rockaway Beach (Remastered Version)	Ramones	Rocket to Russia	INDIFFERENT	2:06	fGSiWhQR_NE	MPREb_2hEuzLewYhg	UCXYTNaRC13Mc0muUaYDrT9g
+413	Keep on Loving You	REO Speedwagon	Hi Infidelity	INDIFFERENT	3:21	XKc7z-enzmA	MPREb_r6ZatyZ33RA	UCfAldYkhLRUDcWJPE-xrNqQ
+464	Take It on the Run	REO Speedwagon	The Hits	INDIFFERENT	4:01	gTJgRuSkreI	MPREb_3UzqU5z0TO9	UCfAldYkhLRUDcWJPE-xrNqQ
+371	Who Do You Love (Pt. 1)	Quicksilver Messenger Service	Happy Trails	INDIFFERENT	3:33	SHxwNxXBEYo	MPREb_jzyDBtrauT6	UC0X9KPL1GjPQ-uW46DT12Iw
+405	Pride Of Man (Rare Session)	Quicksilver Messenger Service	Fresh Air - Greatest Hits	INDIFFERENT	4:37	FkYGrOn59Po	MPREb_1iEyg9iND48	UC0X9KPL1GjPQ-uW46DT12Iw
+175	Falling In And Out Of Love (Remastered 1988)	Pure Prairie League	Bustin' Out	INDIFFERENT	2:12	fNmXJ3mD9CI	MPREb_RucljqSVLOq	UCtuliIWo9o0mfEsxSirk8tA
+550	Let Me Love You Tonight	Pure Prairie League	Firin' Up	INDIFFERENT	2:47	muQqts3-g1w	MPREb_ErQpDmxjgq1	UCtuliIWo9o0mfEsxSirk8tA
+172	Crazy Love	Poco	Legend	INDIFFERENT	2:56	7Ki7f4g9X9g	MPREb_qUUr2OmT88J	UCFLNe4hB4DVzj6smic-hUSg
+20	Bike (Edit) [2001 Remastered Version]	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	3:24	6RKjzC7Tg-4	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
+61	Learning To Fly (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	4:50	cRe05aJxSfw	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
+66	The Final Cut	Pink Floyd	The Final Cut	INDIFFERENT	4:42	tFSRooc9yIQ	MPREb_B876Gc4yjiS	UCO6LS_5W7vqG9mALDNzSFug
+71	Mother	Pink Floyd	The Wall	INDIFFERENT	5:35	xe3NUKCnZp4	MPREb_6MwY5ApCXas	UCO6LS_5W7vqG9mALDNzSFug
+351	See Emily Play	Pink Floyd	Relics	INDIFFERENT	2:53	HwV3aTh6pi8	MPREb_1YFuDzgPnyn	UCO6LS_5W7vqG9mALDNzSFug
+365	Arnold Layne (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	2:52	mybz6bw65y0	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
+392	Outside Of A Small Circle Of Friends	Phil Ochs	Pleasures Of The Harbor	INDIFFERENT	3:40	9uUmLVzUQTA	MPREb_gDm5sGP6L1V	UCTHgiquGC31PdI8czIPtdJg
+223	Show Me The Way (Live)	Peter Frampton	Greatest Hits	INDIFFERENT	4:38	SgskNKYQRi0	MPREb_Lc1oBIEo97Z	UCI5RQ0Z0J8whww9HWAYPxGg
+238	Wind Of Change	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	2:45	eJs9SKeVrx0	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
+245	Something's Happening (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	INDIFFERENT	5:41	pc5Rz-Mpu4o	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
+106	A World Without Love	Peter And Gordon	The Ultimate Peter And Gordon	INDIFFERENT	2:41	lFmt1YEQ8WA	MPREb_2P9ASkM1JeR	UCtsF3aggUHhStCT_Vbpxkyw
+582	Fly Away	Peter Allen	Bi-Coastal	INDIFFERENT	4:00	D4P4feL1pEw	MPREb_t66JblQtjHB	UCS3M4w-DBaTo1F5QfOUOASA
+317	Rock And Roll Fantasy	Paul Rodgers	Rock and Roll Fantasy	INDIFFERENT	3:34	Qn-GdD1u5A0	MPREb_hTItquocN5e	UCf8UvHCHsorLYHwtl0mfMlw
+146	Mamunia	Paul McCartney & Wings	Band On The Run (Standard)	INDIFFERENT	4:50	v9rDdaxK0nE	MPREb_Mw83bAU5WFE	UCyyYmEud7d9iGVOYNMG9sAA
+67	Another Day	Paul McCartney	Ram (Archive Collection)	INDIFFERENT	3:42	jgVyeCcCyw8	MPREb_E0BijTqzlf2	UC0guXwTSf4hAOvCSgmViojw
+68	Junior's Farm (DJ Edit)	Paul McCartney	Wingspan: Hits And History	INDIFFERENT	3:03	mGQZcHVMLZM	MPREb_ioTLddsOMBg	UC0guXwTSf4hAOvCSgmViojw
+477	Uncle Albert / Admiral Halsey (Medley / Remastered 2012)	Paul McCartney	Ram (Archive Collection)	INDIFFERENT	4:55	UvUkPtSheyg	MPREb_E0BijTqzlf2	UC0guXwTSf4hAOvCSgmViojw
+617	Uncle Albert / Admiral Halsey (Medley / Remastered 2012)	Paul McCartney	Ram (Archive Collection)	INDIFFERENT	4:55	UvUkPtSheyg	MPREb_E0BijTqzlf2	UC0guXwTSf4hAOvCSgmViojw
+506	Cool Night	Paul Davis	Cool Night	INDIFFERENT	3:39	m0tmkm9KIAo	MPREb_6FAs2YroiOQ	UCjjNIbm45itH935JDlnrv1A
+519	I Go Crazy	Paul Davis	Singer of Songs, Teller of Tales	INDIFFERENT	3:54	jvf3rBgw1LU	MPREb_fshuXR29HwL	UCjjNIbm45itH935JDlnrv1A
+565	You Need A Hero	Pages	Pages	INDIFFERENT	3:44	lo0UDvxGPD4	MPREb_0W0cRYePMeS	UCdrVRu7hYu01cvp3Uy1HCMg
+576	If I Saw You Again	Pages	Pages	INDIFFERENT	3:25	y0gyol1Cpc8	MPREb_souXRVWIc7Q	UCdrVRu7hYu01cvp3Uy1HCMg
+596	The Sailor's Song	Pages	Future Street	INDIFFERENT	4:22	P6lgpkowD78	MPREb_kW5UTiPeJBh	UCdrVRu7hYu01cvp3Uy1HCMg
+522	Love Will Find A Way	Pablo Cruise	Worlds Away	INDIFFERENT	4:11	QJLICOHTBTU	MPREb_mYxE1JkXVap	UCBuC6OyR9F5NTvNL4JRtKXQ
+537	Whatcha Gonna Do?	Pablo Cruise	A Place In The Sun	INDIFFERENT	4:16	db-yKF1a-oM	MPREb_L56EhXa9RbQ	UCBuC6OyR9F5NTvNL4JRtKXQ
+186	Still the One	Orleans	Waking & Dreaming	INDIFFERENT	3:55	Nf87bzucZIc	MPREb_pNShupseU28	UCL37WcHfgaSthoMcwiXEdYQ
+570	Dance with Me	Orleans	Let There Be Music	INDIFFERENT	3:20	PdBmVjsJXlk	MPREb_I4TDXACPimM	UCL37WcHfgaSthoMcwiXEdYQ
+568	If You Want It	Niteflyte	Niteflyte	INDIFFERENT	4:31	Xz_2waBmqDk	MPREb_6GZBtdTgIJo	UC287XEksbivQVRe934H5xVA
+575	Let Me Go, Love	Nicolette Larson	In The Nick Of Time	INDIFFERENT	3:49	nD4VHciIYJ0	MPREb_S37ZrFn1Zrg	UCvzXAxmGRQA7O5UnXNJvFAg
+559	Get It Up For Love	Ned Doheny	Hard Candy	INDIFFERENT	4:42	soAn0ntBaIw	MPREb_ETWXvdBRpxe	UCrxRqxZNJ_Ub9UMgzMTA-KQ
+469	Hair Of The Dog	Nazareth	Hair Of The Dog	INDIFFERENT	4:09	j-pcvD03sBA	MPREb_7nEdNerK3eG	UCTJuMLFXDRjeccfu0nMGHWg
+612	Hair Of The Dog	Nazareth	Hair Of The Dog	INDIFFERENT	4:09	j-pcvD03sBA	MPREb_7nEdNerK3eG	UCTJuMLFXDRjeccfu0nMGHWg
+465	Ridin' in My Car	NRBQ	All Hopped Up	INDIFFERENT	2:55	lReK7eO27Io	MPREb_fI4kvuFyzaO	UCjLXy6mCgHR7NDLoSZQmlUQ
+88	Little Bit O' Soul	Music Explosion	Lost Hits Of The 60's (All Original Artists & Versions)	INDIFFERENT	2:22	tPg8o1F90qI	MPREb_upss91qXr7p	
+314	The Creeper (Bonus Track)	Molly Hatchet	Molly Hatchet	INDIFFERENT	3:18	fPUaXA1Yhy4	MPREb_WO7wcNViaGj	UCQemljjiGrwXkGC7c--uFNQ
+316	It's All Over Now	Molly Hatchet	Flirtin' With Disaster	INDIFFERENT	3:43	WTzLJa8LYD0	MPREb_PorjBiuoF5a	UCQemljjiGrwXkGC7c--uFNQ
+553	I Gotta Try	Michael McDonald	If That's What It Takes	INDIFFERENT	3:56	stcs2w7Y6KQ	MPREb_A0WRgyCJWPy	UC4CEZYmbUU_8RuzllOM2scg
+560	St. Elmo's Fire	Michael Franks	The Art Of Tea	INDIFFERENT	4:00	hQ0XexvYSyM	MPREb_DKXSbfH85i3	UCe1H6pPq_H79ZldTBHl2dFA
+588	Whenever I Call You Friend	Melissa Manchester	Platinum & Gold Collection	INDIFFERENT	4:48	qfYbEry3iws	MPREb_CeDaPLp531V	UC6aYMK9vFN26QOm3fP0PXQw
+595	Nobody's Business	Maxus	Maxus	INDIFFERENT	3:22	-yc8fjl-fb4	MPREb_kWCWpE901hB	UCp8S95E-e9yYTfs72ZDajaA
+602	Your Imagination	Maxus	Maxus	INDIFFERENT	3:32	ImK6-lDsAqU	MPREb_kWCWpE901hB	UCp8S95E-e9yYTfs72ZDajaA
+530	Hearts	Marty Balin	Balin	INDIFFERENT	4:19	3nKNQsJtum8	MPREb_cGh25bGJDXf	UCFrce4zn8LwWZNlpEg9LzQg
+573	Margarita	Marc Jordan	A Hole in the Wall	INDIFFERENT	4:11	wwGXmEl7rlY	MPREb_358FOrarwzA	UCosO1wgsBZKgmpZYi0BQ69A
+601	Marina Del Rey	Marc Jordan	Mannequin	INDIFFERENT	3:08	zfrlc0bz9Ok	MPREb_C577t4ucavD	UCosO1wgsBZKgmpZYi0BQ69A
+607	Release Yourself	Marc Jordan	Blue Desert	INDIFFERENT	4:16	rybJ78bdp1s	MPREb_pzfs2t4PXpy	UCosO1wgsBZKgmpZYi0BQ69A
+347	The Mighty Quinn	Manfred Mann	Chapter Two: The Best Of The Fontana Years	INDIFFERENT	2:53	9oU2Rc1UzXk	MPREb_moaKs0LtLRF	UCiePHgbOXFyYTy2jf7DvXxw
+218	After The Thrill Is Gone ((Originally Performed by Eagles) [Karaoke Version])	MIDIFine Systems	Best of Eagles, Vol. 01 (Karaoke Version)	INDIFFERENT	3:59	-VIMSt0Yaao	MPREb_RFojs8xJ68O	UCsGQ0-mPsKAcuLGhac29hDA
+408	Kick out the Jams	MC5	Forever Changing: The Golden Age Of Elektra Records 1963-1973	INDIFFERENT	2:52	r_xKj1bF2ZY	MPREb_tUEq8t4d861	UCys4Uqf53x_6zI0Jgyvq1BA
+28	Down South Jukin' (Demo Version)	Lynyrd Skynyrd	(Pronounced 'Lĕh-'nérd 'Skin-'nérd)	INDIFFERENT	2:58	ZZy_nHQVNJQ	MPREb_vpqI6uMXvIr	UCk-bnZ8hrdOrKYGJ4JGcVzQ
+35	Mississippi Kid	Lynyrd Skynyrd	Pronounced' Leh-'Nerd 'Skin-'Nerd	INDIFFERENT	3:54	EWpmCd9Vs5w	MPREb_WEpbzETNFBg	UCk-bnZ8hrdOrKYGJ4JGcVzQ
+298	The Needle And The Spoon	Lynyrd Skynyrd	Second Helping	INDIFFERENT	3:53	oLPCyt9ine8	MPREb_VWz6PcHfxHG	UCk-bnZ8hrdOrKYGJ4JGcVzQ
+396	She Comes in Colors	Love	Da Capo (Deluxe Edition)	INDIFFERENT	2:47	f_6TA3S7JeU	MPREb_w4AmqSwzzCO	UCEjBSuqvwI9a1p-7PA2YxBg
+203	Nobody But You	Loggins & Messina	Sittin' In	INDIFFERENT	2:58	4as7FGQmYnQ	MPREb_4j7fy9rkn9L	UC6xL5tN9qVdjC07-CoS-Ghw
+563	Sailin' the Wind	Loggins & Messina	Full Sail	INDIFFERENT	6:08	vv2Bdmbbueg	MPREb_MyR35LplQys	UC6xL5tN9qVdjC07-CoS-Ghw
+183	Take It Easy On Me	Little River Band	Time Exposure	INDIFFERENT	3:48	vgRyZfMjtY4	MPREb_eT9Y2JFkKrB	UCreiohNB7aQ41Dv5daGfbcA
+549	Cool Change	Little River Band	First Under The Wire	INDIFFERENT	5:14	maeFN1oyF0k	MPREb_2AV1e2TPzdh	UCreiohNB7aQ41Dv5daGfbcA
+571	Light Of Day (2010 Digital Remaster)	Little River Band	Sleeper Catcher	INDIFFERENT	8:03	O2y8PqksmTk	MPREb_idfK5A87saZ	UCreiohNB7aQ41Dv5daGfbcA
+89	The Locomotion	Little Eva	Llllloco-Motion	INDIFFERENT	2:18	1Lej7aQDrGM	MPREb_0mCVknYXH6u	UCugjaWay_M9OGE3zPsxoYHQ
+592	All For You	Lion & The Lamb	Lion & The Lamb	INDIFFERENT	3:56	zFe0T8n9hUY	MPREb_H0A1aujtSNo	UCrnVuU8fQp7lJyzsq8g7acQ
+73	It's My Party	Lesley Gore	I'll Cry If I Want To	INDIFFERENT	2:19	RjdH_NmmO0I	MPREb_lrPyF16PSCR	UC1WFPFewF4cecnQxpkJLvcg
+95	1-2-3	Len Barry	Len Barry's Greatest Hits - The Original Masters	INDIFFERENT	2:25	H3dlzkXiB6o	MPREb_nX9uy9f8kf7	UC2YTwm5D9_b4gMhb-SB6LtQ
 2	Trampled Under Foot (Remaster)	Led Zeppelin	Physical Graffiti (Deluxe Edition)	INDIFFERENT	5:37	8JOwT8uRLHg	MPREb_8ODyFUfrd9a	UCYtap7ujIPaxTS2iCDoMi3g
-152	Four Sticks (Remaster)	Led Zeppelin	Led Zeppelin IV (Deluxe Edition)	INDIFFERENT	4:46	iJp27QMR2KU	MPREb_Eth3FgRUF5Y	UCYtap7ujIPaxTS2iCDoMi3g
-335	Whole Lotta Love (Remaster)	Led Zeppelin	Mothership	INDIFFERENT	5:30	oaSk5vnAVJ8	MPREb_MmefNORZcYE	UCYtap7ujIPaxTS2iCDoMi3g
-406	Stoney End (Mono Version)	Laura Nyro	Mono Albums Collection	INDIFFERENT	2:45	NmwUcN2ZWPY	MPREb_3sQm3U23wnF	UCPI8ZCIESXqAKH1GzzLJvvQ
-330	Night of the Sadist	Larry and the Blue Notes	Taboo Garage, Vol. 4	INDIFFERENT	2:18	OaZ9lAwxHTM	MPREb_NxOtLYouANp	UCYna_b95MmOctFeHfkWZWeQ
-332	Eyes of the Muse	King Tuff	Black Moon Spell	INDIFFERENT	4:13	fykLHWo3gu8	MPREb_HR2AQxlZdLq	UCjwqoZVdhJg4-T-b1XRe0ng
-222	Lights	Journey	Infinity	INDIFFERENT	3:11	BPazVAtD-xQ	MPREb_GJ9i94Xv7Z6	UCPKnuPciHDB8qw-wyBVQo9A
-457	Any Way You Want It	Journey	Departure	INDIFFERENT	3:22	fEpFf2towVU	MPREb_VT6nX9eIhSk	UCPKnuPciHDB8qw-wyBVQo9A
-232	Check It Out	John Mellencamp	The Lonesome Jubilee	INDIFFERENT	4:19	NeJDVCuuMxg	MPREb_G4GY2kdteac	UCmlelS5UQVygg4mLuJSf6pw
-237	Pink Houses	John Mellencamp	Uh-HUH!	INDIFFERENT	4:43	vBJCesNT9TM	MPREb_L7u8QOgKyti	UCmlelS5UQVygg4mLuJSf6pw
-259	Paper In Fire	John Mellencamp	Words & Music: John Mellencamp's Greatest Hits	INDIFFERENT	3:51	JuxKIPkS7Y0	MPREb_Qw9PZJE4yDv	UCmlelS5UQVygg4mLuJSf6pw
-380	Room To Move	John Mayall	Room To Move 1969-1974	INDIFFERENT	5:16	CSTdb5pfGtk	MPREb_FHiABmHUtpO	UCY3JEKjfeb-hJ-8yzXa-3iw
-12	It's So Hard	John Lennon	Imagine	INDIFFERENT	2:30	7ZHt8xyeVMg	MPREb_gDaohH1B2Wz	UCcSL2nYSJp_IgdzH0xBBdcg
-59	I'm Losing You	John Lennon	Signature Box	INDIFFERENT	3:58	Sw4wNqkaeGw	MPREb_xXeWUWxeon2	UCcSL2nYSJp_IgdzH0xBBdcg
-65	How?	John Lennon	Imagine	INDIFFERENT	3:47	5pQ9To3DMuo	MPREb_gDaohH1B2Wz	UCcSL2nYSJp_IgdzH0xBBdcg
-142	Intuition	John Lennon	Mind Games	INDIFFERENT	3:11	7KI0nVS2BtU	MPREb_R6RvYhkTs70	UCcSL2nYSJp_IgdzH0xBBdcg
-146	I'm Losing You	John Lennon	Double Fantasy	INDIFFERENT	3:57	KXJZgwAWvnA	MPREb_g6LN0lxbFmR	UCcSL2nYSJp_IgdzH0xBBdcg
-111	Judy In Disguise	John Fred & His Playboy Band	Back To The '60s	INDIFFERENT	2:57	v6rzHZS-_cM	MPREb_RevN83XKflP	UCfzh6OLuZRQX2lCpkbByp2w
-308	The Old Man Down The Road	John Fogerty	The Long Road Home - The Ultimate John Fogerty / Creedence Collection	INDIFFERENT	3:33	cbqV-KsTsEA	MPREb_nbOxRvMDfDl	UCNds7lSfpSNJfVj8G9PO1Cw
-450	The Old Man Down The Road	John Fogerty	Centerfield - 25th Anniversary	INDIFFERENT	3:35	gzah7VD_PM4	MPREb_xXYDuzlTnS1	UCNds7lSfpSNJfVj8G9PO1Cw
-252	I Need A Lover	John Cougar	John Cougar	INDIFFERENT	5:38	T2V_iIsjCQQ	MPREb_gbMTt9H8y8y	UCmlelS5UQVygg4mLuJSf6pw
-468	On The Dark Side	John Cafferty & The Beaver Brown Band	Eddie And The Cruisers - Original Motion Picture Soundtrack	INDIFFERENT	2:42	wtElYKTtZPc	MPREb_5Aqwm1q2Ebr	UCSINpQBUFUMbJHrxDTywASQ
-249	Wrecking Ball	Joe Walsh	Analog Man	INDIFFERENT	3:45	YRKQ1-37tVs	MPREb_ekYmDOD22l3	UC0A6t1vuAs0Oi9XwERmFiLw
-466	She Came In Through The Bathroom Window	Joe Cocker	Joe Cocker!	INDIFFERENT	2:37	TedvuER50Lk	MPREb_5Dv1ecpHqPI	UCe6m5Nh7b2Za7ln6BUXP8vw
-441	I Love Rock 'N Roll	Joan Jett & The Blackhearts	I Love Rock 'N' Roll (Expanded Edition)	INDIFFERENT	2:56	d9jhDwxt22Y	MPREb_4CRaX1xCV84	UCV2f_8wytj9jP-01V4f83lw
-399	If You Were A Carpenter	Joan Baez	Joan	INDIFFERENT	2:11	UwFNKV8_dJk	MPREb_CYCSLdNouSm	UCS1qmMQEO8KBurXzQCjlbrA
-265	L.a. Breakdown	Jimmy Page	Slip Crop	INDIFFERENT	2:03	-7K10clJfO8	MPREb_wkyY2JuM2NC	UC9LD4dzqmOKgpLCwQxvTMGg
-272	Draggin' My Tail	Jimmy Page	Before Punk, Vol.2	INDIFFERENT	3:10	QR3t8qqG3oo	MPREb_rQgBNOdci2M	UC9LD4dzqmOKgpLCwQxvTMGg
-52	Lover Man (Live at the Fillmore East, NY - 1/1/70 - 2nd Set)	Jimi Hendrix		INDIFFERENT	3:44	JKfn_50wnH8		UC5NwXf8hOgZgInaYiOCZmUg
-267	Stoned Immaculate	Jim Morrison	An American Prayer	INDIFFERENT	1:33	TbF2T49ud0E	MPREb_aQNx9ibCvYi	UC6IB6Pcqx3LYQZxudR8y2kQ
-277	A Feast of Friends	Jim Morrison	An American Prayer	INDIFFERENT	2:10	zgvOX9OLZzQ	MPREb_aQNx9ibCvYi	UC6IB6Pcqx3LYQZxudR8y2kQ
-331	Dancer	Jessie Baylin	Little Spark	INDIFFERENT	3:39	UlQUBJ6nGyU	MPREb_wKKd5ZsDScm	UCqdnYi4Mb3IHZiU8W5446Tg
-208	Count on Me	Jefferson Starship	Earth	INDIFFERENT	3:14	LIc_-UT1Fwo	MPREb_aN7JsQRdqzd	UCgNB_BCi0rjBVPqsfEZK-sA
-123	Volunteers	Jefferson Airplane	Volunteers	INDIFFERENT	2:04	Xaw--HWHecg	MPREb_jTZQ7DQC4uv	UCGRlR1uXGOTqvEy0b06L7jw
-385	Martha	Jefferson Airplane	After Bathing At Baxters	INDIFFERENT	3:26	1JgX70lXzj8	MPREb_tokyWJmWthw	UCGRlR1uXGOTqvEy0b06L7jw
-407	Beck's Bolero	Jeff Beck	Beckology	INDIFFERENT	2:51	krAlp04UbF8	MPREb_kI5t2e9SiDl	UCDPMz5gHZt_TgS8JX7lS71w
-15	Buried Alive In the Blues	Janis Joplin	Pearl	INDIFFERENT	2:25	ydy78VDfdmk	MPREb_gGZ2ZiaTXOF	UCpxqHC9g0px9jecJ7WbfWag
-282	Move Over	Janis Joplin	Pearl	INDIFFERENT	3:44	p72KnCi1yLg	MPREb_TuGNUfk4UVI	UCpxqHC9g0px9jecJ7WbfWag
-71	Something in the Way She Moves	James Taylor	Greatest Hits	INDIFFERENT	3:10	fa8KzA8BYjI	MPREb_hCDrR641s1r	UCZJikx4babgeliqeRPnE9rA
-187	Mexico	James Taylor	Gorilla	INDIFFERENT	2:57	C8H9h9uNiCI	MPREb_yBgVRDru2ef	UCZJikx4babgeliqeRPnE9rA
-243	Don't Let Me Be Lonely Tonight	James Taylor	Greatest Hits	INDIFFERENT	2:36	GCtlXMsumG4	MPREb_hCDrR641s1r	UCZJikx4babgeliqeRPnE9rA
-310	Walk Away	James Gang	Thirds	INDIFFERENT	3:33	0UVOvTcJKH4	MPREb_TGKo5hgpMBG	UCJi7J4fCCv1veVVyg82hb4Q
-169	Tender Is the Night	Jackson Browne	Lawyers In Love	INDIFFERENT	4:53	9KNuZrEVB70	MPREb_kB78QPvPx1S	UChA5rox0PiIlow3yi5762bw
-215	Boulevard	Jackson Browne	Hold Out	INDIFFERENT	3:21	Qj74CwUtCX0	MPREb_Wn56oubJXHW	UChA5rox0PiIlow3yi5762bw
-216	You Love the Thunder	Jackson Browne	Running On Empty	INDIFFERENT	3:54	izxyq7WSZSE	MPREb_M4cA9e9fm3A	UChA5rox0PiIlow3yi5762bw
-340	(Your Love Keeps Lifting Me) Higher & Higher	Jackie Wilson	Brunswick Top 40 Singles 1966-1975	INDIFFERENT	2:57	5nUruJsfY3I	MPREb_M1BVhZPF2aP	UCB-EMgYSOjuwe85j1PBZfjA
-343	In-A-Gadda-Da-Vida	Iron Butterfly	In-A-Gadda-Da-Vida	INDIFFERENT	17:05	Tfpn3wHoNGA	MPREb_y97B1R2pQ6m	UCn_jx84j5_rx1uwSx4t-nTw
-454	If This Is It	Huey Lewis & The News	Sports	INDIFFERENT	3:53	mJoikZbC1zE	MPREb_7YubbLcitow	UCiLTL-mnxJDss_nOG-wyTxQ
-128	It's Good News Week	Hedgehoppers Anonymous	Monster Hits From The 20th Century	INDIFFERENT	2:07	L_KS7OKhBew	MPREb_WX9wrUMqCIJ	UCtwFkeOvJQ7daP_Y8sshtMA
-311	Never Been Any Reason	Head East	Flat As A Pancake	INDIFFERENT	5:10	hI8Vg53nuF4	MPREb_Ec0sKjf3hWv	UCGflR6tDU0cVyAjpMnnNsfQ
-87	"Everybody's Talkin' (From ""Midnight Cowboy"")"	Harry Nilsson	Aerial Ballet	INDIFFERENT	2:44	K5UNot9M-ro	MPREb_HhIWY6sI0Cb	UCVlbbMiyHZiH2hNLd0MOMhA
-401	59th Street Bridge Song (Feelin' Groovy) [Remastered Version]	Harpers Bizarre	Feelin' Groovy	INDIFFERENT	2:40	VuRBynDwo60	MPREb_8oXqq717rqK	UCVSV3XZq7u8nijjPmpz8fpg
-434	Sweet Child O' Mine	Guns N' Roses	Appetite For Destruction	INDIFFERENT	5:57	oMfMUfgjiLg	MPREb_fN7uwe7VDV6	UCSLbbBoUqpin6BE34whSOvA
-408	Morning Dew (Full Length)	Grateful Dead	Grateful Dead	INDIFFERENT	5:17	zKhYPFW1ZaY	MPREb_DNbr8q0pQRA	UC9dWluHyEwvIj5NNs7KkJ0A
-418	Dark Star (Live at Kings Beach Bowl, Kings Beach Lake Tahoe, CA, February 23-24, 1968)	Grateful Dead	Dick's Picks Vol. 22: 2/23/68 & 2/24/68 (Kings Beach Bowl, Kings Beach Lake Tahoe, CA)	INDIFFERENT	6:49	gUDMml2wSeU	MPREb_izuJSolIioP	UC9dWluHyEwvIj5NNs7KkJ0A
-394	Let's Live For Today	Grass Roots	Let's Live for Today	INDIFFERENT	2:47	eHPfH9y1MFc	MPREb_IRec6VDEvfD	UCLEbAV4KupKJ9wJHT2M9tYw
-203	Sundown	Gordon Lightfoot	Rhino Hi-Five: Gordon Lightfoot	INDIFFERENT	3:34	6BR1jalcdoM	MPREb_qL0azqgrocj	UCEx92reYe5I762oF5knkO2w
-234	Sexy Girl	Glenn Frey	Solo Collection	INDIFFERENT	3:30	zQ_fMWJZa3U	MPREb_wQKFrlLzAz5	UCx8OZop2S4F5vZY9_12MfYQ
-440	"The Heat Is On (From ""Beverly Hills Cop"" Soundtrack)"	Glenn Frey	The Heat Is On	INDIFFERENT	3:47	uKWgYKa2Fh0	MPREb_0p0VXhZM9kZ	UCx8OZop2S4F5vZY9_12MfYQ
-109	I Like It (Re-Recording)	Gerry & The Pacemakers	100 Hits Of The Swingin' 60's	INDIFFERENT	2:11	WFD7ZnSVSr8	MPREb_d7JrlWVyCtk	UC15pzUI6BKKj7G1Zt1KO_mg
-300	Move It On Over	George Thorogood And The Destroyers	Who Do You Love?	INDIFFERENT	4:21	MqP59OO33Yk	MPREb_iZPx8m0Oqgj	UCqpoLMU6P4AE51kbChCldEQ
-427	Turn It on Again (2007 Remaster)	Genesis	Duke [2007 Remaster]	INDIFFERENT	3:53	MTZgE8D8a9E	MPREb_qeqxf5YZSj4	UCqlnY5lvEp6F52AZSql04qQ
-324	Oblivious	Galaxie 500	Today	INDIFFERENT	3:20	wyHqqrdCN_M	MPREb_1KFqaMLRzPS	UCfteAdNqNAwCKV-9PZOVD8g
-329	Blue Thunder	Galaxie 500	On Fire	INDIFFERENT	3:49	NFKKKockOu4	MPREb_VdoWDaDHW5D	UCfteAdNqNAwCKV-9PZOVD8g
-415	Walk In My Shadow	Free	20th Century Masters - The Millennium Collection: The Best Of Free	INDIFFERENT	3:31	pyM_4xCrhYk	MPREb_uNgq4pmK41N	UCeAtDOq4xuN3pZnnmkSuAww
-145	In My Defence	Freddie Mercury	Messenger of the Gods: The Singles Collection	INDIFFERENT	3:54	m1VAF3OSZFE	MPREb_aHiiKnA3dvb	UCjymketYSQefUpvDHpPB1_w
-154	Love Kills	Freddie Mercury	The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs	INDIFFERENT	4:30	9k4p0IOq9vA	MPREb_QG3dIONO6TS	UCjymketYSQefUpvDHpPB1_w
-106	The Young Ones (2005 Remaster)	Freddie & The Dreamers	6 x 6: The Sixties	INDIFFERENT	2:09	KGXOee6-Wis	MPREb_3MrR3S342rM	UCdVEZJGB2XW2k3aa8sckHIw
-214	Head Games	Foreigner	Head Games	INDIFFERENT	3:38	ybkJDcisB9I	MPREb_Mi6N7UhRX6r	UClWBvmriAFpqxngoC7DPhJg
-218	Feels like the First Time (2008 Remaster)	Foreigner	No End In Sight: The Very Best Of Foreigner	INDIFFERENT	3:53	cDUEMvCKLis	MPREb_jmZOQobTihl	UClWBvmriAFpqxngoC7DPhJg
-239	Blue Morning, Blue Day	Foreigner	Double Vision (Expanded)	INDIFFERENT	3:13	o1-fW6ECHjc	MPREb_qDv4CCCZpKU	UClWBvmriAFpqxngoC7DPhJg
-255	Double Vision	Foreigner	Double Vision (Expanded)	INDIFFERENT	3:45	KDP1JCV7jDo	MPREb_qDv4CCCZpKU	UClWBvmriAFpqxngoC7DPhJg
-301	Fool for the City	Foghat	Fool For The City	INDIFFERENT	4:33	bD_fmaw1CNY	MPREb_NB8EmoHonL3	UC-5za3KjFHo6NYhH6d52_MA
-305	I Just Want to Make Love to You (Single Version)	Foghat	The Best Of Foghat	INDIFFERENT	4:20	1xVEMKndCoA	MPREb_gt60O7OFPga	UC-5za3KjFHo6NYhH6d52_MA
-257	I Don't Want to Know (2004 Remaster)	Fleetwood Mac	Rumours (Deluxe)	INDIFFERENT	3:17	T2xykVVzzWY	MPREb_W1Lqn6SWJWN	UCCzULu3prrEaPvM2ZtkJlYQ
-211	Cinderella	Firefall	Firefall	INDIFFERENT	3:36	qMzseSaPZ50	MPREb_zqJAk4XDMCU	UCUUkyYBfTybWm-UjZCtzC1A
+150	Four Sticks (Remaster)	Led Zeppelin	Led Zeppelin IV (Deluxe Edition)	INDIFFERENT	4:46	iJp27QMR2KU	MPREb_Eth3FgRUF5Y	UCYtap7ujIPaxTS2iCDoMi3g
+329	Whole Lotta Love (Remaster)	Led Zeppelin	Mothership	INDIFFERENT	5:30	oaSk5vnAVJ8	MPREb_MmefNORZcYE	UCYtap7ujIPaxTS2iCDoMi3g
+398	Stoney End (Mono Version)	Laura Nyro	Mono Albums Collection	INDIFFERENT	2:45	NmwUcN2ZWPY	MPREb_3sQm3U23wnF	UCPI8ZCIESXqAKH1GzzLJvvQ
+572	Phantom of the Footlights	Larsen-Feiten Band	She's Gone - 100 Yacht Rock Supreme	INDIFFERENT	4:14	HrXEQoHNf-g	MPREb_yhwgKrQEEx5	UCxlsKNVWwD9va5hW1iO5HNw
+586	Who'll Be the Fool Tonight	Larsen-Feiten Band	Larsen/Feiten Band	INDIFFERENT	4:11	Gv171aPc05w	MPREb_oKuXPPVY8QF	UCxlsKNVWwD9va5hW1iO5HNw
+325	Night of the Sadist	Larry and the Blue Notes	Taboo Garage, Vol. 4	INDIFFERENT	2:18	OaZ9lAwxHTM	MPREb_NxOtLYouANp	UCYna_b95MmOctFeHfkWZWeQ
+577	Ain't Nothin' For A Heartache	Larry Carlton	Strikes Twice	INDIFFERENT	3:18	G0NiNO1HvkQ	MPREb_9kFdITgni3O	UC_Xh7RqeZc8K99kJJJwF0EA
+327	Eyes of the Muse	King Tuff	Black Moon Spell	INDIFFERENT	4:13	fykLHWo3gu8	MPREb_HR2AQxlZdLq	UCjwqoZVdhJg4-T-b1XRe0ng
+529	This Is It	Kenny Loggins	Keep The Fire	INDIFFERENT	3:57	uu3QahP4uig	MPREb_anFsxkcj0WW	UCF-DjS6Y9CKZThQf01SYe7w
+536	Heart to Heart	Kenny Loggins	High Adventure	INDIFFERENT	5:23	Yn2G8GmkhrU	MPREb_Clj7Qbd8SHW	UCF-DjS6Y9CKZThQf01SYe7w
+578	Who's Right, Who's Wrong	Kenny Loggins	Keep The Fire	INDIFFERENT	5:37	8OGavNEw_gY	MPREb_anFsxkcj0WW	UCF-DjS6Y9CKZThQf01SYe7w
+447	Any Way You Want It	Journey	Departure	INDIFFERENT	3:22	fEpFf2towVU	MPREb_VT6nX9eIhSk	UCPKnuPciHDB8qw-wyBVQo9A
+229	Check It Out	John Mellencamp	The Lonesome Jubilee	INDIFFERENT	4:19	NeJDVCuuMxg	MPREb_G4GY2kdteac	UCmlelS5UQVygg4mLuJSf6pw
+234	Pink Houses	John Mellencamp	Uh-HUH!	INDIFFERENT	4:43	vBJCesNT9TM	MPREb_L7u8QOgKyti	UCmlelS5UQVygg4mLuJSf6pw
+256	Paper In Fire	John Mellencamp	Words & Music: John Mellencamp's Greatest Hits	INDIFFERENT	3:51	JuxKIPkS7Y0	MPREb_Qw9PZJE4yDv	UCmlelS5UQVygg4mLuJSf6pw
+372	Room To Move	John Mayall	Room To Move 1969-1974	INDIFFERENT	5:16	CSTdb5pfGtk	MPREb_FHiABmHUtpO	UCY3JEKjfeb-hJ-8yzXa-3iw
+58	I'm Losing You	John Lennon	Signature Box	INDIFFERENT	3:58	Sw4wNqkaeGw	MPREb_xXeWUWxeon2	UCcSL2nYSJp_IgdzH0xBBdcg
+64	How?	John Lennon	Imagine	INDIFFERENT	3:47	5pQ9To3DMuo	MPREb_gDaohH1B2Wz	UCcSL2nYSJp_IgdzH0xBBdcg
+140	Intuition	John Lennon	Mind Games	INDIFFERENT	3:11	7KI0nVS2BtU	MPREb_R6RvYhkTs70	UCcSL2nYSJp_IgdzH0xBBdcg
+144	I'm Losing You	John Lennon	Double Fantasy	INDIFFERENT	3:57	KXJZgwAWvnA	MPREb_g6LN0lxbFmR	UCcSL2nYSJp_IgdzH0xBBdcg
+109	Judy In Disguise	John Fred & His Playboy Band	Back To The '60s	INDIFFERENT	2:57	v6rzHZS-_cM	MPREb_RevN83XKflP	UCfzh6OLuZRQX2lCpkbByp2w
+303	The Old Man Down The Road	John Fogerty	The Long Road Home - The Ultimate John Fogerty / Creedence Collection	INDIFFERENT	3:33	cbqV-KsTsEA	MPREb_nbOxRvMDfDl	UCNds7lSfpSNJfVj8G9PO1Cw
+441	The Old Man Down The Road	John Fogerty	Centerfield - 25th Anniversary	INDIFFERENT	3:35	gzah7VD_PM4	MPREb_xXYDuzlTnS1	UCNds7lSfpSNJfVj8G9PO1Cw
+249	I Need A Lover	John Cougar	John Cougar	INDIFFERENT	5:38	T2V_iIsjCQQ	MPREb_gbMTt9H8y8y	UCmlelS5UQVygg4mLuJSf6pw
+457	On The Dark Side	John Cafferty & The Beaver Brown Band	Eddie And The Cruisers - Original Motion Picture Soundtrack	INDIFFERENT	2:42	wtElYKTtZPc	MPREb_5Aqwm1q2Ebr	UCSINpQBUFUMbJHrxDTywASQ
+246	Wrecking Ball	Joe Walsh	Analog Man	INDIFFERENT	3:45	YRKQ1-37tVs	MPREb_ekYmDOD22l3	UC0A6t1vuAs0Oi9XwERmFiLw
+455	She Came In Through The Bathroom Window	Joe Cocker	Joe Cocker!	INDIFFERENT	2:37	TedvuER50Lk	MPREb_5Dv1ecpHqPI	UCe6m5Nh7b2Za7ln6BUXP8vw
+433	I Love Rock 'N Roll	Joan Jett & The Blackhearts	I Love Rock 'N' Roll (Expanded Edition)	INDIFFERENT	2:56	d9jhDwxt22Y	MPREb_4CRaX1xCV84	UCV2f_8wytj9jP-01V4f83lw
+391	If You Were A Carpenter	Joan Baez	Joan	INDIFFERENT	2:11	UwFNKV8_dJk	MPREb_CYCSLdNouSm	UCS1qmMQEO8KBurXzQCjlbrA
+262	L.a. Breakdown	Jimmy Page	Slip Crop	INDIFFERENT	2:03	-7K10clJfO8	MPREb_wkyY2JuM2NC	UC9LD4dzqmOKgpLCwQxvTMGg
+269	Draggin' My Tail	Jimmy Page	Before Punk, Vol.2	INDIFFERENT	3:10	QR3t8qqG3oo	MPREb_rQgBNOdci2M	UC9LD4dzqmOKgpLCwQxvTMGg
+599	New And Different Way	Jimmy Messina	Oasis	INDIFFERENT	3:56	0U4F2MWFf80	MPREb_o6b6b3mILtz	UCYPMXpBbvKFTRKvnep6ANwA
+51	Lover Man (Live at the Fillmore East, NY - 1/1/70 - 2nd Set)	Jimi Hendrix		INDIFFERENT	3:44	JKfn_50wnH8		UC5NwXf8hOgZgInaYiOCZmUg
+264	Stoned Immaculate	Jim Morrison	An American Prayer	INDIFFERENT	1:33	TbF2T49ud0E	MPREb_aQNx9ibCvYi	UC6IB6Pcqx3LYQZxudR8y2kQ
+274	A Feast of Friends	Jim Morrison	An American Prayer	INDIFFERENT	2:10	zgvOX9OLZzQ	MPREb_aQNx9ibCvYi	UC6IB6Pcqx3LYQZxudR8y2kQ
+326	Dancer	Jessie Baylin	Little Spark	INDIFFERENT	3:39	UlQUBJ6nGyU	MPREb_wKKd5ZsDScm	UCqdnYi4Mb3IHZiU8W5446Tg
+205	Count on Me	Jefferson Starship	Earth	INDIFFERENT	3:14	LIc_-UT1Fwo	MPREb_aN7JsQRdqzd	UCgNB_BCi0rjBVPqsfEZK-sA
+121	Volunteers	Jefferson Airplane	Volunteers	INDIFFERENT	2:04	Xaw--HWHecg	MPREb_jTZQ7DQC4uv	UCGRlR1uXGOTqvEy0b06L7jw
+377	Martha	Jefferson Airplane	After Bathing At Baxters	INDIFFERENT	3:26	1JgX70lXzj8	MPREb_tokyWJmWthw	UCGRlR1uXGOTqvEy0b06L7jw
+399	Beck's Bolero	Jeff Beck	Beckology	INDIFFERENT	2:51	krAlp04UbF8	MPREb_kI5t2e9SiDl	UCDPMz5gHZt_TgS8JX7lS71w
+527	Thunder Island	Jay Ferguson	Thunder Island	INDIFFERENT	4:01	EI0Tt3UZ5jc	MPREb_zRjBOzzxARR	UCSiiKzK6reRAvvE3SqmvrMA
+14	Buried Alive In the Blues	Janis Joplin	Pearl	INDIFFERENT	2:25	ydy78VDfdmk	MPREb_gGZ2ZiaTXOF	UCpxqHC9g0px9jecJ7WbfWag
+279	Move Over	Janis Joplin	Pearl	INDIFFERENT	3:44	p72KnCi1yLg	MPREb_TuGNUfk4UVI	UCpxqHC9g0px9jecJ7WbfWag
+240	Don't Let Me Be Lonely Tonight	James Taylor	Greatest Hits	INDIFFERENT	2:36	GCtlXMsumG4	MPREb_hCDrR641s1r	UCZJikx4babgeliqeRPnE9rA
+305	Walk Away	James Gang	Thirds	INDIFFERENT	3:33	0UVOvTcJKH4	MPREb_TGKo5hgpMBG	UCJi7J4fCCv1veVVyg82hb4Q
+167	Tender Is the Night	Jackson Browne	Lawyers In Love	INDIFFERENT	4:53	9KNuZrEVB70	MPREb_kB78QPvPx1S	UChA5rox0PiIlow3yi5762bw
+212	Boulevard	Jackson Browne	Hold Out	INDIFFERENT	3:21	Qj74CwUtCX0	MPREb_Wn56oubJXHW	UChA5rox0PiIlow3yi5762bw
+213	You Love the Thunder	Jackson Browne	Running On Empty	INDIFFERENT	3:54	izxyq7WSZSE	MPREb_M4cA9e9fm3A	UChA5rox0PiIlow3yi5762bw
+332	(Your Love Keeps Lifting Me) Higher & Higher	Jackie Wilson	Brunswick Top 40 Singles 1966-1975	INDIFFERENT	2:57	5nUruJsfY3I	MPREb_M1BVhZPF2aP	UCB-EMgYSOjuwe85j1PBZfjA
+444	If This Is It	Huey Lewis & The News	Sports	INDIFFERENT	3:53	mJoikZbC1zE	MPREb_7YubbLcitow	UCiLTL-mnxJDss_nOG-wyTxQ
+126	It's Good News Week	Hedgehoppers Anonymous	Monster Hits From The 20th Century	INDIFFERENT	2:07	L_KS7OKhBew	MPREb_WX9wrUMqCIJ	UCtwFkeOvJQ7daP_Y8sshtMA
+470	Magic Man	Heart	Dreamboat Annie	INDIFFERENT	5:29	AZTo3iJng7U	MPREb_vyacZymExhY	UCTY6y0k715s7bJ2Tl-ju3xw
+613	Magic Man	Heart	Dreamboat Annie	INDIFFERENT	5:29	AZTo3iJng7U	MPREb_vyacZymExhY	UCTY6y0k715s7bJ2Tl-ju3xw
+306	Never Been Any Reason	Head East	Flat As A Pancake	INDIFFERENT	5:10	hI8Vg53nuF4	MPREb_Ec0sKjf3hWv	UCGflR6tDU0cVyAjpMnnNsfQ
+86	"Everybody's Talkin' (From ""Midnight Cowboy"")"	Harry Nilsson	Aerial Ballet	INDIFFERENT	2:44	K5UNot9M-ro	MPREb_HhIWY6sI0Cb	UCVlbbMiyHZiH2hNLd0MOMhA
+393	59th Street Bridge Song (Feelin' Groovy) [Remastered Version]	Harpers Bizarre	Feelin' Groovy	INDIFFERENT	2:40	VuRBynDwo60	MPREb_8oXqq717rqK	UCVSV3XZq7u8nijjPmpz8fpg
+589	You Win, I Lose	Hal Bradbury	This Is Love	INDIFFERENT	3:59	4H52QmJWFvQ	MPREb_BcOt0z1GMHy	UCL24861_wFu4q7rJpjA2kAA
+426	Sweet Child O' Mine	Guns N' Roses	Appetite For Destruction	INDIFFERENT	5:57	oMfMUfgjiLg	MPREb_fN7uwe7VDV6	UCSLbbBoUqpin6BE34whSOvA
+400	Morning Dew (Full Length)	Grateful Dead	Grateful Dead	INDIFFERENT	5:17	zKhYPFW1ZaY	MPREb_DNbr8q0pQRA	UC9dWluHyEwvIj5NNs7KkJ0A
+410	Dark Star (Live at Kings Beach Bowl, Kings Beach Lake Tahoe, CA, February 23-24, 1968)	Grateful Dead	Dick's Picks Vol. 22: 2/23/68 & 2/24/68 (Kings Beach Bowl, Kings Beach Lake Tahoe, CA)	INDIFFERENT	6:49	gUDMml2wSeU	MPREb_izuJSolIioP	UC9dWluHyEwvIj5NNs7KkJ0A
+386	Let's Live For Today	Grass Roots	Let's Live for Today	INDIFFERENT	2:47	eHPfH9y1MFc	MPREb_IRec6VDEvfD	UCLEbAV4KupKJ9wJHT2M9tYw
+200	Sundown	Gordon Lightfoot	Rhino Hi-Five: Gordon Lightfoot	INDIFFERENT	3:34	6BR1jalcdoM	MPREb_qL0azqgrocj	UCEx92reYe5I762oF5knkO2w
+231	Sexy Girl	Glenn Frey	Solo Collection	INDIFFERENT	3:30	zQ_fMWJZa3U	MPREb_wQKFrlLzAz5	UCx8OZop2S4F5vZY9_12MfYQ
+432	"The Heat Is On (From ""Beverly Hills Cop"" Soundtrack)"	Glenn Frey	The Heat Is On	INDIFFERENT	3:47	uKWgYKa2Fh0	MPREb_0p0VXhZM9kZ	UCx8OZop2S4F5vZY9_12MfYQ
+508	I Just Wanna Stop	Gino Vannelli	Brother To Brother	INDIFFERENT	3:38	m_oPMpNY9Rc	MPREb_C8VNZJ4FaDl	UCbWmWpTS9IhAbEEYTBgLdhg
+545	People Gotta Move	Gino Vannelli	Powerful People	INDIFFERENT	3:21	hEikBqQq3hQ	MPREb_FFLA05gPChy	UCbWmWpTS9IhAbEEYTBgLdhg
+107	I Like It (Re-Recording)	Gerry & The Pacemakers	100 Hits Of The Swingin' 60's	INDIFFERENT	2:11	WFD7ZnSVSr8	MPREb_d7JrlWVyCtk	UC15pzUI6BKKj7G1Zt1KO_mg
+296	Move It On Over	George Thorogood And The Destroyers	Who Do You Love?	INDIFFERENT	4:21	MqP59OO33Yk	MPREb_iZPx8m0Oqgj	UCqpoLMU6P4AE51kbChCldEQ
+484	Give Me Love (Give Me Peace On Earth)	George Harrison	Living In The Material World	INDIFFERENT	3:35	LYW9cjcO_SY	MPREb_lXBY0fcgZib	UCGVnHHo1u7Xfyht_psktcUQ
+496	Crackerbox Palace (Remastered 2004)	George Harrison	Thirty Three & 1/3	INDIFFERENT	3:59	4rSSWdbZUgQ	MPREb_9YGSBRZ8Mtc	UCGVnHHo1u7Xfyht_psktcUQ
+621	Give Me Love (Give Me Peace On Earth)	George Harrison	Living In The Material World	INDIFFERENT	3:35	LYW9cjcO_SY	MPREb_lXBY0fcgZib	UCGVnHHo1u7Xfyht_psktcUQ
+633	Crackerbox Palace (Remastered 2004)	George Harrison	Thirty Three & 1/3	INDIFFERENT	3:59	4rSSWdbZUgQ	MPREb_9YGSBRZ8Mtc	UCGVnHHo1u7Xfyht_psktcUQ
+556	Summer Breezin'	George Duke	Brazilian Love Affair (Expanded Edition)	INDIFFERENT	4:50	ZhkKdG66npY	MPREb_Mit9tVHueKr	UC8v5L8G_xVJr-7wwq4hF6Wg
+585	You	George Duke	Dream On (Bonus Track Version)	INDIFFERENT	4:39	nDvOmiYTgA4	MPREb_bzg1QbdJgIl	UC8v5L8G_xVJr-7wwq4hF6Wg
+510	Breezin'	George Benson	Breezin'	INDIFFERENT	5:42	G1QjyskJ9jw	MPREb_Bv6JiLfdtMu	UC16DzwxorG8xZCoaqzaUQSQ
+551	Softly, As In A Morning Sunrise	George Benson	Irreplaceable	INDIFFERENT	3:58	UkN4fm7E0cw	MPREb_qKqO0XIhqOa	UC16DzwxorG8xZCoaqzaUQSQ
+419	Turn It on Again (2007 Remaster)	Genesis	Duke [2007 Remaster]	INDIFFERENT	3:53	MTZgE8D8a9E	MPREb_qeqxf5YZSj4	UCqlnY5lvEp6F52AZSql04qQ
+319	Oblivious	Galaxie 500	Today	INDIFFERENT	3:20	wyHqqrdCN_M	MPREb_1KFqaMLRzPS	UCfteAdNqNAwCKV-9PZOVD8g
+324	Blue Thunder	Galaxie 500	On Fire	INDIFFERENT	3:49	NFKKKockOu4	MPREb_VdoWDaDHW5D	UCfteAdNqNAwCKV-9PZOVD8g
+407	Walk In My Shadow	Free	20th Century Masters - The Millennium Collection: The Best Of Free	INDIFFERENT	3:31	pyM_4xCrhYk	MPREb_uNgq4pmK41N	UCeAtDOq4xuN3pZnnmkSuAww
+143	In My Defence	Freddie Mercury	Messenger of the Gods: The Singles Collection	INDIFFERENT	3:54	m1VAF3OSZFE	MPREb_aHiiKnA3dvb	UCjymketYSQefUpvDHpPB1_w
+152	Love Kills	Freddie Mercury	The Very Best of Freddie Mercury Solo: Lover of Life, Singer of Songs	INDIFFERENT	4:30	9k4p0IOq9vA	MPREb_QG3dIONO6TS	UCjymketYSQefUpvDHpPB1_w
+105	The Young Ones (2005 Remaster)	Freddie & The Dreamers	6 x 6: The Sixties	INDIFFERENT	2:09	KGXOee6-Wis	MPREb_3MrR3S342rM	UCdVEZJGB2XW2k3aa8sckHIw
+211	Head Games	Foreigner	Head Games	INDIFFERENT	3:38	ybkJDcisB9I	MPREb_Mi6N7UhRX6r	UClWBvmriAFpqxngoC7DPhJg
+215	Feels like the First Time (2008 Remaster)	Foreigner	No End In Sight: The Very Best Of Foreigner	INDIFFERENT	3:53	cDUEMvCKLis	MPREb_jmZOQobTihl	UClWBvmriAFpqxngoC7DPhJg
+236	Blue Morning, Blue Day	Foreigner	Double Vision (Expanded)	INDIFFERENT	3:13	o1-fW6ECHjc	MPREb_qDv4CCCZpKU	UClWBvmriAFpqxngoC7DPhJg
+252	Double Vision	Foreigner	Double Vision (Expanded)	INDIFFERENT	3:45	KDP1JCV7jDo	MPREb_qDv4CCCZpKU	UClWBvmriAFpqxngoC7DPhJg
+628	Double Vision	Foreigner	Double Vision (Expanded)	INDIFFERENT	3:45	KDP1JCV7jDo	MPREb_qDv4CCCZpKU	UClWBvmriAFpqxngoC7DPhJg
+297	Fool for the City	Foghat	Fool For The City	INDIFFERENT	4:33	bD_fmaw1CNY	MPREb_NB8EmoHonL3	UC-5za3KjFHo6NYhH6d52_MA
+301	I Just Want to Make Love to You (Single Version)	Foghat	The Best Of Foghat	INDIFFERENT	4:20	1xVEMKndCoA	MPREb_gt60O7OFPga	UC-5za3KjFHo6NYhH6d52_MA
+254	I Don't Want to Know (2004 Remaster)	Fleetwood Mac	Rumours (Deluxe)	INDIFFERENT	3:17	T2xykVVzzWY	MPREb_W1Lqn6SWJWN	UCCzULu3prrEaPvM2ZtkJlYQ
+512	Sara	Fleetwood Mac	Tusk (Expanded)	INDIFFERENT	6:31	vfs6X7boS1s	MPREb_U33V1l2YSyd	UCCzULu3prrEaPvM2ZtkJlYQ
+528	Over My Head	Fleetwood Mac	Fleetwood Mac	INDIFFERENT	3:35	UXWia0TWAMM	MPREb_8u4xQJR2DHt	UCCzULu3prrEaPvM2ZtkJlYQ
+534	Hold Me	Fleetwood Mac	Mirage	INDIFFERENT	3:46	yaGFwKIJR7c	MPREb_N69A1wZQIM3	UCCzULu3prrEaPvM2ZtkJlYQ
+208	Cinderella	Firefall	Firefall	INDIFFERENT	3:36	qMzseSaPZ50	MPREb_zqJAk4XDMCU	UCUUkyYBfTybWm-UjZCtzC1A
+489	Stay with Me	Faces	A Nod Is As Good As A Wink... To A Blind Horse	INDIFFERENT	4:39	f514cAZucCg	MPREb_0Ljb02RRPSK	UCmQ1F3mlOlAR4Njn39lf9cw
+627	Stay with Me	Faces	A Nod Is As Good As A Wink... To A Blind Horse	INDIFFERENT	4:39	f514cAZucCg	MPREb_0Ljb02RRPSK	UCmQ1F3mlOlAR4Njn39lf9cw
+555	Kiss You All Over	Exile	Kiss You All Over	INDIFFERENT	3:32	fjLF0CsaxNg	MPREb_VxIokb1k6BZ	UCe_EoWCPhUaqgXfPB8z052Q
 3	Hoochie Coochie Man	Eric Clapton	From The Cradle	INDIFFERENT	3:15	Y9M1yRuZVVU	MPREb_MF5M6LHyIlh	UCXmEE051j5RhUENn7saUF3g
 4	Blues Power	Eric Clapton	Eric Clapton	INDIFFERENT	3:11	c4DkP8MRQOQ	MPREb_vZeHlIJte2N	UCXmEE051j5RhUENn7saUF3g
 7	How Long Blues	Eric Clapton	From The Cradle	INDIFFERENT	3:08	smemgfVKn6o	MPREb_MF5M6LHyIlh	UCXmEE051j5RhUENn7saUF3g
-48	Hello Old Friend	Eric Clapton	The Cream Of Clapton	INDIFFERENT	3:34	vn1ZSARfq2g	MPREb_dX7dHEzKRhl	UCXmEE051j5RhUENn7saUF3g
-51	Lay Down Sally	Eric Clapton	20th Century Masters - The Millennium Collection: The Best Of Eric Clapton	INDIFFERENT	3:52	fAM4zQQVzG0	MPREb_xwZXrRNmm2p	UCXmEE051j5RhUENn7saUF3g
-57	Promises	Eric Clapton	The Cream Of Clapton	INDIFFERENT	3:01	uQRbopHI9vY	MPREb_dX7dHEzKRhl	UCXmEE051j5RhUENn7saUF3g
-219	Forever Man (1999 Remaster)	Eric Clapton	Chronicles: The Best Of Eric Clapton	INDIFFERENT	3:12	OjHfJK4vS_w	MPREb_6IJjFxCgqHj	UCXmEE051j5RhUENn7saUF3g
-229	It's in the Way That You Use It (1999 Remaster)	Eric Clapton	August	INDIFFERENT	4:11	kP1AFDDJoeE	MPREb_dMOELh59EYk	UCXmEE051j5RhUENn7saUF3g
-253	I Can't Stand It	Eric Clapton	Complete Clapton	INDIFFERENT	4:09	I1fbZnUTapM	MPREb_4qVXxgKZe4I	UCXmEE051j5RhUENn7saUF3g
-263	Milkcow's Calf Blues	Eric Clapton	Me And Mr. Johnson	INDIFFERENT	3:19	MfFKDmvKu_E	MPREb_pL1aqH5wyqh	UCXmEE051j5RhUENn7saUF3g
-270	Me and the Devil Blues	Eric Clapton	Me And Mr. Johnson	INDIFFERENT	2:55	7DbwoL8jj7M	MPREb_pL1aqH5wyqh	UCXmEE051j5RhUENn7saUF3g
-288	I wish I Would	Eric Clapton	Eric Clapton - From There to Here	INDIFFERENT	2:16	a9a0e4Qaj10	MPREb_nSWp1iCFAwr	UCXmEE051j5RhUENn7saUF3g
-293	Cocaine	Eric Clapton	The Cream Of Clapton	INDIFFERENT	3:38	O6yeLNNVa4A	MPREb_dX7dHEzKRhl	UCXmEE051j5RhUENn7saUF3g
-299	I Can't Stand It	Eric Clapton	Another Ticket	INDIFFERENT	4:10	QNthfURk73k	MPREb_CreMP724Znb	UCXmEE051j5RhUENn7saUF3g
-395	A Girl Named Sandoz	Eric Burdon And The Animals	The Best Of Eric Burdon And The Animals (1966 - 1968)	INDIFFERENT	3:06	JrDDesixUbk	MPREb_3H0FDPd9OU0	UCcFlzgDVSL9dMUo66cEyWJQ
-365	Monterey	Eric Burdon & The Animals	The Twain Shall Meet	INDIFFERENT	4:36	ASviQQinEbk	MPREb_Qxs7a7lb1zq	UCX59r1wZ-i13D1lzOJr1URw
-163	We'll Never Have to Say Goodbye Again (Single Version)	England Dan & John Ford Coley	Some Things Don't Come Easy	INDIFFERENT	2:53	EgTHkXKyyvc	MPREb_P99FxnUMAq2	UCvDQz5K-EtXNlNFdZ0BdKYg
-176	Love Is the Answer	England Dan & John Ford Coley	Dr. Heckle & Mr. Jive	INDIFFERENT	4:45	d404PeooWl8	MPREb_x4ChILTLT0B	UCvDQz5K-EtXNlNFdZ0BdKYg
-181	I'd Really Love to See You Tonight	England Dan & John Ford Coley	Nights Are Forever	INDIFFERENT	2:40	P8RShs00yR0	MPREb_RRzFk3sGehm	UCvDQz5K-EtXNlNFdZ0BdKYg
-185	It's Sad to Belong (Single Version)	England Dan & John Ford Coley	Dowdy Ferry Road	INDIFFERENT	2:54	_pYmcz0EgJ0	MPREb_AkAJcDomwdY	UCvDQz5K-EtXNlNFdZ0BdKYg
-200	Nights Are Forever Without You	England Dan & John Ford Coley	Nights Are Forever	INDIFFERENT	2:51	LHDm3qy4abI	MPREb_RRzFk3sGehm	UCvDQz5K-EtXNlNFdZ0BdKYg
-60	Blowin' In the Wind	Elvis Presley	Platinum - A Life In Music	INDIFFERENT	2:05	uIY64AlZDdI	MPREb_bj0ucK3gnV0	UChgxarBUCnPJV871-46bJ2g
-422	Saturday Night's Alright For Fighting	Elton John	Goodbye Yellow Brick Road	INDIFFERENT	4:55	AhnZEmnuzgM	MPREb_3SUwY5u1EWG	UCn9i4cdLe14CbsOycTbKMoA
-136	21st Century Man	Electric Light Orchestra	Time	INDIFFERENT	4:08	hbW7_R6m6Xs	MPREb_FPbUFXLVCt1	UCZQkZuaiV1DiJ4CG50oInTQ
-180	I'll Have to Say I Love You in a Song	Ekin Cheng	Best Love - Ekin in Australia	INDIFFERENT	2:33	PX8o1blIRAc	MPREb_JTrEqEnMuLc	UCQ-zRkLnKJyo1nvDUnv124A
-458	Take Me Home Tonight	Eddie Money	Can't Hold Back	INDIFFERENT	3:32	FGb381tMJrw	MPREb_ly6pmrboD2x	UCGGFoJwI-g-8jSeCECI-2sg
-115	Summertime Blues	Eddie Cochran	Summertime Blues	INDIFFERENT	2:00	AIfS9R9mDkc	MPREb_1OzdITbig5E	UC0hH-HECShPwModEyrpQIZQ
-325	My Life Is Wrong	East River Pipe	Shining Hours in a Can	INDIFFERENT	3:20	o1U-XfXZbag	MPREb_dgOBaMQfh6c	UC7oOxJk9d7UQxbQrvP022iw
-147	Funk #49 (Live at The Forum, Los Angeles, CA, 10/20-22/1976)	Eagles	Hotel California (40th Anniversary Expanded Edition)	INDIFFERENT	4:04	4uWAxsnl1_Y	MPREb_NIMWnhjRoTJ	UC49r4GNHHpc-eQ9hmD2Rg6A
-151	James Dean (Live at The Forum, Los Angeles, CA, 10/20-22/1976)	Eagles	Hotel California (40th Anniversary Expanded Edition)	INDIFFERENT	3:50	UTSUCcrjS2o	MPREb_NIMWnhjRoTJ	UC49r4GNHHpc-eQ9hmD2Rg6A
-240	The Long Run	Eagles	Their Greatest Hits, Volumes 1 & 2	INDIFFERENT	3:41	AqUBjHZ8QSo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIjdGhlaXIgZ3JlYXRlc3QgaGl0cyB2b2x1bWVzIDEgYW5kIDIaBmVhZ2xlcyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGZWFnbGVz
-414	Mendocino	Doug Sahm	Masters Of The Last Century: Best of Doug Sahm	INDIFFERENT	2:40	d0NNcS5Xkb0	MPREb_BnvsLLUWI9t	UC56sFynuNsMOIWc3W7S92iQ
-227	All She Wants To Do Is Dance	Don Henley	Actual Miles: Henley's Greatest Hits	INDIFFERENT	4:30	rpFRpGOiXpo	MPREb_MXMarVy0hRD	UCnPPs9X57Sl4dNCyIgLigzQ
-235	The Brand New Tennessee Waltz	Don Henley	Cass County (Deluxe)	INDIFFERENT	3:20	qJY5mOpfU64	MPREb_HBM470gVMNn	UCnPPs9X57Sl4dNCyIgLigzQ
-242	When I Stop Dreaming (feat. Dolly Parton)	Don Henley	Cass County	INDIFFERENT	3:06	uFIeBosId2I	MPREb_Sh13F4v10Au	UCnPPs9X57Sl4dNCyIgLigzQ
-245	For My Wedding	Don Henley	The Very Best Of Don Henley	INDIFFERENT	3:37	VuwKMugnRKw	MPREb_PGOAYf8r1Lr	UCnPPs9X57Sl4dNCyIgLigzQ
-238	Iron Hand	Dire Straits	On Every Street (Remaster)	INDIFFERENT	3:09	EXvWHWxNgH4	MPREb_ERMiBfVCgM9	UCA37MBUzQgLbUHoUQgl-p0g
-247	Southbound Again	Dire Straits	Dire Straits	INDIFFERENT	3:00	WgY5vIN0YJA	MPREb_hvShdCVz65r	UCA37MBUzQgLbUHoUQgl-p0g
-350	Reflections	Diana Ross & The Supremes	Reflections (Expanded Edition)	INDIFFERENT	2:50	rwPBQlt5AXI	MPREb_pXNU8HkAZdU	UCaKbXyTyxKOyBKasPe7JB2w
-34	Bell Bottom Blues	Derek & The Dominos	Layla and Other Assorted Love Songs	INDIFFERENT	5:01	tQjxIvcGGdE	MPREb_kTStO1A5jmn	UCSM5eFvWhMNcMxd0BH52HJg
-43	I Looked Away	Derek & The Dominos	Layla and Other Assorted Love Songs	INDIFFERENT	3:04	iqA5FtpYL6w	MPREb_kTStO1A5jmn	UCSM5eFvWhMNcMxd0BH52HJg
-273	Snake Lake Blues (40th Anniversary Version / 2010 Remastered)	Derek & The Dominos	Layla And Other Assorted Love Songs (Deluxe Edition)	INDIFFERENT	3:33	oTJaoDix5A4	MPREb_oFwtXLCenrw	UCSM5eFvWhMNcMxd0BH52HJg
-88	Runaway	Del Shannon	Runaway	INDIFFERENT	2:20	pCBzPdygbNk	MPREb_d5Rgc0vMPdE	UCESgM5z8e3co-cwt5qjWKBw
-184	Goodbye Girl	David Gates	Goodbye Girl	INDIFFERENT	2:48	HXqRTjYu4cA	MPREb_EYW41o9Ll5y	UCgSv1KELwilMwi6q3C2ICRg
-134	Suffragette City (2002 Remaster)	David Bowie	Best of Bowie	INDIFFERENT	3:28	ynYXYXYUUak	MPREb_4dbxbRJFAkB	UCvY1eVE6lTebXsdFbbXUtkQ
-141	Changes (1999 Digital Remaster)	David Bowie	Best of Bowie	INDIFFERENT	3:35	OyfvpnxnJGM	MPREb_4dbxbRJFAkB	UCvY1eVE6lTebXsdFbbXUtkQ
-435	Dancing in the Street (2002 Remaster)	David Bowie	Dancing In The Street	INDIFFERENT	3:24	AYd1x5m5Bj0	MPREb_Cifabt0wFes	UCvY1eVE6lTebXsdFbbXUtkQ
-177	We Just Disagree	Dave Mason	Let It Flow	INDIFFERENT	3:01	3e8xSISlPJs	MPREb_If67Om91Gde	UCI0Xku1gzTjbYUv3G_wCpdw
-207	Only You Know And I Know	Dave Mason	Alone Together	INDIFFERENT	4:07	Cn0tnfv0KCc	MPREb_ix9xWoVAJIZ	UCI0Xku1gzTjbYUv3G_wCpdw
-190	Leader of the Band	Dan Fogelberg	The Very Best Of Dan Fogelberg	INDIFFERENT	4:19	KwLbdPIOOkM	MPREb_ICTGT2cefGo	UCLoLHtbZAOqrjjiK2RRKS1Q
-205	Hard to Say	Dan Fogelberg	The Innocent Age	INDIFFERENT	4:00	fGMYk1A84UU	MPREb_fEtHp3ss6ux	UCLoLHtbZAOqrjjiK2RRKS1Q
-279	Station Break (feat. Jimi Hendrix)	Curtis Knight		INDIFFERENT	2:34	wDcu15Wb3u0		UCBYIGeOw8LWjb8U_xR0dCoA
-159	Dark Star	Crosby, Stills & Nash	CSN	INDIFFERENT	4:46	gUUsYurcCZw	MPREb_R1FoBfXsfYS	UC25j4DwEaTkGHCUpQo2mZPQ
-168	Marrakesh Express	Crosby, Stills & Nash	Greatest Hits	INDIFFERENT	2:40	4pIZaU3vmng	MPREb_Fradmz0dFME	UC25j4DwEaTkGHCUpQo2mZPQ
-254	Daylight Again	Crosby, Stills & Nash	Greatest Hits	INDIFFERENT	2:29	pSccg1beW54	MPREb_Fradmz0dFME	UC25j4DwEaTkGHCUpQo2mZPQ
+47	Hello Old Friend	Eric Clapton	The Cream Of Clapton	INDIFFERENT	3:34	vn1ZSARfq2g	MPREb_dX7dHEzKRhl	UCXmEE051j5RhUENn7saUF3g
+56	Promises	Eric Clapton	The Cream Of Clapton	INDIFFERENT	3:01	uQRbopHI9vY	MPREb_dX7dHEzKRhl	UCXmEE051j5RhUENn7saUF3g
+216	Forever Man (1999 Remaster)	Eric Clapton	Chronicles: The Best Of Eric Clapton	INDIFFERENT	3:12	OjHfJK4vS_w	MPREb_6IJjFxCgqHj	UCXmEE051j5RhUENn7saUF3g
+226	It's in the Way That You Use It (1999 Remaster)	Eric Clapton	August	INDIFFERENT	4:11	kP1AFDDJoeE	MPREb_dMOELh59EYk	UCXmEE051j5RhUENn7saUF3g
+250	I Can't Stand It	Eric Clapton	Complete Clapton	INDIFFERENT	4:09	I1fbZnUTapM	MPREb_4qVXxgKZe4I	UCXmEE051j5RhUENn7saUF3g
+260	Milkcow's Calf Blues	Eric Clapton	Me And Mr. Johnson	INDIFFERENT	3:19	MfFKDmvKu_E	MPREb_pL1aqH5wyqh	UCXmEE051j5RhUENn7saUF3g
+267	Me and the Devil Blues	Eric Clapton	Me And Mr. Johnson	INDIFFERENT	2:55	7DbwoL8jj7M	MPREb_pL1aqH5wyqh	UCXmEE051j5RhUENn7saUF3g
+285	I wish I Would	Eric Clapton	Eric Clapton - From There to Here	INDIFFERENT	2:16	a9a0e4Qaj10	MPREb_nSWp1iCFAwr	UCXmEE051j5RhUENn7saUF3g
+295	I Can't Stand It	Eric Clapton	Another Ticket	INDIFFERENT	4:10	QNthfURk73k	MPREb_CreMP724Znb	UCXmEE051j5RhUENn7saUF3g
+493	After Midnight	Eric Clapton	Eric Clapton	INDIFFERENT	2:50	RdjBrnV-U9M	MPREb_qLuiHlMg5BH	UCXmEE051j5RhUENn7saUF3g
+630	After Midnight	Eric Clapton	Eric Clapton	INDIFFERENT	2:50	RdjBrnV-U9M	MPREb_qLuiHlMg5BH	UCXmEE051j5RhUENn7saUF3g
+387	A Girl Named Sandoz	Eric Burdon And The Animals	The Best Of Eric Burdon And The Animals (1966 - 1968)	INDIFFERENT	3:06	JrDDesixUbk	MPREb_3H0FDPd9OU0	UCcFlzgDVSL9dMUo66cEyWJQ
+357	Monterey	Eric Burdon & The Animals	The Twain Shall Meet	INDIFFERENT	4:36	ASviQQinEbk	MPREb_Qxs7a7lb1zq	UCX59r1wZ-i13D1lzOJr1URw
+161	We'll Never Have to Say Goodbye Again (Single Version)	England Dan & John Ford Coley	Some Things Don't Come Easy	INDIFFERENT	2:53	EgTHkXKyyvc	MPREb_P99FxnUMAq2	UCvDQz5K-EtXNlNFdZ0BdKYg
+173	Love Is the Answer	England Dan & John Ford Coley	Dr. Heckle & Mr. Jive	INDIFFERENT	4:45	d404PeooWl8	MPREb_x4ChILTLT0B	UCvDQz5K-EtXNlNFdZ0BdKYg
+178	I'd Really Love to See You Tonight	England Dan & John Ford Coley	Nights Are Forever	INDIFFERENT	2:40	P8RShs00yR0	MPREb_RRzFk3sGehm	UCvDQz5K-EtXNlNFdZ0BdKYg
+182	It's Sad to Belong (Single Version)	England Dan & John Ford Coley	Dowdy Ferry Road	INDIFFERENT	2:54	_pYmcz0EgJ0	MPREb_AkAJcDomwdY	UCvDQz5K-EtXNlNFdZ0BdKYg
+197	Nights Are Forever Without You	England Dan & John Ford Coley	Nights Are Forever	INDIFFERENT	2:51	LHDm3qy4abI	MPREb_RRzFk3sGehm	UCvDQz5K-EtXNlNFdZ0BdKYg
+581	Dowdy Ferry Road	England Dan & John Ford Coley	Dowdy Ferry Road	INDIFFERENT	3:23	p0up6SSxujo	MPREb_AkAJcDomwdY	UCvDQz5K-EtXNlNFdZ0BdKYg
+59	Blowin' In the Wind	Elvis Presley	Platinum - A Life In Music	INDIFFERENT	2:05	uIY64AlZDdI	MPREb_bj0ucK3gnV0	UChgxarBUCnPJV871-46bJ2g
+505	Fooled Around And Fell In Love	Elvin Bishop	Struttin' My Stuff	INDIFFERENT	4:36	k33x_Efa5Lk	MPREb_uxgXrVvqlEY	UCFbAQBemm8L0afhIgDDzgFw
+414	Saturday Night's Alright For Fighting	Elton John	Goodbye Yellow Brick Road	INDIFFERENT	4:55	AhnZEmnuzgM	MPREb_3SUwY5u1EWG	UCn9i4cdLe14CbsOycTbKMoA
+134	21st Century Man	Electric Light Orchestra	Time	INDIFFERENT	4:08	hbW7_R6m6Xs	MPREb_FPbUFXLVCt1	UCZQkZuaiV1DiJ4CG50oInTQ
+480	Strange Magic	Electric Light Orchestra	Face the Music	INDIFFERENT	4:30	9_PfYoDDWa0	MPREb_SQnWHehRta3	UCZQkZuaiV1DiJ4CG50oInTQ
+619	Strange Magic	Electric Light Orchestra	Face the Music	INDIFFERENT	4:30	9_PfYoDDWa0	MPREb_SQnWHehRta3	UCZQkZuaiV1DiJ4CG50oInTQ
+177	I'll Have to Say I Love You in a Song	Ekin Cheng	Best Love - Ekin in Australia	INDIFFERENT	2:33	PX8o1blIRAc	MPREb_JTrEqEnMuLc	UCQ-zRkLnKJyo1nvDUnv124A
+558	Suspicions (2008 Version)	Eddie Rabbitt	Loveline	INDIFFERENT	4:21	L-AkCwEa6LM	MPREb_ptHKTrde1L4	UCGzGWX7kU0Ge-9FZBdnoS5g
+448	Take Me Home Tonight	Eddie Money	Can't Hold Back	INDIFFERENT	3:32	FGb381tMJrw	MPREb_ly6pmrboD2x	UCGGFoJwI-g-8jSeCECI-2sg
+113	Summertime Blues	Eddie Cochran	Summertime Blues	INDIFFERENT	2:00	AIfS9R9mDkc	MPREb_1OzdITbig5E	UC0hH-HECShPwModEyrpQIZQ
+320	My Life Is Wrong	East River Pipe	Shining Hours in a Can	INDIFFERENT	3:20	o1U-XfXZbag	MPREb_dgOBaMQfh6c	UC7oOxJk9d7UQxbQrvP022iw
+145	Funk #49 (Live at The Forum, Los Angeles, CA, 10/20-22/1976)	Eagles	Hotel California (40th Anniversary Expanded Edition)	INDIFFERENT	4:04	4uWAxsnl1_Y	MPREb_NIMWnhjRoTJ	UC49r4GNHHpc-eQ9hmD2Rg6A
+149	James Dean (Live at The Forum, Los Angeles, CA, 10/20-22/1976)	Eagles	Hotel California (40th Anniversary Expanded Edition)	INDIFFERENT	3:50	UTSUCcrjS2o	MPREb_NIMWnhjRoTJ	UC49r4GNHHpc-eQ9hmD2Rg6A
+237	The Long Run	Eagles	Their Greatest Hits, Volumes 1 & 2	INDIFFERENT	3:41	AqUBjHZ8QSo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIjdGhlaXIgZ3JlYXRlc3QgaGl0cyB2b2x1bWVzIDEgYW5kIDIaBmVhZ2xlcyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGZWFnbGVz
+594	Lovin' And Losin' You	Dwayne Ford	Needless Freaking	INDIFFERENT	3:28	puMwbXuI97Q	MPREb_ty8ap0XbA1h	UCNcdi416m1BCbk83GOJQDZA
+511	Sharing The Night Together	Dr. Hook	Pleasure & Pain	INDIFFERENT	2:55	GTUU-qPuR4w	MPREb_uEhrDDlbjrH	UCYDWtgeChGox9JV0x0QbOXg
+406	Mendocino	Doug Sahm	Masters Of The Last Century: Best of Doug Sahm	INDIFFERENT	2:40	d0NNcS5Xkb0	MPREb_BnvsLLUWI9t	UC56sFynuNsMOIWc3W7S92iQ
+531	The Nightfly	Donald Fagen	The Nightfly	INDIFFERENT	5:48	-rrrof1TJc4	MPREb_iqOuckWiZXg	UC21DQWbfjBk3SHEIMX2fjBw
+232	The Brand New Tennessee Waltz	Don Henley	Cass County (Deluxe)	INDIFFERENT	3:20	qJY5mOpfU64	MPREb_HBM470gVMNn	UCnPPs9X57Sl4dNCyIgLigzQ
+239	When I Stop Dreaming (feat. Dolly Parton)	Don Henley	Cass County	INDIFFERENT	3:06	uFIeBosId2I	MPREb_Sh13F4v10Au	UCnPPs9X57Sl4dNCyIgLigzQ
+242	For My Wedding	Don Henley	The Very Best Of Don Henley	INDIFFERENT	3:37	VuwKMugnRKw	MPREb_PGOAYf8r1Lr	UCnPPs9X57Sl4dNCyIgLigzQ
+235	Iron Hand	Dire Straits	On Every Street (Remaster)	INDIFFERENT	3:09	EXvWHWxNgH4	MPREb_ERMiBfVCgM9	UCA37MBUzQgLbUHoUQgl-p0g
+244	Southbound Again	Dire Straits	Dire Straits	INDIFFERENT	3:00	WgY5vIN0YJA	MPREb_hvShdCVz65r	UCA37MBUzQgLbUHoUQgl-p0g
+342	Reflections	Diana Ross & The Supremes	Reflections (Expanded Edition)	INDIFFERENT	2:50	rwPBQlt5AXI	MPREb_pXNU8HkAZdU	UCaKbXyTyxKOyBKasPe7JB2w
+33	Bell Bottom Blues	Derek & The Dominos	Layla and Other Assorted Love Songs	INDIFFERENT	5:01	tQjxIvcGGdE	MPREb_kTStO1A5jmn	UCSM5eFvWhMNcMxd0BH52HJg
+42	I Looked Away	Derek & The Dominos	Layla and Other Assorted Love Songs	INDIFFERENT	3:04	iqA5FtpYL6w	MPREb_kTStO1A5jmn	UCSM5eFvWhMNcMxd0BH52HJg
+270	Snake Lake Blues (40th Anniversary Version / 2010 Remastered)	Derek & The Dominos	Layla And Other Assorted Love Songs (Deluxe Edition)	INDIFFERENT	3:33	oTJaoDix5A4	MPREb_oFwtXLCenrw	UCSM5eFvWhMNcMxd0BH52HJg
+87	Runaway	Del Shannon	Runaway	INDIFFERENT	2:20	pCBzPdygbNk	MPREb_d5Rgc0vMPdE	UCESgM5z8e3co-cwt5qjWKBw
+580	Boys of Autumn	David Roberts	All Dressed Up	INDIFFERENT	4:15	YST5yR4UndA	MPREb_hFtwDYWQ2WD	UCxYpvTbaH2v8L6XkjB6jXnw
+181	Goodbye Girl	David Gates	Goodbye Girl	INDIFFERENT	2:48	HXqRTjYu4cA	MPREb_EYW41o9Ll5y	UCgSv1KELwilMwi6q3C2ICRg
+132	Suffragette City (2002 Remaster)	David Bowie	Best of Bowie	INDIFFERENT	3:28	ynYXYXYUUak	MPREb_4dbxbRJFAkB	UCvY1eVE6lTebXsdFbbXUtkQ
+139	Changes (1999 Digital Remaster)	David Bowie	Best of Bowie	INDIFFERENT	3:35	OyfvpnxnJGM	MPREb_4dbxbRJFAkB	UCvY1eVE6lTebXsdFbbXUtkQ
+427	Dancing in the Street (2002 Remaster)	David Bowie	Dancing In The Street	INDIFFERENT	3:24	AYd1x5m5Bj0	MPREb_Cifabt0wFes	UCvY1eVE6lTebXsdFbbXUtkQ
+481	Golden Years	David Bowie	Station To Station (2016 Remastered Version)	INDIFFERENT	4:04	ApHM1ct4tdM	MPREb_dIAjBn5dLQA	UCvY1eVE6lTebXsdFbbXUtkQ
+620	Golden Years	David Bowie	Station To Station (2016 Remastered Version)	INDIFFERENT	4:04	ApHM1ct4tdM	MPREb_dIAjBn5dLQA	UCvY1eVE6lTebXsdFbbXUtkQ
+566	Dance Class	Dave Samuels	Del Sol	INDIFFERENT	5:52	hgFvMUNllls	MPREb_IZJIQFOHNDM	UC6AC7p3Zp5uWbXDd7Kt8TUA
+174	We Just Disagree	Dave Mason	Let It Flow	INDIFFERENT	3:01	3e8xSISlPJs	MPREb_If67Om91Gde	UCI0Xku1gzTjbYUv3G_wCpdw
+204	Only You Know And I Know	Dave Mason	Alone Together	INDIFFERENT	4:07	Cn0tnfv0KCc	MPREb_ix9xWoVAJIZ	UCI0Xku1gzTjbYUv3G_wCpdw
+574	Alone Too Long	Daryl Hall & John Oates	Daryl Hall & John Oates (The Silver Album)	INDIFFERENT	3:20	eMY3hyQco0E	MPREb_MWWRn7TnXtu	UC8zbYR5i0gecEZ3iPgm-i9g
+598	Can't Be Seen	Dane Donohue	Dane Donohue	INDIFFERENT	3:02	ZZrrm8X8ZwI	MPREb_FoE6b4vqkqF	UCESJ51Be-ONEdxrjjjL8R8A
+604	Whatever Happened	Dane Donohue	Dane Donohue	INDIFFERENT	3:02	PbYlpfHXdAk	MPREb_FoE6b4vqkqF	UCESJ51Be-ONEdxrjjjL8R8A
+187	Leader of the Band	Dan Fogelberg	The Very Best Of Dan Fogelberg	INDIFFERENT	4:19	KwLbdPIOOkM	MPREb_ICTGT2cefGo	UCLoLHtbZAOqrjjiK2RRKS1Q
+202	Hard to Say	Dan Fogelberg	The Innocent Age	INDIFFERENT	4:00	fGMYk1A84UU	MPREb_fEtHp3ss6ux	UCLoLHtbZAOqrjjiK2RRKS1Q
+544	Heart Hotels	Dan Fogelberg	Phoenix	INDIFFERENT	4:16	q2qy0v4SvJM	MPREb_TPqzoUQbpNH	UCLoLHtbZAOqrjjiK2RRKS1Q
+276	Station Break (feat. Jimi Hendrix)	Curtis Knight		INDIFFERENT	2:34	wDcu15Wb3u0		UCBYIGeOw8LWjb8U_xR0dCoA
+157	Dark Star	Crosby, Stills & Nash	CSN	INDIFFERENT	4:46	gUUsYurcCZw	MPREb_R1FoBfXsfYS	UC25j4DwEaTkGHCUpQo2mZPQ
+166	Marrakesh Express	Crosby, Stills & Nash	Greatest Hits	INDIFFERENT	2:40	4pIZaU3vmng	MPREb_Fradmz0dFME	UC25j4DwEaTkGHCUpQo2mZPQ
+251	Daylight Again	Crosby, Stills & Nash	Greatest Hits	INDIFFERENT	2:29	pSccg1beW54	MPREb_Fradmz0dFME	UC25j4DwEaTkGHCUpQo2mZPQ
 6	The Working Man	Creedence Clearwater Revival	Creedence Clearwater Revival	INDIFFERENT	3:03	W51HykIuem8	MPREb_D3f320YzQSn	UCRbMcMQeSFVvsyEuOn7uAKQ
-19	Wrote A Song For Everyone	Creedence Clearwater Revival	Green River (40th Anniversary Edition)	INDIFFERENT	4:56	2xzYM2N3WlQ	MPREb_dV0vayPR2A9	UCRbMcMQeSFVvsyEuOn7uAKQ
-25	Keep On Chooglin'	Creedence Clearwater Revival	Bayou Country	INDIFFERENT	7:41	brmPH2kp4Eo	MPREb_by3zlCBXWyZ	UCRbMcMQeSFVvsyEuOn7uAKQ
-225	Who'll Stop The Rain (Mono Single)	Creedence Clearwater Revival	The Singles Collection	INDIFFERENT	2:28	iH_VKwQlVKg	MPREb_0D1VwAFOni8	UCRbMcMQeSFVvsyEuOn7uAKQ
-291	Down On The Corner	Creedence Clearwater Revival	Chronicle: 20 Greatest Hits	INDIFFERENT	2:44	cCkvJ9aecDQ	MPREb_bLI7GbfwBIH	UCRbMcMQeSFVvsyEuOn7uAKQ
-292	Travelin' Band	Creedence Clearwater Revival	Chronicle: 20 Greatest Hits	INDIFFERENT	2:07	kYw7Lc6BxBA	MPREb_bLI7GbfwBIH	UCRbMcMQeSFVvsyEuOn7uAKQ
-316	Travelin' Band	Creedence Clearwater Revival	Cosmo's Factory	INDIFFERENT	2:07	h_msJNjouqw	MPREb_a9r3qr5wLoN	UCRbMcMQeSFVvsyEuOn7uAKQ
-345	Proud Mary	Creedence Clearwater Revival	Bayou Country	INDIFFERENT	3:08	B7qaxICoPEY	MPREb_by3zlCBXWyZ	UCRbMcMQeSFVvsyEuOn7uAKQ
-430	Proud Mary	Creedence Clearwater Revival	The Long Road Home - The Ultimate John Fogerty / Creedence Collection	INDIFFERENT	3:04	BCkjKcXr5iM	MPREb_nbOxRvMDfDl	UCRbMcMQeSFVvsyEuOn7uAKQ
+18	Wrote A Song For Everyone	Creedence Clearwater Revival	Green River (40th Anniversary Edition)	INDIFFERENT	4:56	2xzYM2N3WlQ	MPREb_dV0vayPR2A9	UCRbMcMQeSFVvsyEuOn7uAKQ
+24	Keep On Chooglin'	Creedence Clearwater Revival	Bayou Country	INDIFFERENT	7:41	brmPH2kp4Eo	MPREb_by3zlCBXWyZ	UCRbMcMQeSFVvsyEuOn7uAKQ
+222	Who'll Stop The Rain (Mono Single)	Creedence Clearwater Revival	The Singles Collection	INDIFFERENT	2:28	iH_VKwQlVKg	MPREb_0D1VwAFOni8	UCRbMcMQeSFVvsyEuOn7uAKQ
+289	Travelin' Band	Creedence Clearwater Revival	Chronicle: 20 Greatest Hits	INDIFFERENT	2:07	kYw7Lc6BxBA	MPREb_bLI7GbfwBIH	UCRbMcMQeSFVvsyEuOn7uAKQ
+337	Proud Mary	Creedence Clearwater Revival	Bayou Country	INDIFFERENT	3:08	B7qaxICoPEY	MPREb_by3zlCBXWyZ	UCRbMcMQeSFVvsyEuOn7uAKQ
+422	Proud Mary	Creedence Clearwater Revival	The Long Road Home - The Ultimate John Fogerty / Creedence Collection	INDIFFERENT	3:04	BCkjKcXr5iM	MPREb_nbOxRvMDfDl	UCRbMcMQeSFVvsyEuOn7uAKQ
 5	Born Under A Bad Sign	Cream	Gold	INDIFFERENT	3:09	mpDCUCeYWzk	MPREb_1Il8bwpacgJ	UC_oKib7DXJ7JE5erWrFUbEQ
-11	Deserted Cities Of The Heart	Cream	The Very Best Of Cream	INDIFFERENT	3:38	CwMWEuM-YBM	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
-58	Wrapping Paper	Cream	The Very Best Of Cream	INDIFFERENT	2:21	A84AktICCg8	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
-338	Tales Of Brave Ulysses	Cream	Disraeli Gears (Deluxe Edition)	INDIFFERENT	2:47	sqNg8ui2sE8	MPREb_5h81Nq8u7Y9	UC_oKib7DXJ7JE5erWrFUbEQ
-428	White Room	Cream	2021 Mega Hits	INDIFFERENT	4:59	fsGJan-1miY	MPREb_Xs2DOpwuAAp	UC_oKib7DXJ7JE5erWrFUbEQ
-405	I-Feel-Like-I'm-Fixin'-To-Die Rag	Country Joe And The Fish	I-Feel-Like-I'm-Fixin'-To-Die	INDIFFERENT	3:44	ws0DLWApHko	MPREb_wnD0ui2o8pu	UCZyKxTmG5RFF6vdhPJt5EWQ
-157	Make Me Smile	Chicago	Chicago IX: Chicago's Greatest Hits	INDIFFERENT	3:03	3HrjLRGTUXU	MPREb_xrNrnPxqfeN	UC8vVfqDySe2dz-wCNcy6jew
-188	Does Anybody Really Know What Time It Is? (New Edit) [2003 Remaster)	Chicago	The Very Best Of Chicago (Only The Beginning)	INDIFFERENT	3:20	CyEUw37RCEk	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
-224	Old Days (2002 Remaster)	Chicago	The Very Best Of Chicago (Only The Beginning)	INDIFFERENT	3:30	XoXsyMP8v3s	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
-231	Just You 'N' Me (2002 Remaster)	Chicago	Chicago VI (Expanded & Remastered)	INDIFFERENT	3:43	xWCBF8gZ9k0	MPREb_oNbk2Ko0wwV	UC8vVfqDySe2dz-wCNcy6jew
-431	Saturday in the Park	Chicago	Chicago IX: Chicago's Greatest Hits	INDIFFERENT	3:56	vL7Op9ZQ3E0	MPREb_xrNrnPxqfeN	UC8vVfqDySe2dz-wCNcy6jew
-195	Moonshadow	Cat Stevens	Teaser And The Firecat	INDIFFERENT	2:52	pwPK_JJvPbA	MPREb_PYYbM9OYSoo	UCpzTj29sgB9oSPIuFqy1ShQ
-346	On The Road Again	Canned Heat	The Very Best Of Canned Heat	INDIFFERENT	4:57	5A5Xl9hPowA	MPREb_JohXXNaN8Wd	UCZY-JjjttGrdoF1vhCBgpzw
-348	Going Up The Country	Canned Heat	The Best Of Canned Heat	INDIFFERENT	2:52	La1J2Ze7vzc	MPREb_LikfScnr8sg	UCZY-JjjttGrdoF1vhCBgpzw
-463	On The Road Again	Canned Heat	Canned Heat/Boogie With Canned Heat	INDIFFERENT	5:01	_b9kSFADP3w	MPREb_y3o6TmoFflh	UCZY-JjjttGrdoF1vhCBgpzw
-367	Bluebird	Buffalo Springfield	Buffalo Springfield Again	INDIFFERENT	4:36	yKHY8MXgiz0	MPREb_790RWmzCC1v	UCH-BBvNWh1CONPAjpeocGcw
-471	Sherry Darling	Bruce Springsteen	The River	INDIFFERENT	4:04	FCS3mewzWSo	MPREb_0CSS6pddj6S	UCyFqJ_5TyAeTD7rHpLikbKQ
-424	Smokin' in the Boy's Room	Brownsville Station	Yeah! (US Internet Release)	INDIFFERENT	2:58	ufKTFeNpBdY	MPREb_S5kKumP7NyW	UCzZQiz-u5o1zb0khsiP_PXQ
-139	One Voice	Brian May	One Voice	INDIFFERENT	3:19	8ldyK1DtkSs	MPREb_tPyhkVwnkFh	UCDylZZI96AVppHRUziwTuCQ
-161	It Don't Matter to Me	Bread	Bread	INDIFFERENT	2:44	eocoBdbCC0I	MPREb_bv8UmXF9UEa	UCDWabQKkUME20Ib1JtzfI4w
-174	Baby I'm-a Want You	Bread	The Best Of Bread	INDIFFERENT	2:31	XJQe--G4OXs	MPREb_796ICsJtd1J	UCDWabQKkUME20Ib1JtzfI4w
-193	Sweet Surrender	Bread	Guitar Man	INDIFFERENT	2:37	P4WJkRSWINo	MPREb_nIjfmYHvcMX	UCDWabQKkUME20Ib1JtzfI4w
-199	If	Bread	Manna	INDIFFERENT	2:36	n-cK70DXsSA	MPREb_w5glEUf9C7z	UCDWabQKkUME20Ib1JtzfI4w
-396	I'll Be Long Gone	Boz Scaggs	Boz Scaggs	INDIFFERENT	4:15	uc9_bTWHGxo	MPREb_P7VbIWUmHJv	UCwWTaNXiUq5WBIgrr50w7Xg
-223	Feelin' Satisfied	Boston	Don't Look Back	INDIFFERENT	4:12	5Gh-gQY1dus	MPREb_lGiz2s3TkWd	UCwU_WvSAvmLZnvqRF0lg7Iw
-230	Rock & Roll Band	Boston	Boston	INDIFFERENT	3:01	n-pC3ncVjEw	MPREb_b9VxOy5CQuI	UCwU_WvSAvmLZnvqRF0lg7Iw
-426	Foreplay / Long Time	Boston	Greatest Hits	INDIFFERENT	7:49	V7x8Oy0LMZw	MPREb_RaolxvA4VkG	UCwU_WvSAvmLZnvqRF0lg7Iw
-448	Born To Be My Baby	Bon Jovi	New Jersey	INDIFFERENT	4:40	8EnPHiXmhXs	MPREb_mlg7BydKi5K	UCCL-yoaPLR-7bxZM1xlcQcQ
-126	The Night Has A Thousand Eyes	Bobby Vee	More Than I Can Say	INDIFFERENT	2:34	6KmWhBBNxbc	MPREb_2tREyVZfsAg	UCNvlPVpOZB6Nc2RuSKVca0Q
-165	Sentimental Lady	Bob Welch	French Kiss	INDIFFERENT	2:59	Fa25MqOzGwk	MPREb_c3Nvh6pjiXp	UCiXxhMT2dd0QOjkSaZM3Z8w
-198	Ebony Eyes	Bob Welch	French Kiss	INDIFFERENT	3:33	xvuccbcCcsI	MPREb_c3Nvh6pjiXp	UCiXxhMT2dd0QOjkSaZM3Z8w
-127	Elusive Butterfly	Bob Lind	Lost Hits Of The 60's (All Original Artists & Versions)	INDIFFERENT	2:51	IKWpdEdAKGw	MPREb_upss91qXr7p	UC35Smsdv63W32IFtSuVgQkg
-38	Quinn the Eskimo (The Mighty Quinn) (Studio Outtake - 1967)	Bob Dylan	The Essential Bob Dylan	INDIFFERENT	2:18	9CngaoKu7dU	MPREb_Hp1599lNAt4	UCBqkojCXby4zGkWX86FEY7Q
-360	You've Made Me So Very Happy	Blood, Sweat & Tears	Blood, Sweat & Tears (Expanded Edition)	INDIFFERENT	4:18	mjZtRAoITP0	MPREb_HZz5tcgYZeB	UCdVsvJGdUP187q7AfUaOvtw
-347	Can't Find My Way Home	Blind Faith	Blind Faith	INDIFFERENT	3:16	0VSl5m9eO1M	MPREb_QHM3IuERXQm	UC15OTWrHpNaYBd53ZvRB2bQ
-307	Left Turn on a Red Light	Blackfoot	Strikes	INDIFFERENT	4:37	kNlB8gc8EZA	MPREb_1itmWiWExpv	UClpj2GC31TueT6oDyse3UNw
-314	Baby Blue	Blackfoot	Strikes	INDIFFERENT	2:36	93c1ZQifDHk	MPREb_1itmWiWExpv	UClpj2GC31TueT6oDyse3UNw
-320	I Got a Line on You	Blackfoot	Strikes	INDIFFERENT	3:19	iRBqvZz1-zk	MPREb_1itmWiWExpv	UClpj2GC31TueT6oDyse3UNw
-9	Sabbath Bloody Sabbath	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	5:47	FERVBCtcMxA	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
-17	Solitude	Black Sabbath	Master of Reality	INDIFFERENT	5:02	5Yx13RY6Vdk	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
-23	Under the Sun	Black Sabbath	Complete Studio Albums (1970-1978)	INDIFFERENT	5:51	ks-pAJDHqQ8	MPREb_pToPfdUEQCw	UCLCELUuoHbkUxZ9EMHTYebg
-24	Electric Funeral (2012 - Remaster)	Black Sabbath	Complete Studio Albums (1970-1978)	INDIFFERENT	4:49	-c6ytPRSv-I	MPREb_pToPfdUEQCw	UCLCELUuoHbkUxZ9EMHTYebg
-26	Lord of This World	Black Sabbath	Master of Reality	INDIFFERENT	5:26	FvcBFsBt4hg	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
-27	Orchid	Black Sabbath	Master of Reality	INDIFFERENT	1:31	DLPzfi7u2CU	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
-30	Black Sabbath	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	6:19	QD9tO4LCr7o	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
-35	Looking for Today	Black Sabbath	Sabbath Bloody Sabbath (2009 Remaster)	INDIFFERENT	4:58	IPmQKtX_obM	MPREb_bTWSXogotc2	UCLCELUuoHbkUxZ9EMHTYebg
-37	War Pigs / Luke's Wall (2012 - Remaster)	Black Sabbath	We Sold Our Soul for Rock 'N' Roll	INDIFFERENT	7:54	qgz__d0VC5k	MPREb_LTNpdMa0YBH	UCLCELUuoHbkUxZ9EMHTYebg
-130	Rat Salad	Black Sabbath	The Ultimate Collection	INDIFFERENT	2:30	S2H5hzOMhIs	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
-143	Electric Funeral	Black Sabbath	The Ultimate Collection	INDIFFERENT	4:50	2wJ-NBeEDIY	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
-274	Supernaut	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	4:32	7H4PIWBcnYs	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
-290	Electric Funeral	Black Sabbath	Paranoid	INDIFFERENT	4:49	D0hvNgtcG0M	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
-419	The Stroke	Billy Squier	Don't Say No	INDIFFERENT	3:38	5KOUEX_oG9k	MPREb_AtrRRNFhZ7E	UCPQkGmd0m7u5nE1oGrSRbYg
-465	Rock Me Tonite	Billy Squier	Signs Of Life	INDIFFERENT	4:58	PhnEpg9VMY8	MPREb_AMCCLLDSyPo	UCPQkGmd0m7u5nE1oGrSRbYg
-233	Don't Ask Me Why	Billy Joel	Glass Houses	INDIFFERENT	2:58	9hK6lwIyuSI	MPREb_TcDGvvIIGsH	UCGEfxrwIPBuRqxeh-3JUSkg
-262	You May Be Right	Billy Joel	Glass Houses	INDIFFERENT	4:14	Jpt57dZ2CpE	MPREb_TcDGvvIIGsH	UCGEfxrwIPBuRqxeh-3JUSkg
-420	Only the Good Die Young	Billy Joel	The Stranger	INDIFFERENT	3:56	ZQ_m236f_eM	MPREb_UwKPfHNf2li	UCGEfxrwIPBuRqxeh-3JUSkg
-442	Uptown Girl	Billy Joel	An Innocent Man	INDIFFERENT	3:18	H6M0EulApMM	MPREb_Fd2Fo9M45Mb	UCGEfxrwIPBuRqxeh-3JUSkg
-383	Down On Me	Big Brother & The Holding Company	Big Brother & The Holding Company	INDIFFERENT	2:05	bIjagAAI-ZM	MPREb_Awa1aYq9Vcf	UC7_X7oXO73abqsd-mlzfMVQ
-202	I've Gotta Get A Message To You	Bee Gees	Idea	INDIFFERENT	2:58	zoz6WjVteNg	MPREb_dmiLTBXdTML	UC4GVf3NpBzQiuNVf5EYsI5A
-144	"Pilate And Christ (From ""Jesus Christ Superstar"" Soundtrack)"	Barry Dennen	Jesus Christ Superstar (Original Motion Picture Soundtrack)	INDIFFERENT	2:59	gPEaXagpDys	MPREb_e3gUshVObZd	UCQaOfyREgDtRQFhGES_1cFA
-114	Come and Get It	Badfinger	Come and Get It	INDIFFERENT	2:08	i561c6dBEOA	MPREb_0uqQLxRi2JK	UCyJzUJ95hXeBVfO8zOA0GZQ
-236	Can't Get Enough (Remastered Version)	Bad Company	10 From 6	INDIFFERENT	4:15	bKzKCYyoNWY	MPREb_aTn0PV6uG1i	UCNGSRmH2L_9N4B4tO_LmaXg
-244	Movin' On (Remastered Version)	Bad Company	10 From 6	INDIFFERENT	3:21	E-oiq0MSWJw	MPREb_aTn0PV6uG1i	UCNGSRmH2L_9N4B4tO_LmaXg
-250	Live for the Music (Remastered Version)	Bad Company	10 From 6	INDIFFERENT	3:59	2cTgYjd6NcY	MPREb_aTn0PV6uG1i	UCNGSRmH2L_9N4B4tO_LmaXg
-289	Rock 'n' Roll Fantasy (2009 Remaster)	Bad Company	Desolation Angels (2009 Remaster)	INDIFFERENT	3:18	D4KTCLrMR6Y	MPREb_FLVJGF6Z0Ye	UCNGSRmH2L_9N4B4tO_LmaXg
-309	Let It Ride	Bachman-Turner Overdrive	Bachman-Turner Overdrive II	INDIFFERENT	4:27	vKSUQ9ANoOE	MPREb_Txf4Lymr3L6	UC5mrFYxM2gUV8zkM-kh4rJg
-318	Mississippi Queen (Live)	Bachman-Turner Overdrive	The All-Time Greatest Hits Live, Vol. 1	INDIFFERENT	4:19	7cKqBx2nY_c	MPREb_0ptrwY3BC4n	UC5mrFYxM2gUV8zkM-kh4rJg
-429	You Ain't Seen Nothing Yet	Bachman-Turner Overdrive	70's Pop Number 1's	INDIFFERENT	3:53	yqzseL-KocM	MPREb_6vuLyZGwp59	UC5mrFYxM2gUV8zkM-kh4rJg
-460	You Ain't Seen Nothing Yet	Bachman-Turner Overdrive	70s Rock	INDIFFERENT	3:56	YorQcjtaXpY	MPREb_0zqgL9T1zqh	UC5mrFYxM2gUV8zkM-kh4rJg
-166	Tin Man	America	Holiday	INDIFFERENT	3:30	uWgJyJNcMIQ	MPREb_P3Pbb9zdnjq	UCfh0qsQYH1TEyTt0LrRgLOw
-183	You Can Do Magic	America	View From The Ground	INDIFFERENT	3:58	M-Z3BAW7o3c	MPREb_ikmJNL4lRnw	UCfh0qsQYH1TEyTt0LrRgLOw
-196	Daisy Jane	America	Hearts	INDIFFERENT	3:07	aUtcbkQBOyc	MPREb_MuY5jzvfts4	UCfh0qsQYH1TEyTt0LrRgLOw
-212	Woman Tonight	America	History (America's Greatest Hits)	INDIFFERENT	2:23	k_h7o-hfBJo	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
-182	Holdin' on to Yesterday	Ambrosia	Ambrosia	INDIFFERENT	4:20	A1jeVdUo1-I	MPREb_8cwh25aa3K9	UCM_HemrtDWPa5R8PNn33azA
-153	Escape	Alice Cooper	Welcome to My Nightmare	INDIFFERENT	3:28	NuflWJY6y4Q	MPREb_Il8qr65BQXX	UCSjn-oQV136VoKk7FXxxZ0w
-461	School's Out	Alice Cooper	School's Out	INDIFFERENT	3:31	37ALmuMSHEI	MPREb_ShZDHy7rkxD	UCSjn-oQV136VoKk7FXxxZ0w
-333	You Know	Alexander 'Skip' Spence	Oar	INDIFFERENT	1:45	CzUfrfzQFKA	MPREb_TRtbKrjlRCy	UC8E5E1CqIt5_qKV55vs_sVQ
-164	Midas Shadow	Al Stewart	Year of the Cat	INDIFFERENT	3:14	yHBYREmMqm4	MPREb_AD2MND6swH1	UCMSnwh4D7Dp8LRo7MW8dHuQ
-173	Lord Grenville	Al Stewart	Year of the Cat	INDIFFERENT	5:07	YYCvYAZpTIQ	MPREb_AD2MND6swH1	UCMSnwh4D7Dp8LRo7MW8dHuQ
-129	Make It	Aerosmith	Aerosmith	INDIFFERENT	3:39	N7IPdGax5P0	MPREb_bRgqMC4gGuA	UCYuinPfuhK_rSlrJXvZQrng
-132	Boogie Man	Aerosmith	Get A Grip	INDIFFERENT	2:16	M5lkFHkvHvM	MPREb_0y9EIfGUt1o	UCYuinPfuhK_rSlrJXvZQrng
-140	One Way Street	Aerosmith	Aerosmith	INDIFFERENT	7:01	LP44YAxS7AI	MPREb_bRgqMC4gGuA	UCYuinPfuhK_rSlrJXvZQrng
-149	Write Me a Letter	Aerosmith	Aerosmith	INDIFFERENT	4:11	CVGvLe4t-ns	MPREb_bRgqMC4gGuA	UCYuinPfuhK_rSlrJXvZQrng
-155	Reefer Head Woman	Aerosmith	Night In The Ruts	INDIFFERENT	4:02	bBCJ_Ss8Zs8	MPREb_BeGcT6bdVv5	UCYuinPfuhK_rSlrJXvZQrng
-313	Dirty Deeds Done Dirt Cheap	AC/DC	Dirty Deeds Done Dirt Cheap	INDIFFERENT	3:52	UIE4UjBtx-o	MPREb_yuYe1U7YjBi	UCVm4YdI3hobkwsHTTOMVJKg
-108	Da Doo Ron Ron	The Crystals	50 Great Rockin' Memories of the Fifties & Sixties			sXUOztBBqUo		
+10	Deserted Cities Of The Heart	Cream	The Very Best Of Cream	INDIFFERENT	3:38	CwMWEuM-YBM	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
+57	Wrapping Paper	Cream	The Very Best Of Cream	INDIFFERENT	2:21	A84AktICCg8	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
+331	Tales Of Brave Ulysses	Cream	Disraeli Gears (Deluxe Edition)	INDIFFERENT	2:47	sqNg8ui2sE8	MPREb_5h81Nq8u7Y9	UC_oKib7DXJ7JE5erWrFUbEQ
+420	White Room	Cream	2021 Mega Hits	INDIFFERENT	4:59	fsGJan-1miY	MPREb_Xs2DOpwuAAp	UC_oKib7DXJ7JE5erWrFUbEQ
+597	It Just Takes Awhile	Crackin	Crackin'	INDIFFERENT	3:33	i4ak79OZNxw	MPREb_ojWwMDvX2Ck	UC7_JmJ6D8qJZgidPxmZGrdQ
+397	I-Feel-Like-I'm-Fixin'-To-Die Rag	Country Joe And The Fish	I-Feel-Like-I'm-Fixin'-To-Die	INDIFFERENT	3:44	ws0DLWApHko	MPREb_wnD0ui2o8pu	UCZyKxTmG5RFF6vdhPJt5EWQ
+520	Sail On	Commodores	Midnight Magic	INDIFFERENT	5:32	cVgFvYcOKC8	MPREb_wROUZQDZNYd	UCmdiAudyJFCgdQjnPyoUaWw
+557	Feels So Good	Chuck Mangione	70 Miles Young	INDIFFERENT	4:13	vyYOFUVMVX4	MPREb_6NIcf6to0uv	UC5bK1enxVpPyRIw_hDFJa4w
+501	Sailing	Christopher Cross	Christopher Cross	INDIFFERENT	4:17	IST-GfqUwDA	MPREb_Un4dQUSPHBC	UCQQse6hLcxzNx1p-Giw6sOA
+507	Ride Like the Wind	Christopher Cross	Christopher Cross	INDIFFERENT	4:36	e1Hdlu3Slaw	MPREb_Un4dQUSPHBC	UCQQse6hLcxzNx1p-Giw6sOA
+516	Arthur's Theme (Best That You Can Do)	Christopher Cross	Arthur - The Album [Original Soundtrack]	INDIFFERENT	3:55	WOBHXxiZyZM	MPREb_2fkOEO5Kxsb	UCQQse6hLcxzNx1p-Giw6sOA
+155	Make Me Smile	Chicago	Chicago IX: Chicago's Greatest Hits	INDIFFERENT	3:03	3HrjLRGTUXU	MPREb_xrNrnPxqfeN	UC8vVfqDySe2dz-wCNcy6jew
+221	Old Days (2002 Remaster)	Chicago	The Very Best Of Chicago (Only The Beginning)	INDIFFERENT	3:30	XoXsyMP8v3s	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
+228	Just You 'N' Me (2002 Remaster)	Chicago	Chicago VI (Expanded & Remastered)	INDIFFERENT	3:43	xWCBF8gZ9k0	MPREb_oNbk2Ko0wwV	UC8vVfqDySe2dz-wCNcy6jew
+423	Saturday in the Park	Chicago	Chicago IX: Chicago's Greatest Hits	INDIFFERENT	3:56	vL7Op9ZQ3E0	MPREb_xrNrnPxqfeN	UC8vVfqDySe2dz-wCNcy6jew
+192	Moonshadow	Cat Stevens	Teaser And The Firecat	INDIFFERENT	2:52	pwPK_JJvPbA	MPREb_PYYbM9OYSoo	UCpzTj29sgB9oSPIuFqy1ShQ
+514	You Belong to Me	Carly Simon	Boys in the Trees	INDIFFERENT	3:53	ukkRG-flg20	MPREb_6DbBqxF6p1W	UC3yI5a6uQvloyJLGLMqrdnQ
+552	Lonely Night (Angel Face)	Captain & Tennille	Song Of Joy	INDIFFERENT	3:18	K5hKfctsgfI	MPREb_18NQqoascXb	UCvNYfONVC94OZW1MyOavztQ
+600	Country Lovin	Canyon	Seafaring Strangers: Private Yacht	INDIFFERENT	2:20	jR9ZNMJ1B-w	MPREb_vkfVJunRHDq	UCiuLIDn45G93BLdlhobmKsQ
+338	On The Road Again	Canned Heat	The Very Best Of Canned Heat	INDIFFERENT	4:57	5A5Xl9hPowA	MPREb_JohXXNaN8Wd	UCZY-JjjttGrdoF1vhCBgpzw
+340	Going Up The Country	Canned Heat	The Best Of Canned Heat	INDIFFERENT	2:52	La1J2Ze7vzc	MPREb_LikfScnr8sg	UCZY-JjjttGrdoF1vhCBgpzw
+452	On The Road Again	Canned Heat	Canned Heat/Boogie With Canned Heat	INDIFFERENT	5:01	_b9kSFADP3w	MPREb_y3o6TmoFflh	UCZY-JjjttGrdoF1vhCBgpzw
+591	Never Gonna Stop Lovin' You	Byrne & Barnes	An Eye for an Eye	INDIFFERENT	3:38	0z8c35lSHNQ	MPREb_R67J1VRqboQ	UCEeQobSG5avOmrAMsN3-0aA
+606	Love You out of Your Mind	Byrne & Barnes	An Eye for an Eye	INDIFFERENT	3:16	dKbeC5SoLuA	MPREb_R67J1VRqboQ	UCEeQobSG5avOmrAMsN3-0aA
+359	Bluebird	Buffalo Springfield	Buffalo Springfield Again	INDIFFERENT	4:36	yKHY8MXgiz0	MPREb_790RWmzCC1v	UCH-BBvNWh1CONPAjpeocGcw
+460	Sherry Darling	Bruce Springsteen	The River	INDIFFERENT	4:04	FCS3mewzWSo	MPREb_0CSS6pddj6S	UCyFqJ_5TyAeTD7rHpLikbKQ
+476	Thunder Road	Bruce Springsteen	Born To Run	INDIFFERENT	4:49	W2X0Gf9jfz8	MPREb_kPYj6JOZHGx	UCyFqJ_5TyAeTD7rHpLikbKQ
+491	Darkness on the Edge of Town	Bruce Springsteen	Darkness On The Edge Of Town (2010 Remastered Version)	INDIFFERENT	4:32	0LpdEyGhNxM	MPREb_NO6nNdIRQcn	UCyFqJ_5TyAeTD7rHpLikbKQ
+616	Thunder Road	Bruce Springsteen	Born To Run	INDIFFERENT	4:49	W2X0Gf9jfz8	MPREb_kPYj6JOZHGx	UCyFqJ_5TyAeTD7rHpLikbKQ
+629	Darkness on the Edge of Town	Bruce Springsteen	Darkness On The Edge Of Town (2010 Remastered Version)	INDIFFERENT	4:32	0LpdEyGhNxM	MPREb_NO6nNdIRQcn	UCyFqJ_5TyAeTD7rHpLikbKQ
+416	Smokin' in the Boy's Room	Brownsville Station	Yeah! (US Internet Release)	INDIFFERENT	2:58	ufKTFeNpBdY	MPREb_S5kKumP7NyW	UCzZQiz-u5o1zb0khsiP_PXQ
+137	One Voice	Brian May	One Voice	INDIFFERENT	3:19	8ldyK1DtkSs	MPREb_tPyhkVwnkFh	UCDylZZI96AVppHRUziwTuCQ
+159	It Don't Matter to Me	Bread	Bread	INDIFFERENT	2:44	eocoBdbCC0I	MPREb_bv8UmXF9UEa	UCDWabQKkUME20Ib1JtzfI4w
+171	Baby I'm-a Want You	Bread	The Best Of Bread	INDIFFERENT	2:31	XJQe--G4OXs	MPREb_796ICsJtd1J	UCDWabQKkUME20Ib1JtzfI4w
+190	Sweet Surrender	Bread	Guitar Man	INDIFFERENT	2:37	P4WJkRSWINo	MPREb_nIjfmYHvcMX	UCDWabQKkUME20Ib1JtzfI4w
+196	If	Bread	Manna	INDIFFERENT	2:36	n-cK70DXsSA	MPREb_w5glEUf9C7z	UCDWabQKkUME20Ib1JtzfI4w
+388	I'll Be Long Gone	Boz Scaggs	Boz Scaggs	INDIFFERENT	4:15	uc9_bTWHGxo	MPREb_P7VbIWUmHJv	UCwWTaNXiUq5WBIgrr50w7Xg
+543	JoJo	Boz Scaggs	Middle Man	INDIFFERENT	5:54	Pw2lytRwWGI	MPREb_pquJSwFQeXF	UCwWTaNXiUq5WBIgrr50w7Xg
+220	Feelin' Satisfied	Boston	Don't Look Back	INDIFFERENT	4:12	5Gh-gQY1dus	MPREb_lGiz2s3TkWd	UCwU_WvSAvmLZnvqRF0lg7Iw
+227	Rock & Roll Band	Boston	Boston	INDIFFERENT	3:01	n-pC3ncVjEw	MPREb_b9VxOy5CQuI	UCwU_WvSAvmLZnvqRF0lg7Iw
+418	Foreplay / Long Time	Boston	Greatest Hits	INDIFFERENT	7:49	V7x8Oy0LMZw	MPREb_RaolxvA4VkG	UCwU_WvSAvmLZnvqRF0lg7Iw
+439	Born To Be My Baby	Bon Jovi	New Jersey	INDIFFERENT	4:40	8EnPHiXmhXs	MPREb_mlg7BydKi5K	UCCL-yoaPLR-7bxZM1xlcQcQ
+124	The Night Has A Thousand Eyes	Bobby Vee	More Than I Can Say	INDIFFERENT	2:34	6KmWhBBNxbc	MPREb_2tREyVZfsAg	UCNvlPVpOZB6Nc2RuSKVca0Q
+163	Sentimental Lady	Bob Welch	French Kiss	INDIFFERENT	2:59	Fa25MqOzGwk	MPREb_c3Nvh6pjiXp	UCiXxhMT2dd0QOjkSaZM3Z8w
+195	Ebony Eyes	Bob Welch	French Kiss	INDIFFERENT	3:33	xvuccbcCcsI	MPREb_c3Nvh6pjiXp	UCiXxhMT2dd0QOjkSaZM3Z8w
+125	Elusive Butterfly	Bob Lind	Lost Hits Of The 60's (All Original Artists & Versions)	INDIFFERENT	2:51	IKWpdEdAKGw	MPREb_upss91qXr7p	UC35Smsdv63W32IFtSuVgQkg
+37	Quinn the Eskimo (The Mighty Quinn) (Studio Outtake - 1967)	Bob Dylan	The Essential Bob Dylan	INDIFFERENT	2:18	9CngaoKu7dU	MPREb_Hp1599lNAt4	UCBqkojCXby4zGkWX86FEY7Q
+352	You've Made Me So Very Happy	Blood, Sweat & Tears	Blood, Sweat & Tears (Expanded Edition)	INDIFFERENT	4:18	mjZtRAoITP0	MPREb_HZz5tcgYZeB	UCdVsvJGdUP187q7AfUaOvtw
+339	Can't Find My Way Home	Blind Faith	Blind Faith	INDIFFERENT	3:16	0VSl5m9eO1M	MPREb_QHM3IuERXQm	UC15OTWrHpNaYBd53ZvRB2bQ
+302	Left Turn on a Red Light	Blackfoot	Strikes	INDIFFERENT	4:37	kNlB8gc8EZA	MPREb_1itmWiWExpv	UClpj2GC31TueT6oDyse3UNw
+309	Baby Blue	Blackfoot	Strikes	INDIFFERENT	2:36	93c1ZQifDHk	MPREb_1itmWiWExpv	UClpj2GC31TueT6oDyse3UNw
+315	I Got a Line on You	Blackfoot	Strikes	INDIFFERENT	3:19	iRBqvZz1-zk	MPREb_1itmWiWExpv	UClpj2GC31TueT6oDyse3UNw
+8	Sabbath Bloody Sabbath	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	5:47	FERVBCtcMxA	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
+16	Solitude	Black Sabbath	Master of Reality	INDIFFERENT	5:02	5Yx13RY6Vdk	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+22	Under the Sun	Black Sabbath	Complete Studio Albums (1970-1978)	INDIFFERENT	5:51	ks-pAJDHqQ8	MPREb_pToPfdUEQCw	UCLCELUuoHbkUxZ9EMHTYebg
+25	Lord of This World	Black Sabbath	Master of Reality	INDIFFERENT	5:26	FvcBFsBt4hg	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+26	Orchid	Black Sabbath	Master of Reality	INDIFFERENT	1:31	DLPzfi7u2CU	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+34	Looking for Today	Black Sabbath	Sabbath Bloody Sabbath (2009 Remaster)	INDIFFERENT	4:58	IPmQKtX_obM	MPREb_bTWSXogotc2	UCLCELUuoHbkUxZ9EMHTYebg
+128	Rat Salad	Black Sabbath	The Ultimate Collection	INDIFFERENT	2:30	S2H5hzOMhIs	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
+141	Electric Funeral	Black Sabbath	The Ultimate Collection	INDIFFERENT	4:50	2wJ-NBeEDIY	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
+271	Supernaut	Black Sabbath	Greatest Hits (1970-1978)	INDIFFERENT	4:32	7H4PIWBcnYs	MPREb_iYXcdkdRlvG	UCLCELUuoHbkUxZ9EMHTYebg
+287	Electric Funeral	Black Sabbath	Paranoid	INDIFFERENT	4:49	D0hvNgtcG0M	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
+411	The Stroke	Billy Squier	Don't Say No	INDIFFERENT	3:38	5KOUEX_oG9k	MPREb_AtrRRNFhZ7E	UCPQkGmd0m7u5nE1oGrSRbYg
+454	Rock Me Tonite	Billy Squier	Signs Of Life	INDIFFERENT	4:58	PhnEpg9VMY8	MPREb_AMCCLLDSyPo	UCPQkGmd0m7u5nE1oGrSRbYg
+230	Don't Ask Me Why	Billy Joel	Glass Houses	INDIFFERENT	2:58	9hK6lwIyuSI	MPREb_TcDGvvIIGsH	UCGEfxrwIPBuRqxeh-3JUSkg
+259	You May Be Right	Billy Joel	Glass Houses	INDIFFERENT	4:14	Jpt57dZ2CpE	MPREb_TcDGvvIIGsH	UCGEfxrwIPBuRqxeh-3JUSkg
+412	Only the Good Die Young	Billy Joel	The Stranger	INDIFFERENT	3:56	ZQ_m236f_eM	MPREb_UwKPfHNf2li	UCGEfxrwIPBuRqxeh-3JUSkg
+434	Uptown Girl	Billy Joel	An Innocent Man	INDIFFERENT	3:18	H6M0EulApMM	MPREb_Fd2Fo9M45Mb	UCGEfxrwIPBuRqxeh-3JUSkg
+584	Trail To Your Heart (Sailing Without A Sail)	Bill LaBounty	Rain In My Life	INDIFFERENT	3:15	pZR7Mp_YhM4	MPREb_hxjZSHa1lh9	UChkby2EGDQEm5Zv9sxqen2Q
+590	Look Who's Lonely Now	Bill LaBounty	Bill LaBounty	INDIFFERENT	3:56	Y2CBqfhPzLg	MPREb_y1HbrT1qdq4	UChkby2EGDQEm5Zv9sxqen2Q
+375	Down On Me	Big Brother & The Holding Company	Big Brother & The Holding Company	INDIFFERENT	2:05	bIjagAAI-ZM	MPREb_Awa1aYq9Vcf	UC7_X7oXO73abqsd-mlzfMVQ
+554	Key Largo	Bertie Higgins	Just Another Day in Paradise	INDIFFERENT	3:20	QqJqwjdYh-A	MPREb_ofsGIQx0LQ2	UCccvuSt9c6ZovlbRUAGtkRQ
+564	Back to the Island	Bertie Higgins	The Very Best of Trop Rock	INDIFFERENT	3:45	pEoAaiToHTs	MPREb_ApimrOwEoCD	UCccvuSt9c6ZovlbRUAGtkRQ
+503	Into The Night	Benny Mardones	Never Run Never Hide	INDIFFERENT	4:31	-9URZgAqeqo	MPREb_gTf9KdJGGJ9	UCI6qu3-Y-Q7mTI2H5xQIVoA
+199	I've Gotta Get A Message To You	Bee Gees	Idea	INDIFFERENT	2:58	zoz6WjVteNg	MPREb_dmiLTBXdTML	UC4GVf3NpBzQiuNVf5EYsI5A
+142	"Pilate And Christ (From ""Jesus Christ Superstar"" Soundtrack)"	Barry Dennen	Jesus Christ Superstar (Original Motion Picture Soundtrack)	INDIFFERENT	2:59	gPEaXagpDys	MPREb_e3gUshVObZd	UCQaOfyREgDtRQFhGES_1cFA
+532	Guilty (feat. Barry Gibb)	Barbra Streisand	Guilty	INDIFFERENT	4:25	EPSipyWlmSU	MPREb_9mYb9NNHMiV	UCjrmOpAoZ3CGRr-fgDd2Jfw
+112	Come and Get It	Badfinger	Come and Get It	INDIFFERENT	2:08	i561c6dBEOA	MPREb_0uqQLxRi2JK	UCyJzUJ95hXeBVfO8zOA0GZQ
+233	Can't Get Enough (Remastered Version)	Bad Company	10 From 6	INDIFFERENT	4:15	bKzKCYyoNWY	MPREb_aTn0PV6uG1i	UCNGSRmH2L_9N4B4tO_LmaXg
+241	Movin' On (Remastered Version)	Bad Company	10 From 6	INDIFFERENT	3:21	E-oiq0MSWJw	MPREb_aTn0PV6uG1i	UCNGSRmH2L_9N4B4tO_LmaXg
+247	Live for the Music (Remastered Version)	Bad Company	10 From 6	INDIFFERENT	3:59	2cTgYjd6NcY	MPREb_aTn0PV6uG1i	UCNGSRmH2L_9N4B4tO_LmaXg
+304	Let It Ride	Bachman-Turner Overdrive	Bachman-Turner Overdrive II	INDIFFERENT	4:27	vKSUQ9ANoOE	MPREb_Txf4Lymr3L6	UC5mrFYxM2gUV8zkM-kh4rJg
+313	Mississippi Queen (Live)	Bachman-Turner Overdrive	The All-Time Greatest Hits Live, Vol. 1	INDIFFERENT	4:19	7cKqBx2nY_c	MPREb_0ptrwY3BC4n	UC5mrFYxM2gUV8zkM-kh4rJg
+421	You Ain't Seen Nothing Yet	Bachman-Turner Overdrive	70's Pop Number 1's	INDIFFERENT	3:53	yqzseL-KocM	MPREb_6vuLyZGwp59	UC5mrFYxM2gUV8zkM-kh4rJg
+450	You Ain't Seen Nothing Yet	Bachman-Turner Overdrive	70s Rock	INDIFFERENT	3:56	YorQcjtaXpY	MPREb_0zqgL9T1zqh	UC5mrFYxM2gUV8zkM-kh4rJg
+625	You Ain't Seen Nothing Yet	Bachman-Turner Overdrive	70s Rock	INDIFFERENT	3:56	YorQcjtaXpY	MPREb_0zqgL9T1zqh	UC5mrFYxM2gUV8zkM-kh4rJg
+579	Lonely Boy	Andrew Gold	What's Wrong with This Picture?	INDIFFERENT	4:21	OsSNdNuRbRA	MPREb_4hxcKSSl5bQ	UCyB41QYuBYJxYEqibibQC7A
+583	How Do I Survive	Amy Holland	Lost Hits Of The 80's (All Original Artists & Versions)	INDIFFERENT	3:59	2Q0u9qdGGVM	MPREb_wHuzaIrlSyW	UCXrQ87M88msDDr8F-3PAHYQ
+180	You Can Do Magic	America	View From The Ground	INDIFFERENT	3:58	M-Z3BAW7o3c	MPREb_ikmJNL4lRnw	UCfh0qsQYH1TEyTt0LrRgLOw
+193	Daisy Jane	America	Hearts	INDIFFERENT	3:07	aUtcbkQBOyc	MPREb_MuY5jzvfts4	UCfh0qsQYH1TEyTt0LrRgLOw
+209	Woman Tonight	America	History (America's Greatest Hits)	INDIFFERENT	2:23	k_h7o-hfBJo	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw
+179	Holdin' on to Yesterday	Ambrosia	Ambrosia	INDIFFERENT	4:20	A1jeVdUo1-I	MPREb_8cwh25aa3K9	UCM_HemrtDWPa5R8PNn33azA
+513	Biggest Part of Me	Ambrosia	One Eighty	INDIFFERENT	5:25	k5gOehkLUTk	MPREb_dRF884TESut	UCM_HemrtDWPa5R8PNn33azA
+151	Escape	Alice Cooper	Welcome to My Nightmare	INDIFFERENT	3:28	NuflWJY6y4Q	MPREb_Il8qr65BQXX	UCSjn-oQV136VoKk7FXxxZ0w
+451	School's Out	Alice Cooper	School's Out	INDIFFERENT	3:31	37ALmuMSHEI	MPREb_ShZDHy7rkxD	UCSjn-oQV136VoKk7FXxxZ0w
+328	You Know	Alexander 'Skip' Spence	Oar	INDIFFERENT	1:45	CzUfrfzQFKA	MPREb_TRtbKrjlRCy	UC8E5E1CqIt5_qKV55vs_sVQ
+548	Seabird	Alessi Brothers	The Best Of The Alessi Brothers	INDIFFERENT	3:06	kpu_cx3oeSg	MPREb_16KiG0Qbc8A	UC8aPsUTtaViTpHcjqwIRmqw
+561	Jagged Edge	Alessi Brothers	Long Time Friends	INDIFFERENT	3:32	-zO-EV-Jpvw	MPREb_5soLPcN94a1	UC8aPsUTtaViTpHcjqwIRmqw
+162	Midas Shadow	Al Stewart	Year of the Cat	INDIFFERENT	3:14	yHBYREmMqm4	MPREb_AD2MND6swH1	UCMSnwh4D7Dp8LRo7MW8dHuQ
+170	Lord Grenville	Al Stewart	Year of the Cat	INDIFFERENT	5:07	YYCvYAZpTIQ	MPREb_AD2MND6swH1	UCMSnwh4D7Dp8LRo7MW8dHuQ
+518	Time Passages	Al Stewart	Time Passages	INDIFFERENT	6:44	QQD-OvbCfCU	MPREb_Sx3RekMVqjA	UCMSnwh4D7Dp8LRo7MW8dHuQ
+546	We're in This Love Together	Al Jarreau	Breakin' Away	INDIFFERENT	3:47	R0F-x0f08ZU	MPREb_KgWUwzklWYM	UC1aSSGX183S8v-_7h78jrhA
+587	Nothin' You Can Do About It	Airplay	Airplay	INDIFFERENT	4:48	H-W3wC0zRWs	MPREb_vRdIIGqfRDI	UCj9McuYACuGdmppe2VmO6kg
+541	Lost in Love	Air Supply	The Definitive Collection	INDIFFERENT	3:55	z72waY0sCuM	MPREb_wVduUGSmd2H	UCkei_gbdGw1lxyc9NV45wJQ
+127	Make It	Aerosmith	Aerosmith	INDIFFERENT	3:39	N7IPdGax5P0	MPREb_bRgqMC4gGuA	UCYuinPfuhK_rSlrJXvZQrng
+130	Boogie Man	Aerosmith	Get A Grip	INDIFFERENT	2:16	M5lkFHkvHvM	MPREb_0y9EIfGUt1o	UCYuinPfuhK_rSlrJXvZQrng
+138	One Way Street	Aerosmith	Aerosmith	INDIFFERENT	7:01	LP44YAxS7AI	MPREb_bRgqMC4gGuA	UCYuinPfuhK_rSlrJXvZQrng
+147	Write Me a Letter	Aerosmith	Aerosmith	INDIFFERENT	4:11	CVGvLe4t-ns	MPREb_bRgqMC4gGuA	UCYuinPfuhK_rSlrJXvZQrng
+153	Reefer Head Woman	Aerosmith	Night In The Ruts	INDIFFERENT	4:02	bBCJ_Ss8Zs8	MPREb_BeGcT6bdVv5	UCYuinPfuhK_rSlrJXvZQrng
+535	How Long	Ace	Five-A-Side	INDIFFERENT	3:24	TGkUdLJCLyE	MPREb_1tFeoy0rzeP	UCIcdgOLOiWaA6qWFSfXo6FA
+500	I'm Not In Love	10cc	The Original Soundtrack	INDIFFERENT	6:06	PC2HkP5gR2g	MPREb_NSVzJXL4T0Z	UCjyD_pnM14qs0xwkwvzVsTw

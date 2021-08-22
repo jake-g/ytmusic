@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 154	Don't Let Me Down (Naked Version / Remastered 2013)	The Beatles	Let It Be... Naked	LIKE	3:19	u2Hz7sRhFRo	MPREb_iyIYjrpW82c	UC2XdaAVUannpujzv32jcouQ
+83	French Navy	Camera Obscura	My Maudlin Career	LIKE	3:19	GNpFX2G12dw	MPREb_LuoRFtkTpbo	UCY-QJ_CRPvOJD1OHpVTXFyw
 327	Kill Me Gently	m1st	Kill Me Gently	INDIFFERENT	2:37	NUwB_KFAF4E	MPREb_ViwZICZg1ds	UCPTTJE5PIQ5_-Uf22yeeahQ
 275	chasing kites (Live)	iamamiwhoami	CONCERT IN BLUE	INDIFFERENT	4:51	OpK5MMs7Ydk	MPREb_xGeyPt54krT	UCsYhWrfH7xuS3XvtvMqsi-g
 276	Kill	iamamiwhoami	Kin	INDIFFERENT	6:26	_V21CzqrqzQ	MPREb_G0PJsFOYKLy	UCsYhWrfH7xuS3XvtvMqsi-g
@@ -328,14 +329,13 @@
 87	Nervous Young Inhumans	Car Seat Headrest	Twin Fantasy (Mirror To Mirror)	INDIFFERENT	4:15	YTFMT3BGz5o	MPREb_5hK8zF17b5X	UC97xosBrQZ7jdWVFInndIDg
 88	Times to Die	Car Seat Headrest	Teens of Style	INDIFFERENT	6:51	RSnWe1obOZk	MPREb_8ztz9X67tYb	UC97xosBrQZ7jdWVFInndIDg
 85	Kangaroo Court (Radio Edit)	Capital Cities	Kangaroo Court EP	INDIFFERENT	3:22	P50woK1nDj8	MPREb_U0xpn0IUkdQ	UClxuMOFeLBJXk8nt-SolPvw
-83	French Navy	Camera Obscura	My Maudlin Career	INDIFFERENT	3:19	GNpFX2G12dw	MPREb_LuoRFtkTpbo	UCY-QJ_CRPvOJD1OHpVTXFyw
 281	ATL	CST Jonez	Thousand Island	INDIFFERENT	3:35	1Rsc5B2LcOs	MPREb_iFSZ98ObCfU	UC5OPIEyKGflJTajGp5MF0xw
 119	Another Year	CODY	Songs	INDIFFERENT	5:54	N7MHM-rkbQI	MPREb_2QgNQdRsrzW	UCRhANMBxy0qTDCQZ0T4nlwg
 105	Empty Threat	CHVRCHES	Every Open Eye (Special Edition)	INDIFFERENT	4:04	X00SBQhXpTw	MPREb_menBJs01L4F	UCvInFYiyeAJOGEjhqJnyaMA
 106	Leave a Trace	CHVRCHES	Every Open Eye (Special Edition)	INDIFFERENT	3:57	3mEFSNp-ai4	MPREb_menBJs01L4F	UCvInFYiyeAJOGEjhqJnyaMA
 107	Miracle	CHVRCHES	Love Is Dead	INDIFFERENT	3:08	vScHA3ZVu_U	MPREb_bNPZyBLERbJ	UCvInFYiyeAJOGEjhqJnyaMA
 108	Science/Visions	CHVRCHES	The Bones Of What You Believe	INDIFFERENT	3:56	bpKc9Mj5j4s	MPREb_V3kYboyDBOl	UCvInFYiyeAJOGEjhqJnyaMA
-109	The Mother We Share	CHVRCHES	The Mother We Share	INDIFFERENT	3:11	6Mi6IkT4u18	MPREb_L00OO3IHCPe	UCvInFYiyeAJOGEjhqJnyaMA
+109	The Mother We Share	CHVRCHES	The Mother We Share	INDIFFERENT	3:12	6Mi6IkT4u18	MPREb_L00OO3IHCPe	UCvInFYiyeAJOGEjhqJnyaMA
 110	Warning Call (Theme From Mirror’s Edge Catalyst)	CHVRCHES	Every Open Eye (Extended Edition)	INDIFFERENT	4:32	AD2BIYgE2Yc	MPREb_jRtkgWu9fyX	UCvInFYiyeAJOGEjhqJnyaMA
 78	Closer Now	Bryan Guardado	Closer Now	INDIFFERENT	3:54	xXvcdDGl1T4	MPREb_EUgwolvuHN5	UCzVYodjr_zViVcfti5GjBug
 75	Dog Eared Summer	Brite Futures	Glistening Pleasure 2.0	INDIFFERENT	4:18	k04gMmOiB7w	MPREb_rHtwaV6zxBT	UC5IsT9c2p2zdCNZOtI19quQ
@@ -387,9 +387,9 @@
 18	Never Meant	American Football	Before You Go	INDIFFERENT	4:19	I5VqLLnuCJI	MPREb_CCvib2eQixO	UCX0E0vMNuhVdIH_s3RVFGGA
 12	Taro	Alt-J	An Awesome Wave	INDIFFERENT	5:06	72SfNIn49e0	MPREb_VsvPkrdaKvh	UCyzh4EnNuEO3Jk_mlXJCIag
 13	Dissolve Me	Alt-J	An Awesome Wave	INDIFFERENT	4:00	woZItxe1Xh0	MPREb_VsvPkrdaKvh	UCyzh4EnNuEO3Jk_mlXJCIag
-15	Pusher	Alt-J	This Is All Yours	INDIFFERENT	3:29	ByrJUpdvyB4	MPREb_AxizdsNIzNI	UCyzh4EnNuEO3Jk_mlXJCIag
+15	Pusher	Alt-J	This Is All Yours	INDIFFERENT	3:30	ByrJUpdvyB4	MPREb_AxizdsNIzNI	UCyzh4EnNuEO3Jk_mlXJCIag
 16	Something Good	Alt-J	An Awesome Wave	INDIFFERENT	3:38	9BrQUWQV1XQ	MPREb_VsvPkrdaKvh	UCyzh4EnNuEO3Jk_mlXJCIag
-17	Warm Foothills	Alt-J	This Is All Yours	INDIFFERENT	3:45	rqonFckPGRg	MPREb_AxizdsNIzNI	UCyzh4EnNuEO3Jk_mlXJCIag
+17	Warm Foothills	Alt-J	This Is All Yours	INDIFFERENT	3:46	rqonFckPGRg	MPREb_AxizdsNIzNI	UCyzh4EnNuEO3Jk_mlXJCIag
 11	Old Man Chicago	Alberta Cross	Broken Side Of Time	INDIFFERENT	3:08	Mo8ZWPRDnA0	MPREb_MrFTt5tUoLZ	UCZCa-jzCnfuMLzzSP5aba6w
 9	Alone Tonight (Above & Beyond Extended Club Mix)	Above & Beyond	The Club Mix Collection	INDIFFERENT	8:32	RUg5j4n2wcc	MPREb_fUM5DBW7ZCQ	UCFpQsnvFBNlXi7rwQo6IW7g
 34	Kill Your Heroes	AWOLNATION	Megalithic Symphony	INDIFFERENT	2:59	jp0p3AN9AT4	MPREb_7Gv9qZWpkjJ	UC5pM41KCkRVXpGjjvvpVfhw

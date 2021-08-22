@@ -77,6 +77,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
     # Backs up library playlists and returns playlist info summary df, also collects all unique tracks and returns track df.
     playlist_tsv_cols = ['title', 'artist', 'album', 'likeStatus',
                          'duration', 'videoId', 'albumId', 'artistId']
+    db_remove_tsv_cols = ['setVideoId', 'feedbackTokens']
     metadata_tsv_cols = ['title', 'trackCount', 'duration', 'privacy', 'id']
     all_playlist_info = []
     all_tracks = []
@@ -140,6 +141,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
 
     unique_tracks = pd.concat(all_tracks).groupby(
         'videoId').apply(merge_duplicates).set_index('videoId')
+    unique_tracks = unique_tracks.drop(db_remove_tsv_cols, axis=1)
     unique_tracks = unique_tracks.sort_values(
         ['likeStatus', 'artist'], ascending=False)
     elapsed_minutes = (time.time() - start_time) / 60.0
@@ -149,11 +151,13 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False, i
 
 
 def get_yt_track_info(yt, row):
-    copy_cols = ['keywords', 'averageRating', 'viewCount', 'release']
+    copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
+    copy_album_cols = ['type', 'trackCount', 'duration', 'year']
+
     if type(row['artistId']) == str and 'privately_owned' not in row['artistId']:
         try:
             song = yt.get_song(row.name)
-            for col in copy_cols:
+            for col in copy_song_cols:
                 if col not in song:
                     continue
                 if col == 'release' and not valid_date(song['release']):
@@ -162,6 +166,16 @@ def get_yt_track_info(yt, row):
                 row[col] = song[col]
         except Exception as e:
             print('Failed to get track info: %s\n%s' % (e, row))
+        try:
+            album = yt.get_album(row.albumId)
+            row['albumArtist'] = album['artists'][0]['name']
+            for col in copy_album_cols:
+                if col not in album:
+                    continue
+                new_col = f'album{col[0].upper()}{col[1:]}'
+                row[new_col] = album[col]     
+        except Exception as e:
+            print('Failed to get album info: %s\n%s' % (e, row))
     return row
 
 
