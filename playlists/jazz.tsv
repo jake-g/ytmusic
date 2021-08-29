@@ -272,7 +272,6 @@
 394	Django (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	LIKE	8:45	bA9qpIB8xQM	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
 508	Nancy (With The Laughing Face)	Grant Green	The Complete Quartets With Sonny Clark	LIKE	6:26	NzpPuKEK3RM	MPREb_0tq7PRzO3yX	UC0bbAAPQu2YK6Sw-FrKAKQw
 164	Moon And Sand	Gil Evans	Verve Jazz Masters 23	LIKE	4:17	nPIlIKvYjlU	MPREb_orfFG07kCRq	UCWCdag3kN0BwyKL5NRajFdA
-146	Food	Ghostface Killah	SOUR SOUL	LIKE	3:23	VoL0XD75WRU	MPREb_ooMr4ZejO2p	UC9BR9FK85Ez13EZ34Z5yZnw
 116	Wintersong	Gerry Mulligan	Blues In Time	LIKE	6:58	AQdpslPZiQ0	MPREb_zhKfigwurPC	UC7aJZwPljwluquEXN1j3p4w
 163	Lonely Town	Gerry Mulligan	Jeru	LIKE	5:34	sxCjpWAgr0E	MPREb_bD4jUoIFDnX	UC7aJZwPljwluquEXN1j3p4w
 251	In A Mellotone	Gerry Mulligan	Gerry Mulligan Meets Ben Webster	LIKE	6:57	Dumzetstmv0	MPREb_FUTFVfp6QW2	UC7aJZwPljwluquEXN1j3p4w
@@ -449,6 +448,7 @@
 17	Kaleidoscope	BADBADNOTGOOD	III	LIKE	7:06	y_LXv4KaYXg	MPREb_zrFCm9CLnMm	UCeLdRRQwPb-KP8Qj7j3P5dw
 18	Differently, Still	BADBADNOTGOOD	III	LIKE	4:43	vY21PzWBCB8	MPREb_zrFCm9CLnMm	UCeLdRRQwPb-KP8Qj7j3P5dw
 19	CS60	BADBADNOTGOOD	III	LIKE	6:53	s_M3kp0qgFw	MPREb_zrFCm9CLnMm	UCeLdRRQwPb-KP8Qj7j3P5dw
+146	Food	BADBADNOTGOOD	Sour Soul	LIKE	3:23	VoL0XD75WRU	MPREb_ooMr4ZejO2p	UCeLdRRQwPb-KP8Qj7j3P5dw
 476	Patricia	Art Pepper	Jazz For Beginners	LIKE	3:40	XlH9PL7iPWo	MPREb_oWbcmWvstwC	UCQ6s8dxxZYIRCeuFtB3Zdxw
 98	Gloomy Morning	Art Farmer	Gentle Eyes	LIKE	5:20	OrYtrRD_1_8	MPREb_st0Bru57TUZ	UCcxEwxKM5GEAGWTrVEoyEAw
 307	Gloomy Morning	Art Farmer	Gentle Eyes	LIKE	5:20	OrYtrRD_1_8	MPREb_st0Bru57TUZ	UCcxEwxKM5GEAGWTrVEoyEAw
@@ -485,8 +485,10 @@
 261	You Don't Know What Love Is	John Coltrane Quartet	Ballads	INDIFFERENT	5:14	YHAKe26KqG4	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
 416	You Don't Know What Love Is	John Coltrane Quartet	Ballads	INDIFFERENT	5:14	YHAKe26KqG4	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
 429	It's Easy to Remember	John Coltrane Quartet	The Greatest Jazz Quartets	INDIFFERENT	2:49	TL9eWqF16Vs	MPREb_ibJP4akzapl	UCH4T2kv7rr9qnuP0DOXLxMA
-121	I Cover the Waterfront	Joe Roland	Easy Living	INDIFFERENT	3:44	Xhx_eeKVGAM	MPREb_cvsTXTK9BTZ	UCY5JnyN9NilmVpTshkPPYaA
-331	I Cover the Waterfront	Joe Roland	Easy Living	INDIFFERENT	3:44	Xhx_eeKVGAM	MPREb_cvsTXTK9BTZ	UCY5JnyN9NilmVpTshkPPYaA
+121	I Cover the Waterfront (2013 Remastered Version)	Joe Roland	Easy Living (2013 Remastered Version)	INDIFFERENT	3:44	Xhx_eeKVGAM	MPREb_sWjR1tPQGkK	UCY5JnyN9NilmVpTshkPPYaA
+331	I Cover the Waterfront (2013 Remastered Version)	Joe Roland	Easy Living (2013 Remastered Version)	INDIFFERENT	3:44	Xhx_eeKVGAM	MPREb_sWjR1tPQGkK	UCY5JnyN9NilmVpTshkPPYaA
+120	Loie (Rudy Van Gelder Edition / 2007 Digital Remaster)	Ike Quebec	Bossa Nova Soul Samba (Rudy Van Gelder Edition)	INDIFFERENT	3:11	WL3lJITPb8U	MPREb_BudAAEKnTmE	UCEhbEqOBqliX5pTStANPYBQ
+330	Loie (Rudy Van Gelder Edition / 2007 Digital Remaster)	Ike Quebec	Bossa Nova Soul Samba (Rudy Van Gelder Edition)	INDIFFERENT	3:11	WL3lJITPb8U	MPREb_BudAAEKnTmE	UCEhbEqOBqliX5pTStANPYBQ
 26	Flipside	Hypnotic Brass Ensemble	LateNightTales (Unmixed Tracks)	INDIFFERENT	4:48	s828cU02nao	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIdbGF0ZW5pZ2h0dGFsZXMgdW5taXhlZCB0cmFja3MaBmJvbm9ibyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIXaHlwbm90aWMgYnJhc3MgZW5zZW1ibGU
 43	Jean De Fleur (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	INDIFFERENT	6:50	vnEQmnrMWt4	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
 393	Jean De Fleur (Rudy Van Gelder Edition / Remastered 1999)	Grant Green	Idle Moments	INDIFFERENT	6:50	vnEQmnrMWt4	MPREb_bIA2UrTwScY	UC0bbAAPQu2YK6Sw-FrKAKQw
@@ -500,8 +502,6 @@
 27	Hedron	BADBADNOTGOOD	LateNightTales (Unmixed Tracks)	INDIFFERENT	5:51	VP3kd37c8cI	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIdbGF0ZW5pZ2h0dGFsZXMgdW5taXhlZCB0cmFja3MaBmJvbm9ibyIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINYmFkYmFkbm90Z29vZA
 53	Here We Go Again	Ray Charles	THE GREATEST HITS: Ray Charles - Georgia On My Mind			qax9faM_nhU		
 198	Kutless	NxWorries	Yes Lawd!			eYjYYTC8bV8		
-120	Loie	Ike Quebec	Bossa Nova Soul Samba		3:11	9ljgoCKwUIg		
-330	Loie	Ike Quebec	Bossa Nova Soul Samba		3:11	9ljgoCKwUIg		
 284	Autumn in New York	Hilton Ruiz	Amsterdam After Dark			NhhUn9Ipix0		
 474	Autumn in New York	Hilton Ruiz	Amsterdam After Dark			NhhUn9Ipix0		
 236	Lover Man (Switch, 1991)	Charlie Parker	Music From The Films Of Blake Edwards			z-YT7JSR3Zg		
