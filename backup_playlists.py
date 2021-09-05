@@ -140,8 +140,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
         library_elapsed = (time.time() - t1) / 60
         print('Fetched and saved %d tracks to _library.tsv in %d minutes\n' %
               (len(library_tracks), library_elapsed))
-        library_tracks = library_tracks.sort_values(
-            ['artist', 'album'], ascending=False)
+        library_tracks = library_tracks.sort_values('artist')
         fname = os.path.join(backup_dir, '%s.tsv' % '_library')
         library_tracks[playlist_tsv_cols].to_csv(fname, sep='\t', header=True)
 
@@ -244,8 +243,19 @@ if __name__ == "__main__":
     # Get ytmusic metadata for new tracks from tracks_no_meta
     # and update tracks_db
     track_db = pd.read_csv(TRACKS_DB_TSV, sep='\t', index_col=0)
-    new_tracks_no_meta = tracks_no_meta.loc[set(
-        tracks_no_meta.index) - set(track_db.index)]
+    tracks_no_meta = pd.read_csv(TRACKS_NO_META_TSV, sep='\t', index_col=0)
+    new_track_ids = set(tracks_no_meta.index) - set(track_db.index)
+    # Update likes on existing tracks
+    existing = tracks_no_meta[~tracks_no_meta.isin(new_track_ids)]
+    tracks_no_meta_liked = existing[existing['likeStatus'] == 'LIKE']
+    track_db_not_liked = track_db[track_db['likeStatus'] != 'LIKE']
+    new_track_rating = set(track_db_not_liked.index) & set(
+        tracks_no_meta_liked.index)
+    print(f'Re-adding {len(new_track_rating)} traks now LIKE')
+    track_db = track_db[~track_db.index.isin(new_track_rating)]
+    new_track_ids |= new_track_rating
+    # Get metadata for new/changed traks
+    new_tracks_no_meta = tracks_no_meta.loc[new_track_ids]
     track_db = update_track_db(yt_api, track_db, new_tracks_no_meta)
     track_db.to_csv(TRACKS_DB_TSV, sep='\t', header=True)
 
