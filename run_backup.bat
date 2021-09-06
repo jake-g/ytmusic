@@ -2,11 +2,12 @@ call conda activate py3
 CD /D D:\Projects\_Projects_Synced\music-library\ytmusic
 python backup_playlists.py
 git add playlists/*.tsv
-git commit -am "update playlists"
+git commit -m "update playlists"
 
 CD /D D:\Projects\_Projects_Synced\music-library\unified_music_db
 python match_ytmusic_tracks_with_musicbee.py
 git add *.tsv
-git commit -am "update tsvs"
+git commit -m "update tsvs"
 
 call conda deactivate
+pause
