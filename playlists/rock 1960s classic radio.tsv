@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 141	Summertime	The Zombies	Begin Here	LIKE	2:10	wC-r9IKGf5A	MPREb_ivzqyH65Ze9	UCweKPvb6MUhb8X4X0nbObBw
 135	For Your Love (feat. Eric Clapton)	The Yardbirds	For Your Love - Live	LIKE	2:29	fAiVlHzfC_g	MPREb_8Ict4PgWHTJ	UC--CUY9RbIaFjKM3wZkIEOA
+295	Wipe Out (Hit Version / Extended Ending)	The Surfaris	The Best Of The Surfaris	LIKE	2:37	a9alKoLrgEc	MPREb_Nc23iYIl6oo	UCNxuPP8T5zM9bpCRcfpEwWg
 252	Daydream	The Lovin' Spoonful	Playlist: The Very Best Of The Lovin' Spoonful	LIKE	2:20	TOD5stXnUWQ	MPREb_S7IkRYw8hzQ	UCgTe55AB4dqeMMVgVZ-qQnQ
 49	The Wanderer	Dion	Remembering 1962	LIKE	2:40	GLwbJC-onCY	MPREb_Mr61OBhvy2Z	UCcNiYPb4JhBLrjtnqiPHB6w
 300	Let's Go Trippin'	Dick Dale	King Of The Surf Guitar	LIKE	2:02	M6mMNzUSJzc	MPREb_n6ziLeTE1bq	UCsIBLw01R85QwRft8D_ONgQ
@@ -45,7 +46,6 @@
 15	Here Comes My Baby	The Tremeloes	The Best of The Tremeloes, Vol. 1	INDIFFERENT	3:04	QBseYOGeJn8	MPREb_Q5Swcoiqyog	UCWIjj2R1CqChRfUEhxyvJCA
 43	Silence Is Golden	The Tremeloes	The Best of The Tremeloes, Vol. 2	INDIFFERENT	3:09	v4GVHiOIF-U	MPREb_MKjQXDACQyT	UCWIjj2R1CqChRfUEhxyvJCA
 2	The Hippy Hippy Shake	The Swinging Blue Jeans	Hippy Hippy Shake: The Definitive Collection	INDIFFERENT	1:46	fz2QJEm0S-I	MPREb_kkfVW2vbsMH	UC3VWUy65sqSwECU5JigUIBw
-295	Wipe Out (Hit Version / Extended Ending)	The Surfaris	The Best Of The Surfaris	INDIFFERENT	2:37	a9alKoLrgEc	MPREb_Nc23iYIl6oo	UCNxuPP8T5zM9bpCRcfpEwWg
 114	Little Doll	The Stooges	The Stooges	INDIFFERENT	3:21	HUQrac5K254	MPREb_s7sYIXFk5nO	UCCT8KMU8ReissgaPl7pvo9g
 188	1969	The Stooges	The Stooges (Deluxe Edition)	INDIFFERENT	4:08	Pbv2OIcA4dI	MPREb_0FeUwLe9BKn	UCCT8KMU8ReissgaPl7pvo9g
 137	Dirty Water	The Standells	The Very Best Of The Standells	INDIFFERENT	2:47	AJ_6qAbiCfA	MPREb_7Z6JMPFzabd	UCztpwWlN0F9CAjAFSwutaEg
@@ -223,7 +223,7 @@
 249	The Birds And The Bees	Jewel Akens	Smash Hits Of The 60's	INDIFFERENT	2:10	PMX3iNL9Vfk	MPREb_FZtFvTH2yC1	UCk_iWZPdbaEtBWqEKD077Pw
 164	Locomotive Breath	Jethro Tull	Rock Stardom, Vol.2	INDIFFERENT	4:26	sx9ysT-MJfg	MPREb_lGyA6QU7Gh3	UC7sFWdsZTzfR507dbonTlyQ
 134	Today (Stereo Version)	Jefferson Airplane	Short Days, Long Nights	INDIFFERENT	3:02	DYjUWj9fBjw	MPREb_ehVQiBvwuVE	UCGRlR1uXGOTqvEy0b06L7jw
-162	Blues from an Airplane	Jefferson Airplane	The Worst Of Jefferson Airplane	INDIFFERENT	2:11	kj44jyAqcV4	MPREb_ZwGZQA1Y5A8	UCGRlR1uXGOTqvEy0b06L7jw
+162	Blues from an Airplane	Jefferson Airplane	The Worst Of Jefferson Airplane	INDIFFERENT	2:10	kj44jyAqcV4	MPREb_ZwGZQA1Y5A8	UCGRlR1uXGOTqvEy0b06L7jw
 175	Go To Her	Jefferson Airplane	Surrealistic Pillow	INDIFFERENT	4:02	b7diuCvuM5o	MPREb_f0d0GYeJ4EM	UCGRlR1uXGOTqvEy0b06L7jw
 53	Come A Little Bit Closer	Jay & The Americans	Greatest Hits	INDIFFERENT	2:47	at785pb6Q_w	MPREb_icxFlcKPZ8O	UCpwt7raLlGY-Z9h-C9bUVWw
 23	Heart & Soul	Jan & Dean	Essential Hits	INDIFFERENT	2:08	g-NYfgmcoZ8	MPREb_ZEix83sSbOO	UCxhXVlGbpJW0y7p48YLc4WA
