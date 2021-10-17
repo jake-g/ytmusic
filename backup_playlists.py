@@ -76,7 +76,7 @@ def update_like_tsv(liked_tracks, like_tsv, header):
 
 def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
                                         include_library_tracks=True,
-                                        song_lim=100000, playlist_lim=500,
+                                        song_lim=200000, playlist_lim=500,
                                         yt_user='Jake G'):
     # Backs up library playlists and returns playlist info summary df,
     # also collects all unique tracks and returns track df.
@@ -87,7 +87,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
     all_playlist_info = []
     all_tracks = []
     start_time = time.time()
-    print('Fetching and backing up playlists to %s (~15 min)' % backup_dir)
+    print('Fetching and backing up playlists to %s (~10 min)' % backup_dir)
     playlists = pd.DataFrame(yt.get_library_playlists(limit=playlist_lim))
     for i, row in playlists.iterrows():
         try:
@@ -134,7 +134,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
 
     if include_library_tracks:
         t1 = time.time()
-        print('Fetching library tracks (approx 10 min)...')
+        print('Fetching library tracks (approx 5 min)...')
         library_tracks = parse_tracks(yt.get_library_songs(limit=song_lim))
         all_tracks.append(library_tracks)
         library_elapsed = (time.time() - t1) / 60
