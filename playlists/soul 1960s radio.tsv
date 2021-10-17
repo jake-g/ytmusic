@@ -1,286 +1,267 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-61	It's All Right (Single Version)	The Impressions	Greatest Hits	LIKE	2:48	KJthE2042yU	MPREb_GZMhJrlE5P3	UCgJJ73fwENw_NILc9pYHYOA
-233	Soul Man	Sam and Dave	Hold on I'm Comin'	LIKE	2:39	edCH7R4uYmQ	MPREb_BWC0VlOCSsc	UC0jVmnViSoUHl_XwocssdPg
-234	Hurry Sundown	Little Richard	Get Down With It!: The OKeh Sessions	LIKE	2:48	4acEkG0NZpQ	MPREb_XqmdzDwunxE	UCbRn2LWnKTgXbX8HUGNQHKA
-25	Knock on Wood	Eddie Floyd	Knock On Wood	LIKE	3:09	yyU1k-BzHWw	MPREb_PQJE4xz3kpS	UCWLQEbqa5zFzVGGeF6ZiOgg
-243	Green Onions	Booker T. & The MG's	Green Onions	LIKE	2:57	Gc_3Xpo9Z_Y	MPREb_p9nmGsvylqW	UCArwMp9q2N-UvSXih_0ahTA
-173	Sock It to 'Em Soul Brother	Bill Moss	Eccentric Soul: The Capsoul Label	LIKE	2:26	ET7TEmyWoFM	MPREb_q9aoflLdUj0	UC4HzVYcvPseF2evztAbgcRA
-14	Money (That's What I Want)	Barrett Strong	Cooley High	LIKE	2:38	GvQmDIcd4SU	MPREb_Sz5UL9iCFsW	UCAYOaVBzYfq427gIKLQBDbw
-85	Chain of Fools (Mono Version)	Aretha Franklin	Chain of Fools / Prove It (Digital 45)	LIKE	2:45	OJz5po07RuM	MPREb_FQxzhq2WVJ3	UCW02f_MjH8n1uMZhSds4mQQ
-116	I've Come A Long Way	Wilson Pickett	Pick It Wilson	INDIFFERENT	3:16	0KoS2dVFkv8	MPREb_6xBJavBlQ6w	UC_nBrnmRNUgbvTbsr20gssQ
-122	Can't Stop a Man in Love	Wilson Pickett	Atlantic Unearthed: Soul Brothers	INDIFFERENT	3:14	4pBpi3uYjfA	MPREb_dz2xBbtJZiw	UC_nBrnmRNUgbvTbsr20gssQ
-235	I'm Not Tired (45 Version)	Wilson Pickett	In The Midnight Hour / I'm Not Tired	INDIFFERENT	2:56	rh8zrWYyUrc	MPREb_O9fsOYOw91w	UC_nBrnmRNUgbvTbsr20gssQ
-94	Teasin' You	Willie Tee	Beg, Scream & Shout!: Vol. 1	INDIFFERENT	2:46	nxHlxDcRHU8	MPREb_7XQWeA3JHeC	UC1cqOD1KEwnU6yoHpC0l7XA
-112	If I Had A Hammer	Willie Hightower	Willie Hightower's I Love You	INDIFFERENT	2:48	X2llgp8E_H4	MPREb_hHWi6inseJl	UCVTQ5ghUb-CjA597cV4U5fw
-50	Private Number	William Bell	Soul Explosion	INDIFFERENT	2:44	JME5pXWXD0E	MPREb_9SgLsiSkusI	UCHDFo0CwsKuV1KE_rtSRNYQ
-100	You Don't Miss Your Water (Single Version)	William Bell	Atlantic Top 60: Sweat-Soaked Soul Classics	INDIFFERENT	3:02	I3j7cnVfxDE	MPREb_fb1UzAUvbFH	UCHDFo0CwsKuV1KE_rtSRNYQ
-269	Bar-B-Q	Wendy Rene	Stax-Volt: The Complete Singles 1959-1968	INDIFFERENT	2:29	qE3RIj2iWHs	MPREb_Ou15J78MSHW	UCZeTfZH8ALYJ_WySaFumg0Q
-37	A Woman Needs To Be Loved	Tyrone Davis	The Ultimate Tyrone Davis	INDIFFERENT	2:48	1JE6-ql3_A8	MPREb_SPcZiMUWv61	UCWEUYuUNNiaVDg6chn3x74Q
-87	It's All Over Now	The Valentinos	SAR Records Story	INDIFFERENT	2:51	bYEOLvPEQ4k	MPREb_s1wfAytuy3A	UCwwh1kjEjT2ATL0Ga9Qv29A
+45	What Kind Of Fool (Do You Think I Am)	The Tams	Hey Girl Don't Bother Me: The Best Of The Tams	LIKE	2:04	dhwkdVYQ0gQ	MPREb_JnHExxupq8z	UCNyBJlAfEJQCf0nY6i2VTFw
+112	I've Come A Long Way	Wilson Pickett	Pick It Wilson	INDIFFERENT	3:16	0KoS2dVFkv8	MPREb_6xBJavBlQ6w	UC_nBrnmRNUgbvTbsr20gssQ
+118	Can't Stop a Man in Love	Wilson Pickett	Atlantic Unearthed: Soul Brothers	INDIFFERENT	3:14	4pBpi3uYjfA	MPREb_dz2xBbtJZiw	UC_nBrnmRNUgbvTbsr20gssQ
+224	I'm Not Tired (45 Version)	Wilson Pickett	In The Midnight Hour / I'm Not Tired	INDIFFERENT	2:56	rh8zrWYyUrc	MPREb_O9fsOYOw91w	UC_nBrnmRNUgbvTbsr20gssQ
+90	Teasin' You	Willie Tee	Beg, Scream & Shout!: Vol. 1	INDIFFERENT	2:46	nxHlxDcRHU8	MPREb_7XQWeA3JHeC	UC1cqOD1KEwnU6yoHpC0l7XA
+108	If I Had A Hammer	Willie Hightower	Willie Hightower's I Love You	INDIFFERENT	2:48	X2llgp8E_H4	MPREb_hHWi6inseJl	UCVTQ5ghUb-CjA597cV4U5fw
+48	Private Number	William Bell	Soul Explosion	INDIFFERENT	2:44	JME5pXWXD0E	MPREb_9SgLsiSkusI	UCHDFo0CwsKuV1KE_rtSRNYQ
+96	You Don't Miss Your Water (Single Version)	William Bell	Atlantic Top 60: Sweat-Soaked Soul Classics	INDIFFERENT	3:02	I3j7cnVfxDE	MPREb_fb1UzAUvbFH	UCHDFo0CwsKuV1KE_rtSRNYQ
+250	Bar-B-Q	Wendy Rene	Stax-Volt: The Complete Singles 1959-1968	INDIFFERENT	2:29	qE3RIj2iWHs	MPREb_Ou15J78MSHW	UCZeTfZH8ALYJ_WySaFumg0Q
+35	A Woman Needs To Be Loved	Tyrone Davis	The Ultimate Tyrone Davis	INDIFFERENT	2:48	1JE6-ql3_A8	MPREb_SPcZiMUWv61	UCWEUYuUNNiaVDg6chn3x74Q
+83	It's All Over Now	The Valentinos	SAR Records Story	INDIFFERENT	2:51	bYEOLvPEQ4k	MPREb_s1wfAytuy3A	UCwwh1kjEjT2ATL0Ga9Qv29A
 4	Ain't Too Proud To Beg	The Temptations	Gettin' Ready (Expanded Edition)	INDIFFERENT	2:36	8fguIehzYQo	MPREb_wu1JDjPJcJV	UCwWtKZD4xNVpEHndNxYu51g
-228	Papa Was A Rollin' Stone	The Temptations	All Directions	INDIFFERENT	11:45	71l85z2bXAs	MPREb_SaLHVAWTrXb	UCwWtKZD4xNVpEHndNxYu51g
-47	What Kind Of Fool (Do You Think I Am)	The Tams	Hey Girl Don't Bother Me: The Best Of The Tams	INDIFFERENT	2:04	dhwkdVYQ0gQ	MPREb_JnHExxupq8z	UCNyBJlAfEJQCf0nY6i2VTFw
-73	Sweet Inspiration	The Sweet Inspirations	The Sweet Inspirations	INDIFFERENT	2:56	_qi1k52G-h0	MPREb_8QoJPAoCGeo	UCXKplfHdw2Vld5S8MVjsCCw
-133	Where Did Our Love Go	The Supremes	Where Did Our Love Go?	INDIFFERENT	2:31	pbW6ekaTaUs	MPREb_lWbV4eacgB0	UCaKbXyTyxKOyBKasPe7JB2w
-137	Baby Love	The Supremes	Where Did Our Love Go?	INDIFFERENT	2:36	l37QH86mowQ	MPREb_lWbV4eacgB0	UCaKbXyTyxKOyBKasPe7JB2w
-56	Why (Am I Treated So Bad)	The Staple Singers	Faith And Grace: A Family Journey 1953-1976	INDIFFERENT	2:50	UW3p-6jAPEQ	MPREb_6oMHuGZGD2V	UCES6P3frdkIMVkj95rxvLaw
-149	Why (Am I Treated So Bad)	The Staple Singers	Faith And Grace: A Family Journey 1953-1976	INDIFFERENT	2:50	UW3p-6jAPEQ	MPREb_6oMHuGZGD2V	UCES6P3frdkIMVkj95rxvLaw
-251	Respect Yourself	The Staple Singers	Be Altitude: Respect Yourself	INDIFFERENT	4:56	CEFTmFw1mto	MPREb_I2e3FXmsHWQ	UCES6P3frdkIMVkj95rxvLaw
-272	This Is A Perfect World	The Staple Singers	The Staple Swingers	INDIFFERENT	4:20	JXHNCO6hjI4	MPREb_3s4NHqiqkSN	UCES6P3frdkIMVkj95rxvLaw
-278	Oh La De Da (Live At Muscle Shoals Sound Studios)	The Staple Singers	Wattstax: The Living Word	INDIFFERENT	4:57	e8D-Sk21YPE	MPREb_eooGFdRA9Oq	UCES6P3frdkIMVkj95rxvLaw
-281	My Main Man	The Staple Singers	City In The Sky	INDIFFERENT	2:15	U_PwpYXN3rQ	MPREb_HUS0abDCmMX	UCES6P3frdkIMVkj95rxvLaw
-283	Long Walk To D.C.	The Staple Singers	Soul Folk In Action	INDIFFERENT	2:33	mXsbkDedb08	MPREb_wxwdUQuxNA8	UCES6P3frdkIMVkj95rxvLaw
-276	Hearsay	The Soul Children	The Stax Story (4 Disc Set)	INDIFFERENT	3:29	_qfbhkNsebc	MPREb_9nCuoaelCy5	UCUiCr65RGPyamRy5co38RXA
-155	She Blew A Good Thing	The Poets	The Sue Records Story: The Sound Of Soul	INDIFFERENT	2:49	22v1mwydLLE	MPREb_K2euJi7oIKX	UC0tfFP26H5oUUHT54YI5k1A
-194	I'll Do a Little Bit More	The Olympics	Dr. Boogie Presents Wasa Wasa (Fabulous Rhythm'n' Blues Shakers on the Dancefloor 1952 - 1968)	INDIFFERENT	2:29	XzgviSl0_00	MPREb_bB3Lwz8t67i	UCncwMwWw8ZfmgdqhPeSs1Ug
-90	One Night Affair (Single Version)	The O'Jays	From The Beginning	INDIFFERENT	2:35	6kAjUxusiSk	MPREb_MUt45kxrKFR	UCFSFQDaIx-SL7H9nvmvYRzQ
-183	Fishin' Pole	The Mighty Hannibal	Hannibalism!	INDIFFERENT	2:42	Q5kepLSLneU	MPREb_cdABHHyEKnh	UCI-DvHDXxqJGbwTs8FgZ1Ow
-266	Philly Dog	The Mar-Keys	The Great Memphis Sound	INDIFFERENT	2:19	zIj83eqK3Cw	MPREb_PY2PU4a0zAy	UCOPspCCt82FGVhyZcOm3Pnw
-86	I Don't Want To Lose Your Love	The Mad Lads	Stax-Volt: The Complete Singles 1959-1968	INDIFFERENT	2:22	0cpISmZcTX8	MPREb_Ou15J78MSHW	UCGBWIdg8VoOXJJRVyQTMqjQ
-271	Love Is Here Today And Gone Tomorrow	The Mad Lads	The Mad, Mad, Mad, Mad, Mad Lads	INDIFFERENT	2:48	zj7JwuY5oDU	MPREb_hjYT4LNXphJ	UCGBWIdg8VoOXJJRVyQTMqjQ
+219	Papa Was A Rollin' Stone	The Temptations	All Directions	INDIFFERENT	11:45	71l85z2bXAs	MPREb_SaLHVAWTrXb	UCwWtKZD4xNVpEHndNxYu51g
+70	Sweet Inspiration	The Sweet Inspirations	The Sweet Inspirations	INDIFFERENT	2:56	_qi1k52G-h0	MPREb_8QoJPAoCGeo	UCXKplfHdw2Vld5S8MVjsCCw
+128	Where Did Our Love Go	The Supremes	Where Did Our Love Go?	INDIFFERENT	2:31	pbW6ekaTaUs	MPREb_lWbV4eacgB0	UCaKbXyTyxKOyBKasPe7JB2w
+131	Baby Love	The Supremes	Where Did Our Love Go?	INDIFFERENT	2:36	l37QH86mowQ	MPREb_lWbV4eacgB0	UCaKbXyTyxKOyBKasPe7JB2w
+54	Why (Am I Treated So Bad)	The Staple Singers	Faith And Grace: A Family Journey 1953-1976	INDIFFERENT	2:50	UW3p-6jAPEQ	MPREb_6oMHuGZGD2V	UCES6P3frdkIMVkj95rxvLaw
+236	Respect Yourself	The Staple Singers	Be Altitude: Respect Yourself	INDIFFERENT	4:56	CEFTmFw1mto	MPREb_I2e3FXmsHWQ	UCES6P3frdkIMVkj95rxvLaw
+253	This Is A Perfect World	The Staple Singers	The Staple Swingers	INDIFFERENT	4:20	JXHNCO6hjI4	MPREb_3s4NHqiqkSN	UCES6P3frdkIMVkj95rxvLaw
+259	Oh La De Da (Live At Muscle Shoals Sound Studios)	The Staple Singers	Wattstax: The Living Word	INDIFFERENT	4:57	e8D-Sk21YPE	MPREb_eooGFdRA9Oq	UCES6P3frdkIMVkj95rxvLaw
+262	My Main Man	The Staple Singers	City In The Sky	INDIFFERENT	2:15	U_PwpYXN3rQ	MPREb_HUS0abDCmMX	UCES6P3frdkIMVkj95rxvLaw
+264	Long Walk To D.C.	The Staple Singers	Soul Folk In Action	INDIFFERENT	2:33	mXsbkDedb08	MPREb_wxwdUQuxNA8	UCES6P3frdkIMVkj95rxvLaw
+257	Hearsay	The Soul Children	The Stax Story (4 Disc Set)	INDIFFERENT	3:29	_qfbhkNsebc	MPREb_9nCuoaelCy5	UCUiCr65RGPyamRy5co38RXA
+147	She Blew A Good Thing	The Poets	The Sue Records Story: The Sound Of Soul	INDIFFERENT	2:49	22v1mwydLLE	MPREb_K2euJi7oIKX	UC0tfFP26H5oUUHT54YI5k1A
+185	I'll Do a Little Bit More	The Olympics	Dr. Boogie Presents Wasa Wasa (Fabulous Rhythm'n' Blues Shakers on the Dancefloor 1952 - 1968)	INDIFFERENT	2:29	XzgviSl0_00	MPREb_bB3Lwz8t67i	UCncwMwWw8ZfmgdqhPeSs1Ug
+86	One Night Affair (Single Version)	The O'Jays	From The Beginning	INDIFFERENT	2:35	6kAjUxusiSk	MPREb_MUt45kxrKFR	UCFSFQDaIx-SL7H9nvmvYRzQ
+174	Fishin' Pole	The Mighty Hannibal	Hannibalism!	INDIFFERENT	2:42	Q5kepLSLneU	MPREb_cdABHHyEKnh	UCI-DvHDXxqJGbwTs8FgZ1Ow
+247	Philly Dog	The Mar-Keys	The Great Memphis Sound	INDIFFERENT	2:19	zIj83eqK3Cw	MPREb_PY2PU4a0zAy	UCOPspCCt82FGVhyZcOm3Pnw
+82	I Don't Want To Lose Your Love	The Mad Lads	Stax-Volt: The Complete Singles 1959-1968	INDIFFERENT	2:22	0cpISmZcTX8	MPREb_Ou15J78MSHW	UCGBWIdg8VoOXJJRVyQTMqjQ
+252	Love Is Here Today And Gone Tomorrow	The Mad Lads	The Mad, Mad, Mad, Mad, Mad Lads	INDIFFERENT	2:48	zj7JwuY5oDU	MPREb_hjYT4LNXphJ	UCGBWIdg8VoOXJJRVyQTMqjQ
 8	This Old Heart Of Mine (Is Weak For You)	The Isley Brothers	This Old Heart Of Mine	INDIFFERENT	2:52	aIHSIxFurfg	MPREb_KmzcNvIudq3	UC19gd7AQcPkrcFH8w8BYO7w
-35	It's Your Thing	The Isley Brothers	It's Our Thing	INDIFFERENT	2:50	vajsXO3Ub-4	MPREb_TBfJiFrpnK2	UC19gd7AQcPkrcFH8w8BYO7w
-157	Fire and Rain	The Isley Brothers	Givin' It Back	INDIFFERENT	5:32	PZv_w_L0Rh0	MPREb_xJiF3ek7QZ2	UC19gd7AQcPkrcFH8w8BYO7w
+33	It's Your Thing	The Isley Brothers	It's Our Thing	INDIFFERENT	2:50	vajsXO3Ub-4	MPREb_TBfJiFrpnK2	UC19gd7AQcPkrcFH8w8BYO7w
+149	Fire and Rain	The Isley Brothers	Givin' It Back	INDIFFERENT	5:32	PZv_w_L0Rh0	MPREb_xJiF3ek7QZ2	UC19gd7AQcPkrcFH8w8BYO7w
 11	Cowboys to Girls	The Intruders	The Gamble Records All-Stars	INDIFFERENT	2:39	qYxF8Gp9JP8	MPREb_tmyyAuwdQwv	UCzJef68VLJLqE1_TZPiGvIw
-33	Together	The Intruders	The Best Of The Intruders: Cowboys To Girls	INDIFFERENT	2:56	Z8uxrJ16zbY	MPREb_L0wnIsIqPHt	UCzJef68VLJLqE1_TZPiGvIw
+31	Together	The Intruders	The Best Of The Intruders: Cowboys To Girls	INDIFFERENT	2:56	Z8uxrJ16zbY	MPREb_L0wnIsIqPHt	UCzJef68VLJLqE1_TZPiGvIw
 13	People Get Ready	The Impressions	People Get Ready	INDIFFERENT	2:43	UG-KNy1MRTc	MPREb_fzivW8ewuZg	UCgJJ73fwENw_NILc9pYHYOA
-21	Keep On Pushing	The Impressions	Keep On Pushing	INDIFFERENT	2:35	Sxa9wNl2OjE	MPREb_rAkjKCyMMkX	UCgJJ73fwENw_NILc9pYHYOA
-95	Mighty Mighty (Spade & Whitey)	The Impressions	The Young Mods' Forgotten Story	INDIFFERENT	2:22	VyOC4OhgQw4	MPREb_VFvZdsa9Msb	UCgJJ73fwENw_NILc9pYHYOA
-70	I'm Blue (The Gong Gong Song)	The Ikettes	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:34	MELinD1Azqc	MPREb_DbFq1enB80m	UCDNXcJYYf21kEP9RIXdw6aQ
-150	Going In Circles	The Friends Of Distinction	Grazin'	INDIFFERENT	4:13	w7pST24dAvo	MPREb_M2koP9OsXO2	UC3xmB4VYdmp6a6xM-m35dUQ
-277	Hot Dog	The Four Shells	Stax-Volt: The Complete Singles 1959-1968	INDIFFERENT	2:05	Xt5ax92omag	MPREb_Ou15J78MSHW	UCAzKqVDSRHAbxW1TNq0S7yQ
-162	Are You Keeping Score	The Exciters	Tell Him - The Best Of	INDIFFERENT	2:44	sHKEPtQrUsQ	MPREb_vwBe9sD0vqq	UCJ9EjFMQSTCPeRiv2CA2oJQ
-89	Get On Up	The Esquires	Get On Up	INDIFFERENT	2:26	2KB_XiDUXjQ	MPREb_dSLG0Yy6e59	UCv8vI_-vHUpLx-Yct__S9Ww
-260	My Honey And Me	The Emotions	Chronicle: Greatest Hits	INDIFFERENT	3:36	yUYDJKJezDw	MPREb_AHibDVaM8X2	UCUl8eEqyj4G3vOAjFE-DjFA
-91	Ice Cream Song (Single Version)	The Dynamics	Beg, Scream & Shout!: Vol. 2	INDIFFERENT	3:19	pxh7zBAhxBQ	MPREb_lEcAINdWXOO	UCA_157CHH7TSfmvONH6OQGw
-241	Up on the Roof	The Drifters	All-Time Greatest Hits & More 1959-1965	INDIFFERENT	2:36	5lhS9fxfRss	MPREb_K8VtQlOWy2T	UCo55cRv8wdnMdwWFMgnDYpA
-143	In The Rain	The Dramatics	Stax Chartbusters, Vol. 3	INDIFFERENT	3:29	2hgB9zdnT-o	MPREb_qaiWwGo7qNu	UCmr45fR0eEebbGcXcbQ26NQ
-254	Get Up And Get Down	The Dramatics	Whatcha See Is Whatcha Get [Stax Remasters]	INDIFFERENT	3:13	QGKtSj9_x0I	MPREb_CV35DKjGORv	UCmr45fR0eEebbGcXcbQ26NQ
-259	Hot Pants In The Summertime	The Dramatics	Whatcha See Is Whatcha Get [Stax Remasters]	INDIFFERENT	3:59	zFmm09wl0TI	MPREb_CV35DKjGORv	UCmr45fR0eEebbGcXcbQ26NQ
+20	Keep On Pushing	The Impressions	Keep On Pushing	INDIFFERENT	2:35	Sxa9wNl2OjE	MPREb_rAkjKCyMMkX	UCgJJ73fwENw_NILc9pYHYOA
+91	Mighty Mighty (Spade & Whitey)	The Impressions	The Young Mods' Forgotten Story	INDIFFERENT	2:22	VyOC4OhgQw4	MPREb_VFvZdsa9Msb	UCgJJ73fwENw_NILc9pYHYOA
+67	I'm Blue (The Gong Gong Song)	The Ikettes	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:34	MELinD1Azqc	MPREb_DbFq1enB80m	UCDNXcJYYf21kEP9RIXdw6aQ
+142	Going In Circles	The Friends Of Distinction	Grazin'	INDIFFERENT	4:13	w7pST24dAvo	MPREb_M2koP9OsXO2	UC3xmB4VYdmp6a6xM-m35dUQ
+258	Hot Dog	The Four Shells	Stax-Volt: The Complete Singles 1959-1968	INDIFFERENT	2:05	Xt5ax92omag	MPREb_Ou15J78MSHW	UCAzKqVDSRHAbxW1TNq0S7yQ
+154	Are You Keeping Score	The Exciters	Tell Him - The Best Of	INDIFFERENT	2:44	sHKEPtQrUsQ	MPREb_vwBe9sD0vqq	UCJ9EjFMQSTCPeRiv2CA2oJQ
+85	Get On Up	The Esquires	Get On Up	INDIFFERENT	2:26	2KB_XiDUXjQ	MPREb_dSLG0Yy6e59	UCv8vI_-vHUpLx-Yct__S9Ww
+241	My Honey And Me	The Emotions	Chronicle: Greatest Hits	INDIFFERENT	3:36	yUYDJKJezDw	MPREb_AHibDVaM8X2	UCUl8eEqyj4G3vOAjFE-DjFA
+87	Ice Cream Song (Single Version)	The Dynamics	Beg, Scream & Shout!: Vol. 2	INDIFFERENT	3:19	pxh7zBAhxBQ	MPREb_lEcAINdWXOO	UCA_157CHH7TSfmvONH6OQGw
+229	Up on the Roof	The Drifters	All-Time Greatest Hits & More 1959-1965	INDIFFERENT	2:36	5lhS9fxfRss	MPREb_K8VtQlOWy2T	UCo55cRv8wdnMdwWFMgnDYpA
+137	In The Rain	The Dramatics	Stax Chartbusters, Vol. 3	INDIFFERENT	3:29	2hgB9zdnT-o	MPREb_qaiWwGo7qNu	UCmr45fR0eEebbGcXcbQ26NQ
+238	Get Up And Get Down	The Dramatics	Whatcha See Is Whatcha Get [Stax Remasters]	INDIFFERENT	3:13	QGKtSj9_x0I	MPREb_CV35DKjGORv	UCmr45fR0eEebbGcXcbQ26NQ
+240	Hot Pants In The Summertime	The Dramatics	Whatcha See Is Whatcha Get [Stax Remasters]	INDIFFERENT	3:59	zFmm09wl0TI	MPREb_CV35DKjGORv	UCmr45fR0eEebbGcXcbQ26NQ
 9	Stay In My Corner	The Dells	There Is	INDIFFERENT	6:13	ebqo2F6fAuE	MPREb_r5TdUdN4mcz	UCS7anK7CzAq7FN4wOiJ99oA
-16	Oh, What A Night	The Dells	Oh, What A Night! / The Great Ballads	INDIFFERENT	4:07	lT-njQoB24w	MPREb_EUz0WeDoIwA	UCS7anK7CzAq7FN4wOiJ99oA
-66	Delfonics Theme (How Could You)	The Delfonics	The Delfonics	INDIFFERENT	4:33	aFWabjvrOgg	MPREb_LHd6vi5IiCM	UCe9lA4SA0acjPvENrSwpdJQ
-247	Time Has Come Today	The Chambers Brothers	The Time Has Come	INDIFFERENT	11:03	w-UFowAAGY4	MPREb_yyhXDzhANWi	UCR5_ndoopalrW_RS2OZI7Rw
-36	Cool Jerk	The Capitols	Dance The Cool Jerk	INDIFFERENT	2:47	R73iEOvkr10	MPREb_0JE2cz5afIg	UCVvcLR8qYSWH5BLj2AAohKA
-246	She Caught the Katy	The Blues Brothers	The Blues Brothers Original Motion Picture Soundtrack	INDIFFERENT	4:10	6YLSnqBPjt4	MPREb_Qz8pV6bcb2a	UC6SVhkSVEZxWOqSqvqZ6CSQ
-40	Soul Finger	The Bar-Kays	Soul Finger	INDIFFERENT	2:22	8n-XVu205EY	MPREb_tuDR4M5QO9V	UCLNOvQ9MA1CYmF5joGC9ePw
-250	Soul Finger	The Bar-Kays	Soul Finger	INDIFFERENT	2:22	8n-XVu205EY	MPREb_tuDR4M5QO9V	UCLNOvQ9MA1CYmF5joGC9ePw
-275	Memphis Sunrise (bonus track)	The Bar-Kays	The Best Of The Bar-Kays	INDIFFERENT	3:24	bvYgfVlkpmM	MPREb_QrEWNaN5g01	UCLNOvQ9MA1CYmF5joGC9ePw
-144	Late Nights & Heartbreak	The Affirmations	Record Kicks Chartbusters	INDIFFERENT	4:16	ZlSkoI5euD8	MPREb_kNofXGZTkci	UCJ9VO1tFnKrXaPQKjIaFOpg
-129	Love T.K.O.	Teddy Pendergrass	TP (Expanded Edition)	INDIFFERENT	5:00	xgCM84udWAE	MPREb_T5gJCFeIYVo	UC2nJti07ZV_R4Wf2TVx25HA
-167	Somebody's Always Trying	Ted Taylor	The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966	INDIFFERENT	2:17	nPs0reHTYuE	MPREb_St8RqoIipYx	UCg7OtjCY_6FU0-iF4Sg2QOg
-199	Daddy's Baby	Ted Taylor	The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966	INDIFFERENT	2:23	8azElB27qPc	MPREb_St8RqoIipYx	UCg7OtjCY_6FU0-iF4Sg2QOg
-165	Sandman	Tameca Jones	Sandman	INDIFFERENT	3:49	7Sj8YgX3KHg	MPREb_CYhsi34aXvo	UCfYFSv9kD-f51wAyll7nLTA
-18	A Place In The Sun	Stevie Wonder	Down To Earth	INDIFFERENT	2:52	0qe7U0mesoM	MPREb_6BOFJ7IwkkM	UCR83RRXHzXrEQbu_ZQmPMSg
-27	I Was Made To Love Her	Stevie Wonder	I Was Made To Love Her	INDIFFERENT	2:36	1AZnXclm0Bs	MPREb_AJfRlwe33Rx	UCR83RRXHzXrEQbu_ZQmPMSg
-45	Blowin' In The Wind	Stevie Wonder	At The Close Of A Century	INDIFFERENT	3:04	NSAEHIMMOLs	MPREb_R98zKGMqVVE	UCR83RRXHzXrEQbu_ZQmPMSg
-139	Never Dreamed You'd Leave In Summer	Stevie Wonder	Where I'm Coming From	INDIFFERENT	2:52	FrLDXORRDpo	MPREb_tLmawvBdcL0	UCR83RRXHzXrEQbu_ZQmPMSg
-236	Never Had A Dream Come True	Stevie Wonder	Signed, Sealed And Delivered	INDIFFERENT	3:15	cT7pd0Pc2nY	MPREb_hvsXlLWLFIk	UCR83RRXHzXrEQbu_ZQmPMSg
-126	That's How It Feels	Soul Clan	Soul Clan	INDIFFERENT	3:34	5Q-WZPFvCu0	MPREb_Yf6ESZDAQot	UCnsDLYYT50xJ_K1L1B455gA
-121	Some Kind of Wonderful	Soul Brothers Six	Summer of 69	INDIFFERENT	2:44	bbbUkSPxL5I	MPREb_ilzPZ5t0bl2	UCcmcL8fYlfYomR-W-hLn0QQ
-52	Everybody Needs Somebody to Love	Solomon Burke	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:45	tmkeyzZ91sI	MPREb_DbFq1enB80m	UCwIioEkBeMVDvsq0i6o5nvw
-74	Got to Get You off My Mind	Solomon Burke	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:36	haDfGbMnLEE	MPREb_DbFq1enB80m	UCwIioEkBeMVDvsq0i6o5nvw
-110	I Wish I Knew (How It Would Feel to Be Free)	Solomon Burke	I Wish I Knew	INDIFFERENT	2:53	VccEzQZNNXk	MPREb_Zag3jqyWdhq	UCwIioEkBeMVDvsq0i6o5nvw
-127	It's Been a Change	Solomon Burke	Blue and Soulful	INDIFFERENT	2:18	lECIIW0da7w	MPREb_Pw8MN3SPXAq	UCwIioEkBeMVDvsq0i6o5nvw
+15	Oh, What A Night	The Dells	Oh, What A Night! / The Great Ballads	INDIFFERENT	4:07	lT-njQoB24w	MPREb_EUz0WeDoIwA	UCS7anK7CzAq7FN4wOiJ99oA
+63	Delfonics Theme (How Could You)	The Delfonics	The Delfonics	INDIFFERENT	4:33	aFWabjvrOgg	MPREb_LHd6vi5IiCM	UCe9lA4SA0acjPvENrSwpdJQ
+233	Time Has Come Today	The Chambers Brothers	The Time Has Come	INDIFFERENT	11:03	w-UFowAAGY4	MPREb_yyhXDzhANWi	UCR5_ndoopalrW_RS2OZI7Rw
+34	Cool Jerk	The Capitols	Dance The Cool Jerk	INDIFFERENT	2:47	R73iEOvkr10	MPREb_0JE2cz5afIg	UCVvcLR8qYSWH5BLj2AAohKA
+232	She Caught the Katy	The Blues Brothers	The Blues Brothers Original Motion Picture Soundtrack	INDIFFERENT	4:10	6YLSnqBPjt4	MPREb_Qz8pV6bcb2a	UC6SVhkSVEZxWOqSqvqZ6CSQ
+38	Soul Finger	The Bar-Kays	Soul Finger	INDIFFERENT	2:22	8n-XVu205EY	MPREb_tuDR4M5QO9V	UCLNOvQ9MA1CYmF5joGC9ePw
+256	Memphis Sunrise (bonus track)	The Bar-Kays	The Best Of The Bar-Kays	INDIFFERENT	3:24	bvYgfVlkpmM	MPREb_QrEWNaN5g01	UCLNOvQ9MA1CYmF5joGC9ePw
+138	Late Nights & Heartbreak	The Affirmations	Record Kicks Chartbusters	INDIFFERENT	4:16	ZlSkoI5euD8	MPREb_kNofXGZTkci	UCJ9VO1tFnKrXaPQKjIaFOpg
+124	Love T.K.O.	Teddy Pendergrass	TP (Expanded Edition)	INDIFFERENT	5:00	xgCM84udWAE	MPREb_T5gJCFeIYVo	UC2nJti07ZV_R4Wf2TVx25HA
+159	Somebody's Always Trying	Ted Taylor	The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966	INDIFFERENT	2:17	nPs0reHTYuE	MPREb_St8RqoIipYx	UCg7OtjCY_6FU0-iF4Sg2QOg
+190	Daddy's Baby	Ted Taylor	The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966	INDIFFERENT	2:23	8azElB27qPc	MPREb_St8RqoIipYx	UCg7OtjCY_6FU0-iF4Sg2QOg
+157	Sandman	Tameca Jones	Sandman	INDIFFERENT	3:49	7Sj8YgX3KHg	MPREb_CYhsi34aXvo	UCfYFSv9kD-f51wAyll7nLTA
+17	A Place In The Sun	Stevie Wonder	Down To Earth	INDIFFERENT	2:52	0qe7U0mesoM	MPREb_6BOFJ7IwkkM	UCR83RRXHzXrEQbu_ZQmPMSg
+25	I Was Made To Love Her	Stevie Wonder	I Was Made To Love Her	INDIFFERENT	2:36	1AZnXclm0Bs	MPREb_AJfRlwe33Rx	UCR83RRXHzXrEQbu_ZQmPMSg
+43	Blowin' In The Wind	Stevie Wonder	At The Close Of A Century	INDIFFERENT	3:04	NSAEHIMMOLs	MPREb_R98zKGMqVVE	UCR83RRXHzXrEQbu_ZQmPMSg
+133	Never Dreamed You'd Leave In Summer	Stevie Wonder	Where I'm Coming From	INDIFFERENT	2:52	FrLDXORRDpo	MPREb_tLmawvBdcL0	UCR83RRXHzXrEQbu_ZQmPMSg
+225	Never Had A Dream Come True	Stevie Wonder	Signed, Sealed And Delivered	INDIFFERENT	3:15	cT7pd0Pc2nY	MPREb_hvsXlLWLFIk	UCR83RRXHzXrEQbu_ZQmPMSg
+122	That's How It Feels	Soul Clan	Soul Clan	INDIFFERENT	3:34	5Q-WZPFvCu0	MPREb_Yf6ESZDAQot	UCnsDLYYT50xJ_K1L1B455gA
+117	Some Kind of Wonderful	Soul Brothers Six	Summer of 69	INDIFFERENT	2:44	bbbUkSPxL5I	MPREb_ilzPZ5t0bl2	UCcmcL8fYlfYomR-W-hLn0QQ
+50	Everybody Needs Somebody to Love	Solomon Burke	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:45	tmkeyzZ91sI	MPREb_DbFq1enB80m	UCwIioEkBeMVDvsq0i6o5nvw
+71	Got to Get You off My Mind	Solomon Burke	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:36	haDfGbMnLEE	MPREb_DbFq1enB80m	UCwIioEkBeMVDvsq0i6o5nvw
+106	I Wish I Knew (How It Would Feel to Be Free)	Solomon Burke	I Wish I Knew	INDIFFERENT	2:53	VccEzQZNNXk	MPREb_Zag3jqyWdhq	UCwIioEkBeMVDvsq0i6o5nvw
+123	It's Been a Change	Solomon Burke	Blue and Soulful	INDIFFERENT	2:18	lECIIW0da7w	MPREb_Pw8MN3SPXAq	UCwIioEkBeMVDvsq0i6o5nvw
 5	The Tracks Of My Tears	Smokey Robinson	Going To A Go-Go	INDIFFERENT	2:54	d88okgCrKus	MPREb_dSkN9Os6Kre	UC19EAE9HP6ECxNiMctMSvrg
-136	The Tracks Of My Tears	Smokey Robinson	Going To A Go-Go	INDIFFERENT	2:54	d88okgCrKus	MPREb_dSkN9Os6Kre	UC19EAE9HP6ECxNiMctMSvrg
-71	"Dance to the Music (7"" Version)"	Sly & The Family Stone	Dance To The Music	INDIFFERENT	2:58	w3cpWvmw8gI	MPREb_AfjbbeIXABj	UCgwJnBJfprQYGX3OPQrTvqw
-177	Shake and Vibrate	Sir Lattimore Brown	The House of Super Funk: Rarities Collection	INDIFFERENT	2:25	HddpGBi8MCM	MPREb_zxZjOqfSxhV	UCo6YoQAjqlkbph7-Km36g_w
+68	"Dance to the Music (7"" Version)"	Sly & The Family Stone	Dance To The Music	INDIFFERENT	2:58	w3cpWvmw8gI	MPREb_AfjbbeIXABj	UCgwJnBJfprQYGX3OPQrTvqw
+168	Shake and Vibrate	Sir Lattimore Brown	The House of Super Funk: Rarities Collection	INDIFFERENT	2:25	HddpGBi8MCM	MPREb_zxZjOqfSxhV	UCo6YoQAjqlkbph7-Km36g_w
 0	A Change Is Gonna Come	Sam Cooke	30 Greatest Hits: Portrait of a Legend 1951-1964	INDIFFERENT	3:13	Z5zDRtEC0x0	MPREb_1tJE5PccPOx	UCYW9vMurwIpx1l0bb8gyK7g
-62	Baby, Baby, Baby	Sam Cooke	The Man Who Invented Soul	INDIFFERENT	2:28	b3elfGXJUV8	MPREb_E0aDo1QDo09	UCYW9vMurwIpx1l0bb8gyK7g
-232	Twistin' the Night Away	Sam Cooke	Twistin' the Night Away	INDIFFERENT	2:40	APu8MXUWPhI	MPREb_VPHYFPYkLpc	UCYW9vMurwIpx1l0bb8gyK7g
-224	Number One	Sam Baker	I Can't Turn Her Loose	INDIFFERENT	2:13	jjLd3s7pxMw	MPREb_XTRC5nkaDG5	UCqG6CiE9RO8bTjKYU2xTHsw
-38	I Thank You (LP / Single Version)	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	2:53	ugKFQEK9X6o	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
-54	Wrap It Up (LP / Single Version)	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	2:33	Nd3KPFzq_Gw	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
-69	Soul Man	Sam & Dave	Best Of Sam & Dave	INDIFFERENT	3:02	vPch_BH1tbM	MPREb_YCf1cCWT760	UC0jVmnViSoUHl_XwocssdPg
-76	When Something Is Wrong with My Baby	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	3:15	FrXjjno4SZI	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
-103	I Can't Stand Up For Falling Down	Sam & Dave	The Stax Story (4 Disc Set)	INDIFFERENT	2:41	dbiDv8BBS8Y	MPREb_9nCuoaelCy5	UC0jVmnViSoUHl_XwocssdPg
-229	Hold It Baby	Sam & Dave	Sweat 'N' Soul: An Anthology [1965-1971]	INDIFFERENT	2:40	chayUKfwq2Q	MPREb_49u17b4psY2	UC0jVmnViSoUHl_XwocssdPg
-231	Don't Turn Your Heater On	Sam & Dave	Sweat 'N' Soul: An Anthology [1965-1971]	INDIFFERENT	2:16	JCWl3vFUisg	MPREb_49u17b4psY2	UC0jVmnViSoUHl_XwocssdPg
-244	I Thank You (LP / Single Version)	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	2:53	ugKFQEK9X6o	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
-245	Soothe Me (2006 Remaster LP / Single Version)	Sam & Dave	Double Dynamite	INDIFFERENT	2:37	hq8oACLAxXc	MPREb_X5uXUvlscpZ	UC0jVmnViSoUHl_XwocssdPg
-255	I Thank You (LP / Single Version)	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	2:53	ugKFQEK9X6o	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
-261	You Don't Know Like I Know (LP/Single Version)	Sam & Dave	Hold On, I'm Comin'	INDIFFERENT	2:43	ONaypwDKUzI	MPREb_W3xXW2qlAQd	UC0jVmnViSoUHl_XwocssdPg
-270	Hold On I'm Coming	Sam & Dave	Best Of Sam & Dave	INDIFFERENT	2:41	4aWtpCLQC8c	MPREb_YCf1cCWT760	UC0jVmnViSoUHl_XwocssdPg
-256	Do The Funky Chicken	Rufus Thomas	Do the Funky Chicken [Stax Remasters]	INDIFFERENT	3:18	JImtDKt8h2c	MPREb_uxHep2YOg6k	UCm1Njiat5P7x7ftWuNZi1tw
-219	Talk About Soul	Rudy Tee & The Reno-Bops	Movements Vol.4	INDIFFERENT	2:34	4XSygEaYbqs	MPREb_Rb9bWJ4vAyJ	
-221	I'm Gonna Put a Watch on You	Ruby Dee	Authentic Oldies - Retro Vinyl Editions	INDIFFERENT	2:09	_XLzFKX39fM	MPREb_kSh1D6DWEEV	UC65YTaTm4vZOcUBw3eBZRRQ
-176	Ain't That Terrible	Roy Redmond	Best of Loma Records-Rise and Fall of a 1960's Soul Label	INDIFFERENT	2:33	1aNbio1YdEo	MPREb_x0XWKiilRti	UCT3b0MPv6xaqK0_8-v8Hmhg
-187	Boogaloo No.3	Roy Lee Johnson & The Villagers	The Document II	INDIFFERENT	1:58	O3i4mGMAW3k	MPREb_BWSiu5MHtxE	UCdGz5hfKwWZrBP4cRJmbTkQ
-222	Running For My Life	Roscoe Shelton	Roscoe Shelton's I Can't Stand To Be Without You	INDIFFERENT	2:30	A5osl5xK5f8	MPREb_KKLHhO6gGcZ	UCEUuykvsoewpSMqGTUFKmMw
-227	Soon As Darkness Falls	Roscoe Shelton	Soul Magic - Best Of	INDIFFERENT	2:48	WQyHq_8EjnY	MPREb_K7ND8e1EDcu	UCEUuykvsoewpSMqGTUFKmMw
-207	C'mon Cupid	Roosevelt Grier	Soul Classics	INDIFFERENT	2:29	4BB7K-TSgWc	MPREb_npAwGE3gGuX	UCY6pZTrECyn2Ki6k3N__qXg
-180	Lovin' Machine	Rodge Martin	Soul Music of the Deep South	INDIFFERENT	2:56	zOo0sjIM908	MPREb_XAVgdQ5YpbA	UCrkT6e1V42uyHgSrLV4X9Sg
-201	I Gotta Go Now	Rex Garvin & The Mighty Cravers	Rex Garvin & The Mighty Cravers	INDIFFERENT	2:41	Cg0_U11LTOw	MPREb_z4CRjik2qeH	UCjeqRau4RR6woQ0bPTc98Mg
-99	Don't Let the Sun Catch You Cryin'	Ray Charles	The Genius Of Ray Charles	INDIFFERENT	3:46	xxA0Q1WTmXA	MPREb_VdbXJv2WEpG	UClapQBGYNOoLYmCct6e3B5Q
-166	Heartbreaker	Ray Charles	Yes Indeed!	INDIFFERENT	2:55	1n4y6vkCzow	MPREb_Ox9CvuuUypI	UClapQBGYNOoLYmCct6e3B5Q
-263	Let The Music Get Down In Your Soul	Rance Allen	Let The Music Get Down In Your Soul	INDIFFERENT	8:44	9bMYYLPTuvo	MPREb_8btO6ptYgVl	UCxHfGwO7hlsrkaX4UZeDC1w
-280	Lying On The Truth (Live)	Rance Allen	Wattstax: The Living Word	INDIFFERENT	3:41	LEfTNHBz2t0	MPREb_Mnk7ymurSwo	UCxHfGwO7hlsrkaX4UZeDC1w
-226	Soul Mate	Ramona Parks	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:02	jSHVQmGZ7rg	MPREb_aKQBOtnUTpc	UCPS0xNKyWRPnTmmWGYkgjGg
-206	One More Hurt	Phil Flowers	Soul Legends	INDIFFERENT	2:41	PEE1xF3wTrI	MPREb_OdQiP3cLaLt	UCzKl7F8nT4MS5IcRZRI2PSw
-220	Little Devil	Phil Flowers	The Otis Rene Story	INDIFFERENT	2:13	Kot3gQMsF9Q	MPREb_wcVFqx9GRW6	UCzKl7F8nT4MS5IcRZRI2PSw
+59	Baby, Baby, Baby	Sam Cooke	The Man Who Invented Soul	INDIFFERENT	2:28	b3elfGXJUV8	MPREb_E0aDo1QDo09	UCYW9vMurwIpx1l0bb8gyK7g
+223	Twistin' the Night Away	Sam Cooke	Twistin' the Night Away	INDIFFERENT	2:40	APu8MXUWPhI	MPREb_VPHYFPYkLpc	UCYW9vMurwIpx1l0bb8gyK7g
+215	Number One	Sam Baker	I Can't Turn Her Loose	INDIFFERENT	2:13	jjLd3s7pxMw	MPREb_XTRC5nkaDG5	UCqG6CiE9RO8bTjKYU2xTHsw
+36	I Thank You (LP / Single Version)	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	2:53	ugKFQEK9X6o	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
+52	Wrap It Up (LP / Single Version)	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	2:33	Nd3KPFzq_Gw	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
+66	Soul Man	Sam & Dave	Best Of Sam & Dave	INDIFFERENT	3:02	vPch_BH1tbM	MPREb_YCf1cCWT760	UC0jVmnViSoUHl_XwocssdPg
+73	When Something Is Wrong with My Baby	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	3:15	FrXjjno4SZI	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
+99	I Can't Stand Up For Falling Down	Sam & Dave	The Stax Story (4 Disc Set)	INDIFFERENT	2:41	dbiDv8BBS8Y	MPREb_9nCuoaelCy5	UC0jVmnViSoUHl_XwocssdPg
+220	Hold It Baby	Sam & Dave	Sweat 'N' Soul: An Anthology [1965-1971]	INDIFFERENT	2:40	chayUKfwq2Q	MPREb_49u17b4psY2	UC0jVmnViSoUHl_XwocssdPg
+222	Don't Turn Your Heater On	Sam & Dave	Sweat 'N' Soul: An Anthology [1965-1971]	INDIFFERENT	2:16	JCWl3vFUisg	MPREb_49u17b4psY2	UC0jVmnViSoUHl_XwocssdPg
+231	Soothe Me (2006 Remaster LP / Single Version)	Sam & Dave	Double Dynamite	INDIFFERENT	2:37	hq8oACLAxXc	MPREb_X5uXUvlscpZ	UC0jVmnViSoUHl_XwocssdPg
+242	You Don't Know Like I Know (LP/Single Version)	Sam & Dave	Hold On, I'm Comin'	INDIFFERENT	2:43	ONaypwDKUzI	MPREb_W3xXW2qlAQd	UC0jVmnViSoUHl_XwocssdPg
+251	Hold On I'm Coming	Sam & Dave	Best Of Sam & Dave	INDIFFERENT	2:41	4aWtpCLQC8c	MPREb_YCf1cCWT760	UC0jVmnViSoUHl_XwocssdPg
+239	Do The Funky Chicken	Rufus Thomas	Do the Funky Chicken [Stax Remasters]	INDIFFERENT	3:18	JImtDKt8h2c	MPREb_uxHep2YOg6k	UCm1Njiat5P7x7ftWuNZi1tw
+210	Talk About Soul	Rudy Tee & The Reno-Bops	Movements Vol.4	INDIFFERENT	2:34	4XSygEaYbqs	MPREb_Rb9bWJ4vAyJ	
+212	I'm Gonna Put a Watch on You	Ruby Dee	Authentic Oldies - Retro Vinyl Editions	INDIFFERENT	2:09	_XLzFKX39fM	MPREb_kSh1D6DWEEV	UC65YTaTm4vZOcUBw3eBZRRQ
+167	Ain't That Terrible	Roy Redmond	Best of Loma Records-Rise and Fall of a 1960's Soul Label	INDIFFERENT	2:33	1aNbio1YdEo	MPREb_x0XWKiilRti	UCT3b0MPv6xaqK0_8-v8Hmhg
+178	Boogaloo No.3	Roy Lee Johnson & The Villagers	The Document II	INDIFFERENT	1:58	O3i4mGMAW3k	MPREb_BWSiu5MHtxE	UCdGz5hfKwWZrBP4cRJmbTkQ
+213	Running For My Life	Roscoe Shelton	Roscoe Shelton's I Can't Stand To Be Without You	INDIFFERENT	2:30	A5osl5xK5f8	MPREb_KKLHhO6gGcZ	UCEUuykvsoewpSMqGTUFKmMw
+218	Soon As Darkness Falls	Roscoe Shelton	Soul Magic - Best Of	INDIFFERENT	2:48	WQyHq_8EjnY	MPREb_K7ND8e1EDcu	UCEUuykvsoewpSMqGTUFKmMw
+198	C'mon Cupid	Roosevelt Grier	Soul Classics	INDIFFERENT	2:29	4BB7K-TSgWc	MPREb_npAwGE3gGuX	UCY6pZTrECyn2Ki6k3N__qXg
+171	Lovin' Machine	Rodge Martin	Soul Music of the Deep South	INDIFFERENT	2:56	zOo0sjIM908	MPREb_XAVgdQ5YpbA	UCrkT6e1V42uyHgSrLV4X9Sg
+192	I Gotta Go Now	Rex Garvin & The Mighty Cravers	Rex Garvin & The Mighty Cravers	INDIFFERENT	2:41	Cg0_U11LTOw	MPREb_z4CRjik2qeH	UCjeqRau4RR6woQ0bPTc98Mg
+95	Don't Let the Sun Catch You Cryin'	Ray Charles	The Genius Of Ray Charles	INDIFFERENT	3:46	xxA0Q1WTmXA	MPREb_VdbXJv2WEpG	UClapQBGYNOoLYmCct6e3B5Q
+158	Heartbreaker	Ray Charles	Yes Indeed!	INDIFFERENT	2:55	1n4y6vkCzow	MPREb_Ox9CvuuUypI	UClapQBGYNOoLYmCct6e3B5Q
+244	Let The Music Get Down In Your Soul	Rance Allen	Let The Music Get Down In Your Soul	INDIFFERENT	8:44	9bMYYLPTuvo	MPREb_8btO6ptYgVl	UCxHfGwO7hlsrkaX4UZeDC1w
+261	Lying On The Truth (Live)	Rance Allen	Wattstax: The Living Word	INDIFFERENT	3:41	LEfTNHBz2t0	MPREb_Mnk7ymurSwo	UCxHfGwO7hlsrkaX4UZeDC1w
+217	Soul Mate	Ramona Parks	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:02	jSHVQmGZ7rg	MPREb_aKQBOtnUTpc	UCPS0xNKyWRPnTmmWGYkgjGg
+197	One More Hurt	Phil Flowers	Soul Legends	INDIFFERENT	2:41	PEE1xF3wTrI	MPREb_OdQiP3cLaLt	UCzKl7F8nT4MS5IcRZRI2PSw
+211	Little Devil	Phil Flowers	The Otis Rene Story	INDIFFERENT	2:13	Kot3gQMsF9Q	MPREb_wcVFqx9GRW6	UCzKl7F8nT4MS5IcRZRI2PSw
 2	When a Man Loves a Woman (Mono)	Percy Sledge	When A Man Loves A Woman (Mono)	INDIFFERENT	2:54	dsQriJbxYBU	MPREb_2XaV4gPBGFq	UC5M-4duAPtRBjTCUxo_jxtQ
-97	Sudden Stop	Percy Sledge	Take Time to Know Her	INDIFFERENT	2:49	4U-718Q1mZk	MPREb_C8Od88RqfF2	UC5M-4duAPtRBjTCUxo_jxtQ
-115	Baby, Baby, Baby	Percy Sledge	Atlantic Unearthed: Soul Brothers	INDIFFERENT	3:09	PU1tApg7_yM	MPREb_dz2xBbtJZiw	UC5M-4duAPtRBjTCUxo_jxtQ
-138	Fa-Fa-Fa-Fa-Fa (Sad Song)	Otis Redding	Complete & Unbelievable: The Otis Redding Dictionary of Soul	INDIFFERENT	2:47	HUI_SBS6-Uk	MPREb_u3capuwOnaC	UCqgDLm2XV81s2IdoF4Skgbg
-248	Love Man	Otis Redding	Love Man	INDIFFERENT	2:20	8y7sUJ34HaM	MPREb_HgNifZ7uVzn	UCqgDLm2XV81s2IdoF4Skgbg
-154	I Die A Little Each Day	Otis Clay	Trying To Live My Life Without You	INDIFFERENT	2:45	R4j7Q4OsHP8	MPREb_cDPbEhgiGja	UCyIbUf7IsqMnEhvrbqbUwRg
-174	Baby Jane	Otis Clay	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:21	NZdm7LcayVA	MPREb_5V84aiei9iR	
-189	Got To Find A Way	Otis Clay	Windy City Soul	INDIFFERENT	2:35	PBHr_3aNgOg	MPREb_cdbkhbL5Gqt	UCyIbUf7IsqMnEhvrbqbUwRg
-164	Here Today And Gone Tomorrow	Ohio Players	Sweet Foxy Lady	INDIFFERENT	3:33	CnkyujyohEY	MPREb_KwXdIKkNn2P	UCOJhJ8Oyf5FD5brohb_g1fA
-55	A Nickel And A Nail (Single Version)	O.V. Wright	8 Men 4 Women	INDIFFERENT	3:41	VXNIwvmrjZc	MPREb_e4PcPuWzLHc	UCfpbEgwtmKzFFPsLM8d6PHw
-80	Born All Over	O.V. Wright	The Soul Of O.V. Wright	INDIFFERENT	3:20	0scPTvlBOQM	MPREb_E5FUuetIVdf	UCfpbEgwtmKzFFPsLM8d6PHw
-196	Mojo Man	Nelson Sanders	Old School Soul Masters	INDIFFERENT	2:11	VXkLmFfT5Hw	MPREb_PSZULXRoCMP	
-216	This Love Is Here To Stay	Nelson Sanders	Old School Soul Masters	INDIFFERENT	2:47	wQYP4FlvmY0	MPREb_PSZULXRoCMP	
-75	I Had A Talk With My Man	Mitty Collier	Talking With Her Man: The Chess Singles 1961-1968	INDIFFERENT	3:41	BRxzWfkiaSk	MPREb_YiofTMmc6Kr	UCxUxhozJzZOr4h97QsCjbOg
-215	This Ain't The Way	Melvin Davis	Detroit Soul Ambassador	INDIFFERENT	2:52	xWre-bGruo8	MPREb_nHGZUfhj0H5	UCV9XNIrUURqaA9NTB3-QaVg
-92	Dear Lover (Single Version)	Mary Wells	Two Sides Of Mary Wells	INDIFFERENT	2:15	Nl9zDHiUsJU	MPREb_CqSSvfBGMDP	UCuEa7OeWhqbdPAseZmH4jYg
-114	Hands off My Baby (Remastered Version)	Mary Wells	Atlantic Unearthed: Soul Sisters	INDIFFERENT	2:30	0khLsyyJtDU	MPREb_U30yGaA0TNV	UCuEa7OeWhqbdPAseZmH4jYg
-17	Ain't No Mountain High Enough	Marvin Gaye	The Love Songs Of Motown	INDIFFERENT	2:27	vA9-3mLVGTY	MPREb_JlVcQfGuarH	UCpMMYJB5GJAYSJr3QpxnHEg
-145	This Love Starved Heart Of Mine (It's Killing Me) (1994 Love Starved Heart Version (Mono))	Marvin Gaye	Lost and Found: Love Starved Heart [Expanded Edition]	INDIFFERENT	2:40	lqKR_o2pIcA	MPREb_a2vyPc0fUpy	UCpMMYJB5GJAYSJr3QpxnHEg
-20	Dancing In The Street (Stereo)	Martha Reeves & The Vandellas	Cooley High	INDIFFERENT	2:44	3arKnw2fpr4	MPREb_Sz5UL9iCFsW	UCuhny_QztUZ3-ayAcOaJzZg
-160	Tainted Love	Martha Reeves	Tainted Love	INDIFFERENT	4:06	8aar44FjxM0	MPREb_Gg8bbGk8G7m	UCuhny_QztUZ3-ayAcOaJzZg
-22	Woman Of The Ghetto	Marlena Shaw	The Spice Of Life	INDIFFERENT	6:02	WaQTwVPvCAU	MPREb_EsPrF3B5a0K	UCeqbGfZMGFL-qg8_QSxnr_g
-151	Who Knows	Marion Black	Weeds (Music from the Original Series)	INDIFFERENT	2:18	wz_K7LbV5qM	MPREb_TKjwvi5P9xr	UCfkk-VU7dtj4K3fV_zjnMOg
-60	Um, Um, Um, Um, Um, Um	Major Lance	The Very Best Of Major Lance	INDIFFERENT	2:19	u1ZLKNIvApg	MPREb_kW0hFJ6Vx7h	UCgX-niftT3Y5SOqyZw87SSQ
-101	The Monkey Time	Major Lance	The Very Best Of Major Lance	INDIFFERENT	2:46	K5xow3fmD9U	MPREb_kW0hFJ6Vx7h	UCgX-niftT3Y5SOqyZw87SSQ
-65	Love Is A Hurtin' Thing	Lou Rawls	Legendary Lou Rawls	INDIFFERENT	2:15	BTvrd8038mY	MPREb_n1Fq2Q86mon	UCvmhRo4Bg1TCuSlONNP5gsg
-195	Hot Butter 'N All (Pt. I)	Lou Courtney	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:56	2C6QcZiyBuk	MPREb_5V84aiei9iR	UCA8lYXAc87dRcJqLb20tECA
-49	Stay with Me	Lorraine Ellison	Heart and Soul	INDIFFERENT	3:29	kMSYhBkjXtM	MPREb_jbU4Kh0z6dT	UCZnsO3irtUIjaLt4daDIeAw
-202	You Can't Go	Lonnie Lester	The Story of	INDIFFERENT	2:21	Fm8SC3Fb7dw	MPREb_7TepMbiGWd3	UCItU273OCtx5iD3MoBVuw6A
-48	Grits Ain't Groceries (All Around The World)	Little Milton	Rockin' The Blues	INDIFFERENT	2:41	BhIUlT3Hy74	MPREb_DTha5v1d0wx	UC40gDvJay7RAYNRU8enSF5Q
-264	That's What Love Will Make You Do	Little Milton	The Very Best Of Little Milton	INDIFFERENT	3:56	M3khN04bpRI	MPREb_6pG1yDyv2kj	UC40gDvJay7RAYNRU8enSF5Q
-274	Lovin' Stick	Little Milton	Tin Pan Alley	INDIFFERENT	2:50	u9HtQUq2wTw	MPREb_GR2r9oVhjrt	UC40gDvJay7RAYNRU8enSF5Q
-282	I'm Living Off The Love You Give	Little Milton	Tin Pan Alley	INDIFFERENT	2:49	GeXkqiRqw2U	MPREb_GR2r9oVhjrt	UC40gDvJay7RAYNRU8enSF5Q
-105	I'm the Lover Man	Little Jerry Williams	Little Jerry Williams Anthology (1954-1969)	INDIFFERENT	2:36	KtlO5o1yoGc	MPREb_yh5pq6PFfmN	UC_b0qOivHXQzFS3kuHXj0aQ
-15	Hypnotized	Linda Jones	Hypnotized	INDIFFERENT	2:41	tVXdOdTQn_A	MPREb_Z9sS2hRKxqk	UCKzf-R1rbH3ELQzugmH6UDA
-130	'Cause I Love You	Lenny Williams	Spark Of Love (Expanded Edition)	INDIFFERENT	7:10	S_Zn7Cqe6ZM	MPREb_Kp5ErOzfzjM	UCPwA30Sq0LFrYiFOB4lbetQ
-77	Workin' In A Coal Mine	Lee Dorsey	Can You Hear Me	INDIFFERENT	2:54	jwLX30tZWU8	MPREb_ZcE20h0Z2H2	UCvvFZeOsA5i2uvtaYIaqN8A
-83	Love Lots Of Lovin (feat. Betty Harris)	Lee Dorsey	Freedom For The Funk	INDIFFERENT	3:01	qa4wLp0L51I	MPREb_ghNLRsk0MMV	UCvvFZeOsA5i2uvtaYIaqN8A
-119	Holy Cow	Lee Dorsey	The New Lee Dorsey	INDIFFERENT	2:31	41uIdfHAIcQ	MPREb_7p7R0NKNc2J	UCvvFZeOsA5i2uvtaYIaqN8A
-197	Little Bag Of Tricks	Lattimore Brown	19 Best Of Lattimore	INDIFFERENT	2:29	tOs_eQ2oZj4	MPREb_YMMQuI68t5y	UCUS4Jpu9IthvYQ3EOiIsZqw
-203	Boo Ga Loo Sue	Lattimore Brown	19 Best Of Lattimore	INDIFFERENT	2:23	dHmk3u5nMzk	MPREb_YMMQuI68t5y	UCUS4Jpu9IthvYQ3EOiIsZqw
-57	Memphis Soul Stew	King Curtis	King Size Soul	INDIFFERENT	3:00	emyHZTzFgmc	MPREb_MPza0TYJ7CK	UCLhKrL5_EzQnSe0-MqAQ_rg
-170	The Boo Boo Song	King Coleman	It's Dance Time!	INDIFFERENT	3:07	WDd24HrHCy0	MPREb_ZDFG4u3A0g3	UCApo7E1uc8Ct4VRriLNegGw
-41	Take Me In Your Arms (Rock Me A Little While) (Single Version)	Kim Weston	Every Great Motown Song - The First 25 Years Vol. 1:The 1960's	INDIFFERENT	2:58	wnweYWCXEGE	MPREb_83yNbsejXGr	UC8322NlFrNf3riVoMygIaWw
-188	Shake It Baby	Junior Wells	It's My Life Baby	INDIFFERENT	3:39	pNFfQK-IXzE	MPREb_SvcNiWELsib	UCQrhthLJSPwrIkjm5N-UPAQ
+93	Sudden Stop	Percy Sledge	Take Time to Know Her	INDIFFERENT	2:49	4U-718Q1mZk	MPREb_C8Od88RqfF2	UC5M-4duAPtRBjTCUxo_jxtQ
+111	Baby, Baby, Baby	Percy Sledge	Atlantic Unearthed: Soul Brothers	INDIFFERENT	3:09	PU1tApg7_yM	MPREb_dz2xBbtJZiw	UC5M-4duAPtRBjTCUxo_jxtQ
+132	Fa-Fa-Fa-Fa-Fa (Sad Song)	Otis Redding	Complete & Unbelievable: The Otis Redding Dictionary of Soul	INDIFFERENT	2:47	HUI_SBS6-Uk	MPREb_u3capuwOnaC	UCqgDLm2XV81s2IdoF4Skgbg
+234	Love Man	Otis Redding	Love Man	INDIFFERENT	2:20	8y7sUJ34HaM	MPREb_HgNifZ7uVzn	UCqgDLm2XV81s2IdoF4Skgbg
+146	I Die A Little Each Day	Otis Clay	Trying To Live My Life Without You	INDIFFERENT	2:45	R4j7Q4OsHP8	MPREb_cDPbEhgiGja	UCyIbUf7IsqMnEhvrbqbUwRg
+165	Baby Jane	Otis Clay	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:21	NZdm7LcayVA	MPREb_5V84aiei9iR	
+180	Got To Find A Way	Otis Clay	Windy City Soul	INDIFFERENT	2:35	PBHr_3aNgOg	MPREb_cdbkhbL5Gqt	UCyIbUf7IsqMnEhvrbqbUwRg
+156	Here Today And Gone Tomorrow	Ohio Players	Sweet Foxy Lady	INDIFFERENT	3:33	CnkyujyohEY	MPREb_KwXdIKkNn2P	UCOJhJ8Oyf5FD5brohb_g1fA
+53	A Nickel And A Nail (Single Version)	O.V. Wright	8 Men 4 Women	INDIFFERENT	3:41	VXNIwvmrjZc	MPREb_e4PcPuWzLHc	UCfpbEgwtmKzFFPsLM8d6PHw
+77	Born All Over	O.V. Wright	The Soul Of O.V. Wright	INDIFFERENT	3:20	0scPTvlBOQM	MPREb_E5FUuetIVdf	UCfpbEgwtmKzFFPsLM8d6PHw
+187	Mojo Man	Nelson Sanders	Old School Soul Masters	INDIFFERENT	2:11	VXkLmFfT5Hw	MPREb_PSZULXRoCMP	
+207	This Love Is Here To Stay	Nelson Sanders	Old School Soul Masters	INDIFFERENT	2:47	wQYP4FlvmY0	MPREb_PSZULXRoCMP	
+72	I Had A Talk With My Man	Mitty Collier	Talking With Her Man: The Chess Singles 1961-1968	INDIFFERENT	3:41	BRxzWfkiaSk	MPREb_YiofTMmc6Kr	UCxUxhozJzZOr4h97QsCjbOg
+206	This Ain't The Way	Melvin Davis	Detroit Soul Ambassador	INDIFFERENT	2:52	xWre-bGruo8	MPREb_nHGZUfhj0H5	UCV9XNIrUURqaA9NTB3-QaVg
+88	Dear Lover (Single Version)	Mary Wells	Two Sides Of Mary Wells	INDIFFERENT	2:15	Nl9zDHiUsJU	MPREb_CqSSvfBGMDP	UCuEa7OeWhqbdPAseZmH4jYg
+110	Hands off My Baby (Remastered Version)	Mary Wells	Atlantic Unearthed: Soul Sisters	INDIFFERENT	2:30	0khLsyyJtDU	MPREb_U30yGaA0TNV	UCuEa7OeWhqbdPAseZmH4jYg
+16	Ain't No Mountain High Enough	Marvin Gaye	The Love Songs Of Motown	INDIFFERENT	2:27	vA9-3mLVGTY	MPREb_JlVcQfGuarH	UCpMMYJB5GJAYSJr3QpxnHEg
+139	This Love Starved Heart Of Mine (It's Killing Me) (1994 Love Starved Heart Version (Mono))	Marvin Gaye	Lost and Found: Love Starved Heart [Expanded Edition]	INDIFFERENT	2:40	lqKR_o2pIcA	MPREb_a2vyPc0fUpy	UCpMMYJB5GJAYSJr3QpxnHEg
+19	Dancing In The Street (Stereo)	Martha Reeves & The Vandellas	Cooley High	INDIFFERENT	2:44	3arKnw2fpr4	MPREb_Sz5UL9iCFsW	UCuhny_QztUZ3-ayAcOaJzZg
+152	Tainted Love	Martha Reeves	Tainted Love	INDIFFERENT	4:06	8aar44FjxM0	MPREb_Gg8bbGk8G7m	UCuhny_QztUZ3-ayAcOaJzZg
+21	Woman Of The Ghetto	Marlena Shaw	The Spice Of Life	INDIFFERENT	6:02	WaQTwVPvCAU	MPREb_EsPrF3B5a0K	UCeqbGfZMGFL-qg8_QSxnr_g
+143	Who Knows	Marion Black	Weeds (Music from the Original Series)	INDIFFERENT	2:18	wz_K7LbV5qM	MPREb_TKjwvi5P9xr	UCfkk-VU7dtj4K3fV_zjnMOg
+58	Um, Um, Um, Um, Um, Um	Major Lance	The Very Best Of Major Lance	INDIFFERENT	2:19	u1ZLKNIvApg	MPREb_kW0hFJ6Vx7h	UCgX-niftT3Y5SOqyZw87SSQ
+97	The Monkey Time	Major Lance	The Very Best Of Major Lance	INDIFFERENT	2:46	K5xow3fmD9U	MPREb_kW0hFJ6Vx7h	UCgX-niftT3Y5SOqyZw87SSQ
+62	Love Is A Hurtin' Thing	Lou Rawls	Legendary Lou Rawls	INDIFFERENT	2:15	BTvrd8038mY	MPREb_n1Fq2Q86mon	UCvmhRo4Bg1TCuSlONNP5gsg
+186	Hot Butter 'N All (Pt. I)	Lou Courtney	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:56	2C6QcZiyBuk	MPREb_5V84aiei9iR	UCA8lYXAc87dRcJqLb20tECA
+47	Stay with Me	Lorraine Ellison	Heart and Soul	INDIFFERENT	3:29	kMSYhBkjXtM	MPREb_jbU4Kh0z6dT	UCZnsO3irtUIjaLt4daDIeAw
+193	You Can't Go	Lonnie Lester	The Story of	INDIFFERENT	2:21	Fm8SC3Fb7dw	MPREb_7TepMbiGWd3	UCItU273OCtx5iD3MoBVuw6A
+46	Grits Ain't Groceries (All Around The World)	Little Milton	Rockin' The Blues	INDIFFERENT	2:41	BhIUlT3Hy74	MPREb_DTha5v1d0wx	UC40gDvJay7RAYNRU8enSF5Q
+245	That's What Love Will Make You Do	Little Milton	The Very Best Of Little Milton	INDIFFERENT	3:56	M3khN04bpRI	MPREb_6pG1yDyv2kj	UC40gDvJay7RAYNRU8enSF5Q
+255	Lovin' Stick	Little Milton	Tin Pan Alley	INDIFFERENT	2:50	u9HtQUq2wTw	MPREb_GR2r9oVhjrt	UC40gDvJay7RAYNRU8enSF5Q
+263	I'm Living Off The Love You Give	Little Milton	Tin Pan Alley	INDIFFERENT	2:49	GeXkqiRqw2U	MPREb_GR2r9oVhjrt	UC40gDvJay7RAYNRU8enSF5Q
+101	I'm the Lover Man	Little Jerry Williams	Little Jerry Williams Anthology (1954-1969)	INDIFFERENT	2:36	KtlO5o1yoGc	MPREb_yh5pq6PFfmN	UC_b0qOivHXQzFS3kuHXj0aQ
+14	Hypnotized	Linda Jones	Hypnotized	INDIFFERENT	2:41	tVXdOdTQn_A	MPREb_Z9sS2hRKxqk	UCKzf-R1rbH3ELQzugmH6UDA
+125	'Cause I Love You	Lenny Williams	Spark Of Love (Expanded Edition)	INDIFFERENT	7:10	S_Zn7Cqe6ZM	MPREb_Kp5ErOzfzjM	UCPwA30Sq0LFrYiFOB4lbetQ
+74	Workin' In A Coal Mine	Lee Dorsey	Can You Hear Me	INDIFFERENT	2:54	jwLX30tZWU8	MPREb_ZcE20h0Z2H2	UCvvFZeOsA5i2uvtaYIaqN8A
+80	Love Lots Of Lovin (feat. Betty Harris)	Lee Dorsey	Freedom For The Funk	INDIFFERENT	3:01	qa4wLp0L51I	MPREb_ghNLRsk0MMV	UCvvFZeOsA5i2uvtaYIaqN8A
+115	Holy Cow	Lee Dorsey	The New Lee Dorsey	INDIFFERENT	2:31	41uIdfHAIcQ	MPREb_7p7R0NKNc2J	UCvvFZeOsA5i2uvtaYIaqN8A
+188	Little Bag Of Tricks	Lattimore Brown	19 Best Of Lattimore	INDIFFERENT	2:29	tOs_eQ2oZj4	MPREb_YMMQuI68t5y	UCUS4Jpu9IthvYQ3EOiIsZqw
+194	Boo Ga Loo Sue	Lattimore Brown	19 Best Of Lattimore	INDIFFERENT	2:23	dHmk3u5nMzk	MPREb_YMMQuI68t5y	UCUS4Jpu9IthvYQ3EOiIsZqw
+55	Memphis Soul Stew	King Curtis	King Size Soul	INDIFFERENT	3:00	emyHZTzFgmc	MPREb_MPza0TYJ7CK	UCLhKrL5_EzQnSe0-MqAQ_rg
+162	The Boo Boo Song	King Coleman	It's Dance Time!	INDIFFERENT	3:07	WDd24HrHCy0	MPREb_ZDFG4u3A0g3	UCApo7E1uc8Ct4VRriLNegGw
+39	Take Me In Your Arms (Rock Me A Little While) (Single Version)	Kim Weston	Every Great Motown Song - The First 25 Years Vol. 1:The 1960's	INDIFFERENT	2:58	wnweYWCXEGE	MPREb_83yNbsejXGr	UC8322NlFrNf3riVoMygIaWw
+179	Shake It Baby	Junior Wells	It's My Life Baby	INDIFFERENT	3:39	pNFfQK-IXzE	MPREb_SvcNiWELsib	UCQrhthLJSPwrIkjm5N-UPAQ
 7	Shotgun	Jr. Walker & The All Stars	Shotgun	INDIFFERENT	2:56	V5pnqjZXbdc	MPREb_lUCaCVSGuIk	UCVu7jMnzEpxZ818J55YucKg
-182	I Can't Get Enough (Of Your Love)	Johnny Sayles	Soul Legend	INDIFFERENT	2:36	QKO78j-GDb4	MPREb_MXPRasQ7VMp	UCN-ahFoKzkxfrBX2PYmLdFg
-204	Tell Me Where I Stand	Johnny Sayles	Johnny Sayles' Don't Turn Your Back On Me	INDIFFERENT	3:04	VOCupIBCoLk	MPREb_0Oxiogp5Fsn	UCN-ahFoKzkxfrBX2PYmLdFg
-169	It's Gonna Be Good	Johnny Jones and The King Casuals	Dr. Boogie Presents Wasa Wasa (Fabulous Rhythm'n' Blues Shakers on the Dancefloor 1952 - 1968)	INDIFFERENT	1:48	NS00_sJm1-4	MPREb_bB3Lwz8t67i	
-262	Who's Making Love	Johnnie Taylor	Soul Explosion	INDIFFERENT	2:50	xWpr0DdF3GE	MPREb_9SgLsiSkusI	UCFYmOJARQI7_5-Txl1s9C1w
-109	(You Keep Me) Hangin' On	Joe Simon	I Just Can't Stop Dancing	INDIFFERENT	2:59	eqT1csxjojY	MPREb_D1Qpx8AcD75	UCtklH44hIT1tWboTTF_Aaow
-124	Chokin' Kind	Joe Simon	70s Soul Masters	INDIFFERENT	2:44	_Kj98qOjKwA	MPREb_ibOevTRWUZf	UCtklH44hIT1tWboTTF_Aaow
-185	Just Like Yesterday	Joe Simon	Mr Shout	INDIFFERENT	2:32	l3MzF5rRKdw	MPREb_Haf3uOudIiM	UCtklH44hIT1tWboTTF_Aaow
-107	I Stop By Heaven	Jerry Butler	Essential Jerry Butler	INDIFFERENT	3:22	gWgivFsBKK8	MPREb_YjfF0lKCWH3	UCAbK3ceQj-rsfPv7qvYCpqg
-218	A Big Blue World	Jeb Stuart	Fernwood Rhythm 'N' Blues From Memphis	INDIFFERENT	2:45	aqgj-fj46kM	MPREb_2lKOBAOoR1m	UCxrcjG6B1vZSLE8R7luZRRA
-159	Love Attack	James Carr	The Best Of	INDIFFERENT	2:53	4c3e892T7dw	MPREb_wTkGVLcws01	UC2Cee8mc_pHFWaxQJKZYFAQ
-175	A Losing Game	James Carr	Goldwax Northern Soul	INDIFFERENT	2:04	ZC0E1YSmjT8	MPREb_UVjEyGAaRgQ	UC2Cee8mc_pHFWaxQJKZYFAQ
-108	Please, Please, Please (Single Version)	James Brown & The Famous Flames	The Singles Vol. 1: 1956-1960 The Federal Years	INDIFFERENT	2:44	Kp4ZCFgVu_I	MPREb_qDvpaDdq1C0	UCLSKiNGc_qBWJJ-m5y3jDEw
-242	Kansas City	James Brown & The Famous Flames	Cold Sweat	INDIFFERENT	3:22	ux1yb6ULpcQ	MPREb_pL1VYNcjMkp	UCLSKiNGc_qBWJJ-m5y3jDEw
-24	Say It Loud - I'm Black And I'm Proud (Pts.1 & 2)	James Brown	Soulful Christmas	INDIFFERENT	4:46	x5Fr87C8E-k	MPREb_N2RnYOcK6gF	UCLSKiNGc_qBWJJ-m5y3jDEw
-43	I'm A Greedy Man (Pt. 1)	James Brown	There It Is	INDIFFERENT	7:07	_LqGjG29-ag	MPREb_TIOlAZI0Jjg	UCLSKiNGc_qBWJJ-m5y3jDEw
-238	Try Me (Live At The Apollo Theater, 1962)	James Brown	Live At The Apollo (Expanded Edition)	INDIFFERENT	2:27	i1qRvukOMUA	MPREb_anWjpLadJsn	UCLSKiNGc_qBWJJ-m5y3jDEw
+173	I Can't Get Enough (Of Your Love)	Johnny Sayles	Soul Legend	INDIFFERENT	2:36	QKO78j-GDb4	MPREb_MXPRasQ7VMp	UCN-ahFoKzkxfrBX2PYmLdFg
+195	Tell Me Where I Stand	Johnny Sayles	Johnny Sayles' Don't Turn Your Back On Me	INDIFFERENT	3:04	VOCupIBCoLk	MPREb_0Oxiogp5Fsn	UCN-ahFoKzkxfrBX2PYmLdFg
+161	It's Gonna Be Good	Johnny Jones and The King Casuals	Dr. Boogie Presents Wasa Wasa (Fabulous Rhythm'n' Blues Shakers on the Dancefloor 1952 - 1968)	INDIFFERENT	1:48	NS00_sJm1-4	MPREb_bB3Lwz8t67i	
+243	Who's Making Love	Johnnie Taylor	Soul Explosion	INDIFFERENT	2:50	xWpr0DdF3GE	MPREb_9SgLsiSkusI	UCFYmOJARQI7_5-Txl1s9C1w
+105	(You Keep Me) Hangin' On	Joe Simon	I Just Can't Stop Dancing	INDIFFERENT	2:59	eqT1csxjojY	MPREb_D1Qpx8AcD75	UCtklH44hIT1tWboTTF_Aaow
+120	Chokin' Kind	Joe Simon	70s Soul Masters	INDIFFERENT	2:44	_Kj98qOjKwA	MPREb_ibOevTRWUZf	UCtklH44hIT1tWboTTF_Aaow
+176	Just Like Yesterday	Joe Simon	Mr Shout	INDIFFERENT	2:32	l3MzF5rRKdw	MPREb_Haf3uOudIiM	UCtklH44hIT1tWboTTF_Aaow
+103	I Stop By Heaven	Jerry Butler	Essential Jerry Butler	INDIFFERENT	3:22	gWgivFsBKK8	MPREb_YjfF0lKCWH3	UCAbK3ceQj-rsfPv7qvYCpqg
+209	A Big Blue World	Jeb Stuart	Fernwood Rhythm 'N' Blues From Memphis	INDIFFERENT	2:45	aqgj-fj46kM	MPREb_2lKOBAOoR1m	UCxrcjG6B1vZSLE8R7luZRRA
+151	Love Attack	James Carr	The Best Of	INDIFFERENT	2:53	4c3e892T7dw	MPREb_wTkGVLcws01	UC2Cee8mc_pHFWaxQJKZYFAQ
+166	A Losing Game	James Carr	Goldwax Northern Soul	INDIFFERENT	2:04	ZC0E1YSmjT8	MPREb_UVjEyGAaRgQ	UC2Cee8mc_pHFWaxQJKZYFAQ
+104	Please, Please, Please (Single Version)	James Brown & The Famous Flames	The Singles Vol. 1: 1956-1960 The Federal Years	INDIFFERENT	2:44	Kp4ZCFgVu_I	MPREb_qDvpaDdq1C0	UCLSKiNGc_qBWJJ-m5y3jDEw
+230	Kansas City	James Brown & The Famous Flames	Cold Sweat	INDIFFERENT	3:22	ux1yb6ULpcQ	MPREb_pL1VYNcjMkp	UCLSKiNGc_qBWJJ-m5y3jDEw
+23	Say It Loud - I'm Black And I'm Proud (Pts.1 & 2)	James Brown	Soulful Christmas	INDIFFERENT	4:46	x5Fr87C8E-k	MPREb_N2RnYOcK6gF	UCLSKiNGc_qBWJJ-m5y3jDEw
+41	I'm A Greedy Man (Pt. 1)	James Brown	There It Is	INDIFFERENT	7:07	_LqGjG29-ag	MPREb_TIOlAZI0Jjg	UCLSKiNGc_qBWJJ-m5y3jDEw
+227	Try Me (Live At The Apollo Theater, 1962)	James Brown	Live At The Apollo (Expanded Edition)	INDIFFERENT	2:27	i1qRvukOMUA	MPREb_anWjpLadJsn	UCLSKiNGc_qBWJJ-m5y3jDEw
 1	Lonely Teardrops	Jackie Wilson	20 Greatest Hits	INDIFFERENT	2:43	J9vG5BhOKaY	MPREb_zy3oMycOUCX	UCB-EMgYSOjuwe85j1PBZfjA
-141	Doggin' Around	Jackie Wilson	20 Greatest Hits	INDIFFERENT	2:54	5EIaN0Wr4Zc	MPREb_zy3oMycOUCX	UCB-EMgYSOjuwe85j1PBZfjA
-230	(Your Love Keeps Lifting Me) Higher & Higher	Jackie Wilson	Original Brunswick Hit Recordings	INDIFFERENT	3:03	qNQoxQwNeVk	MPREb_NosHyOyd0TH	UCB-EMgYSOjuwe85j1PBZfjA
-82	Any Other Way	Jackie Shane	"""Any Other Way"" b/w ""Sticks and Stones"""	INDIFFERENT	2:34	5ACH9Nq5lqo	MPREb_euMBg2LccKl	UCcxL-whnoTLyFvexFiFhM4w
-19	Selfish One	Jackie Ross	Chess Soul: A Decade Of Chicago’s Finest	INDIFFERENT	3:21	hb3A9rrC0p8	MPREb_Jr7kRgFmVyb	UCHrKcPPfNOtSpNVnd-U_Bmg
-111	Take Me For A Little While	Jackie Ross	Chess Soul: A Decade Of Chicago’s Finest	INDIFFERENT	2:35	aUVzaY3nybc	MPREb_Jr7kRgFmVyb	UCHrKcPPfNOtSpNVnd-U_Bmg
-51	The Love You Save (May Be Your Own)	JOE TEX	The Very Best of, Volume 1	INDIFFERENT	3:00	a0yKyppOq6o	MPREb_yK59CMU7gVg	UCz3M1bRDfweNCLekCjbcCqg
-72	Show Me	JOE TEX	The Very Best of, Volume 1	INDIFFERENT	2:59	8ks9RbpKYrk	MPREb_yK59CMU7gVg	UCz3M1bRDfweNCLekCjbcCqg
-147	The Love You Save (May Be Your Own)	JOE TEX	The Very Best of, Volume 1	INDIFFERENT	3:00	a0yKyppOq6o	MPREb_yK59CMU7gVg	UCz3M1bRDfweNCLekCjbcCqg
-184	Monkey	J.C. Davis	Rock 'N' Roll Jungle	INDIFFERENT	2:16	HeJCpOX88a4	MPREb_iDTxdm3f7qq	UCmI7uJA7_24O9-nJDRMtKig
-249	Theme From Shaft (Album - Remastered)	Isaac Hayes	Shaft (Deluxe Edition)	INDIFFERENT	4:39	kxuiH6fVXAM	MPREb_YNsWpuLU7Lr	UC8CgmVlKFWdFr3e3JH-QnVQ
-267	Good Love 6-9-9-6-9	Isaac Hayes	Black Moses	INDIFFERENT	5:17	C9OsfRaP-8Y	MPREb_U6HTEQWhsSf	UC8CgmVlKFWdFr3e3JH-QnVQ
-78	Wish Someone Would Care	Irma Thomas	This Is On My Side: The Best Of Irma Thomas (Vol.1)	INDIFFERENT	2:30	NElwqDrIJFc	MPREb_wxvzhTXLFho	UCjI3wNQ7pDu-IlhCKZFrYVw
-123	Full Time Woman (Single Version)	Irma Thomas	Atlantic Unearthed: Soul Sisters	INDIFFERENT	3:06	YnoNPl9b9e4	MPREb_U30yGaA0TNV	UCjI3wNQ7pDu-IlhCKZFrYVw
-158	Cry On	Irma Thomas	Irma Thomas Collection: 1961-1966	INDIFFERENT	2:34	kbF5L_Wl0V8	MPREb_0uQnehABtgw	UCjI3wNQ7pDu-IlhCKZFrYVw
-104	Somebody Somwhere Needs You	Ike & Tina Turner	Ike & Tina Turner, Vol. 4	INDIFFERENT	2:33	kqZwtjmQhuw	MPREb_jQeCDfMN0MQ	UCuv0I8GmD4a4pniZRdpFOxg
-142	I Miss You, Pt. 1 (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes	I Miss You (Expanded Edition)	INDIFFERENT	3:19	4fIeEVHhGyQ	MPREb_Emcn44SDZkb	UCNDC_i6KiHbdZn1pTasRN4A
-208	Things Ain't What They Used To Be	Harold Burrage	Chicago Soul Cellar	INDIFFERENT	2:56	UAUFrlOBFtg	MPREb_4Yh54bxON3N	UCJCEVJ0b55pYria_eR_wTuA
-214	You Make Me So Happy	Harold Burrage	Chicago Soul Cellar	INDIFFERENT	2:51	ka9hs_rKbXw	MPREb_4Yh54bxON3N	UCJCEVJ0b55pYria_eR_wTuA
-178	Funky Pete Pt. 1	Guitar Ray	Feeling Nice	INDIFFERENT	2:47	EGPmC05zjh4	MPREb_rpaG6v6sR0M	
-134	Neither One Of Us (Wants To Be The First To Say Goodbye)	Gladys Knight & The Pips	The Best Of Gladys Knight & The Pips	INDIFFERENT	4:22	op8lA9dd2SE	MPREb_F8RFpnPSeGd	UCdUbVlz8a3JNjEHFxPEwSew
-152	Didn't You Know (You'd Have To Cry Sometime)	Gladys Knight & The Pips	Nitty Gritty	INDIFFERENT	3:36	qPN5QAeWd4U	MPREb_dkFX8MSl3D3	UCdUbVlz8a3JNjEHFxPEwSew
-161	Letter Full of Tears	Gladys Knight & The Pips	In The Beginning (Expanded Edition)	INDIFFERENT	2:50	V_FgDAL0zzU	MPREb_gJhMOoBh42C	UCdUbVlz8a3JNjEHFxPEwSew
-190	Empty Arms And Bitter Tears	Gerri Taylor	Jazz Beat, Vol.2 (Live)	INDIFFERENT	2:40	aDE99GtSjsA	MPREb_fERiZAnCRZ9	UCQxI6jk6mlTBgc5sGX7RqKA
-93	Cryin' In The Streets (Part 1)	George Perkins and The Silver Stars	Inspirational Classics: Amazing Grace	INDIFFERENT	3:18	JNhVm1yGxS8	MPREb_JxgvamZEpQo	UCXkXUq419Rs45Xmv8ia8evQ
-44	Rainbow '65	Gene Chandler	Soul Master	INDIFFERENT	2:45	Lgf1zlWFpC0	MPREb_CIXZLpcUsN0	UCKKvx-rNqIcXunwfPLfRclg
-98	(Gonna Be) Good Times	Gene Chandler	The Girl Don't Care	INDIFFERENT	2:25	isncXUa2948	MPREb_w8TDvuYekAZ	UCKKvx-rNqIcXunwfPLfRclg
-212	Frankenstien Walk	"Gene ""Bowlegs"" Miller"	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:28	oKUWRA7KWOg	MPREb_5V84aiei9iR	UCoIx0Lu52X6zQrzwC0IhDow
-28	Cry Baby	Garnet Mimms & The Enchanters	Cry Baby	INDIFFERENT	3:29	dCXtKgG1rzA	MPREb_G9tKBYkHGhX	UCKV0Un5ApazfhypYgI-Z3Qg
-84	I'll Take Good Care Of You	Garnet Mimms	Warm And Soulful	INDIFFERENT	3:20	6RtPdRb9aBA	MPREb_ZEaPtLxRPvu	UCKV0Un5ApazfhypYgI-Z3Qg
-148	7-Rooms Of Gloom	Four Tops	Reach Out	INDIFFERENT	2:34	YV-iNKfIwYM	MPREb_vyG31e3Am4z	UCCc9TFYFrV3xpNl5onNtVqA
-53	Rescue Me (Rerecorded Version)	Fontella Bass	The Number 1 Soul Collection	INDIFFERENT	2:47	NX-xPIZhVZo	MPREb_WDLSoWh9TgB	UCxQtcLaBvniVJsiUKYENVhw
-117	Our Father (Which Art in Heaven)	Five Blind Boys	The Greatest R&B Hits of 1950, Vol. 2	INDIFFERENT	2:59	vRiKkraPESM	MPREb_GEli4bTNNBU	UCBc5FEXmj4oD8gUT5Vqv-5Q
-237	Ain’t That a Shame	Fats Domino	Deluxe: Greatest Hits - Fats Domino	INDIFFERENT	2:31	50OF4x1lIbg	MPREb_n1JHPjtCkaW	UCo4FEyMG8_-D-aXK7FrNIcg
-239	I Want To Walk You Home	Fats Domino	They Call Me The Fat Man (The Legendary Imperial Recordings)	INDIFFERENT	2:21	ZpbPCCyPPAo	MPREb_KBquyC62JZf	UCo4FEyMG8_-D-aXK7FrNIcg
-26	Tell Mama	Etta James	Tell Mama	INDIFFERENT	2:24	t_wbyv1TgIQ	MPREb_zqisM59IhFI	UCieyolnCbsWzyEt6wsd7lgQ
-132	All I Could Do Was Cry	Etta James	At Last!	INDIFFERENT	2:58	8sMb7QP78Vw	MPREb_SpgHmaufiRV	UCieyolnCbsWzyEt6wsd7lgQ
-193	Humpback	Eldridge Holmes	His Greatest	INDIFFERENT	1:59	Xz7wyVALG0Q	MPREb_qaMBiQItuPs	UCmLd16Ltx2KRq84Tfgd5Hbw
-211	The Grunt	Eddie Kirk	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:49	6pXR-YoIQI4	MPREb_aKQBOtnUTpc	UCZulqmytPq6QNGXKfRlstgg
-58	Big Bird (Mono)	Eddie Floyd	Stax Profiles: Eddie Floyd	INDIFFERENT	3:01	TkS4jz9bFqI	MPREb_arNBprcdRBz	UCWLQEbqa5zFzVGGeF6ZiOgg
-257	Big Bird (Mono)	Eddie Floyd	Stax Profiles: Eddie Floyd	INDIFFERENT	3:01	TkS4jz9bFqI	MPREb_arNBprcdRBz	UCWLQEbqa5zFzVGGeF6ZiOgg
-198	He's About a Mover	Dottie Cambridge	Here's a Song! (You Might Have Missed), Vol. 49: New York Soul 1960's, Pt. 2 Img-925	INDIFFERENT	1:49	Wl8oXt3xTJA	MPREb_sP5LGEMYCWH	UCPvRc6Tww6yHSG6NUwVm4aQ
-32	Just One Look	Doris Troy	Sings Just One Look And Other Memorable Selections	INDIFFERENT	2:32	GI3OYR_XM0w	MPREb_zp9Ai2rEK4t	UCQrC_HNrZaHof5OQM9C-0Yg
-200	My Baby Likes to Boogaloo	Don Gardner	Super Rare Soul, Vol. 1	INDIFFERENT	2:55	UD1b9GRAORs	MPREb_KJCCpbXwcwP	UCL0pVTj2xCn1ZJm3DhSA-UQ
-79	See Saw	Don Covay	The Platinum Collection	INDIFFERENT	3:00	Dnm1ML3fU1U	MPREb_SVuHOcNnFcz	UCsUabTUuX1cfQeAj-e5WEyw
-118	I Never Got Enough of Your Love	Don Covay	The Platinum Collection	INDIFFERENT	2:46	tSS2CaU_2Ss	MPREb_SVuHOcNnFcz	UCsUabTUuX1cfQeAj-e5WEyw
-258	See Saw	Don Covay	The Platinum Collection	INDIFFERENT	3:00	Dnm1ML3fU1U	MPREb_SVuHOcNnFcz	UCsUabTUuX1cfQeAj-e5WEyw
-30	Don't Make Me Over	Dionne Warwick	Presenting Dionne Warwick	INDIFFERENT	2:46	aB9Mm11xIGE	MPREb_PEcT84KhyUJ	UCJFMIGeKL7bGNIz_nkYyeug
-171	Daddy Rollin' Stone	Derek Martin	The Sue Records Story: The Sound Of Soul	INDIFFERENT	2:29	VL0D7YNrjbg	MPREb_K2euJi7oIKX	UC6BiyqCmYhVBoVKflxZixwg
-64	Love Makes The World Go Round (Re-Recording)	Deon Jackson	Sweet Soul Music	INDIFFERENT	2:28	V2t94nly0V8	MPREb_fpwwdzjOWnh	UCNH60QfzOia_-i7NZHh8GYQ
-191	Skate	Dean Parrish	Creative Musicians	INDIFFERENT	5:08	sjRMID8Bxdk	MPREb_gSfDkN1IVF3	
-59	Open the Door to Your Heart	Darrell Banks	Darrell Banks Is Here!	INDIFFERENT	2:38	8t9Y-YNxOy4	MPREb_JaQjgN9PgRG	UCxF1uoLRtz-hLb7kBrhr6Fw
-179	Keep My Woman Home	Danny White	Soul Gems (Digitally Remastered)	INDIFFERENT	2:24	Au2XRgnJBKI	MPREb_jkYYNqzThiQ	UCtIZoBLzhUIno5xtmualJ6g
-210	Miss Fine Miss Fine	Danny White	Natural Soul Brother: The Frisco Recordings	INDIFFERENT	2:21	0gsT3dbB9tg	MPREb_BMGz5Tcb7JQ	UCuEyrXW7-4_-DfDwO1_nPZw
-146	Wednesday Morning Atonement	Curtis Harding	Face Your Fear	INDIFFERENT	4:28	q-M8JdF4kg4	MPREb_Ul164f9HbRm	UCsF28FWfWXQ1sTFCL8SJcOA
-156	Love's Train	Con Funk Shun	Live for Ya Ass	INDIFFERENT	6:17	Zygs5cyNbbY	MPREb_VoqZnkzQh3y	UCtrRS6QwswmaqX2YRtzwvww
+135	Doggin' Around	Jackie Wilson	20 Greatest Hits	INDIFFERENT	2:54	5EIaN0Wr4Zc	MPREb_zy3oMycOUCX	UCB-EMgYSOjuwe85j1PBZfjA
+221	(Your Love Keeps Lifting Me) Higher & Higher	Jackie Wilson	Original Brunswick Hit Recordings	INDIFFERENT	3:03	qNQoxQwNeVk	MPREb_NosHyOyd0TH	UCB-EMgYSOjuwe85j1PBZfjA
+79	Any Other Way	Jackie Shane	"""Any Other Way"" b/w ""Sticks and Stones"""	INDIFFERENT	2:34	5ACH9Nq5lqo	MPREb_euMBg2LccKl	UCcxL-whnoTLyFvexFiFhM4w
+18	Selfish One	Jackie Ross	Chess Soul: A Decade Of Chicago’s Finest	INDIFFERENT	3:21	hb3A9rrC0p8	MPREb_Jr7kRgFmVyb	UCHrKcPPfNOtSpNVnd-U_Bmg
+107	Take Me For A Little While	Jackie Ross	Chess Soul: A Decade Of Chicago’s Finest	INDIFFERENT	2:35	aUVzaY3nybc	MPREb_Jr7kRgFmVyb	UCHrKcPPfNOtSpNVnd-U_Bmg
+49	The Love You Save (May Be Your Own)	JOE TEX	The Very Best of, Volume 1	INDIFFERENT	3:00	a0yKyppOq6o	MPREb_yK59CMU7gVg	UCz3M1bRDfweNCLekCjbcCqg
+69	Show Me	JOE TEX	The Very Best of, Volume 1	INDIFFERENT	2:59	8ks9RbpKYrk	MPREb_yK59CMU7gVg	UCz3M1bRDfweNCLekCjbcCqg
+175	Monkey	J.C. Davis	Rock 'N' Roll Jungle	INDIFFERENT	2:16	HeJCpOX88a4	MPREb_iDTxdm3f7qq	UCmI7uJA7_24O9-nJDRMtKig
+235	Theme From Shaft (Album - Remastered)	Isaac Hayes	Shaft (Deluxe Edition)	INDIFFERENT	4:39	kxuiH6fVXAM	MPREb_YNsWpuLU7Lr	UC8CgmVlKFWdFr3e3JH-QnVQ
+248	Good Love 6-9-9-6-9	Isaac Hayes	Black Moses	INDIFFERENT	5:17	C9OsfRaP-8Y	MPREb_U6HTEQWhsSf	UC8CgmVlKFWdFr3e3JH-QnVQ
+75	Wish Someone Would Care	Irma Thomas	This Is On My Side: The Best Of Irma Thomas (Vol.1)	INDIFFERENT	2:30	NElwqDrIJFc	MPREb_wxvzhTXLFho	UCjI3wNQ7pDu-IlhCKZFrYVw
+119	Full Time Woman (Single Version)	Irma Thomas	Atlantic Unearthed: Soul Sisters	INDIFFERENT	3:06	YnoNPl9b9e4	MPREb_U30yGaA0TNV	UCjI3wNQ7pDu-IlhCKZFrYVw
+150	Cry On	Irma Thomas	Irma Thomas Collection: 1961-1966	INDIFFERENT	2:34	kbF5L_Wl0V8	MPREb_0uQnehABtgw	UCjI3wNQ7pDu-IlhCKZFrYVw
+100	Somebody Somwhere Needs You	Ike & Tina Turner	Ike & Tina Turner, Vol. 4	INDIFFERENT	2:33	kqZwtjmQhuw	MPREb_jQeCDfMN0MQ	UCuv0I8GmD4a4pniZRdpFOxg
+136	I Miss You, Pt. 1 (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes	I Miss You (Expanded Edition)	INDIFFERENT	3:19	4fIeEVHhGyQ	MPREb_Emcn44SDZkb	UCNDC_i6KiHbdZn1pTasRN4A
+199	Things Ain't What They Used To Be	Harold Burrage	Chicago Soul Cellar	INDIFFERENT	2:56	UAUFrlOBFtg	MPREb_4Yh54bxON3N	UCJCEVJ0b55pYria_eR_wTuA
+205	You Make Me So Happy	Harold Burrage	Chicago Soul Cellar	INDIFFERENT	2:51	ka9hs_rKbXw	MPREb_4Yh54bxON3N	UCJCEVJ0b55pYria_eR_wTuA
+169	Funky Pete Pt. 1	Guitar Ray	Feeling Nice	INDIFFERENT	2:47	EGPmC05zjh4	MPREb_rpaG6v6sR0M	
+129	Neither One Of Us (Wants To Be The First To Say Goodbye)	Gladys Knight & The Pips	The Best Of Gladys Knight & The Pips	INDIFFERENT	4:22	op8lA9dd2SE	MPREb_F8RFpnPSeGd	UCdUbVlz8a3JNjEHFxPEwSew
+144	Didn't You Know (You'd Have To Cry Sometime)	Gladys Knight & The Pips	Nitty Gritty	INDIFFERENT	3:36	qPN5QAeWd4U	MPREb_dkFX8MSl3D3	UCdUbVlz8a3JNjEHFxPEwSew
+153	Letter Full of Tears	Gladys Knight & The Pips	In The Beginning (Expanded Edition)	INDIFFERENT	2:50	V_FgDAL0zzU	MPREb_gJhMOoBh42C	UCdUbVlz8a3JNjEHFxPEwSew
+181	Empty Arms And Bitter Tears	Gerri Taylor	Jazz Beat, Vol.2 (Live)	INDIFFERENT	2:40	aDE99GtSjsA	MPREb_fERiZAnCRZ9	UCQxI6jk6mlTBgc5sGX7RqKA
+89	Cryin' In The Streets (Part 1)	George Perkins and The Silver Stars	Inspirational Classics: Amazing Grace	INDIFFERENT	3:18	JNhVm1yGxS8	MPREb_JxgvamZEpQo	UCXkXUq419Rs45Xmv8ia8evQ
+42	Rainbow '65	Gene Chandler	Soul Master	INDIFFERENT	2:45	Lgf1zlWFpC0	MPREb_CIXZLpcUsN0	UCKKvx-rNqIcXunwfPLfRclg
+94	(Gonna Be) Good Times	Gene Chandler	The Girl Don't Care	INDIFFERENT	2:25	isncXUa2948	MPREb_w8TDvuYekAZ	UCKKvx-rNqIcXunwfPLfRclg
+203	Frankenstien Walk	"Gene ""Bowlegs"" Miller"	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:28	oKUWRA7KWOg	MPREb_5V84aiei9iR	UCoIx0Lu52X6zQrzwC0IhDow
+26	Cry Baby	Garnet Mimms & The Enchanters	Cry Baby	INDIFFERENT	3:29	dCXtKgG1rzA	MPREb_G9tKBYkHGhX	UCKV0Un5ApazfhypYgI-Z3Qg
+81	I'll Take Good Care Of You	Garnet Mimms	Warm And Soulful	INDIFFERENT	3:20	6RtPdRb9aBA	MPREb_ZEaPtLxRPvu	UCKV0Un5ApazfhypYgI-Z3Qg
+141	7-Rooms Of Gloom	Four Tops	Reach Out	INDIFFERENT	2:34	YV-iNKfIwYM	MPREb_vyG31e3Am4z	UCCc9TFYFrV3xpNl5onNtVqA
+51	Rescue Me (Rerecorded Version)	Fontella Bass	The Number 1 Soul Collection	INDIFFERENT	2:47	NX-xPIZhVZo	MPREb_WDLSoWh9TgB	UCxQtcLaBvniVJsiUKYENVhw
+113	Our Father (Which Art in Heaven)	Five Blind Boys	The Greatest R&B Hits of 1950, Vol. 2	INDIFFERENT	2:59	vRiKkraPESM	MPREb_GEli4bTNNBU	UCBc5FEXmj4oD8gUT5Vqv-5Q
+226	Ain’t That a Shame	Fats Domino	Deluxe: Greatest Hits - Fats Domino	INDIFFERENT	2:31	50OF4x1lIbg	MPREb_n1JHPjtCkaW	UCo4FEyMG8_-D-aXK7FrNIcg
+228	I Want To Walk You Home	Fats Domino	They Call Me The Fat Man (The Legendary Imperial Recordings)	INDIFFERENT	2:21	ZpbPCCyPPAo	MPREb_KBquyC62JZf	UCo4FEyMG8_-D-aXK7FrNIcg
+24	Tell Mama	Etta James	Tell Mama	INDIFFERENT	2:24	t_wbyv1TgIQ	MPREb_zqisM59IhFI	UCieyolnCbsWzyEt6wsd7lgQ
+127	All I Could Do Was Cry	Etta James	At Last!	INDIFFERENT	2:58	8sMb7QP78Vw	MPREb_SpgHmaufiRV	UCieyolnCbsWzyEt6wsd7lgQ
+184	Humpback	Eldridge Holmes	His Greatest	INDIFFERENT	1:59	Xz7wyVALG0Q	MPREb_qaMBiQItuPs	UCmLd16Ltx2KRq84Tfgd5Hbw
+202	The Grunt	Eddie Kirk	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:49	6pXR-YoIQI4	MPREb_aKQBOtnUTpc	UCZulqmytPq6QNGXKfRlstgg
+56	Big Bird (Mono)	Eddie Floyd	Stax Profiles: Eddie Floyd	INDIFFERENT	3:01	TkS4jz9bFqI	MPREb_arNBprcdRBz	UCWLQEbqa5zFzVGGeF6ZiOgg
+189	He's About a Mover	Dottie Cambridge	Here's a Song! (You Might Have Missed), Vol. 49: New York Soul 1960's, Pt. 2 Img-925	INDIFFERENT	1:49	Wl8oXt3xTJA	MPREb_sP5LGEMYCWH	UCPvRc6Tww6yHSG6NUwVm4aQ
+30	Just One Look	Doris Troy	Sings Just One Look And Other Memorable Selections	INDIFFERENT	2:32	GI3OYR_XM0w	MPREb_zp9Ai2rEK4t	UCQrC_HNrZaHof5OQM9C-0Yg
+191	My Baby Likes to Boogaloo	Don Gardner	Super Rare Soul, Vol. 1	INDIFFERENT	2:55	UD1b9GRAORs	MPREb_KJCCpbXwcwP	UCL0pVTj2xCn1ZJm3DhSA-UQ
+76	See Saw	Don Covay	The Platinum Collection	INDIFFERENT	3:00	Dnm1ML3fU1U	MPREb_SVuHOcNnFcz	UCsUabTUuX1cfQeAj-e5WEyw
+114	I Never Got Enough of Your Love	Don Covay	The Platinum Collection	INDIFFERENT	2:46	tSS2CaU_2Ss	MPREb_SVuHOcNnFcz	UCsUabTUuX1cfQeAj-e5WEyw
+28	Don't Make Me Over	Dionne Warwick	Presenting Dionne Warwick	INDIFFERENT	2:46	aB9Mm11xIGE	MPREb_PEcT84KhyUJ	UCJFMIGeKL7bGNIz_nkYyeug
+163	Daddy Rollin' Stone	Derek Martin	The Sue Records Story: The Sound Of Soul	INDIFFERENT	2:29	VL0D7YNrjbg	MPREb_K2euJi7oIKX	UC6BiyqCmYhVBoVKflxZixwg
+61	Love Makes The World Go Round (Re-Recording)	Deon Jackson	Sweet Soul Music	INDIFFERENT	2:28	V2t94nly0V8	MPREb_fpwwdzjOWnh	UCNH60QfzOia_-i7NZHh8GYQ
+182	Skate	Dean Parrish	Creative Musicians	INDIFFERENT	5:08	sjRMID8Bxdk	MPREb_gSfDkN1IVF3	
+57	Open the Door to Your Heart	Darrell Banks	Darrell Banks Is Here!	INDIFFERENT	2:38	8t9Y-YNxOy4	MPREb_JaQjgN9PgRG	UCxF1uoLRtz-hLb7kBrhr6Fw
+170	Keep My Woman Home	Danny White	Soul Gems (Digitally Remastered)	INDIFFERENT	2:24	Au2XRgnJBKI	MPREb_jkYYNqzThiQ	UCtIZoBLzhUIno5xtmualJ6g
+201	Miss Fine Miss Fine	Danny White	Natural Soul Brother: The Frisco Recordings	INDIFFERENT	2:21	0gsT3dbB9tg	MPREb_BMGz5Tcb7JQ	UCuEyrXW7-4_-DfDwO1_nPZw
+140	Wednesday Morning Atonement	Curtis Harding	Face Your Fear	INDIFFERENT	4:28	q-M8JdF4kg4	MPREb_Ul164f9HbRm	UCsF28FWfWXQ1sTFCL8SJcOA
+148	Love's Train	Con Funk Shun	Live for Ya Ass	INDIFFERENT	6:17	Zygs5cyNbbY	MPREb_VoqZnkzQh3y	UCtrRS6QwswmaqX2YRtzwvww
 12	Slip Away	Clarence Carter	This Is Clarence Carter	INDIFFERENT	2:34	ighGtlgjqW8	MPREb_tzIOlg7bDvu	UCWh4dVHk7qRG9DsaZPWiZvA
-88	Snatching It Back	Clarence Carter	Testifyin'	INDIFFERENT	2:53	Kihk2EYKOtI	MPREb_8Cfpog0y5gk	UCWh4dVHk7qRG9DsaZPWiZvA
-223	No Ending	"Charles ""Packy"" Axton"	Late Late Party (1965-67)	INDIFFERENT	2:56	TuY48xvN7-M	MPREb_Z5IZaUTCRp8	UCVN8wOtZ2LpjMUuTIsLpXmA
-181	(She's So Fine) So Glad She's Mine	Carter Brothers	(She's so Fine) So Glad She's Mine / Booby Trap Baby	INDIFFERENT	2:32	PGaCzDCgxfM	MPREb_XRPQD32qWxE	UCD2ZCeXGfUVTTyd5CCqlrOA
-29	Tramp	Carla Thomas	King & Queen	INDIFFERENT	3:02	EF9w_ZRsLtc	MPREb_57nzxs4harZ	UCMpfKKpbjRSQsYRKou-1H0w
-96	B-A-B-Y	Carla Thomas	Rhino Hi-Five: Carla Thomas	INDIFFERENT	2:58	3hx4J6wPMEw	MPREb_GJ8ztkbSYg6	UCMpfKKpbjRSQsYRKou-1H0w
-253	Tramp	Carla Thomas	King & Queen	INDIFFERENT	3:02	EF9w_ZRsLtc	MPREb_57nzxs4harZ	UCMpfKKpbjRSQsYRKou-1H0w
-268	I Like What You're Doing (To Me)	Carla Thomas	The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971	INDIFFERENT	2:55	Q9C-FNll6ek	MPREb_CSNUVYXndKu	UCMpfKKpbjRSQsYRKou-1H0w
-225	When You See Me Hurt	Carl Lester & The Showstoppers	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:20	0iepJhPZ06Y	MPREb_aKQBOtnUTpc	
-209	Hipster	C. Forture & J. Brinson	Movements Vol.4	INDIFFERENT	2:48	zLdB5iJOtk8	MPREb_Rb9bWJ4vAyJ	
-113	Green Onions (Live From 5/4 Ballroom, Los Angeles/1965)	Booker T. & The M.G.'s	Green Onions (Stax Remasters)	INDIFFERENT	3:43	SfAuXW6lEio	MPREb_IP0L30GUwPZ	UCArwMp9q2N-UvSXih_0ahTA
-273	Heads Or Tails	Booker T. & The M.G.'s	Soul Limbo	INDIFFERENT	2:31	oUNxKtnw7-g	MPREb_UREqPqugh3R	UCArwMp9q2N-UvSXih_0ahTA
-279	Burnt Biscuits	Booker T. & The M.G.'s	Time Is Tight	INDIFFERENT	2:15	vQW91vJySOs	MPREb_8UwLsR3RZuq	UCArwMp9q2N-UvSXih_0ahTA
-284	Outrage	Booker T. & The M.G.'s	Time Is Tight	INDIFFERENT	2:32	SowH3N9K7Z8	MPREb_8UwLsR3RZuq	UCArwMp9q2N-UvSXih_0ahTA
-131	That's The Way I Feel About 'Cha	Bobby Womack	Communication	INDIFFERENT	5:11	MOwP-woHsnw	MPREb_f8TDHnRjsz3	UCLoWsv7bSwgM-_vkC22f4Ag
-168	Funky Broadway '69	Bobby Powell	Funky Broadway '69	INDIFFERENT	2:35	RZuE5hDF3yw	MPREb_HSklvJgCJt0	UCtrjP4N8gYQL4jcIvdYIySA
+84	Snatching It Back	Clarence Carter	Testifyin'	INDIFFERENT	2:53	Kihk2EYKOtI	MPREb_8Cfpog0y5gk	UCWh4dVHk7qRG9DsaZPWiZvA
+214	No Ending	"Charles ""Packy"" Axton"	Late Late Party (1965-67)	INDIFFERENT	2:56	TuY48xvN7-M	MPREb_Z5IZaUTCRp8	UCVN8wOtZ2LpjMUuTIsLpXmA
+172	(She's So Fine) So Glad She's Mine	Carter Brothers	(She's so Fine) So Glad She's Mine / Booby Trap Baby	INDIFFERENT	2:32	PGaCzDCgxfM	MPREb_XRPQD32qWxE	UCD2ZCeXGfUVTTyd5CCqlrOA
+27	Tramp	Carla Thomas	King & Queen	INDIFFERENT	3:02	EF9w_ZRsLtc	MPREb_57nzxs4harZ	UCMpfKKpbjRSQsYRKou-1H0w
+92	B-A-B-Y	Carla Thomas	Rhino Hi-Five: Carla Thomas	INDIFFERENT	2:58	3hx4J6wPMEw	MPREb_GJ8ztkbSYg6	UCMpfKKpbjRSQsYRKou-1H0w
+249	I Like What You're Doing (To Me)	Carla Thomas	The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971	INDIFFERENT	2:55	Q9C-FNll6ek	MPREb_CSNUVYXndKu	UCMpfKKpbjRSQsYRKou-1H0w
+216	When You See Me Hurt	Carl Lester & The Showstoppers	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:20	0iepJhPZ06Y	MPREb_aKQBOtnUTpc	
+200	Hipster	C. Forture & J. Brinson	Movements Vol.4	INDIFFERENT	2:48	zLdB5iJOtk8	MPREb_Rb9bWJ4vAyJ	
+109	Green Onions (Live From 5/4 Ballroom, Los Angeles/1965)	Booker T. & The M.G.'s	Green Onions (Stax Remasters)	INDIFFERENT	3:43	SfAuXW6lEio	MPREb_IP0L30GUwPZ	UCArwMp9q2N-UvSXih_0ahTA
+254	Heads Or Tails	Booker T. & The M.G.'s	Soul Limbo	INDIFFERENT	2:31	oUNxKtnw7-g	MPREb_UREqPqugh3R	UCArwMp9q2N-UvSXih_0ahTA
+260	Burnt Biscuits	Booker T. & The M.G.'s	Time Is Tight	INDIFFERENT	2:15	vQW91vJySOs	MPREb_8UwLsR3RZuq	UCArwMp9q2N-UvSXih_0ahTA
+265	Outrage	Booker T. & The M.G.'s	Time Is Tight	INDIFFERENT	2:32	SowH3N9K7Z8	MPREb_8UwLsR3RZuq	UCArwMp9q2N-UvSXih_0ahTA
+126	That's The Way I Feel About 'Cha	Bobby Womack	Communication	INDIFFERENT	5:11	MOwP-woHsnw	MPREb_f8TDHnRjsz3	UCLoWsv7bSwgM-_vkC22f4Ag
+160	Funky Broadway '69	Bobby Powell	Funky Broadway '69	INDIFFERENT	2:35	RZuE5hDF3yw	MPREb_HSklvJgCJt0	UCtrjP4N8gYQL4jcIvdYIySA
 10	Searching For My Love	Bobby Moore & The Rhythm Aces	Chess Soul: A Decade Of Chicago’s Finest	INDIFFERENT	2:33	CeSszzno-2A	MPREb_Jr7kRgFmVyb	UC-jZ1kxVvylv7kaMaDHbZGQ
-192	Chained To Your Heart	Bobby Moore & The Rhythm Aces	Go Ahead And Burn	INDIFFERENT	2:21	-xGRE5tcUoc	MPREb_Gb7xq9Gw5sh	UC-jZ1kxVvylv7kaMaDHbZGQ
-172	Uncle Willie Time	Bobby Miller	Constellation of Chicago Soul	INDIFFERENT	2:14	LSa8L1TE5Pc	MPREb_ZuOSk8HFwEe	UC7sUlD_KTV015LYkXOGh-8g
-46	Harlem Shuffle	Bob James & Earl Klugh	Harlem Shuffle	INDIFFERENT	3:01	2QWzrtLxlo8	MPREb_1zQrl8Uwznx	UCDLYptb8hVAbNSSJLuMBm7g
-217	I'm Tired	Billy Watkins	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:12	IboiBvnKKxY	MPREb_aKQBOtnUTpc	UCdg1YZOEMUSjpO4DQI7yGEA
+183	Chained To Your Heart	Bobby Moore & The Rhythm Aces	Go Ahead And Burn	INDIFFERENT	2:21	-xGRE5tcUoc	MPREb_Gb7xq9Gw5sh	UC-jZ1kxVvylv7kaMaDHbZGQ
+164	Uncle Willie Time	Bobby Miller	Constellation of Chicago Soul	INDIFFERENT	2:14	LSa8L1TE5Pc	MPREb_ZuOSk8HFwEe	UC7sUlD_KTV015LYkXOGh-8g
+44	Harlem Shuffle	Bob James & Earl Klugh	Harlem Shuffle	INDIFFERENT	3:01	2QWzrtLxlo8	MPREb_1zQrl8Uwznx	UCDLYptb8hVAbNSSJLuMBm7g
+208	I'm Tired	Billy Watkins	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:12	IboiBvnKKxY	MPREb_aKQBOtnUTpc	UCdg1YZOEMUSjpO4DQI7yGEA
 6	Sitting In The Park	Billy Stewart	I Do Love You	INDIFFERENT	3:15	uMywkoPdA2U	MPREb_WWoOvuIEHZ7	UCATenkbGJuZeE2RBKzEwzWg
-31	Summertime	Billy Stewart	By George And Ira: Red Hot On Gershwin	INDIFFERENT	4:23	ZvpnIOXna0Y	MPREb_wohXPCJ5qm0	UCATenkbGJuZeE2RBKzEwzWg
-153	Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)	Bill Withers	Bill Withers Live At Carnegie Hall	INDIFFERENT	4:27	MXdn9FrTpk8	MPREb_482hhjK6KaD	UCDjpW6k2Sfg_FTr1toLvffQ
-68	Don't You Ever Get Tired (Of Hurting Me)	Bettye Swann	Bettye Swann	INDIFFERENT	2:56	BS1dZQHZXwc	MPREb_Y8OVM3tWWVI	UCHdnVjf8z3bovLxiWK0jhpQ
-163	Let Me Down Easy	Bettye Lavette	Soul Train	INDIFFERENT	3:46	tBkOGvEsxVM	MPREb_F8ZQVTcUxEk	UCZE22ZA5A41qmX5JBMC4Kkw
-213	A Kiss to Build a Dream On	Benny Gordon	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:50	H-qt1hrsRyI	MPREb_5V84aiei9iR	UCd6U9Yajm09XXw9KrbDkdww
-39	Spanish Harlem	Ben E. King	Spanish Harlem	INDIFFERENT	2:55	hwfwqA55w_0	MPREb_meZj71Vhllo	UC7IsXxzPSpxbFRAtmxyJ_3Q
-102	Stand By Me	Ben E. King	1960s Happy Days	INDIFFERENT	3:14	iHrUUtKcUVo	MPREb_9RPNKlCzLT8	UC7IsXxzPSpxbFRAtmxyJ_3Q
-120	Yes, I'm Ready	Barbara Mason	Low & Slow (Classic Low Rider Jams)	INDIFFERENT	4:00	T9gNnHIQJAE	MPREb_jo5pULbLaYA	UCb2_NLMLDn6LKhMYlu3sMVg
-106	Baby, I'm Yours	Barbara Lewis	Rhino Hi-Five: Barbara Lewis	INDIFFERENT	2:32	0T_4TO3s7i8	MPREb_Cydu23E83CI	UCbL__fW69IfIkOBxeatAjQg
-34	Love Makes A Woman	Barbara Acklin	20 Greatest Hits	INDIFFERENT	2:56	kNYw26LqnLo	MPREb_XdUN4KhBokd	UCfzkUK55LzeNrZwpF2Fyqsw
+29	Summertime	Billy Stewart	By George And Ira: Red Hot On Gershwin	INDIFFERENT	4:23	ZvpnIOXna0Y	MPREb_wohXPCJ5qm0	UCATenkbGJuZeE2RBKzEwzWg
+145	Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)	Bill Withers	Bill Withers Live At Carnegie Hall	INDIFFERENT	4:27	MXdn9FrTpk8	MPREb_482hhjK6KaD	UCDjpW6k2Sfg_FTr1toLvffQ
+65	Don't You Ever Get Tired (Of Hurting Me)	Bettye Swann	Bettye Swann	INDIFFERENT	2:56	BS1dZQHZXwc	MPREb_Y8OVM3tWWVI	UCHdnVjf8z3bovLxiWK0jhpQ
+155	Let Me Down Easy	Bettye Lavette	Soul Train	INDIFFERENT	3:46	tBkOGvEsxVM	MPREb_F8ZQVTcUxEk	UCZE22ZA5A41qmX5JBMC4Kkw
+204	A Kiss to Build a Dream On	Benny Gordon	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:50	H-qt1hrsRyI	MPREb_5V84aiei9iR	UCd6U9Yajm09XXw9KrbDkdww
+37	Spanish Harlem	Ben E. King	Spanish Harlem	INDIFFERENT	2:55	hwfwqA55w_0	MPREb_meZj71Vhllo	UC7IsXxzPSpxbFRAtmxyJ_3Q
+98	Stand By Me	Ben E. King	1960s Happy Days	INDIFFERENT	3:14	iHrUUtKcUVo	MPREb_9RPNKlCzLT8	UC7IsXxzPSpxbFRAtmxyJ_3Q
+116	Yes, I'm Ready	Barbara Mason	Low & Slow (Classic Low Rider Jams)	INDIFFERENT	4:00	T9gNnHIQJAE	MPREb_jo5pULbLaYA	UCb2_NLMLDn6LKhMYlu3sMVg
+102	Baby, I'm Yours	Barbara Lewis	Rhino Hi-Five: Barbara Lewis	INDIFFERENT	2:32	0T_4TO3s7i8	MPREb_Cydu23E83CI	UCbL__fW69IfIkOBxeatAjQg
+32	Love Makes A Woman	Barbara Acklin	20 Greatest Hits	INDIFFERENT	2:56	kNYw26LqnLo	MPREb_XdUN4KhBokd	UCfzkUK55LzeNrZwpF2Fyqsw
 3	Sweet Soul Music	Arthur Conley	Rhino Hi-Five: Arthur Conley	INDIFFERENT	2:21	mLhEinunQfo	MPREb_94pQR5el5VH	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
-81	Funky Street	Arthur Conley	Rhino Hi-Five: Arthur Conley	INDIFFERENT	2:23	eUwyslTmjaY	MPREb_94pQR5el5VH	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
-125	Rome (Wasn't Built in a Day)	Arthur Conley	Atlantic Unearthed: Soul Brothers	INDIFFERENT	2:09	ArRyLiEoGlo	MPREb_dz2xBbtJZiw	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
-240	Sweet Soul Music	Arthur Conley	Rhino Hi-Five: Arthur Conley	INDIFFERENT	2:21	mLhEinunQfo	MPREb_94pQR5el5VH	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
-186	I Got Soul	Art Grayson	Jazz Beat, Vol.2 (Live)	INDIFFERENT	2:40	-kSeBUDN8UM	MPREb_fERiZAnCRZ9	UCQLRsOK_K48flyrGU-KZBtA
-23	(You Make Me Feel Like) A Natural Woman [45 Version]	Aretha Franklin	[You Make Me Feel Like] A Natural Woman / Baby, Baby, Baby	INDIFFERENT	2:45	Ay6oJZQ0Y4w	MPREb_aReJVeP5lcr	UCW02f_MjH8n1uMZhSds4mQQ
-63	(Sweet Sweet Baby) Since You've Been Gone [Mono Single Version]	Aretha Franklin	Lady Soul	INDIFFERENT	2:29	EscSJVTx7Gg	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
-67	I Never Loved a Man (The Way I Love You) [Mono]	Aretha Franklin	I Never Loved a Man the Way I Love You (Mono)	INDIFFERENT	2:53	ts7mEKN7o5A	MPREb_38mw3TZO9yt	UCW02f_MjH8n1uMZhSds4mQQ
-135	I Never Loved a Man (The Way I Love You) (Stereo)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:46	Ou2vVeRXO_s	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
-140	Don't Play That Song	Aretha Franklin	Spirit in the Dark	INDIFFERENT	3:03	pCQXc8qkVnI	MPREb_6aIMsBjBoCt	UCW02f_MjH8n1uMZhSds4mQQ
-252	Born Under A Bad Sign (with Stevie Ray Vaughan)	Albert King	Stax Profiles: Albert King	INDIFFERENT	3:38	BB0uHb9BCxw	MPREb_du6QLqt3gB3	UC9XFvJIqt0duVgnlvkXBeKA
-265	She Caught The Katy And Left Me A Mule To Ride	Albert King	Lovejoy	INDIFFERENT	3:56	fYJTQ9RGgwY	MPREb_XNtAKxWbIZz	UC9XFvJIqt0duVgnlvkXBeKA
-42	Back Up Train	Al Green	Back Up Train	INDIFFERENT	2:19	R-zF9fnIrAA	MPREb_LgWZUCDJDMt	UC7tb2Of68kIlrtj2qUnJtbQ
-205	Watch Yourself	Al Gardner	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:19	L3JtS-3uwQY	MPREb_5V84aiei9iR	UCsr0OMXmR1iQBqaDZzGdSMQ
-128	If You Think You're Lonely Now	Bobby Womack	The Poet		5:29	e84E1yGQMyk		
+78	Funky Street	Arthur Conley	Rhino Hi-Five: Arthur Conley	INDIFFERENT	2:23	eUwyslTmjaY	MPREb_94pQR5el5VH	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
+121	Rome (Wasn't Built in a Day)	Arthur Conley	Atlantic Unearthed: Soul Brothers	INDIFFERENT	2:09	ArRyLiEoGlo	MPREb_dz2xBbtJZiw	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
+177	I Got Soul	Art Grayson	Jazz Beat, Vol.2 (Live)	INDIFFERENT	2:40	-kSeBUDN8UM	MPREb_fERiZAnCRZ9	UCQLRsOK_K48flyrGU-KZBtA
+22	(You Make Me Feel Like) A Natural Woman [45 Version]	Aretha Franklin	[You Make Me Feel Like] A Natural Woman / Baby, Baby, Baby	INDIFFERENT	2:45	Ay6oJZQ0Y4w	MPREb_aReJVeP5lcr	UCW02f_MjH8n1uMZhSds4mQQ
+60	(Sweet Sweet Baby) Since You've Been Gone [Mono Single Version]	Aretha Franklin	Lady Soul	INDIFFERENT	2:29	EscSJVTx7Gg	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
+64	I Never Loved a Man (The Way I Love You) [Mono]	Aretha Franklin	I Never Loved a Man the Way I Love You (Mono)	INDIFFERENT	2:53	ts7mEKN7o5A	MPREb_38mw3TZO9yt	UCW02f_MjH8n1uMZhSds4mQQ
+130	I Never Loved a Man (The Way I Love You) (Stereo)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:46	Ou2vVeRXO_s	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
+134	Don't Play That Song	Aretha Franklin	Spirit in the Dark	INDIFFERENT	3:03	pCQXc8qkVnI	MPREb_6aIMsBjBoCt	UCW02f_MjH8n1uMZhSds4mQQ
+237	Born Under A Bad Sign (with Stevie Ray Vaughan)	Albert King	Stax Profiles: Albert King	INDIFFERENT	3:38	BB0uHb9BCxw	MPREb_du6QLqt3gB3	UC9XFvJIqt0duVgnlvkXBeKA
+246	She Caught The Katy And Left Me A Mule To Ride	Albert King	Lovejoy	INDIFFERENT	3:56	fYJTQ9RGgwY	MPREb_XNtAKxWbIZz	UC9XFvJIqt0duVgnlvkXBeKA
+40	Back Up Train	Al Green	Back Up Train	INDIFFERENT	2:19	R-zF9fnIrAA	MPREb_LgWZUCDJDMt	UC7tb2Of68kIlrtj2qUnJtbQ
+196	Watch Yourself	Al Gardner	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:19	L3JtS-3uwQY	MPREb_5V84aiei9iR	UCsr0OMXmR1iQBqaDZzGdSMQ
