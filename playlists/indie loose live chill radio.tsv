@@ -1,8 +1,12 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 548	Bitter	Worn-Tin	Summer Mixtape	LIKE	3:15	cwxChFgk3oM	MPREb_HuXVQWe2RmN	UCuyfVcZapyF8a4TftSg3-mA
 545	Braindrain	Sun Parade	Braindrain	LIKE	3:03	oRnrOgfbOa4	MPREb_ZlYR40RE0bn	UCu8kAh4TUCzEMVzEUsabl1g
+698	Windowpane	Mild High Club	Timeline	LIKE	3:57	GG9jWlWFgYE	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
+471	My Kind of Woman	Mac Demarco	2	LIKE	3:10	1_tjOgqG8Yc	MPREb_FHbnjfeVGQt	UCs95LJSHhdVhYQLvqsZqp_A
 726	Resonance	Home	Odyssey	LIKE	3:33	Qe2t3FyS9uA	MPREb_1AujpXRngaq	UCfWnoT0YX8RfjFaXmg2Eq5g
 673	Where'd All the Time Go?	Dr. Dog	Shame, Shame (Deluxe Edition)	LIKE	3:54	S0V9zehc_h8	MPREb_P496vFcbu1R	UC-JBTXpS5x83eafG3HQMClA
+543	Avant Gardener	Courtney Barnett	The Double EP: A Sea of Split Peas	LIKE	5:12	sSOm1wuTnbo	MPREb_SPo0AXnfn3i	UCAR6fZVOSmnctDecWdS9rtQ
+603	Before We Begin	Broadcast	Haha Sound	LIKE	3:23	z1WIr-S6Fyw	MPREb_mkUIdcGDX36	UCDggJrcSehoG8n7qepc9LCA
 573	The Way the Wind Whips	Blac Rabbit	Blac Rabbit	LIKE	4:32	Kwn1Z-QJjd0	MPREb_mAiEW3cAt6G	UCCvQXnJXEI6UJn44DPvj0jw
 614	Summer Mood	Best Coast	Crazy For You	LIKE	2:25	Pnnnf9_P8b0	MPREb_yvhjx3MiYGA	UCBAYaAMrMo1FqqBB9Z3kn4g
 125	Heaven Is Here	sir Was	Digging a Tunnel	INDIFFERENT	4:31	RQkIq0Qk4aQ	MPREb_XbOvLxDpT6G	UCy1ULqvzHgeORPlgAj5fJwA
@@ -381,7 +385,6 @@
 505	Chapel Perilous	Mild High Club	Skiptracing	INDIFFERENT	4:32	T6VuKj2Y9yU	MPREb_PScPWC37qFc	UC1VEJk_RMKBhUHXgIB5LFUg
 667	Rollercoaster Baby	Mild High Club	Timeline	INDIFFERENT	2:09	WRAE1AVwfQ8	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
 697	The Chat	Mild High Club	Timeline	INDIFFERENT	2:40	6__wnHaRW5U	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
-698	Windowpane	Mild High Club	Timeline	INDIFFERENT	3:57	GG9jWlWFgYE	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
 699	Note to Self	Mild High Club	Timeline	INDIFFERENT	2:19	y0tg79cARh4	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
 700	You and Me	Mild High Club	Timeline	INDIFFERENT	3:28	YHJLR99sKok	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
 701	Undeniable	Mild High Club	Timeline	INDIFFERENT	2:23	uzMfoNKZiSg	MPREb_2R4OlZylx08	UC1VEJk_RMKBhUHXgIB5LFUg
@@ -397,7 +400,6 @@
 536	Mixed Up and Confused	Marlin's Dreaming	Lizard Tears	INDIFFERENT	3:15	swTx5hJeDck	MPREb_DxLSvpCCrji	UCadgwTyVWHZhw2Q9i_0BC-g
 354	Baby Tiger	Maple Glider	Baby Tiger	INDIFFERENT	3:53	v9YEw_BNM_0	MPREb_sHwBDh8CkZN	UC-oJ1TUiwWAeYNYGvV1zQzw
 201	Four of a Kind	Magic City Hippies	Hippie Castle EP	INDIFFERENT	3:35	aBFJLz2gO34	MPREb_wxR5AsVnZhg	UCJYXKEj1NZWeTDhV1isXl-Q
-471	My Kind of Woman	Mac Demarco	2	INDIFFERENT	3:10	1_tjOgqG8Yc	MPREb_FHbnjfeVGQt	UCs95LJSHhdVhYQLvqsZqp_A
 104	Watching Him Fade Away	Mac DeMarco	This Old Dog	INDIFFERENT	2:24	x8cFcSq4EIs	MPREb_yqW8Fq7FHrp	UCs95LJSHhdVhYQLvqsZqp_A
 364	Let Her Go	Mac DeMarco	Salad Days	INDIFFERENT	3:02	RSACSNBOloo	MPREb_hH6kqzCgrAc	UCs95LJSHhdVhYQLvqsZqp_A
 486	Dreamin' Slow	Mac DeMarco	2 Demos	INDIFFERENT	2:37	pEFeYfjIG6s	MPREb_EOoaBYBm0DW	UCs95LJSHhdVhYQLvqsZqp_A
@@ -449,8 +451,8 @@
 75	Electric U	Kid Bloom	A Different State of Mind	INDIFFERENT	2:51	a9juf3YWtuE	MPREb_TQz4k9RqNeN	UCDoh5cidSoaqvnECKOlj67w
 581	Time (You and I)	Khruangbin	Time (You and I)	INDIFFERENT	5:43	3HdTbT_2Mn8	MPREb_PXbVqu1fQxJ	UCW2SLxltqPa553qretr4KzQ
 585	Evan Finds the Third Room	Khruangbin	Con Todo El Mundo	INDIFFERENT	4:00	stMx2V1xnz0	MPREb_eMtJ0gI8aoT	UCW2SLxltqPa553qretr4KzQ
-135	Aboard My Train	Kevin Morby	City Music	INDIFFERENT	3:15	cYeH5X5h6dk	MPREb_BjnxITm16j9	UC5f6zyIPpGOWL0_ZAcwSBqA
-601	Crybaby	Kevin Morby	City Music	INDIFFERENT	3:56	Q7PGDbg5hnY	MPREb_BjnxITm16j9	UC5f6zyIPpGOWL0_ZAcwSBqA
+135	Aboard My Train	Kevin Morby	City Music	INDIFFERENT	3:16	cYeH5X5h6dk	MPREb_BjnxITm16j9	UC5f6zyIPpGOWL0_ZAcwSBqA
+601	Crybaby	Kevin Morby	City Music	INDIFFERENT	3:57	Q7PGDbg5hnY	MPREb_BjnxITm16j9	UC5f6zyIPpGOWL0_ZAcwSBqA
 329	You Don't Know How Lucky You Are	Keaton Henson	The Lucky EP	INDIFFERENT	3:49	vMAi56aLhAs	MPREb_vdr9CD5OPwL	UCWUqGg8G7o2QqRnsOFcIWMw
 323	Cool Dry Place	Katy Kirby	Cool Dry Place	INDIFFERENT	5:01	WVVTQ6100bw	MPREb_iZV8oD155ix	UCCoETJLJ--ihsrKjycwltZg
 232	All the Pretty Girls	KALEO	A/B	INDIFFERENT	4:30	MFZhr6CvCsU	MPREb_eb5lPM60vvY	UCe5SlSvnHTsnmBBXoFYXXGg
@@ -492,7 +494,7 @@
 326	Lion's Mane	Iron & Wine	The Creek Drank the Cradle	INDIFFERENT	2:49	iXoK70Wjjbo	MPREb_X5cJndTs4Rd	UCbPM7GBZG0U7Fz5FsnoUIag
 489	Eclipse	Inner Wave	Underwater Pipe Dreams	INDIFFERENT	3:04	dSjeeXYf7_k	MPREb_FbuoFhCPvWO	UChyD6z6cRC4fyKP7gRoH5Xw
 191	The Hold Up	Ikebe Shakedown	Ikebe Shakedown	INDIFFERENT	3:04	Pk5t7k6nnog	MPREb_gog88shDXOp	UC20CZIzh2uR71kH3eapYPPw
-321	Soon It Will Be Fire (feat. Moses Sumney)	Hypnotic Brass Ensemble	Soon It Will Be Fire (feat. Moses Sumney)	INDIFFERENT	9:30	o7X_D_nPXsE	MPREb_T1MglImBpP6	UCl_1RymUI-Hr7cbewQq4bvQ
+321	Soon It Will Be Fire (feat. Moses Sumney)	Hypnotic Brass Ensemble	Soon It Will Be Fire (feat. Moses Sumney)	INDIFFERENT	9:30	o7X_D_nPXsE	MPREb_T1MglImBpP6	UC2lV_CLM3_HfEvOQY-QQFlw
 338	No Trouble	Houses	Drugstore Heaven	INDIFFERENT	3:40	20qfUzI0_f4	MPREb_DhWNvVHLmnz	UCdGsVFvM7BMPIvw3jDIj8Fw
 210	Ludlow	Houndmouth	From the Hills Below the City	INDIFFERENT	3:08	d5Jfwo-aoiA	MPREb_XBEkiHfDYXh	UCrIgz7cPaumWvYQZvlThbJA
 214	Gasoline	Houndmouth	Little Neon Limelight	INDIFFERENT	2:52	k1zA2pmBSuI	MPREb_Ba9IHi9XV0H	UCrIgz7cPaumWvYQZvlThbJA
@@ -628,7 +630,6 @@
 558	After the Moment	Craft Spells	Idle Labor	INDIFFERENT	4:00	xuHgn5D95GE	MPREb_PftZoqWErQf	UCEmVys_KDTs39jRTqU-tXdA
 565	Party Talk	Craft Spells	Idle Labor	INDIFFERENT	3:40	R522GWlE8X8	MPREb_PftZoqWErQf	UCEmVys_KDTs39jRTqU-tXdA
 731	After the Moment	Craft Spells	After the Moment	INDIFFERENT	4:03	010Y7prdNY0	MPREb_ZdtKRmUzgqe	UCEmVys_KDTs39jRTqU-tXdA
-543	Avant Gardener	Courtney Barnett	The Double EP: A Sea of Split Peas	INDIFFERENT	5:12	sSOm1wuTnbo	MPREb_SPo0AXnfn3i	UCAR6fZVOSmnctDecWdS9rtQ
 216	Night at Lake Unknown	Conor Oberst	Upside Down Mountain	INDIFFERENT	4:15	g97RQ2HBi5I	MPREb_tiDTgg3gZQH	UCdSranEM5TrrFgE2wA5XtaQ
 299	Sulphur Springs	Conner Youngblood	Sulphur Springs	INDIFFERENT	3:31	cqNxxwHszNs	MPREb_cmgUCnnYcT7	UC61TBuwWREcLYG5wtEETcIQ
 85	La Fat Fur	Connan Mockasin	Myths 001	INDIFFERENT	2:30	I-JFY4ICykQ	MPREb_DCYJT3HFObw	UC5l6nJsuOYfRKrRmVsOHRKA
@@ -663,7 +664,6 @@
 334	To Rest (Blue Light)	Brooke Bentham	Sunday Self	INDIFFERENT	3:27	c8XO8CPlETg	MPREb_bueYUYh4rQj	UCRnVVFmZ-rwxXsXmWi-quGw
 265	Come On Let's Go	Broadcast	The Noise Made By People	INDIFFERENT	3:18	knIFMuppzpQ	MPREb_zKAyWddIwae	UCDggJrcSehoG8n7qepc9LCA
 276	America's Boy	Broadcast	Tender Buttons	INDIFFERENT	3:35	gMR7fFnbdts	MPREb_LUcVpIuN3mm	UCDggJrcSehoG8n7qepc9LCA
-603	Before We Begin	Broadcast	Haha Sound	INDIFFERENT	3:23	z1WIr-S6Fyw	MPREb_mkUIdcGDX36	UCDggJrcSehoG8n7qepc9LCA
 345	sunburn, AZ	Brahny	sunburn, AZ	INDIFFERENT	3:38	2Xe7TFasXjY	MPREb_4CjRZy9sEyH	UCoRYE06WhxS48x1q7hDVt0Q
 542	Hey Good Lookin'	Blonde Tongues	Blonde Tongues	INDIFFERENT	5:46	uLyYQFsiPa8	MPREb_efu30F5qKUT	UCLwOx0fsF0I5uftBAFM3_5w
 285	Here Sometimes	Blonde Redhead	Penny Sparkle	INDIFFERENT	4:44	RP07mgF7E40	MPREb_u2YFdxfS87Q	UCvdVUaJ_3Li6ZLGhF3_MexA

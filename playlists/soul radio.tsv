@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 543	What Kind Of Fool (Do You Think I Am)	The Tams	Hey Girl Don't Bother Me: The Best Of The Tams	LIKE	2:04	dhwkdVYQ0gQ	MPREb_JnHExxupq8z	UCNyBJlAfEJQCf0nY6i2VTFw
 782	Another Saturday Night	Sam Cooke	30 Greatest Hits: Portrait of a Legend 1951-1964	LIKE	2:42	8N1qQHzh6-A	MPREb_1tJE5PccPOx	UCYW9vMurwIpx1l0bb8gyK7g
+669	Beyond	Leon Bridges	Good Thing	LIKE	4:01	-wTNn4VgMXk	MPREb_sJYHOWuxDGq	UCnqQ2w8U9bqdEkGKSiBVkRA
 547	Searching for My Love	Bobby Moore & The Rhythm Aces	Searching for My Love	LIKE	2:31	HYOXmbhiQJI	MPREb_CM1FR0OlX3Y	UC-jZ1kxVvylv7kaMaDHbZGQ
 816	Hello Stranger	Barbara Lewis	Baby, I'm Yours	LIKE	2:45	zYWuzwHklCE	MPREb_H3buC5vjLzD	UCbL__fW69IfIkOBxeatAjQg
 691	Fix Me (Acoustic Sketch)	rum.gold	Fix Me (Acoustic Sketch)	INDIFFERENT	4:48	YbnvQRBhbKQ	MPREb_KRlzrWHI5F7	UCp7iwNW0sWkg6-P2jriDsWw
@@ -161,7 +162,7 @@
 501	Seven Years	The Impressions	The Young Mods' Forgotten Story	INDIFFERENT	2:25	2U5HwDIHLWo	MPREb_VFvZdsa9Msb	UCgJJ73fwENw_NILc9pYHYOA
 530	Keep On Pushing	The Impressions	Keep On Pushing	INDIFFERENT	2:35	Sxa9wNl2OjE	MPREb_rAkjKCyMMkX	UCgJJ73fwENw_NILc9pYHYOA
 559	It's All Right (Single Version)	The Impressions	The Greatest Hits	INDIFFERENT	2:47	A3Qh9w9Yg8A	MPREb_e6YdsYDjFtO	UCgJJ73fwENw_NILc9pYHYOA
-831	Keep on Pushing (Rerecorded Version)	The Impressions	Sweet Soul Music	INDIFFERENT	2:50	o7f445ZOBig	MPREb_fpwwdzjOWnh	UCgJJ73fwENw_NILc9pYHYOA
+831	Keep on Pushing (Rerecorded Version)	The Impressions	Sweet Soul Music	INDIFFERENT	2:51	o7f445ZOBig	MPREb_fpwwdzjOWnh	UCgJJ73fwENw_NILc9pYHYOA
 566	I'm Blue (The Gong Gong Song)	The Ikettes	Beg, Scream & Shout!: Vol. 3	INDIFFERENT	2:34	MELinD1Azqc	MPREb_DbFq1enB80m	UCDNXcJYYf21kEP9RIXdw6aQ
 770	Burn Rubber On Me (Why You Wanna Hurt Me)	The Gap Band	Gap Band 3	INDIFFERENT	5:34	BNxdhc7p92k	MPREb_HiyDFKRI2FO	UCLlCPIaPLOugvMKyt0Erllw
 256	Green Trees	The Funk Ark	High Noon	INDIFFERENT	4:56	yAg0nyZvk6k	MPREb_LUrr0HFeMNu	UCBK9UpG_kP5OF0fSAW1Z07A
@@ -305,7 +306,7 @@
 570	When Something Is Wrong with My Baby	Sam & Dave	The Best Of Sam & Dave	INDIFFERENT	3:15	FrXjjno4SZI	MPREb_gFoNfzFVZks	UC0jVmnViSoUHl_XwocssdPg
 594	I Can't Stand Up For Falling Down	Sam & Dave	The Stax Story (4 Disc Set)	INDIFFERENT	2:41	dbiDv8BBS8Y	MPREb_9nCuoaelCy5	UC0jVmnViSoUHl_XwocssdPg
 825	Soul Man	Sam & Dave	Best Of Sam & Dave	INDIFFERENT	3:02	vPch_BH1tbM	MPREb_YCf1cCWT760	UC0jVmnViSoUHl_XwocssdPg
-17	What A Man	Salt 'n' Pepa	Juke Box Highlights, Vol. 4	INDIFFERENT	2:15	cRr-vUgosUg	MPREb_7riv1iYXSQ3	UChG4UYfQHHCXbKHA4XAhiew
+17	What A Man	Salt 'n' Pepa	Juke Box Highlights, Vol. 4	INDIFFERENT	2:42	cRr-vUgosUg	MPREb_7riv1iYXSQ3	UChG4UYfQHHCXbKHA4XAhiew
 701	Graffiti	Saleka	Graffiti	INDIFFERENT	3:28	9WbZJY5NGyk	MPREb_fCIXkY6nKPb	UCL81-xOzvpXZ6EYcjXrIV1Q
 676	Confidently Lost	Sabrina Claudio	Confidently Lost	INDIFFERENT	3:30	uO_W54r7D3E	MPREb_mC5Uqhuxfvn	UCLCw1s3owAIZNSbFECSThjg
 737	Vision 9	STR4TA	Vision 9	INDIFFERENT	7:20	zq3tDGzWT00	MPREb_AdqeEtXoSf8	UCTIJPLc9TL5mYObzm6uwN4g
@@ -323,7 +324,7 @@
 898	Ain't That Terrible	Roy Redmond	Best of Loma Records-Rise and Fall of a 1960's Soul Label	INDIFFERENT	2:33	1aNbio1YdEo	MPREb_x0XWKiilRti	UCT3b0MPv6xaqK0_8-v8Hmhg
 189	Party Time	Roy Porter Sound Machine	The Story of Roy Porter Sound Machine (1971-1975)	INDIFFERENT	3:48	a7GelrSISj0	MPREb_Tbu1cM5KMsI	UCaLE3xqnWjqGkr2swsVOKfg
 908	Boogaloo No.3	Roy Lee Johnson & The Villagers	The Document II	INDIFFERENT	1:58	O3i4mGMAW3k	MPREb_BWSiu5MHtxE	UCdGz5hfKwWZrBP4cRJmbTkQ
-868	Love Don't Love Nobody	Roy Brown, Dave Bartholomew	The Soul of R&B	INDIFFERENT	2:26	ahLtlyCffA4	MPREb_OWUmGgx2xZr	UCWE2oiywS8kfITO4OdhGUmQ
+868	Love Don't Love Nobody	Roy Brown, Dave Bartholomew	The Soul of R&B	INDIFFERENT	2:45	ahLtlyCffA4	MPREb_OWUmGgx2xZr	UCWE2oiywS8kfITO4OdhGUmQ
 35	Love Don't Live Here Anymore	Rose Royce	Rose Royce III: Strikes Again!	INDIFFERENT	3:59	qMuCNkesdgc	MPREb_sexb19U9twm	UCyu73TKE6IMlg1z9HHaz-mQ
 142	Daddy Rich	Rose Royce	Car Wash	INDIFFERENT	3:24	C02SFbc4zmM	MPREb_yxcxbiohxPk	UCyu73TKE6IMlg1z9HHaz-mQ
 221	I Wanna Get Next To You	Rose Royce	Car Wash	INDIFFERENT	4:01	ZG_sBERz4q4	MPREb_yxcxbiohxPk	UCyu73TKE6IMlg1z9HHaz-mQ
@@ -479,7 +480,6 @@
 470	Carry On Brother (Remastered Version)	Les McCann & Eddie Harris	Second Movement	INDIFFERENT	7:10	ZXrSJnxWABU	MPREb_ZnuSsPH0b1a	UCitVt4bBlK-iWV9PzPsI_hg
 454	Burnin' Coal	Les McCann	Much Les	INDIFFERENT	6:38	hYQV0v3-Fes	MPREb_2xWQHc0OWnI	UCitVt4bBlK-iWV9PzPsI_hg
 475	Compared to What	Les McCann	Les Is More	INDIFFERENT	5:48	9--_rji_F0Y	MPREb_NpeSmAtCD0x	UCitVt4bBlK-iWV9PzPsI_hg
-669	Beyond	Leon Bridges	Good Thing	INDIFFERENT	4:01	-wTNn4VgMXk	MPREb_sJYHOWuxDGq	UCnqQ2w8U9bqdEkGKSiBVkRA
 366	'Cause I Love You	Lenny Williams	Spark Of Love (Expanded Edition)	INDIFFERENT	7:10	S_Zn7Cqe6ZM	MPREb_Kp5ErOzfzjM	UCPwA30Sq0LFrYiFOB4lbetQ
 77	My World	Lee Fields & The Expressions	My World	INDIFFERENT	3:27	apJu0qJv4pw	MPREb_qEcwqnaUp0q	UCHpBOdDgNkQK2HK22WMffqw
 242	Money I$ King	Lee Fields & The Expressions	Truth & Soul presents Lee Fields (The 45 Mixes)	INDIFFERENT	3:11	p_i213outTU	MPREb_ziggGIJx0cn	UCHpBOdDgNkQK2HK22WMffqw
@@ -543,7 +543,7 @@
 130	Daddy's Home	Jermaine Jackson	Greatest Hits And Rare Classics	INDIFFERENT	3:03	AB_-tffIVjo	MPREb_Dx0CX3ciRDc	UCfitGSoO3lz5jmePrka339w
 161	That's How Love Goes	Jermaine Jackson	Greatest Hits And Rare Classics	INDIFFERENT	3:28	ixwj-Vl0a0g	MPREb_Dx0CX3ciRDc	UCfitGSoO3lz5jmePrka339w
 798	Let's Get Serious	Jermaine Jackson	Let's Get Serious	INDIFFERENT	7:57	Q63oOycu_lg	MPREb_yvD33IFAqqC	UCfitGSoO3lz5jmePrka339w
-661	Baby Powder	Jenevieve	Baby Powder	INDIFFERENT	2:58	sLSGEqCzPr8	MPREb_xurEM5uE8U3	UCr1ujm0RAUkarTcPr-8NjhQ
+661	Baby Powder	Jenevieve	Division	INDIFFERENT	2:57	dmqHmF6Ucs0	MPREb_5jMKoTPZLXW	UCr1ujm0RAUkarTcPr-8NjhQ
 941	A Big Blue World	Jeb Stuart	Fernwood Rhythm 'N' Blues From Memphis	INDIFFERENT	2:45	aqgj-fj46kM	MPREb_2lKOBAOoR1m	UCxrcjG6B1vZSLE8R7luZRRA
 355	Mr. Big Stuff	Jean Knight	Stax Number Ones	INDIFFERENT	2:34	G6eLc0ElqzM	MPREb_wKAm6S4Ecnm	UCSauiTLxCZCyodLwlNnQBnQ
 750	That's The Way Love Goes	Janet Jackson	janet.	INDIFFERENT	4:26	TJgiTCkoJFM	MPREb_z2LdlHswkY3	UCd6_LdvB_IdhYOGR-HSJziA
@@ -644,8 +644,8 @@
 792	The Love I Lost (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes	Black & Blue (Expanded Edition)	INDIFFERENT	6:25	dygTF90gnqA	MPREb_rPkFut1m2pq	UCNDC_i6KiHbdZn1pTasRN4A
 931	Things Ain't What They Used To Be	Harold Burrage	Chicago Soul Cellar	INDIFFERENT	2:56	UAUFrlOBFtg	MPREb_4Yh54bxON3N	UCJCEVJ0b55pYria_eR_wTuA
 937	You Make Me So Happy	Harold Burrage	Chicago Soul Cellar	INDIFFERENT	2:51	ka9hs_rKbXw	MPREb_4Yh54bxON3N	UCJCEVJ0b55pYria_eR_wTuA
-864	Finger Poppin Time	Hank Ballard & The Midnighters	The Best of Hank Ballard	INDIFFERENT	2:35	6GTgD5-Tq0Y	MPREb_5TSB4JC16yV	UC1lP2FMKq5hH3RcuvyWBqyQ
-878	She's the One	Hank Ballard & The Midnighters	Rock & Roll Will Always Be Here, Vol. 3	INDIFFERENT	2:11	y_dLp6CYTHI	MPREb_JRF1Z64jVnU	UCpN3U4YgaCvNOykZUPB6vqw
+864	Finger Poppin Time	Hank Ballard & The Midnighters	The Best of Hank Ballard	INDIFFERENT	2:36	6GTgD5-Tq0Y	MPREb_5TSB4JC16yV	UC1lP2FMKq5hH3RcuvyWBqyQ
+878	She's the One	Hank Ballard & The Midnighters	Rock & Roll Will Always Be Here, Vol. 3	INDIFFERENT	2:24	y_dLp6CYTHI	MPREb_JRF1Z64jVnU	UCpN3U4YgaCvNOykZUPB6vqw
 872	Sexy Ways	Hank Ballard	Voodoo Friends	INDIFFERENT	2:31	YZ5Gvw1E1vk	MPREb_yDlMD6oVZJK	UC1lP2FMKq5hH3RcuvyWBqyQ
 663	Good To Me	H.E.R.	I Used To Know Her	INDIFFERENT	7:11	pbHHdTGEtgo	MPREb_RgcG5X8L72A	UCeOvrkZes_-LywIjFvbaxug
 900	Funky Pete Pt. 1	Guitar Ray	Feeling Nice	INDIFFERENT	2:47	EGPmC05zjh4	MPREb_rpaG6v6sR0M	
@@ -730,7 +730,7 @@
 936	The Grunt	Eddie Kirk	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:49	6pXR-YoIQI4	MPREb_aKQBOtnUTpc	UCZulqmytPq6QNGXKfRlstgg
 46	Keep On Truckin'	Eddie Kendricks	20th Century Masters: The Millennium Collection: Best of Eddie Kendricks	INDIFFERENT	3:34	_eIi0VoneNo	MPREb_kQiucDrWM0j	UCE7plvsHfjym7495UD4RcpA
 456	Day By Day	Eddie Kendricks	People... Hold On	INDIFFERENT	3:17	nlHHwrBtW_M	MPREb_bHPlyLs5v4L	UCE7plvsHfjym7495UD4RcpA
-805	Keep On Truckin' (Pt. 1 / Single Version)	Eddie Kendricks	Hitsville USA, The Motown Collection 1972-1992	INDIFFERENT	3:33	UjKwmlH0EJE	MPREb_amrrB6ycl3b	UCE7plvsHfjym7495UD4RcpA
+805	Keep On Truckin'	Eddie Kendricks	Hitsville USA, The Motown Collection 1972-1992	INDIFFERENT	3:33	UjKwmlH0EJE	MPREb_amrrB6ycl3b	UCE7plvsHfjym7495UD4RcpA
 52	Hey There Lonely Girl	Eddie Holman	I Love You	INDIFFERENT	3:36	0tSpZnVnSLQ	MPREb_SRwaKamKavs	UC62ZqqCp5axDnnYNDmClRpQ
 38	Knock On Wood	Eddie Floyd	Rare Stamps	INDIFFERENT	3:08	dDloXGfNGus	MPREb_oyff6EGn3Gs	UCWLQEbqa5zFzVGGeF6ZiOgg
 98	Knock on Wood	Eddie Floyd	Stax/Volt - The Complete Singles 1959-1968 - Volume 6	INDIFFERENT	3:05	0L2jSDWgg-8	MPREb_cUUCsgVmr0L	UCWLQEbqa5zFzVGGeF6ZiOgg
@@ -781,10 +781,10 @@
 779	I'm Coming Out	Diana Ross	Diana	INDIFFERENT	5:25	AGO19YOaw6U	MPREb_vDPFdpmYv9G	UCVR2VvYRNXGjByS4VvkOYOQ
 802	I'll Keep My Light In My Window	Diana Ross	Diana & Marvin	INDIFFERENT	4:28	1GWEI3XYvOk	MPREb_y7Jmbtymi5r	UCVR2VvYRNXGjByS4VvkOYOQ
 693	You Make Me Feel Brand New	Dezron Douglas	You Make Me Feel Brand New	INDIFFERENT	6:34	kn71f8ecnJ8	MPREb_5pXpgmdHiJt	UCPjQaMPk2DotjfPJS3bk25Q
-702	Thank Me Later (Again)	Devon Gilfillian	Black Hole Rainbow (Deluxe Edition)	INDIFFERENT	4:02	8v4g76dHLk4	MPREb_QznQihmVkJS	UCWsDJ1lOND0cedEfiba2Qgw
+702	Thank Me Later (Again)	Devon Gilfillian	Black Hole Rainbow	INDIFFERENT	4:02	8v4g76dHLk4	MPREb_QznQihmVkJS	UCWsDJ1lOND0cedEfiba2Qgw
 718	It's Down to You	Deva Mahal	It's Down to You	INDIFFERENT	5:01	6jcqAypiZQk	MPREb_ZtudT3OJl5W	UCffqWqE99N4NExGxKtq8-bQ
 895	Daddy Rollin' Stone	Derek Martin	The Sue Records Story: The Sound Of Soul	INDIFFERENT	2:29	VL0D7YNrjbg	MPREb_K2euJi7oIKX	UC6BiyqCmYhVBoVKflxZixwg
-560	Love Makes The World Go Round (Re-Recording)	Deon Jackson	Sweet Soul Music	INDIFFERENT	2:28	V2t94nly0V8	MPREb_fpwwdzjOWnh	UCNH60QfzOia_-i7NZHh8GYQ
+560	Love Makes The World Go Round (Re-Recording)	Deon Jackson	Sweet Soul Music	INDIFFERENT	2:29	V2t94nly0V8	MPREb_fpwwdzjOWnh	UCNH60QfzOia_-i7NZHh8GYQ
 295	There Was A Time	Dee Felice Trio	James Brown's Funky People, Part 3	INDIFFERENT	2:58	q7ZxnhL6nlE	MPREb_ihsXYyAGwkV	UCdsSBL_HeO87HGH_jxdiIOw
 870	Nightingale	Dee Felice Trio	What's Wrong With Groovin	INDIFFERENT	2:30	6BFQzcGMRNo	MPREb_fV5PJcCQDFp	UCdsSBL_HeO87HGH_jxdiIOw
 912	Skate	Dean Parrish	Creative Musicians	INDIFFERENT	5:08	sjRMID8Bxdk	MPREb_gSfDkN1IVF3	

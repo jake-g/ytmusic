@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 5	og sx live sesh	bsd.u	pook	LIKE	1:46	TDLvW4jOSWA	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
 9	i jus been chillin dude	bsd.u	pook	LIKE	2:07	rq7xS4PUMMo	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
+255	Slow Hours	Weird Inside	Slow Hours	LIKE	2:26	rFm4S4_Bi3s	MPREb_NnRqX8wh2wd	UCSEeR3zYeuWgLiRbG-KQMlQ
 315	808 Dreams	VAPERROR	Mana Pool	LIKE	2:42	CEaRON-XP3g	MPREb_jlma4s4YilZ	UCiHMAJ0JGY2IaSM1oOL7GiQ
 24	Sentimental Trash	Sweet Valley	Eternal Champ	LIKE	3:06	dX9l5edSoSQ	MPREb_EUXnUaPcyOc	UCcAQxd4vVXp6mp8_H3HII4w
 15	Dropp	Suicideyear	Japan	LIKE	4:05	0o3fRDOMs2I	MPREb_sAH97sGkxDc	UCotl_TZK1Adswq_BjPqfiKg
@@ -101,7 +102,6 @@
 285	Night Walk	Wun Two	Penthouse	INDIFFERENT	2:01	SnJS0tupdpE	MPREb_oVugL9OTxyB	UCHg0Fk93W8dITmSnb2lxYIw
 293	Snowing	Wun Two	Snow, Vol. 2	INDIFFERENT	2:05	_c8A6kjI1Io	MPREb_2MX0gEyYOoq	UCHg0Fk93W8dITmSnb2lxYIw
 595	Cocktails for Two	Wun Two	Penthouse	INDIFFERENT	2:04	_n7qwmC0Kb0	MPREb_oVugL9OTxyB	UCHg0Fk93W8dITmSnb2lxYIw
-255	Slow Hours	Weird Inside	Slow Hours	INDIFFERENT	2:26	rFm4S4_Bi3s	MPREb_NnRqX8wh2wd	UCSEeR3zYeuWgLiRbG-KQMlQ
 296	Wishing Well	Weird Inside	As We Know	INDIFFERENT	3:33	thBf42M_PqU	MPREb_h9ERyZex5RI	UCSEeR3zYeuWgLiRbG-KQMlQ
 594	Cycles	Weird Inside	Cycles	INDIFFERENT	1:50	l70FJ4tET5k	MPREb_G3TC2tw7kLT	UCSEeR3zYeuWgLiRbG-KQMlQ
 624	The Sculptor	Weird Inside	The Sculptor	INDIFFERENT	2:09	Z2qft-JV940	MPREb_9Xze23vLl3n	UCSEeR3zYeuWgLiRbG-KQMlQ
@@ -782,7 +782,7 @@
 77	The Red Carpet (feat. Raekwon & Ras Kass)	Evidence	Cats & Dogs (Deluxe Edition)	INDIFFERENT	4:46	yZUIg51VvFw	MPREb_1qBxbgebiNv	UCx6rDjSKJDNj13CefDRYdwA
 486	Self Taught	Evidence	Green Tape Instrumentals	INDIFFERENT	2:39	WiP_GtIMhOM	MPREb_xppgq5xQETO	UCx6rDjSKJDNj13CefDRYdwA
 492	Scrolling	Evidence	Green Tape Instrumentals	INDIFFERENT	1:47	hlKI-tCEjhw	MPREb_xppgq5xQETO	UCx6rDjSKJDNj13CefDRYdwA
-797	Almeria	Everydayz	Almeria	INDIFFERENT	2:54	9JzExcAaA64	MPREb_cm3b6IDCMkX	UCCkXDcpIrQ1kgukQ45O7lgA
+797	Almeria	Everydayz	Almeria	INDIFFERENT	2:55	9JzExcAaA64	MPREb_cm3b6IDCMkX	UCCkXDcpIrQ1kgukQ45O7lgA
 928	Dreams	Eric Lau	Examples	INDIFFERENT	2:06	mSLBklA5m0g	MPREb_w9OxppYhTzL	UChBSm_SAbI3hEJr4vMifAxA
 391	Moisture	Eprom	Halflife	INDIFFERENT	2:09	TcZVdi-1zds	MPREb_KW4AhwAIkr2	UC1FWbNzcyEsTKcv384NCPOA
 358	Periscope Up	Emancipator	Soon It Will Be Cold Enough	INDIFFERENT	3:05	QvNRIcwiXVY	MPREb_1Eejvi2xh4U	UChNB35QmqX81vSbDXDR3i4w
@@ -1027,8 +1027,8 @@
 1013	Become Still	AFTA-1	F O R M	INDIFFERENT	3:55	CYSZGZdmcwo	MPREb_r3ay9EVrJto	UCpgcfaoN_Rhuixg9fk0n68Q
 359	Unspoken	A.M. Architect	The Road to the Sun	INDIFFERENT	3:47	MH4zidoiDOE	MPREb_7UHQXQPI5QG	UCG46bSKTCaIIVGryWOfwKCA
 338	Word Play	A Tribe Called Quest	Beats, Rhymes & Life	INDIFFERENT	3:00	LfWtkay3lEo	MPREb_mlFnXKcYqcN	UCiOPPAw9e2Fj-i2uMNpoRNQ
-257	Zeldas Lullaby	A L E X	Growing Up, Vol. 1	INDIFFERENT	2:59	jhufM4oeBqE	MPREb_VtbBSg04aNT	UCwO1d0KbLcgjncMtDfbWhRw
-616	Missing My Ntpp	A L E X	Growing Up, Vol. 1	INDIFFERENT	2:22	-yGJMTeW_hw	MPREb_VtbBSg04aNT	UCwO1d0KbLcgjncMtDfbWhRw
+257	Zeldas Lullaby	A L E X	Growing Up, Vol. 1	INDIFFERENT	3:00	jhufM4oeBqE	MPREb_VtbBSg04aNT	UCwO1d0KbLcgjncMtDfbWhRw
+616	Missing My Ntpp	A L E X	Growing Up, Vol. 1	INDIFFERENT	2:23	-yGJMTeW_hw	MPREb_VtbBSg04aNT	UCwO1d0KbLcgjncMtDfbWhRw
 496	Dance With Me (Instrumental)	9th Wonder & Murs	The Final Adventure (Instrumentals)	INDIFFERENT	3:27	aI9UNT2NR-8	MPREb_yZ9lduIMqHd	UC1yfRGaTm0iHzf56p8fwn3Q
 344	Brooklyn In My Mind (feat. Mos Def, Memphis Bleek & Jean Grae)	9th Wonder	The Dream Merchant 2	INDIFFERENT	4:25	nqc4SNYAe0s	MPREb_wTfH33d4MmE	UC1yfRGaTm0iHzf56p8fwn3Q
 668	E M Dirty	9th Wonder	Zion	INDIFFERENT	2:06	J8LbllqhCZk	MPREb_bJCrhLkXxBe	UC1yfRGaTm0iHzf56p8fwn3Q
