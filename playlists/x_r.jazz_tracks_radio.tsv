@@ -1,19 +1,18 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-227	Take Five	The Dave Brubeck Quartet	Time Out	LIKE	5:25	ryA6eHZNnXY	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
-230	Don't Stop 'Til You Get Enough	Michael Jackson	Off the Wall	LIKE	6:06	n3qQtSRmHxo	MPREb_W5qN7flBszY	UCoIOOL7QKuBhQHVKL8y7BEQ
-228	Water No Get Enemy	Fela Kuti	Expensive Shit	LIKE	11:00	Ea6vZJ9BEKs	MPREb_sImtCgnpIgw	UCoFUl09hePTptc4UOSISC9Q
-229	Autumn Leaves	Cannonball Adderley	Somethin' Else (Rudy Van Gelder Edition)	LIKE	11:00	CpB7-8SGlJ0	MPREb_7VEcMqni2Rt	UCRQLvDfTNOFUgst4GpnyDvA
 31	It Could Happen To You	福居良	シーナリィ	INDIFFERENT	4:17	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+285	Lotus 72 D (Fast Version)	Zé Roberto	Lotus 72 D	INDIFFERENT	3:00	8XCAGBc7X2Y	MPREb_lSfUfGpQ3IS	UCF9F0lWMK-N9RaGepstMlGA
 115	Crush (feat. Usher)	Yuna	Chapters (Deluxe)	INDIFFERENT	4:03	zEN5ssnldUw	MPREb_Hg5VQbs8glT	UCG5bt-tMFnUv3IzooTE9Rqg
 194	The Big Chill (feat. Roytivation)	Wissam Saliba	The Big Chill	INDIFFERENT	3:22	8QOprN_3HvA	MPREb_ZqrOZQpHZwD	
+279	Four On Six (feat. Tommy Flanagan, Percy Heath & Albert Heath)	Wes Montgomery	The Incredible Jazz Guitar (Keepnews Collection)	INDIFFERENT	6:15	9PD2Q7TXmvU	MPREb_ExKlvjP0Cm7	UCYs8ep9Xe3RQc3Oy4BWKNAw
 8	Birdland	Weather Report	Heavy Weather	INDIFFERENT	5:57	SvhmaNlLgRM	MPREb_Abm9HUJNq1Q	UCIarlYUBEI7vNYAyrt4vRlQ
-232	Black Market	Weather Report	Black Market	INDIFFERENT	6:28	hBtB3QLCP2c	MPREb_JT1P00lS600	UCIarlYUBEI7vNYAyrt4vRlQ
+228	Black Market	Weather Report	Black Market	INDIFFERENT	6:28	hBtB3QLCP2c	MPREb_JT1P00lS600	UCIarlYUBEI7vNYAyrt4vRlQ
 186	Speak No Evil (Remastered 1998 / Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil	INDIFFERENT	8:24	Vdc3KJVopU4	MPREb_YdfvnV0sRce	UC3X4afoYfFCLWw1LTfeLCqA
 13	O Tannenbaum	Vince Guaraldi Trio	A Charlie Brown Christmas	INDIFFERENT	5:05	otc3W56ns1M	MPREb_ANI0kgwk4xM	UC_DRP-u7c3iOwytg4-ddifw
+273	Hindewhu (Whistle) Solo	Unknown Artist	Anthology Of World Music: Africa - The Ba-Benzele Pygmies	INDIFFERENT	2:04	f0xOuCjXSvQ	MPREb_k4H1OsDzDps	
 150	The Lady is a Tramp	Tony Bennett	60 Years: The Artistry of Tony Bennett	INDIFFERENT	3:17	Dme4Ll9QsJo	MPREb_qBHAvBnXDu2	UCQgu2j5deAy_cJfByew18qg
 164	Body and Soul	Tony Bennett	Duets II	INDIFFERENT	3:21	cQ0b7UV7GOQ	MPREb_vRuxz4wlhOE	UCQgu2j5deAy_cJfByew18qg
 88	Oriente	Tito Puente	El Rey Y Yo	INDIFFERENT	4:06	17B1UhKomGs	MPREb_ZVoPYFyw8jf	UCXsmbH-Rt-ME375T57ZmeKw
-17	Uh Uh	Thundercat	Drunk	INDIFFERENT	2:15	XjyYB3AI304	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
+17	Uh Uh	Thundercat	Drunk	INDIFFERENT	2:16	wawFGZQSqYk	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
 192	Bass	Theremin	Wicked World	INDIFFERENT	3:33	WLTGQ9s5LTU	MPREb_UCIdviSv2mC	UCoHgPKzqkT946kTJJq9wHYw
 147	Don't Blame Me (Retake 1)	Thelonious Monk	Criss-Cross	INDIFFERENT	7:10	s2Qhal86M8M	MPREb_zkV6LeL3HKt	UCyCL_gVNVoWZTjkw-KnuIDg
 148	'Round Midnight	The Wes Montgomery Trio	The Wes Montgomery Trio	INDIFFERENT	4:53	nA___-b3Fn4	MPREb_5vZA13y0CQ3	UCYs8ep9Xe3RQc3Oy4BWKNAw
@@ -24,7 +23,8 @@
 151	C Jam Blues	The Oscar Peterson Trio	Night Train (Expanded Edition)	INDIFFERENT	3:23	PrEcT2Q51lw	MPREb_H5n9jJD0ij9	UCGO2MrCyB3dLCID5wLE0JUw
 7	It Never Entered My Mind	The Miles Davis Quintet	Workin' With The Miles Davis Quintet	INDIFFERENT	5:20	AJOVf0DH4x4	MPREb_Nm64m8m4vR8	UCIev2PktTH5mI-QlGmbUkiw
 224	Caravan (feat. The J.B. Dancers)	The James Brown Band	Live At The Apollo, Vol. II	INDIFFERENT	3:20	satd-w9X9HA	MPREb_2mMAD1aFKZw	UCLSKiNGc_qBWJJ-m5y3jDEw
-235	Kathy's Waltz	The Dave Brubeck Quartet	Time Out	INDIFFERENT	4:48	z8GLQycLjDg	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
+231	Kathy's Waltz	The Dave Brubeck Quartet	Time Out	INDIFFERENT	4:48	z8GLQycLjDg	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
+296	Take Five (Live)	The Dave Brubeck Quartet	At Carnegie Hall	INDIFFERENT	7:17	sy77iur-4_s	MPREb_oqvNo5GeVi7	UCMBevFAp40kVlvIcOvzv5Bw
 215	"The Imperial March (Darth Vader's Theme) [From ""The Empire Strikes Back""]"	The Andrew Allen Trio	Live! from the Cantina: A Star Wars Jazz Tribute	INDIFFERENT	3:03	ihIfomgYZCE	MPREb_dkR8wK5hIA9	UCCbpLl0C4vJnSWnTXbS0y6g
 179	Crayola (feat. Esperanza Spalding)	Terri Lyne Carrington	The Mosaic Project	INDIFFERENT	4:29	ex_wo9DelUE	MPREb_7L0G25XsBne	UC4mC0JTLeV66VrmOhghc7dQ
 220	Unconditional Love	Terri Lyne Carrington	The Mosaic Project	INDIFFERENT	5:56	RncPYbAjBms	MPREb_7L0G25XsBne	UC4mC0JTLeV66VrmOhghc7dQ
@@ -44,9 +44,10 @@
 175	Shofukan	Snarky Puppy	We Like It Here	INDIFFERENT	6:34	zlvW64WUOK0	MPREb_3wPwB6R7RyX	UCC5bpnLxD4Wf8a1DUCtvLaA
 218	I Asked (feat. Becca Stevens & Väsen)	Snarky Puppy	Family Dinner, Vol. 2 (Deluxe)	INDIFFERENT	6:54	95mHGHi2jJ0	MPREb_fF0zfjEuqVR	UCC5bpnLxD4Wf8a1DUCtvLaA
 6	Tank!	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	INDIFFERENT	3:31	UFFa0QoHWvE	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
+271	Rush	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	INDIFFERENT	3:35	XtxsYF4e3uM	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
 110	Misty	Sarah Vaughan	Vaughan And Violins	INDIFFERENT	3:03	3U7eONfHQcI	MPREb_utVtGJ4PJOf	UCVIvDAZP_e1e3bKzKFaPfig
 152	Once in a while	Sarah Vaughan	Gold Collection	INDIFFERENT	3:07	G0noJq83NtY	MPREb_7rS95Fba36W	UCVIvDAZP_e1e3bKzKFaPfig
-242	Dreaming Of (feat. Jared Griffin)	Sammy Haig	Cucumber	INDIFFERENT	3:30	Gz655TsSIEo	MPREb_js0BOSIrTFY	
+238	Dreaming Of (feat. Jared Griffin)	Sammy Haig	Cucumber	INDIFFERENT	3:30	Gz655TsSIEo	MPREb_js0BOSIrTFY	
 106	By Your Side	Sade	Lovers Rock	INDIFFERENT	4:35	eplGg6JgvPM	MPREb_Qk2kfR8ty2x	UCgxBu-PnULL4WRG7HcNpRvg
 107	Is It a Crime	Sade	Promise	INDIFFERENT	6:22	uScPm9AQYjw	MPREb_TUbd1UJ765x	UCgxBu-PnULL4WRG7HcNpRvg
 108	Nothing Can Come Between Us	Sade	The Best of Sade	INDIFFERENT	3:55	MDw6zODvxFI	MPREb_6mgYXAVHMgn	UCgxBu-PnULL4WRG7HcNpRvg
@@ -56,22 +57,45 @@
 105	Let It Ride (feat. Norah Jones)	Robert Glasper Experiment	Black Radio 2	INDIFFERENT	7:07	93jS3bTBOW0	MPREb_mNsOtK1PDly	UCLFHVgbSwvTgM1PcsOCvHjw
 104	Gonna Be Alright (F.T.B.) (feat. Ledisi)	Robert Glasper	Black Radio	INDIFFERENT	6:11	e6Bz5HVbbgg	MPREb_5vdrZmHfN3d	UCLFHVgbSwvTgM1PcsOCvHjw
 130	Why Do We Try (feat. Stokley)	Robert Glasper	Black Radio	INDIFFERENT	6:32	PfUwankH1D4	MPREb_5vdrZmHfN3d	UCLFHVgbSwvTgM1PcsOCvHjw
+290	Fly Me to the Moon / Lucky (Mash-Up) [feat. Breea Guttery]	Rick Hale	Fly Me to the Moon / Lucky (Mash-Up) [feat. Breea Guttery]	INDIFFERENT	3:14	1w5kYuUlqL4	MPREb_oLt6ZxSTilI	UChbiNGnSd5KXrB5q2yCJnEg
 206	Sunshine (I Can Fly)	Raul Midón	State Of Mind	INDIFFERENT	4:34	P4W0_KvrA_w	MPREb_JrBJPbGdnYB	UC6fiZqn3cC7nZoSYmc8ARog
-250	The Inflated Tear (Live Version)	Rahsaan Roland Kirk	The Inflated Tear	INDIFFERENT	4:59	Hh_mv6OC0us	MPREb_kB19mopi7jV	UCTiNSXNO9lnIRvSoIOthGxA
+246	The Inflated Tear (Live Version)	Rahsaan Roland Kirk	The Inflated Tear	INDIFFERENT	4:59	Hh_mv6OC0us	MPREb_kB19mopi7jV	UCTiNSXNO9lnIRvSoIOthGxA
 226	Everything Must Change (Live) (feat. Mick Hucknall, James Morrison & Chaka Khan)	Quincy Jones	50 Years In Music: Quincy Jones & Friends (Live At Montreux Jazz Festival, Switzerland/1996)	INDIFFERENT	6:37	hxDAQTmiNLs	MPREb_TFN3dhXVS4Z	UCaBIjouEo87YhSGmPjuXDoA
 24	The Land Of Freedom	Quasimode	The Land Of Freedom	INDIFFERENT	6:10	WZP6jUmN8_8	MPREb_avqFBSAihbi	UCbIXU8qBIgBRc5ExZT05-MA
 168	Foreign	Playboi Carti	Die Lit	INDIFFERENT	2:23	cDSUwhqmUGw	MPREb_6Hlu7bz5KzT	UCRB-a6u9flpg0xuBqCf9QlQ
-249	The Creator Has A Master Plan	Pharoah Sanders	Karma	INDIFFERENT	32:47	ViweO33oo2Y	MPREb_mzPbdBT9qhW	UCodr57fCXekXqEeMRYMMjVg
+245	The Creator Has A Master Plan	Pharoah Sanders	Karma	INDIFFERENT	32:47	ViweO33oo2Y	MPREb_mzPbdBT9qhW	UCodr57fCXekXqEeMRYMMjVg
 149	Are You Going with Me?	Pat Metheny	Upojenie	INDIFFERENT	8:35	5_OJdz1gOwk	MPREb_e25yRY9q0Vg	UCFFpzGzXK2Zw8fPher2JObA
-238	America Undefined	Pat Metheny	From This Place	INDIFFERENT	13:23	_7Dd6TReRF4	MPREb_meF3zgGTzYZ	UCFFpzGzXK2Zw8fPher2JObA
+234	America Undefined	Pat Metheny	From This Place	INDIFFERENT	13:23	_7Dd6TReRF4	MPREb_meF3zgGTzYZ	UCFFpzGzXK2Zw8fPher2JObA
 101	He venido a decirte	Omara Portuondo	Flor de Amor	INDIFFERENT	3:48	VmX2B-CkFBY	MPREb_GUwP59mGKKq	UCEu_xOkYMsl0v9Ei-wHaNtQ
-245	Stolen Moments	Oliver Nelson	The House That Trane Built: The Best of Impulse Records	INDIFFERENT	8:45	Q1dK1JHacbQ	MPREb_GT2O6YL7yvt	UCBQeutAJsXHfpzjZNPLSD6A
+241	Stolen Moments	Oliver Nelson	The House That Trane Built: The Best of Impulse Records	INDIFFERENT	8:45	Q1dK1JHacbQ	MPREb_GT2O6YL7yvt	UCBQeutAJsXHfpzjZNPLSD6A
 33	Ain't Got No - I Got Life	Nina Simone	'Nuff Said	INDIFFERENT	2:57	1eUKC3xcj8Q	MPREb_VvSRLiAWTRv	UCqj1HtTq76Bo6rBXNwrF5Uw
-241	I Wish I Knew How It Would Feel to Be Free	Nina Simone	The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl	INDIFFERENT	3:09	jFRtA6ETZ8s	MPREb_u4foPOYd5mP	UCqj1HtTq76Bo6rBXNwrF5Uw
+237	I Wish I Knew How It Would Feel to Be Free	Nina Simone	The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl	INDIFFERENT	3:09	jFRtA6ETZ8s	MPREb_u4foPOYd5mP	UCqj1HtTq76Bo6rBXNwrF5Uw
+274	Stars (Live at Montreux)	Nina Simone	BoJack Horseman (Music from the Netflix Original Series)	INDIFFERENT	6:36	bEhrdU3euM8	MPREb_6SeADoIyu5Z	UCqj1HtTq76Bo6rBXNwrF5Uw
+292	I Wish I Knew How It Would Feel to Be Free (Live – Montreux Jazz Festival 1976)	Nina Simone	I Wish I Knew How It Would Feel to Be Free (Live – Montreux Jazz Festival 1976)	INDIFFERENT	6:08	0Q_p19jJh88	MPREb_EQsMSphaX76	UCqj1HtTq76Bo6rBXNwrF5Uw
 212	Opposite People (feat. Seun Kuti, Cheick Tidiane Seck, Felipe Echavarría & Okon Lyamba)	Newen Afrobeat	Newen Plays Fela	INDIFFERENT	13:39	w-jS0g0v4us	MPREb_jxNzosSc0SK	UCmqGnpg4HKD9Pvc0sNYq6uQ
 188	When the Knife	Nai Palm	Needle Paw	INDIFFERENT	4:16	IYf3CVAEhvE	MPREb_1EHq2TVjHTa	UC2qLwPv7-pVfHYhorXMuo6A
 99	Baby, This Love I Have	Minnie Riperton	Adventures In Paradise	INDIFFERENT	4:10	3vuYaozki_Q	MPREb_rzoT7CJJqjq	UCv1yAQtnxc8apPge7vRJiqw
 100	Inside My Love	Minnie Riperton	Adventures In Paradise	INDIFFERENT	4:48	jlgp-jjHzC0	MPREb_rzoT7CJJqjq	UCv1yAQtnxc8apPge7vRJiqw
+251	Au Bar Du Petit Bac	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:54	xsX341eNkoc	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+252	Generique	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:50	tz0xcrRko8Q	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+253	Chez Le Photographe Du Motel	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	3:54	yKHBMe0y63Y	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+254	Nuit Sur Les Champs-ELysees (Florence Sur Les Champs-ELysees)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	3:02	1z0-T959FlU	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+255	Final (Chez Le Photographe Du Motel)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	4:09	2JyTMonMln8	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+256	Assassinat (Take 1) (Visite Du Vigile)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:07	GAeavzhfKz8	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+257	Julien Dans L'Ascenseur	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:09	b644T5CSLtQ	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+258	Diner Au Motel	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	3:59	gYHkm03DKM8	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+259	Nuit Sur Les Champs-ELysees (Generique)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:55	nG9NwZ_9cLA	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+260	Florence Sur Les Champs-Elysees	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:52	HmUA_23uWdk	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+261	L'Assassinat De Carala	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:11	unya2Scp6qA	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+262	Le Petit Bal (Au Bar Du Petit Bac)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:57	UOU2ws153uE	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+263	Visite Du Vigile	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:06	V1o7f32GteQ	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+264	Motel (Diner Au Motel)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	4:01	dVF89n3QIBc	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+265	Sur L'Autoroute	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:20	EFPxWe11pTc	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+266	Assassinat (Take 2) (Julien Dans L'ascenseur)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:14	LOmFI6kcdqs	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+267	Evasion De Julien	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	0:54	oYCJU6NGnOQ	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+268	Ascenseur (Evasion De Julien)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:04	RRDp284nXsw	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+269	Sequence Voiture (Sur L'Autoroute)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:22	cOzrzP2doWM	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
+270	Assassinat (Take 3) (L'assassinat De Carala)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:13	Ol7UGAAUw0A	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
 98	Time After Time	Miles Davis	You're Under Arrest	INDIFFERENT	3:39	sZraztL63tg	MPREb_twQSz9hKvgE	UCIev2PktTH5mI-QlGmbUkiw
 184	On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	INDIFFERENT	9:50	DR_SnnWhlrM	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
 97	Popsicle Toes	Michael Franks	The Best Of Michael Franks: A Backward Glance	INDIFFERENT	4:35	982_dWnwsIg	MPREb_SllEjx8uAoY	UCe1H6pPq_H79ZldTBHl2dFA
@@ -106,27 +130,36 @@
 204	Si Vuelves Tú	La Lupe	The Two Sides Of La Lupe	INDIFFERENT	3:17	mCB1EAbjZOQ	MPREb_aIbMdMhuxdd	UCxONd5Ykmbwwl_VjcOM1YxA
 210	Besito Pa Tí	La Lupe	One Of A Kind	INDIFFERENT	5:18	KrQ18mojc8o	MPREb_V932lzL3bzq	UCxONd5Ykmbwwl_VjcOM1YxA
 180	Diatom Ribbons (feat. JD Allen & Tony Malaby)	Kris Davis	Diatom Ribbons	INDIFFERENT	6:19	odKBmOPz4bs	MPREb_wu8efAbEePp	UCyDwsO5DP02SllIe5GjIDmA
-19	Cherokee	Kamasi Washington	The Epic	INDIFFERENT	8:14	-8EtGVXr-jU	MPREb_Iq7CDlH0fDN	UC0G-IaG6Q0eawu8N_6OAZxw
+19	Cherokee	Kamasi Washington	The Epic	INDIFFERENT	8:14	VaFbI_XYadQ	MPREb_BZTtO2ccc3M	UC0G-IaG6Q0eawu8N_6OAZxw
 208	Hub-Tones	Kamasi Washington	Heaven and Earth	INDIFFERENT	9:11	b1zz5m1YSCM	MPREb_nKVpAGmmfqV	UC0G-IaG6Q0eawu8N_6OAZxw
-239	The Magnificent 7	Kamasi Washington	The Epic	INDIFFERENT	12:46	hO48l0JISrg	MPREb_BZTtO2ccc3M	UC0G-IaG6Q0eawu8N_6OAZxw
+235	The Magnificent 7	Kamasi Washington	The Epic	INDIFFERENT	12:46	hO48l0JISrg	MPREb_BZTtO2ccc3M	UC0G-IaG6Q0eawu8N_6OAZxw
+293	Hey (Extended Mix)	KING	We Are KING	INDIFFERENT	6:36	-3q1G9Nu-Mw	MPREb_2cMC3JSJ8NV	UCuhv1CDrfQly1Faj5hxT9WA
 20	Suit & Tie (feat. Jay-Z)	Justin Timberlake	The 20/20 Experience (Deluxe Version)	INDIFFERENT	5:27	L8Jj2LeZNDo	MPREb_TRM5fgcLz94	UC6VwktUsQQDCkHG1h6YftAQ
+294	Aquarela Do Brasil (feat. Gilberto Gil, Caetano Veloso & Maria Bethânia)	João Gilberto	Brasil	INDIFFERENT	6:36	X5Nv1YB7vB8	MPREb_0JtrCKG8CRp	UCOO1sDcQ7DpldFvXVNPXMFA
 199	Lovely Day (feat. Lalah Hathaway)	José James	Lean On Me	INDIFFERENT	4:15	UdLQKjDC65g	MPREb_OZ9kiGkHEZ7	UCqbEjbr75QR8InAFtF_Lt3w
 10	Both Sides Now	Joni Mitchell	Both Sides Now	INDIFFERENT	5:46	7cBf0olE9Yc	MPREb_sox86cMb8NJ	UCvlAqrv-_NlUzyFFhhep7PQ
 182	I Can't Play Piano, Pt. 1	Jon Benjamin - Jazz Daredevil	Well, I Should Have…*	INDIFFERENT	3:39	DTQEVXLAfc4	MPREb_4t4CnprUsz4	UCnlHtbD_iR-dk_f6dQZqsng
+278	Yoda's Theme	John Williams	Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)	INDIFFERENT	3:28	9C8J-jhMtRA	MPREb_r5voX9T7gfK	UCfv8TEQ44ej9uPGF-SNsDBA
+289	Han Solo and the Princess	John Williams	Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)	INDIFFERENT	3:28	zIQLjKJ2Yto	MPREb_r5voX9T7gfK	UCfv8TEQ44ej9uPGF-SNsDBA
+295	Lando's Palace	John Williams	Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)	INDIFFERENT	3:53	nIcSjmRWbCY	MPREb_r5voX9T7gfK	UCfv8TEQ44ej9uPGF-SNsDBA
 0	Mr. P.C.	John Coltrane	Giant Steps (Mono)	INDIFFERENT	6:58	oHDsywpCHj4	MPREb_BJKgP7wXKcO	UCH4T2kv7rr9qnuP0DOXLxMA
 14	26-2	John Coltrane	Heavyweight Champion: The Complete Atlantic Recordings	INDIFFERENT	6:12	YRpSFx23sKQ	MPREb_6xPlWh2Nsjn	UCH4T2kv7rr9qnuP0DOXLxMA
-251	A Love Supreme, Pt. IV - Psalm	John Coltrane	A Love Supreme	INDIFFERENT	7:02	gta2GOqvjVE	MPREb_hyFoyR9KdiL	UCH4T2kv7rr9qnuP0DOXLxMA
+247	A Love Supreme, Pt. IV - Psalm	John Coltrane	A Love Supreme	INDIFFERENT	7:02	gta2GOqvjVE	MPREb_hyFoyR9KdiL	UCH4T2kv7rr9qnuP0DOXLxMA
+272	Lush Life	John Coltrane	100 Quality Jazz Classics, Vol. 1	INDIFFERENT	13:52	eftfQM_ZMnw	MPREb_d5O3gvbGuXd	UCH4T2kv7rr9qnuP0DOXLxMA
+276	Giant Steps	John Coltrane	熱血ジャズ	INDIFFERENT	4:46	etvRB7EMeVc	MPREb_sCGj4q9q1T8	UCH4T2kv7rr9qnuP0DOXLxMA
 9	Giant Steps	Joey Alexander	My Favorite Things	INDIFFERENT	10:15	fdPHCeudjrM	MPREb_zigTPNZXrVc	UCCI1GU-HeUPLgxB-uE6jhMw
 187	Carinhoso	Joan Chamorro	Joan Chamorro Presenta Rita Payés	INDIFFERENT	3:52	yVZqotE7Vb4	MPREb_UlVUvfj0WYV	UCwHaVyDT__LGBh_Wk4OhwlA
+288	After You´ve Gone (feat. Magalí Datzira, Rita Payés, Andrea Motis & Eva Fernández)	Joan Chamorro	Joan Chamorro Presenta La Màgia De La Veu	INDIFFERENT	3:37	WOEZRJ2s730	MPREb_P2nIWeMf1Bl	UCwHaVyDT__LGBh_Wk4OhwlA
 80	So In Love (feat. Anthony Hamilton)	Jill Scott	The Light Of The Sun	INDIFFERENT	4:35	HfmKR4mus08	MPREb_cUlNTwzw71k	UCYAoAgoEY3HPmybt1JxsT9Q
-243	Night in Tunisia	Jesus Molina	Night in Tunisia	INDIFFERENT	3:37	0PLQPrllD7c	MPREb_PHOEo0xvTVT	UCCChxKSz8UoL-7wBFSETX3Q
+239	Night in Tunisia	Jesus Molina	Night in Tunisia	INDIFFERENT	3:37	0PLQPrllD7c	MPREb_PHOEo0xvTVT	UCCChxKSz8UoL-7wBFSETX3Q
+286	Cantaloupe Island (Live)	Jeff Goldblum & The Mildred Snitzer Orchestra	Cantaloupe Island (Live)	INDIFFERENT	5:43	GRV5LXJHmSQ	MPREb_0Xx5SbkouOi	UCmFvyRhqW_UtVs2aJX7rnkg
 159	Find My Way To Love (Chantae Cann)	Jaspects	The Polkadotted Stripe	INDIFFERENT	5:17	P_n3kYNeO34	MPREb_uFvOU97oxZk	UCzMyxJ6I87Y1Ogg9gqXTYKg
 198	Q.U.E.E.N. (feat. Erykah Badu)	Janelle Monáe	The Electric Lady	INDIFFERENT	5:10	gVLJ-PeSJFA	MPREb_Jds2kmxczE0	UCrNIFgOKG5quy6NeSRiwmog
 120	People Get Up And Drive Your Funky Soul (Remix)	James Brown	Motherlode	INDIFFERENT	9:05	Nl-RVIdTUVI	MPREb_wutkeu5Sqk5	UCLSKiNGc_qBWJJ-m5y3jDEw
 178	All Night Long (feat. Take 6)	Jacob Collier	Djesse Vol. 1	INDIFFERENT	7:20	OicA8_E5EWQ	MPREb_lpYSg1GwrTr	UCNT3LDWzyiCrA8hH7KbVTLg
 12	Donna Lee	Jaco Pastorius	Jaco Pastorius	INDIFFERENT	2:28	dGbCxcuNjBU	MPREb_uoJQq4Jz4U3	UCMqkrvIKlZTAv2zTYXy1YjA
 79	Portrait of Tracy	Jaco Pastorius	Jaco Pastorius	INDIFFERENT	2:23	IqndXUPBjIo	MPREb_uoJQq4Jz4U3	UCMqkrvIKlZTAv2zTYXy1YjA
-252	Red Clay	Jack Wilkins	Windows	INDIFFERENT	4:59	D9W7hB7lGN0	MPREb_htBvKJ5FESG	UCYhaeibrXs0SFV06tU4th3Q
+248	Red Clay	Jack Wilkins	Windows	INDIFFERENT	4:59	D9W7hB7lGN0	MPREb_htBvKJ5FESG	UCYhaeibrXs0SFV06tU4th3Q
 197	Plato De Segunda Mesa	Héctor Lavoe	Strikes Back	INDIFFERENT	4:43	FtBHjAkCpF4	MPREb_RkkeJLZ3Qnv	UCqT_XfFbiIGUAU1I8XLnjog
 209	Paraíso De Dulzura	Héctor Lavoe	La Voz	INDIFFERENT	4:36	HmAUUHGmssk	MPREb_5KPJFasoRzw	UCqT_XfFbiIGUAU1I8XLnjog
 217	Lloré	Héctor Lavoe	El Sabio	INDIFFERENT	6:22	o61RmjBKazY	MPREb_PuolcysiAEs	UCqT_XfFbiIGUAU1I8XLnjog
@@ -134,17 +167,18 @@
 77	Jekyll	Hiatus Kaiyote	Choose Your Weapon	INDIFFERENT	5:34	sm0NgVtz1YQ	MPREb_q18JTSxWqqA	UCaX2FBQMB9NHFBOTVMF_wpQ
 78	Nakamarra	Hiatus Kaiyote	Tawk Tomahawk	INDIFFERENT	4:35	8s3UtaLn8YY	MPREb_psxTi2IzZF5	UCaX2FBQMB9NHFBOTVMF_wpQ
 166	Building a Ladder	Hiatus Kaiyote	Choose Your Weapon	INDIFFERENT	5:43	GnxlHVdrmVE	MPREb_q18JTSxWqqA	UCaX2FBQMB9NHFBOTVMF_wpQ
+287	Maiden Voyage	Herbie Hancock	The Best Of Herbie Hancock	INDIFFERENT	7:59	oweS2PbRh_A	MPREb_hMtJsFvsx1u	UCq_O_14tCKbx9U9uUT_LEPA
 5	Below the Surface	Griffinilla	Below the Surface	INDIFFERENT	2:14	5e-MFhD1DOI	MPREb_LUcvtNGqYf4	UCdrKRFq_7_wt1naEPPOqBqA
 160	Butterfly	Gretchen Parlato	Live in NYC	INDIFFERENT	7:42	_pvACLi62CI	MPREb_CZ1oN32xc5w	UCqBqIOLrQ9iSJSp0TtuSICA
 176	In A Dream	Gretchen Parlato	In A Dream	INDIFFERENT	5:30	VlpaQjzfE6k	MPREb_jvUQsQiTse3	UCqBqIOLrQ9iSJSp0TtuSICA
 76	Be Good (Lion's Song)	Gregory Porter	Be Good	INDIFFERENT	6:26	_ZoXjWWeryI	MPREb_NOX8Mou1ALQ	UCInYGNXNtQLCoS7U03C8rVg
-253	The Bottle	Gil Scott-Heron	Aint Really A Life	INDIFFERENT	9:01	l63yRwqJYWg	MPREb_OQeFjlZ4MkA	UCO78NEi7Y7J3HKFuPke0LoA
+249	The Bottle	Gil Scott-Heron	Aint Really A Life	INDIFFERENT	9:01	l63yRwqJYWg	MPREb_OQeFjlZ4MkA	UCO78NEi7Y7J3HKFuPke0LoA
 193	It's On	George Duke	After Hours	INDIFFERENT	6:11	ZYElT-ISaEo	MPREb_UjWfC6nGaQc	UC8v5L8G_xVJr-7wwq4hF6Wg
 32	Give Me the Night	George Benson	Give Me the Night	INDIFFERENT	5:02	Omnpu8mzX4c	MPREb_ogfys6Wto3D	UC16DzwxorG8xZCoaqzaUQSQ
 221	This Masquerade (2000 Remaster)	George Benson	Breezin'	INDIFFERENT	8:04	j9W0g3NGSj4	MPREb_Bv6JiLfdtMu	UC16DzwxorG8xZCoaqzaUQSQ
 191	Funk For Your Ass (feat. Jab'o Starks, Clyde Stubblefield & Bootsy Collins)	Fred Wesley	Funk For Your Ass	INDIFFERENT	5:11	_VYGyHZjlio	MPREb_KdBdTXnx5sc	UCv6yOvGBJg9x6fkKZ3xhHtw
-246	Inca Roads	Frank Zappa	One Size Fits All	INDIFFERENT	8:45	vAGVQM6IAKk	MPREb_zWOoiaSpbIo	UCj5ZiBBqpe0Tg4zfKGHEFuQ
-247	Moonlight In Vermont	Frank Sinatra	Come Fly With Me	INDIFFERENT	3:33	VMDYd-j_Gas	MPREb_ijMxEg2vZ5E	UC1zsfp3OD8qWQ0HfLbz2TXg
+242	Inca Roads	Frank Zappa	One Size Fits All	INDIFFERENT	8:45	vAGVQM6IAKk	MPREb_zWOoiaSpbIo	UCj5ZiBBqpe0Tg4zfKGHEFuQ
+243	Moonlight In Vermont	Frank Sinatra	Come Fly With Me	INDIFFERENT	3:33	VMDYd-j_Gas	MPREb_ijMxEg2vZ5E	UC1zsfp3OD8qWQ0HfLbz2TXg
 132	Humpty Dumpty	Francisco Mela	Junjo	INDIFFERENT	5:51	ZJ9AyVSyDhk	MPREb_hngIYe75WAv	
 102	Prelude For Lovers	Fourplay	Energy	INDIFFERENT	3:09	WEvw4HmW3JQ	MPREb_INGBI0J5pt6	UCVPujHkQZVkA-Mp8gNFnt5w
 74	Say Yes	Floetry	Floetic	INDIFFERENT	4:28	vTFg3QjSfw4	MPREb_TxJimmu8DLb	UCH5_MK6DQFjTxnhFCwK9r9A
@@ -199,15 +233,17 @@
 51	My Funny Valentine	Ella Fitzgerald	Ella Fitzgerald Sings The Rodgers And Hart Song Book	INDIFFERENT	3:56	Rk5GV30k-ic	MPREb_YEM0v4CTr1D	UCuMHq8jMRZXpUxSGLBuCa9g
 52	These Foolish Things (Remind Me of You)	Ella Fitzgerald	Ella and Louis Again	INDIFFERENT	7:38	vZ6nOiL9fb0	MPREb_dcfU7ezOtpR	UCuMHq8jMRZXpUxSGLBuCa9g
 174	Cheek To Cheek	Ella Fitzgerald	Ella and Louis	INDIFFERENT	5:54	lGfeCe0DHtI	MPREb_7mxQOIPVwsz	UCuMHq8jMRZXpUxSGLBuCa9g
+283	All The Things You Are (feat. Nelson Riddle & His Orchestra & his orchestra)	Ella Fitzgerald	Ella Fitzgerald Sings The Jerome Kern Songbook	INDIFFERENT	3:15	ASNSS_G62zw	MPREb_nqlfaMq1jxJ	UCuMHq8jMRZXpUxSGLBuCa9g
 49	Chega De Saudade	Eliane Elias	Bossa Nova Stories	INDIFFERENT	3:21	iABrv2Kb40E	MPREb_sNTceniFztA	UCiYxpnxcKPUbnUtrtSBTPew
 48	Someone	El DeBarge	El DeBarge	INDIFFERENT	4:43	IrXE5FkeLa8	MPREb_w5zmX1T9npo	UC9mTyaZXWpea4WjpROa_DGg
 16	Sophisticated Lady	Duke Ellington	Masterpieces By Ellington	INDIFFERENT	11:28	IRBxSrtwbuc	MPREb_CEwWSLhTbLq	UCvwUPRgFawNNBdQg497gHJw
-236	"Take The ""A"" Train"	Duke Ellington	Swingin' With The Duke	INDIFFERENT	3:19	NZFlkIQm1H0	MPREb_yO2cecJd7qi	UCvwUPRgFawNNBdQg497gHJw
+232	"Take The ""A"" Train"	Duke Ellington	Swingin' With The Duke	INDIFFERENT	3:19	NZFlkIQm1H0	MPREb_yO2cecJd7qi	UCvwUPRgFawNNBdQg497gHJw
 47	A Song for You	Donny Hathaway	Donny Hathaway	INDIFFERENT	5:26	_F-WXPR7osQ	MPREb_kPRRXsshFOE	UCbo89_S75FvIugOzLaz1Z2g
-231	I'll See You In My Dreams	Django Reinhardt	Django Reinhardt from A to Z, Vol.3	INDIFFERENT	2:31	ig7Su2uHxRo	MPREb_6hsOyK1BPhq	UCDvzmvEF-ReWkWb8B_jL-qQ
+227	I'll See You In My Dreams	Django Reinhardt	Django Reinhardt from A to Z, Vol.3	INDIFFERENT	2:31	ig7Su2uHxRo	MPREb_6hsOyK1BPhq	UCDvzmvEF-ReWkWb8B_jL-qQ
 26	On The Sunny Side Of The Street	Dizzy Gillespie	Sonny Side Up	INDIFFERENT	5:41	LSHevGXSKuk	MPREb_YKOWsQjySvJ	UCw_wrXoRl-ionafhIWtcRMA
 45	Just The Way You Are	Diana Krall	Live in Paris	INDIFFERENT	5:00	RtbX7dZOsus	MPREb_bZX6rmkiK7g	UCHOHY0V0VKiEW0Yw7DR4xQw
 46	The Look Of Love	Diana Krall	The Look Of Love	INDIFFERENT	4:42	l5TgbuNXk_I	MPREb_ha5l8ZKc5eP	UCHOHY0V0VKiEW0Yw7DR4xQw
+282	Best Part (feat. H.E.R.)	Daniel Caesar	Freudian	INDIFFERENT	3:30	1jbp5mb6AUU	MPREb_EDoF1cORsZx	UCcbtSIy5DlnpVIxW8hIvxBw
 214	Sugah Daddy	D'Angelo and The Vanguard	Black Messiah	INDIFFERENT	5:03	nXEnMO5bv6Y	MPREb_VYQ9kGvAXbC	UClNtwl7d6s42-L8yRG6VEgg
 195	Wives and Lovers	Cécile McLorin Salvant	For One to Love	INDIFFERENT	2:51	UWmdDpPYotU	MPREb_aJq1m9DCjZ0	UC4VmaBTjWjCkGvsliyIdGTA
 196	I Didn't Know What Time It Was	Cécile McLorin Salvant	WomanChild	INDIFFERENT	6:07	9_ncv_LErnk	MPREb_xwBo3GcQQUn	UC4VmaBTjWjCkGvsliyIdGTA
@@ -219,24 +255,28 @@
 44	Breathless	Corinne Bailey Rae	Corinne Bailey Rae	INDIFFERENT	4:16	sMlEyvaPGkE	MPREb_xWuzOZKa0l4	UC2Rp4lvp4CBx7vtBnMzDN0w
 223	Guajira guantanamera	Compay Segundo	Gracias Compay (The Definitive Collection)	INDIFFERENT	5:13	gdYIpvnzoW8	MPREb_3fxW6nC856J	UCgRimOJeMcqsdN45tvvChIA
 211	"Triforce Chamber (From ""The Legend of Zelda: A Link to the Past"")"	Collosia	The Legend of Zelda Reimagined	INDIFFERENT	3:32	kYEBlaxkKEw	MPREb_HgeHl4C5Ev5	UCip6a1pHzgSfngDKd-TrMpg
-237	Cherokee	Clifford Brown	Jordu	INDIFFERENT	5:44	htX1jDkprxc	MPREb_GkLmUqaJdA2	UCQFCMVgOtWDn5Vd3Nt1SRfQ
+233	Cherokee	Clifford Brown	Jordu	INDIFFERENT	5:44	htX1jDkprxc	MPREb_GkLmUqaJdA2	UCQFCMVgOtWDn5Vd3Nt1SRfQ
+250	Hamlet Overture, Op. 67, TH 53	City of Birmingham Symphony Orchestra	Tchaikovsky: Symphony No. 5 & Hamlet Overture	INDIFFERENT	18:58	3w5KpVIYmCM	MPREb_HGvLu2olljF	UCxtQ_suywn9QngWrYqSGc4g
 38	A Couple Of Forevers	Chrisette Michele	Better (Deluxe Edition)	INDIFFERENT	3:57	oZu5l-69z8g	MPREb_TfegxgxQube	UCj4aBUA6FbLIYuUw97TgoVw
+281	Spain (Live)	Chick Corea	Solo Piano: Originals	INDIFFERENT	4:03	2kgb2aoRGzo	MPREb_mVO6nWO1RJO	UC7Syqiz3THx07IfHPlgroRA
+291	La Fiesta (Live)	Chick Corea	Trilogy 2 (Live)	INDIFFERENT	7:11	h09sFEKZvFs	MPREb_5ndgPP83TkW	UC7Syqiz3THx07IfHPlgroRA
 165	If I Should Lose You	Chet Baker	Diane	INDIFFERENT	7:16	sMY5hp4TJoo	MPREb_gQhUBrbLyRR	UCVNfRXuaWVILL9giCEg0rQg
 177	Autumn Leaves	Chet Baker	This Is Jazz #2	INDIFFERENT	7:03	zTVlrOk9a8M	MPREb_JS0FdbPYobp	UCVNfRXuaWVILL9giCEg0rQg
-234	But Not For Me (Vocal Version)	Chet Baker	Let's Get Lost: The Best Of Chet Baker Sings	INDIFFERENT	3:04	QwAwtMt8t4s	MPREb_GlE7j7CzDoI	UCVNfRXuaWVILL9giCEg0rQg
+230	But Not For Me (Vocal Version)	Chet Baker	Let's Get Lost: The Best Of Chet Baker Sings	INDIFFERENT	3:04	QwAwtMt8t4s	MPREb_GlE7j7CzDoI	UCVNfRXuaWVILL9giCEg0rQg
+277	But Not For Me	Chet Baker	鎌倉ジャズ	INDIFFERENT	3:07	UtVLVDRKuoY	MPREb_bLzxOl3vNlM	UCVNfRXuaWVILL9giCEg0rQg
 2	Better Git It in Your Soul	Charles Mingus	Ah Um	INDIFFERENT	7:21	E7hoX7golZI	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
 4	Moanin'	Charles Mingus	Blues & Roots (Mono)	INDIFFERENT	7:58	ImvjZ7fUUBU	MPREb_WKwQ1NXiGc0	UCXSaOCck3oVxhB4W_4Ca3MQ
 29	Haitian Fight Song	Charles Mingus	The Clown	INDIFFERENT	12:01	6OFleiE81-E	MPREb_iUwo80GMUBl	UCXSaOCck3oVxhB4W_4Ca3MQ
-244	Tonight at Noon	Charles Mingus	The Clown	INDIFFERENT	5:59	Ub_GZjG9h9Y	MPREb_iUwo80GMUBl	UCXSaOCck3oVxhB4W_4Ca3MQ
+240	Tonight at Noon	Charles Mingus	The Clown	INDIFFERENT	5:59	Ub_GZjG9h9Y	MPREb_iUwo80GMUBl	UCXSaOCck3oVxhB4W_4Ca3MQ
 213	Fool for You (feat. Melanie Fiona)	CeeLo Green	Fool For You	INDIFFERENT	3:42	QOiY6FsbFXE	MPREb_Uo7Hofuiq7Y	UCQlJSs4QNKLLt1sHgRXkVYg
 18	MINNIE THE MOOCHER	CAB CALLOWAY	Super Tracks & Great Bands Vol. 6	INDIFFERENT	3:12	l5fK_XOrR-g	MPREb_uflhWxp4xKi	UCEWm42gRfEzTK6hZAtJujGQ
-233	Chan Chan	Buena Vista Social Club	Buena Vista Social Club	INDIFFERENT	4:19	V0FoYUcq9FQ	MPREb_k1b1fqv47ir	UChUeUKui2gkL6vqhuKBeCMA
+229	Chan Chan	Buena Vista Social Club	Buena Vista Social Club	INDIFFERENT	4:19	V0FoYUcq9FQ	MPREb_k1b1fqv47ir	UChUeUKui2gkL6vqhuKBeCMA
 75	Freedom Is A Voice	Bobby McFerrin	Bang! Zoom	INDIFFERENT	4:54	07O7ypppD0o	MPREb_pVInTX01q0z	UCWAcp25JvlBNb4016lus18g
 157	Spain (Live)	Bobby McFerrin	Play	INDIFFERENT	10:13	9GlKbYLjU1M	MPREb_lvAwVzYyRjK	UCWAcp25JvlBNb4016lus18g
 183	Feel Like Making Love	Bob James	One	INDIFFERENT	6:39	MMcgTHnKGIs	MPREb_fm1ZsOBvDve	UCDLYptb8hVAbNSSJLuMBm7g
 37	Summertime	Billie Holiday	The Legendary Billie Holiday	INDIFFERENT	3:02	lzKl49arf7s	MPREb_lR7WepV7aoH	UCW-raws5Iq2xLADkLcEoVaA
 171	Strange Fruit	Billie Holiday	Masters of Jazz: Billie Holiday & The Tony Scott Orchestra	INDIFFERENT	3:03	hLrqjX75GQE	MPREb_6WCk3vNR1i3	UCW-raws5Iq2xLADkLcEoVaA
-248	We Shall Overcome	Bill Frisell	Valentine	INDIFFERENT	6:26	S1fOVkzR_oA	MPREb_U4m0zqcv9UF	UCAK5ztsfvlDanqFo9hpMn8g
+244	We Shall Overcome	Bill Frisell	Valentine	INDIFFERENT	6:26	S1fOVkzR_oA	MPREb_U4m0zqcv9UF	UCAK5ztsfvlDanqFo9hpMn8g
 3	Autumn Leaves (Album Version - (Take 1))	Bill Evans Trio	Portrait In Jazz	INDIFFERENT	5:56	by4Cr3kPNPg	MPREb_0BvSioqpzK5	UCriB97bZopXsBHVYOQEIIZg
 28	My Foolish Heart (Live)	Bill Evans Trio	At The Village Vanguard	INDIFFERENT	4:50	fPowI5Opqb8	MPREb_48Vt0fJVZQQ	UCriB97bZopXsBHVYOQEIIZg
 122	Like Someone In Love	Bill Evans	Time Remembered	INDIFFERENT	6:25	K-tYTT2Ypxc	MPREb_45AR3NUxgcV	UCriB97bZopXsBHVYOQEIIZg
@@ -244,6 +284,9 @@
 219	Samba da Benção	Baden Powell	Enciclopédia Musical Brasileira	INDIFFERENT	9:37	50kZbEgk9Tg	MPREb_sIbjSJJHiN1	UC3wsl-MT-3zBC-PSy7jT5Gw
 153	I Love Paris	Avalon Jazz Band	I Wish You Love	INDIFFERENT	2:52	zXEDsGEwJjA	MPREb_q0jEh8iiPr8	UCwIlY6iXICNwoGflrhuT3TQ
 21	A Night In Tunisia (Remastered 2005)	Art Blakey & The Jazz Messengers	The Best Of Art Blakey	INDIFFERENT	11:17	S4ylZmsR8AM	MPREb_RS7QzZs1fTw	UCMki-b0zfAQiMQ0nbsrIuBQ
+275	Bridge Over Troubled Water	Aretha Franklin	Covered In Soul	INDIFFERENT	5:32	fgUXkItP7hg	MPREb_YKic8Hz7Of0	UCW02f_MjH8n1uMZhSds4mQQ
+280	My Baby Just Cares for Me (feat. Scott Hamilton, Ignasi Terraza, Esteve Pi & Josep Traver)	Andrea Motis	Live at Jamboree - Barcelona	INDIFFERENT	5:37	7Rybm9QH2jM	MPREb_uaoiYI9UBph	UCQSsmLNT3tKUD3m_XsZpfHA
+284	Lullaby of Birdland (feat. Scott Hamilton, Ignasi Terraza, Esteve Pi & Josep Traver)	Andrea Motis	Live at Jamboree - Barcelona	INDIFFERENT	6:24	gh-JZ9hocZ4	MPREb_uaoiYI9UBph	UCQSsmLNT3tKUD3m_XsZpfHA
 34	Back To Black	Amy Winehouse	Back To Black	INDIFFERENT	4:00	rbBbQ-jldvQ	MPREb_tzu0uaSBSSB	UCMRsEwcN5cXdvqNP-UBup_A
 35	Half Time	Amy Winehouse	Lioness: Hidden Treasures	INDIFFERENT	3:50	sG4C1L8Je9k	MPREb_odjyD6y9Nqk	UCMRsEwcN5cXdvqNP-UBup_A
 36	Tears Dry On Their Own	Amy Winehouse	Back To Black	INDIFFERENT	3:05	d1QltB3m0Hs	MPREb_tzu0uaSBSSB	UCMRsEwcN5cXdvqNP-UBup_A
@@ -251,5 +294,5 @@
 131	You Sent Me Flying / Cherry	Amy Winehouse	Frank	INDIFFERENT	6:50	qfZj2h1t0Jc	MPREb_36QgCOxBWX2	UCMRsEwcN5cXdvqNP-UBup_A
 27	Ashitakasekki	All That Jazz	Haru Jazz	INDIFFERENT	4:21	ZUVtkj383f4	MPREb_bvv9eEsrcRm	UCRrWm-vfVfPlUdMYlW6X81w
 173	Om Shanti	Alice Coltrane	Om Shanti	INDIFFERENT	6:52	_AMY3OYz2Kc	MPREb_Xsor4E3yqIV	UCwpupyFQfsG4XhnZXhRy6wg
-240	Attention, Earthlings	Aaron Parks	Little Big II: Dreams of a Mechanical Man	INDIFFERENT	6:00	E9bxkasjJuE	MPREb_fOkNgulBx54	UC4mZBHwCY1rATrADJIOHJIQ
+236	Attention, Earthlings	Aaron Parks	Little Big II: Dreams of a Mechanical Man	INDIFFERENT	6:00	E9bxkasjJuE	MPREb_fOkNgulBx54	UC4mZBHwCY1rATrADJIOHJIQ
 142	Unconditional Love	2Pac	Greatest Hits	INDIFFERENT	3:58	SqddDc55-pc	MPREb_oScQoHQGm93	UC5RrGzC-JXglhFW5NhT4r6w
