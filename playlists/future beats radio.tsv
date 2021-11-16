@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+984	Friend Zone	Thundercat	Friend Zone	LIKE	3:12	3WCxEwJs7ME	MPREb_igqhiDvX233	UCUl7CLMqbyYVb62zJ7nbLfA
 854	Programs	Mac Miller	Programs	LIKE	3:11	hb3GJ71udUc	MPREb_PdfKoZdmxHT	UC52ZqHVQz5OoGhvbWiRal6g
 450	T h e V i l l a	「fluence」	E l e m e n t a l	INDIFFERENT	2:20	OswmhzbPNn4	MPREb_RpoH9RMfEBr	UC8ZaLu5e8-54jDBhML00vFQ
 136	Trying to Forget	vbnd	Trying to Forget	INDIFFERENT	2:47	V90-LxyPdNA	MPREb_G1CFDdnyKAh	UCthNn3XHS1aJKtqzuECmzYg
@@ -133,7 +134,6 @@
 768	Have You Eaten?	Tim Hawkins	Rockshow Comedy Tour	INDIFFERENT	3:05	sI1eCnfXvc0	MPREb_VWjb010KFEm	UCdwIEA-Um3MHwzbeiHuIXhg
 957	Streamers	Tim Gantry	Gantry Guitar Tunes	INDIFFERENT	5:15	J_cLvaQIQrM	MPREb_x1bpz4iPzqt	UCADwAccq1Q54p4tDyRbAdGg
 983	King of the Hill (feat. BADBADNOTGOOD & Flying Lotus)	Thundercat	Brainfeeder X	INDIFFERENT	2:55	iLVJUhADi8s	MPREb_OUloHBLgC9V	UCUl7CLMqbyYVb62zJ7nbLfA
-984	Friend Zone	Thundercat	Friend Zone	INDIFFERENT	3:12	3WCxEwJs7ME	MPREb_igqhiDvX233	UCUl7CLMqbyYVb62zJ7nbLfA
 985	Them Changes	Thundercat	Brainfeeder X	INDIFFERENT	3:08	7f7_g08O4KQ	MPREb_OUloHBLgC9V	UCUl7CLMqbyYVb62zJ7nbLfA
 979	Angels	The xx	Angels	INDIFFERENT	2:52	4hpx6WuIbYI	MPREb_dgOTdvvIjjK	UCQ1Xqlk89CLZ9aAFyo-1THg
 706	Dreamland (Version 2)	The Wailers	"The Complete Lee ""Scratch"" Perry Sessions"	INDIFFERENT	2:40	xyVIAduIFFc	MPREb_uKsKbPEkbvo	UCBfv87kvVXyNi88URZ1zvCA
@@ -552,9 +552,9 @@
 779	Homemade Dynamite (REMIX) (feat. Khalid, Post Malone & SZA)	Lorde	Homemade Dynamite (REMIX)	INDIFFERENT	3:34	K2eKyuqpZ8E	MPREb_gaKsYNA11dN	UCILoG0-vdgLDnrwtRuM_0GQ
 955	Still Sane	Lorde	Alternative High	INDIFFERENT	3:08	tzpxdxcr4Lw	MPREb_Gz9kwxTubpr	UCILoG0-vdgLDnrwtRuM_0GQ
 961	Supercut (El-P Remix) (feat. Run The Jewels)	Lorde	Supercut (El-P Remix)	INDIFFERENT	3:33	-JuTbbPHwvs	MPREb_X4keAmnnksV	UCILoG0-vdgLDnrwtRuM_0GQ
-1040	Royals	Lorde	Pure Heroine (Extended)	INDIFFERENT	3:10	KCG8dF-DfZI	MPREb_pbzYY62jShe	UCILoG0-vdgLDnrwtRuM_0GQ
-1041	Team	Lorde	Pure Heroine (Extended)	INDIFFERENT	3:13	7fUbVkGFLRY	MPREb_pbzYY62jShe	UCILoG0-vdgLDnrwtRuM_0GQ
-1042	Tennis Court	Lorde	Pure Heroine (Extended)	INDIFFERENT	3:18	n9diBNW4j7M	MPREb_pbzYY62jShe	UCILoG0-vdgLDnrwtRuM_0GQ
+1040	Royals	Lorde	Pure Heroine	INDIFFERENT	3:10	cVWOEx4Xdhs	MPREb_GszBiYFVs0h	UCILoG0-vdgLDnrwtRuM_0GQ
+1041	Team	Lorde	Pure Heroine	INDIFFERENT	3:13	zTz_qdgEgMg	MPREb_GszBiYFVs0h	UCILoG0-vdgLDnrwtRuM_0GQ
+1042	Tennis Court	Lorde	Pure Heroine	INDIFFERENT	3:18	5SpFVrU7UKo	MPREb_GszBiYFVs0h	UCILoG0-vdgLDnrwtRuM_0GQ
 1043	Green Light	Lorde	Melodrama	INDIFFERENT	3:55	gp3T60xhvBw	MPREb_Ek5n6af6REp	UCILoG0-vdgLDnrwtRuM_0GQ
 928	Run It	Logic	The Incredible True Story	INDIFFERENT	3:20	RTwZdjDslJA	MPREb_AMOoXkgWq7Q	UCKC7Xqy0UXT370RvFR2kXYg
 826	When You're Over Me	Lo-Fi	Lo-Fidelity	INDIFFERENT	2:56	qbJ_8zn6zoU	MPREb_L3MNrpuZnvV	UCE5MrudaPbmBe5RgqR-vx_g
@@ -1026,7 +1026,7 @@
 57	Forward	Alexander Lewis	Forward - EP	INDIFFERENT	2:46	3VCNE3_4CFI	MPREb_jlvgnGUQKPD	UChZOClnaxcaUuPyM7tSWfKQ
 67	Jane	Alexander Lewis	7 Day	INDIFFERENT	2:09	WNTDw4xbqfk	MPREb_8yjaArl4xpq	UChZOClnaxcaUuPyM7tSWfKQ
 87	Ex's	Alexander Lewis	7 Day	INDIFFERENT	2:46	cm80HQMvWMc	MPREb_8yjaArl4xpq	UChZOClnaxcaUuPyM7tSWfKQ
-949	Spectre	Alan Walker	Spectre	INDIFFERENT	3:50	v2ag1jsQvds	MPREb_DRhLvnNziay	UCaXJEi-wOOVe2eZZHzyz4mQ
+949	The Spectre	Alan Walker	The Spectre	INDIFFERENT	3:14	lNM9HlEK4q4	MPREb_FhlXl1UbwMF	UCaXJEi-wOOVe2eZZHzyz4mQ
 828	"Looking for the Perfect Beat (Remastered 12"" Vocal Version)"	Afrika Bambaataa	The Tommy Boy Story, Vol. 1	INDIFFERENT	6:59	WqZblQ7dcWI	MPREb_gF4DcrzKDKt	UC6S5tOfcFQmZ4lDjnrQwQYg
 901	Phase Four	Abilene	Two Guns, Twin Arrows	INDIFFERENT	4:03	HzFI7zhyS5k	MPREb_sDg37qXDrhp	UCwjdO-dE5jOt1p7i3tyUtKg
 498	Let You Know	Abhi//Dijon	2014	INDIFFERENT	3:27	0ys6dnMblfU	MPREb_PkNHaiwAbGD	UCXy1Fo4IQQl-rERWXNAdS_Q
