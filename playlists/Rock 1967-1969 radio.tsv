@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 88	a) STRA (Illusions Of My Childhood-Part One) b)You Keep Me Hanging On c) WBER (Illusions Of My Childhood-Part Two)	Vanilla Fudge	Vanilla Fudge	LIKE	7:26	vaiTEQc_y4o	MPREb_ou6uq1qBHJh	UCMoK9_Vlvo5gX3s_mbtZ6rQ
 82	Dear Mr. Fantasy	Traffic	Mr. Fantasy	LIKE	5:34	sS_eHdqcrM8	MPREb_pEzFtyHuF1q	UCFh-Yyaep1Gl5c0O1JTvEBQ
+12	Crystal Blue Persuasion	Tommy James & The Shondells	Tommy James and The Shondells: Anthology	LIKE	4:07	mKMdJEiS5qo	MPREb_j7eC7fhkqsv	UCBwv3RxOvTdjJKhD5alG40Q
 134	I Never Asked to Be Your Mountain	Tim Buckley	Goodbye And Hello	LIKE	6:04	4n3jgpBdOXE	MPREb_lgX4UwZSvTg	UCaqYTSv6yh0neSRnvz7nH7w
 6	Venus In Furs	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	5:13	1qQ0MG9OPzA	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
 83	Heroin	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	7:14	yN-EZW0Plsg	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
@@ -42,7 +43,6 @@
 21	Feelin' Alright?	Traffic	Traffic	INDIFFERENT	4:17	xYXxbtkGtW0	MPREb_dqxZs9cBREZ	UCFh-Yyaep1Gl5c0O1JTvEBQ
 50	Paper Sun	Traffic	Best Of Traffic	INDIFFERENT	4:15	80_UAuBEDlQ	MPREb_gRSLzux6D4j	UCFh-Yyaep1Gl5c0O1JTvEBQ
 107	Heaven Is In Your Mind	Traffic	Mr. Fantasy	INDIFFERENT	4:18	PAIywSUAq4o	MPREb_pEzFtyHuF1q	UCFh-Yyaep1Gl5c0O1JTvEBQ
-12	Crystal Blue Persuasion	Tommy James & The Shondells	Tommy James and The Shondells: Anthology	INDIFFERENT	4:07	mKMdJEiS5qo	MPREb_j7eC7fhkqsv	UCBwv3RxOvTdjJKhD5alG40Q
 17	Mony Mony	Tommy James & The Shondells	Mony Mony	INDIFFERENT	2:52	qdrx9F6WEzM	MPREb_6ediDBfPg3a	UCBwv3RxOvTdjJKhD5alG40Q
 63	I'm a Tangerine	Tommy James & The Shondells	Crimson and Clover	INDIFFERENT	3:37	TxA0SGUIT1Q	MPREb_m7q7ANcxWfM	UCBwv3RxOvTdjJKhD5alG40Q
 126	Pleasant Street	Tim Buckley	Goodbye And Hello	INDIFFERENT	5:17	ydW0PEeybJ8	MPREb_lgX4UwZSvTg	UCaqYTSv6yh0neSRnvz7nH7w
@@ -109,7 +109,7 @@
 59	Train To Nowhere	Savoy Brown	Discover British Blues On Decca & Deram	INDIFFERENT	4:11	iRk-7ySlexw	MPREb_rvdRw2YhhRu	UCLg-Jz8kxV-NWVB2Kn9trJA
 80	Soul Sacrifice	Santana	The San Mateo Sessions 1969	INDIFFERENT	4:56	WlFcGxLHUkc	MPREb_G4fRUgXsNYt	UCX0rR7x8-nLew2t8UH-n2aw
 62	Follow	Richie Havens	High Flyin' Bird / The Verve Forecast Years	INDIFFERENT	6:20	CWAO5XeNM1U	MPREb_uhQJzDw2x9y	UC0aezVmCbJ-GF2js8M8JmNg
-166	Hurricane Fighter Plane	Red Crayola	The Parable Of Arable Land / God Bless The Red Krayola And All Who Sail With It Vol. 1	INDIFFERENT	3:31	crvwLDYz60E	MPREb_68BHAj7b4g2	UC4VX14OFcNisagiWl5IsZgw
+166	Hurricane Fighter Plane	Red Crayola	The Parable Of Arable Land / God Bless The Red Krayola And All Who Sail With It Vol. 1	INDIFFERENT	3:31	crvwLDYz60E	MPREb_68BHAj7b4g2	UCwLKEg63uOOMIAY1hT8VObQ
 45	Who Do You Love (Pt. 1)	Quicksilver Messenger Service	Happy Trails	INDIFFERENT	3:33	SHxwNxXBEYo	MPREb_jzyDBtrauT6	UC0X9KPL1GjPQ-uW46DT12Iw
 74	Pride Of Man (Rare Session)	Quicksilver Messenger Service	Fresh Air - Greatest Hits	INDIFFERENT	4:37	FkYGrOn59Po	MPREb_1iEyg9iND48	UC0X9KPL1GjPQ-uW46DT12Iw
 39	Arnold Layne (2001 Remastered Version)	Pink Floyd	Echoes (The Best Of Pink Floyd)	INDIFFERENT	2:52	mybz6bw65y0	MPREb_rSn8HInoNT4	UCO6LS_5W7vqG9mALDNzSFug
