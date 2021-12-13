@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 301	Amen Brother	The Winstons	Color Him Father	LIKE	2:36	HrrWhCbZAyY	MPREb_e9Vcq4hhGMW	UCLB0P9Mo0q-arVr8fYNPdWw
 742	Give Me the Night	George Benson	Give Me the Night	LIKE	5:02	Omnpu8mzX4c	MPREb_ogfys6Wto3D	UC16DzwxorG8xZCoaqzaUQSQ
+746	Easy	Commodores	Commodores	LIKE	4:16	aCsZ3_db_Fk	MPREb_nhFkjG8DLuH	UCmdiAudyJFCgdQjnPyoUaWw
 631	The World (Is Going Up in Flames)	Charles Bradley	Daptone Gold	LIKE	3:22	_72BniVxAyA	MPREb_UkZTL0vI2Cc	UCP6eGHJYZIJiRqABUeZiIAw
 405	Born Under A Bad Sign (with Stevie Ray Vaughan)	Albert King	Stax Profiles: Albert King	LIKE	3:38	BB0uHb9BCxw	MPREb_du6QLqt3gB3	UC9XFvJIqt0duVgnlvkXBeKA
 688	Fix Me (Acoustic Sketch)	rum.gold	Fix Me (Acoustic Sketch)	INDIFFERENT	4:48	YbnvQRBhbKQ	MPREb_KRlzrWHI5F7	UCp7iwNW0sWkg6-P2jriDsWw
@@ -99,7 +100,6 @@
 241	Augusta, GA	The Poets of Rhythm	The Anthology 1992-2003	INDIFFERENT	2:07	73HoGhA9Jn8	MPREb_QOxO4tQOgIl	UCdFEpyvXo2A4iwpXsrpPCRQ
 253	Strokin' the Grits	The Poets of Rhythm	Practice What You Preach	INDIFFERENT	4:15	a1cdEszEDgc	MPREb_y2TLEyXBr0G	UCdFEpyvXo2A4iwpXsrpPCRQ
 390	She Blew A Good Thing	The Poets	The Sue Records Story: The Sound Of Soul	INDIFFERENT	2:49	22v1mwydLLE	MPREb_K2euJi7oIKX	UC0tfFP26H5oUUHT54YI5k1A
-856	Baby Please Don't Go	The Orioles	This is Doo-Wop	INDIFFERENT	2:20	wNzDKtWBVxA	MPREb_EPcvULJuyRv	UCW5wKZJACmnpvCQTliPhq3g
 911	I'll Do a Little Bit More	The Olympics	Dr. Boogie Presents Wasa Wasa (Fabulous Rhythm'n' Blues Shakers on the Dancefloor 1952 - 1968)	INDIFFERENT	2:29	XzgviSl0_00	MPREb_bB3Lwz8t67i	UCncwMwWw8ZfmgdqhPeSs1Ug
 124	Sing a Happy Song	The O'Jays	The Essential O'Jays	INDIFFERENT	5:00	-IOyRO12wmE	MPREb_LJJouZiqmLD	UCFSFQDaIx-SL7H9nvmvYRzQ
 136	992 Arguments (Single Version)	The O'Jays	The Essential O'Jays	INDIFFERENT	2:21	W1Wxz5YmANU	MPREb_LJJouZiqmLD	UCFSFQDaIx-SL7H9nvmvYRzQ
@@ -708,7 +708,7 @@
 269	I'm Gonna Take What He's Got (Single Version)	Etta James	Tell Mama: The Complete Muscle Shoals Sessions	INDIFFERENT	2:36	50CRAKdK34c	MPREb_RSbkCqqRIPW	UCieyolnCbsWzyEt6wsd7lgQ
 286	Steal Away	Etta James	Tell Mama: The Complete Muscle Shoals Sessions	INDIFFERENT	2:24	LwjDYn1r-3o	MPREb_RSbkCqqRIPW	UCieyolnCbsWzyEt6wsd7lgQ
 368	All I Could Do Was Cry	Etta James	At Last!	INDIFFERENT	2:58	8sMb7QP78Vw	MPREb_SpgHmaufiRV	UCieyolnCbsWzyEt6wsd7lgQ
-608	Tell Mama	Etta James	Soul Shake	INDIFFERENT	2:25	ZdLvZzk-Mf4	MPREb_phVd3Kg3m7M	UCieyolnCbsWzyEt6wsd7lgQ
+608	Tell Mama	Etta James	Discover 60s Love Songs	INDIFFERENT	2:25	4gXbw105oi8	MPREb_Cl209cnM2rn	UCieyolnCbsWzyEt6wsd7lgQ
 776	Appletree	Erykah Badu	Baduizm	INDIFFERENT	4:25	Nujt--zPa70	MPREb_8Pns8xvUNlT	UCxUb-_eniV4jqmipDxroS9g
 758	Giving Him Something He Can Feel	En Vogue	Funky Divas	INDIFFERENT	3:56	SID6FZs1zHs	MPREb_99GqyLOEVWY	UCtdBE91SqWi6vph01PHU9Eg
 777	Hold On	En Vogue	Born to Sing	INDIFFERENT	5:05	zaEYDos0P7w	MPREb_YM1r3q57HNw	UCtdBE91SqWi6vph01PHU9Eg
@@ -812,9 +812,7 @@
 152	Machine Gun	Commodores	Gold	INDIFFERENT	2:41	sOD844e_Zfo	MPREb_Pq5C3YpRw4A	UCmdiAudyJFCgdQjnPyoUaWw
 211	Zoom	Commodores	Commodores	INDIFFERENT	6:44	3FFok7oW2sI	MPREb_nhFkjG8DLuH	UCmdiAudyJFCgdQjnPyoUaWw
 340	Zoom	Commodores	The Commodores: The Definitive Collection	INDIFFERENT	6:38	urznc5pbdAs	MPREb_2za3jyWY7uH	UCmdiAudyJFCgdQjnPyoUaWw
-746	Easy	Commodores	Commodores	INDIFFERENT	4:16	aCsZ3_db_Fk	MPREb_nhFkjG8DLuH	UCmdiAudyJFCgdQjnPyoUaWw
-723	Mystic Brew (feat. Mark de Clive-Lowe, Antonio Bruheim, Joao Leandro & Ricardo Pinto)	Colectivo Arte & Manha	Mystic Brew	INDIFFERENT	5:01	ax9aUfe1O-4	MPREb_eDM3hDJZxo6	UCxDlYyYaiCFwzb7zAN3XPCA
-465	It's Your Thing (Single Version)	Cold Grits	Crate Diggers: Funk	INDIFFERENT	2:53	NcxOLca9jQE	MPREb_kOYBaxEOxSx	UCFkcKNHZcvlHvysVYoODoBg
+465	It's Your Thing (Single Version)	Cold Grits	70's Deep Funk	INDIFFERENT	2:53	0qnRJ-5EIdY	MPREb_YefvhFaH1WJ	UCFkcKNHZcvlHvysVYoODoBg
 467	Ode To Billie Joe	Clydie King	The Imperial And Minit Years	INDIFFERENT	4:32	uuVIxSx5Fqk	MPREb_FlEwAGJUUJ1	UCsyfhiFXUuB6trWvV9u77Uw
 303	Till I Get My Share	Clarence Reid	The Legendary Henry Stone Presents Weird World: Funky Party	INDIFFERENT	2:28	GZ37oot6Cdc	MPREb_rXNJHbDPMyI	UCgE8_W0ej6Zx7cXbZFOtoMQ
 4	Snatching It Back	Clarence Carter	Rhino Hi-Five: Clarence Carter	INDIFFERENT	2:50	KJfkqFCaKnk	MPREb_WMgR1TuwFQD	UCWh4dVHk7qRG9DsaZPWiZvA
@@ -835,7 +833,7 @@
 291	Take Yo' Praise	Camille Yarbrough	The Iron Pot Cooker	INDIFFERENT	4:14	WVDURaXG6wk	MPREb_WV88k8CRed1	UC85t9e5-sLeyj5x5UvF7O5Q
 745	Candy	Cameo	Word Up	INDIFFERENT	5:39	wEAcjPMypR4	MPREb_gU8xiDSdo26	UCWOWuP1wrpPtdpX72l8jl5w
 927	Hipster	C. Forture & J. Brinson	Movements Vol.4	INDIFFERENT	2:48	zLdB5iJOtk8	MPREb_Rb9bWJ4vAyJ	
-684	Stay High	Brittany Howard	Jaime	INDIFFERENT	3:12	K-l2UxVF5kA	MPREb_u7QhtMp5IZQ	UCMF8rspw2AAm0q4nqxD772A
+684	Stay High	Brittany Howard	Jaime	INDIFFERENT	3:12	NQVMuGCIOGY	MPREb_u7QhtMp5IZQ	UCMF8rspw2AAm0q4nqxD772A
 500	Just Look What You've Done	Brenda Holloway	The Very Best Of Brenda Holloway	INDIFFERENT	2:55	xPp4fpfDrR4	MPREb_LFIY2f8iQw4	UCFHmEyaaWVzYkm8NiKA0MAg
 701	Insecure (Live in Nashville)	Bren Joy	Insecure (Live In Nashville)	INDIFFERENT	3:08	PW0o4guOiQE	MPREb_vi4ZZhBMuLG	UChIwocHYRaPUGmZnNdX0RVQ
 459	My Sweet Potato	Booker T. & The MG's	And Now!	INDIFFERENT	2:48	iIJpL1g37es	MPREb_sPg7UFRiIvX	UCArwMp9q2N-UvSXih_0ahTA
@@ -884,7 +882,7 @@
 332	School Boy Crush	Average White Band	Cut the Cake	INDIFFERENT	5:00	Q23J0uMomDE	MPREb_33ZtMlzYphA	UCN-nei8O1bNhTWh9J2wnBqw
 350	Would You Stay	Average White Band	Soul Searching	INDIFFERENT	5:35	36XHyoBkrFg	MPREb_WFpdbzDp218	UCN-nei8O1bNhTWh9J2wnBqw
 784	Pick Up the Pieces	Average White Band	AWB	INDIFFERENT	4:00	DyjlxsJEknc	MPREb_mtxhrJNo9iW	UCN-nei8O1bNhTWh9J2wnBqw
-707	Get Away (Orchestral Performance)	Asiahn	The Interlude (Orchestral Performance)	INDIFFERENT	4:34	7aaSDT6h-Ps	MPREb_OCWc1IhFChY	UCGnMU9Ibey2dG537CKLNTvA
+707	Get Away	Asiahn	The Interlude	INDIFFERENT	4:34	7aaSDT6h-Ps	MPREb_OCWc1IhFChY	UCGnMU9Ibey2dG537CKLNTvA
 349	Send It	Ashford & Simpson	Send It	INDIFFERENT	4:27	l8B1wdF6jgY	MPREb_V34yTwsAy4O	UCfwiaBysGlwxbNXFQ5S6USA
 2	Sweet Soul Music (Remastered Version)	Arthur Conley	Soul Clan	INDIFFERENT	2:22	KbO1Cpo1ptY	MPREb_Yf6ESZDAQot	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
 21	Shake, Rattle & Roll	Arthur Conley	Shake, Rattle & Roll	INDIFFERENT	2:23	rwz2QFugQQg	MPREb_UcV6QQzbX12	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
@@ -903,12 +901,12 @@
 146	Something He Can Feel	Aretha Franklin	Sparkle	INDIFFERENT	6:21	YhuEY79gMzg	MPREb_XdhaMhN1tqc	UCW02f_MjH8n1uMZhSds4mQQ
 156	Until You Come Back to Me (That's What I'm Gonna Do)	Aretha Franklin	Let Me In Your Life	INDIFFERENT	3:28	R-yGmibwJq4	MPREb_4bdYsKwI7BA	UCW02f_MjH8n1uMZhSds4mQQ
 201	I Never Loved a Man (The Way I Love You)	Aretha Franklin	Down Home Soul Girls	INDIFFERENT	2:53	yFwcODgBiZM	MPREb_MqWLlGo15fX	UCW02f_MjH8n1uMZhSds4mQQ
-210	I Never Loved a Man (The Way I Love You)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:51	b07OG6DxOv0	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
+210	I Never Loved a Man (The Way I Love You)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:52	b07OG6DxOv0	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
 214	Rock Steady	Aretha Franklin	The Queen Of Soul	INDIFFERENT	3:14	eDAI7BY31us	MPREb_nY7J9a7fngl	UCW02f_MjH8n1uMZhSds4mQQ
-263	Do Right Woman, Do Right Man	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	3:14	xJ5jnteCbdo	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
+263	Do Right Woman, Do Right Man	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	3:15	xJ5jnteCbdo	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
 265	The House That Jack Built	Aretha Franklin	30 Greatest Hits	INDIFFERENT	2:20	XmUXnQ_35-U	MPREb_MWU4ia7kKbo	UCW02f_MjH8n1uMZhSds4mQQ
 280	Ain't No Way	Aretha Franklin	Lady Soul	INDIFFERENT	4:18	1io9LiCdv3Q	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
-370	I Never Loved a Man (The Way I Love You) (Stereo)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:46	Ou2vVeRXO_s	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
+370	I Never Loved a Man (The Way I Love You) (Stereo)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:47	Ou2vVeRXO_s	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
 375	Don't Play That Song	Aretha Franklin	Spirit in the Dark	INDIFFERENT	3:03	pCQXc8qkVnI	MPREb_6aIMsBjBoCt	UCW02f_MjH8n1uMZhSds4mQQ
 502	Think	Aretha Franklin	The Best Of Aretha Franklin	INDIFFERENT	2:19	XZnKFYIiOOY	MPREb_0LsBCTBLAxU	UCW02f_MjH8n1uMZhSds4mQQ
 526	(You Make Me Feel Like) A Natural Woman [Mono]	Aretha Franklin	Lady Soul	INDIFFERENT	2:50	x-GGL_UtzlU	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
@@ -944,3 +942,5 @@
 485	I Can't Get Next to You	Al Green	Gets Next To You	INDIFFERENT	3:49	s5k_VHG9POk	MPREb_RLzO1h66j1Y	UC7tb2Of68kIlrtj2qUnJtbQ
 541	Back Up Train	Al Green	Back Up Train	INDIFFERENT	2:19	R-zF9fnIrAA	MPREb_LgWZUCDJDMt	UC7tb2Of68kIlrtj2qUnJtbQ
 920	Watch Yourself	Al Gardner	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:19	L3JtS-3uwQY	MPREb_5V84aiei9iR	UCsr0OMXmR1iQBqaDZzGdSMQ
+856	Baby Please Don't Go	The Orioles	This is Doo-Wop			wNzDKtWBVxA		
+723	Mystic Brew	Colectivo Arte & Manha	Mystic Brew			ax9aUfe1O-4		
