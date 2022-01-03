@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 1619	Wyclef Jean	Young Thug	JEFFERY	LIKE	3:57	DWqRZPCmeaE	MPREb_GF3jljLiI6V	UCm6WwhIkHJFRGQd7ttnr9lQ
 1638	FDT (feat. Nipsey Hussle)	YG	Still Brazy (Deluxe)	LIKE	3:46	UvmwnGr2Vu8	MPREb_W7oy4hKigpT	UCfmbK1auGXazD_UOiU2y1dg
+337	C.R.E.A.M.	Wu-Tang Clan	The Essential Wu-Tang Clan	LIKE	4:07	ecRs1sWZIL4	MPREb_eq3hDzpZilA	UCdQKMtGgbbahJWE3rkPaGoA
 1616	Chillin (feat. Lady Gaga)	Wale	Attention Deficit	LIKE	3:24	gZgjDnwe1Tk	MPREb_iV6pI8MNCKg	UC-ZdvsS3ZOVkyKpDXUavCcg
 1593	Big Fish	Vince Staples	Big Fish Theory	LIKE	3:18	yXuUOAGlNbE	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
 1594	745	Vince Staples	Big Fish Theory	LIKE	3:47	nise0jZLlQM	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
@@ -125,7 +126,6 @@
 884	Riot	XXXTENTACION	Riot	INDIFFERENT	1:19	QH1tsa-_G9Y	MPREb_KcwVhqc7AaN	UCnAcxgRZ065f_eXK1o85c1w
 1572	SAD!	XXXTENTACION	? (Deluxe)	INDIFFERENT	2:47	bUqs_yWvLIo	MPREb_q4lK3Xka0gQ	UCnAcxgRZ065f_eXK1o85c1w
 229	A Better Tomorrow	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	4:56	b0A8R5ry2vQ	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
-337	C.R.E.A.M.	Wu-Tang Clan	The Essential Wu-Tang Clan	INDIFFERENT	4:07	ecRs1sWZIL4	MPREb_eq3hDzpZilA	UCdQKMtGgbbahJWE3rkPaGoA
 468	Reunited	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	5:22	D39eZB4mXxE	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 601	People Say (feat. Redman)	Wu-Tang Clan	People Say	INDIFFERENT	4:24	ITqEmFd-4EY	MPREb_JDOuBWDlzr1	UCdQKMtGgbbahJWE3rkPaGoA
 603	On That Sht Again (feat. Ghostface Killah & RZA)	Wu-Tang Clan	Of Mics and Men (Music From The Showtime Documentary Series)	INDIFFERENT	3:20	t0SCN6w6S2c	MPREb_HBqyz11YGsR	UCdQKMtGgbbahJWE3rkPaGoA
@@ -1822,7 +1822,7 @@
 1248	The Platform	Dilated people	Once Upon a Time in 2000			8_I1qBz3pcc		
 1242	What If the Lights Go Out	Dead Prez	Information Age			8w7p2P2Q3yA		
 852	Stakes is High	De La Soul	Hip-Hop Legacy, Vol. 2			yQWC03-EE1Y		
-787	Just Because	Dat Throwdest Ghost	DreamWash		4:15	2jQkCAERAOA		
+787	Just Because	Dat Throwdest Ghost	DreamWash			2jQkCAERAOA		
 1130	Slippin'	DMX	Once Upon A Time in 98			TlsPnbhWOOE		
 1232	Insane in the brain	Cypress hill	Classic Hits			81TLRshwXKg		
 43	Lynguistics	Cunninlynguists	Once Upon a Time in 2001		2:28	p2x_5Z7KfYc		
