@@ -1,4 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+18	My Back Pages	Bob Dylan	Another Side Of Bob Dylan	LIKE	4:24	tx_hm7brW8M	MPREb_w2U2e98cAjd	UCBqkojCXby4zGkWX86FEY7Q
+5	Alice's Restaurant Massacree	Arlo Guthrie	Alice's Restaurant	LIKE	18:36	WaKIX6oaSLs	MPREb_ZYrhRvcRXnX	UCMuqt4tU70hwj0l12C6g2vQ
 42	Pastures Of Plenty	Woody Guthrie	Columbia River Collection	INDIFFERENT	2:24	_gM9pEMHLqI	MPREb_yDFDRaL4yxY	UCgbCJIqwRQbo8xuVWvQFqYg
 59	John Henry	Woody Guthrie	Early Years	INDIFFERENT	2:43	rxo1w18DGpA	MPREb_xEfX0kBWX8M	UCgbCJIqwRQbo8xuVWvQFqYg
 106	Tear Down the Walls	Vince Martin & Fred Neil	Tear Down The Walls	INDIFFERENT	2:37	m5btrfjrsAY	MPREb_96D3lOeIfx4	UC3jRDV_Lb5s_Ey3GPoXkJIQ
@@ -46,8 +48,8 @@
 171	Johnny Be Gay If You Can Be	Terry Callier	The New Folk Sound Of Terry Callier (Deluxe Edition)	INDIFFERENT	4:26	v7jhSu-J6As	MPREb_WbW4V7KIKqp	UC3ajF1efjPmFQIbsyspnKHQ
 187	Promenade In Green	Terry Callier	The New Folk Sound Of Terry Callier (Deluxe Edition)	INDIFFERENT	4:08	yEnRIR08kG0	MPREb_WbW4V7KIKqp	UC3ajF1efjPmFQIbsyspnKHQ
 147	Where Have All the Flowers Gone	THE KINGSTON TRIO	Greatest Folk Songs of All	INDIFFERENT	3:05	dNtQENT-qqQ	MPREb_I8W1io30eZ5	UC-hN1E13BXX05U7Z3ReN54g
-210	Buy for Me the Rain	Steve Noonan	Steve Noonan	INDIFFERENT	2:48	a-I83leckNw	MPREb_newFCaUKVpd	UCbCJMzRfKF1LzumGZE-zH7A
-211	Trusting Is a Harder Thing	Steve Noonan	Steve Noonan	INDIFFERENT	2:47	o7fFb1tC-IU	MPREb_newFCaUKVpd	UCbCJMzRfKF1LzumGZE-zH7A
+210	Buy for Me the Rain	Steve Noonan	Steve Noonan	INDIFFERENT	2:48	a-I83leckNw	MPREb_newFCaUKVpd	UCf348RmSZYQodwoK83bZiBA
+211	Trusting Is a Harder Thing	Steve Noonan	Steve Noonan	INDIFFERENT	2:47	o7fFb1tC-IU	MPREb_newFCaUKVpd	UCf348RmSZYQodwoK83bZiBA
 16	City of New Orleans	Steve Goodman	No Big Surprise: The Steve Goodman Anthology	INDIFFERENT	3:52	fhHxNMyw0dI	MPREb_pycHXyRw3h9	UCD4r3amHq2x8zx0d3ndoMNA
 31	The Dutchman	Steve Goodman	Unfinished Business	INDIFFERENT	5:10	RstJgDjT9ac	MPREb_n2QPmzW6Dno	UCD4r3amHq2x8zx0d3ndoMNA
 206	Springtime Meadows	Steve Gillette	Steve Gillette	INDIFFERENT	3:27	GSesa0U_J-c	MPREb_cWirsOIIcF4	UCV1aWn_HXMVq5IeCxhGsuUA
@@ -178,7 +180,7 @@
 99	I Shall Go Unbounded	Eric Andersen	Bout Changes 'N' Things	INDIFFERENT	4:31	rP1ST3sTHoo	MPREb_d1OUAkrvcSd	UCLtQESs2mptSdhoKUikYMVQ
 115	Violets Of Dawn	Eric Andersen	Folk Hits	INDIFFERENT	3:48	kOPcQvRL3zA	MPREb_YSoONkP0Pn3	UCLtQESs2mptSdhoKUikYMVQ
 208	Blind Fiddler	Eric Andersen	Vanguard Folk Sampler	INDIFFERENT	5:11	hXmx_nbhKJk	MPREb_LS4tZ8aiCqO	UCLtQESs2mptSdhoKUikYMVQ
-50	Freight Train	Elizabeth Cotten	Elizabeth Cotten, Volume 3: When I'm Gone	INDIFFERENT	3:11	Ry2btuoGxZg	MPREb_HB7igELKTdw	UCJUlLXkjxQmKU9F8bwM2KTA
+50	Freight Train	Elizabeth Cotten	Elizabeth Cotten, Volume 3: When I'm Gone	INDIFFERENT	3:11	Tdre6Rxi9ok	MPREb_HB7igELKTdw	UCJUlLXkjxQmKU9F8bwM2KTA
 58	Last Night I Had the Strangest Dream	Ed McCurdy	CooP - Fast Folk Musical Magazine (Vol. 1, No. 1)	INDIFFERENT	1:58	VmgdeBcyVcc	MPREb_I5gBY3MlVzt	UCMsgchDBxVk7t2oMmXxiC2g
 44	Caledonia	Dougie Maclean	The Plant Life Years	INDIFFERENT	4:02	rKU5C2UkpFs	MPREb_OCBqrmti6Y1	UCkMbGnoUlwxX2oHxsPrqrQA
 133	Birdses	Dino Valente	Forever Changing: The Golden Age Of Elektra Records 1963-1973	INDIFFERENT	2:34	jNMX_xltxaQ	MPREb_tUEq8t4d861	UCRMzm-lmawMd673n3yO7x8Q
@@ -201,13 +203,11 @@
 32	Universal Soldier	Buffy Sainte-Marie	Up Where We Belong	INDIFFERENT	2:30	Aj8xWNOeAZM	MPREb_VA8aqPAnhzR	UCvv3_jNqU2WBssvVkjSA3dQ
 84	Universal Soldier	Buffy Sainte-Marie	The Best Of	INDIFFERENT	2:20	q09f1OE7R8s	MPREb_ZgtmjYriQOn	UCvv3_jNqU2WBssvVkjSA3dQ
 96	The Vampire	Buffy Sainte-Marie	The Best Of	INDIFFERENT	2:09	sMc6X5ZVCSg	MPREb_ZgtmjYriQOn	UCvv3_jNqU2WBssvVkjSA3dQ
-18	My Back Pages	Bob Dylan	Another Side Of Bob Dylan	INDIFFERENT	4:24	tx_hm7brW8M	MPREb_w2U2e98cAjd	UCBqkojCXby4zGkWX86FEY7Q
 66	Boots of Spanish Leather	Bob Dylan	The Times They Are A-Changin'	INDIFFERENT	4:38	0_-56W5t-nY	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
 76	Hard Times In New York Town (Demo - 1961)	Bob Dylan	The Bootleg Series Volumes 1-3 (Rare And Unreleased) 1961-1991	INDIFFERENT	2:18	huibst1T4bc	MPREb_Uyn9fJBwPnG	UCBqkojCXby4zGkWX86FEY7Q
 81	A Hard Rain's a-Gonna Fall (Witmark Demo - 1962)	Bob Dylan	The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)	INDIFFERENT	6:49	ZZPJPjfN894	MPREb_6NQ5Ty3kexa	UCBqkojCXby4zGkWX86FEY7Q
 94	Blowin' In the Wind (Witmark Demo - 1962)	Bob Dylan	The Witmark Demos: 1962-1964 (The Bootleg Series Vol. 9)	INDIFFERENT	2:37	0-JwAm_wDwg	MPREb_6NQ5Ty3kexa	UCBqkojCXby4zGkWX86FEY7Q
 172	Girl from the North Country	Bob Dylan	The Freewheelin' Bob Dylan	INDIFFERENT	3:20	JncbFS5ek74	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
 149	Eve Of Destruction	Barry McGuire	Eve Of Destruction	INDIFFERENT	3:35	_38SWIIKITE	MPREb_ae0qpqlJBWh	UCgZC0jQPBWmyWewVc3TW7IA
-5	Alice's Restaurant Massacree	Arlo Guthrie	Alice's Restaurant	INDIFFERENT	18:36	WaKIX6oaSLs	MPREb_ZYrhRvcRXnX	UCMuqt4tU70hwj0l12C6g2vQ
 158	Alice's Restaurant (The Massacree Revisted) (Live at The Church)	Arlo Guthrie	Alice's Restaurant (The Massacree Revisited) (Live at The Church)	INDIFFERENT	22:26	B_tMzSxvoeA	MPREb_1N2in7KVi19	UCMuqt4tU70hwj0l12C6g2vQ
 49	Ramblin' Boy	Anne Hills	Best Of Friends	INDIFFERENT	3:50	U1qE3Czmzic	MPREb_gvf4rZlQvGu	UC2CfMU1_XB84An8yTJ-x-dw

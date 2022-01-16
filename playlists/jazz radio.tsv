@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+483	Autumn In New York	Kenny Burrell	Blue Lights (Volumes 1 & 2)	LIKE	5:45	nFAve3I3sM4	MPREb_HQLOy4k8IBV	UCxIGOyqgyrj2pKCPKZmDRYg
 522	Mansur's Message	Yussef Kamaal	Black Focus	INDIFFERENT	2:07	kqLViNOZ5O4	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
 531	Remembrance	Yussef Kamaal	Black Focus	INDIFFERENT	9:01	2AKNqbskCLc	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
 260	Ching Miau (Rudy Van Gelder Remaster)	Yusef Lateef	Eastern Sounds	INDIFFERENT	3:16	uHMazzeGvqM	MPREb_uLpUwug6aZi	UCTzvT7cM3lVEnarspxywomQ
@@ -286,7 +287,6 @@
 338	Midnight Blue	Kenny Burrell	Midnight Blue (The Rudy Van Gelder Edition)	INDIFFERENT	4:03	F5xhrGqTeos	MPREb_Az7ym79DUwT	UCxIGOyqgyrj2pKCPKZmDRYg
 417	I Thought About You (Instrumental)	Kenny Burrell	Bluesy Burrell	INDIFFERENT	4:40	RgWS60EqJig	MPREb_xdJgwLkkXlX	UCxIGOyqgyrj2pKCPKZmDRYg
 444	I'm Just A Lucky So And So	Kenny Burrell	Soul Call	INDIFFERENT	5:12	lmdMXSU4Crk	MPREb_lo1HtKuCft6	UCxIGOyqgyrj2pKCPKZmDRYg
-483	Autumn In New York	Kenny Burrell	Blue Lights (Volumes 1 & 2)	INDIFFERENT	5:45	nFAve3I3sM4	MPREb_HQLOy4k8IBV	UCxIGOyqgyrj2pKCPKZmDRYg
 553	Synchrony	Kendrick Scott Oracle	We Are The Drum	INDIFFERENT	5:00	dsZAfMBMQbU	MPREb_EHBkRRpng2e	UCUnwWUoeY5pXvajVUWxNL2g
 495	Desire	Kamasi Washington	Harmony of Difference	INDIFFERENT	4:37	XKLAhmPZHe8	MPREb_eq1G8KYdwAm	UC0G-IaG6Q0eawu8N_6OAZxw
 499	Knowledge	Kamasi Washington	Harmony of Difference	INDIFFERENT	3:52	uwHTwENVtD4	MPREb_eq1G8KYdwAm	UC0G-IaG6Q0eawu8N_6OAZxw
@@ -481,7 +481,7 @@
 85	Tenderly	Chet Baker	Chet Baker Big Band	INDIFFERENT	4:05	aF6N3oM-TZ0	MPREb_VofzZbJKXSx	UCVNfRXuaWVILL9giCEg0rQg
 99	Festive Minor	Chet Baker	Jazz for a Lazy Day	INDIFFERENT	4:10	XCRT2AprNLw	MPREb_cJ9ow1K6g0T	UCVNfRXuaWVILL9giCEg0rQg
 111	Happy Little Sunbeam	Chet Baker	Chet Baker from A to Z, Vol. 4	INDIFFERENT	2:43	l2n8Mn3pClA	MPREb_nIliI3BQPAJ	UCVNfRXuaWVILL9giCEg0rQg
-128	But Not For Me (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	3:05	KBR8-2OrtT4	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
+128	But Not For Me	Chet Baker	Chet Baker Sings	INDIFFERENT	3:05	KBR8-2OrtT4	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
 150	A Little Duet for Zoot And Chet	Chet Baker	Chet Baker & Strings	INDIFFERENT	2:35	Ptwx2U_yw5s	MPREb_2xskka4ZtA0	UCVNfRXuaWVILL9giCEg0rQg
 173	Look for the Silver Lining	Chet Baker	Chet Baker from A to Z, Vol. 4	INDIFFERENT	2:40	ZFNGVLZooZI	MPREb_nIliI3BQPAJ	UCVNfRXuaWVILL9giCEg0rQg
 178	Minor Yours	Chet Baker	The Route	INDIFFERENT	7:16	3arcMB_SYvY	MPREb_fd5V3pm5aTG	UCVNfRXuaWVILL9giCEg0rQg
@@ -489,12 +489,12 @@
 201	September Song	Chet Baker	Chet Baker from A to Z, Vol. 9	INDIFFERENT	3:06	St4SzXI4OGs	MPREb_IvbYLjOKxRD	UCVNfRXuaWVILL9giCEg0rQg
 202	How High The Moon	Chet Baker	The Best Of Chet Baker	INDIFFERENT	3:34	DKzHm3KtXGY	MPREb_Hc6FnbuOcIx	UCVNfRXuaWVILL9giCEg0rQg
 213	Alone Together	Chet Baker	Chet (Keepnews Collection)	INDIFFERENT	6:53	p0zIbYCu7Yc	MPREb_E1rqgE7VF4P	UCVNfRXuaWVILL9giCEg0rQg
-230	Like Someone In Love (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	2:27	6WWRMqC1ONM	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
+230	Like Someone In Love	Chet Baker	Chet Baker Sings	INDIFFERENT	2:27	6WWRMqC1ONM	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
 250	Tis Autumn	Chet Baker	Lounge Jazz Café - Paris	INDIFFERENT	5:15	2dOcn4fvzp8	MPREb_1JDWZS3I8bC	UCVNfRXuaWVILL9giCEg0rQg
 301	Tangerine	Chet Baker	This Is Jazz #2	INDIFFERENT	5:27	9L6wJNecCnU	MPREb_JS0FdbPYobp	UCVNfRXuaWVILL9giCEg0rQg
 356	I Get Along Without You Very Well	Chet Baker	Chet Baker from A to Z (Vol. 3)	INDIFFERENT	2:59	15rJxIvkkos	MPREb_lGwHAHNeyqY	UCVNfRXuaWVILL9giCEg0rQg
-363	It's Always You (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	3:36	QVyqwPW6VYw	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
-372	I've Never Been In Love Before (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	4:29	aawiJ74rHRc	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
+363	It's Always You	Chet Baker	Chet Baker Sings	INDIFFERENT	3:36	QVyqwPW6VYw	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
+372	I've Never Been In Love Before	Chet Baker	Chet Baker Sings	INDIFFERENT	4:29	aawiJ74rHRc	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
 376	I Fall In Love Too Easily	Chet Baker	Chet Baker Sings	INDIFFERENT	3:22	_ZRJrAHprBM	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
 406	Happy Little Sunbeam	Chet Baker	Jazz Progressions (Best Of)	INDIFFERENT	2:44	U-rttAZR598	MPREb_zzaHTSLSxas	UCVNfRXuaWVILL9giCEg0rQg
 414	Everything Happens To Me (Complete Take 2)	Chet Baker	Chet For Lovers	INDIFFERENT	3:39	WjeH1NSGuoc	MPREb_UkofM4iFB8y	UCVNfRXuaWVILL9giCEg0rQg
@@ -563,7 +563,7 @@
 165	Strictly Confidential	Bud Powell	Jazz Giant	INDIFFERENT	3:10	4x9e30CQ9Ps	MPREb_x6nGK18u1ci	UCsyeGJfR7t0QBrNUl7c36gw
 176	Polka Dots And Moonbeams (Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster)	Bud Powell	The Amazing Bud Powell	INDIFFERENT	4:05	h4JFwxXXOHg	MPREb_pvaaVpRDaRZ	UCsyeGJfR7t0QBrNUl7c36gw
 354	Bouncin' With Bud	Bud Powell	The Fabulous Fats Navarro	INDIFFERENT	3:05	DB7pj2zQ4g0	MPREb_65H7qwge9DM	UCsyeGJfR7t0QBrNUl7c36gw
-415	My Heart Stood Still	Bud Powell	Blues In The Closet	INDIFFERENT	3:29	FGwLw6Zkmzg	MPREb_42EcKuiqIWC	UCsyeGJfR7t0QBrNUl7c36gw
+415	My Heart Stood Still	Bud Powell	Blues In The Closet	INDIFFERENT	3:30	m1okPbQpSco	MPREb_eT89HTApTDK	UCsyeGJfR7t0QBrNUl7c36gw
 455	Someone To Watch Over Me	Bucky Pizzarelli	One Morning In May	INDIFFERENT	3:09	t-ieI32QMIU	MPREb_LTaulaiGSUt	UCgJXYybvd0RnUihsDT3icTQ
 467	Wait Till You See Her	Bucky Pizzarelli	One Morning In May	INDIFFERENT	1:45	4aBz3-IgsVc	MPREb_LTaulaiGSUt	UCgJXYybvd0RnUihsDT3icTQ
 540	I Can't	Braxton Cook	Somewhere in Between	INDIFFERENT	4:21	ld-Tg_7UxkM	MPREb_ODkIrmLIopZ	UCu7ukU092xxFdUksCk9jlCQ
@@ -600,7 +600,7 @@
 503	Cashmere	Badbadnotgood	IV	INDIFFERENT	4:46	9wRzjvp0aQk	MPREb_Pzf9Y2myTh8	UCeLdRRQwPb-KP8Qj7j3P5dw
 268	If You Were Mine	BILLIE HOLIDAY	Song Parade - Music Mix	INDIFFERENT	3:15	a8k1ZlyH9QE	MPREb_CqPqy1min40	UCW-raws5Iq2xLADkLcEoVaA
 358	We Will Meet Again (For Harry) [Remastered Version]	BILL EVANS	Les incontournables du jazz - Bill Evans	INDIFFERENT	4:05	7FQpb6yhRQg	MPREb_IteMEcKirNX	UCriB97bZopXsBHVYOQEIIZg
-546	Nuggets of Wisdom	BADBADNOTGOOD	Sour Soul	INDIFFERENT	2:10	vRQ2es_67EU	MPREb_ooMr4ZejO2p	UCGmY-HUMaNDbrl-D0G9S8AQ
+546	Nuggets of Wisdom	BADBADNOTGOOD	Sour Soul	INDIFFERENT	2:10	V3f5zL6GyS0	MPREb_ooMr4ZejO2p	UCGmY-HUMaNDbrl-D0G9S8AQ
 269	Catfish Blues	B.B. King	B.B. King Greatest Hits	INDIFFERENT	2:24	JdOu-QfAeB4	MPREb_BseldnKt0uN	UCqKrqzF3eX7R17m_MIMte4w
 379	Ponteio	Astrud Gilberto	Astrud Gilberto W/ Stanley Turrentine	INDIFFERENT	3:52	1wP7vOs2-Kg	MPREb_LcblICvAQsK	UCHfuC6qjRi-7wQobu_WCuig
 401	Let Go (Canta De Ossanha)	Astrud Gilberto	September 17, 1969	INDIFFERENT	3:06	LaHudvno_i4	MPREb_TlufN4NmF8d	UCHfuC6qjRi-7wQobu_WCuig

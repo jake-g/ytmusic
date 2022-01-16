@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+7	Fast Car	Tracy Chapman	Greatest Hits	LIKE	4:56	JpscHOoGIqQ	MPREb_5GikwGBg2Hk	UCndrh03uIKb9SUR7-znGZ9w
 99	The Sun Always Shines on TV	a-ha	Time and Again: The Ultimate a-ha	INDIFFERENT	5:07	LwUEb8Q-qAA	MPREb_OUl8FaluP4R	UCx00XxqRCfPS6zaTzRm3H2A
 291	Legs (Remix)	ZZ Top	Greatest Hits	INDIFFERENT	4:32	EypcvW64VcI	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
 275	Self Control	YoungBoy Never Broke Again	AI YoungBoy 2	INDIFFERENT	3:06	KVOTvkP-03E	MPREb_iCghr3nFk8h	UCR28YDxjDE3ogQROaNdnRbQ
@@ -22,7 +23,6 @@
 178	I Will Follow	U2	The Best Of 1980 - 1990	INDIFFERENT	3:35	KGnz0VIxPro	MPREb_BbqUa7UXLpX	UCqIQRxCUGi7hyJisyzv9zYQ
 195	Where The Streets Have No Name	U2	The Joshua Tree	INDIFFERENT	5:36	WfunypXsBO4	MPREb_e59LwhzKV7p	UCqIQRxCUGi7hyJisyzv9zYQ
 198	We're Not Gonna Take It	Twisted Sister	Stay Hungry	INDIFFERENT	3:40	ZqOp76R12DM	MPREb_tgWH4qbrNsC	UC8-GQfF2Xod92t8kiUe2ajA
-7	Fast Car	Tracy Chapman	Greatest Hits	INDIFFERENT	4:56	JpscHOoGIqQ	MPREb_5GikwGBg2Hk	UCndrh03uIKb9SUR7-znGZ9w
 206	They Don't Know	Tracey Ullman	You Broke My Heart In Seventeen Places	INDIFFERENT	3:00	DJyvjyHJpwc	MPREb_14JcLXuFfDJ	UCpu45ZnPq7vnBd45Jk-zsfw
 255	Rosanna (Single Version)	Toto	Pop Music: The Modern Era 1976-1999	INDIFFERENT	4:03	1j_YC8OpSr4	MPREb_Di2j29KLrwt	UCewH1MBbYlEZMWx3ZUNywyg
 318	Africa	Toto	Rock Classics	INDIFFERENT	4:22	y8Nla-98CRY	MPREb_FlPQDc6nWZr	UCewH1MBbYlEZMWx3ZUNywyg
@@ -272,7 +272,7 @@
 103	Rock Me Amadeus (The American Edit)	Falco	Exquisite	INDIFFERENT	3:15	w8slcTiSGrc	MPREb_8SJocOFqRUw	UC2IxXopNUjjBCC78s_01mnw
 264	Rock Me Amadeus (The Gold Mix)	Falco	Falco III	INDIFFERENT	3:23	OKxBk4V79Co	MPREb_F8jAh04pzzb	UC2IxXopNUjjBCC78s_01mnw
 374	Der Kommissar	Falco	Einzelhaft	INDIFFERENT	3:53	eKaGZdY2WTU	MPREb_SeY1MC78VXc	UC2IxXopNUjjBCC78s_01mnw
-248	Something About You (feat. Dent May)	Eyedress	Mulholland Drive	INDIFFERENT	2:34	Zg8icgIaFUY	MPREb_ktEPWzB3M0f	UCxj-PHt_ozNqxrZ4YJecmPg
+248	Something About You (feat. Dent May)	Eyedress	Something About You	INDIFFERENT	2:34	XJYJPxjlvLs	MPREb_kyDDFGRnCjM	UCxj-PHt_ozNqxrZ4YJecmPg
 168	Point of No Return	Exposé	Exposure	INDIFFERENT	3:28	r9qLB9toaN0	MPREb_T3kojckS6WP	UCFbS2Y5Pb7C4jHr8_bt2bPg
 151	Sweet Dreams (Are Made of This)	Eurythmics	Sweet Dreams (Are Made Of This)	INDIFFERENT	3:38	i5_asj1BGFs	MPREb_Cb2TQZDVaDj	UCQiH3xAP0i48o74BK6EBkMw
 287	Here Comes the Rain Again (Remastered Version)	Eurythmics	Touch (Reissue - Deluxe Edition)	INDIFFERENT	4:55	dhPnqHwb1Ek	MPREb_L7VgK0rFYwF	UCQiH3xAP0i48o74BK6EBkMw
@@ -343,7 +343,7 @@
 270	I Feel for You	Chaka Khan	Epiphany: The Best of Chaka Khan, Vol. 1	INDIFFERENT	5:44	-hmG6Ah3-rA	MPREb_pGEBA12lYsY	UCwRmRZFN_nTAkKZYngL-x6A
 194	Word Up	Cameo	Word Up	INDIFFERENT	4:21	iJQ79yh_Agk	MPREb_gU8xiDSdo26	UCWOWuP1wrpPtdpX72l8jl5w
 22	Run To You (Live)	Bryan Adams	Wembley 1996 Live	INDIFFERENT	5:30	fbdy4xFj31U	MPREb_uRoUDDFGTGm	UCSoZk6OcvRneFfAZH3I3-gQ
-146	Summer Of '69	Bryan Adams	Reckless	INDIFFERENT	3:36	Vnr0rNEa454	MPREb_OERJ5h6aL8c	UCSoZk6OcvRneFfAZH3I3-gQ
+146	Summer Of '69	Bryan Adams	80s Tunes	INDIFFERENT	3:38	R9q6sDvlZOs	MPREb_HXV1mAm1yGv	UCSoZk6OcvRneFfAZH3I3-gQ
 292	The Way It Is	Bruce Hornsby	The Way It Is	INDIFFERENT	4:58	gthpodDZJeQ	MPREb_lM3hrOdhkkW	UCiwLXd-mXNArd1LLq-ri9Kw
 196	Waiting for a Star to Fall	Boy Meets Girl	Reel Life (Expanded Edition)	INDIFFERENT	4:31	iVOhqIwOtg0	MPREb_uKyDbXHHQlb	UCJJVV7JpOQYgeIR03fzBGlw
 159	I Touch Roses	Book Of Love	Book Of Love	INDIFFERENT	3:22	0AysNgVkmpg	MPREb_bdhTq5g9OnZ	UC5pp0MxLYo7fmB1E_GNZWeQ

@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 622	Transatlantic Landing Bay	Space Dimension Controller	Temporary Thrillz	LIKE	6:43	C8s7X-z996M	MPREb_1F41FpsgBdU	UCt9cHncGBnwZ_6Vynxjb7ow
 107	Be Brave, Clench Fists	Leon Vynehall	Music for the Uninvited	LIKE	6:45	XmuWboxDdAg	MPREb_BmRW7NK1fMi	UCfG9U3KHCTwq8ED0SpQrJ4g
+13	Fogs	Kingdom	That Mystic EP	LIKE	4:55	lohrC4gCqSk	MPREb_Ni3q9QKeOJz	UC8HFPFz2CZLHmXNIaA4NFGQ
 135	The Wilhelm Scream	James Blake	James Blake	LIKE	4:33	F98lMA1p_IE	MPREb_LXwcJ1OBT14	UCx90L12QXzc18AGYFRof-EA
 130	What's a Girl to Do	Fatima Yamaha	A Girl Between Two Worlds	LIKE	7:26	Y5vLH5YVZLw	MPREb_9r1nqjO8Rv6	UCS4vfxt9kuU_jAL0u0k7m-w
 34	You	Bibio	Silver Wilkinson	LIKE	5:30	oKY6-tRwmdc	MPREb_7NyCded4VAx	UCuJ1ytddNReUXXZb3QPNEtg
@@ -419,7 +420,6 @@
 55	Made To Stray	Mount Kimbie	Cold Spring Fault Less Youth	INDIFFERENT	4:47	Qmb2EJNPqi0	MPREb_NfwH44eY8HF	UCr10ZmksmCibKV5GzPjHdaw
 108	Made to Stray (DJ Koze Remix)	Mount Kimbie	CSFLY Remixes	INDIFFERENT	8:09	qLm08XtmPW8	MPREb_k7XvwlhuhVT	UCr10ZmksmCibKV5GzPjHdaw
 36	Done Me Wrong	Mosca	Done Me Wrong / Bax	INDIFFERENT	5:29	FoBBE2FJjxA	MPREb_on2acDLIc1h	UC8wW51SYXjTF5St46dAXRSw
-127	Square One VIP	Mosca	Night Slugs Allstars Volume 1	INDIFFERENT	5:58	1Q66RQrQeMI	MPREb_XACOR9i8oC8	UC8wW51SYXjTF5St46dAXRSw
 749	Murderous (Vocal Mix)	Mosca	Eva Mendes EP	INDIFFERENT	6:20	aVQzVWff3Q0	MPREb_88NFhpzffGE	UC8wW51SYXjTF5St46dAXRSw
 1132	Bax	Mosca	Done Me Wrong / Bax	INDIFFERENT	5:33	rfTXfWWva70	MPREb_on2acDLIc1h	UC8wW51SYXjTF5St46dAXRSw
 915	Quicksand	Morray	Quicksand	INDIFFERENT	3:44	OmvWRSRamtM	MPREb_o17nwr1KhLA	UCSSRU0r6GblvsB2Txv8f9sg
@@ -623,7 +623,6 @@
 912	Want You	Knightley	Sparkler	INDIFFERENT	5:48	A4YH9SOeeU0	MPREb_irJG8WWJrPC	UCLK5EyPWMFB-iDUr2oxi97Q
 1090	Don't Let Go (Extended Mix)	Kisch	Toolroom Ibiza 2019, Vol. 2	INDIFFERENT	6:20	dXF3qX3jsW0	MPREb_htHsg1nwHUf	UCjD_mgtPetLN7EQa8Wbl7Uw
 820	Deny My Love (feat. Lauren L'aimant)	Kingdom 7	Deny My Love	INDIFFERENT	4:42	1I21MOG1W_8	MPREb_OD9nZeICn3J	UCFbVUWwlvDbeKM3t2JklLnw
-13	Fogs	Kingdom	That Mystic EP	INDIFFERENT	4:55	lohrC4gCqSk	MPREb_Ni3q9QKeOJz	UC8HFPFz2CZLHmXNIaA4NFGQ
 372	Moving Forward	King & Early	Moving Forward	INDIFFERENT	7:46	lnMdVtq3-r8	MPREb_XJP2LP5IDBK	UCqY2wx0DNG5f0tuwMz9lYBA
 371	Hideaway (Gorgon City Remix)	Kiesza	Hideaway (Gorgon City Remix)	INDIFFERENT	5:11	X9sOxLOZlQA	MPREb_9kRo70UWSHY	UC_ybuLZvG_HNpVn1X89o2NQ
 27	Survive	Kidnap	Thin Lines	INDIFFERENT	7:30	pfY5gNjewJ8	MPREb_m9WB0MPHS77	UCYVTaaw5ApmMpiUKbNbbXEA
@@ -1080,7 +1079,7 @@
 938	Fall Out (Tale Of Us Remix)	Alex Smoke	Remix EP	INDIFFERENT	6:16	pUO5sZfH-qU	MPREb_0VV9Sj49hB0	UCTTE3swJz15Opea466ShwcQ
 979	Dire Need (Tale Of Us Instrumental Remix)	Alex Smoke	Dire Need (Tale Of Us Remixes)	INDIFFERENT	8:36	A5JjqmHtlt4	MPREb_gGRSa2DEThJ	UCTTE3swJz15Opea466ShwcQ
 182	Blazer	Alex Kennon	Blazer EP	INDIFFERENT	7:26	00DQnWzvBEQ	MPREb_7NnaSPfh93c	UCushAjYgE7WpQ7CEBvhLKTw
-181	My Sad Story	Aleph	From Chaos to Cosmos	INDIFFERENT	3:37	U4d-wISx1JQ	MPREb_pjH9UCU1MVQ	UCBuyKPa-vl6YDYLgKNBqWRQ
+181	My Sad Story	Aleph	From Chaos to Cosmos	INDIFFERENT	3:37	U4d-wISx1JQ	MPREb_pjH9UCU1MVQ	UCJexD63hoh7cUufgNTekujg
 170	Autumn	Airhead	For Years	INDIFFERENT	4:16	nPvz1hNrbJ4	MPREb_V7le5OpOhrC	UCeGDpS3UP2DtOQzTS8S_d2w
 171	Azure Race	Airhead	For Years	INDIFFERENT	4:37	2FDlVnnjsQw	MPREb_V7le5OpOhrC	UCeGDpS3UP2DtOQzTS8S_d2w
 172	Black Ink	Airhead	Pyramid Lake	INDIFFERENT	5:05	5nXjSN2B7D4	MPREb_orzAqndOuV2	UCeGDpS3UP2DtOQzTS8S_d2w
@@ -1145,5 +1144,6 @@
 687	Strings	The Maghreban	01DEAS			2K2dUhZCqbk		
 1141	Get At	Shadow Child	My House Is Your House			EvOlQY69d7o		
 1118	Umbrella	Sampladelic	Umbrella			z84wylrBjps		
+127	Square One VIP	Mosca	Night Slugs Allstars Volume 1			1Q66RQrQeMI		
 790	Can't Lie (Extended Mix)	Low Steppa	Can’t Lie		6:17	XqA13LZqtmI		
 962	Take Me Away [Extended Radio Edit]	DJ S.K.T	Take Me Away (Remixes)			j8aExkxY91k		

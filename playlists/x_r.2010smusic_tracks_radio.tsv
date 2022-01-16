@@ -1,5 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 627	What You Know	Two Door Cinema Club	Tourist History	LIKE	3:11	mNVmMPbg5IE	MPREb_4FVFZgQlnYU	UCNaAQtk0jVa2OXAEY0zF5zw
+358	Hell Broke Luce	Tom Waits	Bad As Me (Deluxe Edition Remastered)	LIKE	3:56	vM0GB5EJlr8	MPREb_6FvBdYAaJEC	UC39N3pyt2Z15oOMjouokl8A
+546	Will Do	TV On The Radio	Nine Types Of Light	LIKE	3:44	X4JcsSGOZc4	MPREb_jxoh6EDJo3s	UCyRprZQCBFlc-lMRR2uQq-Q
+609	Blackstar	David Bowie	Blackstar	LIKE	9:58	Tc_zFfUkvsA	MPREb_ev11fQuB0Z1	UCvY1eVE6lTebXsdFbbXUtkQ
 612	FIYAH	will.i.am	FIYAH	INDIFFERENT	4:00	wZmS4RsoAUc	MPREb_dtE11I0GJKi	UCMCqlMhBZnxsgYtI5tcFHbA
 510	Saturday	twenty one pilots	Scaled And Icy	INDIFFERENT	2:53	eY43Sy1wTc0	MPREb_NPxhttzsagk	UCnX0L9QiftAcWdzeBx31xCw
 632	Gangsta	tUnE-yArDs	W H O K I L L	INDIFFERENT	3:59	BgJlILjMpDo	MPREb_rGtiHpydOFW	UCtPTLKDh21P9EHTU6oRae0g
@@ -43,7 +46,6 @@
 81	disco tits	Tove Lo	BLUE LIPS (Lady Wood Phase II)	INDIFFERENT	3:43	5ntYCQculZo	MPREb_aOXpuNC1smT	UCIWrwx1RmgvMbnugBl5pq7Q
 444	Cool Girl	Tove Lo	Lady Wood	INDIFFERENT	3:19	gx1dANKnwdY	MPREb_JEDZ9t2tqMN	UCIWrwx1RmgvMbnugBl5pq7Q
 342	Africa	Toto	Rock Classics	INDIFFERENT	4:22	y8Nla-98CRY	MPREb_FlPQDc6nWZr	UCewH1MBbYlEZMWx3ZUNywyg
-358	Hell Broke Luce	Tom Waits	Bad As Me (Deluxe Edition Remastered)	INDIFFERENT	3:56	vM0GB5EJlr8	MPREb_6FvBdYAaJEC	UC39N3pyt2Z15oOMjouokl8A
 271	Zucker	Tocotronic	Tocotronic (Das rote Album)	INDIFFERENT	3:17	EXjr1JHySb0	MPREb_7fbXOrS0hQc	UCl6UzZE0HcPJL8IlghXpoOg
 350	Malfunction	Tirzah	No Romance	INDIFFERENT	2:05	RcCLC4GHh0Y	MPREb_e49Om78FZBX	UCdMMSqUvhipRBTmzlpKGsRA
 234	Written in the Stars (feat. Eric Turner)	Tinie Tempah	Disc-Overy	INDIFFERENT	3:28	dl1lUsKMSW8	MPREb_Z6dYtkb7Hvk	UC9NUKd-rs3sr07pZmOzHUow
@@ -110,7 +112,6 @@
 579	Dynamite	Taio Cruz	Rokstarr (Deluxe)	INDIFFERENT	3:22	3MrY_BwLChk	MPREb_BFxWuq4J9e5	UC59s2CAhIuHrBUa7YsVJdDA
 621	Hangover (feat. Flo Rida)	Taio Cruz	TY.O (International Version)	INDIFFERENT	4:04	5ydnBckk_yM	MPREb_oOKpTngCCZ9	UC59s2CAhIuHrBUa7YsVJdDA
 195	Careful You	TV On The Radio	Seeds	INDIFFERENT	5:12	MK0ZR245VUw	MPREb_FaX3VGmGn3a	UCyRprZQCBFlc-lMRR2uQq-Q
-546	Will Do	TV On The Radio	Nine Types Of Light	INDIFFERENT	3:44	X4JcsSGOZc4	MPREb_jxoh6EDJo3s	UCyRprZQCBFlc-lMRR2uQq-Q
 678	Sunshine (Extended Mix) (feat. Dan Harkna)	TIEKS	Sunshine (Remixes)	INDIFFERENT	4:15	IBI06rpZ6Yo	MPREb_qJZBYEAQHXz	UCQTIunWzvCuqqSEAssRxQVQ
 293	So Rude	Sälen	So Rude	INDIFFERENT	3:31	BCSgKq3tqpQ	MPREb_uX9N7ywT8Sw	UCUfKRTniGjs1VjtEmyyexZA
 45	Finally, Peace	Swans	The Glowing Man	INDIFFERENT	6:15	ufTX2PJtWwI	MPREb_gjuXHUNgc9S	UCw8td8ajENm2IOhk6AkBdJA
@@ -265,8 +266,8 @@
 369	One More Chance	Michael Jackson	Number Ones	INDIFFERENT	3:49	bKYtMIJYaiQ	MPREb_blrjqA5PY0E	UCoIOOL7QKuBhQHVKL8y7BEQ
 707	Behind the Mask	Michael Jackson	Michael	INDIFFERENT	5:02	691nkdaufMU	MPREb_5sr7boun3bv	UCoIOOL7QKuBhQHVKL8y7BEQ
 87	Winter Wonderland	Michael Bublé	Christmas (Deluxe Special Edition)	INDIFFERENT	2:30	fGkxFtaFWNw	MPREb_Rv8i9mhXY7J	UCJWJd67r42sByfpOe6S__zw
-397	Now or Never Now	Metric	Art of Doubt	INDIFFERENT	6:20	B-E0oZVj_DA	MPREb_MuFb0FUPbTR	UCEDAqx7QPrOUV3Bx9aqUjsw
-480	Dressed to Suppress	Metric	Art of Doubt	INDIFFERENT	5:43	CTFWHXREsBI	MPREb_MuFb0FUPbTR	UCEDAqx7QPrOUV3Bx9aqUjsw
+397	Now or Never Now	Metric	Art of Doubt	INDIFFERENT	6:20	bbkAKfmWjsE	MPREb_MuFb0FUPbTR	UCEDAqx7QPrOUV3Bx9aqUjsw
+480	Dressed to Suppress	Metric	Art of Doubt	INDIFFERENT	5:43	PzM72EsnZLY	MPREb_MuFb0FUPbTR	UCEDAqx7QPrOUV3Bx9aqUjsw
 44	Am I Savage?	Metallica	Hardwired...To Self-Destruct	INDIFFERENT	6:29	5QCema7g9oM	MPREb_0Te4AW7v72J	UCGexNm_Kw4rdQjLxmpb2EKw
 150	California	Mazzy Star	Seasons of Your Day	INDIFFERENT	5:23	a6TH9zbyfmc	MPREb_GvkeD27mxul	UCi8cblgb3PyU8HzGvXWhuEg
 664	Explode Into Colo(u)rs	Mazes	Wooden Aquarium	INDIFFERENT	3:28	A4JgvpPrmyM	MPREb_CnRcfLrz10Q	UCqtg-1zStOVnD2iTZA5ecbg
@@ -521,7 +522,6 @@
 403	Would I Lie to You (Extended)	David Guetta & Cedric Gervais & Chris Willis	Would I Lie To You	INDIFFERENT	4:49	r6BMR0TcpZQ	MPREb_DxMNyWwZCdE	UCh-4c1ZoBPNP1C8c-7iVvUQ
 465	Sexy Bitch (feat. Akon)	David Guetta	One Love (Deluxe Version)	INDIFFERENT	3:16	tWgNjm0DYjs	MPREb_09AAqfzhl7K	UCh-4c1ZoBPNP1C8c-7iVvUQ
 593	Memories (feat. Kid Cudi)	David Guetta	One More Love	INDIFFERENT	3:30	gzV_ztI1Qbs	MPREb_pxNNIgcggf4	UCh-4c1ZoBPNP1C8c-7iVvUQ
-609	Blackstar	David Bowie	Blackstar	INDIFFERENT	9:58	Tc_zFfUkvsA	MPREb_ev11fQuB0Z1	UCvY1eVE6lTebXsdFbbXUtkQ
 615	I Can't Give Everything Away	David Bowie	Blackstar	INDIFFERENT	5:48	vmsJcKk4oKU	MPREb_ev11fQuB0Z1	UCvY1eVE6lTebXsdFbbXUtkQ
 616	Valentine's Day	David Bowie	The Next Day	INDIFFERENT	3:03	f02oa6Yt5xc	MPREb_IhLFJLKwzmG	UCvY1eVE6lTebXsdFbbXUtkQ
 647	'Tis a Pity She Was a Whore	David Bowie	Blackstar	INDIFFERENT	4:53	7Hblv66LVKg	MPREb_ev11fQuB0Z1	UCvY1eVE6lTebXsdFbbXUtkQ
@@ -550,7 +550,7 @@
 214	No Saint (feat. Eneli)	Consoul Trainin	No Saint	INDIFFERENT	3:08	wnRxKpLQuwE	MPREb_80ekQA3kCNl	UC-33WPGIob0XkJiAFbFRDlA
 215	Take Me To Infinity	Consoul Trainin	Armada - Amsterdam Dance Event 2016	INDIFFERENT	3:28	o-gakV3ovtw	MPREb_B2ubogI3QKn	UC-33WPGIob0XkJiAFbFRDlA
 659	Brave For Me (feat. Jeza)	Conjure One	Holoscenic	INDIFFERENT	5:22	YA-CNOaJ9DU	MPREb_jpJWPpR33HE	UC58sOcPndxjT03IuCdMg6Fw
-356	Ghost	Confetti	Ghost	INDIFFERENT	2:56	bKPfBqhGjRs	MPREb_MOBBzd02SWw	UCxkN2-SasQgvY06Zb14-8bw
+356	Ghost	Confetti	Ghost	INDIFFERENT	2:50	bKPfBqhGjRs	MPREb_MOBBzd02SWw	UCxkN2-SasQgvY06Zb14-8bw
 216	Firestorm	Conchita Wurst	Conchita	INDIFFERENT	3:43	jUJ9-BUg9s4	MPREb_rNUbjYMK0B9	UC6HH4dAOLx1liP3Yh0qrAsA
 13	Miracles	Coldplay	Unbroken (Original Motion Picture Soundtrack)	INDIFFERENT	3:56	Sk2CfCgJYhY	MPREb_igkGkeNokjP	UCIaFw5VBEK8qaW6nRpx_qnw
 109	Hypnotised	Coldplay	Hypnotised	INDIFFERENT	5:56	r2nyvDJO9hk	MPREb_ZCCbtmJRZgY	UCIaFw5VBEK8qaW6nRpx_qnw
@@ -636,7 +636,7 @@
 321	All Night	Beyoncé	Lemonade	INDIFFERENT	5:22	jn1ikLWOr3w	MPREb_Wj7vh2XYbSH	UCoPQ_TWm8JZ5nJv4a5BzSWA
 419	Party (feat. J. Cole)	Beyoncé	Party	INDIFFERENT	3:39	IAxvScEULeg	MPREb_xy9U2KS2Kh4	UCoPQ_TWm8JZ5nJv4a5BzSWA
 76	I Love You Always Forever	Betty Who	The Valley	INDIFFERENT	3:44	nqZrRS0Vt28	MPREb_uFmlS58RUh5	UCLDuPf2QyOwSASbDaa1wIxg
-363	Don't You Worry Child (Charming Horses Remix Edit)	Beth	Don't You Worry Child	INDIFFERENT	3:36	68Y5N0LTJb0	MPREb_L81xJWxlxi1	UCrWHUd4ID6sNWJN5MObfq0A
+363	Don't You Worry Child (Charming Horses Remix Edit)	Beth	Don't You Worry Child	INDIFFERENT	3:36	68Y5N0LTJb0	MPREb_L81xJWxlxi1	UC5KofMP_nfOwfr4tC7UVx4A
 143	Boyfriend	Best Coast	Crazy For You	INDIFFERENT	2:29	rmwCFlek9rI	MPREb_yvhjx3MiYGA	UCBAYaAMrMo1FqqBB9Z3kn4g
 715	GHOST TOWN	Benson Boone	GHOST TOWN	INDIFFERENT	3:14	i7s6DMA9lIE	MPREb_8yWMrSU9D4g	UChN7Bcek6HoXA-j8K8T7olQ
 532	Cinema	Benny Benassi	Electroman	INDIFFERENT	3:03	lMw0OdOHzvU	MPREb_hxzfCQ2xsFD	UC0rp__Z5Xi4nZ4DEmCyCZTg

@@ -1,9 +1,11 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 168	Deadly Melody (feat. Street Life)	Wu-Tang Clan	Wu-Tang Forever	LIKE	4:21	170W3TjUrCI	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
+287	Wu-Tang Clan Ain't Nuthing Ta F' Wit	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	LIKE	3:35	EasoxN_sbVk	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
 326	Impossible (feat. Tekitha)	Wu-Tang Clan	Wu-Tang Forever	LIKE	4:29	wiSbQ5ru0uk	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 572	Protect Ya Neck	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	LIKE	4:38	SaylZOasSm8	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
 688	Triumph (feat. Cappadonna)	Wu-Tang Clan	Wu-Tang Forever	LIKE	5:39	7AFEWPAir8s	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 743	Cash Still Rules / Scary Hours (Still Don't Nothing Move but the Money)	Wu-Tang Clan	Wu-Tang Forever	LIKE	3:02	C7LN7SZbsdc	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
+753	A Better Tomorrow	Wu-Tang Clan	Wu-Tang Forever	LIKE	4:56	b0A8R5ry2vQ	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 459	Bulls On Parade	Rage Against The Machine	Evil Empire	LIKE	3:50	DvdeE6KzrTc	MPREb_DPmt0XDWuF5	UCg4nBubbzhYXjudOxPi9V7w
 146	Knowledge God	Raekwon	Only Built 4 Cuban Linx...	LIKE	4:25	MzH5_AWqbio	MPREb_Z2U9PujcM92	UC5xA-S_yp5X9nRWM8d-Iheg
 147	Criminology	Raekwon	Only Built 4 Cuban Linx...	LIKE	3:48	p497-78aBx0	MPREb_Z2U9PujcM92	UC5xA-S_yp5X9nRWM8d-Iheg
@@ -38,11 +40,13 @@
 105	Eye for a Eye (Your Beef Is Mines)	Mobb Deep	The Infamous	LIKE	4:49	OOPjFkVJbew	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 107	Give Up the Goods (Just Step)	Mobb Deep	The Infamous	LIKE	4:04	QAmIJh1z-zw	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 108	Temperature's Rising	Mobb Deep	The Infamous	LIKE	5:01	sobjbJjt5VY	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
+109	Up North Trip	Mobb Deep	The Infamous	LIKE	4:58	hP52ErXwrh0	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 112	Right Back at You	Mobb Deep	The Infamous	LIKE	4:54	_wQ4fz_lZw8	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 115	Drink Away the Pain (Situations)	Mobb Deep	The Infamous	LIKE	4:46	NhMer3gYTe0	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 116	Shook Ones, Pt. II	Mobb Deep	The Infamous	LIKE	5:26	SLjXz9ghUtk	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 449	Extortion	Mobb Deep	Hell On Earth	LIKE	3:32	-mBycGprplc	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 457	Hell on Earth (Front Lines)	Mobb Deep	Hell On Earth	LIKE	4:35	R2P0XrkMy-c	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
+677	Still Shinin'	Mobb Deep	Hell On Earth	LIKE	4:11	srFasOQkxxU	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 704	Give It Up Fast	Mobb Deep	Hell On Earth	LIKE	3:59	GXRCrLzFDGY	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 790	Bloodsport	Mobb Deep	Hell On Earth	LIKE	3:36	HXnGxS_GjIA	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 754	? (feat. Kurious)	MF Doom	Operation Doomsday: Original Version Remastered	LIKE	3:09	ApqmRu2lJvM	MPREb_n1YjC1AbZBT	UCooTDYkIERWBwDC1JKyoElQ
@@ -98,6 +102,7 @@
 689	Marshall Mathers	Eminem	The Marshall Mathers LP	LIKE	5:21	XGSrs0QIUAc	MPREb_1Xjf214SdV1	UCedvOgsKFzcK3hA5taf3KoQ
 340	"Nuthin' But A ""G"" Thang (feat. Snoop Dogg)"	Dr. Dre	The Chronic	LIKE	3:59	6xjRdBjmePQ	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 557	Fuck Wit Dre Day (And Everybody's Celebratin')	Dr. Dre	The Chronic	LIKE	4:53	G6IJ02pQ7so	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
+573	Deeez Nuuuts	Dr. Dre	The Chronic	LIKE	5:07	9b-lpKHjwvQ	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 675	Bitches Ain't Shit	Dr. Dre	The Chronic	LIKE	4:49	ke7vp_6xOME	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 702	Rat-Tat-Tat-Tat	Dr. Dre	The Chronic	LIKE	3:49	yD31ZaHjorI	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 245	Phantoms (feat. Open Mike Eagle & Kendra Morris)	Czarface	Czarface Meets Metal Face	LIKE	4:19	qDTWhWnh_O4	MPREb_bUD0qCcXXmo	UCfd66CKCMIyqPAXLGpCzpsg
@@ -136,7 +141,6 @@
 232	Older Gods	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	3:06	TRT6abI4upo	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 242	Duck Seazon	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	5:43	95TUm-SDsLI	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 280	The M.G.M.	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	2:39	407mT6NhgPI	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
-287	Wu-Tang Clan Ain't Nuthing Ta F' Wit	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	INDIFFERENT	3:35	EasoxN_sbVk	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
 331	Severe Punishment	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	4:50	kXjMilJzpqw	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 335	C.R.E.A.M.	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	INDIFFERENT	4:07	o08YscncCTc	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
 412	Shame On a Nuh	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	INDIFFERENT	2:57	a-dPYOyupMo	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
@@ -155,7 +159,6 @@
 740	Visionz	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	3:10	ei65mpVu47s	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 741	Method Man	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	INDIFFERENT	4:12	JhP5CWCT-r4	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
 752	Can It Be All So Simple (Radio Edit)	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	INDIFFERENT	4:21	8Hi9O-Aay_g	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
-753	A Better Tomorrow	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	4:56	b0A8R5ry2vQ	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 775	As High as Wu-Tang Get	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	2:39	lchDG5-c3eI	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 783	Hellz Wind Staff (feat. Street Life)	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	4:53	SGzYUY7E-Cs	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
 794	Dog Sh*t	Wu-Tang Clan	Wu-Tang Forever	INDIFFERENT	3:35	xexyzoz5ylQ	MPREb_ySimBuHORNp	UCdQKMtGgbbahJWE3rkPaGoA
@@ -392,7 +395,6 @@
 824	Every Ghetto	Nas	Stillmatic	INDIFFERENT	3:28	ISR7nXVU1MY	MPREb_lydhFg4E149	UCPoQYATXIYvN5WB0c4f6jfQ
 103	(The Infamous Prelude)	Mobb Deep	The Infamous	INDIFFERENT	2:13	g2voDwpY4OE	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 106	(Just Step Prelude)	Mobb Deep	The Infamous	INDIFFERENT	1:07	Opf2lhx9i8o	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
-109	Up North Trip	Mobb Deep	The Infamous	INDIFFERENT	4:58	hP52ErXwrh0	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 110	Trife Life	Mobb Deep	The Infamous	INDIFFERENT	5:21	0IEnYwGSIG0	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 111	Q.U. - Hectic	Mobb Deep	The Infamous	INDIFFERENT	4:47	sru0806Smls	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
 113	(The Grave Prelude)	Mobb Deep	The Infamous	INDIFFERENT	0:51	adxoIFE6ZCs	MPREb_ewZQNcAXIhJ	UCrZE2q5Y0Kti9IPxbWCc7mA
@@ -403,7 +405,6 @@
 368	More Trife Life	Mobb Deep	Hell On Earth	INDIFFERENT	3:45	PH5gDJrDdYE	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 411	G.O.D., Pt. III	Mobb Deep	Hell On Earth	INDIFFERENT	5:17	1BUh7mpyhvY	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 639	Get Dealt With	Mobb Deep	Hell On Earth	INDIFFERENT	3:56	5Nsjtjn0Fmo	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
-677	Still Shinin'	Mobb Deep	Hell On Earth	INDIFFERENT	4:11	srFasOQkxxU	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 710	Animal Instinct	Mobb Deep	Hell On Earth	INDIFFERENT	3:30	mTPXYBqahfw	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 747	Can't Get Enough Of It	Mobb Deep	Hell On Earth	INDIFFERENT	4:52	aVRa4vmBxrM	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
 800	Man Down	Mobb Deep	Hell On Earth	INDIFFERENT	5:03	r3pVLb81MhM	MPREb_8xSdHl8aFai	UCrZE2q5Y0Kti9IPxbWCc7mA
@@ -655,7 +656,6 @@
 441	The Doctor's Office (feat. Jewell, Rage & Kevin Lewis)	Dr. Dre	The Chronic	INDIFFERENT	1:05	FKtGyUigDoo	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 494	Lyrical Gangbang	Dr. Dre	The Chronic	INDIFFERENT	4:05	yTZREAXsZJU	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 545	Lil' Ghetto Boy (feat. Daz & Snoop Dogg)	Dr. Dre	The Chronic	INDIFFERENT	5:30	qO5ITgzJO2A	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
-573	Deeez Nuuuts	Dr. Dre	The Chronic	INDIFFERENT	5:07	9b-lpKHjwvQ	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 662	The Day The Niggaz Took Over (feat. Daz, Snoop Dogg & RBX)	Dr. Dre	The Chronic	INDIFFERENT	4:34	aopFH79YmpI	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 690	The Chronic (Intro)	Dr. Dre	The Chronic	INDIFFERENT	2:00	Ako3pokgi2s	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
 721	The $20 Sack Pyramid	Dr. Dre	The Chronic	INDIFFERENT	2:54	sNnbqq1TRzE	MPREb_NKvT90oSjYM	UC1g7JmTw4Gv8W9YINg3M1FA
