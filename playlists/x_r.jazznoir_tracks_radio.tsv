@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 338	In Your Quiet Place	The New Gary Burton Quartet	Common Ground	LIKE	7:21	Gim2g157mgo	MPREb_VUwmP5MhhlB	UCbjJxo5rkkSwe_twq0N31mw
+92	All the Pretty Little Horses	Suzy Bogguss	American Folk Songbook	LIKE	3:26	D0KYyi2QRwA	MPREb_lg2aUynT0Ri	UCZKW4TKv1ivv4BreUJPtPnw
 82	Paris Blues	Sonny Criss	Up, Up And Away	LIKE	7:30	YjlovMcFSM0	MPREb_VJ1yEIUUkFl	UCDW_LGDKqgU7oP4z8V8CU4Q
 193	Road to the West	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack 3 - Blue)	LIKE	2:56	eRUHT3FsV3I	MPREb_p8yilTbL7F8	UCFhMA8ygjzH72UqPf7PmlUg
 268	Waltz for Zizi	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	LIKE	3:30	Ryqvdr0UxcI	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
@@ -80,7 +81,6 @@
 311	Sleazy Bed Track	The Bluetones	Return To The Last Chance Saloon	INDIFFERENT	4:41	kVTVjGSDpBg	MPREb_HEyE7AcQR9F	UCjHIYMntXC3EEXwZuBhTdEw
 188	Lo/Hi	The Black Keys	"""Let's Rock"""	INDIFFERENT	2:58	P7Nbc03zV4M	MPREb_chZ0co43PI6	UCchwuI134MUX4GSZqYLpYGA
 97	Walking to the Palace (feat. Shlomo Bar)	The Apples	Kings	INDIFFERENT	6:20	Nz8iZTP08PI	MPREb_cPgi0pWSmeh	UC5s0S9cwrz7-yQW66Pf8ZeA
-92	All the Pretty Little Horses	Suzy Bogguss	American Folk Songbook	INDIFFERENT	3:26	D0KYyi2QRwA	MPREb_lg2aUynT0Ri	UCZKW4TKv1ivv4BreUJPtPnw
 55	Crack in the Sky	Stick Men feat. Gary Husband	Owari	INDIFFERENT	5:34	mcH5NbL_Ni8	MPREb_UhxnTwLaYZk	UCQWbX-ttkQc2IAwdHVno_ag
 96	Signed, Sealed, Delivered I'm Yours	Stevie Wonder	Yes We Can: Voices Of A Grassroots Movement	INDIFFERENT	2:35	I_4G6W_mkN8	MPREb_v0PJ4pNsL2B	UCR83RRXHzXrEQbu_ZQmPMSg
 231	Rain	Steve Conte	COWBOY BEBOP (Original Motion Picture Soundtrack)	INDIFFERENT	3:24	6GB3_O9-iEw	MPREb_asHLU4Jr7nQ	UCxk6zgJn87I4ZORy4bLdjUQ
@@ -147,7 +147,6 @@
 390	Musica Cthulhiana - The Unnamable	Nick Sakkas		INDIFFERENT	6:32	hg0pcwT2MvU		UCqFZN9P1lIL-fnyHOJn6Urg
 335	The Unnamable	Musica Cthulhiana	The Fourth	INDIFFERENT	6:32	uFsSQGryHgI	MPREb_2Itf8IMkRCD	UCnz7-EneLs7GYzl_igFhW6w
 313	Yèkèrmo Sèw (A Man of Experience and Wisdom)	Mulatu Astatke	Ethiopiques, Vol. 4: Ethio Jazz 1969-1974	INDIFFERENT	4:16	WxEjBw69ce0	MPREb_nyYdjRoQrBO	UCzEIYuYX27ZmTBTASkIjKZA
-376	The Crooked Spoke - The One You Left Behind	MrWippler		INDIFFERENT	6:33	J_eJv9QAceo		UCWvu9mmwVZy8qdSOwmqPX8g
 361	BADBADNOTGOOD - Differently, Still	MrAustinFalcone		INDIFFERENT	4:43	WkxGPZRmLAs		UC4APbwdKVy40hOSge5FVncg
 66	Ever Since The World Ended	Mose Allison	Ever Since The World Ended	INDIFFERENT	4:52	XuU0v_s-wWQ	MPREb_q4GoyD3IIox	UCHftue3JEfzN9X6bURGSB3g
 48	Don't Come Back	Mononome	Come Close	INDIFFERENT	3:37	42RobHaiHqg	MPREb_9oHoHIguqy5	UCdqwXFtffLWohZqnxJzz7mA
@@ -250,7 +249,7 @@
 343	"Eclisse Slow (From ""L'eclisse"" Original Soundtrack)"	Giovanni Fusco	"Eclisse Slow (From ""L'eclisse"" Original Soundtrack)"	INDIFFERENT	2:44	l1Y-BAocsak	MPREb_o16NlsHAOCT	UC3XTvGee7leF3fbOYmUyaqA
 310	"Blues all'alba (From ""La notte"" Original Soundtrack)"	Giorgio Gaslini Quartet	La Notte	INDIFFERENT	5:48	iae_mSY3sRM	MPREb_09DDrAw01Of	UCktgzCD9XReILHfNntiQS0w
 189	Me and the Devil	Gil Scott-Heron	I’m New Here (10th Anniversary Expanded Edition)	INDIFFERENT	3:34	Ujl_9Z3RaM0	MPREb_nUCOHU2RAW2	UCO78NEi7Y7J3HKFuPke0LoA
-190	The Prisoner	Gil Scott-Heron	Pieces Of A Man	INDIFFERENT	9:25	uU-82T3WlH0	MPREb_X24zTiFD3dt	UCO78NEi7Y7J3HKFuPke0LoA
+190	The Prisoner	Gil Scott-Heron	Pieces Of A Man	INDIFFERENT	9:26	uU-82T3WlH0	MPREb_X24zTiFD3dt	UCO78NEi7Y7J3HKFuPke0LoA
 197	Where Did the Night Go	Gil Scott-Heron	Where Did the Night Go	INDIFFERENT	2:38	iAtbrPOqQoE	MPREb_971MeTaHfL3	UCO78NEi7Y7J3HKFuPke0LoA
 128	Stardust	Gerry Mulligan Quartet	Original Sessions and Collaborations 1953 / Reunion 1957	INDIFFERENT	4:45	lOczp1b3ldE	MPREb_a2hYEWxEtAN	UC7aJZwPljwluquEXN1j3p4w
 153	Fall in love with you in every 4AM.	Friday Night Plans	LOCATION - Los Angeles	INDIFFERENT	2:56	2b_PBFI95ek	MPREb_TsNyOct56e1	UCvu8-LP7Xsgt0cYzhBdUN1Q
@@ -393,3 +392,4 @@
 331	E.32nd Elegy (feat. Brian Bromberg)	Alan Broadbent	Every Time I Think Of You	INDIFFERENT	7:19	PxIb8X5PNy0	MPREb_etTvTJcMktB	UCcUnUaJ9flR95OJx7ILcT5g
 372	Kilimanjaro Darkjazz Ensemble - Lobby	Abry Frederic		INDIFFERENT	6:58	DANNS0iiEv4		UCwcOXsNDRrmMrLZSNZp4uxg
 381	Bohren & der Club of Gore - Prowler	Pavelness			5:11	ECyfX1OR_nk		
+376	The Crooked Spoke - The One You Left Behind	MrWippler			6:33	J_eJv9QAceo		
