@@ -1,6 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+555	Chantilly Lace	The Big Bopper	Chantilly Lace	LIKE	2:26	8fX4rxe9T3o	MPREb_zO1ytZS8u14	UCawswvQFL-PUJy_GSlR_N_A
 531	Great Balls Of Fire	Jerry Lee Lewis	Great Balls Of Fire	LIKE	2:33	0VJ1NuAbEBI	MPREb_qaSFQYchalU	UC3QNfxSmvwqaO_xJHe8IwSw
 552	Roll Over Beethoven	Chuck Berry	Berry Is On Top	LIKE	2:25	xCNl9KWy2No	MPREb_Mt4Q2BsO7wW	UCUfKmP9mv1yUkxlE5DDX5Zg
+459	Rockin' Robin	Bobby Day	Rockin' Robin	LIKE	2:40	uLF3YZIjucs	MPREb_NFMuWsmAxhm	UCGyIRUZ8i4Fm2uk7B-JAXOQ
 320	Brasil	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	2:32	E2IGrG2ipBk	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
 326	Begin The Beguine	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	3:15	pBan6KoQiCY	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
 179	Good Rockin' Tonight (Bonus Track)	Wynonie Harris	Elvis 1953 El Origen - Vol. 1	INDIFFERENT	2:48	Qn1eKhUoCNg	MPREb_EPpU5z40YjJ	UCOvqTAdam4RvQyHhJ1d3gnw
@@ -113,7 +115,6 @@
 413	Mr. Moto	The Challengers	Surfbeat	INDIFFERENT	2:05	AaxMFv7Fgvk	MPREb_y4pRoqPMVbe	UCm3Ah1N5nqS56PtAmVHprdg
 419	K-39	The Challengers	K-39	INDIFFERENT	2:14	9TsicOeFgus	MPREb_GGlZqgWvsob	UCm3Ah1N5nqS56PtAmVHprdg
 441	Tidal Wave	The Challengers	Lloyd Thaxton Goes Surfing with the Challengers	INDIFFERENT	2:14	HghDiAEgYC0	MPREb_RNeZDGqlUp8	UCm3Ah1N5nqS56PtAmVHprdg
-555	Chantilly Lace	The Big Bopper	Chantilly Lace	INDIFFERENT	2:26	8fX4rxe9T3o	MPREb_zO1ytZS8u14	UCawswvQFL-PUJy_GSlR_N_A
 532	Sugar, Sugar	The Archies	The Fab Sixties Vol. 1	INDIFFERENT	2:49	j-sHcWpmPBE	MPREb_uXBnFJNkOmA	UC_P6XvOuzLfDTvfEQg0rIKQ
 26	Bei Mir Bist Du Shein	The Andrews Sisters	Sing, Sing, Sing...	INDIFFERENT	2:45	R79e2SxcTyM	MPREb_9t6hwSAiN3l	UCDhi6EimU5G6PONDuepo3ig
 488	Please, Please, Please	The 5 Royales	Soul & Swagger	INDIFFERENT	2:30	3j8Uhpe6-8k	MPREb_IH4rPmnToC0	UC5Yj9mCR7oCbZBFK9VaPpIw
@@ -527,7 +528,6 @@
 564	"Do You Wanna Dance (from ""American Graffiti"")"	Bobby Freeman	American Graffiti	INDIFFERENT	2:38	DoPrdafheG4	MPREb_QpGncZVNoTv	UCPQL29sZKt8-qFpe8y7pXSg
 154	Little Bitty Pretty One	Bobby Day	The Best of Bobby Day	INDIFFERENT	2:36	sPS6gohcRVg	MPREb_EQgnPjcp3nu	UCGyIRUZ8i4Fm2uk7B-JAXOQ
 337	Rockin' Robin	Bobby Day	You've Got Mail	INDIFFERENT	2:36	yDFF9PgD_g8	MPREb_aEF5oF90Zri	UCGyIRUZ8i4Fm2uk7B-JAXOQ
-459	Rockin' Robin	Bobby Day	Rockin' Robin	INDIFFERENT	2:40	uLF3YZIjucs	MPREb_NFMuWsmAxhm	UCGyIRUZ8i4Fm2uk7B-JAXOQ
 471	Little Bitty Pretty One	Bobby Day	Rockin' Robin	INDIFFERENT	2:36	SHZhhZDCbBE	MPREb_NFMuWsmAxhm	UCGyIRUZ8i4Fm2uk7B-JAXOQ
 49	I'll Be There	Bobby Darin	Things & Other Things	INDIFFERENT	2:11	Rou3NkBND1E	MPREb_Zkz6v0Jibjr	UCj_otreRPRMynq2_gZj9s3w
 108	Mack The Knife	Bobby Darin	Mack The Knife	INDIFFERENT	3:11	GSTXmJZPoiw	MPREb_b8RDMeyHYDK	UCj_otreRPRMynq2_gZj9s3w
@@ -574,10 +574,10 @@
 410	Bumble Boogie	B. Bumble & The Stingers	Rockin' Instrumentals	INDIFFERENT	2:14	OOCR518B2rs	MPREb_OQ4WnPU7QZa	UCU4inq-YtKepzr_bNP1YUXg
 165	Guitar Boogie	Arthur Smith	Guitar Boogie	INDIFFERENT	3:26	35JZ_DIkslQ	MPREb_Y8Qw0XPfrPS	UC5qdNC4WdSUrkIytfo0RGMw
 366	A Shot Of Rhythm And Blues	Arthur Alexander	A Shot Of Rhythm And Blues: Hits & Rarities	INDIFFERENT	2:00	l0Mx3xZ74do	MPREb_IgB0j44mSPA	UCTnefvaUPpP-x4ZhsuYf6JA
-373	Anna (Go to Him)	Arthur Alexander		INDIFFERENT	2:54	FGybD5oudZo		UCTnefvaUPpP-x4ZhsuYf6JA
+373	Anna (Go to Him)	Arthur Alexander	The Blues Joy, Vol. 1	INDIFFERENT	2:54	FGybD5oudZo	MPREb_G4jiVJbSP0D	UCTnefvaUPpP-x4ZhsuYf6JA
 379	Where Have You Been All My Life	Arthur Alexander	Blues of 50's and 60's, Vol. 2	INDIFFERENT	2:41	6rJU9a0yVCM	MPREb_dPIVz8VIWXW	UCTnefvaUPpP-x4ZhsuYf6JA
 477	Anna (Go to Him)	Arthur Alexander	The Blues Journey	INDIFFERENT	2:54	jTixY2Y_eXA	MPREb_Si1Pwpv74y1	UCTnefvaUPpP-x4ZhsuYf6JA
-51	That's All Right	Arthur 'Big Boy' Crudup	That's All Right Mama	INDIFFERENT	2:56	a4IILmBqaD8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
+51	That's All Right	Arthur 'Big Boy' Crudup	That's All Right Mama	INDIFFERENT	2:57	a4IILmBqaD8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
 191	I Just Don't Understand	Ann-Margret	Nipper's Greatests Hits 60's Vol. 1	INDIFFERENT	2:38	C87yzpaCvlo	MPREb_KDR3iZCjlT3	UCVO13wN77NiSPvhb-F--hjg
 123	Don't Get Around Much Anymore	Al Hibbler	All You Need Is Jazz	INDIFFERENT	3:06	CfYbI8uy1Gk	MPREb_lGTiWRWuyh1	UCMldwfCHH8Td6u24gW__G1w
 510	No No Baby	Al Ferrier	Rockabilly Best	INDIFFERENT	2:19	BRIZjt08pmA	MPREb_J4r4kQpH6cS	UCzwfYh_xWslPuKPpXTgPSPA
