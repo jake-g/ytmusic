@@ -9,6 +9,7 @@
 2	Jessica	The Allman Brothers Band	A Decade Of Hits 1969-1979	LIKE	7:31	vTOozRAJ8dU	MPREb_oEHOeUmGxPI	UC8RbgxtYaViMHEKmcpsmi6w
 6	I Wouldn't Want To Be Like You	The Alan Parsons Project	The Best Of The Alan Parsons Project	LIKE	3:13	efJGDpCSrJY	MPREb_oHp3WXkL2te	UCvb0RGY80J8LSG1kIwNSXHA
 98	Seasons in the Sun	Terry Jacks	Seasons In The Sun (Expanded Edition)	LIKE	3:29	Mw5wdXjTgFc	MPREb_eoNXuGais10	UCLdScYAU2HzUaA21HZGiEbw
+445	Ghost Rider (2019 - Remaster)	Suicide	Suicide (2019 - Remaster)	LIKE	2:34	XrSxAL85Qdw	MPREb_Q8GJ3jACL0c	UClik8_as2YuWXWLk4jbhOkw
 117	Aja	Steely Dan	Aja	LIKE	8:00	CYZwVf07tHA	MPREb_jSbekZ09Zov	UCvnGL-FVjYVe_0YJKxLlwqA
 64	Strawberry Letter 23	Shuggie Otis	Freedom Flight	LIKE	4:00	HQtpEhxdifc	MPREb_JjPTpOSX5Ia	UCTLJg68A7Oioyhnk9airtZw
 15	Oye Como Va	Santana	Ultimate Santana	LIKE	4:19	LVFm8wu1NFQ	MPREb_QM4Isf8WOzR	UCX0rR7x8-nLew2t8UH-n2aw
@@ -147,8 +148,7 @@
 27	Dreamer	Supertramp	The Very Best of Supertramp	INDIFFERENT	3:31	7fdAFmtq-o8	MPREb_NBjsptqVF5P	UCpS0hJ21amjA5eBApEOiIFw
 218	Give A Little Bit	Supertramp	The Very Best of Supertramp	INDIFFERENT	4:09	0dJ30dREjaE	MPREb_NBjsptqVF5P	UCpS0hJ21amjA5eBApEOiIFw
 260	Goodbye Stranger (2010 Remastered)	Supertramp	Breakfast In America	INDIFFERENT	5:50	u8pVZ5hTGJQ	MPREb_0LoYnYtprVM	UCpS0hJ21amjA5eBApEOiIFw
-445	Ghost Rider (2019 - Remaster)	Suicide	Suicide (2019 - Remaster)	INDIFFERENT	2:34	XrSxAL85Qdw	MPREb_Q8GJ3jACL0c	UClik8_as2YuWXWLk4jbhOkw
-359	Green-Eyed Lady	Sugarloaf	Sugarloaf	INDIFFERENT	6:50	YG8FFJQYoTM	MPREb_TQ8HUuPA33q	UCq2GKshd3ju5qVXsGmw8fmQ
+359	Green-Eyed Lady	Sugarloaf	Sugarloaf	INDIFFERENT	6:50	YG8FFJQYoTM	MPREb_TQ8HUuPA33q	UChEKIFGclQZpOgJKIT3HH3g
 318	Pieces Of Eight	Styx	Pieces Of Eight	INDIFFERENT	4:44	dFJwGfDeuOA	MPREb_2qxlFrE9NF5	UCigTxDNbQ3mIIyZgsTFWLMg
 485	Lady (1973 Album Version)	Styx	Gold	INDIFFERENT	2:58	W2tOEqRQRz4	MPREb_32DsHeBTBO9	UCigTxDNbQ3mIIyZgsTFWLMg
 486	The Grand Illusion	Styx	The Grand Illusion	INDIFFERENT	4:37	aIuCdQtNBgg	MPREb_3AgROeUumQn	UCigTxDNbQ3mIIyZgsTFWLMg
@@ -327,7 +327,7 @@
 470	White Bird (Live)	It's A Beautiful Day	Dreams Of The Aspen Trees	INDIFFERENT	8:03	ftzUgqFZD-E	MPREb_QEH3dnnFtCU	UCJqs5bcjpwUmAf1NzatpKxw
 226	Nightclubbing	Iggy Pop	The Idiot	INDIFFERENT	4:15	EpECxEO4uZM	MPREb_YVNKGrWRqfJ	UCN2OwEXNYJFzgHvR7912Btg
 429	Memories	If Footmen Tire You, What Will Horses Do?	Split	INDIFFERENT	5:36	OzeWMrashbQ	MPREb_l2vwNQoVzmZ	UC08Odg0SsnsKXxePIyRg9Mg
-455	Shake It	Ian Matthews	Stealin' Home	INDIFFERENT	3:25	kS3eFOkPcPA	MPREb_zU03OBvp1H2	UC97sCFozWblpaYlEEMQ-Z2w
+455	Shake It	Ian Matthews	Stealin' Home	INDIFFERENT	3:25	qVEhxBbce8A	MPREb_taWMDZj7PQt	UC97sCFozWblpaYlEEMQ-Z2w
 110	Cleveland Rocks (2009 Remaster)	Ian Hunter	You're Never Alone with a Schizophrenic (Deluxe Version)	INDIFFERENT	3:48	6u9DrPx_er8	MPREb_0Ibq3Eyz4J1	UCeylzq67W-72o6lBty_yeng
 288	Hit Me with Your Rhythm Stick	Ian Dury	Hit Me! The Best Of	INDIFFERENT	3:44	RUnQnIrJ3XE	MPREb_XAaDIu39OTs	UCOLgVh4--Wr9obrWHkUmpFw
 444	Oh, Babe What Would You Say	Hurricane Smith	Orchestral Pop	INDIFFERENT	3:30	T_z7VeEEsrc	MPREb_roWpK8a0sZb	UCtfQ7L89ssQh2faRKVmJ-2w
@@ -341,7 +341,7 @@
 191	Little Queen	Heart	Little Queen	INDIFFERENT	5:12	NONIPG07as4	MPREb_B1lg7tT41nm	UCTY6y0k715s7bJ2Tl-ju3xw
 297	Straight On	Heart	Dog & Butterfly	INDIFFERENT	5:08	xy0uvAouAfo	MPREb_okdiHJ2GXBz	UCTY6y0k715s7bJ2Tl-ju3xw
 385	Heartless	Heart	Magazine	INDIFFERENT	5:02	qXax2iEqhUA	MPREb_VWZmRct4jmU	UCTY6y0k715s7bJ2Tl-ju3xw
-461	Bara To Yaju	Haruomi Hosono	Hosono House	INDIFFERENT	4:24	-IdeIO22MG4	MPREb_7veBFJxsyt8	UCNWPRMK0ciGFGLAuwyR_dgg
+461	Bara To Yaju	Haruomi Hosono	Hosono House	INDIFFERENT	4:25	-IdeIO22MG4	MPREb_7veBFJxsyt8	UCNWPRMK0ciGFGLAuwyR_dgg
 62	The Love I Lost (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes	Collectors' Item	INDIFFERENT	6:22	b1UkbZebiXQ	MPREb_houFE5JUnOl	UCNDC_i6KiHbdZn1pTasRN4A
 481	If You Don't Know Me by Now (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes	Harold Melvin & The Blue Notes	INDIFFERENT	3:26	I5akjmTpEJo	MPREb_IdiWGK04Ufx	UCNDC_i6KiHbdZn1pTasRN4A
 235	I Saw the Light	Hank Williams	The Legendary Recordings (Remastered, Doxy Collection)	INDIFFERENT	2:45	YBEnm32c3eA	MPREb_ewGI0BLMIFe	UCQPzXuO5tZ5mJUFzCER_IGg
@@ -429,7 +429,7 @@
 239	Longer	Dan Fogelberg	Love Songs	INDIFFERENT	3:15	ImlDHQkPf8Q	MPREb_HBObKJIRmud	UCLoLHtbZAOqrjjiK2RRKS1Q
 397	"Making Our Dreams Come True (Theme From ""Laverne & Shirley"")"	Cyndi Grecco	Making Our Dreams Come True	INDIFFERENT	2:28	pSI1Sn3Yso8	MPREb_bqyPegUpWhK	UCnKk7NOpxqtM2RujEZ6NTLg
 424	When I Dream	Crystal Gayle	Certified Hits	INDIFFERENT	3:25	--cTiT-XDi8	MPREb_TCluIyx6Ff2	UCJfJT-7oeT_8xkH9lNbWI5w
-536	Chicago (Live)	Crosby, Stills, Nash & Young	4 Way Street	INDIFFERENT	3:11	UICcui02BtM	MPREb_IPbOeRXBmFP	UC56HtDxagyM3uuYlxozFfmg
+536	Chicago (Live)	Crosby, Stills, Nash & Young	4 Way Street	INDIFFERENT	3:11	UICcui02BtM	MPREb_IPbOeRXBmFP	UC25j4DwEaTkGHCUpQo2mZPQ
 174	Lookin' Out My Back Door	Creedence Clearwater Revival	Chronicle: 20 Greatest Hits	INDIFFERENT	2:32	YlbRvLmPRMk	MPREb_bLI7GbfwBIH	UCRbMcMQeSFVvsyEuOn7uAKQ
 349	Ramble Tamble	Creedence Clearwater Revival	Cosmo's Factory	INDIFFERENT	7:11	nuEM3s7vxGw	MPREb_a9r3qr5wLoN	UCRbMcMQeSFVvsyEuOn7uAKQ
 506	It Came Out Of The Sky	Creedence Clearwater Revival	Willy And The Poor Boys	INDIFFERENT	2:55	R_H5n7S2Do8	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ

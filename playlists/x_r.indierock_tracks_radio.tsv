@@ -1,4 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+136	Queen of the Lot	The Spring Standards	Would Things Be Different	LIKE	3:27	ZXgtby8GDGo	MPREb_D4TCBCjjZBH	UCuwOvOdbpXwAD45pj2gr-ZA
+196	Know Your Onion! (2021 Remaster)	The Shins	Oh, Inverted World (20th Anniversary Remaster)	LIKE	2:30	yGFWNG2kZVc	MPREb_1OVSkB5Psxm	UCp8bBB0AoKgBaNlUiKn8SHg
 257	The Wilhelm Scream	James Blake	James Blake	LIKE	4:33	F98lMA1p_IE	MPREb_LXwcJ1OBT14	UCx90L12QXzc18AGYFRof-EA
 72	Somebody That I Used To Know (feat. Kimbra)	Gotye	Making Mirrors	LIKE	4:04	jg51kFe7CWU	MPREb_vDiDlMWN1v0	UCcrR-Or3AH2RKJqOntiD_Tw
 70	That Old Black Hole	Dr. Dog	Be The Void (Deluxe Edition)	LIKE	3:21	pwwotb1uuEA	MPREb_Qkm3jgyqoQR	UC-JBTXpS5x83eafG3HQMClA
@@ -59,11 +61,9 @@
 226	Barney Rubble	The Twang	Jewellery Quarter	INDIFFERENT	3:31	p7GAp-QZW5s	MPREb_4sAT1IKh3d2	UCQQULXqKhI4RNrGBNI0R6aQ
 18	Here's Your Future	The Thermals	The Body, The Blood, The Machine	INDIFFERENT	2:28	19m2yB_q4Ro	MPREb_PrcW4nKk8TV	UCZBTsYOAtVgN04EVW3xZydA
 111	Birthday	The Sugarcubes	Life's Too Good	INDIFFERENT	3:59	rZqd_9sTP3c	MPREb_RMVahNoX4Dh	UCl2b5xWV4YDcIVrJv6i47lQ
-136	Queen of the Lot	The Spring Standards	Would Things Be Different	INDIFFERENT	3:27	ZXgtby8GDGo	MPREb_D4TCBCjjZBH	UCuwOvOdbpXwAD45pj2gr-ZA
 78	One Feeling	The Sinners	THE SIN EP 1	INDIFFERENT	8:06	3jaSZA6vmYk	MPREb_L0e2JUtJzih	UCJO-hW_Cv_5rmYRS8vJUejA
 372	Someone To Keep Us Warm	The Silent Years	The Silent Years	INDIFFERENT	3:20	bSbcOcmqwcA	MPREb_fkWMayHByVM	UCl_ojT5LHECoIpGXEtqTzxQ
 21	Bait And Switch	The Shins	Port Of Morrow	INDIFFERENT	3:24	OiiPRebzkNM	MPREb_MarvH1Gi7Wb	UCp8bBB0AoKgBaNlUiKn8SHg
-196	Know Your Onion! (2021 Remaster)	The Shins	Oh, Inverted World (20th Anniversary Remaster)	INDIFFERENT	2:30	yGFWNG2kZVc	MPREb_1OVSkB5Psxm	UCp8bBB0AoKgBaNlUiKn8SHg
 280	Know Your Onion!	The Shins	Oh, Inverted World	INDIFFERENT	2:29	ot5ODFeDMxQ	MPREb_rypGRr8hnNo	UCp8bBB0AoKgBaNlUiKn8SHg
 360	Simple Song	The Shins	Port Of Morrow	INDIFFERENT	4:16	sFskE9WEj0A	MPREb_MarvH1Gi7Wb	UCp8bBB0AoKgBaNlUiKn8SHg
 248	Beauty In The Breakdown (Acoustic)	The Scene Aesthetic	The Scene Aesthetic	INDIFFERENT	3:15	b-lnMYLhcXU	MPREb_yeVFdN4NHoY	UCNrBd1yCOVa6zP6z8DOuK0g
@@ -97,7 +97,6 @@
 203	Swimming Pool	The Front Bottoms	The Front Bottoms	INDIFFERENT	3:36	M4eB--DGKdQ	MPREb_jKpyvUNhIJb	UC5BNXI3BnCAB2XQJC-6jY_A
 129	Blueberry Boat	The Fiery Furnaces	Blueberry Boat	INDIFFERENT	9:10	H_RwBy704tA	MPREb_PQzLFbZRRzE	UCdxMs2oh5RWVqnSQ0XLiTHg
 97	Colorado Springs	The Extraordinaires	Electric and Benevolent	INDIFFERENT	9:28	RH8RQlMcc3E	MPREb_3swzARriPHK	UC0LlpeVneokBC7CgubsmpMA
-48	Girl Police	The Dudes	Blood Guts Bruises Cuts	INDIFFERENT	3:25	qDVvJjMpMNY	MPREb_X6EBbjoYHeT	UCcGJ2AurcSm-K9HR3dO33oA
 103	Forever And Ever Amen	The Drums	The Drums	INDIFFERENT	4:25	46MS9k_WThw	MPREb_EYSybIio1QJ	UCHiYJh90qceWigS2h6p01hA
 152	Please Don't Leave	The Drums	Portamento	INDIFFERENT	4:12	LWeDr3-93Dc	MPREb_Jz00QY8klD7	UCHiYJh90qceWigS2h6p01hA
 286	How It Ended	The Drums	Portamento	INDIFFERENT	4:21	LjWBgxJKmtY	MPREb_Jz00QY8klD7	UCHiYJh90qceWigS2h6p01hA
@@ -124,14 +123,14 @@
 328	Sunday New Year	Suncapades	Everything Darker	INDIFFERENT	4:17	m8hwK0dIdl8	MPREb_PL8RJWPlFk2	UC0Csou9rWlPleV8vgv8eT5Q
 303	I Saw You Blink	Stornoway	I Saw You Blink	INDIFFERENT	3:54	nVJRwXReKQY	MPREb_F6tIEUZrHh0	UC42FvzjuYlXVhokShD1dBOg
 120	Popsickle	Starlight Mints	The Dream That Stuff Was Made Of	INDIFFERENT	3:02	_khDPWNNn9M	MPREb_8C8v44IYgYq	UCSM-HV0Poi9er8XViTDCiZA
-86	51107	Standard Fare	Out of Sight, Out of Town	INDIFFERENT	3:55	nCvY_OKgghU	MPREb_DrUgDNlr8Kn	UCDgIVvfrOyITDn1rmXjSBUQ
+86	51107	Standard Fare	Out of Sight, Out of Town	INDIFFERENT	3:56	nCvY_OKgghU	MPREb_DrUgDNlr8Kn	UCDgIVvfrOyITDn1rmXjSBUQ
 10	Cruel	St. Vincent	Strange Mercy	INDIFFERENT	3:35	Q7QEyMc-aeQ	MPREb_mOk9xrbPrQB	UCGjbexoF9La7TxGeFP64m8A
 81	Marrow	St. Vincent	Actor	INDIFFERENT	3:25	mR2ngYpY_NI	MPREb_GAitkTcKYvM	UCGjbexoF9La7TxGeFP64m8A
 361	Strange Mercy	St. Vincent	Strange Mercy	INDIFFERENT	4:29	vDGmAJ4-J_I	MPREb_mOk9xrbPrQB	UCGjbexoF9La7TxGeFP64m8A
 350	The Key (Instrumental)	Speech Debelle	The Key	INDIFFERENT	2:59	3zHql2iS2fY	MPREb_BQYrf6hYMND	UC9_Vm1_1ajj5IsH4gc9btcA
 243	Chevy Thunder	Spector	Enjoy It While It Lasts	INDIFFERENT	3:45	Sfej9G3b92c	MPREb_wUyTYEaa3rw	UClGJX2JiynKk8jSBD1fVvEA
 160	Reena	Sonic Youth	Rather Ripped (Sony Connect Version)	INDIFFERENT	3:48	USRmuJNc4Pw	MPREb_ibnJIZoUdIQ	UC7Ot1CZwD2fBUgP7YncvpLQ
-43	Infinity Guitars	Sleigh Bells	Treats	INDIFFERENT	2:31	A2KOc2F6-1M	MPREb_VCi6uN6n2Bh	UClEB5e5aEvaU-ctZOhzg0ug
+43	Infinity Guitars	Sleigh Bells	Treats	INDIFFERENT	2:32	A2KOc2F6-1M	MPREb_VCi6uN6n2Bh	UClEB5e5aEvaU-ctZOhzg0ug
 44	Get Burned	Sleeper Agent	Celabrasion	INDIFFERENT	2:55	2N5fTvSe8KM	MPREb_fjiS6GCWBC7	UCCQwcSr0E0VyOMmf1KJVI3w
 283	That's My Baby	Sleeper Agent	Celabrasion	INDIFFERENT	3:35	EDHtdxWzc04	MPREb_fjiS6GCWBC7	UCCQwcSr0E0VyOMmf1KJVI3w
 366	Get it Daddy	Sleeper Agent	Get It Daddy	INDIFFERENT	2:24	sKlCUejHey8	MPREb_Qjm1Pza0GG4	UCCQwcSr0E0VyOMmf1KJVI3w
@@ -156,7 +155,7 @@
 45	Younger Than Yesterday	Real Estate	Days	INDIFFERENT	4:08	WRB3BN0WLD0	MPREb_xfTFrqvDNhg	UCTGjXChUUJcFlj_MotDrg1w
 253	Henry	Rah Rah	Breaking Hearts	INDIFFERENT	2:45	zuiZ7lN7IDo	MPREb_drdlgwODdtA	UCjbvyBI1qix5RsMcpl-pQWg
 148	Stuff Like That (feat. Nickolas Ashford, Valerie Simpson & Chaka Khan)	Quincy Jones	Sounds... And Stuff Like That!	INDIFFERENT	6:18	G0-iv0VGy1k	MPREb_GDkQg3E4PZI	UCaBIjouEo87YhSGmPjuXDoA
-237	Cowboys In The Void	Quilt	Quilt	INDIFFERENT	5:23	1ZdQDq94WX0	MPREb_CxSZQVwSjJR	UC5dGTQf6j9NCHSSWFlYE9Dw
+237	Cowboys In The Void	Quilt	Quilt	INDIFFERENT	5:23	aIvTbsfY0Kk	MPREb_CxSZQVwSjJR	UC5dGTQf6j9NCHSSWFlYE9Dw
 91	End The Washington Monument (Blinks) Goodnight	Q and Not U	No Kill No Beep Beep	INDIFFERENT	2:21	iTifjiHGwJ4	MPREb_xfMUOMFdcAZ	UCV433gGdWKRk9mktF5SxoQw
 135	Don't Go	Pyyramids	Human Beings - EP	INDIFFERENT	3:28	AYTtt25YJFY	MPREb_CWstf6yci5P	UCOacjjUsxx4rwBKM10aCt6w
 182	Host of a Ghost	Porter	Atemahawke	INDIFFERENT	4:20	s-O0ciTVOjA	MPREb_xPYRTwgV8Q5	UChbZW7jQ1g0R27vE-7Nuiyg
@@ -180,7 +179,7 @@
 225	Hunters	Parades	Foreign Tapes	INDIFFERENT	4:42	KFx3e9Ej8v0	MPREb_5M9o0vASxw7	UCg_BdBwl3Xg4Fnjwk3k5loA
 189	Travelling	Paper Lions	Paper Lions	INDIFFERENT	3:16	pO7R5GBSd90	MPREb_vm1aNE61l2N	UCFSO7IGurhsXD61LO0GogAQ
 181	Single Days	Pale Young Gentlemen	Pale Young Gentlemen	INDIFFERENT	3:46	ORS_r7qNfGQ	MPREb_pSTva3AwHrw	UCzlzcqX-BrJoXfAEc8qTRNw
-75	A Bird in Hand	Owen	At Home With Owen	INDIFFERENT	7:32	bkWBiuwLyQ4	MPREb_YcofpQmTRuR	UCaPgWiY_ibt2S8_ZJUz0qSg
+75	A Bird in Hand	Owen	At Home With Owen	INDIFFERENT	7:32	bkWBiuwLyQ4	MPREb_YcofpQmTRuR	UCiEnwoZg4gMOD38QcoRJEvg
 197	Starsign	Over The Atlantic	Junica	INDIFFERENT	3:01	WxvZnHWzBQg	MPREb_dBSYjBMYNlD	UCwnYWtdpmlMjt2M1PA3-y-g
 104	Black	Okkervil River	Black Sheep Boy	INDIFFERENT	4:39	qextQHRmePM	MPREb_WTXsI8ERMA1	UCEGsRoLUO7t2ms2b9FKhJzA
 9	Six Weeks	Of Monsters And Men	My Head Is An Animal	INDIFFERENT	5:34	PtOGMfxMw2k	MPREb_x9xZgt4Hfe3	UCpjxqiRSP5nQ4tp1fT2bjHg
@@ -188,6 +187,7 @@
 310	White Knuckles	OK Go	Of the Blue Colour of the Sky	INDIFFERENT	3:19	qKCLrJLLzo0	MPREb_bhWzCsArqiq	UCJwQvoGAP0BHXZIvGpY0CJw
 233	Brass Tacks	Not In The Face	Bikini	INDIFFERENT	4:14	3YXITonlyA8	MPREb_HNxvcCtGgP4	UCbDwdGYYyHTTIaXWgQ31UtA
 368	Light Day	Ninjasonik	Tight Pants and Art School Girls	INDIFFERENT	2:29	NBroFmXmV2U	MPREb_qkRqEyCqY0S	UCFbFHRq7NzM8TrHsbHOnGSA
+223	As Bright as Your Night Light	Nerves Junior	As Bright As Your Night Light	INDIFFERENT	4:32	zgDQackF6UE	MPREb_tDbtZMcwqhQ	UC6Nwa145KyyvLuCXS-6EvuQ
 345	NAOMI	Naomi Jon	NAOMI	INDIFFERENT	2:29	qpBh1m3rr34	MPREb_W6CQlm3uTBa	UCvKJT2L5lI8jWSNSXRj8fLg
 231	Darling	My Pet Dragon	Mountains and Cities	INDIFFERENT	4:34	dKJHDNoXZNk	MPREb_Q6F1SKI5g6G	UCPidifjQ3pzKpQPvrWhbS4w
 117	House of Circles	Mr. Gnome	Madness In Miniature	INDIFFERENT	6:16	W1enrVdiIpg	MPREb_heYMJ8vO9WN	UC34kPgDJyDY_VKsdOFQ02jA
@@ -371,4 +371,3 @@
 296	Matchstick Murder	Tristen	Charlatans At the Garden Gate		3:10	gu9U15dsdxM		
 357	Smoke on Drugs	The DeathMedicine Band	Quaking Aspen EP			wsSinMd9WK4		
 238	Stay, Please Stay	Oh Mercy	Stage Mothers - The Aussie BBQ 2012			38XWPza4eMs		
-223	As Bright as Your Night Light	Nerves Junior	As Bright As Your Night Light			zgDQackF6UE		
