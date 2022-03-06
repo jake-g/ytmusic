@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 7	Fast Car	Tracy Chapman	Greatest Hits	LIKE	4:56	JpscHOoGIqQ	MPREb_5GikwGBg2Hk	UCndrh03uIKb9SUR7-znGZ9w
+377	Hold the Line	Toto	Toto	LIKE	3:56	ZP69PLBqFUo	MPREb_RtpxJDpku6b	UCewH1MBbYlEZMWx3ZUNywyg
+88	Our House	Madness	Madness	LIKE	3:21	r0KzvXf-_Zw	MPREb_bBdctOFnrRQ	UCpG8LTCBWUbEqfVy3ysifCQ
 202	Ride Like the Wind	Christopher Cross	Christopher Cross	LIKE	4:36	e1Hdlu3Slaw	MPREb_Un4dQUSPHBC	UCQQse6hLcxzNx1p-Giw6sOA
 99	The Sun Always Shines on TV	a-ha	Time and Again: The Ultimate a-ha	INDIFFERENT	5:07	LwUEb8Q-qAA	MPREb_OUl8FaluP4R	UCx00XxqRCfPS6zaTzRm3H2A
 291	Legs (Remix)	ZZ Top	Greatest Hits	INDIFFERENT	4:32	EypcvW64VcI	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
@@ -27,7 +29,6 @@
 206	They Don't Know	Tracey Ullman	You Broke My Heart In Seventeen Places	INDIFFERENT	3:00	DJyvjyHJpwc	MPREb_14JcLXuFfDJ	UCpu45ZnPq7vnBd45Jk-zsfw
 255	Rosanna (Single Version)	Toto	Pop Music: The Modern Era 1976-1999	INDIFFERENT	4:03	1j_YC8OpSr4	MPREb_Di2j29KLrwt	UCewH1MBbYlEZMWx3ZUNywyg
 318	Africa	Toto	Rock Classics	INDIFFERENT	4:22	y8Nla-98CRY	MPREb_FlPQDc6nWZr	UCewH1MBbYlEZMWx3ZUNywyg
-377	Hold the Line	Toto	Toto	INDIFFERENT	3:56	ZP69PLBqFUo	MPREb_RtpxJDpku6b	UCewH1MBbYlEZMWx3ZUNywyg
 0	Hey Mickey	Toni Basil	Hey Mickey	INDIFFERENT	4:12	F8j1KVppRtc	MPREb_8YDNp5Xojps	UClBio757eFBeSeDYGnFYUiQ
 30	Wild Thing	Tone-Loc	Loc-ed After Dark	INDIFFERENT	4:23	G_upnEFGDcM	MPREb_zyeju4abXNh	UCByTu-eVh85UNLURn0oVIYA
 156	867-5309 / Jenny	Tommy Tutone	2	INDIFFERENT	3:47	tHL2XeuA6Yg	MPREb_dkxdRLHhgoK	UCGYRrl9tcG0k711X-tRVAGw
@@ -51,8 +52,8 @@
 231	Don't Stand So Close To Me	The Police	Zenyatta Mondatta (Remastered 2003)	INDIFFERENT	4:03	aRABCGXEUXo	MPREb_G20PWrMD0rB	UCbsRGw640UF_F7AIwHW-zmg
 59	Neutron Dance	The Pointer Sisters	Platinum & Gold Collection	INDIFFERENT	4:14	SOscjUHPY-o	MPREb_Qk6YTDDKyb7	UC5hmAzA43Il46USsJPKNXXQ
 162	Automatic	The Pointer Sisters	The Best Of The Pointer Sisters	INDIFFERENT	4:48	-qvTFnLwWOM	MPREb_Qbcxf7Dvw2r	UC5hmAzA43Il46USsJPKNXXQ
-54	Suddenly Last Summer	The Motels	Classic Masters	INDIFFERENT	3:42	Gf0fNT7M1Do	MPREb_DXKZmhWfnym	UCvCGX5Lccyojjb-LdNJXKvg
-101	Only The Lonely	The Motels	Classic Masters	INDIFFERENT	3:19	YOtCVfBxUtc	MPREb_DXKZmhWfnym	UCvCGX5Lccyojjb-LdNJXKvg
+54	Suddenly Last Summer (Remastered 2002)	The Motels	80s Summer	INDIFFERENT	3:42	BW9Qm5yeR90	MPREb_H3rHTPN75fo	UCvCGX5Lccyojjb-LdNJXKvg
+101	Only The Lonely (Remastered 1999)	The Motels	80s Alternative	INDIFFERENT	3:17	gEDsF-IsQoo	MPREb_ui2cQYAxYA6	UCvCGX5Lccyojjb-LdNJXKvg
 92	Come Dancing	The Kinks	State Of Confusion	INDIFFERENT	3:54	xAvGoDWUzcg	MPREb_6ysrsWEwrSF	UCsQHS0_Fw1vIXm3TEbPokvA
 186	(Keep Feeling) Fascination	The Human League	Very Best of the Human League	INDIFFERENT	3:45	CrnGQ2-bri4	MPREb_S1YKUiL5F1f	UCrg2H-AeXXcZg_TZ8QBRTKw
 117	And We Danced	The Hooters	Nervous Night	INDIFFERENT	3:49	aGXDN3CZuVY	MPREb_aUwptjGpR65	UCRqVtcShW_Tu_9eG2lNJBKg
@@ -139,7 +140,6 @@
 212	Don't Get Me Wrong	Pretenders	Get Close	INDIFFERENT	3:47	DD-5_lCEMHY	MPREb_eHkCHZP1e16	UCQ1i_JpIjWK4sMtVHLccR9A
 276	Back on the Chain Gang (2006 Remaster)	Pretenders	Pirate Radio (digital version)	INDIFFERENT	3:54	RXD8le4AebA	MPREb_lG3nL41xm7G	UCQ1i_JpIjWK4sMtVHLccR9A
 375	Easy Lover	Philip Bailey, Phil Collins	Chinese Wall (Expanded Edition)	INDIFFERENT	5:06	88QVKw7SFJA	MPREb_ahds4S1c5kx	UCbOnsnfAPyF0DDw3YpsNudg
-6	In the Air Tonight	Phil Collins	R-Kive	INDIFFERENT	5:31	_6uMNUDRh5g	MPREb_ehsLSQQKii6	UCzt9gB3XNQYs_2UHvolUZog
 35	Sussudio	Phil Collins	No Jacket Required	INDIFFERENT	4:24	5soq6RLoIz8	MPREb_pU6QGDIKqOq	UCzt9gB3XNQYs_2UHvolUZog
 70	Take Me Home	Phil Collins	No Jacket Required	INDIFFERENT	5:51	YO1l2itfSs4	MPREb_pU6QGDIKqOq	UCzt9gB3XNQYs_2UHvolUZog
 163	Another Day in Paradise	Phil Collins	...But Seriously	INDIFFERENT	5:22	Y-vj8V522OQ	MPREb_1DsvecqP70c	UCzt9gB3XNQYs_2UHvolUZog
@@ -198,7 +198,6 @@
 228	Like a Prayer	Madonna	Like a Prayer	INDIFFERENT	5:41	ilottRbDnGY	MPREb_yalNtYCucim	UCo4CrqhIV_tSOGdDWfVyCsg
 327	Live to Tell	Madonna	True Blue	INDIFFERENT	5:52	lWA2Lt4Se40	MPREb_t1v3ckB5ea7	UCo4CrqhIV_tSOGdDWfVyCsg
 329	Into the Groove	Madonna	Celebration	INDIFFERENT	4:46	3ewsdfeM-nQ	MPREb_tuvRsiumQe6	UCo4CrqhIV_tSOGdDWfVyCsg
-88	Our House	Madness	Madness	INDIFFERENT	3:21	r0KzvXf-_Zw	MPREb_bBdctOFnrRQ	UCpG8LTCBWUbEqfVy3ysifCQ
 153	"It Must Be Love (From ""The Tall Guy"")"	Madness	7	INDIFFERENT	3:27	-9OtzhF8FCI	MPREb_zCxSvk753KD	UCpG8LTCBWUbEqfVy3ysifCQ
 193	House Of Fun	Madness	Madness	INDIFFERENT	3:00	l4ptHcz-0Lk	MPREb_bBdctOFnrRQ	UCpG8LTCBWUbEqfVy3ysifCQ
 260	Pump Up The Volume (USA 12” Mix)	MARRS	Best Of Colourbox 82/87	INDIFFERENT	6:48	B5yzeSkPMqA	MPREb_1bhRNuPjLqY	UCX6GRf7YtFvozjOu_c46efQ
@@ -378,4 +377,5 @@
 113	Space Age Love Song	A Flock Of Seagulls	A Flock Of Seagulls	INDIFFERENT	3:48	jYnpisHe0X0	MPREb_EL7g3aOTDNR	UC9NopS2VbJmwDNU6bl4C0rw
 144	Wishing (If I Had a Photograph of You) (Extended Version)	A Flock Of Seagulls	The Best Of	INDIFFERENT	9:37	S5zILUnTiew	MPREb_TAwqbolJnTg	UC9NopS2VbJmwDNU6bl4C0rw
 298	Voices Carry	'Til Tuesday	Voices Carry (Expanded Edition)	INDIFFERENT	4:24	zUKXhRikfPw	MPREb_rzYlZW55M1P	UCnUsoBuDdl_qje4S1w_K7jA
+6	In the Air Tonight	Phil Collins	Face Value			vyB5pG0Wo7M		
 146	Summer Of '69	Bryan Adams	Reckless		3:36	Vnr0rNEa454		
