@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 58	1865 (96º In The Shade)	Third World	96 Degrees In The Shade	LIKE	4:28	UwlUY3AQd2Q	MPREb_D7ppPHFsnZ7	UCJmKM1NoeP6wMQ3632XbgZg
 68	Get Up, Stand Up	The Wailers	Burnin' (Deluxe Edition)	LIKE	3:17	KP0V15PgFaQ	MPREb_CJzuUTJxbT5	UCIoJ4M0MjsC9gOKuFdlnAGA
+91	Satisfaction	The Itals	Rasta Philosophy	LIKE	3:40	-9J5yUNb_7Q	MPREb_rahDoNaJ5eL	UCvmgNqA6R3O4IiSWsUnhLPQ
 78	Declaration of Rights (Original Jamaican Mix)	The Abyssinians	Satta Massagana (Original Jamaican Mixes) [Deluxe Edition]	LIKE	3:32	HJRbMS4oiIQ	MPREb_AYAiqDoKRAs	UCGN6v0VRG467JpG4Sv4d_ow
 26	Chalis to Chalis	Tappa Zukie	From The Archives	LIKE	3:14	HtTGGZ0E940	MPREb_5tjsZzPwWMx	UC5Xju5TS7VncLd1iRExCNJg
 79	Legalize It	Peter Tosh	Legalize It	LIKE	4:40	tJhmuSk76KQ	MPREb_76TXRTmMdBA	UCFLzDxCkznTBfJkRBgJ_hwA
@@ -42,7 +43,6 @@
 65	Rivers Of Babylon	The Melodians	The Harder They Come (Original Motion Picture Soundtrack)	INDIFFERENT	4:16	gnUKcEwT7NI	MPREb_nGNOa4D7lFC	UCzjwSBbpZZsZ-sGL2lIv1aQ
 28	No More Friend	The Meditations	No More Friend	INDIFFERENT	3:29	brwiUo0UfK8	MPREb_IjWLR18GOko	UCyPiesgdO8TSPQgSf3rXtSA
 24	Me Waan Justice	The Itals	Give Me Power	INDIFFERENT	4:12	5-rQIH9qu7s	MPREb_WxIXxev2uFC	UCvmgNqA6R3O4IiSWsUnhLPQ
-91	Satisfaction	The Itals	Rasta Philosophy	INDIFFERENT	3:40	-9J5yUNb_7Q	MPREb_rahDoNaJ5eL	UCvmgNqA6R3O4IiSWsUnhLPQ
 18	Come On Now	The Ethiopians	The Trojan: Rocksteady Collection	INDIFFERENT	3:05	1MZ3af776rw	MPREb_068sUEZW3mg	UCZI-9FsgUny9YhfIGaeMWoQ
 30	Train To Skaville	The Ethiopians	Freedom Train	INDIFFERENT	2:55	c671voSgl1E	MPREb_IbD0I5ZsStR	UCZI-9FsgUny9YhfIGaeMWoQ
 43	Woman Capture Man	The Ethiopians	Woman Capture Man	INDIFFERENT	2:24	H5cKjWRHrzM	MPREb_ds0eri5xnsx	UCZI-9FsgUny9YhfIGaeMWoQ
@@ -74,13 +74,13 @@
 46	Crazy Baldhead	Johnny Clarke	Authorised Rockers	INDIFFERENT	3:41	tdhSuCiCLtU	MPREb_sb0YbLOtAg6	UC2y76gXKlu29JPBHFg217OA
 98	Declaration Of Rights (Remastered 2000)	Johnny Clarke	Rockers Time Now	INDIFFERENT	3:27	j4d6C5bE1xg	MPREb_5Gu3QKcYfzF	UC2y76gXKlu29JPBHFg217OA
 54	The Harder They Come	Jimmy Cliff	The Harder They Come (Original Motion Picture Soundtrack)	INDIFFERENT	3:08	BpQrLUopf-k	MPREb_nGNOa4D7lFC	UCFAsFFXKy4vpvdXbnZAEyOg
-47	False Rasta	Jacob Miller	Jacob Miller - EP	INDIFFERENT	2:30	C7wa0JjA1d8	MPREb_UKDyfKVaaat	UCpwR2dhAPq62yFKrgUaQZdA
+47	False Rasta	Jacob Miller	Jacob Miller - EP	INDIFFERENT	2:31	3F0hYGJDWSw	MPREb_cd75ONORKgJ	UCpwR2dhAPq62yFKrgUaQZdA
 66	Tenement Yard	Jacob Miller	Reggae Roots 1972-1995 (Vol.5)	INDIFFERENT	2:37	3DDvHj9SOJQ	MPREb_JLybx3DkeVE	UCpwR2dhAPq62yFKrgUaQZdA
 3	We A De Rasta	Israel Vibration	Unconquered People	INDIFFERENT	4:54	vx-dIoxXDdI	MPREb_KD5hzGc3nGp	UC4mYMwvXkhU4J2_rjMRyZ6Q
 4	I Am a Levi	Ijahman Levi	Soul Warrior - I Am Levi	INDIFFERENT	7:41	1-4g-USO-Tc	MPREb_NL7oEHnnOAO	UC8gqWvWAzHtx4MVe0Z75YGw
 32	Moulding (Whip That Tarantula)	Ijahman	Are We A Warrior	INDIFFERENT	5:56	vvQCpQhJOuY	MPREb_MsnWaDhz4Cp	UCdvh0IgR4KoGxAuzGpXKncA
 99	Roots Man Time	I-Roy	Original Deejay @ King Tubby's Studio	INDIFFERENT	3:22	rw4tVrRKcNw	MPREb_VJBfXkF43nB	UCvjk7OK4JhuoP7H_YRw5Qig
-48	I've Been Around	Horace Andy	Jah Is The One	INDIFFERENT	4:09	XPVyyyI3NH0	MPREb_P5Caps4J6WX	UC6FtczJEj05c3bLscIiyjKA
+48	I've Been Around	Horace Andy	Jah is the One	INDIFFERENT	4:10	1GY1M-kF8WM	MPREb_LQoDXbPda1i	UC6FtczJEj05c3bLscIiyjKA
 2	Rich Man Poor Man	Gladiators	Back To Roots	INDIFFERENT	3:45	Vd0gCqMV_Og	MPREb_G2XobwqWAC3	UCaPwHkL8s7JxR3i6J4mhbDg
 22	The Warriors	Gladiators	Back To Roots	INDIFFERENT	2:55	IvW7fZYeU0I	MPREb_G2XobwqWAC3	UCaPwHkL8s7JxR3i6J4mhbDg
 33	Black Star Liner	Fred Locks	Black Star Liner	INDIFFERENT	2:44	ALFvky8HhUw	MPREb_lxhpuiEHVnx	UCTPHdfvpUoOPQ1gRN3beE0Q

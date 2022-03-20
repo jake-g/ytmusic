@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 623	What You Know	Two Door Cinema Club	Tourist History	LIKE	3:11	mNVmMPbg5IE	MPREb_4FVFZgQlnYU	UCNaAQtk0jVa2OXAEY0zF5zw
 356	Hell Broke Luce	Tom Waits	Bad As Me (Deluxe Edition Remastered)	LIKE	3:56	vM0GB5EJlr8	MPREb_6FvBdYAaJEC	UC39N3pyt2Z15oOMjouokl8A
+187	Can't Feel My Face	The Weeknd	Beauty Behind The Madness	LIKE	3:33	j6V7qfIRgNo	MPREb_FZ4FiUz7vKM	UClYV6hHlupm_S_ObS1W-DYw
 543	Will Do	TV On The Radio	Nine Types Of Light	LIKE	3:44	X4JcsSGOZc4	MPREb_jxoh6EDJo3s	UCyRprZQCBFlc-lMRR2uQq-Q
 427	Old Town Road (Remix) (feat. Billy Ray Cyrus)	Lil Nas X	7 EP	LIKE	2:38	TxcmdhjmnEE	MPREb_ISPNX304IU1	UCCF_6PwrZf1u70yghKms3Mw
 155	Toast	Koffee	Rapture EP	LIKE	3:12	CdXtQm64puA	MPREb_3YkqwpvDiQK	UCSTyhCNj3MK4gRaxszgxLAw
@@ -60,7 +61,6 @@
 546	Save It For Later	The Wonder Stuff	Oh No It's...The Wonder Stuff	INDIFFERENT	3:41	_GiBa-Npc6Y	MPREb_M5x8n4Lkmkg	UCZhwvRi0fOKIaGhJglnaEDA
 338	Techno Fan	The Wombats	The Wombats proudly present...This Modern Glitch	INDIFFERENT	4:00	Q2Sap66EeOk	MPREb_0e4k5ei1YVm	UCOnpj5LAFlRDLcvzrodnpOQ
 77	Reminder	The Weeknd	Starboy	INDIFFERENT	3:39	a40tAP5MC6M	MPREb_FWIMEPTHFsY	UClYV6hHlupm_S_ObS1W-DYw
-187	Can't Feel My Face	The Weeknd	Beauty Behind The Madness	INDIFFERENT	3:33	j6V7qfIRgNo	MPREb_FZ4FiUz7vKM	UClYV6hHlupm_S_ObS1W-DYw
 300	Blinding Lights	The Weeknd	Blinding Lights	INDIFFERENT	3:22	J7p4bzqLvCw	MPREb_4U7yfKKFZLv	UClYV6hHlupm_S_ObS1W-DYw
 584	House Of Balloons / Glass Table Girls	The Weeknd	Trilogy	INDIFFERENT	6:46	eXJGoq93GSI	MPREb_DbmffDiBz16	UClYV6hHlupm_S_ObS1W-DYw
 596	Starboy (feat. Daft Punk)	The Weeknd	Starboy	INDIFFERENT	3:51	3_g2un5M350	MPREb_FWIMEPTHFsY	UClYV6hHlupm_S_ObS1W-DYw
@@ -110,7 +110,7 @@
 5	Lay-by	Tennyson	Lay-by	INDIFFERENT	4:31	3ooJHSx078I	MPREb_bW6Zs7djh20	UCQ2_kTDMFlrRy8vCQWQHRvA
 347	Deth Starr	Tenacious D	Rize Of The Fenix	INDIFFERENT	4:45	A02Fc1oQeF0	MPREb_t1hLESkeIsX	UChThjXuCoIJlougReIFCV1Q
 100	We Are Never Ever Getting Back Together	Taylor Swift	Red	INDIFFERENT	3:14	65Q7EdWnjqM	MPREb_6FbAboRIFSX	UCPC0L1d253x-KuMNwa05TpA
-195	Blank Space	Taylor Swift	1989 (Deluxe Edition)	INDIFFERENT	3:51	V1mzLYKb35I	MPREb_riIJjrsqo2I	UCPC0L1d253x-KuMNwa05TpA
+195	Blank Space	Taylor Swift	1989	INDIFFERENT	3:51	6hCqRb8Dtvo	MPREb_K9GL6DCDUCq	UCPC0L1d253x-KuMNwa05TpA
 630	Bad Blood (feat. Kendrick Lamar)	Taylor Swift	Bad Blood	INDIFFERENT	3:20	Xma9hWNLgZA	MPREb_W542RpQS3BU	UCPC0L1d253x-KuMNwa05TpA
 656	Confide In Me	Tame Impala	triple j Like A Version	INDIFFERENT	4:31	qcDo114JF2s	MPREb_ZnC8oJRnX5S	UCGz-eguN8tcic5kUG4s1ZgA
 576	Dynamite	Taio Cruz	Rokstarr (Deluxe)	INDIFFERENT	3:22	3MrY_BwLChk	MPREb_BFxWuq4J9e5	UC59s2CAhIuHrBUa7YsVJdDA
@@ -174,7 +174,7 @@
 635	Sugar (feat. Francesco Yates)	Robin Schulz	Sugar	INDIFFERENT	3:40	j1h0rPYKces	MPREb_EawoD8pe9bm	UCIpo9tfpIGXMzNQcZVWoXVw
 290	Where U Are	Rina Sawayama	Where U Are	INDIFFERENT	3:52	Tdsl1Z7onsY	MPREb_5lHc6xraqww	UC1i2T8hkzVdLq47wGxbFcow
 267	Same Ol’ Mistakes	Rihanna	ANTI	INDIFFERENT	6:37	y3OBsTTUsjk	MPREb_8xVYFm0c2ZC	UCvWtix2TtWGe9kffqnwdaMw
-377	Woo	Rihanna	ANTI (Deluxe)	INDIFFERENT	3:55	vftlITwtHak	MPREb_VYAq6J820y7	UCvWtix2TtWGe9kffqnwdaMw
+377	Woo	Rihanna	ANTI	INDIFFERENT	3:55	vftlITwtHak	MPREb_VYAq6J820y7	UCvWtix2TtWGe9kffqnwdaMw
 494	FourFiveSeconds	Rihanna	FourFiveSeconds	INDIFFERENT	3:08	5pvcfbf0PXY	MPREb_7K82R4fQFdl	UCvWtix2TtWGe9kffqnwdaMw
 621	Man Down	Rihanna	Loud	INDIFFERENT	4:26	2qQ5nL9v-rY	MPREb_YrG6P5mS0zY	UCvWtix2TtWGe9kffqnwdaMw
 629	S&M	Rihanna	Loud (Japan Version)	INDIFFERENT	4:04	q_MtePol92o	MPREb_uaAr9A9ESHP	UCvWtix2TtWGe9kffqnwdaMw
@@ -499,7 +499,7 @@
 396	Smoke (feat. Amanda Fondell)	Didrick	Smoke	INDIFFERENT	3:39	Jgj_Cxo75NQ	MPREb_p41reR6ZTLT	UC4vqRXIAyb6a3RAyn26FDng
 479	Ready to Fly (feat. Adam Young)	Didrick	Ready to Fly	INDIFFERENT	3:10	GkzTP4RnV_o	MPREb_lo1wKoTJrVC	UC4vqRXIAyb6a3RAyn26FDng
 225	Day Before We Went to War	Dido	Girl Who Got Away (Expanded Edition)	INDIFFERENT	5:13	iUA-D3TZJNw	MPREb_yX0fV7U5fTT	UC4JFSju_Y3IEF7zwYo2ychA
-335	Should Be Higher (Live)	Depeche Mode	Live in Berlin Soundtrack	INDIFFERENT	5:51	ez773GxdwrA	MPREb_RnDdmPvSHTY	UC-CcyIM_seGnGL5-2Fsppow
+335	Should Be Higher (Live)	Depeche Mode	Live in Berlin Soundtrack	INDIFFERENT	5:52	ez773GxdwrA	MPREb_RnDdmPvSHTY	UC-CcyIM_seGnGL5-2Fsppow
 698	Heroes (LiVE SPiRiTS)	Depeche Mode	LiVE SPiRiTS SOUNDTRACK	INDIFFERENT	6:28	9RZKWXxagUw	MPREb_fE189SH7w8R	UC-CcyIM_seGnGL5-2Fsppow
 500	Five More Hours	Deorro	Good Evening	INDIFFERENT	3:32	ZG7p3ovhWc8	MPREb_MOuw2GJtXyR	UC89YRh6abbGfAHln2-rGHRA
 673	Behind Blue Eyes (Radio Edit)	Denis First, Reznikov	Behind Blue Eyes	INDIFFERENT	3:14	RPIRxsFoppc	MPREb_uIsDi0dK0Ss	UCrEat7LP-6fpXp-5bCzQKow
@@ -594,7 +594,7 @@
 47	Black Is Beautiful	CHRONIXX	CHRONOLOGY	INDIFFERENT	3:40	EKuwH968PyE	MPREb_dhSAiAGX5xd	UCYZj7mrKRhTwrFJNL2j5GrQ
 663	Synthesizers	Butch Walker	The Spade	INDIFFERENT	3:25	ZUNgWx7Ltrk	MPREb_6hzkiSMpAii	UCrt_5ibQ15d1cvsOYIjV07Q
 3	Trying	Bully	Trying	INDIFFERENT	3:53	K7hKQ4RC9SE	MPREb_WUB8wNXTYRn	UCRcjwMx8IcPoU3Daq-okOOQ
-122	You Want a Battle? (Here's a War)	Bullet For My Valentine	Venom (Deluxe Edition)	INDIFFERENT	4:14	VhF-wmk_7gU	MPREb_6zR0sfOjjFY	UCTmXENHeU8wvjd4I180VdBw
+122	You Want a Battle? (Here's a War)	Bullet For My Valentine	Venom (Deluxe Edition)	INDIFFERENT	4:15	VhF-wmk_7gU	MPREb_6zR0sfOjjFY	UCTmXENHeU8wvjd4I180VdBw
 275	Run (feat. Rag'n'Bone Man)	Bugzy Malone	B. Inspired	INDIFFERENT	3:59	J8CYq_4kvos	MPREb_nLZmslRlk2H	UCtegOch4eHPNVDC-TmPj8ew
 48	You Got To Run (Spirit of the Wind)	Buffy Sainte-Marie	You Got To Run (Spirit of the Wind)	INDIFFERENT	3:43	6IiUTiE48WE	MPREb_IZqj8cRBisN	UCvv3_jNqU2WBssvVkjSA3dQ
 566	Johnny & Mary (Remaster 2014)	Bryan Ferry	Avonmore	INDIFFERENT	6:47	7TY675YrJdg	MPREb_ycZdcPuJG2B	UCAgsHTUDQbseazVnDmkQk3g
@@ -674,7 +674,6 @@
 593	Cups (Pitch Perfect’s “When I’m Gone”) (Pop Version)	Anna Kendrick	Ultimate Pitch Perfect (Original Motion Picture Soundtrack)	INDIFFERENT	2:08	0Md0E5icspA	MPREb_uB8c29GsksM	UCHODBfwUhHaBxP3SGwLliUA
 295	Bang	Anitta	Bang	INDIFFERENT	3:10	kqWnHtsJOYw	MPREb_qe9ePzfZfUX	UCI99G32byWj1aH13pbxnTEw
 257	Echo (You and I)	Anggun	Echoes (International Special Edition)	INDIFFERENT	3:04	O6tv6_XMtQA	MPREb_M2ix4Y9n6W0	UCiNZ1-srqsKto8cz64iXhPA
-201	Young London	Angels & Airwaves	Love Album (Parts One & Two)	INDIFFERENT	5:04	qxoSmxJWfX8	MPREb_ee0RJUas8ca	UCJh4oey0X-WoSywZlPN_ieg
 226	Lost In The City	Angelic	Lost In The City	INDIFFERENT	3:43	ZBOfX3vt1IU	MPREb_nnIgjK0xJda	UChsczrk-TlISt7Su65TMfhQ
 55	Gypsy Letters	Angel Haze	Reservation	INDIFFERENT	3:45	h_R9ncbW5bU	MPREb_HcE2k1ptfTk	UCZ5qZzNjNWUMIzPw8cnlKDA
 268	Cecilia And The Satellite	Andrew McMahon In The Wilderness	Andrew McMahon In The Wilderness	INDIFFERENT	3:44	4bTuqbHxz3s	MPREb_fw1j3qjyHZr	UCq434-4TTXjcxxKwfuS_HnA
@@ -716,3 +715,4 @@
 609	Birthday Song (feat. Kanye West)	2 Chainz	Based on a T.R.U. Story (Deluxe)	INDIFFERENT	5:06	sLooRSqwJK4	MPREb_z7HalX6eD2t	UCvNe1IHe_tf5g-J-jZF0ERQ
 118	Foil	"""Weird Al"" Yankovic"	Mandatory Fun	INDIFFERENT	2:23	oWal0dcRV54	MPREb_GyV4Oh3dCuP	UCa4LILjjT1YCeo5Xg9rQTMQ
 420	Word Crimes	"""Weird Al"" Yankovic"	Mandatory Fun	INDIFFERENT	3:44	WjUOXJoM6rI	MPREb_GyV4Oh3dCuP	UCa4LILjjT1YCeo5Xg9rQTMQ
+201	Young London	Angels & Airwaves	Love Album (Parts One & Two)			qxoSmxJWfX8		

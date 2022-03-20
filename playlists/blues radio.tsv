@@ -1,87 +1,76 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-515	Help Me	Sonny Boy Williamson	More Real Folk Blues	LIKE	3:09	qOu2WB7BrMk	MPREb_P2vdLr4mczM	UCWEMaF6bf_6V2swH692S1EQ
-523	I Can't Quit You Baby	Otis Rush	I Can't Quit You Baby	LIKE	3:40	mLbzFvFyDjs	MPREb_o6fO1ZH53SI	UC9_Ic6yumZhlfxY2sCjwKSw
-521	(I'm Your) Hoochie Coochie Man	Muddy Waters	The Best Of Muddy Waters	LIKE	2:46	PtqzDuoKhpI	MPREb_T87ZmgoFEyP	UCZ5YpKcmxGptLgRRW8ujxHA
-537	Sitting On Top Of The World	Mississippi Sheiks	Folk, Gospel & Blues: Will The Circle Be Unbroken	LIKE	3:13	jviYDmdLX2A	MPREb_Z7aufkTeGcf	UCvJqZVsRcc4GG6jH9byxWrQ
-207	It's Been A Long Time	Luther Allison	Bad News Is Coming	LIKE	10:43	MCZbjClHc18	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
-504	Boom Boom	John Lee Hooker	Boom Boom	LIKE	4:19	XgWs8LnDJyg	MPREb_rlWLpeUK23n	UCcWk0Z6iOwjUeycdoh7mIMQ
-538	Spoonful	Howlin' Wolf	Howlin' Wolf	LIKE	2:50	4fjviTLYqoc	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
-509	Dust My Broom	Elmore James	Shake Your Moneymaker (The Best Of The Fire Sessions)	LIKE	2:56	5jcGY7NbaQw	MPREb_sbwgVUlhM8a	UCcO7GQQk1W8gKWHkQDXZQtA
-524	I'm A Man	Bo Diddley	Bo Diddley	LIKE	2:45	OKlAiuaYdoI	MPREb_mhiut8LKERQ	UCTXP0wPPSDAaOS6mXeM4tgg
-505	Born Under A Bad Sign (Mono Mix)	Albert King	Born Under A Bad Sign (Mono)	LIKE	2:50	qyqXDM3mFhM	MPREb_hnwR4sXln84	UC9XFvJIqt0duVgnlvkXBeKA
-311	I Like My Baby`s Pudding	Wynonie Harris	All Time Great Pop Songs, Vol. 7	INDIFFERENT	2:42	UR2hnJoAnKw	MPREb_Jthfi5TAHEt	UCOvqTAdam4RvQyHhJ1d3gnw
-317	All She Wants To Do Is Rock	Wynonie Harris	Blues History	INDIFFERENT	2:37	PL5Z_4vYkWw	MPREb_p9dEiKNrFR9	UCOvqTAdam4RvQyHhJ1d3gnw
-290	If These Walls Could Speak	Wynona Carr	Jump Jack Jump!	INDIFFERENT	2:56	U-KtjwY-Zaw	MPREb_Y0B1Sos8Etd	UC-VJ_pWtmG4E8peyazTkYMw
-352	I Don't Know	Willie Mabon, Hubert Sumlin, Eddie Taylor, Robert Stroger, Odie Payne	Blues Anytime!	INDIFFERENT	5:01	rP_dDldSSkk	MPREb_v8MJ1CsFDE8	UCLjsDjs1_Ha0KbPknjmgvIw
-347	What You Doin' To Me (feat. James Wheeler)	Willie Kent	Long Way To Ol' Miss	INDIFFERENT	3:51	J5nhITQdKBo	MPREb_wW6F6xxHZ8L	UCYL3Jyg5YmYTLolyegqAAJg
+310	I Like My Baby`s Pudding	Wynonie Harris	All Time Great Pop Songs, Vol. 7	INDIFFERENT	2:42	UR2hnJoAnKw	MPREb_Jthfi5TAHEt	UCOvqTAdam4RvQyHhJ1d3gnw
+316	All She Wants To Do Is Rock	Wynonie Harris	Blues History	INDIFFERENT	2:37	PL5Z_4vYkWw	MPREb_p9dEiKNrFR9	UCOvqTAdam4RvQyHhJ1d3gnw
+289	If These Walls Could Speak	Wynona Carr	Jump Jack Jump!	INDIFFERENT	2:56	U-KtjwY-Zaw	MPREb_Y0B1Sos8Etd	UC-VJ_pWtmG4E8peyazTkYMw
+351	I Don't Know	Willie Mabon, Hubert Sumlin, Eddie Taylor, Robert Stroger, Odie Payne	Blues Anytime!	INDIFFERENT	5:01	rP_dDldSSkk	MPREb_v8MJ1CsFDE8	UCLjsDjs1_Ha0KbPknjmgvIw
+346	What You Doin' To Me (feat. James Wheeler)	Willie Kent	Long Way To Ol' Miss	INDIFFERENT	3:51	J5nhITQdKBo	MPREb_wW6F6xxHZ8L	UCYL3Jyg5YmYTLolyegqAAJg
 17	I Ain't Superstitious	Willie Dixon	I Am The Blues	INDIFFERENT	4:05	ZIxL47tPnp0	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
 31	The Seventh Son	Willie Dixon	I Am The Blues	INDIFFERENT	4:16	llOo7OmnmYA	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
 156	Walking The Blues	Willie Dixon	The Original Wang Dang Doodle	INDIFFERENT	3:04	Z8oKiX5q3rI	MPREb_cbyb6qe64St	UCqjv56WoIUXuzrpdRUufR-A
 159	The Seventh Son	Willie Dixon	Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)	INDIFFERENT	4:14	RffWiXScXZs	MPREb_NH3ZtKkHCPQ	UCqjv56WoIUXuzrpdRUufR-A
 170	I'm Your Hoochie Coochie Man	Willie Dixon	Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)	INDIFFERENT	4:47	cUikqW6UWAI	MPREb_NH3ZtKkHCPQ	UCqjv56WoIUXuzrpdRUufR-A
 180	Walkin' the Blues (1592)	Willie Dixon	Best of Blues	INDIFFERENT	3:04	YSzLyiLSsUQ	MPREb_qB4m1wUjXqS	UCqjv56WoIUXuzrpdRUufR-A
-344	Built For Comfort	Willie Dixon	Willie's Blues	INDIFFERENT	2:35	UfnctFIh9aE	MPREb_XI361Q49zZG	UCqjv56WoIUXuzrpdRUufR-A
-458	Back Door Man	Willie Dixon	I Am The Blues	INDIFFERENT	6:12	I17sIMCYXSM	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
-473	The Little Red Rooster	Willie Dixon	I Am The Blues	INDIFFERENT	3:37	Us7UZD8BdRE	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
-384	Future Blues	Willie Brown	Masters Of The Delta Blues (The Friends Of Charlie Patton)	INDIFFERENT	2:55	WEPC2NHRxPs	MPREb_vmduvwpUpRK	
-426	Ragged And Dirty	William Brown	Vintage Blues & Gospel Recordings	INDIFFERENT	4:50	gYQiwYmfqMk	MPREb_8yybC0YYINw	UCMesJcw0bSuod0O7HN4RoCw
-248	Yes I Got Your Woman	Washboard Sam	Washboard Sam Vol. 5 1940-1941	INDIFFERENT	2:54	jKAXzdkg1ZM	MPREb_WOApl0EESUX	UCFEjn-27SWvk43HgK4ReRAQ
-254	Digging My Potatoes No. 2	Washboard Sam	Washboard Sam Vol. 5 1940-1941	INDIFFERENT	3:05	xeGsuK3Gfww	MPREb_WOApl0EESUX	UCFEjn-27SWvk43HgK4ReRAQ
-349	Have A Good Time	"Walter ""Shakey"" Horton"	Blues Harp Hero	INDIFFERENT	2:17	r3PmszkUomg	MPREb_v6HP6v9Qz7g	UCENm0miK0myK3Shlrg0IvRA
-371	Whiskey Head Woman	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	INDIFFERENT	2:59	mVVLjQ-JL3I	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
-419	My Baby's Doggin' Me	Tommy McClennan	The Very Best Of	INDIFFERENT	2:40	dRJAhOhLv5k	MPREb_VTTlDSRv5cb	UCVLRntJ1pc_mHdkNMHYSJeQ
-446	Love With A Feeling	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	INDIFFERENT	2:59	BDn-WlGx9bg	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
-449	My Baby's Gone	Tommy McClennan	The Very Best Of	INDIFFERENT	2:45	1lGct_aPS0Y	MPREb_VTTlDSRv5cb	UCVLRntJ1pc_mHdkNMHYSJeQ
-507	Cross Cut Saw Blues	Tommy McClennan	"Tommy McClennan Vol. 2 ""Cross Cut Saw"""	INDIFFERENT	2:42	BiCyA__JfHA	MPREb_iJPx2ihYBNg	UCVLRntJ1pc_mHdkNMHYSJeQ
-400	Canned Heat Blues	Tommy Johnson	Masters Of The Delta Blues (The Friends Of Charlie Patton)	INDIFFERENT	3:38	ZXJXnM3SHjk	MPREb_vmduvwpUpRK	UCwwg25Lh2hZNLZ9Uypm9g8g
-405	Bye Bye Blues	Tommy Johnson	Memphis Blues Singers, Vol. 1	INDIFFERENT	3:06	PsrFAbFdNWI	MPREb_lOq332MTD1n	UCwwg25Lh2hZNLZ9Uypm9g8g
-425	Cool Drink of Water Blues	Tommy Johnson	Broadcasting the Blues: Black Blues in the Segregation Era (Compiled and Edited by Paul Oliver)	INDIFFERENT	3:27	dzSkUH9Bpf8	MPREb_2b8hTtLIDp0	UCwwg25Lh2hZNLZ9Uypm9g8g
-431	Bye Bye Blues	Tommy Johnson	Canned Heat Blues	INDIFFERENT	3:04	h-nviU6fUOs	MPREb_PRq1UA7jbWv	UCwwg25Lh2hZNLZ9Uypm9g8g
-436	Slidin' Delta	Tommy Johnson	Tommy Johnson 1928 - 1929	INDIFFERENT	3:05	ASGe39g6MA0	MPREb_MrLGJVOgeBf	UCwwg25Lh2hZNLZ9Uypm9g8g
-440	Canned Heat Blues	Tommy Johnson	Barrelhouse Blues - Compiled and Edited By Paul Oliver	INDIFFERENT	3:38	jd0JL8YdJHg	MPREb_47XYehWbunA	UCwwg25Lh2hZNLZ9Uypm9g8g
+343	Built For Comfort	Willie Dixon	Willie's Blues	INDIFFERENT	2:35	UfnctFIh9aE	MPREb_XI361Q49zZG	UCqjv56WoIUXuzrpdRUufR-A
+457	Back Door Man	Willie Dixon	I Am The Blues	INDIFFERENT	6:12	I17sIMCYXSM	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
+472	The Little Red Rooster	Willie Dixon	I Am The Blues	INDIFFERENT	3:37	Us7UZD8BdRE	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
+383	Future Blues	Willie Brown	Masters Of The Delta Blues (The Friends Of Charlie Patton)	INDIFFERENT	2:55	WEPC2NHRxPs	MPREb_vmduvwpUpRK	
+425	Ragged And Dirty	William Brown	Vintage Blues & Gospel Recordings	INDIFFERENT	4:50	gYQiwYmfqMk	MPREb_8yybC0YYINw	UCMesJcw0bSuod0O7HN4RoCw
+247	Yes I Got Your Woman	Washboard Sam	Washboard Sam Vol. 5 1940-1941	INDIFFERENT	2:54	jKAXzdkg1ZM	MPREb_WOApl0EESUX	UCFEjn-27SWvk43HgK4ReRAQ
+253	Digging My Potatoes No. 2	Washboard Sam	Washboard Sam Vol. 5 1940-1941	INDIFFERENT	3:05	xeGsuK3Gfww	MPREb_WOApl0EESUX	UCFEjn-27SWvk43HgK4ReRAQ
+348	Have A Good Time	"Walter ""Shakey"" Horton"	Blues Harp Hero	INDIFFERENT	2:17	r3PmszkUomg	MPREb_v6HP6v9Qz7g	UCENm0miK0myK3Shlrg0IvRA
+370	Whiskey Head Woman	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	INDIFFERENT	2:59	mVVLjQ-JL3I	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
+418	My Baby's Doggin' Me	Tommy McClennan	The Very Best Of	INDIFFERENT	2:40	dRJAhOhLv5k	MPREb_VTTlDSRv5cb	UCVLRntJ1pc_mHdkNMHYSJeQ
+445	Love With A Feeling	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	INDIFFERENT	2:59	BDn-WlGx9bg	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
+448	My Baby's Gone	Tommy McClennan	The Very Best Of	INDIFFERENT	2:45	1lGct_aPS0Y	MPREb_VTTlDSRv5cb	UCVLRntJ1pc_mHdkNMHYSJeQ
+504	Cross Cut Saw Blues	Tommy McClennan	"Tommy McClennan Vol. 2 ""Cross Cut Saw"""	INDIFFERENT	2:42	BiCyA__JfHA	MPREb_iJPx2ihYBNg	UCVLRntJ1pc_mHdkNMHYSJeQ
+399	Canned Heat Blues	Tommy Johnson	Masters Of The Delta Blues (The Friends Of Charlie Patton)	INDIFFERENT	3:38	ZXJXnM3SHjk	MPREb_vmduvwpUpRK	UCwwg25Lh2hZNLZ9Uypm9g8g
+404	Bye Bye Blues	Tommy Johnson	Memphis Blues Singers, Vol. 1	INDIFFERENT	3:06	PsrFAbFdNWI	MPREb_lOq332MTD1n	UCwwg25Lh2hZNLZ9Uypm9g8g
+424	Cool Drink of Water Blues	Tommy Johnson	Broadcasting the Blues: Black Blues in the Segregation Era (Compiled and Edited by Paul Oliver)	INDIFFERENT	3:27	dzSkUH9Bpf8	MPREb_2b8hTtLIDp0	UCwwg25Lh2hZNLZ9Uypm9g8g
+430	Bye Bye Blues	Tommy Johnson	Canned Heat Blues	INDIFFERENT	3:04	h-nviU6fUOs	MPREb_PRq1UA7jbWv	UCwwg25Lh2hZNLZ9Uypm9g8g
+435	Slidin' Delta	Tommy Johnson	Tommy Johnson 1928 - 1929	INDIFFERENT	3:05	ASGe39g6MA0	MPREb_MrLGJVOgeBf	UCwwg25Lh2hZNLZ9Uypm9g8g
+439	Canned Heat Blues	Tommy Johnson	Barrelhouse Blues - Compiled and Edited By Paul Oliver	INDIFFERENT	3:38	jd0JL8YdJHg	MPREb_47XYehWbunA	UCwwg25Lh2hZNLZ9Uypm9g8g
 148	Get Out of My Life, Woman	The Paul Butterfield Blues Band	East-West	INDIFFERENT	3:14	QTJ64Bh_jJA	MPREb_tYKoYoGF16A	UC0n6CuW4i5kGO1s1rn0bQ0g
-337	Born in Chicago	The Paul Butterfield Blues Band	The Paul Butterfield Blues Band	INDIFFERENT	3:08	DZ5tbyW6NKM	MPREb_sdgNAqIcpci	UC0n6CuW4i5kGO1s1rn0bQ0g
-220	Fannie Mae	The Holmes Brothers	Soul Street	INDIFFERENT	3:20	2m9J13gS8ss	MPREb_W44PZw7PB09	UCv59pxQOsxianp3uS2DJKSA
-230	Dashboard Bar	The Holmes Brothers	Soul Street	INDIFFERENT	3:45	nduaYL6oXRE	MPREb_W44PZw7PB09	UCv59pxQOsxianp3uS2DJKSA
+336	Born in Chicago	The Paul Butterfield Blues Band	The Paul Butterfield Blues Band	INDIFFERENT	3:08	DZ5tbyW6NKM	MPREb_sdgNAqIcpci	UC0n6CuW4i5kGO1s1rn0bQ0g
+219	Fannie Mae	The Holmes Brothers	Soul Street	INDIFFERENT	3:20	2m9J13gS8ss	MPREb_W44PZw7PB09	UCv59pxQOsxianp3uS2DJKSA
+229	Dashboard Bar	The Holmes Brothers	Soul Street	INDIFFERENT	3:45	nduaYL6oXRE	MPREb_W44PZw7PB09	UCv59pxQOsxianp3uS2DJKSA
 202	Broken Yo Yo	Texas Alexander	Texas Alexander Vol. 2 (1928-1930)	INDIFFERENT	3:05	9XBvFCC_2Ok	MPREb_sZxAGCnOLei	UC_E5cgZMG6l85mrHMQlGZFw
-518	Love Her With A Feeling	Tampa Red	His Blues	INDIFFERENT	2:57	UofjIxr5Pm8	MPREb_ESOxh4OPKGE	UCdk1uYfctY_8KrXh37jkN_g
-526	It Hurts Me Too	Tampa Red	The Definitive R&B Series – 1940	INDIFFERENT	2:30	fiQDw_uYcEA	MPREb_QuFOX45e6SK	UCdk1uYfctY_8KrXh37jkN_g
-267	Checkin' Up On My Baby	Taj Mahal	Taj Mahal	INDIFFERENT	4:54	KaDe3H0BTf4	MPREb_5HId68Aqwj1	UCylg6tzCZVAJrq5z4i1bgpg
+510	Love Her With A Feeling	Tampa Red	His Blues	INDIFFERENT	2:57	UofjIxr5Pm8	MPREb_ESOxh4OPKGE	UCdk1uYfctY_8KrXh37jkN_g
+515	It Hurts Me Too	Tampa Red	The Definitive R&B Series – 1940	INDIFFERENT	2:30	fiQDw_uYcEA	MPREb_QuFOX45e6SK	UCdk1uYfctY_8KrXh37jkN_g
+266	Checkin' Up On My Baby	Taj Mahal	Taj Mahal	INDIFFERENT	4:54	KaDe3H0BTf4	MPREb_5HId68Aqwj1	UCylg6tzCZVAJrq5z4i1bgpg
 20	T-Bone Blues	T-Bone Walker	T-Bone Blues	INDIFFERENT	3:48	HxCzMAFrTJ8	MPREb_PTNBA1bp1iq	UCGUpBCmvcFSZUekLZjQnJFQ
 27	Cold Cold Feeling	T-Bone Walker	The Very Best Of	INDIFFERENT	3:11	0CLdPvN38tk	MPREb_6p1Iehagdez	UCGUpBCmvcFSZUekLZjQnJFQ
 83	Stormy Monday Blues	T-Bone Walker	Rare Blues	INDIFFERENT	2:25	IWAk9e7maCo	MPREb_ztQxrSvIKtS	UCGUpBCmvcFSZUekLZjQnJFQ
 155	Bobby Sox Blues	T-Bone Walker	The Complete Capitol / Black & White Recordings	INDIFFERENT	2:40	IaYgkRsglTw	MPREb_kdnP34Mpzj3	UCGUpBCmvcFSZUekLZjQnJFQ
 182	Stormy Monday	T-Bone Walker	The Very Best of Blues Guitar, Vol. 2	INDIFFERENT	2:55	X70UbIqvEW0	MPREb_8TNnMPT1yJJ	UCGUpBCmvcFSZUekLZjQnJFQ
-228	Sail On Boogie	T-Bone Walker	The Masters of Blues! (33 Best of T-Bone Walker & Brownie McGhee)	INDIFFERENT	2:41	9-xr3fK5YzM	MPREb_hzbk1ihHMMW	UCGUpBCmvcFSZUekLZjQnJFQ
-281	Woman You Must Be Crazy	T-Bone Walker	Good Feelin'	INDIFFERENT	6:15	oa3gXU6eJNg	MPREb_SQOv1XcY2dJ	UCGUpBCmvcFSZUekLZjQnJFQ
-480	Call It Stormy Monday	T-Bone Walker	T-Bone Blues	INDIFFERENT	3:01	xifoTGRBhg0	MPREb_PTNBA1bp1iq	UCGUpBCmvcFSZUekLZjQnJFQ
-530	Mean Old World	T-Bone Walker	The Ultimate Collection 1929-57, Vol. 1	INDIFFERENT	2:53	iOKawT-96e8	MPREb_3sljM8tjp1w	UCGUpBCmvcFSZUekLZjQnJFQ
-361	Slim's Shout	Sunnyland Slim	Slim's Shout	INDIFFERENT	3:54	6Ljp2DSr_3M	MPREb_aQeYYMbDrRD	UCBHFksvgWaJ9oCmew-doMpw
-444	Shake It Baby	Sunnyland Slim	The Ultimate Blues Anthology: Sunnyland Slim, Vol. 2	INDIFFERENT	2:39	MAmeSqnnie0	MPREb_fSS59yhR14U	UCBHFksvgWaJ9oCmew-doMpw
-331	Why Should I Love You	Suicide Blues	Suicide Blues	INDIFFERENT	3:17	k1YcszAK_Pk	MPREb_kmeoWP5y70E	UCpojOoF3fsHOc4hPDuF3zDQ
-346	I Ain't Got You	Sugar Blue	Blue Blazes	INDIFFERENT	2:39	aOz9hZ_VU70	MPREb_vPnzLuqcjfl	UCXbr3kyEvBVgNjML4e9hh2g
+227	Sail On Boogie	T-Bone Walker	The Masters of Blues! (33 Best of T-Bone Walker & Brownie McGhee)	INDIFFERENT	2:41	9-xr3fK5YzM	MPREb_hzbk1ihHMMW	UCGUpBCmvcFSZUekLZjQnJFQ
+280	Woman You Must Be Crazy	T-Bone Walker	Good Feelin'	INDIFFERENT	6:15	oa3gXU6eJNg	MPREb_SQOv1XcY2dJ	UCGUpBCmvcFSZUekLZjQnJFQ
+479	Call It Stormy Monday	T-Bone Walker	T-Bone Blues	INDIFFERENT	3:01	xifoTGRBhg0	MPREb_PTNBA1bp1iq	UCGUpBCmvcFSZUekLZjQnJFQ
+518	Mean Old World	T-Bone Walker	The Ultimate Collection 1929-57, Vol. 1	INDIFFERENT	2:53	iOKawT-96e8	MPREb_3sljM8tjp1w	UCGUpBCmvcFSZUekLZjQnJFQ
+360	Slim's Shout	Sunnyland Slim	Slim's Shout	INDIFFERENT	3:54	6Ljp2DSr_3M	MPREb_aQeYYMbDrRD	UCBHFksvgWaJ9oCmew-doMpw
+443	Shake It Baby	Sunnyland Slim	The Ultimate Blues Anthology: Sunnyland Slim, Vol. 2	INDIFFERENT	2:39	MAmeSqnnie0	MPREb_fSS59yhR14U	UCBHFksvgWaJ9oCmew-doMpw
+330	Why Should I Love You	Suicide Blues	Suicide Blues	INDIFFERENT	3:17	k1YcszAK_Pk	MPREb_kmeoWP5y70E	UCpojOoF3fsHOc4hPDuF3zDQ
+345	I Ain't Got You	Sugar Blue	Blue Blazes	INDIFFERENT	2:39	aOz9hZ_VU70	MPREb_vPnzLuqcjfl	UCXbr3kyEvBVgNjML4e9hh2g
 110	Rude Mood	Stevie Ray Vaughan And Double Trouble	Texas Flood	INDIFFERENT	4:40	iUQsg9J7tuQ	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
 121	Testify	Stevie Ray Vaughan And Double Trouble	Texas Flood	INDIFFERENT	3:22	omT7DdNT-k8	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
 151	Cold Shot	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather (Legacy Edition)	INDIFFERENT	4:01	2m7FbcwqLxs	MPREb_EkWi0ymkLW8	UCG47N6MrGcPaJpVRgBoAVAQ
 154	Mary Had A Little Lamb (Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983)	Stevie Ray Vaughan And Double Trouble	Texas Flood	INDIFFERENT	3:00	572v_kLIOyA	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
-261	Honey Bee	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather	INDIFFERENT	2:43	X0orP2KI8K8	MPREb_gxwXNKePI0b	UCG47N6MrGcPaJpVRgBoAVAQ
+260	Honey Bee	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather	INDIFFERENT	2:43	X0orP2KI8K8	MPREb_gxwXNKePI0b	UCG47N6MrGcPaJpVRgBoAVAQ
 152	Life Without You	Stevie Ray Vaughan & Double Trouble	The Real Deal: Greatest Hits Volume 1	INDIFFERENT	4:19	4kj8hcslQpU	MPREb_iGstpRkf9xf	UCG47N6MrGcPaJpVRgBoAVAQ
 153	Look at Little Sister	Stevie Ray Vaughan & Double Trouble	Soul to Soul	INDIFFERENT	3:08	OFdocqyMB54	MPREb_lyKuYZ4VspQ	UCG47N6MrGcPaJpVRgBoAVAQ
-295	Trouble in Mind	Sonny Terry	Blues Hoot	INDIFFERENT	3:25	OQQu-OZBMwo	MPREb_yoi8eSWKojy	UCbBSsdl2QXgCgLtJR-zmBmA
-355	Bring It On Home	Sonny Boy Williamson II	The Real Folk Blues	INDIFFERENT	2:37	eQCBdGXsJnA	MPREb_mwHWvcoOrch	UCWEMaF6bf_6V2swH692S1EQ
+294	Trouble in Mind	Sonny Terry	Blues Hoot	INDIFFERENT	3:25	OQQu-OZBMwo	MPREb_yoi8eSWKojy	UCbBSsdl2QXgCgLtJR-zmBmA
+354	Bring It On Home	Sonny Boy Williamson II	The Real Folk Blues	INDIFFERENT	2:37	eQCBdGXsJnA	MPREb_mwHWvcoOrch	UCWEMaF6bf_6V2swH692S1EQ
 8	All My Love In Vain	Sonny Boy Williamson	Blues On 78	INDIFFERENT	2:50	EV0YC-S-H14	MPREb_Kzcd0KMby0x	UCWEMaF6bf_6V2swH692S1EQ
 58	My Baby, I've Been Your Slave (Remastered 1997)	Sonny Boy Williamson	The Bluebird Recordings, 1938	INDIFFERENT	3:07	9BbTqJ9dWKk	MPREb_8Kw2In9d9nC	UCWEMaF6bf_6V2swH692S1EQ
 149	Keep It to Your Self	Sonny Boy Williamson	100 Blues Hits	INDIFFERENT	2:50	Jze9d2h5go0	MPREb_emeX9tnYcHg	UCWEMaF6bf_6V2swH692S1EQ
 150	Checkin' Up On My Baby	Sonny Boy Williamson	The Real Folk Blues	INDIFFERENT	1:58	lr2HIXgE-QU	MPREb_mwHWvcoOrch	UCWEMaF6bf_6V2swH692S1EQ
 167	Don't Start Me To Talkin'	Sonny Boy Williamson	His Best	INDIFFERENT	2:36	IoJM8Vymj9k	MPREb_xxLUijtJCi1	UCWEMaF6bf_6V2swH692S1EQ
 188	Fattening Frogs For Snakes	Sonny Boy Williamson	His Best	INDIFFERENT	2:23	dSAfHg_7cEI	MPREb_xxLUijtJCi1	UCWEMaF6bf_6V2swH692S1EQ
-194	Good Morning School Girl (2002 Remastered)	Sonny Boy Williamson	Bluebird Blues - When The Sun Goes Down Series	INDIFFERENT	2:58	6S1nuD0qzok	MPREb_eF0aNOn2Ztl	UCWEMaF6bf_6V2swH692S1EQ
-291	The Key (To Your Door) (Alternate)	Sonny Boy Williamson	The Essential Sonny Boy Williamson	INDIFFERENT	2:31	fi9afLEDaOw	MPREb_razAS0z9jmN	UCWEMaF6bf_6V2swH692S1EQ
-351	One Way Out	Sonny Boy Williamson	The Essential Sonny Boy Williamson	INDIFFERENT	1:59	5CkevMed8W4	MPREb_razAS0z9jmN	UCWEMaF6bf_6V2swH692S1EQ
-457	Susie Q	Sonny Boy Williamson	MOONSHINE	INDIFFERENT	3:15	uMgskIh2ZV0	MPREb_NtS6UHFdiS3	UCWEMaF6bf_6V2swH692S1EQ
-481	All My Love In Vain	Sonny Boy Williamson	Down And Out Blues	INDIFFERENT	2:51	qga19cbXvv4	MPREb_A5EkQ1KdoqJ	UCWEMaF6bf_6V2swH692S1EQ
-513	Good Morning School Girl (2002 Remastered)	Sonny Boy Williamson	Bluebird Blues - When The Sun Goes Down Series	INDIFFERENT	2:58	6S1nuD0qzok	MPREb_eF0aNOn2Ztl	UCWEMaF6bf_6V2swH692S1EQ
-339	Don't Pick Me For Your Fool	Son Seals	Bad Axe	INDIFFERENT	4:15	P9qL6n8yYpo	MPREb_nro93nR5VLH	UCOGr1stJvHFIqRNJ_kJdvXA
+194	Good Morning School Girl (2002 Remastered)	Sonny Boy Williamson	Bluebird Blues - When The Sun Goes Down Series	INDIFFERENT	2:59	6S1nuD0qzok	MPREb_eF0aNOn2Ztl	UCWEMaF6bf_6V2swH692S1EQ
+290	The Key (To Your Door) (Alternate)	Sonny Boy Williamson	The Essential Sonny Boy Williamson	INDIFFERENT	2:31	fi9afLEDaOw	MPREb_razAS0z9jmN	UCWEMaF6bf_6V2swH692S1EQ
+350	One Way Out	Sonny Boy Williamson	The Essential Sonny Boy Williamson	INDIFFERENT	1:59	5CkevMed8W4	MPREb_razAS0z9jmN	UCWEMaF6bf_6V2swH692S1EQ
+456	Susie Q	Sonny Boy Williamson	MOONSHINE	INDIFFERENT	3:15	uMgskIh2ZV0	MPREb_NtS6UHFdiS3	UCWEMaF6bf_6V2swH692S1EQ
+480	All My Love In Vain	Sonny Boy Williamson	Down And Out Blues	INDIFFERENT	2:51	qga19cbXvv4	MPREb_A5EkQ1KdoqJ	UCWEMaF6bf_6V2swH692S1EQ
+338	Don't Pick Me For Your Fool	Son Seals	Bad Axe	INDIFFERENT	4:15	P9qL6n8yYpo	MPREb_nro93nR5VLH	UCOGr1stJvHFIqRNJ_kJdvXA
 28	Death Letter Blues	Son House	Delta Blues Sounds	INDIFFERENT	3:30	EemQuYyAMfI	MPREb_FqUpZZblqwT	UCxo6H7Jta2YNrdk6a9cch6w
 34	Motherless Children	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	4:27	q0W_BOfX3fM	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
 53	Levee Camp Moan (Alternate Take)	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	4:50	Vpq8w0iSLdA	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
@@ -90,40 +79,40 @@
 189	Empire State Express	Son House	Father Of The Delta Blues (The Complete 1965 Sessions)	INDIFFERENT	3:39	WN98EMjmhjU	MPREb_8QCik4hXG9R	UCxo6H7Jta2YNrdk6a9cch6w
 191	Am I Right or Wrong	Son House	Essential Blues Masters	INDIFFERENT	1:48	jbcKalQogWs	MPREb_E3k6mMmogtH	UCxo6H7Jta2YNrdk6a9cch6w
 203	Son's Blues	Son House	Son House Live At The Gaslight Cafe Jan 3rd 1965	INDIFFERENT	6:53	BkTUWwRZOL8	MPREb_9ROQ2G7lMSV	UCxo6H7Jta2YNrdk6a9cch6w
-325	Louise Mcghee (Incomplete)	Son House	Son House Live At The Gaslight Cafe Jan 3rd 1965	INDIFFERENT	4:22	VE3h0aHc2_k	MPREb_9ROQ2G7lMSV	UCxo6H7Jta2YNrdk6a9cch6w
-378	Pearline	Son House	Son House Live At The Gaslight Cafe Jan 3rd 1965	INDIFFERENT	4:00	j6zX5H_cazk	MPREb_9ROQ2G7lMSV	UCxo6H7Jta2YNrdk6a9cch6w
-408	Grinnin' in Your Face	Son House	The Essential Son House	INDIFFERENT	2:06	ucKwBX1i4mg	MPREb_DNmueUrzpM4	UCxo6H7Jta2YNrdk6a9cch6w
-434	Pearline	Son House	Son House Revisited Vol. 2	INDIFFERENT	4:00	Ug4O5-TVEuM	MPREb_1fhAzxS9y1v	UCxo6H7Jta2YNrdk6a9cch6w
-492	Sun Goin'Down	Son House	J.D. Short and Son House: Blues from the Mississippi Delta	INDIFFERENT	5:00	YUQqXHBlvic	MPREb_xAefVTsBq06	UCxo6H7Jta2YNrdk6a9cch6w
+324	Louise Mcghee (Incomplete)	Son House	Son House Live At The Gaslight Cafe Jan 3rd 1965	INDIFFERENT	4:22	VE3h0aHc2_k	MPREb_9ROQ2G7lMSV	UCxo6H7Jta2YNrdk6a9cch6w
+377	Pearline	Son House	Son House Live At The Gaslight Cafe Jan 3rd 1965	INDIFFERENT	4:00	j6zX5H_cazk	MPREb_9ROQ2G7lMSV	UCxo6H7Jta2YNrdk6a9cch6w
+407	Grinnin' in Your Face	Son House	The Essential Son House	INDIFFERENT	2:06	ucKwBX1i4mg	MPREb_DNmueUrzpM4	UCxo6H7Jta2YNrdk6a9cch6w
+433	Pearline	Son House	Son House Revisited Vol. 2	INDIFFERENT	4:00	Ug4O5-TVEuM	MPREb_1fhAzxS9y1v	UCxo6H7Jta2YNrdk6a9cch6w
+491	Sun Goin'Down	Son House	J.D. Short and Son House: Blues from the Mississippi Delta	INDIFFERENT	5:00	YUQqXHBlvic	MPREb_xAefVTsBq06	UCxo6H7Jta2YNrdk6a9cch6w
 97	Got to Get You off My Mind	Solomon Burke	Rhino Hi-Five: Solomon Burke	INDIFFERENT	2:36	BCSLS56E2As	MPREb_7LdR9m0cPya	UCwIioEkBeMVDvsq0i6o5nvw
-223	Mama Don't You Tear My Clothes	Snooks Eaglin	Country Boy in New Orleans	INDIFFERENT	2:04	TW79WNv1viA	MPREb_UFCA1GrV8QN	UCirj8GmVSuYpR1jBnotPTdg
-229	I Got a Woman	Snooks Eaglin	New Orleans Street Singer	INDIFFERENT	3:13	bZ7xtmkZzrA	MPREb_18sP8qeISOa	UCirj8GmVSuYpR1jBnotPTdg
-255	Now i got the blues	Slim Memphis	The complete recording, Vol. 2	INDIFFERENT	2:41	cqh9YVmN-bw	MPREb_PJddoAc31Ko	UCppI7uxgMiE-9gntBeF67oA
-282	I'm A King Bee	Slim Harpo	Sings Raining In My Heart	INDIFFERENT	3:03	hnVnrn4zVF4	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg
-306	Rainin' In My Heart	Slim Harpo	Sings Raining In My Heart	INDIFFERENT	2:34	FkOoxzgJ6XM	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg
-308	Little Laura Blues	Sleepy John Estes	Smile At Me (Lover's Blues)	INDIFFERENT	2:32	0l_GUVy9Xnc	MPREb_9dV2ZBKJoxp	UCpVBumaPAQ-ZB9wW7Ry8DcQ
+222	Mama Don't You Tear My Clothes	Snooks Eaglin	Country Boy in New Orleans	INDIFFERENT	2:04	TW79WNv1viA	MPREb_UFCA1GrV8QN	UCirj8GmVSuYpR1jBnotPTdg
+228	I Got a Woman	Snooks Eaglin	New Orleans Street Singer	INDIFFERENT	3:13	bZ7xtmkZzrA	MPREb_18sP8qeISOa	UCirj8GmVSuYpR1jBnotPTdg
+254	Now i got the blues	Slim Memphis	The complete recording, Vol. 2	INDIFFERENT	2:41	cqh9YVmN-bw	MPREb_PJddoAc31Ko	UCppI7uxgMiE-9gntBeF67oA
+281	I'm A King Bee	Slim Harpo	Sings Raining In My Heart	INDIFFERENT	3:03	hnVnrn4zVF4	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg
+305	Rainin' In My Heart	Slim Harpo	Sings Raining In My Heart	INDIFFERENT	2:34	FkOoxzgJ6XM	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg
+307	Little Laura Blues	Sleepy John Estes	Smile At Me (Lover's Blues)	INDIFFERENT	2:32	0l_GUVy9Xnc	MPREb_9dV2ZBKJoxp	UCpVBumaPAQ-ZB9wW7Ry8DcQ
 61	Illinois Blues	Skip James	Hard Time Killin' Floor	INDIFFERENT	3:06	SiCMzdtj9iM	MPREb_jpSx1Ks5CHR	UCOUlyPoyLeFd9QGtRuwGuaA
 200	Devil Got My Woman	Skip James	The Roots Of Robert Johnson	INDIFFERENT	3:00	2v0yPrdgfRQ	MPREb_0Uir6yUugj5	UCOUlyPoyLeFd9QGtRuwGuaA
 204	Hard Time Killin' Floor Blues	Skip James	Complete Early Recordings	INDIFFERENT	2:50	_NPUfBpr0RE	MPREb_nzlFlrMg6Ku	UCOUlyPoyLeFd9QGtRuwGuaA
-364	Sick Bed Blues	Skip James	Devil Got My Woman	INDIFFERENT	4:08	02IkbJkazLs	MPREb_rI9O7QPMxch	UCOUlyPoyLeFd9QGtRuwGuaA
-403	Cypress Grove Blues	Skip James	California	INDIFFERENT	3:12	ZJqRVIxUhIw	MPREb_cWfK7HfclDC	UCOUlyPoyLeFd9QGtRuwGuaA
-406	Devil Got My Woman	Skip James	100 1920s Blues Classics	INDIFFERENT	3:01	-puG-ZBODZY	MPREb_3gCoXI3fbKx	UCOUlyPoyLeFd9QGtRuwGuaA
-417	Hardtime Killing Floor Blues	Skip James	The Complete Greatest Of The Delta Blues Singers Recordings (Hd Remastered, Restored Edition, Doxy Collection)	INDIFFERENT	3:27	Wp1hKpIKzNE	MPREb_ntItLooeZJp	UCOUlyPoyLeFd9QGtRuwGuaA
-435	Cypress Grove Blues	Skip James	Special Rider Blues - Skip James in the 30's	INDIFFERENT	3:14	-_PDvxIlZNA	MPREb_niWzKtUvd7P	UCOUlyPoyLeFd9QGtRuwGuaA
-490	Walkin' Blues	Skip James	Hard Time Killin' Floor	INDIFFERENT	2:57	QNLe-lu0ffM	MPREb_jpSx1Ks5CHR	UCOUlyPoyLeFd9QGtRuwGuaA
-488	Trouble In Mind	Sister Rosetta Tharpe	The Gospel Of The Blues	INDIFFERENT	2:27	Gbj0jOHoZkw	MPREb_8uN49tKxe7H	UCM8MNT2OAyMhnnZWJHkE69Q
+363	Sick Bed Blues	Skip James	Devil Got My Woman	INDIFFERENT	4:08	02IkbJkazLs	MPREb_rI9O7QPMxch	UCOUlyPoyLeFd9QGtRuwGuaA
+402	Cypress Grove Blues	Skip James	California	INDIFFERENT	3:12	ZJqRVIxUhIw	MPREb_cWfK7HfclDC	UCOUlyPoyLeFd9QGtRuwGuaA
+405	Devil Got My Woman	Skip James	100 1920s Blues Classics	INDIFFERENT	3:01	-puG-ZBODZY	MPREb_3gCoXI3fbKx	UCOUlyPoyLeFd9QGtRuwGuaA
+416	Hardtime Killing Floor Blues	Skip James	The Complete Greatest Of The Delta Blues Singers Recordings (Hd Remastered, Restored Edition, Doxy Collection)	INDIFFERENT	3:27	Wp1hKpIKzNE	MPREb_ntItLooeZJp	UCOUlyPoyLeFd9QGtRuwGuaA
+434	Cypress Grove Blues	Skip James	Special Rider Blues - Skip James in the 30's	INDIFFERENT	3:14	-_PDvxIlZNA	MPREb_niWzKtUvd7P	UCOUlyPoyLeFd9QGtRuwGuaA
+489	Walkin' Blues	Skip James	Hard Time Killin' Floor	INDIFFERENT	2:57	QNLe-lu0ffM	MPREb_jpSx1Ks5CHR	UCOUlyPoyLeFd9QGtRuwGuaA
+487	Trouble In Mind	Sister Rosetta Tharpe	The Gospel Of The Blues	INDIFFERENT	2:27	Gbj0jOHoZkw	MPREb_8uN49tKxe7H	UCM8MNT2OAyMhnnZWJHkE69Q
 73	Hold On I'm Coming	Sam & Dave	Blues Brother Soul Sister (Volume Two)	INDIFFERENT	2:24	GYxSZ_CKwvg	MPREb_Rbl8jvqmbUF	UC0jVmnViSoUHl_XwocssdPg
-274	Maria Elena	Ry Cooder	Boomer's Story	INDIFFERENT	4:33	Vy0lCn4Jw0I	MPREb_q4QN0DCjtZd	UCpVcS5v4aswxvZ2U_lwFDWA
-305	So Tired	Roy Milton	Jazz Greats: Carmen McCrae, Art Farmer, Count Basie and More	INDIFFERENT	3:28	ypyI9IWFnag	MPREb_9aBeqqamhSf	UCC6aFpipFBcszh9hydfp6Lw
-296	Just a Little Bit	Roscoe Gordon	Rhythm & Blues (50 Hits)	INDIFFERENT	2:08	-DQrRYyPetk	MPREb_fXjht0xZWEh	UC8ufTsC2MfwQGiJZ19ryhww
-329	Dirty Mother for You	Roosevelt Sykes	1929-1941	INDIFFERENT	3:00	wAF9YWPKVz0	MPREb_9iVebdM0ibp	UCovXyl5vvkG1005QHX0Xggg
-335	My Baby's Playground	Roosevelt Sykes	1929-1941	INDIFFERENT	2:23	uAg7j4AB6uY	MPREb_9iVebdM0ibp	UCovXyl5vvkG1005QHX0Xggg
-303	She Walks Right In	Roomful Of Blues	Hook, Line & Sinker	INDIFFERENT	3:32	dMRoB2ABy2k	MPREb_IkThT6qa4Mg	UCLNb9yneCGCYc4epc9byrCg
-423	Police Sergeant Blues	Robert Wilkins	Robert Wilkins (Doxy Collection Remastered)	INDIFFERENT	3:03	0WH5IpZZ-xw	MPREb_DC0SAV9Mqig	UCSsqDI3DbmYeOfqiP0upYRQ
-428	Long Train Blues	Robert Wilkins	Robert Wilkins (Doxy Collection Remastered)	INDIFFERENT	3:07	H8cAlDBILJs	MPREb_DC0SAV9Mqig	UCSsqDI3DbmYeOfqiP0upYRQ
-224	Black Bottom	Robert Ward	Black Bottom	INDIFFERENT	6:53	hXBgQp9jYds	MPREb_l3mNZgqvjo5	UCl4Y8mxPZxwJhTpTVYCktww
-238	Something For Nothing	Robert Ward	Twiggs County Soul Man	INDIFFERENT	3:51	xkYQtUTfinU	MPREb_pzRfjYpiLkW	UCl4Y8mxPZxwJhTpTVYCktww
-506	Catfish Blues (2002 Remastered)	Robert Petway	Worried Life Blues	INDIFFERENT	2:52	lUMqFVLMDQI	MPREb_AGNSp1joOnW	UCy7PiJnY2h1Z2hLUfmFAONw
+273	Maria Elena	Ry Cooder	Boomer's Story	INDIFFERENT	4:33	Vy0lCn4Jw0I	MPREb_q4QN0DCjtZd	UCpVcS5v4aswxvZ2U_lwFDWA
+304	So Tired	Roy Milton	Jazz Greats: Carmen McCrae, Art Farmer, Count Basie and More	INDIFFERENT	3:28	ypyI9IWFnag	MPREb_9aBeqqamhSf	UCC6aFpipFBcszh9hydfp6Lw
+295	Just a Little Bit	Roscoe Gordon	Rhythm & Blues (50 Hits)	INDIFFERENT	2:08	-DQrRYyPetk	MPREb_fXjht0xZWEh	UC8ufTsC2MfwQGiJZ19ryhww
+328	Dirty Mother for You	Roosevelt Sykes	1929-1941	INDIFFERENT	3:00	wAF9YWPKVz0	MPREb_9iVebdM0ibp	UCovXyl5vvkG1005QHX0Xggg
+334	My Baby's Playground	Roosevelt Sykes	1929-1941	INDIFFERENT	2:23	uAg7j4AB6uY	MPREb_9iVebdM0ibp	UCovXyl5vvkG1005QHX0Xggg
+302	She Walks Right In	Roomful Of Blues	Hook, Line & Sinker	INDIFFERENT	3:32	dMRoB2ABy2k	MPREb_IkThT6qa4Mg	UCLNb9yneCGCYc4epc9byrCg
+422	Police Sergeant Blues	Robert Wilkins	Robert Wilkins (Doxy Collection Remastered)	INDIFFERENT	3:03	0WH5IpZZ-xw	MPREb_DC0SAV9Mqig	UCSsqDI3DbmYeOfqiP0upYRQ
+427	Long Train Blues	Robert Wilkins	Robert Wilkins (Doxy Collection Remastered)	INDIFFERENT	3:07	H8cAlDBILJs	MPREb_DC0SAV9Mqig	UCSsqDI3DbmYeOfqiP0upYRQ
+223	Black Bottom	Robert Ward	Black Bottom	INDIFFERENT	6:53	hXBgQp9jYds	MPREb_l3mNZgqvjo5	UCl4Y8mxPZxwJhTpTVYCktww
+237	Something For Nothing	Robert Ward	Twiggs County Soul Man	INDIFFERENT	3:51	xkYQtUTfinU	MPREb_pzRfjYpiLkW	UCl4Y8mxPZxwJhTpTVYCktww
+503	Catfish Blues (2002 Remastered)	Robert Petway	Worried Life Blues	INDIFFERENT	2:52	lUMqFVLMDQI	MPREb_AGNSp1joOnW	UCy7PiJnY2h1Z2hLUfmFAONw
 23	Sweet Home Chicago	Robert Johnson	The Blues	INDIFFERENT	3:02	vq7Dh-NefDw	MPREb_G3RgPuvxEsT	UCjcp3ChO5oUZyx3f0FnGVUA
 48	Stones In My Passway	Robert Johnson	Love In Vain	INDIFFERENT	2:29	Dp9wUJcAFzw	MPREb_NzP1MtwzSzm	UCjcp3ChO5oUZyx3f0FnGVUA
 54	If I Had Possession Over Judgement Day	Robert Johnson	King Of The Delta Blues Singers	INDIFFERENT	2:37	w2-AYZ-0b0Y	MPREb_ZKoWLTITRXw	UCjcp3ChO5oUZyx3f0FnGVUA
@@ -132,99 +121,99 @@
 163	Walking Blues	Robert Johnson	King of the Delta Blues SIngers	INDIFFERENT	2:29	D3IqGNvEeRM	MPREb_4idEe6UxXfU	UCjcp3ChO5oUZyx3f0FnGVUA
 175	Preaching Blues	Robert Johnson	Crossroad Blues	INDIFFERENT	2:49	EcpwNuNV81g	MPREb_y9aVWzIZOHJ	UCjcp3ChO5oUZyx3f0FnGVUA
 183	Come On In My Kitchen	Robert Johnson	The Skeleton Key (Original Motion Picture Soundtrack)	INDIFFERENT	2:49	2sh483rVV2Y	MPREb_EZO1fsbsSP2	UCjcp3ChO5oUZyx3f0FnGVUA
-362	Me and the Devil Blues (Take 1)	Robert Johnson	The Complete Recordings	INDIFFERENT	2:34	DKRrT0LY_R4	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
-409	Walkin' Blues	Robert Johnson	The Complete Recordings	INDIFFERENT	2:29	xYlrGYMsEFQ	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
-410	Cross Road Blues (Version 2)	Robert Johnson	Deluxe: Sweet Home Chicago	INDIFFERENT	2:32	lDdxD6EK8mY	MPREb_Hb19Sa9uet8	UCjcp3ChO5oUZyx3f0FnGVUA
-412	Me and the Devil Blues (Alternate Take)	Robert Johnson	All His Records	INDIFFERENT	2:33	3Y4dNWSLLWs	MPREb_iEMDqhZfXhb	UCjcp3ChO5oUZyx3f0FnGVUA
-460	Sweet Home Chicago	Robert Johnson	The Complete Recordings	INDIFFERENT	2:57	dLmiYxuHvT4	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
-470	Come On In My Kitchen (Take 2)	Robert Johnson	The Complete Recordings	INDIFFERENT	2:43	CWXP6Eki3cc	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
-496	Cross Road Blues	Robert Johnson	Folk, Gospel & Blues: Will The Circle Be Unbroken	INDIFFERENT	2:38	B0v7mDvkDkY	MPREb_Z7aufkTeGcf	UCjcp3ChO5oUZyx3f0FnGVUA
-508	Cross Road Blues	Robert Johnson	Tools	INDIFFERENT	2:31	-YfgvNgGGWU	MPREb_aGaTyvisq9h	UCjcp3ChO5oUZyx3f0FnGVUA
-520	Walkin' Blues	Robert Johnson	Martin Scorsese Presents The Blues: Robert Johnson	INDIFFERENT	2:28	O9D4vnBK2EY	MPREb_ScTtwy8svDi	UCjcp3ChO5oUZyx3f0FnGVUA
-539	Sweet Home Chicago	Robert Johnson	Robert Johnson, Essentials	INDIFFERENT	3:05	p-gma8xBhtc	MPREb_KqhBcgvlxVN	UCjcp3ChO5oUZyx3f0FnGVUA
-499	Guitar Blues	Ray Charles	Bluestream: The Best Of Mainstream Blues	INDIFFERENT	2:37	HoebwomIGxg	MPREb_uAP7eyAxzeV	UClapQBGYNOoLYmCct6e3B5Q
-214	Old Black Mattie	R.L. Burnside	Too Bad Jim	INDIFFERENT	4:12	AL7G9bBKHd4	MPREb_Ylz308BXZ9o	UCknf9wZF2_lNW40-uMMcNYA
-246	Gone So Long	Professor Longhair	The Louisiana Sound of Professor Longhair	INDIFFERENT	2:34	YdPDcp_4W-4	MPREb_we0a3vH3kYZ	UCK6hlgL21JlaBwSNjK_L62Q
-348	Pinetop's Boogie Woogie	Pinetop Perkins	Back On Top	INDIFFERENT	4:16	lUS6qMRU2RU	MPREb_uJRtufIWl36	UCGloG-ofMo_rYixhmlaNAfw
+361	Me and the Devil Blues (Take 1)	Robert Johnson	The Complete Recordings	INDIFFERENT	2:34	DKRrT0LY_R4	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
+408	Walkin' Blues	Robert Johnson	The Complete Recordings	INDIFFERENT	2:29	xYlrGYMsEFQ	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
+409	Cross Road Blues (Version 2)	Robert Johnson	Deluxe: Sweet Home Chicago	INDIFFERENT	2:32	lDdxD6EK8mY	MPREb_Hb19Sa9uet8	UCjcp3ChO5oUZyx3f0FnGVUA
+411	Me and the Devil Blues (Alternate Take)	Robert Johnson	All His Records	INDIFFERENT	2:33	3Y4dNWSLLWs	MPREb_iEMDqhZfXhb	UCjcp3ChO5oUZyx3f0FnGVUA
+459	Sweet Home Chicago	Robert Johnson	The Complete Recordings	INDIFFERENT	2:57	dLmiYxuHvT4	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
+469	Come On In My Kitchen (Take 2)	Robert Johnson	The Complete Recordings	INDIFFERENT	2:43	CWXP6Eki3cc	MPREb_pr0aS9A0TbI	UCjcp3ChO5oUZyx3f0FnGVUA
+495	Cross Road Blues	Robert Johnson	Folk, Gospel & Blues: Will The Circle Be Unbroken	INDIFFERENT	2:38	B0v7mDvkDkY	MPREb_Z7aufkTeGcf	UCjcp3ChO5oUZyx3f0FnGVUA
+505	Cross Road Blues	Robert Johnson	Tools	INDIFFERENT	2:31	-YfgvNgGGWU	MPREb_aGaTyvisq9h	UCjcp3ChO5oUZyx3f0FnGVUA
+512	Walkin' Blues	Robert Johnson	Martin Scorsese Presents The Blues: Robert Johnson	INDIFFERENT	2:28	O9D4vnBK2EY	MPREb_ScTtwy8svDi	UCjcp3ChO5oUZyx3f0FnGVUA
+525	Sweet Home Chicago	Robert Johnson	Robert Johnson, Essentials	INDIFFERENT	3:05	p-gma8xBhtc	MPREb_KqhBcgvlxVN	UCjcp3ChO5oUZyx3f0FnGVUA
+498	Guitar Blues	Ray Charles	Bluestream: The Best Of Mainstream Blues	INDIFFERENT	2:37	HoebwomIGxg	MPREb_uAP7eyAxzeV	UClapQBGYNOoLYmCct6e3B5Q
+213	Old Black Mattie	R.L. Burnside	Too Bad Jim	INDIFFERENT	4:12	AL7G9bBKHd4	MPREb_Ylz308BXZ9o	UCknf9wZF2_lNW40-uMMcNYA
+245	Gone So Long	Professor Longhair	The Louisiana Sound of Professor Longhair	INDIFFERENT	2:34	YdPDcp_4W-4	MPREb_we0a3vH3kYZ	UCK6hlgL21JlaBwSNjK_L62Q
+347	Pinetop's Boogie Woogie	Pinetop Perkins	Back On Top	INDIFFERENT	4:16	lUS6qMRU2RU	MPREb_uJRtufIWl36	UCGloG-ofMo_rYixhmlaNAfw
 201	You Can't Stop Me From Drinking	Peetie Wheatstraw	Peetie Wheatstraw Vol. 6 1938-1940	INDIFFERENT	2:34	hC72TKOv13M	MPREb_jXrrlw846Qh	UC4wrga3LfRqkrpXjRTpb16A
 206	Little Low Mellow Mama	Peetie Wheatstraw	Peetie Wheatstraw Vol. 6 1938-1940	INDIFFERENT	3:00	m09tdbsnxKc	MPREb_jXrrlw846Qh	UC4wrga3LfRqkrpXjRTpb16A
-332	False Hearted Woman	Peetie Wheatstraw	Peetie Wheatstraw Vol. 4 1936-1937	INDIFFERENT	2:49	su0xDlxoEPI	MPREb_i5gmx6KVjkJ	UC4wrga3LfRqkrpXjRTpb16A
-334	Blues After Hours	Pee Wee Crayton	Blues After Hours	INDIFFERENT	3:02	wMGkLflNJlg	MPREb_6aUpt9VCWMO	UCYiBv7tOQmDmKziKsfGvx4g
-235	Have Mercy	Paul Oscher	Living Legends: Deep in the Blues	INDIFFERENT	2:49	sH-7GkVxHYM	MPREb_BzMgQs4ISIZ	UCiPxBNutoWCI7drx6KgC18A
-383	Too Long	Papa Charlie's Boys	The McCoy Brothers (Charlie & Joe McCoy) Vol. 1 (1934-1936)	INDIFFERENT	3:01	I4ZLZag9GFs	MPREb_SNzNaFRp9zl	UCaQSN58gOwWocF0xeh_9QtQ
-241	It Must Have Been The Devil	Otis Spann	Blues History	INDIFFERENT	3:47	MZuYoRZn788	MPREb_p9dEiKNrFR9	UCN4OvaM2J5NtZM5jDPgYxCw
-312	My Daily Wish	Otis Spann	Great Northern Stomp	INDIFFERENT	4:29	XjwWsuSJrb0	MPREb_aq9hsyZaLe4	UCN4OvaM2J5NtZM5jDPgYxCw
+331	False Hearted Woman	Peetie Wheatstraw	Peetie Wheatstraw Vol. 4 1936-1937	INDIFFERENT	2:49	su0xDlxoEPI	MPREb_i5gmx6KVjkJ	UC4wrga3LfRqkrpXjRTpb16A
+333	Blues After Hours	Pee Wee Crayton	Blues After Hours	INDIFFERENT	3:02	wMGkLflNJlg	MPREb_6aUpt9VCWMO	UCYiBv7tOQmDmKziKsfGvx4g
+234	Have Mercy	Paul Oscher	Living Legends: Deep in the Blues	INDIFFERENT	2:49	sH-7GkVxHYM	MPREb_BzMgQs4ISIZ	UCiPxBNutoWCI7drx6KgC18A
+382	Too Long	Papa Charlie's Boys	The McCoy Brothers (Charlie & Joe McCoy) Vol. 1 (1934-1936)	INDIFFERENT	3:01	I4ZLZag9GFs	MPREb_SNzNaFRp9zl	UCaQSN58gOwWocF0xeh_9QtQ
+240	It Must Have Been The Devil	Otis Spann	Blues History	INDIFFERENT	3:47	MZuYoRZn788	MPREb_p9dEiKNrFR9	UCN4OvaM2J5NtZM5jDPgYxCw
+311	My Daily Wish	Otis Spann	Great Northern Stomp	INDIFFERENT	4:29	XjwWsuSJrb0	MPREb_aq9hsyZaLe4	UCN4OvaM2J5NtZM5jDPgYxCw
 7	So Many Roads, So Many Trains	Otis Rush	Essential Chicago Blues - 50 Classic Tracks	INDIFFERENT	3:11	EyXgCsmwkqM	MPREb_FVugsl2sM95	UC9_Ic6yumZhlfxY2sCjwKSw
 22	Sit Down Baby	Otis Rush	The Essential Otis Rush: The Classic Cobra Recordings	INDIFFERENT	2:20	w17WN9MrL-U	MPREb_AEipY7zeLy5	UC9_Ic6yumZhlfxY2sCjwKSw
 144	Gambler's Blues	Otis Rush	All Your Love I Miss Loving - Live At The Wise Fools Pub, Chicago	INDIFFERENT	8:26	WqtqQY-q05M	MPREb_G22V99MFWes	UC9_Ic6yumZhlfxY2sCjwKSw
 145	Three Times a Fool	Otis Rush	The Essential Otis Rush: The Classic Cobra Recordings	INDIFFERENT	2:50	5Zl6NIiSnHs	MPREb_AEipY7zeLy5	UC9_Ic6yumZhlfxY2sCjwKSw
 146	It Takes Time	Otis Rush	The Essential Otis Rush: The Classic Cobra Recordings	INDIFFERENT	2:49	DJ40zHBLGR8	MPREb_AEipY7zeLy5	UC9_Ic6yumZhlfxY2sCjwKSw
 147	Double Trouble	Otis Rush	The Essential Otis Rush: The Classic Cobra Recordings	INDIFFERENT	2:43	Yiji9rKh_tQ	MPREb_AEipY7zeLy5	UC9_Ic6yumZhlfxY2sCjwKSw
-212	I Wonder Why	Otis Rush	Right Place, Wrong Time	INDIFFERENT	4:14	ZCTYMSzZoSo	MPREb_LbTwEJzQPVs	UC9_Ic6yumZhlfxY2sCjwKSw
-232	You're Killing My Love	Otis Rush	Mourning In The Morning	INDIFFERENT	3:02	PLE6UW4yhKA	MPREb_byfhR92T0ZN	UC9_Ic6yumZhlfxY2sCjwKSw
-288	I Can't Stop	Otis Rush	Door To Door	INDIFFERENT	2:14	EyiJ3H7fhg0	MPREb_lkJnWZhMA5o	UC9_Ic6yumZhlfxY2sCjwKSw
-454	Right Place, Wrong Time	Otis Rush	Right Place, Wrong Time	INDIFFERENT	5:26	rIxl8hIsDmc	MPREb_LbTwEJzQPVs	UC9_Ic6yumZhlfxY2sCjwKSw
-498	I Can't Quit You Baby	Otis Rush	The Roots Of Led Zeppelin	INDIFFERENT	3:38	gk1WuOB8fCs	MPREb_qjsm1l92auq	UC9_Ic6yumZhlfxY2sCjwKSw
+211	I Wonder Why	Otis Rush	Right Place, Wrong Time	INDIFFERENT	4:14	ZCTYMSzZoSo	MPREb_LbTwEJzQPVs	UC9_Ic6yumZhlfxY2sCjwKSw
+231	You're Killing My Love	Otis Rush	Mourning In The Morning	INDIFFERENT	3:02	PLE6UW4yhKA	MPREb_byfhR92T0ZN	UC9_Ic6yumZhlfxY2sCjwKSw
+287	I Can't Stop	Otis Rush	Door To Door	INDIFFERENT	2:14	EyiJ3H7fhg0	MPREb_lkJnWZhMA5o	UC9_Ic6yumZhlfxY2sCjwKSw
+453	Right Place, Wrong Time	Otis Rush	Right Place, Wrong Time	INDIFFERENT	5:26	rIxl8hIsDmc	MPREb_LbTwEJzQPVs	UC9_Ic6yumZhlfxY2sCjwKSw
+497	I Can't Quit You Baby	Otis Rush	The Roots Of Led Zeppelin	INDIFFERENT	3:38	gk1WuOB8fCs	MPREb_qjsm1l92auq	UC9_Ic6yumZhlfxY2sCjwKSw
 66	She Moves Me	Muddy Waters	The Best Of Muddy Waters	INDIFFERENT	2:57	w9bXPxMTKl4	MPREb_T87ZmgoFEyP	UCZ5YpKcmxGptLgRRW8ujxHA
 80	Forty Days and Forty Nights	Muddy Waters	Muddy Waters Sings Delta Blues	INDIFFERENT	3:06	gZpeZZ0VoIU	MPREb_4Gw9MXAnXfX	UCZ5YpKcmxGptLgRRW8ujxHA
 108	Key To The Highway	Muddy Waters	The London Muddy Waters Sessions	INDIFFERENT	2:27	OZFBs8hyvOQ	MPREb_JGpC25mlrkU	UCZ5YpKcmxGptLgRRW8ujxHA
 114	The Blues Had a Baby and They Named It Rock and Roll	Muddy Waters	Hard Again	INDIFFERENT	3:35	J4NNyZmmI3U	MPREb_AxpVLBzaPEj	UCZ5YpKcmxGptLgRRW8ujxHA
 143	Big Leg Woman	Muddy Waters	The Folk Singer	INDIFFERENT	3:30	wf3gf-ux9xA	MPREb_18UeZIuk6ea	UCZ5YpKcmxGptLgRRW8ujxHA
 186	Gipsy Woman	Muddy Waters	Chicago's Boss	INDIFFERENT	2:34	iUqK8jAdMAM	MPREb_pXNQfsdZn7L	UCZ5YpKcmxGptLgRRW8ujxHA
-215	I'm Ready	Muddy Waters	I'm Ready	INDIFFERENT	3:25	h8-1Qu8_rdQ	MPREb_YiozuGdG0ru	UCZ5YpKcmxGptLgRRW8ujxHA
-264	Hoochie Coochie Man	Muddy Waters	LRC Jazz Legacy Anthology : Good Vibration	INDIFFERENT	3:17	VNvYz96kpVs	MPREb_MowS6b97nw3	UCZ5YpKcmxGptLgRRW8ujxHA
-341	Got My Mojo Workin' (Live)	Muddy Waters	The Blues (A Real Summit Meeting)	INDIFFERENT	3:44	FcMu0DGgWG8	MPREb_tGklhbwA7MV	UCZ5YpKcmxGptLgRRW8ujxHA
-358	I Be's Troubled (Plantation Recording)	Muddy Waters	The Complete Plantation Recordings	INDIFFERENT	3:06	UWyTfeH2vpc	MPREb_4vRFuRR7Shj	UCZ5YpKcmxGptLgRRW8ujxHA
-395	I Be Bound To Write To You	Muddy Waters	Library Of Congress Recordings (1941 - 1942) - Early Commercial Recordings (1946 - 1950)	INDIFFERENT	3:23	rMz-KKZKb2c	MPREb_3FUnr2RJF4C	UCZ5YpKcmxGptLgRRW8ujxHA
-415	You're Gonna Miss Me When I'm Gone (No. 1) (Plantation Recording)	Muddy Waters	The Complete Plantation Recordings	INDIFFERENT	3:21	Dlx5jjqAbwc	MPREb_4vRFuRR7Shj	UCZ5YpKcmxGptLgRRW8ujxHA
-442	I Be Bound to Write to You	Muddy Waters	Plantation Blues	INDIFFERENT	3:22	3jcH-WAfAJ0	MPREb_M2nmf6yKmCD	UCZ5YpKcmxGptLgRRW8ujxHA
-497	Rolling Stone	Muddy Waters	Featuring: Diamond's At Your Feet	INDIFFERENT	3:07	neGXKsnzHl0	MPREb_7o4EBlpNwsS	UCZ5YpKcmxGptLgRRW8ujxHA
-500	(I'm Your) Hoochie Coochie Man	Muddy Waters	Blues Dance Hits	INDIFFERENT	2:51	NdfZlAwYZQ8	MPREb_05CAyBZDyWl	UCZ5YpKcmxGptLgRRW8ujxHA
-514	Got My Mojo Working (Hd Remastered Edition)	Muddy Waters	The Anthology, Vol. 3 (Hd Remastered Edition)	INDIFFERENT	2:53	Jppp5CAVz1c	MPREb_aRylhZTyrbN	UCZ5YpKcmxGptLgRRW8ujxHA
-525	I'm Ready (Single Version)	Muddy Waters	The Best Of Muddy Waters	INDIFFERENT	3:03	wQlCLF6bzUQ	MPREb_T87ZmgoFEyP	UCZ5YpKcmxGptLgRRW8ujxHA
-227	Blues	Mose Allison	Back Country Suite	INDIFFERENT	1:24	zQeKEbNC2G0	MPREb_wQDOEy8muZ0	UCHftue3JEfzN9X6bURGSB3g
-253	If You Live	Mose Allison	Creek Bank	INDIFFERENT	2:32	uvxanpFrKrw	MPREb_qAQ2Rqq7YFY	UCHftue3JEfzN9X6bURGSB3g
+214	I'm Ready	Muddy Waters	I'm Ready	INDIFFERENT	3:25	h8-1Qu8_rdQ	MPREb_YiozuGdG0ru	UCZ5YpKcmxGptLgRRW8ujxHA
+263	Hoochie Coochie Man	Muddy Waters	LRC Jazz Legacy Anthology : Good Vibration	INDIFFERENT	3:17	VNvYz96kpVs	MPREb_MowS6b97nw3	UCZ5YpKcmxGptLgRRW8ujxHA
+340	Got My Mojo Workin' (Live)	Muddy Waters	The Blues (A Real Summit Meeting)	INDIFFERENT	3:44	FcMu0DGgWG8	MPREb_tGklhbwA7MV	UCZ5YpKcmxGptLgRRW8ujxHA
+357	I Be's Troubled (Plantation Recording)	Muddy Waters	The Complete Plantation Recordings	INDIFFERENT	3:06	UWyTfeH2vpc	MPREb_4vRFuRR7Shj	UCZ5YpKcmxGptLgRRW8ujxHA
+394	I Be Bound To Write To You	Muddy Waters	Library Of Congress Recordings (1941 - 1942) - Early Commercial Recordings (1946 - 1950)	INDIFFERENT	3:23	rMz-KKZKb2c	MPREb_3FUnr2RJF4C	UCZ5YpKcmxGptLgRRW8ujxHA
+414	You're Gonna Miss Me When I'm Gone (No. 1) (Plantation Recording)	Muddy Waters	The Complete Plantation Recordings	INDIFFERENT	3:21	Dlx5jjqAbwc	MPREb_4vRFuRR7Shj	UCZ5YpKcmxGptLgRRW8ujxHA
+441	I Be Bound to Write to You	Muddy Waters	Plantation Blues	INDIFFERENT	3:22	3jcH-WAfAJ0	MPREb_M2nmf6yKmCD	UCZ5YpKcmxGptLgRRW8ujxHA
+496	Rolling Stone	Muddy Waters	Featuring: Diamond's At Your Feet	INDIFFERENT	3:07	neGXKsnzHl0	MPREb_7o4EBlpNwsS	UCZ5YpKcmxGptLgRRW8ujxHA
+499	(I'm Your) Hoochie Coochie Man	Muddy Waters	Blues Dance Hits	INDIFFERENT	2:51	NdfZlAwYZQ8	MPREb_05CAyBZDyWl	UCZ5YpKcmxGptLgRRW8ujxHA
+508	Got My Mojo Working (Hd Remastered Edition)	Muddy Waters	The Anthology, Vol. 3 (Hd Remastered Edition)	INDIFFERENT	2:53	Jppp5CAVz1c	MPREb_aRylhZTyrbN	UCZ5YpKcmxGptLgRRW8ujxHA
+514	I'm Ready (Single Version)	Muddy Waters	The Best Of Muddy Waters	INDIFFERENT	3:03	wQlCLF6bzUQ	MPREb_T87ZmgoFEyP	UCZ5YpKcmxGptLgRRW8ujxHA
+226	Blues	Mose Allison	Back Country Suite	INDIFFERENT	1:24	zQeKEbNC2G0	MPREb_wQDOEy8muZ0	UCHftue3JEfzN9X6bURGSB3g
+252	If You Live	Mose Allison	Creek Bank	INDIFFERENT	2:32	uvxanpFrKrw	MPREb_qAQ2Rqq7YFY	UCHftue3JEfzN9X6bURGSB3g
 38	Candy Man Blues	Mississippi John Hurt	The History of Blues One	INDIFFERENT	2:47	ka-POe1dVvo	MPREb_HaKRSPBW63l	UCDEcORxYIZA2yV7UjlBIuEg
-477	Candy Man Blues	Mississippi John Hurt	1928 Sessions	INDIFFERENT	2:47	GCFur3GlNQ8	MPREb_EqfWQaNmUmn	UCDEcORxYIZA2yV7UjlBIuEg
-484	Stack O' Lee	Mississippi John Hurt	Candy Man Blues	INDIFFERENT	2:57	s8mpgJl4nqs	MPREb_PuM8ZKtsAhh	UCDEcORxYIZA2yV7UjlBIuEg
-420	Get Right Church	Mississippi Fred Mcdowell	Blues Founders, Vol. 2	INDIFFERENT	3:42	fc8_ZDwvmzI	MPREb_XaZGCVsFO9P	UCbNXWMxWD39iFkSGr1auS2g
+476	Candy Man Blues	Mississippi John Hurt	1928 Sessions	INDIFFERENT	2:47	GCFur3GlNQ8	MPREb_EqfWQaNmUmn	UCDEcORxYIZA2yV7UjlBIuEg
+483	Stack O' Lee	Mississippi John Hurt	Candy Man Blues	INDIFFERENT	2:57	s8mpgJl4nqs	MPREb_PuM8ZKtsAhh	UCDEcORxYIZA2yV7UjlBIuEg
+419	Get Right Church	Mississippi Fred Mcdowell	Blues Founders, Vol. 2	INDIFFERENT	3:42	fc8_ZDwvmzI	MPREb_XaZGCVsFO9P	UCbNXWMxWD39iFkSGr1auS2g
 47	Fred's Worried Life Blues	Mississippi Fred McDowell	You Gotta Move	INDIFFERENT	2:43	80YPltOOs7E	MPREb_vq2tLvt5niC	UCbNXWMxWD39iFkSGr1auS2g
-275	Diamond Ring	Mississippi Fred McDowell	This Ain't No Rock n' Roll	INDIFFERENT	4:26	AAE8-d84pIM	MPREb_jvPB2mlbD6B	UCbNXWMxWD39iFkSGr1auS2g
-392	Unknown Blues	Mississippi Fred McDowell	You Ain't Gonna Worry My Life Anymore	INDIFFERENT	4:08	W748KU7HAM0	MPREb_Q69W0QrdJqj	UCbNXWMxWD39iFkSGr1auS2g
-447	Unknown Blues	Mississippi Fred McDowell	Very Rare Mississippi Fred - [The Dave Cash Collection]	INDIFFERENT	4:08	KIhOgN2gze8	MPREb_duZJhV6SOVe	UCbNXWMxWD39iFkSGr1auS2g
-284	All Your Affection Is Gone	Michael Burks	I Smell Smoke	INDIFFERENT	4:32	VjNRhS9rzGg	MPREb_wSlPAy7DMpX	UC2FkzAOrIYAxLkjpEc-rWmw
+274	Diamond Ring	Mississippi Fred McDowell	This Ain't No Rock n' Roll	INDIFFERENT	4:26	AAE8-d84pIM	MPREb_jvPB2mlbD6B	UCbNXWMxWD39iFkSGr1auS2g
+391	Unknown Blues	Mississippi Fred McDowell	You Ain't Gonna Worry My Life Anymore	INDIFFERENT	4:08	W748KU7HAM0	MPREb_Q69W0QrdJqj	UCbNXWMxWD39iFkSGr1auS2g
+446	Unknown Blues	Mississippi Fred McDowell	Very Rare Mississippi Fred - [The Dave Cash Collection]	INDIFFERENT	4:08	KIhOgN2gze8	MPREb_duZJhV6SOVe	UCbNXWMxWD39iFkSGr1auS2g
+283	All Your Affection Is Gone	Michael Burks	I Smell Smoke	INDIFFERENT	4:32	VjNRhS9rzGg	MPREb_wSlPAy7DMpX	UC2FkzAOrIYAxLkjpEc-rWmw
 26	Sassy Mae	Memphis Slim	I Am The Blues	INDIFFERENT	2:41	P5UMyPQ9MNE	MPREb_dVbEhxE6K1A	UCppI7uxgMiE-9gntBeF67oA
-313	Grinder Man Blues	Memphis Slim	The Bluebird Recordings 1940-1941	INDIFFERENT	3:06	eL_6h7EMoo0	MPREb_c5TO46YxD16	UCppI7uxgMiE-9gntBeF67oA
-476	Every Day I Have the Blues	Memphis Slim	The Folkways Years, 1959-1973	INDIFFERENT	2:26	Mj50kFb_JnA	MPREb_YxsToTwA82X	UCppI7uxgMiE-9gntBeF67oA
-360	When The Levee Breaks	Memphis Minnie & Kansas Joe	Queen Of The Blues	INDIFFERENT	3:08	WSlt8-fmvas	MPREb_oGdr0GiC67Q	UCUCyq9Bi46NYepBZg_TgPSw
-390	Pile Drivin' Blues	Memphis Minnie & Kansas Joe	Memphis Minnie & Kansas Joe Vol. 2 (1930 - 1931)	INDIFFERENT	2:47	pDMk5wplA6Y	MPREb_KgiKs2NTqSA	UCUCyq9Bi46NYepBZg_TgPSw
-416	Meat Cutter Blues	Memphis Minnie & Kansas Joe	Memphis Minnie & Kansas Joe Vol. 4 (1933 - 1934)	INDIFFERENT	2:56	_BJI75zJWHw	MPREb_UGUjBdu4MZA	UCUCyq9Bi46NYepBZg_TgPSw
-372	My Strange Man	Memphis Minnie	Hoodoo Lady (1933-1937)	INDIFFERENT	2:58	5SyV43rP-xA	MPREb_pEQOafQuBks	UC44t62PL7ni6XZKh_WvXGzg
-414	Hoodoo Lady Blues	Memphis Minnie	Original Blues Ladies	INDIFFERENT	3:04	JDB0-ru0Jnk	MPREb_CcLE8c4qb6g	UC44t62PL7ni6XZKh_WvXGzg
-422	Black Cat Blues (Take 1)	Memphis Minnie	Memphis Minnie Vol. 2 (1935-1936)	INDIFFERENT	2:57	AtwT8KMJQw0	MPREb_L0cwL1tS9Y2	UC44t62PL7ni6XZKh_WvXGzg
-427	My Strange Man	Memphis Minnie	Pickin' the Blues	INDIFFERENT	3:01	2KXz_N22Skg	MPREb_eq9U7BQrip8	UC44t62PL7ni6XZKh_WvXGzg
-433	When The Levee Breaks	Memphis Minnie	The Roots of Led Zeppelin	INDIFFERENT	3:12	h8R3Oy28BKM	MPREb_z6iANsa11jk	UC44t62PL7ni6XZKh_WvXGzg
-493	Ma Rainey	Memphis Minnie	Memphis Minnie Vol. 5 (1940-1941)	INDIFFERENT	2:46	APSCifra1eY	MPREb_E4QMUIpzoa2	UC44t62PL7ni6XZKh_WvXGzg
-307	This Used To Be Paradise	Marcia Ball	Roadside Attractions	INDIFFERENT	3:21	LJIJladq9-Y	MPREb_EFvP7Yn2CbY	UChJHNMwJePTlLgMV9TRLaZg
-265	Sugar Babe	Mance Lipscomb	The Best of Mance Lipscomb	INDIFFERENT	2:04	JRN8CsQBbZk	MPREb_HQlXw6NzkJ4	UCuJdJLlerBYdR0kODxvpnJA
-293	Part Time Love	Magic Slim and the Teardrops	Raising The Bar	INDIFFERENT	3:51	kRW8vSf4AC0	MPREb_wTKz3cbcl7p	UCgTSSpyLcwwclkymQsIv5BQ
+312	Grinder Man Blues	Memphis Slim	The Bluebird Recordings 1940-1941	INDIFFERENT	3:06	eL_6h7EMoo0	MPREb_c5TO46YxD16	UCppI7uxgMiE-9gntBeF67oA
+475	Every Day I Have the Blues	Memphis Slim	The Folkways Years, 1959-1973	INDIFFERENT	2:26	Mj50kFb_JnA	MPREb_YxsToTwA82X	UCppI7uxgMiE-9gntBeF67oA
+359	When The Levee Breaks	Memphis Minnie & Kansas Joe	Queen Of The Blues	INDIFFERENT	3:08	WSlt8-fmvas	MPREb_oGdr0GiC67Q	UCUCyq9Bi46NYepBZg_TgPSw
+389	Pile Drivin' Blues	Memphis Minnie & Kansas Joe	Memphis Minnie & Kansas Joe Vol. 2 (1930 - 1931)	INDIFFERENT	2:47	pDMk5wplA6Y	MPREb_KgiKs2NTqSA	UCUCyq9Bi46NYepBZg_TgPSw
+415	Meat Cutter Blues	Memphis Minnie & Kansas Joe	Memphis Minnie & Kansas Joe Vol. 4 (1933 - 1934)	INDIFFERENT	2:56	_BJI75zJWHw	MPREb_UGUjBdu4MZA	UCUCyq9Bi46NYepBZg_TgPSw
+371	My Strange Man	Memphis Minnie	Hoodoo Lady (1933-1937)	INDIFFERENT	2:58	5SyV43rP-xA	MPREb_pEQOafQuBks	UC44t62PL7ni6XZKh_WvXGzg
+413	Hoodoo Lady Blues	Memphis Minnie	Original Blues Ladies	INDIFFERENT	3:04	JDB0-ru0Jnk	MPREb_CcLE8c4qb6g	UC44t62PL7ni6XZKh_WvXGzg
+421	Black Cat Blues (Take 1)	Memphis Minnie	Memphis Minnie Vol. 2 (1935-1936)	INDIFFERENT	2:57	AtwT8KMJQw0	MPREb_L0cwL1tS9Y2	UC44t62PL7ni6XZKh_WvXGzg
+426	My Strange Man	Memphis Minnie	Pickin' the Blues	INDIFFERENT	3:01	2KXz_N22Skg	MPREb_eq9U7BQrip8	UC44t62PL7ni6XZKh_WvXGzg
+432	When The Levee Breaks	Memphis Minnie	The Roots of Led Zeppelin	INDIFFERENT	3:12	h8R3Oy28BKM	MPREb_z6iANsa11jk	UC44t62PL7ni6XZKh_WvXGzg
+492	Ma Rainey	Memphis Minnie	Memphis Minnie Vol. 5 (1940-1941)	INDIFFERENT	2:46	APSCifra1eY	MPREb_E4QMUIpzoa2	UC44t62PL7ni6XZKh_WvXGzg
+306	This Used To Be Paradise	Marcia Ball	Roadside Attractions	INDIFFERENT	3:21	LJIJladq9-Y	MPREb_EFvP7Yn2CbY	UChJHNMwJePTlLgMV9TRLaZg
+264	Sugar Babe	Mance Lipscomb	The Best of Mance Lipscomb	INDIFFERENT	2:04	JRN8CsQBbZk	MPREb_HQlXw6NzkJ4	UCuJdJLlerBYdR0kODxvpnJA
+292	Part Time Love	Magic Slim and the Teardrops	Raising The Bar	INDIFFERENT	3:51	kRW8vSf4AC0	MPREb_wTKz3cbcl7p	UCgTSSpyLcwwclkymQsIv5BQ
 141	I Need You So Bad (feat. Mighty Joe Young, Stockholm Slim, Earnest Johnson & Odie Payne Jr.)	Magic Sam	West Side Soul (Deluxe Edition)	INDIFFERENT	4:57	1MoKLnUtoN0	MPREb_4qvXUH6tWle	UCX5BFM4QzfwzVJoTHU9V05w
 142	Lookin' Good (feat. Mighty Joe Young, Stockholm Slim, Earnest Johnson & Odie Payne Jr.)	Magic Sam	West Side Soul (Deluxe Edition)	INDIFFERENT	3:18	6rRcjfB1YAs	MPREb_4qvXUH6tWle	UCX5BFM4QzfwzVJoTHU9V05w
-459	All Of Your Love (feat. Mighty Joe Young, Stockholm Slim, Earnest Johnson & Odie Payne Jr.)	Magic Sam	West Side Soul (Deluxe Edition)	INDIFFERENT	3:52	SvzPNBDt7Eo	MPREb_4qvXUH6tWle	UCX5BFM4QzfwzVJoTHU9V05w
-483	Easy Baby	Magic Sam	The Essential Magic Sam	INDIFFERENT	2:45	CaOZbz3zvpI	MPREb_RaE8xeLN7la	UCX5BFM4QzfwzVJoTHU9V05w
-467	Booze And Blues	Ma Rainey	Blues Masters Vol. 17 (Ma Rainey)	INDIFFERENT	3:21	Nl6_R1A3Ub0	MPREb_1DthWFvisp4	UCh7FBIm6XgqYUQNpgdl9X3g
-536	See See The Rider Blues	Ma Rainey	Ma Rainey	INDIFFERENT	3:17	LWgTszzSlN4	MPREb_63ZjPZfsa7B	UCh7FBIm6XgqYUQNpgdl9X3g
+458	All Of Your Love (feat. Mighty Joe Young, Stockholm Slim, Earnest Johnson & Odie Payne Jr.)	Magic Sam	West Side Soul (Deluxe Edition)	INDIFFERENT	3:52	SvzPNBDt7Eo	MPREb_4qvXUH6tWle	UCX5BFM4QzfwzVJoTHU9V05w
+482	Easy Baby	Magic Sam	The Essential Magic Sam	INDIFFERENT	2:45	CaOZbz3zvpI	MPREb_RaE8xeLN7la	UCX5BFM4QzfwzVJoTHU9V05w
+466	Booze And Blues	Ma Rainey	Blues Masters Vol. 17 (Ma Rainey)	INDIFFERENT	3:21	Nl6_R1A3Ub0	MPREb_1DthWFvisp4	UCh7FBIm6XgqYUQNpgdl9X3g
+524	See See The Rider Blues	Ma Rainey	Ma Rainey	INDIFFERENT	3:17	LWgTszzSlN4	MPREb_63ZjPZfsa7B	UCh7FBIm6XgqYUQNpgdl9X3g
 137	Raggedy And Dirty	Luther Allison	Bad News Is Coming	INDIFFERENT	3:41	AtJQ0ot2tU8	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
 138	Rock Me Baby	Luther Allison	Bad News Is Coming	INDIFFERENT	5:45	jdmGhsA7hk8	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
 139	Sweet Home Chicago	Luther Allison	Bad News Is Coming	INDIFFERENT	4:12	5TLmE98IxXk	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
 140	Soul Fixin' Man	Luther Allison	Live In Chicago	INDIFFERENT	4:02	YxlQvGoe6YE	MPREb_3fw6Nh4ctVi	UCdK6IgeTZydNBlr0HDCc2jg
-210	Little Red Rooster	Luther Allison	Bad News Is Coming	INDIFFERENT	4:12	HEJ842YIoC8	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
-299	My Baby Left Me	Lowell Fulson	My First Recordings	INDIFFERENT	2:46	m-g5kQkqTm8	MPREb_xAb998jeQ4y	UCNVlD2ZIv2i0OCzWGD6FdOQ
-533	Reconsider Baby	Lowell Fulson	Blues Greatest	INDIFFERENT	3:11	pvWrzNPl73g	MPREb_r3GmE2cQ27u	UCNVlD2ZIv2i0OCzWGD6FdOQ
-239	Let The Good Times Roll	Louis Jordan and his Tympany Five	Mama,Mama Blues	INDIFFERENT	2:48	_mUU3pE6u-8	MPREb_XPb2kl0jVE4	UCwVR9kyiKn0NImzcT9Eq2NQ
-251	Chicken Back	Louis Jordan	On Fire with Louis Jordan	INDIFFERENT	2:27	QKSGHbKoSl4	MPREb_NTFySwl7xsH	UCwVR9kyiKn0NImzcT9Eq2NQ
-494	St. Louis Blues	Louis Armstrong And His Orchestra	Jazz - The Essential Collection Vol. 6	INDIFFERENT	3:02	26pF00O9ut4	MPREb_BKyMKR7h23w	UCCDaSui4C9VFMpeRlKEOHDA
-279	Lowdown Shame	Little Willie Littlefield	Yellow Boogie & Blues	INDIFFERENT	3:27	WJpijgnFRsk	MPREb_dwA2wwyQzxJ	UCn1HQKnXm-XxV-dlvi4aZiQ
+209	Little Red Rooster	Luther Allison	Bad News Is Coming	INDIFFERENT	4:12	HEJ842YIoC8	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
+298	My Baby Left Me	Lowell Fulson	My First Recordings	INDIFFERENT	2:46	m-g5kQkqTm8	MPREb_xAb998jeQ4y	UCNVlD2ZIv2i0OCzWGD6FdOQ
+521	Reconsider Baby	Lowell Fulson	Blues Greatest	INDIFFERENT	3:11	pvWrzNPl73g	MPREb_r3GmE2cQ27u	UCNVlD2ZIv2i0OCzWGD6FdOQ
+238	Let The Good Times Roll	Louis Jordan and his Tympany Five	Mama,Mama Blues	INDIFFERENT	2:48	_mUU3pE6u-8	MPREb_XPb2kl0jVE4	UCwVR9kyiKn0NImzcT9Eq2NQ
+250	Chicken Back	Louis Jordan	On Fire with Louis Jordan	INDIFFERENT	2:27	QKSGHbKoSl4	MPREb_NTFySwl7xsH	UCwVR9kyiKn0NImzcT9Eq2NQ
+493	St. Louis Blues	Louis Armstrong And His Orchestra	Jazz - The Essential Collection Vol. 6	INDIFFERENT	3:02	26pF00O9ut4	MPREb_BKyMKR7h23w	UCCDaSui4C9VFMpeRlKEOHDA
+278	Lowdown Shame	Little Willie Littlefield	Yellow Boogie & Blues	INDIFFERENT	3:27	WJpijgnFRsk	MPREb_dwA2wwyQzxJ	UCn1HQKnXm-XxV-dlvi4aZiQ
 13	Key to the Highway	Little Walter	Long Way from Home Blues	INDIFFERENT	2:47	kU7OV4kkltc	MPREb_Uz3eKXzC2KJ	UCbqLmbib9h4U6y6ND1ZPSaw
 100	Last Night	Little Walter	Music From The Motion Picture Cadillac Records	INDIFFERENT	2:53	Pym1xXBUOqw	MPREb_ZXATmOPqtJ3	UCbqLmbib9h4U6y6ND1ZPSaw
 136	Off the Wall	Little Walter	Blues On 78	INDIFFERENT	2:47	qRwapZCr_Sw	MPREb_Kzcd0KMby0x	UCbqLmbib9h4U6y6ND1ZPSaw
@@ -232,63 +221,63 @@
 166	Tell Me Mama	Little Walter	Boogie Grooves, Vol. 2	INDIFFERENT	2:47	rtmCrTRJUjA	MPREb_dRI9rEu3sSt	UCbqLmbib9h4U6y6ND1ZPSaw
 171	Can't Hold out Much Longer	Little Walter	We Got the Blues, Vol. 4	INDIFFERENT	3:01	PjuklNf-kFo	MPREb_TBpqD22nduJ	UCbqLmbib9h4U6y6ND1ZPSaw
 178	Roller Coaster	Little Walter	Just the Blues	INDIFFERENT	2:56	HZO6xy3XQfY	MPREb_yorzGg6DoK8	UCbqLmbib9h4U6y6ND1ZPSaw
-464	My Babe	Little Walter	Chess Blues	INDIFFERENT	2:44	b0WWXUBCPzo	MPREb_DTDU34BnKoQ	UCbqLmbib9h4U6y6ND1ZPSaw
-531	My Babe	Little Walter	Essential Chicago Blues - 50 Classic Tracks	INDIFFERENT	2:39	1imHh24FGLU	MPREb_FVugsl2sM95	UCbqLmbib9h4U6y6ND1ZPSaw
-226	Get Rich Quick (Remastered 2002)	Little Richard	That's All Right (When the Sun Goes Down series)	INDIFFERENT	2:16	eBFkpfkLui0	MPREb_nRhUBzjtkQm	UCbRn2LWnKTgXbX8HUGNQHKA
-259	Walking The Backstreets And Crying	Little Milton	The Very Best Of Little Milton	INDIFFERENT	5:05	M9_N4wcKtKU	MPREb_6pG1yDyv2kj	UC40gDvJay7RAYNRU8enSF5Q
-276	I'm Jealous Of Her Husband	Little Milton	Reality	INDIFFERENT	4:30	eJA29OJVBLs	MPREb_BlhVEd4B3KK	UC40gDvJay7RAYNRU8enSF5Q
-285	As Long As I Don't See You	Little Johnny Taylor	As Long as I Don't See You / Strange Bed with a Bad Head	INDIFFERENT	3:38	es7w97_OB1Y	MPREb_o9YBg6w6OQL	UC2YzB7IaHVx5sKEbMgxDTlw
-534	Rock Me	Lil’ Son Jackson	Blues Come to Texas	INDIFFERENT	2:33	cRhk3U9JDRg	MPREb_g06ufNXDmij	UC8WQsrggT5tqzBPIVXEyNgg
-309	Love Don't Live Here Anymore	Lil Ed & The Blues Imperials	Full Tilt	INDIFFERENT	3:55	4lKhaKRcNUY	MPREb_mw7yyJShNyC	UCmQ2tsX4rEPNn05bYcYei5Q
+463	My Babe	Little Walter	Chess Blues	INDIFFERENT	2:44	b0WWXUBCPzo	MPREb_DTDU34BnKoQ	UCbqLmbib9h4U6y6ND1ZPSaw
+519	My Babe	Little Walter	Essential Chicago Blues - 50 Classic Tracks	INDIFFERENT	2:39	1imHh24FGLU	MPREb_FVugsl2sM95	UCbqLmbib9h4U6y6ND1ZPSaw
+225	Get Rich Quick (Remastered 2002)	Little Richard	That's All Right (When the Sun Goes Down series)	INDIFFERENT	2:16	eBFkpfkLui0	MPREb_nRhUBzjtkQm	UCbRn2LWnKTgXbX8HUGNQHKA
+258	Walking The Backstreets And Crying	Little Milton	The Very Best Of Little Milton	INDIFFERENT	5:05	M9_N4wcKtKU	MPREb_6pG1yDyv2kj	UC40gDvJay7RAYNRU8enSF5Q
+275	I'm Jealous Of Her Husband	Little Milton	Reality	INDIFFERENT	4:30	eJA29OJVBLs	MPREb_BlhVEd4B3KK	UC40gDvJay7RAYNRU8enSF5Q
+284	As Long As I Don't See You	Little Johnny Taylor	As Long as I Don't See You / Strange Bed with a Bad Head	INDIFFERENT	3:38	es7w97_OB1Y	MPREb_o9YBg6w6OQL	UC2YzB7IaHVx5sKEbMgxDTlw
+522	Rock Me	Lil’ Son Jackson	Blues Come to Texas	INDIFFERENT	2:33	cRhk3U9JDRg	MPREb_g06ufNXDmij	UC8WQsrggT5tqzBPIVXEyNgg
+308	Love Don't Live Here Anymore	Lil Ed & The Blues Imperials	Full Tilt	INDIFFERENT	3:55	4lKhaKRcNUY	MPREb_mw7yyJShNyC	UCmQ2tsX4rEPNn05bYcYei5Q
 10	Mojo Hand	Lightnin’ Hopkins	Blues Legends	INDIFFERENT	3:02	hyK_4uUci3I	MPREb_uRdvkfpBXKY	UCC6-6kd-2eJJCtkHh5dCkiw
 19	Lonesome Dog	Lightnin’ Hopkins	The Best Of The Blues Vol. 1	INDIFFERENT	2:41	xLW7OJXSlkU	MPREb_cBT6ze7b3Qq	UCC6-6kd-2eJJCtkHh5dCkiw
-216	Big Mama Jump	Lightning Hopkins	Lightnings Boogie	INDIFFERENT	2:41	V0hxcON5_08	MPREb_A7uPfBdVeXB	UCC6-6kd-2eJJCtkHh5dCkiw
-233	Feel So Bad	Lightning Hopkins	Feel So Bad	INDIFFERENT	2:09	TX6HpnL0fJ4	MPREb_l8xI4tiI7NT	UCC6-6kd-2eJJCtkHh5dCkiw
-455	Trouble in Mind	Lightning Hopkins	Lightnin'!	INDIFFERENT	3:14	wBbWYHMl6ew	MPREb_Gf0srA5ZvH6	UCC6-6kd-2eJJCtkHh5dCkiw
+215	Big Mama Jump	Lightning Hopkins	Lightnings Boogie	INDIFFERENT	2:41	V0hxcON5_08	MPREb_A7uPfBdVeXB	UCC6-6kd-2eJJCtkHh5dCkiw
+232	Feel So Bad	Lightning Hopkins	Feel So Bad	INDIFFERENT	2:09	TX6HpnL0fJ4	MPREb_l8xI4tiI7NT	UCC6-6kd-2eJJCtkHh5dCkiw
+454	Trouble in Mind	Lightning Hopkins	Lightnin'!	INDIFFERENT	3:14	wBbWYHMl6ew	MPREb_Gf0srA5ZvH6	UCC6-6kd-2eJJCtkHh5dCkiw
 52	Shine On Moon	Lightnin' Hopkins	Music & The Moon Vol. 2	INDIFFERENT	4:28	EH3wBUf5UVE	MPREb_nqyftt4KHRK	UCC6-6kd-2eJJCtkHh5dCkiw
 64	Feel So Bad	Lightnin' Hopkins	Complete Aladdin Recordings	INDIFFERENT	2:10	wvGmAKOHLHY	MPREb_o0p1c1ZB87T	UCC6-6kd-2eJJCtkHh5dCkiw
 185	Katie May	Lightnin' Hopkins	Unplugged - Through the Years	INDIFFERENT	3:00	33yum8J0Pbs	MPREb_DWLcs0Foi0A	UCC6-6kd-2eJJCtkHh5dCkiw
 198	T-Model Blues	Lightnin' Hopkins	The Gold Star Sessions, Vol. 2	INDIFFERENT	2:38	upPrMwF3HxY	MPREb_Cve2sQmEkl1	UCC6-6kd-2eJJCtkHh5dCkiw
-249	Mojo Hand	Lightnin' Hopkins	The Greatest Blues Recordings Ever Made Vol. 1	INDIFFERENT	2:58	lXx_9mir89k	MPREb_2PoDKO8ZSAU	UCC6-6kd-2eJJCtkHh5dCkiw
-301	Coffee for Mama	Lightnin' Hopkins	Blues Masters: Lightnin' Hopkins	INDIFFERENT	3:27	-6Veo7FBgy0	MPREb_K86iqGxIxkz	UCC6-6kd-2eJJCtkHh5dCkiw
+248	Mojo Hand	Lightnin' Hopkins	The Greatest Blues Recordings Ever Made Vol. 1	INDIFFERENT	2:58	lXx_9mir89k	MPREb_2PoDKO8ZSAU	UCC6-6kd-2eJJCtkHh5dCkiw
+300	Coffee for Mama	Lightnin' Hopkins	Blues Masters: Lightnin' Hopkins	INDIFFERENT	3:27	-6Veo7FBgy0	MPREb_K86iqGxIxkz	UCC6-6kd-2eJJCtkHh5dCkiw
 190	Down Baby	Lightnin Hopkins	Great Hits, Vol. 1	INDIFFERENT	2:17	d4tgQr6IOyI	MPREb_FVUiKxkBxgx	UCC6-6kd-2eJJCtkHh5dCkiw
-522	How Long, How Long Blues	Leroy Carr	Whiskey Is My Habit, Good Women Is All I Crave: The Best Of Leroy Carr	INDIFFERENT	3:04	r_e-m2S5-Vw	MPREb_qKYbz60QcSL	UCoe2gx9gvogDAjUSvhSx5Bg
+513	How Long, How Long Blues	Leroy Carr	Whiskey Is My Habit, Good Women Is All I Crave: The Best Of Leroy Carr	INDIFFERENT	3:04	r_e-m2S5-Vw	MPREb_qKYbz60QcSL	UCoe2gx9gvogDAjUSvhSx5Bg
 112	Trampled Under Foot (Remaster)	Led Zeppelin	Physical Graffiti (Deluxe Edition)	INDIFFERENT	5:37	8JOwT8uRLHg	MPREb_8ODyFUfrd9a	UCYtap7ujIPaxTS2iCDoMi3g
 43	Take This Hammer	Leadbelly	All Time Greatest Masters	INDIFFERENT	2:56	roSng-FLIoE	MPREb_NYaj1KdKKyk	UC7jiqF1wzNVeZhZmJ4EKprA
 56	Death Letter Blues Part 1	Leadbelly	All Time Greatest Masters	INDIFFERENT	3:01	U1c7-gFhlQE	MPREb_NYaj1KdKKyk	UC7jiqF1wzNVeZhZmJ4EKprA
 68	Bourgeois Blues	Leadbelly	Occupy! Takin’ It To The Streets - Songs For The People	INDIFFERENT	3:24	6T4mbf52q-M	MPREb_kbISCSYZ2X5	UC7jiqF1wzNVeZhZmJ4EKprA
 197	Four Day Worry Blues	Leadbelly	Blues Finest - Huckle Up Baby	INDIFFERENT	3:10	KA60EyMvXv0	MPREb_ZhhZkWUr9bZ	UC7jiqF1wzNVeZhZmJ4EKprA
-314	Five Long Years	Lazy Lester	Harp & Soul	INDIFFERENT	3:52	litCGU52XKA	MPREb_oHfQA0q2U9j	UCC_F-1mIwA1iF06w93-1VxQ
+313	Five Long Years	Lazy Lester	Harp & Soul	INDIFFERENT	3:52	litCGU52XKA	MPREb_oHfQA0q2U9j	UCC_F-1mIwA1iF06w93-1VxQ
 77	Wang Dang Doodle (Single Version)	Koko Taylor	Koko Taylor	INDIFFERENT	3:02	X4xum7FVPh8	MPREb_2gOJDo12hQv	UCSpFymFQX2WBX2gNH0LQIDg
 116	True Lies	Kenny Wayne Shepherd Band	Trouble Is...	INDIFFERENT	5:49	6U50CSjPdTI	MPREb_9iHttet9g1M	UCGsOZPwTwFDKOs3O63Rp4Rg
-283	Never Let Me Go	Katie Webster	Two-Fisted Mama!	INDIFFERENT	5:10	E4QLHng9Bxc	MPREb_Yf7SLuQTFlN	UCiVwbjvfzMQcfsVo40Q2DSw
-398	Meat Cutter Blues	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	2:53	ADRUVgR9nHk	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
-432	Well, Well	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	2:59	Bh7O7WxBSOo	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
-437	One in a Hundred	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	3:24	-IzUk0k3QgQ	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
-441	Pile Drivin' Blues	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	2:45	JDgrtYuT9VQ	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
+282	Never Let Me Go	Katie Webster	Two-Fisted Mama!	INDIFFERENT	5:10	E4QLHng9Bxc	MPREb_Yf7SLuQTFlN	UCiVwbjvfzMQcfsVo40Q2DSw
+397	Meat Cutter Blues	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	2:53	ADRUVgR9nHk	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
+431	Well, Well	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	2:59	Bh7O7WxBSOo	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
+436	One in a Hundred	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	3:24	-IzUk0k3QgQ	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
+440	Pile Drivin' Blues	Kansas Joe McCoy & Memphis Minnie	When the Levee Breaks - Greatest Blues Masters	INDIFFERENT	2:45	JDgrtYuT9VQ	MPREb_D5z5EexJfvc	UCtsUtvTGZRdoL87sDQDifVg
 164	Messin' With The Kid	Junior Wells	Junior Wells 1957-1963	INDIFFERENT	2:19	rLz82AfE-R0	MPREb_yLwmUdwCCl3	UCQrhthLJSPwrIkjm5N-UPAQ
-345	Good Morning Schoolgirl (feat. Buddy Guy)	Junior Wells	Hoodoo Man Blues	INDIFFERENT	3:56	xrGIB1eBL9Y	MPREb_8ko6gTLXHU5	UCQrhthLJSPwrIkjm5N-UPAQ
-468	Little by Little	Junior Wells	Blues Legend	INDIFFERENT	2:34	KITMgAWEiO8	MPREb_cKyWGdnSLDI	UCQrhthLJSPwrIkjm5N-UPAQ
-486	Messin' With The Kid	Junior Wells	Chicago/The Blues/Today!	INDIFFERENT	2:26	bHu5O6P97t0	MPREb_EbQB5vtjg5Q	UCQrhthLJSPwrIkjm5N-UPAQ
-209	Lord, Have Mercy on Me	Junior Kimbrough	Sad Days, Lonely Nights	INDIFFERENT	9:55	WBR7qE-Cewc	MPREb_XgFxXuHXid6	UCMR1vd-SvlnAm-ZDeBYnomg
-99	Shotgun	Jr. Walker & The All Stars	Shotgun	INDIFFERENT	2:56	V5pnqjZXbdc	MPREb_lUCaCVSGuIk	UCVu7jMnzEpxZ818J55YucKg
-336	Stealin'	Johnny Young	Chicago Blues	INDIFFERENT	2:45	-fOLPlSVKxE	MPREb_1slUEykvh0v	UCuofOl_V9ycBEQ_l9F6EsHw
+344	Good Morning Schoolgirl (feat. Buddy Guy)	Junior Wells	Hoodoo Man Blues	INDIFFERENT	3:56	xrGIB1eBL9Y	MPREb_8ko6gTLXHU5	UCQrhthLJSPwrIkjm5N-UPAQ
+467	Little by Little	Junior Wells	Blues Legend	INDIFFERENT	2:34	KITMgAWEiO8	MPREb_cKyWGdnSLDI	UCQrhthLJSPwrIkjm5N-UPAQ
+485	Messin' With The Kid	Junior Wells	Chicago/The Blues/Today!	INDIFFERENT	2:26	bHu5O6P97t0	MPREb_EbQB5vtjg5Q	UCQrhthLJSPwrIkjm5N-UPAQ
+208	Lord, Have Mercy on Me	Junior Kimbrough	Sad Days, Lonely Nights	INDIFFERENT	9:55	WBR7qE-Cewc	MPREb_XgFxXuHXid6	UCMR1vd-SvlnAm-ZDeBYnomg
+99	Shotgun	Jr. Walker & The All Stars	Tamla Motown UK Invasion	INDIFFERENT	3:00	-OB2noBie7w	MPREb_HklNk2iiwhG	UCVu7jMnzEpxZ818J55YucKg
+335	Stealin'	Johnny Young	Chicago Blues	INDIFFERENT	2:45	-fOLPlSVKxE	MPREb_1slUEykvh0v	UCuofOl_V9ycBEQ_l9F6EsHw
 135	Mother-in-Law Blues	Johnny Winter	The Best Of Johnny Winter	INDIFFERENT	2:54	2xhXkcUmVd4	MPREb_1RSmzR0Ol9y	UCdGP0Bisu7WfRtZdfuCqQdQ
-321	Ride, Ride Mama	Johnny Shines	Joliet Blues	INDIFFERENT	2:55	n1cQABA7oMo	MPREb_M4X6Wje0zc3	UC-J8BXVNdvbcmqEUwt4-OUA
-350	Joliet Blues	Johnny Shines	Joliet Blues	INDIFFERENT	2:40	sf9kbI5vJ7w	MPREb_M4X6Wje0zc3	UC-J8BXVNdvbcmqEUwt4-OUA
+320	Ride, Ride Mama	Johnny Shines	Joliet Blues	INDIFFERENT	2:55	n1cQABA7oMo	MPREb_M4X6Wje0zc3	UC-J8BXVNdvbcmqEUwt4-OUA
+349	Joliet Blues	Johnny Shines	Joliet Blues	INDIFFERENT	2:40	sf9kbI5vJ7w	MPREb_M4X6Wje0zc3	UC-J8BXVNdvbcmqEUwt4-OUA
 134	The Dream	Johnny Copeland	Showdown!	INDIFFERENT	5:32	SgPaf2ZvkWM	MPREb_VqyN8o0IWLj	UC64MG4RV5ugwsQnFcdpOpug
-236	Mama Told Me	Johnny Copeland	Working Man's Blues	INDIFFERENT	2:26	URZmDKt_bI0	MPREb_ui98lXlAWX9	UC64MG4RV5ugwsQnFcdpOpug
-242	Down On Bending Knees	Johnny Copeland	Working Man's Blues	INDIFFERENT	2:26	QRXzxDhhkfE	MPREb_ui98lXlAWX9	UC64MG4RV5ugwsQnFcdpOpug
-365	So Lonely And Blue	Johnnie Temple	Johnnie Temple Vol. 1 1935-1938	INDIFFERENT	2:31	SFMjVzSC7gY	MPREb_xbBZ8vgPJg4	UCRqG6AymPX1AOZ5uuwkyaXg
-369	The Evil Devil Blues	Johnnie Temple	Johnnie Temple Vol. 1 1935-1938	INDIFFERENT	3:08	xp5Q477tWNM	MPREb_xbBZ8vgPJg4	UCRqG6AymPX1AOZ5uuwkyaXg
-375	Mississippi Woman's Blues (Walkin' Blues)	Johnnie Temple	Lead Pencil Blues	INDIFFERENT	2:58	yPK2PlvnRdw	MPREb_tJWXPoGRuV5	UCRqG6AymPX1AOZ5uuwkyaXg
+235	Mama Told Me	Johnny Copeland	Working Man's Blues	INDIFFERENT	2:26	URZmDKt_bI0	MPREb_ui98lXlAWX9	UC64MG4RV5ugwsQnFcdpOpug
+241	Down On Bending Knees	Johnny Copeland	Working Man's Blues	INDIFFERENT	2:26	QRXzxDhhkfE	MPREb_ui98lXlAWX9	UC64MG4RV5ugwsQnFcdpOpug
+364	So Lonely And Blue	Johnnie Temple	Johnnie Temple Vol. 1 1935-1938	INDIFFERENT	2:31	SFMjVzSC7gY	MPREb_xbBZ8vgPJg4	UCRqG6AymPX1AOZ5uuwkyaXg
+368	The Evil Devil Blues	Johnnie Temple	Johnnie Temple Vol. 1 1935-1938	INDIFFERENT	3:08	xp5Q477tWNM	MPREb_xbBZ8vgPJg4	UCRqG6AymPX1AOZ5uuwkyaXg
+374	Mississippi Woman's Blues (Walkin' Blues)	Johnnie Temple	Lead Pencil Blues	INDIFFERENT	2:58	yPK2PlvnRdw	MPREb_tJWXPoGRuV5	UCRqG6AymPX1AOZ5uuwkyaXg
 105	Double Crossin' Time	John Mayall & The Bluesbreakers	Blues Breakers	INDIFFERENT	3:05	e297cw0Y80E	MPREb_G6KAJ3OySts	UCY3JEKjfeb-hJ-8yzXa-3iw
 118	Little Girl	John Mayall & The Bluesbreakers	Blues Breakers	INDIFFERENT	2:38	_14YiJYUTl8	MPREb_G6KAJ3OySts	UCY3JEKjfeb-hJ-8yzXa-3iw
 132	Another Man	John Mayall & The Bluesbreakers	Blues Breakers	INDIFFERENT	1:46	Kmza3hmt15U	MPREb_G6KAJ3OySts	UCY3JEKjfeb-hJ-8yzXa-3iw
 133	Greeny	John Mayall & The Bluesbreakers	Crusade	INDIFFERENT	3:54	GrtlPI1UehE	MPREb_BsSNps15UBi	UCY3JEKjfeb-hJ-8yzXa-3iw
-262	All Your Love (Mono)	John Mayall & The Bluesbreakers	Bluesbreakers	INDIFFERENT	3:36	KmT6m98FSnY	MPREb_xEh6mVMT9n6	UCY3JEKjfeb-hJ-8yzXa-3iw
-381	Sugar Mama Blues (Remastered - 1996)	John Lee Williamson	The Bluebird Recordings 1937-1938	INDIFFERENT	2:59	5syTmBusAXw	MPREb_xwUPcVKud6J	UC5318QLh85UplzPmlC_BXRw
-294	Suspicious	John Lee Hooker Jr.	Blues With A Vengeance	INDIFFERENT	5:43	JTiLjo382K0	MPREb_7asW2F5rI3v	UCmwacn26NgcIrjzdr53r05A
+261	All Your Love (Mono)	John Mayall & The Bluesbreakers	Bluesbreakers	INDIFFERENT	3:36	KmT6m98FSnY	MPREb_xEh6mVMT9n6	UCY3JEKjfeb-hJ-8yzXa-3iw
+380	Sugar Mama Blues (Remastered - 1996)	John Lee Williamson	The Bluebird Recordings 1937-1938	INDIFFERENT	2:59	5syTmBusAXw	MPREb_xwUPcVKud6J	UC5318QLh85UplzPmlC_BXRw
+293	Suspicious	John Lee Hooker Jr.	Blues With A Vengeance	INDIFFERENT	5:43	JTiLjo382K0	MPREb_7asW2F5rI3v	UCmwacn26NgcIrjzdr53r05A
 1	Huckle Up Baby	John Lee Hooker	Huckle Up Baby	INDIFFERENT	2:48	so8PplCs_4M	MPREb_6OX986KDtaH	UCcWk0Z6iOwjUeycdoh7mIMQ
 3	One Bourbon, One Scotch, One Beer	John Lee Hooker	The Real Folk Blues	INDIFFERENT	3:04	diXGcCGzb9c	MPREb_PKuVg9gLwH9	UCcWk0Z6iOwjUeycdoh7mIMQ
 50	Wobblin' Baby	John Lee Hooker	The Country Blues Of John Lee Hooker	INDIFFERENT	2:51	xZ_PkjOVuTg	MPREb_loMj7uCnlPK	UCcWk0Z6iOwjUeycdoh7mIMQ
@@ -296,19 +285,19 @@
 158	Sugar Mama	John Lee Hooker	The Very Best of John Lee Hooker: Love Blues (Anthologie, vol. 2)	INDIFFERENT	3:15	P_p7G3NinP8	MPREb_USiUpuyyl64	UCcWk0Z6iOwjUeycdoh7mIMQ
 173	Whiskey And Wimmen	John Lee Hooker	Is He The World's Greatest Blues Singer?	INDIFFERENT	2:57	ETV43779Cho	MPREb_Y9XdidEHrIL	UCcWk0Z6iOwjUeycdoh7mIMQ
 176	I'm in the Mood	John Lee Hooker	The Blues	INDIFFERENT	2:46	gX88cgZK7tA	MPREb_G3RgPuvxEsT	UCcWk0Z6iOwjUeycdoh7mIMQ
-237	Dimples	John Lee Hooker	Electric	INDIFFERENT	2:12	2OpLjZrX2p4	MPREb_QByqcIbIhTG	UCcWk0Z6iOwjUeycdoh7mIMQ
-278	Woman On My Mind	John Lee Hooker	Chill Out	INDIFFERENT	5:29	E4CQdKzLnwc	MPREb_hds85RU5WTr	UCcWk0Z6iOwjUeycdoh7mIMQ
-462	Boogie Chillen	John Lee Hooker	The Legendary Modern Recordings	INDIFFERENT	3:12	tusF57ZtyXc	MPREb_bRiYz3CjnYX	UCcWk0Z6iOwjUeycdoh7mIMQ
-244	Shake, Rattle & Roll	Joe Turner	The Best of The Blues	INDIFFERENT	2:57	lLmWzTSu5XY	MPREb_uwRwmWzv23B	UCRneEQ55dXpMn1hoEcigCEA
-394	Well, Well	Joe McCoy	The McCoy Brothers (Charlie & Joe McCoy) Vol. 1 (1934-1936)	INDIFFERENT	3:02	Saa7DoOiW3I	MPREb_SNzNaFRp9zl	UCZRG8CO5RLkzJNu17UVxLEw
-397	One In A Hundred	Joe McCoy	The McCoy Brothers (Charlie & Joe McCoy) Vol. 1 (1934-1936)	INDIFFERENT	3:27	5mdsLvNaKuw	MPREb_SNzNaFRp9zl	UCZRG8CO5RLkzJNu17UVxLEw
+236	Dimples	John Lee Hooker	Electric	INDIFFERENT	2:12	2OpLjZrX2p4	MPREb_QByqcIbIhTG	UCcWk0Z6iOwjUeycdoh7mIMQ
+277	Woman On My Mind	John Lee Hooker	Chill Out	INDIFFERENT	5:29	E4CQdKzLnwc	MPREb_hds85RU5WTr	UCcWk0Z6iOwjUeycdoh7mIMQ
+461	Boogie Chillen	John Lee Hooker	The Legendary Modern Recordings	INDIFFERENT	3:12	tusF57ZtyXc	MPREb_bRiYz3CjnYX	UCcWk0Z6iOwjUeycdoh7mIMQ
+243	Shake, Rattle & Roll	Joe Turner	The Best of The Blues	INDIFFERENT	2:57	lLmWzTSu5XY	MPREb_uwRwmWzv23B	UCRneEQ55dXpMn1hoEcigCEA
+393	Well, Well	Joe McCoy	The McCoy Brothers (Charlie & Joe McCoy) Vol. 1 (1934-1936)	INDIFFERENT	3:02	Saa7DoOiW3I	MPREb_SNzNaFRp9zl	UCZRG8CO5RLkzJNu17UVxLEw
+396	One In A Hundred	Joe McCoy	The McCoy Brothers (Charlie & Joe McCoy) Vol. 1 (1934-1936)	INDIFFERENT	3:27	5mdsLvNaKuw	MPREb_SNzNaFRp9zl	UCZRG8CO5RLkzJNu17UVxLEw
 111	Walk In My Shadow	Joe Bonamassa	A New Day Yesterday	INDIFFERENT	3:28	dfsObfJWbso	MPREb_mUNbbf9gktM	UCMmOiXQLPGwWUXHuLsO5Wcg
-269	Heartbreaker (feat. Glenn Hughes)	Joe Bonamassa	Dust Bowl	INDIFFERENT	5:50	b9ntMYMP3EA	MPREb_eLDalIzj8eP	UCMmOiXQLPGwWUXHuLsO5Wcg
-270	I'll Go On Living	Jimmy Witherspoon	Baby, Baby, Baby	INDIFFERENT	3:44	kTRuOZCDPiE	MPREb_xJfh7yTYcM7	UC_-iuqE0190_DBeEoVcFNag
-501	Aint Nobody's Business	Jimmy Witherspoon	Jimmy Witherspoon	INDIFFERENT	3:11	yrEP2VLiJ4U	MPREb_Q7pndYGdvnS	UC_-iuqE0190_DBeEoVcFNag
-338	Sloppy Drunk (Single Version)	Jimmy Rogers	Chicago Bound	INDIFFERENT	3:03	eDnBrBU3Bf8	MPREb_XrbQWqhSMSl	UCuWKHkYHIIMuF0WyXbBiwjQ
-353	Sloppy Drunk	Jimmy Rogers	Chicago Blues Masters (Volume Two)	INDIFFERENT	3:36	pIGOcGaJzSE	MPREb_TEk2q1JcB3F	UCuWKHkYHIIMuF0WyXbBiwjQ
-356	Act Like You Love Me	Jimmy Rogers	Chicago Blues Masters (Volume Two)	INDIFFERENT	2:28	o7HReNgpgVc	MPREb_TEk2q1JcB3F	UCuWKHkYHIIMuF0WyXbBiwjQ
+268	Heartbreaker (feat. Glenn Hughes)	Joe Bonamassa	Dust Bowl	INDIFFERENT	5:50	b9ntMYMP3EA	MPREb_eLDalIzj8eP	UCMmOiXQLPGwWUXHuLsO5Wcg
+269	I'll Go On Living	Jimmy Witherspoon	Baby, Baby, Baby	INDIFFERENT	3:44	kTRuOZCDPiE	MPREb_xJfh7yTYcM7	UC_-iuqE0190_DBeEoVcFNag
+500	Aint Nobody's Business	Jimmy Witherspoon	Jimmy Witherspoon	INDIFFERENT	3:11	yrEP2VLiJ4U	MPREb_Q7pndYGdvnS	UC_-iuqE0190_DBeEoVcFNag
+337	Sloppy Drunk (Single Version)	Jimmy Rogers	Chicago Bound	INDIFFERENT	3:03	eDnBrBU3Bf8	MPREb_XrbQWqhSMSl	UCuWKHkYHIIMuF0WyXbBiwjQ
+352	Sloppy Drunk	Jimmy Rogers	Chicago Blues Masters (Volume Two)	INDIFFERENT	3:36	pIGOcGaJzSE	MPREb_TEk2q1JcB3F	UCuWKHkYHIIMuF0WyXbBiwjQ
+355	Act Like You Love Me	Jimmy Rogers	Chicago Blues Masters (Volume Two)	INDIFFERENT	2:28	o7HReNgpgVc	MPREb_TEk2q1JcB3F	UCuWKHkYHIIMuF0WyXbBiwjQ
 2	Take Out Some Insurance	Jimmy Reed	Rockin' With Reed	INDIFFERENT	2:23	es4WE0zH-No	MPREb_yQ16hgmmGg3	UCkJUdhq3rW7AElwDQ_omC3g
 9	You Got Me Dizzy	Jimmy Reed	The Best of Jimmy Reed	INDIFFERENT	2:50	Dz2qyu06wis	MPREb_w0XnAkdMILh	UCkJUdhq3rW7AElwDQ_omC3g
 29	Baby, What You Want Me to Do ?	Jimmy Reed	The Blues	INDIFFERENT	2:20	J0IC7JdLQ4k	MPREb_G3RgPuvxEsT	UCkJUdhq3rW7AElwDQ_omC3g
@@ -316,76 +305,76 @@
 130	Hush, Hush	Jimmy Reed	Legacy	INDIFFERENT	2:36	0iBjJM5wHAk	MPREb_vRl8PTflYz5	UCkJUdhq3rW7AElwDQ_omC3g
 174	Big Boss Man	Jimmy Reed	Better Blues Days, Vol. 3	INDIFFERENT	2:53	Gi8RG243peY	MPREb_9qWJFE5kr4k	UCkJUdhq3rW7AElwDQ_omC3g
 179	Found Love	Jimmy Reed	My Love Blues: Great Soul and Blues Songs Collection (Original Versions)	INDIFFERENT	2:23	smt92aWNCug	MPREb_cCpiJOW2dF5	UCkJUdhq3rW7AElwDQ_omC3g
-266	Take out Some Insurance	Jimmy Reed	Big Boss Man	INDIFFERENT	2:17	7kJDOcy3Hnk	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
-297	Ain't That Loving You Baby	Jimmy Reed	Big Boss Man	INDIFFERENT	2:11	Jv14PrNY5u4	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
-453	Big Boss Man	Jimmy Reed	Found Love	INDIFFERENT	2:50	GOGlEZEVfcM	MPREb_dc8fDZKn4Zf	UCkJUdhq3rW7AElwDQ_omC3g
-472	Bright Lights, Big City	Jimmy Reed	Big Boss Man	INDIFFERENT	2:38	dH-s0cMngrA	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
-482	Baby What You Want Me to Do	Jimmy Reed	Found Love	INDIFFERENT	2:21	_vDLwUzHMOg	MPREb_h7MNbajW82G	UCkJUdhq3rW7AElwDQ_omC3g
-502	Baby What You Want Me to Do	Jimmy Reed	Jimmy Reed, Greatest Hits	INDIFFERENT	2:22	8SdAt0liE28	MPREb_h7j4VfNr2LK	UCkJUdhq3rW7AElwDQ_omC3g
+265	Take out Some Insurance	Jimmy Reed	Big Boss Man	INDIFFERENT	2:17	7kJDOcy3Hnk	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
+296	Ain't That Loving You Baby	Jimmy Reed	Big Boss Man	INDIFFERENT	2:11	Jv14PrNY5u4	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
+452	Big Boss Man	Jimmy Reed	Found Love	INDIFFERENT	2:50	GOGlEZEVfcM	MPREb_dc8fDZKn4Zf	UCkJUdhq3rW7AElwDQ_omC3g
+471	Bright Lights, Big City	Jimmy Reed	Big Boss Man	INDIFFERENT	2:38	dH-s0cMngrA	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
+481	Baby What You Want Me to Do	Jimmy Reed	Found Love	INDIFFERENT	2:21	_vDLwUzHMOg	MPREb_h7MNbajW82G	UCkJUdhq3rW7AElwDQ_omC3g
+501	Baby What You Want Me to Do	Jimmy Reed	Jimmy Reed, Greatest Hits	INDIFFERENT	2:22	8SdAt0liE28	MPREb_h7j4VfNr2LK	UCkJUdhq3rW7AElwDQ_omC3g
 103	Don't Cha Know	Jimmie Vaughan	Strange Pleasure	INDIFFERENT	4:20	Jvn2WSVV734	MPREb_II2VkKtNZrG	UCfSf3PhkjJ4ON1sKnk43xSA
 119	Tilt A Whirl	Jimmie Vaughan	Strange Pleasure	INDIFFERENT	4:54	6hLCoZpOFj0	MPREb_II2VkKtNZrG	UCfSf3PhkjJ4ON1sKnk43xSA
-240	Love Me Or Leave Me	James Cotton	Best Of The Vanguard Years	INDIFFERENT	3:30	5RtpejTy7YQ	MPREb_7NlAEMq3h7G	UCgo0I-LyFzFM34hd8i8k9jw
-250	Honest I Do	James Cotton	Cut You Loose!	INDIFFERENT	2:53	F7wiSZbgIC0	MPREb_pP8jkXq1FYd	UCgo0I-LyFzFM34hd8i8k9jw
+239	Love Me Or Leave Me	James Cotton	Best Of The Vanguard Years	INDIFFERENT	3:30	5RtpejTy7YQ	MPREb_7NlAEMq3h7G	UCgo0I-LyFzFM34hd8i8k9jw
+249	Honest I Do	James Cotton	Cut You Loose!	INDIFFERENT	2:53	F7wiSZbgIC0	MPREb_pP8jkXq1FYd	UCgo0I-LyFzFM34hd8i8k9jw
 76	These Ain't Raindrops	James Carr	You Got My Mind Messed Up	INDIFFERENT	2:35	z0drlZKo21w	MPREb_CEmzUplZbrS	UC2Cee8mc_pHFWaxQJKZYFAQ
 96	Forgetting You	James Carr	The Complete Goldwax Singles	INDIFFERENT	2:57	JjZR2qMKBMw	MPREb_XuEl9ZDvPs8	UC2Cee8mc_pHFWaxQJKZYFAQ
 98	A Man Needs a Woman	James Carr	The Complete Goldwax Singles	INDIFFERENT	2:49	tuBMTlE-k0E	MPREb_XuEl9ZDvPs8	UC2Cee8mc_pHFWaxQJKZYFAQ
 85	To Be Loved	Jackie Wilson	The Jackie Wilson Genesis	INDIFFERENT	2:28	K4P6GF6OYrM	MPREb_AIMZbxT58kd	UCB-EMgYSOjuwe85j1PBZfjA
 88	You Better Know It	Jackie Wilson	The Jackie Wilson Genesis	INDIFFERENT	2:00	Ugeoyrcm3CI	MPREb_AIMZbxT58kd	UCB-EMgYSOjuwe85j1PBZfjA
-260	Hey Baby	JJ Cale	Troubadour	INDIFFERENT	3:13	40CexXCbtWk	MPREb_ZQXEP2X4tCa	UCs0iLMxzbi7p1Ij6ziggUIQ
-456	Alabama Blues	J.B. Lenoir	Alabama Blues!	INDIFFERENT	3:14	TtzIy1YUVXU	MPREb_fJEPvDkYbEM	UCWNIPljO0bPA2Hktz-RQr6Q
-367	Saturday Blues (Remastered 2002)	Ishman Bracey	First Time I Met the Blues (When the Sun Goes Down series)	INDIFFERENT	3:28	9l6MhYTZ-1U	MPREb_MX9YWnvXpoe	UC4ZAknVysa0soClnvlIUzdg
-370	Leavin' Town Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:29	5GFkQz5CTGA	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
-380	Brown Mama Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:35	NxV5soQNjxc	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
-402	Left Alone Blues	Ishman Bracey	Vintage Rural Blues	INDIFFERENT	3:23	gwhJQqL_Pn4	MPREb_BIsnt7A0c3b	UC4ZAknVysa0soClnvlIUzdg
-424	Left Alone Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:31	cVgX6NEbXFQ	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
-429	Woman Woman Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:29	S1HrUsfJewA	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
-445	Saturday Blues	Ishman Bracey	Ishman Bracey & Charley Taylor - Complete Recorded Works in Chronological Order (1928-1929)	INDIFFERENT	3:29	7e7I8zNhWZc	MPREb_j6SmOhfb61A	UC4ZAknVysa0soClnvlIUzdg
-310	Bring Your Love To Me (feat. James Cotton)	Hubert Sumlin	Heart & Soul	INDIFFERENT	3:21	b0iLMAgxvRU	MPREb_YzfahL1F6lK	UCp5W9B7KIkTazLKyvMgq5-g
+259	Hey Baby	JJ Cale	Troubadour	INDIFFERENT	3:13	40CexXCbtWk	MPREb_ZQXEP2X4tCa	UCs0iLMxzbi7p1Ij6ziggUIQ
+455	Alabama Blues	J.B. Lenoir	Alabama Blues!	INDIFFERENT	3:14	TtzIy1YUVXU	MPREb_fJEPvDkYbEM	UCWNIPljO0bPA2Hktz-RQr6Q
+366	Saturday Blues (Remastered 2002)	Ishman Bracey	First Time I Met the Blues (When the Sun Goes Down series)	INDIFFERENT	3:28	9l6MhYTZ-1U	MPREb_MX9YWnvXpoe	UC4ZAknVysa0soClnvlIUzdg
+369	Leavin' Town Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:29	5GFkQz5CTGA	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
+379	Brown Mama Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:35	NxV5soQNjxc	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
+401	Left Alone Blues	Ishman Bracey	Vintage Rural Blues	INDIFFERENT	3:23	gwhJQqL_Pn4	MPREb_BIsnt7A0c3b	UC4ZAknVysa0soClnvlIUzdg
+423	Left Alone Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:31	cVgX6NEbXFQ	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
+428	Woman Woman Blues	Ishman Bracey	Saturday Blues	INDIFFERENT	3:29	S1HrUsfJewA	MPREb_P2ou1cN3kFi	UC4ZAknVysa0soClnvlIUzdg
+444	Saturday Blues	Ishman Bracey	Ishman Bracey & Charley Taylor - Complete Recorded Works in Chronological Order (1928-1929)	INDIFFERENT	3:29	7e7I8zNhWZc	MPREb_j6SmOhfb61A	UC4ZAknVysa0soClnvlIUzdg
+309	Bring Your Love To Me (feat. James Cotton)	Hubert Sumlin	Heart & Soul	INDIFFERENT	3:21	b0iLMAgxvRU	MPREb_YzfahL1F6lK	UCp5W9B7KIkTazLKyvMgq5-g
 51	Moanin' at Midnight	Howlin' Wolf	Bringing Blues Back, Vol. 4	INDIFFERENT	2:57	w3SqqWeR4nw	MPREb_lRWOYYS8Lts	UCq7KYdlYIAjlt2NbSEZD7bg
 129	Back Door Man	Howlin' Wolf	The Definitive Collection	INDIFFERENT	2:49	qD8llRPTagk	MPREb_ZbMlAPkFW4y	UCq7KYdlYIAjlt2NbSEZD7bg
 168	Sitting On Top Of The World	Howlin' Wolf	The Definitive Collection	INDIFFERENT	2:33	iDlJb-unM0k	MPREb_ZbMlAPkFW4y	UCq7KYdlYIAjlt2NbSEZD7bg
-213	Three Hundred Pounds Of Joy	Howlin' Wolf	The Real Folk Blues	INDIFFERENT	3:07	UzHXBJKP72U	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
-219	Do The Do (feat. Eric Clapton, Steve Winwood, Bill Wyman & Charlie Watts)	Howlin' Wolf	The London Howlin' Wolf Sessions	INDIFFERENT	2:24	F87r_dIw_Hk	MPREb_MkzRpPS6eFA	UCq7KYdlYIAjlt2NbSEZD7bg
-225	Built For Comfort	Howlin' Wolf	The Real Folk Blues	INDIFFERENT	2:40	VoO1q5KSi6w	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
-243	Shake It For Me	Howlin' Wolf	The Best Of Howlin' Wolf	INDIFFERENT	3:41	Umq-L-CNiX0	MPREb_BxV9DBDOHXK	UCq7KYdlYIAjlt2NbSEZD7bg
-271	Goin' Down Slow	Howlin' Wolf	The Chess Box	INDIFFERENT	4:03	2KDAAx-PXGQ	MPREb_rDEfhUOIfiF	UCq7KYdlYIAjlt2NbSEZD7bg
-343	I Ain't Superstitious (Single Version)	Howlin' Wolf	Change My Way	INDIFFERENT	2:50	bNv7qOWNh7M	MPREb_Ct2g6dmXYV2	UCq7KYdlYIAjlt2NbSEZD7bg
-529	Killing Floor	Howlin' Wolf	The Real Folk Blues	INDIFFERENT	2:53	CHrVB35kTrE	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
+212	Three Hundred Pounds Of Joy	Howlin' Wolf	The Real Folk Blues	INDIFFERENT	3:07	UzHXBJKP72U	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
+218	Do The Do (feat. Eric Clapton, Steve Winwood, Bill Wyman & Charlie Watts)	Howlin' Wolf	The London Howlin' Wolf Sessions	INDIFFERENT	2:24	F87r_dIw_Hk	MPREb_MkzRpPS6eFA	UCq7KYdlYIAjlt2NbSEZD7bg
+224	Built For Comfort	Howlin' Wolf	The Real Folk Blues	INDIFFERENT	2:40	VoO1q5KSi6w	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
+242	Shake It For Me	Howlin' Wolf	The Best Of Howlin' Wolf	INDIFFERENT	3:41	Umq-L-CNiX0	MPREb_BxV9DBDOHXK	UCq7KYdlYIAjlt2NbSEZD7bg
+270	Goin' Down Slow	Howlin' Wolf	The Chess Box	INDIFFERENT	4:03	2KDAAx-PXGQ	MPREb_rDEfhUOIfiF	UCq7KYdlYIAjlt2NbSEZD7bg
+342	I Ain't Superstitious (Single Version)	Howlin' Wolf	Change My Way	INDIFFERENT	2:50	bNv7qOWNh7M	MPREb_Ct2g6dmXYV2	UCq7KYdlYIAjlt2NbSEZD7bg
+517	Killing Floor	Howlin' Wolf	The Real Folk Blues	INDIFFERENT	2:53	CHrVB35kTrE	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
 160	I Ain't Superstitious	Howlin Wolf	Portrait of the Blues	INDIFFERENT	2:54	CQQ-LEmd-Zs	MPREb_R7Ewn9PMl4Q	UCq7KYdlYIAjlt2NbSEZD7bg
-322	Don't Say I Don't Love You (feat. Honeyboy Edwards)	Honeyboy Edwards	White Windows	INDIFFERENT	4:08	-zGH3hD13QQ	MPREb_MdjgveegeEQ	UCDeD8v5UzAnVkyvQmODDyVg
-257	Fine Little Mama	Homesick James	Street-Walking Blues, Vol. 1	INDIFFERENT	2:33	8pDls5wFPu0	MPREb_VMhb1isfdb4	UCOc1ISakSSLwH4MyrO7ABNg
-418	Tell Me Man Blues	Henry Sims	Beautiful Blues Memories, Vol. 1	INDIFFERENT	3:20	vQClDmtYBys	MPREb_4zTuhjVppH0	UCD1whXItr3J-x8Ij6BySCIg
-535	Roll And Tumble Blues (1929)	Hambone Willie Newbern	Rough Guide To Unsung Heroes Of Country Blues	INDIFFERENT	3:01	Ex0uCvA3tEM	MPREb_ccuhG8hKNfd	UCu1ABT-BVrRgRAhA2wH9Whw
-222	Our Only Child	Guitar Slim	Sufferin' Mind	INDIFFERENT	2:05	0lX0LQohU_M	MPREb_KP4dWIKbBKV	UCzMIN6EaLVUuu9JTm4h5Z1A
-234	Well I Done Got Over It	Guitar Slim	Sufferin' Mind	INDIFFERENT	2:27	M5BYW1bM65g	MPREb_KP4dWIKbBKV	UCzMIN6EaLVUuu9JTm4h5Z1A
-357	Sweet Home Chicago	Gregory Porter	It Ain't Nothin' But The Blues	INDIFFERENT	1:41	QG222AY3syA	MPREb_aHSvW9sy8o9	
-391	Skinny Leg Blues	Geeshie Wiley	American Primitive - Volume 2 - Pre-war Revenants 1897-1939	INDIFFERENT	3:13	185KD6v5Oa8	MPREb_QXBx4R06D3q	UCkjEWQAj5ZJb3ZAJ1IW5QOQ
-401	Last Kind Words Blues	Geeshie Wiley	The Missing Country & Blues Album	INDIFFERENT	3:04	1Tedq7AhtBQ	MPREb_8PZ6iy8oygG	UCkjEWQAj5ZJb3ZAJ1IW5QOQ
-407	Eagles on a Half	Geeshie Wiley	Rough Guide to Delta Blues	INDIFFERENT	3:04	6rf8QfII7kg	MPREb_xYpohbmzBed	UCkjEWQAj5ZJb3ZAJ1IW5QOQ
-373	Pick Poor Robin Clean	Geechie Wiley & Elvie Thomas	Last Kind Words Blues	INDIFFERENT	3:16	s5Y8o6PKFnc	MPREb_roqKwukteqs	UCYLZoHFVeG-MlRIxfKHj1_w
-388	Eagles On A Half	Geechie Wiley & Elvie Thomas	Mississippi Blues Vol. 1 (1928-1937)	INDIFFERENT	3:01	qg1jJ2MXyMM	MPREb_MsQOARdoSNk	UCYLZoHFVeG-MlRIxfKHj1_w
-333	I Ain’t Mad At You Pretty Baby	Gatemouth Moore	Best Of The Blues	INDIFFERENT	3:17	H19ZPrygcSw	MPREb_Zzx5bXt0cpc	UC30Uqg2Dg1sgi8l2e3rr8KQ
-471	Cocaine Blues	Gary Davis	Pure Religion and Bad Company	INDIFFERENT	2:42	wo3a7TCczWA	MPREb_p3Lg3asSvNT	UCzceAp0CU5yr0HIjeESjF5w
+321	Don't Say I Don't Love You (feat. Honeyboy Edwards)	Honeyboy Edwards	White Windows	INDIFFERENT	4:08	-zGH3hD13QQ	MPREb_MdjgveegeEQ	UCDeD8v5UzAnVkyvQmODDyVg
+256	Fine Little Mama	Homesick James	Street-Walking Blues, Vol. 1	INDIFFERENT	2:33	8pDls5wFPu0	MPREb_VMhb1isfdb4	UCOc1ISakSSLwH4MyrO7ABNg
+417	Tell Me Man Blues	Henry Sims	Beautiful Blues Memories, Vol. 1	INDIFFERENT	3:20	vQClDmtYBys	MPREb_4zTuhjVppH0	UCD1whXItr3J-x8Ij6BySCIg
+523	Roll And Tumble Blues (1929)	Hambone Willie Newbern	Rough Guide To Unsung Heroes Of Country Blues	INDIFFERENT	3:01	Ex0uCvA3tEM	MPREb_ccuhG8hKNfd	UCu1ABT-BVrRgRAhA2wH9Whw
+221	Our Only Child	Guitar Slim	Sufferin' Mind	INDIFFERENT	2:05	0lX0LQohU_M	MPREb_KP4dWIKbBKV	UCzMIN6EaLVUuu9JTm4h5Z1A
+233	Well I Done Got Over It	Guitar Slim	Sufferin' Mind	INDIFFERENT	2:27	M5BYW1bM65g	MPREb_KP4dWIKbBKV	UCzMIN6EaLVUuu9JTm4h5Z1A
+356	Sweet Home Chicago	Gregory Porter	It Ain't Nothin' But The Blues	INDIFFERENT	1:41	QG222AY3syA	MPREb_aHSvW9sy8o9	
+390	Skinny Leg Blues	Geeshie Wiley	American Primitive - Volume 2 - Pre-war Revenants 1897-1939	INDIFFERENT	3:13	185KD6v5Oa8	MPREb_QXBx4R06D3q	UCkjEWQAj5ZJb3ZAJ1IW5QOQ
+400	Last Kind Words Blues	Geeshie Wiley	The Missing Country & Blues Album	INDIFFERENT	3:04	1Tedq7AhtBQ	MPREb_8PZ6iy8oygG	UCkjEWQAj5ZJb3ZAJ1IW5QOQ
+406	Eagles on a Half	Geeshie Wiley	Rough Guide to Delta Blues	INDIFFERENT	3:04	6rf8QfII7kg	MPREb_xYpohbmzBed	UCkjEWQAj5ZJb3ZAJ1IW5QOQ
+372	Pick Poor Robin Clean	Geechie Wiley & Elvie Thomas	Last Kind Words Blues	INDIFFERENT	3:16	s5Y8o6PKFnc	MPREb_roqKwukteqs	UCYLZoHFVeG-MlRIxfKHj1_w
+387	Eagles On A Half	Geechie Wiley & Elvie Thomas	Mississippi Blues Vol. 1 (1928-1937)	INDIFFERENT	3:01	qg1jJ2MXyMM	MPREb_MsQOARdoSNk	UCYLZoHFVeG-MlRIxfKHj1_w
+332	I Ain’t Mad At You Pretty Baby	Gatemouth Moore	Best Of The Blues	INDIFFERENT	3:17	H19ZPrygcSw	MPREb_Zzx5bXt0cpc	UC30Uqg2Dg1sgi8l2e3rr8KQ
+470	Cocaine Blues	Gary Davis	Pure Religion and Bad Company	INDIFFERENT	2:42	wo3a7TCczWA	MPREb_p3Lg3asSvNT	UCzceAp0CU5yr0HIjeESjF5w
 91	Cry Baby	Garnet Mimms & The Enchanters	The Best Of Garnet Mimms - Cry Baby	INDIFFERENT	3:27	qBfsw-Xsiwc	MPREb_yQoKwLfPZcc	UCKV0Un5ApazfhypYgI-Z3Qg
-379	Jumpin' and Shoutin' Blues	Garfield Akers	Dough Roller Blues	INDIFFERENT	3:09	4-Ls_qy_CC4	MPREb_ASRHDdmcLRY	UCYE0VyqRS0Plz7_7pDzpOtg
-385	Dough Roller Blues	Garfield Akers	Dough Roller Blues	INDIFFERENT	3:11	_0LZ84dvj2Q	MPREb_ASRHDdmcLRY	UCYE0VyqRS0Plz7_7pDzpOtg
-389	Cottonfield Blues, Pt. 1	Garfield Akers	Dough Roller Blues	INDIFFERENT	2:52	z3lD5le-3Y0	MPREb_ASRHDdmcLRY	UCYE0VyqRS0Plz7_7pDzpOtg
-411	Cottonfield Blues	Garfield Akers	The Sounds of Louisiana Blues	INDIFFERENT	2:55	k-dUFhbkJ0s	MPREb_OEzdGAzFfHH	UCYE0VyqRS0Plz7_7pDzpOtg
-323	I Will Turn Your Money Green	Furry Lewis	Furry Lewis	INDIFFERENT	4:40	gIHoUxzRoL8	MPREb_1gEVKLyQWPR	UCycm81xGWklLyoMk0BgsyFA
+378	Jumpin' and Shoutin' Blues	Garfield Akers	Dough Roller Blues	INDIFFERENT	3:09	4-Ls_qy_CC4	MPREb_ASRHDdmcLRY	UCYE0VyqRS0Plz7_7pDzpOtg
+384	Dough Roller Blues	Garfield Akers	Dough Roller Blues	INDIFFERENT	3:11	_0LZ84dvj2Q	MPREb_ASRHDdmcLRY	UCYE0VyqRS0Plz7_7pDzpOtg
+388	Cottonfield Blues, Pt. 1	Garfield Akers	Dough Roller Blues	INDIFFERENT	2:52	z3lD5le-3Y0	MPREb_ASRHDdmcLRY	UCYE0VyqRS0Plz7_7pDzpOtg
+410	Cottonfield Blues	Garfield Akers	The Sounds of Louisiana Blues	INDIFFERENT	2:55	k-dUFhbkJ0s	MPREb_OEzdGAzFfHH	UCYE0VyqRS0Plz7_7pDzpOtg
+322	I Will Turn Your Money Green	Furry Lewis	Furry Lewis	INDIFFERENT	4:40	gIHoUxzRoL8	MPREb_1gEVKLyQWPR	UCycm81xGWklLyoMk0BgsyFA
 5	I'm Tore Down	Freddy King	Mod Party All-Nighter, Vol. 4	INDIFFERENT	2:41	DWjwrZRm0D8	MPREb_P9ZWYy5dapF	UCj1uIBa_uRRMR9GQ6wviIMw
 30	San-Ho-Zay	Freddy King	Love Me Forever	INDIFFERENT	2:36	oS0S6vmwaXk	MPREb_HtNGQTrGJZa	UCj1uIBa_uRRMR9GQ6wviIMw
 127	Key To The Highway	Freddie King	Getting Ready... (World)	INDIFFERENT	3:28	sfZOTY0ndho	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
 128	I'm Tore Down	Freddie King	Getting Ready... (World)	INDIFFERENT	4:14	YB52eLfirFA	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
-247	Hideaway	Freddie King	Masters Of The Last Century: Best of Freddie King	INDIFFERENT	4:36	JSa11K2pUng	MPREb_P0aATHw8vpx	UCj1uIBa_uRRMR9GQ6wviIMw
-342	Hideaway	Freddie King	Is A Blues Master	INDIFFERENT	2:32	sSfdd4Z05Pw	MPREb_32pSCZ0z84f	UCj1uIBa_uRRMR9GQ6wviIMw
-466	Have You Ever Loved a Woman	Freddie King	Kings of King	INDIFFERENT	2:59	JmDVx1MS_Jo	MPREb_MyOY0IbDlxW	UCj1uIBa_uRRMR9GQ6wviIMw
-478	Hide Away	Freddie King	Kings of King	INDIFFERENT	2:33	rTUbxF4f7Io	MPREb_MyOY0IbDlxW	UCj1uIBa_uRRMR9GQ6wviIMw
-374	Worried Mind Blues	Fred McDowell	The Alan Lomax Recordings	INDIFFERENT	3:35	DI82cMEhGTI	MPREb_A6VhN9dyjJ7	UCbNXWMxWD39iFkSGr1auS2g
+246	Hideaway	Freddie King	Masters Of The Last Century: Best of Freddie King	INDIFFERENT	4:36	JSa11K2pUng	MPREb_P0aATHw8vpx	UCj1uIBa_uRRMR9GQ6wviIMw
+341	Hideaway	Freddie King	Is A Blues Master	INDIFFERENT	2:32	sSfdd4Z05Pw	MPREb_32pSCZ0z84f	UCj1uIBa_uRRMR9GQ6wviIMw
+465	Have You Ever Loved a Woman	Freddie King	Kings of King	INDIFFERENT	2:59	JmDVx1MS_Jo	MPREb_MyOY0IbDlxW	UCj1uIBa_uRRMR9GQ6wviIMw
+477	Hide Away	Freddie King	Kings of King	INDIFFERENT	2:33	rTUbxF4f7Io	MPREb_MyOY0IbDlxW	UCj1uIBa_uRRMR9GQ6wviIMw
+373	Worried Mind Blues	Fred McDowell	The Alan Lomax Recordings	INDIFFERENT	3:35	DI82cMEhGTI	MPREb_A6VhN9dyjJ7	UCbNXWMxWD39iFkSGr1auS2g
 84	Дурак Это I Am	Etta James	Best of Etta James	INDIFFERENT	2:58	kZGvFQd8ZUo	MPREb_pFrsxITJR8W	UCieyolnCbsWzyEt6wsd7lgQ
 93	Don't Blame Me	Etta James	These Foolish Things	INDIFFERENT	2:24	4UT8KkU-b50	MPREb_KEniq2Q0gxG	UCieyolnCbsWzyEt6wsd7lgQ
 94	Someone to Watch Over Me	Etta James	Time After Time	INDIFFERENT	6:02	AH4FppHBQwE	MPREb_0xKfIVya9Qw	UCieyolnCbsWzyEt6wsd7lgQ
-217	Hoochie Coochie Gal	Etta James	Life, Love & The Blues	INDIFFERENT	4:24	1nAUAEYVkF8	MPREb_orJDkuCK9fs	UCieyolnCbsWzyEt6wsd7lgQ
-286	I Just Want to Make Love to You	Etta James	Best Of Blues: Vintage Collection	INDIFFERENT	3:08	If-NHx7vGRY	MPREb_TiuI6KZvatO	UCieyolnCbsWzyEt6wsd7lgQ
+216	Hoochie Coochie Gal	Etta James	Life, Love & The Blues	INDIFFERENT	4:24	1nAUAEYVkF8	MPREb_orJDkuCK9fs	UCieyolnCbsWzyEt6wsd7lgQ
+285	I Just Want to Make Love to You	Etta James	Best Of Blues: Vintage Collection	INDIFFERENT	3:08	If-NHx7vGRY	MPREb_TiuI6KZvatO	UCieyolnCbsWzyEt6wsd7lgQ
 102	I'm Tore Down	Eric Clapton	From The Cradle	INDIFFERENT	3:02	zeQ93E6ZxKI	MPREb_MF5M6LHyIlh	UCXmEE051j5RhUENn7saUF3g
 113	Mean Old World (Duet Version, Master Take)	Eric Clapton	Blues	INDIFFERENT	3:52	uujdgpfkLBk	MPREb_pH8fHcvwkNS	UCXmEE051j5RhUENn7saUF3g
 65	Lost Woman Blues (Please Find My Baby)	Elmore James And His Broomdusters	Blues Kingpins	INDIFFERENT	3:06	QZSp35Q_MAg	MPREb_tVpooWbl6Je	UCcO7GQQk1W8gKWHkQDXZQtA
@@ -397,46 +386,46 @@
 81	Fine Little Mama	Elmore James	Shake Your Moneymaker (The Best Of The Fire Sessions)	INDIFFERENT	2:34	wDR3d15amYM	MPREb_sbwgVUlhM8a	UCcO7GQQk1W8gKWHkQDXZQtA
 126	Baby, Please Set A Date	Elmore James	Dust My Broom	INDIFFERENT	2:51	CaT_iy2TrU0	MPREb_kfCAAEtIkzd	UCcO7GQQk1W8gKWHkQDXZQtA
 172	Coming Home	Elmore James	Red Hot Blues (Digitally Remastered)	INDIFFERENT	2:23	qxnZ1rVPRI8	MPREb_jej9HgDuFyM	UCcO7GQQk1W8gKWHkQDXZQtA
-256	Shake Your Moneymaker	Elmore James	Dust My Broom	INDIFFERENT	2:50	DYlOlv9G3S8	MPREb_tjJ3xKyBhnI	UCcO7GQQk1W8gKWHkQDXZQtA
-258	Rollin And Tumblin	Elmore James	Dust My Broom	INDIFFERENT	2:30	B5eLyA1Wt8c	MPREb_P5oDSBelgv7	UCcO7GQQk1W8gKWHkQDXZQtA
-298	Baby Please Set a Date	Elmore James	The King of Slide Guitar: Elmore James	INDIFFERENT	2:54	Ef1QqOowjWM	MPREb_zMQUvKgbknb	UCcO7GQQk1W8gKWHkQDXZQtA
-330	It Hurts Me Too	Elmore James	Everyday I Have The Blues	INDIFFERENT	3:18	dbNqIPsJvok	MPREb_sxV37I3AFRv	UCcO7GQQk1W8gKWHkQDXZQtA
-517	The Sky Is Crying	Elmore James	The Sky Is Crying	INDIFFERENT	2:47	_9GaTLhYOYU	MPREb_WgdhHNYtoJN	UCcO7GQQk1W8gKWHkQDXZQtA
-319	I’m The Midnight Creeper	"Eddie ""Cleanhead"" Vinson"	The Very Best Of	INDIFFERENT	3:30	D-XQ7FTx2tM	MPREb_3n4rBJUObvk	UCmnWtKWBBVqpueXTyUARRLw
+255	Shake Your Moneymaker	Elmore James	Dust My Broom	INDIFFERENT	2:50	DYlOlv9G3S8	MPREb_tjJ3xKyBhnI	UCcO7GQQk1W8gKWHkQDXZQtA
+257	Rollin And Tumblin	Elmore James	Dust My Broom	INDIFFERENT	2:30	B5eLyA1Wt8c	MPREb_P5oDSBelgv7	UCcO7GQQk1W8gKWHkQDXZQtA
+297	Baby Please Set a Date	Elmore James	The King of Slide Guitar: Elmore James	INDIFFERENT	2:54	Ef1QqOowjWM	MPREb_zMQUvKgbknb	UCcO7GQQk1W8gKWHkQDXZQtA
+329	It Hurts Me Too	Elmore James	Everyday I Have The Blues	INDIFFERENT	3:18	dbNqIPsJvok	MPREb_sxV37I3AFRv	UCcO7GQQk1W8gKWHkQDXZQtA
+509	The Sky Is Crying	Elmore James	The Sky Is Crying	INDIFFERENT	2:47	_9GaTLhYOYU	MPREb_WgdhHNYtoJN	UCcO7GQQk1W8gKWHkQDXZQtA
+318	I’m The Midnight Creeper	"Eddie ""Cleanhead"" Vinson"	The Very Best Of	INDIFFERENT	3:30	D-XQ7FTx2tM	MPREb_3n4rBJUObvk	UCmnWtKWBBVqpueXTyUARRLw
 101	Misty Blue	Dorothy Moore	Misty Blue	INDIFFERENT	3:42	MRtQKkU2cq8	MPREb_dVkqetMzR0k	UC6FCnLPZhykkGTcEc2Mg34A
 82	What A Diff'rence A Day Makes	Dinah Washington	20th Century Masters: The Best Of Dinah Washington - The Millennium Collection	INDIFFERENT	2:31	kxhk9mYFfzQ	MPREb_dcEYa4n5fBf	UCyJMoW5XxogEfARq3tx18fQ
-289	Solid Gold Plated Fool	Delbert McClinton	Let The Good Times Roll	INDIFFERENT	3:04	DMNHMF3V-q4	MPREb_t39EcJSbqME	UCUnkURh3d4g1k-1X3yRiPkw
-304	I Can't Lose	Deborah Coleman	I Can't Lose	INDIFFERENT	4:38	icRVpMCK1HI	MPREb_UTjzucI54Z9	UCsUBvoolm5v2t8B3odPT3Qg
-211	Big Road Blues	Colin James	Blue Highways	INDIFFERENT	3:03	oBV7J_sNOHE	MPREb_D2NhD6XVaBF	UCFMZITGhiOwEA6ZsyL50TdA
-487	Gatemouth Boogie	"Clarence ""Gatemouth"" Brown"	Boogie Rambler - Blues Essentials	INDIFFERENT	2:31	6A9EfdPjwio	MPREb_VqSRobAIq44	UCCfmfyh9pu5PEpwLQrSR7fA
-300	It's Ok with Me Baby (Bonus Track)	Chicken Shack	40 Blue Fingers Freshly Packed & Ready to Serve	INDIFFERENT	2:40	uRY5q0YEnXI	MPREb_6dTTCoINVvW	UCv6BzOc-dZmDROP0OP9a8Yw
-528	Key to the Highway	Charlie Segar	Southern Hospitality	INDIFFERENT	2:53	xxWJWcOQ4LI	MPREb_7F7yYdHyX4M	UCv-wVSB1n6MAXxk6QTlH6bA
+288	Solid Gold Plated Fool	Delbert McClinton	Let The Good Times Roll	INDIFFERENT	3:04	DMNHMF3V-q4	MPREb_t39EcJSbqME	UCUnkURh3d4g1k-1X3yRiPkw
+303	I Can't Lose	Deborah Coleman	I Can't Lose	INDIFFERENT	4:38	icRVpMCK1HI	MPREb_UTjzucI54Z9	UCsUBvoolm5v2t8B3odPT3Qg
+210	Big Road Blues	Colin James	Blue Highways	INDIFFERENT	3:03	oBV7J_sNOHE	MPREb_D2NhD6XVaBF	UCFMZITGhiOwEA6ZsyL50TdA
+486	Gatemouth Boogie	"Clarence ""Gatemouth"" Brown"	Boogie Rambler - Blues Essentials	INDIFFERENT	2:31	6A9EfdPjwio	MPREb_VqSRobAIq44	UCCfmfyh9pu5PEpwLQrSR7fA
+299	It's Ok with Me Baby (Bonus Track)	Chicken Shack	40 Blue Fingers Freshly Packed & Ready to Serve	INDIFFERENT	2:40	uRY5q0YEnXI	MPREb_6dTTCoINVvW	UCv6BzOc-dZmDROP0OP9a8Yw
+516	Key to the Highway	Charlie Segar	Southern Hospitality	INDIFFERENT	2:53	xxWJWcOQ4LI	MPREb_7F7yYdHyX4M	UCv-wVSB1n6MAXxk6QTlH6bA
 45	Stone Pony Blues	Charlie Patton	Primeval Blues, Rags, And Gospel Songs	INDIFFERENT	2:52	5Isj8IFYRCo	MPREb_4q9deewwYjG	UChgqUv_teGypvyjv4BpsLEA
 67	Revenue Man Blues	Charlie Patton	Primeval Blues, Rags, And Gospel Songs	INDIFFERENT	2:42	Cmxt0-GoJiE	MPREb_4q9deewwYjG	UChgqUv_teGypvyjv4BpsLEA
-438	A Spoonful Blues	Charlie Patton	The Best Of Charlie Patton	INDIFFERENT	3:14	0Nt2Q_-BlVA	MPREb_QhjHIUFGExA	UChgqUv_teGypvyjv4BpsLEA
-377	It Ain't No Good - Part I	Charlie McCoy	Charlie McCoy (1928-1932)	INDIFFERENT	3:07	olTKacweMus	MPREb_uqQyqc7rG3V	UCymS8_aGool-8IIkt_Mkk1Q
-396	Tell Me Man Blues	Charley Patton with Henry Sims	Charley Patton Vol. 3 (1929 - 1934)	INDIFFERENT	3:14	EOkIazVPwEo	MPREb_4pKb84hvlES	UChgqUv_teGypvyjv4BpsLEA
-359	Mind Reader Blues	Charley Patton and Bertha Lee	Dry Well Blues (The Complete Recordings 1930 & 1934)	INDIFFERENT	2:56	_rCswNoJnLI	MPREb_zmBZyfCrWY9	UClEHfeXEPdWySU9Wlh774bA
-363	Yellow Bee	Charley Patton and Bertha Lee	Dry Well Blues (The Complete Recordings 1930 & 1934)	INDIFFERENT	2:57	2seZr4Fl4XA	MPREb_zmBZyfCrWY9	UClEHfeXEPdWySU9Wlh774bA
+437	A Spoonful Blues	Charlie Patton	The Best Of Charlie Patton	INDIFFERENT	3:14	0Nt2Q_-BlVA	MPREb_QhjHIUFGExA	UChgqUv_teGypvyjv4BpsLEA
+376	It Ain't No Good - Part I	Charlie McCoy	Charlie McCoy (1928-1932)	INDIFFERENT	3:07	olTKacweMus	MPREb_uqQyqc7rG3V	UCymS8_aGool-8IIkt_Mkk1Q
+395	Tell Me Man Blues	Charley Patton with Henry Sims	Charley Patton Vol. 3 (1929 - 1934)	INDIFFERENT	3:14	EOkIazVPwEo	MPREb_4pKb84hvlES	UChgqUv_teGypvyjv4BpsLEA
+358	Mind Reader Blues	Charley Patton and Bertha Lee	Dry Well Blues (The Complete Recordings 1930 & 1934)	INDIFFERENT	2:56	_rCswNoJnLI	MPREb_zmBZyfCrWY9	UClEHfeXEPdWySU9Wlh774bA
+362	Yellow Bee	Charley Patton and Bertha Lee	Dry Well Blues (The Complete Recordings 1930 & 1934)	INDIFFERENT	2:57	2seZr4Fl4XA	MPREb_zmBZyfCrWY9	UClEHfeXEPdWySU9Wlh774bA
 37	High Sheriff Blues	Charley Patton	Charley Patton (The Big Blues Collection)	INDIFFERENT	3:10	-mscFsCXvPE	MPREb_qCe62Qyke8v	UChgqUv_teGypvyjv4BpsLEA
 184	Spoonful Blues	Charley Patton	The History of Blues One	INDIFFERENT	3:12	pyRCV2wClig	MPREb_HaKRSPBW63l	UChgqUv_teGypvyjv4BpsLEA
 187	Pony Blues	Charley Patton	The History of Blues One	INDIFFERENT	3:00	95BKMEm62Gw	MPREb_HaKRSPBW63l	UChgqUv_teGypvyjv4BpsLEA
-366	Magnolia Blues	Charley Patton	Charley Patton, King Of The Delta Blues: His Recordings	INDIFFERENT	3:09	P-li62AmF-s	MPREb_WqfvLoTl61T	UChgqUv_teGypvyjv4BpsLEA
-386	Hammer Blues	Charley Patton	Jack of All Trades	INDIFFERENT	3:14	VbCn44p_4CI	MPREb_1SBz1T7Xrcn	UChgqUv_teGypvyjv4BpsLEA
-399	Rattlesnake Blues	Charley Patton	Charley Patton Vol. 2 (1929)	INDIFFERENT	2:42	alKig02e34k	MPREb_ItRojelSiVi	UChgqUv_teGypvyjv4BpsLEA
-421	I'm Going Home	Charley Patton	Blues Legends (Volume 2)	INDIFFERENT	3:14	TgWMFN27T6A	MPREb_UyXw1SBXqjM	UChgqUv_teGypvyjv4BpsLEA
-443	Rattlesnake Blues	Charley Patton	Complete Remastered Sessions	INDIFFERENT	2:43	9B37VF6NSek	MPREb_ddydQmOzXay	UChgqUv_teGypvyjv4BpsLEA
-326	Somebody Changed the Lock	Champion Jack Dupree	Sharp Harp	INDIFFERENT	2:54	dIRpdrKR2HQ	MPREb_gqmoGi3og1A	UCjRMvVN_0wK2KFmIK9XCcVA
-316	New Mean Mistreater Blues	Bumble Bee Slim	Bumble Bee Slim Vol. 2 1934	INDIFFERENT	3:27	tyC42vb3fCI	MPREb_unZxamcpPUn	UC3r1OD7SDytLybEwTqo-pVA
+365	Magnolia Blues	Charley Patton	Charley Patton, King Of The Delta Blues: His Recordings	INDIFFERENT	3:09	P-li62AmF-s	MPREb_WqfvLoTl61T	UChgqUv_teGypvyjv4BpsLEA
+385	Hammer Blues	Charley Patton	Jack of All Trades	INDIFFERENT	3:14	VbCn44p_4CI	MPREb_1SBz1T7Xrcn	UChgqUv_teGypvyjv4BpsLEA
+398	Rattlesnake Blues	Charley Patton	Charley Patton Vol. 2 (1929)	INDIFFERENT	2:42	alKig02e34k	MPREb_ItRojelSiVi	UChgqUv_teGypvyjv4BpsLEA
+420	I'm Going Home	Charley Patton	Blues Legends (Volume 2)	INDIFFERENT	3:14	TgWMFN27T6A	MPREb_UyXw1SBXqjM	UChgqUv_teGypvyjv4BpsLEA
+442	Rattlesnake Blues	Charley Patton	Complete Remastered Sessions	INDIFFERENT	2:43	9B37VF6NSek	MPREb_ddydQmOzXay	UChgqUv_teGypvyjv4BpsLEA
+325	Somebody Changed the Lock	Champion Jack Dupree	Sharp Harp	INDIFFERENT	2:54	dIRpdrKR2HQ	MPREb_gqmoGi3og1A	UCjRMvVN_0wK2KFmIK9XCcVA
+315	New Mean Mistreater Blues	Bumble Bee Slim	Bumble Bee Slim Vol. 2 1934	INDIFFERENT	3:27	tyC42vb3fCI	MPREb_unZxamcpPUn	UC3r1OD7SDytLybEwTqo-pVA
 195	Pinebluff, Arkansas	Bukka White	The Complete Bukka White	INDIFFERENT	2:47	r516CQNPTNs	MPREb_42flrw7a4Fs	UC5gCQ7rJd41LweNTasYo2uQ
-252	Shake 'Em on Down (78rpm Version)	Bukka White	Complete Bukka White	INDIFFERENT	2:59	1v-sxmSbFDY	MPREb_uLNxuVjxeNx	UC5gCQ7rJd41LweNTasYo2uQ
-318	Shake 'Em On Down	Bukka White	Mississippi Blues	INDIFFERENT	3:37	moCaZChPSMU	MPREb_auHeNUk2gdx	UC5gCQ7rJd41LweNTasYo2uQ
-376	District Attorney Blues	Bukka White	Parchman Farm	INDIFFERENT	2:41	rvj_Equ83ec	MPREb_I6vGBQRHXba	UC5gCQ7rJd41LweNTasYo2uQ
-382	Aberdeeen Mississippi Blues	Bukka White	The Atlanta Special	INDIFFERENT	4:23	mhIQYEoLrjU	MPREb_xJuRTGAaIUE	UC5gCQ7rJd41LweNTasYo2uQ
-448	District Attorney Blues (feat. Washboard Sam)	Bukka White	Bukka White (Doxy Collection)	INDIFFERENT	2:42	AsE1OaRqHOQ	MPREb_4pnApjGFuLg	UC5gCQ7rJd41LweNTasYo2uQ
-479	Parcham Farm Blues	Bukka White	The Blues Mothership: The Original Rock Inspirations	INDIFFERENT	2:45	bALlyDdhLmU	MPREb_ezhgOy08ZHt	UC5gCQ7rJd41LweNTasYo2uQ
-489	Fixin' To Die	Bukka White	The Roots of Led Zeppelin	INDIFFERENT	2:50	--OpLExHBkw	MPREb_z6iANsa11jk	UC5gCQ7rJd41LweNTasYo2uQ
-292	I'm In The Mood	Buddy Guy & Junior Wells	Alone & Acoustic	INDIFFERENT	3:23	ov6kzYhpQEc	MPREb_TyFJMQVrv6y	UCqQnmSnXS_qlyP6qok7lCAA
+251	Shake 'Em on Down (78rpm Version)	Bukka White	Complete Bukka White	INDIFFERENT	2:59	1v-sxmSbFDY	MPREb_uLNxuVjxeNx	UC5gCQ7rJd41LweNTasYo2uQ
+317	Shake 'Em On Down	Bukka White	Mississippi Blues	INDIFFERENT	3:37	moCaZChPSMU	MPREb_auHeNUk2gdx	UC5gCQ7rJd41LweNTasYo2uQ
+375	District Attorney Blues	Bukka White	Parchman Farm	INDIFFERENT	2:41	rvj_Equ83ec	MPREb_I6vGBQRHXba	UC5gCQ7rJd41LweNTasYo2uQ
+381	Aberdeeen Mississippi Blues	Bukka White	The Atlanta Special	INDIFFERENT	4:23	mhIQYEoLrjU	MPREb_xJuRTGAaIUE	UC5gCQ7rJd41LweNTasYo2uQ
+447	District Attorney Blues (feat. Washboard Sam)	Bukka White	Bukka White (Doxy Collection)	INDIFFERENT	2:42	AsE1OaRqHOQ	MPREb_4pnApjGFuLg	UC5gCQ7rJd41LweNTasYo2uQ
+478	Parcham Farm Blues	Bukka White	The Blues Mothership: The Original Rock Inspirations	INDIFFERENT	2:45	bALlyDdhLmU	MPREb_ezhgOy08ZHt	UC5gCQ7rJd41LweNTasYo2uQ
+488	Fixin' To Die	Bukka White	The Roots of Led Zeppelin	INDIFFERENT	2:50	--OpLExHBkw	MPREb_z6iANsa11jk	UC5gCQ7rJd41LweNTasYo2uQ
+291	I'm In The Mood	Buddy Guy & Junior Wells	Alone & Acoustic	INDIFFERENT	3:23	ov6kzYhpQEc	MPREb_TyFJMQVrv6y	UCqQnmSnXS_qlyP6qok7lCAA
 0	Ten Years Ago	Buddy Guy	I Was Walking Through the Woods (Expanded Edition)	INDIFFERENT	2:38	wfiehuJ0Z1Q	MPREb_oFOP46xPbsL	UCqQnmSnXS_qlyP6qok7lCAA
 4	When My Left Eye Jumps	Buddy Guy	Left My Blues In San Francisco	INDIFFERENT	3:57	w03l9i5I5l8	MPREb_QCpL5MVW0gq	UCqQnmSnXS_qlyP6qok7lCAA
 15	Jam On A Monday Morning	Buddy Guy	A Man And The Blues	INDIFFERENT	2:53	gvSeVH38IXc	MPREb_tLPikAvjPVk	UCqQnmSnXS_qlyP6qok7lCAA
@@ -448,14 +437,14 @@
 125	Leave My Girl Alone	Buddy Guy	Left My Blues In San Francisco	INDIFFERENT	3:29	6HpjlcvlaJs	MPREb_QCpL5MVW0gq	UCqQnmSnXS_qlyP6qok7lCAA
 162	This Is The End	Buddy Guy	Southern Blues 1957-63	INDIFFERENT	3:00	XYSoOaSx714	MPREb_GLzqOn7jga9	UCqQnmSnXS_qlyP6qok7lCAA
 165	Let Me Love You Baby (Single Version)	Buddy Guy	The Complete Chess Studio Recordings	INDIFFERENT	2:51	9tBAnFYhRDM	MPREb_HaynRnRtdzC	UCqQnmSnXS_qlyP6qok7lCAA
-231	Poison Ivy	Buddy Guy	As Good As It Gets	INDIFFERENT	3:26	y86Mos8ZXVU	MPREb_BvNvlP8KLh8	UCqQnmSnXS_qlyP6qok7lCAA
-340	Five Long Years	Buddy Guy	My Time After Awhile	INDIFFERENT	3:22	C04W4jGGasU	MPREb_JF9gbwlvVaw	UCqQnmSnXS_qlyP6qok7lCAA
-354	Messin' with the Kid	Buddy Guy	Buddy Guy & Junior Wells Plays The Blues	INDIFFERENT	2:15	nAuUthQjpe8	MPREb_f6OfkQqoOgd	UCqQnmSnXS_qlyP6qok7lCAA
-451	Stone Crazy	Buddy Guy	I Was Walking Through the Woods (Expanded Edition)	INDIFFERENT	7:12	z83jwJoGz_A	MPREb_oFOP46xPbsL	UCqQnmSnXS_qlyP6qok7lCAA
-263	That's The Way Love Is	Bobby Bland	Call On Me / That's The Way Love Is	INDIFFERENT	2:36	-21ff7ubYP8	MPREb_UzXlP6M89LI	UCqEi91DIf1penU5yf67suRQ
-512	Goin' Down Slow (Single Edit)	Bobby Bland	The Anthology	INDIFFERENT	3:44	JqnhwMkGOAo	MPREb_amhgCb3D03r	UCqEi91DIf1penU5yf67suRQ
-287	Who Will The Next Fool Be? (Single Version / Stereo)	"Bobby ""Blue"" Bland"	Turn On Your Love Light: The Duke Recordings Volume 2	INDIFFERENT	2:26	EQHjzSS4cIg	MPREb_QVRE3lpx8TE	UCqEi91DIf1penU5yf67suRQ
-302	Share Your Love With Me (Single Version)	"Bobby ""Blue"" Bland"	Turn On Your Love Light: The Duke Recordings Volume 2	INDIFFERENT	2:43	Syc0hkTepaQ	MPREb_QVRE3lpx8TE	UCqEi91DIf1penU5yf67suRQ
+230	Poison Ivy	Buddy Guy	As Good As It Gets	INDIFFERENT	3:26	y86Mos8ZXVU	MPREb_BvNvlP8KLh8	UCqQnmSnXS_qlyP6qok7lCAA
+339	Five Long Years	Buddy Guy	My Time After Awhile	INDIFFERENT	3:22	C04W4jGGasU	MPREb_JF9gbwlvVaw	UCqQnmSnXS_qlyP6qok7lCAA
+353	Messin' with the Kid	Buddy Guy	Buddy Guy & Junior Wells Plays The Blues	INDIFFERENT	2:15	nAuUthQjpe8	MPREb_f6OfkQqoOgd	UCqQnmSnXS_qlyP6qok7lCAA
+450	Stone Crazy	Buddy Guy	I Was Walking Through the Woods (Expanded Edition)	INDIFFERENT	7:12	z83jwJoGz_A	MPREb_oFOP46xPbsL	UCqQnmSnXS_qlyP6qok7lCAA
+262	That's The Way Love Is	Bobby Bland	Call On Me / That's The Way Love Is	INDIFFERENT	2:36	-21ff7ubYP8	MPREb_UzXlP6M89LI	UCqEi91DIf1penU5yf67suRQ
+507	Goin' Down Slow (Single Edit)	Bobby Bland	The Anthology	INDIFFERENT	3:44	JqnhwMkGOAo	MPREb_amhgCb3D03r	UCqEi91DIf1penU5yf67suRQ
+286	Who Will The Next Fool Be? (Single Version / Stereo)	"Bobby ""Blue"" Bland"	Turn On Your Love Light: The Duke Recordings Volume 2	INDIFFERENT	2:26	EQHjzSS4cIg	MPREb_QVRE3lpx8TE	UCqEi91DIf1penU5yf67suRQ
+301	Share Your Love With Me (Single Version)	"Bobby ""Blue"" Bland"	Turn On Your Love Light: The Duke Recordings Volume 2	INDIFFERENT	2:43	Syc0hkTepaQ	MPREb_QVRE3lpx8TE	UCqEi91DIf1penU5yf67suRQ
 12	Crackin' Up	Bo Diddley	Bo Diddley - Hey! Bo Diddley	INDIFFERENT	2:08	WTd50pJdDFU	MPREb_yUpZ7KzDcHY	UCTXP0wPPSDAaOS6mXeM4tgg
 21	Road Runner	Bo Diddley	I'm A Man	INDIFFERENT	2:27	2pcSif6-xoM	MPREb_reV6TJM82rk	UCTXP0wPPSDAaOS6mXeM4tgg
 36	B & O Blues No. 2	Blind Willie McTell	The Best Of Blind Willie McTell	INDIFFERENT	3:02	xMnlgvSLf3o	MPREb_dod8UiDCXem	UCP7B8D5qS_Ex9y_Jwl4VUBA
@@ -466,45 +455,45 @@
 44	The Soul of a Man	Blind Willie Johnson	Blind Willie Johnson - Greatest Hits	INDIFFERENT	3:13	CA55DNlbIYU	MPREb_DTiqPLxng0a	UCp_csxupcgSwZa1glwDo2eQ
 57	Lord I Just Can't Keep from Crying	Blind Willie Johnson	Blind Willie Johnson - Greatest Hits	INDIFFERENT	3:02	ZNtdnu4hnjA	MPREb_DTiqPLxng0a	UCp_csxupcgSwZa1glwDo2eQ
 70	Church, I'm Fully Saved Today	Blind Willie Johnson	The Complete Blind Willie Johnson	INDIFFERENT	3:06	vKV0ZEjg3_A	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
-463	John the Revelator	Blind Willie Johnson	The Complete Blind Willie Johnson	INDIFFERENT	3:16	YdnyRlb0qIk	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
-469	Dark Was the Night	Blind Willie Johnson	Dark Was the Night	INDIFFERENT	3:22	o8l4LTBwoBE	MPREb_6YivX17yHZ6	UCp_csxupcgSwZa1glwDo2eQ
-320	My Baby's Gone	Blind Willie	Definitive Blind Willie McTell	INDIFFERENT	2:58	STEavqYZ18s	MPREb_0jI7uV8wgWu	UCP7B8D5qS_Ex9y_Jwl4VUBA
+462	John the Revelator	Blind Willie Johnson	The Complete Blind Willie Johnson	INDIFFERENT	3:16	YdnyRlb0qIk	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
+468	Dark Was the Night	Blind Willie Johnson	Dark Was the Night	INDIFFERENT	3:22	o8l4LTBwoBE	MPREb_6YivX17yHZ6	UCp_csxupcgSwZa1glwDo2eQ
+319	My Baby's Gone	Blind Willie	Definitive Blind Willie McTell	INDIFFERENT	2:58	STEavqYZ18s	MPREb_0jI7uV8wgWu	UCP7B8D5qS_Ex9y_Jwl4VUBA
 41	Match Box Blues	Blind Lemon Jefferson	The Best Of Blind Lemon Jefferson	INDIFFERENT	3:01	R6toJNK4apQ	MPREb_npinSDibC4y	UCRfO0n1ycrnalER8PlGVlKw
 62	Right of Way Blues	Blind Lemon Jefferson	See That My Grave Is Kept Clean	INDIFFERENT	2:54	IWjojpFq4jM	MPREb_vrMaflGFjcI	UCRfO0n1ycrnalER8PlGVlKw
 196	Black Snake Moan	Blind Lemon Jefferson	Snake Songs	INDIFFERENT	3:01	bhxycqHQKXg	MPREb_cIqsvx4t3Lf	UCRfO0n1ycrnalER8PlGVlKw
 199	All I Want Is That Pure Religion	Blind Lemon Jefferson	Blues on the Bayou, Vol. 2	INDIFFERENT	3:16	BD2Hx39RSCE	MPREb_JVp8ycTsjzh	UCRfO0n1ycrnalER8PlGVlKw
 205	Broke and Hungry	Blind Lemon Jefferson	Blind Lemon Jefferson	INDIFFERENT	3:02	bRpUBd8cBxQ	MPREb_sc6nITV2O1Z	UCRfO0n1ycrnalER8PlGVlKw
-491	Black Snake Moan	Blind Lemon Jefferson	See That My Grave Is Kept Clean	INDIFFERENT	3:03	-1bHQ3C4wGE	MPREb_vrMaflGFjcI	UCRfO0n1ycrnalER8PlGVlKw
-324	Baby You Gotta Change Your Mind	Blind Boy Fuller	East Coast Piedmont Style	INDIFFERENT	3:12	ep5wEuJGe54	MPREb_VfFgrjXpWw2	UCkfO0g1E0t1seQ0AkCkFGbg
+490	Black Snake Moan	Blind Lemon Jefferson	See That My Grave Is Kept Clean	INDIFFERENT	3:03	-1bHQ3C4wGE	MPREb_vrMaflGFjcI	UCRfO0n1ycrnalER8PlGVlKw
+323	Baby You Gotta Change Your Mind	Blind Boy Fuller	East Coast Piedmont Style	INDIFFERENT	3:12	ep5wEuJGe54	MPREb_VfFgrjXpWw2	UCkfO0g1E0t1seQ0AkCkFGbg
 92	Lover Come Back To Me	Billie Holiday	Best Of The Blues - 50 Favorites	INDIFFERENT	2:21	7Ovudo5MObg	MPREb_2zXynDXFyl1	UCW-raws5Iq2xLADkLcEoVaA
 95	I Got It Bad And That Ain't Good	Billie Holiday	Best Of Blues	INDIFFERENT	2:25	8bdsQuFrNcY	MPREb_iEwTZhQitOk	UCW-raws5Iq2xLADkLcEoVaA
 90	So Good To My Baby	Big Maybelle	The Complete Okeh Sessions  1952-1955	INDIFFERENT	2:33	PTmeZ0TgYO8	MPREb_f5u6DmCzc7W	UCEKMG9qVjbOtT4Lw_r3b-mw
-465	Whole Lotta Shakin' Goin' On	Big Maybelle	Rock'n'Roll Hot Spices	INDIFFERENT	2:42	lMeWNGZdhRc	MPREb_kUJEIS5zjUO	UCEKMG9qVjbOtT4Lw_r3b-mw
-495	Maybelle's Blues	Big Maybelle	The Complete Okeh Sessions  1952-1955	INDIFFERENT	3:09	-024Wd3gFaA	MPREb_f5u6DmCzc7W	UCEKMG9qVjbOtT4Lw_r3b-mw
+464	Whole Lotta Shakin' Goin' On	Big Maybelle	Rock'n'Roll Hot Spices	INDIFFERENT	2:42	lMeWNGZdhRc	MPREb_kUJEIS5zjUO	UCEKMG9qVjbOtT4Lw_r3b-mw
+494	Maybelle's Blues	Big Maybelle	The Complete Okeh Sessions  1952-1955	INDIFFERENT	3:09	-024Wd3gFaA	MPREb_f5u6DmCzc7W	UCEKMG9qVjbOtT4Lw_r3b-mw
 11	Hound Dog	Big Mama Thornton	Blues Party, Vol. 4	INDIFFERENT	2:49	WddumTxENRI	MPREb_oiCnF1YJqhy	UC_8NmTaQn8Uy-Hz_jKoCOcA
 74	Hound Dog (Single Version)	Big Mama Thornton	Hound Dog (The Peacock Recordings)	INDIFFERENT	2:51	Jr9q485COk0	MPREb_TMHdEZMG4kA	UC_8NmTaQn8Uy-Hz_jKoCOcA
 78	They Call Me Big Mama	Big Mama Thornton	Hound Dog (The Peacock Recordings)	INDIFFERENT	2:04	FWbeHUNBpj0	MPREb_TMHdEZMG4kA	UC_8NmTaQn8Uy-Hz_jKoCOcA
 87	Life Goes On	Big Mama Thornton	Big Mama Thornton with the Muddy Waters Blues Band - 1966	INDIFFERENT	3:29	RCAxHHhLOCA	MPREb_p0vAER94701	UC_8NmTaQn8Uy-Hz_jKoCOcA
-450	Ball N' Chain	Big Mama Thornton	Ball n' Chain	INDIFFERENT	4:31	TixL6Tycgho	MPREb_0LHey5hWuO7	UC_8NmTaQn8Uy-Hz_jKoCOcA
-461	Hound Dog (Take 1)	Big Mama Thornton	In Europe	INDIFFERENT	3:00	AueZSrRKILQ	MPREb_JD4exct27nQ	UC_8NmTaQn8Uy-Hz_jKoCOcA
-519	Worried Life Blues	Big Maceo	Chicago Piano Blues	INDIFFERENT	2:54	4vtsxZT9fUc	MPREb_11pTDkA7Vkc	UCsNdc8luqKckFXYP6tW7_8Q
-368	Peach Orchard Mama	Big Joe Williams	Stack O' Dollars	INDIFFERENT	2:43	VyGPF-7cDSQ	MPREb_LH7FCXvVKRn	UC9Lvxw_GfTsAiV3SECzUKCg
-387	Baby Please Don't Go	Big Joe Williams	Baby Please Don't Go	INDIFFERENT	1:48	l-JiwWoMaEc	MPREb_ZO0cOjrHWJh	UC9Lvxw_GfTsAiV3SECzUKCg
-393	Love With A Feeling	Big Joe Williams	Big Joe Williams And The Stars Of Mississippi Blues	INDIFFERENT	3:00	MujCppywrSY	MPREb_8iuoFshWsAL	UC9Lvxw_GfTsAiV3SECzUKCg
-404	Little Leg Woman	Big Joe Williams	Baby Please Don't Go (The Best of)	INDIFFERENT	3:22	NFAvExKyy_8	MPREb_gjvCCeQbaP7	UC9Lvxw_GfTsAiV3SECzUKCg
-413	Little Leg Woman	Big Joe Williams	The Very Best Of	INDIFFERENT	3:08	OB5918A87GM	MPREb_RKt9dEdBL4y	UC9Lvxw_GfTsAiV3SECzUKCg
-430	Peach Orchard Mama	Big Joe Williams	Big Joe Williams And The Stars Of Mississippi Blues	INDIFFERENT	2:42	GS8QKTF4lsw	MPREb_8iuoFshWsAL	UC9Lvxw_GfTsAiV3SECzUKCg
-503	Baby Please Don't Go	Big Joe Williams	Highway 49	INDIFFERENT	2:47	fP0wNzue4nU	MPREb_8q13P6CZNUu	UCvuee6YwOLUVQfqovUy7tiw
+449	Ball N' Chain	Big Mama Thornton	Ball n' Chain	INDIFFERENT	4:31	TixL6Tycgho	MPREb_0LHey5hWuO7	UC_8NmTaQn8Uy-Hz_jKoCOcA
+460	Hound Dog (Take 1)	Big Mama Thornton	In Europe	INDIFFERENT	3:00	AueZSrRKILQ	MPREb_JD4exct27nQ	UC_8NmTaQn8Uy-Hz_jKoCOcA
+511	Worried Life Blues	Big Maceo	Chicago Piano Blues	INDIFFERENT	2:54	4vtsxZT9fUc	MPREb_11pTDkA7Vkc	UCsNdc8luqKckFXYP6tW7_8Q
+367	Peach Orchard Mama	Big Joe Williams	Stack O' Dollars	INDIFFERENT	2:43	VyGPF-7cDSQ	MPREb_LH7FCXvVKRn	UC9Lvxw_GfTsAiV3SECzUKCg
+386	Baby Please Don't Go	Big Joe Williams	Baby Please Don't Go	INDIFFERENT	1:48	l-JiwWoMaEc	MPREb_ZO0cOjrHWJh	UC9Lvxw_GfTsAiV3SECzUKCg
+392	Love With A Feeling	Big Joe Williams	Big Joe Williams And The Stars Of Mississippi Blues	INDIFFERENT	3:00	MujCppywrSY	MPREb_8iuoFshWsAL	UC9Lvxw_GfTsAiV3SECzUKCg
+403	Little Leg Woman	Big Joe Williams	Baby Please Don't Go (The Best of)	INDIFFERENT	3:22	NFAvExKyy_8	MPREb_gjvCCeQbaP7	UC9Lvxw_GfTsAiV3SECzUKCg
+412	Little Leg Woman	Big Joe Williams	The Very Best Of	INDIFFERENT	3:08	OB5918A87GM	MPREb_RKt9dEdBL4y	UC9Lvxw_GfTsAiV3SECzUKCg
+429	Peach Orchard Mama	Big Joe Williams	Big Joe Williams And The Stars Of Mississippi Blues	INDIFFERENT	2:42	GS8QKTF4lsw	MPREb_8iuoFshWsAL	UC9Lvxw_GfTsAiV3SECzUKCg
+502	Baby Please Don't Go	Big Joe Williams	Highway 49	INDIFFERENT	2:47	fP0wNzue4nU	MPREb_8q13P6CZNUu	UCvuee6YwOLUVQfqovUy7tiw
 6	Mississippi River Blues	Big Bill Broonzy	C.C.Rider Meets Lonesome Road Blues	INDIFFERENT	2:44	-sevg3QwFeQ	MPREb_bLR0rzkS3Tl	UCP0ngc_IbrxTeSzQJ0YpGXA
 40	Worrying You Off My Mind-Part I	Big Bill Broonzy	Good Time Tonight	INDIFFERENT	3:03	RrkNzUg_VIY	MPREb_GwekuIQDs11	UCP0ngc_IbrxTeSzQJ0YpGXA
 60	Long Tall Mama	Big Bill Broonzy	Good Time Tonight	INDIFFERENT	2:46	6yZ2E36SyR8	MPREb_GwekuIQDs11	UCP0ngc_IbrxTeSzQJ0YpGXA
 193	All By Myself	Big Bill Broonzy	Kings of Blues, Vol. 1	INDIFFERENT	2:30	K9VcD5XJ9j4	MPREb_pESJnL8kwmy	UCP0ngc_IbrxTeSzQJ0YpGXA
-315	When Did You Leave Heaven	Big Bill Broonzy	Sixteen Tons	INDIFFERENT	3:15	9QVRmUbJbLQ	MPREb_0ZpToQfDZzq	UCP0ngc_IbrxTeSzQJ0YpGXA
-328	Old Man Blues	Big Bill Broonzy	Kings of Blues, Vol. 2	INDIFFERENT	3:03	gRo_cb4mg8o	MPREb_k5ptMVkqG4n	UCP0ngc_IbrxTeSzQJ0YpGXA
-485	Long Tall Mama	Big Bill Broonzy	Chicago Calling	INDIFFERENT	2:51	x_TN6_QQ_hs	MPREb_2TXEuVndycM	UCP0ngc_IbrxTeSzQJ0YpGXA
-221	Take Me For A Buggy Ride	Bessie Smith	101 - The Best Of Vintage Blues	INDIFFERENT	2:38	OSysuSf6w80	MPREb_apnkqMmtRpx	UC8zpyoXms7D2dFjxB30VK9A
-474	Wasted Life Blues	Bessie Smith	Bessie Smith - Empty Bed Blues (Blues People - Complete Columbia Recordings 1923 - 1933)	INDIFFERENT	3:04	Jqfstm7LuXg	MPREb_yyuXIHEFaPi	UC8zpyoXms7D2dFjxB30VK9A
-532	Nobody Knows You When You're Down And Out	Bessie Smith	Greatest Hits	INDIFFERENT	2:49	Jl5W8RaG8GM	MPREb_SoqGdhyaLSz	UC8zpyoXms7D2dFjxB30VK9A
+314	When Did You Leave Heaven	Big Bill Broonzy	Sixteen Tons	INDIFFERENT	3:15	9QVRmUbJbLQ	MPREb_0ZpToQfDZzq	UCP0ngc_IbrxTeSzQJ0YpGXA
+327	Old Man Blues	Big Bill Broonzy	Kings of Blues, Vol. 2	INDIFFERENT	3:03	gRo_cb4mg8o	MPREb_k5ptMVkqG4n	UCP0ngc_IbrxTeSzQJ0YpGXA
+484	Long Tall Mama	Big Bill Broonzy	Chicago Calling	INDIFFERENT	2:51	x_TN6_QQ_hs	MPREb_2TXEuVndycM	UCP0ngc_IbrxTeSzQJ0YpGXA
+220	Take Me For A Buggy Ride	Bessie Smith	101 - The Best Of Vintage Blues	INDIFFERENT	2:38	OSysuSf6w80	MPREb_apnkqMmtRpx	UC8zpyoXms7D2dFjxB30VK9A
+473	Wasted Life Blues	Bessie Smith	Bessie Smith - Empty Bed Blues (Blues People - Complete Columbia Recordings 1923 - 1933)	INDIFFERENT	3:04	Jqfstm7LuXg	MPREb_yyuXIHEFaPi	UC8zpyoXms7D2dFjxB30VK9A
+520	Nobody Knows You When You're Down And Out	Bessie Smith	Greatest Hits	INDIFFERENT	2:49	Jl5W8RaG8GM	MPREb_SoqGdhyaLSz	UC8zpyoXms7D2dFjxB30VK9A
 18	Three O'Clock Blues	B.B. King	Blues Masters Vol. 3 (B.B. King)	INDIFFERENT	3:04	-pfprMOoXEU	MPREb_5tBNJkAzuwX	UCqKrqzF3eX7R17m_MIMte4w
 33	Miss Martha King	B.B. King	All Time Best: B.B. King	INDIFFERENT	2:45	IGz9qTAKAlc	MPREb_BotHb9O7YTL	UCqKrqzF3eX7R17m_MIMte4w
 75	Paying The Cost To Be The Boss	B.B. King	The Life Of Riley (Original Motion Picture Soundtrack)	INDIFFERENT	2:35	X9D0rW1Dbdc	MPREb_oqgtzg3T9Pe	UCqKrqzF3eX7R17m_MIMte4w
@@ -514,29 +503,25 @@
 124	Recession Blues	B.B. King	Classic Blues	INDIFFERENT	2:23	1kJUZjo-wbM	MPREb_As2X4VY3wpc	UCqKrqzF3eX7R17m_MIMte4w
 181	Please Love Me (Live At The Regal Theater, Chicago, 1964)	B.B. King	Live At The Regal	INDIFFERENT	2:59	TMmPsMNij2E	MPREb_gFzz85CI4I5	UCqKrqzF3eX7R17m_MIMte4w
 192	You Know I Love You	B.B. King	Singin' The Blues	INDIFFERENT	3:07	rFisqNhAf1I	MPREb_KxDH1hfwFll	UCqKrqzF3eX7R17m_MIMte4w
-268	Don't You Lie To Me	B.B. King	King Size	INDIFFERENT	6:11	O4yGqS0GOj0	MPREb_D9eAhCOY791	UCqKrqzF3eX7R17m_MIMte4w
-272	It's My Own Fault (Live At Western Recorders Studio1/1974)	B.B. King	Together For The First Time... Live	INDIFFERENT	4:14	fbzI1qqME7E	MPREb_BESo1hLVVzQ	UCqKrqzF3eX7R17m_MIMte4w
-280	The Thrill Is Gone	B.B. King	B.B. King Greatest Hits	INDIFFERENT	4:58	-p7F0f3Y0_w	MPREb_BseldnKt0uN	UCqKrqzF3eX7R17m_MIMte4w
-452	Blues Man	B.B. King	Blues On The Bayou	INDIFFERENT	5:19	eDuKJhnF2oU	MPREb_YHXYHTaBFMS	UCqKrqzF3eX7R17m_MIMte4w
-510	Everyday I Have The Blues	B.B. King	Singin' The Blues	INDIFFERENT	2:50	jWEeL__sMN0	MPREb_KxDH1hfwFll	UCqKrqzF3eX7R17m_MIMte4w
+267	Don't You Lie To Me	B.B. King	King Size	INDIFFERENT	6:11	O4yGqS0GOj0	MPREb_D9eAhCOY791	UCqKrqzF3eX7R17m_MIMte4w
+271	It's My Own Fault (Live At Western Recorders Studio1/1974)	B.B. King	Together For The First Time... Live	INDIFFERENT	4:14	fbzI1qqME7E	MPREb_BESo1hLVVzQ	UCqKrqzF3eX7R17m_MIMte4w
+279	The Thrill Is Gone	B.B. King	B.B. King Greatest Hits	INDIFFERENT	4:58	-p7F0f3Y0_w	MPREb_BseldnKt0uN	UCqKrqzF3eX7R17m_MIMte4w
+451	Blues Man	B.B. King	Blues On The Bayou	INDIFFERENT	5:19	eDuKJhnF2oU	MPREb_YHXYHTaBFMS	UCqKrqzF3eX7R17m_MIMte4w
+506	Everyday I Have The Blues	B.B. King	Singin' The Blues	INDIFFERENT	2:50	jWEeL__sMN0	MPREb_KxDH1hfwFll	UCqKrqzF3eX7R17m_MIMte4w
 14	She's Dynamite	B. B. King	Legacy	INDIFFERENT	2:33	5aV7CrtLlNE	MPREb_Pckwy0AVzk5	UCqKrqzF3eX7R17m_MIMte4w
-277	That's All Right	Arthur 'Big Boy' Crudup	That's All Right Mama	INDIFFERENT	2:57	a4IILmBqaD8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
-439	Cool Disposition	"Arthur ""Big Boy"" Crudup"	The Ultimate Jazz Archive 14 1941 - 44 (3 Of 4)	INDIFFERENT	3:08	CTDJKgTr1gE	MPREb_Ip2auJuQBgB	UCUpwrDcBBvsfmaddItzMWMQ
-327	Tears, Tears, Tears	Amos Milburn	Down The Road Apiece -The Best Of Amos Milburn	INDIFFERENT	2:47	-B8gE2XhVXI	MPREb_cj7VkYOVkQZ	UCwwHoGketQ_QXxsf1vPna4A
+276	That's All Right	Arthur 'Big Boy' Crudup	That's All Right Mama	INDIFFERENT	2:57	a4IILmBqaD8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
+438	Cool Disposition	"Arthur ""Big Boy"" Crudup"	The Ultimate Jazz Archive 14 1941 - 44 (3 Of 4)	INDIFFERENT	3:08	CTDJKgTr1gE	MPREb_Ip2auJuQBgB	UCUpwrDcBBvsfmaddItzMWMQ
+326	Tears, Tears, Tears	Amos Milburn	Down The Road Apiece -The Best Of Amos Milburn	INDIFFERENT	2:47	-B8gE2XhVXI	MPREb_cj7VkYOVkQZ	UCwwHoGketQ_QXxsf1vPna4A
 46	Down Don't Bother Me	Albert King	Born Under A Bad Sign	INDIFFERENT	2:11	5fiC9BR_wkI	MPREb_lFds0b3PZIO	UC9XFvJIqt0duVgnlvkXBeKA
 161	Born Under A Bad Sign - Live	Albert King	New Orleans Heat	INDIFFERENT	3:29	KJGxPMME1rU	MPREb_63OjmfiNeAt	UC9XFvJIqt0duVgnlvkXBeKA
 169	Travelin' to California	Albert King	Conscience	INDIFFERENT	3:06	02XkpFsjRb8	MPREb_EJzIOgtIbSp	UC9XFvJIqt0duVgnlvkXBeKA
-273	Blues At Sunrise (Live)	Albert King	Blues At Sunrise	INDIFFERENT	10:19	PLM-HWSb5sE	MPREb_2WEWi5xAVPW	UC9XFvJIqt0duVgnlvkXBeKA
-475	Born Under A Bad Sign	Albert King	Albert King	INDIFFERENT	3:26	8gvEwhDimUg	MPREb_JKiseSBlbLc	UC9XFvJIqt0duVgnlvkXBeKA
+272	Blues At Sunrise (Live)	Albert King	Blues At Sunrise	INDIFFERENT	10:19	PLM-HWSb5sE	MPREb_2WEWi5xAVPW	UC9XFvJIqt0duVgnlvkXBeKA
+474	Born Under A Bad Sign	Albert King	Albert King	INDIFFERENT	3:26	8gvEwhDimUg	MPREb_JKiseSBlbLc	UC9XFvJIqt0duVgnlvkXBeKA
 106	Iceman	Albert Collins	Iceman	INDIFFERENT	5:03	iM4jTXiLRic	MPREb_EZXGqJFERwt	UCbwoSB3Jgv_K_IUQCj4xzUA
 117	Too Tired	Albert Collins	Deluxe Edition	INDIFFERENT	2:59	RkeDwTpKURQ	MPREb_wYNTPLI40Sx	UCbwoSB3Jgv_K_IUQCj4xzUA
 122	Lights Are On But Nobody's Home	Albert Collins	Cold Snap	INDIFFERENT	6:59	wJ8nBqCLpNk	MPREb_l60djXKM1tj	UCbwoSB3Jgv_K_IUQCj4xzUA
 123	When The Welfare Turns Its Back On You	Albert Collins	Deluxe Edition	INDIFFERENT	5:25	6dLWNRhba0g	MPREb_wYNTPLI40Sx	UCbwoSB3Jgv_K_IUQCj4xzUA
-208	Ice Pick	Albert Collins	Ice Pickin'	INDIFFERENT	3:08	AKuzT4_VgO8	MPREb_MC1Kn6z0Mz8	UCbwoSB3Jgv_K_IUQCj4xzUA
-218	I Got A Problem	Albert Collins	Frostbite	INDIFFERENT	4:34	Wzf7rlRzk2E	MPREb_KJ62j2vWKZk	UCbwoSB3Jgv_K_IUQCj4xzUA
-245	Walkin' The Boogie	Albert Ammons & Pete Johnson	Boogie Woogie Greats	INDIFFERENT	2:53	VY_mOPHx84Y	MPREb_rk7crwIxVsc	UCshtjESnGYcRrvV2D2QaOFA
+207	Ice Pick	Albert Collins	Ice Pickin'	INDIFFERENT	3:08	AKuzT4_VgO8	MPREb_MC1Kn6z0Mz8	UCbwoSB3Jgv_K_IUQCj4xzUA
+217	I Got A Problem	Albert Collins	Frostbite	INDIFFERENT	4:34	Wzf7rlRzk2E	MPREb_KJ62j2vWKZk	UCbwoSB3Jgv_K_IUQCj4xzUA
+244	Walkin' The Boogie	Albert Ammons & Pete Johnson	Boogie Woogie Greats	INDIFFERENT	2:53	VY_mOPHx84Y	MPREb_rk7crwIxVsc	UCshtjESnGYcRrvV2D2QaOFA
 107	These Blues Is Killing Me	A.C.Reed	I'm In The Wrong Business	INDIFFERENT	3:09	tPaIToTOtMg	MPREb_zXpONC6Xy7y	UCtFYmxphOhfPQUqKxwmb5TQ
-516	The Thrill Is Gone	Roy Hawkins	Red Hot Blues		2:51	fX2SiV8RL4E		
-527	Kansas City	Little Willie Littlefield	Roots of Rock N' Roll Vol 8 1952		2:43	I2zk6tAZPis		
-511	Five Long Years	Eddie Boyd	The Blues That Inspired Eric Clapton		3:23	j3gfYlFV9bk		
-540	Trouble In Mind	Bertha Chippie Hill	Louis Armstrong And The Blues Singers 1926-27		2:51	wXcPltJWqEA		
