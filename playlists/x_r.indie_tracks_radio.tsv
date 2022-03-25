@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 432	wachito rico	boy pablo	Wachito Rico	LIKE	3:35	rNWhU_RBLiU	MPREb_T0Du39dR80A	UC44DqPxp1-rmGwaURr0iVlQ
 449	Clay Pigeon	binki	Clay Pigeon	LIKE	2:30	iXXA1xtZkgg	MPREb_HMacXn0P9yq	UCb733X3xJJXgo_St7gT_OaQ
+981	This Way (Taken From The Final Day Single)	Young Marble Giants	Colossal Youth (40th Anniversary Edition)	LIKE	1:42	qmhNbUhdCL8	MPREb_MGwVbe6Kcq2	UClxRGWXhsKCcyaBzd_ouxVA
 877	Dear Sons And Daughters Of Hungry Ghosts	Wolf Parade	Apologies To The Queen Mary	LIKE	3:39	phGMMSUdN8w	MPREb_wgqd7Q0mKXX	UCcSBYlEz6WW8M9b2WhmtveA
 16	Quiet Little Voices	We Were Promised Jetpacks	Quiet Little Voices	LIKE	4:18	fy5fz3XM77A	MPREb_hdqMxlYxyf4	UCe8eb58QrIeBLFF09SugGJg
 92	Don't Give Up	Washed Out	Paracosm	LIKE	3:54	JEh9_HR4K8g	MPREb_uBenfYxZc5o	UC1rCT_Cy1pP1wnRcEUV3nPA
@@ -45,10 +46,12 @@
 694	Bandages	Hey Rosetta!	Seeds	LIKE	5:04	cvmLZB3YSsQ	MPREb_JmAFClq9zvP	UCrVcjbRY5ENNLmbPDt_9_Ww
 425	I Am A Scientist	Guided By Voices	The Best of Guided By Voices: Human Amusements At Hourly Rates	LIKE	2:25	Z25NpUSXLNo	MPREb_HgJquOoqUnx	UCJ-Wx9-Xq36zECVOUCBSTNA
 56	Gun‐Shy	Grizzly Bear	Shields	LIKE	4:31	FJztO2wLwZo	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
+1068	While You Wait for the Others	Grizzly Bear	While You Wait For The Others	LIKE	4:30	se8t9sBTBV0	MPREb_ZYSFJgYO7WJ	UCvPx-zURGfOw1CMqWtuulnw
 927	Somebody That I Used To Know (feat. Kimbra)	Gotye	Making Mirrors	LIKE	4:04	jg51kFe7CWU	MPREb_vDiDlMWN1v0	UCcrR-Or3AH2RKJqOntiD_Tw
 157	Pools	Glass Animals	ZABA	LIKE	4:48	33hMB7yo32Q	MPREb_z8zhYpy2sVe	UCfeJiV0Xu-C4z4DApRcznig
 455	super ultra mega dark times	Ghouljaboy	super ultra mega dark times	LIKE	3:38	VGn3eGxaO70	MPREb_y5ou60D78p6	UCrTCjBWuZ_gXMO3G2NjeRog
 816	Balloons	Foals	Antidotes	LIKE	3:00	Hf1Hhs0Ifjo	MPREb_cs4cPucrDdB	UCKbSM-2Qu8hCdLDdzpFa0eQ
+669	More (feat. Anderson .Paak)	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	4:18	2K6lPq2LhXs	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 228	Third of May / Ōdaigahara	Fleet Foxes	Crack-Up	LIKE	8:45	vNVXnFmRueg	MPREb_d7Q9w5IQB4U	UCOz1sUIzEHqm8kylpb0W-Fg
 665	Lorelai	Fleet Foxes	Helplessness Blues	LIKE	4:24	kicaGhONItY	MPREb_q81edzBlmzh	UCOz1sUIzEHqm8kylpb0W-Fg
 666	Mykonos	Fleet Foxes	First Collection 2006-2009	LIKE	4:35	mW-SAzpakdM	MPREb_YUai0czw8AI	UCOz1sUIzEHqm8kylpb0W-Fg
@@ -56,6 +59,7 @@
 226	Pure Comedy	Father John Misty	Pure Comedy	LIKE	6:23	D3Ocbjb6dnw	MPREb_I1Jk5UVBYQK	UCbDizOzZ4qTxDBAVc5xbbAw
 602	Candid in Color	Fargo	Candid in Color	LIKE	2:36	-cTxQ3UiDrg	MPREb_iPVmEwEMOnJ	UCq229uKNMJrD9zDnaoM7XJA
 182	Between the Bars	Elliott Smith	An Introduction to Elliott Smith	LIKE	2:22	74j0Hs9OkOo	MPREb_IQfVhGX6fsh	UCuNTMHPl8dVBpJRtvygl-9A
+1065	40 Day Dream (2019 - Remaster)	Edward Sharpe & The Magnetic Zeros	Up From Below (10th Anniversary Edition) [2019 - Remaster]	LIKE	3:53	1mYhaYOIgiU	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
 1066	Janglin (2019 - Remaster)	Edward Sharpe & The Magnetic Zeros	Up From Below (10th Anniversary Edition) [2019 - Remaster]	LIKE	3:50	gV6xA5HnhPI	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
 50	Shadow People	Dr. Dog	Shame, Shame (Deluxe Edition)	LIKE	4:13	d7DWBxxEdXw	MPREb_P496vFcbu1R	UC-JBTXpS5x83eafG3HQMClA
 650	That Old Black Hole	Dr. Dog	Be The Void (Deluxe Edition)	LIKE	3:21	pwwotb1uuEA	MPREb_Qkm3jgyqoQR	UC-JBTXpS5x83eafG3HQMClA
@@ -116,7 +120,6 @@
 61	Mind Over Matter	Young the Giant	Mind Over Matter	INDIFFERENT	4:05	PqdISWdk2eg	MPREb_tPfEmX8XZ69	UC7xy1_cEwDPN2Ffk1fyFbIQ
 111	Something to Believe In (Live Acoustic)	Young the Giant	Something To Believe In (Live Acoustic)	INDIFFERENT	3:44	tnP0nsE80HM	MPREb_UhUNnMd8yLf	UC7xy1_cEwDPN2Ffk1fyFbIQ
 977	My Body (2020 Remaster)	Young the Giant	Young The Giant (10th Anniversary Edition)	INDIFFERENT	4:05	T95arrUeHH4	MPREb_2UNP8EGtQby	UC7xy1_cEwDPN2Ffk1fyFbIQ
-981	This Way (Taken From The Final Day Single)	Young Marble Giants	Colossal Youth (40th Anniversary Edition)	INDIFFERENT	1:42	qmhNbUhdCL8	MPREb_MGwVbe6Kcq2	UClxRGWXhsKCcyaBzd_ouxVA
 580	Better Days	Young Gutta	Pain To Power	INDIFFERENT	1:36	NTtGklWqlnc	MPREb_oaooooJsMES	UC4oswPE6Cv5wlZwjN-Epr3A
 137	Shame	Young Fathers	White Men Are Black Men Too	INDIFFERENT	4:09	-a3thRmI1VI	MPREb_h7V4O2gI6L2	UCsw1eYgQHQnndIoGX7RbYWg
 925	Catapilah	Young Buffalo	Young Von Prettylips - EP	INDIFFERENT	3:25	QgM47lilnSU	MPREb_itoQtXXY5aQ	UCv6YQ0Whtk0gV3x4rj-MOuQ
@@ -721,7 +724,6 @@
 683	Itchin' on a Photograph	Grouplove	Never Trust a Happy Song	INDIFFERENT	4:20	GYsxWdy0Zmk	MPREb_1szvrrbYHJ1	UCZZjopQPSArcZG8SxknPIDQ
 352	All We Ask (KCMP Session)	Grizzly Bear	Veckatimest (Bonus Tracks)	INDIFFERENT	4:33	2xdEJu8QK38	MPREb_9O82L0r6n7J	UCvPx-zURGfOw1CMqWtuulnw
 1067	Yet Again	Grizzly Bear	Yet Again	INDIFFERENT	5:19	6dgWQ3YwDpc	MPREb_COzThB834Jf	UCvPx-zURGfOw1CMqWtuulnw
-1068	While You Wait for the Others	Grizzly Bear	While You Wait For The Others	INDIFFERENT	4:30	se8t9sBTBV0	MPREb_ZYSFJgYO7WJ	UCvPx-zURGfOw1CMqWtuulnw
 286	Dream Fortress	Grimes	Halfaxa	INDIFFERENT	5:00	ZksecYquxrE	MPREb_Cmc2P3dKO9M	UCzVh-F-RZdTHGV3S1o4KBWQ
 609	Caution (Do Not Stop on Tracks) [Live at the Carousel, San Francisco, CA, February 14, 1968]	Grateful Dead	Road Trips Vol. 2 No. 2: Carousel Ballroom, San Francisco, CA 2/14/68 (Live)	INDIFFERENT	10:36	TVBIDFUnPqM	MPREb_fmbBXDipAFl	UC9dWluHyEwvIj5NNs7KkJ0A
 681	Stray Dog And The Chocolate Shake	Grandaddy	Sumday	INDIFFERENT	3:42	vAEEJCmQExM	MPREb_g0c2jWgysCi	UChD7NBi0bhr9ixPYk_Uk3sA
@@ -766,7 +768,6 @@
 346	Bluebird (CCTV Sessions)	Foals	Holy Fire	INDIFFERENT	4:03	3fH7rBFytgA	MPREb_wsyLVbdm7oe	UCKbSM-2Qu8hCdLDdzpFa0eQ
 670	Spanish Sahara	Foals	Total Life Forever	INDIFFERENT	6:49	UNmz61Lf1vk	MPREb_X7wTpnq8Y1o	UCKbSM-2Qu8hCdLDdzpFa0eQ
 224	More (feat. Anderson .Paak)	Flying Lotus	More	INDIFFERENT	4:18	zkTpRU4j7A8	MPREb_7JGJDXirnER	UCJvOvKwxPEL-4RtSvu_nWhQ
-669	More (feat. Anderson .Paak)	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	4:18	2K6lPq2LhXs	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 494	The Difference (feat. Toro y Moi)	Flume	The Difference	INDIFFERENT	2:20	bHmI74V8Dgc	MPREb_6SGMZScBKyZ	UCEdhHl4ZB0JXIinqZ367F6w
 251	Hunger	Florence + The Machine	High As Hope	INDIFFERENT	3:35	U6KPgWc4Zlo	MPREb_vwiEDTHxu3f	UCkmCGbrGa7yNrRl_NHrOaTw
 256	Fool's Errand	Fleet Foxes	Crack-Up	INDIFFERENT	4:48	fk7FO0hxrWA	MPREb_d7Q9w5IQB4U	UCOz1sUIzEHqm8kylpb0W-Fg
@@ -813,7 +814,6 @@
 209	I Don't Wanna Pray	Edward Sharpe & The Magnetic Zeros	Here	INDIFFERENT	3:27	fVbnwqrEOEY	MPREb_GaQNX0kuzWZ	UCS_Y7_z75KVpIz9Z2mcsmsQ
 651	40 Day Dream (Live at NPR Music’s Tiny Desk Concert, Washington, DC, October 2009)	Edward Sharpe & The Magnetic Zeros	Live In No Particular Order: 2009 - 2014	INDIFFERENT	4:25	WuISNIUpato	MPREb_GAArx4UnuWx	UCS_Y7_z75KVpIz9Z2mcsmsQ
 652	I Don’t Wanna Pray (Live at Brixton Academy, London, UK, February 11, 2014)	Edward Sharpe & The Magnetic Zeros	Live In No Particular Order: 2009 - 2014	INDIFFERENT	7:47	qxC-R2qbOXU	MPREb_GAArx4UnuWx	UCS_Y7_z75KVpIz9Z2mcsmsQ
-1065	40 Day Dream (2019 - Remaster)	Edward Sharpe & The Magnetic Zeros	Up From Below (10th Anniversary Edition) [2019 - Remaster]	INDIFFERENT	3:53	1mYhaYOIgiU	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
 362	James Dean	Eagles	The Very Best Of Eagles	INDIFFERENT	3:39	C9nIvPb1WQ8	MPREb_mBYyCsaZTs1	UC49r4GNHHpc-eQ9hmD2Rg6A
 1013	Bible Belt (Acoustic)	Dry The River	Shallow Bed (Bonus Tracks)	INDIFFERENT	5:27	oKwWmAOUZQo	MPREb_7VEhyAxGEAN	UCrIkZV_6XVJdyQE6qiN-kYA
 1000	Naomi (Main)	Dre	Naomi	INDIFFERENT	3:12	zRJU53DODfE	MPREb_bqdFybbj1KE	UCq89NJYTj9c2y1kRO7MIlcA
