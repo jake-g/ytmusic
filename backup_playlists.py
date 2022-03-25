@@ -48,13 +48,29 @@ def merge_duplicates(group):
 
 
 def is_like_pl(name):
-    name = name.lower()
-    if 'thumbs_up' in name:
-        return True
-    if ' like' in name or ' likes' in name:
-        return True
-    if ' top' in name:
-        return True
+    name = os.path.splitext(name)[0].lower()
+    contained_toks = [
+        'thumbs_up', ' like', ' likes', ' top'
+    ]
+    exact_toks = [
+        'ambient Indie synths', 'beats instrumental', 'Brass n chill',
+        'blues', 'Chillwave', 'electronic chill', 'electronic new indie beats',
+        'future bass', 'future beats', 'future garage', 'futurebeat_rap',
+        'garage rock', 'hiphop', 'hiphop modern', 'indie',
+        'jazz', 'jazz cool', 'jazz noir', 'my balls your chill', 'nudisco',
+        'nudisco smooth', 'psych rock modern', 'psychedelic classic rock',
+        'reggae classic', 'reggae modern', 'rnb dj',
+        'rock 1960s classic', 'rock krautrock', 'rock modern chill',
+        'Shoegaze', 'soul funk'
+    ]
+    if 'not like' in name:
+        return False
+    for t in contained_toks:
+        if t.lower() in name:
+            return True
+    for t in exact_toks:
+        if t.lower() == name:
+            return True
 
 
 def update_like_tsv(liked_tracks, like_tsv, header):
@@ -271,7 +287,7 @@ if __name__ == "__main__":
         tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
         tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
         playlist_liked_tracks.append(tracks_db_liked)
-        print('%s: %0.1f%% currently liked (of %d total tracks) ' %
+        print('%s\t%0.1f%% currently liked (of %d total tracks) ' %
               (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
     playlist_liked_tracks = pd.concat(
         playlist_liked_tracks).sort_values('artist')
