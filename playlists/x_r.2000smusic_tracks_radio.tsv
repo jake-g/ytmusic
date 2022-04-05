@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 107	In The Waiting Line	Zero 7	Simple Things	LIKE	4:31	G5KbL4LAUL8	MPREb_q4hrh9IVUYE	UCEIRECr4BQQ6blwSi9ogZvA
 238	Huddle Formation	The Go! Team	Thunder, Lightning, Strike	LIKE	3:09	su7GZbaUaSk	MPREb_q3ciUyvNpfl	UC86hwDJ8fDznTkT8UY9I1Cw
-621	Frontier Psychiatrist	The Avalanches	Since I Left You (20th Anniversary Deluxe Edition)	LIKE	4:48	zdj9pfloICI	MPREb_cNK9GhEZbWX	UCLXF7R57nHd3Q2PcAAtdPcA
+621	Frontier Psychiatrist	The Avalanches	Since I Left You	LIKE	4:48	zdj9pfloICI	MPREb_cNK9GhEZbWX	UCLXF7R57nHd3Q2PcAAtdPcA
 99	Chasing Cars	Snow Patrol	Eyes Open	LIKE	4:28	sgj04v5sDm4	MPREb_FGyz2nfUKjQ	UCqJPacofwGc9243bYPVyTcw
 38	Fever	Peggy Lee	The Best Of Peggy Lee	LIKE	3:24	JBANWpzsHts	MPREb_JfgoX7siC7o	UCgxIC5tTaNQF04YK1KWeUCw
 404	Hey Ya! (Radio Mix)	Outkast	Speakerboxxx/The Love Below	LIKE	3:56	Jx_O6PHdWww	MPREb_vlXBR4j0zQy	UCpJG35xsNdMgxsXn7kqG4Ew
@@ -81,7 +81,7 @@
 661	The Best Of Me	The Starting Line	Punk Rock 90's & 00's	INDIFFERENT	4:19	0UyNVvQUr10	MPREb_Kq9NcrwC2YK	UCmK9ZS1g28X9HMdbByE1Vsw
 144	Acid In My Heart	The Sleepy Jackson	Lovers	INDIFFERENT	3:32	9u94qZEFUvA	MPREb_3UTPZdt206Z	UCH4r2lFLx15j32ewrqUbe-A
 253	Dear Dad	The Silence Between Us	Dear Dad	INDIFFERENT	3:07	75izxd8VcnY	MPREb_0Uj08eY9rZg	UCiFT64qm82Np9Tf1zVy3iPA
-539	Lola's Theme (Radio Edit)	The Shapeshifters	Lolas Theme	INDIFFERENT	3:25	Ccz-pQAIx0c	MPREb_1xMmwUgfNOq	UCuIeci91IxQSB_K4Ic7antg
+539	Lola's Theme (Radio Edit)	The Shapeshifters	Lolas Theme	INDIFFERENT	3:26	Ccz-pQAIx0c	MPREb_1xMmwUgfNOq	UCuIeci91IxQSB_K4Ic7antg
 357	Breakeven	The Script	The Script	INDIFFERENT	4:22	QtATgELejV8	MPREb_sAFRIlbY9YM	UCFGwp4FHyvU1pJv9w6Jcx8w
 316	In the Shadows	The Rasmus	In the Shadows	INDIFFERENT	4:17	qfcD2fDM0ME	MPREb_ixvJS3MytxN	UCFvegymumxk7i2X3bS4WkzA
 355	Keen on Boys	The Radio Dept.	Lesser Matters	INDIFFERENT	4:54	G2h6M0K9bak	MPREb_qyZUymDGPsd	UClO2BunQnwWLpfovalbf5MA
@@ -456,9 +456,8 @@
 361	Dice	Finley Quaye	Much More Than Much Love	INDIFFERENT	4:15	_e_EbajYYeA	MPREb_YHlb31BI5hQ	UCQHPojzeoBAV2zkvmqmen7Q
 390	Paralyzer	Finger Eleven	Them vs. You vs. Me	INDIFFERENT	3:28	ZD3kCxMqjuk	MPREb_R10L5nl8mLB	UCOyW38qjTk06wjY-6qihZVQ
 297	Keep The Streets Empty For Me	Fever Ray	Fever Ray	INDIFFERENT	5:39	Bs_BWZarOWM	MPREb_tfGjHvl0zMA	UCRaHFNd1y3DzyPHSLSeIR-Q
-345	Clumsy	Fergie	The Dutchess Deluxe	INDIFFERENT	4:00	6qgIUAfZ1SE	MPREb_HsWKWKOYAfz	UCmla6CSfrh4N8uip10t-YPw
+345	Clumsy	Fergie	The Dutchess	INDIFFERENT	4:00	HL7NDaZQje4	MPREb_teYtCWKBuWF	UCmla6CSfrh4N8uip10t-YPw
 443	Big Girls Don't Cry (Personal)	Fergie	The Dutchess	INDIFFERENT	4:28	xauGCTL9c3c	MPREb_teYtCWKBuWF	UCmla6CSfrh4N8uip10t-YPw
-497	Fergalicious	Fergie	The Dutchess	INDIFFERENT	4:52	9AOYTybjIso	MPREb_ey0tXvrG8ob	UCmla6CSfrh4N8uip10t-YPw
 4	All My Fault	Fenix TX	Fenix TX	INDIFFERENT	2:49	75TgJa8vJBs	MPREb_dOYs1FFZVg7	UCAMXDlyGZuR9spYGSbeEBLw
 88	My Moon My Man	Feist	The Reminder	INDIFFERENT	3:48	mgyCVl5MB4g	MPREb_ccfCL94LciY	UCpqoOPpIfyUu6qCh-i-lUtQ
 579	Feeling A Moment	Feeder	Pushing the Senses	INDIFFERENT	4:08	L_n26HOPLvE	MPREb_yEE0PyuGQcb	UCQ2IUaFcoUn1MXSiJA8rGOQ
@@ -664,3 +663,4 @@
 214	Gone	*NSYNC	Celebrity	INDIFFERENT	4:52	HrxqVVN0Lpo	MPREb_npZjpiVMEHX	UCm-wsxhI_OOhg4O1TwDJ98A
 242	Pop	*NSYNC	Celebrity	INDIFFERENT	3:59	rcyqN5D03vA	MPREb_npZjpiVMEHX	UCm-wsxhI_OOhg4O1TwDJ98A
 638	"White & Nerdy (Parody of ""Ridin'"" by Chamillionaire feat. Krayzie Bone)"	"""Weird Al"" Yankovic"	Straight Outta Lynwood	INDIFFERENT	2:50	ok0hDCvrzSA	MPREb_gQU7yhRnd8J	UCa4LILjjT1YCeo5Xg9rQTMQ
+497	Fergalicious	Fergie	The Dutchess Deluxe		4:52	B5OYCDnVftA		
