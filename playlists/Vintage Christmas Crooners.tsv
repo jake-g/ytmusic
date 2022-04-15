@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 2	Let It Snow! Let It Snow! Let It Snow!	Dean Martin	A Winter Romance	LIKE	1:58	tZmY4L4cfus	MPREb_TC8TUzDoDC2	UCWbQ2D5aaB4tpqIE4TzTAAA
 50	I've Got My Love To Keep Me Warm	Dean Martin	Puttin' On The Ritz: Capitol Sings Irving Berlin	LIKE	2:44	27O0R_zRDNY	MPREb_1jeCpCt1VBy	UCWbQ2D5aaB4tpqIE4TzTAAA
-32	Let It Snow, Let It Snow, Let It Snow	Vaughn Monroe	Presenting Vaughn Monroe	INDIFFERENT	3:05	o8rLgCyL6SI	MPREb_etlg1CpcjFJ	UCYeBCNM_ZyAzoMtlJJ03-mA
+34	Let It Snow, Let It Snow, Let It Snow	Vaughn Monroe	Presenting Vaughn Monroe	INDIFFERENT	3:05	o8rLgCyL6SI	MPREb_etlg1CpcjFJ	UCYeBCNM_ZyAzoMtlJJ03-mA
 10	My Favourite Things	Tony Bennett	Snowfall: The Tony Bennett Christmas Album	INDIFFERENT	3:17	bg8wCNm_uVI	MPREb_IuCQajrDGQn	UCQgu2j5deAy_cJfByew18qg
 29	Winter Wonderland	Tony Bennett	A Swingin' Christmas Featuring The Count Basie Big Band	INDIFFERENT	2:30	pjFrka8dnaY	MPREb_RD6AJTdplXg	UCQgu2j5deAy_cJfByew18qg
 35	Have Yourself a Merry Little Christmas	Tony Bennett	A Swingin' Christmas Featuring The Count Basie Big Band	INDIFFERENT	4:35	AbtQQ8zsm3s	MPREb_RD6AJTdplXg	UCQgu2j5deAy_cJfByew18qg
@@ -18,7 +18,7 @@
 33	The Christmas Song (feat. Natalie Cole)	Nat King Cole	The Christmas Song (Expanded Edition)	INDIFFERENT	3:45	WqKFAzqBLa0	MPREb_fckyR3KQsFB	UCirPLQsYtHWBmalEbX1LcAA
 46	Mrs Santa Claus	Nat King Cole	Cosy Christmas: Fireside Classics	INDIFFERENT	2:10	ctiQ-xTxEag	MPREb_e4yKnA0xdy5	UCirPLQsYtHWBmalEbX1LcAA
 28	It’s Beginning to Look A Lot Like Christmas	Michael Ball	Together At Christmas	INDIFFERENT	3:08	uuiN9s45owc	MPREb_U4RHXd8na27	UCF9x3d-8ROOIhx_FK-ZL2Gw
-21	The Christmas Song (Chestnuts Roasting On An Open Fire)	Mel Tormé	Mel Torme At The Crescendo	INDIFFERENT	3:05	5Dcia2P3uXQ	MPREb_OZNK17yuW8V	UCYLwWpHekuN6mOxqmqUUJfw
+22	The Christmas Song (Chestnuts Roasting On An Open Fire)	Mel Tormé	Mel Torme At The Crescendo	INDIFFERENT	3:05	5Dcia2P3uXQ	MPREb_OZNK17yuW8V	UCYLwWpHekuN6mOxqmqUUJfw
 31	Christmas Night In Harlem	Louis Armstrong	Traditional Jazz Christmas	INDIFFERENT	2:40	yBVxu_sXaPM	MPREb_3qifdOKnT96	UCCDaSui4C9VFMpeRlKEOHDA
 58	Christmas In New Orleans	Louis Armstrong	The Magic of Music	INDIFFERENT	2:53	nJEjjQsuTh8	MPREb_DBWM8j5mkgW	UCCDaSui4C9VFMpeRlKEOHDA
 51	Merry Christmas Baby	Lou Rawls	Ultra-Lounge/Christmas Cocktails (Vol. 2)	INDIFFERENT	2:35	DEdEYjFX-sM	MPREb_KwwL3j6Oka3	UCvmhRo4Bg1TCuSlONNP5gsg
@@ -39,11 +39,11 @@
 16	The Christmas Waltz	Frank Sinatra	A Jolly Christmas From Frank Sinatra	INDIFFERENT	3:02	OfmcEok4mkE	MPREb_ogPxqKs8VGj	UC1zsfp3OD8qWQ0HfLbz2TXg
 54	Adeste Fideles (O Come All Ye Faithful)	Frank Sinatra	The Columbia Years (1943-1952): The Complete Recordings: Volume 5	INDIFFERENT	2:36	_PdLrftFaX0	MPREb_jmc6GvzOz8B	UC1zsfp3OD8qWQ0HfLbz2TXg
 57	Christmas Alphabet	Dickie Valentine	Classic Christmas, Vol. 3	INDIFFERENT	1:10	mHAADhl2Wc8	MPREb_vSP4A2yWf7o	UCKWSdrph4MA3qYG-R4MlwGQ
-34	Merry Christmas Baby	Chuck Berry	St. Louis To Liverpool	INDIFFERENT	3:14	MN8o9jaVq_U	MPREb_NJQNtPcxGVO	UCUfKmP9mv1yUkxlE5DDX5Zg
+32	Merry Christmas Baby	Chuck Berry	St. Louis To Liverpool	INDIFFERENT	3:14	MN8o9jaVq_U	MPREb_NJQNtPcxGVO	UCUfKmP9mv1yUkxlE5DDX5Zg
 48	The Bell That Couldn't Jingle	Burt Bacharach	Lost Christmas 2 - Holiday Rarities	INDIFFERENT	2:35	a8MWAcofzZY	MPREb_iTF9PqK8bFj	UC9ytb5oEKF9dpFtB6CiDOFw
 7	A Holly Jolly Christmas (Single Version)	Burl Ives	Have A Holly Jolly Christmas	INDIFFERENT	2:16	P_dI6fVZwd0	MPREb_wvyK3q5awSj	UCl2j2shAiHLlGu0JSm-4dCQ
 15	"Silver And Gold (From ""Rudolph The Red-Nosed Reindeer"" Soundtrack)"	Burl Ives	Rudolph The Red-Nosed Reindeer	INDIFFERENT	1:46	7t6DhAkhpq8	MPREb_3RiDt6WWajK	UCl2j2shAiHLlGu0JSm-4dCQ
-22	Rudolph The Red-Nosed Reindeer	Burl Ives	Have A Holly Jolly Christmas	INDIFFERENT	2:11	5UqZi5OU6zM	MPREb_wvyK3q5awSj	UCl2j2shAiHLlGu0JSm-4dCQ
+21	Rudolph The Red-Nosed Reindeer	Burl Ives	Have A Holly Jolly Christmas	INDIFFERENT	2:11	5UqZi5OU6zM	MPREb_wvyK3q5awSj	UCl2j2shAiHLlGu0JSm-4dCQ
 56	I Saw Mommy Kissing Santa Claus	Bobby Sherman	111 Superhits for Christmas	INDIFFERENT	2:18	1jqZxlcQGfg	MPREb_iw7llr3Miqr	UCcN2x9ZsnRpYZB67C0qbRyA
 45	O Come All Ye Faithful	Bobby Darin	25th Day Of December With Bobby Darin	INDIFFERENT	2:23	J5eX3zFfekA	MPREb_8MLHx34dHL7	UCj_otreRPRMynq2_gZj9s3w
 6	White Christmas (feat. Ken Darby Singers & John Scott Trotter And His Orchestra)	Bing Crosby	White Christmas	INDIFFERENT	3:04	t_xq3Bj_tas	MPREb_NwmxvT0YBIB	UC3BuiU3nA2hT9Fq0ekBIcuQ

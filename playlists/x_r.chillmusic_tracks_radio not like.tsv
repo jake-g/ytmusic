@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 100	In The Waiting Line	Zero 7	Simple Things	LIKE	4:31	G5KbL4LAUL8	MPREb_q4hrh9IVUYE	UCEIRECr4BQQ6blwSi9ogZvA
+142	Doin' Time	Sublime	Sublime (10th Anniversary Edition / Deluxe Edition)	LIKE	4:13	sVrjOGFc5Kw	MPREb_R0Bd0CTl0c6	UCPu227hd28pLRBC-S6i5e6g
+66	Final Credits (Mixed)	Midland	Defected Presents Franky Rizardo In The House (Mixed)	LIKE	5:52	zBpZC-TuvFQ	MPREb_FqE9ZGWonOw	UCqLvkPsVdX9U5XQrLNVsjXw
 104	3am coffee	nrg	3am coffee	INDIFFERENT	1:41	Kccdf33xXL4	MPREb_47MknOSwXur	UCkViSlf4ffPK-O_R4Nes_BQ
 76	Frilled	delayde	Beatsupply: Crate001	INDIFFERENT	1:35	MJwndzZI6UQ	MPREb_qly5Doy9GeH	UCByoqey1fiKaopKgRIO2vuw
 90	Failbait (feat. Cypress Hill)	deadmau5	The Veldt EP	INDIFFERENT	4:50	VzppfCbGW_c	MPREb_MncukRwKVM5	UCL44WZGVf-BU5N0ymCXrpBg
@@ -40,7 +42,6 @@
 97	Dreaming In A Kyoto Train	Tangerine Dream	Summer In Nagasaki	INDIFFERENT	7:00	FGo_N71es1A	MPREb_AC4Ix81naU0	UClE2TcmrYlBn4L8WM_fnl_Q
 20	I'll Drown	Sóley	We Sink	INDIFFERENT	3:32	PFxr5Ie3z_E	MPREb_tPdlOyWoTje	UCg3Ls_NPzDdOrng-lTsg_kA
 19	I Wanna Go	Summer Heart	About A Feeling	INDIFFERENT	4:07	o9ORCM2dWg8	MPREb_sFRpV2okIsu	UCNwTPvDYWGRG_Sp2rt0-UuQ
-142	Doin' Time	Sublime	Sublime (10th Anniversary Edition / Deluxe Edition)	INDIFFERENT	4:13	sVrjOGFc5Kw	MPREb_R0Bd0CTl0c6	UCPu227hd28pLRBC-S6i5e6g
 50	Needless to Say	Subjazz	11.1	INDIFFERENT	4:03	v9z7XY3FqvI	MPREb_q4COlRy2XNS	UC8yBucZjzC_5ZgYPAn5NN7Q
 99	6 Underground (Nellee Hoopers Edit)	Sneaker Pimps	6 Underground	INDIFFERENT	3:56	rz1OckangUo	MPREb_D8O2Qrbm2m1	UCJyWGubOprIC7wq4VA7mk5Q
 11	Girls	Slow Magic	How To Run Away	INDIFFERENT	4:31	y26nH7h5rNw	MPREb_bvgkNZ3NsRF	UCmUORL97OeG5TxWhVAsB40Q
@@ -80,7 +81,6 @@
 39	Small World Little Death (feat. Alrightstacy)	Moloch & Weird Nite	Small World Little Death (feat. Alrightstacy)	INDIFFERENT	3:46	lTGS41rY1uQ	MPREb_ux6HNfpVu5M	UCua63B-OqSPjPlFazuCYDtQ
 26	Take Me Somewhere Nice	Mogwai	Rock Action	INDIFFERENT	6:58	CK1zCi0z_Hk	MPREb_irDOSVSRDD0	UCSx5h9nKekcNNzOSPbHJx2Q
 72	Trojan Matter	Mindsight	Trojan Matter	INDIFFERENT	4:26	EC5uGZKWxoQ	MPREb_CWAYkmfqtjQ	UC-lpxl4BAXDaWfSW1zBDnZA
-66	Final Credits (Mixed)	Midland	Defected Presents Franky Rizardo In The House (Mixed)	INDIFFERENT	5:52	zBpZC-TuvFQ	MPREb_FqE9ZGWonOw	UCqLvkPsVdX9U5XQrLNVsjXw
 123	Unfinished Sympathy	Massive Attack	Collected	INDIFFERENT	5:13	HQSomhsMjTU	MPREb_29BePQscsOO	UCr1uxon7aFztw_dnrau0TDA
 134	Error 404	Martin Garrix	Error 404	INDIFFERENT	5:33	vElWz5Ef3cw	MPREb_OMkoVQVIcFO	UCqJnSdHjKtfsrHi9aI-9d3g
 67	Good Vibes	Markvard	Good Vibes	INDIFFERENT	3:21	72spxgcv9J0	MPREb_zlGmV57BEgL	UC2Q7h0WuuR1rH3erDtD1nZQ
@@ -135,7 +135,7 @@
 53	Run to the Waves	Blaque Trumpet	Run to the Waves	INDIFFERENT	2:06	fyiZjmrdzXo	MPREb_27kyj8fVkKR	UCs7zBw7fxTcK_d74JqaoiZg
 13	Let It Be (feat. Veela)	Blackmill	Miracle	INDIFFERENT	6:04	kOITIXQc2TM	MPREb_3Tu7kA665yH	UC0LBF1DkS0qzApEmQBeQWiw
 95	Spirit of Life	Blackmill	Miracle	INDIFFERENT	6:16	NjbdXZxffFI	MPREb_3Tu7kA665yH	UC0LBF1DkS0qzApEmQBeQWiw
-85	Brian Wilson	Barenaked Ladies	Gordon	INDIFFERENT	4:47	8Vv3Ve6KQt8	MPREb_rXIYVETVEFz	UCk1VTZtKTDV1Zo1mHyoPyZA
+85	Brian Wilson	Barenaked Ladies	Gordon	INDIFFERENT	4:48	8Vv3Ve6KQt8	MPREb_rXIYVETVEFz	UCk1VTZtKTDV1Zo1mHyoPyZA
 55	R U Mine?	Arctic Monkeys	R U Mine? / Electricity	INDIFFERENT	3:20	voH0S0e01vs	MPREb_b7SZ5a9xnty	UC8Yu1_yfN5qPh601Y4btsYw
 124	Goodbye (with Soap & Skin)	Apparat	The Devil's Walk	INDIFFERENT	4:29	rA7KC225dxA	MPREb_16ENJSNs1Io	UCCcw3knHXYtjMLrJ0V_KHKA
 127	Back & Forth	Alex Martian	Back & Forth	INDIFFERENT	3:17	jDpns3NT1Xk	MPREb_eemWegjzmlE	UCh4KaS2UStPOOB_1WRu3YaQ
