@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 132	Quiet Little Voices	We Were Promised Jetpacks	Quiet Little Voices	LIKE	4:18	fy5fz3XM77A	MPREb_hdqMxlYxyf4	UCe8eb58QrIeBLFF09SugGJg
 208	Don't Give Up	Washed Out	Paracosm	LIKE	3:54	JEh9_HR4K8g	MPREb_uBenfYxZc5o	UC1rCT_Cy1pP1wnRcEUV3nPA
+139	Swim and Sleep (Like a Shark)	Unknown Mortal Orchestra	II (Deluxe Edition)	LIKE	2:45	wdJKubmzcjU	MPREb_ITkWKYg3s0D	UCXMAKzy9duqBltrR8TrHmpQ
 207	Red Eyes	The War on Drugs	Lost In The Dream	LIKE	4:58	0pG7xlOWS3o	MPREb_866cCKMqeRe	UCnAZ69DaeHv6RR63qdp1U8g
 293	Dry The Rain (Remaster)	The Beta Band	Dry the Rain (Remaster)	LIKE	6:03	6XKvbROUmNk	MPREb_nap94e0b1VA	UCDIwq5TEZecPTAUHLzJ4cWw
 292	Fuck the Beach	Team Spirit	Team Spirit EP	LIKE	2:30	CNTo6l8vrVk	MPREb_wvgh5KDDlTY	UCB45ustJX23ncGv95a_jcvQ
@@ -49,7 +50,6 @@
 124	Riptide	Vance Joy	Dream Your Life Away (Special Edition)	INDIFFERENT	3:25	MsTWpbR_TVE	MPREb_Kht5SC5fsgu	UCwNoBkSn4w8l4olCKDCTplQ
 153	Ya Hey	Vampire Weekend	Modern Vampires of the City	INDIFFERENT	5:13	P6A-vhsSERE	MPREb_39tJXHLDeiL	UCWy-MPuAh_GH8YwXxtq3gcA
 240	So Sad, So Sad	VARSITY	Cult of Personality - So Sad, So Sad	INDIFFERENT	3:52	2C9Z5zO4g6c	MPREb_qbJm1wBpKtP	UC2Lh1d71B_hNrOxf1pSgfMw
-139	Swim and Sleep (Like a Shark)	Unknown Mortal Orchestra	II (Deluxe Edition)	INDIFFERENT	2:45	wdJKubmzcjU	MPREb_ITkWKYg3s0D	UCXMAKzy9duqBltrR8TrHmpQ
 100	Mangrove	Toukan Toukän	Kitsuné Parisien	INDIFFERENT	4:52	rSRYVRe4Iqo	MPREb_b6d0NAZFSw4	UC63B6g9PWkKWWciCQLrZyZw
 117	You and I	Toro Y Moi	Boo Boo	INDIFFERENT	3:52	FYhELqqcwMQ	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
 340	Girl Like You	Toro Y Moi	Boo Boo	INDIFFERENT	3:44	maipyj45wH4	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
@@ -191,7 +191,7 @@
 95	Pulse	Mint Julep	Pulse	INDIFFERENT	3:24	I0xUEbiPVC0	MPREb_DPwXN7ZII3R	UCSaPP3FUdsecX6gnkbI-Gug
 147	Genghis Khan	Miike Snow	iii	INDIFFERENT	3:33	la3y-i0qu7Q	MPREb_u0F0UklnHrT	UCzsEmTSzPLxL0w0Ff6n8rEA
 214	I Want Wind to Blow	Microphones	The Glow, Pt. 2	INDIFFERENT	5:32	5gRvQtw0Rwo	MPREb_kuiSi22HLWs	UCSJeXepYnGr4l0tQXZTYbcQ
-178	I Look To You (feat. Kimbra)	Miami Horror	Illumination	INDIFFERENT	3:54	ScLIZTrh1qk	MPREb_lj1dfy0s7dJ	UCU8JQ8M5vIabM-rj1zKGPsA
+178	I Look To You (feat. Kimbra)	Miami Horror	Illumination	INDIFFERENT	3:54	oDS7Zym2MIg	MPREb_lj1dfy0s7dJ	UCU8JQ8M5vIabM-rj1zKGPsA
 279	Help I'm Alive	Metric	Fantasies	INDIFFERENT	4:45	liYmtzt1lOE	MPREb_c5sFxWsqG1q	UCEDAqx7QPrOUV3Bx9aqUjsw
 27	Found Me	Men I Trust	Oncle Jazz	INDIFFERENT	3:31	mDl2J3qivBQ	MPREb_FB5enwkcFkJ	UCaPOa_Tg0TThuYSVtUEXb8g
 254	Daylight	Matt and Kim	Grand	INDIFFERENT	2:51	QBbJCGYKr_8	MPREb_4iUgOhTLtrv	UC_TvrYhcdRfrDjNBWYILFxQ

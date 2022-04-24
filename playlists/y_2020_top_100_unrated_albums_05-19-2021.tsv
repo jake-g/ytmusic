@@ -1,7 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 32	Say the Name	clipping.	Visions of Bodies Being Burned	LIKE	5:00	qRSuJh8azms	MPREb_6b0ribtqTtJ	UCIahymQzVz4bXn1DrDB3gtg
 43	Eaten Alive	clipping.	Visions of Bodies Being Burned	LIKE	5:42	fZJmCBwyltI	MPREb_6b0ribtqTtJ	UCIahymQzVz4bXn1DrDB3gtg
-966	327 (feat. Billie Essco, Tyler, The Creator, Tyler & The Creator)	Westside Gunn	Pray for Paris	LIKE		lbvX5xQGN_8	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
 461	April Ha Ha	Nothing	The Great Dismal	LIKE	4:21	Dl_R_5X99r8	MPREb_qhRik653L8Y	UCJkch0w_oUIYJaWTZM1rrNw
 600	Grieving (feat. James Blake)	Kehlani	It Was Good Until It Wasn't	LIKE	3:51	RBHdDCJE1kM	MPREb_3Yk9s68h7vU	UCONwFIjhxe4MR2sY3Cv0adA
 537	Am I Missing Something?	JARV IS...	Beyond the Pale	LIKE	6:47	RNFPFXAxhhw	MPREb_CtjaXUAQhth	UCboA_lieEhJ-EoLJMZn3cTA
@@ -106,16 +105,6 @@
 551	All These Too, I, I Love	William Basinski	Lamentations	INDIFFERENT	11:07	WMTcY4WqfJI	MPREb_r1V7BRakUwC	UCi6J6_Fl9zUHMFmduDLISfw
 552	Please, This Shit Has Got To Stop	William Basinski	Lamentations	INDIFFERENT	5:05	xlFLXah2tsQ	MPREb_r1V7BRakUwC	UCi6J6_Fl9zUHMFmduDLISfw
 553	Fin	William Basinski	Lamentations	INDIFFERENT	1:38	X3VliZ5ZFvw	MPREb_r1V7BRakUwC	UCi6J6_Fl9zUHMFmduDLISfw
-963	400 Million Plus Tax	Westside Gunn	Pray for Paris	INDIFFERENT		CMJLUFlH3L8	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-964	No Vacancy	Westside Gunn	Pray for Paris	INDIFFERENT		zdMctqM9GrI	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-965	George Bondo (feat. Benny The Butcher & Conway the Machine)	Westside Gunn	Pray for Paris	INDIFFERENT		kjilsCwCJNE	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-967	Euro Step	Westside Gunn	Pray for Paris	INDIFFERENT		jCSTBJIMrMU	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-968	Allah Sent Me (feat. Benny The Butcher & Conway the Machine)	Westside Gunn	Pray for Paris	INDIFFERENT		uUMNB0KZ-xU	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-969	$500 Ounces (feat. Roc Marciano & Freddie Gibbs)	Westside Gunn	Pray for Paris	INDIFFERENT		KHrcKuRv3HY	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-970	Versace	Westside Gunn	Pray for Paris	INDIFFERENT		sl6Mh1oFkQs	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-971	Shawn vs. Flair	Westside Gunn	Pray for Paris	INDIFFERENT		49RHZtz2QAk	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-972	Party wit Pop Smoke (feat. Keisha Plum)	Westside Gunn	Pray for Paris	INDIFFERENT		dXezEZlqCSU	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
-973	LE Djoliba (feat. Cartier William)	Westside Gunn	Pray for Paris	INDIFFERENT		auP-Do_5GgA	MPREb_ovPVp61tdsf	UCybsc9LmsG3dhOf4_Q4i4lA
 1005	Empathy For The Devil	Tim Burgess	I Love The New Sky	INDIFFERENT	4:21	9QOum0k5lTI	MPREb_xK5fzzrBLkt	UCStlU2XKzglm06BHM73djBA
 1006	Sweetheart Mercury	Tim Burgess	I Love The New Sky	INDIFFERENT	3:54	H8QkcU-BW8o	MPREb_xK5fzzrBLkt	UCStlU2XKzglm06BHM73djBA
 1007	Comme D'Habitude	Tim Burgess	I Love The New Sky	INDIFFERENT	4:22	1n8YOn5XTHY	MPREb_xK5fzzrBLkt	UCStlU2XKzglm06BHM73djBA
@@ -575,7 +564,7 @@
 628	The Steady Heart	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	5:40	2EpjlWVWD6s	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
 629	Carrying Gravity	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	7:04	SdykPqRAF1k	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
 630	The Spine Is Quiet In The Center	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	5:12	BMmenOACUvY	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
-631	Overflowing	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	0:29	2Sa3r0TdDUQ	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
+631	Overflowing	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	0:28	2Sa3r0TdDUQ	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
 632	Deepening The Flow Of	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	0:28	KHEL4dRP37c	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
 633	Expanding Electricity	Kaitlyn Aurelia Smith	The Mosaic of Transformation	INDIFFERENT	10:37	a5LaBKpymog	MPREb_Ca57sK7J87x	UCgBYrIICTQWy3e731ZOdW6Q
 153	Every Now and Then	Ka	Descendants of Cain	INDIFFERENT	3:35	UiVAnEI0XeU	MPREb_rAatPhykNvB	UCeVTN5NrCG6xro_S7TCHT1w
@@ -1065,6 +1054,17 @@
 641	Enter Exit	Alessandro Cortini	Illusion Of Time	INDIFFERENT	5:28	AFESYtLnPfc	MPREb_boFPywpWQfO	UCBZAtymUEuwsmoL3EdzgqPw
 642	Water	Alessandro Cortini	Illusion Of Time	INDIFFERENT	8:47	fwHqVO1oJMU	MPREb_boFPywpWQfO	UCBZAtymUEuwsmoL3EdzgqPw
 643	Stills	Alessandro Cortini	Illusion Of Time	INDIFFERENT	2:50	9GHPCkrGIew	MPREb_boFPywpWQfO	UCBZAtymUEuwsmoL3EdzgqPw
+963	400 Million Plus Tax	Westside Gunn	Pray for Paris			CMJLUFlH3L8		
+964	No Vacancy	Westside Gunn	Pray for Paris			zdMctqM9GrI		
+965	George Bondo	Westside Gunn	Pray for Paris			kjilsCwCJNE		
+966	327	Westside Gunn	Pray for Paris			lbvX5xQGN_8		
+967	Euro Step	Westside Gunn	Pray for Paris			jCSTBJIMrMU		
+968	Allah Sent Me	Westside Gunn	Pray for Paris			uUMNB0KZ-xU		
+969	$500 Ounces	Westside Gunn	Pray for Paris			KHrcKuRv3HY		
+970	Versace	Westside Gunn	Pray for Paris			sl6Mh1oFkQs		
+971	Shawn vs. Flair	Westside Gunn	Pray for Paris			49RHZtz2QAk		
+972	Party wit Pop Smoke	Westside Gunn	Pray for Paris			dXezEZlqCSU		
+973	LE Djoliba	Westside Gunn	Pray for Paris			auP-Do_5GgA		
 942	Retaliation	Nazar	Guerrilla		3:29	JpoqjNzr_fw		
 943	Diverted	Nazar	Guerrilla		4:15	WSLuO_bMDWE		
 944	Bunker	Nazar	Guerrilla		3:52	4nP6m0ZXt94		

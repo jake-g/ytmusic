@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 152	Leader Of The Pack	The Shangri-Las	Leader Of The Pack	LIKE	2:53	BWIf4Ifk6aQ	MPREb_nulwCdV58gU	UCOQZHdy6mFgXNOaZhvCsceA
 834	Not Fade Away	The Crickets	The Buddy Holly Collection	LIKE	2:22	nQqGvicexpE	MPREb_tv3cJ9NbIPG	UCZaYiWUeNKzHXXtHhH55J_w
+11	Ooby Dooby (feat. The Teen Kings)	Roy Orbison	Ooby Dooby / Go Go Go	LIKE	2:11	a45z_DLE5YE	MPREb_9idZImMb4Y2	UCjMI6Jhz6i608_B2pvYNrfg
 827	C’Mon Everybody	Eddie Cochran	The Best Of Eddie Cochran	LIKE	1:57	-ihMxLEhWGU	MPREb_uyTRwFvwMVx	UC0hH-HECShPwModEyrpQIZQ
 820	That'll Be The Day	Buddy Holly	"The ""Chirping"" Crickets"	LIKE	2:17	V46r035VntQ	MPREb_Twf5P0YztYE	UCddPyO3i288bFhCe9mzJsqg
 485	Brasil	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	2:32	E2IGrG2ipBk	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
@@ -82,7 +83,7 @@
 333	You Gave Me Peace Of Mind	The Spaniels	The Very Best Of The Spaniels	INDIFFERENT	2:43	Ay97HIpASME	MPREb_uEapHJ4VteW	UCGknsvOQX7LepqOuMq1oVvg
 122	It Will Stand (2002 Digital Remaster; 24 Bit Mastering)	The Showmen	Finger Poppin' And Stompin' Feet: 20 Classic Allen Toussaint Productions For Minit Records 1960-1962	INDIFFERENT	2:23	nUwA3NXvYKU	MPREb_oulZitf81kg	UCbWev-nzsms-cDTTKPuMopA
 835	It Will Stand	The Showmen	Everything I Do Gonh Be Funky (The Hit Songs & Productions 1957-1978)	INDIFFERENT	2:14	CqLZUhjvEgQ	MPREb_HS6Gt5o2P0k	UCbWev-nzsms-cDTTKPuMopA
-250	Baby It's You	The Shirelles	The Girl Can Sing	INDIFFERENT	2:30	V7_RK2YFuEo	MPREb_tpsfQBvhoqj	UC5mRtMvmUCwSGLQK4A8lSyg
+250	Baby It's You	The Shirelles	The Girl Can Sing	INDIFFERENT	2:31	V7_RK2YFuEo	MPREb_tpsfQBvhoqj	UC5mRtMvmUCwSGLQK4A8lSyg
 506	Baby It's You	The Shirelles	Only The Best of The Shirelles	INDIFFERENT	2:42	dIAODKjYDXI	MPREb_Ghw5fuiGzRI	UC5mRtMvmUCwSGLQK4A8lSyg
 517	Will You Love Me Tomorrow	The Shirelles	Only The Best of The Shirelles	INDIFFERENT	2:42	n1XWvN3yUBk	MPREb_Ghw5fuiGzRI	UC5mRtMvmUCwSGLQK4A8lSyg
 897	Will You Love Me Tomorrow	The Shirelles	Filth	INDIFFERENT	2:42	epp1dQcEBOA	MPREb_KPJMJnNkrI6	UC5mRtMvmUCwSGLQK4A8lSyg
@@ -331,7 +332,6 @@
 689	Rainbow	Russ Hamilton	Anthology: The Deluxe Collection	INDIFFERENT	2:47	KkuBMFoywIU	MPREb_UGlBAnWUcDW	UCCQ1kf9NcnS0vY78b-pOz_Q
 700	Do The Funky Chicken	Rufus Thomas	Do the Funky Chicken [Stax Remasters]	INDIFFERENT	3:18	JImtDKt8h2c	MPREb_uxHep2YOg6k	UCm1Njiat5P7x7ftWuNZi1tw
 705	Walking the Dog	Rufus Thomas	Walking The Dog	INDIFFERENT	2:38	zyoXMXjWP4Y	MPREb_wOZd1xxI6kE	UCm1Njiat5P7x7ftWuNZi1tw
-11	Ooby Dooby	Roy Orbison	Ooby Dooby / Go Go Go	INDIFFERENT	2:11	QFS_AWkCxc8	MPREb_9idZImMb4Y2	UCjMI6Jhz6i608_B2pvYNrfg
 67	Blue Bayou	Roy Orbison	In Dreams	INDIFFERENT	2:30	4-6iDJGWerY	MPREb_bGh9FqEjoHI	UCjMI6Jhz6i608_B2pvYNrfg
 95	In Dreams	Roy Orbison	In Dreams	INDIFFERENT	2:50	YkYqqpWGHF8	MPREb_DTvRlqO2IrZ	UCjMI6Jhz6i608_B2pvYNrfg
 181	Only the Lonely (Know the Way I Feel)	Roy Orbison	Legends of Country Music: The Best Of Austin City Limits	INDIFFERENT	2:39	_A4PRz5oZOg	MPREb_bWz5MxNxsgF	UCjMI6Jhz6i608_B2pvYNrfg
@@ -515,7 +515,7 @@
 698	Hey! Porter	Johnny Cash	The Best Of The Sun Years	INDIFFERENT	2:10	fW4Sz8slSSI	MPREb_52Xae7XTj6D	UCiGs21G3KeE2tpbbMPzn9Qg
 704	Get Rhythm (1956 Recording Remastered)	Johnny Cash	A Golden Hour Of Johnny Cash	INDIFFERENT	2:13	OJAZ63uVUCw	MPREb_49s4TsXwPfi	UCiGs21G3KeE2tpbbMPzn9Qg
 708	Big River	Johnny Cash	Johnny Cash / The Best	INDIFFERENT	2:29	5Z9Hw-KXFUE	MPREb_x9RA6E7UlC1	UCiGs21G3KeE2tpbbMPzn9Qg
-828	Ballad of a Teenage Queen	Johnny Cash	Ballad of a Teenage Queen / Big River	INDIFFERENT	2:11	naLjZU8HWvY	MPREb_XrBGzsEd8CV	UCiGs21G3KeE2tpbbMPzn9Qg
+828	Ballad Of A Teenage Queen (feat. The Tennessee Two)	Johnny Cash	Ballad Of A Teenage Queen / Big River	INDIFFERENT	2:11	1UM_fyeEt1k	MPREb_XrBGzsEd8CV	UCiGs21G3KeE2tpbbMPzn9Qg
 396	Lonesome Tears In My Eyes	Johnny Burnette & The Rock 'N' Roll Trio	Tear It Up: The Complete Legedary Coral Recordings	INDIFFERENT	2:00	tzVIumqslGs	MPREb_muYWo8RcD86	UCnBITa_mWmyL2D2oMTsEWgQ
 184	You're Sixteen	Johnny Burnette	Johnny Burnette	INDIFFERENT	1:59	sYT6eRx84GQ	MPREb_88y1bIK36k4	UCnBITa_mWmyL2D2oMTsEWgQ
 733	Touch Me	Johnny Burnette	You're Sixteen	INDIFFERENT	2:27	-zBD-CpeCwQ	MPREb_bfJGM92hWe1	UCnBITa_mWmyL2D2oMTsEWgQ
@@ -543,7 +543,7 @@
 413	He'll Have to Go	Jim Reeves	According to My Heart	INDIFFERENT	2:14	L-pT1W_s9oY	MPREb_GDJ10ovA0ZD	UCwInUv-efMfeXRyvvAkr0OQ
 432	Peg O´My Heart (feat. The Harmonicats)	Jerry Murad	Greatest Hits of a Decade. 40´s Chart Toppers	INDIFFERENT	2:07	YbR6LF3_AIw	MPREb_y0gV4JziTjE	UC-hNAdrBuCeWERWi_vHeIkA
 241	Fools Like Me	Jerry Lee Lewis	Jerry Lee Lewis & Greatest Hits	INDIFFERENT	2:51	-LaK-yMUpgU	MPREb_glDgji9TTVK	UC3QNfxSmvwqaO_xJHe8IwSw
-247	Lovin' up a Storm	Jerry Lee Lewis	Original Golden Hits - Volume 3	INDIFFERENT	1:51	gwIBb0zLjIc	MPREb_PIerIaLnZIL	UC3QNfxSmvwqaO_xJHe8IwSw
+247	Lovin' up a Storm	Jerry Lee Lewis	Original Golden Hits - Volume 3	INDIFFERENT	1:51	6eJZRMjrYYE	MPREb_PIerIaLnZIL	UC3QNfxSmvwqaO_xJHe8IwSw
 259	Breathless	Jerry Lee Lewis	I Am What I Am	INDIFFERENT	2:44	p8lwOExlWb8	MPREb_3c14ajl3GTQ	UC3QNfxSmvwqaO_xJHe8IwSw
 265	It'll Be Me	Jerry Lee Lewis	Great Balls Of Fire	INDIFFERENT	2:46	6w8nE9XTDQA	MPREb_PW4llsRNfij	UC3QNfxSmvwqaO_xJHe8IwSw
 301	Mean Woman Blues	Jerry Lee Lewis	The Return of Jerry Lee Lewis	INDIFFERENT	2:26	y6mBHfs-CsY	MPREb_81loicmrVKI	UC3QNfxSmvwqaO_xJHe8IwSw
@@ -556,7 +556,7 @@
 679	Whole Lot of Shakin' Going On	Jerry Lee Lewis	The Essential Jerry Lee Lewis (The Sun Sessions)	INDIFFERENT	2:53	aBUluInJUDs	MPREb_y5ghkTggQGn	UC3QNfxSmvwqaO_xJHe8IwSw
 703	Whole Lotta Shakin' Goin' On (Live At The Star-Club, Hamburg, Germany/1964)	Jerry Lee Lewis	Live At The Star-Club Hamburg	INDIFFERENT	4:27	Pu_Y3BYPMkk	MPREb_MUllbjgMazs	UC3QNfxSmvwqaO_xJHe8IwSw
 715	Good Rockin Tonight	Jerry Lee Lewis	Ferriday Fireball	INDIFFERENT	2:43	9XuZT3M7kcY	MPREb_Ez0yyL3Ox06	UC3QNfxSmvwqaO_xJHe8IwSw
-830	Sweet Little Sixteen	Jerry Lee Lewis	Sweet Little Sixteen / How's My Ex Treating You	INDIFFERENT	2:53	Wuyh2xcu8sc	MPREb_0VRLgz5YGA0	UC3QNfxSmvwqaO_xJHe8IwSw
+830	Sweet Little Sixteen	Jerry Lee Lewis	Sweet Little Sixteen / How's My Ex Treating You	INDIFFERENT	2:53	ahMwlVR8gDs	MPREb_0VRLgz5YGA0	UC3QNfxSmvwqaO_xJHe8IwSw
 765	Only In America	Jay & The Americans	Come A Little Bit Closer	INDIFFERENT	2:05	aMt0nyTlNoo	MPREb_wkAICCktZV5	UCpwt7raLlGY-Z9h-C9bUVWw
 631	My Boy Elvis	Janis Martin	The Female Elvis	INDIFFERENT	2:08	16ZA4Bs9UuA	MPREb_CoB0VyOnp7K	UCOtwVTzRm6MxS4pAqL_LYSg
 709	Bang Bang	Janis Martin	We Love You To Pieces	INDIFFERENT	2:00	2SoY9U1DCjw	MPREb_dUmQaCEdTCj	UCOtwVTzRm6MxS4pAqL_LYSg
@@ -585,7 +585,6 @@
 394	The World Is Waiting for the Sunrise	Isham Jones And His Orchestra	The Very Best Of	INDIFFERENT	3:04	bMcRYakjcW0	MPREb_ZsGupyEc5Fn	UCwiaKf5a9hk63FFbpZd1EKg
 410	This Year of Grace: A Room with a View (duet)	Ian Bostridge/Jeffrey Tate/Sophie Daneman	The Noël Coward Songbook [standard]	INDIFFERENT	4:02	NHUIE-ILsfQ	MPREb_0uZ9qKNJUew	UC6h-82mp5RkzathF2Ja-iFw
 328	Bad Penny Blues	Humphrey Lyttelton	British Beat Before The Beatles 1955-1962	INDIFFERENT	2:45	M25ZkZsX8G8	MPREb_UdoxIrNnazQ	UCi8ArqlNbf8wLT9txqBRy0w
-385	Saturday Jump	Humphrey Lyttelton	1957-58	INDIFFERENT	2:19	fENvfs3aKC8	MPREb_0ocGTDbaiq1	UCi8ArqlNbf8wLT9txqBRy0w
 187	You'll Be Mine	Howlin' Wolf	Howlin' Wolf	INDIFFERENT	2:31	Hao0yqLAICU	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
 366	Milk Cow Blues	Howard Armstrong	Louie Bluie	INDIFFERENT	3:03	uqoPGZlp208	MPREb_8z81PUm2Xbc	UCbD7LClgzMSfkFXYcnjlv1g
 730	Love Dumb Baby	Homer 'Ray' Harris	Essential Sun Rockabillies Vol. 2	INDIFFERENT	3:02	MHSyNOkH9uE	MPREb_wjFLXvTovo4	UCAwnChJRIOvAdhU--jDqyEw
@@ -635,7 +634,7 @@
 763	She's Just My Style	Gary Lewis & The Playboys	She's Just My Style	INDIFFERENT	3:15	JPEpabBbRGw	MPREb_zmi9tCW6P5x	UCBJhzJHyx0c9XcGeHLtVewg
 766	Sure Gonna Miss Her	Gary Lewis & The Playboys	The Legendary Masters Series	INDIFFERENT	2:33	Adfz63746dA	MPREb_BqhLlAiwTV7	UCBJhzJHyx0c9XcGeHLtVewg
 680	Dark Moon	Gale Storm	The Very Best Of	INDIFFERENT	2:26	0Mwo2r2e2S8	MPREb_Lm424Tt3q9n	UCsPQcmUDoXhLDNqyyhRfcUw
-878	I Do Love You	G.Q.	Disco Nights (Expanded Edition)	INDIFFERENT	4:48	6q-CS7UL-u4	MPREb_5HRzuz21FGC	UCJuWYlSlD_jkmt80mMqKQOA
+878	I Do Love You	G.Q.	Disco Nights (Expanded Edition)	INDIFFERENT	4:49	6q-CS7UL-u4	MPREb_5HRzuz21FGC	UCJuWYlSlD_jkmt80mMqKQOA
 312	Buzz Buzz A-Diddle It	Freddy Cannon	Boom Boom Rock 'N' Roll	INDIFFERENT	2:27	gBY7vQtoMj0	MPREb_qBbHl9nZyD1	UCqCby1AAbpLp556xnzh7e4A
 826	Tallahassee Lassie	Freddy Cannon	Tallahassee Lassie / You Know	INDIFFERENT	2:13	wNc0YOTkIOY	MPREb_vMJgKAxSZi6	UCqCby1AAbpLp556xnzh7e4A
 829	Palisades Park	Freddy Cannon	Palisades Park	INDIFFERENT	1:54	snEqBY1WiCg	MPREb_C6wn2Wx3NtR	UCqCby1AAbpLp556xnzh7e4A
@@ -834,7 +833,7 @@
 208	Movie Magg	Carl Perkins	30 Succès	INDIFFERENT	2:07	0zzQd2P_qkA	MPREb_OQnFyJJAJ4z	UCO46V98c7Ib6Un4Y1mMpqbg
 242	Tennessee	Carl Perkins	Deluxe: Greatest Hits - Carl Perkins	INDIFFERENT	3:05	4XJ_Uj6EHic	MPREb_T0rm9ZXoIpI	UCO46V98c7Ib6Un4Y1mMpqbg
 248	Sure to Fall	Carl Perkins	30 Succès	INDIFFERENT	2:29	-eSke0XLlvM	MPREb_OQnFyJJAJ4z	UCO46V98c7Ib6Un4Y1mMpqbg
-254	Blue Suede Shoes	Carl Perkins	Country Classics	INDIFFERENT	2:15	3L1vYOU_wiE	MPREb_YgqodvIaPqo	UCO46V98c7Ib6Un4Y1mMpqbg
+254	Blue Suede Shoes	Carl Perkins	Country Classics	INDIFFERENT	2:15	OJIcUvQ1OWE	MPREb_YgqodvIaPqo	UCO46V98c7Ib6Un4Y1mMpqbg
 300	Boppin' The Blues	Carl Perkins	Sun 60th Anniversary	INDIFFERENT	2:49	DAO_VqgzKLs	MPREb_wMy2iYqEQcu	UCO46V98c7Ib6Un4Y1mMpqbg
 347	Glad All Over	Carl Perkins	Blue Suede Shoes	INDIFFERENT	1:43	4_y9ub8e7QY	MPREb_YPlfMuD8Wa0	UCO46V98c7Ib6Un4Y1mMpqbg
 363	Lend Me Your Comb	Carl Perkins	The Definitive Collection CD1	INDIFFERENT	1:58	hSfinFhiIxE	MPREb_6b3tuBBbSnI	UCO46V98c7Ib6Un4Y1mMpqbg
@@ -957,7 +956,7 @@
 746	Funky Street	Arthur Conley	Soul Directions	INDIFFERENT	2:24	voF9hrg-8C8	MPREb_rur8NstzCYS	UC9ZKd3pZPHlPvi9Rdt5wZ8Q
 133	Where Have You Been All My Life	Arthur Alexander	Bassy Rhythm & Blues of the 60s	INDIFFERENT	2:41	bD_Xv5Smwq0	MPREb_n3mLovCh1I9	UCTnefvaUPpP-x4ZhsuYf6JA
 528	A Shot Of Rhythm And Blues	Arthur Alexander	A Shot Of Rhythm And Blues: Hits & Rarities	INDIFFERENT	2:00	l0Mx3xZ74do	MPREb_IgB0j44mSPA	UCTnefvaUPpP-x4ZhsuYf6JA
-535	Anna (Go to Him)	Arthur Alexander	The Blues Joy, Vol. 1	INDIFFERENT	2:54	FGybD5oudZo	MPREb_G4jiVJbSP0D	UCTnefvaUPpP-x4ZhsuYf6JA
+535	Anna (Go to Him)	Arthur Alexander		INDIFFERENT	2:54	FGybD5oudZo		UCTnefvaUPpP-x4ZhsuYf6JA
 541	Where Have You Been All My Life	Arthur Alexander	Blues of 50's and 60's, Vol. 2	INDIFFERENT	2:41	6rJU9a0yVCM	MPREb_dPIVz8VIWXW	UCTnefvaUPpP-x4ZhsuYf6JA
 218	That's All Right	Arthur 'Big Boy' Crudup	That's All Right Mama	INDIFFERENT	2:57	a4IILmBqaD8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
 724	I'm Gonna Dig Myself A Hole	"Arthur ""Big Boy"" Crudup"	That's All Right Mama	INDIFFERENT	3:02	lFer0awAlF8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
@@ -972,9 +971,10 @@
 288	Don't Get Around Much Anymore	Al Hibbler	All You Need Is Jazz	INDIFFERENT	3:06	CfYbI8uy1Gk	MPREb_lGTiWRWuyh1	UCMldwfCHH8Td6u24gW__G1w
 638	No No Baby	Al Ferrier	Rockabilly Best	INDIFFERENT	2:19	BRIZjt08pmA	MPREb_J4r4kQpH6cS	UCzwfYh_xWslPuKPpXTgPSPA
 644	Justine	Adrian & The Sunsets	Breakthrough	INDIFFERENT	2:01	aXRh8Xyel9I	MPREb_WnxW1BzcH51	UCEGMBLseXzTgXRRZd9nwF_A
-924	The Boy from New York City	Ad Libs	The Complete Blue Cat Years	INDIFFERENT	3:02	l1PnOmboDSk	MPREb_bjvVQ42kT0z	UCTLRAt7pLphzyyM623rFlsA
+924	The Boy from New York City	Ad Libs	The Complete Blue Cat Years	INDIFFERENT	3:01	JYlGAkItm_Q	MPREb_bjvVQ42kT0z	UCTLRAt7pLphzyyM623rFlsA
 20	If It's Magic (feat. Cécile McLorin Salvant)	ARTEMIS	If It's Magic	INDIFFERENT	3:28	_C9SMA7guGc	MPREb_R3Xf2KOTkYl	UC8tLfErWj-bF18fdkEJtuZg
 488	Peanut Butter	The Marathons	Peanut Butter b/w Nothing In The World			l0m4i1HlwY0		
 45	I'm Confessin'	Louis Armstrong	Piano Bar: The Best of Jazz		3:22	ot9vqmA3GZI		
 493	Railroad Bill	Lonnie Donegan's Skiffle Group	Chris Barber 1956			HF-qsdiPmJQ		
 495	Lost John	Lonnie Donegan's Skiffle Group	Chris Barber 1956			wV3q7We94VE		
+385	Saturday Jump	Humphrey Lyttelton	1957-58			fENvfs3aKC8		
