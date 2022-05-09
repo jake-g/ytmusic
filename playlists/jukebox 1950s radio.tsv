@@ -1,7 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 73	Goodnite Sweetheart, Goodnite	The Spaniels	The Vee-Jay Story: Celebrating 40 Years Of Classic Hits	LIKE	2:44	eGGxdS0SBmg	MPREb_6SCM0SN1kDa	UCGknsvOQX7LepqOuMq1oVvg
 504	Hushabye	The Mystics	The Best Of Laurie Records	LIKE	2:31	BNcpkmrYWTU	MPREb_2YTCXYHbpfV	UCKi2TQek-q57ZPaKU4xgS0A
-203	Ooby Dooby (feat. The Teen Kings)	Roy Orbison	Ooby Dooby / Go Go Go	LIKE	2:11	a45z_DLE5YE	MPREb_9idZImMb4Y2	UCjMI6Jhz6i608_B2pvYNrfg
 533	Blood Shot Eyes	Wynonie Harris	The Rhythms and Blues Selection (Original Recordings from King Records)	INDIFFERENT	2:42	_dKQT4Qxv3s	MPREb_Oi2maArhvKt	UCOvqTAdam4RvQyHhJ1d3gnw
 570	Hound Dog	Willie Mae Thornton	Rock 'n' Roll & the City	INDIFFERENT	2:52	Q25PAh-p9lo	MPREb_GigLdu1NjQr	UC_aKjhh4ikKYtXW-oTSoNBw
 490	Kansas City	Wilbert Harrison	An Introduction to Wilbert Harrison	INDIFFERENT	2:30	Oj5drFXNnEI	MPREb_B3DD03Mk8Kg	UC6mmxFu18vAqWe61olFy6fw
@@ -161,8 +160,9 @@
 191	In The Middle Of The House	Rusty Draper	The Very Best Of	INDIFFERENT	1:59	EuuJLvpnGIc	MPREb_11swfT1qiN4	UCvXoN6CbLDcEEXxSa-1pcpg
 280	Freight Train	Rusty Draper	Choo Choo Bop	INDIFFERENT	2:18	71rLCPwplms	MPREb_JPg4EtgdZ3K	UCvXoN6CbLDcEEXxSa-1pcpg
 11	Mockin' Bird Hill	Russ Morgan and His Orchestra	Music in the Morgan Manner	INDIFFERENT	2:58	6R_IwRpkTtA	MPREb_y2s3eU8kpiY	UC_ASnaxl5Y57kAmgMhGH5AA
-258	Rock House	Roy Orbison	You're My Baby / Rock House	INDIFFERENT	2:03	anvooN_QDQ8	MPREb_EneDyAYUcF3	UCjMI6Jhz6i608_B2pvYNrfg
-306	Devil Doll	Roy Orbison	Sweet and Easy to Love / Devil Doll	INDIFFERENT	2:09	pGQw7YPoUQc	MPREb_fApE2ReRwXU	UCjMI6Jhz6i608_B2pvYNrfg
+203	Ooby Dooby	Roy Orbison	At the Rock House	INDIFFERENT	2:11	DMUIDLjfYlg	MPREb_dDxoaLNuSyY	UCjMI6Jhz6i608_B2pvYNrfg
+258	Rock House	Roy Orbison	Deluxe: Classics - Roy Orbison	INDIFFERENT	2:06	7xzh7N5SPSE	MPREb_pCHeVwvKPya	UCjMI6Jhz6i608_B2pvYNrfg
+306	Devil Doll	Roy Orbison	The Original Sound	INDIFFERENT	2:11	4mMR7PTfvkA	MPREb_GWLUzY2qvTj	UCjMI6Jhz6i608_B2pvYNrfg
 379	I Like Love	Roy Orbison	Oh, Pretty Woman	INDIFFERENT	2:29	Yum2yexKQWc	MPREb_IRc7V8MDRZm	UCjMI6Jhz6i608_B2pvYNrfg
 529	Good Rockin' Tonight	Roy Brown	Roy Brown, Hurry Hurry Babe!	INDIFFERENT	3:02	xjvOBmqMpUw	MPREb_HIVYv6ZcVIh	UCWE2oiywS8kfITO4OdhGUmQ
 564	Let The Four Winds Blow	Roy Brown	The Sound Of New Orleans	INDIFFERENT	1:57	2t-b36uT4YM	MPREb_CqBHiyM02Lw	UCWE2oiywS8kfITO4OdhGUmQ
@@ -206,7 +206,6 @@
 168	Tina Marie	Perry Como	Perry Como's Greatest Hits	INDIFFERENT	2:34	jVccxMtX3mk	MPREb_Sr12cVv5tQ1	UC5YpN7PZAbf-HHzsVSExZIw
 178	Hot Diggity	Perry Como	20 Golden Hits	INDIFFERENT	2:29	jyZ9L74aSl4	MPREb_KtfjCkknoA2	UC5YpN7PZAbf-HHzsVSExZIw
 195	More	Perry Como	Today & Yesterday	INDIFFERENT	2:37	TcukRFMxaak	MPREb_RYzsJEhr3Fk	UC5YpN7PZAbf-HHzsVSExZIw
-235	They Can't Take That Away from Me	Perry Como	Great Hits of 1956, Vol. 3	INDIFFERENT	2:34	ekO3_DVJNsY	MPREb_HjaziT8Vwqs	UC5YpN7PZAbf-HHzsVSExZIw
 246	Juke Box Baby	Perry Como	Today & Yesterday	INDIFFERENT	2:17	nh3vXOxgK2M	MPREb_RYzsJEhr3Fk	UC5YpN7PZAbf-HHzsVSExZIw
 265	Round and Round	Perry Como	All Time Greatest Hits	INDIFFERENT	2:34	p390Aog0Ffc	MPREb_EDvp68XGd6U	UC5YpN7PZAbf-HHzsVSExZIw
 341	Magic Moments	Perry Como	All Time Greatest Hits	INDIFFERENT	2:39	LLiE4QaRACc	MPREb_EDvp68XGd6U	UC5YpN7PZAbf-HHzsVSExZIw
@@ -283,7 +282,7 @@
 137	Unchained Melody	Les Baxter	Skins	INDIFFERENT	2:34	OTLpphmJiy0	MPREb_VLnNABkCKDF	UCUNwUblQhGdIFAxcNsP-NBQ
 169	Wake The Town And Tell The People	Les Baxter	Baxter's Best	INDIFFERENT	2:35	BzyXQv3pGJY	MPREb_m8bEocTgRGw	UCUNwUblQhGdIFAxcNsP-NBQ
 173	The Poor People Of Paris (Jean's Song)	Les Baxter	Skins	INDIFFERENT	2:26	aGrC9SfE6C4	MPREb_VLnNABkCKDF	UCUNwUblQhGdIFAxcNsP-NBQ
-205	The Auctioneer	Leroy Van Dyke	Golden Hits - The World's Most Famous Auctioneer	INDIFFERENT	2:48	rLn-AIQBiZU	MPREb_6YpnBN6T3nB	UC9A9XL6y0vAxp0S5_OzMKkg
+205	The Auctioneer	Leroy Van Dyke	Leroy Van Dyke's Precious Memories	INDIFFERENT	2:47	roLjZDnv6JE	MPREb_Q4WVK3yBbgO	UC9A9XL6y0vAxp0S5_OzMKkg
 287	Teardrops	Lee Andrews	Vintage	INDIFFERENT	2:22	QxhjJxfhX8M	MPREb_dYOHWqGWYm7	UCggQaqepgvq1wiwn1HVTrCw
 546	Rock Island Line	Leadbelly	Leadbelly Vol. 4 1939-1947	INDIFFERENT	2:57	6-cNWuqoRj4	MPREb_mkxTusCVEub	UC7jiqF1wzNVeZhZmJ4EKprA
 286	Bony Moronie	Larry Williams	Here's Larry Williams	INDIFFERENT	3:08	DeVQqMVxCT4	MPREb_PLkstjXhs33	UCTzTCjoDLR3S2TMiCJF2b3A
@@ -303,7 +302,7 @@
 105	Why Don't You Believe Me?	Joni James	Presenting Joni James	INDIFFERENT	2:58	EP6ewfkKz_c	MPREb_f5s3kd9OjqB	UCla3UmUXuBYEC3oHf_NS1KA
 430	Crossfire (feat. Johnny Paris)	Johnny and the Hurricanes	Red River Rock	INDIFFERENT	2:31	T5fMn9GQ2BE	MPREb_SNiLd8nYFnn	UCKUUCw_gE50oh7nXtRpUg5g
 387	Well I'm Your Man	Johnny Tillotson	No Time	INDIFFERENT	2:21	RTLb_UQ7RE0	MPREb_QPOR6j9BRUI	UCUZjJCvH6qnNmA_-IslulkA
-391	Dreamy Eyes	Johnny Tillotson	Johnny Tillotson's Best	INDIFFERENT	2:24	J9IB3dGXNbY	MPREb_YwtHaMuwCxP	UCUZjJCvH6qnNmA_-IslulkA
+391	Dreamy Eyes	Johnny Tillotson	Johnny Tillotson's Best	INDIFFERENT	2:25	J9IB3dGXNbY	MPREb_YwtHaMuwCxP	UCUZjJCvH6qnNmA_-IslulkA
 486	The Shape I'm In	Johnny Restivo	The Shape I'm In	INDIFFERENT	2:02	eVHYvNhsI7k	MPREb_DIG9GrtXSyl	UCgC0s3W5zzQpiEsRoFlQffw
 250	Wonderful! Wonderful! (Single Version)	Johnny Mathis	The Essential Johnny Mathis	INDIFFERENT	2:50	h9xacmsc4Xg	MPREb_CRkiRn4Awyn	UCeiIptSgXN8lMHHrEKDy48g
 331	The Twelfth Of Never	Johnny Mathis	Johnny's Greatest Hits	INDIFFERENT	2:28	LnpsS6eH_5A	MPREb_YWHNILtCUmW	UCeiIptSgXN8lMHHrEKDy48g
@@ -515,9 +514,9 @@
 314	Ninety-Nine Ways	Charlie Gracie	The Best of Charlie Gracie 1956-1958	INDIFFERENT	2:16	kqDaVGdNxnA	MPREb_pBCFzboy8Zi	UCtX0dO9VK8Tu4zBMenHJpDA
 445	The Hippy Hippy Shake	Chan Romero	100 Rock & Roll Hits	INDIFFERENT	1:42	MKSk4k02chY	MPREb_4jV0dO48cIB	UCQM4ctB8VLwDwhUjwuEK3QQ
 98	Turnaround	Carl Perkins	Carl Perkins & Friends	INDIFFERENT	3:17	2wIdygC9xLo	MPREb_IerYjUXzQO8	UCO46V98c7Ib6Un4Y1mMpqbg
-292	Glad All Over	Carl Perkins	Glad All Over / Lend Me Your Comb	INDIFFERENT	1:40	k0y7Huzc0wA	MPREb_j7YK4PVRLhV	UCO46V98c7Ib6Un4Y1mMpqbg
+292	Glad All Over	Carl Perkins	The Essential Carl Perkins: Volume Two	INDIFFERENT	1:42	1OjAq3DlD1c	MPREb_DfXQQJ543NK	UCO46V98c7Ib6Un4Y1mMpqbg
 312	Matchbox	Carl Perkins	Deluxe: Greatest Hits - Carl Perkins	INDIFFERENT	2:11	OTA8m_luor4	MPREb_T0rm9ZXoIpI	UCO46V98c7Ib6Un4Y1mMpqbg
-468	Mona Lisa	Carl Mann	Million Sellers - Sun's Gold Hits Vol. 1	INDIFFERENT	2:27	h5IKAbRs138	MPREb_Q6cogS4GCTX	UCN-hz094kXaqqURbEFco1fw
+468	Mona Lisa	Carl Mann	Sun Records - The Definitive Hits, Vol. 1	INDIFFERENT	2:27	0_6g8EWhV2E	MPREb_aTzyFTtkZSa	UCN-hz094kXaqqURbEFco1fw
 498	My Heart Is an Open Book	Carl Dobkins, Jr	Rare Oldies But Goodies	INDIFFERENT	2:11	qQu5eRI5DRg	MPREb_i6TMRDeSCx0	UChIhY5IbgSIUOP2dpzNZ2mg
 487	A Fool Such as I	Carl Dobkins	Pop Paradise Party, Vol. 1	INDIFFERENT	2:20	zjhHmYw9bO0	MPREb_1d8Xb6LcyHd	
 267	Party Doll	Buddy Knox	Hits of the 50's Volume 3	INDIFFERENT	2:15	subQklC5U_g	MPREb_tSD1pobSlD6	UCFYnkJ2e36Sa9VKlshq-yZQ
@@ -570,3 +569,4 @@
 392	Chanson D'amour	Art & Dotty Todd	Chanson D'amour / Endless Sleep	INDIFFERENT	2:49	-oN6zxgnsnM	MPREb_XTUTXElsJcs	UCXAG5k_k2Zbva0ws23oooFQ
 416	Hawaiian Wedding Song	Andy Williams	Best Of Andy Williams	INDIFFERENT	2:30	Tn58bF9hstM	MPREb_HB1TNigzEaT	UC57u7-9NbAvxc4upxxnKlyw
 369	TOPSY part Two (original version)	Alan Hartwell Band Feat. Cozy Cole	COZY COLE HITS	INDIFFERENT	3:35	dBotlTI4BUk	MPREb_JCFeIWeRlvl	UC5Beg5Dxc7CP3ZMO5dT1fsg
+235	They Can't Take That Away from Me	Perry Como	Great Hits of 1956, Vol. 3			ekO3_DVJNsY		

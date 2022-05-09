@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 11	Sugarcube	Yo La Tengo	I Can Hear the Heart Beating As One	LIKE	3:21	_1Dwa68U5os	MPREb_pjgfqa6nbLu	UCz5bvM-t9ynI48T0u195y2A
+4	Say Yes	Elliott Smith	Either/Or	LIKE	2:20	ofqp8rDwIxo	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
 86	Don't I Hold You	wheat	Hope and Adams	INDIFFERENT	3:50	bpw8wE79XXM	MPREb_FJyVfaadgzu	UCmYy7bPJX3juJ8DpMds9MLw
 151	Death Car	wheat	Medeiros	INDIFFERENT	3:19	xAM7JLifHGQ	MPREb_P2SQKl4Sj01	UCmYy7bPJX3juJ8DpMds9MLw
 46	Here Comes My Baby	Yo La Tengo	Fakebook	INDIFFERENT	2:33	htlL0gxp5n8	MPREb_I8buCC20bq5	UCz5bvM-t9ynI48T0u195y2A
@@ -72,7 +73,7 @@
 60	Copper	Shellac	Terraform	INDIFFERENT	1:48	dO-npemrWwY	MPREb_lkUMDqFxrQf	UC2RkfrEqhd9O1LT65LOxRzg
 26	Skull	Sebadoh	Bakesale: Deluxe Edition	INDIFFERENT	2:24	Vp_hkVtLJ00	MPREb_kx1oMPzTow1	UCju-EvozsD8gGa6ggnmwbkg
 29	Brand New Love	Sebadoh	Smash Your Head On The Punk Rock	INDIFFERENT	4:04	Jv6C-ZqYcws	MPREb_rk0OQJFO6Bz	UCju-EvozsD8gGa6ggnmwbkg
-72	Gimmie Indie Rock	Sebadoh	III	INDIFFERENT	3:24	AZNep5Wj7zI	MPREb_Sx3yptBuZFO	UCju-EvozsD8gGa6ggnmwbkg
+72	Gimme Indie Rock	Sebadoh	III	INDIFFERENT	3:24	AZNep5Wj7zI	MPREb_Sx3yptBuZFO	UCju-EvozsD8gGa6ggnmwbkg
 28	Start With	Seaweed	Spanaway	INDIFFERENT	4:03	XqyEjkqWe3c	MPREb_it52CnBQutY	UCUXIrEe_ny_1jI1QZHbC8mw
 33	Kid Candy	Seaweed	Four	INDIFFERENT	4:16	rrbXmuagswQ	MPREb_UGKM8S6vAbh	UCUXIrEe_ny_1jI1QZHbC8mw
 106	Bill	Seaweed	Weak	INDIFFERENT	2:43	0xFjHli7nRA	MPREb_22j1Yq3OC1q	UCUXIrEe_ny_1jI1QZHbC8mw
@@ -127,7 +128,6 @@
 92	My Room	Eric's Trip	Love Tara	INDIFFERENT	2:39	dGuU-oCxOLw	MPREb_5gT9WqcJ4jC	UCq2j683eExqcdKINlkI0cmw
 99	Sixteen Hours	Eric's Trip	Purple Blue	INDIFFERENT	3:05	jNRSD7hdWio	MPREb_s1J8tFLbnIZ	UCq2j683eExqcdKINlkI0cmw
 1	Between the Bars	Elliott Smith	Either/Or	INDIFFERENT	2:21	5VTY0HRtwlQ	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
-4	Say Yes	Elliott Smith	Either/Or	INDIFFERENT	2:20	ofqp8rDwIxo	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
 90	Jane	Elf Power	A Dream in Sound	INDIFFERENT	4:24	BgPi4frqC8M	MPREb_zzfPx2R999H	UCVVudE-Gc3G1HGbEdefK3yg
 10	Echo, Bravo	Duster	Stratosphere	INDIFFERENT	4:32	EMcAcY83S7U	MPREb_B1sOajhmNH5	UCZkINlw1KmC1GiOqyx3tBPA
 63	The Ice Of Boston	Dismemberment Plan	The Dismemberment Plan Is Terrified	INDIFFERENT	4:55	4ANBktpgcC4	MPREb_1QhdNvYJnN5	UCtRoENZ_2xIhrhLTuYSxwJg
@@ -135,8 +135,8 @@
 111	Kitchen Light	Codeine	The White Birch	INDIFFERENT	3:36	xZWUIe9R_VA	MPREb_GXwKCAJIKfw	UCFpy--r1MLnX5UX-PUyCLAg
 131	Unreal Is Here	Chavez	Ride The Fader	INDIFFERENT	2:32	tNaHeTqaLvg	MPREb_1yU8MbSbzNw	UCATIlgeBRBR3IChoUH7bFog
 7	Cross Bones Style	Cat Power	Moon Pix	INDIFFERENT	4:33	xda9J7EIwLw	MPREb_1SqIZFpXwVJ	UC1s55OQBwZ1Cg-k9EC7HaGA
-27	In the Morning	Built to Spill	There's Nothing Wrong With Love	INDIFFERENT	2:37	5F1l6r9bWDw	MPREb_rP6xrasMTsu	UCrMHecWO6fui7O2d9dnpEZg
 24	Untrustable/Part 2 (About Someone Else)	Built To Spill	Perfect From Now On	INDIFFERENT	8:53	VAoxWduuu1o	MPREb_6FSNQlCW9Ot	UCrMHecWO6fui7O2d9dnpEZg
+27	In the Morning	Built To Spill	There's Nothing Wrong With Love	INDIFFERENT	2:37	5F1l6r9bWDw	MPREb_rP6xrasMTsu	UCrMHecWO6fui7O2d9dnpEZg
 129	The City Has Sex	Bright Eyes	Letting Off The Happiness	INDIFFERENT	2:12	9w0tKYuloKc	MPREb_3JXxOoxrDyN	UCPI3znNhox-PTRPvpYFNCDw
 54	V1NC3NT COM3 ON DOWN	Brainiac	Hissing Prigs in Static Couture	INDIFFERENT	2:34	CD_fm3Vo_Yg	MPREb_ollYgtjxClg	UCEx0UlHKuiFym4j1e190iZQ
 82	Symphony of Treble	Blonde Redhead	Fake Can Be Just As Good	INDIFFERENT	4:10	7ZY5o0RcQTk	MPREb_ZWBAak2SNhE	UCvdVUaJ_3Li6ZLGhF3_MexA

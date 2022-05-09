@@ -70,7 +70,7 @@
 72	Gin And Juice	Snoop Dogg		LIKE	4:25	fWCZse1iwE0		UC7xz_YipuZtypOuVALNzeog
 107	Gin And Juice	Snoop Dogg		LIKE	4:25	fWCZse1iwE0		UC7xz_YipuZtypOuVALNzeog
 149	Gin And Juice	Snoop Dogg		LIKE	4:25	fWCZse1iwE0		UC7xz_YipuZtypOuVALNzeog
-239	Wreckonize (Remix Vocal)	Smif-n-wessun	Wreckonize bw Sound Bwoy Bureill	LIKE	3:53	6IQVcmrYqWk	MPREb_ijmn1E0nbwa	UCAuYz5DcuXFI6JGvlU4ggqw
+239	Wrekonize (remix)	Smif-n-wessun	Wrekonize / Sound Bwoy Bureill	LIKE	3:53	6IQVcmrYqWk	MPREb_ijmn1E0nbwa	UCAuYz5DcuXFI6JGvlU4ggqw
 206	Bucktown	Smif-n-Wessun	Dah Shinin'	LIKE	4:08	Cl17dQFM-Zo	MPREb_0O5ncWaK03A	UCAuYz5DcuXFI6JGvlU4ggqw
 203	Children's Story	Slick Rick	The Great Adventures Of Slick Rick	LIKE	4:02	DA2ZoFZza5A	MPREb_F7JeF36HARR	UCib_EXltOfVOg-mk0-naNEA
 210	Street Talkin'	Slick Rick	The Art Of Storytelling	LIKE	3:41	czRr7oIqwfA	MPREb_1TBTl21gkFI	UCib_EXltOfVOg-mk0-naNEA
@@ -78,7 +78,7 @@
 128	I Wish	Skee-Lo	I Wish	LIKE	4:10	SHAvkktP928	MPREb_7E6xLNzKBEA	UCTiPkIdfGtWwuOEH37XgBBA
 15	Baby Got Back	Sir Mix-A-Lot	Mack Daddy	LIKE	4:22	-TsEFYY95mE	MPREb_37vrTh5oW8X	UCs7S4b31RKNJOY9jcGNV4OQ
 472	Next Level (Nyte Time Mix)	Show & A.G.	Goodfellas	LIKE	4:10	yUV7R-ZMEGs	MPREb_wRBgttwUUvG	UCq03jtevkKPqtqyx0sCN1kA
-65	Smile (feat. 2Pac & Johnny P)	Scarface	The Untouchable	LIKE	5:00	lMcUEKNNK3o	MPREb_lCAVq76VpxM	UC9v3AUfaYiap8vPHN5lyOYQ
+65	Smile (feat. 2Pac & Johnny P)	Scarface	The Untouchable	LIKE	5:01	lMcUEKNNK3o	MPREb_lCAVq76VpxM	UC9v3AUfaYiap8vPHN5lyOYQ
 226	Hand of the Dead Body	Scarface	The Diary	LIKE	4:39	IlfR-Z0nImU	MPREb_h5ydjJMXKsD	UC9v3AUfaYiap8vPHN5lyOYQ
 276	Maria Maria (radio mix) (feat. The Product G&B)	Santana	Supernatural (Remastered)	LIKE	4:22	Y9XXeznskQ4	MPREb_kw8Dova0NEd	UCX0rR7x8-nLew2t8UH-n2aw
 9	Shoop	Salt-N-Pepa	Very Necessary	LIKE	4:09	r0H3-0U-jvU	MPREb_IWr0MdBtEfl	UChG4UYfQHHCXbKHA4XAhiew
@@ -186,7 +186,7 @@
 66	How High (Remix)	Method Man	Blackout!	LIKE	4:42	--wiHdo96Pk	MPREb_Ot8zVV3PF6n	UCc1r7FILg1s6rXuE4quij5Q
 113	Da Rockwilder	Method Man	Blackout!	LIKE	2:16	nUmv36XP1xw	MPREb_Ot8zVV3PF6n	UCc1r7FILg1s6rXuE4quij5Q
 213	Bring The Pain	Method Man	Tical	LIKE	3:09	-UAccqcIwAM	MPREb_ciHGw3R5mJo	UCc1r7FILg1s6rXuE4quij5Q
-258	Born To Roll	Masta Ace Incorporated	Sittin' On Chrome	LIKE	4:14	etfD65h_jE0	MPREb_lunJTInUiaD	UCtnexPjgBBMSpx2RifqwLSA
+258	Born To Roll	Masta Ace	Sittin' On Chrome	LIKE	4:14	etfD65h_jE0	MPREb_lunJTInUiaD	UCtnexPjgBBMSpx2RifqwLSA
 399	24 Hrs. To Live (feat. The Lox, Black Rob & DMX)	Mase	Harlem World	LIKE	4:17	RJ8uuF7DNSQ	MPREb_mcTEmRZ3mhC	UC5gdSVYYBOKPgOdVdRG-Vdg
 406	Accordion	Madvillain	Madvillainy	LIKE	1:59	EbI_QQ4IsZs	MPREb_gsxHe49IEfl	UCvYD4mt2SEikFlX0iJmTKvw
 480	All Caps	Madvillain	Madvillainy	LIKE	2:11	xPmkPQ5RZhI	MPREb_gsxHe49IEfl	UCvYD4mt2SEikFlX0iJmTKvw
@@ -206,6 +206,7 @@
 455	Renee	Lost Boyz	Legal Drug Money	LIKE	4:53	tmPOtXPuAJE	MPREb_mfHUTKiTeWz	UC4IjB1UfIdA5ANfSwJNWHSw
 217	Chief Rocka	Lords Of The Underground	Here Come The Lords	LIKE	4:08	TBqrcwcZ-88	MPREb_lU1E2GybXdC	UCNwndBrzwl-Mf_1XOCIlOeg
 471	Grave Digga	Lords Of The Underground	Here Come The Lords	LIKE	4:07	nNq5ZcuPdU8	MPREb_lU1E2GybXdC	UCNwndBrzwl-Mf_1XOCIlOeg
+425	Strictly for the Ladies	Lord Finesse	Funky Technician	LIKE	5:17	Dlue5UqQO6o	MPREb_ZL9n34Ew37N	UCHCneQdmpsRV1zm7VFXtxjA
 458	Yes You May	Lord Finesse	Return Of The Funky Man	LIKE	4:58	CL7UxXszeho	MPREb_HiTFONIzV7t	UCHCneQdmpsRV1zm7VFXtxjA
 180	Crush on You	Lil' Kim	Hard Core	LIKE	4:36	fWoTzrrp7Hc	MPREb_pYhpoKO2YDQ	UCFgj1rqApSf2PQ1HrPrXUGQ
 466	3 Time Felon	Lil' Keke	Platinum In Da Ghetto	LIKE	4:11	N6jZRKBIpX8	MPREb_nGFp0K5UKZ1	UCJJ-u69WrUrAFXkbiZ7agkQ
@@ -351,7 +352,6 @@
 106	Ruff Ryders' Anthem	DMX	It's Dark And Hell Is Hot	LIKE	3:35	FePSbDfx_co	MPREb_8K5P577eZsU	UCZe87x5wDk_YUmdmfAGymPQ
 247	How's It Goin' Down	DMX	The Definition of X: Pick Of The Litter	LIKE	4:05	RKFHndGl-wU	MPREb_JL2iYPv96Ei	UCZe87x5wDk_YUmdmfAGymPQ
 403	We Right Here	DMX	The Great Depression	LIKE	4:27	iBpEoTE6lrU	MPREb_JZ9ehU1SxV7	UCZe87x5wDk_YUmdmfAGymPQ
-425	Strictly For The Ladies	DJ Mike Smooth	Funky Technician	LIKE	5:17	Dlue5UqQO6o	MPREb_ZL9n34Ew37N	UCtSsyYm4i5OwDs6D7RQG5Sg
 70	Summertime (Single Edit)	DJ Jazzy Jeff & The Fresh Prince	The Very Best Of D.J. Jazzy Jeff & The Fresh Prince	LIKE	3:58	xxsj83bNnLI	MPREb_C1TE5yKUc8I	UCHDaJDoIW-C32OZ1UsR0BGw
 147	Summertime (Single Edit)	DJ Jazzy Jeff & The Fresh Prince	The Very Best Of D.J. Jazzy Jeff & The Fresh Prince	LIKE	3:58	xxsj83bNnLI	MPREb_C1TE5yKUc8I	UCHDaJDoIW-C32OZ1UsR0BGw
 220	Summertime	DJ Jazzy Jeff & The Fresh Prince	Playlist: The Very Best of DJ Jazzy Jeff & The Fresh Prince	LIKE	4:34	osjSSC--2gY	MPREb_wqH7mW5rduI	UCHDaJDoIW-C32OZ1UsR0BGw
@@ -466,23 +466,23 @@
 481	Me Against The World	2Pac	Greatest Hits	LIKE	4:38	hNXdOhwVAhk	MPREb_oScQoHQGm93	UC5RrGzC-JXglhFW5NhT4r6w
 254	Flamboyant	Big L	The Big Picture	INDIFFERENT	3:07	3eHf3RxspSg	MPREb_4WrmiPyqpMh	UCCyjDe9r4_ze77f0jOuW5tg
 475	The Heist	Big L	The Big Picture	INDIFFERENT	3:02	L5YljSTZXqo	MPREb_4WrmiPyqpMh	UCCyjDe9r4_ze77f0jOuW5tg
-314	Afro Puffs	The Lady Of Rage	Above The Rim (Original Motion Picture Soundtrack) (Deluxe Edition)			b4sAXMEjAfM		
+314	Afro Puffs	The Lady Of Rage	Above The Rim: Motion Picture Soundtrack			56haeDrXiuI		
 242	Dogg Pound Gangstaz	Tha Dogg Pound	Dogg Food			oS6oHs8afq0		
-24	Who Am I (What's My Name)?	Snoop Dogg	Doggystyle (Remastered)			YyHS_e47xI4		
-78	Tha Shiznit	Snoop Dogg	Doggystyle (Remastered)			pd1KuV16pAE		
-115	Who Am I (What's My Name)?	Snoop Dogg	Doggystyle (Remastered)			YyHS_e47xI4		
-155	Tha Shiznit	Snoop Dogg	Doggystyle (Remastered)			pd1KuV16pAE		
-447	Gin N Juice	Snoop Dogg	Death Row Chronicles (Original Soundtrack)			3fgi0nfNLlI		
+24	Who Am I (What's My Name)?	Snoop Dogg	Doggystyle			bFjgiXf2rpY		
+78	Tha Shiznit	Snoop Dogg	Doggystyle			fjebEZmRDcg		
+115	Who Am I (What's My Name)?	Snoop Dogg	Doggystyle			bFjgiXf2rpY		
+155	Tha Shiznit	Snoop Dogg	Doggystyle			fjebEZmRDcg		
+447	Gin N Juice (feat. Dat Nigga Daz)	Snoop Dogg	Doggystyle			ZrhBv0z1Nsc		
 143	Simon Says feat Method Man Redman	Pharoahe Monch	Blunt Brothers		6:12	w5do8wyCVos		
-0	"Nuthin' But A ""G"" Thang"	Dr. Dre	The Chronic			pFQv9GHKM9Q		
-25	Wit Dre Day (And Everybody's Celebratin')	Dr. Dre	The Chronic			V5-0DXao8Eg		
+0	"Nuthin' But A ""G"" Thang"	Dr. Dre	The Chronic			6xjRdBjmePQ		
+25	Fuck Wit Dre Day (And Everybody's Celebratin')	Dr. Dre	The Chronic			G6IJ02pQ7so		
 87	"Nuthin' But a ""G"" Thang"	Dr. Dre	Once Upon A Time in 92			ngFPwk6IgGg		
-102	"Nuthin' But A ""G"" Thang"	Dr. Dre	The Chronic			pFQv9GHKM9Q		
-119	Wit Dre Day (And Everybody's Celebratin')	Dr. Dre	The Chronic			V5-0DXao8Eg		
+102	"Nuthin' But A ""G"" Thang"	Dr. Dre	The Chronic			6xjRdBjmePQ		
+119	Fuck Wit Dre Day (And Everybody's Celebratin')	Dr. Dre	The Chronic			G6IJ02pQ7so		
 164	"Nuthin' But a ""G"" Thang"	Dr. Dre	Once Upon A Time in 92			ngFPwk6IgGg		
-371	Bitches Ain't Shit	Dr. Dre	The Chronic			yCnlvU1sV3s		
-375	Rat-Tat-tat-tat	Dr. Dre	The Chronic			lkKgM1tbsVY		
-469	Deez Nuuuts	Dr. Dre	The Chronic			Wk6EUc8ko-0		
-477	Let Me Ride	Dr. Dre	The Chronic			7QCfvF64CDo		
-479	Lil' Ghetto Boy	Dr. Dre	The Chronic			OYVi3hV5ONc		
+371	Bitches Ain't Shit	Dr. Dre	The Chronic			ke7vp_6xOME		
+375	Rat-Tat-Tat-Tat	Dr. Dre	The Chronic			yD31ZaHjorI		
+469	Deeez Nuuuts	Dr. Dre	The Chronic			9b-lpKHjwvQ		
+477	Let Me Ride	Dr. Dre	The Chronic			yaRSO7uXciY		
+479	Lil' Ghetto Boy	Dr. Dre	The Chronic			qO5ITgzJO2A		
 224	1, 2 Pass It feat DJ Premier Doug E Fresh Jeru the Damaja KRS-One Mad Lion Smif-N-Wessun	D&amp;D All Stars	Hip-Hop Legacy, Vol. 8			N1vhWQKzrVM		

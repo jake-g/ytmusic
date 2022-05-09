@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 107	In The Waiting Line	Zero 7	Simple Things	LIKE	4:31	G5KbL4LAUL8	MPREb_q4hrh9IVUYE	UCEIRECr4BQQ6blwSi9ogZvA
+464	Birdhouse in Your Soul	They Might Be Giants	Flood	LIKE	3:18	9zOKBvHNWus	MPREb_wnz6V1UbCW3	UCuVDbfvBzNkyCUuKNVHDeNw
 238	Huddle Formation	The Go! Team	Thunder, Lightning, Strike	LIKE	3:09	su7GZbaUaSk	MPREb_q3ciUyvNpfl	UC86hwDJ8fDznTkT8UY9I1Cw
 621	Frontier Psychiatrist	The Avalanches	Since I Left You	LIKE	4:48	zdj9pfloICI	MPREb_cNK9GhEZbWX	UCLXF7R57nHd3Q2PcAAtdPcA
 99	Chasing Cars	Snow Patrol	Eyes Open	LIKE	4:28	sgj04v5sDm4	MPREb_FGyz2nfUKjQ	UCqJPacofwGc9243bYPVyTcw
@@ -67,7 +68,6 @@
 87	Get Out Alive	Three Days Grace	One-X	INDIFFERENT	4:23	eE29TpRjPOE	MPREb_Ud22GpRvwl8	UCfgRkxIufLnYKicOY8aJQ2g
 103	Just Like You	Three Days Grace	Three Days Grace	INDIFFERENT	3:07	YaWoXZaJKW8	MPREb_E2Ja8J2Xq14	UCfgRkxIufLnYKicOY8aJQ2g
 508	I Hate Everything About You	Three Days Grace	Three Days Grace	INDIFFERENT	3:52	ph9KP2_lT5Q	MPREb_E2Ja8J2Xq14	UCfgRkxIufLnYKicOY8aJQ2g
-464	Birdhouse in Your Soul	They Might Be Giants	Flood	INDIFFERENT	3:18	9zOKBvHNWus	MPREb_wnz6V1UbCW3	UCuVDbfvBzNkyCUuKNVHDeNw
 117	Let's Dance to Joy Division	The Wombats	Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)	INDIFFERENT	3:12	r2DQm2B9_LU	MPREb_Kkp2MBtRnCu	UCOnpj5LAFlRDLcvzrodnpOQ
 61	Conquest	The White Stripes	Icky Thump	INDIFFERENT	2:49	cKijsWZecm0	MPREb_UDT9m0lLZAV	UCD0Wge1UpszMtqK3P9x50vA
 197	Dead Leaves and the Dirty Ground	The White Stripes	White Blood Cells	INDIFFERENT	3:03	fNDWo0y87IM	MPREb_wSaXWn6Z3ay	UCD0Wge1UpszMtqK3P9x50vA
@@ -81,7 +81,7 @@
 51	Buried Myself Alive	The Used	The Used	INDIFFERENT	4:03	BrtusfA2vds	MPREb_Qd1XaJ3uG6W	UCiFVTliiv9uzBtmC_NUFc5Q
 563	Shut Up and Let Me Go	The Ting Tings	We Started Nothing	INDIFFERENT	2:52	LJlp1JZswNQ	MPREb_0oHjKlKLWKg	UC1SOqMIERpLgFlNyW-7kxnQ
 578	That's Not My Name	The Ting Tings	We Started Nothing	INDIFFERENT	5:11	eu3S8lrGUkk	MPREb_OXsfuiQdLYA	UC1SOqMIERpLgFlNyW-7kxnQ
-661	The Best Of Me	The Starting Line	Punk Rock 90's & 00's	INDIFFERENT	4:19	0UyNVvQUr10	MPREb_Kq9NcrwC2YK	UCmK9ZS1g28X9HMdbByE1Vsw
+661	The Best Of Me	The Starting Line	Say It Like You Mean It	INDIFFERENT	4:18	rXHfIHkPMSA	MPREb_5HGQBTMxfDt	UCmK9ZS1g28X9HMdbByE1Vsw
 144	Acid In My Heart	The Sleepy Jackson	Lovers	INDIFFERENT	3:32	9u94qZEFUvA	MPREb_3UTPZdt206Z	UCH4r2lFLx15j32ewrqUbe-A
 253	Dear Dad	The Silence Between Us	Dear Dad	INDIFFERENT	3:07	75izxd8VcnY	MPREb_0Uj08eY9rZg	UCiFT64qm82Np9Tf1zVy3iPA
 539	Lola's Theme (Radio Edit)	The Shapeshifters	Lolas Theme	INDIFFERENT	3:26	Ccz-pQAIx0c	MPREb_1xMmwUgfNOq	UCuIeci91IxQSB_K4Ic7antg
@@ -111,9 +111,9 @@
 29	Get Yourself High (Radio Edit)	The Chemical Brothers	Get Yourself High	INDIFFERENT	3:27	3eLSiIG_bN4	MPREb_MNFw3lNHIGA	UCyPCkwR4gcQNybC2XzMNFTA
 410	Wherever You Will Go	The Calling	Camino Palmero	INDIFFERENT	3:29	iGbPR36zGx4	MPREb_8BZ6ibk6ap9	UCv4VDvPfbHv4zABeY6X4Dew
 27	An Honest Mistake	The Bravery	The Bravery	INDIFFERENT	3:39	2XuhnyOVN00	MPREb_MR8uOIO72Sj	UCcdUUeRserw4J1u-7fLO7FA
-150	Let's Get It Started (Spike Mix)	The Black Eyed Peas	Let's Get It Started	INDIFFERENT	3:38	PD_siw51AU4	MPREb_wLWTmGU5Cry	UC7JGA3rY8kb0-Epuqenjkzw
+150	Let's Get It Started	The Black Eyed Peas	Elephunk	INDIFFERENT	3:38	NjZUYtkyE00	MPREb_uVCftuqHp83	UC7JGA3rY8kb0-Epuqenjkzw
 327	Boom Boom Pow	The Black Eyed Peas	THE E.N.D. (THE ENERGY NEVER DIES)	INDIFFERENT	4:12	DjR25AI7BGU	MPREb_aaeEn5W2glI	UC7JGA3rY8kb0-Epuqenjkzw
-655	Where Is The Love?	The Black Eyed Peas	Prom 2021	INDIFFERENT	4:34	-puDv-8dEp4	MPREb_1EFcWdTxwdU	UC7JGA3rY8kb0-Epuqenjkzw
+655	Where Is The Love?	The Black Eyed Peas	Húsvéti Készülődés 2022	INDIFFERENT	4:34	-8ZpfS147Ww	MPREb_PNbXiqIfeP7	UC7JGA3rY8kb0-Epuqenjkzw
 187	Boys of Summer (Live)	The Ataris	Live in Chicago 2019	INDIFFERENT	6:12	ooIlvK-QcVk	MPREb_IKmox6E6MSR	UCwK8Sykt324whG1k6mnClBw
 76	Move Along	The All-American Rejects	Move Along (Deluxe Edition)	INDIFFERENT	3:58	NWCd8fGpkQc	MPREb_tVHdGS9xVae	UCIo16EqSZ0A4HXA-kf5rSuQ
 388	It Ends Tonight	The All-American Rejects	Move Along (Deluxe Edition)	INDIFFERENT	4:04	RwdZe13TalA	MPREb_tVHdGS9xVae	UCIo16EqSZ0A4HXA-kf5rSuQ
@@ -350,13 +350,13 @@
 581	Just Dance (feat. Colby O'Donis)	Lady Gaga	The Fame Monster (Deluxe Edition)	INDIFFERENT	4:02	Yey7_vm9Zkc	MPREb_58vqQjQQd1i	UCGKXb1syicud01CJOOFRykg
 629	Paper Gangsta	Lady Gaga	The Fame	INDIFFERENT	4:24	RP3zMJ0AKlg	MPREb_vSrMeqOiRTc	UCGKXb1syicud01CJOOFRykg
 442	Bulletproof	La Roux	La Roux	INDIFFERENT	3:25	7D2Hswtf9EI	MPREb_YnqWohdz92j	UCmXMrpV7ou3Q9CQl-pE7XLg
-240	Every Other Time (Radio Edit & Album Version)	LFO	Life Is Good	INDIFFERENT	4:07	jaznx5FeYCc	MPREb_XXZ6DiXSzBx	UCKcZ1lDiG-91sMD92L7etZQ
+240	Every Other Time (Radio Edit & Album Version)	LFO	Life Is Good	INDIFFERENT	4:08	jaznx5FeYCc	MPREb_XXZ6DiXSzBx	UCKcZ1lDiG-91sMD92L7etZQ
 44	In My Arms	Kylie Minogue	X	INDIFFERENT	3:31	QGZ9WSI27Ds	MPREb_byg7Ezlhaxu	UCSyCovCbUAnejYPJhvaP7sg
 201	In Your Eyes	Kylie Minogue	Fever (Bonus tracks)	INDIFFERENT	3:18	aEF0HA9LjqY	MPREb_3aQ4P1YxsnK	UCSyCovCbUAnejYPJhvaP7sg
 408	Red Blooded Woman	Kylie Minogue	Body Language	INDIFFERENT	4:21	RbUv09qGQ5g	MPREb_fuq0tZzDWt8	UCSyCovCbUAnejYPJhvaP7sg
 511	Can't Get You Out of My Head	Kylie Minogue	Can't Get You Out of My Head	INDIFFERENT	3:52	EU79S-pFmn0	MPREb_iHmROQLfKFd	UCSyCovCbUAnejYPJhvaP7sg
 587	Love at First Sight	Kylie Minogue	Fever (Bonus tracks)	INDIFFERENT	3:59	zv9CG6QL1uM	MPREb_3aQ4P1YxsnK	UCSyCovCbUAnejYPJhvaP7sg
-328	She's So High	Kurt Nilsen	I	INDIFFERENT	4:08	I78eIAGuuPA	MPREb_m98wIc6DlzJ	UCVjWc1NPglUQulUJ9rhe1hA
+328	She's So High	Kurt Nilsen	I	INDIFFERENT	4:09	I78eIAGuuPA	MPREb_m98wIc6DlzJ	UCVjWc1NPglUQulUJ9rhe1hA
 48	Hide U	Kosheen	Hide U	INDIFFERENT	4:12	x3BHyBsxYI0	MPREb_YSL62AsktO8	UCXb_dTcjNEgvlTR_9yG0lTA
 372	Here to Stay	Korn	Untouchables	INDIFFERENT	4:31	BaFJpIFKjmE	MPREb_P7a0PfF1KKW	UCdSgOgQ0WtelXBMKF3tDsqg
 525	Y'all Want a Single	Korn	Take A Look In The Mirror	INDIFFERENT	3:18	its72hjpWS8	MPREb_lvV0vcf64my	UCdSgOgQ0WtelXBMKF3tDsqg
@@ -402,7 +402,7 @@
 169	You're Beautiful	James Blunt	Back to Bedlam	INDIFFERENT	3:34	9piyWrfULSk	MPREb_UXrhp2Mm8vF	UCCEzq-Gv6gU-bdM82rtZN4g
 341	Carry You Home	James Blunt	All the Lost Souls (Deluxe Edition)	INDIFFERENT	3:55	Z7YgkF7TiJo	MPREb_S0msu3piifm	UCCEzq-Gv6gU-bdM82rtZN4g
 308	Us	James Bay	Electric Light	INDIFFERENT	3:02	FhujIX9H9WE	MPREb_zZqlXM5hDjY	UCiDBtu8whAdUgiJ5o1g7sQQ
-343	Something About You (Single Edit)	Jamelia	Walk with Me	INDIFFERENT	3:22	qGZZRAZtiXc	MPREb_6XPrlH6VIsI	UCXq-HMiMLwFfzL1lue16ZPw
+343	Something About You (Single Edit)	Jamelia	Walk With Me	INDIFFERENT	3:22	qGZZRAZtiXc	MPREb_6XPrlH6VIsI	UCXq-HMiMLwFfzL1lue16ZPw
 217	I'm Shakin'	Jack White	Blunderbuss	INDIFFERENT	3:01	kHMZuWgNpkw	MPREb_gRf4NlMZnUt	UCL5YsYJMZ-S5SU4_RQOWEPw
 611	Replay	Iyaz	Replay	INDIFFERENT	3:03	4FqGpT3yhUI	MPREb_2oljMOU8q9u	UC0tIFKS5uijPeJLjH8uAWJg
 72	Boy With a Coin	Iron & Wine	The Shepherd's Dog	INDIFFERENT	4:05	jItk2mYBrCU	MPREb_717GOxtWSCq	UCbPM7GBZG0U7Fz5FsnoUIag
@@ -568,7 +568,7 @@
 248	Kill the Lights	Britney Spears	Circus (Deluxe Version)	INDIFFERENT	4:00	bJmH5Zdhdeo	MPREb_YC4VsYhipuf	UCIOdfgVAkc_8rxhRAz9WRDw
 387	Toxic	Britney Spears	In The Zone	INDIFFERENT	3:19	tVdr_JWmnsA	MPREb_N1ILpsXsKSq	UCIOdfgVAkc_8rxhRAz9WRDw
 495	Lucky	Britney Spears	Oops!... I Did It Again	INDIFFERENT	3:27	re0KCMqG28Y	MPREb_idBNblhubsf	UCIOdfgVAkc_8rxhRAz9WRDw
-473	Believe Again (Svenstrup & Vendelboe Radio Remix)	Brinck	Believe Again (Svenstrup & Vendelboe Radio Remix)	INDIFFERENT	3:26	X555sysSP6Q	MPREb_yUJpHctNLuY	UCcC8R3TDCfgL85MYYOC2hKQ
+473	Believe Again (Svenstrup & Vendelboe Radio Remix)	Brinck	Believe Again (Svenstrup & Vendelboe Radio Remix)	INDIFFERENT	3:27	X555sysSP6Q	MPREb_yUJpHctNLuY	UCcC8R3TDCfgL85MYYOC2hKQ
 55	Easy/Lucky/Free	Bright Eyes	Digital Ash in a Digital Urn	INDIFFERENT	5:24	ddkXBlXF5hg	MPREb_XG2Np5uDxa5	UCPI3znNhox-PTRPvpYFNCDw
 100	So Cold	Breaking Benjamin	Shallow Bay: The Best Of Breaking Benjamin (Clean)	INDIFFERENT	4:33	dLLjKOdhTaI	MPREb_nNdchxKbPiR	UCgdqrZsRnxy1qGIusPhQEyg
 601	The Diary of Jane (Single Version)	Breaking Benjamin	Phobia	INDIFFERENT	3:20	pcAKbKUBUOQ	MPREb_T9HRQU8kO2b	UCgdqrZsRnxy1qGIusPhQEyg

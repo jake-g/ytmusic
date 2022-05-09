@@ -1,6 +1,13 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+52	Bad Habit	The Offspring	Smash	LIKE	3:44	U43XOSiKfqM	MPREb_87HJirZa1Nw	UCQVUXQu8RpxhihAMla6ke5A
+474	The Impression That I Get	The Mighty Mighty Bosstones	Let's Face It	LIKE	3:14	EZpcUK6Kxo8	MPREb_KhR4B0RRNhr	UCjECIF-t448obIfqSUjK-OQ
 485	Debaser	Pixies	Doolittle	LIKE	2:54	HvldypUz9w8	MPREb_chb7xdBVmOZ	UCRt5ckI8kNVMFr-jyj1IIVg
+90	Please Play This Song On The Radio	Nofx	White Trash, Two Heebs And A Bean	LIKE	2:16	EAOfVu2NOwE	MPREb_GMI45Xekl3G	UC5-MatmZOvX-ORzhTuO0ZiQ
+80	The Longest Line	NOFX	The Longest Line	LIKE	2:04	t4EeQ4__XgI	MPREb_AvnbPrXwHuq	UC5-MatmZOvX-ORzhTuO0ZiQ
+347	Shitlist	L7	Bricks Are Heavy	LIKE	2:56	z6RqPGosZ-U	MPREb_FckAgwR597b	UCMGBcmclydM47aNd_y1h9XQ
 86	Longview	Green Day	Dookie	LIKE	3:54	vlOuYdPVlak	MPREb_j62lA390yon	UC4JNeITH4P7G51C1hJoG6vQ
+378	At the Library	Green Day	1,039 / Smoothed out Slappy Hours	LIKE	2:28	mCOnOyTdu8s	MPREb_bSAQXEE4uF4	UC4JNeITH4P7G51C1hJoG6vQ
+381	Brain Stew	Green Day	Insomniac	LIKE	3:13	IPeJ7iM55hc	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 486	Shut the Door	Fugazi	Repeater + 3 Songs	LIKE	4:59	fdJtk03G_i0	MPREb_4O4OoeeJCix	UC2cjwtJB5rzpMetjDlnjGHg
 487	Exit Only	Fugazi	Steady Diet Of Nothing	LIKE	3:11	5ZHZrniRuGY	MPREb_9WkGIho9TEc	UC2cjwtJB5rzpMetjDlnjGHg
 110	Get Back	zebrahead	Waste Of Mind	INDIFFERENT	3:32	4kXLdEJvux0	MPREb_9mixAJYrXI2	UC_LV9sxEOOJWhxMRH2rxbng
@@ -64,7 +71,6 @@
 272	When I'm Here With You	The Parasites	Retro-Pop Remasters	INDIFFERENT	2:44	Go_PgDu_bgo	MPREb_lp1pvIttLwp	UCG0R5CCEUSzRoeTLvQ2eNPQ
 144	Fit	The Outside	Stranglehold: Punk Rock Across America	INDIFFERENT	2:58	QwvMhoJ5-P4	MPREb_c1rXJaME9mw	UCKY9H72xqmWeYkVlUmc2dGA
 23	I Choose	The Offspring	Ixnay On The Hombre	INDIFFERENT	3:54	Z-ax_0xOmh8	MPREb_XXrsRthA4SY	UCQVUXQu8RpxhihAMla6ke5A
-52	Bad Habit	The Offspring	Smash	INDIFFERENT	3:44	U43XOSiKfqM	MPREb_87HJirZa1Nw	UCQVUXQu8RpxhihAMla6ke5A
 60	Cool To Hate	The Offspring	Ixnay On The Hombre	INDIFFERENT	2:47	WUJki1WBdEk	MPREb_XXrsRthA4SY	UCQVUXQu8RpxhihAMla6ke5A
 73	The Meaning Of Life	The Offspring	Ixnay On The Hombre	INDIFFERENT	2:56	3Os_bMAcZ6w	MPREb_XXrsRthA4SY	UCQVUXQu8RpxhihAMla6ke5A
 143	Me & My Old Lady	The Offspring	Ixnay On The Hombre	INDIFFERENT	4:33	P4B5jtwQPLc	MPREb_XXrsRthA4SY	UCQVUXQu8RpxhihAMla6ke5A
@@ -81,7 +87,6 @@
 238	Lucky Guy	The Muffs	The Muffs	INDIFFERENT	2:48	5_o41k0PA0s	MPREb_n6xG9qvnfjW	UCowTRiM8CpeDS2IF9rTOqKQ
 28	Kinder Words	The Mighty Mighty Bosstones	Question The Answers	INDIFFERENT	3:06	PSXo8lpUlzg	MPREb_GLacI40dnSm	UCjECIF-t448obIfqSUjK-OQ
 328	Do Somethin' Crazy	The Mighty Mighty Bosstones	Devils Night Out	INDIFFERENT	2:27	BMin881LdPM	MPREb_Z8jsJxEZOge	UCjECIF-t448obIfqSUjK-OQ
-474	The Impression That I Get	The Mighty Mighty Bosstones	Let's Face It	INDIFFERENT	3:14	EZpcUK6Kxo8	MPREb_KhR4B0RRNhr	UCjECIF-t448obIfqSUjK-OQ
 162	Gangrenous	The Meanies	Televolution	INDIFFERENT	1:59	7tSt3qBgOMs	MPREb_P0eoyZ8TNyA	UCgn0pYjNlvAfD2XDdCxdVng
 193	Scum	The Meanies	Televolution	INDIFFERENT	1:55	r01RFd01-Y0	MPREb_P0eoyZ8TNyA	UCgn0pYjNlvAfD2XDdCxdVng
 262	10% Weird	The Meanies	Ten Percent Weird	INDIFFERENT	1:36	PvcALVht808	MPREb_mRiALQF8yWf	UCgn0pYjNlvAfD2XDdCxdVng
@@ -96,8 +101,11 @@
 400	Ten Minutes	The Get Up Kids	Something to Write Home About (Deluxe Edition)	INDIFFERENT	3:13	TrBLWL9XW0M	MPREb_Bg6bKNuddiK	UCuzK9ktGMYfCW8CsxKiR5tA
 210	Da Doo Ron Ron	The Donnas	The Donnas	INDIFFERENT	1:27	g5Wgv8RyA-M	MPREb_dObV3gjdVGC	UCwupE7Q2bNVYpOK247P6IgA
 308	Hand Grenades	The Cheats	The Worst Tribute to the Offspring Ever	INDIFFERENT	0:51	dpg5MteaoWs	MPREb_Ata0OytJw3G	UCkAjrZFoeQgoYZQN7wAusCw
+59	Ole	The Bouncing Souls	Hopeless Romantic	INDIFFERENT	3:04	X3hM9EpIDEE	MPREb_NvB7th8ufjj	UCm9DMecVk7CPOJPxlt11Jbw
 174	Neurotic	The Bouncing Souls	The Good, the Bad, and the Argyle	INDIFFERENT	2:54	aCmtpE9JhOc	MPREb_FzxQ6t2nW2U	UCm9DMecVk7CPOJPxlt11Jbw
 176	Deadbeats	The Bouncing Souls	The Good, the Bad, and the Argyle	INDIFFERENT	2:42	N2L0bC4qzPY	MPREb_FzxQ6t2nW2U	UCm9DMecVk7CPOJPxlt11Jbw
+295	Wish Me Well (You Can Go To Hell)	The Bouncing Souls	Hopeless Romantic	INDIFFERENT	2:56	gX0fALwDp6k	MPREb_NvB7th8ufjj	UCm9DMecVk7CPOJPxlt11Jbw
+417	Hopeless Romantic	The Bouncing Souls	Hopeless Romantic	INDIFFERENT	2:07	Mjo0Ra2yY9E	MPREb_NvB7th8ufjj	UCm9DMecVk7CPOJPxlt11Jbw
 189	Fence Sitter	The Bollweevils	Heavyweight	INDIFFERENT	2:11	GA9eCCALf2M	MPREb_TfXV84v4Dhy	UCjczbvbrXcpwPIwB6uTHFIA
 113	Your Boyfriend Sucks	The Ataris	Blue Skies, Broken Hearts...Next 12 Exits	INDIFFERENT	2:48	_1Z9jM83V7A	MPREb_UkcX1XSJ2kr	UCwK8Sykt324whG1k6mnClBw
 283	I Won't Spend Another Night Alone	The Ataris	So Long, Astoria	INDIFFERENT	3:48	KDzQU6SE4EE	MPREb_YDiSWFk2kKl	UCwK8Sykt324whG1k6mnClBw
@@ -131,7 +139,9 @@
 102	I Was Wrong (Live)	Social Distortion	Live At The Roxy	INDIFFERENT	4:01	sa--rwL4VdM	MPREb_aiio44EYV7M	UCQM2DZqCIOZStXx0VcIvm-w
 412	Story of My Life	Social Distortion	Social Distortion	INDIFFERENT	5:47	2QVLtL4PnhE	MPREb_43ZNa41lY5D	UCQM2DZqCIOZStXx0VcIvm-w
 221	Whatever Happened to the Likely Lads	Snuff	Potatoes and Melons Wholesale Prices Straight from the Lock Up	INDIFFERENT	2:12	fDj6PgPJkao	MPREb_YktNEdfweEA	UChLBEAne36QPl9GOaJbo4_g
+22	Painful Reminder	Snfu	Something Green And Leafy This Way Comes	INDIFFERENT	4:07	kTfxoBGLCOE	MPREb_qP2MMJwlMVr	UCxPWmlInpa806n3MecReNGw
 218	Fate	Snfu	FYULABA	INDIFFERENT	2:47	3pp-DNOmR7w	MPREb_ALPMMfoBqxM	UCxPWmlInpa806n3MecReNGw
+227	Drunk On A Bike	Snfu	The One Voted Most Likely To Succeed	INDIFFERENT	2:49	wWXmdqIKRUM	MPREb_1HOH58SyYPo	UCxPWmlInpa806n3MecReNGw
 403	Silence	Slick Shoes	Slick Shoes	INDIFFERENT	2:14	wCzeH9axm8I	MPREb_cONrk8SW2dn	UCBjR_4PZ2WuzdZc0DswMsGw
 319	There's A Metal Head In The Parking Lot	Slapstick	Slapstick	INDIFFERENT	2:29	XGXd42BSJRE	MPREb_hmzzkZ2sEwl	UC2Bz_VCrsgNAwSZJ8BG4v8Q
 402	I'm in Love With a Girl Named Spike	Skankin' Pickle	Sing Along With Skankin' Pickle	INDIFFERENT	1:34	CbFh-VIGuy4	MPREb_AWmmvuPFSe3	UC_FkrqF0K6a_c31juINx1AA
@@ -154,8 +164,6 @@
 339	Wishing You Were Here	Satanic Surfers	Going Nowhere Fast	INDIFFERENT	1:58	GdHv2-loP1I	MPREb_3OongrZPleS	UCzn5xWPkr--0kKda_0q4E2Q
 206	Clean	Samiam	Soar	INDIFFERENT	2:48	qZ4ZUJT-N6E	MPREb_z9xCWFESam2	UCUICV82t0yivmT_1GU4fBJA
 394	Bite tha Bullet	SPEED GANG	Bite tha Bullet	INDIFFERENT	3:22	EErThPbtCDA	MPREb_Qkv8fygcX3S	UCssfhVxNtknkgau5FjB3XMA
-22	Painful Reminder	SNFU	Something Green And Leafy This Way Comes	INDIFFERENT	4:07	kTfxoBGLCOE	MPREb_qP2MMJwlMVr	UCxPWmlInpa806n3MecReNGw
-227	Drunk On A Bike	SNFU	The One Voted Most Likely To Succeed	INDIFFERENT	2:49	wWXmdqIKRUM	MPREb_1HOH58SyYPo	UCxPWmlInpa806n3MecReNGw
 449	FSN	Rubberneck	El Niño	INDIFFERENT	3:54	3vlWjfGlZ1Q	MPREb_TNXPNQ7HwlA	UCk140hPLXrdNqhc-ni25TEw
 317	Don't Let Them Beat My Baby	Riverdales	Storm The Streets	INDIFFERENT	2:32	zWyfpYzv1kc	MPREb_MFnDQbUFEgn	UCS9wtssBzBExlAHn-Q_94KQ
 459	Dysfunctional Family	RiskTaker D-Boy	The Road Trip	INDIFFERENT	2:46	g_AKmpUepas	MPREb_Tj6Zu2pXkLi	UC--9BiJgP5RIpWZxlt06PUw
@@ -171,7 +179,7 @@
 36	Hyena	Rancid	Rancid	INDIFFERENT	2:55	aDwERtecPQg	MPREb_WbV24BnvbTD	UC5UyvYJVUtezUGNJ4c29GbA
 61	Dope Sick Girl	Rancid	Let's Go	INDIFFERENT	2:14	BcE1SMxRL1I	MPREb_5L3j8jtEmbc	UC5UyvYJVUtezUGNJ4c29GbA
 69	Arrested in Shanghai	Rancid	Indestructible	INDIFFERENT	4:11	4R_jku3fqWI	MPREb_m7Ovru5FA72	UC5UyvYJVUtezUGNJ4c29GbA
-76	Blackhawk Down	Rancid	Rancid	INDIFFERENT	1:41	b3yWlbxVebo	MPREb_P8IfVpskKnR	UC5UyvYJVUtezUGNJ4c29GbA
+76	Blackhawk Down	Rancid	Rancid (5)	INDIFFERENT	1:41	b3yWlbxVebo	MPREb_P8IfVpskKnR	UC5UyvYJVUtezUGNJ4c29GbA
 92	Bloodclot	Rancid	Life Won't Wait	INDIFFERENT	2:45	7td6CXJfcOQ	MPREb_7lMSu1R3QPO	UC5UyvYJVUtezUGNJ4c29GbA
 129	You Don't Care Nothin'	Rancid	...And Out Come The Wolves	INDIFFERENT	2:28	aQx1uKiu6g8	MPREb_8p5X66q3DLy	UC5UyvYJVUtezUGNJ4c29GbA
 145	Black & Blue	Rancid	Let's Go	INDIFFERENT	1:58	u-gV49IpKCw	MPREb_5L3j8jtEmbc	UC5UyvYJVUtezUGNJ4c29GbA
@@ -209,7 +217,6 @@
 253	Bad Town (2007 Remaster)	Operation Ivy	Operation Ivy	INDIFFERENT	2:35	65QY-3JRG1Q	MPREb_U5flwWPRBNP	UCdw1ljkPh42L00y491O3Q5A
 338	Shut Down	One Inch Punch	Ignorant Bliss	INDIFFERENT	1:31	7sycKyPp1gE	MPREb_DZE2TnYS8LB	UCPJticiQ7kJeq2DdLOsv-MQ
 183	Powertrip	One Hit Wonder	Outfall	INDIFFERENT	2:35	TP17MCkkgvs	MPREb_JMXacYWMwmJ	UCBndoebzi9wcEbnWV4s3OXA
-90	Please Play This Song On The Radio	Nofx	White Trash, Two Heebs And A Bean	INDIFFERENT	2:16	EAOfVu2NOwE	MPREb_GMI45Xekl3G	UC5-MatmZOvX-ORzhTuO0ZiQ
 331	The Bag	Nofx	White Trash, Two Heebs And A Bean	INDIFFERENT	2:46	RDHaKlQ8WKI	MPREb_GMI45Xekl3G	UC5-MatmZOvX-ORzhTuO0ZiQ
 41	Three Month Weekend	No Use For A Name	Making Friends	INDIFFERENT	1:17	8oTLv7dEmZ8	MPREb_zbn23ZM3Zia	UCEp0XeZ0OHHp-S5oLYlUWsg
 78	Straight from the Jacket	No Use For A Name	All the Best Songs	INDIFFERENT	2:22	J9HqAJuEA3U	MPREb_pzOw98N4D1f	UCEp0XeZ0OHHp-S5oLYlUWsg
@@ -222,7 +229,6 @@
 71	Lori Meyers	NOFX	Punk In Drublic	INDIFFERENT	2:21	aPcDm2J7Wq8	MPREb_oEBWJZv6xls	UC5-MatmZOvX-ORzhTuO0ZiQ
 72	Drop The World	NOFX	Heavy Petting Zoo	INDIFFERENT	3:22	DbVpQ-jU6T8	MPREb_1VpsNMoywsU	UC5-MatmZOvX-ORzhTuO0ZiQ
 79	Happy Guy	NOFX	Punk In Drublic	INDIFFERENT	1:58	gHMifw91uJ0	MPREb_oEBWJZv6xls	UC5-MatmZOvX-ORzhTuO0ZiQ
-80	The Longest Line	NOFX	The Longest Line	INDIFFERENT	2:04	t4EeQ4__XgI	MPREb_AvnbPrXwHuq	UC5-MatmZOvX-ORzhTuO0ZiQ
 91	180 Degrees	NOFX	So Long & Thanks For All The Shoes	INDIFFERENT	2:10	-et58h5f5HY	MPREb_KqXfPsh3wER	UC5-MatmZOvX-ORzhTuO0ZiQ
 100	Drugs Are Good	NOFX	45 or 46 Songs That Weren't Good Enough to Go on Our Other Records	INDIFFERENT	2:18	2Y6-Q7ROzSE	MPREb_fgD5aZ6OWSk	UC5-MatmZOvX-ORzhTuO0ZiQ
 104	We Threw Gasoline On The Fire And Now We Have Stumps For Arms And No Eyebrows	NOFX	45 or 46 Songs That Weren't Good Enough to Go on Our Other Records	INDIFFERENT	2:44	3vY74F8GEE0	MPREb_fgD5aZ6OWSk	UC5-MatmZOvX-ORzhTuO0ZiQ
@@ -304,7 +310,6 @@
 420	May 16 (Acoustic)	Lagwagon	Let's Talk About Feelings	INDIFFERENT	2:48	kpj_SToSqrA	MPREb_vgSB718vnkE	UCo1Cmzx9wOEjcIpDVgegfLA
 425	Brown Eyed Girl	Lagwagon	Trashed	INDIFFERENT	3:22	oxlx1VSaNjw	MPREb_Llrkb07EsZy	UCo1Cmzx9wOEjcIpDVgegfLA
 480	Name Dropping	Lagwagon	Hoss	INDIFFERENT	2:34	gngXwfvRmac	MPREb_VvLSzPMUoOn	UCo1Cmzx9wOEjcIpDVgegfLA
-347	Shitlist	L7	Bricks Are Heavy	INDIFFERENT	2:56	z6RqPGosZ-U	MPREb_FckAgwR597b	UCMGBcmclydM47aNd_y1h9XQ
 383	My Wall (feat. Excision)	Korn	The Path Of Totality	INDIFFERENT	2:55	F06ZEGDxqRI	MPREb_ek4P9TgFzBg	UCdSgOgQ0WtelXBMKF3tDsqg
 335	My Troubled Sleep	Jughead's Revenge	13 Kiddie Favorites	INDIFFERENT	2:10	5mlv28UlHE8	MPREb_mB9EvX1UhRW	UCUZLwNTcEV0JuC6eqXR4lxA
 340	49/61	Jughead's Revenge	13 Kiddie Favorites	INDIFFERENT	2:43	kBIvHgYI07M	MPREb_mB9EvX1UhRW	UCUZLwNTcEV0JuC6eqXR4lxA
@@ -329,7 +334,6 @@
 280	Secure Horizons	Guttermouth	Covered With Ants	INDIFFERENT	2:57	xjtM8XcvRQY	MPREb_wpQvbHEpskK	UCKaW-BmEmAvMHLs0lY0gfPw
 468	Whiskey	Guttermouth	Teri Yakimoto	INDIFFERENT	2:21	qP7klTSBVA4	MPREb_KPN7yCsWaCX	UCKaW-BmEmAvMHLs0lY0gfPw
 229	Help	Guns n' Wankers	Guns N' Wankers	INDIFFERENT	3:10	wxdi-Jr5E7E	MPREb_fB9N8mJJu5b	UCtHCJgUW-2wmkrgGt9GNTww
-158	Grimple Up Your Ass	Grimple	Remember…	INDIFFERENT	2:36	Xmon042lQ4E	MPREb_RYsF6tA2U8r	UC8lA2pjeulXCipz6zfmQfig
 2	Coming Clean	Green Day	Dookie	INDIFFERENT	1:35	riJgNBglEb4	MPREb_j62lA390yon	UC4JNeITH4P7G51C1hJoG6vQ
 49	Knowledge	Green Day	1,039 / Smoothed out Slappy Hours	INDIFFERENT	2:19	OfG127JOhJ8	MPREb_bSAQXEE4uF4	UC4JNeITH4P7G51C1hJoG6vQ
 56	Best Thing in Town	Green Day	Kerplunk!	INDIFFERENT	2:03	7sbMvon8zjI	MPREb_M8SG5qCWbfG	UC4JNeITH4P7G51C1hJoG6vQ
@@ -348,9 +352,7 @@
 356	On the Wagon	Green Day	Shenanigans	INDIFFERENT	2:47	IBi2OA8S2g8	MPREb_CUbPjEmbUzF	UC4JNeITH4P7G51C1hJoG6vQ
 366	Paper Lanterns	Green Day	1,039 / Smoothed out Slappy Hours	INDIFFERENT	2:24	pzH_HcUfuiI	MPREb_bSAQXEE4uF4	UC4JNeITH4P7G51C1hJoG6vQ
 374	86	Green Day	Insomniac	INDIFFERENT	2:47	VMCK-uumC2w	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
-378	At the Library	Green Day	1,039 / Smoothed out Slappy Hours	INDIFFERENT	2:28	mCOnOyTdu8s	MPREb_bSAQXEE4uF4	UC4JNeITH4P7G51C1hJoG6vQ
 380	Welcome to Paradise	Green Day	Dookie	INDIFFERENT	3:45	P0bHAyGhxE8	MPREb_j62lA390yon	UC4JNeITH4P7G51C1hJoG6vQ
-381	Brain Stew	Green Day	Insomniac	INDIFFERENT	3:13	IPeJ7iM55hc	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 396	Christie Rd.	Green Day	Kerplunk!	INDIFFERENT	3:33	6TMk5zJBTCo	MPREb_M8SG5qCWbfG	UC4JNeITH4P7G51C1hJoG6vQ
 404	Take Back	Green Day	Nimrod	INDIFFERENT	1:09	AUYNJwMSZcA	MPREb_CxYIbFgytt1	UC4JNeITH4P7G51C1hJoG6vQ
 407	2000 Light Years Away	Green Day	Kerplunk!	INDIFFERENT	2:24	ksJ1zJkV7LE	MPREb_M8SG5qCWbfG	UC4JNeITH4P7G51C1hJoG6vQ
@@ -369,7 +371,7 @@
 365	Superman	Goldfinger	Hang-Ups	INDIFFERENT	3:06	Nt9bkgRQbLs	MPREb_0Eziwb8eT8z	UC1X0GaWX_fwA2mOfHpHvfew
 385	A Million Miles	Goldfinger	The Knife	INDIFFERENT	2:05	FjxN8KlxZaQ	MPREb_FWi2wdmOYXD	UC1X0GaWX_fwA2mOfHpHvfew
 419	Here In Your Bedroom	Goldfinger	Goldfinger	INDIFFERENT	3:10	yqcpczi8KPQ	MPREb_by3OFEyoHtD	UC1X0GaWX_fwA2mOfHpHvfew
-309	What To Do	Gob	How Far Shallow Takes You	INDIFFERENT	2:21	4QE8vMni41E	MPREb_EFIp0ahWhVO	UCzEhglHexVQjGT7wPp8gB6w
+309	What to Do	Gob	How Far Shallow Takes You	INDIFFERENT	2:21	4QE8vMni41E	MPREb_EFIp0ahWhVO	UCzEhglHexVQjGT7wPp8gB6w
 330	My Bike (Banana Man Album Version)	Ghoti Hook	Tooth & Nail Ultimate Collection	INDIFFERENT	3:27	HFy8v3f5Y4Q	MPREb_zGxq1t42hlG	UCzN59BusuHLZKS41SJMJL4w
 31	You're Too Cool	GOB	Too Late… No Friends	INDIFFERENT	1:46	hHlT3HAmA-U	MPREb_elKlygREQUj	UCzEhglHexVQjGT7wPp8gB6w
 169	Extra, Extra	GOB	Too Late… No Friends	INDIFFERENT	2:03	VzC5txq9vM0	MPREb_elKlygREQUj	UCzEhglHexVQjGT7wPp8gB6w
@@ -422,7 +424,6 @@
 21	Huge Balloon (Live)	Bracket	Live in a Dive	INDIFFERENT	2:32	DU6V6Tpdq0U	MPREb_GTII3VcER0W	UCzOhcd26TLNjjdaP0sjlEGQ
 63	2rak005	Bracket	"""E"" Is for Everything on Fat Wreck Chords"	INDIFFERENT	2:32	FXhHfdlEsWY	MPREb_8Pbn1r0WHsL	UCzOhcd26TLNjjdaP0sjlEGQ
 316	Another Badge of Courage	Boy Sets Fire	Day The Sun Went Out	INDIFFERENT	2:27	AdB2paA2Q4Q	MPREb_0uYb7xz52nl	UCwvilCnY_wQN8k9AjMZcTEg
-59	Ole	Bouncing Souls	Hopeless Romantic	INDIFFERENT	3:04	X3hM9EpIDEE	MPREb_NvB7th8ufjj	UCm9DMecVk7CPOJPxlt11Jbw
 107	Low Life	Bouncing Souls	The Bouncing Souls	INDIFFERENT	1:16	jKm8tyDMYFY	MPREb_fX6aYiCFXta	UCm9DMecVk7CPOJPxlt11Jbw
 109	Cracked	Bouncing Souls	The Bouncing Souls	INDIFFERENT	1:56	R2W11Ii-u24	MPREb_fX6aYiCFXta	UCm9DMecVk7CPOJPxlt11Jbw
 126	The Ballad of Johnny X	Bouncing Souls	Maniacal Laughter	INDIFFERENT	2:06	ktSOX0srf4g	MPREb_6Gv0qZlnWPR	UCm9DMecVk7CPOJPxlt11Jbw
@@ -431,9 +432,7 @@
 248	So Jersey	Bouncing Souls	The Gold Record	INDIFFERENT	4:01	ZIl9E98oXzs	MPREb_qdCJlzeiSYD	UCm9DMecVk7CPOJPxlt11Jbw
 274	Quick Chek Girl	Bouncing Souls	Maniacal Laughter	INDIFFERENT	2:52	V-Ts-hJ6aI4	MPREb_6Gv0qZlnWPR	UCm9DMecVk7CPOJPxlt11Jbw
 281	The Freaks, Nerds, & Romantics	Bouncing Souls	Maniacal Laughter	INDIFFERENT	2:32	YaO80eVjsB0	MPREb_6Gv0qZlnWPR	UCm9DMecVk7CPOJPxlt11Jbw
-295	Wish Me Well (You Can Go To Hell)	Bouncing Souls	Hopeless Romantic	INDIFFERENT	2:56	gX0fALwDp6k	MPREb_NvB7th8ufjj	UCm9DMecVk7CPOJPxlt11Jbw
 343	Lamar Vanoy	Bouncing Souls	Maniacal Laughter	INDIFFERENT	3:04	n8YJfs-YHsg	MPREb_6Gv0qZlnWPR	UCm9DMecVk7CPOJPxlt11Jbw
-417	Hopeless Romantic	Bouncing Souls	Hopeless Romantic	INDIFFERENT	2:07	Mjo0Ra2yY9E	MPREb_NvB7th8ufjj	UCm9DMecVk7CPOJPxlt11Jbw
 4	Maze	Bodyjar	No Touch Red	INDIFFERENT	2:05	vG7-znX1Tso	MPREb_nSVp1r8foqY	UC7GUSA06mlZN7cvBx_KoSaA
 140	Today's Ways	Bodyjar	Rimshot!	INDIFFERENT	2:35	veOU1M3momQ	MPREb_TiVXnBt7iQw	UC7GUSA06mlZN7cvBx_KoSaA
 362	Time to Grow Up	Bodyjar	Take a Look Inside	INDIFFERENT	2:59	7Q4Lw8vCKqI	MPREb_ggMZKwvXUZh	UC7GUSA06mlZN7cvBx_KoSaA
@@ -487,3 +486,4 @@
 14	Sand	28 Days	28 Days	INDIFFERENT	2:31	kNL9Wg4CEBA	MPREb_Q89KMuRUdCh	UCvzkzNcxKox6xqsjATQFxTw
 298	Callin' In Sick	"""Weird Al"" Yankovic"	Bad Hair Day	INDIFFERENT	3:41	ppEW_KhHNVc	MPREb_A9tbcU8utmH	UCa4LILjjT1YCeo5Xg9rQTMQ
 260	Back to the Motor League	Propagandhi	Today's Empires, Tomorrow's Ashes		2:40	2O7JY0mQLK4		
+158	Grimple Up Your Ass	Grimple	Remember…			Xmon042lQ4E		

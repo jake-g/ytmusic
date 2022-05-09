@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 15	Int'l Players Anthem (I Choose You) (feat. OutKast)	UGK (Underground Kingz)	UGK (Underground Kingz)	LIKE	4:20	yetGML1gWow	MPREb_QdLyCu6SvUY	UCx99x_CxsKt_z_qS4CoSRiA
-69	Hip 2 Da Game	Lord Finesse	The Awakening	LIKE	4:04	zbc93lGoBwQ	MPREb_vUafX0R3WtD	UCHCneQdmpsRV1zm7VFXtxjA
+69	Hip 2 Da Game (feat. Kid Capri)	Lord Finesse	The Awakening	LIKE	4:04	zbc93lGoBwQ	MPREb_vUafX0R3WtD	UCHCneQdmpsRV1zm7VFXtxjA
 60	Crush on You	Lil' Kim	Hard Core	LIKE	4:36	fWoTzrrp7Hc	MPREb_pYhpoKO2YDQ	UCFgj1rqApSf2PQ1HrPrXUGQ
 11	Pursuit Of Happiness (Nightmare) (feat. MGMT & Ratatat)	Kid Cudi	Man On The Moon: The End Of Day	LIKE	4:55	pXcHkhKi94k	MPREb_aBC5Wpq9VeF	UCo2-dPLJcpbZK84FIt0vD-w
 24	The Recipe (Bonus Track) (feat. Dr. Dre)	Kendrick Lamar	good kid, m.A.A.d. city (Deluxe)	LIKE	5:52	zbcwKVOpeKM	MPREb_E1apfD6BMtw	UCprAFmT0C6O4X0ToEXpeFTQ
@@ -21,7 +21,7 @@
 53	Mo Money Mo Problems [Radio Mix] (feat. Mase & Puff Daddy)	The Notorious B.I.G.	Mo Money Mo Problems (feat. Puff Daddy & Mase)	INDIFFERENT	4:13	djOIoau2nLM	MPREb_d5dVtz04iTe	UCczXQ2ehGOS2U2UnR8rY3Hg
 32	Money, Power & Respect (feat. DMX & Lil' Kim)	The Lox	Money, Power & Respect	INDIFFERENT	4:31	nnr7Yq5oBuo	MPREb_YAUP5stUmzO	UCnUI5HPGVrI60AknAHrffmQ
 52	Boss' Life (feat. Akon)	Snoop Dogg	Tha Blue Carpet Treatment	INDIFFERENT	3:22	14wpML-oVng	MPREb_IfQlayh4QVe	UC7xz_YipuZtypOuVALNzeog
-78	Bucktown (Vocal Mix)	Smif-N-Wessun	Bucktown bw Let's Git It On	INDIFFERENT	3:56	HjDRxVB95Qo	MPREb_hPEr3GEfwcB	UCAuYz5DcuXFI6JGvlU4ggqw
+78	Bucktown (vocal)	Smif-N-Wessun	Bucktown / Let's Git It On	INDIFFERENT	3:57	HjDRxVB95Qo	MPREb_hPEr3GEfwcB	UCAuYz5DcuXFI6JGvlU4ggqw
 10	Gas Pedal (feat. Iamsu!)	Sage The Gemini	Gas Pedal	INDIFFERENT	3:27	byA2U4iMXu0	MPREb_084skaOMWef	UCwFCoaMCvBRRsNWmpdPU0KA
 76	Shake Ya Tailfeather	Pop Feast	Party In The Sun	INDIFFERENT	4:57	r_71Oxx-rlI	MPREb_d8Womq3ZMtj	UCuOW79OwObJuz_EwaJNwYtQ
 57	Rosa Parks	Outkast	Big Boi & Dre Present...OutKast	INDIFFERENT	3:58	lJmreWtKgI8	MPREb_wRzPvqbXd9H	UCpJG35xsNdMgxsXn7kqG4Ew
@@ -68,9 +68,9 @@
 47	Motownphilly	Boyz II Men	Cooleyhighharmony	INDIFFERENT	3:55	51swQf8ONW0	MPREb_ofjmtG8PYXB	UCPmEcEVjRQJkF8zhSDekDAA
 9	Hot N*gga	Bobby Shmurda	Shmurda She Wrote	INDIFFERENT	3:15	Y7kG_oDUCZo	MPREb_kZrTEBbuFrZ	UCfvOEde-BGuQiQHe6tLm7rA
 26	Whoa	Black Rob		INDIFFERENT	4:29	EC5LzftfcjI		UCbkZq68S79Uq6SeYb7GPGMw
+45	P. Diddy [feat. Black Rob & Mark Curry] - Bad Boy 4 Life (Official Music Video)	Black Rob		INDIFFERENT	6:00	GbJO59nWQRU		UCbkZq68S79Uq6SeYb7GPGMw
 75	I Got Cha Opin (Vocal Mix)	Black Moon	I GOT CHA OPIN b/w REALITY (KILLING EVERY...)	INDIFFERENT	4:30	KFGYLQLURv0	MPREb_9gEP6bfwxaN	UCy2P4JutFzqz9EtGo2lyEkA
 56	Make Some Noise	Beastie Boys	Hot Sauce Committee (Pt. 2)	INDIFFERENT	3:31	9iywkP2l2eM	MPREb_bg9CJRajhfK	UCe6E2f1FNQZ0XuCJ4GlONwQ
-45	P. Diddy [feat. Black Rob & Mark Curry] - Bad Boy 4 Life (Official Music Video)	Bad Boy Entertainment		INDIFFERENT	6:00	GbJO59nWQRU		UCoECJ7RMZGrMjBrhXSaHtOQ
 39	HeadBand (feat. 2 Chainz)	B.o.B	Underground Luxury	INDIFFERENT	3:41	XXVtlxKVmd8	MPREb_Lc3NRkVMrKy	UCU1JusGzZe0Msn79JB3g46w
 29	Happy	Ashanti	Ashanti	INDIFFERENT	4:22	UY-cIYtv5r0	MPREb_8c37oxqtflz	UCVW_nVC1hjTCxT9uiPRRLCQ
 38	I Get Money	50 Cent	Curtis	INDIFFERENT	3:43	JZpr7RTunX0	MPREb_YSRyBJnYYkm	UCOcnYBwT1jb6EHlS0cwhNkA
