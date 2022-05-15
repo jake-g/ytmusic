@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 901	Beach in Hawaii	Ziggy Marley	Love Is My Religion	LIKE	3:45	ObkIu6CBmp0	MPREb_08JluDLjB93	UCsMjZkTMjcYtG0s5yxXzgUA
 1322	Ghost Town	The Specials	Stereo-Typical: A's, B's & Rarities	LIKE	3:40	mFp-P6Vot2A	MPREb_rhxt0UHKD0D	UC2_ZQJKkRF9GapgwTMd_LMw
+933	Friends Of P.	The Rentals	Return Of The Rentals	LIKE	3:32	Dj2WQudTtso	MPREb_v6nuNHsrqBf	UC8kUE9LlbvexhM-myD7ZYyg
 157	Can't Stand Losing You	The Police	Outlandos D'Amour (Remastered 2003)	LIKE	2:59	AbcHbAFxUHI	MPREb_nd8wjM73JJB	UCbsRGw640UF_F7AIwHW-zmg
 142	The Tide Is High	The Paragons	On The Beach With The Paragons	LIKE	2:44	sjcWJyKeScI	MPREb_fYeqB86rRfW	UC2rL--PGNPCOTyn7BoTZu6A
 752	The End (Mono)	The Doors	The Doors (50th Anniversary Deluxe Edition)	LIKE	11:47	NOW7i7aWQoE	MPREb_lbrk0XIHghZ	UCdx4iSJpg33jNmd9auQT04Q
@@ -166,7 +167,6 @@
 853	Some Dub	The Scientist	The Scientist Roots Radics Conection	INDIFFERENT	3:32	coqvgZwp6Ww	MPREb_rHL1qvfCrRI	UCyfqbpHwrH68qmeLatv1NmA
 956	I Useta Lover	The Saw Doctors	If This Is Rock and Roll, I Want My Old Job Back	INDIFFERENT	2:43	5dD2GwpODmE	MPREb_kZl7juSFcP1	UCKNj0H8o6A3p8YSrUu2rcXA
 1176	Wastha Na Gara	The Root-Less	Wastha Na Gara	INDIFFERENT	4:43	HVAFh_gzk7I	MPREb_d68n3EcR3eg	UCeU1V7F9ZBqtckLbzm-hhhg
-933	Friends Of P.	The Rentals	Return Of The Rentals	INDIFFERENT	3:32	Dj2WQudTtso	MPREb_v6nuNHsrqBf	UC8kUE9LlbvexhM-myD7ZYyg
 433	Eagle Song	The Red Shadow Singers	Ghost Dance Songs	INDIFFERENT	3:40	KbP0bh5n8ek	MPREb_GE6K2EchgG9	UCjv0qSaFqwZwGy0GynooW-Q
 968	Life To Fix	The Record Company	All Of This Life	INDIFFERENT	4:00	nD5AcbBsUY0	MPREb_iL1HD36HVLv	UC3acjDpBlzToIAeLG7XD7kQ
 626	It Gets Better	The Preatures	Blue Planet Eyes	INDIFFERENT	3:32	OpjAaEQh7l0	MPREb_RqB17tMdWqm	UCC9O7DK78DWe1A4hV6p_ieA
@@ -264,7 +264,7 @@
 39	It's A Pity	Tanya Stephens	Gangsta Blues	INDIFFERENT	4:15	TeZMG_WBV4s	MPREb_5hXOVRKd8b7	UCx6KZn4TUwa4dtGkKE3hyBg
 641	Lipan Conjuring	TOOL	10,000 Days	INDIFFERENT	1:12	Wed205bUfT0	MPREb_4j8bPSNBuAk	UCW6FSIkA04g7pBvMXlnaKqg
 1219	Burn Babylon	Sylford Walker	Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two	INDIFFERENT	3:21	q0HAmA6YgH8	MPREb_RpnrpRX7U1e	UCszLmm7-pNSSGrAmBMqhduw
-1141	Coke Don	Super Cat	Don Dada	INDIFFERENT	3:30	-tOYj6mon5Y	MPREb_UUMZm4lbvaR	UCwysVvNo1npUseBbYIoxsWQ
+1141	Coke Don	Super Cat	Don Dada	INDIFFERENT	3:31	-tOYj6mon5Y	MPREb_UUMZm4lbvaR	UCwysVvNo1npUseBbYIoxsWQ
 1304	Vineyard Party	Super Cat	The Good, The Bad, The Ugly & The Crazy	INDIFFERENT	3:56	JPRykkFXomE	MPREb_23AB6SWLZPx	UCwysVvNo1npUseBbYIoxsWQ
 1327	Ghetto Red Hot (Hip Hop Remix)	Super Cat	Ghetto Red Hot	INDIFFERENT	5:06	gHv0yLis-W8	MPREb_1LmpizTdAJR	UCwysVvNo1npUseBbYIoxsWQ
 234	Dust A Sound Boy	Super Beagle	Reggae Anthology: Winston Riley - Quintessential Techniques	INDIFFERENT	3:38	jEw1TIUj1Yo	MPREb_WFnf31v60X7	
@@ -625,7 +625,7 @@
 954	Sweet Harmony	Kings of Reggae	Chris Hinze Kings of Reggae	INDIFFERENT	4:10	nBxES7kExwo	MPREb_PeWzpQwa6Ce	UCxRTy0O2d-TWPuHMhpNjRtA
 84	Dub Take Five	King Tubby	King at the Controls	INDIFFERENT	3:23	5u2sZqZx6N4	MPREb_snYOkID7P3C	UCKXb5pogU_SBmt39cYE5Efw
 1145	King Tubby's Hi Fi Dub	King Tubby	Dangerous Dub	INDIFFERENT	2:50	w_F9awMZgns	MPREb_4HiWDI7Fa0P	UCKXb5pogU_SBmt39cYE5Efw
-1273	Talkative Dub	King Tubby	The Story of Dub	INDIFFERENT	3:25	_diPKTkrwlA	MPREb_ZKJjXZwmJeV	UCKXb5pogU_SBmt39cYE5Efw
+1273	Talkative Dub	King Tubby	The Story of Dub	INDIFFERENT	3:26	aa0SyZGeN7c	MPREb_529gS1ozLTS	UCKXb5pogU_SBmt39cYE5Efw
 1292	Roots Of Dub	King Tubby	Presents The Roots Of Dub	INDIFFERENT	3:16	mfec5f9LoPM	MPREb_6LdkyckIysD	UCKXb5pogU_SBmt39cYE5Efw
 1305	King Tubb's Big Big Dub	King Tubby	From The Palace Of Dub	INDIFFERENT	3:24	kzR1rIP6e_k	MPREb_BNDihloDVrE	UCKXb5pogU_SBmt39cYE5Efw
 1338	The Poor Barber	King Tubby	At The Controls	INDIFFERENT	3:09	Hl84qtaXjFo	MPREb_jz4B1AU2MkC	UCKXb5pogU_SBmt39cYE5Efw
