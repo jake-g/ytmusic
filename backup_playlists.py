@@ -178,27 +178,43 @@ def get_yt_track_info(yt, row):
 
     if (type(row['artistId']) == str and
             'privately_owned' not in row['artistId']):
-        try:
-            song = yt.get_song(row.name)
-            for col in copy_song_cols:
-                if col not in song:
-                    continue
-                if col == 'release' and not valid_date(song['release']):
-                    print('\tSkipping release field, not a valid date...')
-                    continue
-                row[col] = song[col]
-        except Exception as e:
-            print('Failed to get track info: %s\n%s' % (e, row))
-        try:
-            album = yt.get_album(row.albumId)
-            row['albumArtist'] = album['artists'][0]['name']
+        # try: # not needed?
+        song = yt.get_song(row.name)
+        for col in copy_song_cols:
+            if col not in song:
+                continue
+            if col == 'release' and not valid_date(song['release']):
+                print('\tSkipping release field, not a valid date...')
+                continue
+            row[col] = song[col]
+        # except Exception as e:
+        #     print('Failed to get track info: %s\n%s' % (e, row))
+        if row['albumId'] and type(row['albumId']) == str:
+            try:
+                album = yt.get_album(row.albumId)
+            except Exception as e:
+                print('ERROR running: yt.get_album(row.albumId)\n',e , '\n', row)
+                return row
+            if len(album['artists']):
+                row['albumArtist'] = album['artists'][0]['name']
+            elif len(album['tracks']) and len(album['tracks'][0]['artists']):
+                row['albumArtist'] = album['tracks'][0]['artists'][0]['name']
+            else:
+                print("\n\nDEBUG ERROR Failed: len(album['artists'])'", album)
             for col in copy_album_cols:
                 if col not in album:
                     continue
+
                 new_col = f'album{col[0].upper()}{col[1:]}'
-                row[new_col] = album[col]
-        except Exception as e:
-            print('Failed to get album info: %s\n%s' % (e, row))
+                if album[col]: 
+                    row[new_col] = album[col]
+                else:
+                    print('\n\nDEBUG ERROR column %s not in albums\n%s' % (col, album))
+        else:
+            print("\n\nDEBUG ERROR: Failed:  row['albumId'] and (type(row['albumId']) == str")
+            print('\nrow:\n', row)
+
+
     return row
 
 
@@ -206,14 +222,14 @@ def get_tracks_info(yt, track_df):
     i = 0
     tracks_w_info = []
     for vid, row in track_df.iterrows():
-        try:
-            i += 1
-            tracks_w_info.append(get_yt_track_info(yt, row))
-            track_str = decode('%s - %s - %s' % (
-                row['artist'], row['album'], row['title']))
-            print('(%d/%d): %s' % (i, len(track_df), track_str))
-        except Exception as e:
-            print('Error in  track %d with vid: %s\n%s' % (i, vid, e))
+        # try: not needed?
+        i += 1
+        tracks_w_info.append(get_yt_track_info(yt, row))
+        track_str = decode('%s - %s - %s' % (
+            row['artist'], row['album'], row['title']))
+        print('(%d/%d): %s' % (i, len(track_df), track_str))
+        # except Exception as e:
+        #     print('Error in  track %d with vid: %s\n%s' % (i, vid, e))
 
     tracks_w_info = pd.DataFrame(tracks_w_info)
     print('Scraped info for %d tracks' % len(tracks_w_info))
@@ -267,7 +283,7 @@ if __name__ == "__main__":
     track_db_not_liked = track_db[track_db['likeStatus'] != 'LIKE']
     new_track_rating = set(track_db_not_liked.index) & set(
         tracks_no_meta_liked.index)
-    print(f'Re-adding {len(new_track_rating)} traks now LIKE')
+    print(f'Re-adding {len(new_track_rating)} tracks now LIKE')
     track_db = track_db[~track_db.index.isin(new_track_rating)]
     new_track_ids |= new_track_rating
     # Get metadata for new/changed traks
