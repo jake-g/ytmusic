@@ -1,5 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-274	I'm Sorry (feat. Shiloh)	swell	Majestic Casual - Chapter 3	LIKE	2:37	seXAgCbfIjI	MPREb_Jk6WbWDtvgP	UCo4iEsmDLsdWMKsh2VC0VXA
+274	I'm Sorry (feat. Shiloh)	swell	Majestic Casual - Chapter 3	LIKE	2:38	seXAgCbfIjI	MPREb_Jk6WbWDtvgP	UCo4iEsmDLsdWMKsh2VC0VXA
 222	Sedsumting	oOoOO	oOoOO EP	LIKE	5:38	3B6NGDAmVAY	MPREb_U6FW4Vy19o1	UCdTMMegAh48Awz6QuL-T1HA
 71	October	deadmau5	> album title goes here <	LIKE	7:24	pRCXgSokKTA	MPREb_pxe5hjSfYZU	UCL44WZGVf-BU5N0ymCXrpBg
 72	Strobe (Club Edit)	deadmau5	5 Years of mau5	LIKE	6:19	ITU0rphUJNc	MPREb_5cIPxg5bNJ6	UCL44WZGVf-BU5N0ymCXrpBg
@@ -9,7 +9,6 @@
 76	Animal Rights	deadmau5	4x4=12	LIKE	6:15	T74x-VSWWFk	MPREb_OlGBQEpY0gk	UCL44WZGVf-BU5N0ymCXrpBg
 324	Jazz Bandicoot	akryl	Jazz Bandicoot	LIKE	2:27	8q0OcxgHab4	MPREb_QRkjYmEZXgR	UCH3VmepGdMph0m3LEaS0k-w
 311	Lucifer	Zomby	Dedication	LIKE	0:57	yBGdIYsY22o	MPREb_CFqK65NQqHZ	UCOYlATyfI4ceyExJblL2KCw
-312	Test Me For a Reason	Zomby	Zomby EP	LIKE	2:00	jpvmM_KPXco	MPREb_keaACc7blqr	UCOYlATyfI4ceyExJblL2KCw
 310	Faded (Lido Remix)	ZHU	Faded (The Remixes)	LIKE	4:25	O9l3LStQfLo	MPREb_1mN1MFhHJtC	UCSw_oqIGG4dIo1GmnqUYdUA
 309	The Mule	Z-Ro	Let the Truth Be Told	LIKE	4:29	BFTDjK_O9fQ	MPREb_648YSV4ia8h	UCZjyo6etTT-1zkM0EQytxgw
 334	Jarmin in the Dark	Young Monks	Jarmin in the Dark	LIKE	5:14	rqekUkp8Flw	MPREb_g80ZkFtBNph	UCGsdnEpH4llmcl608e0r8jw
@@ -19,11 +18,12 @@
 302	Atomic Bomb	William Onyeabor	World Psychedelic Classics 5: Who Is William Onyeabor?	LIKE	7:59	RgWMkzLSA8o	MPREb_zdWPPOphj5a	UCC8Kbo8OnDN_NQTB-y7HT4g
 303	Fantastic Man	William Onyeabor	World Psychedelic Classics 5: Who Is William Onyeabor?	LIKE	6:26	PW-lgA8Esjc	MPREb_zdWPPOphj5a	UCC8Kbo8OnDN_NQTB-y7HT4g
 301	Be Thankful for What You Got	William DeVaughn	One Hit Wonders - Vol. 2	LIKE	3:26	AyEEAQJH140	MPREb_H4gulY73flK	UCQlxYjYDdXO0kzfWSblVmIQ
+300	Say It Ain't So	Weezer	Esenciales Rock Alternativo	LIKE	4:19	0BhcSTPppf8	MPREb_eSwouINesZD	UCtHZHneyvFGwxg6MHcbMLAw
 299	Your Disco Song (Long Version)	Vitalic	Disco Terminateur EP	LIKE	4:33	W9sa1KHv6IA	MPREb_sGAMPntOdS0	UC3FJZVVqKpdQ6fyoz_hGXkg
 297	Down On My Luck	VIC MENSA	Down On My Luck	LIKE	3:29	74nKc6fEzRU	MPREb_6HYrZelumz0	UCuoHvMcTSDTQqqLLWJxbMRA
 172	Lazarus Taxon	Tyler Cassidy	Goodnight, Lazermaze	LIKE	1:49	P1vSozMlqAw	MPREb_AmtIEnMjYRL	UCEoquzAAByslEyHU-xk676g
 296	Do It	Tuxedo	Tuxedo	LIKE	4:18	12cGTsHZuw0	MPREb_i5mAgSWkFkS	UCQyCT4-ziPMCj-8mQ3lfMYQ
-52	O.G	Troyboi	All Trap Music, Vol. 4	LIKE	3:38	or6vGt7l7Os	MPREb_DaePD5FlBdR	UCvEKwcnBGwsDDLnftenNM1A
+52	O.G	Troyboi	All Trap Music, Vol. 4	LIKE	3:39	or6vGt7l7Os	MPREb_DaePD5FlBdR	UCvEKwcnBGwsDDLnftenNM1A
 294	Do You?	TroyBoi	V!BEZ, Vol. 3	LIKE	3:16	9Z7qVahsIfE	MPREb_8rC28b28TW7	UCvEKwcnBGwsDDLnftenNM1A
 289	You Hid	Toro Y Moi	Causers Of This	LIKE	3:25	HDv8TiGFmNU	MPREb_XCiXh3snT4i	UCJikOjbf3VffCdLXTsbxfxg
 286	Inspector Norse	Todd Terje	Its The Arps	LIKE	6:40	SPN5UaPOwMI	MPREb_FecpYY0Avov	UC0IiRfiEDA0GLLMufhUUOng
@@ -31,6 +31,7 @@
 281	I Want A Love I Can See	The Temptations	50th Anniversary: The Singles Collection 1961-1971	LIKE	2:32	NuO2_PM8l0Q	MPREb_s155qsEtnJW	UCwWtKZD4xNVpEHndNxYu51g
 36	Somebody's Gotta Die	The Notorious B.I.G.	Life After Death (2014 Remastered Edition)	LIKE	4:27	y4Mxi3jBzyM	MPREb_CbmVHtjG6pE	UCczXQ2ehGOS2U2UnR8rY3Hg
 219	Who Shot Ya? (2005 Remaster)	The Notorious B.I.G.	Ready To Die	LIKE	5:20	M8q5mg-yj0A	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
+191	Cissy Strut	The Meters	Funk	LIKE	3:06	3Ok4L7hg_Nk	MPREb_lPcZu9NFB3q	UCwye34yhtCbWGQsrFS4oMNw
 51	Charles Barkley	The Celestics	Supreme Laziness	LIKE	3:46	dxQ4DG0qmtE	MPREb_5V8h1Rhb4Hq	UClyY9jYy9DfuIr6aHeUGHwA
 28	Come Together (Anthology 3 Version)	The Beatles	Anthology 3	LIKE	3:41	qXOGsyoY9Cw	MPREb_UfVa8wUcEDl	UC2XdaAVUannpujzv32jcouQ
 21	Since I Left You	The Avalanches	Since I Left You	LIKE	4:23	TyOfYE5cqNk	MPREb_cNK9GhEZbWX	UCLXF7R57nHd3Q2PcAAtdPcA
@@ -39,6 +40,7 @@
 280	Be Your Girl (Kaytranada Edition)	Teedra Moses	Be Your Girl (Kaytranada Edition)	LIKE	4:29	ZXLXervt954	MPREb_qCETwV8ahHD	UCWrgBNzItfH6XvD0IXGUDpw
 277	Mind Mischief (The Field Remix)	Tame Impala	Lonerism (B-Sides & Remixes)	LIKE	10:48	DEgCdtbg7BA	MPREb_fG7hfecxdoM	UCGz-eguN8tcic5kUG4s1ZgA
 278	Why Won't You Make Up Your Mind? (Erol Alkan Rework)	Tame Impala	InnerSpeaker B-Sides & Remixes	LIKE	8:15	y63PLlOcmRw	MPREb_OUOah1peHWK	UCGz-eguN8tcic5kUG4s1ZgA
+287	Sweet Day	TOKiMONSTA	Midnight Menu	LIKE	3:37	Pw00IpFO54U	MPREb_jaAs8Opptch	UCg-MiMmT50XZnbSCllzhyuA
 285	Higher Ground	TNGHT	TNGHT	LIKE	3:20	hwtg_1Yf8wc	MPREb_VZWtonY6H4T	UCIzvaEjamDYR85oxnqAB0eQ
 145	Buy U A Drank (Shawty Snappin') (Instrumental) (feat. Yung Joc)	T-Pain	The Instrumentals	LIKE	4:04	IXCruBuM2WQ	MPREb_vlMia5pzBEr	UCLSSupJwk82DYt6OI-iSh_Q
 275	Summer Fruits	Swindle	Walter's Call	LIKE	4:07	EnRmPWQSE9w	MPREb_UelLSUCFkOC	UCTLLkLVz9-JfZ3y6ucLN-sQ
@@ -89,8 +91,8 @@
 243	Stay	Post Malone	Beerbongs & Bentleys	LIKE	3:25	4Ukh9aQBzWc	MPREb_y5az4IA8iUz	UCyD3XWRK9ko-izf2nBSFitw
 163	Clique	Pop Tracks	Clique (Kanye West Feat. Jay-Z & Big Sean Tribute)	LIKE	4:41	yXTA2I-MeWE	MPREb_HgiHrkXHglS	UCC1_JUwaRyvIqtZWMvlyTHg
 233	Do You Believe	Poolside	Pacific Standard Time	LIKE	4:15	ItSZEmCXO2Q	MPREb_LhYksKpmCX1	UC31l8BCauKMT4TMLPeIUOhA
+232	Number One	Pharrell	Hip Hop 00s	LIKE	3:57	Rtejm8rW46g	MPREb_6mBNtvX6qCV	UCJw8VyO6e3v6S0327AsgwcQ
 231	As Far As I Can See	Phantogram	Eyelid Movies	LIKE	3:30	1stE0wn6X9k	MPREb_geWUyTCGP8H	UCUslN5d3K5iQ7s65GNPrjQQ
-230	The Woman Behind Me	Percee P	Perseverance: The Madlib Remix	LIKE	4:23	yl0oTmJPWC0	MPREb_RUFCpGckgn6	UCQSo5eEB5XV7osNKzU4c88Q
 228	Mothership Connection (Star Child)	Parliament	Mothership Connection	LIKE	6:13	kvyNe7f7WhA	MPREb_kZhTxqCINhb	UCcmsXjBIjEbFMRHhtdnFnqQ
 229	Give Up The Funk (Tear The Roof Off The Sucker)	Parliament	Mothership Connection	LIKE	5:48	3HU-KdHmYeA	MPREb_kZhTxqCINhb	UCcmsXjBIjEbFMRHhtdnFnqQ
 227	Time	Pachanga Boys	Girlcatcher	LIKE	15:13	eSqUIEgJtvk	MPREb_6aRtc5neygt	UC_4fLQcipF8haT83OcwIqJw
@@ -126,12 +128,15 @@
 196	Holiday	Metronomy	Nights Out	LIKE	4:17	yPir6w_q7aM	MPREb_wBb5YRTcQk9	UCWE-9CO32bK6OI2NLKUWSRw
 197	Another Me To Mother You (Bonus Track)	Metronomy	Pip Paine (Pay The £5000 You Owe)	LIKE	4:14	uOYciuXReDM	MPREb_3jS7qzM0xGN	UCWE-9CO32bK6OI2NLKUWSRw
 188	I'm Still In Love With You	Marcia Aitken	Reggae Masterpiece: Joe Gibbs	LIKE	3:43	sH3KIh9d5hY	MPREb_roDnR9nh39P	UCTFx6T2c3CTZt6ZCSodmG3w
+185	Curls	Madvillain	Madvillainy	LIKE	1:36	eq2LrL_Tx4k	MPREb_gsxHe49IEfl	UCvYD4mt2SEikFlX0iJmTKvw
+186	Rhinestone Cowboy	Madvillain	Madvillainy	LIKE	4:00	WpUl4F3NX-0	MPREb_gsxHe49IEfl	UCvYD4mt2SEikFlX0iJmTKvw
 189	Emblica Officinalis	MF DOOM	Special Herbs Vol. 7 & 8	LIKE	4:50	cAGT0m7tFqo	MPREb_jervFGWt4oD	UCooTDYkIERWBwDC1JKyoElQ
 190	Hyssop	MF DOOM	Metal Fingers Presents: Special Herbs Vol. 3 & 4	LIKE	3:34	L08BvXyFJbA	MPREb_62z04rkh866	UCooTDYkIERWBwDC1JKyoElQ
 184	J.A.W.S	Lxury	J.A.W.S	LIKE	6:01	P5Q5gsR4viI	MPREb_45q8im2ZZKO	UCY0qshxMqAXcQPRB6shkKgg
 182	Average (feat. Kallitechnis)	Lou Phelps	Average (feat. Kallitechnis)	LIKE	3:54	Lhou85Q3gWk	MPREb_7XGNI4BoomK	UCGsDPSmCuGt06EsZuUm3h-A
 183	What Time Is It? (feat. Innanet James)	Lou Phelps	What Time Is It? (feat. Innanet James)	LIKE	3:44	CjEJEJhv7bU	MPREb_So4iMpWN1zB	UCGsDPSmCuGt06EsZuUm3h-A
 181	Airglow Fires	Lone	Airglow Fires	LIKE	6:01	-jZMyts-5Oo	MPREb_yl8oPhcqSL1	UC7-hqDqFbdlHr0sq5jhcucw
+180	Lilacs	Lilacs & Champagne	Lilacs & Champagne	LIKE	3:23	YEgdeiQEi54	MPREb_O9xlJvlPAxo	UCsOuL4ra8sDHIEeAzmf3Mlw
 263	Dreams	Lil Wayne	Funeral	LIKE	3:48	-uRyBpSHgCo	MPREb_3f78msRJuET	UC4IAZ3dowcXyvVYBx4hucSQ
 179	She's a Bad Girl	Lee Moses	Dark End of the Street / She's a Bad Girl (Digital 45)	LIKE	2:59	ZhX6Le6iD4M	MPREb_Efkj3CHYfT2	UCAuSGrqKzg_eNSaW13r30Vw
 174	Without You (feat. Kerry Leatham)	Lapalux	Nostalchic	LIKE	5:26	NwjIk4Rp2mI	MPREb_bDBUv7iLPhf	UC7_25O0eU-qJQc97_BmaCkg
@@ -153,22 +158,32 @@
 166	195	KAYTRANADA	XL Recordings: Chapter VI	LIKE	4:27	tYGXgO13q74	MPREb_NhwRzWWHToW	UCdJvty5IClKVcrXSOyE4sOA
 159	Busy Earnin'	Jungle	Jungle	LIKE	3:02	Zpkdh8raAsE	MPREb_2KVRvSYmQzW	UC8qPIA18dFORTSUmw0n8U-g
 158	Au Seve	Julio Bashmore	Au Seve	LIKE	6:33	DaE4XXQx1YE	MPREb_qR5c4xLDfwW	UCGriWKj64KRf5rkrgwayzvw
+157	Menina Mulher Da Pele Preta	Jorge Ben	Mães da MPB	LIKE	2:59	5Jc3ekOeIX4	MPREb_5CaE2eOcYIK	UCprFt4Sn4rnLyXUnXFX9ksQ
+156	Altitude	Jonwayne	Cassette on Vinyl	LIKE	3:15	meS9JGz9o3A	MPREb_SE0XWp5RqgZ	UCvc5goRDzFHpP_n_ro2kNFA
+146	Intervales Theme	Javelin	No Mas	LIKE	3:39	YbVQadbTr-M	MPREb_cGlZjFdE0ya	UCEXEnQYcYGEYFAd6njt6eWQ
 143	Sleep Sound	Jamie xx	Girl/Sleep Sound	LIKE	6:24	H4zZyqUsUIk	MPREb_7nEGVfbjpls	UCUIRrvexIhgFsdjRucxhQ5w
 144	Far Nearer	Jamie xx	Far Nearer / Beat For	LIKE	6:51	NpiZompj1Hk	MPREb_G2WzIV5CUEm	UCUIRrvexIhgFsdjRucxhQ5w
 142	I Don't Mind (Live At The Apollo Theater/1962)	James Brown	James Brown Live At The Apollo, 1962	LIKE	2:28	oaUWv72c-Go	MPREb_GtxDKZQTlEe	UCLSKiNGc_qBWJJ-m5y3jDEw
 6	Lock in the Lion	James Blake	Pembroke	LIKE	2:27	YZv7sStyoyw	MPREb_cQy265wkUEG	UCx90L12QXzc18AGYFRof-EA
 141	Footnotes	James Blake	CMYK EP	LIKE	4:46	WcdJGUT2AiI	MPREb_a2T1B99RoZp	UCx90L12QXzc18AGYFRof-EA
+140	BTSTU (Edit)	Jai Paul	PAY CLOSE ATTENTION: XL Recordings	LIKE	3:30	yXXVKEicHBY	MPREb_CIckalKskxD	UCnAysa-bmqQN4g_csowns0Q
+139	Quicksand	Jacques Greene	On Your Side	LIKE	5:01	0c6ZQvOFi4s	MPREb_vZkJ4ygI1yJ	UCe8iUza1vwtLe2IsT2sfXlQ
+155	Bookfiend (Clams Casino Version) (feat. Clams Casino)	JJ Doom	Bookhead	LIKE	2:53	pRoF461PfKc	MPREb_r4wwJ9n4R9W	UCcAGxXmm4Na--AA46iDyoWg
 151	Tom Ford	JAY-Z	Magna Carta... Holy Grail	LIKE	3:09	oqvLUZBZotk	MPREb_525cmN9nVI9	UCbJG1HvzgzaMe_15xfiUyWw
 152	22 Two's	JAY-Z	Reasonable Doubt	LIKE	3:29	u4FKKegTGFU	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
 153	Can I Live	JAY-Z	Reasonable Doubt	LIKE	4:09	auWvT_rwRPU	MPREb_woDBEucNlp1	UCbJG1HvzgzaMe_15xfiUyWw
 154	Allure	JAY-Z	The Black Album	LIKE	4:52	o_e8CAZC3Tw	MPREb_PA7PasDnuSo	UCbJG1HvzgzaMe_15xfiUyWw
 138	i.got.standards	J.Robb	monetary purposes	LIKE	1:37	Z-f6Q7jBudc	MPREb_rEYhhTIDKzK	UCxLETocl1NyeSQD38xmOwbw
+137	Forbidden Fruit (feat. Kendrick Lamar)	J. Cole	Born Sinner	LIKE	4:29	4QcNZ0Kmw0E	MPREb_B7swWkmlJY1	UC0ajkOzj8xE3Gs3LHCE243A
+135	Don't Cry	J Dilla	Donuts	LIKE	2:00	LtTqcp3k6do	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
+136	Gobstopper	J Dilla	Donuts	LIKE	1:06	MIvapR5OtFU	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
+133	ZOo00OOm	Hudson Mohawke	Butter	LIKE	2:43	ATmEJe72jA8	MPREb_31gsikK6oMV	UCB9xU4WcqTheZX69u2sYWeA
+134	Cbat	Hudson Mohawke	Satin Panthers	LIKE	2:52	qlJR6QoXlz0	MPREb_AmOeZhExV5b	UCB9xU4WcqTheZX69u2sYWeA
 132	Know Where	Holy Other	With U	LIKE	3:28	DcpRPRKEDfc	MPREb_u6uwtBSKNGW	UCph7GTSRBAFiQl7Wjzhi0kg
 150	Dirt Off Your Shoulder (Instrumental Version)	Hip Hop Masters	A Salute to Jay-Z	LIKE	4:13	QblRmE7arIo	MPREb_MU8ETFZ3soc	UCvW1u3bVD3VZhyc6YTnsAoA
 129	Chameleon	Herbie Hancock	Head Hunters	LIKE	15:41	WYRrIBqKsJ4	MPREb_1nwQ1udVEto	UCq_O_14tCKbx9U9uUT_LEPA
 131	I Thought It Was You	Herbie Hancock	The Best Of Herbie Hancock - The Hits!	LIKE	8:55	868YQyzPBkg	MPREb_KSCezBo2Bq9	UCq_O_14tCKbx9U9uUT_LEPA
 130	Nuttin' But Love (Reggae)	Heavy D & The Boyz	Nuttin' But Love (Remixes)	LIKE	4:35	7QEQakXvnUo	MPREb_XAsVH1GOY9H	UCZeGo9tVkSpuzXDlSEijkDg
-295	The Truth (feat. Roisin & J-Live)	Handsome Boy Modeling School	So...How's Your Girl?	LIKE	5:38	jPyf_VyP2ys	MPREb_PxWjZEghPtC	UCZ4yRm-r8r_jYFTOH9OUfPA
 128	Pillz	Gucci Mane	Hood Classics	LIKE	5:14	ljbll5Bsajs	MPREb_C9B4C4iD0ML	UCGJdT8Qip4XObbQZ98Z1CAA
 329	World ♡ Princess	Grimes	Halfaxa	LIKE	4:40	7xnRJQUiYe0	MPREb_Cmc2P3dKO9M	UCzVh-F-RZdTHGV3S1o4KBWQ
 125	Rizen	Gravez	Rizen	LIKE	1:22	npGcrvzccSg	MPREb_XVG4XbZm7gd	UCflybggjj5bRy-WXOHzA7Ig
@@ -183,10 +198,14 @@
 279	Georgia (From SUPERFLY: Original Soundtrack) (feat. Young Thug)	Future	SUPERFLY (Original Motion Picture Soundtrack)	LIKE	2:44	t-2rpDnFiRc	MPREb_kZo4pG2LQr1	UC1_liDR4fRFJgH4HoJeV8cw
 114	Space Ballad (Totally Enormous Extinct Dinosaurs 'Sings' Remix) (feat. Argenis Brito)	Fur Coat	Space Ballad	LIKE	6:00	s336T6Q8LKg	MPREb_mFbZQlj0pwj	UCNOU8I-_YrOWq65jn5mI29w
 259	Mondo Cool	Funkmammoth	Sundae Sauuce Presents: Butterscotch Drizzle	LIKE	3:10	NRT2ns2eV3A	MPREb_KX4Gvn4avJL	UCGA5lGZMNQduQYh8i9YIIAg
+112	Can You Get To That	Funkadelic	Maggot Brain	LIKE	2:50	yl3fIXaAXow	MPREb_OlDsQnYS8Vu	UCKwWf4e842gO9cY0YJCfe2A
 111	Nobody Else (Club Edit)	Full Crate x Mar	Nobody Else	LIKE	4:59	KlK7u8NuneI	MPREb_pouyjBIC2dC	UCoxt8AqX1elD8aaauXpusnQ
 331	Thuggin' (Instrumental)	Freddie Gibbs	Thuggin' - EP	LIKE	3:21	RvkXBFUqO24	MPREb_pcztnMxM2I9	UCTwMinUabRPEhNiMP9wgXAA
 110	Pink Matter (feat. André 3000)	Frank Ocean	channel ORANGE	LIKE	4:28	uaLV003llhY	MPREb_2WzVTTzzoJc	UCETYiBLjt2v-pcKSgf8pe6g
 109	Pyramid (Atoms for Peace Remix)	Four Tet	Pink Remixes	LIKE	7:38	Sf28c5FbghU	MPREb_2yjuXayT2mN	UCd6q-S_HAePombe72bczCkA
+106	Do The Astral Plane	Flying Lotus	Cosmogramma	LIKE	3:58	V_VeIP_l7iA	MPREb_3aYVH4Fv4EC	UCJvOvKwxPEL-4RtSvu_nWhQ
+107	Zodiac Shit	Flying Lotus	Cosmogramma	LIKE	2:45	n-NTfJbbBwk	MPREb_3aYVH4Fv4EC	UCJvOvKwxPEL-4RtSvu_nWhQ
+108	Camel	Flying Lotus	Los Angeles	LIKE	2:23	vtnloQunQPc	MPREb_j1egHGYdncD	UCJvOvKwxPEL-4RtSvu_nWhQ
 103	Sintra	Flume	Flume	LIKE	2:33	Ct3zjABKrtc	MPREb_ow0yTNrGv0O	UCEdhHl4ZB0JXIinqZ367F6w
 104	Ezra	Flume	Flume	LIKE	3:37	OLPdiDwfUog	MPREb_ow0yTNrGv0O	UCEdhHl4ZB0JXIinqZ367F6w
 105	Sleepless (feat. Twin Shadow & Jezzabell Doran)	Flume	Flume: Deluxe Edition	LIKE	1:50	oK-usi-lAjA	MPREb_z78t987Av1C	UCEdhHl4ZB0JXIinqZ367F6w
@@ -194,7 +213,7 @@
 98	Relocation	Feed Me	Feed Me's Escape from Electric Mountain	LIKE	5:36	1iSReNdNH0Y	MPREb_tMUjSzwsDaR	UC9UlsJH0D1uZ3hA1LNKEV0w
 97	Look at Wrist (feat. iLoveMakonnen & Key!)	Father	Young Hot Ebony	LIKE	3:33	qAC2h0LRbNQ	MPREb_p5PKVbC6FdK	UC-fUlB40P21RXZSYg--rx9Q
 96	Over	Fantastic Mr Fox	Evelyn	LIKE	4:17	SpIWGKnN528	MPREb_0vJC5HId7WI	UC1L5PvLPksgLtDw2VTE0ooA
-99	Instant Need	FKJ	Thesoundyouneed, Vol. 1	LIKE	4:30	lwo60B4xst0	MPREb_mhsR8F208XG	UCxcGxv-per5g7A9be800tQA
+99	Instant Need	FKJ	Thesoundyouneed, Vol. 1	LIKE	4:31	lwo60B4xst0	MPREb_mhsR8F208XG	UCxcGxv-per5g7A9be800tQA
 100	Lying Together	FKJ	Lying Together	LIKE	4:31	CQoS4ts_iUE	MPREb_FIHg1Ub9ctJ	UCxcGxv-per5g7A9be800tQA
 148	When You're Smiling	Erroll Garner	The 20 Best Collection	LIKE	3:47	Bi2B_jeVc7M	MPREb_p8c7VbkNfNG	UCs3BHE6jtTfaoDTd9yu2EDg
 95	Knight (feat. Domo Genesis)	Earl Sweatshirt	Doris	LIKE	3:14	MfnWQiScDIk	MPREb_k2cmqXzXUXv	UCrE_FNQxg5oXy8SLQ63Nx7A
@@ -209,6 +228,7 @@
 79	Doobie Ashtray	Devin the Dude	Just Tryin' ta Live (Screwed)	LIKE	6:18	UNYwcujSU98	MPREb_PYW7420zd7u	UCaZLWpnEElCsN0W4l894nug
 78	Say My Name	Destiny's Child	The Writing's On The Wall	LIKE	4:32	Ajez9PaCgek	MPREb_EmoyiBRSsE1	UCksv4FYu55EEkyy5Q1W_yUw
 77	Mastermind	Deltron 3030	Deltron 3030 - The Instrumentals	LIKE	3:37	oyKUbgVP1rw	MPREb_3ktqBEivUt2	UCJpHpgv_ZmWfiL-qzCZq8Nw
+88	Didn't I	Darondo	Didn't I	LIKE	3:30	5UOn-ZVwa0k	MPREb_vvGF2KpcQtR	UCzkbvlQMgeJd8jNg1xTch-A
 69	A2	Darkside	Darkside	LIKE	4:46	s_5B5sVBj98	MPREb_tMYymJGYtlk	UCPWad8IPnWG-EY23ePpI3bg
 66	Espoir	Darius	Romance	LIKE	4:03	ZfnMCimIfQQ	MPREb_SsXbdIOXK3p	UC47pz2hObnlTy47JuZJXClQ
 67	S/ash	Darius	Romance	LIKE	4:21	u1-F8Ixq-nw	MPREb_SsXbdIOXK3p	UC47pz2hObnlTy47JuZJXClQ
@@ -251,7 +271,7 @@
 29	Poison (Extended Club Version)	Bell Biv DeVoe	Poison	LIKE	7:05	Lgx6xen5_5Q	MPREb_dMgahRwHbtC	UC7AXW4dtZ4OJcEoCqo0F3uw
 26	Sunburn	Beat Connection	Surf Noir	LIKE	2:45	FdzUZ_J4FAs	MPREb_HEDnMQG0pR4	UCzyCfJrd2kOdyZflWhMtEzA
 27	In the Water	Beat Connection	Surf Noir	LIKE	4:47	rSX18XwAvaQ	MPREb_HEDnMQG0pR4	UCzyCfJrd2kOdyZflWhMtEzA
-25	Warm Water (Snakehips Remix)	Banks	Thesoundyouneed, Vol. 1	LIKE	4:13	gl7j71iy8X4	MPREb_mhsR8F208XG	UC7QXn5ZO2n5MqNy1Rrp547g
+25	Warm Water (Snakehips Remix)	Banks	Thesoundyouneed, Vol. 1	LIKE	4:14	gl7j71iy8X4	MPREb_mhsR8F208XG	UC7QXn5ZO2n5MqNy1Rrp547g
 24	PIMP	Bacao Rhythm & Steel Band	55	LIKE	3:14	zmauoumuQ4U	MPREb_dEesD5sTOJZ	UCRY5HZTTOsFC9OfJuFM-baw
 22	Kung Fu (feat. Pusha T & Future)	Baauer	Kung Fu	LIKE	2:40	vm4HRn8RxR0	MPREb_CIRHoy2O66x	UChr8sjD4NJGdKuLA-GquIAQ
 23	Harlem Shake	Baauer	Harlem Shake	LIKE	3:16	78PjJ1soEZk	MPREb_ae3eJA4alK6	UChr8sjD4NJGdKuLA-GquIAQ
@@ -283,50 +303,30 @@
 318	Many Men (Wish Death)	50 Cent	Get Rich Or Die Tryin'	LIKE	4:12	UXZDbsidKFY	MPREb_8iBjcbqpRI1	UCOcnYBwT1jb6EHlS0cwhNkA
 313	C.Y.D.T.T. (Can You Dance to This!?)	20syl	Motifs - EP	LIKE	4:10	Qv-YgrnByWs	MPREb_3XgACcaMfnS	UCcjF7DzASotYzY2LbokwSdg
 322	Slyd	!!!	Thr!!!er	LIKE	4:15	sImwiRuOMsQ	MPREb_yG2gBJ8eF8f	UC_kiReqJMAcQ9F9gf10QMTg
+291	Tapes & Money	Totally Enormous Extinct Dinosaurs	Trouble	INDIFFERENT	3:40	9QD7IzeP7IY	MPREb_0miEKQ1zCSh	UCIzUuNT1-rqqfJCdRRVGBBA
+116	Get Yourself Together	Lonnie Johnson	Lonnie Johnson Vol. 2 1940 - 1942	INDIFFERENT	3:13	5QWPH_C1yq4	MPREb_eNyzixI43P8	UC11_nfqWfu0m0tsob-o4t9A
 319	Weird	Gucci Mane	The Gooch	INDIFFERENT	3:20	7dBFdAxcFSo	MPREb_XCRw2aLYCY1	UCGJdT8Qip4XObbQZ98Z1CAA
-88	Didn't I	Darondo	Didn't I / Saving My Love	INDIFFERENT	3:27	E8dHp2B9L1E	MPREb_3UkyPiP6lWi	UCzkbvlQMgeJd8jNg1xTch-A
+102	Football Head	Flamingosis	Pleasure Palette	INDIFFERENT	3:44	sCcIJbEqCuc	MPREb_kdaBTrmgkSZ	UCv2swbKUFrmVUeW1Xyp5vEg
 70	Aidys Girl's a Computer	Darkstar	North	INDIFFERENT	5:12	Qq54NvYQtLg	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
 43	Gutted	Burial	Distant Lights	INDIFFERENT	4:44	uQifKxOtMgQ	MPREb_o76bZe8AVl6	UCQcNEJM-RtTiomfm8Avt5UQ
 33	Hoe	Big Baby Flava	City of Sauce 2	INDIFFERENT	4:32	nPuiR78e4as	MPREb_IHrZzBzCV2N	UCj5aSO6REY0nGQIuS0g6S-g
 32	Light Seep	Bibio	Mind Bokeh	INDIFFERENT	3:54	Yg318mnX2uQ	MPREb_b2aEb3wMbxa	UCuJ1ytddNReUXXZb3QPNEtg
+312	Test Me For a Reason	Zomby	Zomby EP		2:00	jpvmM_KPXco		
 308	1017 Lifestyle	Young Thug	Street Is Watching (The Mix-Tape)		3:13	0g73QYa7yiM		
 306	Dmt	XXYYXX	Xxyyxx		4:20	QW8llsto2V8		
-300	Say It Ain't So	Weezer	Nineties Songs			mMLhLrDDkkw		
 298	Everyday	Vintage Culture	Playlist		6:14	o2NxKIeLeKo		
-291	Tapes & Money	Totally Enormous Extinct Dinosaurs	Trouble			PKZgAuGocA8		
 292	Closer	Totally Enormous Extinct Dinosaurs	Trouble			KOr7sB7gAZk		
 290	Before I'm Done	Toro Y Moi	Underneath The Pine		2:43	4HNZnF-6fWw		
 216	Juicy	The Notorious BIG	Once Upon A Time in 94			7JnlZtm73XA		
-191	Cissy Strut	The Meters	Funky Sensations		3:07	QiaBkmhYZMk		
-287	Sweet Day	TOKiMONSTA	Midnight Menu		3:37	Pw00IpFO54U		
 288	Madness	TOKiMONSTA	Midnight Menu		3:57	O5O-3h6rTAA		
 284	Goooo	TNGHT	TNGHT		3:22	w4lHQd_jIfc		
 250	July	Samiyam	Man vs Machine		3:04	UFb90b3tdcI		
 234	Sunset Dub	Quarta 330	Sunset Dub / 9 Samurai (Quarta 330 RMX)		5:32	Kvsq0teM62o		
-232	Number One	Pharrell	Throwback Thursday Mix Vol. 5			sJltEk88wKs		
+230	The Woman Behind Me	Percee P	Perseverance: The Madlib Remix		4:23	yl0oTmJPWC0		
 187	Original Don (feat. The Partysquad) [Flosstradamus Remix]	Major Lazer			3:55	vG0NsQQSxCM		
-185	Curls	Madvillain	Madvillainy		1:36	eq2LrL_Tx4k		
-186	Rhinestone Cowboy	Madvillain	Madvillainy		4:00	WpUl4F3NX-0		
-116	Get Yourself Together	Lonnie Johnson	Lonnie Johnson - Volume 1 (MP3 Album)		3:16	G6t9OurkD48		
-180	Lilacs	Lilacs & Champagne	Lilacs & Champagne		3:23	YEgdeiQEi54		
-157	Menina Mulher Da Pele Preta	Jorge Ben	MPB As Melhores			Bnmz2mm3rus		
-156	Altitude	Jonwayne	Cassette on Vinyl		3:15	meS9JGz9o3A		
-146	Intervales Theme	Javelin	Brownswood Bubblers Six		3:39	WFpok0jys2A		
-140	BTSTU (Edit)	Jai Paul	Pay Close Attention : XL Recordings			Ny_RNftEfnI		
-139	Quicksand	Jacques Greene	On Your Side		5:01	9IdoKhdUCGQ		
-155	Bookfiend (Clams Casino Version)	JJ Doom	Bookhead		2:53	pRoF461PfKc		
-137	Forbidden Fruit	J. Cole	Born Sinner		4:29	K7OptzzYytA		
-135	Don't Cry	J Dilla	Donuts		2:00	LtTqcp3k6do		
-136	Gobstopper	J Dilla	Donuts		1:06	MIvapR5OtFU		
-133	ZOo00OOm	Hudson Mohawke	Butter		2:43	ATmEJe72jA8		
-134	Cbat	Hudson Mohawke	Satin Panthers		2:52	qlJR6QoXlz0		
 203	Thunder Bay	Hudson Mohawke	Satin Panthers		3:19	5O2kLDu_T4g		
-112	Can You Get To That	Funkadelic	Maggot Brain			Q9FjxXt80uw		
+295	The Truth	Handsome Boy Modeling School	So...How's Your Girl?			JwcjlllV24s		
 113	One Nation Under A Groove (The Big Funk Collection)	Funkadelic	One Nation Under A Groove - (The Big Funk Collection)			NtEBhNzkfz0		
-106	Do The Astral Plane	Flying Lotus	Cosmogramma		3:58	V_VeIP_l7iA		
-107	Zodiac Shit	Flying Lotus	Cosmogramma		2:45	n-NTfJbbBwk		
-108	Camel	Flying Lotus	Los Angeles		2:23	vtnloQunQPc		
-102	Football Head	Flamingosis	Pleasure Palette		3:44	sCcIJbEqCuc		
 90	Lil' Ghetto Boy	Dr. Dre	The Chronic			OYVi3hV5ONc		
 91	"Nuthin' But A ""G"" Thang"	Dr. Dre	The Chronic			6xjRdBjmePQ		
 92	Rat-Tat-Tat-Tat	Dr. Dre	The Chronic			yD31ZaHjorI		

@@ -1,6 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 2	Going Underground	The Jam	Setting Sons (Super Deluxe)	LIKE	2:54	1qj6GNy1GqY	MPREb_8CLXMgaAaWY	UC4hjKDPaNEyQ0xoolv3GIMg
-29	Smash It Up, Pt. 1 & 2	The Damned	Machine Gun Etiquette	LIKE	5:14	ln11FvBBnLs	MPREb_VRcwhEDDhah	UCuxl25M6Si9Yoel_qsMB3Fw
 12	Blank Generation (2017 Remaster Audio)	Richard Hell & The Voidoids	Blank Generation (40th Anniversary Deluxe Edition)	LIKE	2:44	v9FkQLjOSZ8	MPREb_p6m26HcurLC	UC7SexwztVZCaKrD2mnz73Ow
 96	Final Solution	Pere Ubu	Terminal Tower	LIKE	1:54	KMhllBmml4M	MPREb_YwPYrATKxh2	UClI4yC6yDClyUOGF-Gt2ccw
 9	Personality Crisis	New York Dolls	New York Dolls	LIKE	3:41	ioixZtoTp00	MPREb_ZoCgCJ2eK3i	UCenEdp6mH6wW6J44WHAJFzA
@@ -31,7 +30,7 @@
 138	Jimmy Jimmy	The Undertones	The Best of The Undertones	INDIFFERENT	2:43	8O32o-pKWNQ	MPREb_IoTrzBrY3kK	UCQaaw0AwpYPQDe6QPVdsaLA
 152	True Confessions	The Undertones	Teenage Kicks EP	INDIFFERENT	1:53	DEykyyEoBNQ	MPREb_g2uDGtTff7r	UCQaaw0AwpYPQDe6QPVdsaLA
 158	Smarter Than You	The Undertones	Teenage Kicks EP	INDIFFERENT	1:45	tI7QAI92gk4	MPREb_g2uDGtTff7r	UCQaaw0AwpYPQDe6QPVdsaLA
-180	Teenage Kicks	The Undertones	Mum's List (Original Motion Picture Soundtrack)	INDIFFERENT	2:27	F6UwtdfHozc	MPREb_BBtChrIEXKT	UCQaaw0AwpYPQDe6QPVdsaLA
+180	Teenage Kicks	The Undertones	The Undertones	INDIFFERENT	2:29	J7qxCtX7f7s	MPREb_A0UPSD8nKoj	UCQaaw0AwpYPQDe6QPVdsaLA
 92	Death to the Sickoids	The Subhumans	Incorrect Thoughts	INDIFFERENT	1:47	0ZDIn1VN_3U	MPREb_DvZIzcUIIBJ	UCer2xMC1Dvx77ia3MULL0VA
 16	Peaches (1996 Remaster)	The Stranglers	Rattus Norvegicus	INDIFFERENT	4:06	j2w0rbp6J9Y	MPREb_VZ1oTDPhTMq	UCc-wWdxvOaNCJDbl2Gr1ThA
 21	No More Heroes (1996 Remaster)	The Stranglers	No More Heroes	INDIFFERENT	3:29	dbV16XOk404	MPREb_AgBRagTpb0b	UCc-wWdxvOaNCJDbl2Gr1ThA
@@ -78,10 +77,9 @@
 85	Red Rubber Ball	The Diodes	Tired Of Waking Up Tired: The Best of The Diodes	INDIFFERENT	2:36	v625Dj9svQI	MPREb_o5hr1SY3IGQ	UCZgfCP1ebhl8ilXgstgekEQ
 58	California Sun	The Dictators	Go Girl Crazy!	INDIFFERENT	3:04	a5keKZFlX14	MPREb_klTtTL3K0GC	UCwJnoQI5I8ro0zuGVJAjE-Q
 37	New Rose (2017 Remastered)	The Damned	Damned Damned Damned (2017 Remastered)	INDIFFERENT	2:43	ug3RfquyZl0	MPREb_c2cjIV3evSk	UCuxl25M6Si9Yoel_qsMB3Fw
-44	Love Song	The Damned	Machine Gun Etiquette	INDIFFERENT	2:22	phouch_2xhQ	MPREb_VRcwhEDDhah	UCuxl25M6Si9Yoel_qsMB3Fw
 102	Neat Neat Neat (2017 Remastered)	The Damned	Damned Damned Damned (2017 Remastered)	INDIFFERENT	2:41	gXKDtkCzSCw	MPREb_c2cjIV3evSk	UCuxl25M6Si9Yoel_qsMB3Fw
-110	I Just Can't Be Happy Today	The Damned	Machine Gun Etiquette	INDIFFERENT	3:44	llurwNphwnk	MPREb_VRcwhEDDhah	UCuxl25M6Si9Yoel_qsMB3Fw
-122	Looking at You	The Damned	Machine Gun Etiquette	INDIFFERENT	5:08	gV7ZkWqESpc	MPREb_VRcwhEDDhah	UCuxl25M6Si9Yoel_qsMB3Fw
+110	I Just Can't Be Happy Today	The Damned	Machine Gun Etiquette	INDIFFERENT	3:44	Qd529s4Ae30	MPREb_Hh1rljykmmW	UCuxl25M6Si9Yoel_qsMB3Fw
+122	Looking at You	The Damned	Machine Gun Etiquette	INDIFFERENT	5:08	14PKjhC9Fnk	MPREb_Hh1rljykmmW	UCuxl25M6Si9Yoel_qsMB3Fw
 3	Human Fly	The Cramps	Off The Bone	INDIFFERENT	2:17	WK5Xe1SK0r8	MPREb_gWUq7Fr2nTJ	UC0POYmAiBnkmnnllT59N2gA
 17	Clampdown	The Clash	London Calling	INDIFFERENT	3:50	p_WMSJLDwRs	MPREb_yeJ9gspPXeL	UCf-a_3DiA07vhQmoEaczDhw
 25	White Riot	The Clash	The Clash	INDIFFERENT	1:57	Xk00SETBlyA	MPREb_jhrJcXFREuw	UCf-a_3DiA07vhQmoEaczDhw
@@ -152,7 +150,6 @@
 185	How Do You Know?	Lyres	12 Classic 45s	INDIFFERENT	3:15	CXOakH7WN2o	MPREb_NxHpEiabHYH	UCNmsJQnrjUveLhnaPKuWyww
 31	Born To Lose	Johnny Thunders & The Heartbreakers	L.A.M.F. (The Lost '77 Mixes) [40th anniversary: remaster]	INDIFFERENT	3:05	TlFsXoZkamw	MPREb_UsYhGlj5vtT	UCBO8W7UkhKauy0dBdaCcwrA
 47	Chinese Rocks	Johnny Thunders & The Heartbreakers	L.A.M.F. (The Lost '77 Mixes) [40th anniversary: remaster]	INDIFFERENT	2:56	tXBChDAfaqI	MPREb_UsYhGlj5vtT	UCBO8W7UkhKauy0dBdaCcwrA
-84	Innocents	John Cooper Clarke	Rainy City Punks (Manchester Punk and Post Punk Independent Singles)	INDIFFERENT	2:35	H_TTt01yzcw	MPREb_LNtSm87eo1i	UCNDKjmTBd1VXFa8q0mV1Wqg
 50	I'm Bored	Iggy Pop	New Values	INDIFFERENT	2:49	FVjNuGC_qQg	MPREb_SH0APUR0OX5	UCN2OwEXNYJFzgHvR7912Btg
 10	Sex & Drugs & Rock & Roll	Ian Dury	New Boots And Panties!	INDIFFERENT	3:07	cowmDhNdmkk	MPREb_dz77qlL4bRO	UCOLgVh4--Wr9obrWHkUmpFw
 111	Blockheads	Ian Dury	Hit Me! The Best Of	INDIFFERENT	3:34	rR2mfUdflio	MPREb_XAaDIu39OTs	UCOLgVh4--Wr9obrWHkUmpFw
@@ -163,7 +160,6 @@
 88	Jet boy jet girl	Elton Motello	Jet Boy Jet Girl	INDIFFERENT	3:10	o1UKRKgMbQ0	MPREb_Yq7m43rZ53P	UCW5lT2F02QN3BJFcyUFtNPw
 183	Jet Boy Jet Girl	Elton Motello	Jet Boy	INDIFFERENT	3:10	FSXFiFXwsRk	MPREb_UdxfVIJUmzM	UCW5lT2F02QN3BJFcyUFtNPw
 129	Do Anything You Wanna Do	Eddie & The Hot Rods	Life On The Line	INDIFFERENT	4:20	zJI5pH-gGmQ	MPREb_7rOuDccZgE7	UCYC86qOuQIh6pTbb7atyPEw
-81	Meet the Creeper	Destroy All Monsters	Cherry Red: The Punk Singles Collection	INDIFFERENT	4:56	uf61w7cNsFI	MPREb_YXZr2ZyutOC	UC58QMaZbrf1C_QYSIrZCm7g
 5	California Uber Alles	Dead Kennedys	Give Me Convenience Or Give Me Death	INDIFFERENT	3:27	jrWflCJPM4w	MPREb_zLyBcaiI17f	UCnGbZT2OHo8Kc0MoVpDi9cQ
 11	Nazi Punks Fuck Off	Dead Kennedys	Plastic Surgery Disasters / In God We Trust, Inc.	INDIFFERENT	1:03	iyc62g7YQM0	MPREb_lkMJ73rdtZS	UCnGbZT2OHo8Kc0MoVpDi9cQ
 173	Holiday In Cambodia	Dead Kennedys	Milking The Sacred Cow	INDIFFERENT	3:45	wTo0OTwrpyE	MPREb_rK6YOJyzwIj	UCnGbZT2OHo8Kc0MoVpDi9cQ
@@ -188,3 +184,7 @@
 114	Homicide	999	Pub Rock	INDIFFERENT	4:27	rjegYm5NFdk	MPREb_g0SJIysdg62	UCIfBMF94VhuYPLaIae08Lbw
 146	I'm Alive	999	999	INDIFFERENT	2:35	sI_nXwVI7h0	MPREb_bSlI22V6K4B	UCRX1WRaDYbebzgqLWkRidwQ
 188	Emergency	999	The Early Stuff (The UA Years)	INDIFFERENT	2:52	reWzZqWtCUU	MPREb_gJnmitWjsep	UCRX1WRaDYbebzgqLWkRidwQ
+29	Smash It Up, Pt. 1 & 2	The Damned	Machine Gun Etiquette			ln11FvBBnLs		
+44	Love Song	The Damned	Machine Gun Etiquette			phouch_2xhQ		
+84	Innocents	John Cooper Clarke	Rainy City Punks (Manchester Punk and Post Punk Independent Singles)			H_TTt01yzcw		
+81	Meet the Creeper	Destroy All Monsters	The Punk Years 1979		4:56	sZnB78JeTQg		

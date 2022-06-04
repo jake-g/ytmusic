@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 448	Just Got Back from Baby's	ZZ Top	ZZ Top's First Album	LIKE	4:11	EpD5f-fvQ2c	MPREb_arByG3OFsoP	UC_Us2Zqt4ovGtdXKmws60mw
 55	In the Midnight Hour	Wilson Pickett	The Very Best of Wilson Pickett	LIKE	2:38	uiy36UfftsI	MPREb_nIC3WcLjClE	UC_nBrnmRNUgbvTbsr20gssQ
+496	Hound Dog	Willie Mae Thornton	Rock 'n' Roll & the City	LIKE	2:52	Q25PAh-p9lo	MPREb_GigLdu1NjQr	UC_aKjhh4ikKYtXW-oTSoNBw
 202	Crawlin' King Snake	Williams Big Joe	The Ultimate Jazz Archive 12 - Blues (2 Of 4)	LIKE	2:51	_AaVUj5_n4Y	MPREb_XHJp6qhbOog	UCPnveM6N79bb0VFJMFTo0ew
 54	Troubles, Troubles, Troubles (feat. Various Artists)	Various Artists	Blues Giants	LIKE	3:00	u8A4Subw7Xo	MPREb_AcgjiWKT3hV	UCeyx2t44xepKjxn74sK0nlQ
 343	Waiting Around to Die	Townes Van Zandt	Townes Van Zandt	LIKE	2:46	NqX6FE0xIJg	MPREb_9jiO7CIjG9T	UC0nXgIL3q7dp3-QRNDYkdFg
@@ -11,7 +12,6 @@
 465	Hell Broke Luce	Tom Waits	Bad As Me (Deluxe Edition Remastered)	LIKE	3:56	vM0GB5EJlr8	MPREb_6FvBdYAaJEC	UC39N3pyt2Z15oOMjouokl8A
 318	Ball and Biscuit	The White Stripes	Elephant	LIKE	7:20	B6j97ZvyuSc	MPREb_QdhFbMJtBs0	UCD0Wge1UpszMtqK3P9x50vA
 334	Death Letter	The White Stripes	De Stijl	LIKE	4:30	ba0IunweO5Q	MPREb_VUnrRCD9Xh2	UCD0Wge1UpszMtqK3P9x50vA
-405	Stop Breaking Down	The White Stripes	Dead Leaves And The Dirty Ground	LIKE	5:38	55pz65v-X4Q	MPREb_UgRTQmJmXti	UCD0Wge1UpszMtqK3P9x50vA
 450	Sister, Do You Know My Name?	The White Stripes	De Stijl	LIKE	2:52	FHfYzbE5Z3k	MPREb_VUnrRCD9Xh2	UCD0Wge1UpszMtqK3P9x50vA
 295	Walk, Don't Run	The Ventures	Walk - Don't Run: The Best Of The Ventures	LIKE	2:05	dzL3jvnmqPM	MPREb_jmI40k1che7	UCBTyn_Hs6HQQ6poBYsiQiVw
 52	Let's Do It Again	The Staple Singers	Let's Do It Again Original Sound Track	LIKE	4:54	OOHTaknPTek	MPREb_ZD6L5P9f6Ar	UCES6P3frdkIMVkj95rxvLaw
@@ -49,6 +49,7 @@
 10	Somebody's Knockin'	T-Model Ford	Bad Man	LIKE	4:13	Nw_y-pyxa6M	MPREb_G0eZfqh9RUX	UCnDzoM-YVxXjFR-IpTnt_Lg
 4	I Got A Break Baby	T-Bone Walker	The Complete Capitol / Black & White Recordings	LIKE	3:16	3IpwR3DD4Ec	MPREb_kdnP34Mpzj3	UCGUpBCmvcFSZUekLZjQnJFQ
 175	T-Bone Blues Special	T-Bone Walker	T-Bone Blues	LIKE	2:39	Tuo5_HE8K1w	MPREb_PTNBA1bp1iq	UCGUpBCmvcFSZUekLZjQnJFQ
+478	Mean Old World	T-Bone Walker	T-Bone Blues	LIKE	4:07	M_ZDGFBKbBM	MPREb_PTNBA1bp1iq	UCGUpBCmvcFSZUekLZjQnJFQ
 192	Tin Pan Alley	Sunnyland Slim	Blues Masters Vol. 8	LIKE	2:50	KuASnGBsYvs	MPREb_PeL8CZoa29V	UCBHFksvgWaJ9oCmew-doMpw
 315	Hoochie Coochie Man (Live)	Sugar Blue	Raw Sugar (Live)	LIKE	14:18	nG7_2pchkTM	MPREb_FiFO4VPrrjG	UCXbr3kyEvBVgNjML4e9hh2g
 305	Rumble In Brighton	Stray Cats	Built For Speed	LIKE	3:17	IKpxp7ZOXzM	MPREb_P0VaFSw89YB	UC0gJ5apzM5borvq4HHWxpxQ
@@ -56,6 +57,7 @@
 56	Pride and Joy	Stevie Ray Vaughan And Double Trouble	Texas Flood	LIKE	3:40	Chk4tCMRBxk	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
 57	Texas Flood	Stevie Ray Vaughan And Double Trouble	Texas Flood	LIKE	5:21	OQuY7dHfWrM	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
 345	So Excited (Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983)	Stevie Ray Vaughan And Double Trouble	Texas Flood	LIKE	4:18	qCkDdiQ08Ko	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
+510	Little Wing	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather (Legacy Edition)	LIKE	6:49	Rj_NUS9hwxA	MPREb_EkWi0ymkLW8	UCG47N6MrGcPaJpVRgBoAVAQ
 1	Little Wing	Stevie Ray Vaughan	The Sky Is Crying	LIKE	6:48	3x1vfs_zmcw	MPREb_IZVVuZiLWD2	UCG47N6MrGcPaJpVRgBoAVAQ
 361	Life by the Drop	Stevie Ray Vaughan	The Sky Is Crying	LIKE	2:28	uJCOlmLxLeg	MPREb_IZVVuZiLWD2	UCG47N6MrGcPaJpVRgBoAVAQ
 464	The Sky Is Crying (Live)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	LIKE	7:20	DFod6V3Q68k	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
@@ -84,6 +86,7 @@
 368	Crow Jane	Skip James	Today!	LIKE	3:01	oyzfTgf-DVg	MPREb_RNKE6GXT0gp	UCOUlyPoyLeFd9QGtRuwGuaA
 414	Crow Jane	Skip James	Blues From The Delta	LIKE	2:59	vn2t368yLsw	MPREb_YKFIB6KL1OX	UCOUlyPoyLeFd9QGtRuwGuaA
 467	Hard Time Killing Floor Blues	Skip James	Special Rider Blues - Skip James in the 30's	LIKE	2:52	aANSKrs87FA	MPREb_niWzKtUvd7P	UCOUlyPoyLeFd9QGtRuwGuaA
+507	Sick Bed Blues	Skip James	Devil Got My Woman	LIKE	4:08	02IkbJkazLs	MPREb_rI9O7QPMxch	UCOUlyPoyLeFd9QGtRuwGuaA
 298	Sweet Thang	Shuggie Otis	Shuggie's Boogie: Shuggie Otis Plays The Blues	LIKE	4:10	wk94HIodJ48	MPREb_tGxQwnL4cQL	UCTLJg68A7Oioyhnk9airtZw
 313	Felt Tip Pen	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	LIKE	2:43	pZHUdPC1_7g	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
 314	Spokey Dokey	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	LIKE	4:06	Amsp6S2lUwo	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
@@ -96,6 +99,7 @@
 352	Who Gonna Love You Tonight	Sam Chatmon	The Devil's Music Vol. 1	LIKE	3:53	T97cGgzmBmg	MPREb_2O7bjfbQOmR	UChUQY3neXM2K0AKsRzIfgPw
 143	When Something Is Wrong with My Baby	Sam & Dave	Stax Classics	LIKE	3:15	Gdc0llIaD8s	MPREb_pVgisEkJsC5	UC0jVmnViSoUHl_XwocssdPg
 124	I Don't Know	Ruth Brown	The Essentials: Ruth Brown	LIKE	2:54	XPJ3HLoZrR8	MPREb_mAZBqh8RZ7s	UCQUda9wOuv0fT6v8X8Zyr_g
+502	So Tired	Roy Milton	Jazz Greats: Carmen McCrae, Art Farmer, Count Basie and More	LIKE	3:28	ypyI9IWFnag	MPREb_9aBeqqamhSf	UCC6aFpipFBcszh9hydfp6Lw
 299	A Million Miles Away (Live)	Rory Gallagher	Irish Tour ‘74 (Live / Remastered 2017)	LIKE	9:35	LAjf4NKam40	MPREb_m1FliAyqYai	UCokxZ1WorYTuSvdB5Tw4nbw
 413	As The Crow Flies (Live)	Rory Gallagher	Irish Tour ‘74 (Live / Remastered 2017)	LIKE	5:49	rlY8QuXKVEE	MPREb_m1FliAyqYai	UCokxZ1WorYTuSvdB5Tw4nbw
 469	BB Gun	Roger Alan Wade	All Likkered Up	LIKE	1:56	iYgVO77HrLI	MPREb_1TfIgiM194Q	UCcAsLxnUAmskeMEyjD6z3JA
@@ -144,6 +148,8 @@
 140	It Tears Me Up	Percy Sledge	The Ultimate Collection - When A Man Loves A Woman	LIKE	2:48	gKsVettguAc	MPREb_Fx9nsmdz6lq	UC5M-4duAPtRBjTCUxo_jxtQ
 91	Gangster's Blues	Peetie Wheatstraw	American Blues Roots	LIKE	2:46	L0S2AQ6ZKvY	MPREb_ibRTgaXykmJ	UC4wrga3LfRqkrpXjRTpb16A
 359	Pocket Knife Blues	Peetie Wheatstraw	Peetie Wheatstraw Vol. 7 1940-1941	LIKE	3:09	nBGloVKAUyU	MPREb_UM3b89sTj2H	UC4wrga3LfRqkrpXjRTpb16A
+491	Blues in the Ghetto	Pee Wee Crayton	Blues in the Ghetto	LIKE	3:05	mzP465lAC4U	MPREb_8dyLiwWkDAW	UCYiBv7tOQmDmKziKsfGvx4g
+497	Daybreak	Pee Wee Crayton	Pee Wee's Blues: The Complete Aladdin And Imperial Recordings	LIKE	2:41	K1BVwg0v_p4	MPREb_Yg7jsj54QL8	UCYiBv7tOQmDmKziKsfGvx4g
 199	Gypsy Woman Blues	Papa Charlie's Boys	The McCoy Brothers (Charlie & Joe McCoy) Vol. 2 (1936-1944)	LIKE	3:21	FCvHEXdtPl4	MPREb_0FSsPQVF6wa	UCaQSN58gOwWocF0xeh_9QtQ
 270	Country Boy Blues	Otis Spann	Absolutely the Best of Blues	LIKE	4:26	PxgSVxKS69k	MPREb_ngQt82nUkfX	UCN4OvaM2J5NtZM5jDPgYxCw
 14	Double Tree	Otis Rush	An Introduction To Otis Rush	LIKE	2:42	yglkRc4OZUQ	MPREb_Wqkh3fcTaae	UC9_Ic6yumZhlfxY2sCjwKSw
@@ -192,20 +198,26 @@
 187	Get Right Church	Mississippi Fred McDowell	Mississippi Fred Mcdowell	LIKE	3:38	bBulJ5GflP4	MPREb_g2i6uJTZU8Q	UCbNXWMxWD39iFkSGr1auS2g
 247	You Got to Move	Mississippi Fred McDowell	The Train I Ride	LIKE	5:54	1FFg_iaV_I4	MPREb_b7yCncb86RU	UCbNXWMxWD39iFkSGr1auS2g
 301	You Gotta Move	Mississippi Fred McDowell	You Gotta Move	LIKE	3:21	sjFWYuqsmc8	MPREb_vq2tLvt5niC	UCbNXWMxWD39iFkSGr1auS2g
-137	Born With The Blues	Memphis Slim	Born With The Blues	LIKE	3:28	o7fV2TaQW1c	MPREb_0gF0IwyjuVI	UCppI7uxgMiE-9gntBeF67oA
 210	Mother Earth	Memphis Slim	On My Way to Blues, Vol. 4	LIKE	2:43	C1wz5q_WvcE	MPREb_Bc2YHWxpmbd	UCppI7uxgMiE-9gntBeF67oA
 198	Crazy Cryin' Blues	Memphis Minnie & Kansas Joe	Memphis Minnie & Kansas Joe Vol. 3 (1931 - 1932)	LIKE	3:30	AIAw2fAFNMA	MPREb_2D9QahZI9OW	UCUCyq9Bi46NYepBZg_TgPSw
 181	Hoodoo Lady	Memphis Minnie	Hoodoo Lady (1933-1937)	LIKE	3:02	Ee7Vg3kf0yY	MPREb_pEQOafQuBks	UC44t62PL7ni6XZKh_WvXGzg
 185	Black Cat Blues	Memphis Minnie	Hoodoo Lady (1933-1937)	LIKE	2:54	rmJRtSGk-lM	MPREb_pEQOafQuBks	UC44t62PL7ni6XZKh_WvXGzg
+508	My Strange Man	Memphis Minnie	Hoodoo Lady (1933-1937)	LIKE	2:58	5SyV43rP-xA	MPREb_pEQOafQuBks	UC44t62PL7ni6XZKh_WvXGzg
 473	The Blues Don't Bother Me	"Matt ""Guitar"" Murphy"	Blues Brothers 2000	LIKE	3:36	zLx7g74kaPE	MPREb_2NK2kOmQeva	
 41	Ain't No Mountain High Enough	Marvin Gaye	A Motown Thanksgiving Celebration	LIKE	2:26	WHc7dk8RebM	MPREb_Vsaj9c8fTc4	UCpMMYJB5GJAYSJr3QpxnHEg
 42	Mercy Mercy Me (The Ecology)	Marvin Gaye	Gold	LIKE	3:14	EIxbRzN0D08	MPREb_TPOrP7oISda	UCpMMYJB5GJAYSJr3QpxnHEg
+480	Captain, Captain!	Mance Lipscomb	Captain, Captain!	LIKE	3:09	-Wp_0pAf4hM	MPREb_9DtmQVXSrF0	UCuJdJLlerBYdR0kODxvpnJA
+483	Freddie	Mance Lipscomb	The Best of Mance Lipscomb	LIKE	2:41	90vatUNRvBk	MPREb_HQlXw6NzkJ4	UCuJdJLlerBYdR0kODxvpnJA
 108	Crazy Woman	Magic Slim	The Essential Magic Slim	LIKE	5:48	bckehTau2-o	MPREb_ZsDf1rQOJAI	UCRCWuhEIXyaH6e5rvjaiQFg
 266	All Your Love	Magic Sam	All Your Love / Love Me with a Feeling	LIKE	2:57	M621vGYs_qI	MPREb_2YfWWCGMvL8	UCX5BFM4QzfwzVJoTHU9V05w
 456	It's Been A Long Time	Luther Allison	Bad News Is Coming	LIKE	10:43	MCZbjClHc18	MPREb_to2KNUh6AcZ	UCdK6IgeTZydNBlr0HDCc2jg
 8	Stroker Ace	Lovage	Lovage: Music to Make Love to Your Old Lady By	LIKE	4:29	NyKx-T0PeBM	MPREb_GnrfxjK4WtV	UCnVH0HrL2w0h8dvqGHMCa6g
 251	My Babe	Little Walter	The Chess Box	LIKE	2:43	PTWuvv82BqA	MPREb_b9ptJqGIoe7	UCbqLmbib9h4U6y6ND1ZPSaw
 264	Juke	Little Walter	Chess Blues	LIKE	2:49	nL_JpC8HuHA	MPREb_DTDU34BnKoQ	UCbqLmbib9h4U6y6ND1ZPSaw
+485	Bye Bye Baby Blues	Little Hat Jones	Don't Leave Me Here: The Blues Of Texas, Arkansas & Louisiana (1927-1932)	LIKE	3:07	KI4hlzHUvZM	MPREb_QUnbpOjlBBb	UCueMgWL8tr8NzmAddiGwC0w
+479	Groundhog Blues	Lil’ Son Jackson	Blues Come to Texas	LIKE	2:17	i0yihJQ27yg	MPREb_g06ufNXDmij	UC8WQsrggT5tqzBPIVXEyNgg
+481	Ticket Agent	Lil’ Son Jackson	Blues Come to Texas	LIKE	1:36	ZHWTbE2ZN6U	MPREb_g06ufNXDmij	UC8WQsrggT5tqzBPIVXEyNgg
+487	Cairo Blues	Lil’ Son Jackson	Blues Come to Texas	LIKE	2:30	bw_x1oWG3oQ	MPREb_g06ufNXDmij	UC8WQsrggT5tqzBPIVXEyNgg
 107	Shotgun Blues	Lightning’ Hopkins	The Blues Stormy Monday Blues	LIKE	2:42	WAL6UaCfMKo	MPREb_j6yQqDgCa7T	UCC6-6kd-2eJJCtkHh5dCkiw
 362	Baby Please Don't Go	Lightning Hopkins	The Gold Star Sessions, Vol. 1	LIKE	2:53	qgoiowZJJFY	MPREb_alZv9NHE0UT	UCC6-6kd-2eJJCtkHh5dCkiw
 429	What'd I Say?	Lightning Hopkins	Lightnin'!	LIKE	2:48	crpFPqIhosI	MPREb_Gf0srA5ZvH6	UCC6-6kd-2eJJCtkHh5dCkiw
@@ -215,7 +227,10 @@
 246	Shine On Moon	Lightnin' Hopkins	The Essential Recordings	LIKE	4:28	5u8NKsmBpQQ	MPREb_D0loWeEP0MJ	UCC6-6kd-2eJJCtkHh5dCkiw
 319	Happy Blues For John Glenn	Lightnin' Hopkins	Walkin’ This Road By Myself	LIKE	5:25	hpXXu8W51Q4	MPREb_OikM167GaR1	UCC6-6kd-2eJJCtkHh5dCkiw
 402	What'd I Say	Lightnin' Hopkins	The Very Best of Lightnin' Hopkins (Expanded Edition)	LIKE	2:25	__BF3XGyC2A	MPREb_KuNiykUXMa5	UCC6-6kd-2eJJCtkHh5dCkiw
+495	Disagreeable	Lightnin' Hopkins	Lightnin' Hopkins Vol. 1 (1950-1961)	LIKE	3:23	Ok-8pDKxrh4	MPREb_Ojdk5mAFWOd	UCC6-6kd-2eJJCtkHh5dCkiw
+498	Freight Train Blues	Lightnin' Hopkins	The Very Best Of	LIKE	2:50	vgQBw0zTVwg	MPREb_1zo9EffyNvP	UCC6-6kd-2eJJCtkHh5dCkiw
 287	Hallelujah	Leonard Cohen	Various Positions	LIKE	4:38	Etc29mMOaLU	MPREb_WpUifG4DVJi	UCWVX22z2KlJCQ0XqtfHIH7w
+482	Back to Santa Fe	Lee Hunter	Texas Blues: Bill Quinn's Gold Star Recordings	LIKE	2:40	FccZzqOMh4A	MPREb_yRJtUIdPjMn	UCOQ1gi-eIyvV6w1Ys7iwWgQ
 40	Good Times Bad Times (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	2:47	lsZG7n7ries	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
 76	Black Dog (Remaster)	Led Zeppelin	Led Zeppelin IV (Deluxe Edition)	LIKE	4:56	XIiu0JI3I5g	MPREb_Eth3FgRUF5Y	UCYtap7ujIPaxTS2iCDoMi3g
 77	When the Levee Breaks (Remaster)	Led Zeppelin	Led Zeppelin IV (Deluxe Edition)	LIKE	7:09	FFDYuO53BUk	MPREb_Eth3FgRUF5Y	UCYtap7ujIPaxTS2iCDoMi3g
@@ -223,10 +238,15 @@
 79	Since I've Been Loving You (Remaster)	Led Zeppelin	Led Zeppelin III (Remaster)	LIKE	7:25	N_lSJ-0Gl7Q	MPREb_5ElJfkjPmJe	UCYtap7ujIPaxTS2iCDoMi3g
 80	I Can't Quit You Baby (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	4:43	0dA5Vfl1bbU	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
 81	You Shook Me (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	6:29	aywXuljytH0	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
+500	Trampled Under Foot (Remaster)	Led Zeppelin	Physical Graffiti (Deluxe Edition)	LIKE	5:37	8JOwT8uRLHg	MPREb_8ODyFUfrd9a	UCYtap7ujIPaxTS2iCDoMi3g
 243	Where Did You Sleep Last Night	Leadbelly	American Classics	LIKE	3:02	_Rtey8efdN0	MPREb_anvohlgPnaG	UC7jiqF1wzNVeZhZmJ4EKprA
 320	Where Did You Sleep Last Night?	Leadbelly	The Best Of Leadbelly	LIKE	3:03	VdYVANxDNkg	MPREb_tikU5WAkEC8	UC7jiqF1wzNVeZhZmJ4EKprA
 226	Good Morning Blues	Lead Belly	Where Did You Sleep Last Night, Vol 1	LIKE	2:23	8gvT1tkIM1E	MPREb_GdwkBJhPPed	UC7jiqF1wzNVeZhZmJ4EKprA
 404	Bourgeois Blues	Lead Belly	Bourgeois Blues: Lead Belly Legacy, Vol. 2	LIKE	2:20	Rd8az69QAgk	MPREb_5mR7lwEOYq4	UC7jiqF1wzNVeZhZmJ4EKprA
+484	Strike Blues	L.C. Williams	Texas Blues: Bill Quinn's Gold Star Recordings	LIKE	2:37	zO_5gdnFua0	MPREb_yRJtUIdPjMn	UCLCleAspxpNu1lFPIEqnWsQ
+486	I Don't Want No Woman	L.C. Lightnin Jr. Williams	The Mercury Blues Story (1945-1955) - Southwest Blues, Vol. 2	LIKE	3:16	3LQj4X-JNtk	MPREb_GocZQK2FXyO	UC_elgzG9wIkk0kDrSuU3gWQ
+489	I Don't Like to Travel	L.C. Lightnin Jr. Williams	The Mercury Blues Story (1945-1955) - Southwest Blues, Vol. 2	LIKE	3:09	DRuJTf0Xw9I	MPREb_GocZQK2FXyO	UC_elgzG9wIkk0kDrSuU3gWQ
+492	Louise	L.C. Lightnin Jr. Williams	The Mercury Blues Story (1945-1955) - Southwest Blues, Vol. 2	LIKE	3:08	Vgn6zk4VZEs	MPREb_GocZQK2FXyO	UC_elgzG9wIkk0kDrSuU3gWQ
 193	When The Levee Breaks	Kanas Joe McCoy	Prison Bound Blues (Blues People 1928)	LIKE	3:29	ayuhW1p_7wo	MPREb_5dQJGQZdBPr	UCtsUtvTGZRdoL87sDQDifVg
 379	I Can't Go on Without You	KALEO	A/B	LIKE	6:17	-tuD_HXYQ3g	MPREb_eb5lPM60vvY	UCe5SlSvnHTsnmBBXoFYXXGg
 254	Checkin' On My Baby	Junior Wells, Otis Rush, Jack Myers, Freddie Below	American Folk Blues Festival (66)	LIKE	2:37	gCdflxfCWho	MPREb_s5NoFpWNTZ3	UCQrhthLJSPwrIkjm5N-UPAQ
@@ -248,13 +268,10 @@
 356	Moanin' the Blues	Johnny Shines	Too Wet To Plow	LIKE	4:48	II__fyT48zM	MPREb_pzozDLUOAba	UC-J8BXVNdvbcmqEUwt4-OUA
 372	Ain't No Grave	Johnny Cash	American VI:  Ain't No Grave	LIKE	2:53	9zE4-LX0wrY	MPREb_zMnKxzkXvRH	UCiGs21G3KeE2tpbbMPzn9Qg
 191	Skin And Bones Woman (Take A)	Johnnie Temple	Johnnie Temple Vol. 2 1938-1940	LIKE	3:12	kYsQ5YnlS8s	MPREb_K21NPpvfv0V	UCRqG6AymPX1AOZ5uuwkyaXg
-242	The Moon Shines Bright	John Renbourn	The Black Balloon	LIKE	3:55	-4f0P1SY6Fg	MPREb_a3VDY2DgdA0	UC2z41m-6P8UA3dpXas-3y8g
 169	Steppin' Out (Stereo Instrumental)	John Mayall & The Bluesbreakers	Bluesbreakers	LIKE	2:27	GhMohcGOp-0	MPREb_xEh6mVMT9n6	UCY3JEKjfeb-hJ-8yzXa-3iw
 93	Blues Before Sunrise	John Lee Hooker	Is He The World's Greatest Blues Singer?	LIKE	3:48	OFJUhGC4_hg	MPREb_Y9XdidEHrIL	UCcWk0Z6iOwjUeycdoh7mIMQ
 106	Boogie Children	John Lee Hooker	I'm John Lee Hooker	LIKE	2:36	L_X-ELsy29A	MPREb_jxkEDKvlpls	UCcWk0Z6iOwjUeycdoh7mIMQ
 121	Boogie Chillun	John Lee Hooker	Boogie Chillun	LIKE	3:09	7vZ09iuW7uc	MPREb_cUFbavxLhDL	UCcWk0Z6iOwjUeycdoh7mIMQ
-134	Sally Mae	John Lee Hooker	Original Folk Blues of John Lee Hooker	LIKE	3:13	11kF_-T2U-I	MPREb_fISP1zbidNE	UCcWk0Z6iOwjUeycdoh7mIMQ
-153	Crawlin' King Snake	John Lee Hooker	Original Folk Blues of John Lee Hooker	LIKE	3:02	XyDf__rvVBo	MPREb_fISP1zbidNE	UCcWk0Z6iOwjUeycdoh7mIMQ
 154	Hobo Blues	John Lee Hooker	Huckle Up Baby	LIKE	3:01	fy-WDdCOxtg	MPREb_6OX986KDtaH	UCcWk0Z6iOwjUeycdoh7mIMQ
 155	I Need Some Money	John Lee Hooker	That's My Story (Bonus Tracks)	LIKE	2:29	ODGmMu74pLU	MPREb_gq8nWMHKSku	UCcWk0Z6iOwjUeycdoh7mIMQ
 167	Big Legs, Big Skirts	John Lee Hooker	The Best Of John Lee Hooker	LIKE	2:19	xQAxWF-CZxI	MPREb_bz5H8ajlSri	UCcWk0Z6iOwjUeycdoh7mIMQ
@@ -270,6 +287,7 @@
 463	Baby, Please Don't Go	John Lee Hooker	On My Way to Blues, Vol. 5	LIKE	4:52	150VgvZbbJI	MPREb_Im4Ejr89uXG	UCcWk0Z6iOwjUeycdoh7mIMQ
 203	Sugar Mama Blues	John Lee 'Sonny Boy' Williamson	Blue Bird Blues	LIKE	2:59	OlOC8Nnpu5U	MPREb_cd1fDvaSpVJ	UCexxoqKVHLEGxYkYag4qosw
 389	Funeral Song for Mississippi John Hurt	John Fahey	Of Rivers And Religion	LIKE	4:24	ZVl_2e1E8w8	MPREb_ZxhrK8DrucK	UC84nV7P2Ptlv7GKB-wQOBnA
+501	I'll Go On Living	Jimmy Witherspoon	Baby, Baby, Baby	LIKE	3:44	kTRuOZCDPiE	MPREb_xJfh7yTYcM7	UC_-iuqE0190_DBeEoVcFNag
 105	I Ain't Got You	Jimmy Reed	The Best of Jimmy Reed	LIKE	2:20	6twoxo__JX4	MPREb_w0XnAkdMILh	UCkJUdhq3rW7AElwDQ_omC3g
 120	You're Something Else	Jimmy Reed	I'm Jimmy Reed	LIKE	2:35	O23krKt5aK0	MPREb_CfUbiswJAB9	UCkJUdhq3rW7AElwDQ_omC3g
 162	Honest I Do	Jimmy Reed	The Very Best of Jimmy Reed	LIKE	2:51	GFSt54fLe9U	MPREb_A76B7pcLP1K	UCkJUdhq3rW7AElwDQ_omC3g
@@ -287,7 +305,6 @@
 149	Time Is On My Side	Irma Thomas	Wish Someone Would Care	LIKE	2:53	aHz0RNObuvg	MPREb_XxRg4NIr6GO	UCjI3wNQ7pDu-IlhCKZFrYVw
 126	Outta Season: O' Clock In The Morning Blues	Ike & Tina Turner	Outta Season / The Hunter	LIKE	2:40	brYLhi2v69k	MPREb_eky2HOmh2z0	UCuv0I8GmD4a4pniZRdpFOxg
 392	Police Dog Blues	Hugh Laurie	Let Them Talk	LIKE	3:33	drDQJBKwt70	MPREb_jHbBjL4Lj5B	UCaUs6uZhNemhGDkYpOhtG-Q
-15	Spoonful	Howlin' Wolf	Most Essential Blues	LIKE	2:46	IbvxNFahpXE	MPREb_Vtj2osNuQFV	UCq7KYdlYIAjlt2NbSEZD7bg
 17	Who's Been Talkin'	Howlin' Wolf	Moonlighting, with Howlin' Wolf	LIKE	2:23	zDD083lMF-A	MPREb_9qOjINM2Cum	UCq7KYdlYIAjlt2NbSEZD7bg
 60	Smokestack Lightning	Howlin' Wolf	The Wolf Of Wall Street (Music From The Motion Picture)	LIKE	3:08	J1_3Lz8cgdQ	MPREb_bcHV8WFU5o3	UCq7KYdlYIAjlt2NbSEZD7bg
 61	Spoonful	Howlin' Wolf	Howlin' Wolf	LIKE	2:50	4fjviTLYqoc	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
@@ -309,8 +326,10 @@
 364	Poor Boy	Howlin' Wolf	The Real Folk Blues	LIKE	2:37	FsagiHRjaHY	MPREb_q87HprkthGs	UCq7KYdlYIAjlt2NbSEZD7bg
 418	Evil	Howlin' Wolf	Do the Do	LIKE	2:53	oZ2zEF4ro4E	MPREb_FyuBq3sNMKr	UCq7KYdlYIAjlt2NbSEZD7bg
 257	What'd I Say	Hound Dog Taylor	Genuine Houserocking Music	LIKE	2:55	V5StEKEE6Rc	MPREb_PG0XEomaTTE	UCgMG7PucGglKkQlHvOoQLuw
+504	Don't Say I Don't Love You (feat. Honeyboy Edwards)	Honeyboy Edwards	White Windows	LIKE	4:09	-zGH3hD13QQ	MPREb_MdjgveegeEQ	UCDeD8v5UzAnVkyvQmODDyVg
 272	Somebody Been Talkin'	Homesick James And His Dusters	Chicago / The Blues / Today!	LIKE	2:19	hRsKPiQCEjc	MPREb_CtPleAY0vJQ	
 357	Weep & Moan	Homesick James	Goin' Back Home	LIKE	5:21	J-K22NQU5uE	MPREb_yVugGbuiwdh	UCOc1ISakSSLwH4MyrO7ABNg
+494	Coffee Blues	Harlem Jade & Jax, Vol. 2	Sittin' In With Harlem Jade & Jax Vol. 2	LIKE	2:46	aR8s8DayZDg	MPREb_rAju5tmCMQa	UCaucKXYIpnw8pI4Z3flgV4w
 296	Boulevard of Broken Dreams	Green Day	Greatest Hits: God's Favorite Band	LIKE	4:23	gYCTXzOTnXg	MPREb_GDNioYTvWyT	UC4JNeITH4P7G51C1hJoG6vQ
 426	The Railroad	Goodnight, Texas	A Long Life of Living	LIKE	4:11	M7s2AAO4czI	MPREb_1WErLKRHSBf	UCvmy_Kv-FuEOcMSX6MhND2A
 303	Still Got The Blues	Gary Moore	Still Got The Blues	LIKE	6:11	JmsUkutNnI0	MPREb_LfBhhbnWyrK	UCYDccdJz3j2KVsM8NMebIMw
@@ -324,6 +343,7 @@
 466	The Sky Is Crying	Gary B.B. Coleman	The Sky Is Crying	LIKE	9:09	eBlfrTGjujk	MPREb_5w9XkWrJz1T	UCjfpGapynoAr6sxgaDxX9UQ
 207	Cottonfield Blues Pt. 1	Garfield Akers	Mississippi Masters: Early American Blues Classics 1927 - 35	LIKE	2:54	dUKcpeVvHsU	MPREb_C98RkSms24K	UCYE0VyqRS0Plz7_7pDzpOtg
 435	Ain't No Sunshine (Live)	GO MUSIC	Funky Ways	LIKE	7:20	7W9m-K6Ut_M	MPREb_61Rdx3j1NUv	UCZZW73GmF1jR1U4UuXaRwjQ
+505	I Will Turn Your Money Green	Furry Lewis	Furry Lewis	LIKE	4:40	gIHoUxzRoL8	MPREb_1gEVKLyQWPR	UCycm81xGWklLyoMk0BgsyFA
 217	Same Old Blues	Freddie King	Getting Ready... (World)	LIKE	4:00	4GQFA0Wev-g	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
 322	Ain't No Sunshine	Freddie King	Texas Cannonball	LIKE	3:21	W4sXl8z2b0I	MPREb_l1Gpu7Z5ajn	UCj1uIBa_uRRMR9GQ6wviIMw
 380	Going Down	Freddie King	Getting Ready... (World)	LIKE	3:25	RCS13zpvF9k	MPREb_U5uLqyKaWtI	UCj1uIBa_uRRMR9GQ6wviIMw
@@ -350,8 +370,10 @@
 321	Hurts Me Too	Elmore James	Pickin' The Blues: Greatest Hits Of Elmore James	LIKE	3:19	4JPAmLuGjxc	MPREb_5v5pPNG89wX	UCcO7GQQk1W8gKWHkQDXZQtA
 409	The Sky is Crying	Elmore James	The Complete Fire & Enjoy Sessions, Pt. 1	LIKE	2:48	J21pL6Ixwoc	MPREb_kPilP8beHFJ	UCcO7GQQk1W8gKWHkQDXZQtA
 445	Done Somebody Wrong	Elmore James	Shake Your Moneymaker (The Best Of The Fire Sessions)	LIKE	2:20	tgt1EXbKbF0	MPREb_sbwgVUlhM8a	UCcO7GQQk1W8gKWHkQDXZQtA
+499	The Sky Is Crying	Elmore James	Red Hot Blues (Digitally Remastered)	LIKE	2:47	vh5iwTwdrrI	MPREb_jej9HgDuFyM	UCcO7GQQk1W8gKWHkQDXZQtA
 317	Freight Train	Elizabeth Cotten	Freight Train And Other North Carolina Folk Songs And Tunes	LIKE	2:46	If5ZGXKG9bw	MPREb_LfXHyFm03k1	UCJUlLXkjxQmKU9F8bwM2KTA
 148	I've Never Found A Girl (To Love Me Like You Do)	Eddie Floyd	Rare Stamps	LIKE	2:41	sqGmoSAByBM	MPREb_oyff6EGn3Gs	UCWLQEbqa5zFzVGGeF6ZiOgg
+503	I’m The Midnight Creeper	"Eddie ""Cleanhead"" Vinson"	The Very Best Of	LIKE	3:30	D-XQ7FTx2tM	MPREb_3n4rBJUObvk	UCmnWtKWBBVqpueXTyUARRLw
 390	Sittin On Top Of The World	Doc Watson	Doc Watson	LIKE	2:39	gI27dp3sNYI	MPREb_484cLlH7eVa	UCoSK0UR9t70chzDva7jCQhw
 440	Keep Your Lamp Trimmed And Burning (feat. Susan Tedeschi)	Derek Trucks	God Don't Never Change: The Songs Of Blind Willie Johnson	LIKE	3:12	YGN4vvOOlvA	MPREb_SFgdgTe0qOP	UCNR1wsLG0m4gI7gAR3swUFQ
 179	Have You Ever Loved A Woman	Derek & The Dominos	Layla And Other Assorted Love Songs (50th Anniversary Deluxe Edition)	LIKE	6:55	HhObJK26vhQ	MPREb_dpDRunbWjGX	UCSM5eFvWhMNcMxd0BH52HJg
@@ -363,6 +385,7 @@
 421	John the Revelator	Curtis Stigers	Sons of Anarchy: North Country (Music from the TV Series)	LIKE	5:35	QuqH1ewtg3A	MPREb_sgzg5mZQYXp	UCLGokLZ-TuRC517JvscraMw
 35	Crossroads (Live)	Cream	Eric Clapton: Life In 12 Bars (Original Motion Picture Soundtrack)	LIKE	4:16	KcaCB_2MxJg	MPREb_bRoBf7jGnfQ	UC_oKib7DXJ7JE5erWrFUbEQ
 455	Gate's Salty Blues	"Clarence ""Gatemouth"" Brown"	The Peacock Recordings: 1949-1959	LIKE	2:46	B-4MGqQaIcI	MPREb_Tz2xm5q8Ew6	UCCfmfyh9pu5PEpwLQrSR7fA
+493	Tennessee Blues	"Clarence ""Gatemouth"" Brown"	Timeless	LIKE	4:02	Q29FA-UTlpE	MPREb_Pcel18zO8vR	UCCfmfyh9pu5PEpwLQrSR7fA
 328	I Put a Spell on You	"Christone ""Kingfish"" Ingram"	Luke Cage: Season 2 (Original Soundtrack Album)	LIKE	4:45	KIIshEnY5Ao	MPREb_QjDmoddJvNw	UCe8HPyPeo-crUSHzdt0Ys2w
 436	Empty Promises (Live)	"Christone ""Kingfish"" Ingram"	Empty Promises (Live)	LIKE	7:49	acE1pKDE7bQ	MPREb_JP6cq0KInby	UCe8HPyPeo-crUSHzdt0Ys2w
 374	Hard Time Killing Floor Blues	Chris Thomas King	Dirty South Hip Hop Blues	LIKE	3:20	8-DW6xb0shs	MPREb_dTlJTZpynoj	UC2WIcHMOah07us-iAB2ooyg
@@ -378,7 +401,6 @@
 316	Going Up The Country (Remastered 2005)	Canned Heat	The Very Best Of Canned Heat	LIKE	2:52	4eQMA_noRYQ	MPREb_JohXXNaN8Wd	UCZY-JjjttGrdoF1vhCBgpzw
 12	High Fever Blues	Bukka White	The Complete Bukka White	LIKE	2:48	uOyw-4iyHbg	MPREb_42flrw7a4Fs	UC5gCQ7rJd41LweNTasYo2uQ
 24	Just Playing My Axe	Buddy Guy	A Man And The Blues	LIKE	2:56	HOhRVzQi5nw	MPREb_tLPikAvjPVk	UCqQnmSnXS_qlyP6qok7lCAA
-34	Money (That's What I Want)	Buddy Guy	The Complete Vanguard Recordings	LIKE	2:58	gcG2ZYNCX1A	MPREb_Ik1orfTCaeJ	UCqQnmSnXS_qlyP6qok7lCAA
 63	I Smell Trouble	Buddy Guy	Slippin' In	LIKE	3:16	HXBrBzTzHaA	MPREb_QjfHcYPwiaV	UCqQnmSnXS_qlyP6qok7lCAA
 64	Damn Right, I've Got the Blues	Buddy Guy	Damn Right, I've Got The Blues	LIKE	4:32	DThTpyZb7zE	MPREb_EQ9jD31UywW	UCqQnmSnXS_qlyP6qok7lCAA
 83	A Man And The Blues	Buddy Guy	A Man And The Blues	LIKE	6:24	4bBQzRgsNeg	MPREb_tLPikAvjPVk	UCqQnmSnXS_qlyP6qok7lCAA
@@ -401,6 +423,8 @@
 220	Dark Was the Night, Cold Was the Ground	Blind Willie Johnson	The Complete Blind Willie Johnson	LIKE	3:19	71Ti_TdpJHE	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
 397	Dark Was The Night (Cold Was The Ground)	Blind Willie Johnson	The Great Depression - American Music In The 30's	LIKE	3:20	qasPCNQuo88	MPREb_mQsZ8rGKnv7	UCp_csxupcgSwZa1glwDo2eQ
 432	Nobody's Fault But Mine	Blind Willie Johnson	The Gospel Sound	LIKE	3:10	TjazJ39k1GY	MPREb_GE9Lkfb43Ib	UCp_csxupcgSwZa1glwDo2eQ
+488	God Don't Never Change	Blind Willie Johnson	The Complete Blind Willie Johnson	LIKE	2:56	tZRve-Iehsk	MPREb_L70rCdrrqbO	UCp_csxupcgSwZa1glwDo2eQ
+506	Baby You Gotta Change Your Mind	Blind Boy Fuller	East Coast Piedmont Style	LIKE	3:13	ep5wEuJGe54	MPREb_VfFgrjXpWw2	UCkfO0g1E0t1seQ0AkCkFGbg
 422	Beat the Devil's Tattoo	Black Rebel Motorcycle Club	Beat the Devil's Tattoo	LIKE	3:46	Ay3Izb6sGAo	MPREb_zPq3oyyWnQs	UCDG5KCih4YMNmIYK0-CDeEA
 375	Summertime	Billy Strings	Rock Of Ages	LIKE	3:23	sl4ObkuhYlI	MPREb_0ilTO6cRtte	UCgswh903MyFOXFEMA9lVUBg
 248	Fine And Mellow	Billie Holiday & Her Orchestra	Billie Holiday	LIKE	3:17	wNj409R8JWE	MPREb_aDWoN3isOiI	UCW-raws5Iq2xLADkLcEoVaA
@@ -411,6 +435,7 @@
 308	Ain't No Sunshine (Single Version)	Bill Withers	Lean on Me: The Best of Bill Withers	LIKE	2:05	5PeyzXvvdmw	MPREb_XSkhzvPNUge	UCDjpW6k2Sfg_FTr1toLvffQ
 2	Walking Blues	Big Mama Thornton	Hound Dog (The Peacock Recordings)	LIKE	3:01	JObMhKnuwV8	MPREb_TMHdEZMG4kA	UC_8NmTaQn8Uy-Hz_jKoCOcA
 214	I'm Feeling Alright	Big Mama Thornton	With The Muddy Waters Blues Band	LIKE	3:02	Vg0pAG0olhk	MPREb_p0vAER94701	UC_8NmTaQn8Uy-Hz_jKoCOcA
+509	Ball N' Chain	Big Mama Thornton	Ball n' Chain	LIKE	4:31	TixL6Tycgho	MPREb_0LHey5hWuO7	UC_8NmTaQn8Uy-Hz_jKoCOcA
 263	Chicago Breakdown	Big Maceo	The King of Chicago Blues Piano	LIKE	2:55	BD7Jnfziauk	MPREb_UyHhHj0oG9v	UCsNdc8luqKckFXYP6tW7_8Q
 205	My Baby's Doggin' Me	Big Joe Williams	Big Joe Williams And The Stars Of Mississippi Blues	LIKE	2:40	kElKF-o8yAE	MPREb_8iuoFshWsAL	UC9Lvxw_GfTsAiV3SECzUKCg
 208	My Baby's Gone	Big Joe Williams	Big Joe Williams And The Stars Of Mississippi Blues	LIKE	2:45	u84pv9IoxLs	MPREb_8iuoFshWsAL	UC9Lvxw_GfTsAiV3SECzUKCg
@@ -428,11 +453,13 @@
 383	To Know You Is To Love You	B.B. King	To Know You Is To Love You	LIKE	8:34	-9VQXP-vNl0	MPREb_ePdcZaQtzMI	UCqKrqzF3eX7R17m_MIMte4w
 444	Key to the Highway	B.B. King	Riding With The King	LIKE	3:39	zDCXXSasyoo	MPREb_eRYdTzgyiq8	UCqKrqzF3eX7R17m_MIMte4w
 475	Catfish Blues	B.B. King	My Kind Of Blues	LIKE	2:33	m7JhW9gHe1M	MPREb_gA2KvYxwFWT	UCqKrqzF3eX7R17m_MIMte4w
+511	Blues Boys Tune	B.B. King	Blues On The Bayou	LIKE	3:29	29wMp2nnx_0	MPREb_YHXYHTaBFMS	UCqKrqzF3eX7R17m_MIMte4w
 113	Rock Me Baby	B. B. King	Blues On Blues	LIKE	2:59	y0b6Z-gtI9g	MPREb_cmVRJqfbARc	UCqKrqzF3eX7R17m_MIMte4w
 152	You Upset Me Baby	B. B. King	Legacy	LIKE	3:05	iA3RmqpWFfY	MPREb_Pckwy0AVzk5	UCqKrqzF3eX7R17m_MIMte4w
 189	Chicago Blues	"Arthur ""Big Boy"" Crudup"	That's All Right Mama	LIKE	3:14	a-jG19Ew0Ts	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
 200	Cool Disposition	"Arthur ""Big Boy"" Crudup"	That's All Right Mama	LIKE	3:10	2oXtUngpb-k	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ
 204	Ethel Mae	"Arthur ""Big Boy"" Crudup"	"Arthur ""Big Boy"" Crudup Vol. 1 1941-1946"	LIKE	3:08	W5grmfiq-3E	MPREb_mWyts1KvXDH	UCUpwrDcBBvsfmaddItzMWMQ
+490	Flower Garden Blues	Arnett Cobb	Arnett Blows for 1300	LIKE	3:08	Izy7CwdpTMU	MPREb_5ZLciNYgF6G	UCKKCcW5IvHM1vqxWx7uWWDg
 30	Respect	Aretha Franklin	I Never Loved a Man the Way I Love You	LIKE	2:28	UWUHaUJfhSo	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
 31	Good Times	Aretha Franklin	I Never Loved a Man the Way I Love You	LIKE	2:11	ryDlxlMPWXw	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
 32	Chain of Fools	Aretha Franklin	American 60's Soul	LIKE	2:44	dNZf-aDYciM	MPREb_jCcZQ0uv4kA	UCW02f_MjH8n1uMZhSds4mQQ
@@ -467,13 +494,20 @@
 95	Love and Happiness	Al Green	Greatest Hits	LIKE	5:04	q8AMZmWqgRM	MPREb_Qfsgn7VFrM9	UC7tb2Of68kIlrtj2qUnJtbQ
 96	Tired of Being Alone	Al Green	Tired of Being Alone	LIKE	2:53	fmT1nEuMrxo	MPREb_g9TERDPpUl3	UC7tb2Of68kIlrtj2qUnJtbQ
 430	Devil In Me	22-20s	22-20s	LIKE	4:19	O0dd6CQrxUE	MPREb_cbWS32vLsTG	UC_4bwx2i-jL6ilyzq1ocrpw
-150	You've Got My Mind Messed Up	James Carr	You Got My Mind Messed Up	INDIFFERENT	2:25	fvtRE0IdJPw	MPREb_CEmzUplZbrS	UC2Cee8mc_pHFWaxQJKZYFAQ
-158	Talkin' To Myself	Blind Willie McTell	Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935	INDIFFERENT	3:12	a5zslcqNCKo	MPREb_Zq7nPFkkSjF	UCP7B8D5qS_Ex9y_Jwl4VUBA
+405	Stop Breaking Down (Live At The BBC Studios Maida Vale)	The White Stripes	Dead Leaves and the Dirty Ground	INDIFFERENT	5:39	zMFqBK6rtXg	MPREb_6cinRm2KtvY	UCD0Wge1UpszMtqK3P9x50vA
+153	Crawlin' King Snake	John Lee Hooker	Original Folk Blues of John Lee Hooker	INDIFFERENT	3:02	wqN1LFhB0Pg	MPREb_J41UxVXzfGC	UCcWk0Z6iOwjUeycdoh7mIMQ
 20	Hey Joe	The Jimi Hendrix Experience	Are You Experienced			Smp6AepJIhM		
 74	Little Wing	The Jimi Hendrix Experience	Axis: Bold As Love		2:28	72ABomY0MmA		
 75	Red House	The Jimi Hendrix Experience	Smash Hits			HVaCfwjl_gM		
 66	Hit the Road Jack	Ray Charles	Ray Charles, Grandes Éxitos			Whd8BhCCDIo		
 136	Empty Room Blues	Memphis Slim	Nobody Loves Me (Everyday I Have The Blues)			4XQJtqYnzwk		
+137	Born With The Blues	Memphis Slim	Super Soul Blues Vol. 3		3:29	RtmAIQaVpb8		
+242	The Moon Shines Bright	John Renbourn	The Black Balloon			OwWvdp3s_HA		
+134	Sally Mae	John Lee Hooker	Original Folk Blues of John Lee Hooker			11kF_-T2U-I		
 38	All Along The Watchtower	Jimi Hendrix	Music Encyclopedia of Rock			KYOxxdvnRhA		
+150	You've Got My Mind Messed Up	James Carr	You Got My Mind Messed Up		2:26	fvtRE0IdJPw		
+15	Spoonful	Howlin' Wolf	Howlin' Wolf Featuring Guitar Legend Hubert Sumlin			Hi-nn5QMa-g		
 360	Maggot Brain (Bmg Dub)	Funkadelic	Reworked by Detroiters			ClmEPtClCDA		
+34	Money (That's What I Want)	Buddy Guy	Shakin' All Over: Jukebox Dance Party			6R0yhMTBVV4		
+158	Talkin' To Myself	Blind Willie McTell	The Best Of Blind Willie McTell		3:15	QtHTNOvWWSs		
 101	Won't Be Hangin' Around	Albert King	Albert King & Otis Rush: Door to Door		2:56	7KUKQwm9hhM		

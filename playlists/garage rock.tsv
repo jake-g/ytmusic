@@ -73,7 +73,6 @@
 35	Mind Frame	Twin Peaks	Wild Onion	LIKE	2:09	tj4NBnyiifQ	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
 50	I Found A New Way	Twin Peaks	Wild Onion	LIKE	2:46	5raiGb2wVN4	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
 108	Sloop Jay D	Twin Peaks	Wild Onion	LIKE	3:25	Hmzlnws738U	MPREb_pbFaO9KHUZt	UC-IEGAj8jq4i3em-6Pztp6w
-63	Tony's Song	Tijuana Panthers	Semi-Sweet	LIKE	2:51	-W58xAc_q-w	MPREb_uWZ2Wxbv5RY	UC7OdXNZHFp8takrRl1EOLaA
 258	Creature	Tijuana Panthers	Max Baker	LIKE	2:59	2QPt5GVwJNk	MPREb_iRHSi2TzLim	UC7OdXNZHFp8takrRl1EOLaA
 25	Wrong Idea	Thee Oh Sees	Carrion Crawler / The Dream	LIKE	1:52	vD81l1qSt-4	MPREb_xXxWFS9OZOa	UCy-Gzb-aCE1vWkbwQZaoIXQ
 26	Toe Cutter - Thumb Buster	Thee Oh Sees	Floating Coffin	LIKE	3:32	aqmJEkgdu5Y	MPREb_2Nfupyh1Ljg	UCy-Gzb-aCE1vWkbwQZaoIXQ
@@ -113,6 +112,7 @@
 294	Get Lost	The Babies	Our House on the Hill	LIKE	3:19	_-ZBV_-busw	MPREb_efjDSRwFlxY	UCWgO0ZFCjfc3Zu2dF3Evutw
 224	The Ghost With The Most	The Almighty Defenders	The Almighty Defenders	LIKE	4:07	kl2hSwmUo2U	MPREb_EkMZgZBGCyi	UC8XwYaa1PSOYojkcnNsbGGg
 282	Execution	Spoon	A Series of Sneaks	LIKE	2:03	2SIDMvNcYpA	MPREb_qhIqExK0tY2	UC4zxbn4wRucKR-IArNkBtEw
+24	Good Neck	Speedy Ortiz	Foil Deer	LIKE	1:37	Gfww4tkoge8	MPREb_QTD0vU05CTh	UCDaTpUyPT1KCNBUW7stdLFA
 92	Best Friend	Smith Westerns	Soft Will	LIKE	3:49	7CGCoyNnHyQ	MPREb_fPVtpty27zD	UCPr2fd8CQgvSpHHsjs9H4Yw
 281	Weekend	Smith Westerns	Dye It Blonde	LIKE	3:20	a6MOqJDlPgk	MPREb_hBds5PBWh5K	UCPr2fd8CQgvSpHHsjs9H4Yw
 274	Rip Van Winkle	Shannon & The Clams	Dreams in the Rat House	LIKE	2:12	Pd0CrWMjUQ0	MPREb_dk3YACD5PWa	UC8xAq7MnCNYzUDFQ_TxIplA
@@ -273,12 +273,7 @@
 290	It Feels Alright	Black Lips	Good Bad Not Evil	LIKE	2:50	jBQe_Pfe2xY	MPREb_YmjxMhf7fsZ	UClAClLwMYeeJS28cid9HkSw
 311	Funny	Black Lips	Underneath The Rainbow	LIKE	3:00	tCZFHQLCAhQ	MPREb_wLUKQt8L9mB	UClAClLwMYeeJS28cid9HkSw
 98	Sleep Apnea	Beach Fossils	Clash the Truth	LIKE	2:27	nuvJSl24wAw	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg
-49	White Fright	Bass Drum of Death	Bass Drum of Death	LIKE	2:40	1l27OKV_pBw	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
-71	No Demons	Bass Drum of Death	Bass Drum of Death	LIKE	2:36	9aYcca7OGP8	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
-301	Shattered Me	Bass Drum of Death	Bass Drum of Death	LIKE	2:16	DdA2QulMJ_M	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
-303	Fine Lies	Bass Drum of Death	Bass Drum of Death	LIKE	3:14	GaBD_-ddZ5g	MPREb_BiQuul2qEhm	UCT4pJ5jzFXrDFdYToBwvHXQ
 3	Gb City	Bass Drum Of Death	Gb City	LIKE	3:03	tbSpwkJXYKU	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
-80	Better Days	Bass Drum Of Death	Rip This	LIKE	2:07	LX_tQP1l5eY	MPREb_x13c9NUpnWQ	UCT4pJ5jzFXrDFdYToBwvHXQ
 133	Spare Room	Bass Drum Of Death	Gb City	LIKE	2:56	BLUr5SCavLc	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
 134	Heart Attack Kid	Bass Drum Of Death	Gb City	LIKE	2:43	lsfeCgVTmZM	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
 135	Leaves	Bass Drum Of Death	Gb City	LIKE	3:58	P3lAZODMTiY	MPREb_teTH01JG14E	UCT4pJ5jzFXrDFdYToBwvHXQ
@@ -297,19 +292,24 @@
 119	Unfucktheworld	Angel Olsen	Burn Your Fire For No Witness (Deluxe Edition)	LIKE	2:05	mqPTEjadIvI	MPREb_NeZLMr8BstW	UCLYqVE2kmsNw2uJFNjHv8yw
 116	Blue Rose	Amen Dunes	Freedom (Deluxe Edition)	LIKE	4:06	UoM0hAniy68	MPREb_GLwh7NHxp05	UCy_PraUXmFLNhE6RNcECVrg
 121	Adult Diversion	Alvvays	Alvvays	LIKE	3:27	JDceFg5HhE4	MPREb_LnLbbkn13kn	UCijE8N5dNSqbRkhOcmsxWKw
-48	No Voodoo	Allah-Las	Allah-Las	LIKE	3:04	euIaVxCuyzo	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-56	Tell Me (What's on Your Mind)	Allah-Las	Allah-Las	LIKE	3:01	6gt0_7hak8Q	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-75	Catamaran	Allah-Las	Allah-Las	LIKE	3:32	SfWi1l1aQG4	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-81	Sandy	Allah-Las	Allah-Las	LIKE	3:27	4S9dUVg7TU0	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
-130	Sacred Sands	Allah-Las	Allah-Las	LIKE	3:12	ATKHBq2z7Nk	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
 131	High & Dry	Allah-Las	Calico Review	LIKE	2:51	VDBzjNVTHBU	MPREb_AZmop2kO2Ic	UCRg0dGQ51ZX7b3SF-6HkMDA
-261	Catalina	Allah-Las	Allah-Las	LIKE	2:44	ATn7JdYGE-A	MPREb_3bkUIohxmfT	UCRg0dGQ51ZX7b3SF-6HkMDA
 166	The Way Things Go	Mikal Cronin	Mikal Cronin	INDIFFERENT	5:16	lVwXRxNBlEI	MPREb_HlfXtDeEg46	UCLHiC1fxcccc66FeLlYT5aA
-54	Follow You Down	Allah-Las	Worship the Sun	INDIFFERENT	3:11	quOPgUFZRsc	MPREb_VDGtN536KRK	UCRg0dGQ51ZX7b3SF-6HkMDA
-59	Yemeni Jade	Allah-Las	Worship the Sun	INDIFFERENT	2:39	dAAVla9Zz9I	MPREb_VDGtN536KRK	UCRg0dGQ51ZX7b3SF-6HkMDA
 103	De Vida Voz	Allah-Las	Worship the Sun	INDIFFERENT	2:32	bxo3g7-HzW4	MPREb_VDGtN536KRK	UCRg0dGQ51ZX7b3SF-6HkMDA
 107	No Werewolf	Allah-Las	Worship the Sun	INDIFFERENT	2:29	6tHfyDluhyY	MPREb_VDGtN536KRK	UCRg0dGQ51ZX7b3SF-6HkMDA
 132	Ferus Gallery	Allah-Las	Worship the Sun	INDIFFERENT	3:36	tAxc1ems2lM	MPREb_VDGtN536KRK	UCRg0dGQ51ZX7b3SF-6HkMDA
-24	Good Neck	Speedy Ortiz	Foil Deer		1:37	Gfww4tkoge8		
+63	Tony's Song	Tijuana Panthers	Semi-Sweet		2:51	HrspNy02f84		
 17	Is It Alright?	Mikal Cronin	Mikal Cronin			Apeyf67-180		
 65	Apathy	Mikal Cronin	Mikal Cronin			ytTq4tgnBbg		
+49	White Fright	Bass Drum of Death	Bass Drum of Death		2:40	PxFAEVGvbZo		
+71	No Demons	Bass Drum of Death	Bass Drum of Death		2:36	bfW6zTH4WT8		
+80	Better Days	Bass Drum of Death	Rip This		2:06	r1KqSEu_aFc		
+301	Shattered Me	Bass Drum of Death	Bass Drum of Death		2:16	hqdDuYJxBcU		
+303	Fine Lies	Bass Drum of Death	Bass Drum of Death		3:14	GAxczMcmnXI		
+48	No Voodoo	Allah-Las	Allah-Las		3:04	LCHbl4t4tg0		
+54	Follow You Down	Allah-Las	Worship the Sun		3:11	1YGdXi7Op8I		
+56	Tell Me (What's on Your Mind)	Allah-Las	Allah-Las		3:01	cLfzHj9F8BY		
+59	Yemeni Jade	Allah-Las	Worship the Sun		2:39	azq80xtSxeM		
+75	Catamaran	Allah-Las	Allah-Las		3:32	7J-Vy6voVvg		
+81	Sandy	Allah-Las	Allah-Las		3:27	Z6BRyvNODqs		
+130	Sacred Sands	Allah-Las	Allah-Las		3:12	oEmqIlZtOfQ		
+261	Catalina	Allah-Las	Allah-Las		2:44	VRWIXIqKH6E		
