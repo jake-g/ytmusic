@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 10	Criticism As Inspiration	Pedro The Lion	The Only Reason I Feel Secure	LIKE	6:20	k0hhqFaqzmI	MPREb_wtLJX2e32l6	UCpOZxcaYh6EWHv0-CoY0sZw
-183	Ruined in 84 (feat. k.c. accidental, beef terminal, broken social scene & naw)	k.c. accidental	Noise Factory Sampler, Vol. 02	INDIFFERENT	3:12	gEVmJFcwhO0	MPREb_teBpRbaGwfE	UCuhYw4wkMFUV2ZAcUGg92bQ
+2	Headache	Grouper	Paradise Valley	LIKE	5:05	3322M2ugWp8	MPREb_WCceth5DMJ1	UCxdqU4_Mit1HOXesHvs3g3Q
+183	Ruined in 84 (feat. k.c. accidental, beef terminal, broken social scene & naw)	k.c. accidental	Noise Factory Sampler, Vol. 02	INDIFFERENT	3:13	gEVmJFcwhO0	MPREb_teBpRbaGwfE	UCuhYw4wkMFUV2ZAcUGg92bQ
 180	For People Unknown	Windsor For The Derby	We Fight Til Death	INDIFFERENT	6:31	AAtJiQ0XanA	MPREb_rlgW3lYlxiC	UCjmNttSYViZmmIFQufvaPpw
 186	The Front	Windsor For The Derby	Giving Up The Ghost	INDIFFERENT	2:57	0noGJGeEIJs	MPREb_aBOBinr8PP0	UCjmNttSYViZmmIFQufvaPpw
 165	Debriefing	Vic Chesnutt	North Star Deserter	INDIFFERENT	8:27	qpyRx8lILZk	MPREb_coqRWuZfuQ7	UCIsh1PRczIZ-V2dLB8Y7bHw
@@ -50,8 +51,8 @@
 130	Varðeldur	Sigur Rós	Valtari	INDIFFERENT	6:08	sVx_MI0ub7I	MPREb_bzCmzfEeIMJ	UCgI0KusPV2kAfsflrsAunUw
 139	Hvalir í útrymingarhættu	Sigur Rós	Hlemmur	INDIFFERENT	3:01	BxNumop8qXU	MPREb_AhCvaJbz1uA	UCgI0KusPV2kAfsflrsAunUw
 145	Salka	Sigur Rós	Hvarf / Heim	INDIFFERENT	6:10	W7_I4SWiylU	MPREb_9sCAgAoksPh	UCgI0KusPV2kAfsflrsAunUw
-112	Mafia Car	Sea Snakes	Clear As Day, The Darkest Tools	INDIFFERENT	3:56	CD5HY--Wv5c	MPREb_FOpXikbz4rp	UCOfaPgzwJmgcb-uMh8xWqpQ
-117	It's Good	Sea Snakes	Clear As Day, The Darkest Tools	INDIFFERENT	3:11	4sD4r8CS4NE	MPREb_FOpXikbz4rp	UCOfaPgzwJmgcb-uMh8xWqpQ
+112	Mafia Car	Sea Snakes	Clear As Day, The Darkest Tools	INDIFFERENT	3:57	CD5HY--Wv5c	MPREb_FOpXikbz4rp	UCOfaPgzwJmgcb-uMh8xWqpQ
+117	It's Good	Sea Snakes	Clear As Day, The Darkest Tools	INDIFFERENT	3:12	4sD4r8CS4NE	MPREb_FOpXikbz4rp	UCOfaPgzwJmgcb-uMh8xWqpQ
 72	And Often Off Again	Red Stars Theory	Red Stars Theory	INDIFFERENT	6:32	a3qQTxXNxOs	MPREb_98m0WlICOAB	UCQvj0ECYj4DDI-ZOkHGw5RQ
 79	September	Red Stars Theory	Life in a Bubble Can Be Beautiful	INDIFFERENT	4:26	PgqKxisqgAw	MPREb_bAgAlgjXqBq	UCQvj0ECYj4DDI-ZOkHGw5RQ
 100	The Goodnight Song	Red Stars Theory	Red Stars Theory	INDIFFERENT	4:52	LWFWteDo4ic	MPREb_WWXEvBEIxbn	UCQvj0ECYj4DDI-ZOkHGw5RQ
@@ -132,7 +133,6 @@
 41	Poison	Horse Jumper of Love	So Divine	INDIFFERENT	3:25	w-h9tcegFmo	MPREb_qrJHCM4L6wM	UCI5yMqj9CO8SLvlugbSlR5g
 49	John Song	Horse Jumper of Love	So Divine	INDIFFERENT	2:38	Paf78nfsliA	MPREb_qrJHCM4L6wM	UCI5yMqj9CO8SLvlugbSlR5g
 170	You're Worth The Whole World	Hood	Cold House	INDIFFERENT	5:44	qSMTFqbLExc	MPREb_DpF7JkMcQJq	UCYvr_EPi0y52_NUQvBl4tQA
-2	Headache	Grouper	Paradise Valley	INDIFFERENT	5:05	3322M2ugWp8	MPREb_WCceth5DMJ1	UCxdqU4_Mit1HOXesHvs3g3Q
 163	Broken Ballad	Grails	The Burden Of Hope	INDIFFERENT	3:46	3c7Bgi3KU48	MPREb_E319bmisHDL	UCTgIfqgrvh5A5g9o0Dlx7eA
 3	Tugboat	Galaxie 500	Today	INDIFFERENT	3:56	FUFWkuMY6xM	MPREb_1KFqaMLRzPS	UCfteAdNqNAwCKV-9PZOVD8g
 13	Snowstorm	Galaxie 500	On Fire	INDIFFERENT	5:14	nsFtmGyigoo	MPREb_VdoWDaDHW5D	UCfteAdNqNAwCKV-9PZOVD8g
@@ -142,7 +142,7 @@
 188	Unified Frequency	Füxa	Very Well Organised	INDIFFERENT	7:53	0UJDi0Yw0xw	MPREb_Uu1XVo0rCUm	UCjPed7aHAzusnMetteVZnvQ
 189	Unknown	Füxa	Dirty D	INDIFFERENT	4:12	6fNvxqqtlRw	MPREb_dterZZVg6sy	UCjPed7aHAzusnMetteVZnvQ
 175	Et aussi l'eclairage de plastique au centre de tout ces compartiments lateraux	Fly Pan Am	Fly Pan Am	INDIFFERENT	9:29	aasvfvip5c8	MPREb_13xLhOIcl5t	UCg91DlZ3k8lm2GaY1mSH8nA
-133	Yasmin The Light	Explosions in the Sky	Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever	INDIFFERENT	7:03	C8mDF89n3gw	MPREb_yOdLqH5JpiW	UCIVIcUSH-dwFSEn9fNC6n1g
+133	Yasmin The Light	Explosions in the Sky	Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever	INDIFFERENT	7:04	C8mDF89n3gw	MPREb_yOdLqH5JpiW	UCIVIcUSH-dwFSEn9fNC6n1g
 124	The Birth And Death Of The Day	Explosions In The Sky	All of a Sudden I Miss Everyone	INDIFFERENT	7:50	Fz-mWblMPpw	MPREb_cS7jLrhq6uV	UCIVIcUSH-dwFSEn9fNC6n1g
 129	Postcard From 1952	Explosions In The Sky	Take Care, Take Care, Take Care	INDIFFERENT	7:06	a8b5jwv0xVk	MPREb_Jp3avRa1zAr	UCIVIcUSH-dwFSEn9fNC6n1g
 166	Dust	Evan Caminiti	West Winds	INDIFFERENT	2:44	1V94kDGFDtw	MPREb_4qmGyrpBemz	UCBy7zy81Fu39ALf1YUX60Hg
