@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 143	Tossing And Turning	The Ivy League	Tossing And Turning	LIKE	2:25	t0HmpAJ_0Gk	MPREb_H1IGzFoH4iy	UCwypwz4GElXr2TfsQZrgC2w
+454	Up on the Roof	The Drifters	Under The Boardwalk	LIKE	2:38	MMyDiHNNq1Y	MPREb_QnTii9Z2SsZ	UCo55cRv8wdnMdwWFMgnDYpA
 154	Since I Don't Have You	Guns N' Roses	The Spaghetti Incident?	LIKE	4:19	mmB0URLdwpE	MPREb_UMUlZ1htdA6	UCSLbbBoUqpin6BE34whSOvA
 124	I'll Be With You In Apple Blossom Time	Wayne Newton	Capitol Collectors Series	INDIFFERENT	2:29	K0VWOSCmjNo	MPREb_NO3siAQYT9d	UCCaQ2OaruIocI5Ey-cyH-cQ
 156	Red Roses For A Blue Lady	Wayne Newton	Capitol Collectors Series	INDIFFERENT	2:24	fZw-uNTeRSQ	MPREb_NO3siAQYT9d	UCCaQ2OaruIocI5Ey-cyH-cQ
@@ -95,7 +96,6 @@
 207	Saturday Night at the Movies	The Drifters	The Good Life With the Drifters	INDIFFERENT	2:34	vhdE8cuk9uE	MPREb_MOqy5CDbx5g	UCo55cRv8wdnMdwWFMgnDYpA
 300	On Broadway	The Drifters	Under The Boardwalk	INDIFFERENT	3:02	5XtYvR8ryj8	MPREb_QnTii9Z2SsZ	UCo55cRv8wdnMdwWFMgnDYpA
 350	I'll Take You Home	The Drifters	Under The Boardwalk	INDIFFERENT	2:37	WLgj9pDGjwI	MPREb_QnTii9Z2SsZ	UCo55cRv8wdnMdwWFMgnDYpA
-454	Up on the Roof	The Drifters	Under The Boardwalk	INDIFFERENT	2:38	MMyDiHNNq1Y	MPREb_QnTii9Z2SsZ	UCo55cRv8wdnMdwWFMgnDYpA
 474	When My Little Girl Is Smiling (Single Version)	The Drifters	All-Time Greatest Hits & More 1959-1965	INDIFFERENT	2:34	BtuTjdTZ1X8	MPREb_K8VtQlOWy2T	UCo55cRv8wdnMdwWFMgnDYpA
 475	Bristol Twistin' Annie	The Dovells	The Best Of The Dovells 1961-1965	INDIFFERENT	2:14	V6EfMk3mOKw	MPREb_EAd6Jx633WJ	UC-WSY9ANOCJTyzoZv5m_IJw
 121	Iko Iko	The Dixie Cups	The Dixie Cups' Another Boy Like Mine	INDIFFERENT	2:03	OuC519ni1aE	MPREb_4bUc8Ah4MeQ	UCekxzKJEsteiHdN0WhTOFWg
@@ -501,6 +501,7 @@
 357	I'm Gonna Love You Too	Buddy Holly	Buddy Holly	INDIFFERENT	2:18	Y3Z-eWXQ78E	MPREb_CaCi657HJqh	UCddPyO3i288bFhCe9mzJsqg
 436	Door To My Heart (Undubbed Version)	Buddy Holly	Down The Line Rarities	INDIFFERENT	2:22	UmKfGs6dWuI	MPREb_EngKcwxqkk5	UCddPyO3i288bFhCe9mzJsqg
 409	Hey! Baby (Single Version)	Bruce Channel	60's Gold	INDIFFERENT	2:23	28-4X0LT97w	MPREb_RP8HFaPEUcb	UCRQvGYm2EU88-7UOC6-t8_Q
+82	Kiddio	Brook Benton	Rainy Night In Georgia	INDIFFERENT	2:33	0iPcpm_aZQQ	MPREb_34Qpb8hvtz9	UCiZJWA1zTphODNGWDODaYMw
 149	Love Me Now	Brook Benton	Greatest Hits: The Mercury Years	INDIFFERENT	3:03	rGyJo8VxoGU	MPREb_Lu9d92OkiP9	UCiZJWA1zTphODNGWDODaYMw
 358	I Got What I Wanted (alternate version)	Brook Benton	20 Greatest Hits	INDIFFERENT	2:59	a2wib34HYvE	MPREb_o3oQYdZ4Mrj	UCiZJWA1zTphODNGWDODaYMw
 478	Hotel Happiness	Brook Benton	20th Century Masters: The Millennium Collection: Best Of Brook Benton	INDIFFERENT	2:44	eF9OklWSIxs	MPREb_CAetp34aKek	UCiZJWA1zTphODNGWDODaYMw
@@ -585,4 +586,3 @@
 219	The French Song	"""Bob & Lucille"""	Eeny Meeny Miney Moe	INDIFFERENT	2:55	uwSKJyfkSPc	MPREb_eutbeGnYtNg	UCiEQDN4K2FtDGrQ_q-w2Nyw
 31	Vaquero	The Fireballs	The Fireballs / Vaquero			EhQvHz0qD4M		
 215	When My Tears Have Dried	The Fireballs	The Best of the Fireballs' Vocals			AQAWL3-UXAM		
-82	Kiddio	Brook Benton	Brook Benton At His Best		2:35	TRc8OcpRIYI		

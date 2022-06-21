@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+63	Reason To Believe	Tim Hardin	Tim Hardin 1	LIKE	1:59	dUWZw8uDak4	MPREb_bfNXxFtH1C6	UC6nPz4RBo67fOxdQlmb_lFQ
 153	Homeward Bound	Simon & Garfunkel	Parsley, Sage, Rosemary And Thyme	LIKE	2:29	JKCVAXhVMkY	MPREb_TwXBO2e9qC7	UCOovQ5kcvRFGh4ix6Q1SsKA
 18	My Back Pages	Bob Dylan	Another Side Of Bob Dylan	LIKE	4:24	tx_hm7brW8M	MPREb_w2U2e98cAjd	UCBqkojCXby4zGkWX86FEY7Q
 5	Alice's Restaurant Massacree	Arlo Guthrie	Alice's Restaurant	LIKE	18:36	WaKIX6oaSLs	MPREb_ZYrhRvcRXnX	UCMuqt4tU70hwj0l12C6g2vQ
@@ -18,7 +19,6 @@
 13	I Can't Help but Wonder Where I'm Bound	Tom Paxton	Ramblin' Boy	INDIFFERENT	3:42	e2OnQ0ANO5Q	MPREb_5ZEIEheEhwf	UCx8WMVnWlEd9Hzid-8QbQ7A
 20	The Last Thing on My Mind	Tom Paxton	Ramblin' Boy	INDIFFERENT	3:06	4Pn7ukdPSQ4	MPREb_5ZEIEheEhwf	UCx8WMVnWlEd9Hzid-8QbQ7A
 65	Ramblin' Boy	Tom Paxton	Ramblin' Boy	INDIFFERENT	3:59	iUAL4LV3XN4	MPREb_5ZEIEheEhwf	UCx8WMVnWlEd9Hzid-8QbQ7A
-63	Reason To Believe	Tim Hardin	Tim Hardin 1	INDIFFERENT	1:59	dUWZw8uDak4	MPREb_bfNXxFtH1C6	UC6nPz4RBo67fOxdQlmb_lFQ
 69	How Can We Hang On To A Dream	Tim Hardin	Hang On To A Dream: The Verve Recordings	INDIFFERENT	2:01	XKheTkHpWUE	MPREb_nq2PDhbqWu8	UC6nPz4RBo67fOxdQlmb_lFQ
 73	Don't Make Promises	Tim Hardin	Tim Hardin 1	INDIFFERENT	2:26	BLalJpRsrGQ	MPREb_bfNXxFtH1C6	UC6nPz4RBo67fOxdQlmb_lFQ
 162	Red Balloon	Tim Hardin	Hang On To A Dream: The Verve Recordings	INDIFFERENT	2:34	blNGJ3kIJns	MPREb_nq2PDhbqWu8	UC6nPz4RBo67fOxdQlmb_lFQ
@@ -116,6 +116,7 @@
 177	Are You Leaving for the Country	Karen Dalton	In My Own Time (50th Anniversary Edition)	INDIFFERENT	3:15	gNltXa_pubY	MPREb_7gesbnBle9o	UCxQO6D8AmW8iWU_Qy2iu3Vg
 191	How Did The Feeling Feel To You	Karen Dalton	It's So Hard To Tell Who's Going To Love You The Best	INDIFFERENT	2:58	40oBZShLhYk	MPREb_yo7GyCiple8	UCxQO6D8AmW8iWU_Qy2iu3Vg
 195	Woman Blue	Judy Roderick	Woman Blue	INDIFFERENT	5:43	sR6PDn2bTVU	MPREb_AJlQPQNKANy	UCWIk-JrjEJqbE1-T9mbzLrA
+200	Mistreated	Judy Roderick	Woman Blue	INDIFFERENT	4:33	aJRDA3zrO8Y	MPREb_AJlQPQNKANy	UCWIk-JrjEJqbE1-T9mbzLrA
 85	High Flying Bird	Judy Henske	High Flying Bird	INDIFFERENT	2:59	wQ-So8S-29M	MPREb_gwqQgCT0xvX	UC2r1Uy2SNnslwtdoE01MLFg
 89	Wade in the Water	Judy Henske	Judy Henske	INDIFFERENT	2:59	Ov-XFLG9Pt8	MPREb_B4uzx3w5bFJ	UC2r1Uy2SNnslwtdoE01MLFg
 105	Charlotte Town	Judy Henske	High Flying Bird	INDIFFERENT	1:53	Om0v8XEBeIk	MPREb_gwqQgCT0xvX	UC2r1Uy2SNnslwtdoE01MLFg
@@ -210,4 +211,3 @@
 149	Eve Of Destruction	Barry McGuire	Eve Of Destruction	INDIFFERENT	3:35	_38SWIIKITE	MPREb_ae0qpqlJBWh	UCgZC0jQPBWmyWewVc3TW7IA
 158	Alice's Restaurant (The Massacree Revisted) (Live at The Church)	Arlo Guthrie	Alice's Restaurant (The Massacree Revisited) (Live at The Church)	INDIFFERENT	22:26	B_tMzSxvoeA	MPREb_1N2in7KVi19	UCMuqt4tU70hwj0l12C6g2vQ
 49	Ramblin' Boy	Anne Hills	Best Of Friends	INDIFFERENT	3:50	U1qE3Czmzic	MPREb_gvf4rZlQvGu	UC2CfMU1_XB84An8yTJ-x-dw
-200	Mistreated	Judy Roderick	Ladies Got The Blues			46DIBP0GF9I		
