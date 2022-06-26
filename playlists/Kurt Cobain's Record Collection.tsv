@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-11	Heroin	The Velvet Underground & Nico	The Velvet Underground & Nico	LIKE	7:13	foptT2bsKww	MPREb_xUQzHavBxlt	UCXNWrugB_J3sRBYR9idQWzg
+3	Heroin	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	7:14	yN-EZW0Plsg	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
 20	Here She Comes Now	The Velvet Underground	White Light / White Heat	LIKE	2:06	Ds_LUEe23dM	MPREb_Z9Z8jdMztvF	UCXNWrugB_J3sRBYR9idQWzg
-10	Search and Destroy (Iggy Pop Mix)	The Stooges	Raw Power	LIKE	3:29	KjXgxbVXrrU	MPREb_SiXGkC2cBtS	UCCT8KMU8ReissgaPl7pvo9g
+11	Search and Destroy (Iggy Pop Mix)	The Stooges	Raw Power	LIKE	3:29	KjXgxbVXrrU	MPREb_SiXGkC2cBtS	UCCT8KMU8ReissgaPl7pvo9g
 33	Lola	The Raincoats	The Raincoats	LIKE	4:03	N7NTuCDygx8	MPREb_WoOz7jx35Jc	UCO_NHhJrJtSDnz6bXZ09BLw
 49	Tuff Gnarl	Sonic Youth	Sister	LIKE	3:14	WLtn0V4u15o	MPREb_5ZLbo8FQ2ps	UC7Ot1CZwD2fBUgP7YncvpLQ
 1	Hey	Pixies	Doolittle	LIKE	3:32	tVCUAXOBF7w	MPREb_chb7xdBVmOZ	UCRt5ckI8kNVMFr-jyj1IIVg
@@ -14,10 +14,10 @@
 8	Dazed and Confused (Remaster)	Led Zeppelin	Led Zeppelin	LIKE	6:29	yO2n7QoyieM	MPREb_NtigsSPkRuU	UCYtap7ujIPaxTS2iCDoMi3g
 72	Where Did You Sleep Last Night	Leadbelly	All Time Greatest Masters	LIKE	3:03	_oWFzhe96uQ	MPREb_NYaj1KdKKyk	UC7jiqF1wzNVeZhZmJ4EKprA
 17	Uncontrollable Urge	Devo	Q: Are We Not Men? A: We Are Devo! [Deluxe Remastered Edition]	LIKE	3:10	hYz90zeO3Kk	MPREb_oYBOjzhQ80K	UCi78B5VAs2DKDRW7viysxFw
-4	The Man Who Sold the World	David Bowie	The Man Who Sold the World	LIKE	4:02	g33-W9t2q2Q	MPREb_UNi074GYZqD	UCvY1eVE6lTebXsdFbbXUtkQ
+5	The Man Who Sold the World	David Bowie	The Man Who Sold the World	LIKE	4:02	g33-W9t2q2Q	MPREb_UNi074GYZqD	UCvY1eVE6lTebXsdFbbXUtkQ
 23	Black Country Rock	David Bowie	The Man Who Sold the World	LIKE	3:37	-c4Gj7XbrRQ	MPREb_UNi074GYZqD	UCvY1eVE6lTebXsdFbbXUtkQ
-3	Paranoid	Black Sabbath	Paranoid	LIKE	2:47	xpM59e6lyws	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
-6	Rise Above	Black Flag	Damaged	LIKE	2:27	wDUYCyajDcs	MPREb_GtbWcojOtjw	UC7ANOYcClwT6M8jttOdDseg
+4	Paranoid	Black Sabbath	Paranoid	LIKE	2:47	xpM59e6lyws	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
+7	Rise Above	Black Flag	Damaged	LIKE	2:27	wDUYCyajDcs	MPREb_GtbWcojOtjw	UC7ANOYcClwT6M8jttOdDseg
 58	Final Day (Taken From The Final Day Single)	Young Marble Giants	Colossal Youth (40th Anniversary Edition)	INDIFFERENT	1:44	HeZC814CkH4	MPREb_MGwVbe6Kcq2	UClxRGWXhsKCcyaBzd_ouxVA
 70	Cakewalking (Taken From The Final Day Single)	Young Marble Giants	Colossal Youth (40th Anniversary Edition)	INDIFFERENT	2:50	Js52gXGNmVY	MPREb_MGwVbe6Kcq2	UClxRGWXhsKCcyaBzd_ouxVA
 57	Taking Too Long	Wipers	Youth of America	INDIFFERENT	3:08	HyLvOjpP-Aw	MPREb_UgplpMHcu7K	UCx3XTAYjSbvtc6s8giYvVBg
@@ -47,19 +47,18 @@
 15	No Feelings	Sex Pistols	Nevermind The Bollocks, Here's The Sex Pistols	INDIFFERENT	2:52	gJC0HFqnE8c	MPREb_UX8yjFasng0	UClN6gQsL6wKtLzo1S_-ui2w
 31	Liar	Sex Pistols	Nevermind The Bollocks, Here's The Sex Pistols	INDIFFERENT	2:42	LPs0aqnPCHc	MPREb_UX8yjFasng0	UClN6gQsL6wKtLzo1S_-ui2w
 76	We Became Snakes	Saccharine Trust	We Became Snakes	INDIFFERENT	5:25	Rmzw9jYWD-8	MPREb_6w54Zm6uP4H	UCUdYufSVYs1QCbUsNQkESAA
-5	Drive	R.E.M.	Automatic For The People	INDIFFERENT	4:31	JEaxLGNm7PQ	MPREb_nfDvvM0Ley3	UCZQMYjqm_j5mBVTfPcCy3FA
+6	Drive	R.E.M.	Automatic For The People	INDIFFERENT	4:31	JEaxLGNm7PQ	MPREb_nfDvvM0Ley3	UCZQMYjqm_j5mBVTfPcCy3FA
 16	Sweetness Follows	R.E.M.	Automatic For The People	INDIFFERENT	4:21	p7aHDm5dxhs	MPREb_nfDvvM0Ley3	UCZQMYjqm_j5mBVTfPcCy3FA
 22	Monty Got A Raw Deal	R.E.M.	Automatic For The People	INDIFFERENT	3:17	LeltptEDmrE	MPREb_nfDvvM0Ley3	UCZQMYjqm_j5mBVTfPcCy3FA
 28	Harborcoat	R.E.M.	Reckoning	INDIFFERENT	3:53	8oC6pxjjGHw	MPREb_rCgzrgG0jCc	UCZQMYjqm_j5mBVTfPcCy3FA
 34	7 Chinese Bros.	R.E.M.	Reckoning	INDIFFERENT	4:18	7hGe2ao0yms	MPREb_rCgzrgG0jCc	UCZQMYjqm_j5mBVTfPcCy3FA
 40	Time After Time (Annelise)	R.E.M.	Reckoning	INDIFFERENT	3:32	Kd3as_PrGs4	MPREb_rCgzrgG0jCc	UCZQMYjqm_j5mBVTfPcCy3FA
-13	Cactus	Pixies	Surfer Rosa	INDIFFERENT	2:17	kfnNbKr8EaE	MPREb_EqwcG6uS8iP	UCRt5ckI8kNVMFr-jyj1IIVg
+12	Cactus	Pixies	Surfer Rosa	INDIFFERENT	2:17	kfnNbKr8EaE	MPREb_EqwcG6uS8iP	UCRt5ckI8kNVMFr-jyj1IIVg
 60	Eye Flys	Melvins	Gluey Porch Treatments	INDIFFERENT	6:16	Yqs3DRsTDXo	MPREb_WTFjJHzA1oA	UCIiCAKBmdf7ef6w4ums3dtQ
 66	Echo Head/ Don't Piece Me	Melvins	Gluey Porch Treatments	INDIFFERENT	2:51	7gzclL9POYM	MPREb_WTFjJHzA1oA	UCIiCAKBmdf7ef6w4ums3dtQ
 74	Steve Instant Neuman	Melvins	Gluey Porch Treatments	INDIFFERENT	1:31	-TKEcGJupKA	MPREb_WTFjJHzA1oA	UCIiCAKBmdf7ef6w4ums3dtQ
 80	Grinding Process	Melvins	26 Songs	INDIFFERENT	2:37	V61h5tqzxHA	MPREb_HBIBXUA6Oew	UCIiCAKBmdf7ef6w4ums3dtQ
 78	In New Orleans (House of the Rising)	Lead Belly	The Authorized Leadbelly Collection	INDIFFERENT	3:17	if1zT252djk	MPREb_w2bfP1liWwt	UC7jiqF1wzNVeZhZmJ4EKprA
-86	Bottle up and Go	Lead Belly	Where Did You Sleep Last Night, Vol 1	INDIFFERENT	1:51	5d07H0sFRzY	MPREb_GdwkBJhPPed	UC7jiqF1wzNVeZhZmJ4EKprA
 36	Gimme Danger (Bowie Mix)	Iggy & The Stooges	Raw Power (Legacy Edition)	INDIFFERENT	3:30	s5qGderiRdg	MPREb_sHnuvMz4Yqp	UCCT8KMU8ReissgaPl7pvo9g
 42	Penetration (Bowie Mix)	Iggy & The Stooges	Raw Power (Legacy Edition)	INDIFFERENT	3:38	YK0T962Oxu8	MPREb_sHnuvMz4Yqp	UCCT8KMU8ReissgaPl7pvo9g
 48	Death Trip (Bowie Mix)	Iggy & The Stooges	Raw Power (Legacy Edition)	INDIFFERENT	5:55	IjZ-zqJBN4k	MPREb_sHnuvMz4Yqp	UCCT8KMU8ReissgaPl7pvo9g
@@ -77,12 +76,12 @@
 77	Got to Get You into My Life	Daniel Johnston	1990	INDIFFERENT	4:27	uy6jJE7IW2s	MPREb_YSNrN1XURBA	UCRjlG1MBlEr9Sn-J2T7N88A
 82	Foxy Girl	Daniel Johnston	Fun	INDIFFERENT	4:24	lHYO-dq9up0	MPREb_ewo9zkkebg5	UCRjlG1MBlEr9Sn-J2T7N88A
 83	Rock 'n' Roll / EGA	Daniel Johnston	Fun	INDIFFERENT	4:44	MrHbpHZ9PfU	MPREb_ewo9zkkebg5	UCRjlG1MBlEr9Sn-J2T7N88A
-9	Hand of Doom	Black Sabbath	Paranoid	INDIFFERENT	7:07	CNIgt6yKgDM	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
-12	TV Party	Black Flag	Damaged	INDIFFERENT	3:32	psUOyXGacL0	MPREb_GtbWcojOtjw	UC7ANOYcClwT6M8jttOdDseg
+10	Hand of Doom	Black Sabbath	Paranoid	INDIFFERENT	7:07	CNIgt6yKgDM	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
+13	TV Party	Black Flag	Damaged	INDIFFERENT	3:32	psUOyXGacL0	MPREb_GtbWcojOtjw	UC7ANOYcClwT6M8jttOdDseg
 38	Attitude	Bad Brains	Rock For Light	INDIFFERENT	1:09	Inoi8_viDyI	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
 44	Rock for Light	Bad Brains	Rock For Light	INDIFFERENT	1:36	XQejWOArRAw	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
-50	Joshua's Song	Bad Brains	Rock For Light	INDIFFERENT	0:32	dDyAyocNr70	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
-56	Coptic Times	Bad Brains	Rock For Light	INDIFFERENT	2:06	1IhIRppQYDg	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
+50	Coptic Times	Bad Brains	Rock For Light	INDIFFERENT	2:06	1IhIRppQYDg	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
+56	Joshua's Song	Bad Brains	Rock For Light	INDIFFERENT	0:32	dDyAyocNr70	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
 62	I	Bad Brains	Rock For Light	INDIFFERENT	1:55	5sWcHr8EILw	MPREb_FkmOjwsC8vH	UCWetA9gx1V16Ln0iVuaTEhA
 25	Typical Girls	The Slits	Cut	DISLIKE	3:56	W6HjEu-w7cw	MPREb_3Vnp08YcPXU	UCJ96-Kr0zmD3qwn8ux1JNAQ
-7	Do You Love Me	Kiss	Destroyer	DISLIKE	3:33	nwsE7tVHk-k	MPREb_25bR4Uzi01Q	UCL0dlEc0rXV1CIawUKeme4g
+9	Do You Love Me	Kiss	Destroyer	DISLIKE	3:33	nwsE7tVHk-k	MPREb_25bR4Uzi01Q	UCL0dlEc0rXV1CIawUKeme4g
