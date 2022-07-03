@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+402	American Music	Violent Femmes	Why Do Birds Sing?	LIKE	3:51	mryMZZnf5nk	MPREb_48xeDBWwmyX	UCoPPSCV914UPLHG-LoKBDQw
 312	Hummer	Smashing Pumpkins	Siamese Dream (Deluxe Edition)	LIKE	6:57	Zxo_MYrADmY	MPREb_ag4IulWrDJa	UCZM3bF24BS-qDMe0OigpeZw
 166	Crank	Catherine Wheel	Chrome	LIKE	3:45	wZvkFXWRQ0w	MPREb_Ntaf1N5QHHA	UCdzBRAr_ud0M8BXJTpOV8Jw
 499	The Nude	Catherine Wheel	Chrome	LIKE	3:52	ll27wQEld60	MPREb_Ntaf1N5QHHA	UCdzBRAr_ud0M8BXJTpOV8Jw
@@ -22,7 +23,6 @@
 133	Ocean Man	Ween	The Mollusk	INDIFFERENT	2:06	vcaPiiFZu2o	MPREb_iYZbnszRqas	UCXWUt1Cu2hVZYTaJ44ddusA
 419	Push Th' Little Daisies	Ween	Pure Guava	INDIFFERENT	2:49	i-Yjt7ZGgiE	MPREb_is92yVwyRPs	UCXWUt1Cu2hVZYTaJ44ddusA
 451	Voodoo Lady	Ween	Chocolate & Cheese	INDIFFERENT	3:48	dIeFSqdag4w	MPREb_GXXcCK1w1xo	UCXWUt1Cu2hVZYTaJ44ddusA
-402	American Music	Violent Femmes	Why Do Birds Sing?	INDIFFERENT	3:51	mryMZZnf5nk	MPREb_48xeDBWwmyX	UCoPPSCV914UPLHG-LoKBDQw
 117	Earthcrosser	Veruca Salt	Eight Arms To Hold You	INDIFFERENT	5:28	OLu8FIvE3D8	MPREb_7gVum6OnIv1	UCyiGBqAtZHRaqdSBgoYro5w
 284	Sleeping Where I Want	Veruca Salt	American Thighs	INDIFFERENT	3:19	l-oc-Gz91X4	MPREb_zIYN42iUQsg	UCyiGBqAtZHRaqdSBgoYro5w
 285	Seether	Veruca Salt	American Thighs	INDIFFERENT	3:16	PzrWPdQ3VYo	MPREb_zIYN42iUQsg	UCyiGBqAtZHRaqdSBgoYro5w
@@ -493,7 +493,6 @@
 460	Teen Angst (What The World Needs Now)	Cracker	Cracker	INDIFFERENT	4:15	2nqUU7nxUVY	MPREb_jB0P3MKdjiN	UC6K70U0mrier7-v0v5f3gwg
 320	Einstein On The Beach (For An Eggman)	Counting Crows	DGC Rarities Vol. 1	INDIFFERENT	3:52	HmTpmeqbKNk	MPREb_8rjT2cBZmWE	UCZyvQjTvS_1fiCaz-cU9luA
 161	$10 Bill	Cop Shoot Cop	Ask Questions Later	INDIFFERENT	3:45	RmgbKrRmhhU	MPREb_yogZnvHjGUP	UCxtHgIPEiWQzBjwK2sXXbig
-367	You Suck (Album Mix)	Consolidated	Accept Me For What I Am / You Suck	INDIFFERENT	4:16	-7FwhsqKeTQ	MPREb_gNDz4kRTiJr	UCkhsNncs-RvLYaHSF0uX8ZA
 397	Gel	Collective Soul	Collective Soul	INDIFFERENT	2:59	EOBaAhYPQoA	MPREb_v2GthuiFJD3	UCl3Fkt94DUW04p5ZPIt4glg
 440	Wasting Time	Collective Soul	Hints Allegations & Things Left Unsaid	INDIFFERENT	3:14	BWtYML5IfIo	MPREb_KDbTzFCIel6	UCl3Fkt94DUW04p5ZPIt4glg
 191	Better Days (And the Bottom Drops Out)	Citizen King	Mobile Estates	INDIFFERENT	3:27	uBWS2ZIPepI	MPREb_GGNQndgiYlH	UCbaXzmB5gLvq8FEVYvFRjUg
@@ -574,3 +573,4 @@
 162	Spaceman	4 Non Blondes	Bigger, Better, Faster, More!	INDIFFERENT	3:40	CuIdy6kllMg	MPREb_p7g0FsGGCeH	UCsHRQzuRBiINdpOca3wEIJg
 124	Germs	"""Weird Al"" Yankovic"	Running With Scissors	INDIFFERENT	4:38	U7G6GbTMOtg	MPREb_3ArCHZrZ46m	UCa4LILjjT1YCeo5Xg9rQTMQ
 327	My Baby's In Love With Eddie Vedder	"""Weird Al"" Yankovic"	Running With Scissors	INDIFFERENT	3:26	SEQycU_fk3s	MPREb_3ArCHZrZ46m	UCa4LILjjT1YCeo5Xg9rQTMQ
+367	You Suck	Consolidated	Decadence: 10 Years of Nettwerk 1991-1993			vH6DhcR51iQ		
