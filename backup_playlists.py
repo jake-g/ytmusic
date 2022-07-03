@@ -1,50 +1,10 @@
 
 import os
 import pandas as pd
-from ytmusicapi import YTMusic
 import time
 import datetime
 
-
-def valid_date(date_str):
-    try:
-        datetime.datetime.strptime(date_str, '%Y-%m-%d')
-        return True
-    except ValueError:
-        return False
-        # raise ValueError("Incorrect data format, should be YYYY-MM-DD")
-
-
-def decode(string, encode_key='latin-1', decode_key='windows-1252'):
-    return str(string).encode(encode_key, errors='replace').decode(
-        decode_key, errors='replace')
-
-
-def parse_tracks(track_list):
-    tracks = pd.DataFrame(track_list)
-    tracks['artistId'] = tracks['artists'].dropna().apply(
-        lambda x: x[0]['id'])  # TODO handle > 1 artist
-    tracks['artist'] = tracks['artists'].dropna().apply(lambda x: x[0]['name'])
-    tracks['albumId'] = tracks['album'].dropna().apply(lambda x: x['id'])
-    tracks['album'] = tracks['album'].dropna().apply(lambda x: x['name'])
-    tracks = tracks.drop('thumbnails', axis=1)
-    tracks = tracks.drop('artists', axis=1)
-    return tracks
-
-
-def parse_playlist(yt, playlist_meta):
-    playlist_meta.pop('thumbnails', None)
-    track_list = playlist_meta.pop('tracks', None)
-    print(pd.DataFrame.from_dict(playlist_meta, orient='index'))
-    tracks = parse_tracks(track_list)
-    return tracks, playlist_meta
-
-
-def merge_duplicates(group):
-    _playlists = list(group['playlists'].values)
-    row = group.iloc[0]
-    row['playlists'] = _playlists
-    return row
+from ytmusic_library import YTMusicPlaylists
 
 
 def is_like_pl(name):
@@ -73,6 +33,87 @@ def is_like_pl(name):
             return True
 
 
+def valid_date(date_str):
+    try:
+        datetime.datetime.strptime(date_str, '%Y-%m-%d')
+        return True
+    except ValueError:
+        return False
+        # raise ValueError("Incorrect data format, should be YYYY-MM-DD")
+
+
+def decode(string, encode_key='latin-1', decode_key='windows-1252'):
+    return str(string).encode(encode_key, errors='replace').decode(
+        decode_key, errors='replace')
+
+
+def get_yt_track_info(yt, row):
+    copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
+    copy_album_cols = ['type', 'trackCount', 'duration', 'year']
+    if type(row['artistId']) != str:
+        print(f'\nD ERROR: row["artistId"] not a str for row:\n{row}')
+    elif 'privately_owned' in row['artistId']:
+        print(f'\nSkipping privately owned track for row:\n{row}')
+    else:
+        song = yt.get_song(row.name)
+        for col in copy_song_cols:
+            if col not in song:
+                continue
+            if col == 'release' and not valid_date(song['release']):
+                print('\tSkipping release field, not a valid date...')
+                continue
+            row[col] = song[col]
+        if row['albumId'] and type(row['albumId']) == str:
+            try:
+                album = yt.get_album(row.albumId)
+            except Exception as e:
+                print(f'ERROR running: get_album(albumID)\n{e} for row\n{row}')
+                return row
+            if len(album['artists']):
+                row['albumArtist'] = album['artists'][0]['name']
+            elif len(album['tracks']) and len(album['tracks'][0]['artists']):
+                row['albumArtist'] = album['tracks'][0]['artists'][0]['name']
+            else:
+                print(('\nD ERROR Failed: len(album["artists"]) ',
+                       f'for album: {album}'))
+            for col in copy_album_cols:
+                if col not in album:
+                    continue
+
+                new_col = f'album{col[0].upper()}{col[1:]}'
+                if album[col]:
+                    row[new_col] = album[col]
+                else:
+                    print(
+                        f'\nD ERROR column {col} not in albums\n{album}')
+    return row
+
+
+def update_track_db(yt, track_db, new_tracks):
+    print('Track database has %d tracks, found %d unique new tracks' %
+          (len(track_db), len(new_tracks)))
+
+    i = 0
+    tracks_w_info = []
+    t0 = time.time()
+    for vid, row in new_tracks.iterrows():
+        i += 1
+        tracks_w_info.append(get_yt_track_info(yt, row))
+        track_str = decode('%s - %s - %s' % (
+            row['artist'], row['album'], row['title']))
+        print('(%d/%d): %s' % (i, len(new_tracks), track_str))
+
+    tracks_w_info = pd.DataFrame(tracks_w_info)
+    print('Scraped info for %d tracks' % len(tracks_w_info))
+
+    track_db = pd.concat([track_db, tracks_w_info])
+    track_db = track_db.sort_values(['artist', 'album'])
+    elapsed_t = (time.time() - t0) / 60
+    print('Finished in %d minutes' % elapsed_t)
+    print('Track database now has %d tracks' % len(track_db))
+    return track_db
+
+
 def update_like_tsv(liked_tracks, like_tsv, header):
     # Load already existing like list tsv
     like_tracks = pd.read_csv(like_tsv, sep='\t', index_col=0)
@@ -90,7 +131,8 @@ def update_like_tsv(liked_tracks, like_tsv, header):
     return all_like_tracks
 
 
-def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
+def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
+                                        remove_disliked=False,
                                         include_library_tracks=True,
                                         song_lim=200000, playlist_lim=500,
                                         yt_user='Jake G'):
@@ -104,18 +146,18 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
     all_tracks = []
     start_time = time.time()
     print('Fetching and backing up playlists to %s (~10 min)' % backup_dir)
-    playlists = pd.DataFrame(yt.get_library_playlists(limit=playlist_lim))
-    for i, row in playlists.iterrows():
+    for i, row in yt_pl.playlists.iterrows():
         try:
             print('\n\n(%d/%d)\t%s' %
-                  (i+1, len(playlists), decode(row['title'])))
-            playlist = yt.get_playlist(row['playlistId'], limit=song_lim)
+                  (i+1, len(yt_pl.playlists), decode(row['title'])))
+            playlist = yt_pl.playlist_get_info(
+                row['playlistId'], playlist_limit=song_lim, use_cache=True)
             if playlist['trackCount'] == 0:
                 print('Skipping: %s, due to zero tracks' % decode(
                     playlist['title']))
                 continue
 
-            tracks, metadata = parse_playlist(yt, playlist)
+            tracks, metadata = yt_pl.parse_playlist(playlist, verbose=True)
             all_playlist_info.append(metadata)
             tracks['playlists'] = playlist['title']
             all_tracks.append(tracks)
@@ -126,7 +168,7 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
                         metadata['author']['name'] == yt_user):
                     print('Removing %d tracks:\n%s' %
                           (len(tracks_disliked), tracks_disliked['title']))
-                    yt.remove_playlist_items(
+                    yt_pl.yt.remove_playlist_items(
                         metadata['id'], tracks_disliked.to_dict('records'))
                     tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
 
@@ -151,7 +193,8 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
     if include_library_tracks:
         t1 = time.time()
         print('Fetching library tracks (approx 5 min)...')
-        library_tracks = parse_tracks(yt.get_library_songs(limit=song_lim))
+        library_tracks = yt_pl.parse_tracks(
+            yt_pl.yt.get_library_songs(limit=song_lim))
         all_tracks.append(library_tracks)
         library_elapsed = (time.time() - t1) / 60
         print('Fetched and saved %d tracks to _library.tsv in %d minutes\n' %
@@ -160,8 +203,13 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
         fname = os.path.join(backup_dir, '%s.tsv' % '_library')
         library_tracks[playlist_tsv_cols].to_csv(fname, sep='\t', header=True)
 
+    def _merge_duplicates(group):
+        _playlists = list(group['playlists'].values)
+        _row = group.iloc[0]
+        row['playlists'] = _playlists
+        return _row
     unique_tracks = pd.concat(all_tracks).groupby(
-        'videoId').apply(merge_duplicates).set_index('videoId')
+        'videoId').apply(_merge_duplicates).set_index('videoId')
     unique_tracks = unique_tracks.drop(db_remove_tsv_cols, axis=1)
     unique_tracks = unique_tracks.sort_values(
         ['likeStatus', 'artist'], ascending=False)
@@ -170,82 +218,6 @@ def backup_playlists_and_collect_tracks(yt, backup_dir, remove_disliked=False,
           (len(playlist_info), len(unique_tracks),
            elapsed_minutes, backup_dir))
     return unique_tracks
-
-
-def get_yt_track_info(yt, row):
-    copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
-    copy_album_cols = ['type', 'trackCount', 'duration', 'year']
-
-    if (type(row['artistId']) == str and
-            'privately_owned' not in row['artistId']):
-        # try: # not needed?
-        song = yt.get_song(row.name)
-        for col in copy_song_cols:
-            if col not in song:
-                continue
-            if col == 'release' and not valid_date(song['release']):
-                print('\tSkipping release field, not a valid date...')
-                continue
-            row[col] = song[col]
-        # except Exception as e:
-        #     print('Failed to get track info: %s\n%s' % (e, row))
-        if row['albumId'] and type(row['albumId']) == str:
-            try:
-                album = yt.get_album(row.albumId)
-            except Exception as e:
-                print('ERROR running: yt.get_album(row.albumId)\n',e , '\n', row)
-                return row
-            if len(album['artists']):
-                row['albumArtist'] = album['artists'][0]['name']
-            elif len(album['tracks']) and len(album['tracks'][0]['artists']):
-                row['albumArtist'] = album['tracks'][0]['artists'][0]['name']
-            else:
-                print("\n\nDEBUG ERROR Failed: len(album['artists'])'", album)
-            for col in copy_album_cols:
-                if col not in album:
-                    continue
-
-                new_col = f'album{col[0].upper()}{col[1:]}'
-                if album[col]: 
-                    row[new_col] = album[col]
-                else:
-                    print('\n\nDEBUG ERROR column %s not in albums\n%s' % (col, album))
-        else:
-            print("\n\nDEBUG ERROR: Failed:  row['albumId'] and (type(row['albumId']) == str")
-            print('\nrow:\n', row)
-
-
-    return row
-
-
-def get_tracks_info(yt, track_df):
-    i = 0
-    tracks_w_info = []
-    for vid, row in track_df.iterrows():
-        # try: not needed?
-        i += 1
-        tracks_w_info.append(get_yt_track_info(yt, row))
-        track_str = decode('%s - %s - %s' % (
-            row['artist'], row['album'], row['title']))
-        print('(%d/%d): %s' % (i, len(track_df), track_str))
-        # except Exception as e:
-        #     print('Error in  track %d with vid: %s\n%s' % (i, vid, e))
-
-    tracks_w_info = pd.DataFrame(tracks_w_info)
-    print('Scraped info for %d tracks' % len(tracks_w_info))
-    return tracks_w_info
-
-
-def update_track_db(yt, track_db, new_tracks):
-    t0 = time.time()
-    print('Track database has %d tracks, found %d unique new tracks' %
-          (len(track_db), len(new_tracks)))
-    track_db = pd.concat([track_db, get_tracks_info(yt, new_tracks)])
-    track_db = track_db.sort_values(['artist', 'album'])
-    elapsed_t = (time.time() - t0) / 60
-    print('Finished in %d minutes' % elapsed_t)
-    print('Track database now has %d tracks' % len(track_db))
-    return track_db
 
 
 if __name__ == "__main__":
@@ -258,7 +230,7 @@ if __name__ == "__main__":
     LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact
 
     start_time = time.time()
-    yt_api = YTMusic(AUTH)
+    yt_api = YTMusicPlaylists(header=AUTH)
 
     # Backup playlists and fetch (or load from file) all playlist
     # and library tracks. The set of tracks are missing ytmusic
@@ -288,7 +260,7 @@ if __name__ == "__main__":
     new_track_ids |= new_track_rating
     # Get metadata for new/changed traks
     new_tracks_no_meta = tracks_no_meta.loc[new_track_ids]
-    track_db = update_track_db(yt_api, track_db, new_tracks_no_meta)
+    track_db = update_track_db(yt_api.yt, track_db, new_tracks_no_meta)
     track_db.to_csv(TRACKS_DB_TSV, sep='\t', header=True)
 
     # Update Likes list with playlist.tsv
