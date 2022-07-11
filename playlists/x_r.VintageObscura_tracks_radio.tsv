@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 369	19783	The Rats	The Rats	LIKE	1:40	YuwFUVM2s4M	MPREb_bzzdTUSygbA	UCWPthZFpWxk2S9e-hUNRoTA
 367	Yesterday (Remastered 2009)	The Beatles	Help!	LIKE	2:06	NrgmdOz227I	MPREb_Cn67yAcHym7	UC2XdaAVUannpujzv32jcouQ
+236	Easy Ride	Relatively Clean Rivers	Relatively Clean Rivers - Digitally Remastered	LIKE	3:50	Uo-HhAeGml8	MPREb_ThoThLeXCBA	UCTBgElBzRwVGWcFPiBif0iA
 370	Boulevard of Broken Dreams	Green Day	Greatest Hits: God's Favorite Band	LIKE	4:23	gYCTXzOTnXg	MPREb_GDNioYTvWyT	UC4JNeITH4P7G51C1hJoG6vQ
 368	Hurdy Gurdy Man	Donovan	The Hurdy Gurdy Man	LIKE	3:14	Cpcye9GhCRc	MPREb_6ogYRikpBi0	UCWHFP-8DVayYpMtfSyRIh7g
 162	despair	leo.	despair	INDIFFERENT	2:56	5HumW6H_p1w	MPREb_ChpyiQozBlg	UCnU95WQWlq-FWPijNdmmzDQ
@@ -119,7 +120,6 @@
 130	Drastic Classicism Revisted	Rhys Chatham	Harmonie du soir	INDIFFERENT	9:36	WgjazGFZOXA	MPREb_HW6DtkfaDcR	UCXPU4IKJfJ3Nibm3lhe9xQw
 318	Come On Down	Rex Holman	Here In The Land Of Victory	INDIFFERENT	2:41	mhubpBFIs2Q	MPREb_iT2zPwIrorM	UCyWuBEmhKUsa5kZ5cM0dkfA
 72	Keep Your Head To The Sky (feat. The T.L.W. Ensemble)	Rev. Thomas L. Walker	One Day At A Time	INDIFFERENT	5:58	rlDLLueFJD0	MPREb_dXxvVMX3JNS	UCy2qE8UzYH3p3ZE4M62Ssgg
-236	Easy Ride	Relatively Clean Rivers	Relatively Clean Rivers - Digitally Remastered	INDIFFERENT	3:50	Uo-HhAeGml8	MPREb_ThoThLeXCBA	UCTBgElBzRwVGWcFPiBif0iA
 334	Jay's Tune	Red Rhodes	Red Rhodes: Pedal Steel Guitar Master	INDIFFERENT	3:55	2YAzaJmJ9Ls	MPREb_fX7Hywm974a	UCE7FUt509_MMpACU6nH05hg
 143	Let's Talk	Ray Alexander Technique	Let's Talk	INDIFFERENT	2:56	uZKyOZdQ5TM	MPREb_MmGV9ZxIYZK	UC90O6vkrqLW5i4bVQs5ZMeg
 15	Your Song	Raul Gómez	1	INDIFFERENT	3:15	1pKuYSjBns8	MPREb_1JZc0VIiUWP	UC6_k82AbRwOrjvA0p4_8MvQ
@@ -150,7 +150,7 @@
 168	The Zipper	Notekillers	Notekillers (1977-1981)	INDIFFERENT	4:23	AKCeMiYGlJo	MPREb_BHVaJZAw9rD	UCGDhTGRuph3oNR0wfLgKKGQ
 218	Duncan Dancin'	Non Band	Non Band	INDIFFERENT	3:10	nqOLTfUOR4Y	MPREb_om0gTn3Mrhe	UCW8lYSALgtUcM-6xTccFMiQ
 194	Die Trying	New Math	Singles and Unreleased Songs 1979​-​1983	INDIFFERENT	1:59	vgIeM8PD07s	MPREb_xL2as9nGHG6	UCMm7rmqCBnQxAL0u8dtymcQ
-365	International News	National Wake	Walk in Africa 1979-81	INDIFFERENT	3:19	C0H6amcbMig	MPREb_N6uFvOXJdwJ	UC8ha6zDaj3EJvOn3OivF4uw
+365	International News	National Wake	Walk in Africa 1979-81	INDIFFERENT	3:18	C0H6amcbMig	MPREb_N6uFvOXJdwJ	UC8ha6zDaj3EJvOn3OivF4uw
 302	Cosmic Sounds	N'draman Blintch	Cosmic Sounds (Hit Track, Sufficient Africa)	INDIFFERENT	11:17	1BvmMGHqvVM	MPREb_rgDPRxazKvz	UC8EZA1He6Cy5vsyEz6VLMuA
 173	And Alemiye (feat. Belaynesh Wubante & Assegedetch Asfaw)	Mulatu Astatke	Psych Funk 101	INDIFFERENT	2:38	1_d-NSiCz5o	MPREb_eCL083TWGER	UCzEIYuYX27ZmTBTASkIjKZA
 177	Ein Wort (feat. Konrad Becker)	Monoton	Blau - Monotonprodukt 02 26y++	INDIFFERENT	5:53	G7RSp2ub8uI	MPREb_HTqujg7rrXT	UCxc1C3x9wt2mru5AqyGDeWQ
@@ -339,7 +339,7 @@
 48	Amen	Bardo Pond	Bufo Alvarius	INDIFFERENT	29:21	RGdtyhrSNM4	MPREb_nxf5smVMfmh	UCsUVe8Nabl6BlWYp8qcTIgA
 45	Hallucinations (Single Version)	Baker Knight & The Knightmares	Hallucinations: Psychedelic Pop Nuggets From The WEA Vault	INDIFFERENT	2:55	mO5yLtDeEew	MPREb_Dk6CuN3q4lB	
 154	Gobonimada Jira (Choose Freedom)	Bakaka Band	MOGADISCO: Dancing Mogadishu (Somalia 1972 - 1991)	INDIFFERENT	8:34	TNPlPObpfm0	MPREb_WhnEpgibz0P	
-138	Get a Lil' Stupid (Extended Version)	B.M.W.	Get a Lil' Stupid	INDIFFERENT	4:00	S3BQZCQ9A2I	MPREb_QDWHy1orHKB	UCDFp_Kr2prjGmxwEKF4Y4Qg
+138	Get a Lil' Stupid (Extended Version)	B.M.W.	Get a Lil' Stupid	INDIFFERENT	4:00	S3BQZCQ9A2I	MPREb_QDWHy1orHKB	UCx8_kG79ESXrUt4SnMpyZxg
 74	Geronimo (Extended Vocal Mix)	Axel F.	Geronimo	INDIFFERENT	7:17	zP77qr5J_8M	MPREb_iJMqx4SwGNc	UCBebtHseaY4bNWax7h971Aw
 295	Let Go, It's Over	Aura	Magic Lover / Let Go, It's Over	INDIFFERENT	4:36	45cChGoNtkY	MPREb_UOHSsWdZeED	UCtUS1B61HyWklvvanxzKwJw
 256	Teyim	Aster Aweke	Aster	INDIFFERENT	5:30	IwKHmSD9xGQ	MPREb_h9SQCF9CZ5O	UCKmol2V90t1oh7wuhjmUwEQ
