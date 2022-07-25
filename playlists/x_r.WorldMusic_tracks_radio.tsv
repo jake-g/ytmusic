@@ -1,8 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 370	Hit the Road Jack	Ray Charles	True Genius	LIKE	2:00	eRg15NbzqT0	MPREb_AUnSgUle4FP	UClapQBGYNOoLYmCct6e3B5Q
-369	A Minha Menina	Os Mutantes	Os Mutantes	LIKE	4:44	XIbJylD_c84	MPREb_1pgLcqvFxOk	UCs2f3CbQaKctne90X5DUIkA
+369	A Minha Menina	Os Mutantes	Os Mutantes	LIKE	4:45	XIbJylD_c84	MPREb_1pgLcqvFxOk	UCs2f3CbQaKctne90X5DUIkA
 367	Man O To	NU	Man O To	LIKE	9:40	GorKNbiMPrc	MPREb_olQPpIrHKnh	UC3d8kM_V0MiJJ93KxWG72zA
-368	Concrete Jungle	Bob Marley & The Wailers	Catch A Fire	LIKE	4:14	gYFV1zD9rQ0	MPREb_Y8FV1bsHuJi	UCBfv87kvVXyNi88URZ1zvCA
+368	Concrete Jungle	Bob Marley & The Wailers	Catch A Fire	LIKE	4:13	gYFV1zD9rQ0	MPREb_Y8FV1bsHuJi	UCBfv87kvVXyNi88URZ1zvCA
 188	Gurbet	Özdemir Erdoğan	Yorumcu	INDIFFERENT	3:27	HkbPw9Ghb0s	MPREb_PiaaIE8VOIt	UC0tPLBDiaJ5nZFXrPasaURQ
 99	Duszki	sanah	BUJDA	INDIFFERENT	3:46	ujYUUnYjuos	MPREb_ngvBImMofy1	UCV8SUfLumnpfd-Wa_i7B2Zw
 306	Irenka	sanah	Irenka	INDIFFERENT	3:34	1mCuPgMEWPw	MPREb_WQzmmfnFDQh	UCV8SUfLumnpfd-Wa_i7B2Zw
@@ -21,7 +21,7 @@
 334	Solringen	Wardruna	Runaljod – Yggdrasil	INDIFFERENT	6:30	xW-wJ9uUUl0	MPREb_lhCicNWCbrB	UCWDQstA3kDU-rYMJ7x2Rlbg
 117	Haramt Ahebak	Warda	Haramt Ahebak	INDIFFERENT	7:56	huM5XgO2yE0	MPREb_gUMBEyw3BeM	UCx8ARN_phbuVxs2-hEiBxXQ
 213	Ding Dong	Waipod Phetsuphan	Sound of Siam, Vol. 1 - Leftfield Luk Thung, Jazz & Molam in Thailand 1964-1975 (Soundway Records)	INDIFFERENT	2:32	r8uS2EJ46UE	MPREb_U5DfnIce4Kg	UC58t8XC4tcbu6vT8R7tk2iA
-206	Mikä Miulla Mielessä	Värttinä	Seleniko	INDIFFERENT	3:39	0Ka0WtVtk1s	MPREb_wFggEGZjQuy	UCwdU-77c-TeufTB1ocqv2mA
+206	Mikä Miulla Mielessä	Värttinä	Seleniko	INDIFFERENT	3:40	0Ka0WtVtk1s	MPREb_wFggEGZjQuy	UCwdU-77c-TeufTB1ocqv2mA
 318	Käppee	Värttinä	Ilmatar	INDIFFERENT	2:34	aX4EiTnTIZA	MPREb_vGcYoPg3x0X	UCwdU-77c-TeufTB1ocqv2mA
 285	Ay Bakoy	Vieux Farka Touré	Mon Pays	INDIFFERENT	6:40	JteeETUbyAU	MPREb_ykHeSnovJpB	UCZrKdZ2-mhDRf01r9gse4PA
 4	Vehni, Vehni, Fijolica	Vice Vukov	The Platinum Collection	INDIFFERENT	3:07	fHLdeRYrp-g	MPREb_yjxb7ZYy2MM	UCW0eGyXZ9nuLts7xH_V7WZg
@@ -34,9 +34,9 @@
 400	Song of the Herdsmen	Various Artists	Phases of the Moon	INDIFFERENT	6:06	1GQUoI8-yUQ	MPREb_eOvMbza2WKg	UC5bYra41LQi4uWq8gn5SB1g
 229	Waking Chaos	Valentino Mucci	Waking Chaos	INDIFFERENT	4:53	JJN5blUoGUw	MPREb_m5nujJacKRg	UCgF_b7UmrsqcwcrfK2p6bOg
 363	Danse du point du jour	Uña Ramos	Le pont de bois	INDIFFERENT	2:20	ABvA9Hr3LZo	MPREb_bs1MyVSlM8x	UCGSbEPDI0BLhl_kGLO5Aemw
-177	Sahnoon Rog Laan Walia	Ustad Nusrat Fateh Ali Khan	Magic Touch vol 12	INDIFFERENT	8:21	yq_U7kIL5dM	MPREb_ZSDyreBgLHR	UCneVkM5eowXnXZ_ey-uBzjw
-209	Man Kunto Maula	Ustad Nusrat Fateh Ali Khan	Man Kunto Maula	INDIFFERENT	9:06	9aEdqcUElyY	MPREb_Hqg1AFDMLdh	UCneVkM5eowXnXZ_ey-uBzjw
-366	Ali Maula Ali Maula Ali Dam Dam	Ustad Nusrat Fateh Ali Khan	Qawwali King	INDIFFERENT	7:42	Isly531AFqk	MPREb_LbybwsiCFPr	UCneVkM5eowXnXZ_ey-uBzjw
+177	Sahnoon Rog Laan Walia	Ustad Nusrat Fateh Ali Khan	Magic Touch vol 12	INDIFFERENT	8:21	yq_U7kIL5dM	MPREb_ZSDyreBgLHR	UCAf1OyXA-KNvekQAkkln5kg
+209	Man Kunto Maula	Ustad Nusrat Fateh Ali Khan	Man Kunto Maula	INDIFFERENT	9:06	9aEdqcUElyY	MPREb_Hqg1AFDMLdh	UCAf1OyXA-KNvekQAkkln5kg
+366	Ali Maula Ali Maula Ali Dam Dam	Ustad Nusrat Fateh Ali Khan	Qawwali King	INDIFFERENT	7:42	Isly531AFqk	MPREb_LbybwsiCFPr	UCAf1OyXA-KNvekQAkkln5kg
 260	Hödöö	Urna Chahartugchi	Lieder aus dem mongolischen Grasland	INDIFFERENT	2:26	PxBgNFeXrlE	MPREb_o4UZxN3qHCO	UCSs8zBwR1q480SjO4iDwFpw
 223	Jumyr-Kylysh (Two Warriors)	Ulytau	Jumyr-Kylysh	INDIFFERENT	5:04	oMBy6OJMBYk	MPREb_zTej8qLLjuM	UCoSgcpwkZkGjPgnQLnDeJzQ
 104	Saharan Dreams	Ultrasound Express	Rhythmic Experiments	INDIFFERENT	3:20	t2j91sJm6dI	MPREb_5RM3ymAZXcg	UCb-amjvOO-grmGYet5AwF3Q
@@ -51,7 +51,7 @@
 34	Două Dansuri Muntenești	Trei parale	Bazar, Vol. 2 (Cântări Din Veacul Al XIX-Lea)	INDIFFERENT	5:01	PR_dAXLGDSA	MPREb_KcOf008DoIg	UCJ-ih5AuYg7IA5X4rR3ZwSg
 277	Mesecina	Trag	Zvuci Balkana	INDIFFERENT	4:49	jmut3Tmmn_c	MPREb_nyJi2orStUP	UCOIn9_qRXzBbPsMBfKgBT3w
 346	Cantelowes	Toumani Diabaté	The Mandé Variations	INDIFFERENT	6:57	Gf3ghnHUtuQ	MPREb_BUFMPgY5nLm	UCFY7zTFetDMBdsdFI5duJEg
-204	Djelika	Toumani Diabate	Djelika	INDIFFERENT	7:12	DLZZ3CzXLJc	MPREb_eTaRaL23KqK	UCFY7zTFetDMBdsdFI5duJEg
+204	Djelika	Toumani Diabate	Djelika	INDIFFERENT	7:12	J4RniuafFiI	MPREb_eTaRaL23KqK	UCFY7zTFetDMBdsdFI5duJEg
 71	Outro Lugar	Toco	Rare Tunes: Sieste on the Beach	INDIFFERENT	3:23	UQeDaqfUAA0	MPREb_S9j3OuWuqYG	UCoN95uUgxxoxc8h87uPd2Yg
 37	Yalla Yalla	Tipsy Oxcart	Upside Down	INDIFFERENT	3:16	WQj2OiPK5GU	MPREb_jUd8s3toIBp	UChpQRoix929xp5mJcGgPoXg
 0	Ténéré Tàqqàl	Tinariwen	Elwan	INDIFFERENT	4:25	MROZSGKHvN8	MPREb_lYhhNdYRGhY	UC8s6TihH6f3Ry2dcTcZAXyw
@@ -76,7 +76,7 @@
 375	The Moon On High	The Central Broadcasting Traditional Instruments Orchestra	Phases of the Moon	INDIFFERENT	12:09	MtHDiWV5ju8	MPREb_eOvMbza2WKg	UCQtIyWAJnDiu95ekQNIj1SA
 388	The Moon Mirrored In The Pool	The Central Broadcasting Traditional Instruments Orchestra	Phases of the Moon	INDIFFERENT	5:13	lFPsCCOgqw0	MPREb_eOvMbza2WKg	UCQtIyWAJnDiu95ekQNIj1SA
 403	Dance of the Yao People	The Central Broadcasting Traditional Instruments Orchestra	Phases of the Moon	INDIFFERENT	6:07	WUSKBe1msK8	MPREb_eOvMbza2WKg	UCQtIyWAJnDiu95ekQNIj1SA
-64	Saman Doye	The Black Brothers	Those Shocking Shaking Days: Indonesia Hard, Psychedelic, Progressive Rock and Funk 1970-1978	INDIFFERENT	4:05	ZqpJM9TmGlQ	MPREb_VfxoV35j05j	UC-tbkz38a1JGrxm4seWQaWQ
+64	Saman Doye	The Black Brothers	Those Shocking Shaking Days: Indonesia Hard, Psychedelic, Progressive Rock and Funk 1970-1978	INDIFFERENT	4:06	ZqpJM9TmGlQ	MPREb_VfxoV35j05j	UC-tbkz38a1JGrxm4seWQaWQ
 308	The Magic Garden (Remastered 2000)	The 5th Dimension	Magic Garden	INDIFFERENT	2:49	0J0vR7YDalA	MPREb_xdMcFYIZ1X9	UC2frP9pgMdxvA1qMzrbsFhw
 256	Alghalem	Terakaft	Aratan N Azawad	INDIFFERENT	3:42	WIUkVZ2YJ-Y	MPREb_UwATZuF9Fy3	UCoU2kab_haEmbO0HkNwPrZA
 236	Raganu Nakts	Tautumeitas	Tautumeitas	INDIFFERENT	3:11	tIyYeA5olzY	MPREb_HEGPJn1uMt1	UCnVfBLBJ3IZJd0Ldx5YbmpQ
@@ -90,7 +90,7 @@
 146	Kitanê	Sîdar	Kitanê	INDIFFERENT	3:58	gbcLT8GWsbI	MPREb_SM6EBTXTGNs	UC3ns_LUa6KGkRfB85eCPkZQ
 167	Feeling It	Swappi	Feeling It	INDIFFERENT	4:07	R4NjS2SAlzc	MPREb_5wmN5iP1FgW	UCkY8UR8cIxXFOK_RoeWtd5Q
 327	Turkish Greensleeves (feat. Gündem Yayli Grubu)	Sultans of String	Christmas Caravan	INDIFFERENT	4:30	tFhxZDRNIAs	MPREb_Do1223uPnXz	UCwnHfl5NdHYyN2g4s3qzG-Q
-26	sommeil	Stromae	Racine Carrée (Standard US Version)	INDIFFERENT	3:38	AJkcktKUPFM	MPREb_mjPaT4BGKga	UC0Jtyp9fC2lW9LaW-sDpCkw
+26	sommeil	Stromae	Racine Carrée (Standard US Version)	INDIFFERENT	3:39	AJkcktKUPFM	MPREb_mjPaT4BGKga	UC0Jtyp9fC2lW9LaW-sDpCkw
 90	Kasandra	Stadic	Kasandra	INDIFFERENT	2:38	lzzWgioEkUY	MPREb_Y8vkNhU7zhW	UCn8goKRDNGkfd9mxYr7dkuw
 261	Al Hassidi Terei	Songhoy Blues	Music In Exile	INDIFFERENT	3:44	cMTBLnvzePE	MPREb_uxSs5zhu24v	UCsFzs5gL7x1wKkGlNwUNS1Q
 183	Gambia	Sona Jobarteh	Gambia	INDIFFERENT	5:11	EwL6qUqLEjg	MPREb_rPK4S4oPvoC	UCLYo5NCEIibXdmiKwRYEbQg
@@ -122,7 +122,7 @@
 288	Kamarey	Rastak	Dance With Rastak	INDIFFERENT	4:32	6ArQnYYhWZo	MPREb_gpLjH7TOMzF	UCUdsjgKDAkoIZWACPd77SFw
 88	Peace In the Valley	Randy Travis	Worship & Faith	INDIFFERENT	3:58	AKRlVG3CFhI	MPREb_HQhFUphaYw4	UCxPLlZDSbgYgAznto0COkRA
 296	O Re Piya	Rahat Fateh Ali Khan	Aaja Nachle - O Re Piya	INDIFFERENT	6:20	yyYpmJx8zuU	MPREb_DiJBAUHPiDT	UC6GVOwH-1pughw5WYmjAolg
-278	Ya Rayah	Rachid Taha	Carte Blanche	INDIFFERENT	6:16	T_0fojmwgl4	MPREb_b7M8FkuS5Va	UCwiz-P62QjEG1ftCNUPmthA
+278	Ya Rayah	Rachid Taha	Carte Blanche	INDIFFERENT	6:15	T_0fojmwgl4	MPREb_b7M8FkuS5Va	UCwiz-P62QjEG1ftCNUPmthA
 185	Muukalainen	Pääesiintyjät	Lättähatun paluu	INDIFFERENT	3:22	MHuGfXBtbc4	MPREb_O9l6EF0CpqT	UCPAjIlXTUboreaPwmvD1-pg
 271	Tambulaya	Pongo	Baia	INDIFFERENT	3:48	iny2yZ95NSM	MPREb_UTY3GMXK5HH	UCe9dfejKUpDL1-vKh_Gb-5A
 265	Raggle Taggle Gypsy - Tabhair Dom Do Lamh	Planxty	Planxty	INDIFFERENT	4:32	xB07-Cuh4Fo	MPREb_zEDpeDpBRvS	UC3Qrq1virQfQoWsrku3tkgQ
@@ -138,10 +138,10 @@
 109	Minata Waraba (Acoustic)	Oumou Sangaré	Acoustic	INDIFFERENT	4:52	9pX8YcmviqM	MPREb_jlFix9SK7C6	UCmyyavLgDKnGJiM3CaQL4Jw
 269	Kamelemba	Oumou Sangaré	Mogoya	INDIFFERENT	4:14	BJZokN3-LKs	MPREb_RXkHkqGwCuh	UCmyyavLgDKnGJiM3CaQL4Jw
 154	Senden Bana Yar Olmaz	Orhan Hakalmaz	Destegül	INDIFFERENT	3:08	mNfy5muiCm4	MPREb_Hv0MZBQZlas	UCE3tE6Nz1iN3eKs6AnWTqpQ
-51	Aduna Diaroul Niawo	Orchestra Baobab	La belle époque, Vol. 2: 1973-1976	INDIFFERENT	4:17	jopRZYFjVLw	MPREb_Xn1hkDYUVNq	UCwMs7c2K497kuIL0dbZP8CA
+51	Aduna Diaroul Niawo	Orchestra Baobab	La belle époque, Vol. 2: 1973-1976	INDIFFERENT	4:18	53rkTJTEsuQ	MPREb_Xn1hkDYUVNq	UCwMs7c2K497kuIL0dbZP8CA
 83	Nijaay	Orchestra Baobab	Made in Dakar	INDIFFERENT	7:14	d-SK9uU_ESw	MPREb_C1Tw4yU3UpF	UCwMs7c2K497kuIL0dbZP8CA
 189	Coumba	Orchestra Baobab	Pirates Choice	INDIFFERENT	7:45	P70MItt7cp4	MPREb_cj2kP3l9GAM	UCwMs7c2K497kuIL0dbZP8CA
-214	Autorail	Orchestra Baobab	Bamba	INDIFFERENT	6:59	5keKQ5ddLks	MPREb_SUx9ltvyPSr	UCwMs7c2K497kuIL0dbZP8CA
+214	Autorail	Orchestra Baobab	Bamba	INDIFFERENT	7:00	5keKQ5ddLks	MPREb_SUx9ltvyPSr	UCwMs7c2K497kuIL0dbZP8CA
 78	Mae Kah Som Tam	Onuma Singsiri	All I See Is You (Original Soundtrack Album)	INDIFFERENT	2:37	ksq851fbvks	MPREb_CLhGJwf5NYA	UCUKFM894Bh-PrdPN9MURFPw
 240	Warni Warni	Omar Souleyman	Wenu Wenu	INDIFFERENT	6:52	BXFcQL2TeSk	MPREb_MTEEXVOXBJc	UCSAkyW7Pc1xls9YbOv-YQ3w
 312	Wenu Wenu	Omar Souleyman	Wenu Wenu	INDIFFERENT	7:00	Ehmh2fMjh-8	MPREb_MTEEXVOXBJc	UCSAkyW7Pc1xls9YbOv-YQ3w
@@ -151,7 +151,7 @@
 141	GUMA	ONUKA	KOLIR	INDIFFERENT	3:25	J-jAZtxRKf0	MPREb_Beb8jwuPK1i	UCFYP9-ZPE6fn7WueoOiMJyA
 316	ZENIT	ONUKA	ZENIT	INDIFFERENT	4:32	FuDKtony1Y0	MPREb_VEn3oyBuQYJ	UCFYP9-ZPE6fn7WueoOiMJyA
 101	Pescador de ilusões	O Rappa	Acústico MTV	INDIFFERENT	5:06	cu9aWbZ-xRY	MPREb_K1GTnNpWH4w	UCnRE3QCv2q6hSdpNHnucbSw
-237	Allah, Mohammed, Char, Yaar	Nusrat Fateh Ali Khan	Shahen-Shah	INDIFFERENT	11:29	Q55fZ50oMSA	MPREb_Pw7QMSz77MS	UCneVkM5eowXnXZ_ey-uBzjw
+237	Allah, Mohammed, Char, Yaar	Nusrat Fateh Ali Khan	Shahen-Shah	INDIFFERENT	11:29	Q55fZ50oMSA	MPREb_Pw7QMSz77MS	UCAf1OyXA-KNvekQAkkln5kg
 70	Brasil Pandeiro	Novos Baianos	The Brazilian Music Compilation	INDIFFERENT	3:58	kNQ0SP7iufA	MPREb_5PVBa33ZJ9e	UCixnFkj6oC7bLyvpm1PQk9A
 180	Brasil Pandeiro	Novos Baianos	Acabou Chorare	INDIFFERENT	3:56	zYsTvGKyT1Q	MPREb_UP1PmGC2STl	UCixnFkj6oC7bLyvpm1PQk9A
 195	A Menina Dança	Novos Baianos	Acabou Chorare	INDIFFERENT	3:53	d3HJKLlU4ec	MPREb_UP1PmGC2STl	UCixnFkj6oC7bLyvpm1PQk9A
@@ -232,7 +232,7 @@
 59	A Ghaoil, Leig Dhachaigh Gum Mhàthair Mi	Julie Fowlis	Gach Sgeul / Every Story	INDIFFERENT	3:59	1aMllFoGU7M	MPREb_9NLsFF0lJf0	UChvA7zdyGDuPpw3zyJMdTUQ
 155	Wind and Rain	Julie Fowlis	Uam from Me	INDIFFERENT	3:46	rMMHgqAL2ro	MPREb_rvBoKSSrijQ	UChvA7zdyGDuPpw3zyJMdTUQ
 248	Grândola, Vila Morena	José Afonso	Grândola, Vila Morena	INDIFFERENT	3:27	IVKf00VGjGM	MPREb_9o2BSVtcdL7	UC3ibjT8j2cysFnZ2dVB76yg
-160	Mas, Que Nada!	Jorge Ben	Samba Esquema Novo	INDIFFERENT	2:59	hg0XftC43Zo	MPREb_49pU0WsCtNI	UCprFt4Sn4rnLyXUnXFX9ksQ
+160	Mas, Que Nada!	Jorge Ben	Samba Esquema Novo	INDIFFERENT	3:00	hg0XftC43Zo	MPREb_49pU0WsCtNI	UCprFt4Sn4rnLyXUnXFX9ksQ
 168	Tata	Johan Papaconstantino	Tata	INDIFFERENT	3:59	UIV8bwyhdU4	MPREb_UejiPAjPnqA	UC_euNLrVTKmkLXhz4_x8YEA
 342	Wonamati	Joe Driscoll & Sekou Kouyate	Faya	INDIFFERENT	3:12	lx7P3j-Qd0Y	MPREb_pV5HOlSTimq	UCP1lZ__LnxZI4n0QSfzsyVA
 144	Kurşuni Renkler (feat. Tuğba Yurt)	Jms Beatz	Aşk Pıhtısı	INDIFFERENT	3:17	vi5PEzF4Lqo	MPREb_yq08R5oxLlg	UCcq6bUoTmdxEUzPpvDGA28A
@@ -242,7 +242,7 @@
 76	Avaz	Iraj Bastami	Mojdeh -e- Bahar	INDIFFERENT	8:10	60FhAgxPBlM	MPREb_g42JdTogBnc	UCiPcpvBnjCedVDqcJjdtpuw
 230	Unrest	Inny Doe	Unrest	INDIFFERENT	3:13	rmv1NPpcSBc	MPREb_Mdu7as6iqmP	UCWXvB65ZPk5plvMZ34kBUaQ
 67	Toura Toura	Innov Gnawa	Innov Gnawa	INDIFFERENT	6:29	rlByraZ5XLk	MPREb_HSIriCCDrke	UCqaaBvq2NywqjYEYDAUFzlw
-365	Dernière danse	Indila	Mini World	INDIFFERENT	3:33	cKE4wJMcAkc	MPREb_t5mSkuCCUjr	UCWR_-sd1qBK7HtJTgw0Djkw
+365	Dernière danse	Indila	Mini World	INDIFFERENT	3:34	cKE4wJMcAkc	MPREb_t5mSkuCCUjr	UCWR_-sd1qBK7HtJTgw0Djkw
 50	OBOKURI	Ikue Asazaki	AMAMI	INDIFFERENT	2:59	n0UfxgRPlG0	MPREb_wenHsUwviJK	UC0QGebC9_IBGs_kVvefh8GQ
 344	A Vava Inouva	Idir	A Vava Inouva	INDIFFERENT	4:27	YysBIuW9Ec4	MPREb_vi6u9yjVHvV	UCURpxhhK9Rte0bT70AKPf-w
 18	Trap Beldi	ISSAM	Trap Beldi	INDIFFERENT	2:56	zzZhU_zjfoM	MPREb_V35Q7hsLuek	UC37rkDaK43XIzh2yDCluhvA
@@ -254,7 +254,7 @@
 7	Gum Gum	Hailu Mergia	Gum Gum	INDIFFERENT	6:47	SpPjzqwBEPc	MPREb_6qcF8raVPi8	UCRROZl3O1JCkECgvSdBfWvQ
 84	Takamba	Habib Koité	Baro	INDIFFERENT	5:41	fci5iPTO3Vs	MPREb_PCANymOoMqq	UCa9pkZXKopW4Pvip3wcjTHQ
 137	Excursion Around The Bay	Great Big Sea	Great Big Sea	INDIFFERENT	2:30	ZXTYzdOS8WA	MPREb_zUsp3aLRVnQ	UCYsQJSw_L4TpoQBXGze7pFg
-45	Balkaneros (feat. Gipsy Kings)	Goran Bregovic	Champagne For Gypsies	INDIFFERENT	3:50	4h-GZYFTKRI	MPREb_ucoK0VMjAFW	UCli2i-5uMaop7u1fd_mI6Rg
+45	Balkaneros (feat. Gipsy Kings)	Goran Bregovic	Champagne For Gypsies	INDIFFERENT	3:51	4h-GZYFTKRI	MPREb_ucoK0VMjAFW	UCli2i-5uMaop7u1fd_mI6Rg
 118	Curió do Bico Doce	Gonzaga Blantez	Curió do Bico Doce	INDIFFERENT	3:43	uGnae-QdlfU	MPREb_oUY98jzDDK3	UClyNd9TEsnbSZ2ytpmjduOw
 315	Yiri Yiri Boum	Gnonnas Pedro	Sofrito: Tropical Discotheque	INDIFFERENT	5:05	wt0NyaFw8ac	MPREb_x7s8p6ux2Ps	UCSYKP8YH0vLx9l9Fw4m2W7w
 267	Sensy Girl (feat. Diamönd)	Gino McKoy	Lumina	INDIFFERENT	2:52	7XCeaOe2teY	MPREb_Q6ISrHG2zHc	UCuAU8NCR9s1puILQIWy25qA
@@ -276,8 +276,8 @@
 58	Let's Start (feat. Ginger Baker)	Fela Kuti	Fela With Ginger Baker Live!	INDIFFERENT	7:47	6wdYJ-8OtRY	MPREb_EX16vhFGA2P	UCoFUl09hePTptc4UOSISC9Q
 227	Roforofo Fight	Fela Kuti	Roforofo Fight	INDIFFERENT	15:41	GNE9vLc10_o	MPREb_bNVy6Axa3tT	UCoFUl09hePTptc4UOSISC9Q
 324	2000 Blacks Got To Be Free (feat. Roy Ayers)	Fela Kuti	Music Of Many Colors	INDIFFERENT	18:39	aLTLrrGOnHw	MPREb_IXzCRhI4PGm	UCoFUl09hePTptc4UOSISC9Q
-128	La Esquina	Federico Aubele	Panamericana	INDIFFERENT	3:24	mwJTIPD_gMQ	MPREb_l1qCEuLOs8s	UCZ_FkHLt02l4_zA9XJYevpg
-22	Walpurgisnacht	Faun	Luna	INDIFFERENT	3:49	w-XTPe8y0s0	MPREb_s4oRjKzL0zp	UCny6LhIQ9DDyh7gYUiC2ZBQ
+128	La Esquina	Federico Aubele	Panamericana	INDIFFERENT	3:25	mwJTIPD_gMQ	MPREb_l1qCEuLOs8s	UCZ_FkHLt02l4_zA9XJYevpg
+22	Walpurgisnacht	Faun	Luna	INDIFFERENT	3:50	w-XTPe8y0s0	MPREb_s4oRjKzL0zp	UCny6LhIQ9DDyh7gYUiC2ZBQ
 56	Nayan	Fatoumata Diawara	Kanou EP	INDIFFERENT	3:51	SOtV4o-4IkY	MPREb_GvVXSaIA3pg	UC1Q23jHgW9CUsLN4IqsvyDw
 239	The Spirit Afar	Fatemeh Dehghani	The Spirit Afar	INDIFFERENT	9:18	S6Wv2qp2jbU	MPREb_H5TZ5v9pNit	UCg3-mLWNt52lIowrfNjkzsQ
 77	Mori Bangri	Fareed Ayaz & Abu Mohammad	Coke Studio Season 4	INDIFFERENT	11:01	L1QSP05VDZA	MPREb_fDsydPcDmf4	
@@ -312,7 +312,7 @@
 336	Get Lucky	DJ Pretentious	Get Lucky	INDIFFERENT	5:25	Pn7pI-wmAaM	MPREb_ClmnRH9UtWj	UCX1WMcBPtPG3BS1fB9TEUnw
 317	Perfume Do Invisível	Céu	Tropix	INDIFFERENT	5:08	DCgbmOW-78M	MPREb_44dvAu1QxG7	UChw8YehA1g8Q5oCUxsa1YYA
 173	O Segundo Sol	Cássia Eller	Rainhas do Rock	INDIFFERENT	4:14	lNPIUM6olZE	MPREb_2nQfcDvxAzW	UC5g7ZewheOlXUTXRX8geyEw
-69	Comme d'habitude	Claude François	Comme d'habitude	INDIFFERENT	4:12	FRW67d-IZZE	MPREb_2x3IMqS8Gdb	UChgvDdOfB3f6KnEX4h4uIzw
+69	Comme d'habitude	Claude François	Comme d'habitude	INDIFFERENT	4:11	FRW67d-IZZE	MPREb_2x3IMqS8Gdb	UChgvDdOfB3f6KnEX4h4uIzw
 371	Lux Aeterna	Christopher Tin	Calling All Dawns	INDIFFERENT	4:00	rFMviqdLTAA	MPREb_2AonG5s1Xej	UCiWt7IsYbVMzGKxRp45fgYw
 374	Se É Pra Vir Que Venha (feat. Dulce Pontes)	Christopher Tin	Calling All Dawns	INDIFFERENT	4:15	UwcpAZWyG-o	MPREb_2AonG5s1Xej	UCiWt7IsYbVMzGKxRp45fgYw
 377	Baba Yetu (feat. Soweto Gospel Choir)	Christopher Tin	Calling All Dawns	INDIFFERENT	3:30	d4iOF4yoNQw	MPREb_2AonG5s1Xej	UCiWt7IsYbVMzGKxRp45fgYw
@@ -327,7 +327,7 @@
 401	Caoineadh (feat. Anonymous 4)	Christopher Tin	Calling All Dawns	INDIFFERENT	5:45	3AXuJFcbqv4	MPREb_2AonG5s1Xej	UCiWt7IsYbVMzGKxRp45fgYw
 211	Olowo Laiye Mo	Chief Commander Ebenezer Obey	51 Lex Presents: Singing For The People	INDIFFERENT	3:02	t_xrRnnCDkM	MPREb_uNlp0Xo7YUZ	UCuwjmHItf7yEUbNkCLGM71Q
 147	A Cidade	Chico Science	Da Lama Ao Caos	INDIFFERENT	4:47	WVT1XskxUZk	MPREb_snOZWphQ2FY	UCfWfqiL9ZllfsNhw2KtpaeA
-172	O Que Será (A Flor Da Terra)	Chico Buarque	Meus Caros Amigos	INDIFFERENT	2:46	pDPCuRU6Qgg	MPREb_bHO7i0xGC6z	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
+172	O Que Será (A Flor Da Terra)	Chico Buarque	Meus Caros Amigos	INDIFFERENT	2:47	pDPCuRU6Qgg	MPREb_bHO7i0xGC6z	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 225	Raba raba	Cheb Khaled	Cheb Khaled, Les années Raï	INDIFFERENT	10:31	28c-NcMiK7k	MPREb_81RPTyPIws2	UC5MRTNHuttkEx0zgmawMmXw
 399	Days of Emancipation	Central Broadcasting Traditional Instruments Orchestra	Phases of the Moon	INDIFFERENT	2:41	WP3XS351_g4	MPREb_eOvMbza2WKg	UCQtIyWAJnDiu95ekQNIj1SA
 62	El Negro Bembón	Celia Cruz	Tributo A Ismael Rivera	INDIFFERENT	3:44	0Gz9u8tX09k	MPREb_T1n68igW9RE	UCuDaqwAmogKMCUVn_z3wDTA
@@ -335,8 +335,8 @@
 349	Fanitullen Goes To America	Bukkene Bruse	Spel	INDIFFERENT	4:53	v_q3LqH1wCY	MPREb_LpUxDMOYX3s	UCqb8qRLFMd_9zuWpIKhpN_w
 63	La nave del olvido	Buika	La noche más larga	INDIFFERENT	6:03	oAp3igbFsSM	MPREb_tLniVSUgHjQ	UC1OzkQ-I4Yfdp9pe9NaBJdw
 6	Ponad Normę	Bubliczki	Turbofolk	INDIFFERENT	3:39	LMO-sO8Kwnw	MPREb_0NsKUXtkG21	UCiQADTSFAaN9KBVKW3gFGww
-302	Mother & Father	Broods	Evergreen	INDIFFERENT	3:07	erq5o0dpDik	MPREb_KXax9agmW9f	UC032uNbJ0NdXzUf71ls4eWQ
-86	Intro	Bongeziwe Mabandla	Mangaliso	INDIFFERENT	3:02	7Cpi9niwZec	MPREb_tQl7PtV3IJU	UCHfmTtE91-1AqQHh86pLQHw
+302	Mother & Father	Broods	Evergreen	INDIFFERENT	3:08	erq5o0dpDik	MPREb_KXax9agmW9f	UC032uNbJ0NdXzUf71ls4eWQ
+86	Intro	Bongeziwe Mabandla	Mangaliso	INDIFFERENT	3:03	7Cpi9niwZec	MPREb_tQl7PtV3IJU	UCHfmTtE91-1AqQHh86pLQHw
 289	Sodade, Meu Bem, Sodade	Bonga	Sodade, Meu Bem, Sodade	INDIFFERENT	4:07	zcKFUPwYr6I	MPREb_Fc4ZuJcGuBS	UCG2NJWDrqPVWhccUWG2pLpg
 112	Ténéré (2 Guitars Version)	Bombino	Agamgam 2004	INDIFFERENT	4:01	eToqTQXcr1M	MPREb_bXMB8ouBC7k	UCrQSbY5pnagJxtQHGwIaaKg
 181	Imuhar	Bombino	Nomad	INDIFFERENT	3:48	1eUIjmbrRxs	MPREb_E9xr5bvXT0c	UCrQSbY5pnagJxtQHGwIaaKg
@@ -364,14 +364,14 @@
 362	Ogwang	Anyango	Kilimanjaro	INDIFFERENT	4:24	cZ4sJifMvHs	MPREb_9q0wQjyLIgq	UCcOxXUlE7TWiKiTjlXL1w5w
 130	Mahadeva	Anoushka Shankar	Rise	INDIFFERENT	5:42	qkWOcyuTyZ8	MPREb_GQwtoMMHHLP	UC15sxfLaN0gd0aGDNggedyA
 304	Buleria Con Ricardo	Anoushka Shankar	Reflections	INDIFFERENT	6:05	xqQ5vhT6ZwY	MPREb_oFHyS4Aervv	UC15sxfLaN0gd0aGDNggedyA
-179	Stopover At Djibouti	Anouar Brahem	The Astounding Eyes Of Rita	INDIFFERENT	6:34	ZPWv54uHn94	MPREb_G89UBK80E8S	UCGa3C6nWAYS-mr8l9R1fi_w
-320	The Astounding Eyes Of Rita	Anouar Brahem	The Astounding Eyes Of Rita	INDIFFERENT	8:41	9LWLwH8MKWM	MPREb_G89UBK80E8S	UCGa3C6nWAYS-mr8l9R1fi_w
-351	Zarabanda	Anouar Brahem	Le Voyage De Sahar	INDIFFERENT	4:26	wAf4G0qDMpc	MPREb_GmSZPEWeNzL	UCGa3C6nWAYS-mr8l9R1fi_w
-329	We We	Angélique Kidjo	Logozo	INDIFFERENT	4:24	4-3Bw3FlsIU	MPREb_dyY1p3TzCf5	UCKy_RKvarNHSW-1IZzDFtBA
+179	Stopover At Djibouti	Anouar Brahem	The Astounding Eyes Of Rita	INDIFFERENT	6:35	ZPWv54uHn94	MPREb_G89UBK80E8S	UCGa3C6nWAYS-mr8l9R1fi_w
+320	The Astounding Eyes Of Rita	Anouar Brahem	The Astounding Eyes Of Rita	INDIFFERENT	8:42	9LWLwH8MKWM	MPREb_G89UBK80E8S	UCGa3C6nWAYS-mr8l9R1fi_w
+351	Zarabanda	Anouar Brahem	Le Voyage De Sahar	INDIFFERENT	4:27	wAf4G0qDMpc	MPREb_GmSZPEWeNzL	UCGa3C6nWAYS-mr8l9R1fi_w
+329	We We	Angélique Kidjo	Logozo	INDIFFERENT	4:25	4-3Bw3FlsIU	MPREb_dyY1p3TzCf5	UCKy_RKvarNHSW-1IZzDFtBA
 178	Weyu Lárigi Weyu	Andy Palacio	Wátina	INDIFFERENT	4:21	acPURUYzS6k	MPREb_aL1rIT3hh6m	UCgFu4J0_fBlV4drTg3R-QsA
 196	Miami	Andy Palacio	Wátina	INDIFFERENT	3:44	oaGSUeS-oJo	MPREb_aL1rIT3hh6m	UCgFu4J0_fBlV4drTg3R-QsA
-332	Desfado	Ana Moura	Desfado	INDIFFERENT	2:35	QO53hbuIhrA	MPREb_fEE0bxiJMEc	UCvMVVE8_fKxF7gf3Mcx-VSA
-25	Timbuktu Fasso (feat. Fatoumata Diawara)	Amine Bouhafa	Timbuktu - Original Motion Picture Soundtrack	INDIFFERENT	4:39	Ug6D4hpsvV4	MPREb_epnjnEQ9aMX	UCHvQS3RwhMt-rn94XMidFCg
+332	Desfado	Ana Moura	Desfado	INDIFFERENT	2:36	QO53hbuIhrA	MPREb_fEE0bxiJMEc	UCvMVVE8_fKxF7gf3Mcx-VSA
+25	Timbuktu Fasso (feat. Fatoumata Diawara)	Amine Bouhafa	Timbuktu - Original Motion Picture Soundtrack	INDIFFERENT	4:40	Ug6D4hpsvV4	MPREb_epnjnEQ9aMX	UCHvQS3RwhMt-rn94XMidFCg
 24	Bofou Safou	Amadou & Mariam	Bofou Safou	INDIFFERENT	3:10	SU0dAi5P52g	MPREb_b35qZVfMYiL	UCBYG9JnEozjIUaCkaIFc_aQ
 191	Magossa	Amadou & Mariam	Welcome to Mali	INDIFFERENT	3:43	Bf-GPsELXDs	MPREb_vO2aOyF5E3N	UCBYG9JnEozjIUaCkaIFc_aQ
 198	Kokolon	Amadou & Mariam	Vol. 4	INDIFFERENT	5:58	0y4CjrC53Zg	MPREb_CoF9ZS2vA5f	UCBYG9JnEozjIUaCkaIFc_aQ
