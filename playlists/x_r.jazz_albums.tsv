@@ -1,6 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	It Could Happen To You	福居良	シーナリィ	LIKE	4:17	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 1	Blue Bolivar Blues (Take 2)	Thelonious Monk	Monk's Dream	LIKE	7:31	j01nWUfaDN8	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
+61	Red Clay	Freddie Hubbard	Red Clay (CTI Records 40th Anniversary Edition)	LIKE	12:10	B73c4YVbkjU	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
+62	Delphia	Freddie Hubbard	Red Clay (CTI Records 40th Anniversary Edition)	LIKE	7:20	8ha6omVqX0U	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
 2	Isn't This A Lovely Day?	Ella Fitzgerald	Ella and Louis	LIKE	6:17	tPkXPlUVJfo	MPREb_7mxQOIPVwsz	UCuMHq8jMRZXpUxSGLBuCa9g
 3	They Can't Take That Away From Me	Ella Fitzgerald	Ella and Louis	LIKE	4:40	oeSkP-xcK8U	MPREb_7mxQOIPVwsz	UCuMHq8jMRZXpUxSGLBuCa9g
 4	The Nearness Of You	Ella Fitzgerald	Ella and Louis	LIKE	5:43	8Ykqw6jhvII	MPREb_7mxQOIPVwsz	UCuMHq8jMRZXpUxSGLBuCa9g
@@ -60,8 +62,6 @@
 58	Boy, What A Night (Remastered 1999/Rudy Van Gelder Edition)	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	7:35	qusTbkgRKtQ	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
 59	Hocus-Pocus (Remastered 1999/Rudy Van Gelder Edition)	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	6:26	TRFyXki1aIw	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
 60	Totem Pole	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	9:58	QFU2jdtqW-0	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
-61	Red Clay	Freddie Hubbard	Red Clay (CTI Records 40th Anniversary Edition)	INDIFFERENT	12:10	B73c4YVbkjU	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
-62	Delphia	Freddie Hubbard	Red Clay (CTI Records 40th Anniversary Edition)	INDIFFERENT	7:20	8ha6omVqX0U	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
 63	The Intrepid Fox	Freddie Hubbard	Red Clay (CTI Records 40th Anniversary Edition)	INDIFFERENT	10:44	_vmsRKrEU1Y	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
 64	Cold Turkey	Freddie Hubbard	Red Clay (CTI Records 40th Anniversary Edition)	INDIFFERENT	10:26	4XC7ySOW5Ro	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
 65	Can't We Be Friends?	Ella Fitzgerald	Ella and Louis	INDIFFERENT	3:48	Vh7oIP-QSHs	MPREb_7mxQOIPVwsz	UCuMHq8jMRZXpUxSGLBuCa9g

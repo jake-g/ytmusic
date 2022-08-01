@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 17	Take Five	The Dave Brubeck Quartet	Time Out	LIKE	5:25	ryA6eHZNnXY	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
+0	Here's That Rainy Day	Stan Getz	Nobody Else But Me	LIKE	5:08	UnNUi3ey-Xc	MPREb_jsL2GAv70n7	UCITWDrIiWv0Y-zj8xrvoY-Q
 37	Here's That Rainy Day	Paul Desmond	Easy Living	LIKE	5:45	NrWetMWq2fc	MPREb_DWS579mh34h	UCnEtwvQYjKy9Px5lg9TO8sQ
 48	So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	9:23	KJEzFvXx3Xw	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
 51	Blue in Green (feat. John Coltrane & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	5:38	w1Ipwm-Uy5s	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
@@ -19,7 +20,6 @@
 22	Moonlight in Vermont	The Johnny Smith Quintet	Moonlight In Vermont	INDIFFERENT	3:16	69fmCGek4Hg	MPREb_xQB1vjpKpIc	UCOQ5iX2y8S1mVAM-oVDvc8Q
 38	Every Time We Say Goodbye	The Dave Mackay Trio	Windows	INDIFFERENT	5:54	Lj6e6IJqSlM	MPREb_NykgsKg1Ggn	UCC-Vq5U9KabkkiQnI6MWVzg
 31	What Can I Say	Stan Levey Quintet	Stan Levey Quintet	INDIFFERENT	4:46	1T8HNKw6EfQ	MPREb_frAatTILH5h	UC5DHfvrB1F3KQrqeAyPpMig
-0	Here's That Rainy Day	Stan Getz	Nobody Else But Me	INDIFFERENT	5:08	UnNUi3ey-Xc	MPREb_jsL2GAv70n7	UCITWDrIiWv0Y-zj8xrvoY-Q
 45	Nature Boy	Stan Getz	Jazz Gold	INDIFFERENT	3:47	epJvbwS_cQA	MPREb_TObHxCIXFVO	UCITWDrIiWv0Y-zj8xrvoY-Q
 52	In A Sentimental Mood (feat. The Modern Jazz Quartet)	Sonny Rollins	Sonny Rollins With The Modern Jazz Quartet	INDIFFERENT	3:18	13TSRPP8Ijw	MPREb_VMyjlCFhy2G	UCqwmTSEZTKX_BmxlmDSOzGQ
 10	Michele's Meditation	Shorty Rogers & The Giants	Shorty Goes To Hollywood	INDIFFERENT	3:56	2Ig8mizENhQ	MPREb_kkosKDQAcrM	UCUNO4YlJ7esqE0HwRqIagdw
@@ -51,7 +51,8 @@
 27	A Nightingale Sang In Berkeley Square	Bud Powell	The Genius Of Bud Powell (Expanded Edition)	INDIFFERENT	3:43	jwuBqI3BH94	MPREb_BVWLdYqlRpM	UCsyeGJfR7t0QBrNUl7c36gw
 18	Peace Piece	Bill Evans Trio	Everybody Digs Bill Evans	INDIFFERENT	6:41	ocAf1rK3fxE	MPREb_ZAhAFnwqdQg	UCriB97bZopXsBHVYOQEIIZg
 47	Up With The Lark (Live At Oil Can Harry's, 1975)	Bill Evans	Up With The Lark (Live At Oil Can Harry's, 1975)	INDIFFERENT	6:21	uKGD4j-fVIs	MPREb_RWPFhSPxpWD	UCriB97bZopXsBHVYOQEIIZg
-49	Like Someone In Love	Bill Evans	The Complete Riverside Recordings	INDIFFERENT	6:28	-m73llzSBRU	MPREb_1APRT0cfBAp	UCriB97bZopXsBHVYOQEIIZg
+49	Like Someone In Love	Bill Evans	Time Remembered	INDIFFERENT	6:26	K-tYTT2Ypxc	MPREb_45AR3NUxgcV	UCriB97bZopXsBHVYOQEIIZg
+57	Peace Piece	Bill Evans	Sides Of Blue, Vol. 2	INDIFFERENT	6:41	0ZAEdQScrKc	MPREb_ypgi7kc0rjA	UCriB97bZopXsBHVYOQEIIZg
 43	Never Will I Marry	Bill Charlap	Double Portrait	INDIFFERENT	4:27	xgya62mb1NU	MPREb_MUwzEMKsgtY	UCq3_a46fd8ci-pAEVlReiIg
 6	Diane	Art Pepper	Pepper Manne	INDIFFERENT	3:29	k19lRf5jA18	MPREb_uY7X66K83DB	UCQ6s8dxxZYIRCeuFtB3Zdxw
 7	You're Driving Me Crazy	Art Pepper	The Return Of Art Pepper	INDIFFERENT	5:09	Z3s-R14LLC0	MPREb_oQZ8CsQ6rXs	UCQ6s8dxxZYIRCeuFtB3Zdxw
