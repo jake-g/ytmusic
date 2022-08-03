@@ -108,7 +108,7 @@ class YTMusicPlaylists:
         playlist = self.query_by_title(playlist_name)
         if verbose:
             print((f'Sorting {playlist_name} ({playlist["playlistId"]}) ',
-                   'into like and indifferent'))
+                   f'into like and indifferent'))
         tracks, metadata = self.parse_playlist(
             playlist_meta=self.playlist_get_info(playlist["playlistId"]))
         res_indif = self.create_rating_playlist_subset(
