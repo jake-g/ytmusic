@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 625	Six Million Ways	Talaboman	The Night Land	LIKE	6:23	gQizOy2AnvM	MPREb_5x1X8GEsX2H	UCxZX4WTzM0nt2YKhIz-oawA
 58	Afterglow (feat. Soundmouse)	Phaeleh	Fallen Light	LIKE	4:41	W-24zytNRbc	MPREb_I05Fj7qGK06	UCV3rFgKeOAkg3ikpHE8HsZQ
-975	never (feat. kimmi & leski)	zipovski	never (feat. kimmi & leski)	INDIFFERENT	3:30	-XBnrBa3IGs	MPREb_nEdD12PVSn8	UCseqIJD37OVWeHyu7q5e-2w
+975	never (feat. kimmi & leski)	zipovski	never	INDIFFERENT	3:30	-XBnrBa3IGs	MPREb_nEdD12PVSn8	UCseqIJD37OVWeHyu7q5e-2w
 78	Bash	xxxy	Bash	INDIFFERENT	5:53	Fyw_dt0gpNk	MPREb_kKzEZBwKBVt	UCB0po_qWwDGDqPYbeqfRP8Q
 960	why are you so far away	shirobeats	why are you so far away	INDIFFERENT	2:18	kYGHdqf--QY	MPREb_OXTKoLX6gcf	UC52v0dtsnhBH6UszHmH_NDA
 974	show me	pantsoph	pansophic	INDIFFERENT	2:00	6BAJZnRH8Go	MPREb_kONXnvTGgqI	UCOuR3TbRzNdy_ra0YRUIRAA
@@ -20,11 +20,11 @@
 1047	Genesis (feat. Chuck Roberts)	Yousef	Genesis	INDIFFERENT	4:17	_couaqdQG98	MPREb_oYkImUs3Upm	UC8x5K5b1JNH-YN3l99K6J5Q
 759	Give It Up (Youngr x Endor)	Youngr	Give It Up (Youngr x Endor)	INDIFFERENT	3:29	KapqmVOSJlU	MPREb_x7xhjAMgDhn	UCOhbN-_5nBBgP3pbI0eroVA
 676	Space Jam	Yolanda Be Cool	Space Jam	INDIFFERENT	3:29	2sAhKyhtLoQ	MPREb_2URvz85iQdp	UC7wtcj4QCawu3gG7jqI2pVg
-671	Skooma	Yak	Termina - EP	INDIFFERENT	4:40	m67bthqd8og	MPREb_obyNFpyOEK4	UCP4qt3_6obiWw0AvyaWbcDw
-672	Spore	Yak	Termina - EP	INDIFFERENT	5:56	WWeXfqWMgI4	MPREb_obyNFpyOEK4	UCP4qt3_6obiWw0AvyaWbcDw
-673	Stampede	Yak	Stampede	INDIFFERENT	4:34	YQZl7_d13Oc	MPREb_2oyb1nrkcxM	UCP4qt3_6obiWw0AvyaWbcDw
-674	Termina	Yak	Termina - EP	INDIFFERENT	8:00	pkMWTsY9ZFo	MPREb_obyNFpyOEK4	UCP4qt3_6obiWw0AvyaWbcDw
-675	Wide Eye	Yak	Wide Eye	INDIFFERENT	5:37	W-HfwsaiZ4Y	MPREb_0wKbYfQhLzb	UCP4qt3_6obiWw0AvyaWbcDw
+671	Skooma	Yak	Termina - EP	INDIFFERENT	4:40	m67bthqd8og	MPREb_obyNFpyOEK4	UCvdgRbyRRjIaL-61CYjBMhQ
+672	Spore	Yak	Termina - EP	INDIFFERENT	5:56	WWeXfqWMgI4	MPREb_obyNFpyOEK4	UCvdgRbyRRjIaL-61CYjBMhQ
+673	Stampede	Yak	Stampede	INDIFFERENT	4:34	YQZl7_d13Oc	MPREb_2oyb1nrkcxM	UCvdgRbyRRjIaL-61CYjBMhQ
+674	Termina	Yak	Termina - EP	INDIFFERENT	8:00	pkMWTsY9ZFo	MPREb_obyNFpyOEK4	UCvdgRbyRRjIaL-61CYjBMhQ
+675	Wide Eye	Yak	Wide Eye	INDIFFERENT	5:37	W-HfwsaiZ4Y	MPREb_0wKbYfQhLzb	UCvdgRbyRRjIaL-61CYjBMhQ
 806	Move Your Body (Elevation) (Rebuke Extended Remix)	Xpansions	Move Your Body (Elevation) [Remixes]	INDIFFERENT	5:49	IcqZ3jNaiC4	MPREb_yt3i4ohfZYB	UCMB08hkS9IzFRo6V7OxwbiA
 726	You Always Start It	XXXY	You Always Start It / Ordinary Things	INDIFFERENT	6:28	j432vuFa84I	MPREb_pRIy11lTg8O	UCB0po_qWwDGDqPYbeqfRP8Q
 1058	C.R.E.A.M.	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers)	INDIFFERENT	4:07	o08YscncCTc	MPREb_P2wEcILie4Z	UCdQKMtGgbbahJWE3rkPaGoA
@@ -221,7 +221,7 @@
 556	Pacific Gold	Shcaa	An Ungrateful Death	INDIFFERENT	10:00	JYYHBzwmJ9c	MPREb_EyV3TcP45rM	UC8FBe5ZtJYLFbAXtg2U1VKA
 553	The Sun	Shanghai Den	The Sun	INDIFFERENT	3:27	HUAsK446iAI	MPREb_bD4YfdiMUJl	UCtShpDoqOM91Bbvf0JnSlkQ
 554	Vale W. Group Bench	Shanghai Den	The Sun	INDIFFERENT	6:03	SpnupcQatvM	MPREb_bD4YfdiMUJl	UCtShpDoqOM91Bbvf0JnSlkQ
-1077	Somber	Shah	Somber	INDIFFERENT	3:40	kXiUYrR1Fk4	MPREb_DRc3Yud7Hld	UCcrCZ0T9WSlsf58Qd5634WA
+1077	Somber	Shah	Somber	INDIFFERENT	3:40	kXiUYrR1Fk4	MPREb_DRc3Yud7Hld	UCzsHFlI4hBeQU3j3f-Endvw
 112	23 (feat. Tymer)	Shadow Child	23 VIP	INDIFFERENT	5:41	uQhJH_tpks8	MPREb_90tjYMLICSC	UCRTJPdQcG_RMfMj1mTgrnDA
 551	Friday (MK Medicine Dub) (feat. Takura)	Shadow Child	Friday (MK Medicine Dub)	INDIFFERENT	7:48	KE3rGaYGZzA	MPREb_ZFigAz2fsh9	UCRTJPdQcG_RMfMj1mTgrnDA
 552	Ooh Tune	Shadow Child	Ooh Tune / Higher	INDIFFERENT	4:45	y6BkMFQaJLE	MPREb_u3DygksZbdQ	UCRTJPdQcG_RMfMj1mTgrnDA
@@ -665,7 +665,7 @@
 786	6am in Oakland	Jethro Heston	6am in Oakland	INDIFFERENT	5:21	9u5-gdXKG74	MPREb_DMblB98JelJ	UC-rv2J9QJglkfOQSslgOusg
 116	No To Love (George Fitzgerald Remix)	Jessie Ware	No To Love (Remixes)	INDIFFERENT	5:16	ZttcSafQHKU	MPREb_GnWQfAksOp6	UC53XOR2hYpVcmGmkhukIihA
 323	Say You Love Me (Gorgon City Remix)	Jessie Ware	Say You Love Me (Remixes)	INDIFFERENT	5:05	-Bsv67Eid8k	MPREb_SE0PHGVwBDA	UC53XOR2hYpVcmGmkhukIihA
-811	Running	Jessie Ware	Settle	INDIFFERENT	5:31	EWeosLHQ5q4	MPREb_o4wDrQeOK50	UC53XOR2hYpVcmGmkhukIihA
+811	Running (Disclosure Remix)	Jessie Ware	Settle (Special Edition)	INDIFFERENT	5:31	EWeosLHQ5q4	MPREb_o4wDrQeOK50	UC53XOR2hYpVcmGmkhukIihA
 322	Daddy	Jesse Perez	Daddy	INDIFFERENT	6:12	p0i6GddCCTo	MPREb_F9dYnGosVFS	UCDpmgpSPR2dU-bNaisj2i4g
 1009	2People [Carnao Beats Remix] [Mixed] (feat. Tara Busch)	Jean Jacques Smoothie	Defected Presents The Closing Party Ibiza 2016 (Mixed)	INDIFFERENT	5:44	-HxvTy5b3fc	MPREb_54byZFTSHlR	UCfItYFWFKPrdvNbNQxIrFfQ
 972	Om Shanti	Jay Fraser	Om Shanti	INDIFFERENT	4:35	2UFPNmVOtDg	MPREb_cON3uN0JGJc	UCMZv9Iq-n7SsuE5vvykEIpQ
@@ -821,7 +821,7 @@
 767	Words Later On	Dusky	Careless	INDIFFERENT	6:56	SGs9IBqoJis	MPREb_10UfiYB68kl	UC8lA9PbQS2YkOEuvpcsfR5Q
 1064	Love Taking Over	Dusky	Love Taking Over EP	INDIFFERENT	6:22	GRAz9di61kY	MPREb_0NywEorh7b6	UC8lA9PbQS2YkOEuvpcsfR5Q
 258	Embrace	Durante	Embrace	INDIFFERENT	6:15	JtS6E8Yv464	MPREb_2X7eT8iaX7R	UCMlo9L5JfituDE54Lr5UDxg
-49	Need U (100%) (feat. A*M*E)	Duke Dumont	Need U (100%)	INDIFFERENT	3:54	npLxOdB8HAk	MPREb_pnbMycih4G7	UCmOc5q8hTHMhurRJE5wDb0Q
+49	Need U (100%) (feat. A*M*E)	Duke Dumont	Need U (100%) (Remixes)	INDIFFERENT	3:54	npLxOdB8HAk	MPREb_pnbMycih4G7	UCmOc5q8hTHMhurRJE5wDb0Q
 256	Slow Dance	Duke Dumont	For Club Play Only Pt.3	INDIFFERENT	4:11	R-V4-ysgOI8	MPREb_uz46OKYCIs8	UCmOc5q8hTHMhurRJE5wDb0Q
 257	Won't Look Back (Shadow Child Remix)	Duke Dumont	Won’t Look Back (Remixes)	INDIFFERENT	6:29	-QifGmJ_E9Y	MPREb_2oqhETDRhCo	UCmOc5q8hTHMhurRJE5wDb0Q
 255	Feeling High (feat. Ruby Wood)	Drop Lamond	Breaking The Walls	INDIFFERENT	5:20	rSCknLD8OOY	MPREb_sw3uyNONgMK	UCRrsRLZY2k0SAvg1ocEdXUw
@@ -840,10 +840,10 @@
 245	Wide Open (Len Faki Dj-Edit)	Dj Hyperactive	Len Faki Dj-Edits Volume I	INDIFFERENT	7:15	4eNGe712BOo	MPREb_pu4NWgiWo8e	UC4-EurOOnhuVqrmsSIxadYA
 3	Control	Disclosure	Control	INDIFFERENT	4:50	WWZxpcLbU6o	MPREb_RHS7c5ur1EH	UCMqoUCDT2rtlvBS93GXGqDA
 5	Apollo	Disclosure	Settle (The Remixes)	INDIFFERENT	6:45	FQvg8QjUMLs	MPREb_NtWxiILZLCk	UCMqoUCDT2rtlvBS93GXGqDA
-8	What's In Your Head	Disclosure	Settle	INDIFFERENT	5:31	jrwGY5Znblk	MPREb_o4wDrQeOK50	UCMqoUCDT2rtlvBS93GXGqDA
+8	What's In Your Head	Disclosure	Settle (Special Edition)	INDIFFERENT	5:31	jrwGY5Znblk	MPREb_o4wDrQeOK50	UCMqoUCDT2rtlvBS93GXGqDA
 93	My Intention Is War (Fig ii)	Disclosure	Moda Black (Mixed By Jaymo & Andy George) [Beatport Exclusive Sampler 3]	INDIFFERENT	6:46	3HLsD4ZhvXo	MPREb_Z7WOB7DzJrf	UCMqoUCDT2rtlvBS93GXGqDA
 243	F For You (feat. Mary J. Blige)	Disclosure	Settle (Deluxe)	INDIFFERENT	6:16	M-oAfah2gZY	MPREb_5TT7TrE2piL	UCMqoUCDT2rtlvBS93GXGqDA
-244	Stimulation	Disclosure	Settle	INDIFFERENT	5:01	JcePsn9_z0g	MPREb_o4wDrQeOK50	UCMqoUCDT2rtlvBS93GXGqDA
+244	Stimulation (Preditah Remix)	Disclosure	Settle (Special Edition)	INDIFFERENT	5:01	JcePsn9_z0g	MPREb_o4wDrQeOK50	UCMqoUCDT2rtlvBS93GXGqDA
 695	Holding On (Julio Bashmore's Elevated Mix) (feat. Gregory Porter)	Disclosure	Holding On (The Remixes)	INDIFFERENT	6:34	4w0r1rmGx-I	MPREb_HvyjGY2Vbpu	UCMqoUCDT2rtlvBS93GXGqDA
 699	Holding On (Armand Van Helden Dub Mix) (feat. Gregory Porter)	Disclosure	Holding On (The Remixes)	INDIFFERENT	4:59	Taqch8rDp3I	MPREb_HvyjGY2Vbpu	UCMqoUCDT2rtlvBS93GXGqDA
 700	"Holding On (Gus Pirelli VIP 7"" Disco Mix) (feat. Gregory Porter)"	Disclosure	Holding On (The Remixes)	INDIFFERENT	3:13	1Yg1g5O7-P4	MPREb_HvyjGY2Vbpu	UCMqoUCDT2rtlvBS93GXGqDA
@@ -876,7 +876,7 @@
 915	Bang That	Disclosure	Bang That	INDIFFERENT	5:25	-6UwkdEPIqI	MPREb_PvHcekrDdpe	UCMqoUCDT2rtlvBS93GXGqDA
 1061	White Noise (feat. AlunaGeorge)	Disclosure	The Singles	INDIFFERENT	5:41	fxxe6QzDvKs	MPREb_dUa7wDOnrqk	UCMqoUCDT2rtlvBS93GXGqDA
 1072	Stimulation (Preditah Remix)	Disclosure	Settle (The Remixes)	INDIFFERENT	5:01	_dXV6sEngJM	MPREb_NtWxiILZLCk	UCMqoUCDT2rtlvBS93GXGqDA
-1081	F For You	Disclosure	Settle	INDIFFERENT	5:55	6WsFRgjoh-4	MPREb_o4wDrQeOK50	UCMqoUCDT2rtlvBS93GXGqDA
+1081	F For You (Totally Enormous Extinct Dinosaurs Remix)	Disclosure	Settle (Special Edition)	INDIFFERENT	5:55	6WsFRgjoh-4	MPREb_o4wDrQeOK50	UCMqoUCDT2rtlvBS93GXGqDA
 1087	Help Me Lose My Mind (Paul Woolford Remix) (feat. London Grammar)	Disclosure	Settle (The Remixes)	INDIFFERENT	7:09	RhISlD5MoRI	MPREb_NtWxiILZLCk	UCMqoUCDT2rtlvBS93GXGqDA
 242	Going Up	Dillon Nathaniel	Fresh Squeezed	INDIFFERENT	6:07	pnYBntMPQ1s	MPREb_YRobdlyrd11	UC_N_mwi3Hxs37pXQFYfBI-A
 1028	Cymatic	Dillon Nathaniel	Subsoul & Friends, Vol. 2	INDIFFERENT	3:46	iJfkpbwEbGs	MPREb_y23mY210Xiw	UC_N_mwi3Hxs37pXQFYfBI-A
@@ -940,7 +940,7 @@
 228	Good Thing (Wh0's Festival Remix)	Brookes Brothers	Good Thing (Wh0's Festival Remix)	INDIFFERENT	3:26	K0Neg-U-vFQ	MPREb_ZnlSv3vgdbv	UCRe9XqJDuEjAYoVA4BeMTcw
 227	Deja Vu (Nico Stadi Remix)	Brillz	RETWONKED	INDIFFERENT	5:10	URiWAjjZhFY	MPREb_THc8BhOBdRJ	UCac8WNGFIEQ4xjE8Qze4oLw
 1090	Jack (Radio Edit)	Breach	Big Beat Miami 2014	INDIFFERENT	5:12	M5OFxNC7uCc	MPREb_fZ8EWPgJy6G	UC6LKJa815k6e97J0Id0wo_A
-225	Body	Braxton	Body	INDIFFERENT	4:55	sFdXaeeRi6g	MPREb_GGpHjE8qr7F	
+225	Body	Braxton	Body	INDIFFERENT	4:55	sFdXaeeRi6g	MPREb_GGpHjE8qr7F	UCTJXAwcVKBo-4KnnQ7IjBKQ
 226	Kowloon	Braxton	Stronger	INDIFFERENT	5:33	KxW_sEIsQn4	MPREb_c2l2aMEB7oY	UCTJXAwcVKBo-4KnnQ7IjBKQ
 914	Fading In And Out	Boy Indigo	Fading In And Out	INDIFFERENT	4:18	Qk-wDVrQuNo	MPREb_QB6nge3gYk0	
 41	Glyphic	Boxcutter	Glyphic	INDIFFERENT	7:51	4AI3nsh0bHM	MPREb_Gnp8RqekIam	UCOc7y_GqWE_aDw_BeCdC6QQ
@@ -956,7 +956,7 @@
 222	What You Do (Howson's Groove Remix)	Boean	What You Do	INDIFFERENT	5:07	tEyI0LMrs5w	MPREb_CmHTfebwk4v	UClcWOuO6e092TdB9YhVELlA
 221	Brawd	Bodhi	Brawd	INDIFFERENT	4:07	XTQRhmM87Hs	MPREb_RFKSQi9ukwf	UCORI-NZ8P5dib6j0Gxnc2hw
 1034	Beats Me	Boddika	Think & Change	INDIFFERENT	5:06	b8E0dV0NNZw	MPREb_DxoBvQyvBy0	UCZuHRKSMC0FSsvdsH4fhBog
-1084	Euphoria	Blut Own	Euphoria	INDIFFERENT	3:16	4C5WhPInz2g	MPREb_xgQhusVfKNK	UC84c7F8_pjYWU-R79nwWGjQ
+1084	Euphoria	Blut Own	Euphoria	INDIFFERENT	3:16	T8xz1NGiMlY	MPREb_xgQhusVfKNK	UC84c7F8_pjYWU-R79nwWGjQ
 936	Eyes on Fire (Skeler Remix) [Re-Recorded Instrumental]	Blue Foundation	Eyes on Fire (Skeler Remix) [Re-Recorded]	INDIFFERENT	3:13	0EdHJFj4Ofo	MPREb_lb7cDcrL1b3	UCnrU5JKYhkbHKDi1hnJM2rA
 220	Darker Than Blue	Blue Daisy	Darker Than Blue	INDIFFERENT	2:28	SYyT40oUWIg	MPREb_fmDHpAhYBXi	UC-RxZ3XQ1a3LXgbso8fTkOQ
 238	Darker Than Blue (Interlude)	Blue Daisy	Darker Than Blue	INDIFFERENT	1:19	nXi1Q8hEaRo	MPREb_i1D3kf4QVD1	UC-RxZ3XQ1a3LXgbso8fTkOQ

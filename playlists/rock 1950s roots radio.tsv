@@ -2,7 +2,7 @@
 245	Hound Dog	Willie Mae Thornton	Rock 'n' Roll & the City	LIKE	2:52	Q25PAh-p9lo	MPREb_GigLdu1NjQr	UC_aKjhh4ikKYtXW-oTSoNBw
 588	La Bamba (Single Version)	Ritchie Valens	Ritchie Valens	LIKE	2:08	BycLmWI97Nc	MPREb_xBGXDGI1iHp	UCDBrvmnCOWWveXOZHDCotoQ
 55	Mack the Knife (A Theme from the Threepenny Opera)	Louis Armstrong and His All-Stars	Mack the Knife (A Theme from the Threepenny Opera)	LIKE	3:22	QK6ieInTOBA	MPREb_f3RswETUBSw	UCCDaSui4C9VFMpeRlKEOHDA
-454	Tutti Frutti	Little Richard	Good Golly!	LIKE	2:24	gZwYRzBlYEo	MPREb_lb0mj7kIhJn	UCbRn2LWnKTgXbX8HUGNQHKA
+454	Tutti Frutti (Take 2)	Little Richard	Good Golly!	LIKE	2:24	gZwYRzBlYEo	MPREb_lb0mj7kIhJn	UCbRn2LWnKTgXbX8HUGNQHKA
 545	Long Tall Sally (The Thing)	Little Richard	Here's Little Richard (Deluxe Edition)	LIKE	2:08	imMjQa27vlc	MPREb_aNJwFasWryq	UCbRn2LWnKTgXbX8HUGNQHKA
 456	The Locomotion	Little Eva	Llllloco-Motion	LIKE	2:19	1Lej7aQDrGM	MPREb_0mCVknYXH6u	UCugjaWay_M9OGE3zPsxoYHQ
 386	Rumble (Original Single Version)	Link Wray & His Ray Men	Music Of Your life	LIKE	2:27	Mc7Rd_g3Dyo	MPREb_NFG4aFNDMUF	UCXFJOvhbAdYYwaqxdOpSB5w
@@ -157,7 +157,7 @@
 200	The Fool	Sanford Clark	20th Century Rocks: 50's Rock 'n Roll - Is Here to Stay	INDIFFERENT	2:45	Y6PTe-u8_H8	MPREb_vctGxVooX2f	UChyLeE-suznYYQUc-O67-Zw
 395	Let There Be Drums	Sandy Nelson	Rockin' Instrumentals	INDIFFERENT	2:23	4BW5XjGAl9M	MPREb_3iI4oWCZiQ5	UC1yb9WHNcJ5zSpbhIqwL0fA
 413	Teen Beat	Sandy Nelson	20th Century Rocks: 50's Rock 'n Roll - At The Hop	INDIFFERENT	2:22	8ZtCCx1y-5w	MPREb_pl5ha30X4xE	UC1yb9WHNcJ5zSpbhIqwL0fA
-532	Wooly Bully	Sam The Sham & The Pharaohs	The MGM Singles	INDIFFERENT	2:19	qVGBYvtlOEs	MPREb_VDCWuQfDqlc	UCybCUIBqN230n8kBSh5i8Bg
+532	Wooly Bully	Sam the Sham and the Pharaohs	Wooly Bully	INDIFFERENT	2:19	3UttAR8DnFY	MPREb_jr0pZPCv15x	UCybCUIBqN230n8kBSh5i8Bg
 336	Touch The Hem Of His Garment	Sam Cooke	30 Greatest Hits: Portrait of a Legend 1951-1964	INDIFFERENT	2:05	xtzTxUCB6ms	MPREb_1tJE5PccPOx	UCYW9vMurwIpx1l0bb8gyK7g
 341	Cupid (Live at the Harlem Square Club, Miami, FL - January 1963)	Sam Cooke	One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963	INDIFFERENT	2:45	xOGMiUs-KZs	MPREb_DRcNWFswuS1	UCYW9vMurwIpx1l0bb8gyK7g
 353	This Little Girl's Gone Rockin'	Ruth Brown	Miss Rhythm: Greatest Hits And More	INDIFFERENT	1:49	0AB3wXa0iq0	MPREb_xy9rqZnSwmW	UCQUda9wOuv0fT6v8X8Zyr_g
@@ -200,7 +200,7 @@
 408	Bongo Bongo Bongo	Preston Epps	Bongo Bongo Bongo	INDIFFERENT	2:10	3bxbOiKdAgs	MPREb_IatE7troeO7	UCWnW_vUOR18s9IQtbvr9IZw
 414	Bongo Rock	Preston Epps	Bongola - The Very Best Of	INDIFFERENT	2:05	Bv8soV0wOFE	MPREb_8lq7C1Oy4uG	UCWnW_vUOR18s9IQtbvr9IZw
 443	Bongo Hop	Preston Epps	Bongola - The Very Best Of	INDIFFERENT	1:57	H-u18nS9Akk	MPREb_8lq7C1Oy4uG	UCWnW_vUOR18s9IQtbvr9IZw
-27	Pinetop's Boogie Woogie	Pinetop Perkins	Back On Top	INDIFFERENT	4:17	lUS6qMRU2RU	MPREb_uJRtufIWl36	UCGloG-ofMo_rYixhmlaNAfw
+27	Pinetop's Boogie Woogie	Pinetop Perkins	Back On Top	INDIFFERENT	4:17	iSv09tegacU	MPREb_UqljyyVeFo1	UCGloG-ofMo_rYixhmlaNAfw
 493	Cast Iron Arm	Peanuts Wilson	Lost And Found Rockabilly	INDIFFERENT	2:25	37B3d3MN_nM	MPREb_CGoExFTOWx6	
 64	Friendly Persuasion (Thee I Love) (Single Version)	Pat Boone	Pat Boone's Greatest Hits	INDIFFERENT	2:57	fs9M0G5BgtM	MPREb_2nbAeCWxD3C	UC8Ez4f5lLUgx6s8riDjVJ9w
 118	Begin the Beguine	Pat Boone	Greatest Hits	INDIFFERENT	3:20	hv9vX1DkwB0	MPREb_HjAtJeZYoBC	UC8Ez4f5lLUgx6s8riDjVJ9w
@@ -242,6 +242,7 @@
 317	Don't You Rock Me Daddy-O	Lonnie Donegan	Skiffle Hits	INDIFFERENT	1:45	-nSm_QKQ5yM	MPREb_xdam9jzlzR3	UC3EUlS4CCJKnQgLxjg5ZnVw
 323	Wabash Cannonball	Lonnie Donegan	Lonnie Donegan	INDIFFERENT	1:58	NNMR3YZcqk8	MPREb_TU5Zf58knc9	UC3EUlS4CCJKnQgLxjg5ZnVw
 327	Cumberland Gap	Lonnie Donegan	Skiffle Hits	INDIFFERENT	2:00	s5GpVUPFOyM	MPREb_xdam9jzlzR3	UC3EUlS4CCJKnQgLxjg5ZnVw
+328	Lost John	Lonnie Donegan	Chris Barber 1956	INDIFFERENT	2:45	VNAKSVjYi9k	MPREb_EAhnHKdUHeO	UC3EUlS4CCJKnQgLxjg5ZnVw
 12	Stagger Lee	Lloyd Price	Stagger Lee	INDIFFERENT	2:22	MzNswqHrd8I	MPREb_K996DqzSgf4	UC74bfIyGcYLJ-x3K8jK1MIQ
 185	Mailman Blues	Lloyd Price	Specialty Profiles: Lloyd Price	INDIFFERENT	2:11	6tEEx75M5Vg	MPREb_yjFMhdaYIW1	UC74bfIyGcYLJ-x3K8jK1MIQ
 209	Just Call me (And I'll Understand)	Lloyd Price	The Best Of Lloyd Price	INDIFFERENT	2:10	_zKiQ9f_98c	MPREb_g3ylAn5OKPL	UC74bfIyGcYLJ-x3K8jK1MIQ
@@ -345,7 +346,7 @@
 274	Break Up	Jerry Lee Lewis	Jerry Lee Lewis & Greatest Hits	INDIFFERENT	2:18	vbwl59cNcO4	MPREb_glDgji9TTVK	UC3QNfxSmvwqaO_xJHe8IwSw
 280	Whole Lotta Shakin' Goin' On	Jerry Lee Lewis	Jerry Lee Lewis Live	INDIFFERENT	2:35	LVFdUvjAqpk	MPREb_qLQiSrxow1b	UC3QNfxSmvwqaO_xJHe8IwSw
 520	Old Black Joe	Jerry Lee Lewis	Deluxe: Greatest Hits - Jerry Lee Lewis	INDIFFERENT	2:05	DZDSbVeHJi8	MPREb_dtxhAbBh8L1	UC3QNfxSmvwqaO_xJHe8IwSw
-542	Whole Lot Of Shakin' Going On	Jerry Lee Lewis	Boogie Woogie	INDIFFERENT	2:54	LaY8TX53zvE	MPREb_u6SgzNdeaWC	UC3QNfxSmvwqaO_xJHe8IwSw
+542	Whole Lot Of Shakin' Going On (Single Version)	Jerry Lee Lewis	Boogie Woogie	INDIFFERENT	2:54	LaY8TX53zvE	MPREb_u6SgzNdeaWC	UC3QNfxSmvwqaO_xJHe8IwSw
 589	Breathless	Jerry Lee Lewis	Deluxe: Greatest Hits - Jerry Lee Lewis	INDIFFERENT	2:46	r_zLPN0YcrA	MPREb_dtxhAbBh8L1	UC3QNfxSmvwqaO_xJHe8IwSw
 590	Great Balls of Fire	Jerry Lee Lewis	Deluxe: Greatest Hits - Jerry Lee Lewis	INDIFFERENT	1:55	V_FAqr6rP4w	MPREb_dtxhAbBh8L1	UC3QNfxSmvwqaO_xJHe8IwSw
 610	Whole Lotta Shakin’ Goin’ On	Jerry Lee Lewis	Deluxe: Greatest Hits - Jerry Lee Lewis	INDIFFERENT	2:56	GN8VV8CHnrk	MPREb_dtxhAbBh8L1	UC3QNfxSmvwqaO_xJHe8IwSw
@@ -364,6 +365,7 @@
 227	The World Is Waiting for the Sunrise	Isham Jones And His Orchestra	The Very Best Of	INDIFFERENT	3:04	bMcRYakjcW0	MPREb_ZsGupyEc5Fn	UCwiaKf5a9hk63FFbpZd1EKg
 243	This Year of Grace: A Room with a View (duet)	Ian Bostridge/Jeffrey Tate/Sophie Daneman	The Noël Coward Songbook [standard]	INDIFFERENT	4:02	NHUIE-ILsfQ	MPREb_0uZ9qKNJUew	UC6h-82mp5RkzathF2Ja-iFw
 161	Bad Penny Blues	Humphrey Lyttelton	British Beat Before The Beatles 1955-1962	INDIFFERENT	2:45	M25ZkZsX8G8	MPREb_UdoxIrNnazQ	UCi8ArqlNbf8wLT9txqBRy0w
+218	Saturday Jump	Humphrey Lyttelton	1957-58	INDIFFERENT	2:20	tr1Do0-rjR4	MPREb_MLgNkdwZUCc	UCi8ArqlNbf8wLT9txqBRy0w
 17	You'll Be Mine	Howlin' Wolf	Howlin' Wolf	INDIFFERENT	2:31	Hao0yqLAICU	MPREb_SBt9huPNU4L	UCq7KYdlYIAjlt2NbSEZD7bg
 635	Moanin' At Midnight	Howlin' Wolf	Moanin' In The Moonlight	INDIFFERENT	2:57	I9lvpocL_20	MPREb_dwpSfXWcsAU	UCq7KYdlYIAjlt2NbSEZD7bg
 199	Milk Cow Blues	Howard Armstrong	Louie Bluie	INDIFFERENT	3:03	uqoPGZlp208	MPREb_8z81PUm2Xbc	UCbD7LClgzMSfkFXYcnjlv1g
@@ -373,8 +375,8 @@
 233	All My Trials	Harry Belafonte	Harry Belafonte at Carnegie Hall 1959, Vol. 1	INDIFFERENT	3:53	SWGq3Azkp0s	MPREb_eeXKkfKgvMO	UCWmcGTCEbVYljjf7XKg8znQ
 4	Honky Tonk Blues (Single Version)	Hank Williams	The Original Singles Collection . . . Plus	INDIFFERENT	2:11	NqSi56InTNs	MPREb_owVQbpf3kPQ	UCQPzXuO5tZ5mJUFzCER_IGg
 52	Hey, Good Lookin' (feat. The Drifting Cowboys)	Hank Williams	Back To Back: Their Greatest Hits	INDIFFERENT	2:57	U-F-atN7mls	MPREb_UHYGy7FtMgv	UCQPzXuO5tZ5mJUFzCER_IGg
-548	Hey, Good Lookin'	Hank Williams	Memorial Album	INDIFFERENT	2:57	tunFYrXANHs	MPREb_6CK4eTlXbbF	UCQPzXuO5tZ5mJUFzCER_IGg
-553	Move It On Over	Hank Williams	Memorial Album	INDIFFERENT	2:47	Y86v9_c1jc8	MPREb_6CK4eTlXbbF	UCQPzXuO5tZ5mJUFzCER_IGg
+548	Hey, Good Lookin'	Hank Williams	Memorial Album (Expanded Edition)	INDIFFERENT	2:57	tunFYrXANHs	MPREb_6CK4eTlXbbF	UCQPzXuO5tZ5mJUFzCER_IGg
+553	Move It On Over	Hank Williams	Memorial Album (Expanded Edition)	INDIFFERENT	2:47	Y86v9_c1jc8	MPREb_6CK4eTlXbbF	UCQPzXuO5tZ5mJUFzCER_IGg
 572	Long Gone Lonesome Blues	Hank Williams	The Original Singles Collection . . . Plus	INDIFFERENT	2:39	esIK2-XvHM4	MPREb_owVQbpf3kPQ	UCQPzXuO5tZ5mJUFzCER_IGg
 573	Cold, Cold Heart	Hank Williams	The Legendary Recordings (Remastered, Doxy Collection)	INDIFFERENT	2:45	cPYak2WDxhc	MPREb_ewGI0BLMIFe	UCQPzXuO5tZ5mJUFzCER_IGg
 495	Shame	Hank LeGault	'50s Rockabilly Pioneers Vol. 3	INDIFFERENT	2:38	Y5-rVFJQf0s	MPREb_5U8eakAgKXs	UCbFgTE5uBGOU8TvII5NImMQ
@@ -496,7 +498,7 @@
 498	I Wanna Dance All Night	Chuck Wiley	Nashville Rockabilly	INDIFFERENT	1:14	KqIdjM52k4M	MPREb_InJMMXwXkwy	UCOr99JZqxO_6c2Cvv1HLJ5g
 123	I Keep Forgettin'	Chuck Jackson	The Hit Songs of Jerry Leiber & Mike Stoller 1952-62	INDIFFERENT	2:42	HxnkduYT3Cg	MPREb_WyOgKuBRy8U	UCLC9JiDX419PwUyqKcAJB-A
 28	I'm Talking About You	Chuck Berry	New Juke Box Hits	INDIFFERENT	1:49	nbLRHpc5IKQ	MPREb_QyLSuvNcGt4	UCUfKmP9mv1yUkxlE5DDX5Zg
-54	Sweet Little Sixteen	Chuck Berry	Chuck Berry's Golden Hits	INDIFFERENT	2:14	78I5hFkR8vs	MPREb_8f1aQwgx4ct	UCUfKmP9mv1yUkxlE5DDX5Zg
+54	Sweet Little Sixteen (1967 Version)	Chuck Berry	Chuck Berry's Golden Hits	INDIFFERENT	2:14	78I5hFkR8vs	MPREb_8f1aQwgx4ct	UCUfKmP9mv1yUkxlE5DDX5Zg
 72	Reelin' And Rockin' (Single Version)	Chuck Berry	His Best, Volume 1 - The Chess 50th Anniversary Collection	INDIFFERENT	3:16	QbMfBTDKyPU	MPREb_9bGytKyxpvP	UCUfKmP9mv1yUkxlE5DDX5Zg
 78	Brown Eyed Handsome Man (feat. Robert Cray)	Chuck Berry	Hail! Hail! Rock 'N' Roll	INDIFFERENT	2:34	CWPfjsynYus	MPREb_gqamGcufPYA	UCUfKmP9mv1yUkxlE5DDX5Zg
 101	I Got To Find My Baby	Chuck Berry	Gold	INDIFFERENT	2:15	aa2wWq19ob8	MPREb_TL0xFnTtDDL	UCUfKmP9mv1yUkxlE5DDX5Zg
@@ -527,7 +529,7 @@
 260	When Did You Leave Heaven	Charles Brown	An Introduction To Charles Brown	INDIFFERENT	3:13	oJq9IlvlB-I	MPREb_yIA49LL0pnB	UCF5XCMRfM2ISChbCg1BE4vw
 370	Black Night	Charles Brown	Charles Brown Sings the Blues	INDIFFERENT	3:22	9nUkJo9lIto	MPREb_p190NOgsTdL	UCF5XCMRfM2ISChbCg1BE4vw
 113	The Hippy Hippy Shake	Chan Romero	Cover Versions Played By The Beatles, Vol. 2 (Playlist Beatlemania Era)	INDIFFERENT	1:42	2JEBPe_w03U	MPREb_qVD3B5wkvWC	UCQM4ctB8VLwDwhUjwuEK3QQ
-39	Movie Magg	Carl Perkins	The King of Rockabilly	INDIFFERENT	2:10	-75EmoAwYYI	MPREb_PvFQbLVZabI	UCO46V98c7Ib6Un4Y1mMpqbg
+39	Movie Magg (Remastered 2022)	Carl Perkins	The King of Rockabilly (Sun Records 70th / Remastered 2022)	INDIFFERENT	2:10	-75EmoAwYYI	MPREb_PvFQbLVZabI	UCO46V98c7Ib6Un4Y1mMpqbg
 75	Tennessee	Carl Perkins	Deluxe: Greatest Hits - Carl Perkins	INDIFFERENT	3:05	4XJ_Uj6EHic	MPREb_T0rm9ZXoIpI	UCO46V98c7Ib6Un4Y1mMpqbg
 81	Sure to Fall	Carl Perkins	30 Succès	INDIFFERENT	2:29	-eSke0XLlvM	MPREb_OQnFyJJAJ4z	UCO46V98c7Ib6Un4Y1mMpqbg
 87	Blue Suede Shoes	Carl Perkins	Boys of Country	INDIFFERENT	2:15	1QJLDI-LNBE	MPREb_fyiscTHGSag	UCO46V98c7Ib6Un4Y1mMpqbg
@@ -632,7 +634,5 @@
 321	Peanut Butter	The Marathons	Peanut Butter (Digital 45)			dwkgO3zjn60		
 412	Panic Button	The Fireballs	The Fireballs / Vaquero			eOFcQkW96iA		
 326	Railroad Bill	Lonnie Donegan's Skiffle Group	Chris Barber 1956			HF-qsdiPmJQ		
-328	Lost John	Lonnie Donegan's Skiffle Group	Chris Barber 1956			wV3q7We94VE		
-218	Saturday Jump	Humphrey Lyttelton	1957-58			fENvfs3aKC8		
 71	Twenty Flight Rock	Eddie Cochran	Great Hits of 1956, Vol. 3			1WliV83gaA8		
 222	When My Little Girl Is Smiling	Ben E. King	Ben E. King & The Drifters			zZpB60Jmi34		
