@@ -1,9 +1,9 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 11	Sugarcube	Yo La Tengo	I Can Hear the Heart Beating As One	LIKE	3:21	_1Dwa68U5os	MPREb_pjgfqa6nbLu	UCz5bvM-t9ynI48T0u195y2A
 73	Two Girls Kissing	Swirlies	They Spent Their Wild Youthful Days In The Glittering World Of The Salons	LIKE	6:03	_BKMSui3kdo	MPREb_GXQsjZN4MeB	UCy8d9akrqHi8A_OEzpvUmcQ
-0	Dirty Boots	Sonic Youth	Goo	LIKE	5:29	k_1rqDKM_0E	MPREb_3BLM1zBwq7G	UC7Ot1CZwD2fBUgP7YncvpLQ
+0	Dirty Boots	Sonic Youth	Goo	LIKE	5:28	k_1rqDKM_0E	MPREb_3BLM1zBwq7G	UC7Ot1CZwD2fBUgP7YncvpLQ
 93	Tone Bender	Lilys	In the Presence of Nothing	LIKE	3:16	tPIKgqR2HBo	MPREb_ZqZN94CZxJc	UCcLR8NCBdKHvwDpfE-xs7ZQ
-4	Say Yes	Elliott Smith	Either/Or	LIKE	2:21	ofqp8rDwIxo	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
+4	Say Yes	Elliott Smith	Either/Or	LIKE	2:20	ofqp8rDwIxo	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
 10	Echo, Bravo	Duster	Stratosphere	LIKE	4:32	EMcAcY83S7U	MPREb_B1sOajhmNH5	UCZkINlw1KmC1GiOqyx3tBPA
 86	Don't I Hold You	wheat	Hope and Adams	INDIFFERENT	3:50	bpw8wE79XXM	MPREb_FJyVfaadgzu	UCmYy7bPJX3juJ8DpMds9MLw
 151	Death Car	wheat	Medeiros	INDIFFERENT	3:19	xAM7JLifHGQ	MPREb_P2SQKl4Sj01	UCmYy7bPJX3juJ8DpMds9MLw
@@ -42,8 +42,8 @@
 45	Somethin' Hot	The Afghan Whigs	1965	INDIFFERENT	2:58	p6p3JSnARkk	MPREb_tJPaKDImttC	UCLx1UJmO4PbzkHFRDgVB8GA
 62	Conjure Me	The Afghan Whigs	Congregation	INDIFFERENT	4:03	5_qn0d5L3po	MPREb_iGdG23CYti2	UCLx1UJmO4PbzkHFRDgVB8GA
 83	Honky's Ladder	The Afghan Whigs	Black Love	INDIFFERENT	4:16	nA3fkcJRuic	MPREb_mrTM9B51EAe	UCLx1UJmO4PbzkHFRDgVB8GA
-78	In The City In The Rain	The 6ths	Wasps' Nests	INDIFFERENT	3:43	QqblA_mKalc	MPREb_FHygkwEuvq1	UCObi7smyFupubAHjjTPbdFg
-84	All Dressed Up In Dreams	The 6ths	Wasps' Nests	INDIFFERENT	2:55	5eR4vcoekEo	MPREb_FHygkwEuvq1	UCObi7smyFupubAHjjTPbdFg
+78	In The City In The Rain	The 6ths	Wasps' Nests	INDIFFERENT	3:42	QqblA_mKalc	MPREb_FHygkwEuvq1	UCObi7smyFupubAHjjTPbdFg
+84	All Dressed Up In Dreams	The 6ths	Wasps' Nests	INDIFFERENT	2:54	5eR4vcoekEo	MPREb_FHygkwEuvq1	UCObi7smyFupubAHjjTPbdFg
 104	Wrong Tube	Swirlies	Blonder Tongue Audio Baton	INDIFFERENT	5:07	y0KCIDHKjTY	MPREb_g05yk4eYPPq	UCy8d9akrqHi8A_OEzpvUmcQ
 125	Sugar	Superdrag	The Fabulous 8-Track Sound of Superdrag	INDIFFERENT	2:32	qcby2gYpLQQ	MPREb_agYRxlI4o8i	UC0y_poJLV2ZowkpAtNY8EAA
 34	Precision Auto	Superchunk	On the Mouth	INDIFFERENT	2:47	rdAAu3Oqsk8	MPREb_Z6oJTfALZiI	UCPVWKMz2VjbkrUE1q-UH86Q
@@ -57,7 +57,7 @@
 49	Car Radio	Spoon	A Series of Sneaks	INDIFFERENT	1:29	c9yyffTy5uo	MPREb_qhIqExK0tY2	UC4zxbn4wRucKR-IArNkBtEw
 61	All The Negatives Have Been Destroyed	Spoon	Telephono	INDIFFERENT	2:38	wq6PHDJqoRg	MPREb_bPr34cBySfT	UC4zxbn4wRucKR-IArNkBtEw
 65	Nefarious	Spoon	Telephono	INDIFFERENT	2:48	Kb04fwudGC4	MPREb_bPr34cBySfT	UC4zxbn4wRucKR-IArNkBtEw
-3	Bull In The Heather	Sonic Youth	Experimental Jet Set, Trash And No Star	INDIFFERENT	3:05	PGPOcQ14Eo0	MPREb_OVAAfhihoZk	UC7Ot1CZwD2fBUgP7YncvpLQ
+3	Bull In The Heather	Sonic Youth	Experimental Jet Set, Trash And No Star	INDIFFERENT	3:04	PGPOcQ14Eo0	MPREb_OVAAfhihoZk	UC7Ot1CZwD2fBUgP7YncvpLQ
 8	Disappearer	Sonic Youth	Goo	INDIFFERENT	5:08	KZxl_KgoNSA	MPREb_3BLM1zBwq7G	UC7Ot1CZwD2fBUgP7YncvpLQ
 18	Held	Smog	Knock Knock	INDIFFERENT	4:03	Mzvs7Lt7C70	MPREb_4CcE6kdNsWb	UCf___8asNkG7BR28YrpmGoQ
 96	Everything You Touch Becomes A Crutch	Smog	The Doctor Came At Dawn	INDIFFERENT	2:35	sl36YGM48Wk	MPREb_KFFPUlJtjjP	UCf___8asNkG7BR28YrpmGoQ
@@ -88,8 +88,8 @@
 127	Liar	Royal Trux	Accelerator	INDIFFERENT	2:53	PU55CeROVMc	MPREb_XSdQLxRv88i	UC9oA7ySvkcg6GiHHEf_Af2A
 133	Waterpark	Royal Trux	Veterans Of Disorder	INDIFFERENT	2:17	_KAN_yrlDQc	MPREb_k09laSNGC3n	UC9oA7ySvkcg6GiHHEf_Af2A
 139	Dirty Headlines	Royal Trux	Radio Video (EP)	INDIFFERENT	3:28	L27PCM2Kytw	MPREb_Z0fVgn7ss6i	UC9oA7ySvkcg6GiHHEf_Af2A
-76	Ditch Digger	Rocket From The Crypt	Circa: Now!	INDIFFERENT	4:50	CTDSg6DVw6w	MPREb_u0Wp8JW9obo	UCUUzjfXDeqAne2c0zkzopFg
-98	Sturdy Wrists	Rocket From The Crypt	Circa: Now!	INDIFFERENT	2:09	0kI0W8mNSz4	MPREb_u0Wp8JW9obo	UCUUzjfXDeqAne2c0zkzopFg
+76	Ditch Digger	Rocket From The Crypt	Circa: Now!	INDIFFERENT	4:49	CTDSg6DVw6w	MPREb_u0Wp8JW9obo	UCUUzjfXDeqAne2c0zkzopFg
+98	Sturdy Wrists	Rocket From The Crypt	Circa: Now!	INDIFFERENT	2:08	0kI0W8mNSz4	MPREb_u0Wp8JW9obo	UCUUzjfXDeqAne2c0zkzopFg
 118	In the First Place	Quasi	R&B Transmogrification	INDIFFERENT	4:03	sf0cpTu4cbc	MPREb_W5yIeCbMxBA	UCT1JmNUOHu1f1RyQAiv2PcQ
 124	The Poisoned Well	Quasi	"Featuring ""Birds"""	INDIFFERENT	2:07	GEZSRvqk6nQ	MPREb_nCES2enZdoc	UCT1JmNUOHu1f1RyQAiv2PcQ
 132	Birds	Quasi	Field Studies	INDIFFERENT	2:31	T87q6AXE8Eo	MPREb_tCuh2eWElpc	UCT1JmNUOHu1f1RyQAiv2PcQ
@@ -128,14 +128,14 @@
 87	View Master	Eric's Trip	Forever Again	INDIFFERENT	2:47	hPQe6OgOl-0	MPREb_Y2x9hXFnS9O	UCq2j683eExqcdKINlkI0cmw
 92	My Room	Eric's Trip	Love Tara	INDIFFERENT	2:39	dGuU-oCxOLw	MPREb_5gT9WqcJ4jC	UCq2j683eExqcdKINlkI0cmw
 99	Sixteen Hours	Eric's Trip	Purple Blue	INDIFFERENT	3:05	jNRSD7hdWio	MPREb_s1J8tFLbnIZ	UCq2j683eExqcdKINlkI0cmw
-1	Between the Bars	Elliott Smith	Either/Or	INDIFFERENT	2:22	5VTY0HRtwlQ	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
+1	Between the Bars	Elliott Smith	Either/Or	INDIFFERENT	2:21	5VTY0HRtwlQ	MPREb_VSpGi11jPGP	UCuNTMHPl8dVBpJRtvygl-9A
 90	Jane	Elf Power	A Dream in Sound	INDIFFERENT	4:24	BgPi4frqC8M	MPREb_zzfPx2R999H	UCVVudE-Gc3G1HGbEdefK3yg
 63	The Ice Of Boston	Dismemberment Plan	The Dismemberment Plan Is Terrified	INDIFFERENT	4:55	4ANBktpgcC4	MPREb_1QhdNvYJnN5	UCtRoENZ_2xIhrhLTuYSxwJg
 41	Prove My Hypotheses	Death Cab for Cutie	You Can Play These Songs With Chords	INDIFFERENT	4:12	RWxCDE1JG4A	MPREb_Wso9E50bfut	UCQyYgbGkyvK3v3X1XzGDQ2Q
 111	Kitchen Light	Codeine	The White Birch	INDIFFERENT	3:36	xZWUIe9R_VA	MPREb_GXwKCAJIKfw	UCFpy--r1MLnX5UX-PUyCLAg
 131	Unreal Is Here	Chavez	Ride The Fader	INDIFFERENT	2:32	tNaHeTqaLvg	MPREb_1yU8MbSbzNw	UCATIlgeBRBR3IChoUH7bFog
 7	Cross Bones Style	Cat Power	Moon Pix	INDIFFERENT	4:33	xda9J7EIwLw	MPREb_1SqIZFpXwVJ	UC1s55OQBwZ1Cg-k9EC7HaGA
-24	Untrustable/Part 2 (About Someone Else)	Built To Spill	Perfect From Now On	INDIFFERENT	8:54	VAoxWduuu1o	MPREb_6FSNQlCW9Ot	UCrMHecWO6fui7O2d9dnpEZg
+24	Untrustable/Part 2 (About Someone Else)	Built To Spill	Perfect From Now On	INDIFFERENT	8:53	VAoxWduuu1o	MPREb_6FSNQlCW9Ot	UCrMHecWO6fui7O2d9dnpEZg
 27	In the Morning	Built To Spill	There's Nothing Wrong With Love	INDIFFERENT	2:37	5F1l6r9bWDw	MPREb_rP6xrasMTsu	UCrMHecWO6fui7O2d9dnpEZg
 129	The City Has Sex	Bright Eyes	Letting Off The Happiness	INDIFFERENT	2:12	9w0tKYuloKc	MPREb_3JXxOoxrDyN	UCPI3znNhox-PTRPvpYFNCDw
 54	V1NC3NT COM3 ON DOWN	Brainiac	Hissing Prigs in Static Couture	INDIFFERENT	2:34	CD_fm3Vo_Yg	MPREb_ollYgtjxClg	UCEx0UlHKuiFym4j1e190iZQ
