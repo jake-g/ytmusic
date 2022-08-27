@@ -19,7 +19,7 @@ class YTMusicPlaylists:
         if len(res) == 0:
             print(f'No playlist with {col}: {value}')
         elif len(res) > 1:
-            print((f'multiple matches for : {value}, ',
+            print((f'multiple matches for : {value}, '
                    f'choosing first result of:\n {res}'))
         return res.iloc[0]
 
@@ -61,7 +61,7 @@ class YTMusicPlaylists:
         pl_name = os.path.basename(tsv_path).split('.tsv')[0]
         print(f'\nGenerating {pl_name} ytmusic playlist for {len(df)} tracks')
         vids = df.videoId.unique().tolist()
-        desc = (f'Matched {len(vids)} tracks from ',
+        desc = (f'Matched {len(vids)} tracks from '
                 f'{pl_name} manually uploaded from local tsv.')
         pl_id = self.yt.create_playlist(
             title=pl_name,  description=desc,
@@ -107,7 +107,7 @@ class YTMusicPlaylists:
                                                        sleep_time=10):
         playlist = self.query_by_title(playlist_name)
         if verbose:
-            print((f'Sorting {playlist_name} ({playlist["playlistId"]}) ',
+            print((f'Sorting {playlist_name} ({playlist["playlistId"]}) '
                    f'into like and indifferent'))
         tracks, metadata = self.parse_playlist(
             playlist_meta=self.playlist_get_info(playlist["playlistId"]))
@@ -119,8 +119,8 @@ class YTMusicPlaylists:
         time.sleep(sleep_time)
         self.yt.delete_playlist(playlist['playlistId'])
         if verbose:
-            print((f'Created like playlist ({res_like}) and ',
-                   f'unrated playlist ({res_indif})\nDeleted original ',
+            print((f'Created like playlist ({res_like}) and '
+                   f'unrated playlist ({res_indif})\nDeleted original '
                    f'playlist: {playlist_name} ({playlist["playlistId"]})'))
 
     def playlist_rate_all_songs(self, playlistId, rating,
@@ -130,7 +130,7 @@ class YTMusicPlaylists:
         playlist_meta = self.playlist_get_info(playlistId)
         num_tracks = len(playlist_meta["tracks"])
         if verbose:
-            print((f'Found {num_tracks} tracks to rate as {rating} in ',
+            print((f'Found {num_tracks} tracks to rate as {rating} in '
                    f'playlist: {playlist["title"]} ({playlistId})'))
         rate_count = 0
         for track in playlist_meta["tracks"]:
