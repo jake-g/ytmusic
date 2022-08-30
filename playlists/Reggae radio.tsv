@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 1246	Beach in Hawaii	Ziggy Marley	Love Is My Religion	LIKE	3:45	ObkIu6CBmp0	MPREb_08JluDLjB93	UCsMjZkTMjcYtG0s5yxXzgUA
+1589	While My Guitar Gently Weeps	Tom Petty	The Best of Rock and Roll Hall of Fame + Museum Live	LIKE	6:20	AxVUH0oE6o0	MPREb_bFOzxhtAlWh	UC6hGusDLTI8bW-P4pMYdIqA
 1277	Friends Of P.	The Rentals	Return Of The Rentals	LIKE	3:32	Dj2WQudTtso	MPREb_v6nuNHsrqBf	UC8kUE9LlbvexhM-myD7ZYyg
 401	Can't Stand Losing You	The Police	Outlandos D'Amour (Remastered 2003)	LIKE	2:59	AbcHbAFxUHI	MPREb_nd8wjM73JJB	UCbsRGw640UF_F7AIwHW-zmg
 388	The Tide Is High	The Paragons	On The Beach With The Paragons	LIKE	2:44	sjcWJyKeScI	MPREb_fYeqB86rRfW	UC2rL--PGNPCOTyn7BoTZu6A
@@ -149,7 +150,6 @@
 1703	Tommy's Vibration	Tommy McCook	When Jah Shall Come	INDIFFERENT	4:08	TXrqpsZePIA	MPREb_WgHhZOtwtK0	UCe82uABDLD9lF_7h16OLaUg
 988	Blessings (feat. Damage Musiq)	Tommy Lee Sparta	Blessings	INDIFFERENT	3:53	0YSC9GggnJw	MPREb_nDmZsaDpTyw	UCzsDAHXyVEBTqzUueicysoQ
 987	Little Drop Of Poison	Tom Waits	Orphans: Brawlers, Bawlers & Bastards	INDIFFERENT	3:09	As4qi_Kit90	MPREb_a1tmzaaDiXv	UC39N3pyt2Z15oOMjouokl8A
-1589	While My Guitar Gently Weeps	Tom Petty	The Best of Rock and Roll Hall of Fame + Museum Live	INDIFFERENT	6:20	AxVUH0oE6o0	MPREb_bFOzxhtAlWh	UC6hGusDLTI8bW-P4pMYdIqA
 1178	Indigo (As Featured in the Windows 10 Upgrade Video)	Tom Hillock & David Krutten	Indigo (As Featured in the Windows 10 Upgrade Video)	INDIFFERENT	4:08	58cuUwkdwr8	MPREb_DiqlxS70LVo	UCOBN1jccUsHkNFJMp1d7rqw
 1305	Tiger Claus	Tiger	Reggae Christmas	INDIFFERENT	3:58	uVmeZ3K30Uo	MPREb_1TGKJCHOaaV	UCI9NspASHWzBpGHzoXqfiZA
 1274	Pork Eater (feat. Rob Symeonn)	Ticklah	Ticklah vs. Axelrod	INDIFFERENT	3:37	8GpRil6ID0A	MPREb_poDFv9KPQCz	UCDL8HyED-x8xG1v0MFQR9VA
@@ -196,7 +196,7 @@
 181	Latif	The Spy From Cairo	Arabadub	INDIFFERENT	5:06	L9SxisOgoPw	MPREb_llt817tEVRm	UCwwdgfIiLUJ9J4AEvlBBgeg
 256	A Message to You Rudy (feat. Rico)	The Specials	Too Much Too Young	INDIFFERENT	2:54	Gkdz7ta72NY	MPREb_exQXruVGriU	UC2_ZQJKkRF9GapgwTMd_LMw
 611	A Message to You Rudy (feat. Rico)	The Specials	Too Much Too Young	INDIFFERENT	2:54	Gkdz7ta72NY	MPREb_exQXruVGriU	UC2_ZQJKkRF9GapgwTMd_LMw
-1392	Do Nothing (2022 Remaster)	The Specials		INDIFFERENT	3:45	R2MCaBHdVxA		
+1392	Do Nothing (2002 Remaster)	The Specials	More Specials	INDIFFERENT	3:45	C1CYP1fAN-A	MPREb_7n66OnxZkyF	UC2_ZQJKkRF9GapgwTMd_LMw
 1653	Ghost Town	The Specials	Stereo-Typical: A's, B's & Rarities	INDIFFERENT	3:40	WACzk0ZEuJk	MPREb_UDoZvD6iJfY	UC2_ZQJKkRF9GapgwTMd_LMw
 1055	Divine Thing	The Soup Dragons	Hotwired (Deluxe / Remastered)	INDIFFERENT	3:52	YLMWmP6ta04	MPREb_rShvzYEnNnY	UCz8rrwLKIST9O5ltCaxML0A
 284	Johnny Too Bad	The Slickers	The Harder They Come (Original Motion Picture Soundtrack)	INDIFFERENT	3:04	Sz_QVTejXdY	MPREb_nGNOa4D7lFC	UCdzMls67C3DOwCsiz7bsTVQ
@@ -274,7 +274,7 @@
 1420	Awake	The Ethiopians	High Plains Drifter	INDIFFERENT	2:58	PrawDM7QEWU	MPREb_ij2uG5zFxte	
 1742	What a Fire	The Ethiopians	Reggae Power	INDIFFERENT	2:42	X59Oqt7Vi6k	MPREb_cR3T0T1Z9is	UCZI-9FsgUny9YhfIGaeMWoQ
 438	Ranking Full Stop	The English Beat	Tears of A Clown	INDIFFERENT	2:48	oewfuzoQ8uU	MPREb_A7L9Gy6JZ88	UC2T_4pL_QDvVdfugRtaxfsA
-635	Ranking Full Stop	The English Beat		INDIFFERENT	2:48	05JUMJrTwwg		
+635	Ranking Full Stop	The English Beat	Tears of A Clown	INDIFFERENT	2:48	oewfuzoQ8uU	MPREb_A7L9Gy6JZ88	UC2T_4pL_QDvVdfugRtaxfsA
 38	Gonna Shine	The Elovaters	Defy Gravity	INDIFFERENT	3:36	2VElYp0BO5w	MPREb_iMWWlV2LSS8	UCfzHPxyx5fIAnp0CDzAqFXQ
 972	Same Mistakes	The Echo Friendly	Love Panic	INDIFFERENT	3:10	YB325RaKE8k	MPREb_PuYir7LSdWc	UC0LuI8V1iGz-wgaS6ATx_qQ
 971	Fever	The Dynamics	Version Excursions	INDIFFERENT	5:55	YtJaiHb9B-o	MPREb_MHnMmJAHAWC	UCA_157CHH7TSfmvONH6OQGw
@@ -747,6 +747,7 @@
 875	Come Sit Sing  	Lisa O'Neill	Same Cloth or Not	INDIFFERENT	4:07	J-0SYEp8CHs	MPREb_xzNctqDb1fM	UC7yZDdYW05Wou5yTjUf_HWw
 1689	Good Ganja Herb	Lion D	The Burning Melody	INDIFFERENT	3:46	4PencPoQL5w	MPREb_bv5NavcLVId	UCG3_kBCtOxLV2837hhezbqw
 550	Ride On (Natty Dreadlocks)	Linval Thompson	Don't Cut Off Your Dreadlocks	INDIFFERENT	3:09	LOJ24kToN4E	MPREb_VKLX4l9ioms	UCh4c57NYdSSBJV5YDsm7hEg
+572	Don't Cut off Your Dreadlocks	Linval Thompson	The Reggae Artists Gallery Platinum Edition	INDIFFERENT	3:09	Ljh-1xtZ8p4	MPREb_AehokpgbnPP	UCh4c57NYdSSBJV5YDsm7hEg
 574	Ride on Natty Dread	Linval Thompson	Legend	INDIFFERENT	3:13	9Dxyef3eZpU	MPREb_P1O8YaMVXcO	UCh4c57NYdSSBJV5YDsm7hEg
 1558	I Love Marijuana (Stereo)	Linval Thompson	Reggae Chartbusters Vol. 6	INDIFFERENT	3:25	uBSQwSYObrM	MPREb_zcADhicQZbh	UCh4c57NYdSSBJV5YDsm7hEg
 1746	Mr. Bossman	Linval Thompson	Six Babylon	INDIFFERENT	3:19	ekCj_3Ydh_k	MPREb_RUvc1G7ekbg	UCh4c57NYdSSBJV5YDsm7hEg
@@ -992,7 +993,7 @@
 195	Jah Love	House of Shem	Jah Love	INDIFFERENT	4:11	akXZURJjE4I	MPREb_l2YuYvirQPW	UCmO2yQal6qC4nYpX7I6rsvw
 108	Money Money	Horace Andy	Skylarking - The Best Of Horace Andy	INDIFFERENT	2:21	qAl4-vqitts	MPREb_vVpqCWmomsT	UC6FtczJEj05c3bLscIiyjKA
 115	The Love Of A Woman	Horace Andy	Bunny Lee Presents A Tribute To The Late Great Sir Coxsone Dodd, Vol. 2	INDIFFERENT	3:15	97it7zO3p98	MPREb_JoTVJfkGBGr	UC6FtczJEj05c3bLscIiyjKA
-122	Something On My Mind	Horace Andy	Something On My Mind	INDIFFERENT	2:05	TcJ4YKvfic0	MPREb_ibzwjRGUMuA	UC6FtczJEj05c3bLscIiyjKA
+122	Something On My Mind	Horace Andy	EP Vol 9	INDIFFERENT	2:02	18uEWugspqQ	MPREb_2wML8wC0ogV	UC6FtczJEj05c3bLscIiyjKA
 135	Just Say Who (Mix 1)	Horace Andy	Bunny Striker Lee Presents Horace Andy Platinum Edition	INDIFFERENT	2:13	0ogAGVVvDiQ	MPREb_WpnkTQ4vJJA	UC6FtczJEj05c3bLscIiyjKA
 360	Fever	Horace Andy	Mr. Bassie	INDIFFERENT	3:47	Octmu5VZWMY	MPREb_tbppu17Ruqv	UC6FtczJEj05c3bLscIiyjKA
 368	Skylarking	Horace Andy	The Bunny Striker Lee Story, Vol. 4	INDIFFERENT	2:42	2hSuQnMpvs4	MPREb_SjxvC9g0tO5	UC6FtczJEj05c3bLscIiyjKA
@@ -1635,8 +1636,8 @@
 522	I A Rebel Soul	Aswad	Aswad	INDIFFERENT	5:02	q4IM5vY-JEQ	MPREb_95YMVW3dk6S	UCFcimxcEUSKUVUltHH0lehQ
 662	Behold	Aswad	Hulet	INDIFFERENT	7:08	tM2gZGm-wpI	MPREb_Q5JCZvq4zZI	UCFcimxcEUSKUVUltHH0lehQ
 663	Dub Fire	Aswad	New Chapter Of Dub	INDIFFERENT	4:30	7cC8ZZa-Grw	MPREb_cEocn6FrHV9	UCFcimxcEUSKUVUltHH0lehQ
-664	Oh Jah	Aswad	Not Satisfied	INDIFFERENT	5:31	opbO0k7g-kA	MPREb_OUXYMK7mJ3l	UCFcimxcEUSKUVUltHH0lehQ
-665	African Children	Aswad	New Chapter	INDIFFERENT	3:40	y-K_tsZufRo	MPREb_nmsrZUVQBYT	UCFcimxcEUSKUVUltHH0lehQ
+664	Oh Jah	Aswad	Not Satisfied	INDIFFERENT	5:32	opbO0k7g-kA	MPREb_OUXYMK7mJ3l	UCFcimxcEUSKUVUltHH0lehQ
+665	African Children	Aswad	New Chapter	INDIFFERENT	3:41	y-K_tsZufRo	MPREb_nmsrZUVQBYT	UCFcimxcEUSKUVUltHH0lehQ
 666	Warrior Charge	Aswad	Don't Turn Around: The Best Of Aswad	INDIFFERENT	3:53	CS6Q4Fg2Gj0	MPREb_jOC7oZyQISN	UCFcimxcEUSKUVUltHH0lehQ
 1359	Back To Africa	Aswad	Crucial Tracks	INDIFFERENT	5:33	fwRg_8sZ32U	MPREb_seLSghPwwWd	UCFcimxcEUSKUVUltHH0lehQ
 1429	Chasing For The Breeze	Aswad	Crucial Tracks	INDIFFERENT	3:48	4STZRJFzTxw	MPREb_seLSghPwwWd	UCFcimxcEUSKUVUltHH0lehQ
@@ -1746,6 +1747,5 @@
 919	Bout Noon	Protoje	A Matter of Time			oH_YwB4qoMw		
 920	Flames	Protoje	A Matter of Time			xvf7cna5KB0		
 145	Sweet Remedy	Maoli	Best Of			ZBDEUCRMYUs		
-572	Don't Cut Off Your Dreadlocks	Linval Thompson	50 Years of Jamaica Roots & Culture Tribute			PP2gAC4e4HU		
 557	Trench Town Rock	Bob Marley & The Wailers	Legacy: Ride Natty Ride, Ep. VI			PgV4q2OZYtc		
 1568	Shine Eye Gal	Black Uhuru	Reggae Pa' Curar La Cruda			6q650NP_3N0		

@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 187	Nitro (Youth Energy)	The Offspring	Smash	LIKE	2:27	Z4V0HpfinOs	MPREb_87HJirZa1Nw	UCQVUXQu8RpxhihAMla6ke5A
 11	Runaway Train	Soul Asylum	Grave Dancers Union	LIKE	4:26	5cRopUrDgRQ	MPREb_gJPILAANMwM	UCBrz057oZZSd-a6TJx1lE8w
+154	Wind Of Change	Scorpions	Crazy World	LIKE	5:13	Ukh1zoiV304	MPREb_eg1TtkLmqcP	UCL_jrFsNj-2iC9Obf5M8_uw
 1	Dammit	blink-182	Greatest Hits	INDIFFERENT	2:46	gDrIvnbwrHk	MPREb_L6fN37WTyo1	UCo23ROZAe-BZYHpzBu9630Q
 119	What's My Age Again?	blink-182	Enema Of The State	INDIFFERENT	2:29	BsnddlzfV3A	MPREb_JFruwWgHrSE	UCo23ROZAe-BZYHpzBu9630Q
 123	A New Hope	blink-182	Dude Ranch	INDIFFERENT	3:45	G0JYkTQiGO0	MPREb_i9qsvf9GKTy	UCo23ROZAe-BZYHpzBu9630Q
@@ -77,7 +78,6 @@
 40	Israel's Son	Silverchair	Frogstomp	INDIFFERENT	5:19	U0_V39cN5oE	MPREb_8COwZu7i2MG	UCvt5tDpc8I4RoS6LQH0fKog
 46	Tomorrow	Silverchair	Frogstomp	INDIFFERENT	4:27	rhve6e6Z4Qw	MPREb_8COwZu7i2MG	UCvt5tDpc8I4RoS6LQH0fKog
 81	Leaving Las Vegas	Sheryl Crow	Tuesday Night Music Club	INDIFFERENT	5:09	P7WsJd7WXfs	MPREb_dHQAwEG3Ncv	UCs_thZ6oUaAptN71DQwBKgw
-154	Wind Of Change	Scorpions	Crazy World	INDIFFERENT	5:13	Ukh1zoiV304	MPREb_eg1TtkLmqcP	UCL_jrFsNj-2iC9Obf5M8_uw
 95	Misogyny	Rusty	Fluke	INDIFFERENT	5:36	_MmBKT5q2xQ	MPREb_L50Jlgg47ij	UC0zbSVB7ySJQYU14gTwTAoQ
 41	Dragula	Rob Zombie	Hellbilly Deluxe	INDIFFERENT	3:42	SOctyXxCm-4	MPREb_RvlLj52gRaG	UCgcoBtYryju2lCbaJmS62Cg
 63	Chelsea Girl (2001 Remaster)	Ride	Smile	INDIFFERENT	2:59	FltlLakHxZY	MPREb_WyETvoUnZvg	UC1agXNA0qr9yCDX6gYOcKAg
@@ -109,7 +109,7 @@
 16	Powertrip	Monster Magnet	Powertrip	INDIFFERENT	3:31	vH8fiQ3gqww	MPREb_slKk5CwS0N0	UCpJNs0_7fZ5tfwEqNMa1Q4Q
 39	Negasonic Teenage Warhead	Monster Magnet	Dopes To Infinity	INDIFFERENT	4:27	s9vSW6mL14c	MPREb_73Fa8rWZKdi	UCpJNs0_7fZ5tfwEqNMa1Q4Q
 175	Jesus Built My Hotrod	Ministry	KE*A*H** (Psalm 69)	INDIFFERENT	4:53	LRVMUOYTc3Y	MPREb_JG8DIpKTh9H	UCkHZWbfPk_iA8_Rio-9J5LA
-101	Whiskey In The Jar	Metallica	Garage, Inc.	INDIFFERENT	5:04	9PmfpsIh5w0	MPREb_VcIlKgBL8eR	UCGexNm_Kw4rdQjLxmpb2EKw
+101	Whiskey In The Jar	Metallica	The Metallica Collection	INDIFFERENT	5:05	57GiETk5O3g	MPREb_ct3dFTo4BOm	UCGexNm_Kw4rdQjLxmpb2EKw
 17	Bitch	Meredith Brooks	Blurring The Edges	INDIFFERENT	4:13	zIAku-Qwfl0	MPREb_79M04KxaOxD	UCZunrw2b6MNnwc0kReRqFCw
 103	Foreclosure Of A Dream (Remastered/2012)	Megadeth	Countdown To Extinction (Deluxe)	INDIFFERENT	4:17	1NnYBd75ZH4	MPREb_mJz9b3eC9uZ	UCW5bkwocGGoeJjHTJZIEAOw
 124	Hangar 18 (Remastered 2004)	Megadeth	Rust In Peace	INDIFFERENT	5:12	x5A9Aa-WU5E	MPREb_nVYfMeSVNiy	UCW5bkwocGGoeJjHTJZIEAOw

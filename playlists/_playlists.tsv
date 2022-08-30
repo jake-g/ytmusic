@@ -19,7 +19,7 @@
 440	y_2019_thumbs_up	1450	6+ hours	PRIVATE	PLWptjpDqazOx4Du7ehdzqeASga8HCvMo2
 487	y_2018_top_50_albums	556	9+ hours	PRIVATE	PLWptjpDqazOwXmARvM-jU6w9tw6PCwpED
 441	y_2018_thumbs_up	2824	6+ hours	PRIVATE	PLWptjpDqazOyfctX2Yl0FFyHicZYyY-sS
-488	y_2018-2019_ambient_albums_unrated	226	12+ hours	PRIVATE	PLWptjpDqazOzBWSGKFwz9uJZLqDaVAn7x
+488	y_2018-2019_ambient_albums_unrated	226	13+ hours	PRIVATE	PLWptjpDqazOzBWSGKFwz9uJZLqDaVAn7x
 442	y_2017_thumbs_up	1184	6+ hours	PRIVATE	PLWptjpDqazOzq39_MwaIsAr3ezFMJIrO_
 443	y_2016_thumbs_up	705	6+ hours	PRIVATE	PLWptjpDqazOznZsVQlmtI4FORqLiLbXnl
 444	y_2015_thumbs_up	634	6+ hours	PRIVATE	PLWptjpDqazOzGDgVunuaK9S63c7JDxo-g
@@ -109,7 +109,7 @@
 96	x_r.disco_albums	21	2 hours, 20 minutes	PRIVATE	PLWptjpDqazOznkJ2BF92Efgmb_MU6Tbpd
 193	x_r.deephouse_tracks_radio	584	11+ hours	PRIVATE	PLWptjpDqazOxRQEdmomGQyKQqkY2FpqbP
 194	x_r.deephouse_tracks_like	28	3 hours, 24 minutes	PRIVATE	PLWptjpDqazOxfKh6l9HcBD712hPyLNySs
-132	x_r.deepcuts_tracks_radio	243	7+ hours	PRIVATE	PLWptjpDqazOx590bxcA_819s9LnnBxbsN
+132	x_r.deepcuts_tracks_radio	241	7+ hours	PRIVATE	PLWptjpDqazOx590bxcA_819s9LnnBxbsN
 131	x_r.dancepunk_tracks_radio	76	5 hours, 6 minutes	PRIVATE	PLWptjpDqazOyyW1rvxMxB-jXHJnR5wR24
 296	x_r.chillwave_tracks_radio like	23	1 hour, 27 minutes	PRIVATE	PLWptjpDqazOyA3RPqs_evF07P1_OgPUmx
 112	x_r.chillwave_tracks_radio	621	7+ hours	PRIVATE	PLWptjpDqazOxCWW0iAkR4E2OcCOywoEMT
@@ -166,7 +166,7 @@
 26	x_r.Gfunk_tracks not like	28	1 hour, 46 minutes	PRIVATE	PLWptjpDqazOwS-Aw93tXp_Mt5GZ7z-mO_
 94	x_r.FunkSouMusic_tracks_radio	288	7+ hours	PRIVATE	PLWptjpDqazOwDC6MhSza41T44DA_YKRb_
 209	x_r.FunkSouMusic_tracks_like	37	3 hours, 6 minutes	PRIVATE	PLWptjpDqazOz5HnMqpy-20l4tQnz80ejp
-210	x_r.Flamenco_tracks_radio	75	5 hours, 18 minutes	PRIVATE	PLWptjpDqazOzv7k0HctK5MPbux6zj_AS2
+210	x_r.Flamenco_tracks_radio	75	5 hours, 16 minutes	PRIVATE	PLWptjpDqazOzv7k0HctK5MPbux6zj_AS2
 37	x_r.Elephant6_tracks_radio like	47	2 hours, 37 minutes	PRIVATE	PLWptjpDqazOyL3pzna7RXkF5mvWXudVJL
 211	x_r.ElectronicMusic_tracks_radio	272	8+ hours	PRIVATE	PLWptjpDqazOw5g2FIld6JEkrvVi95TM_f
 160	x_r.ElectronicMusic_tracks_like	86	7 hours, 47 minutes	PRIVATE	PLWptjpDqazOwB2D2awkV_qFtlrZ-B0Lxj
@@ -176,12 +176,12 @@
 107	x_r.DreamPop_albums	99	6 hours, 9 minutes	PRIVATE	PLWptjpDqazOyKJngvlXF3_eziWI40DaiA
 133	x_r.DoomMetal_tracks_radio	74	9 hours, 21 minutes	PRIVATE	PLWptjpDqazOyfLCeOrL-k9Bnp-sA7QD2r
 108	x_r.DoomMetal_albums	47	6 hours, 17 minutes	PRIVATE	PLWptjpDqazOyKamiPfN6tFdixqacUAtX8
-6	x_r.ClassicRock_tracks_radio not like	39	3 hours, 6 minutes	PRIVATE	PLWptjpDqazOzGfGxOrrtDUxy1OTPG5rAY
+7	x_r.ClassicRock_tracks_radio not like	39	3 hours, 6 minutes	PRIVATE	PLWptjpDqazOzGfGxOrrtDUxy1OTPG5rAY
 309	x_r.BinauralMusic_tracks_radio	28	2 hours, 6 minutes	PRIVATE	PLWptjpDqazOwfKx9JGEKjtS4TXq97xyJ6
 213	x_r.AtmosphericDnB_tracks_radio	283	10+ hours	PRIVATE	PLWptjpDqazOzZy_wySfSaFbBKisC1S0qH
 21	x_r.AfricanMusic_tracks_radio like	17	1 hour, 26 minutes	PRIVATE	PLWptjpDqazOwNG87iuw5IeGrU9j-miAyV
 22	x_r.AfricanMusic_tracks_radio	149	7+ hours	PRIVATE	PLWptjpDqazOxFSlK-oj43sHmJNm2-VIHD
-30	x_r.90shiphop_tracks_radio	143	6+ hours	PRIVATE	PLWptjpDqazOyY0t6nR7THhjMcqeGmzNng
+30	x_r.90shiphop_tracks_radio	142	6+ hours	PRIVATE	PLWptjpDqazOyY0t6nR7THhjMcqeGmzNng
 153	x_r.90shiphop_albums	811	7+ hours	PRIVATE	PLWptjpDqazOzDOIhVuC4HFb6AjIEMzBJY
 214	x_r.90sRock_tracks_radio	151	6+ hours	PRIVATE	PLWptjpDqazOw_fQx6nJq7TcjoAj7Gu-YW
 40	x_r.90sRock_tracks_like	251	7+ hours	PRIVATE	PLWptjpDqazOyJfcGxiuhB2_jfxDP9e18n
@@ -210,8 +210,8 @@
 63	x_r.2000smusic_tracks_radio	702	6+ hours	PRIVATE	PLWptjpDqazOwqElUoilyL6ih7vsOBL16f
 217	x_r.2000smusic_tracks_like	76	5 hours, 12 minutes	PRIVATE	PLWptjpDqazOxnmxikFDKOXszYFONGWs8U
 265	triphop bristol sound	114	8+ hours	UNLISTED	PLWptjpDqazOxPvsuNWAtD9Op-TSaRjZPU
-7	trip hop radio	828	8+ hours	PRIVATE	PLWptjpDqazOzEsdNLFpkBG8sDtfDsShI7
-5	trip hop like	274	7+ hours	PRIVATE	PLWptjpDqazOzdRdCssBWPBD-R_8V-A8PD
+8	trip hop radio	828	8+ hours	PRIVATE	PLWptjpDqazOzEsdNLFpkBG8sDtfDsShI7
+6	trip hop like	274	7+ hours	PRIVATE	PLWptjpDqazOzdRdCssBWPBD-R_8V-A8PD
 24	summertime covers radio	16	1 hour, 13 minutes	PRIVATE	PLWptjpDqazOxsJPUKx14D4qlEK18lo2oD
 23	summertime covers like	10	44 minutes	PRIVATE	PLWptjpDqazOw2I1AmrJOaKKjve04pICim
 463	soul rock covers	25	1 hour, 46 minutes	PRIVATE	PLWptjpDqazOzPFIhKPyQS5QbQe-2V0EuJ
@@ -225,16 +225,16 @@
 284	rockabilly	182	3+ hours	UNLISTED	PLWptjpDqazOwC1rC1VsENIggX9eu7OcMh
 387	rock surf modern like	56	2 hours, 50 minutes	PRIVATE	PLWptjpDqazOxclqB8kE8Nwlh82vx56ohv
 389	rock surf like	40	1 hour, 40 minutes	PRIVATE	PLWptjpDqazOxgjrhnBfkatNMaudE8-jPH
-10	rock stoner sludge dank radio	397	9+ hours	PRIVATE	PLWptjpDqazOwCW-4O3vpPse15O2gX16Rt
-9	rock stoner sludge dank like	49	6 hours, 11 minutes	PRIVATE	PLWptjpDqazOxWXSCwg4cJyEy3HmM_0kSa
+11	rock stoner sludge dank radio	397	9+ hours	PRIVATE	PLWptjpDqazOwCW-4O3vpPse15O2gX16Rt
+10	rock stoner sludge dank like	49	6 hours, 11 minutes	PRIVATE	PLWptjpDqazOxWXSCwg4cJyEy3HmM_0kSa
 399	rock proto metal radio	124	7+ hours	PRIVATE	PLWptjpDqazOxzwPEDJ7Mo0TmpncbDHcgE
 398	rock proto metal like	23	1 hour, 40 minutes	PRIVATE	PLWptjpDqazOwWjZCjuR5jlwrJYwVPY_7S
 341	rock modern chill	672	5+ hours	PRIVATE	PLWptjpDqazOx_oQp1XIOyfRq0FRRppsOV
 56	rock krautrock	130	10+ hours	UNLISTED	PLWptjpDqazOy8Z8iR9Hf4aeZqQFlZ86YF
 300	rock instrumentals classic vintage radio	120	5+ hours	PRIVATE	PLWptjpDqazOwAcbA_TakKtnBm0_tJCNxN
 299	rock instrumentals classic vintage like	50	3 hours, 22 minutes	PRIVATE	PLWptjpDqazOyPuQnGYzu1UXjsSquNdbYF
-12	rock classic radio	468	5+ hours	PRIVATE	PLWptjpDqazOzvoQ3jqJuSieqBIdW0kMTb
-1	rock classic like	863	6+ hours	PRIVATE	PLWptjpDqazOxXU8JOKzD37OeRnUoCmb2J
+2	rock classic not like	232	6+ hours	PRIVATE	PLWptjpDqazOxuvkD8d3o_cALrXYZe6Fl5
+1	rock classic like	1046	6+ hours	PRIVATE	PLWptjpDqazOxXU8JOKzD37OeRnUoCmb2J
 44	rock blues	85	7 hours, 52 minutes	PRIVATE	PLWptjpDqazOxrF2Hf6yGlX8mowiTI7aKg
 459	rock Pink Floyd epic	10	2 hours, 3 minutes	PRIVATE	PLWptjpDqazOzGwXPh4lua_Ctdsr9CSRqd
 33	rock Motorik like	48	4 hours, 35 minutes	PRIVATE	PLWptjpDqazOw0l9puQrP4Jwlrys0kuOLN
@@ -255,7 +255,7 @@
 278	rock 1950s roots like	220	4+ hours	PRIVATE	PLWptjpDqazOzJ8Wu0v7r8jQ154N_L2bn1
 475	rnb dj	42	2 hours, 39 minutes	PRIVATE	PLWptjpDqazOz1L95Q338qxVcNCM6Dnjgj
 395	reggae modern	32	1 hour, 59 minutes	PRIVATE	PLWptjpDqazOx14-8ys92ZOqKWXJURZACw
-467	reggae covers	65	3 hours, 32 minutes	PRIVATE	PLWptjpDqazOx1MzvkbRim3H6wsEJZiEHf
+467	reggae covers	65	3 hours, 42 minutes	PRIVATE	PLWptjpDqazOx1MzvkbRim3H6wsEJZiEHf
 250	reggae classic	186	6+ hours	UNLISTED	PLWptjpDqazOzN08L25LthbcHPE_NyLllM
 401	punk skate or die	91	3 hours, 48 minutes	PRIVATE	PLWptjpDqazOz6REFjXQni59r7nCHScHrl
 365	punk 1970s radio	189	4+ hours	PRIVATE	PLWptjpDqazOzKTGUseYuwhj-2CcYd5LzA
@@ -310,7 +310,7 @@
 465	hiphop trap_rap dj	41	2 hours, 31 minutes	PRIVATE	PLWptjpDqazOwwQoQogXsz6xq02OOomjXD
 339	hiphop soul good vibe	237	6+ hours	PRIVATE	PLWptjpDqazOwI6-Pjk6ImxbjTrhBSDgVa
 345	hiphop old school radio	1033	6+ hours	PRIVATE	PLWptjpDqazOyriukzcxU2lfKh-NbN7ZSE
-3	hiphop old school like	822	6+ hours	PRIVATE	PLWptjpDqazOy0LSYGkNYZDw9m3ZmzDWRt
+4	hiphop old school like	822	6+ hours	PRIVATE	PLWptjpDqazOy0LSYGkNYZDw9m3ZmzDWRt
 123	hiphop modern radio	731	5+ hours	PRIVATE	PLWptjpDqazOxMM-ROYKYWN7qog9sT4nsz
 350	hiphop modern	415	5+ hours	PRIVATE	PLWptjpDqazOwjuLOcuyPpCnzwSjxZvVLt
 124	hiphop jazzy	236	6+ hours	PRIVATE	PLWptjpDqazOyfO1n77MvWet0a8h5VY2Z0
@@ -345,8 +345,8 @@
 48	electronic radio	594	7+ hours	PRIVATE	PLWptjpDqazOx9rADHAwPS8EZJmBi0EZvg
 342	electronic new indie beats	405	7+ hours	PRIVATE	PLWptjpDqazOxuohC3NfHZE7B7AOExePAY
 483	electronic jaar	38	2 hours, 57 minutes	PRIVATE	PLWptjpDqazOx811f6V-BHTQ0TfKC2qaRG
-11	electronic indie radio	128	7+ hours	PRIVATE	PLWptjpDqazOwbVfJ7eY8kgd7ZoEIxBWMI
-2	electronic indie essentials like	48	3 hours, 33 minutes	PRIVATE	PLWptjpDqazOwvKerWiNoubNTSmyuRxSq-
+12	electronic indie radio	128	7+ hours	PRIVATE	PLWptjpDqazOwbVfJ7eY8kgd7ZoEIxBWMI
+3	electronic indie essentials like	48	3 hours, 33 minutes	PRIVATE	PLWptjpDqazOwvKerWiNoubNTSmyuRxSq-
 456	electronic house funk	28	2 hours, 1 minute	PRIVATE	PLWptjpDqazOzafsrknoXfRSODvqwEKStH
 51	electronic house french touch	54	4 hours, 5 minutes	PRIVATE	PLWptjpDqazOyVcDeigE3HZgHw6YPAHLbc
 452	electronic house dj	90	7 hours, 45 minutes	PRIVATE	PLWptjpDqazOxyPT5Js73Rq6XaPdMJqag9
@@ -399,7 +399,7 @@
 0	Your Likes	5000		PUBLIC	LM
 330	Vintage Christmas Crooners	59	2 hours, 41 minutes	PUBLIC	RDCLAK5uy_lu_DWkCX9Qz5upUBcvrs3nv8dgpbwxc0w
 263	Traditional Jazz	50	4 hours, 6 minutes	PUBLIC	RDCLAK5uy_n8797v38N8JhZdT2JJtlM0OfIpgkJ3Mkk
-328	The World of Lou Reed and the Velvet Underground	61	4 hours, 3 minutes	PUBLIC	RDCLAK5uy_nyfq1-oqLj7FshnQnr3mZBph1aaJEuk3A
+328	The World of Lou Reed and the Velvet Underground	62	4 hours, 8 minutes	PUBLIC	RDCLAK5uy_nyfq1-oqLj7FshnQnr3mZBph1aaJEuk3A
 238	The World of Elliott Smith	67	4 hours, 8 minutes	PUBLIC	RDCLAK5uy_nB_R70tDRIXLaMkE-yRCQXDiw14yTNvFc
 414	Soul Food Kitchen radio	48	2 hours, 30 minutes	PRIVATE	PLWptjpDqazOxC4O7L5jUGNjoZT3hxcOVO
 260	Soul Classic Sunshine radio	75	5 hours, 7 minutes	PRIVATE	PLWptjpDqazOxpB2y4hObo3-AiwhEXrfHf
@@ -433,7 +433,7 @@
 277	Oldies radio	205	4+ hours	PRIVATE	PLWptjpDqazOwh8F0hiM22_GK-djKfkLAJ
 273	Oldies like	187	5+ hours	PRIVATE	PLWptjpDqazOwCtoPdxShk4YdMx-cYFNrS
 457	Live concert phone recordings	9	4 hours, 48 minutes	PRIVATE	PLWptjpDqazOz_gghQuGB2a47Z0qJPgUfV
-236	Kurt Cobain's Record Collection	89	5 hours, 3 minutes	PUBLIC	RDCLAK5uy_mMtFEWRAG7FlKP-E9-ysmPba2fHmycpbA
+236	Kurt Cobain's Record Collection	92	5 hours, 9 minutes	PUBLIC	RDCLAK5uy_mMtFEWRAG7FlKP-E9-ysmPba2fHmycpbA
 276	Jukebox Vintage Party radio	979	4+ hours	PRIVATE	PLWptjpDqazOwi_uk7w57czvnhyJMlj50M
 272	Jukebox Vintage Party like	314	4+ hours	PRIVATE	PLWptjpDqazOzn5RLw_S_mrsC7FPQtPjoT
 261	Jazz Feels the Blues	45	4 hours, 7 minutes	PUBLIC	RDCLAK5uy_lOB7GHW5BVWDQa_ek2rB9iV6gPxs0TX_A
@@ -456,8 +456,8 @@
 424	Hip hop It Was a Good Day like	61	4 hours, 16 minutes	PRIVATE	PLWptjpDqazOwPpScDyVyimYUgK2MDJhiZ
 360	Hip Hop Hits unrated	186	7+ hours	PRIVATE	PLWptjpDqazOwbr0o3OG3Y1U0u5GzX1F1p
 349	Hip Hop Hits liked	280	6+ hours	PRIVATE	PLWptjpDqazOxbGg-TKQpv2dnB5E-VAm8z
-8	Hip Hop Classic West Coast radio	84	5 hours, 46 minutes	PRIVATE	PLWptjpDqazOwPbDuNaQaS30ErNtQHnr1Z
-4	Hip Hop Classic West Coast like	73	5 hours, 1 minute	PRIVATE	PLWptjpDqazOyRLxpJySohZ4DcxdVyaaZu
+9	Hip Hop Classic West Coast not like	84	5 hours, 46 minutes	PRIVATE	PLWptjpDqazOwPbDuNaQaS30ErNtQHnr1Z
+5	Hip Hop Classic West Coast like	73	5 hours, 1 minute	PRIVATE	PLWptjpDqazOyRLxpJySohZ4DcxdVyaaZu
 359	Hip Hop 2000s radio	121	7+ hours	PRIVATE	PLWptjpDqazOwEF7gUh72rAz7bObhr_Py7
 348	Hip Hop 2000s like	58	4 hours, 5 minutes	PRIVATE	PLWptjpDqazOw_uHQG7vzQChp3Ws37lH3a
 358	Hip Hop 1990s radio	502	6+ hours	PRIVATE	PLWptjpDqazOxC3Z4xMR3iV-YP7VnqCLaz
@@ -478,7 +478,7 @@
 433	Electronic 2010s like	50	4 hours, 21 minutes	PRIVATE	PLWptjpDqazOx2x3aj9_VgQPuFzYcHH-U9
 38	Cool Jazz Moods	60	5 hours, 20 minutes	PUBLIC	RDCLAK5uy_l3Iir9QZmCUPLjUqyR9PmYIKkkY7YEJZA
 294	Chillwave	365	5+ hours	PRIVATE	PLWptjpDqazOz8uJMJlqGaGsTK7QAX9n0S
-312	Chill Supermix	50	5 hours, 51 minutes	PUBLIC	RDTMAK5uy_nzfwl2UYv7htL7wDoxbX8Pp6UAFBd92cQ
+312	Chill Supermix	50	2 hours, 51 minutes	PUBLIC	RDTMAK5uy_nzfwl2UYv7htL7wDoxbX8Pp6UAFBd92cQ
 413	Brass n chill	177	5+ hours	UNLISTED	PLWptjpDqazOy-rsznCJCnzCZUM4VtBmyh
 45	Bossa Nova radio	378	4+ hours	PRIVATE	PLWptjpDqazOxlOJDQnk2BcuXY982IQCwc
 331	Bossa Nova like	16	50 minutes	PRIVATE	PLWptjpDqazOxSvAlRXI-V4t7cW94qZM3E
