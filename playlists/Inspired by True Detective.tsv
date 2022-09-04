@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 20	Train Song (Columbia single, 1966)	Vashti Bunyan	Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)	LIKE	2:17	hswWRRk4vAo	MPREb_41v1PAz4bOn	UCAsYIm0d6ISVF_AUF_kfRig
-11	Tired of Waiting for You	The Kinks	Kinda Kinks	LIKE	2:31	jXY8vwL7G8w	MPREb_gfCdHy7L8m6	UCsQHS0_Fw1vIXm3TEbPokvA
+12	Tired of Waiting for You	The Kinks	Kinda Kinks	LIKE	2:31	jXY8vwL7G8w	MPREb_gfCdHy7L8m6	UCsQHS0_Fw1vIXm3TEbPokvA
 2	Far From Any Road	The Handsome Family	Singing Bones	LIKE	2:47	TRJ_s2G76Hg	MPREb_oowVEm6hLDb	UCVhxmmRcTkp5Pp3seJ-K-Ug
 42	Baby Blue	The 13th Floor Elevators	Easter Everywhere	LIKE	5:16	Gm7G-6jHoyE	MPREb_F8TSaScs9H3	UCAwuokMGAQsp1gy2GmXT2AA
 24	Holy Mountain	Sleep	Sleep's Holy Mountain	LIKE	8:44	HW4t-Pl3GhQ	MPREb_DkHSPitvF83	UCWBYenygd5SMBbBPQbS77JQ
@@ -20,14 +20,14 @@
 22	Meet Me in the Alleyway	Steve Earle	I'll Never Get Out Of This World Alive	INDIFFERENT	4:25	ip-zT953cqE	MPREb_l5DQow9awi2	UCOFb6pfPUawqjZmIim-ykZQ
 36	Rainin' In My Heart	Slim Harpo	Sings Raining In My Heart	INDIFFERENT	2:33	FkOoxzgJ6XM	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg
 30	Aquarian	Sleep	Sleep's Holy Mountain	INDIFFERENT	5:37	UcZQvO2SDCg	MPREb_DkHSPitvF83	UCWBYenygd5SMBbBPQbS77JQ
-46	Trance Figure (Nobody Remix)	School of Seven Bells	Iamundernodisguise	INDIFFERENT	3:21	kLJXjv3vc0M	MPREb_71dLaoWq8Ru	UC4eoZWeKALIFuOvG0FhXOBQ
+47	Trance Figure (Nobody Remix)	School of Seven Bells	Iamundernodisguise	INDIFFERENT	3:21	kLJXjv3vc0M	MPREb_71dLaoWq8Ru	UC4eoZWeKALIFuOvG0FhXOBQ
 5	The Angry River (From The HBO Series True Detective)	SI Istwa	True Detective (Music From The HBO Series)	INDIFFERENT	2:55	MtJoZBuHe6Q	MPREb_Qs9PHPBz3uI	UCy-IM_2m85pW-zYg4ehYxfQ
 39	Did She Jump or Was She Pushed?	Richard And Linda Thompson	Shoot Out The Lights	INDIFFERENT	4:57	KTsPJsZqkBM	MPREb_vdYVBeQoarh	UCmse8BInIJlDPsd4VifzOMQ
 7	American Life	Primus	Sailing The Seas Of Cheese	INDIFFERENT	4:30	old-VkM6SjM	MPREb_tJFcZE4JwVJ	UC_g748A40yHw0fQjXRqZYug
 45	The Brain Center at Whipples	Melvins	Hostile Ambient Takeover	INDIFFERENT	3:50	k5WBRJVUiXU	MPREb_1k9ThTgphWs	UCIiCAKBmdf7ef6w4ums3dtQ
 52	Disgusted	Lucinda Williams	Ramblin'	INDIFFERENT	2:33	-tBNXuQpfPQ	MPREb_cKEEQFtzcNB	UCGoF7aZZdqGLusNy9zEOkog
 15	The Only Thing Worth Fighting For (From The HBO Series True Detective)	Lera Lynn	The Only Thing Worth Fighting For (From The HBO Series True Detective)	INDIFFERENT	3:16	JcyhH1CulLs	MPREb_9IHjdiC7qpk	UCAZ8ZCGxG4LDqYmjfZWiS9Q
-12	Casey's Last Ride	Kris Kristofferson	The Essential Kris Kristofferson	INDIFFERENT	3:36	3sOZCkN-4Tc	MPREb_T9p2gdY4uET	UCqvZ_tHW8lg7MQPleCtxZnQ
+11	Casey's Last Ride	Kris Kristofferson	The Essential Kris Kristofferson	INDIFFERENT	3:36	3sOZCkN-4Tc	MPREb_T9p2gdY4uET	UCqvZ_tHW8lg7MQPleCtxZnQ
 0	Angel Of The Morning	Juice Newton	Juice	INDIFFERENT	4:10	fN5YZb6X8to	MPREb_pqrCoGVGAzc	UCpgPkRzgQeI6D6KMUZzQ4eA
 18	I'm A One Woman Men	Johnny Horton	American Originals	INDIFFERENT	1:58	BC_UQAuVVSY	MPREb_W58dGqH18UQ	UC148jhTSenkCKNLD5hXHFqQ
 4	I See A Darkness	Johnny Cash	American III: Solitary Man	INDIFFERENT	3:41	YtVKfHfea20	MPREb_3K8reixNeEV	UCiGs21G3KeE2tpbbMPzn9Qg
@@ -40,7 +40,7 @@
 44	The Good Book	Emmylou Harris	The Inner Flame (A Tribute to Rainer Ptacek)	INDIFFERENT	4:01	axDZW09BTTo	MPREb_PoOFHiLDQDw	UCVq1-9pb-o24ri5P2ZicJlA
 23	Fresh Blood	Eels	Hombre Lobo	INDIFFERENT	4:24	lkNC1f2shQg	MPREb_4h3xvEMZLCe	UCCqKCHVm-pttxJ44atMPwXg
 25	Cryin' Time	Dwight Yoakam	Dwight Sings Buck	INDIFFERENT	2:40	sFjjQUERgxU	MPREb_Rtckd3JIrdJ	UCYHQtLvZheLBlWV-ep78CZg
-47	Rocks And Gravel	Dave Van Ronk	In The Tradition	INDIFFERENT	4:25	IuDjfbzYo10	MPREb_mINZJA4Anz2	UCCg341pNKqwul6fDzBIbhqw
+46	Rocks And Gravel	Dave Van Ronk	In The Tradition	INDIFFERENT	4:25	IuDjfbzYo10	MPREb_mINZJA4Anz2	UCCg341pNKqwul6fDzBIbhqw
 17	Cross Bones Style	Cat Power	Moon Pix	INDIFFERENT	4:33	xda9J7EIwLw	MPREb_1SqIZFpXwVJ	UC1s55OQBwZ1Cg-k9EC7HaGA
 26	American Flag	Cat Power	Moon Pix	INDIFFERENT	3:31	yHOITZffnnY	MPREb_1SqIZFpXwVJ	UC1s55OQBwZ1Cg-k9EC7HaGA
 33	Clear Spot	Captain Beefheart And The Magic Band	Clear Spot	INDIFFERENT	3:39	eOJHnfSURF4	MPREb_wW2r8b3RVLA	UCRlJs9KpXAXdQI36nkZRYTQ
