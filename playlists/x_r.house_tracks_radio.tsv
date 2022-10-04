@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+79	Snooze 4 Love	Todd Terje	Ragysh	LIKE	8:08	xMuOAUtqIX8	MPREb_tsuWstyRlCW	UC0IiRfiEDA0GLLMufhUUOng
 115	U, Me and Madonna	1-800 GIRLS	U, Me and Madonna	LIKE	4:10	ao5auAcr-JU	MPREb_bXeG5CDu7bm	UCVV_wCHuxQG_4qIXz2su0sg
 398	I DON'T CARE	박혜진 park hye jin	IF U WANT IT	INDIFFERENT	5:40	mJGip45aye4	MPREb_OW2m55XfAaO	UCzpOvEC4QEFHCreXDeoFW9g
 3	Hold Up, Wait a Minute	ZHU	Genesis Series	INDIFFERENT	4:09	sjGMNHihLMo	MPREb_kEtUzwV2jqR	UCSw_oqIGG4dIo1GmnqUYdUA
@@ -14,7 +15,6 @@
 37	Kilter	Trance Boy	Misplaced Recordings, Vol. 3	INDIFFERENT	7:36	hOcSqb2RIEk	MPREb_wFYhc1g2Ysa	UC4TzcELy55b30-9v9z2-aiQ
 25	Keep On Jammin'	Toshinobu Kubota	Honey B	INDIFFERENT	6:00	kgT8cPRvSTA	MPREb_bimvcRIYBlo	UCE5xcoDCyPviej-PUx0rjHA
 12	Thief (Tilman Remix)	Tom Jay	Thief	INDIFFERENT	5:42	TaBFrpXLR1E	MPREb_Dxhd2roFrn0	UC85L0zJJwcJvmmCHfrahWqA
-79	Snooze 4 Love	Todd Terje	Ragysh	INDIFFERENT	8:08	xMuOAUtqIX8	MPREb_tsuWstyRlCW	UC0IiRfiEDA0GLLMufhUUOng
 131	Delorean Dynamite	Todd Terje	It's Album Time	INDIFFERENT	6:46	rLYMuO3il_4	MPREb_QqRpSu8t1EE	UC0IiRfiEDA0GLLMufhUUOng
 249	Strandbar	Todd Terje	It's Album Time	INDIFFERENT	4:29	y6b48V1j-CA	MPREb_QqRpSu8t1EE	UC0IiRfiEDA0GLLMufhUUOng
 266	Ragysh	Todd Terje	Ragysh	INDIFFERENT	8:20	f2tu1airJ1g	MPREb_tsuWstyRlCW	UC0IiRfiEDA0GLLMufhUUOng
@@ -160,11 +160,10 @@
 2	In A Dream	Marc Brauner	Sad But Ambitious EP	INDIFFERENT	5:36	o5IVcVLsTqU	MPREb_8skn86J78tN	UCylPyjcRiwKGtactmDkok0Q
 151	Sad But Ambitious	Marc Brauner	Sad But Ambitious EP	INDIFFERENT	7:05	ks1-BTrgkMw	MPREb_8skn86J78tN	UCylPyjcRiwKGtactmDkok0Q
 194	Day Dream	Marc Brauner	Two Of A Kind EP	INDIFFERENT	6:24	XA0TpDwT2aE	MPREb_h9or0rqBIBB	UCylPyjcRiwKGtactmDkok0Q
-153	Spirit Wave	Mall Grab	Spirit Wave	INDIFFERENT	5:18	ENWYoC9E35I	MPREb_CWVvFFB8K7j	UCEjft9l_W9IkW7_71Jz8YIA
 192	Room Full of Rothko	Mall Grab	Room Full of Rothko	INDIFFERENT	6:52	JXeuirAZSo4	MPREb_jFsLMVazp5I	UCEjft9l_W9IkW7_71Jz8YIA
 232	Liverpool Street In The Rain	Mall Grab	How The Dogs Chill, Vol.1	INDIFFERENT	5:33	IxQHHqqtd0M	MPREb_xqtQfPR9Gx4	UCEjft9l_W9IkW7_71Jz8YIA
 242	Bust	Mall Grab	How The Dogs Chill, Vol.1	INDIFFERENT	5:02	Uz8Ym6_hx4k	MPREb_xqtQfPR9Gx4	UCEjft9l_W9IkW7_71Jz8YIA
-331	Love Reigns	Mall Grab	Love Reigns	INDIFFERENT	4:55	cTR4QIGtjBs	MPREb_UhJFKkrQUjT	UCEjft9l_W9IkW7_71Jz8YIA
+331	Love Reigns	Mall Grab	What I Breathe	INDIFFERENT	4:55	UrPCNC41Kuw	MPREb_CS8tmSrOwhI	UCEjft9l_W9IkW7_71Jz8YIA
 277	Don't Call Me Baby (Original Mix - Edit)	Madison Avenue	Don't Call Me Baby	INDIFFERENT	3:48	LIWrcD4ImwA	MPREb_NC28rPgaSBT	UC6XhT9Pda1ZN3qh66ZwKARA
 291	Icarus (Extended Mix)	Madeon	Icarus	INDIFFERENT	4:09	1xMqRMA6TkI	MPREb_aNLV9COZuhB	UC9TynkEiIsDxKjtDZKmiUvw
 86	Heard It	Madcat	Deuxième Virage	INDIFFERENT	7:05	pbcJy8NYbWA	MPREb_ax0slEpdsA8	UCBasgPPE6qJwYNExoSqXf1A
@@ -201,7 +200,7 @@
 302	Szikra	Kornél Kovács	Szikra	INDIFFERENT	6:41	qHyaAZ9Sd8U	MPREb_7HCo5vB0aNw	UCvQyWfjUHOMvALPYi2c0XNw
 280	Sorry I Am Late (Extended)	Kollektiv Turmstrasse	Sorry I Am Late (Extended)	INDIFFERENT	8:10	ghAEFnxCqdY	MPREb_dtMlK5TRlXK	UC8aFpGJhlris9uqchVXwhlQ
 288	Finally	Kings of Tomorrow	It's in the Lifestyle	INDIFFERENT	5:16	MPjqDoqiEx8	MPREb_xnkZCJiNCsa	UCtdfefu0_gAOzcvwfwHX8Yw
-155	Fade II Black	Kings Of Tomorrow	Fade II Black	INDIFFERENT	7:52	ZnESksdw_mc	MPREb_T6rmXtElkab	UCtdfefu0_gAOzcvwfwHX8Yw
+155	Fade II Black	Kings Of Tomorrow	Fade II Black	INDIFFERENT	7:53	ma2nGiOZJxQ	MPREb_T6rmXtElkab	UCtdfefu0_gAOzcvwfwHX8Yw
 381	Nitelife (Armand Van Helden Retail Mix)	Kim English	Nitelife - Armand Van Helden Remixes	INDIFFERENT	6:58	Te44kYdF4OU	MPREb_yErM0QLiSQP	UCEQ51NIykMerfLDkhnjWSjA
 235	Hideaway	Kiesza	Sound Of A Woman	INDIFFERENT	4:11	IfA7brgHKo4	MPREb_uqlabYo8ukA	UC_ybuLZvG_HNpVn1X89o2NQ
 128	Perth	KiNK	Perth	INDIFFERENT	5:22	zcWAWP8-o3s	MPREb_73bTUEmPIYa	UCiS9apTWNqct0TmwecMCYpw
@@ -274,7 +273,7 @@
 132	Houston We Have a Problem	Genius Of Time	Drifting Back	INDIFFERENT	7:25	tjJfXQY3vDg	MPREb_QNevQeFUUMb	UCAOKXbAXS4vKwlBo_wV4nzw
 209	Vanilla	Gavinco	Vanilla	INDIFFERENT	6:47	EkduUC7iHvM	MPREb_tKO4I18Th8O	UCeNeOni_qUmoMWw8hXp-o9w
 437	Passion (Naked Mix)	Gat Decor	Passion	INDIFFERENT	4:22	QIiDjrT5_1I	MPREb_042iieTef7i	UCXQ6ZZKAoyeztSAmohdfjCA
-30	Love and Hate in a Different Time	Gabriels	Love and Hate in a Different Time	INDIFFERENT	4:43	sTfzv0mdGrM	MPREb_BNNIkEt3Z38	UCUCiSWz5rjqiT_clsg5u-vQ
+30	Love and Hate in a Different Time (Demo)	Gabriels	Love and Hate in a Different Time	INDIFFERENT	4:43	sTfzv0mdGrM	MPREb_BNNIkEt3Z38	UCUCiSWz5rjqiT_clsg5u-vQ
 57	Heaven Let Me In	Friendly Fires	Inflorescent	INDIFFERENT	4:41	XAuQlkHdJ1Y	MPREb_TTDXTgWMaSe	UCh4hJjHSz7KwukIetZ2o_Aw
 402	Lack Of Love	Friendly Fires	Inflorescent	INDIFFERENT	4:22	HpfX1ja_xlY	MPREb_TTDXTgWMaSe	UCh4hJjHSz7KwukIetZ2o_Aw
 335	Let's Get High	Freqish	Take Flight	INDIFFERENT	6:05	GJ9KRYaz9S0	MPREb_23O2F2znCHR	
@@ -288,8 +287,8 @@
 236	Morning Side	Four Tet	Morning / Evening	INDIFFERENT	20:24	f7bPQHTngAI	MPREb_WR3BQXKSnE6	UCd6q-S_HAePombe72bczCkA
 414	We Gotta Wake This World Up From Its Sleep	Folamour	We Gotta Wake This World Up From Its Sleep	INDIFFERENT	5:52	r5-fphfX_q0	MPREb_aPQjPC9N6Zl	UCCnNU9d4RbFgaGqeLbZ6pWA
 230	We Magnify His Name	Floorplan	Sanctified EP	INDIFFERENT	9:15	yxjX9auJe1o	MPREb_KwTIReNsRDm	UCw3D3V1HoSpq0bLGk3ifrjQ
-11	Lights Up (feat. Channel Tres)	Flight Facilities	FOREVER	INDIFFERENT	3:12	LixUUBpsxfM	MPREb_IFWvVE8UZcS	UC_C5okdXzTAzv6o92KOA6Bg
-407	Crave You (Hush Hush Bootleg) (feat. Giselle)	Flight Facilities	Crave You (Hush Hush Bootleg)	INDIFFERENT	5:42	xRY44_81Gmk	MPREb_fS5AvaukI7r	UC_C5okdXzTAzv6o92KOA6Bg
+11	Lights Up (feat. Channel Tres)	Flight Facilities	Lights Up (Remixes)	INDIFFERENT	3:12	1wB4iLsxAVM	MPREb_Z8VDknFm1kv	UC_C5okdXzTAzv6o92KOA6Bg
+407	Crave You (Hush Hush Bootleg) (feat. Giselle)	Flight Facilities	Crave You (Hush Hush Bootleg)	INDIFFERENT	5:42	mslZnIUEJHU	MPREb_fS5AvaukI7r	UC_C5okdXzTAzv6o92KOA6Bg
 9	Caught In The Rain	Ferreck Dawn	Caught In The Rain	INDIFFERENT	2:23	vl1Cfj-5sOU	MPREb_gYmG8V1HNY9	UCs3sH9yWYRFiIULd9XpkEOg
 101	Selfish Games (Extended Mix)	Ferreck Dawn	Selfish Games	INDIFFERENT	6:01	BBGs-Ey611Q	MPREb_EqnyzUEiRSz	UCs3sH9yWYRFiIULd9XpkEOg
 116	Insomnia (Monster Mix)	Faithless	Forever Faithless - The Greatest Hits	INDIFFERENT	8:42	yuTNcjRdX4Q	MPREb_WEZ6EYAib2t	UCHIi254Otz38TYgnEsUgfNg
@@ -442,5 +441,6 @@
 23	Confusion (feat. Ali Love)	&ME	Confusion	INDIFFERENT	6:57	e6VoOB6kuJc	MPREb_x5IGJiavrDD	UCDybdK-dSinh17k7Upr6aag
 38	You Used to Hold Me	Ralph Rosario	Ultimate House			17iPe0JTA9w		
 213	Can You Feel It (Martin Luther King Mix)	Mr.Fingers	The Complete 'Can You Feel It'			1Vz1rr9wyyk		
+153	Spirit Wave	Mall Grab	Spirit Wave			ENWYoC9E35I		
 5	Voyager (Apollo Mix)	COEO	Voyager (Apollo Mix)			Gss37rZJFsM		
 110	Short Dick Man (Club Mix)	20 Fingers	Short Dick Man		4:51	iLfk6pE5shE		

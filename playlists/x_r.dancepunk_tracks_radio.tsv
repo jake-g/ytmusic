@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 74	Out of the Races and Onto the Tracks	The Rapture	Out of the Races and Onto the Tracks	LIKE	4:03	T092lRzCejU	MPREb_HodiDgLsFzX	UCeNX7t0ZUTG5q2fek3LHzeA
 75	Give Me Back My Man	The B-52's	Wild Planet	LIKE	4:00	LLtfxWhDzco	MPREb_m3DaG0C2y28	UC5u9hv_wQvCj36vG4uS_CHQ
+40	North American Scum	LCD Soundsystem	Sound of Silver	LIKE	5:29	bu0_YRgZrEQ	MPREb_cuPW1vT6K8X	UCdsmJG8eFcr6Lxgau8E7afg
 69	Dance Yrself Clean	LCD Soundsystem	This Is Happening	LIKE	8:57	9ZNkPA_zUd4	MPREb_t8J0bo9v0ij	UCdsmJG8eFcr6Lxgau8E7afg
 71	Daft Punk Is Playing at My House	LCD Soundsystem	LCD Soundsystem	LIKE	5:15	c7eCpUG9r5U	MPREb_QmAHMGCWTIf	UCdsmJG8eFcr6Lxgau8E7afg
 72	Get Innocuous!	LCD Soundsystem	Sound of Silver	LIKE	7:12	0GpLkFv-CKU	MPREb_cuPW1vT6K8X	UCdsmJG8eFcr6Lxgau8E7afg
@@ -45,7 +46,6 @@
 14	Focker	Late of the Pier	Fantasy Black Channel	INDIFFERENT	3:15	ONaQhoMYPlU	MPREb_zvXtPtB5UAq	UCAlam7gpyJDaP9gsQb3RJnQ
 32	Mad Dogs and Englishmen	Late of the Pier	Fantasy Black Channel	INDIFFERENT	3:01	ttay3N4qIWg	MPREb_zvXtPtB5UAq	UCAlam7gpyJDaP9gsQb3RJnQ
 25	Get Innocuous! (Soulwax Remix)	LCD Soundsystem	A Bunch Of Stuff EP	INDIFFERENT	10:01	W5ZL9ZIr-vM	MPREb_5ceKOX1aIEu	UCdsmJG8eFcr6Lxgau8E7afg
-40	North American Scum	LCD Soundsystem	Sound of Silver	INDIFFERENT	5:29	bu0_YRgZrEQ	MPREb_cuPW1vT6K8X	UCdsmJG8eFcr6Lxgau8E7afg
 54	All My Friends (Franz Ferdinand Version)	LCD Soundsystem	A Bunch Of Stuff EP	INDIFFERENT	5:52	ulU-mQCx4NA	MPREb_5ceKOX1aIEu	UCdsmJG8eFcr6Lxgau8E7afg
 20	Gravity's Rainbow	Klaxons	Myths Of The Near Future	INDIFFERENT	2:36	WGMck07GSbM	MPREb_XJ7gjNbITHf	UCFwWKxcP8SCbXFsWGsOg81w
 26	Surfing the Void	Klaxons	Surfing The Void	INDIFFERENT	2:37	v04ZbxOOpwM	MPREb_ThWgXVuo5c2	UCFwWKxcP8SCbXFsWGsOg81w
@@ -67,8 +67,8 @@
 45	The Physical World	Death From Above 1979	The Physical World	INDIFFERENT	4:52	L6hso7Z90C0	MPREb_Mbj6pmZM2VA	UCbK-XsO0CFb6OEIa-UeOFAw
 46	Virgins	Death From Above 1979	The Physical World	INDIFFERENT	3:09	hXKvd0iADbk	MPREb_Mbj6pmZM2VA	UCbK-XsO0CFb6OEIa-UeOFAw
 59	Modern Guy	Death From Above 1979	Is 4 Lovers	INDIFFERENT	3:30	n7F1xydfKec	MPREb_YlGIXZU1bdg	UCbK-XsO0CFb6OEIa-UeOFAw
-47	Fixations	DZ Deathrays	Black Rat	INDIFFERENT	2:52	e1C46zGrVAU	MPREb_74ZrvZxmgQK	UC0evpL_SksglCtH4hq-gbUQ
-61	Say It To My Face	DZ Deathrays	Positive Rising: Part 2 (Deluxe)	INDIFFERENT	2:42	n0U2Tt5Vvmo	MPREb_aqYLD6YlN4o	UC0evpL_SksglCtH4hq-gbUQ
+47	Fixations	DZ Deathrays	Black Rat	INDIFFERENT	2:54	bbkkKVqelQc	MPREb_R6k3wOmbGHV	UC0evpL_SksglCtH4hq-gbUQ
+61	Say It To My Face	DZ Deathrays	Positive Rising: Part 2 (Deluxe)	INDIFFERENT	2:42	zr3EH9it-3M	MPREb_wn3S1EsLwSV	UC0evpL_SksglCtH4hq-gbUQ
 60	its only shame	Castro Hunger	CALLUS *EXTENDED VERSION*	INDIFFERENT	2:30	yLQANnqsCUs	MPREb_zn2xRDMKRV3	UCZswXhm3-x0GhiFbU0DlzVg
 55	THIS IS CHAI	CHAI	PUNK	INDIFFERENT	2:38	incrFkJFz0U	MPREb_ScADqmrJdtW	UCvvmXmIVYQmlzj8ntRMZKWg
 52	Communication	Brothers Martin	Brothers Martin	INDIFFERENT	2:30	0ALceZzyKIM	MPREb_pXEWkrUxfDS	UCi-zeQyegABLDSuq47ewsjA

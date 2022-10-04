@@ -3,10 +3,11 @@ import time
 import pandas as pd
 from ytmusicapi import YTMusic
 
+PLAYLIST_LIMIT=2000
 
 class YTMusicPlaylists:
 
-    def __init__(self, header='../headers_auth.json', playlist_limit=2000):
+    def __init__(self, header='headers_auth.json', playlist_limit=PLAYLIST_LIMIT):
         self.yt = YTMusic(header)
         self.playlist_limit = playlist_limit
         self.playlists = pd.DataFrame(
@@ -19,8 +20,7 @@ class YTMusicPlaylists:
         if len(res) == 0:
             print(f'No playlist with {col}: {value}')
         elif len(res) > 1:
-            print((f'multiple matches for : {value}, '
-                   f'choosing first result of:\n {res}'))
+            print(f'multiple matches for : {value}, choosing first result of:\n {res}')
         return res.iloc[0]
 
     def query_by_title(self, title):
@@ -45,7 +45,7 @@ class YTMusicPlaylists:
         return pd.concat(out_playlists)
 
     def playlist_get_info(self, playlistId,
-                          playlist_limit=None, use_cache=True):
+                          playlist_limit=PLAYLIST_LIMIT, use_cache=True):
         if not playlist_limit:
             playlist_limit = self.playlist_limit
         if use_cache and playlistId in self._info_cache:
@@ -61,8 +61,7 @@ class YTMusicPlaylists:
         pl_name = os.path.basename(tsv_path).split('.tsv')[0]
         print(f'\nGenerating {pl_name} ytmusic playlist for {len(df)} tracks')
         vids = df.videoId.unique().tolist()
-        desc = (f'Matched {len(vids)} tracks from '
-                f'{pl_name} manually uploaded from local tsv.')
+        desc = f'Matched {len(vids)} tracks from {pl_name} manually uploaded from local tsv.'
         pl_id = self.yt.create_playlist(
             title=pl_name,  description=desc,
             privacy_status='PRIVATE', video_ids=list(vids))
@@ -107,8 +106,7 @@ class YTMusicPlaylists:
                                                        sleep_time=10):
         playlist = self.query_by_title(playlist_name)
         if verbose:
-            print((f'Sorting {playlist_name} ({playlist["playlistId"]}) '
-                   f'into like and indifferent'))
+            print(f'Sorting {playlist_name} ({playlist["playlistId"]}) into like and indifferent')
         tracks, metadata = self.parse_playlist(
             playlist_meta=self.playlist_get_info(playlist["playlistId"]))
         res_indif = self.create_rating_playlist_subset(
@@ -119,9 +117,7 @@ class YTMusicPlaylists:
         time.sleep(sleep_time)
         self.yt.delete_playlist(playlist['playlistId'])
         if verbose:
-            print((f'Created like playlist ({res_like}) and '
-                   f'unrated playlist ({res_indif})\nDeleted original '
-                   f'playlist: {playlist_name} ({playlist["playlistId"]})'))
+            print(f'Created like playlist ({res_like}) and unrated playlist ({res_indif})\nDeleted original playlist: {playlist_name} ({playlist["playlistId"]})')
 
     def playlist_rate_all_songs(self, playlistId, rating,
                                 sleep_time=0.5, verbose=False):
@@ -130,8 +126,7 @@ class YTMusicPlaylists:
         playlist_meta = self.playlist_get_info(playlistId)
         num_tracks = len(playlist_meta["tracks"])
         if verbose:
-            print((f'Found {num_tracks} tracks to rate as {rating} in '
-                   f'playlist: {playlist["title"]} ({playlistId})'))
+            print(f'Found {num_tracks} tracks to rate as {rating} in playlist: {playlist["title"]}')
         rate_count = 0
         for track in playlist_meta["tracks"]:
             if track["likeStatus"] == rating:
@@ -141,8 +136,7 @@ class YTMusicPlaylists:
             self.yt.rate_song(track["videoId"], rating=rating)
             rate_count += 1
             time.sleep(sleep_time)
-        print((f'Rated {rate_count} of {num_tracks} tracks as {rating} in ',
-               f'playlist {playlist["title"]} ({playlistId})'))
+        print(f'Rated {rate_count} of {num_tracks} tracks as {rating} in playlist {playlist["title"]}')
 
     def _playlist_is_dislike(self, name):
         name = name.lower()

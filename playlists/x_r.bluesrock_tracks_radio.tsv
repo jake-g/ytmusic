@@ -1,6 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 237	Cheap Sunglasses	ZZ Top	Greatest Hits	LIKE	4:48	rpNlWI_P1gc	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
 333	La Grange (1999 Remaster)	ZZ Top	Greatest Hits	LIKE	3:53	s81_Zvt0C8A	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
+242	Cold Water	Tom Waits	Mule Variations	LIKE	5:24	lkTGsYslFpI	MPREb_vCaTpyVXV6B	UC39N3pyt2Z15oOMjouokl8A
+143	Seven Nation Army	The White Stripes	Elephant	LIKE	3:51	D_QLxj8jCF0	MPREb_sn5Vym75jtL	UCD0Wge1UpszMtqK3P9x50vA
 278	Will There Be Enough Water?	The Dead Weather	Horehound	LIKE	6:21	Ua416BH7dlk	MPREb_bd1awdb7hr3	UCHLSNz596sbRjYcyjIJc23g
 389	Working Man	Rush	Rush	LIKE	7:09	IrxzRFj03Ro	MPREb_eFFXsvuuHnY	UCDCgtKZG6r7C9n87FMxR5ow
 335	All My Love (Remaster)	Led Zeppelin	Mothership	LIKE	5:56	vwFz3EThGMU	MPREb_MmefNORZcYE	UCYtap7ujIPaxTS2iCDoMi3g
@@ -26,7 +28,6 @@
 406	Mojo Workin	Tyler Bryant & The Shakedown	The Wayside	INDIFFERENT	3:14	bulHKvYxkco	MPREb_TO87k1F106j	UChSKPw7Ya8obUWA-gLeb_VQ
 177	The Fortune Teller (Radio Mix) (feat. Timothy Langford)	Too Slim and the Taildraggers	The Fortune Teller	INDIFFERENT	4:20	is8Q3IH4Cvo	MPREb_WCl62BYjyJk	UCOemmGEamiBsu9nAictDB0w
 107	Who You Gonna Hoodoo Now?	Tony Joe White	Hoodoo	INDIFFERENT	4:30	tftf6jdtfDI	MPREb_SXAGp7ZnsnI	UCss62kN_B11lAMBKf8kDG4w
-242	Cold Water	Tom Waits	Mule Variations	INDIFFERENT	5:24	lkTGsYslFpI	MPREb_vCaTpyVXV6B	UC39N3pyt2Z15oOMjouokl8A
 336	Ice Cream Man	Tom Waits	The Early Years Vol. 1	INDIFFERENT	3:12	2Kb-wbeO0u8	MPREb_1bWl35wNFVk	UC39N3pyt2Z15oOMjouokl8A
 118	The Good Book	Tim Minchin	Ready For This ?	INDIFFERENT	5:06	QJK7mAgINP4	MPREb_zx3aqm4UFMX	UCueRKPPoEeG2vFfqgqR_uqg
 398	Only Child	Tierra Whack	Only Child	INDIFFERENT	4:00	pvvpBvIgZJw	MPREb_A8kxgwECsIx	UC9B1UuLCIbq2XyA2F6-cCnA
@@ -34,7 +35,6 @@
 194	Jesus Shot Me Down	Thomas Schoeffler	Jesus Shot Me Down	INDIFFERENT	5:02	Ao3lig9aFX0	MPREb_ntSK2EkqUkl	UCu2RYICICt-9KrEz22scOiA
 325	Backwoods Company	The Wild Feathers	The Wild Feathers	INDIFFERENT	3:05	5ymq1oUKgmg	MPREb_JcSKCXvgcK8	UCOa1XTATWFkupDgLuBRL4YA
 65	Catch Hell Blues	The White Stripes	Icky Thump	INDIFFERENT	4:17	a6Ys2jh_ySo	MPREb_UDT9m0lLZAV	UCD0Wge1UpszMtqK3P9x50vA
-143	Seven Nation Army	The White Stripes	Elephant	INDIFFERENT	3:51	D_QLxj8jCF0	MPREb_sn5Vym75jtL	UCD0Wge1UpszMtqK3P9x50vA
 212	I'm Finding It Harder to be a Gentleman (Live on BBC Radio 1, John Peel Show)	The White Stripes	I Just Don't Know What To Do With Myself	INDIFFERENT	2:59	SLSAqGcfjNE	MPREb_C20dyPPhlqv	UCD0Wge1UpszMtqK3P9x50vA
 263	Instinct Blues	The White Stripes	Get Behind Me Satan	INDIFFERENT	4:16	aX1-BXYGFZQ	MPREb_I2m9odE3hJi	UCD0Wge1UpszMtqK3P9x50vA
 282	Icky Thump	The White Stripes	Icky Thump	INDIFFERENT	4:15	evypdgY6KpQ	MPREb_iJk7kyY6OKF	UCD0Wge1UpszMtqK3P9x50vA
@@ -118,7 +118,7 @@
 393	The Pusher (Live / 1970)	Steppenwolf	Live Steppenwolf	INDIFFERENT	5:59	zb-RiPuNM_Q	MPREb_XbWywtrVdqC	UC0aR1L5OoaiiaW73-bNl_Ug
 269	Call Me	St. Paul & The Broken Bones	Half The City	INDIFFERENT	2:51	ZPBqTWH_njc	MPREb_yyxS488fxnF	UCPoK_Vicm48C8KeggzS-7Cg
 131	Sinner (Live)	Soviet Shiksa	Live from the 2020 Festival of Ghouls	INDIFFERENT	4:48	lo-BeiePuJw	MPREb_2skGgx3mnjP	UCtQ0mQyL7WAIPL3SXyvJsmw
-5	The Ballad of Tarantino (Acoustic)	Southbound Snake Charmers	No Land (Acoustic)	INDIFFERENT	4:59	3QBA74K3f68	MPREb_ysSTSHJrEDY	UCgbHchQSfwhW1YxqDDudEuQ
+5	The Ballad of Tarantino	Southbound Snake Charmers	No Land (Acoustic)	INDIFFERENT	4:59	3QBA74K3f68	MPREb_ysSTSHJrEDY	UCgbHchQSfwhW1YxqDDudEuQ
 41	Going Down South	Soul Thrivers	Hope Is A Beggar	INDIFFERENT	4:50	y3omZOL3oM8	MPREb_3sBMh87eh6B	UCnKpbMsIPSl3jugTyX9MfzQ
 77	Blue Tarp Blues	Sonny Landreth & Mark Knopfler	From the Reach	INDIFFERENT	4:39	hAONSmh6MX4	MPREb_wy8WdCunpgK	UCrjUKKUX_G66OaNg4B9dj3Q
 104	The River	Son Little	Things I Forgot	INDIFFERENT	4:33	wQG3U1n0_e8	MPREb_8RgWU0Iazuk	UClRQg7_6f90_44KWhdI1G-g
@@ -250,7 +250,7 @@
 320	The Ballad of John Henry (Live)	Joe Bonamassa	An Acoustic Evening At The Vienna Opera House	INDIFFERENT	7:18	vgZxL2iVuIo	MPREb_ZaN0FW26u4S	UCMmOiXQLPGwWUXHuLsO5Wcg
 353	Spoonful (Live)	Joe Bonamassa	Muddy Wolf At Red Rocks (Live)	INDIFFERENT	7:59	rhgDdWCw30c	MPREb_bTkLDSTSGj9	UCMmOiXQLPGwWUXHuLsO5Wcg
 361	Dislocated Boy	Joe Bonamassa	Driving Towards the Daylight	INDIFFERENT	6:38	SqusLZo8QCM	MPREb_RQyjhdkNgYD	UCMmOiXQLPGwWUXHuLsO5Wcg
-375	Angel Of Mercy (Live)	Joe Bonamassa	Live at the Greek Theatre	INDIFFERENT	6:42	wJmWoKrGHA8	MPREb_3my5lmluZ0r	UCMmOiXQLPGwWUXHuLsO5Wcg
+375	Angel Of Mercy (Live)	Joe Bonamassa	Live at the Greek Theatre	INDIFFERENT	6:43	wJmWoKrGHA8	MPREb_3my5lmluZ0r	UCMmOiXQLPGwWUXHuLsO5Wcg
 394	Walking Blues	Joe Bonamassa	Blues Deluxe	INDIFFERENT	4:26	uE5gBn1K8oI	MPREb_z31MmTcFR9X	UCMmOiXQLPGwWUXHuLsO5Wcg
 422	I'll Take Care of You	Joe Bonamassa	Beacon Theatre - Live from New York	INDIFFERENT	5:41	1HmUDJNFeLc	MPREb_pTPSN97IfrR	UCMmOiXQLPGwWUXHuLsO5Wcg
 443	Blackest Day	Joanne Shaw Taylor	White Sugar	INDIFFERENT	8:17	pXVGYtN6_io	MPREb_TTsP3HROnMS	UCflsW94--A83Bk11DU6LPbw
@@ -329,7 +329,7 @@
 337	The Madge Sessions No. 1	Fleetwood Mac	Men of the World: The Early Years	INDIFFERENT	17:22	wvnM6uVYn4M	MPREb_vSdme9B72Si	UCCzULu3prrEaPvM2ZtkJlYQ
 381	Lost in a Crowd	Fantastic Negrito	Fantastic Negrito Deluxe EP	INDIFFERENT	4:59	TDTk3BpZ05Q	MPREb_FgPRJC1y6Fv	UC9ypFBKBfUm9TsmCE1yLTcQ
 49	Mr. Lacey (Sandy Solo Vocal Version)	Fairport Convention	The Notes And The Words: A Collection Of Demos And Rarities	INDIFFERENT	2:55	66F3CTAfNMQ	MPREb_baZlqBLwaTE	UCPGORa4A9GPTouqXTdIB_Zg
-297	What It's Like	Everlast	Whitey Ford Sings the Blues	INDIFFERENT	5:04	f9CbjGFktyg	MPREb_h3oWX3fZkQE	UCUxJ7lTrAeEKuCXJ3hUuysA
+297	What It's Like	Everlast	Whitey Ford Sings the Blues	INDIFFERENT	5:04	GqkIO86ezHM	MPREb_qXu1OTy1rpC	UCUxJ7lTrAeEKuCXJ3hUuysA
 12	No Headstone on My Grave	Esther Phillips	The Country Side Of Esther	INDIFFERENT	3:20	VJjARDyz4q0	MPREb_nNhbxuRsWTp	UCP3dA5bHelPtRdprbh3HPdQ
 16	Red Dress	Eric Sommer	Brooklyn Bolero	INDIFFERENT	2:44	5CT2Gc_jMRk	MPREb_0YIr1iYX43e	UCYAmP6LpqsTyBqNlF13LcCw
 114	Down to the Bottom	Eric Johanson	Down to the Bottom	INDIFFERENT	3:46	8-RWCAH_Y2Q	MPREb_cgMu38ko79z	UCKQoi8VSWHJVVhrsHGqXzOQ

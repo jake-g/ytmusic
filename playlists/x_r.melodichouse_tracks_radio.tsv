@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 133	Strobe (Lane 8 Remix)	deadmau5	Strobe (Remixes)	INDIFFERENT	7:18	V7VVZGz-EN8	MPREb_M712ymksScE	UCL44WZGVf-BU5N0ymCXrpBg
 164	Breezeblocks (Tinlicker Extended Mix)	alt-J	Breezeblocks (Tinlicker Remix)	INDIFFERENT	6:52	Pf5GMgYGONA	MPREb_2iXESnicujT	UCyzh4EnNuEO3Jk_mlXJCIag
+353	Crazy	Zonderling		INDIFFERENT	2:34	Cmlv35QkvhY		UCFIG7shUtug7QtyoaRgiGzA
 34	1965	Zella Day	Kicker	INDIFFERENT	3:38	w3OiIIld5SU	MPREb_LHMbtk84sd1	UCO2KEHgiHiRm_RXyasQhi0g
 317	Love That Hurts (feat. Karnaval Blues & Indiana)	ZHU	RINGOS DESERT	INDIFFERENT	3:00	Exv9hCPcW5w	MPREb_NbPEt6cZzjr	UCSw_oqIGG4dIo1GmnqUYdUA
 371	Guilty Love	ZHU	RINGOS DESERT	INDIFFERENT	4:33	lRLgYbX2Llk	MPREb_NbPEt6cZzjr	UCSw_oqIGG4dIo1GmnqUYdUA
@@ -174,7 +175,7 @@
 227	Eyes Closed	Melouie	Eyes Closed	INDIFFERENT	6:29	j92EU0txN94	MPREb_i2d15UPCE3R	UCjE-reG_JNAO59TjZofkY8g
 242	Out Of Me	Melih Aydogan	Out Of Me	INDIFFERENT	4:50	Dkh7NzIBDCA	MPREb_pTo241KnC8R	UCPfCZdZuUj_loeGO08yL37A
 375	Can't Get No Love (Original Club Mix)	Me & My Toothbrush	Can't Get No Love	INDIFFERENT	5:52	YP8tntYrogU	MPREb_RaJwWUhDGyp	UCPwEtnYmhpfMkZTyXNtwz1g
-362	Suddenly (Edit)	Maximalism	Suddenly	INDIFFERENT	4:16	hPPpWdM6LQM	MPREb_aOHoX1yIN7J	UCxcexo2dkgpJ6lcvcJUDPng
+362	Suddenly (Edit)	Maximalism	Suddenly	INDIFFERENT	4:16	Ifr1gcvprsQ	MPREb_04pnP5I5PU9	UCxcexo2dkgpJ6lcvcJUDPng
 33	Hold Me (Jupiter Heroes Remix) (feat. Natune)	Maxim Andreev	Hold Me	INDIFFERENT	5:47	gpdQ29w4twA	MPREb_Ube8Lu4frmp	UC6TpMiMnDTtAgtmdQ4BZAoA
 320	Summergirl	Max Vermeulen	Summergirl	INDIFFERENT	3:14	HM0o28RywEA	MPREb_nzozDEvtUnk	UCb6K2tas3uhUNZbOUCvIT0Q
 7	What Is Love (feat. CAMI)	Max Oazo	What Is Love	INDIFFERENT	3:05	sefqTmVyyB8	MPREb_98fMZrXdxvf	UCukqgBWODs7GV-d86b9f34A
@@ -224,8 +225,7 @@
 155	Cold Feet	Loud Luxury	Nights Like This	INDIFFERENT	3:02	u_IwkYovTz4	MPREb_4SOZ9GicQxV	UCPdzraNv03GtS_lb_8H8SEA
 157	Nights Like This	Loud Luxury	Nights Like This	INDIFFERENT	2:54	Ev6rfMs-sFg	MPREb_4SOZ9GicQxV	UCPdzraNv03GtS_lb_8H8SEA
 286	I'm Not Alright	Loud Luxury	I'm Not Alright	INDIFFERENT	3:08	vN2qJmMxw4o	MPREb_8qIlAzcjUGU	UCPdzraNv03GtS_lb_8H8SEA
-151	Beat Of My Heart (feat. Love Harder)	Lost Frequencies	Alive And Feeling Fine	INDIFFERENT	3:04	Y3KjWS5gLkw	MPREb_b00kk7sUJwH	UC824jbNWWDR-NBv8wuE-OUg
-353	Crazy	Lost Frequencies	Alive And Feeling Fine	INDIFFERENT	2:34	Cmlv35QkvhY	MPREb_b00kk7sUJwH	UC824jbNWWDR-NBv8wuE-OUg
+151	Beat of My Heart (feat. Love Harder)	Lost Frequencies		INDIFFERENT	3:04	Y3KjWS5gLkw		UC824jbNWWDR-NBv8wuE-OUg
 150	Fuck I'm Lonely	Lone Tusker	Fuck I'm Lonely	INDIFFERENT	3:03	gs0Xc5Mt0ec	MPREb_e0zXhEP4HJG	UChjCCR-seQDKuvQfXpHT2bg
 335	Don’t Need Words	Lone Tusker	Don’t Need Words	INDIFFERENT	2:45	Uqi5Lia-6tc	MPREb_WJDL0CbIhBK	UChjCCR-seQDKuvQfXpHT2bg
 260	Begging (LEEX Extended Remix)	Lions Head	Begging	INDIFFERENT	5:02	LL_EsI3soAM	MPREb_3dCXa9CYwOf	UC5ugXUVQbGkZnfHfavlv8wg
@@ -269,7 +269,7 @@
 324	Paloma (Bit Funk Remix)	Just Kiddin	Wildlife	INDIFFERENT	5:30	Etzi7XYdo1k	MPREb_fSCyPyQipFC	UCgiQa9GaNm-rTrgs6J_nbZw
 167	Take Me With You	Juliet Ariel	Take Me With You	INDIFFERENT	3:07	7L4eFq8SN1I	MPREb_LcqsVZqR9aM	UC81VQgNOk7DJYqgT_1wnMcQ
 135	ILLUSION	Jubël	ILLUSION	INDIFFERENT	3:23	UjK4lQ9XKLw	MPREb_SSIK6CbWXm0	UCL96c7_w_jJH4FvlT8SH8hg
-204	Let It Go (DJ Boat Remix)	Josefine	Let It Go	INDIFFERENT	3:45	7U6DfYMFtzk	MPREb_fNeZIPPAggM	
+204	Let It Go (DJ Boat Remix)	Josefine	Let It Go (DJ Boat Remix)	INDIFFERENT	3:45	7U6DfYMFtzk	MPREb_fNeZIPPAggM	
 365	Life (GHEIST Remix)	Joris Voorn	Four (Remixes Deluxe)	INDIFFERENT	6:03	PPMpWzIsLKk	MPREb_1LY5zwdszzW	UCz7ZZlCLauNnutglfg-gb2A
 415	Rewind	Jordan Magro	Rewind	INDIFFERENT	3:17	CC744-m8p5c	MPREb_RbIDhOzmMfm	UCIXKS4oJnrbVmlHnJKFVGDA
 192	Chasing Feelings (feat. Cally Rhodes)	Jerome Price	Chasing Feelings	INDIFFERENT	2:56	nk0CKtm5gCU	MPREb_gyBTW7viVm7	UCXUoaJdknE944NwaZRzrl7A

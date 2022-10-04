@@ -37,6 +37,7 @@
 550	Levitation	Beach House	Depression Cherry	LIKE	5:54	FxcwJH4P9JQ	MPREb_6Ui257pBxny	UC785fnTclD2P2WQXRAt2BVg
 698	Fall Right In	Beach Fossils	What a Pleasure	LIKE	2:33	bG29qHi-Skg	MPREb_i34ExB9quy0	UCa3Tz2g-TF1oumK2paiC9yg
 702	Aminals	Baths	Cerulean	LIKE	3:19	mZeDNb5l08o	MPREb_qNBILVSWBtu	UCoU3IHb9X8LSVlWnqV5SU7g
+630	Quick Canal (W/ Laetita Sadier)	Atlas Sound	Logos	LIKE	8:38	SI5sAMao9CA	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
 693	Round And Round	Ariel Pink	Before Today	LIKE	5:09	SpC2I4HKn_E	MPREb_dcFl0Eh30iT	UCxpf1Sstn2G6JYF0Ntd7R9Q
 706	Hands	Alpine	A Is For Alpine	LIKE	3:16	zOMrnIUDJME	MPREb_aM6GdN74rui	UCZzgW2ToA9qB0nNlaG7f8qw
 120	Heaven Is Here	sir Was	Digging a Tunnel	INDIFFERENT	4:31	RQkIq0Qk4aQ	MPREb_XbOvLxDpT6G	UCy1ULqvzHgeORPlgAj5fJwA
@@ -147,7 +148,6 @@
 142	Stay	The Suffers	The Suffers	INDIFFERENT	3:37	BgE1mTXZDXE	MPREb_YoDxDD9Caqi	UCWpEOXyZZ7onRFi3G1gwIhw
 177	Dutch	The Suffers	The Suffers	INDIFFERENT	3:22	28nDIJRoWUk	MPREb_YoDxDD9Caqi	UCWpEOXyZZ7onRFi3G1gwIhw
 180	Good Day	The Suffers	The Suffers	INDIFFERENT	4:12	kHbqoJTVky8	MPREb_YoDxDD9Caqi	UCWpEOXyZZ7onRFi3G1gwIhw
-390	Memo	The Spinto Band	Cool Cocoon	INDIFFERENT	5:05	pWQ2C0eE4PQ	MPREb_3XMnnwJodMz	UC_gGBII2PS4BN7ke0-OMsfA
 197	Avery Hill	The Shouting Matches	Grownass Man	INDIFFERENT	2:24	4PZp76lB7X0	MPREb_9RgWIi5lszm	UCNX-eni5O3Rw-LFTUfT5fRA
 497	You Make Me Wanna Die	The Shivas	You Know What to Do	INDIFFERENT	2:51	COoTaaC-N5s	MPREb_NtmeXdo6t2n	UCXXvv2FiLoF7fFvgU0AA1dA
 537	Orchids	The Shacks	The Shacks EP	INDIFFERENT	3:41	o5-YlMvoagg	MPREb_NncxMMGoCTd	UCliMsBRDYk6w4UbIqQZOR2w
@@ -583,8 +583,8 @@
 710	Letter of Intent	Ducktails	The Flower Lane	INDIFFERENT	5:19	UEQvxB_5jT8	MPREb_aHPPWPSpRbQ	UC9G6XGIZaMAezs-65gE0QsQ
 28	Ending On A Hi Note	Drugdealer	Raw Honey	INDIFFERENT	1:34	HMWTIVhcxZE	MPREb_yvOYSpcllLW	UCdJU4tOWCJ6kuXKzzkZN0xg
 312	Perfectly Out Of Place	Dreams We've Had	Perfectly Out Of Place	INDIFFERENT	4:53	ggW1e7ntIYo	MPREb_wUumCG5CFOA	UCDxgDOnmYSDhlbpytydVMmA
-398	Teenage Blue	Dreamgirl	Illuminaughty - EP	INDIFFERENT	3:55	kQoOASpMLWk	MPREb_LIVVyTrX1gx	UCKyN80_8a4P94FFn_O9vabQ
-399	Stranger Feelings	Dreamgirl	Illuminaughty - EP	INDIFFERENT	2:59	oHNH7hyxuic	MPREb_LIVVyTrX1gx	UCKyN80_8a4P94FFn_O9vabQ
+398	Teenage Blue	Dreamgirl	Illuminaughty	INDIFFERENT	3:55	JVDmY_riDsc	MPREb_FR75AJoflFR	UCKyN80_8a4P94FFn_O9vabQ
+399	Stranger Feelings	Dreamgirl	Illuminaughty	INDIFFERENT	2:59	VWe_Wd2jCxI	MPREb_FR75AJoflFR	UCKyN80_8a4P94FFn_O9vabQ
 198	These Days	Dr. Dog	Be The Void (Deluxe Edition)	INDIFFERENT	2:47	WHNTPqhZE7o	MPREb_Qkm3jgyqoQR	UC-JBTXpS5x83eafG3HQMClA
 272	Keep Your Name	Dirty Projectors	Dirty Projectors	INDIFFERENT	4:30	7rLs2UWRVLQ	MPREb_vKItJoWhRtr	UCoYNVqkIo-nPXQB9sgEIafQ
 340	Charnel House	Dirty Art Club	Charnel House	INDIFFERENT	2:07	-wmMUahby18	MPREb_eC2NzbqEAK5	UCYZf0tcEjjeABH2QVXd_AKg
@@ -671,8 +671,8 @@
 353	Our Deal	Best Coast	Crazy for You	INDIFFERENT	2:08	M903bICZzAA	MPREb_RgOiVi8IQhb	UCBAYaAMrMo1FqqBB9Z3kn4g
 355	Crazy for You	Best Coast	Crazy for You	INDIFFERENT	1:51	R44lmbpVYAI	MPREb_RgOiVi8IQhb	UCBAYaAMrMo1FqqBB9Z3kn4g
 383	I Don't Know How	Best Coast	Fade Away	INDIFFERENT	3:35	B4S3UzjiElI	MPREb_xfJ526nHqPk	UCBAYaAMrMo1FqqBB9Z3kn4g
-584	Do You Love Me Like You Used To?	Best Coast	The Only Place (Deluxe)	INDIFFERENT	3:14	0-P1fl93ZG8	MPREb_Z4aTlgL1yoh	UCBAYaAMrMo1FqqBB9Z3kn4g
-662	Do You Love Me Like You Used To?	Best Coast	The Only Place (Deluxe)	INDIFFERENT	3:14	0-P1fl93ZG8	MPREb_Z4aTlgL1yoh	UCBAYaAMrMo1FqqBB9Z3kn4g
+584	Do You Love Me Like You Used To	Best Coast	The Only Place (Deluxe)	INDIFFERENT	3:16	42qsIf_pik8	MPREb_HbUxT9GRgJ0	UCBAYaAMrMo1FqqBB9Z3kn4g
+662	Do You Love Me Like You Used To	Best Coast	The Only Place (Deluxe)	INDIFFERENT	3:16	42qsIf_pik8	MPREb_HbUxT9GRgJ0	UCBAYaAMrMo1FqqBB9Z3kn4g
 136	Witness	Benjamin Booker	Witness	INDIFFERENT	2:57	lqUDtTEUdqo	MPREb_2vWpI3vGt7E	UCrqXBDGkhqTcRieUFCvk8Tw
 150	The Slow Drag Under	Benjamin Booker	Witness	INDIFFERENT	3:49	TYvrTlmrm4A	MPREb_2vWpI3vGt7E	UCrqXBDGkhqTcRieUFCvk8Tw
 339	I Know Where The Summer Goes	Belle and Sebastian	Push Barman To Open Old Wounds	INDIFFERENT	4:38	ovyZ72W9X1k	MPREb_3WpNfxEivWB	UCjOin6lF-KJsIh5shOM_EjA
@@ -700,7 +700,6 @@
 289	Lakeside	BLK JKS	After Robots	INDIFFERENT	4:07	BA2K5BWZWA8	MPREb_IkvyhcGFpda	UChBK5su3NG7A2yvPFX4AP9Q
 628	Kid Klimax	Atlas Sound	Logos	INDIFFERENT	2:59	_KuHU3SF_x4	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
 629	My Halo	Atlas Sound	Logos	INDIFFERENT	3:16	aPyaAUzbWF4	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
-630	Quick Canal (W/ Laetita Sadier)	Atlas Sound	Logos	INDIFFERENT	8:38	SI5sAMao9CA	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
 631	Attic Lights	Atlas Sound	Logos	INDIFFERENT	3:44	DwjMws78Fbk	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
 632	The Light That Failed	Atlas Sound	Logos	INDIFFERENT	4:47	43xp7O41Rak	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
 79	Place With You	Astronauts, etc.	Mind Out Wandering	INDIFFERENT	4:27	uqwR8QKXch8	MPREb_uj8bIQvG5cm	UCSPrJAJB3WmnzrG1zCoH-eQ
@@ -709,7 +708,6 @@
 546	Eugene	Arlo Parks	Eugene	INDIFFERENT	3:42	C9taU7rWZeE	MPREb_Jwppeuilo2B	UCONW30aJYOThs54eGXz38kw
 511	big fat mouth	Arlie	big fat mouth	INDIFFERENT	3:38	R_QXLmepbo4	MPREb_V3uCXDkjrrT	UCXYv0v1l3530UDHYuwYLq5A
 589	Can't Hear My Eyes	Ariel Pink	Before Today	INDIFFERENT	3:20	QaPfjxetDvw	MPREb_dcFl0Eh30iT	UCxpf1Sstn2G6JYF0Ntd7R9Q
-47	Electricity	Arctic Monkeys	R U Mine? / Electricity	INDIFFERENT	3:01	VCfgXHLCKNY	MPREb_b7SZ5a9xnty	UC8Yu1_yfN5qPh601Y4btsYw
 49	The Blond-O-Sonic Shimmer Trap	Arctic Monkeys	Don't Sit Down 'Cause I've Moved Your Chair	INDIFFERENT	3:25	RgMiwZ8IAwg	MPREb_I2foWXcFb8M	UC8Yu1_yfN5qPh601Y4btsYw
 51	Catapult	Arctic Monkeys	Cornerstone	INDIFFERENT	3:27	Yx-m18KwIfQ	MPREb_zgqCUiNxf8H	UC8Yu1_yfN5qPh601Y4btsYw
 684	Rain In Cups	Animal Collective	Bridge to Quiet	INDIFFERENT	8:08	DWkXo85oKwY	MPREb_iJdYIc0otqD	UC6X5Baxp63Ex9NaLZwAy7lQ
@@ -723,5 +721,7 @@
 374	I See More	Ages and Ages	Divisionary	INDIFFERENT	2:18	cAkMfDQcnJQ	MPREb_DlREvH5lnzN	UCHoHkmb6B2YTDtuHQrI6hsA
 20	Sandy Kim	Acid Ghost	Vacation II	INDIFFERENT	1:56	2c4z9JXz8ng	MPREb_uSMU5X8KbiG	UCCHxf9FmwDnkN2C1dizRL-A
 298	Dark into Light	AM & Shawn Lee	Dark In The Light	INDIFFERENT	3:50	wv81qyeO35g	MPREb_P1YLcBsQxzj	UClLwyAk9mtvU4_d8G6VA9ow
+390	Memo	The Spinto Band	Cool Cocoon		5:05	9AgOdnXueYY		
 407	Without You	Strawberry Guy	Taking My Time To Be			UG6nbv0UCp8		
 595	California	Low	The Great Destroyer		3:23	DdWof0EZfOs		
+47	Electricity	Arctic Monkeys	R U Mine? / Electricity		3:02	VCfgXHLCKNY		

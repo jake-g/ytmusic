@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 208	Bend Over	Wagon Christ	Receiver	LIKE	1:55	onjKYIe_kds	MPREb_mvomenVBkrm	UCYkzeZbB-3t_OsSEyyJUOfg
 277	Saddic Gladdic	Wagon Christ	Sorry I Make You Lush	LIKE	4:52	hWxMmKzX9NA	MPREb_p6D1gXcxIm1	UCYkzeZbB-3t_OsSEyyJUOfg
+225	The Lemon of Pink I	The Books	The Lemon of Pink	LIKE	4:40	gTZZhmKg7OA	MPREb_x02hzO5tlV0	UCIab_j2kNleL-1-Tz1ZisGA
 16	Antiphon	Jega	Variance (Volumes 1 & 2)	LIKE	4:43	6zoZvfqNB30	MPREb_1J3hpSLBe7D	UCVgIH-DRbEgqmpSj400_spg
 97	Alive In Arms (ISAN Remix)	Blamstrain	Blamstrain Remixed	LIKE	4:16	tQksWeAQKNk	MPREb_brgcLbd8dPu	UC_V0Qjxdxe-ktyT501c_XBQ
 157	Hasty Boom Alert	μ-ziq	Lunatic Harness	INDIFFERENT	5:16	3c_E09gib-Y	MPREb_suLHdTyws8L	UC7IoxqTlXj7Kky2eW3Hnvpg
@@ -55,7 +56,6 @@
 235	Miles and Miles	The Flashbulb	Kirlian Selections	INDIFFERENT	3:03	1AUkqBikQfM	MPREb_vOmMIqUSnLs	UCokwPF41zVkP57MyjIZNniw
 280	Day	The Field	Sound of Light - Nordic Light Hotel	INDIFFERENT	15:16	3utwppoxNt8	MPREb_q0BgcN4zu1Q	UCkdZ71hG0wJUJdvRDBeBiwg
 300	Point Of Entry (feat. Neil Ollivierra)	The Detroit Escalator Co.	Black Buildings	INDIFFERENT	5:11	ZvKYxdb7kpg	MPREb_5nWksoh6g6R	UCeLEZPJFDIsxIEQ4PUYpEWQ
-225	The Lemon of Pink I	The Books	The Lemon of Pink	INDIFFERENT	4:40	gTZZhmKg7OA	MPREb_x02hzO5tlV0	UCIab_j2kNleL-1-Tz1ZisGA
 65	Tram Backwards	The Black Dog	Dubs, Vol. 1	INDIFFERENT	5:24	5CXIqJZHRmo	MPREb_5WAlSDqMrjS	UCxVLW4oGHLboAL4WM_iuCiQ
 270	Further Harm	The Black Dog	Spanners	INDIFFERENT	6:22	oOVzEzw6HDw	MPREb_yo8G6hshu2E	UCxVLW4oGHLboAL4WM_iuCiQ
 91	Fifth Lake and Screams	Ten and Tracer	An Hour Brighter	INDIFFERENT	4:23	jBy9YzZ1P9o	MPREb_be0CbFgpxL4	UCblVaUmICBF7aUVrHPBzqwA
@@ -180,7 +180,7 @@
 43	Compo Mendes	Jodey Kendrick	EDM Vol. 2	INDIFFERENT	6:53	g0ZiN8LKEII	MPREb_SiJ0Qb2rups	UCGng05HiQDYidI870-dnVLQ
 48	Lake Windermere	Jega	1995	INDIFFERENT	3:58	FFCnsgHBrsA	MPREb_PZMAUT7zU6I	UCVgIH-DRbEgqmpSj400_spg
 234	Geometry	Jega	Geometry	INDIFFERENT	4:36	AJi2EJysuTQ	MPREb_jxzixn4vB3M	UCVgIH-DRbEgqmpSj400_spg
-254	Kid Sista	Jega	Spectrum	INDIFFERENT	3:38	xw1lr1ZDuPA	MPREb_gmh6jk5nryh	UCVgIH-DRbEgqmpSj400_spg
+254	Kid Sista	Jega	Spectrum	INDIFFERENT	3:37	xw1lr1ZDuPA	MPREb_gmh6jk5nryh	UCVgIH-DRbEgqmpSj400_spg
 303	Subdivision Surfaces	Jega	Geometry	INDIFFERENT	3:09	d098Z1JSjos	MPREb_jxzixn4vB3M	UCVgIH-DRbEgqmpSj400_spg
 106	Ghost in the Machine	James Shinra	Vital Heat	INDIFFERENT	6:12	Q8nKAMq7BaM	MPREb_cTb1RNwdT8J	UCyErDqzj-IwNmL5kVRbQYtw
 107	Zmiennicy Dub	JANKA	Krzyżacy	INDIFFERENT	4:34	MPXigwLPNZs	MPREb_iMmRuvxVKSV	UCLm-6Raj0CK5bDZ3Ah58BaA
@@ -315,7 +315,7 @@
 286	XMD5a	Aphex Twin	The Lab 04 - Paul Woolford	INDIFFERENT	7:58	zDth1ujsuYs	MPREb_byObHnEshvJ	UCWmnkYUzoOiOztmPBhIlZjg
 313	Omgyjya-Switch7	Aphex Twin	Drukqs	INDIFFERENT	4:53	IYwufjHblxo	MPREb_dtnEDOphZmE	UCWmnkYUzoOiOztmPBhIlZjg
 320	Meltphace 6	Aphex Twin	Drukqs	INDIFFERENT	6:25	2NsyTloPqJc	MPREb_dtnEDOphZmE	UCWmnkYUzoOiOztmPBhIlZjg
-103	Topaz	Aniso Tropics	Topaz	INDIFFERENT	4:31	E-1cr8qtDcQ	MPREb_2nMClU9q1vy	
+103	Topaz	Aniso Tropics	Topaz	INDIFFERENT	4:31	E-1cr8qtDcQ	MPREb_2nMClU9q1vy	UCCADbt9m6C8zPN__8pwVeAg
 132	Faith In Strangers	Andy Stott	Faith In Strangers	INDIFFERENT	6:29	X7JHDBCaR0w	MPREb_6s1ivDOrHkx	UCUKjzgFCEy5dmhdaTQMR72g
 261	The Killer's Vanilla	Amon Tobin	Foley Room	INDIFFERENT	4:10	6fU11C-5hg4	MPREb_rFMsfPRHTy2	UCCbVPlwGMWlYTzFDyt5LUNQ
 70	Tephra	Alex Banks	Tephra	INDIFFERENT	6:27	1aAnhIY3ipk	MPREb_3sJzoiONdja	UCA4eCbMfuO7aP0P1JG-u0MA
