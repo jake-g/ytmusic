@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 353	I Choose You (The Mack/Soundtrack Version)	Willie Hutch	The Mack: Original Motion Picture Soundtrack	LIKE	3:41	JxsLqz8oBak	MPREb_DQfiBs6q8aa	UCvZqPeZOEfBdZ2nagVEQVOQ
-311	Cool Bananas	Tell	Cool Bananas	LIKE	4:45	dEJDUatV2ck	MPREb_lE8yPBR5XG7	UCdrQE-jYSAX2kl8rL4RP5WA
+165	Kaes On Aeg	Velly Joonas	Late Night Tales: Badbadnotgood	LIKE	2:52	e0cS0dPtE_s	MPREb_EBFHEwwYZxP	UCTReQXFUyRKqCIK8Wv0edoQ
+311	Cool Bananas	Tell	Cool Bananas	LIKE	4:45	dEJDUatV2ck	MPREb_lE8yPBR5XG7	
 241	22nd Century	Nina Simone	The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl	LIKE	8:45	zdr5XKgh4Tc	MPREb_u4foPOYd5mP	UCqj1HtTq76Bo6rBXNwrF5Uw
 240	Them	Nils Frahm	Music for the Motion Picture Victoria	LIKE	3:59	YQJw0wjsNaU	MPREb_XqjqnRPEbgT	UCHUlZT-VoVWIID4xcJZ5s6g
 239	Swallow	My Bloody Valentine	Tremolo	LIKE	4:54	-HIALfQifaU	MPREb_88np36RgTQR	UCuoGeza7Dl9Ni_hmeLTPdkg
@@ -45,7 +46,6 @@
 286	Sky Mall	Vulfpeck	Fugue State	INDIFFERENT	2:36	kD2Kkp0GBWs	MPREb_DaB7xBIAKCO	UCWuBpAte4YHm_oELpzoM2qg
 277	City Plaza	Vitess	Aqua boulevard	INDIFFERENT	7:18	KuCdwVrufsU	MPREb_Z7bmh40cYMY	UCwtfQs5dVGhsVQEBAv0HoHQ
 379	Choses étranges	Vitess	Aqua boulevard	INDIFFERENT	6:36	cH7nDYHt5H4	MPREb_Z7bmh40cYMY	UCwtfQs5dVGhsVQEBAv0HoHQ
-165	Kaes On Aeg	Velly Joonas	Late Night Tales: Badbadnotgood	INDIFFERENT	2:52	e0cS0dPtE_s	MPREb_EBFHEwwYZxP	UCTReQXFUyRKqCIK8Wv0edoQ
 448	Khū	Varhat	VRHT777	INDIFFERENT	7:54	hTT-NjsDKUE	MPREb_U8P2j1lD8Ya	UCnhmwmyuYRnpSRr8FkUcUuw
 142	Track 2	Vakula	Unthank EP2	INDIFFERENT	2:07	vB5PnxNa5rE	MPREb_CwEHyq3tWax	UCzXmLOVplCjDSxj8Ki5XytQ
 276	Computer Friends (Cabaret Nocturne Remix)	Undo	Disconnect Remixes, Pt. 1	INDIFFERENT	6:28	CnQUHECjo0g	MPREb_6gGpheZ8fbI	UCVtskXMc6jqsKx0-mEKEqcg
@@ -70,7 +70,7 @@
 310	This Will Be Our Year (Mono Version)	The Zombies	The Original Studio Recordings, Vol. 4	INDIFFERENT	3:01	LAk3Kj-iysA	MPREb_IUOki1pBvJE	UCweKPvb6MUhb8X4X0nbObBw
 269	It's You (Ron Basejam Remix)	The White Lamp	It's You	INDIFFERENT	7:58	7VyXuw66qw8	MPREb_3dewz8DGS1d	UCddUuEQ5eFT89G17e2wrvsg
 2	Same Old Thing	The Streets	Original Pirate Material	INDIFFERENT	3:22	jxgfwPl6wWI	MPREb_IudKfP3IDWv	UCIChmPKJxNQi1FoUB1_8i4Q
-287	Point Zero	The Source Experience	Point Zero	INDIFFERENT	8:22	IvcNTmF71Is	MPREb_lHYlfmWBCjC	UCEGpB1BgCNKDoJV85wn8l5A
+287	Point Zero	The Source Experience	Point Zero	INDIFFERENT	8:24	IvcNTmF71Is	MPREb_lHYlfmWBCjC	UCEGpB1BgCNKDoJV85wn8l5A
 285	It's Good for the Soul	The Salsoul Orchestra	Anthology, Vol. 1	INDIFFERENT	4:37	ITXHHTJksAA	MPREb_DQkxguTzEPx	UC1iaawhUMIJh5Tt8rmRBdnA
 268	It's Your Love	The Other People Place	Lifestyles Of The Laptop Café	INDIFFERENT	7:32	Gpr-ChyN6r0	MPREb_uVondGxzoVp	UCmHmYxZ45dXHYKkLMt0PmSQ
 150	Come On Home	The Lijadu Sisters	Horizon Unlimted	INDIFFERENT	5:17	tqv51EpA6w8	MPREb_Mfxa0e5G39i	UCfpA0Ca5ET3hHF5HpqRAXpQ
@@ -104,8 +104,8 @@
 139	Control	Spoek Mathambo	Mshini Wam	INDIFFERENT	4:40	dvlvssRRQUQ	MPREb_1IiZ115oQ83	UCVmIeMrn2MhMbHbfdokO6BA
 452	Lolita (Dub)	Special Request	HOUND5TOOTH: Five Years	INDIFFERENT	6:07	xDZgYNqS6gA	MPREb_07koC0CyNX0	UC-8d2lKLJGAzdDLXwDYkAgQ
 321	Primal Source (Extended Mix)	Space Food	Primal Source	INDIFFERENT	6:34	IgdoBe4ypMo	MPREb_orduGzGN4Vl	UCm3vHxRMGWwKqElFjUidByA
-87	The Love Quadrant	Space Dimension Controller	Welcome to Mikrosector-50	INDIFFERENT	7:18	YNhDk9YF3SM	MPREb_rvEKOnoT4mO	UCt9cHncGBnwZ_6Vynxjb7ow
-260	Mercurial Attraction	Space Dimension Controller	Temporary Thrillz	INDIFFERENT	9:07	kBEywGiWT_Q	MPREb_1F41FpsgBdU	UCt9cHncGBnwZ_6Vynxjb7ow
+87	The Love Quadrant	Space Dimension Controller	Welcome to Mikrosector-50	INDIFFERENT	7:19	YNhDk9YF3SM	MPREb_rvEKOnoT4mO	UCt9cHncGBnwZ_6Vynxjb7ow
+260	Mercurial Attraction	Space Dimension Controller	Temporary Thrillz	INDIFFERENT	9:08	kBEywGiWT_Q	MPREb_1F41FpsgBdU	UCt9cHncGBnwZ_6Vynxjb7ow
 100	Calling Out [Mixed] (feat. Dames Brown)	Sophie Lloyd	Defected Radio Episode 087 (hosted by Sam Divine)	INDIFFERENT	3:20	CjrZImQTQ4Q	MPREb_bNkekhZPbm7	UC2hWy-FJGcE5mDFMKI2YIrw
 316	Blind Willie	Sonny Sharrock	Black Woman	INDIFFERENT	3:10	5O_MH3M7qnw	MPREb_hIOfkC3OWLW	UCF52xDDwcMXZeJyb9WxLc3Q
 401	Ouin	So Inagawa	Setagaya Deep, Vol. 1	INDIFFERENT	6:32	AF40btM9LQE	MPREb_QEtTrW1t7eR	UCW77ZRIPGL2m3IOlyLL3BvQ
@@ -140,7 +140,7 @@
 396	Sliced Africa	Roman Flügel	Sliced Africa	INDIFFERENT	6:30	Rwfu0sG2ES0	MPREb_A05berJ2JJn	UCOEtiip2zIyEDvjbhq8Kwdg
 256	808 The Bassqueen	Ricardo Villalobos	808 The Bassqueen	INDIFFERENT	12:14	mx04AotrWZQ	MPREb_sfuU1PsGKoN	UCSJveZFb3fGFLArm6eVGr0A
 45	The Fall (Maurice Fulton Remix)	Rhye	The Fall	INDIFFERENT	6:33	jaAp7epfs0s	MPREb_V7Hrqg0j67R	UCO3bfi6sSorqa0p7Wu_s1DA
-378	Sometimes I Hear Sirens	Raär	Sometimes I Hear Sirens	INDIFFERENT	6:21	WGg5XIO4TU0	MPREb_ZlTpb8EB14t	UCmGmGJRAbPxoDhdWLHViaNQ
+378	Sometimes I Hear Sirens	Raär	Sometimes I Hear Sirens	INDIFFERENT	6:21	WGg5XIO4TU0	MPREb_ZlTpb8EB14t	UCtk9Q5hJ64gE1yv0UPEV6MA
 471	Wildcat	Ratatat	Wildcat	INDIFFERENT	4:25	8y8pDfdrEzU	MPREb_CffJ88889R1	UCbqBqmG-EXTUsp2v4SHGDRg
 360	The Courier	Randy Edelman	The Last Of The Mohicans (Original Motion Picture Soundtrack)	INDIFFERENT	2:29	OmP4vLbExLs	MPREb_57dxPdJvWnO	UCQPOMaKamdeM6_yfNYIO4yg
 363	Style (1996 Original Vocal Mix)	Ramsey & Fen	Style	INDIFFERENT	7:54	i0gS84GYtls	MPREb_7jyKQ28ychi	UCdXnPMjaZ6t1H3HV8WHHTEA
@@ -226,7 +226,7 @@
 32	Phreaky M.F (Mike Dunn's Original Phreak Mixx)	Mike Dunn presents Mr.69	Phil Weeks Presents Underground Chronicles	INDIFFERENT	12:14	1Sy5OQmmDHM	MPREb_JIlAdR79x5P	
 129	Set It Out (Funky Beakdown Mix)	Midway	Set It Out	INDIFFERENT	6:16	KSFm5YJhO10	MPREb_iruwhG7stdI	UCdwt5-E_qkoYDce68RbYmZg
 49	Beam Me Up	Midnight Magic	Beam Me Up	INDIFFERENT	5:16	zPlgkUu_VIM	MPREb_EswBFZqwCIH	UCrPPHn_ilz8wIVNp3vOI1mw
-117	What We Know (Motor City Drum Ensemble Remix)	Midland	Placement Remixes	INDIFFERENT	6:03	G039eGM1GuU	MPREb_UbJbn5fzgdK	UCqLvkPsVdX9U5XQrLNVsjXw
+117	What We Know (Motor City Drum Ensemble Remix)	Midland	Placement Remixes	INDIFFERENT	6:03	G039eGM1GuU	MPREb_UbJbn5fzgdK	UCCcrvnSbRq0hl3ttNc2Ilzw
 358	Home on the Range	Michael Martin Murphey	Cowboy Songs	INDIFFERENT	3:31	cIRI81ZRaw4	MPREb_twO6ncon5jQ	UCq8P_ZNxvFKb7b2w5fRYNGg
 59	Real Slow (feat. Sarah Chernoff)	Miami Horror	All Possible Futures	INDIFFERENT	4:47	HFlOO4lCvbg	MPREb_RkiW3lSjMqS	UCU8JQ8M5vIabM-rj1zKGPsA
 346	Watch Them Come (Men from the Nile aka Roy Davis Jr.)	Men From The Nile	The Afro Club Night	INDIFFERENT	5:36	XxL0piuiIrg	MPREb_7EyCJVeSLvl	UCkvEJgW-DTbJZgJ4NLTL5NQ
@@ -252,7 +252,6 @@
 325	Velocity	Ludwig A.F.	Minus One	INDIFFERENT	6:46	L4lckAT8Sdg	MPREb_y1us9xHWebK	UCzFlSgeqzFcWNJsJsFJOh7g
 454	Stroker Ace (feat. Jennifer Charles)	Lovage	Nathaniel Merriweather Presents...Lovage: Music to Make Love to Your Old Lady By	INDIFFERENT	4:29	I6opOz3Y9-w	MPREb_oNteFnAXEyf	UCnVH0HrL2w0h8dvqGHMCa6g
 170	Pink Footpath (Disco Mix)	Loui$	Magic Dance	INDIFFERENT	6:17	PDPANiddd5M	MPREb_uvOB17gASYw	UCjVdbXD8HRfs8sqAWoJWMzw
-230	Open Door	Losoul	Open Door	INDIFFERENT	11:30	P_PF-3v46QM	MPREb_WPbtO6gYtiu	UCGH5x9n_RKBxxPf4nPOG-ug
 111	Cloud 909	Lone	Emerald Fantasy Tracks	INDIFFERENT	5:30	DtU4ZEIpacQ	MPREb_kslZ0vJ3vxo	UC7-hqDqFbdlHr0sq5jhcucw
 341	Blow Ya Mind (Club Caviar Radio Edit)	Lock 'N Load	Blow Ya Mind	INDIFFERENT	3:07	QbEO1wyo9Xc	MPREb_IIZAJeaLo2v	UC-spRWqgLka6Wzx_C_oDOjg
 44	Constant Surprises	Little Dragon	Little Dragon	INDIFFERENT	4:33	YClEH8Lt3tE	MPREb_Fsapi2DLgm9	UC7oADPAbivBVFIm0ULUUtvg
@@ -273,16 +272,16 @@
 224	Battle Rhymes For Battle Times	Koushik	Be With	INDIFFERENT	2:43	2mjCssIBULY	MPREb_FxxQ2WnJOy2	UC4NV9VPGGz2Ykl_4mdwelTA
 223	Null 212	Kosh	Null 212	INDIFFERENT	5:38	zX1hiaM2DSo	MPREb_P7nhhHiAx4o	UCibbK1c-DU83uKQP99_zAxA
 24	BB	Kornél Kovács	The Bells	INDIFFERENT	6:32	lzXMWBzb1Bk	MPREb_g6737fxjzBY	UCvQyWfjUHOMvALPYi2c0XNw
-431	Feel Alright	Komiko	Feel Alright	INDIFFERENT	6:07	B7bVuJ5h6iU	MPREb_rE6Ztdh8Wsj	UC0d6KROsX-vs4tadTMHuisw
+431	Feel Alright	Komiko	Feel Alright	INDIFFERENT	6:07	B7bVuJ5h6iU	MPREb_rE6Ztdh8Wsj	UC7AbS33RatR2NZ8fTuGXhgg
 99	Property Is Theft	Klute	The Emperor's New Clothes	INDIFFERENT	6:27	ucICAoywEsU	MPREb_Ve8z2GL8Hs2	UCb7mgm3fMFFmOp0qYCQqZ4g
 221	Leo 9	Klute	Leo 9 / Blackout	INDIFFERENT	7:03	-dDghXnG8RA	MPREb_kamDRUgyyRB	UCb7mgm3fMFFmOp0qYCQqZ4g
 303	Time (Edit)	Klangkarussell	Time (Edit)	INDIFFERENT	4:59	DeqAzqnKJug	MPREb_SLlXPDoFMMn	UCttJhgDSWb98oCQXUzRUnZA
 385	Baby Let's Dance Together (Shalimar / Soundtrack Version)	Kittu	Shalimar (OST)	INDIFFERENT	2:38	Me1v1PKqydk	MPREb_CRPUaLgvIWG	UCI3UqsU6A6ShXJoyb2fkWCA
 289	News (Room 506 Edit)	Kirlian Camera	Wiedergaben, Vol. 1	INDIFFERENT	5:57	cbrnKU2po5Y	MPREb_d2t0DSS5r9i	UC1Pd5WmMtltR_K9sLqEzmkg
 96	King Tubby's Conversation (Dub)	King Tubby	The Trojan: Dub Collection	INDIFFERENT	3:10	PQfmUVUTcrg	MPREb_pEBSzVWqKQQ	UCKXb5pogU_SBmt39cYE5Efw
-63	Pocket Piano	KiNK	Cloud Generator EP	INDIFFERENT	6:43	37UlBwTdGQU	MPREb_kUVawXVZjIN	UCiS9apTWNqct0TmwecMCYpw
+63	Pocket Piano	KiNK	Cloud Generator EP	INDIFFERENT	6:43	37UlBwTdGQU	MPREb_kUVawXVZjIN	UCFRQ1Mb8jXLzqb-VYzKr4Zg
 428	Cloud Generator	KiNK	Toolroom Live 03	INDIFFERENT	7:11	umk1_FYxcEE	MPREb_pNp7mfeW9gD	UCiS9apTWNqct0TmwecMCYpw
-467	Cloud Generator	KiNK	Cloud Generator EP	INDIFFERENT	7:10	5wlOJtgidgU	MPREb_kUVawXVZjIN	UCiS9apTWNqct0TmwecMCYpw
+467	Cloud Generator	KiNK	Cloud Generator EP	INDIFFERENT	7:10	5wlOJtgidgU	MPREb_kUVawXVZjIN	UCFRQ1Mb8jXLzqb-VYzKr4Zg
 57	Rain	Kerri Chandler	The Mood EP	INDIFFERENT	7:47	kqy4gpiTPaA	MPREb_iuK9ONHzqXC	UCSSYN-gGmI9-1ZMy1Z8QWdg
 220	Mommy What's a Record	Kerri Chandler	Mommy What's a Record	INDIFFERENT	7:45	SZIeBnmsrI0	MPREb_yniJLltvynQ	UCSSYN-gGmI9-1ZMy1Z8QWdg
 284	Atmosphere (The Lost Dubs)	Kerri Chandler	Atmosphere (The Lost Dubs)	INDIFFERENT	8:04	gA6AAYyX-Og	MPREb_yGviLW7SxFZ	UCSSYN-gGmI9-1ZMy1Z8QWdg
@@ -365,7 +364,7 @@
 66	With You feat. Grovesnor (Flight Facilities Extended Mix) (feat. Grovesnor)	Flight Facilities	With You Remixes	INDIFFERENT	5:37	ASZeKIQsyB8	MPREb_FjXNXtB8dS9	UC_C5okdXzTAzv6o92KOA6Bg
 332	Foreign Language (Flight Facilities Extended Mix) (feat. Jess)	Flight Facilities	Foreign Language (Remixes)	INDIFFERENT	5:58	AdY93EljQ1I	MPREb_4Vm6tTOIRFu	UC_C5okdXzTAzv6o92KOA6Bg
 88	6am	Fitz and The Tantrums	More Than Just a Dream	INDIFFERENT	4:30	QnGh5YDB_vg	MPREb_xkyiTys4uQQ	UCYDHG41CGrBZhbFw7lZMI9w
-398	R'N'R Je Kriv Za Sve (Live)	Fit	Uz Rijeku (Live)	INDIFFERENT	5:47	YyHj_Kj656s	MPREb_bXTfMvmsg22	UC2GAtwhiXzWCHhlgAtbZe8g
+398	R'N'R Je Kriv Za Sve (Live)	Fit	Uz Rijeku (Live)	INDIFFERENT	5:47	YyHj_Kj656s	MPREb_bXTfMvmsg22	
 368	Mind	Fatima	Follow You EP	INDIFFERENT	4:27	U0BMAymCZkw	MPREb_hz98D0MUGri	UCSV7INag2znjz8JfKXevFzA
 283	Fountain Gate	Fantastic Man	Dream Machine	INDIFFERENT	7:12	4b6TxwN56hg	MPREb_PFZjwbR4lDb	UCuE-PPyqnwW2OkkaAzwc79Q
 95	Lady Shave	Fad Gadget	The Fad Gadget Singles	INDIFFERENT	5:49	0ZVqN_9RI0w	MPREb_6YXt6Dp90o4	UCS-IDxC0GbMqoeNKDI_8UPw
@@ -414,7 +413,7 @@
 36	Winona	DJ Boring	Winona	INDIFFERENT	8:31	kuggtL-bQzc	MPREb_r0yUgx9uxWE	UCzj6YjIRP4LjYUTPQBVpvDQ
 21	Sex On the Beach	DJ Assault	Greatest Hits Vol. 1	INDIFFERENT	3:38	nf-ZqAVwwFg	MPREb_8QolpzWKuSy	UC3aRiOA5lr8kr98pdZyOFgQ
 86	Betray My Heart	D'Angelo and The Vanguard	Black Messiah	INDIFFERENT	5:56	O-koolbtppo	MPREb_VYQ9kGvAXbC	UClNtwl7d6s42-L8yRG6VEgg
-380	Na boca do sol	Célia	Sucessos em Dose Dupla	INDIFFERENT	2:46	5L99WZVyUTk	MPREb_qEb2mqFFhYP	UCCvfBnep8G6ZrEcZ0g2q2Mg
+380	Na boca do sol	Célia	Dose Dupla Célia	INDIFFERENT	2:46	5L99WZVyUTk	MPREb_qEb2mqFFhYP	UCCvfBnep8G6ZrEcZ0g2q2Mg
 197	Sunrays	Cursedsnake	Snake Pit	INDIFFERENT	8:12	-sCkXd3GGng	MPREb_GPe3gTVO5aW	UCZy6d-gsTOzRv88B8tcrYqg
 144	Moral Tem Hora	Cristina Camargo	Brazilian Disco Boogie Sounds (1978-1982)	INDIFFERENT	2:47	WGDx0SrcrVU	MPREb_o9KjoLRW6QU	
 323	Gene	Copper Green Sedan	Pedestrian EP	INDIFFERENT	8:41	A2wnH2_IbQM	MPREb_PNIC3oXEfl7	UCcGguP-Yb0j-A5rMRJq739g
@@ -440,7 +439,7 @@
 337	You Could Feel The Sky	Boards Of Canada	Geogaddi	INDIFFERENT	5:15	g5PMvouxhiY	MPREb_GR19tfS76CP	UCidyEq0ZC6rcqZmwKt_g_2g
 193	Leaving Winter Behind	Bluetech	Sines and Singularities	INDIFFERENT	7:57	XgEzrrhLAQE	MPREb_MVoocizF5BQ	UCnJt4LmlQIkFTcCFfxCRlXw
 47	Uncle ACE	Blood Orange	Cupid Deluxe	INDIFFERENT	4:16	oJptxg3n9Oc	MPREb_KgbC6i6elpV	UCwItHQ6AZ1ZH4SVNUCrpSPw
-140	What You Do with What You Have	Blawan	What You Do with What You Have	INDIFFERENT	6:32	ZHoVyGdvUPw	MPREb_DawZFO8hpPJ	UC4BL0P5IxyDzk2NCmXOoyeA
+140	What You Do with What You Have	Blawan	What You Do with What You Have	INDIFFERENT	6:33	ZHoVyGdvUPw	MPREb_DawZFO8hpPJ	UC4BL0P5IxyDzk2NCmXOoyeA
 192	White Math	Blanck Mass	White Math	INDIFFERENT	11:16	lmfxiJAXbHA	MPREb_M92AtyqSXxz	UCUHD-QSm7M7ABmVVQBpo2bA
 191	You Can Win	Bileo	You Can Win	INDIFFERENT	3:26	t1p_0BEIoa4	MPREb_RieOEcwgBFN	UCpObCwqWvM3ca4zQIvJ_adg
 28	The Game	Bicep	Stash	INDIFFERENT	4:56	56g7e_--y2U	MPREb_b4qvd04s6M4	UCgapGYYYntw8Wg57E1DI7NA
@@ -478,4 +477,5 @@
 177	In Your Arms	6th Borough Project	Borough 2 Borough	INDIFFERENT	5:03	EO2ToyJaakI	MPREb_QixDJQ9AqFa	UCi19gslqR4eN13GbZzuW-qA
 477	Do It to the Max	6th Borough Project	Optimo : The Underground Sound of Glasgow (Mixed By Jd Twitch)	INDIFFERENT	6:27	_FojUooZdpY	MPREb_nbnumlKN7i3	UCi19gslqR4eN13GbZzuW-qA
 387	A Lil' Tribute to the Moody Black Keys	20 Below	It's All in the Groove	INDIFFERENT	7:33	AcyKdsfz1Xc	MPREb_D1BPNClWTN7	UCV1q-va2vq3701fhyqhTqXQ
+230	Open Door	Losoul	Open Door		11:31	P_PF-3v46QM		
 331	Liquid Deep	Dreamcast	Liquid Deep			7bAWfTpXlPo		
