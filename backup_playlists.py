@@ -50,58 +50,68 @@ def decode(string, encode_key='latin-1', decode_key='windows-1252'):
 def get_yt_track_info(yt, row):
     copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
     copy_album_cols = ['type', 'trackCount', 'duration', 'year']
+    track_str = f"{row['artist']} - {row['album']} - {row['title']}"
     if type(row['artistId']) != str:
-        print(f'\nD ERROR: row["artistId"] not a str for row:\n{row}')
+        print(f'\nD ERROR: row["artistId"] not a str for row: {track_str}')
     elif 'privately_owned' in row['artistId']:
-        print(f'\nSkipping privately owned track for row:\n{row}')
+        print(f'\nSkipping privately owned track for row: {track_str}')
     else:
         song = yt.get_song(row.name)
         for col in copy_song_cols:
             if col not in song:
                 continue
             if col == 'release' and not valid_date(song['release']):
-                print('\tSkipping release field, not a valid date...')
+                print(
+                    f'\tSkipping release field, not a valid date: {track_str}')
                 continue
             row[col] = song[col]
         if row['albumId'] and type(row['albumId']) == str:
             try:
                 album = yt.get_album(row.albumId)
             except Exception as e:
-                print(f'ERROR running: get_album(albumID)\n{e} for row\n{row}')
+                print(
+                    f'ERROR running: get_album(albumID)\n{e} for row: {track_str}')
                 return row
             if len(album['artists']):
                 row['albumArtist'] = album['artists'][0]['name']
             elif len(album['tracks']) and len(album['tracks'][0]['artists']):
                 row['albumArtist'] = album['tracks'][0]['artists'][0]['name']
             else:
-                print(('\nD ERROR Failed: len(album["artists"]) ',
-                       f'for album: {album}'))
+                print(
+                    f'\nD ERROR Failed: len(album["artists"]) for album:  {track_str}')
             for col in copy_album_cols:
                 if col not in album:
                     continue
-
                 new_col = f'album{col[0].upper()}{col[1:]}'
                 if album[col]:
                     row[new_col] = album[col]
                 else:
-                    print(
-                        f'\nD ERROR column {col} not in albums\n{album}')
+                    print(f'\nD ERROR column {col} not in albums: {track_str}')
     return row
 
 
 def update_track_db(yt, track_db, new_tracks):
-    print('Track database has %d tracks, found %d unique new tracks' %
-          (len(track_db), len(new_tracks)))
-
+    print(f"Track database has {len(track_db)} tracks")
+    print(f"Found {len(new_tracks)} unique new tracks")
     i = 0
     tracks_w_info = []
     t0 = time.time()
     for vid, row in new_tracks.iterrows():
         i += 1
         tracks_w_info.append(get_yt_track_info(yt, row))
-        track_str = decode('%s - %s - %s' % (
-            row['artist'], row['album'], row['title']))
-        print('(%d/%d): %s' % (i, len(new_tracks), track_str))
+        track_str = decode(
+            f"{row['artist']} - {row['album']} - {row['title']}")
+        if 'likeStatus' in row:
+            track_str += decode(f" -> {row['likeStatus']}")
+        # if 'averageRating' in row:
+        #     track_str += decode(f" rating={round(row['averageRating'],2)}")
+        # if 'release' in row:
+        #     track_str += decode(f" ({row['release']})")
+        if 'albumType' in row:
+            track_str += decode(f" | {row['albumType']}")
+        if 'albumYear' in row:
+            track_str += decode(f" ({row['albumYear']})")
+        print(f"({i}/{len(new_tracks)}): {track_str}")
 
     tracks_w_info = pd.DataFrame(tracks_w_info)
     print('Scraped info for %d tracks' % len(tracks_w_info))
