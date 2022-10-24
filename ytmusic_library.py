@@ -3,7 +3,7 @@ import time
 import pandas as pd
 from ytmusicapi import YTMusic
 
-PLAYLIST_LIMIT=2000
+PLAYLIST_LIMIT=5000
 
 class YTMusicPlaylists:
 

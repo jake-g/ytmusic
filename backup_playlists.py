@@ -132,8 +132,8 @@ def update_like_tsv(liked_tracks, like_tsv, header):
     assert list(like_tracks.columns) == header, assert_msg
 
     # Append new like tracks in db but not in like list, save tsv.
-    new_like_tracks = liked_tracks.loc[set(
-        liked_tracks.index) - set(like_tracks.index)]
+    new_like_tracks = liked_tracks.loc[frozenset(
+        liked_tracks.index) - frozenset(like_tracks.index)]
     all_like_tracks = pd.concat([like_tracks, new_like_tracks])
     all_like_tracks.to_csv(like_tsv, sep='\t', header=True)
     print('Updated liked tracks with %d new entries (from %d to %d).' % (

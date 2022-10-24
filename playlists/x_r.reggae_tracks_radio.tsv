@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 901	Beach in Hawaii	Ziggy Marley	Love Is My Religion	LIKE	3:45	ObkIu6CBmp0	MPREb_08JluDLjB93	UCsMjZkTMjcYtG0s5yxXzgUA
 1253	While My Guitar Gently Weeps	Tom Petty	The Best of Rock and Roll Hall of Fame + Museum Live	LIKE	6:20	AxVUH0oE6o0	MPREb_bFOzxhtAlWh	UC6hGusDLTI8bW-P4pMYdIqA
+1321	Ghost Town (Single Version [2021 Remaster])	The Specials	Ghost Town [2021 Remaster]	LIKE	3:43	ddoWy9bw3-Y	MPREb_EYeiooJqldG	UC2_ZQJKkRF9GapgwTMd_LMw
 933	Friends Of P.	The Rentals	Return Of The Rentals	LIKE	3:32	Dj2WQudTtso	MPREb_v6nuNHsrqBf	UC8kUE9LlbvexhM-myD7ZYyg
 157	Can't Stand Losing You	The Police	Outlandos D'Amour (Remastered 2003)	LIKE	2:59	AbcHbAFxUHI	MPREb_nd8wjM73JJB	UCbsRGw640UF_F7AIwHW-zmg
 142	The Tide Is High	The Paragons	On The Beach With The Paragons	LIKE	2:44	sjcWJyKeScI	MPREb_fYeqB86rRfW	UC2rL--PGNPCOTyn7BoTZu6A
@@ -21,7 +22,7 @@
 667	King Tubby's Meets Rockers Uptown	Augustus Pablo	King Tubbys Meets Rockers Uptown	LIKE	2:33	NoXYJkOeYSM	MPREb_dhSHA7o7OJC	UCgkGZNSqEPyVXH58d_jlKkg
 1357	Keep On Dubbing	Augustus Pablo	King Tubbys Meets Rockers Uptown	LIKE	3:07	XlUuCMqbS6c	MPREb_dhSHA7o7OJC	UCgkGZNSqEPyVXH58d_jlKkg
 213	Dreadlock Holiday	10cc	20th Century Masters: The Millennium Collection: Best Of 10CC	LIKE	5:01	ci2_vHkS5Uk	MPREb_hcxppUcYh0Z	UCjyD_pnM14qs0xwkwvzVsTw
-907	The Old You	shine	PERFECT	INDIFFERENT	3:50	jdy2bwAH3xU	MPREb_xfh54AX65ND	UCN8VkB2Cx-suUoMz9CtFepw
+907	The Old You	shine	PERFECT	INDIFFERENT	3:50	jdy2bwAH3xU	MPREb_xfh54AX65ND	UCKFMps3C7o1k-39-zQK4-1g
 498	Christmas Rainbow	king brillo	One Love Christmas	INDIFFERENT	4:42	3jMmV6AIYs8	MPREb_eU41rrWsNuH	UCc8Ve2gAF3we5avWZxRZ9AA
 499	Dreadlocks Santa	king brillo	One Love Christmas	INDIFFERENT	3:00	uZ58GZyJURA	MPREb_eU41rrWsNuH	UCc8Ve2gAF3we5avWZxRZ9AA
 500	I Believe In Father Christmas	king brillo	One Love Christmas	INDIFFERENT	3:37	x1pkGiaAukc	MPREb_eU41rrWsNuH	UCc8Ve2gAF3we5avWZxRZ9AA
@@ -155,7 +156,6 @@
 987	Papa Was A Rollin' Stone	The Temptations	All Directions	INDIFFERENT	11:45	71l85z2bXAs	MPREb_SaLHVAWTrXb	UCwWtKZD4xNVpEHndNxYu51g
 3	A Message to You Rudy (feat. Rico)	The Specials	Too Much Too Young	INDIFFERENT	2:54	Gkdz7ta72NY	MPREb_exQXruVGriU	UC2_ZQJKkRF9GapgwTMd_LMw
 1053	Do Nothing (2002 Remaster)	The Specials	More Specials	INDIFFERENT	3:45	C1CYP1fAN-A	MPREb_7n66OnxZkyF	UC2_ZQJKkRF9GapgwTMd_LMw
-1321	Ghost Town (Single Version [2021 Remaster])	The Specials	Ghost Town [2021 Remaster]	INDIFFERENT	3:43	ddoWy9bw3-Y	MPREb_EYeiooJqldG	UC2_ZQJKkRF9GapgwTMd_LMw
 703	Divine Thing	The Soup Dragons	Hotwired (Deluxe / Remastered)	INDIFFERENT	3:52	YLMWmP6ta04	MPREb_rShvzYEnNnY	UCz8rrwLKIST9O5ltCaxML0A
 31	Johnny Too Bad	The Slickers	The Harder They Come (Original Motion Picture Soundtrack)	INDIFFERENT	3:04	Sz_QVTejXdY	MPREb_nGNOa4D7lFC	UCdzMls67C3DOwCsiz7bsTVQ
 18	Rise Up	The Skints	Part & Parcel (Recorded Delivery)	INDIFFERENT	3:06	Ax2cLAhOjL4	MPREb_wJSuaLuOspm	UCI7WTVnXK0RrmJlePkMtYbQ
@@ -365,10 +365,10 @@
 1180	(You're My One And Only) True Love	Seduction	Nothing Matters Without Love	INDIFFERENT	3:50	J7d-aOSiXxg	MPREb_FfhnV3PKV43	UCnmKWQWQBjYupSTyMhS_Bwg
 575	Tell Them the Truth	Sebastian Sturm	This Change Is Nice	INDIFFERENT	4:21	r5UQx76K0-0	MPREb_n93RjVszX3V	UC670fiOd-fK4rUjngtzEXMQ
 47	Your Teeth In My Neck	Scientist	The Scientist Rids The World Of The Evil Curse Of The Intergalactic Vampire	INDIFFERENT	4:41	jpdj9wGn4dw	MPREb_fkPwJSfuePj	UCyfqbpHwrH68qmeLatv1NmA
-572	Every Dub Shall Scrub	Scientist	Scientific Dub	INDIFFERENT	3:41	IsIbxpXkOls	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
-573	Satta Dread Dub	Scientist	Scientific Dub	INDIFFERENT	2:29	ugu_64TJ2go	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
-574	Taxi to Baltimore Dub	Scientist	Scientific Dub	INDIFFERENT	4:01	JbVVNoM5DH0	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
-927	Drum Song Dub	Scientist	Scientific Dub	INDIFFERENT	3:42	Egt-V3MOCb8	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
+572	Every Dub Shall Scrub	Scientist	Scientific Dub	INDIFFERENT	3:41	IsIbxpXkOls	MPREb_e3qZNF0C63X	UCz-JTrkDJpwobzq-NHb4mNA
+573	Satta Dread Dub	Scientist	Scientific Dub	INDIFFERENT	2:29	ugu_64TJ2go	MPREb_e3qZNF0C63X	UCz-JTrkDJpwobzq-NHb4mNA
+574	Taxi to Baltimore Dub	Scientist	Scientific Dub	INDIFFERENT	4:01	JbVVNoM5DH0	MPREb_e3qZNF0C63X	UCz-JTrkDJpwobzq-NHb4mNA
+927	Drum Song Dub	Scientist	Scientific Dub	INDIFFERENT	3:42	Egt-V3MOCb8	MPREb_e3qZNF0C63X	UCz-JTrkDJpwobzq-NHb4mNA
 1047	The Voodoo Curse	Scientist	The Scientist Rids The World Of The Evil Curse Of The Intergalactic Vampire	INDIFFERENT	3:50	_a2hM3vvnN4	MPREb_fkPwJSfuePj	UCyfqbpHwrH68qmeLatv1NmA
 847	Ev'rybody Wants To Be A Cat	Scatman Crothers	Songs From The Aristocats	INDIFFERENT	2:02	nDJockBnjYs	MPREb_TYIUI7VFvxT	UClqtpBMtifjWBES9Bwpk63w
 1371	The Wall	Scarface	The World Is Yours	INDIFFERENT	4:38	YT2_mMgNQVg	MPREb_MkU56YpEXqv	UC9v3AUfaYiap8vPHN5lyOYQ
@@ -515,7 +515,7 @@
 926	Mouhamadou Bamba (feat. Baobab-Gouye-Gui de Dakar)	Orchestra Baobab	Mouhamadou Bamba	INDIFFERENT	6:36	dZd8wb8OoL8	MPREb_wiJZoEq1HTX	UCwMs7c2K497kuIL0dbZP8CA
 669	Rather Be the Devil	No Money Kids	I Don't Trust You	INDIFFERENT	6:34	YK9WFt3QsDw	MPREb_kaFFfBeNpxr	UCq_xk8HuLwGkzUI_H9h2AMQ
 1228	Sweet Reggae Music	Nitty Gritty	Reggae Hits, Vol. 3	INDIFFERENT	3:37	WIxwferSPbs	MPREb_a4jYJaJ26C7	UCdAWiwpOBifa_lsITkVpf8Q
-1031	Make or Take (feat. Smoothe Da Hustler)	Nine	Cloud 9	INDIFFERENT	4:00	WeJjJtY4Yv4	MPREb_gAu5qgY97KP	UCAX20lT9102cGNFneaoOj9A
+1031	Make or Take (feat. Smoothe Da Hustler)	Nine	Cloud 9	INDIFFERENT	4:00	WeJjJtY4Yv4	MPREb_gAu5qgY97KP	UCZoAN8LLDDOQtbmA-BZqTXQ
 532	The Ballad Of Hollis Brown	Nina Simone	Let It All Out	INDIFFERENT	4:56	7vOEFtepLDw	MPREb_7tsDQvHcF29	UCqj1HtTq76Bo6rBXNwrF5Uw
 1055	Baltimore	Nina Simone	Baltimore	INDIFFERENT	4:39	U1G4v-q8Lq4	MPREb_6KzKFtY2pPe	UCqj1HtTq76Bo6rBXNwrF5Uw
 243	Kingston Fyah (Instrumental)	New Kingston	Kingston Fyah	INDIFFERENT	3:49	l8MxaZckMhM	MPREb_XaH1VwFdgic	UCNSs6nU8vPdGO78IEHAwYug
@@ -641,6 +641,7 @@
 954	Sweet Harmony	Kings of Reggae	Chris Hinze Kings of Reggae	INDIFFERENT	4:10	nBxES7kExwo	MPREb_PeWzpQwa6Ce	UCxRTy0O2d-TWPuHMhpNjRtA
 84	Dub Take Five	King Tubby	King at the Controls	INDIFFERENT	3:23	5u2sZqZx6N4	MPREb_snYOkID7P3C	UCKXb5pogU_SBmt39cYE5Efw
 1144	King Tubby's Hi Fi Dub	King Tubby	Dangerous Dub	INDIFFERENT	2:50	w_F9awMZgns	MPREb_4HiWDI7Fa0P	UCKXb5pogU_SBmt39cYE5Efw
+1272	Talkative Dub	King Tubby	The Dub Express Vol 3 Platinum Edition	INDIFFERENT	3:26	0Bph82LtdDA	MPREb_RahjZgVF9LD	UCKXb5pogU_SBmt39cYE5Efw
 1291	Roots Of Dub	King Tubby	Presents The Roots Of Dub	INDIFFERENT	3:16	mfec5f9LoPM	MPREb_6LdkyckIysD	UCKXb5pogU_SBmt39cYE5Efw
 1304	King Tubb's Big Big Dub	King Tubby	From The Palace Of Dub	INDIFFERENT	3:24	kzR1rIP6e_k	MPREb_BNDihloDVrE	UCKXb5pogU_SBmt39cYE5Efw
 1337	The Poor Barber	King Tubby	At The Controls	INDIFFERENT	3:09	Hl84qtaXjFo	MPREb_jz4B1AU2MkC	UCKXb5pogU_SBmt39cYE5Efw
@@ -1234,8 +1235,8 @@
 312	Amigo	Black Slate	Amigo	INDIFFERENT	5:36	nTgiEFpK-xA	MPREb_ZpbnMEif4Mi	UCThBJgaqxxC_bFZ9i6TNQyg
 313	Boom Boom	Black Slate	Amigo	INDIFFERENT	3:58	SgmDmTdFa9g	MPREb_XboFhzHxkLm	UCThBJgaqxxC_bFZ9i6TNQyg
 875	Freedom Time (Black Star Liner)	Black Slate	Amigo	INDIFFERENT	4:24	d8I0UOboUvU	MPREb_XboFhzHxkLm	UCThBJgaqxxC_bFZ9i6TNQyg
-952	Zion (feat. Keith Drumond)	Black Slate	Now and Then	INDIFFERENT	4:17	LBVwDO3j4xg	MPREb_yQS8kzb4InT	UCThBJgaqxxC_bFZ9i6TNQyg
-1309	Live a Life (feat. Keith Drummond)	Black Slate	Now and Then	INDIFFERENT	3:31	Rr25VzqUghg	MPREb_yQS8kzb4InT	UCThBJgaqxxC_bFZ9i6TNQyg
+952	Zion (feat. Keith Drumond)	Black Slate	Now and Then	INDIFFERENT	4:18	LBVwDO3j4xg	MPREb_yQS8kzb4InT	UCThBJgaqxxC_bFZ9i6TNQyg
+1309	Live a Life (feat. Keith Drummond)	Black Slate	Now and Then	INDIFFERENT	3:32	Rr25VzqUghg	MPREb_yQS8kzb4InT	UCThBJgaqxxC_bFZ9i6TNQyg
 196	Juvenile Delinquent	Black Roots	Black Roots	INDIFFERENT	4:29	ExUv6niSmK4	MPREb_Z6xcb4iqEM4	UCv1tBWFrF96Hub63Kc9O2Ew
 311	Africa	Black Roots	In Session	INDIFFERENT	3:33	kjSmQ_QMZXs	MPREb_H4ufvBN8SD5	UCv1tBWFrF96Hub63Kc9O2Ew
 763	Tribal War	Black Roots	In Session	INDIFFERENT	4:38	iWDoHKabYiM	MPREb_H4ufvBN8SD5	UCv1tBWFrF96Hub63Kc9O2Ew
@@ -1321,6 +1322,7 @@
 1026	It's Up To Jah Dub	Augustus Pablo	Eastman Dub	INDIFFERENT	2:46	WKNbbpkUlG0	MPREb_sh0USoBtbty	UCgkGZNSqEPyVXH58d_jlKkg
 1136	Mountain View Dub (Version One)	Augustus Pablo	Augustus Pablo In Fine Style	INDIFFERENT	3:33	Qz1FvVis2xE	MPREb_g9ig4v8aPxf	UCgkGZNSqEPyVXH58d_jlKkg
 1284	Sunshine Dub	Augustus Pablo	Rockers At King Tubby's	INDIFFERENT	2:35	Cq9aul-a-xk	MPREb_JAomXhMjlL0	UCgkGZNSqEPyVXH58d_jlKkg
+1307	King Tubby's Roots Vibe Dub	Augustus Pablo	Before Dubstep There Was Dub: Vol 3	INDIFFERENT	2:35	f6usTSKQrg8	MPREb_clEfZIAFaiL	UCgkGZNSqEPyVXH58d_jlKkg
 286	Behold	Aswad	Hulet	INDIFFERENT	7:08	tM2gZGm-wpI	MPREb_Q5JCZvq4zZI	UCFcimxcEUSKUVUltHH0lehQ
 287	Dub Fire	Aswad	New Chapter Of Dub	INDIFFERENT	4:30	7cC8ZZa-Grw	MPREb_cEocn6FrHV9	UCFcimxcEUSKUVUltHH0lehQ
 288	Oh Jah	Aswad	Not Satisfied	INDIFFERENT	5:32	opbO0k7g-kA	MPREb_OUXYMK7mJ3l	UCFcimxcEUSKUVUltHH0lehQ
@@ -1359,7 +1361,7 @@
 891	No More Fighting (2001 Digital Remaster)	Althea & Donna	Uptown Top Ranking	INDIFFERENT	3:38	drY8NndCsGE	MPREb_PyEuopwoGv5	UChjY_-1oNfQk0e18tmzD-rg
 1323	Oh Dread (2001 Digital Remaster)	Althea & Donna	Uptown Top Ranking	INDIFFERENT	2:40	WO5L0Vc6WcA	MPREb_PyEuopwoGv5	UChjY_-1oNfQk0e18tmzD-rg
 842	Brigadier Sabari	Alpha Blondy	Jah Glory - Remastered Edition	INDIFFERENT	4:44	3BTLoLzbwgY	MPREb_6EcJZBcIPxs	UCShbhSc-_Yv50N6dz6kqRTQ
-1132	Smugglaren	Allyawan	Smugglaren	INDIFFERENT	4:21	4Hk98NLVkhk	MPREb_pdaxo4yJTuj	UCHHbIrN3EeVWLMoYzaJ8f6Q
+1132	Smugglaren	Allyawan	Smugglaren	INDIFFERENT	4:21	4Hk98NLVkhk	MPREb_pdaxo4yJTuj	UCU_yOrZdDqdh-CIAr2Mu5iQ
 755	Weh You Did Deh	Alkaline	Weh Yuh Did Deh	INDIFFERENT	3:27	0qVdQUZWsvU	MPREb_9RhNsC5FDDv	UCCNNDVzsB_uoSxuJZs7ENVw
 192	Play Fool (To Catch Wise)	Alborosie	Sound The System	INDIFFERENT	4:01	dwEGImdlHx0	MPREb_tecZnoPWqDc	UCoocSWvjhQemkn3FwsZXtjQ
 270	Can't Cool	Alborosie	Freedom & Fyah	INDIFFERENT	3:49	iSgByp2ovEI	MPREb_kWxYTbNIRLL	UCoocSWvjhQemkn3FwsZXtjQ
@@ -1415,6 +1417,4 @@
 245	No Guarantee	Protoje	A Matter of Time			eF5ALbFfzfQ		
 561	Bout Noon	Protoje	A Matter of Time			oH_YwB4qoMw		
 562	Flames	Protoje	A Matter of Time			xvf7cna5KB0		
-1272	Talkative Dub	King Tubby	The Story of Dub			aa0SyZGeN7c		
 979	Smoke Gets In My Eyes Feat. Damian, Jr. Gong Marley & Stephen Marley	Inner Circle	State Of Da World			9VgTfIN2fco		
-1307	Roots Vibe Dub	Augustus Pablo	Augustus Pablo Meets King Tubby at the Control			vduje9sRHtw		
