@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 9	Birdland	Weather Report	Heavy Weather	LIKE	5:57	SvhmaNlLgRM	MPREb_Abm9HUJNq1Q	UCIarlYUBEI7vNYAyrt4vRlQ
+50	Strange Meadow Lark	The Dave Brubeck Quartet	Time Out	LIKE	7:23	XJ5FMEjWr5Q	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
 52	Stolen Moments	Oliver Nelson	Hey There	LIKE	8:45	-355KY_v78E	MPREb_lPbkPz23bLz	UCBQeutAJsXHfpzjZNPLSD6A
 30	Bouncing With Bud	Niels Henning Ørsted Pedersen	The Bass in the Background	LIKE	6:00	V78ogmOE3as	MPREb_b8n9DIYyJQh	UCUGsn29O66LKtyBkgOqL6hA
 12	Stella By Starlight (feat. John Coltrane & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	4:45	PhkQRiF_bG4	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
@@ -8,6 +9,7 @@
 51	Wise One	John Coltrane Quartet	Crescent	LIKE	9:03	yagO50i6O5E	MPREb_H3QoWFOEa2D	UCH4T2kv7rr9qnuP0DOXLxMA
 34	I'll Keep Loving You (Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering)	Jackie McLean	Let Freedom Ring (Rudy Van Gelder Edition)	LIKE	6:18	TMNMQTHHmcg	MPREb_wtvyss66OqX	UCoyhDuOmAW7PpH25RO-pm1g
 6	Watermelon Man	Herbie Hancock	Head Hunters	LIKE	6:28	ppJQKfqhFfE	MPREb_1nwQ1udVEto	UCq_O_14tCKbx9U9uUT_LEPA
+48	Cantaloupe Island (Remastered 1999 / Rudy Van Gelder Edition)	Herbie Hancock	Empyrean Isles (Rudy Van Gelder Edition / Expanded Edition)	LIKE	5:34	otFVFLtRF_s	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
 55	I See Your Face Before Me	Hank Mobley	Dippin'	LIKE	5:30	MetWGkwlpHk	MPREb_98Alt0sXw1U	UCASAhhcTDUg2_r0Nt60mxaQ
 56	Track B- Duete Solo Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	6:45	f9FzSSGTufQ	MPREb_HOldncpaJpL	UCXSaOCck3oVxhB4W_4Ca3MQ
 57	Track C-Group Dancers	Charles Mingus	The Black Saint And The Sinner Lady	LIKE	7:22	vv3DnIvCifI	MPREb_HOldncpaJpL	UCXSaOCck3oVxhB4W_4Ca3MQ
@@ -23,7 +25,6 @@
 17	Django	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	INDIFFERENT	7:04	wXnkD7_5vqM	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
 21	Satin Doll	The Duke Ellington Orchestra	From the Archives: In Memorium	INDIFFERENT	9:06	XgP0VAtKZXU	MPREb_kNV0k9SgXq0	UCvwUPRgFawNNBdQg497gHJw
 43	Three to Get Ready	The Dave Brubeck Quartet	Time Out	INDIFFERENT	5:24	EZLMHglUTaI	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
-50	Strange Meadow Lark	The Dave Brubeck Quartet	Time Out	INDIFFERENT	7:23	XJ5FMEjWr5Q	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
 28	"Alfie's Theme (From ""Alfie"" Score)"	Sonny Rollins	Alfie	INDIFFERENT	9:44	b6BAN0zM0X4	MPREb_IJIHq9a1mP1	UCqwmTSEZTKX_BmxlmDSOzGQ
 38	Muskrat Ramble	Sidney Bechet's Blue Note Jazzmen	The Best Of Sidney Bechet	INDIFFERENT	3:42	e_um8pFJMHw	MPREb_Ye73yp0OZ1q	UCJdP0RSsGpcdI8S_aH5Y7yQ
 4	Come Away With Me	Norah Jones	Come Away With Me (Deluxe Edition)	INDIFFERENT	3:19	rZbhDOC7oyI	MPREb_lgKrzgDXyvo	UCxRuL2yOu2ydTJNZuYdU0qg
@@ -41,7 +42,6 @@
 53	Blue Train	John Coltrane	The Art Of Coltrane	INDIFFERENT	10:43	6vnxZqqK380	MPREb_dP5ByiJppw4	UCH4T2kv7rr9qnuP0DOXLxMA
 33	Sister Sadie	Horace Silver	Blowin' The Blues Away	INDIFFERENT	6:20	MkLhMPQtQ-o	MPREb_pbLltwUORdL	UC834B7DbQ6WZzigm4UCwuKg
 20	One Finger Snap (Remastered 1999 / Rudy Van Gelder Edition)	Herbie Hancock	Empyrean Isles (Rudy Van Gelder Edition / Expanded Edition)	INDIFFERENT	7:22	yQgv5bRqmnk	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
-48	Cantaloupe Island (Remastered 1999 / Rudy Van Gelder Edition)	Herbie Hancock	Empyrean Isles (Rudy Van Gelder Edition / Expanded Edition)	INDIFFERENT	5:34	otFVFLtRF_s	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
 35	Take The a Train	Duke Ellington	Take the A Train	INDIFFERENT	5:20	z-y6pPhVRPI	MPREb_bXoiiBkV8Ll	UCvwUPRgFawNNBdQg497gHJw
 13	Gee Baby, Ain't I Good To You	Diana Krall	All For You (A Dedication To The Nat King Cole Trio)	INDIFFERENT	4:08	geyFRXqPjds	MPREb_X0LDsEptiOv	UCHOHY0V0VKiEW0Yw7DR4xQw
 27	Three O'Clock In The Morning (Rudy Van Gelder Edition)	Dexter Gordon	Go! (The Rudy Van Gelder Edition)	INDIFFERENT	5:42	OIIaIDzQRXs	MPREb_Yji5CkNA2Q8	UCnH1LrQs42YLOQnpdoUYvdA

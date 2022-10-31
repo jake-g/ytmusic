@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 17	Doxy	Miles Davis	Miles Davis - The Best Jazz, Vol. 4	LIKE	4:51	4WuitfmRdGU	MPREb_Xxdygo8FEEs	UCIev2PktTH5mI-QlGmbUkiw
 21	Just One Of Those Things	Louis Armstrong	Louis Armstrong Meets Oscar Peterson (Expanded Edition)	LIKE	4:04	n-n5hYMfWIc	MPREb_almIqTckxjf	UCCDaSui4C9VFMpeRlKEOHDA
+18	Everytime We Say Goodbye	John Coltrane	Original Jazz Sound: My Favorite Things 1961	LIKE	9:34	X1mzCvVqEWk	MPREb_vFjNjqjI49N	UCH4T2kv7rr9qnuP0DOXLxMA
 13	Stevie	Duke Ellington	Duke Ellington & John Coltrane	LIKE	4:22	fuxpwj-D4L8	MPREb_uxjivVUKkfa	UCvwUPRgFawNNBdQg497gHJw
 16	Pops (AKA When the Saints Go Marching In) (Live)	Charles Mingus	The Lost Album from Ronnie Scott’s (Live)	LIKE	7:36	Q9JcEhLUr-E	MPREb_9zx5BhHXjXL	UCXSaOCck3oVxhB4W_4Ca3MQ
 29	Baby, Let Me Have It All	Branford Marsalis	Ma Rainey's Black Bottom (From the Netflix Film)	LIKE	2:04	lSJgd87qeIw	MPREb_PgtMl06jvUI	UCPS0b7e1e4kBGmlfot0fzdw
@@ -25,7 +26,6 @@
 47	Muskrat Ramble (Live)	Kid Ory	Live	INDIFFERENT	4:01	IK-fQGvODDc	MPREb_zAImD0PKfBF	UC3Je7AkvnkoINZufWdBgelA
 2	Lazy Bird (Take 1)	John Coltrane	Blue Train: The Complete Masters	INDIFFERENT	9:23	2NZX86ofY0o	MPREb_vyoFMHJgJWe	UCH4T2kv7rr9qnuP0DOXLxMA
 10	Summertime (Mono) (2022 Remaster)	John Coltrane	My Favorite Things (2022 Remaster)	INDIFFERENT	11:39	gDUoy1syL_k	MPREb_XVvpJ4JN78Y	UCH4T2kv7rr9qnuP0DOXLxMA
-18	Everytime We Say Goodbye	John Coltrane	Original Jazz Sound: My Favorite Things 1961	INDIFFERENT	9:34	X1mzCvVqEWk	MPREb_vFjNjqjI49N	UCH4T2kv7rr9qnuP0DOXLxMA
 31	Shreveport Stomp	Jelly Roll Morton	The Piano Rolls	INDIFFERENT	4:02	j5jRDzufAB0	MPREb_bkh8KYbgpQz	UCiKpyur6AJCOyJx_ZoINNiw
 51	Wheather Bird	Humphrey Lyttelton	Yours And Mine	INDIFFERENT	2:40	Rg1ZjF_9yLA	MPREb_PwirValiUKq	UCi8ArqlNbf8wLT9txqBRy0w
 50	What's Your Story (What's Your Jive)	Hot Swing Sextet	What's Your Jive?	INDIFFERENT	3:14	jYIVURy2aTQ	MPREb_9I2yosRhVoh	UCs0ulHxAV5Tk25mkPx9YbfA
@@ -40,7 +40,7 @@
 24	My Blue Heaven	Django Project	My Blue Heaven	INDIFFERENT	3:00	exF3PQitBu8	MPREb_4KErlTjGGpl	UCnkNVbe2JGk_y_NXHNxFQCQ
 6	The Fuzz	Chet Baker	Pacific Jazz	INDIFFERENT	2:56	gDWln_rhmok	MPREb_nNjHC3Yyt3D	UCVNfRXuaWVILL9giCEg0rQg
 7	K.C. Blues	Charlie Parker And His Orchestra	Bird: The Complete Charlie Parker On Verve	INDIFFERENT	3:25	N8-JqYgD4l8	MPREb_0OgRDpdSuk7	UCPFmyRluI7yvEdbHCrecUng
-12	Buzzy	Charlie Parker	The Savoy 10-inch LP Collection	INDIFFERENT	2:33	MKk60eb1s_8	MPREb_uv9F6QzFKzD	UCPFmyRluI7yvEdbHCrecUng
+12	Buzzy (Live)	Charlie Parker	The Genius Of Charlie Parker	INDIFFERENT	2:33	887A3dkxSAU	MPREb_5qZRMPV4Loz	UCPFmyRluI7yvEdbHCrecUng
 20	Opus 3	Charles Mingus	Mingus Moves	INDIFFERENT	10:30	OMKy-g7orR0	MPREb_jnUbNwN9mgv	UCXSaOCck3oVxhB4W_4Ca3MQ
 25	Buddy's Habits	Calamity Jazz	Harlem Joys	INDIFFERENT	3:08	vW73BXVShiU	MPREb_im3PqK51RFJ	UCFwVD-D-v7UhLEao1L5ebKQ
 36	Alexander's Ragtime Band	Bunk Johnson	Mr. Johnson	INDIFFERENT	3:15	ch5btl4xDzw	MPREb_TjOYrzqHr8j	UClYU5SOUmSQstiX6NFg7amQ

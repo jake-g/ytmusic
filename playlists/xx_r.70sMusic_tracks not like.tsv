@@ -1,10 +1,13 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 93	Excitable Boy (2007 Remaster)	Warren Zevon	Excitable Boy	LIKE	2:42	fZokPAuhD6k	MPREb_TNptpDKdduK	UChDuOKD_xJJqrHcwGtfch8g
 2	Jailbreak	Thin Lizzy	Jailbreak	LIKE	4:04	dMko8DlY9IA	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+10	Too Much Of Anything	The Who	Who's Next (Expanded Edition)	LIKE	4:25	kXbdGjYXPTA	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
 120	Going Mobile	The Who	Who's Next (Deluxe Edition)	LIKE	3:41	RBONqchemkc	MPREb_34QMPkZPwgF	UCpxn_sVrLQWNGFK1eulpYgw
 79	L.A. Woman	The Doors	L.A. Woman	LIKE	7:52	vHXjcdNIN-Q	MPREb_2kpSbS0hp4L	UCdx4iSJpg33jNmd9auQT04Q
 45	Working Man	Rush	Rush	LIKE	7:09	IrxzRFj03Ro	MPREb_eFFXsvuuHnY	UCDCgtKZG6r7C9n87FMxR5ow
 116	Fly By Night	Rush	Fly By Night	LIKE	3:22	j7f0WP30HUk	MPREb_LIkIXP2ytT6	UCDCgtKZG6r7C9n87FMxR5ow
+73	Unfunky UFO	Parliament	Mothership Connection	LIKE	4:24	jjQ4iYh039g	MPREb_kZhTxqCINhb	UCcmsXjBIjEbFMRHhtdnFnqQ
+60	Annie's Song	John Denver	Back Home Again	LIKE	3:01	TpQQlJOQszA	MPREb_Ktuxb4tTb8z	UCV8ZtASJ8X9ZwX3r1Dsei0w
 115	Madman Across The Water	Elton John	Madman Across The Water	LIKE	5:57	nq4J_n6vMYo	MPREb_gesU8GTQVb2	UCn9i4cdLe14CbsOycTbKMoA
 22	Thunder Road	Bruce Springsteen	Born To Run	LIKE	4:49	W2X0Gf9jfz8	MPREb_kPYj6JOZHGx	UCyFqJ_5TyAeTD7rHpLikbKQ
 208	Technopolis	Yellow Magic Orchestra	Solid State Survivor	INDIFFERENT	4:15	di_L7O56ZXE	MPREb_G23yNWyCvtm	UCS9G-CZZqYeftTs6EEPBfdg
@@ -25,7 +28,6 @@
 26	Waiting for an Alibi	Thin Lizzy	Black Rose: A Rock Legend	INDIFFERENT	3:30	MRDuF3-ml-o	MPREb_iduJYLBgrik	UCc1aNHzU9wXhKyhJy0PJgQQ
 28	Bad Reputation	Thin Lizzy	Bad Reputation	INDIFFERENT	3:09	W9IXcPeMcpI	MPREb_WNwRjCv1MJO	UCc1aNHzU9wXhKyhJy0PJgQQ
 44	Don't Believe A Word	Thin Lizzy	Johnny The Fox (Deluxe Edition)	INDIFFERENT	2:17	5HYQzDpBGIA	MPREb_qwUyYzEwYMC	UCc1aNHzU9wXhKyhJy0PJgQQ
-10	Too Much Of Anything	The Who	Who's Next (Expanded Edition)	INDIFFERENT	4:25	kXbdGjYXPTA	MPREb_rji9bI67r6i	UCpxn_sVrLQWNGFK1eulpYgw
 53	Smiling Faces Sometimes	The Undisputed Truth	The Undisputed Truth	INDIFFERENT	3:19	qd9zCTPahqk	MPREb_KhnQcYZ1A9u	UCe2L_9EDAWOfv437ehmpcEg
 24	When Will I See You Again	The Three Degrees	The Three Degrees	INDIFFERENT	2:59	ls6N_pmM9TY	MPREb_05POzwuW8ov	UCCEHLV1eUtEwmrFG9uq271w
 224	Ball Of Confusion (That's What The World Is Today) (Single Version / Mono)	The Temptations	Hitsville USA - The Motown Singles Collection 1959-1971	INDIFFERENT	4:05	xq7rALRVvFE	MPREb_MQYNAECcR1s	UCwWtKZD4xNVpEHndNxYu51g
@@ -93,7 +95,6 @@
 92	Rock Show	Paul McCartney & Wings	Venus And Mars (Archive Collection)	INDIFFERENT	5:32	htmW4Fa2yxo	MPREb_rxSwARFgahl	UC0guXwTSf4hAOvCSgmViojw
 13	Born to Be Alive	Patrick Hernandez	Born to Be Alive	INDIFFERENT	5:55	KP3nev7KWUY	MPREb_2T1rwaSznuX	UCDHeuc8bNUTmlllmdtqsIBA
 192	Snortin' Whiskey	Pat Travers Band	Crash And Burn	INDIFFERENT	3:27	MykD8zgHuy8	MPREb_ULlYbJXdYg0	UCm2kWQQozNYXdIwvdktd2Gw
-73	Unfunky UFO	Parliament	Mothership Connection	INDIFFERENT	4:24	jjQ4iYh039g	MPREb_kZhTxqCINhb	UCcmsXjBIjEbFMRHhtdnFnqQ
 48	Fire	Ohio Players	Fire	INDIFFERENT	4:37	jMjBo3edd1g	MPREb_mBa1s43S6gP	UCOJhJ8Oyf5FD5brohb_g1fA
 159	Skin Tight	Ohio Players	Skin Tight	INDIFFERENT	7:54	5Smb9DkYDr8	MPREb_2zF7u5Z4Jh5	UCOJhJ8Oyf5FD5brohb_g1fA
 41	Lotta Love	Nicolette Larson	Nicolette	INDIFFERENT	3:11	lHLr5dT4XHc	MPREb_r3rhejpE3kd	UCvzXAxmGRQA7O5UnXNJvFAg
@@ -133,7 +134,6 @@
 174	Jody's Got Your Girl And Gone	Johnnie Taylor	The Very Best Of Johnnie Taylor	INDIFFERENT	3:03	lAafRfkSvtM	MPREb_iOeixxBYxrk	UCFYmOJARQI7_5-Txl1s9C1w
 226	Summer Nights (From “Grease”)	John Travolta	Grease (The Original Motion Picture Soundtrack)	INDIFFERENT	3:37	A_J2bcNx3Gw	MPREb_ld1ikpEvpDu	UCEzpxWflVEv_cWMaWIpbjaA
 171	I Need A Lover	John Mellencamp	The Best That I Could Do 1978-1988	INDIFFERENT	5:37	c7dDf70GLrg	MPREb_bl74X3rxeuj	UCmlelS5UQVygg4mLuJSf6pw
-60	Annie's Song	John Denver	Back Home Again	INDIFFERENT	3:01	TpQQlJOQszA	MPREb_Ktuxb4tTb8z	UCV8ZtASJ8X9ZwX3r1Dsei0w
 127	Diamonds And Rust	Joan Baez	Diamonds & Rust	INDIFFERENT	4:47	IrVD0bP_ybg	MPREb_8R12013e6HB	UCS1qmMQEO8KBurXzQCjlbrA
 104	You Don't Mess Around With Jim	Jim Croce	Photographs & Memories: His Greatest Hits	INDIFFERENT	3:05	hickVDiW8k0	MPREb_LB9r3lwHaXq	UCgHHxoD5eBpYkAVVQ_R-TrA
 201	West Bound And Down	Jerry Reed	Smokey And The Bandit (Original Motion Picture Soundtrack)	INDIFFERENT	2:49	ZmXD_DKNuEs	MPREb_lAO2RAeEtqY	UC16q7SRg5jbLq7NXD-oZf7g

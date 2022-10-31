@@ -1,7 +1,9 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 623	What You Know	Two Door Cinema Club	Tourist History	LIKE	3:11	mNVmMPbg5IE	MPREb_4FVFZgQlnYU	UCNaAQtk0jVa2OXAEY0zF5zw
 356	Hell Broke Luce	Tom Waits	Bad As Me (Deluxe Edition Remastered)	LIKE	3:56	vM0GB5EJlr8	MPREb_6FvBdYAaJEC	UC39N3pyt2Z15oOMjouokl8A
+77	Reminder	The Weeknd	Starboy	LIKE	3:39	a40tAP5MC6M	MPREb_FWIMEPTHFsY	UClYV6hHlupm_S_ObS1W-DYw
 187	Can't Feel My Face	The Weeknd	Beauty Behind The Madness	LIKE	3:33	j6V7qfIRgNo	MPREb_FZ4FiUz7vKM	UClYV6hHlupm_S_ObS1W-DYw
+596	Starboy (feat. Daft Punk)	The Weeknd	Starboy	LIKE	3:51	3_g2un5M350	MPREb_FWIMEPTHFsY	UClYV6hHlupm_S_ObS1W-DYw
 522	Mr. Brightside	The Killers	Hot Fuss	LIKE	3:43	m2zUrruKjDQ	MPREb_LU3E5vWgwfG	UCneQ7UWyu9USLDgMya6T7IA
 687	Cannonball	The Breeders	Last Splash	LIKE	3:36	ljQprvTZtJQ	MPREb_h65VhMR7Q8w	UCauJZDRVzqj1QdLAQkUuq5w
 5	Lay-by	Tennyson	Lay-by	LIKE	4:31	3ooJHSx078I	MPREb_bW6Zs7djh20	UCQ2_kTDMFlrRy8vCQWQHRvA
@@ -9,14 +11,18 @@
 9	Oh My Darling Don't Cry	Run The Jewels	Run the Jewels 2	LIKE	3:25	bUrQ-QMImi4	MPREb_6TFIyJLFfCi	UC6b6dR8FnUK-_c_GtWv3fdQ
 37	Charm Assault	Ride	Weather Diaries	LIKE	4:13	PrpZkw2zn4U	MPREb_IgDkpI0NPIJ	UC1agXNA0qr9yCDX6gYOcKAg
 2	Burn the Witch	Radiohead	A Moon Shaped Pool	LIKE	3:41	qIm0fsMo0Rg	MPREb_zwdwliUWiJm	UCr_iyUANcn9OX_yy9piYoLw
+449	Let Her Go	Mac DeMarco	Salad Days	LIKE	3:02	RSACSNBOloo	MPREb_hH6kqzCgrAc	UCs95LJSHhdVhYQLvqsZqp_A
 427	Old Town Road (Remix) (feat. Billy Ray Cyrus)	Lil Nas X	7 EP	LIKE	2:38	TxcmdhjmnEE	MPREb_ISPNX304IU1	UCCF_6PwrZf1u70yghKms3Mw
 155	Toast	Koffee	Rapture EP	LIKE	3:12	CdXtQm64puA	MPREb_3YkqwpvDiQK	UCSTyhCNj3MK4gRaxszgxLAw
+531	Clique	Kanye West	Kanye West Presents Good Music Cruel Summer	LIKE	4:53	aUAPsa5NfR4	MPREb_TcbdiAttbvP	UCRY5dYsbIN5TylSbd7gVnZg
 91	Sly Fox	KOAN Sound	The Adventures of Mr. Fox	LIKE	4:22	4I774MsNGW4	MPREb_a4TCw96X82a	UCtnvOw13zAauA9BZxnFUCCA
 587	Somebody That I Used To Know (feat. Kimbra)	Gotye	Making Mirrors	LIKE	4:04	jg51kFe7CWU	MPREb_vDiDlMWN1v0	UCcrR-Or3AH2RKJqOntiD_Tw
 12	Dog Days Are Over	Florence + The Machine	Lungs (10th Anniversary Edition)	LIKE	4:11	v3cgdlHzQDQ	MPREb_uSEBvooZ6Fu	UCkmCGbrGa7yNrRl_NHrOaTw
 605	Blackstar	David Bowie	Blackstar	LIKE	9:58	Tc_zFfUkvsA	MPREb_ev11fQuB0Z1	UCvY1eVE6lTebXsdFbbXUtkQ
+319	All Night	Beyoncé	Lemonade	LIKE	5:22	jn1ikLWOr3w	MPREb_Wj7vh2XYbSH	UCoPQ_TWm8JZ5nJv4a5BzSWA
 713	Beat And The Pulse	Austra	Feel It Break (Deluxe Version)	LIKE	4:56	D19Qjnjcozk	MPREb_DyeazAGpPpS	UCD9i0tQ8nwq5DHCfdtrSIHw
 180	R U Mine?	Arctic Monkeys	AM	LIKE	3:21	giLpYG11qxQ	MPREb_m7saomf2NFN	UC8Yu1_yfN5qPh601Y4btsYw
+216	Tranquility Base Hotel & Casino	Arctic Monkeys	Tranquility Base Hotel & Casino	LIKE	3:32	uvBk9Oom05I	MPREb_3IESEDJ0pKv	UC8Yu1_yfN5qPh601Y4btsYw
 608	FIYAH	will.i.am	FIYAH	INDIFFERENT	4:00	wZmS4RsoAUc	MPREb_dtE11I0GJKi	UCMCqlMhBZnxsgYtI5tcFHbA
 507	Saturday	twenty one pilots	Scaled And Icy	INDIFFERENT	2:53	eY43Sy1wTc0	MPREb_NPxhttzsagk	UCnX0L9QiftAcWdzeBx31xCw
 628	Gangsta	tUnE-yArDs	W H O K I L L	INDIFFERENT	3:59	BgJlILjMpDo	MPREb_rGtiHpydOFW	UCtPTLKDh21P9EHTU6oRae0g
@@ -70,10 +76,8 @@
 104	Little Ones Run	Thee Silver Mt Zion Memorial Orchestra	Fuck Off Get Free We Pour Light On Everything	INDIFFERENT	2:29	oYuWdvOVoSU	MPREb_UFpKlCG2PnW	UCD14H15GYNnPRmAwkTnlPHg
 546	Save It For Later	The Wonder Stuff	Oh No It's...The Wonder Stuff	INDIFFERENT	3:42	gNmzaPQs5xY	MPREb_ObamU6YkTpj	UCZhwvRi0fOKIaGhJglnaEDA
 338	Techno Fan	The Wombats	The Wombats proudly present...This Modern Glitch	INDIFFERENT	4:00	Q2Sap66EeOk	MPREb_0e4k5ei1YVm	UCOnpj5LAFlRDLcvzrodnpOQ
-77	Reminder	The Weeknd	Starboy	INDIFFERENT	3:39	a40tAP5MC6M	MPREb_FWIMEPTHFsY	UClYV6hHlupm_S_ObS1W-DYw
 300	Blinding Lights	The Weeknd	Blinding Lights	INDIFFERENT	3:22	J7p4bzqLvCw	MPREb_4U7yfKKFZLv	UClYV6hHlupm_S_ObS1W-DYw
 584	House Of Balloons / Glass Table Girls	The Weeknd	Trilogy	INDIFFERENT	6:46	eXJGoq93GSI	MPREb_DbmffDiBz16	UClYV6hHlupm_S_ObS1W-DYw
-596	Starboy (feat. Daft Punk)	The Weeknd	Starboy	INDIFFERENT	3:51	3_g2un5M350	MPREb_FWIMEPTHFsY	UClYV6hHlupm_S_ObS1W-DYw
 624	The Whole of the Moon (2004 Remaster)	The Waterboys	This Is the Sea (Deluxe Version)	INDIFFERENT	5:03	d388s231dqQ	MPREb_kanW24bhEY5	UCSDchhThpWeuXWTU0ce34rQ
 21	An Ocean In Between The Waves	The War on Drugs	Lost In The Dream	INDIFFERENT	7:11	BijxWQluXE0	MPREb_866cCKMqeRe	UCnAZ69DaeHv6RR63qdp1U8g
 101	Chasing The Sun	The Wanted	The Wanted (Special Edition)	INDIFFERENT	3:18	iEEMMevA32k	MPREb_hV58GQrYyg9	UCE_BpbNG4h0J5Ge40QYlu1w
@@ -241,8 +245,8 @@
 142	Dirty Paws	Of Monsters And Men	My Head Is An Animal	INDIFFERENT	4:38	tuSqcy1a4Ms	MPREb_x9xZgt4Hfe3	UCpjxqiRSP5nQ4tp1fT2bjHg
 455	This Too Shall Pass	OK Go	Of the Blue Colour of the Sky	INDIFFERENT	3:09	jWsntzxlsPM	MPREb_bhWzCsArqiq	UCJwQvoGAP0BHXZIvGpY0CJw
 616	Summer of Young Love (feat. Flora Lin)	OK Feather	Summer of Young Love (feat. Flora Lin)	INDIFFERENT	2:52	-EGvMJKFMek	MPREb_KGuxlGf6HGb	UCQC5uV89MtqR32eKj6B5amw
-145	AKA… What a Life!	Noel Gallagher's High Flying Birds	Noel Gallagher’s High Flying Birds	INDIFFERENT	4:24	KHaWIccdVa8	MPREb_EIZ012E8rwP	UCu7yYcX_wIZgG9azR3PqrxA
-283	Everybody’s on the Run	Noel Gallagher's High Flying Birds	Noel Gallagher’s High Flying Birds	INDIFFERENT	5:31	Quq5avpD41w	MPREb_EIZ012E8rwP	UCu7yYcX_wIZgG9azR3PqrxA
+145	AKA… What a Life!	Noel Gallagher's High Flying Birds	Noel Gallagher’s High Flying Birds	INDIFFERENT	4:24	TCmAZZnFCCI	MPREb_EIZ012E8rwP	UCu7yYcX_wIZgG9azR3PqrxA
+283	Everybody’s on the Run	Noel Gallagher's High Flying Birds	Noel Gallagher’s High Flying Birds	INDIFFERENT	5:31	8ClKsoobQxw	MPREb_EIZ012E8rwP	UCu7yYcX_wIZgG9azR3PqrxA
 530	Take on Me	Ninja Sex Party	Under the Covers	INDIFFERENT	3:59	kf4MVhLv8W0	MPREb_7Ggiz2CTRIP	UCrm5vLQ03XygSWCPy9pGpEA
 318	Came Back Haunted	Nine Inch Nails	Hesitation Marks (Deluxe Version)	INDIFFERENT	5:18	1uCw1bzSbF4	MPREb_ZmQJII4KjJ7	UC8txE2ZyN2Sh8XxH5OkHLSw
 429	Check It Out	Nicki Minaj	Pink Friday (Deluxe Edition)	INDIFFERENT	4:11	dxP9uVJllNc	MPREb_hUG8qdCpfgF	UCTTcTeAszDGxALRSMkJH9FQ
@@ -301,7 +305,6 @@
 508	Addicted	Madonna	Rebel Heart	INDIFFERENT	3:33	h6WFYJxbLts	MPREb_mTXQlExIeZm	UCo4CrqhIV_tSOGdDWfVyCsg
 702	Medellín	Madonna	Madame X (Deluxe)	INDIFFERENT	4:59	2z306FRFqx4	MPREb_J3WiKlGSN3a	UCo4CrqhIV_tSOGdDWfVyCsg
 62	That Man	Macy Gray	The Sellout	INDIFFERENT	3:32	_mc05JBArFM	MPREb_eJ05YtAk9mZ	UCpY6l0OvVuMy3npgysbPOgA
-449	Let Her Go	Mac DeMarco	Salad Days	INDIFFERENT	3:02	RSACSNBOloo	MPREb_hH6kqzCgrAc	UCs95LJSHhdVhYQLvqsZqp_A
 89	Don't Call Me Up	Mabel	Ivy To Roses (Mixtape)	INDIFFERENT	2:59	DWFtdiULbWM	MPREb_725qMKZAbhY	UCWoP7z2YXkmkn2cseYodusQ
 536	Me and Michael	MGMT	Little Dark Age	INDIFFERENT	4:50	kIdftKW2LuU	MPREb_BNTnaKPYO7m	UCcP74mIhs125nerd5o5Dd-Q
 96	P.O.W.A	M.I.A.	P. O. W. A	INDIFFERENT	3:16	IqflSqxc9Pc	MPREb_uLeu40LwKcR	UCaPHikQGkyaAoH_zwrZmY1w
@@ -362,7 +365,6 @@
 182	You're in Love with a Psycho	Kasabian	For Crying Out Loud (Deluxe)	INDIFFERENT	3:36	EOECO_l4yQA	MPREb_JKT7VGXg423	UCmJDzMXYTdyjtp5VNONQRKg
 433	Wolves	Kanye West	The Life Of Pablo	INDIFFERENT	5:02	OZHjWc0Ssvk	MPREb_GDKC8gIBAVI	UCRY5dYsbIN5TylSbd7gVnZg
 481	Lost In The World (feat. Bon Iver)	Kanye West	My Beautiful Dark Twisted Fantasy	INDIFFERENT	4:16	1Dzh0XkuNPg	MPREb_RoflVdBJpAe	UCRY5dYsbIN5TylSbd7gVnZg
-531	Clique	Kanye West	Kanye West Presents Good Music Cruel Summer	INDIFFERENT	4:53	aUAPsa5NfR4	MPREb_TcbdiAttbvP	UCRY5dYsbIN5TylSbd7gVnZg
 710	Saint Pablo	Kanye West	The Life Of Pablo	INDIFFERENT	6:12	w9rzz4pDFwA	MPREb_ZIbQK9RFLQY	UCRY5dYsbIN5TylSbd7gVnZg
 668	Gotta Get Up (Interlude)	Kali Uchis	Isolation	INDIFFERENT	1:54	XLzPe3ibfb4	MPREb_m02LPU7HlMR	UCpkgnBLJpbkVLAob1CaPZsw
 288	Golden Hour	Kacey Musgraves	Golden Hour	INDIFFERENT	3:18	prerdpyyRUA	MPREb_uYLogTEmbXc	UC87QNTF9qgTwe8KKN1V8NGw
@@ -637,7 +639,6 @@
 514	Big Time Rush	Big Time Rush	BTR	INDIFFERENT	3:18	zPqYVBFtBkw	MPREb_3tTpTnAoSeg	UCLhT0kgUcCGrqZJ7ypm_ePQ
 547	Paradise (Extended)	Big Sean	Dark Sky Paradise	INDIFFERENT	3:35	MQXdBU7ty3g	MPREb_umBUS2GK8zK	UCm3ai8dGs4olHioc_xL3IXA
 371	Shine Blockas (feat. Gucci Mane)	Big Boi	Sir Lucious Left Foot...The Son Of Chico Dusty	INDIFFERENT	3:45	GsPgm2SrjNg	MPREb_MRp2pRNLJIS	UCkOVMbTTbpD2_FSEnRfOhJw
-319	All Night	Beyoncé	Lemonade	INDIFFERENT	5:22	jn1ikLWOr3w	MPREb_Wj7vh2XYbSH	UCoPQ_TWm8JZ5nJv4a5BzSWA
 417	Party (feat. J. Cole)	Beyoncé	Party	INDIFFERENT	3:40	IAxvScEULeg	MPREb_xy9U2KS2Kh4	UCoPQ_TWm8JZ5nJv4a5BzSWA
 75	I Love You Always Forever	Betty Who	The Valley	INDIFFERENT	3:44	nqZrRS0Vt28	MPREb_uFmlS58RUh5	UCLDuPf2QyOwSASbDaa1wIxg
 361	Don't You Worry Child (Charming Horses Remix Edit)	Beth	Don't You Worry Child	INDIFFERENT	3:36	68Y5N0LTJb0	MPREb_L81xJWxlxi1	UC5KofMP_nfOwfr4tC7UVx4A
@@ -672,7 +673,6 @@
 509	One Last Time	Ariana Grande	My Everything (Deluxe)	INDIFFERENT	3:17	KEGZVv6KXL0	MPREb_doJku3QBzcl	UC0076UMUgEng8HORUw_MYHA
 594	Problem (feat. Iggy Azalea)	Ariana Grande	My Everything (Deluxe)	INDIFFERENT	3:13	JxqiCA-gcPI	MPREb_doJku3QBzcl	UC0076UMUgEng8HORUw_MYHA
 133	Stop the World I Wanna Get Off With You	Arctic Monkeys	Why'd You Only Call Me When You're High?	INDIFFERENT	3:11	H8oiojAmKCI	MPREb_xpFDVpdzgTS	UC8Yu1_yfN5qPh601Y4btsYw
-216	Tranquility Base Hotel & Casino	Arctic Monkeys	Tranquility Base Hotel & Casino	INDIFFERENT	3:32	uvBk9Oom05I	MPREb_3IESEDJ0pKv	UC8Yu1_yfN5qPh601Y4btsYw
 218	Arabella	Arctic Monkeys	AM	INDIFFERENT	3:27	80oOFk5tYps	MPREb_m7saomf2NFN	UC8Yu1_yfN5qPh601Y4btsYw
 42	The Suburbs	Arcade Fire	The Suburbs (Deluxe)	INDIFFERENT	5:17	BWuYbxdrJoA	MPREb_HfNofHHa8uc	UCXvAK640Ko85SLbI-zA0ZCg
 181	Signs of Life	Arcade Fire	Everything Now	INDIFFERENT	4:37	RM_9dw4jEI0	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg

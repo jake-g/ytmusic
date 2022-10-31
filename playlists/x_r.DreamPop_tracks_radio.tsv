@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+13	Daydream	Youth Lagoon	The Year Of Hibernation	LIKE	5:20	_p5ojnFwkr4	MPREb_suvkzQIGnuB	UCi_nCAELoYM2E1jsQ29XZog
 67	Moving Out	Vacations	Moving Out	LIKE	3:11	BrH-lvosDxk	MPREb_qwRh6XjsuwU	UCYAl-dohfZKC_ucdTj1CdRA
+58	Surrounded	Silversun Pickups	Swoon	LIKE	4:45	dNvZrHu-sCI	MPREb_NGfoEjeziEE	UCJlu3bHpzWc2fKG_GbBIk8Q
 184	All Night	Men I Trust	Oncle Jazz	LIKE	3:09	q6wssE1Z0KA	MPREb_FB5enwkcFkJ	UCaPOa_Tg0TThuYSVtUEXb8g
 57	Desire Lines	Lush	Split	LIKE	7:40	dL8LrJdejFo	MPREb_jDTOkpsbYJv	UC0A9VTrciD8Pod31BTBXZ7Q
 368	Thursday	Asobi Seksu	Citrus	LIKE	4:18	WmErh7U7C38	MPREb_CN7vYj96HzI	UCZACdU_aqy0CSp-fxHd_H0A
@@ -14,11 +16,10 @@
 221	Shampoo	bluecouch	Shampoo	INDIFFERENT	2:51	SjZKcqhzyKA	MPREb_NMMZKn4OSP2	UCyHLDSRl-VkA8vyyEobizLQ
 211	Fall In Love	Yuno	Moodie	INDIFFERENT	3:45	859lpgBx3JQ	MPREb_zl7AZHSkF2F	UCfLXMGyZx9o7fdMyA_zoVJg
 294	Agony	Yung Lean	Stranger	INDIFFERENT	3:35	MagTAK5fe-o	MPREb_t7w9vTlfH2T	UCKxZPmezUMRaV0rkbQnrtxA
-34	Cool For A Second	Yumi Zouma	Cool For A Second	INDIFFERENT	3:11	0_6IrIOg7qA	MPREb_UOpazfG2rP6	UCQqAzIFazcwAg4dGcabd4dQ
+34	Cool For A Second	Yumi Zouma	Cool For A Second	INDIFFERENT	3:10	0_6IrIOg7qA	MPREb_UOpazfG2rP6	UCQqAzIFazcwAg4dGcabd4dQ
 39	In Camera	Yumi Zouma	EP III	INDIFFERENT	3:25	OOmHizaKgW4	MPREb_Umi6bdlYcKB	UCQqAzIFazcwAg4dGcabd4dQ
 226	The Brae	Yumi Zouma	EP	INDIFFERENT	4:16	TsHBEv85ibA	MPREb_Ox63Al3kpPl	UCQqAzIFazcwAg4dGcabd4dQ
 281	Occasional Magic (Ulrich Schnauss Remix)	Yppah	Occasional Magic (Ulrich Schnauss Remix)	INDIFFERENT	5:30	cMrCAvOJVDo	MPREb_DFvjUnH3kTI	UCCdx-hiY412g1RmXqXF2tjg
-13	Daydream	Youth Lagoon	The Year Of Hibernation	INDIFFERENT	5:20	_p5ojnFwkr4	MPREb_suvkzQIGnuB	UCi_nCAELoYM2E1jsQ29XZog
 304	17	Youth Lagoon	The Year Of Hibernation	INDIFFERENT	3:57	M-VYPmp5koY	MPREb_suvkzQIGnuB	UCi_nCAELoYM2E1jsQ29XZog
 18	You've Got the Sun	You'll Never Get to Heaven	You'll Never Get to Heaven	INDIFFERENT	3:29	NWzFpdPFQU4	MPREb_xGxLNcrZS77	UCFww8mX1Sh7Rl3hhmHHOweA
 28	Shadow Garden	You'll Never Get to Heaven	Images	INDIFFERENT	3:20	1GXhaXdmHHA	MPREb_fJI2l7AtUC4	UCFww8mX1Sh7Rl3hhmHHOweA
@@ -114,7 +115,6 @@
 258	Around The Pond	Sloe Noon	Embassy Court	INDIFFERENT	3:26	71cYFzNQTRE	MPREb_9QFz02VP5LL	UCV9J13hzO5jjf-zvUM_b2uA
 175	Aleph-zero	Sleephaze	Aleph-zero	INDIFFERENT	1:27	865FrPyf-kI	MPREb_txpGe8oULDI	UCXP39ycnhv7AA2jv89JAk7g
 158	Star Is Shining	Sintia	Star Is Shining	INDIFFERENT	3:39	qRzhUC7_WS0	MPREb_NOWAcpZK1oC	UC3lzY3_AsiSrL94Db-U2nSw
-58	Surrounded	Silversun Pickups	Swoon	INDIFFERENT	4:45	dNvZrHu-sCI	MPREb_NGfoEjeziEE	UCJlu3bHpzWc2fKG_GbBIk8Q
 65	Rusted Wheel	Silversun Pickups	Carnavas	INDIFFERENT	6:00	pKHZHHOlJao	MPREb_BEV46g18wUR	UCJlu3bHpzWc2fKG_GbBIk8Q
 85	2Shy (2015 Version)	Shura	White Light (EP)	INDIFFERENT	4:40	THwmHMa0qtE	MPREb_P7sVlw7SDyC	UCYZq3-4zTHWw5LFyzg2nOOw
 88	Gone	Shoestrings	Gone	INDIFFERENT	4:57	RHXbvGzQuZc	MPREb_8wrf2XMRGyT	UCMZfQ1bkW2DKg3CVAL28UJg
@@ -213,7 +213,7 @@
 223	Venice Bitch	Lana Del Rey	Norman Fucking Rockwell!	INDIFFERENT	9:38	Izc3W3yOW0M	MPREb_r3A1vEAHO6X	UCyqq-aiu3vEHuf5NhwmOJcw
 213	Tu t'en lasses	La Femme	Paradigmes	INDIFFERENT	6:03	WBFps-X_kmI	MPREb_TlPgv3y9Wp6	UCPzW8d-6Bvwa0cEK4jeQpdQ
 123	You My Galaxy	Klemens Meyn	You My Galaxy	INDIFFERENT	3:17	WvzpqRojZbM	MPREb_tvRPgP9SoOw	UCJIpyFL3xt2c6VwlR2PgOeg
-38	The Open Road	Kero Kero Bonito	Swimming/The Open Road	INDIFFERENT	2:58	ZnhYyY3HIVE	MPREb_WVUPNpGbNhP	UCrg2LfxablyfpYkD75hDxMA
+38	The Open Road	Kero Kero Bonito	Swimming/The Open Road	INDIFFERENT	2:59	ZnhYyY3HIVE	MPREb_WVUPNpGbNhP	UCrg2LfxablyfpYkD75hDxMA
 92	Within You	Kekko	Dreaming Life	INDIFFERENT	4:26	JwrQXiF657g	MPREb_dUJMC3dmRaB	UC_UVdViDjLB12WBolgkmGwg
 360	Past Lives	Kekko	Dreaming Life	INDIFFERENT	3:53	qCKtKkPy8Y4	MPREb_dUJMC3dmRaB	UC_UVdViDjLB12WBolgkmGwg
 361	Falling	Julee Cruise	Floating Into The Night	INDIFFERENT	5:22	9li9GeDHc2s	MPREb_cegUNnDnPxz	UCCRIBkzo9czYrGUs5oqK6ZQ
@@ -355,7 +355,7 @@
 147	Tal Uno	Barrie	Tal Uno	INDIFFERENT	4:27	qsR0iLWDZaQ	MPREb_HmkE3nA5j3e	UCzuCyqD6EpHh-kVYNCiZwCw
 273	Bad Week (Casino Hearts Remix)	Babehoven	Nastavi, Calliope (Remixed)	INDIFFERENT	4:10	HAE8E7FpnuU	MPREb_wAHFKCBhoc3	UC15rgadDn44UUnkzzpQ2KcQ
 19	Through The Backyards	Au Revoir Simone	Verses Of Comfort, Assurance & Salvation	INDIFFERENT	3:54	CmwmDy0LEcU	MPREb_azoZNXAcunb	UCtrxGv-SXVL_lqhksULW2ug
-234	Sighs	Asobi Seksu	Fluorescence	INDIFFERENT	3:51	8OAeC50C4JA	MPREb_BdQ8jgDTzqK	UCZACdU_aqy0CSp-fxHd_H0A
+234	Sighs	Asobi Seksu	Fluorescence	INDIFFERENT	3:52	8OAeC50C4JA	MPREb_BdQ8jgDTzqK	UCZACdU_aqy0CSp-fxHd_H0A
 41	Hang On	Aseul	Echo	INDIFFERENT	5:23	kn1w-zFVQ5k	MPREb_FUsYvQg1bra	
 68	Finally Free	Archie Sagers	Finally Free	INDIFFERENT	4:25	TVyUpphjD_M	MPREb_HFMB8rqvksI	UCKKf2lgC7uXjwMiN04B2bIA
 97	Skylark	Annabel Gutherz	Skylark	INDIFFERENT	3:42	V7Ofv9rusF4	MPREb_fqO76S68SZk	UC5r8NksTK7BpEbVrRI1tzbw
