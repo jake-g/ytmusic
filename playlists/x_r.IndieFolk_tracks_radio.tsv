@@ -1,4 +1,12 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+390	Cleopatra	The Lumineers	Cleopatra	LIKE	3:22	_U2RLNbu2WE	MPREb_NjNxRu2MSyV	UCMcghb8JhNIYntWea9QKFGA
+20	The Weight of Lies	The Avett Brothers	Emotionalism	LIKE	4:29	AQ1ogv41A3E	MPREb_QQublqDy6tQ	UC4gVpVxWJmpR3dNZxzyKkrA
+403	John Wayne Gacy, Jr.	Sufjan Stevens	Illinois	LIKE	3:20	ZWpvMm27WIM	MPREb_hVzYyVe4c3y	UC5sOhxfts379lOCXaIAinyw
+287	uuu	Field Medic	Songs from the Sunroom	LIKE	3:31	9RNK1-8ewK8	MPREb_CIN0kvMcWsx	UCiDX4vtMMkDpwUW3dPEgU3g
+18	The Biggest Lie	Elliott Smith	Elliott Smith	LIKE	2:41	y-YVpSNP8oc	MPREb_jepysk6rIma	UCuNTMHPl8dVBpJRtvygl-9A
+293	Anthems For A Seventeen Year-Old Girl	Broken Social Scene	You Forgot It In People	LIKE	4:35	FJYbIZmOEEA	MPREb_xj27nS1Fjci	UCaWg46NlUWiP7vYGDcyHIVg
+427	First Day of My Life	Bright Eyes	I'm Wide Awake, It's Morning	LIKE	3:09	2ETCo4sl_90	MPREb_PGQQkwoRfFo	UCPI3znNhox-PTRPvpYFNCDw
+459	Imitosis	Andrew Bird	Armchair Apocrypha	LIKE	4:00	sQNqt_jN7ic	MPREb_9IvaVR5D3uK	UCWWyLppgObl9xS8wdSpiv8Q
 272	New Song	אוהד פילו - Ohad Pilo	New Song	INDIFFERENT	3:27	jVR0TnW5MI8	MPREb_5T4OQdPBOr5	
 247	How It Turns Out	vinnyrn	Ways Out	INDIFFERENT	2:31	KuUtU1xreTQ	MPREb_yNgn8bMCTfm	UCczFj9XtWEypacC9O6dxN7w
 186	tokyo sounds	vern matz	tokyo sounds	INDIFFERENT	2:28	80CJt2DfphU	MPREb_rH3WkDCHgVc	UCLGzKZvXmcqJe1YyH2CATRw
@@ -18,7 +26,6 @@
 345	Apology	Walk In Wardrobe	Apology	INDIFFERENT	5:16	afnElKN5Ccg	MPREb_zMxMqmlHlTb	UCh4VEo8r7fAYOqs-y5N2WJQ
 79	Byegone	Volcano Choir	Repave	INDIFFERENT	4:22	a0WsIwNAQsQ	MPREb_qj8JmDpnkeW	UCvLyakgN-ZcYKbgJQ1mzyjg
 196	Closure	Vodka Something	Gabriel	INDIFFERENT	3:34	23FGWBgpo70	MPREb_aAcCwiSBqww	UCIdeW3KLXKKafFVnHYywwGg
-329	Going Away Party	Vodka Something	Going Away Party	INDIFFERENT	4:01	h9LOBBty5ck	MPREb_kk8bBirWiq1	
 359	Just so You Know	Vodka Something	Who Will Go for Us?	INDIFFERENT	3:51	P5DhMB50a_I	MPREb_K33mi5hQH2A	UCIdeW3KLXKKafFVnHYywwGg
 155	Vapour	Vancouver Sleep Clinic	Winter	INDIFFERENT	4:07	JLMhuCMihBA	MPREb_dty69aAwna9	UCGH4z20faLKI5vacy8K8NpQ
 87	Riptide	Vance Joy	Dream Your Life Away (Special Edition)	INDIFFERENT	3:25	MsTWpbR_TVE	MPREb_Kht5SC5fsgu	UCwNoBkSn4w8l4olCKDCTplQ
@@ -84,7 +91,6 @@
 418	Michigan	The Milk Carton Kids	Prologue	INDIFFERENT	5:31	_VjQ4zm2EMk	MPREb_opgHSxf6nKN	UCkJiFGVwm1iIn7sCsWQVGjQ
 62	Blood	The Middle East	The Recordings of the Middle East	INDIFFERENT	5:27	9FxfjJa_24g	MPREb_tOa9kGfx1MQ	UCnL4ix-j0t9RMidhmUPifPw
 142	The Darkest Side	The Middle East	The Recordings of the Middle East	INDIFFERENT	5:08	IO-45YvYS4s	MPREb_tOa9kGfx1MQ	UCnL4ix-j0t9RMidhmUPifPw
-390	Cleopatra	The Lumineers	Cleopatra	INDIFFERENT	3:22	_U2RLNbu2WE	MPREb_NjNxRu2MSyV	UCMcghb8JhNIYntWea9QKFGA
 406	Ophelia	The Lumineers	Cleopatra	INDIFFERENT	2:41	d4iRq2Wxzfw	MPREb_NjNxRu2MSyV	UCMcghb8JhNIYntWea9QKFGA
 441	Big Parade	The Lumineers	The Lumineers (Deluxe Edition)	INDIFFERENT	5:28	h74QKcEHRGI	MPREb_yMn4gBJtpdA	UCMcghb8JhNIYntWea9QKFGA
 205	Here's a Health to the Company	The Longest Johns	Cures What Ails Ya	INDIFFERENT	4:11	uZOJZsxECNw	MPREb_qcaa3PtW5DM	UCPtgd_D0BIXZX2XbDely3BQ
@@ -107,7 +113,6 @@
 442	The One That Got Away	The Civil Wars	The Civil Wars	INDIFFERENT	3:34	zbcM3jtzwE4	MPREb_Cl8PSnYK0KR	UCiloD3RzKH6YJiZV_SNIRjQ
 216	Waiting Around to Die	The Be Good Tanyas	A Collection (2000 - 2012)	INDIFFERENT	5:15	2PIrGzRrM-M	MPREb_QFXQv8Xx3du	UCnGzZW4bQLIIMwCd5UoAI2A
 221	Even the Darkness Has Arms	The Barr Brothers	Sleeping Operator	INDIFFERENT	4:44	yBi6bp9A2fw	MPREb_5ky8lw2bYU0	UCAEcWgj3XdSbGqBnUYWm2FQ
-20	The Weight of Lies	The Avett Brothers	Emotionalism	INDIFFERENT	4:29	AQ1ogv41A3E	MPREb_QQublqDy6tQ	UC4gVpVxWJmpR3dNZxzyKkrA
 57	The Once And Future Carpenter	The Avett Brothers	The Carpenter	INDIFFERENT	4:52	M2sK-OxPgCk	MPREb_CagQaZgPwHI	UC4gVpVxWJmpR3dNZxzyKkrA
 124	This Land Is Your Land	The Avett Brothers	This Land Is Your Land	INDIFFERENT	3:12	o2bcYbSfKxA	MPREb_6CcRq3asJNW	UC4gVpVxWJmpR3dNZxzyKkrA
 125	Famous Flower of Manhattan	The Avett Brothers	Four Thieves Gone - The Robbinsville Sessions	INDIFFERENT	3:53	-dRJ7MLeCic	MPREb_depjZt2wDj7	UC4gVpVxWJmpR3dNZxzyKkrA
@@ -132,7 +137,6 @@
 277	Carrie & Lowell (Live)	Sufjan Stevens	Carrie & Lowell Live	INDIFFERENT	4:37	-EX9A1CdyJE	MPREb_i8btlFNM0iq	UC5sOhxfts379lOCXaIAinyw
 394	Come On! Feel the Illinoise! Part I: The World's Columbian Exposition Part II: Carl Sandburg Visits Me In A Dream	Sufjan Stevens	Illinois	INDIFFERENT	6:46	nA0UOiVM1u0	MPREb_hVzYyVe4c3y	UC5sOhxfts379lOCXaIAinyw
 402	Decatur, or, Round of Applause for Your Step-Mother!	Sufjan Stevens	Illinois	INDIFFERENT	3:04	694Ok4_8kCg	MPREb_hVzYyVe4c3y	UC5sOhxfts379lOCXaIAinyw
-403	John Wayne Gacy, Jr.	Sufjan Stevens	Illinois	INDIFFERENT	3:20	ZWpvMm27WIM	MPREb_hVzYyVe4c3y	UC5sOhxfts379lOCXaIAinyw
 404	The Predatory Wasp of The Palisades Is Out To Get Us	Sufjan Stevens	Illinois	INDIFFERENT	5:24	KBse9Y6zucs	MPREb_hVzYyVe4c3y	UC5sOhxfts379lOCXaIAinyw
 412	Casimir Pulaski Day	Sufjan Stevens	Illinois	INDIFFERENT	5:54	TfEkDqP34xo	MPREb_hVzYyVe4c3y	UC5sOhxfts379lOCXaIAinyw
 447	That Was the Worst Christmas Ever!	Sufjan Stevens	Songs For Christmas	INDIFFERENT	3:18	DA0RMBjbkK8	MPREb_JNLPpCszC3e	UC5sOhxfts379lOCXaIAinyw
@@ -201,7 +205,6 @@
 354	Bullets	Passenger	Whispers	INDIFFERENT	3:24	aGN3NQPKHyA	MPREb_vDiqjEc1wN6	UCc8dIcu6C_9TcVoM--vYxYQ
 46	Westfall	Okkervil River	Don't Fall In Love With Everyone You See	INDIFFERENT	5:54	EvQCYghdcys	MPREb_ikBnw7qpkl1	UCEGsRoLUO7t2ms2b9FKhJzA
 314	Lost Coastlines	Okkervil River	The Stand Ins	INDIFFERENT	5:31	eBYCNN0ml8A	MPREb_pp2h2XnXsOz	UCEGsRoLUO7t2ms2b9FKhJzA
-295	Alligator	Of Monsters and Men	FEVER DREAM	INDIFFERENT	3:05	lQ7M25-dzwc	MPREb_Xbv4rFLwvi0	UCpjxqiRSP5nQ4tp1fT2bjHg
 206	Jesus, Jesus	Noah Gundersen	Saints & Liars	INDIFFERENT	3:42	fzRzDcLFTsA	MPREb_AyZeui0olQr	UCHTyKylSvUgnWVWeuIkKtvg
 308	Cigarettes	Noah Gundersen	Ledges	INDIFFERENT	5:40	nXTDSwi57Pw	MPREb_orQigM3ZpXu	UCHTyKylSvUgnWVWeuIkKtvg
 31	The First Days Of Spring	Noah And The Whale	The First Days Of Spring	INDIFFERENT	6:39	ykgrmMPFQFY	MPREb_b6jtMZms5iU	UCpZWcPz7rvdtnwi6jQN9pHg
@@ -209,7 +212,7 @@
 274	Jocasta	Noah And The Whale	Peaceful, The World Lays Me Down	INDIFFERENT	2:49	yZnrExL0E0E	MPREb_ldL1t5mmZQi	UCpZWcPz7rvdtnwi6jQN9pHg
 431	Blue Skies	Noah And The Whale	The First Days Of Spring	INDIFFERENT	4:07	yPyiWlvmvBI	MPREb_b6jtMZms5iU	UCpZWcPz7rvdtnwi6jQN9pHg
 321	Rise When the Rooster Crows	Nick Shoulders	Home on the Rage	INDIFFERENT	2:56	tAlp2r75zqg	MPREb_XwBmuAErOHZ	UCMTHou2ylHbi5iR66hvg-cQ
-395	Gardenhead / Leave Me Alone	Neutral Milk Hotel	On Avery Island	INDIFFERENT	3:13	ivUIXDYA6fU	MPREb_s2uBV4OYo2T	UCvMA46Xu1xApqZyXFIrnukw
+395	Gardenhead / Leave Me Alone	Neutral Milk Hotel	On Avery Island	INDIFFERENT	3:14	ivUIXDYA6fU	MPREb_s2uBV4OYo2T	UCvMA46Xu1xApqZyXFIrnukw
 320	I Wish I Was the Moon	Neko Case	Blacklisted	INDIFFERENT	3:34	uGYwmewN6-U	MPREb_bdsqy9nxmcd	UCFbY7q9og0h8yknIjyhka9Q
 270	Digging Shelters	Neil Halstead	Palindrome Hunches	INDIFFERENT	3:40	vU6zNnb73CI	MPREb_3Ot8WU6YUTv	UC5NV1NTGssdfrLtXeTywydg
 304	Timshel	Mumford & Sons	Sigh No More	INDIFFERENT	2:54	pSPy59xNtTU	MPREb_BUVi9HDjcXr	UCJ3Q_kExh0ZZMMT05o0FXzA
@@ -358,7 +361,6 @@
 38	Swim Until You Can't See Land	Frightened Rabbit	The Winter of Mixed Drinks	INDIFFERENT	4:20	75hT7m_yTzE	MPREb_wjlo0IVUGGX	UCq7GLwCeZCu6HdGabZG64sA
 56	The Modern Leper	Frightened Rabbit	The Midnight Organ Fight	INDIFFERENT	3:49	OJNFwGdh4iE	MPREb_NL3cdpReDKw	UCq7GLwCeZCu6HdGabZG64sA
 74	Dead Now	Frightened Rabbit	Pedestrian Verse	INDIFFERENT	4:08	hk_UWt-nNIc	MPREb_pYPtegrm293	UCq7GLwCeZCu6HdGabZG64sA
-391	Good Arms vs Bad Arms	Frightened Rabbit	The Midnight Organ Fight	INDIFFERENT	5:07	9XFduU_Xzpk	MPREb_NL3cdpReDKw	UCq7GLwCeZCu6HdGabZG64sA
 39	Generator ^ First Floor	Freelance Whales	Weathervanes	INDIFFERENT	3:08	0joXZshzZxM	MPREb_xet4dRn36sq	UCbP63l3SuuiJjL02PKFoEIQ
 440	Broken Horse	Freelance Whales	Weathervanes	INDIFFERENT	4:39	Yvmmgzr9nV8	MPREb_xet4dRn36sq	UCbP63l3SuuiJjL02PKFoEIQ
 348	Whipping Post (Live In New York City, 1984)	Frank Zappa	Does Humor Belong In Music? (Live)	INDIFFERENT	8:22	yO1XTPfG4O8	MPREb_uw4FCAFEwGE	UCj5ZiBBqpe0Tg4zfKGHEFuQ
@@ -373,11 +375,9 @@
 419	Emmylou	First Aid Kit	The Lion's Roar	INDIFFERENT	4:18	9Zr3A23857Q	MPREb_s90FxSxuWmX	UC5Ziwoo7xz2i-vKsgKcm-kQ
 468	My Silver Lining	First Aid Kit	Stay Gold	INDIFFERENT	3:36	zTByLCLu6NI	MPREb_fdA5nWChp8C	UC5Ziwoo7xz2i-vKsgKcm-kQ
 477	Heaven Knows	First Aid Kit	Stay Gold	INDIFFERENT	3:19	ZW-e4CgdgSI	MPREb_fdA5nWChp8C	UC5Ziwoo7xz2i-vKsgKcm-kQ
-287	uuu	Field Medic	Songs from the Sunroom	INDIFFERENT	3:31	9RNK1-8ewK8	MPREb_CIN0kvMcWsx	UCiDX4vtMMkDpwUW3dPEgU3g
 311	Don’t Give Up	Feist Featuring Timber Timbre	And I’ll Scratch Yours	INDIFFERENT	5:28	6oNePv3Av4M	MPREb_OKjI7QvbcF0	UCpqoOPpIfyUu6qCh-i-lUtQ
 405	I Went To The Store One Day	Father John Misty	I Love You, Honeybear	INDIFFERENT	4:25	idXvmnz6GZM	MPREb_TD8CxT7AU83	UCbDizOzZ4qTxDBAVc5xbbAw
 44	Sailor Man	Ewert and the Two Dragons	Good Man Down	INDIFFERENT	4:32	ayznsXYMFJs	MPREb_fk51ZQtjYY4	UCjr4TnqcGeDglAuLch8N9nw
-18	The Biggest Lie	Elliott Smith	Elliott Smith	INDIFFERENT	2:41	y-YVpSNP8oc	MPREb_jepysk6rIma	UCuNTMHPl8dVBpJRtvygl-9A
 23	Angel in the Snow	Elliott Smith	An Introduction to Elliott Smith	INDIFFERENT	2:37	GqjFBgnPfSw	MPREb_IQfVhGX6fsh	UCuNTMHPl8dVBpJRtvygl-9A
 126	Tomorrow Tomorrow	Elliott Smith	XO	INDIFFERENT	3:07	dEscwi6OZWk	MPREb_vTgnPLnMlEa	UCuNTMHPl8dVBpJRtvygl-9A
 199	No Confidence Man (Live at Umbra Penumbra - September 17th, 1994)	Elliott Smith	Elliott Smith: Expanded 25th Anniversary Edition	INDIFFERENT	4:34	EHGEsPy7LsU	MPREb_2bJRVuzDvaF	UCuNTMHPl8dVBpJRtvygl-9A
@@ -422,12 +422,10 @@
 98	Fortune Teller	Calexico	Algiers (Deluxe Edition)	INDIFFERENT	3:57	cn0TwUbJbck	MPREb_4C5pfyBIXHG	UCjgZh_Yt5rH280x1QlKKG_g
 469	All the Debts I Owe	Caamp	Caamp	INDIFFERENT	3:14	mkRgz1uGYm4	MPREb_IpvJpWa6MYM	UCY2luOfzHLOgWiMp2DNXFKw
 284	Jonathan	Buck Meek	a-sides	INDIFFERENT	2:08	dfgKYWrRfoc	MPREb_wdHOoJcGcjc	UCNpxH3sBHgE2KAqYGBcAUug
-293	Anthems For A Seventeen Year-Old Girl	Broken Social Scene	You Forgot It In People	INDIFFERENT	4:35	FJYbIZmOEEA	MPREb_xj27nS1Fjci	UCaWg46NlUWiP7vYGDcyHIVg
 43	At the Bottom of Everything	Bright Eyes	I'm Wide Awake, It's Morning	INDIFFERENT	4:34	Jo5PN8vx440	MPREb_PGQQkwoRfFo	UCPI3znNhox-PTRPvpYFNCDw
 122	Train Under Water	Bright Eyes	I'm Wide Awake, It's Morning	INDIFFERENT	6:06	IfJdPe-YAfw	MPREb_PGQQkwoRfFo	UCPI3znNhox-PTRPvpYFNCDw
 282	Let's Not Shit Ourselves (to Love and to Be Loved)	Bright Eyes	LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground	INDIFFERENT	10:08	3dhXOMvsnak	MPREb_GZSCyeboAGT	UCPI3znNhox-PTRPvpYFNCDw
 380	Four Winds	Bright Eyes	Four Winds	INDIFFERENT	4:15	s0qj3jC3whk	MPREb_L4R488Q6fb0	UCPI3znNhox-PTRPvpYFNCDw
-427	First Day of My Life	Bright Eyes	I'm Wide Awake, It's Morning	INDIFFERENT	3:09	2ETCo4sl_90	MPREb_PGQQkwoRfFo	UCPI3znNhox-PTRPvpYFNCDw
 471	Haligh, Haligh, A Lie, Haligh	Bright Eyes	Fevers and Mirrors	INDIFFERENT	4:44	KA75s-6GcwM	MPREb_Wj6AMXUBvfi	UCPI3znNhox-PTRPvpYFNCDw
 228	Could Never Be Heaven	Brand New	Science Fiction	INDIFFERENT	3:16	8ybeU-kjCGw	MPREb_Q7Fl6YwTyLy	UCtR4nrS3zXFkkT9Mxz5DnJw
 240	Wolność	Boys	Łobuz i Drań	INDIFFERENT	3:51	GvzYwES4KSI	MPREb_8bZPNsYNYBg	UCcerG6OSUbMPMX6a_IXoghA
@@ -472,7 +470,6 @@
 212	Closer (Piano Version)	Ane Brun	The RMV Sessions	INDIFFERENT	4:20	bDpBqxF1v34	MPREb_kapHaUmM5CM	UCT2tydkRUkgtepcnhc9QpGA
 128	Plasticities (Remix)	Andrew Bird	Soldier On	INDIFFERENT	3:52	MleAFTuU4T0	MPREb_kY133Doy3nU	UCWWyLppgObl9xS8wdSpiv8Q
 264	Tenuousness	Andrew Bird	Noble Beast	INDIFFERENT	3:52	0nSbR0hG6nc	MPREb_dMIDb6SMnV3	UCWWyLppgObl9xS8wdSpiv8Q
-459	Imitosis	Andrew Bird	Armchair Apocrypha	INDIFFERENT	4:00	sQNqt_jN7ic	MPREb_9IvaVR5D3uK	UCWWyLppgObl9xS8wdSpiv8Q
 488	The Giant of Illinois	Andrew Bird	Dark Was The Night (Red Hot Compilation)	INDIFFERENT	4:45	-nEjOifT6II	MPREb_aIAT8FNyrgK	UCWWyLppgObl9xS8wdSpiv8Q
 327	Old Fashioned Hat	Anaïs Mitchell	The Brightness	INDIFFERENT	4:00	7Zo4GAhSTfE	MPREb_WY2GFvOUP5A	UCu5NSquEmNHm5XiHppFlTeA
 333	Act of Human Kindness	Amelia Curran	Watershed	INDIFFERENT	2:58	uwjlyimG6wo	MPREb_FUpYazKSNBX	UCE3B3zS4H9KDmgLUX7yvZzw

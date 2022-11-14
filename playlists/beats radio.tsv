@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 401	Lineage	Shigeto	Lineage	LIKE	3:09	ZEGbbRkH0IA	MPREb_g66gPAopoNU	UC9HVpucaFBCEw2C7y15v2CQ
-496	Live It Everyday	Philanthrope	Monothrope	LIKE	2:48	9BXn7ZNc35Q	MPREb_1csCcZ8OyLY	UCiKzz-4FjwL037dNANU8oPA
+496	Live It Everyday	Mono:Massive	Monothrope	LIKE	2:48	9BXn7ZNc35Q	MPREb_1csCcZ8OyLY	UCLt1LmimPihLLfsRt8prL1g
 410	1004	Lapalux	Lustmore	LIKE	4:50	pY3IxzCYpbI	MPREb_E8mCJQmwhHD	UC7_25O0eU-qJQc97_BmaCkg
 5	Rain	サイバー '98	Digital Forest	INDIFFERENT	2:24	8tDJmTWF8Xk	MPREb_3a9h7dKgZz6	UCbY8PnFXV_m3ym4AW5bgmow
 273	Moshi Moshi	サイバー '98	Computer Dreams	INDIFFERENT	1:50	TYvN14DTAcI	MPREb_u3WmWw8R9Rl	UCbY8PnFXV_m3ym4AW5bgmow
@@ -158,11 +158,11 @@
 576	Bros Beyond	Sweet Valley	Eternal Champ	INDIFFERENT	2:24	-blrsPzDsGk	MPREb_EUXnUaPcyOc	UCcAQxd4vVXp6mp8_H3HII4w
 580	The Great Bay Shrines	Sweet Valley	Eternal Champ	INDIFFERENT	4:05	UnsV8l1Hwck	MPREb_EUXnUaPcyOc	UCcAQxd4vVXp6mp8_H3HII4w
 622	Rising Sun / See The Sky	Swarvy	Stunts Vol. 1-3	INDIFFERENT	2:06	87ckanAE_w8	MPREb_SyjJ4Z61HVU	UCm3DhvrPPJfVdHwbQb-u1uA
-788	Spam Grease	Swarvy	Elderberry	INDIFFERENT	2:06	yr_2Bx-iHXw	MPREb_JUSnX2bSqwr	UCm3DhvrPPJfVdHwbQb-u1uA
-802	Squats	Swarvy	Elderberry	INDIFFERENT	1:49	e-eXIBRsdXc	MPREb_JUSnX2bSqwr	UCm3DhvrPPJfVdHwbQb-u1uA
-832	Peanut Butter and Jelly	Swarvy	Elderberry	INDIFFERENT	1:38	ScAMOeoepl8	MPREb_JUSnX2bSqwr	UCm3DhvrPPJfVdHwbQb-u1uA
-862	Rc	Swarvy	Elderberry	INDIFFERENT	1:55	KIGhSKM51Cs	MPREb_JUSnX2bSqwr	UCm3DhvrPPJfVdHwbQb-u1uA
-901	Dubious	Swarvy	Scotch	INDIFFERENT	3:31	cuUQRL5Di_4	MPREb_OmJnGivnq68	UCm3DhvrPPJfVdHwbQb-u1uA
+788	Spam Grease	Swarvy	Elderberry	INDIFFERENT	2:06	yr_2Bx-iHXw	MPREb_JUSnX2bSqwr	
+802	Squats	Swarvy	Elderberry	INDIFFERENT	1:49	e-eXIBRsdXc	MPREb_JUSnX2bSqwr	
+832	Peanut Butter and Jelly	Swarvy	Elderberry	INDIFFERENT	1:38	ScAMOeoepl8	MPREb_JUSnX2bSqwr	
+862	RC	Swarvy	Elderberry	INDIFFERENT	1:55	KIGhSKM51Cs	MPREb_JUSnX2bSqwr	
+901	Dubious	Swarvy	Scotch	INDIFFERENT	3:31	cuUQRL5Di_4	MPREb_OmJnGivnq68	
 325	Silver Head	Superpoze	Jaguar - EP	INDIFFERENT	3:26	BUw3v87LXjE	MPREb_iHteXKWcHup	UCNMmB8d-a-2Sgf8mrwOkTKA
 358	They Don't Want to Let You Know	Sun Glitters	High	INDIFFERENT	2:47	3-eyTlRM5UQ	MPREb_yfCItoTcm4t	UCerFFu1iyfyVY-3cMHzJ-nQ
 15	Interest	Suicideyear	Japan	INDIFFERENT	3:39	o1X8dzh_5RA	MPREb_sAH97sGkxDc	UCotl_TZK1Adswq_BjPqfiKg
@@ -264,7 +264,6 @@
 274	Static At The Summit	Photay	Photay	INDIFFERENT	4:00	SCrqyN4HO7Q	MPREb_MBLRGpBLKtn	UCLUF92M-1t6PxdqB3bpH0ww
 458	Aspiration	Philanthrope	Chillhop Essentials Winter 2017	INDIFFERENT	2:03	eE3qxKFomr0	MPREb_aIEs5nt342m	UCiKzz-4FjwL037dNANU8oPA
 476	Sodium (feat. Tesk)	Philanthrope	Chillhop Essentials Spring 2017	INDIFFERENT	2:06	mZpkt0oSjoM	MPREb_ohmFrD8Q5Pr	UCiKzz-4FjwL037dNANU8oPA
-494	Cosy	Philanthrope	Monothrope	INDIFFERENT	1:56	Wlxee4GvbwM	MPREb_1csCcZ8OyLY	UCiKzz-4FjwL037dNANU8oPA
 748	Alone	Petit Biscuit	Alone	INDIFFERENT	4:34	MYPsPCC-K7c	MPREb_0Mnk2BZEpY9	UCmCEGa7L2Wp0t85uxqaTiiQ
 315	For Pete's Sake	Pete Rock & C.L. Smooth	Mecca And The Soul Brother	INDIFFERENT	5:55	ndz5Bj4HSzk	MPREb_VM6zes2f4HW	UCmH331qHkIZdDZeqshhycOw
 174	Dilla Bounce (R.I.P.)	Pete Rock	Petestrumentals 2	INDIFFERENT	3:43	v5lgiPt6sco	MPREb_7wzCkUj3wpV	UCOwnuQTYOU-1hE4rGM2ohAg
@@ -316,7 +315,7 @@
 692	All Along The River	Oddisee	Rock Creek Park	INDIFFERENT	6:36	SPhRsuIoic0	MPREb_g27wqx3emZq	UC8saRlWqYkWEVtwgNH12ZeA
 365	Blue Hours	Ochre	National Ignition	INDIFFERENT	3:55	ggR8tzK-_pI	MPREb_5tpjSzu2a2w	UC1exTAjO2C6BGXEzeq-trQg
 322	We Were Never There	Nym	Convex	INDIFFERENT	1:54	T9KQZp3DNJI	MPREb_5OP8zPb5kD6	UCedH5ZPUnuA_sjLQS8SGzYw
-338	Lesser Known Good	Nym	Warm Blooded Lizard	INDIFFERENT	5:01	pwOL8DGyv9o	MPREb_2hmjrUAu4Ne	UCSv3XoTn724XkQddFyIGMpg
+338	Lesser Known Good	Nym	Warm Blooded Lizard	INDIFFERENT	5:01	pwOL8DGyv9o	MPREb_2hmjrUAu4Ne	UCedH5ZPUnuA_sjLQS8SGzYw
 345	Well Tempered	Nym	Convex	INDIFFERENT	2:56	H_9vJUwf_rQ	MPREb_5OP8zPb5kD6	UCedH5ZPUnuA_sjLQS8SGzYw
 7	Extratropical Cyclone	NxxxxxS	Fujita Scale	INDIFFERENT	5:07	rZJSbbFV9zc	MPREb_DNLpvf5UuIh	UCI_5yFZCWsxAjmi13AYQVOw
 11	Fujita Scale	NxxxxxS	Fujita Scale	INDIFFERENT	4:43	mFkxaAnUGwo	MPREb_DNLpvf5UuIh	UCI_5yFZCWsxAjmi13AYQVOw
@@ -354,6 +353,7 @@
 289	Lovely You	Monster Rally	Return to Paradise	INDIFFERENT	2:08	QZFD6IGY9ak	MPREb_SczkVJIqa2k	UC2TxhQE4pieLiovUee7bkrA
 460	Attila	Mono:Massive	Chillhop Essentials Spring 2017	INDIFFERENT	2:28	yHmh78FkEMc	MPREb_ohmFrD8Q5Pr	UCrXXb_AAehV3VxV1UZfwgGg
 487	Somewhat	Mono:Massive	Chillhop Essentials Spring 2016	INDIFFERENT	3:40	0uW_xcztyT8	MPREb_MNlSWG6Z6xs	UCrXXb_AAehV3VxV1UZfwgGg
+494	Cosy	Mono:Massive	Monothrope	INDIFFERENT	1:56	Wlxee4GvbwM	MPREb_1csCcZ8OyLY	UCLt1LmimPihLLfsRt8prL1g
 497	Space Drift	Mono:Massive	Chillhop Essentials Fall 2017	INDIFFERENT	2:18	R4SblhMBMP4	MPREb_xhcnvItHoCW	UCrXXb_AAehV3VxV1UZfwgGg
 65	B Life (Bonus Track)	Mono/Poly	Cryptic	INDIFFERENT	2:20	8Z7XCsiIACk	MPREb_tM6Dq4wtw3B	UCoE2FYcPhH53r9SCjv_fGdQ
 80	The Fuckin Real	Mono/Poly	Cryptic	INDIFFERENT	2:45	NaMxXBZSIBI	MPREb_tM6Dq4wtw3B	UCoE2FYcPhH53r9SCjv_fGdQ
@@ -805,7 +805,7 @@
 583	Virtual Girl (Bonus Track) (feat. S A S H A)	COCAINEJESUS	Safety	INDIFFERENT	2:43	WZtKPy3BQJI	MPREb_J1SlcWCMEO8	UCObPdtkMuVQIhtNd5FxXY6A
 372	Half Dreaming	CFCF	Continent	INDIFFERENT	5:28	iZOx3W5dFTg	MPREb_37BEInaf9Yv	UC0d789iQUeLjE-3bxinnzDw
 679	Oil	CFCF	Ghostly Swim 2	INDIFFERENT	6:15	FbX2luid81w	MPREb_ImRTrCdqy3k	UC0d789iQUeLjE-3bxinnzDw
-899	Nice	Butcher Brown	All Purpose Music	INDIFFERENT	1:39	vHP8xv7W-Ac	MPREb_dr9fYnnJJwo	UCGyPHpG_l2pbxdF_1qPAmPA
+899	Nice	Butcher Brown	All Purpose Music	INDIFFERENT	1:40	cTDcIzf00HY	MPREb_0QkggVIKOnf	UCGyPHpG_l2pbxdF_1qPAmPA
 406	Pizza Pizza	Bugseed	Soundcraft	INDIFFERENT	1:31	F4PV-2F7fWE	MPREb_kwxAutuRgIU	UCSubsG0GBlPeNcRqBTDqNdg
 414	Drops	Bugseed	Soundcraft	INDIFFERENT	2:16	bByAM57IH-0	MPREb_kwxAutuRgIU	UCSubsG0GBlPeNcRqBTDqNdg
 593	Chemistry 101	Buckshot	Chemistry	INDIFFERENT	1:35	tCaTd5WWWAo	MPREb_2ofbEURscBz	UCmNXMs-CaULycfAVrn2ky5g
