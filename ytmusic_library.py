@@ -15,15 +15,19 @@ DUPLICATE_THRESHOLD = 3
 
 class YTMusicPlaylists:
 
-    def __init__(self, header='headers_auth.json',
+    def __init__(self, header='headers_auth.json', playcount_map=None,
                  playlist_limit=PLAYLIST_LIMIT):
+        print(f'Using header file: {header}')
         self.yt = YTMusic(header)
         self.playlist_limit = playlist_limit
-        self.playlists = pd.DataFrame(
-            self.yt.get_library_playlists(limit=playlist_limit))
         self._valid_ratings = VALID_TRACK_RATINGS
         self._valid_playlist_kinds = VALID_PLAYLIST_KINDS
         self._info_cache = {}
+        self._playcount_map = pd.DataFrame([])
+        if playcount_map != None:
+            self._playcount_map = self.get_playcount_map(playcount_map)
+        self.playlists = pd.DataFrame(
+            self.yt.get_library_playlists(limit=playlist_limit))
 
     def _playlist_loc_first(self, col, value):
         res = self.playlists.loc[self.playlists[col] == value]
@@ -39,6 +43,13 @@ class YTMusicPlaylists:
 
     def query_by_playlistId(self, playlistId):
         return self._playlist_loc_first(col='playlistId', value=playlistId)
+
+    def get_playcount_map(self, map_tsv, verbose=True):
+        playcount_map = pd.read_csv(map_tsv, sep='\t', index_col=0)
+        if verbose:
+            print(f'Loaded {playcount_map["lastfm_playcount"].sum()}',
+                  f'playounts from {len(playcount_map)} tracks')
+        return playcount_map
 
     def get_playlists_by_privacy(self, privacy='PUBLIC',
                                  skip_if_contains=('z_', 'zz_',
@@ -99,14 +110,31 @@ class YTMusicPlaylists:
         tracks = self.parse_tracks(track_list)
         return tracks, playlist_meta
 
-    def create_rating_playlist_subset(self, tracks, orig_name,
-                                      new_name, rating, min_ids=0):
+    def create_rating_playlist_subset(self, tracks, orig_name, new_name,
+                                      rating, min_ids=0, playcount_sort=False,
+                                      max_playcount_str=50):
         assert rating in self._valid_ratings
-        filtered_tracks = tracks.loc[tracks['likeStatus'] == rating]
-        video_ids = filtered_tracks['videoId'].unique().tolist()
+        desc = f'generated from {orig_name} includes {rating} subset'
+        tracks = tracks.loc[tracks['likeStatus']
+                            == rating].set_index('videoId')
+        if playcount_sort:
+            if not len(self._playcount_map):
+                print('WARNING: playcount_sort sorting requires initializing the',
+                      'lastfm playcount map using self.load_playcount_map()')
+            else:
+                tracks = tracks.join(self._playcount_map).sort_values(
+                    'lastfm_playcount', ascending=False)
+                # generate description string with top playcounts
+                pc = tracks.loc[tracks['lastfm_playcount']
+                                > 0].head(max_playcount_str)
+                pc_str = pc['lastfm_playcount'].astype(
+                    int).astype('str') + '\t|  ' + pc['title']
+                desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
+                    '\n'.join(pc_str.to_list())
+
+        video_ids = tracks.index.unique().tolist()
         if len(video_ids) <= min_ids:
             return None, len(video_ids)
-        desc = f'generated from {orig_name} includes {rating} subset'
         pl_id = self.yt.create_playlist(
             title=new_name, description=desc,
             privacy_status='PRIVATE', video_ids=video_ids
@@ -116,7 +144,7 @@ class YTMusicPlaylists:
     def move_likes_from_radio_playlist(self, pl_info,
                                        min_n_like=MIN_RADIO_LIKE_TO_SPLIT,
                                        sleep_time=3, verbose=False):
-        tracks, metadata = self.parse_playlist(pl_info)
+        tracks = pd.DataFrame(pl_info.get('tracks', None))
         if verbose:
             print(f'Sorting {pl_info["title"]} ({pl_info["id"]}) with',
                   f'{len(tracks)} tracks into like and indifferent')
@@ -133,8 +161,8 @@ class YTMusicPlaylists:
         time.sleep(sleep_time)
         indiff_pl_name = orig_name.replace('radio', '') + 'radio'
         res_indif, n_indif = self.create_rating_playlist_subset(
-            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0)
-        if res_indif:
+            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=True)
+        if res_indif is None:
             print(f'ERROR: Radio Playlist {indiff_pl_name} was',
                   f'not created, skip deleting original : {orig_name}')
             return
