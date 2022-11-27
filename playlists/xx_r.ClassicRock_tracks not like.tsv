@@ -1,16 +1,124 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-1	Excitable Boy (2007 Remaster)	Warren Zevon	Excitable Boy	LIKE	2:42	fZokPAuhD6k	MPREb_TNptpDKdduK	UChDuOKD_xJJqrHcwGtfch8g
-14	Jailbreak	Thin Lizzy	Jailbreak	LIKE	4:04	dMko8DlY9IA	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
-4	Synchronicity II	The Police	Synchronicity (Remastered 2003)	LIKE	5:01	XLEyIE_TMU8	MPREb_8lrA5KA4Gfv	UCbsRGw640UF_F7AIwHW-zmg
-3	Fly By Night	Rush	Fly By Night	LIKE	3:22	j7f0WP30HUk	MPREb_LIkIXP2ytT6	UCDCgtKZG6r7C9n87FMxR5ow
-9	Working Man	Rush	Rush	LIKE	7:09	IrxzRFj03Ro	MPREb_eFFXsvuuHnY	UCDCgtKZG6r7C9n87FMxR5ow
-12	Ace of Spades	Motörhead	The Best of Motörhead	LIKE	2:47	86Iwytfa6ms	MPREb_zZjbaxY8eEP	UC29TwdZt2GUC-AqbhFs_uSA
-0	For Your Life (Remaster)	Led Zeppelin	Presence (Remaster)	LIKE	6:26	zkFh7fC7-h8	MPREb_X0sCGJaOJ0X	UCYtap7ujIPaxTS2iCDoMi3g
-10	Four Sticks (Remaster)	Led Zeppelin	Led Zeppelin IV (Deluxe Edition)	LIKE	4:46	iJp27QMR2KU	MPREb_Eth3FgRUF5Y	UCYtap7ujIPaxTS2iCDoMi3g
-8	Stone in Love	Journey	Escape	LIKE	4:26	kAoYr5UnyXo	MPREb_LbEWTyKlUTQ	UCPKnuPciHDB8qw-wyBVQo9A
-11	Bad, Bad Leroy Brown (Demo)	Jim Croce	70s Mixtape Vol. 1 & 2 (Music Inspired by Guardians of the Galaxy)	LIKE	2:43	X6jhFQY-Rlc	MPREb_WDkg5HaYQDO	UCgHHxoD5eBpYkAVVQ_R-TrA
-2	Love Alive	Heart	Little Queen	LIKE	4:19	H1_0wrumnkQ	MPREb_B1lg7tT41nm	UCTY6y0k715s7bJ2Tl-ju3xw
-6	Love Bites	Def Leppard	Hysteria	LIKE	5:46	pxRHH5X0nIc	MPREb_mX4HHa79z7U	UChn30LXbAZKSIQqPJ2iezng
-5	Perfect Strangers	Deep Purple	Perfect Strangers	LIKE	5:29	z6Y4_jigI-4	MPREb_QWE0kswpYmW	UCoPZoa-KzZQRxspnRGZTx7A
-13	Comfortably Numb (Live At Pompeii 2016)	David Gilmour	Live At Pompeii	LIKE	10:00	1WjH4DmBz8o	MPREb_GXHutwSrsZm	UCWjtpG8CoVfBud-Gm-Lj8RA
-7	Against The Wind	Bob Seger & The Silver Bullet Band	Against The Wind	LIKE	5:34	1iUUmS_lBnU	MPREb_wCLhMz6zNBe	UC1ogcUuxsz76nYV5bZaItSw
+24	Excitable Boy (2007 Remaster)	Warren Zevon	Excitable Boy	LIKE	2:42	fZokPAuhD6k	MPREb_TNptpDKdduK	UChDuOKD_xJJqrHcwGtfch8g
+37	Jailbreak	Thin Lizzy	Jailbreak	LIKE	4:04	dMko8DlY9IA	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+27	Synchronicity II	The Police	Synchronicity (Remastered 2003)	LIKE	5:01	XLEyIE_TMU8	MPREb_8lrA5KA4Gfv	UCbsRGw640UF_F7AIwHW-zmg
+26	Fly By Night	Rush	Fly By Night	LIKE	3:22	j7f0WP30HUk	MPREb_LIkIXP2ytT6	UCDCgtKZG6r7C9n87FMxR5ow
+32	Working Man	Rush	Rush	LIKE	7:09	IrxzRFj03Ro	MPREb_eFFXsvuuHnY	UCDCgtKZG6r7C9n87FMxR5ow
+35	Ace of Spades	Motörhead	The Best of Motörhead	LIKE	2:47	86Iwytfa6ms	MPREb_zZjbaxY8eEP	UC29TwdZt2GUC-AqbhFs_uSA
+23	For Your Life (Remaster)	Led Zeppelin	Presence (Remaster)	LIKE	6:26	zkFh7fC7-h8	MPREb_X0sCGJaOJ0X	UCYtap7ujIPaxTS2iCDoMi3g
+33	Four Sticks (Remaster)	Led Zeppelin	Led Zeppelin IV (Deluxe Edition)	LIKE	4:46	iJp27QMR2KU	MPREb_Eth3FgRUF5Y	UCYtap7ujIPaxTS2iCDoMi3g
+31	Stone in Love	Journey	Escape	LIKE	4:26	kAoYr5UnyXo	MPREb_LbEWTyKlUTQ	UCPKnuPciHDB8qw-wyBVQo9A
+34	Bad, Bad Leroy Brown (Demo)	Jim Croce	70s Mixtape Vol. 1 & 2 (Music Inspired by Guardians of the Galaxy)	LIKE	2:43	X6jhFQY-Rlc	MPREb_WDkg5HaYQDO	UCgHHxoD5eBpYkAVVQ_R-TrA
+25	Love Alive	Heart	Little Queen	LIKE	4:19	H1_0wrumnkQ	MPREb_B1lg7tT41nm	UCTY6y0k715s7bJ2Tl-ju3xw
+29	Love Bites	Def Leppard	Hysteria	LIKE	5:46	pxRHH5X0nIc	MPREb_mX4HHa79z7U	UChn30LXbAZKSIQqPJ2iezng
+28	Perfect Strangers	Deep Purple	Perfect Strangers	LIKE	5:29	z6Y4_jigI-4	MPREb_QWE0kswpYmW	UCoPZoa-KzZQRxspnRGZTx7A
+36	Comfortably Numb (Live At Pompeii 2016)	David Gilmour	Live At Pompeii	LIKE	10:00	1WjH4DmBz8o	MPREb_GXHutwSrsZm	UCWjtpG8CoVfBud-Gm-Lj8RA
+30	Against The Wind	Bob Seger & The Silver Bullet Band	Against The Wind	LIKE	5:34	1iUUmS_lBnU	MPREb_wCLhMz6zNBe	UC1ogcUuxsz76nYV5bZaItSw
+111	Frilled	delayde	Beatsupply: Crate001	INDIFFERENT	1:35	MJwndzZI6UQ	MPREb_qly5Doy9GeH	UCByoqey1fiKaopKgRIO2vuw
+84	Palm City	aiwake	Palm City	INDIFFERENT	3:46	ptIsIs94GqE	MPREb_UhK7wkJO6bF	UCv8m3TzDu2TMlHrYHCPWvBQ
+38	Destiny	Zero 7	Simple Things	INDIFFERENT	5:38	GXZwfYMSjL0	MPREb_q4hrh9IVUYE	UCEIRECr4BQQ6blwSi9ogZvA
+18	Gimme All Your Lovin (Live from Houston)	ZZ Top	Live! Greatest Hits from Around the World	INDIFFERENT	4:46	EFxKoXKdME8	MPREb_lkAUmZCJ77n	UC_Us2Zqt4ovGtdXKmws60mw
+98	Never Ending Sunset	You	Never Ending Sunset	INDIFFERENT	4:15	zsLA9DJNWcw	MPREb_shX65F0UcRs	UCr_OoA7EkrOzdOvkZ16GdCg
+109	Heads Will Roll (A-Trak Dub Remix)	Yeah Yeah Yeahs	Heads Will Roll (A-Trak Remix EP)	INDIFFERENT	6:19	Qwe_DpnZ_og	MPREb_1OqU2PWI8tb	UCK49WVAaBRnVci8fmM4NiLQ
+119	Illuminate (feat. Mey)	Yavi	Illuminate	INDIFFERENT	3:03	GaE86S70z-o	MPREb_29IyjLZT6UW	UCBJmR9W2Oixjkd3Btongw8w
+77	Floating Ruin	Wizard Death	Floating Ruin	INDIFFERENT	1:35	bdSUHXNktsQ	MPREb_1udMFi3i7F6	UCkSqZrtOsJh2A6b4DM_MbWA
+89	Can't Stand It Alone	V.X.D	Can't Stand It Alone	INDIFFERENT	3:12	iy2rjWZxVYo	MPREb_OQkvGROj0Ek	UChIa-AEnbj3_xfTcIWaayTQ
+73	Easy	Tycho	Weather	INDIFFERENT	3:27	xMzpFTcT4eg	MPREb_XUB5xxzy6tE	UC6M6DgivBo3VHTYDa9BblqQ
+79	take me back (feat. Thomas Reid & SadBoyProlific)	Tomcbumpz	GLOFI	INDIFFERENT	2:37	i7XbzflYS2s	MPREb_03szQG0NnNk	UCzhXgLXul1mJ24uIB6ymOqw
+104	Apologize (feat. OneRepublic)	Timbaland	Shock Value	INDIFFERENT	3:04	RObFa5oJAYU	MPREb_LGtkEyweTj1	UCStR3TnjvL7CL8ZNFPKmRXw
+15	Emerald	Thin Lizzy	Jailbreak	INDIFFERENT	4:04	2Rby6u-KCwE	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+20	Romeo And The Lonely Girl	Thin Lizzy	Jailbreak	INDIFFERENT	3:58	DgpARCtjTg4	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+21	Angel From The Coast	Thin Lizzy	Jailbreak	INDIFFERENT	3:06	GtpdIsWYt5Y	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+22	Warriors	Thin Lizzy	Jailbreak	INDIFFERENT	4:12	nQjp0an5cO0	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
+53	Angels	The xx	Angels	INDIFFERENT	2:52	4hpx6WuIbYI	MPREb_dgOTdvvIjjK	UCQ1Xqlk89CLZ9aAFyo-1THg
+64	Try	The xx	Coexist	INDIFFERENT	3:16	-i-SA_mHcgE	MPREb_WrbwUL6Qk5p	UCQ1Xqlk89CLZ9aAFyo-1THg
+2	Won't Get Fooled Again (Live at Live Aid, Wembley Stadium, 13th July 1985)	The Who	Live Aid (Live, 13th July 1985)	INDIFFERENT	9:33	zTJ52cerEnQ	MPREb_2MhJVFSw6fR	UCpxn_sVrLQWNGFK1eulpYgw
+110	Wheat Kings	The Tragically Hip	Fully Completely	INDIFFERENT	4:19	SKN2pT2W9ZY	MPREb_Qz5KngR5o4s	UC_P1f9k1v3aBxQdBiD6p1Jw
+17	Cherry Bomb	The Runaways	The Runaways	INDIFFERENT	2:18	xMKeIQJ_a9s	MPREb_nBtkjxsEn5Z	UCC0BE1IkbrEsDP6m2ruSBsA
+8	All Down The Line (Live)	The Rolling Stones	Ladies & Gentlemen (Live)	INDIFFERENT	4:46	7kDKp2LWeT4	MPREb_qtzfUPG2kw5	UCNYhhkQqeFLUc-YEDcLpSYQ
+121	Mix Tapes	The Nonce	World Ultimate Deluxe Edition	INDIFFERENT	3:31	dG_piydJ_M4	MPREb_P5THQBT65Td	UCb_ecbWfJxBXDjwLsyFb9SQ
+117	Wings (Floating Points Remix)	The Invisible	Wings	INDIFFERENT	7:24	FSyJq8vPMYM	MPREb_TlSu7SRrJil	UCOSXy79KX2D2wWQQEu36rkQ
+43	To Build A Home (feat. Patrick Watson)	The Cinematic Orchestra	Ma Fleur	INDIFFERENT	6:10	z_ICgbOVD10	MPREb_LypMVp6PhCd	UCIzsJBIyo8hhpFm1NK0uLgw
+44	Sleepwalking	The Chain Gang of 1974	Daydream Forever	INDIFFERENT	3:37	tuhfkDfmIPk	MPREb_zC6SluOJow0	UCaO_dVMlUWJ3P7_zrnqdRRg
+108	Brennivin	The Album Leaf	Better Looking Records: Sampler	INDIFFERENT	4:56	652OxWGfw58	MPREb_KZ7xjWaQ64Q	UCq5PYiGeCp5t2khvAXmpr_w
+65	The Birds	Telefon Tel Aviv	Immolate Yourself	INDIFFERENT	6:38	eqtd3MzT9Jo	MPREb_JnZbmhe982D	UCcBHW4E1Tb97HsMvV2z8pig
+57	I'll Drown	Sóley	We Sink	INDIFFERENT	3:32	PFxr5Ie3z_E	MPREb_tPdlOyWoTje	UCg3Ls_NPzDdOrng-lTsg_kA
+56	I Wanna Go	Summer Heart	About A Feeling	INDIFFERENT	4:07	o9ORCM2dWg8	MPREb_sFRpV2okIsu	UCNwTPvDYWGRG_Sp2rt0-UuQ
+87	Needless to Say	Subjazz	11.1	INDIFFERENT	4:03	v9z7XY3FqvI	MPREb_q4COlRy2XNS	UC8yBucZjzC_5ZgYPAn5NN7Q
+49	Girls	Slow Magic	How To Run Away	INDIFFERENT	4:31	y26nH7h5rNw	MPREb_bvgkNZ3NsRF	UCmUORL97OeG5TxWhVAsB40Q
+74	Sorry Safari	Slow Magic	Triangle	INDIFFERENT	2:45	xXQgDYcI_1U	MPREb_D91w7kV2wH2	UCmUORL97OeG5TxWhVAsB40Q
+4	Run Runaway	Slade	The Amazing Kamikaze Syndrome (Expanded)	INDIFFERENT	5:01	RUxTX9cBtrM	MPREb_cJVgIrGrdIg	UCTiZm7SEm4wYHDuT6qYmxlw
+101	WDWGILY	SYML	Chill	INDIFFERENT	3:38	b2LfxziMhL0	MPREb_Ckts6xapY8H	UCikqEzbWCBRKj00F_L3EFfg
+42	Monument	Röyksopp	Do It Again	INDIFFERENT	9:57	gHtkntf0BBA	MPREb_tC8g96GTMln	UCavOXoVuq__PIq9W6E-xT6A
+115	Another Believer	Rufus Wainwright	Meet The Robinsons Original Soundtrack	INDIFFERENT	4:39	WwcEH24Ommw	MPREb_x7TRjo9JYZ2	UCJqJh7rScSnzCpb0obpVAAA
+95	Chemicals	Rosemary Fairweather	Chemicals	INDIFFERENT	3:52	Jow4MnAAdek	MPREb_sOZwSqfWpCP	UC1EbYEb5zAHs4L5UQ-kSs8Q
+45	Clutter	Ronald Jenkees	Ronald Jenkees	INDIFFERENT	4:13	w9sBepZFtQs	MPREb_TlVJ9SThVca	UCefdAZQ_YiDq6YSgjrM7zYA
+19	Mother (Live)	Roger Waters	In the Flesh - Live	INDIFFERENT	5:38	gJld4TSCs30	MPREb_LK7ucN1w44j	UCjL3Tr2bN7H6Ivx_dusK5XA
+10	See Me, Feel Me / Listening To You	Roger Daltrey	Tommy	INDIFFERENT	4:19	hxkb60uJS-E	MPREb_SNboIaublMQ	UCoMsS-IrCQjl1M5x2t3V47A
+48	The Fall	Rhye	The Fall	INDIFFERENT	3:44	K4TbO2UQxdQ	MPREb_V7Hrqg0j67R	UCO3bfi6sSorqa0p7Wu_s1DA
+1	Lunatic Fringe	Red Rider	As Far As Siam	INDIFFERENT	4:24	X95qte7Pa10	MPREb_AxCCCaLpBgP	UCRvr9QQF15xw7idpFqvd6KA
+66	Pure	Rameses B	Pure - EP	INDIFFERENT	5:20	9AtRGYMhnTA	MPREb_lsU7urqMHO1	UCoTYRAaP79kdmymQBRyGa9g
+5	A Light In The Black	Rainbow	Rising	INDIFFERENT	8:11	KikLLLeyVOk	MPREb_FgTwaGyBxiL	UCDhSzNQ4TsD_7OmSaTGQz2A
+12	Radio Ga Ga	Queen	The Works	INDIFFERENT	5:49	J98F6WT48P8	MPREb_dqEoNNWyew3	UCEPMVbUzImPl4p8k4LkGevA
+60	Sea Of Voices	Porter Robinson	Worlds	INDIFFERENT	4:58	8046bq4q1pY	MPREb_MUMGxJfU0BL	UCUt2uP6O_UBJp4aBx5KjQjA
+46	Boy & Bear	Pogo	Ascend	INDIFFERENT	3:22	Y3SYAmxcmGI	MPREb_7IJd1vE6dYl	UCH0_ywht5OYCdRYWZUjBQwQ
+7	Solsbury Hill (2002 Remastered Version)	Peter Gabriel	Peter Gabriel 1	INDIFFERENT	4:21	NNMR5MCpYGU	MPREb_4zXY24Gbz1I	UC7dI7qJoDsMd388DTtcwIZg
+88	Find Your Cloud	Papadosio	T.E.T.I.O.S.	INDIFFERENT	8:36	OWr_zcSoTF8	MPREb_R7By8kFsO0q	UCKcmesxpm-pYxbBOfSRWkdQ
+99	Coming Home	Oui Lele	Dozing Off	INDIFFERENT	1:59	nB-ezSYzx_M	MPREb_7kg81NizmMO	UCWPFr_VfJBmarIHOhGUJQrg
+112	Here For You	Orloe	Beatsupply: Crate001	INDIFFERENT	2:10	hfiQc7-rghk	MPREb_qly5Doy9GeH	UCDZoPcxWdL4QlwjnRhJW1Xw
+92	A Thousand Joys (Dubstep Version)	Open Source	Mindcooler	INDIFFERENT	6:49	sNiKrPRn3ik	MPREb_2oI8oQXb0ed	UCGem7rOtOY2uAzvzzBHRPNg
+71	Falling Through Space	Of Water	In the Beginning of Time	INDIFFERENT	4:17	TY3TI_vZUJk	MPREb_RGcxHWNz8y7	UCtMzku1mG6Luwq-84rCZPQA
+47	Peaceland	Nujabes	Metaphorical Music	INDIFFERENT	8:20	KJLUVbf-slQ	MPREb_h5m1Uq77nmr	UCxQQET-tQsC4cwzLow9ZsuQ
+100	Neurosis (feat. theMIND)	No Legs	Neurosis (feat. Themind)	INDIFFERENT	1:49	gaRvWSUqHQw	MPREb_uoGC4x36pk3	UCg3DkPGjEDppr8n9pUisuOA
+75	Puzzled	Nerok	Puzzled	INDIFFERENT	2:27	sNmlzov3S-8	MPREb_Ybqm135o82o	UCtGKKDFkIGFO4_XAivfQlMA
+85	Winter Chills	Nerok	Lost	INDIFFERENT	2:12	ozoZ3iygvVg	MPREb_nxnhXB7M0Yy	UCtGKKDFkIGFO4_XAivfQlMA
+81	sunday morning	Nejine	Cozy Snowday	INDIFFERENT	2:27	xrSGndWipnA	MPREb_7dEHe63bP09	UCIibeFRVkghglGrGfKFrZZw
+0	Red Hot (2021- Remaster)	Mötley Crüe	Shout At The Devil (40th Anniversary; 2021 - Remaster)	INDIFFERENT	3:22	f9c1ZjkK18A	MPREb_uevUGTT9Z2p	UCaeBWvnAVVgyfFT-gnWwURg
+68	The Sea (Live)	Morcheeba	Lilith Fair: A Celebration of Women In Music, Vol. 2 (Live)	INDIFFERENT	5:19	G_TS_3CPqlM	MPREb_9hwn0XIPfwY	UCWihO3F3CtRHE-1HuFeaNng
+16	Bad Motor Scooter	Montrose	Montrose	INDIFFERENT	3:42	_B2XJsKUtjQ	MPREb_50OCoYLG8VH	UCf2sG-MBSFF9fyMLgVtVa5g
+76	Small World Little Death (feat. Alrightstacy)	Moloch & Weird Nite	Small World Little Death (feat. Alrightstacy)	INDIFFERENT	3:46	lTGS41rY1uQ	MPREb_ux6HNfpVu5M	UCua63B-OqSPjPlFazuCYDtQ
+63	Take Me Somewhere Nice	Mogwai	Rock Action	INDIFFERENT	6:58	CK1zCi0z_Hk	MPREb_irDOSVSRDD0	UCSx5h9nKekcNNzOSPbHJx2Q
+107	Trojan Matter	Mindsight	Trojan Matter	INDIFFERENT	4:26	EC5uGZKWxoQ	MPREb_CWAYkmfqtjQ	UC-lpxl4BAXDaWfSW1zBDnZA
+102	Good Vibes	Markvard	Good Vibes	INDIFFERENT	3:21	72spxgcv9J0	MPREb_zlGmV57BEgL	UC2Q7h0WuuR1rH3erDtD1nZQ
+91	Dreams	Lvstd	Dreams	INDIFFERENT	2:57	yEKgI06rEGM	MPREb_rtROnZ7lm1K	UChFUl1-y3cEU80vGG5SlmYw
+78	Spring Day Song (I'm Not In Love Anymore)	Lemon Melon	Lemmers	INDIFFERENT	7:04	y4FMGICanOM	MPREb_RRzADWHFDWk	UCNrIDkXyziJTltKw_UMKLiQ
+82	Sandslottet	Lauge	Autumnal Chillout Box	INDIFFERENT	5:21	pghcFnstqUk	MPREb_zhU2nROVDEp	UCwpFadxTiWHgFsNlGuB1x7A
+67	Until We Bleed (feat. Lykke Li)	Kleerup	Kleerup (Deluxe Edition)	INDIFFERENT	4:25	mgGRTbYPl-4	MPREb_uhf57MlVmYE	UCrffaY5kWm2bRc5Bb7QNT2A
+103	Location	Khalid	Location	INDIFFERENT	3:43	wOy2xm7KsD4	MPREb_QpBDjHoqKKP	UCnfeNQJ7TgUCPCBD0q5Zh-Q
+62	Immunity	Jon Hopkins	Immunity	INDIFFERENT	9:56	-CJI-Rf2paM	MPREb_uMHaP9Z0SzT	UCpbWC9Xun4IM_28zH623-nw
+3	Foxy Lady (Live)	Jimi Hendrix	Rock Novelties, Vol.2	INDIFFERENT	4:05	0IhFV0I24B4	MPREb_qiRQuT15KVo	UC5NwXf8hOgZgInaYiOCZmUg
+54	Hide and Seek	Imogen Heap	Speak for Yourself	INDIFFERENT	4:29	Ok9zfly-KmM	MPREb_pozBdv4ycng	UCziNcw5vV4M6rdH5e3z_Vyg
+113	Rei	IOM	Beatsupply: Crate001	INDIFFERENT	1:19	EOmxr0Mr6IM	MPREb_qly5Doy9GeH	UCVGtsf4N3zhTUowh0JNwn1g
+40	Electric Feel	Henry Green	Electric Feel	INDIFFERENT	3:20	KOhU90-h2qs	MPREb_w94Jxpeasw1	UCRC5iScOe4JAJ9rHChoq7iA
+70	Halving The Compass (Rhian Sheehan Remix)	Helios	Remixed	INDIFFERENT	6:40	zd8EPtujYT8	MPREb_x974OhZzazv	UCUbg0pSvhe8dqSaZLmbluvw
+72	The Secret Kissing of the Sun and Moon	Hang Massive	Luminous Emptiness	INDIFFERENT	8:58	78tFMDk9apg	MPREb_dZLREamVVve	UC5i7Whd2RqRMbqU5aMeItYw
+58	Ten Thousand Years Won't Save Your Life	Hammock	Departure Songs	INDIFFERENT	6:28	mlnIK71T5ps	MPREb_GfYChBLX1Eb	UC7C3HR_AQkjkOWLmzp2e0ag
+9	Mr. Brownstone	Guns N' Roses	Appetite For Destruction (Super Deluxe Edition)	INDIFFERENT	3:49	y6JIeP4G_Zs	MPREb_BijkMTzLWOM	UCSLbbBoUqpin6BE34whSOvA
+11	Carefree Highway	Gordon Lightfoot	Sundown	INDIFFERENT	3:43	iYuF99VTEdg	MPREb_MyM27X9SLIr	UCEx92reYe5I762oF5knkO2w
+69	Sit Next to Me	Foster The People	Sacred Hearts Club	INDIFFERENT	4:04	8tMKanAqkbc	MPREb_HIEWDScFpmq	UCIzEvQ6PlJ9XxeDrT9jEBTA
+96	Miracle	Eminus	Miracle	INDIFFERENT	5:56	AAtBp2AFIuE	MPREb_1UuKMmxNXqB	UCug3BqCBWT1vYa2MDHASHTw
+50	Valhalla	Emancipator	Dusk to Dawn	INDIFFERENT	5:07	AMdKnZiwixk	MPREb_GQRpx4QjRZa	UChNB35QmqX81vSbDXDR3i4w
+59	No Worries	Ehrling	No Worries	INDIFFERENT	3:16	NubAIUYg01M	MPREb_wjSxnENGjB8	UCehltvwFEKIuSpJ0ktRxGpQ
+41	Fantasy	DyE	Fantasy	INDIFFERENT	4:53	qwROXJSJ8Dk	MPREb_34dkIvrYa9b	UCxOHgvl66R9iDvWWJ8rAFMg
+97	ae	Drum & Lace	ae	INDIFFERENT	3:31	8vfq8fXpn1E	MPREb_JfeaOQiVjat	UCeijTFTZcT_afINrIxdQdSw
+105	The Midnight Slow	Dope Lemon	Smooth Big Cat	INDIFFERENT	3:25	eBjuPBg2yZI	MPREb_URpZcEdWTwB	UC3mpxFnXufqm11HRJ_nFiQA
+106	Anticipation	Direct & Elliot Berger	Anticipation	INDIFFERENT	4:09	lfIY1BQ-61A	MPREb_rmmzvw3MGER	
+122	Brown-Eyed Women (Live at The Forum, Los Angeles, CA, 12/27/2019)	Dead & Company	The Forum, Los Angeles, CA, 12/27/2019 (Live)	INDIFFERENT	6:48	5WX6GwrR1nM	MPREb_6WaBeGiuSGO	UCMfhxVezJk37jhdiiGZRnmQ
+39	Blurbird Story (feat. Jumelles)	DJ OKAWARI	DIORAMA	INDIFFERENT	3:20	u389AzFSM_E	MPREb_psPmJXQWC3X	UCJqe44UWvLb6tdU1kgGEjzw
+55	The Garden	Cut Chemist	The Garden	INDIFFERENT	6:15	h8l0NFmuNO0	MPREb_ySsN10YFaGE	UCoKAEbFgHVwJc1rMqO6dfIA
+118	Burning Inside (The Uri Mix)	Cray76	Joakim presents Cray76 : Play Harder	INDIFFERENT	6:01	YgbqczxsChI	MPREb_uwtTsgLYFzW	UCXFyl7RHD2u0eZ2HHWnsouA
+114	The Dirt (House of Love Mix)	Crackboy	Crowdspacer, Vol. 1	INDIFFERENT	5:44	L6LXe9Vl91A	MPREb_pc2hdDTo1Gj	UCSstst8gecf3f_kqTuV9vLA
+52	Let Yourself Be Huge	Cloudkicker	Let Yourself Be Huge	INDIFFERENT	4:21	_V5r4mwUIos	MPREb_okwyxmbUoml	UC2Dvye4zYgEwrUzXfnA_4kw
+93	Harmony (VAGO Remix)	CloZee	Harmony Remixes	INDIFFERENT	3:23	C9u1tMKoGP4	MPREb_jFwDN0LXOOz	UCoRcOx_Zq_nAgyasAgbDxVQ
+61	Rather Be (feat. Jess Glynne)	Clean Bandit	New Eyes	INDIFFERENT	3:48	EMN3N6oyDv0	MPREb_rBbpEVF2o8l	UCdZLr2GYlZMZOQDPdH3J1Lw
+86	Beat & A Mic	Chronixx	Beat & A Mic	INDIFFERENT	4:15	96belTD1w1I	MPREb_NCN9ds6J9p8	UCYZj7mrKRhTwrFJNL2j5GrQ
+116	The Night Begins To Shine	CeeLo Green	Teen Titans Go! (Songs From The Night Begins To Shine Special)	INDIFFERENT	3:39	BwbRh0KyOQk	MPREb_uUXt4TgUMEl	UCQlJSs4QNKLLt1sHgRXkVYg
+13	Let Me Take You Home Tonight	Boston	Boston	INDIFFERENT	4:47	1ZQbJ73GgZ8	MPREb_b9VxOy5CQuI	UCwU_WvSAvmLZnvqRF0lg7Iw
+14	Hollywood Nights	Bob Seger & The Silver Bullet Band	Stranger In Town	INDIFFERENT	5:03	UhuVwVpr3WY	MPREb_Q9iZgmmbDof	UC1ogcUuxsz76nYV5bZaItSw
+90	Run to the Waves	Blaque Trumpet	Run to the Waves	INDIFFERENT	2:06	fyiZjmrdzXo	MPREb_27kyj8fVkKR	UCs7zBw7fxTcK_d74JqaoiZg
+51	Let It Be (feat. Veela)	Blackmill	Miracle	INDIFFERENT	6:04	kOITIXQc2TM	MPREb_3Tu7kA665yH	UC0LBF1DkS0qzApEmQBeQWiw
+6	Die Young (2021 Remaster)	Black Sabbath	Heaven and Hell (Deluxe Edition)	INDIFFERENT	4:44	mJCHsoP9B5o	MPREb_asLOgyDtxe8	UCLCELUuoHbkUxZ9EMHTYebg
+120	Brian Wilson	Barenaked Ladies	Gordon	INDIFFERENT	4:48	8Vv3Ve6KQt8	MPREb_rXIYVETVEFz	UCk1VTZtKTDV1Zo1mHyoPyZA
+80	We Went out For Coffee, It Was Nice	Aixion	We Went out For Coffee, It Was Nice	INDIFFERENT	2:35	9kBjPXqTJ6I	MPREb_RvlJZiM5imw	UCl3A6rS0SOej5HqulklQZOg
+83	Daydreamer	Adele	19	INDIFFERENT	3:41	NZRkLC9REx8	MPREb_IYFYowAjnIE	UCRw0x9_EfawqmgDI2IgQLLg
+94	out of my mind	508zelly	out of my mind	INDIFFERENT	2:29	qrG--TtbURM	MPREb_KWHI1TvBTCP	UCdkhlx3x0kb-kvERmeZOzbQ

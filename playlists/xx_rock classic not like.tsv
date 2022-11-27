@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 8	Street Fighting Man (Live)	The Rolling Stones	Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Deluxe Version)	LIKE	4:06	M8gPQWSXZ4I	MPREb_nrSezldDSXv	UCNYhhkQqeFLUc-YEDcLpSYQ
 3	Two Divided By Love	The Grass Roots	20th Century Masters: The Millennium Collection: Best Of The Grass Roots	LIKE	2:35	s3Rig33j_YE	MPREb_29un3jIBLQj	UCLEbAV4KupKJ9wJHT2M9tYw
+46	Day Tripper (Remastered 2009)	The Beatles	The Beatles 1962 - 1966	LIKE	2:50	suRl1L2U6GY	MPREb_tymxbN4xRgQ	UC2XdaAVUannpujzv32jcouQ
 11	Incense And Peppermints	Strawberry Alarm Clock	Incense And Peppermints	LIKE	2:47	eo7UxnXnRlQ	MPREb_AADrJTLN8iv	UCmXH7xVm7TI-mIqbNTLACog
 0	Shake for Me (Live at Steamboat 1874, Austin, TX - April 1980)	Stevie Ray Vaughan	The Essential Stevie Ray Vaughan And Double Trouble	LIKE	3:49	bmASdI1H2ZA	MPREb_N0FuzMzqo02	UCG47N6MrGcPaJpVRgBoAVAQ
 26	Outside Of A Small Circle Of Friends	Phil Ochs	Pleasures Of The Harbor	LIKE	3:40	9uUmLVzUQTA	MPREb_gDm5sGP6L1V	UCTHgiquGC31PdI8czIPtdJg
@@ -50,7 +51,6 @@
 158	Fire Woman	The Cult	Sonic Temple	INDIFFERENT	5:08	YlYkUMdOdXw	MPREb_up26A3UShQI	UCdzrNbDVMZji2eaO6az32og
 160	Revolution (edit)	The Cult	Revolution	INDIFFERENT	4:16	PX1ftz2XmKE	MPREb_IIB5AIhi7jL	UCdzrNbDVMZji2eaO6az32og
 23	Don't You Care	The Buckinghams	Pop Music: The Golden Era 1951-1975	INDIFFERENT	2:29	-nH0UNlfPRE	MPREb_iYXxpiQbpM4	UChYLLD4VuF89c39x-cden_A
-46	Day Tripper (Remastered 2009)	The Beatles	The Beatles 1962 - 1966	INDIFFERENT	2:50	suRl1L2U6GY	MPREb_tymxbN4xRgQ	UC2XdaAVUannpujzv32jcouQ
 58	The Shape I'm In (2020 Remix)	The Band	Stage Fright (Deluxe Edition / 2020 Remix)	INDIFFERENT	4:02	PoHdxvgfRbQ	MPREb_V3pIpZPFKQV	UCFczEeze7e0Lghy3eXtl38Q
 13	Windy (Remastered Version)	The Association	Insight Out	INDIFFERENT	2:57	VUv9OK4KUv8	MPREb_cPNDGHHNsBq	UC1xTzc2q-KzBPxIZ6vHViqQ
 31	Pandora's Golden Heebie Jeebies (Remastered Version)	The Association	Renaissance	INDIFFERENT	2:51	1WRw7E2obqQ	MPREb_taCAYWIGPI5	UC1xTzc2q-KzBPxIZ6vHViqQ
@@ -119,7 +119,7 @@
 208	Red Hot (2021- Remaster)	Mötley Crüe	Shout At The Devil (40th Anniversary; 2021 - Remaster)	INDIFFERENT	3:22	f9c1ZjkK18A	MPREb_uevUGTT9Z2p	UCaeBWvnAVVgyfFT-gnWwURg
 171	Map of the Problematique	Muse	Black Holes And Revelations	INDIFFERENT	4:19	Nw5AMCEiZms	MPREb_sQ8U0WxfKar	UCw8jIQzB2mdvvo_CVplLxug
 135	We Are Mötorhead	Motörhead	Armageddon Over Wacken - Live 2004	INDIFFERENT	2:40	Y3uZCjFelyg	MPREb_QZRqYQzqEuc	UC29TwdZt2GUC-AqbhFs_uSA
-143	Heroes	Motörhead	Heroes	INDIFFERENT	4:37	1VmqIuc7IFI	MPREb_BMA4QRb3YBk	UC29TwdZt2GUC-AqbhFs_uSA
+143	Heroes	Motörhead	Heroes	INDIFFERENT	4:21	1VmqIuc7IFI	MPREb_BMA4QRb3YBk	UC29TwdZt2GUC-AqbhFs_uSA
 225	Bad Motor Scooter	Montrose	Montrose	INDIFFERENT	3:42	_B2XJsKUtjQ	MPREb_50OCoYLG8VH	UCf2sG-MBSFF9fyMLgVtVa5g
 170	Beds Are Burning	Midnight Oil	Diesel And Dust	INDIFFERENT	4:16	9t5OWixuUI8	MPREb_HRQTD41RQ8L	UCmQb_c5tEEOXgKxvS7i3Qzg
 91	I Gotta Try	Michael McDonald	If That's What It Takes	INDIFFERENT	3:56	stcs2w7Y6KQ	MPREb_A0WRgyCJWPy	UC4CEZYmbUU_8RuzllOM2scg
