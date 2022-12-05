@@ -60,6 +60,7 @@
 419	Persona	Rival Consoles	Persona	LIKE	7:04	rU9YGq2jRww	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 420	Memory Arc	Rival Consoles	Persona	LIKE	2:13	fDyCzVkKv8k	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 422	Be Kind	Rival Consoles	Persona	LIKE	4:07	nNsbMNaIxwM	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
+425	Dreamer's Wake	Rival Consoles	Persona	LIKE	5:04	I9Ux8rhIdiM	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 426	Untravel	Rival Consoles	Persona	LIKE	5:51	KEKuOrACc0o	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 429	Fragment	Rival Consoles	Persona	LIKE	1:39	Yb5ds3el1DY	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 1	The Games We Play	Pusha T	DAYTONA	LIKE	2:47	7kiNsjeYsVs	MPREb_RZmtTx3q6gQ	UCr4IKNkUPPmkwE_LAjtho0g
@@ -352,7 +353,6 @@
 421	Phantom Grip	Rival Consoles	Persona	INDIFFERENT	5:12	TNyGCSm0fBs	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 423	I Think So	Rival Consoles	Persona	INDIFFERENT	4:33	tii2q1PFLg8	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 424	Sun's Abandon	Rival Consoles	Persona	INDIFFERENT	5:39	M3gfjgeB83g	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
-425	Dreamer's Wake	Rival Consoles	Persona	INDIFFERENT	5:04	I9Ux8rhIdiM	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 427	Rest	Rival Consoles	Persona	INDIFFERENT	3:45	OaP1kh8S_3w	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 428	Hidden	Rival Consoles	Persona	INDIFFERENT	7:38	Ysoov6S9QSQ	MPREb_vraSDoKJ0hL	UC2WctdCmq8m617GDyuynG0w
 0	If You Know You Know	Pusha T	DAYTONA	INDIFFERENT	3:23	d-181oAf4qc	MPREb_RZmtTx3q6gQ	UCr4IKNkUPPmkwE_LAjtho0g
@@ -436,8 +436,10 @@
 113	Julia (Footnote IV)	Leon Vynehall	Nothing Is Still	INDIFFERENT	2:25	s3airUyrltE	MPREb_vc0O0qDwSJN	UCfG9U3KHCTwq8ED0SpQrJ4g
 117	English Oak (Chapter VII)	Leon Vynehall	Nothing Is Still	INDIFFERENT	4:26	AQwCW0HoPyU	MPREb_vc0O0qDwSJN	UCfG9U3KHCTwq8ED0SpQrJ4g
 118	Ice Cream (Chapter VIII)	Leon Vynehall	Nothing Is Still	INDIFFERENT	4:50	I-lNUdPI_k8	MPREb_vc0O0qDwSJN	UCfG9U3KHCTwq8ED0SpQrJ4g
+359	Time Today	Kero Kero Bonito	Time Today	INDIFFERENT	2:12	pzPewWbn0nc	MPREb_l0FSg2ASlR2	UCrg2LfxablyfpYkD75hDxMA
 360	Only Acting	Kero Kero Bonito	Only Acting	INDIFFERENT	3:50	CFzwYsPkz5Q	MPREb_iP9LuPsLE88	UCrg2LfxablyfpYkD75hDxMA
 363	Make Believe	Kero Kero Bonito	Make Believe	INDIFFERENT	3:28	FVX2wE_YPfA	MPREb_XPN7n9HjPw5	UCrg2LfxablyfpYkD75hDxMA
+368	Swimming	Kero Kero Bonito	Swimming / The Open Road	INDIFFERENT	3:20	SJk9tFLfnwg	MPREb_T2WGL0Zjcsn	UCrg2LfxablyfpYkD75hDxMA
 354	Wouldn't Leave (feat. PARTYNEXTDOOR)	Kanye West	ye	INDIFFERENT	3:26	nMkXJohQiuQ	MPREb_vWD8jVytxdF	UCRY5dYsbIN5TylSbd7gVnZg
 355	No Mistakes	Kanye West	ye	INDIFFERENT	2:04	4I8gDpuvZt4	MPREb_vWD8jVytxdF	UCRY5dYsbIN5TylSbd7gVnZg
 356	Ghost Town (feat. PARTYNEXTDOOR)	Kanye West	ye	INDIFFERENT	4:32	5S6az6odzPI	MPREb_vWD8jVytxdF	UCRY5dYsbIN5TylSbd7gVnZg
@@ -546,12 +548,10 @@
 80	Yeah You Know	Anna Burch	Quit The Curse	INDIFFERENT	2:58	9J7k3zL9UGU	MPREb_ljCqBcRVJmq	UCaiPiH6CPgVTlwiUmmu5mKQ
 81	With You Every Day	Anna Burch	Quit The Curse	INDIFFERENT	4:17	tinIBAd_JTc	MPREb_ljCqBcRVJmq	UCaiPiH6CPgVTlwiUmmu5mKQ
 358	Outside	Kero Kero Bonito	Time 'n' Place		1:52	XGn1bIXlp9s		
-359	Time Today	Kero Kero Bonito	Time Today		2:12	OiAoRQhqOfI		
 361	Flyway	Kero Kero Bonito	Time 'n' Place		1:59	2klNz1IlP_I		
 362	Dump	Kero Kero Bonito	Time 'n' Place		3:02	IByC86lnvrk		
 364	Dear Future Self	Kero Kero Bonito	Time 'n' Place		2:47	0Xz_4GUU3wc		
 365	Visiting Hours	Kero Kero Bonito	Time 'n' Place		2:26	iQCcqcqNdI8		
 366	If I'd Known	Kero Kero Bonito	Time 'n' Place		2:44	72Ub_1q4zmI		
 367	Sometimes	Kero Kero Bonito	Time 'n' Place		2:02	Y6WEm9Hf1-s		
-368	Swimming	Kero Kero Bonito	Swimming/The Open Road		3:20	tdV490spwn4		
 369	Rest Stop	Kero Kero Bonito	Time 'n' Place		3:23	L9GUgkRxWyk		
