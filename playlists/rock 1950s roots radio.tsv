@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+383	Maybe	The Chantels	"""Maybe"": The Best of the Chantels"	LIKE	2:55	xBfV4QABdEA	MPREb_YFsrUT9ySLL	UCT22akgKCP2QVhha1nrAM7A
 121	Hound Dog (Single Version)	Big Mama Thornton	Hound Dog (The Peacock Recordings)	LIKE	2:51	Jr9q485COk0	MPREb_TMHdEZMG4kA	UC_8NmTaQn8Uy-Hz_jKoCOcA
 558	Brasil	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	2:32	E2IGrG2ipBk	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
 562	Begin The Beguine	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	3:15	pBan6KoQiCY	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
@@ -12,8 +13,8 @@
 146	Fujiyama Mama	Wanda Jackson	20 Rock 'N' Roll Hits	INDIFFERENT	2:16	f9GiaXNqHqE	MPREb_tBBEaqF6j0a	UCSL4p-2ochWDDOjCWOoeSvw
 476	Let's Have A Party	Wanda Jackson	20 Rock 'N' Roll Hits	INDIFFERENT	2:12	lXEiRJbBmGI	MPREb_tBBEaqF6j0a	UCSL4p-2ochWDDOjCWOoeSvw
 10	Brand New Cadillac	Vince Taylor And His Playboys	Brand New Cadillac	INDIFFERENT	2:36	cJ7oUFOsoYI	MPREb_8x7Mh3RWE37	UCB6ehBu0RKztdQyzNM-lzmg
-589	Vern Vain Rock 'n' Roll	Vince Ray & The Boneshakers	Boneshaker Baby	INDIFFERENT	2:12	kfragAGEzA4	MPREb_EyOyHWIxdTS	UC6dxo1gq3_cFKmvIKNTe2_A
-605	Cast Iron Arm	Vince Ray & The Boneshakers	Boneshaker Baby	INDIFFERENT	2:50	ZnKoVZFlnLU	MPREb_EyOyHWIxdTS	UC6dxo1gq3_cFKmvIKNTe2_A
+589	Vern Vain Rock 'n' Roll	Vince Ray & The Boneshakers	Boneshaker Baby	INDIFFERENT	2:12	74K_Hlz9Wi4	MPREb_EyOyHWIxdTS	UC6dxo1gq3_cFKmvIKNTe2_A
+605	Cast Iron Arm	Vince Ray & The Boneshakers	Boneshaker Baby	INDIFFERENT	2:50	hEOE3FWA-Vc	MPREb_EyOyHWIxdTS	UC6dxo1gq3_cFKmvIKNTe2_A
 168	Twist & Shout	Various Artists - Topic	Twist & Shout	INDIFFERENT	2:32	iCotxq6o6r8	MPREb_xEsNgwvsOAT	UCzE-kqBPip4PXajN6SnF4JA
 316	Domino	Tony Martin	Greatest Hits	INDIFFERENT	2:19	UKWb3v8DEbQ	MPREb_DgSpArOBQSp	UCeyUaMwskbnC1HB_gUnsuyA
 38	Sheila	Tommy Roe	Greatest Hits - The Original ABC Hit Recordings	INDIFFERENT	2:05	U8-HxFr_Rmk	MPREb_If2NETR4TP7	UCIvw0l9rNXUoxu6Mxh77Qiw
@@ -111,7 +112,6 @@
 411	Heart and Soul	The Cleftones	Who Do You Love: Hard To Find Hits of the '60s	INDIFFERENT	1:51	JPRzEMKn0Io	MPREb_3NuX0Dgg3V0	UChL5b8uuMJfETDUyLj9s1vg
 443	Cinnamon Sinner (Soundtrack Version)	The Chuckles	The Girl Can't Help It	INDIFFERENT	1:54	dNpBjot-724	MPREb_f6TmEcMs9cv	UCfB4_aWYGaRC0A0Rl1nmiFw
 612	Sh-Boom	The Chords	Atlantic 60th: At The Hop	INDIFFERENT	2:25	a13Th081-uY	MPREb_0maz3yVpgld	UCYxRupdKp0R4lNmwEzFwLFA
-383	Maybe	The Chantels	"""Maybe"": The Best of the Chantels"	INDIFFERENT	2:55	xBfV4QABdEA	MPREb_YFsrUT9ySLL	UCT22akgKCP2QVhha1nrAM7A
 192	Too Much Tequila	The Champs	Greatest Hits	INDIFFERENT	2:12	EU1RprNuNM4	MPREb_OwFSLM6hGvo	UCc47Uy2mCfkT1GoWT-Lp-3w
 209	El Rancho Rock	The Champs	Greatest Hits	INDIFFERENT	2:18	28OHX-F-km4	MPREb_OwFSLM6hGvo	UCc47Uy2mCfkT1GoWT-Lp-3w
 225	Limbo Rock	The Champs	The Champs' Limbo Rock	INDIFFERENT	2:04	-G_-wfKhcgc	MPREb_XxAxydsbXBP	UCc47Uy2mCfkT1GoWT-Lp-3w
@@ -201,7 +201,7 @@
 582	Question Of Lust (Singalong Version)	New Wave All-Stars	Singalong To The Hits Of Depeche Mode	INDIFFERENT	2:38	CDXvJ2W3Hr8	MPREb_z7uwYPD5VPf	UCf5Y4za3QWeIyYUvuRbVucg
 522	Just Because	Nelstone's Hawaiians	American Epic: The Collection	INDIFFERENT	2:55	PUalgGksCLI	MPREb_JnqYNpXmIJj	UCtfhOhW8Nq4oUYkBmk16sSQ
 536	Caribbean	Mitchell Torok	It's Time for a Holiday	INDIFFERENT	2:23	BohR_aV4irg	MPREb_0HLjmTRgqO0	UCvOKeM5F-LdoUA5_mUM448Q
-514	Gilly Gilly Ossenfeffer Katzenellen Bogen By The Sea	Max Bygraves	Children's Favourites	INDIFFERENT	3:07	l2Wmc6WvkPk	MPREb_3zufOiSvsHm	UC1u8lrVVXrv89S_LELKc_1Q
+514	Gilly Gilly Ossenfeffer Katzenellen Bogen By The Sea	Max Bygraves	Children's Favourites	INDIFFERENT	3:07	WTZnR_G6oDo	MPREb_GDWHzfXfkTB	UC1u8lrVVXrv89S_LELKc_1Q
 97	My Kind Of Girl	Matt Monro	Once In a While	INDIFFERENT	2:57	UC3GsJa4iyU	MPREb_cLBffPDypn4	UCKGGVxA65F9b0EUJmQsUgOg
 260	Pride And Joy	Marvin Gaye	20th Century Masters: The Millennium Collection - The Best Of Marvin Gaye Volume 1 - The 60's	INDIFFERENT	2:08	qvB8ELvbow4	MPREb_ltIFAAr2jnl	UCpMMYJB5GJAYSJr3QpxnHEg
 345	Pride And Joy	Marvin Gaye	Motown The Musical – 100 Originals	INDIFFERENT	2:09	3sf1CggF2io	MPREb_SUY9Ijp3Wsm	UCpMMYJB5GJAYSJr3QpxnHEg
@@ -212,7 +212,7 @@
 555	After You've Gone	Marion Harris	The First World War: 100 Original American & British Historical Hit Recordings from the Great War	INDIFFERENT	3:21	FUaxP5rZZqc	MPREb_mxC6AcYa7G7	UC2_Z-ARqPxIrh_GPamUCiag
 551	No Other Love (feat. Frank Cordell and his Orchestra)	Malcolm Vaughn	By the Fireside and Other Hits	INDIFFERENT	3:07	jsHFICpN8Zw	MPREb_jSQv7nPoq47	UCmlHO_jgquZ5xUqfU1RPgaw
 107	Grandaddy's Rockin'	Mac Curtis	Rockabilly '50s Classics	INDIFFERENT	2:05	SplBQniCK5Y	MPREb_F4WhK7yNSh3	UCY3R7-4pvnHDHh1quWT2W_w
-592	Red Headed Woman	Lynn Pratt	Rockabilly Hoodlums Vol. One	INDIFFERENT	2:07	u-QlKoVio_I	MPREb_KwOXneSLE7u	
+592	Red Headed Woman	Lynn Pratt & Jubilaires Quartet	Rockabilly Hoodlums Vol. One	INDIFFERENT	2:07	u-QlKoVio_I	MPREb_KwOXneSLE7u	
 309	Let The Good Times Roll	Louis Jordan and his Tympany Five	Mama,Mama Blues	INDIFFERENT	2:48	_mUU3pE6u-8	MPREb_XPb2kl0jVE4	UCwVR9kyiKn0NImzcT9Eq2NQ
 147	Ain't That Just Like A Woman	Louis Jordan & His Tympany Five	Let The Good Times Roll: The Anthology 1938 - 1953	INDIFFERENT	2:53	s1WCnltrgII	MPREb_zvjSvhUJmG4	UCDux6ZnMEddWp0KR38bOmMg
 475	What's The Use Of Getting Sober (When You're Gonna Get Drunk Again)	Louis Jordan & His Tympany Five	The Best Of Louis Jordan	INDIFFERENT	2:57	kdyqUsJ8L8Y	MPREb_aKuKTQ4Fv0q	UCDux6ZnMEddWp0KR38bOmMg
@@ -469,7 +469,7 @@
 88	The Happy Organ	"Dave ""Baby"" Cortez"	20th Century Rocks: 50's Rock 'n Roll - Whole Lot of Shakin'	INDIFFERENT	2:03	al3Wp0GCAus	MPREb_Y7tHTt1o9UC	UCjFSpZtkkDoa5044SAN-x6g
 115	Rinky Dink	"Dave ""Baby"" Cortez"	Rockin' Instrumentals	INDIFFERENT	2:54	kiC92CIzIS8	MPREb_OQ4WnPU7QZa	UCjFSpZtkkDoa5044SAN-x6g
 600	Runnin' and Chasin'	Darrell Rhodes	Motorcycle Gang	INDIFFERENT	2:17	uJ3YrbWym_s	MPREb_FqYTmE5ohdf	UCMtZYlJNggILFvM3zAob6BQ
-591	Rhythm in My Bones	Danny Diamons	Rockabilly Hoodlums, Vol. 4	INDIFFERENT	1:33	OlrvQztRcqM	MPREb_JunuOYdjRel	
+591	Rhythm in My Bones	Danny Diamons & The Rubies	Rockabilly Hoodlums, Vol. 4	INDIFFERENT	1:33	OlrvQztRcqM	MPREb_JunuOYdjRel	
 235	Rock And Roll Is Here To Stay	Danny And The Juniors	Rockin' With Danny And The Juniors (Expanded Edition)	INDIFFERENT	2:30	9ucwuwYNCwo	MPREb_l3eA6IVkKib	UCBb6fGxwr7jYXi-CM4xnDHA
 6	At The Hop	Danny & The Juniors	At The Hop - Greatest Hits	INDIFFERENT	2:42	iT3bapyLhLY	MPREb_6lonZb9fd7q	UCBb6fGxwr7jYXi-CM4xnDHA
 91	Mobile Alabama	Curtis Gordon	Real Deal Rockabilly Classics, Vol.4	INDIFFERENT	1:59	1m4oP71JihM	MPREb_faxnjFAL2em	UCgj4lZuWKe8u9bafz3ys1Fw
@@ -598,8 +598,8 @@
 94	Midnight Special	Big Bill Broonzy	Absolutely The Best: Big Bill Broonzy	INDIFFERENT	1:59	weFS5mzcUYo	MPREb_hV1gPu7VrT0	UCP0ngc_IbrxTeSzQJ0YpGXA
 327	When Did You Leave Heaven	Big Bill Broonzy	Sixteen Tons	INDIFFERENT	3:15	9QVRmUbJbLQ	MPREb_0ZpToQfDZzq	UCP0ngc_IbrxTeSzQJ0YpGXA
 556	Too Much	Bernard Hardison	The Best of Republic Records Volume I - Soul Blue	INDIFFERENT	2:22	ucBUQNQ7LCY	MPREb_5CTTX8EPtGA	
-511	St Louis Blues	Benny Goodman & His Orchestra	Sugar Foot Stomp	INDIFFERENT	3:19	U6zaNdAo5JY	MPREb_8dRQhDNgULD	UCJhmf1IP1bXfPB3XTQcJJmw
 371	Bei Mir Bist Du Schön	Benny Goodman	Stardust	INDIFFERENT	3:31	mCwqULG3ANU	MPREb_bUgPkLA8T68	UCJhmf1IP1bXfPB3XTQcJJmw
+511	St Louis Blues	Benny Goodman	Benny Goodman from A to Z, Vol. 6	INDIFFERENT	3:19	ntDdfegHqQc	MPREb_P6hvz7PPt0U	UCJhmf1IP1bXfPB3XTQcJJmw
 24	First Taste of Love	Ben E. King	Don't Play That Song (Mono)	INDIFFERENT	2:21	ldPziwqw4WI	MPREb_WYP4e2gNWXa	UC7IsXxzPSpxbFRAtmxyJ_3Q
 349	Money (That's What I Want) (The Motown Story: The 60s Version)	Barrett Strong	The Motown Story: The Sixties	INDIFFERENT	3:52	a7LkpNze3hI	MPREb_Hi3bmsokGYy	UCAYOaVBzYfq427gIKLQBDbw
 363	Oh I Apologize (Single Version)	Barrett Strong	20th Century Masters - The Millennium Collection: The Best Of Barrett Strong	INDIFFERENT	2:23	uxPUa12Tv7I	MPREb_k6w1zSxagbM	UCAYOaVBzYfq427gIKLQBDbw
@@ -607,7 +607,7 @@
 574	Bumble Boogie	B. Bumble & The Stingers	Rockin' Instrumentals	INDIFFERENT	2:14	OOCR518B2rs	MPREb_OQ4WnPU7QZa	UCU4inq-YtKepzr_bNP1YUXg
 326	Guitar Boogie	Arthur Smith	Guitar Boogie	INDIFFERENT	3:26	35JZ_DIkslQ	MPREb_Y8Qw0XPfrPS	UC5qdNC4WdSUrkIytfo0RGMw
 3	Anna (Go to Him)	Arthur Alexander	The Blues Journey	INDIFFERENT	2:54	jTixY2Y_eXA	MPREb_Si1Pwpv74y1	UCTnefvaUPpP-x4ZhsuYf6JA
-40	Anna (Go to Him)	Arthur Alexander		INDIFFERENT	2:54	FGybD5oudZo		UCTnefvaUPpP-x4ZhsuYf6JA
+40	Anna (Go to Him)	Arthur Alexander	The Blues Joy, Vol. 1	INDIFFERENT	2:54	FGybD5oudZo	MPREb_G4jiVJbSP0D	UCTnefvaUPpP-x4ZhsuYf6JA
 569	A Shot Of Rhythm And Blues	Arthur Alexander	A Shot Of Rhythm And Blues: Hits & Rarities	INDIFFERENT	2:00	l0Mx3xZ74do	MPREb_IgB0j44mSPA	UCTnefvaUPpP-x4ZhsuYf6JA
 571	Where Have You Been All My Life	Arthur Alexander	Blues of 50's and 60's, Vol. 2	INDIFFERENT	2:41	6rJU9a0yVCM	MPREb_dPIVz8VIWXW	UCTnefvaUPpP-x4ZhsuYf6JA
 342	That's All Right	Arthur 'Big Boy' Crudup	That's All Right Mama	INDIFFERENT	2:57	a4IILmBqaD8	MPREb_60ya5SsSmJM	UCUpwrDcBBvsfmaddItzMWMQ

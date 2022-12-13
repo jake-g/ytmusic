@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	Berimbau	Os Ipanemas	Os Ipanemas	LIKE	2:35	tITgZ2eBVsI	MPREb_jokK0vZtQRQ	UC5Z6exyJ7JRymiNKfvO_NBA
 15	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:31	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UCOIGsRG-03Kx96mgog77_dQ
-263	Clementine	grentperez	Clementine	INDIFFERENT	4:06	MnauqU5kDBk	MPREb_OBmSSBCBTA8	UC3CyxyxdZLGrcpHUuaZolVw
+263	Clementine	grentperez	Clementine	INDIFFERENT	4:06	0GLqoQgmlWU	MPREb_2juW7euUC94	UC3CyxyxdZLGrcpHUuaZolVw
 302	Pensa Bem	daBossa	Um Dois	INDIFFERENT	2:43	5x0qNAtKBJ4	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
 306	Ao Seu Dispor	daBossa	Um Dois	INDIFFERENT	3:23	DZzlVnb9RDc	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
 215	Menina-Flor	Zimbo Trio	Zimbo Trio	INDIFFERENT	2:33	rQKAdvk8Lno	MPREb_BGgcdwD567r	UCYI7-p2vxDXvQqg72NmqLLw
@@ -27,7 +27,7 @@
 244	Carolina Carol Bela (Ao Vivo) (feat. Anna Setton)	Toquinho	Toquinho - 50 Anos de Carreira (Ao Vivo)	INDIFFERENT	2:38	OfefibF2H-0	MPREb_PKtg0Js6jm9	UCKCdY6tlFf3ttS9veVkk-vg
 239	Aquelas Coisas Todas	Toninho Horta	Terra dos Pássaros	INDIFFERENT	5:41	ne9qgve1ikI	MPREb_QBHDNobgToa	UCEIOL7EYjrpIwTaryN02B9w
 253	Augusta, Angélica e Consolação	Tom Zé	Dois Momentos - Vol.1	INDIFFERENT	3:44	I-q7dpNe-us	MPREb_CDIjKAOffrd	UCMQFskCgaYkHOUPxapXWpgQ
-328	Parabéns (Quarantine Sessions) (feat. Marcos Valle)	Tom Misch	Quarantine Sessions	INDIFFERENT	4:09	_HL-4W1Ia1g	MPREb_QVMKdoFnWr7	UCCCWJwLEvpPAs4r_nJiKe2Q
+328	Parabéns (Quarantine Sessions) (feat. Marcos Valle)	Tom Misch	Quarantine Sessions	INDIFFERENT	4:09	xN8XC0CEXl0	MPREb_F06aYXbUdov	UCCCWJwLEvpPAs4r_nJiKe2Q
 63	Corcovado	Tom Jobim	Bossa Nova	INDIFFERENT	3:02	wilIgoJ294M	MPREb_GarmI1i9SFT	UCDg8OKNNZEvWvMAYtXZMPMQ
 87	Falando De Amor	Tom Jobim	Inédito	INDIFFERENT	3:52	lrBaB25FLNQ	MPREb_Vbto3oOlY9q	UCDg8OKNNZEvWvMAYtXZMPMQ
 96	Eu Não Existo Sem Você	Tom Jobim	Inédito	INDIFFERENT	2:43	j1hUfmHScJ8	MPREb_Vbto3oOlY9q	UCDg8OKNNZEvWvMAYtXZMPMQ
@@ -65,6 +65,7 @@
 176	Slow Hot Wind	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	2:31	3g8vePG8wQo	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
 197	Berimbau	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	3:16	PURhPYOqoTo	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
 317	Time to Know - Be Waltz	Seatbelts	COWBOY BEBOP - Knockin' on Heaven's Door (Original Motion Picture Soundtrack - Future Blues)	INDIFFERENT	3:50	qsi7o5YmlS8	MPREb_i1152RPPjuS	UCFhMA8ygjzH72UqPf7PmlUg
+233	Ex-Amor	Sambabook & Ney Matogrosso	Sambabook: Martinho da Vila	INDIFFERENT	4:06	dYzFUan5zdY	MPREb_cIcIJ4FU5cK	
 345	Terra de Ninguém (Nicola Conte Rework)	Sabrina Malheiros	Terra de Ninguém (Nicola Conte Rework)	INDIFFERENT	6:25	3i1hACQE8_8	MPREb_lQo1lCIkuxg	UC65Q7sPjUVZWssamL99aXRw
 346	Terra de Ninguém	Sabrina Malheiros	Equilibria	INDIFFERENT	4:23	uVtH6E8R9UI	MPREb_OvVFIcVjgxo	UC65Q7sPjUVZWssamL99aXRw
 327	Vivo Sonhando - Dreamer	Ryuichi Sakamoto	Casa	INDIFFERENT	4:31	sV6cmt33xbA	MPREb_5top8CNAgia	UCfWELfxrSN1ryuNWZtXqR3g
@@ -106,7 +107,6 @@
 72	Agua de Beber	Nova	Nova	INDIFFERENT	3:59	BMNpZwb6kD0	MPREb_Nhg5qyCYA4o	UCIvnvwIL3ywF9lI4nSAfxjg
 350	Ho ba la la	Norma Bengel	BOSSA NOVA - Cool Bossa Nova and Hip Samba Sounds from Rio de Janeiro	INDIFFERENT	2:50	F6ghKpttK4A	MPREb_vYcYfPm1Bxq	
 273	Julia	Nina Miranda	Freedom of Movement	INDIFFERENT	2:43	UwQfVSOrZXw	MPREb_3umvnhTgnHV	UCEZui1y7xW1ZyRF3dMBodLA
-233	Ex-Amor	Ney Matogrosso	Sambabook: Martinho da Vila	INDIFFERENT	4:06	dYzFUan5zdY	MPREb_cIcIJ4FU5cK	
 287	Sorriso do Pablo (Live)	Netoband	Live at Guiting Power	INDIFFERENT	6:40	5ozZYivnz8A	MPREb_4YDRecxJpkX	UC10cEIJG6Re5ZZTI9bbRMfA
 293	Influenciado	Nelson Faria, Zélia Duncan	Ioiô	INDIFFERENT	2:06	sT-uaGH3fp4	MPREb_Np2sx40iLp2	UC-L6jAUL5KwD7ngXwElheFQ
 330	Samba do Avião	Nelson Faria	Nelson Faria Convida David Sacks. Um Café Lá Em Casa	INDIFFERENT	2:42	-vk2tmJtkh0	MPREb_0KNTq3p2m10	UC-L6jAUL5KwD7ngXwElheFQ
@@ -150,7 +150,7 @@
 207	Com Mais De 30	Marcos Valle	Bis Bossa Nova - Marcos Valle	INDIFFERENT	2:36	21uU3Ydmcsg	MPREb_UN1tsCS74Ry	UCeDBFt2rTmBmyzCqM8diccA
 357	Tiu-Ba-La-Quieba	Marcos Valle	Previsão Do Tempo	INDIFFERENT	3:27	a1hs_tgSE8w	MPREb_98BgRHSKjxO	UCeDBFt2rTmBmyzCqM8diccA
 11	Girl From Ipanema	Marco Esu	A Soft Interpretation Of The Mind	INDIFFERENT	3:44	MuSc2PaUxpc	MPREb_AeyMfOugNcF	UCVZvDNOnwNdLnQxiooPLVog
-254	O Sol Nascerá (A Sorrir)	Marcelinho	Cartola para Todos	INDIFFERENT	2:04	M-Dw5Wh_mRY	MPREb_otzCbo4XM38	
+254	O Sol Nascerá (A Sorrir)	Marcelinho & Mané Messias	Cartola para Todos	INDIFFERENT	2:04	M-Dw5Wh_mRY	MPREb_otzCbo4XM38	
 255	Congênito	Luiz Melodia	Maravilhas Contemporâneas	INDIFFERENT	3:32	MwV7u93zTLM	MPREb_e21wrmAU4Ab	UC9aP7EqDWFN7hsCDDQDdYyg
 9	Samba de Orfeu	Luiz Bonfá	Solo In Rio	INDIFFERENT	1:15	HZKEN2TT6wg	MPREb_VQlyIM6pv5L	UCkQvoiWH10p2znjXFVXeJFQ
 60	Samba de Duas Notas	Luiz Bonfá	Samba de Duas Notas / Bossa Em Re	INDIFFERENT	3:09	REQW0HVy3lM	MPREb_vTqyhnAYs9P	UCkQvoiWH10p2znjXFVXeJFQ
@@ -298,7 +298,7 @@
 175	Julia/Moreno	Caetano Veloso	Araçá Azul	INDIFFERENT	3:18	700poa1Vta4	MPREb_7dA8LDhRH8z	UCo7VN5w1PpeBOapTqtal75Q
 304	Alegria, Alegria (Ao Vivo) (feat. Tom Veloso)	Caetano Veloso	Espera Musical	INDIFFERENT	2:40	qrkrlmtXdUc	MPREb_XG7z1rggVS1	UCo7VN5w1PpeBOapTqtal75Q
 334	Mariana	Bïa	Carmin	INDIFFERENT	3:12	fQwsoE37lWI	MPREb_9YrOIRvmAcU	UCXgoU8pfB3ZYHG-6FOlsy8A
-270	Planetary Boogie	Bubblegum Hypnosis	Cosmic Stream	INDIFFERENT	2:14	VuQeY2336Js	MPREb_QAfH56nhemx	UCnM1cu9YspjlbN-uWfgqkWg
+270	Planetary Boogie	Bubblegum Hypnosis	Cosmic Stream	INDIFFERENT	2:15	RNIqA5BPMgE	MPREb_QAfH56nhemx	UCnM1cu9YspjlbN-uWfgqkWg
 256	Cordeiro de nana (feat. Buarque, Chico)	Buarque, Chico	Brazil	INDIFFERENT	1:16	cm-at3zrFTs	MPREb_DqWQ4ol7Qgt	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 37	Santa Claus Is Comin' to Town	Bruce Springsteen	Sounds Of The Season	INDIFFERENT	4:28	qrNMYDPYY0E	MPREb_uhko2oZOAtE	UCyFqJ_5TyAeTD7rHpLikbKQ
 44	Scream	Bossa Nostra	Solaria	INDIFFERENT	6:08	x9zSieLC428	MPREb_TOheWRjxnJw	UC25mzRgO6N7lztFZXSqXqxA
