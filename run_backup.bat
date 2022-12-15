@@ -9,7 +9,7 @@ python match_ytmusic_tracks_with_musicbee.py
 git add *.tsv
 git commit -m "update tsvs"
 
-CD /D D:\Projects\_Projects_Synced\music-library\music-sources-unified\plex-music-rating-sync
+CD /D D:\Projects\_Projects_Synced\music-library\plex\music-rating-sync
 python sync_ratings.py
 
 pause
