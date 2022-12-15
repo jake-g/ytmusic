@@ -16,6 +16,7 @@ DUPLICATE_THRESHOLD = 3
 class YTMusicPlaylists:
 
     def __init__(self, header='headers_auth.json', playcount_map=None,
+                 not_like_tsv = 'playlists/xx not like.tsv',
                  playlist_limit=PLAYLIST_LIMIT):
         print(f'Using header file: {header}')
         self.yt = YTMusic(header)
@@ -26,6 +27,9 @@ class YTMusicPlaylists:
         self._playcount_map = pd.DataFrame([])
         if playcount_map != None:
             self._playcount_map = self.get_playcount_map(playcount_map)
+        self.banned_vid_set = set()
+        if not_like_tsv != None:
+            self.banned_vid_set = frozenset(pd.read_csv(not_like_tsv, sep='\t', index_col=0).videoId)
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
 
@@ -79,11 +83,11 @@ class YTMusicPlaylists:
         return info
 
     def playlist_from_tsv(self, tsv_path):
-        assert tsv_path.enswith('.tsv')
+        assert tsv_path.endswith('.tsv')
         df = pd.read_csv(tsv_path, sep='\t', index_col=0)
         pl_name = os.path.basename(tsv_path).split('.tsv')[0]
         print(f'\nGenerating {pl_name} ytmusic playlist for {len(df)} tracks')
-        vids = df.videoId.unique().tolist()
+        vids = frozenset(df.videoId.unique()) - self.banned_vid_set
         desc = f'Matched {len(vids)} tracks from local tsv playlist: {pl_name}'
         pl_id = self.yt.create_playlist(
             title=pl_name,  description=desc,
@@ -132,7 +136,7 @@ class YTMusicPlaylists:
                 desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
                     '\n'.join(pc_str.to_list())
 
-        video_ids = tracks.index.unique().tolist()
+        video_ids = frozenset(tracks.index.unique()) - self.banned_vid_set
         if len(video_ids) <= min_ids:
             return None, len(video_ids)
         pl_id = self.yt.create_playlist(
@@ -143,7 +147,7 @@ class YTMusicPlaylists:
 
     def move_likes_from_radio_playlist(self, pl_info,
                                        min_n_like=MIN_RADIO_LIKE_TO_SPLIT,
-                                       sleep_time=3, verbose=False):
+                                       sleep_time=3, verbose=False, playcount_sort=True):
         tracks = pd.DataFrame(pl_info.get('tracks', None))
         if verbose:
             print(f'Sorting {pl_info["title"]} ({pl_info["id"]}) with',
@@ -161,7 +165,7 @@ class YTMusicPlaylists:
         time.sleep(sleep_time)
         indiff_pl_name = orig_name.replace('radio', '') + 'radio'
         res_indif, n_indif = self.create_rating_playlist_subset(
-            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=True)
+            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=playcount_sort)
         if res_indif is None:
             print(f'ERROR: Radio Playlist {indiff_pl_name} was',
                   f'not created, skip deleting original : {orig_name}')
@@ -199,7 +203,7 @@ class YTMusicPlaylists:
             print(f'Playlist {pl_info["title"]}: Found {pl_info["tracks"]}',
                   'tracks to check for duplicates')
         track_ids = [t['videoId'] for t in pl_info['tracks']]
-        tracks_unique = frozenset(track_ids)
+        tracks_unique = frozenset(track_ids) - self.banned_vid_set
         n_dupes = len(track_ids)-len(tracks_unique)
         if n_dupes >= duplicate_threshold:
             new_id = self.yt.create_playlist(
