@@ -141,7 +141,7 @@ class YTMusicPlaylists:
             return None, len(video_ids)
         pl_id = self.yt.create_playlist(
             title=new_name, description=desc,
-            privacy_status='PRIVATE', video_ids=video_ids
+            privacy_status='PRIVATE', video_ids=list(video_ids)
         )
         return pl_id, len(video_ids)
 
@@ -209,7 +209,7 @@ class YTMusicPlaylists:
             new_id = self.yt.create_playlist(
                 title=str(pl_info['title']),
                 description=str(pl_info['description']),
-                video_ids=tracks_unique
+                video_ids=list(tracks_unique)
             )
             time.sleep(sleep_time)
             self.yt.delete_playlist(playlistId=pl_info['id'])
