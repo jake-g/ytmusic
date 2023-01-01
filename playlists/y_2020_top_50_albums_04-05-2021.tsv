@@ -33,6 +33,7 @@
 58	the 1	Taylor Swift	folklore	LIKE	3:31	_yHn-954iVQ	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 59	cardigan	Taylor Swift	folklore	LIKE	4:00	M_lVZIpgnjU	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 64	seven	Taylor Swift	folklore	LIKE	3:29	llshN1pcGoY	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
+71	betty	Taylor Swift	folklore	LIKE	4:55	gtzCuhDTRzk	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 72	peace	Taylor Swift	folklore	LIKE	3:54	eetzOzwWw_0	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 247	One More Year	Tame Impala	The Slow Rush	LIKE	5:25	4ZestmVGdeQ	MPREb_yVhKccUQYoW	UCGz-eguN8tcic5kUG4s1ZgA
 249	Borderline	Tame Impala	The Slow Rush	LIKE	3:58	rymYToIEL9o	MPREb_yVhKccUQYoW	UCGz-eguN8tcic5kUG4s1ZgA
@@ -64,6 +65,7 @@
 25	ooh la la (feat. DJ Premier & Greg Nice)	Run The Jewels	RTJ4 (Deluxe Edition)	LIKE	3:02	b7lZJZpGLGE	MPREb_HXyYgsaSvwD	UC6b6dR8FnUK-_c_GtWv3fdQ
 27	holy calamafuck	Run The Jewels	RTJ4 (Deluxe Edition)	LIKE	3:59	LJow1ENmu1o	MPREb_HXyYgsaSvwD	UC6b6dR8FnUK-_c_GtWv3fdQ
 15	Kyoto	Phoebe Bridgers	Punisher	LIKE	3:05	Ubt_qaac_wM	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
+20	Savior Complex	Phoebe Bridgers	Punisher	LIKE	4:02	60PwTgPY9vg	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
 45	Whole Life	Perfume Genius	Set My Heart On Fire Immediately	LIKE	3:54	MFrNpf-zIjo	MPREb_cFufjeIOUTE	UCbCHYWYQUVeHHORjPxLppaA
 46	Describe	Perfume Genius	Set My Heart On Fire Immediately	LIKE	4:45	QHLxk4hn1n4	MPREb_cFufjeIOUTE	UCbCHYWYQUVeHHORjPxLppaA
 48	Jason	Perfume Genius	Set My Heart On Fire Immediately	LIKE	3:06	_vaXpIDR0iU	MPREb_cFufjeIOUTE	UCbCHYWYQUVeHHORjPxLppaA
@@ -250,7 +252,6 @@
 68	invisible string	Taylor Swift	folklore	INDIFFERENT	4:13	CQ_dWZG5RJU	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 69	mad woman	Taylor Swift	folklore	INDIFFERENT	3:58	bgOe60nezeI	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 70	epiphany	Taylor Swift	folklore	INDIFFERENT	4:50	q4AxDgBl_RE	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
-71	betty	Taylor Swift	folklore	INDIFFERENT	4:55	gtzCuhDTRzk	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 73	hoax	Taylor Swift	folklore	INDIFFERENT	3:41	NNLCn8Oicbc	MPREb_VLEl8SjepHO	UCPC0L1d253x-KuMNwa05TpA
 248	Instant Destiny	Tame Impala	The Slow Rush	INDIFFERENT	3:15	zjWDMXVAXko	MPREb_yVhKccUQYoW	UCGz-eguN8tcic5kUG4s1ZgA
 252	Tomorrow's Dust	Tame Impala	The Slow Rush	INDIFFERENT	5:27	-KeZkGPOm2U	MPREb_yVhKccUQYoW	UCGz-eguN8tcic5kUG4s1ZgA
@@ -314,7 +315,6 @@
 17	Halloween	Phoebe Bridgers	Punisher	INDIFFERENT	4:32	bVZTMyQ3SsU	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
 18	Chinese Satellite	Phoebe Bridgers	Punisher	INDIFFERENT	3:38	i63yumCNdJs	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
 19	Moon Song	Phoebe Bridgers	Punisher	INDIFFERENT	4:38	DXqZ66XK3z8	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
-20	Savior Complex	Phoebe Bridgers	Punisher	INDIFFERENT	4:02	60PwTgPY9vg	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
 21	ICU	Phoebe Bridgers	Punisher	INDIFFERENT	3:11	9lGqdlvNOXU	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
 22	Graceland Too	Phoebe Bridgers	Punisher	INDIFFERENT	3:57	cTG0dakpDko	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw
 23	I Know The End	Phoebe Bridgers	Punisher	INDIFFERENT	5:45	ZC6mEJ5i5y8	MPREb_8fLFwsN1VQa	UCprIJgC2-qqSHNVztFjRFmw

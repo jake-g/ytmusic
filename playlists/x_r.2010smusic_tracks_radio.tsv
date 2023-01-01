@@ -1,6 +1,11 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	Africa	Toto	Rock Classics	LIKE	4:22	y8Nla-98CRY	MPREb_FlPQDc6nWZr	UCewH1MBbYlEZMWx3ZUNywyg
 1	Steal My Sunshine (feat. Derek Sanders)	The Maine	Covers (Side A)	LIKE	4:28	rPpKZaZBz7E	MPREb_jw1m2VSCYmg	UCihvT3Taf8NL5CrcVgAwFsg
+452	Barton Hollow	The Civil Wars	Barton Hollow	LIKE	3:26	Ab6kBj9MDVA	MPREb_wSluMn503i1	UCiloD3RzKH6YJiZV_SNIRjQ
+104	Georgia	Phoebe Bridgers	Killer	LIKE	4:33	Nsir95THbVM	MPREb_0kyo8MuZMpH	UCprIJgC2-qqSHNVztFjRFmw
+271	Smoke Signals	Phoebe Bridgers	Stranger in the Alps	LIKE	5:24	RmvZoFvxfEU	MPREb_gN4ahJQvLID	UCprIJgC2-qqSHNVztFjRFmw
+308	Dirty Paws	Of Monsters And Men	My Head Is An Animal	LIKE	4:38	tuSqcy1a4Ms	MPREb_x9xZgt4Hfe3	UCpjxqiRSP5nQ4tp1fT2bjHg
+150	The Suburbs	Arcade Fire	The Suburbs (Deluxe)	LIKE	5:17	BWuYbxdrJoA	MPREb_HfNofHHa8uc	UCXvAK640Ko85SLbI-zA0ZCg
 651	FIYAH	will.i.am	FIYAH	INDIFFERENT	4:00	wZmS4RsoAUc	MPREb_dtE11I0GJKi	UCMCqlMhBZnxsgYtI5tcFHbA
 61	Saturday	twenty one pilots	Scaled And Icy	INDIFFERENT	2:53	eY43Sy1wTc0	MPREb_NPxhttzsagk	UCnX0L9QiftAcWdzeBx31xCw
 63	Gangsta	tUnE-yArDs	W H O K I L L	INDIFFERENT	3:59	BgJlILjMpDo	MPREb_rGtiHpydOFW	UCtPTLKDh21P9EHTU6oRae0g
@@ -87,7 +92,6 @@
 171	Die by the Drop	The Dead Weather	Sea Of Cowards	INDIFFERENT	3:29	OPM22qpOpHY	MPREb_HvuqueV6s1u	UCHLSNz596sbRjYcyjIJc23g
 353	The Difference Between Us	The Dead Weather	Sea Of Cowards	INDIFFERENT	3:37	lIRbBRHU8H8	MPREb_HvuqueV6s1u	UCHLSNz596sbRjYcyjIJc23g
 44	Another Log on the Fire	The Darcys	Another Log on the Fire	INDIFFERENT	4:14	-9d4uTRb6bg	MPREb_c21KPESywOF	UCcHIoKCpXgkd3JXR1HQEy8A
-452	Barton Hollow	The Civil Wars	Barton Hollow	INDIFFERENT	3:26	Ab6kBj9MDVA	MPREb_wSluMn503i1	UCiloD3RzKH6YJiZV_SNIRjQ
 228	Closer (feat. Halsey)	The Chainsmokers	Closer	INDIFFERENT	4:05	u-YGV5xt-jk	MPREb_BDY2Gf3QGsQ	UCQgUHOPJJrmzCjExg-ISupA
 361	#SELFIE	The Chainsmokers	#SELFIE	INDIFFERENT	3:03	RK4Vplud0SM	MPREb_xYwWDcFNGg2	UCQgUHOPJJrmzCjExg-ISupA
 50	A Dream Away	The Cars	Shake It Up	INDIFFERENT	5:40	3E6p51P_HC4	MPREb_OzuKR6xkARR	UCu_gFD6YgmN85WjTSIotYcA
@@ -138,7 +142,7 @@
 469	Fool of Me (feat. Chet Faker)	Say Lou Lou	Julian	INDIFFERENT	4:41	F2roPaookw8	MPREb_A2JG9KfyVCS	UCQcWSSBGOzZiG0dNUrwW3dg
 540	Daze	Say Anything	Oliver Appropriate	INDIFFERENT	2:21	QyOoYOkxZ00	MPREb_8WZSMpCkufL	UCDpUWsW1A4yxpXfRox0E7Og
 621	My Type	Saweetie	ICY	INDIFFERENT	2:07	nKM5bbyPHbQ	MPREb_Wv7Od85gCGp	UCqTaQGqjAI6fYkr84KZgZEg
-102	My Type	Saint Motel	My Type	INDIFFERENT	3:26	32faUlvDxCw	MPREb_BQSTvu4lkCa	UC7JlXAEJPpTUT6x1_E7ijrg
+102	My Type	Saint Motel	My Type	INDIFFERENT	3:27	32faUlvDxCw	MPREb_BQSTvu4lkCa	UC7JlXAEJPpTUT6x1_E7ijrg
 109	The Lost Battalion	Sabaton	The Last Stand	INDIFFERENT	3:39	YubrPZrvRfw	MPREb_Cb9m4wimh9K	UCxJrBLPnyUIt6K33m9ZcsqA
 458	Where's My Love (Acoustic)	SYML	Sad	INDIFFERENT	4:00	IDgxLc-Se6o	MPREb_bNU9p915aF4	UCikqEzbWCBRKj00F_L3EFfg
 430	andata	Ryuichi Sakamoto	async	INDIFFERENT	4:39	WpaZjSPre68	MPREb_e4Rm3k0hC6w	UCfWELfxrSN1ryuNWZtXqR3g
@@ -193,8 +197,6 @@
 74	Song for Zula	Phosphorescent	Muchacho	INDIFFERENT	6:10	J9WHRBzvrSQ	MPREb_jsWfvasToUb	UCxZ-f93PiINbcJM4jURCg5w
 39	Would You Rather	Phoebe Bridgers	Stranger in the Alps	INDIFFERENT	3:19	XAE4Sm1D5OM	MPREb_gN4ahJQvLID	UCprIJgC2-qqSHNVztFjRFmw
 41	Scott Street	Phoebe Bridgers	Stranger in the Alps	INDIFFERENT	5:05	EM1t8H_PE78	MPREb_gN4ahJQvLID	UCprIJgC2-qqSHNVztFjRFmw
-104	Georgia	Phoebe Bridgers	Killer	INDIFFERENT	4:33	Nsir95THbVM	MPREb_0kyo8MuZMpH	UCprIJgC2-qqSHNVztFjRFmw
-271	Smoke Signals	Phoebe Bridgers	Stranger in the Alps	INDIFFERENT	5:24	RmvZoFvxfEU	MPREb_gN4ahJQvLID	UCprIJgC2-qqSHNVztFjRFmw
 612	Mercury	Phish	Sigma Oasis	INDIFFERENT	7:31	vkGzTugsnFg	MPREb_NAiangD1LLA	UCHzSA59X-pZa_nfvvcf_qcQ
 172	"Happy (From ""Despicable Me 2"")"	Pharrell Williams	G I R L (Deluxe)	INDIFFERENT	3:53	dJqxQzxLbHM	MPREb_I3SbfnNDbxW	UCJw8VyO6e3v6S0327AsgwcQ
 503	Neue Idee	PeterLicht	Das Ende der Beschwerde	INDIFFERENT	3:49	HZ6vTnZ_hTg	MPREb_daakRE4DEE9	UCAuV9n_xloLsdtgwHCcyhpQ
@@ -215,7 +217,6 @@
 35	Changa (feat. Kira Divine)	PNAU	Changa	INDIFFERENT	3:25	WeULzq9Red8	MPREb_0HLU19EMUBf	UCsrT8DPh6mmEnmykZ2_QwFQ
 534	Shook	P Money	Shook	INDIFFERENT	3:10	RjhnZ5szmCM	MPREb_R6NTA2c1Jyw	UCUxW6LD8IJ4pzuoKAKX3MJA
 583	Everybody Loves Me	OneRepublic	Waking Up	INDIFFERENT	3:34	j8sb_Or0FUs	MPREb_DC5Gi0t6p42	UCrrbm1toLPud8fFIisPuxpg
-308	Dirty Paws	Of Monsters And Men	My Head Is An Animal	INDIFFERENT	4:38	tuSqcy1a4Ms	MPREb_x9xZgt4Hfe3	UCpjxqiRSP5nQ4tp1fT2bjHg
 589	This Too Shall Pass	OK Go	Of the Blue Colour of the Sky	INDIFFERENT	3:09	jWsntzxlsPM	MPREb_bhWzCsArqiq	UCJwQvoGAP0BHXZIvGpY0CJw
 239	Summer of Young Love (feat. Flora Lin)	OK Feather	Summer of Young Love (feat. Flora Lin)	INDIFFERENT	2:52	-EGvMJKFMek	MPREb_KGuxlGf6HGb	UCQC5uV89MtqR32eKj6B5amw
 462	AKA… What a Life!	Noel Gallagher's High Flying Birds	Noel Gallagher’s High Flying Birds	INDIFFERENT	4:24	TCmAZZnFCCI	MPREb_EIZ012E8rwP	UCu7yYcX_wIZgG9azR3PqrxA
@@ -645,7 +646,6 @@
 260	Arabella	Arctic Monkeys	AM	INDIFFERENT	3:27	80oOFk5tYps	MPREb_m7saomf2NFN	UC8Yu1_yfN5qPh601Y4btsYw
 21	Everything Now	Arcade Fire	Everything Now	INDIFFERENT	5:04	cGhgx6okuHk	MPREb_6aS58TdJDvO	UCXvAK640Ko85SLbI-zA0ZCg
 105	Signs of Life	Arcade Fire	Everything Now	INDIFFERENT	4:37	RM_9dw4jEI0	MPREb_SbXqkrzDkxe	UCXvAK640Ko85SLbI-zA0ZCg
-150	The Suburbs	Arcade Fire	The Suburbs (Deluxe)	INDIFFERENT	5:17	BWuYbxdrJoA	MPREb_HfNofHHa8uc	UCXvAK640Ko85SLbI-zA0ZCg
 563	Tik Tok	Anna Zak	Tik Tok	INDIFFERENT	2:50	yKgG7SMvhc0	MPREb_mr0GqkD1rfM	UCRx2TMdDnWOoj-3DmZf9pKw
 645	Cups (Pitch Perfect’s “When I’m Gone”) (Pop Version)	Anna Kendrick	Ultimate Pitch Perfect (Original Motion Picture Soundtrack)	INDIFFERENT	2:08	0Md0E5icspA	MPREb_uB8c29GsksM	UCHODBfwUhHaBxP3SGwLliUA
 88	Bang	Anitta	Bang	INDIFFERENT	3:11	kqWnHtsJOYw	MPREb_qe9ePzfZfUX	UCI99G32byWj1aH13pbxnTEw

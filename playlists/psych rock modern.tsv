@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+550	The Past Is A Grotesque Animal	of Montreal	Hissing Fauna, Are You The Destroyer?	LIKE	11:54	U8Lxjcuty_g	MPREb_koEflO4QOMl	UCTc-gLB4Gy6BxJhMAYZ6m4A
 4	Till You Reach Your Last Breath	levitation room	Ethos	LIKE	2:47	KUFOfqWPVBg	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
 6	Reasons Why	levitation room	Minds Of Our Own	LIKE	2:42	-64K84tahCE	MPREb_bxfOTz3Qme6	UCcGjNUpddmEbAYRLH7xX3ZQ
 12	Strangers of Our Time	levitation room	Ethos	LIKE	2:19	ulN_AHNA1xE	MPREb_3UrWgVNFKfP	UCcGjNUpddmEbAYRLH7xX3ZQ
@@ -40,6 +41,8 @@
 629	Reaper Invert	Wand	Golem	LIKE	3:41	KP8Ebu_J9_0	MPREb_ZWbdWVJ0FuG	UCjk9dHhZzgD--4D085Nz4fw
 673	On Ganglion Reef	Wand	Ganglion Reef	LIKE	0:20	6qVGzjvwXDA	MPREb_36WQdp2XPXr	UCjk9dHhZzgD--4D085Nz4fw
 683	Floating Head	Wand	Golem	LIKE	3:07	oV3lqMzbU_s	MPREb_ZWbdWVJ0FuG	UCjk9dHhZzgD--4D085Nz4fw
+241	Orchards	Wampire	Curiosity	LIKE	2:59	eGj-quRc0oo	MPREb_ZQL1BXRf27u	UC-XPGiKD-50Lw35kqjun28Q
+599	Spirit Forest	Wampire	Curiosity	LIKE	3:09	l2FmWy50tZc	MPREb_ZQL1BXRf27u	UC-XPGiKD-50Lw35kqjun28Q
 569	Acid Reign	Violens	Amoral	LIKE	4:16	2uoNe407ch4	MPREb_7STmR9kY28U	UCs2SwGOCXmsk58pgUgl4cTA
 240	Bunker Buster	Viet Cong	Viet Cong	LIKE	5:55	W17fckXZ7ss	MPREb_pY7u6V2RDOI	UCweFfOf1p5lYXdn22OFmYMw
 28	Swim and Sleep (Like a Shark)	Unknown Mortal Orchestra	II	LIKE	2:45	sM0u854VguI	MPREb_nYUQ9DWLlY3	UCXMAKzy9duqBltrR8TrHmpQ
@@ -301,6 +304,8 @@
 680	Rubber Gloves	Skinshape	Oracolo	LIKE	5:17	6DV7PKxV1hs	MPREb_zyLnk7bBNu4	UCil1XLYzKqVoM_2C_4tyOLA
 53	Devonvare $amson	Shiny Joe Ryan	The Cosmic Microwave Background	LIKE	2:32	BOVivHz6rWg	MPREb_U0pNQUZaHaO	UCPqeEMldYKIsSOrWf_GItXQ
 560	Extremely Bad Man	Shintaro Sakamoto	Let's Dance Raw	LIKE	4:39	4lqHBxSz2_U	MPREb_rUgfFcL2jFm	UCQsr4d7aUsNibZ-ny5VfU1A
+194	Fortune's Fool	STRFKR	Miracle Mile	LIKE	2:06	NpKm4XiasnI	MPREb_7vITuHhab1z	UCL6qpCZZBTfp1MtI3bmL7jw
+487	Golden Light	STRFKR	Miracle Mile	LIKE	4:44	U11t9lFZtSE	MPREb_7vITuHhab1z	UCL6qpCZZBTfp1MtI3bmL7jw
 1	Memphis Sun	Rival Sons	Before the Fire	LIKE	3:51	99qG42kOFPg	MPREb_7dG7iEMnEHk	UCFQJ9ElPGavNr3bLKdnR5Hw
 461	Idioteque	Radiohead	Kid A	LIKE	5:10	svwJTnZOaco	MPREb_ob5cslgCNc0	UCr_iyUANcn9OX_yy9piYoLw
 608	How To Disappear Completely	Radiohead	Kid A	LIKE	5:57	6W6HhdqA95w	MPREb_ob5cslgCNc0	UCr_iyUANcn9OX_yy9piYoLw
@@ -314,9 +319,12 @@
 429	Found God in a Tomato	Psychedelic Porn Crumpets	High Visceral, Pt. 1	LIKE	8:55	jrp39d9ZFtE	MPREb_0jQDKL0nryd	UC_WjSuXzvjPsOq-fMVbWojw
 496	High Visceral	Psychedelic Porn Crumpets	High Visceral, Pt. 1	LIKE	2:32	4JJEjFfrHl0	MPREb_0jQDKL0nryd	UC_WjSuXzvjPsOq-fMVbWojw
 504	Entropy II	Psychedelic Porn Crumpets	High Visceral (B-Sides)	LIKE	3:27	75Q23ai4FYU	MPREb_2GOXnuI2eH7	UC_WjSuXzvjPsOq-fMVbWojw
+662	Hymn For A Droid	Psychedelic Porn Crumpets	Hymn For A Droid	LIKE	3:28	3u7MlbeGiAk	MPREb_HgkPiceNsyu	UC_WjSuXzvjPsOq-fMVbWojw
 711	Cornflake	Psychedelic Porn Crumpets	High Visceral, Pt. 1	LIKE	3:38	JVjR7eCd5aI	MPREb_0jQDKL0nryd	UC_WjSuXzvjPsOq-fMVbWojw
 484	Decompose	Preoccupations	New Material	LIKE	4:18	69rfepHKo3Y	MPREb_CE5gNSJ6L8c	UCweFfOf1p5lYXdn22OFmYMw
 10	Eel	Post Animal	Post Animal Perform the Most Curious Water Activities	LIKE	3:48	-45F9QHZees	MPREb_4wMiKdJ9uG3	UC4liCZx9y8tNIKEuqhTFTlQ
+502	Lonely Jones	Post Animal	The Garden Series	LIKE	2:56	vTXFlEGL6mY	MPREb_RoinJfF57Eu	UC4liCZx9y8tNIKEuqhTFTlQ
+617	Aral Sea	Post Animal	Post Animal Perform the Most Curious Water Activities	LIKE	3:58	2STetr4I-AE	MPREb_4wMiKdJ9uG3	UC4liCZx9y8tNIKEuqhTFTlQ
 29	O Dharma	Pond	Hobo Rocket	LIKE	4:56	5rOFdbMJuN8	MPREb_Y9egQGvoHuF	UCV-D85RlUj_QXf3Hzx5I5dA
 36	Man It Feels Like Space Again	Pond	Man It Feels Like Space Again	LIKE	8:21	IXt63_jFoLs	MPREb_VlSSlnHQDhI	UCV-D85RlUj_QXf3Hzx5I5dA
 39	Elegant Design	Pond	Beard, Wives, Denim	LIKE	4:07	W1UOORldAyg	MPREb_Si7ciLlQj8R	UCV-D85RlUj_QXf3Hzx5I5dA
@@ -511,6 +519,8 @@
 559	Ready For The World	How To Dress Well	Love Remains	LIKE	2:32	TE0vjFXCCBE	MPREb_Ca3gpxZPFGr	UC6SED43eUJ_FZ7hEwkjrvxQ
 136	Every Single Thing	Homeshake	Fresh Air	LIKE	2:35	UhDszPZwbxw	MPREb_1YjjOruog9O	UCrkP4Oe7CBpYyZVwMNV3mPQ
 382	Goodnight	Homeshake	Midnight Snack	LIKE	1:32	AipkGqD4q3I	MPREb_NMrpTB2Ys5k	UCrkP4Oe7CBpYyZVwMNV3mPQ
+54	Sol Love	Holy Wave	Relax	LIKE	2:31	GCIxbcJKiWo	MPREb_b8xuzOGW5M4	UC2qO7aL5hhhsS5v326P7eEw
+68	Do You Feel It	Holy Wave	Relax	LIKE	3:35	w1hm5-ZVAXs	MPREb_b8xuzOGW5M4	UC2qO7aL5hhhsS5v326P7eEw
 610	Collector	Here We Go Magic	Pigeons	LIKE	5:07	WQtWN5fvowI	MPREb_haPI2Jbea42	UC7nzEfvIyY6n8sdIIFv8RTA
 77	What It Did	Helvetia	The Acrobats	LIKE	3:10	7xq1h4ow7ag	MPREb_u5WibAmykAZ	UC-3A6GVHy_a7gZievQlfCxQ
 78	Beezlebub (Leave Me Be)	Helvetia	The Clever North Wind	LIKE	3:35	SxN4oDkikfI	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIRY2xldmVyIG5vcnRoIHdpbmQaCGhlbHZldGlhIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIaGVsdmV0aWE
@@ -592,6 +602,7 @@
 640	Cold Stare	Dead Ghosts	Can't Get No	LIKE	2:33	b3wvOkZ_PzM	MPREb_XsRp9EOqGnR	UC4GaG0Z8KQ7fToZElC_OuoQ
 295	Dink's Song	Dave Van Ronk	Down in Washington Square: The Smithsonian Folkways Collection	LIKE	3:46	3U5EZ8rvW80	MPREb_4SELk0opFbk	UCCg341pNKqwul6fDzBIbhqw
 575	He Was A Friend Of Mine	Dave Van Ronk	Folksinger	LIKE	3:30	fmhJVDnrtcg	MPREb_DgkuPhaxLwF	UCCg341pNKqwul6fDzBIbhqw
+525	Kids in the Sky	Das Kope	Kids in the Sky	LIKE	3:39	Np4DpLR4hyY	MPREb_1Thw3Iq8KwF	UCDp6U8dvos7ELXwA7zxOu2Q
 544	When I Was Done Dying	Dan Deacon	Gliss Riffer	LIKE	4:19	PZqUprA6bKE	MPREb_o2grkiQCIsM	UCsP4bZFWXJO75ECgoFnbYMA
 118	Valentine	DIIV	Is the Is Are	LIKE	3:18	xBUk0iCluJA	MPREb_iGZQtW4oVoq	UCWumh0WXTLCjbZlEOLWtQLQ
 119	Past Lives	DIIV	Oshin	LIKE	2:19	yg2e1TRMEIk	MPREb_JvZ6JTPE0Sa	UCWumh0WXTLCjbZlEOLWtQLQ
@@ -636,6 +647,9 @@
 105	Birthday	Beach Fossils	Clash the Truth	LIKE	2:53	QBx1BxfvBp4	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg
 450	Generational Synthetic	Beach Fossils	Clash the Truth	LIKE	2:45	_CNzt5g_DFQ	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg
 493	Vacation	Beach Fossils	Beach Fossils	LIKE	3:46	CER15O2gW5I	MPREb_3q7b9QFkriR	UCa3Tz2g-TF1oumK2paiC9yg
+98	Losing Something	Babe Rainbow	Losing Something	LIKE	2:16	geBTM8aq8jk	MPREb_LQvd7bRFbEZ	UCnmNJQ_W2ra79BAsOD6KAtA
+99	Peace Blossom Boogy	Babe Rainbow	Peace Blossom Boogy	LIKE	3:15	H7sqGld0yBA	MPREb_7BDmldZEo06	UCnmNJQ_W2ra79BAsOD6KAtA
+280	Something New	Babe Rainbow	30th Century Records, Vol. 2	LIKE	3:16	MBEBOjZ62SI	MPREb_bfPwJeWNAOa	UCnmNJQ_W2ra79BAsOD6KAtA
 20	Kurt	BRONCHO	Just Enough Hip to Be Woman	LIKE	3:03	9uzkF5YLX-U	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
 49	China	BRONCHO	Just Enough Hip to Be Woman	LIKE	4:43	aN7L3Wjvo1s	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
 58	Taj Mahal	BRONCHO	Just Enough Hip to Be Woman	LIKE	2:43	CucsB5cL3gM	MPREb_Xitm3vqiX70	UCGVp42SNSN6osaaynw6Mevg
@@ -671,26 +685,13 @@
 685	Could Be You	Allah-Las	Calico Review	LIKE	3:14	Oj_ycbAeYmg	MPREb_AZmop2kO2Ic	UCRg0dGQ51ZX7b3SF-6HkMDA
 275	Bulls	All Them Witches	Sleeping Through the War	LIKE	6:40	AxGoRsEuxEA	MPREb_ERXcfII15p6	UCyYGtzX--CaSWjM8SC9t1qQ
 706	Don't Bring Me Coffee	All Them Witches	Sleeping Through the War (Deluxe Edition)	LIKE	3:10	RafUeBs_ChQ	MPREb_sE78gV62ZPL	UCyYGtzX--CaSWjM8SC9t1qQ
+490	Postal Blowfish	Albert Hammond Jr.	Yours to Keep	LIKE	2:19	BpX84ZcuOgg	MPREb_VTx39jOxFOu	UCURphfD7Jrv0WlvIn-SY8zQ
 69	Franny/You're Human	Akron/Family	Akron/Family	LIKE	5:58	QkOPaPDgmsE	MPREb_wZAqWyZ4bxh	UCAN853sDjBMgcxplig4FlyQ
 567	River	Akron Family	It's A Crammed Crammed World	LIKE	4:36	hs8qwOz_CrU	MPREb_TInW3MSi1HG	UCAN853sDjBMgcxplig4FlyQ
-550	The Past Is A Grotesque Animal	of Montreal	Hissing Fauna, Are You The Destroyer?	INDIFFERENT	11:54	U8Lxjcuty_g	MPREb_koEflO4QOMl	UCTc-gLB4Gy6BxJhMAYZ6m4A
-241	Orchards	Wampire	Curiosity	INDIFFERENT	2:59	eGj-quRc0oo	MPREb_ZQL1BXRf27u	UC-XPGiKD-50Lw35kqjun28Q
-599	Spirit Forest	Wampire	Curiosity	INDIFFERENT	3:09	l2FmWy50tZc	MPREb_ZQL1BXRf27u	UC-XPGiKD-50Lw35kqjun28Q
-194	Fortune's Fool	STRFKR	Miracle Mile	INDIFFERENT	2:06	NpKm4XiasnI	MPREb_7vITuHhab1z	UCL6qpCZZBTfp1MtI3bmL7jw
-487	Golden Light	STRFKR	Miracle Mile	INDIFFERENT	4:44	U11t9lFZtSE	MPREb_7vITuHhab1z	UCL6qpCZZBTfp1MtI3bmL7jw
-502	Lonely Jones	Post Animal	The Garden Series	INDIFFERENT	2:56	vTXFlEGL6mY	MPREb_RoinJfF57Eu	UC4liCZx9y8tNIKEuqhTFTlQ
-617	Aral Sea	Post Animal	Post Animal Perform the Most Curious Water Activities	INDIFFERENT	3:58	2STetr4I-AE	MPREb_4wMiKdJ9uG3	UC4liCZx9y8tNIKEuqhTFTlQ
 139	Grey Lanes	Jacco Gardner	Hypnophobia	INDIFFERENT	3:07	1bLut1jmPpw	MPREb_YOZCpZE6nVF	UCmB6T0JihsQO4l5K1WzG-VQ
-54	Sol Love	Holy Wave	Relax	INDIFFERENT	2:31	GCIxbcJKiWo	MPREb_b8xuzOGW5M4	UC2qO7aL5hhhsS5v326P7eEw
-68	Do You Feel It	Holy Wave	Relax	INDIFFERENT	3:35	w1hm5-ZVAXs	MPREb_b8xuzOGW5M4	UC2qO7aL5hhhsS5v326P7eEw
 129	Adult Fear	Holy Wave	Adult Fear	INDIFFERENT	5:36	8oPbY1kxT_E	MPREb_cVchF46RVfv	UC2qO7aL5hhhsS5v326P7eEw
 681	Arab Spring	Holy Wave	Evil Hits	INDIFFERENT	3:38	dJ02UUHjQT0	MPREb_q5NQK2I9gIu	UC2qO7aL5hhhsS5v326P7eEw
-525	Kids in the Sky	Das Kope	Kids in the Sky	INDIFFERENT	3:39	Np4DpLR4hyY	MPREb_1Thw3Iq8KwF	UCDp6U8dvos7ELXwA7zxOu2Q
 677	Defriended	Beck	Defriended	INDIFFERENT	3:46	jEydWVTl2vI	MPREb_1sGQ5qMOmfF	UC8fxkahdLdfHk8pF1fRYD-w
-98	Losing Something	Babe Rainbow	Losing Something	INDIFFERENT	2:16	geBTM8aq8jk	MPREb_LQvd7bRFbEZ	UCnmNJQ_W2ra79BAsOD6KAtA
-99	Peace Blossom Boogy	Babe Rainbow	Peace Blossom Boogy	INDIFFERENT	3:15	H7sqGld0yBA	MPREb_7BDmldZEo06	UCnmNJQ_W2ra79BAsOD6KAtA
-280	Something New	Babe Rainbow	30th Century Records, Vol. 2	INDIFFERENT	3:16	MBEBOjZ62SI	MPREb_bfPwJeWNAOa	UCnmNJQ_W2ra79BAsOD6KAtA
-490	Postal Blowfish	Albert Hammond Jr.	Yours to Keep	INDIFFERENT	2:19	BpX84ZcuOgg	MPREb_VTx39jOxFOu	UCURphfD7Jrv0WlvIn-SY8zQ
 214	Tony's Song	Tijuana Panthers	Semi-Sweet		2:51	HrspNy02f84		
 26	Dull Boy	The Growlers	Chinese Fountain		2:51	E_e-p8gOvME		
 34	Purgatory Drive	The Growlers	Chinese Fountain		3:28	pmYnGAuUv6Q		
@@ -700,7 +701,6 @@
 376	Fall in Love	The Babe Rainbow (AUS)	The Babe Rainbow (AUS)			d72_pBGBi4M		
 442	Blue Hour	The Babe Rainbow (AUS)	The Babe Rainbow (AUS)			GlTg9xeFNJg		
 267	Ladies And Gentlemen (Demo)	Spiritualized	Ladies & Gentlemen We Are Floating In Space		2:54	CoNsyK1vBoY		
-662	Hymn for a Droid	Psychedelic Porn Crumpets	And Now for the Whatchamacallit		3:28	gvRqDQpmrXA		
 424	Chamber of Reflection (Live)	Mac DeMarco	Ce sentiment de l'été (Bande originale du film)			fvFWwxzTJ-4		
 313	Head On/Pill	King Gizzard And The Lizard Wizard	Float Along - Fill Your Lungs		6:45	rRcfDosZYn4		
 314	I’m Not a Man Unless I Have A Woman	King Gizzard And The Lizard Wizard	Float Along - Fill Your Lungs		2:51	uAO6s8R2SjI		
