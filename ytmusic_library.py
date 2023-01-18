@@ -16,7 +16,7 @@ DUPLICATE_THRESHOLD = 3
 class YTMusicPlaylists:
 
     def __init__(self, header='headers_auth.json', playcount_map=None,
-                 not_like_tsv = 'playlists/xx not like.tsv',
+                 not_like_tsv='playlists/xx not like.tsv',
                  playlist_limit=PLAYLIST_LIMIT):
         print(f'Using header file: {header}')
         self.yt = YTMusic(header)
@@ -29,7 +29,8 @@ class YTMusicPlaylists:
             self._playcount_map = self.get_playcount_map(playcount_map)
         self.banned_vid_set = set()
         if not_like_tsv != None:
-            self.banned_vid_set = frozenset(pd.read_csv(not_like_tsv, sep='\t', index_col=0).videoId)
+            self.banned_vid_set = frozenset(pd.read_csv(
+                not_like_tsv, sep='\t', index_col=0).videoId)
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
 
@@ -82,12 +83,18 @@ class YTMusicPlaylists:
             self._info_cache[playlistId] = info
         return info
 
-    def playlist_from_tsv(self, tsv_path):
+    def playlist_from_tsv(self, tsv_path, sort_by_index=True, ignore_banned=False):
         assert tsv_path.endswith('.tsv')
         df = pd.read_csv(tsv_path, sep='\t', index_col=0)
         pl_name = os.path.basename(tsv_path).split('.tsv')[0]
         print(f'\nGenerating {pl_name} ytmusic playlist for {len(df)} tracks')
-        vids = frozenset(df.videoId.unique()) - self.banned_vid_set
+        if sort_by_index:
+            df = df.sort_index()
+        if ignore_banned:
+            vids = df.videoId
+        else:
+            vids = frozenset(df.videoId.unique()) - self.banned_vid_set
+
         desc = f'Matched {len(vids)} tracks from local tsv playlist: {pl_name}'
         pl_id = self.yt.create_playlist(
             title=pl_name,  description=desc,
@@ -115,7 +122,7 @@ class YTMusicPlaylists:
         return tracks, playlist_meta
 
     def create_rating_playlist_subset(self, tracks, orig_name, new_name,
-                                      rating, min_ids=0, playcount_sort=False,
+                                      rating, min_ids=0, playcount_sort=False, ignore_banned=False,
                                       max_playcount_str=50):
         assert rating in self._valid_ratings
         desc = f'generated from {orig_name} includes {rating} subset'
@@ -135,8 +142,10 @@ class YTMusicPlaylists:
                     int).astype('str') + '\t|  ' + pc['title']
                 desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
                     '\n'.join(pc_str.to_list())
-
-        video_ids = frozenset(tracks.index.unique()) - self.banned_vid_set
+        if ignore_banned:
+            video_ids = tracks.index
+        else:
+            video_ids = frozenset(tracks.index.unique()) - self.banned_vid_set
         if len(video_ids) <= min_ids:
             return None, len(video_ids)
         pl_id = self.yt.create_playlist(
@@ -147,7 +156,8 @@ class YTMusicPlaylists:
 
     def move_likes_from_radio_playlist(self, pl_info,
                                        min_n_like=MIN_RADIO_LIKE_TO_SPLIT,
-                                       sleep_time=3, verbose=False, playcount_sort=True):
+                                       sleep_time=3, verbose=False, playcount_sort=True,
+                                       ignore_banned=True):
         tracks = pd.DataFrame(pl_info.get('tracks', None))
         if verbose:
             print(f'Sorting {pl_info["title"]} ({pl_info["id"]}) with',
@@ -165,7 +175,8 @@ class YTMusicPlaylists:
         time.sleep(sleep_time)
         indiff_pl_name = orig_name.replace('radio', '') + 'radio'
         res_indif, n_indif = self.create_rating_playlist_subset(
-            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=playcount_sort)
+            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=playcount_sort,
+            ignore_banned=ignore_banned)
         if res_indif is None:
             print(f'ERROR: Radio Playlist {indiff_pl_name} was',
                   f'not created, skip deleting original : {orig_name}')
