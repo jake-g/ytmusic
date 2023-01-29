@@ -1,6 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 17	T e s t a r o s s a D r e a m s	「fluence」	E l e m e n t a l	LIKE	1:36	q_QZYIxObL0	MPREb_RpoH9RMfEBr	UC8ZaLu5e8-54jDBhML00vFQ
-642	ginger	xander	Feel Trip, Vol. 2	LIKE	2:37	8_TtdMnAsb4	MPREb_gKvKGyWZXdh	UC0ozxP8baWTVJe8Px5gR9OA
 641	Vanishing Point	woosta	Vanishing Point	LIKE	3:30	bD41ukecwvY	MPREb_B1Dnr1COX2V	UCT67l6L5kysSco2-j5FoPeQ
 14	Hopeless	weird inside	Hopeless	LIKE	2:21	PZhJW8UwwbM	MPREb_CBP9lCtfnH4	UCSEeR3zYeuWgLiRbG-KQMlQ
 22	Game Ova	tobi lou	Game Ova	LIKE	4:01	ptWOmLVeHMY	MPREb_CLQAKCkg7Yv	UCvUJ3cwOrU3gvbVKVTF0FeA
@@ -35,7 +34,7 @@
 503	No Sleep	Wiz Khalifa	Rolling Papers	LIKE	3:12	evMR4aZMpjM	MPREb_uzP9yiszLIO	UC3QmG1Jn9cE5fTMt14DLuZw
 504	Roll Up	Wiz Khalifa	Rolling Papers	LIKE	3:48	mH-EGDYgOyo	MPREb_bW5uCc6tVHO	UC3QmG1Jn9cE5fTMt14DLuZw
 545	Someday	Weval	The Weight	LIKE	5:44	aAPef4SMMio	MPREb_TzUxcnSyhXf	UCJscGoudXZmNmADZX2Uk0hw
-577	Slow Hours	Weird Inside	Slow Hours	LIKE	2:26	rFm4S4_Bi3s	MPREb_NnRqX8wh2wd	UCSEeR3zYeuWgLiRbG-KQMlQ
+577	Slow Hours	Weird Inside	Slow Hours	LIKE	2:28	rFm4S4_Bi3s	MPREb_NnRqX8wh2wd	UCSEeR3zYeuWgLiRbG-KQMlQ
 667	Hater	Weaver Beats	Hater	LIKE	2:58	59vBwfhXMD8	MPREb_k61nKFISZq0	UCpFqNs3k-Tuu5M8n1nJEKxw
 501	Norf Norf	Vince Staples	Summertime '06	LIKE	3:03	8lZLxh3Z9ZY	MPREb_mW56zD5GbZ5	UCCn7DeREpok-P8lDnYkyZWA
 660	Yeah Right	Vince Staples	Big Fish Theory	LIKE	3:08	kcbjO6h0GV0	MPREb_EAQCEnzPr5h	UCCn7DeREpok-P8lDnYkyZWA
@@ -143,7 +142,6 @@
 487	Collard Greens (feat. Kendrick Lamar)	ScHoolboy Q	Oxymoron	LIKE	4:59	m61VNt0rM5s	MPREb_7M7GkPSc31n	UC40b2qG4-4d2kwseUrMIW1Q
 488	Man Of The Year	ScHoolboy Q	Oxymoron	LIKE	3:36	FsQFkLiK7OE	MPREb_q6snwpiCdBX	UC40b2qG4-4d2kwseUrMIW1Q
 358	Feel Good (Cavego Remix) (feat. Scavenger Hunt)	Satin Jackets	Feel Good	LIKE	3:35	8-YSFw-lUcQ	MPREb_HdKGcnlyWg5	UC38pEVsac-8a3LMSb16qxZA
-291	lift me from the ground (feat. Sofie Winterson)	San Holo	album1	LIKE	4:21	JSMdP_On-gU	MPREb_RzEnwHOjt4f	UCEFIhOEN2vXu2WzlBzrwEoA
 70	Reflectionz	Sam Gellaitry	Short Stories	LIKE	3:32	XWMlHOJNUzs	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBINc2hvcnQgc3RvcmllcxoNc2FtIGdlbGxhaXRyeSIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINc2FtIGdlbGxhaXRyeQ
 83	To Earth and Back	Sam Gellaitry	Short Stories	LIKE	3:15	SbwXS5jiHJo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBINc2hvcnQgc3RvcmllcxoNc2FtIGdlbGxhaXRyeSIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINc2FtIGdlbGxhaXRyeQ
 84	The End	Sam Gellaitry	Short Stories	LIKE	3:22	v5GvTT4UtAo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBINc2hvcnQgc3RvcmllcxoNc2FtIGdlbGxhaXRyeSIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINc2FtIGdlbGxhaXRyeQ
@@ -167,7 +165,7 @@
 288	Raspberry	Saje	Freefallin' Dreams	LIKE	3:04	LwCweGIxBlk	MPREb_3pLGC2tUBnv	
 579	Almost	Saje	Take Care Of You	LIKE	2:56	EqoEbEw1Jk4	MPREb_RGnWQSEQsH8	
 20	Sakura Trees	Saib	Buena Vista	LIKE	1:40	LhhT8Lrd7ss	MPREb_8XDcLQnKW2h	UCw02oGFeqYXl14LcyKhOTYw
-219	Hotline Bling	SRNO	Hotline Bling	LIKE	2:55	sXal9e7yTRM	MPREb_Oud5hzbttNf	UCcTQId4trIbcANVOJJAHwKw
+219	Hotline Bling	SRNO	Hotline Bling	LIKE	2:56	sXal9e7yTRM	MPREb_Oud5hzbttNf	UCcTQId4trIbcANVOJJAHwKw
 492	SOPHIE — OIL OF EVERY PEARL'S UN-INSIDES (Full Album Stream)	SOPHIE		LIKE	39:56	AC8h4HnWyys		UCCdS019SDLmqebaiu2OpwGA
 566	Is It Cold In The Water? (Flume & Eprom Remix)	SOPHIE	Hi This Is Flume (Mixtape)	LIKE	4:47	rDDRGkUzhio	MPREb_WEyEqFzZW1F	UCCdS019SDLmqebaiu2OpwGA
 384	Times We Had (feat. Toulouse)	SG Lewis	Times We Had	LIKE	3:08	uOU7MkPUl4Q	MPREb_wal6c0A2KhM	UCOQJ3PINtnlAv84pSzgv4cg
@@ -573,7 +571,6 @@
 67	funky wubwub mak yer bodi	Daktyl		LIKE	1:47	hWdYM9TmYwM		FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGZGFrdHls
 68	future wonk dubass => dirty oo	Daktyl		LIKE	1:53	hXZfPrkUVrg		FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGZGFrdHls
 740	Too Long	Daft Punk	Discovery	LIKE	10:01	TZhxu5iCDnI	MPREb_7ltM34kr0mH	UCRr1xG_2WIDs18a6cIiCxeA
-513	Midnight In A Perfect World	DJ Shadow	Endtroducing.....	LIKE	4:59	AtVNn63FfaI	MPREb_EHShW2T1Tl8	UCtTuSKgCdeTyxBGPCD3TgxQ
 656	Time Spent Away From U	DJ Seinfeld	Time Spent Away From U	LIKE	5:33	PdUj0iEZQLA	MPREb_ycLhRGahCsC	UCshOz0mzWg4enVtjm-Dk6rw
 79	DISK	DISK		LIKE	2:33	8DFLGpCMmbQ		FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIEZGlzaw
 100	DANYAL - Come Closer	DANYAL		LIKE	2:43	JggxtUs_wv0		FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGZGFueWFs
@@ -665,7 +662,6 @@
 431	Cs60	BADBADNOTGOOD	III	LIKE	6:53	EuA-WVs3SiU	MPREb_gfuerKPuiMW	UCeLdRRQwPb-KP8Qj7j3P5dw
 102	Atm Jam featuring Pharrell (Kaytranada Edition)	Azealia Banks	Atm Jam - KAYTRANADA EDITION	LIKE	4:04	RyOV_Sh5k24	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIaYXRtIGphbSBrYXl0cmFuYWRhIGVkaXRpb24iA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINYXplYWxpYSBiYW5rcw
 260	Algiers	Austin Peralta	Endless Planets	LIKE	13:37	YBRcOwhKHIc	MPREb_1BC5ZaZArJO	UCaDEKNtQzlV8r66skhobqFA
-634	Remember	Audiobot	Feel Trip, Vol. 2	LIKE	3:11	751nViE2wIM	MPREb_gKvKGyWZXdh	UC61qN3nJ_ZWAHZc7L5rHSBA
 18	Waking Up Late.	Aso	Waking Up Late.	LIKE	2:19	5r0IomapoWg	MPREb_LWnlAFsQgNj	UCgWzwhihlRaf6t4Bu8cRh6w
 28	Sinner	Ark Patrol	Primo	LIKE	3:39	uFNkCAe-aKI	MPREb_xJieeYoCZ58	UC1TZ4HwI-mz6vfnPtF4JGVA
 300	Primo	Ark Patrol	Primo	LIKE	3:25	Wyjg0oNNTdI	MPREb_xJieeYoCZ58	UC1TZ4HwI-mz6vfnPtF4JGVA
@@ -722,9 +718,12 @@
 129	Folish			LIKE	3:49	wE6i1YvWjaY		
 131	Rise-set 			LIKE	3:47	fXBZAdPdblE		
 650	Sam Gellaitry-Long Distance www.myfreemp3.club 			LIKE	3:40	OB4jybJUNSM		
+642	ginger	xander	Feel Trip, Vol. 2	INDIFFERENT	2:36	JgcYjMmvEJ4	MPREb_uO1p5vHdhKk	UC0ozxP8baWTVJe8Px5gR9OA
 21	dreamer	eevee	beat tape 01	INDIFFERENT	1:55	wM5ayl8iaBw	MPREb_KYsWS7PGdkE	UCzu820Gt6_VpbOvZxzUq58w
 349	blue birds	eevee	beat tape 01	INDIFFERENT	1:31	zN5kiR44uXo	MPREb_KYsWS7PGdkE	UCzu820Gt6_VpbOvZxzUq58w
+291	lift me from the ground (feat. Sofie Winterson)	San Holo	album1	INDIFFERENT	4:21	5-5ANgeqsnI	MPREb_IGFDL1iAkju	UCEFIhOEN2vXu2WzlBzrwEoA
 352	At Dawn	Joe Hertz	How It Feels EP	INDIFFERENT	4:18	OuoHo8LY08g	MPREb_TgvtdZ2JWlB	UCjVePrAi4-axttD9uaWZ4wQ
+634	Remember	Audiobot	Feel Trip, Vol. 2	INDIFFERENT	3:11	_TjLShKZJ84	MPREb_Ka0p5EcQ5VG	UC61qN3nJ_ZWAHZc7L5rHSBA
 8	Highway Broken	glue70	Points of Interest		2:42	NtZavBcRCkg		
 15	Casin	glue70	Points of Interest		1:47	bmHYV5wWrkw		
 316	These Street Walkers	glue70	Points of Interest		2:42	gdwqT1_W9J8		
@@ -744,5 +743,6 @@
 135	IKnowUKnow (Instrumental)	God.Damn.Chan	VEIB: Director's Cut [instrumentals]		3:32	UnL3JtNMlvQ		
 351	Intrepidity feat. Mr. Carmack	Evil Needle	Qualia		4:34	w8WDpTlzMQo		
 578	Ô	Darius, FKJ & FKJ	.Wave			c964MF3wDnA		
+513	Midnight In A Perfect World	DJ Shadow	Endtroducing			FxBdtNmFgNE		
 30	The Meaning Of Love	Chrome Sparks	Goddess		5:53	NKB5zZ6xQbI		
 4	Time	Bassti	Chillhop Raw Cuts		1:36	fevBZKQ2KCU		

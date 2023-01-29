@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 241	Africa	Toto	Rock Classics	LIKE	4:22	y8Nla-98CRY	MPREb_FlPQDc6nWZr	UCewH1MBbYlEZMWx3ZUNywyg
+17	Always Something There to Remind Me	Naked Eyes	Burning Bridges	LIKE	3:39	43R5ZjEwRZg	MPREb_bA3k7ZNpgAO	UC0W2-l7jVDLjKiEw718lSlw
 140	Kiss On My List	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	LIKE	4:24	YOuhYuZLNYw	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
 303	Private Eyes	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	LIKE	3:38	0aQKmbtp6Pc	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
 27	The Sun Always Shines on TV	a-ha	Time and Again: The Ultimate a-ha	INDIFFERENT	5:07	LwUEb8Q-qAA	MPREb_OUl8FaluP4R	UCx00XxqRCfPS6zaTzRm3H2A
@@ -178,7 +179,6 @@
 202	Bizarre Love Triangle (Extended Dance Mix)	New Order	Substance	INDIFFERENT	6:45	PDCeGZ3n8jY	MPREb_xT2oPz9amkq	UCXExK7We8VKsIzFFQYNEgBg
 268	True Faith	New Order	Substance	INDIFFERENT	5:56	qCNbdYd9K30	MPREb_xT2oPz9amkq	UCXExK7We8VKsIzFFQYNEgBg
 37	99 Luftballons	Nena	Nena	INDIFFERENT	3:52	AT_0zXw2rRo	MPREb_jKk5mqT3McB	UCDxXOCnw-unzxH5kMsnIEOA
-17	Always Something There to Remind Me	Naked Eyes	Burning Bridges	INDIFFERENT	3:39	43R5ZjEwRZg	MPREb_bA3k7ZNpgAO	UC0W2-l7jVDLjKiEw718lSlw
 341	Promises, Promises (US Single Version / 2018 Remaster)	Naked Eyes	Naked Eyes	INDIFFERENT	3:46	GaGr010ey5U	MPREb_OVgK3DXyBBX	UC0W2-l7jVDLjKiEw718lSlw
 137	Kickstart My Heart (2021- Remaster)	Mötley Crüe	Dr. Feelgood (40th Anniversary;2021 - Remaster)	INDIFFERENT	4:43	mVurA44hwiw	MPREb_w8lVUfdv3cS	UCaeBWvnAVVgyfFT-gnWwURg
 221	Home Sweet Home	Mötley Crüe	The Dirt Soundtrack	INDIFFERENT	3:59	Kn4Q00yl8Zc	MPREb_vcSQjsCZZk3	UCaeBWvnAVVgyfFT-gnWwURg
@@ -308,7 +308,7 @@
 391	The Captain of Her Heart	Double	Blue	INDIFFERENT	4:35	WvVv8R--6TQ	MPREb_x6EFWPcLrIp	UCzB-LYA16-ysTgkdKP7SHbw
 374	Ah! Leah!	Donnie Iris	20th Century Masters: The Millennium Collection: Best of Donnie Iris	INDIFFERENT	3:42	Ip9L8IvIsdQ	MPREb_olTHSaQRemO	UCr10zNKNR4Hfxx8GJx7pK5A
 301	She Works Hard For The Money	Donna Summer	She Works Hard For The Money	INDIFFERENT	5:20	tuUEpbGVV2Y	MPREb_nONaW88l8LW	UCyRT5w65wAC7kwih0xaTo0w
-385	The Boys Of Summer	Don Henley	BBQ Summer	INDIFFERENT	4:49	4OZPDdFJ5fQ	MPREb_ZEZnxNGDOTC	UCnPPs9X57Sl4dNCyIgLigzQ
+385	The Boys Of Summer	Don Henley	Angel Musik	INDIFFERENT	4:49	P-lthbzbcJA	MPREb_hJzGfKLaBs4	UCnPPs9X57Sl4dNCyIgLigzQ
 272	9 to 5	Dolly Parton	The Essential Dolly Parton	INDIFFERENT	3:01	E4OzdyxbOuU	MPREb_HlMThYcxPAw	UCXJscayh5BT8m2ZVFQSdeVw
 314	Islands In the Stream	Dolly Parton	Greatest Hits	INDIFFERENT	4:12	Cvq6lHDatNs	MPREb_EulqUY5pUsg	UCXJscayh5BT8m2ZVFQSdeVw
 380	Holy Diver	Dio	Holy Diver	INDIFFERENT	5:51	v9M7g-nKMBU	MPREb_IJNRw1piX9o	UCgxv4igPRzlBIyCKEzDwiYQ
@@ -353,7 +353,7 @@
 18	I Feel for You	Chaka Khan	Epiphany: The Best of Chaka Khan, Vol. 1	INDIFFERENT	5:44	-hmG6Ah3-rA	MPREb_pGEBA12lYsY	UCwRmRZFN_nTAkKZYngL-x6A
 63	Ain't Nobody	Chaka Khan	Epiphany: The Best of Chaka Khan, Vol. 1	INDIFFERENT	4:41	rcAv1cGAeXE	MPREb_pGEBA12lYsY	UCwRmRZFN_nTAkKZYngL-x6A
 100	Word Up	Cameo	Word Up	INDIFFERENT	4:21	iJQ79yh_Agk	MPREb_gU8xiDSdo26	UCWOWuP1wrpPtdpX72l8jl5w
-247	Summer Of '69	Bryan Adams	Greatest Hits	INDIFFERENT	3:38	02CRiwav3SU	MPREb_vW0INzhE81c	UCSoZk6OcvRneFfAZH3I3-gQ
+247	Summer Of '69	Bryan Adams	The Rock Essentials	INDIFFERENT	3:38	5E33iNrkGag	MPREb_CEJsCtI30XM	UCSoZk6OcvRneFfAZH3I3-gQ
 263	Run To You (Live)	Bryan Adams	Wembley 1996 Live	INDIFFERENT	5:30	fbdy4xFj31U	MPREb_uRoUDDFGTGm	UCSoZk6OcvRneFfAZH3I3-gQ
 120	The Way It Is	Bruce Hornsby	The Way It Is	INDIFFERENT	4:58	gthpodDZJeQ	MPREb_lM3hrOdhkkW	UCiwLXd-mXNArd1LLq-ri9Kw
 310	Waiting for a Star to Fall	Boy Meets Girl	Reel Life (Expanded Edition)	INDIFFERENT	4:31	iVOhqIwOtg0	MPREb_uKyDbXHHQlb	UCJJVV7JpOQYgeIR03fzBGlw
