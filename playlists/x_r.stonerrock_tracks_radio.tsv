@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 299	The Judge	twenty one pilots	Blurryface	LIKE	4:58	an6iivcWZhE	MPREb_X7QffEAYTTO	UCnX0L9QiftAcWdzeBx31xCw
 293	Milquetoast	Helmet	Betty	LIKE	3:53	P9qhRLeCgN8	MPREb_J9yUlTDJ9P8	UCTbjXi35cqnD6jB7fTh5xMw
+250	Into the Void	Black Sabbath	Master of Reality	LIKE	6:11	KSSEzWXqGKY	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
 269	The Wizard	Black Sabbath	Black Sabbath	LIKE	4:23	xWeRNU4mqjw	MPREb_MutWFQf9MFe	UCLCELUuoHbkUxZ9EMHTYebg
 291	Alabaster	All Them Witches	Sleeping Through the War	LIKE	6:58	JMG-uJTxO4c	MPREb_zUVGGjhumSF	UCyYGtzX--CaSWjM8SC9t1qQ
 304	Остаток слов	ZippO	Остаток слов	INDIFFERENT	3:10	dXb738qNeDI	MPREb_dVftATra2mP	UCWc35zsY6OQWH1gHdZGnqHg
@@ -52,7 +53,7 @@
 228	High Country 	The Sword	High Country	INDIFFERENT	2:37	stXyiI6qnyU	MPREb_A3YxgmN3LG9	UCTLDFfoaS5oG3ckBh0DT6zA
 245	Cloak Of Feathers	The Sword	Apocryphon	INDIFFERENT	5:25	AlCJ1BsfMWc	MPREb_Sgu4TGezusN	UCTLDFfoaS5oG3ckBh0DT6zA
 66	Welcome to the Void	The Kings Of Frog Island	II	INDIFFERENT	8:10	kaV42f0KKYM	MPREb_z28Mxeb3z61	UC6XitK4DwXV07XCCy8WC7uQ
-74	Last Call	The First Contact	Last Call	INDIFFERENT	4:47	KOsmAhY_94s	MPREb_fnmRMU4iLmd	UCKZGmmUj764Tvb04VIdQF9A
+74	Last Call	The First Contact	Last Call	INDIFFERENT	4:47	KOsmAhY_94s	MPREb_fnmRMU4iLmd	UCkV8OvNStUZoNq5dMtjM4SQ
 242	The First Murder on Mars	The Electric Mud	Burn The Ships	INDIFFERENT	4:02	S4KeWLMKNkA	MPREb_ny9IV5Kigl2	UCVGamxkscerkstu0YGwhTIw
 227	These Are Old Hands	The Devil and the Almighty Blues	II	INDIFFERENT	10:58	cTbG6boZwZw	MPREb_bkhRcnUEOCK	UCnTkt--CrlRPYQGfdFeS91w
 138	Imposing sun	The Black Wizards	Imposing sun	INDIFFERENT	3:27	ZV6Q-SVKDsA	MPREb_Eg08x7iqXL6	UCuKkVHQgsOuu46oCm8jnKFA
@@ -74,13 +75,13 @@
 317	Pulsar	Somali Yacht Club	Pulsar	INDIFFERENT	9:08	MclWxCCZAgE	MPREb_J7u3MjNGVPF	UCxWwgYTgMCdoG3Zf0XQlE8g
 173	Pilot The Dune	Slo Burn	Amusing The Amazing	INDIFFERENT	3:29	19sBtHlDYZE	MPREb_CwJwnINHhiZ	UCqWserXuAzasuTtpXRNxxNQ
 58	Sex Magic Manifestation	Sleepwulf	Sex Magic Manifestation	INDIFFERENT	3:49	iV246d78aKE	MPREb_UAe5G6KHNLR	UCLfRupLLU-v66OLgbqMwlfw
-131	Sleep	Sleeping Giant	Sleeping Giant	INDIFFERENT	5:18	buj1hi3Ml6k	MPREb_8IxsgtWB1ZW	UCzZXUTwWgeOVMInQEDMc8rw
+131	Sleep	Sleeping Giant	Sleeping Giant	INDIFFERENT	5:18	buj1hi3Ml6k	MPREb_8IxsgtWB1ZW	UC7ePJbmidyDu1TWPlE9tJRA
 140	The Clarity	Sleep	The Clarity	INDIFFERENT	9:54	_aw2sOFVkB8	MPREb_d5i6B0MIHIY	UCWBYenygd5SMBbBPQbS77JQ
 226	Antarcticans Thawed	Sleep	The Sciences	INDIFFERENT	14:23	RT4Q1EphGq8	MPREb_FGv84uT2KGw	UCWBYenygd5SMBbBPQbS77JQ
 167	Kingdom Come	Sir Lord Baltimore	Kingdom Come	INDIFFERENT	6:34	5mAEH7yo5ak	MPREb_LR6NAJGhtSI	UCb-IttEuYEqiuH2rn0k8Tbw
-92	Fucker With a Fu Manchu	Silent Monolith	Another Way to Fly	INDIFFERENT	5:28	6Xq26gbxg18	MPREb_jJfLqb1VlMW	UC3dXV0h28RSxugz8yDdDAJw
+92	Fucker With a Fu Manchu	Silent Monolith	Another Way to Fly	INDIFFERENT	5:28	6Xq26gbxg18	MPREb_jJfLqb1VlMW	UCtR6D2r3sUDD6QRnhZ4_rCw
 65	Blind For All To See	Shrinebuilder	Shrinebuilder	INDIFFERENT	7:27	R_xncIOg2qM	MPREb_o5QQ1U8rKUS	UC-who0JMcdgliy1_vlq2Bkg
-41	The Tree and the Serpent	Sergeant Thunderhoof	Terra Solus	INDIFFERENT	6:02	fFGUoZdLjQg	MPREb_SZr8Q1ZqYrp	UCfUhmwVzxakP-3AjdQhtBuw
+41	The Tree and the Serpent	Sergeant Thunderhoof	Terra Solus	INDIFFERENT	6:02	fFGUoZdLjQg	MPREb_SZr8Q1ZqYrp	UCaQdML3pKR__GCpzxdJ3dbQ
 69	Hammerdown	Scissorfight	Greatest Hits	INDIFFERENT	3:03	Xkd1mRG9UaU	MPREb_442xpKfzmvM	UCVFF9Xd6bvGOl2SK6IiTI_Q
 208	Danima Je Vruće	Savana	Danima Je Vruće	INDIFFERENT	3:50	rGQBEQHqkRI	MPREb_3Sc8lXZT8MB	UC0IDy_aCcKVKCi6ztVDdd6w
 81	Glass Houses	Sasquatch	II	INDIFFERENT	4:24	KizXHI6fWaM	MPREb_IOzwo6Sf34d	UCCPpRxcmZO68DYH93N8oDKQ
@@ -116,9 +117,9 @@
 213	Land of Secret Dreams	Orange Goblin	Frequencies from Planet Ten	INDIFFERENT	7:38	TaBD6LQuNQ4	MPREb_Cr5SErH2yrV	UCONqY9tG6QHOIBfLLqqVDXg
 319	A Eulogy For The Damned	Orange Goblin	A Eulogy For The Damned	INDIFFERENT	7:17	MVPEh2scX_w	MPREb_YSct4n8z1jf	UCONqY9tG6QHOIBfLLqqVDXg
 157	Kapila's Theme	Om	Variations on A Theme	INDIFFERENT	11:56	wUt6syGlJTs	MPREb_HCUFJCCw2bv	UCsvPe3HRkh6vcKwlpKs6OwQ
-99	Vices	Oddplay	Vices	INDIFFERENT	4:07	cJFapEQc0gY	MPREb_AFsmt5OLRFI	UCEbFE3Gaxo0JVzd1KZxr_tg
-169	Hitchhiker	Oddplay	Bluff	INDIFFERENT	3:13	dgh4WzMsZL4	MPREb_jQ1JuoavuGw	UCEbFE3Gaxo0JVzd1KZxr_tg
-190	The Path	Oddplay	Bluff	INDIFFERENT	3:28	onKWi3VrSy4	MPREb_jQ1JuoavuGw	UCEbFE3Gaxo0JVzd1KZxr_tg
+99	Vices	Oddplay	Vices	INDIFFERENT	4:07	cJFapEQc0gY	MPREb_AFsmt5OLRFI	UCH8yjDKCXxI_-KkaPv8RH2A
+169	Hitchhiker	Oddplay	Bluff	INDIFFERENT	3:13	dgh4WzMsZL4	MPREb_jQ1JuoavuGw	UCH8yjDKCXxI_-KkaPv8RH2A
+190	The Path	Oddplay	Bluff	INDIFFERENT	3:28	onKWi3VrSy4	MPREb_jQ1JuoavuGw	UCH8yjDKCXxI_-KkaPv8RH2A
 39	The Cleansing	Nothing More	The Few Not Fleeting	INDIFFERENT	4:14	tpG7U-Tv0aQ	MPREb_InfH6dw7WSQ	UCr7ZuYFBf8Xna3QWDMaqXbQ
 21	To the Center	Nebula	To the Center	INDIFFERENT	6:31	OLmPREi-zjw	MPREb_cz8V5vFT8tc	UCmWb_jDbdP0gvFHmH9xPUDw
 295	Garden Of the Senses	Naxatras	II	INDIFFERENT	10:39	eYjm7ta5qqA	MPREb_IK8RM19xCUI	UCqwJatj5I7epuDbyG7PhERA
@@ -174,7 +175,7 @@
 308	Cerberus	King Buffalo	Acheron	INDIFFERENT	9:47	fJYK7bLVvrY	MPREb_4DsqsIh07Xw	UCpQGYylXLq8k_qwpTmkEOhA
 27	Sixty-Three	Karma To Burn	Mountain Czar	INDIFFERENT	5:43	9V-q_cVsoTs	MPREb_sS0XrOuHd0h	UCwAcBfW607tyZlwHIQ5arCw
 233	20	Karma To Burn	In The Groove	INDIFFERENT	3:38	22Xqww8ih2Y	MPREb_3JbUiRSNaNe	UCwAcBfW607tyZlwHIQ5arCw
-207	High Octane Supersoul	Kaiser	1st Sound	INDIFFERENT	5:26	F2-gWnMOPQA	MPREb_4615DZ23s4s	
+207	High Octane Supersoul	Kaiser	1st Sound	INDIFFERENT	5:26	F2-gWnMOPQA	MPREb_4615DZ23s4s	UCj9r_RQmE7iTn54qss9b7sA
 181	Come Back Life	Kadavar	Abra Kadavar (Bonus Version)	INDIFFERENT	5:02	my75i__aS0o	MPREb_s6viccXAScc	UCug-Zxmqid7AZFXh-WnKKqw
 195	Groovosaur	Jurassic Leaf	Groovosaur	INDIFFERENT	6:42	zsCTqDRg8-Y	MPREb_gQQgOEEP24k	UCb68AvhoLvgTFcjHObfcnpQ
 240	Across the Crystal Tundra	I Saw the Deep	Lead the Way // Across the Crystal Tundra	INDIFFERENT	3:46	Gm0uG7Z_-6A	MPREb_D3VlpBLZcN4	UC6rd3itRluze0eRBHUsDcPg
@@ -236,8 +237,8 @@
 126	Mantis	Dead Engine	Mantis	INDIFFERENT	6:12	3IOwiF5hl4c	MPREb_AQTO9shZc0q	UCfFAvMr7o34WRs9ICU83yTg
 85	Witch Doctor	De Staat	I_CON	INDIFFERENT	3:28	b6NM9bnpE9A	MPREb_5hd7Kt6NIIB	UCFS0UBnts0j_6QOtom91-8w
 253	Say Goodnight to the World	Dax Riggs	Say Goodnight to the World	INDIFFERENT	4:19	HabmbZKWsQ0	MPREb_oabmFNAXVaM	UCceorxXdCPpmKil9Oq1GUJg
-199	Shake Like You	Corrosion Of Conformity	Deliverance	INDIFFERENT	4:16	P1RXTSFzgyM	MPREb_bpUWnmARreA	UCY8beduhHROBQYGevnRlEXQ
-241	Albatross	Corrosion Of Conformity	Deliverance	INDIFFERENT	5:20	zMzbb82_3tw	MPREb_bpUWnmARreA	UCY8beduhHROBQYGevnRlEXQ
+199	Shake Like You	Corrosion Of Conformity	Deliverance	INDIFFERENT	4:17	P1RXTSFzgyM	MPREb_bpUWnmARreA	UCY8beduhHROBQYGevnRlEXQ
+241	Albatross	Corrosion Of Conformity	Deliverance	INDIFFERENT	5:21	zMzbb82_3tw	MPREb_bpUWnmARreA	UCY8beduhHROBQYGevnRlEXQ
 270	Goodbye Windows	Corrosion Of Conformity	Wiseblood	INDIFFERENT	5:42	4xXHplkO7Kw	MPREb_iz3F6adfUG0	UCY8beduhHROBQYGevnRlEXQ
 310	World on Fire	Corrosion Of Conformity	In The Arms Of God	INDIFFERENT	4:02	66JPBXfL9Pc	MPREb_CNByLkOqp6G	UCY8beduhHROBQYGevnRlEXQ
 70	Potato Masher	Conifer Beard	Virginal Cuisine	INDIFFERENT	3:45	vvlbS8vTR2s	MPREb_aYzGVDFKqIL	UCarc31hHuDaxaHaa01_Ejtg
@@ -265,12 +266,12 @@
 229	Evil (Single Version)	Cactus	Cactology (The Cactus Collection)	INDIFFERENT	3:17	Wo-WSQo6kB4	MPREb_eeN2CW8Chlo	UClc-yxJB98a2AB-6k8BZx3w
 277	This is Why I Murder	Burgerface and the Bathsalts	This is Why I Murder	INDIFFERENT	3:08	d-iMemp66CM	MPREb_E9KngCOhhQP	UC41focugDLZbAv4OSqfQCvg
 49	Too Young To Die	Buffalo Fuzz	Vol. II	INDIFFERENT	4:06	9JqRXdtRYPQ	MPREb_nwg0NFH5vXe	UC0_FvfbgMxUs7pkKJVWMwFA
-267	Breadfan	Budgie	70s Rock	INDIFFERENT	6:04	4aTASJIMSJI	MPREb_uQuVRMf0elv	UCClsqmxuKrWtAqLLlpg6HYQ
+267	Breadfan	Budgie	70s Rock	INDIFFERENT	6:04	4aTASJIMSJI	MPREb_uQuVRMf0elv	
 313	Homicidal Suicidal	Budgie	Budgie [2013 remaster]	INDIFFERENT	6:41	GLQyhEAtSLY	MPREb_iOXRcBnEVJh	UCmmFDgLjr16ooJsUeNIcceQ
 106	Automatic Fantastic (Remixed and Remastered)	Brant Bjork	Jalamanta (Remixed and Remastered)	INDIFFERENT	6:56	7aRvZxdg-vg	MPREb_EqYBVLMXmy7	UCWtD-HPdJl1e_ZoZDvxJzIQ
 124	Somewhere, Some Woman	Brant Bjork	Gods & Goddesses	INDIFFERENT	5:49	ScYzQRaWVHE	MPREb_u4zAVqiOpjZ	UCWtD-HPdJl1e_ZoZDvxJzIQ
 182	Too Many Chiefs (Not Enough Indians)	Brant Bjork	Jalamanta	INDIFFERENT	3:45	PphA0VwOmo8	MPREb_bG8I03kdJRn	UCWtD-HPdJl1e_ZoZDvxJzIQ
-152	Prohibition (4th Amendment)	Bongzilla	Stash / Methods for Attaining Extreme Altitudes	INDIFFERENT	4:09	3a71JTi7nq0	MPREb_Nu6uCofYQJL	UCUUxqKAfvq3CapN8iD4xeSw
+152	Prohibition (4th Amendment)	Bongzilla	Stash / Methods for Attaining Extreme Altitudes	INDIFFERENT	4:09	3a71JTi7nq0	MPREb_Nu6uCofYQJL	UCaKz6YVNSeb4GOsySgZNcEg
 150	The Great God Pan	Blood Ceremony	Living with the Ancients	INDIFFERENT	7:30	U9t6uRl8Fq0	MPREb_yPiAbTuWgzt	UCx0-qtnUKdsKRpk7c7-Eh9Q
 298	Northern Burden	Black Tongue Reverend	Northern Burden	INDIFFERENT	4:06	McPrB3V2VGI	MPREb_1S1A4rheLUW	UCHyODPfcU0SvcYZsOHtFRVQ
 19	After Forever	Black Sabbath	Master of Reality	INDIFFERENT	5:27	TSF3HviqlPk	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
@@ -279,7 +280,6 @@
 179	Into the Void	Black Sabbath	The Ultimate Collection	INDIFFERENT	6:13	kPo008mXhmQ	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
 219	N.I.B.	Black Sabbath	The Ultimate Collection	INDIFFERENT	6:05	NsXEb-NOs88	MPREb_xupHGSB73BP	UCLCELUuoHbkUxZ9EMHTYebg
 225	A National Acrobat	Black Sabbath	Sabbath Bloody Sabbath (2009 Remaster)	INDIFFERENT	6:15	Q3QzxkpxsUE	MPREb_bTWSXogotc2	UCLCELUuoHbkUxZ9EMHTYebg
-250	Into the Void	Black Sabbath	Master of Reality	INDIFFERENT	6:11	KSSEzWXqGKY	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
 322	Hand of Doom (2012 - Remaster)	Black Sabbath	Complete Studio Albums (1970-1978)	INDIFFERENT	7:07	dgPv9_sPiME	MPREb_pToPfdUEQCw	UCLCELUuoHbkUxZ9EMHTYebg
 132	Hash King	Black Road	Witch of the Future	INDIFFERENT	7:15	w7r4d1J0Pyg	MPREb_Un2e5eI5PQA	UCPmdzjlJ0LzIYjCGiJ6avAA
 171	Radio 666	Black Rainbows	Radio 666	INDIFFERENT	4:32	nTZ6-IN00VY	MPREb_dPfAXSL1RF5	UCYTYwr0l9zt9dr8tWVXALcA

@@ -1,6 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 40	Sunrise	Yeasayer	All Hour Cymbals	LIKE	4:06	zrZvAfC-HrM	MPREb_VHnbDKpq7D7	UCOmQROWwukObd9QvmZS3mXA
-2	Rose Quartz	Toro y Moi	Anything in Return	LIKE	4:14	rdTvgM8CwL4	MPREb_KCcBhRzFYI1	UCJikOjbf3VffCdLXTsbxfxg
 78	House Of Jealous Lovers	The Rapture	Echoes	LIKE	5:04	C_l4b6xEUCM	MPREb_j5iVGYSIQIA	UCeNX7t0ZUTG5q2fek3LHzeA
 19	Silent Shout	The Knife	Silent Shout	LIKE	4:53	fTXgWu8I3-g	MPREb_gPzeyDHQBsY	UCis1bLqVozucj8JQo1bLHHg
 0	Boy Toy	STRFKR	Jupiter	LIKE	3:11	yno7UM7-rGc	MPREb_Nc61Xcpz8VE	UCL6qpCZZBTfp1MtI3bmL7jw
@@ -18,7 +17,7 @@
 158	Date With The Night	Yeah Yeah Yeahs	Fever To Tell (Deluxe Remastered)	INDIFFERENT	2:35	asxmDSDv_Hs	MPREb_wFmqbV6Ll5u	UCK49WVAaBRnVci8fmM4NiLQ
 192	Soft Shock	Yeah Yeah Yeahs	It's Blitz!	INDIFFERENT	3:53	ZZE4Fp8exmE	MPREb_vm5ZvJ1mjhE	UCK49WVAaBRnVci8fmM4NiLQ
 220	Honeybear	Yeah Yeah Yeahs	Show Your Bones	INDIFFERENT	2:25	ET82ZUnniiU	MPREb_EL3PTkNUQBH	UCK49WVAaBRnVci8fmM4NiLQ
-133	It's Boring / You Can Live Anywhere You Want	YACHT	See Mystery Lights	INDIFFERENT	8:53	It1075m6_V8	MPREb_JhtOScfFFDN	UCYZpCUsbUV1BnlxMMcIEewA
+133	It's Boring / You Can Live Anywhere You Want	YACHT	See Mystery Lights	INDIFFERENT	8:53	It1075m6_V8	MPREb_JhtOScfFFDN	UCmrBuDdLTXryQJxUbRlkXSg
 93	Fields	Xxyyxx	XXYYXX	INDIFFERENT	3:16	lXsfj1WSnr8	MPREb_xqxz87ZIhzx	UC5jSTBqIIHPHiS9TJkZvvOQ
 51	In the Morning	Wolf + Lamb	Versus	INDIFFERENT	4:40	qarcHmcImEU	MPREb_Y0OPVQUWsC6	UCwSwBU-Od-1MTODeP1zwWZg
 163	Two Dancers (ii)	Wild Beasts	Two Dancers	INDIFFERENT	2:38	NHugm8jNkfU	MPREb_9DhzTGmnsjq	UCIo_8jjj8Ox1xPIxaLUS_hQ
@@ -31,6 +30,7 @@
 47	White Sky	Vampire Weekend	Contra	INDIFFERENT	2:59	oNy6F-VIsos	MPREb_YprPlte5BVM	UCWy-MPuAh_GH8YwXxtq3gcA
 207	I Stand Corrected	Vampire Weekend	Vampire Weekend	INDIFFERENT	2:40	iO710M78ssg	MPREb_zXcVFdJ9Uu1	UCWy-MPuAh_GH8YwXxtq3gcA
 97	Trip	Vacationer	Gone	INDIFFERENT	2:53	QRdTSF0BGQk	MPREb_NNLldBrRpbn	UCbGIBEmU0rkN4YRha5BGtdA
+2	Rose Quartz	Toro y Moi	Anything in Return	INDIFFERENT	4:14	TOd_r4hBZJI	MPREb_Ws8ystnFNy4	UCJikOjbf3VffCdLXTsbxfxg
 91	Johnny and Mary (feat. Bryan Ferry)	Todd Terje	It's Album Time	INDIFFERENT	6:33	nlDGUnZTows	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 114	Svensk Sås	Todd Terje	It's Album Time	INDIFFERENT	2:44	8-4QCz12U-s	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 52	Miles High	Tigerskin	Deep Contemplation	INDIFFERENT	8:49	Wf4rLpsuqQ0	MPREb_h29xgzNtdHt	
@@ -82,7 +82,7 @@
 171	Veto	SOHN	Tremors	INDIFFERENT	3:56	uHfjOyTWBgU	MPREb_oG6gYiGABu4	UCxfkNV9JrzyyGFYRgZ8_F4A
 77	Everybody Knows	SBTRKT	Wonder Where We Land	INDIFFERENT	3:32	Y3AXDUPCCcc	MPREb_ogYhQsGuFbr	UCaWaWjoxiBI0Pcj4l8fKzmQ
 86	Higher	SBTRKT	Wonder Where We Land	INDIFFERENT	4:14	vpbjnaJ32TY	MPREb_ogYhQsGuFbr	UCaWaWjoxiBI0Pcj4l8fKzmQ
-166	Temporary View	SBTRKT	Wonder Where We Land	INDIFFERENT	3:27	2BvCUClf0rA	MPREb_sTBMQQhC2OF	UCaWaWjoxiBI0Pcj4l8fKzmQ
+166	Temporary View (feat. Sampha)	SBTRKT	Wonder Where We Land	INDIFFERENT	3:27	2BvCUClf0rA	MPREb_sTBMQQhC2OF	UCaWaWjoxiBI0Pcj4l8fKzmQ
 168	Sanctuary (feat. Jessie Ware and Sampha)	SBTRKT	SBTRKT	INDIFFERENT	3:52	tUOblmIAebM	MPREb_LCPfgujuplX	UCaWaWjoxiBI0Pcj4l8fKzmQ
 34	Thank God I'm A Lizard	Ross From Friends	Family Portrait	INDIFFERENT	5:06	t8PaEC63MyI	MPREb_7jUTHvdB7Ex	UCTniBt4tMAMEKn6cdBdAs4Q
 204	Synth One	Ronald Jenkees	Disorganized Fun	INDIFFERENT	3:24	AblZUJZ-8rA	MPREb_lhnXuG0Xxuy	UCefdAZQ_YiDq6YSgjrM7zYA
@@ -91,7 +91,7 @@
 7	Alps	Ratatat	LP4	INDIFFERENT	4:21	d6-FHI_Fulo	MPREb_wYTH1jEAtEX	UCbqBqmG-EXTUsp2v4SHGDRg
 202	Primetime	Ratatat	Magnifique	INDIFFERENT	1:59	M2FbPNwn_aM	MPREb_rGahgjJXEfs	UCbqBqmG-EXTUsp2v4SHGDRg
 8	Our Town	Radio 4	Gotham!	INDIFFERENT	3:42	q6twQLwkL7k	MPREb_4hGENC9Tj4F	UCHbEUIamgHLJX1rAJ6MGw5Q
-4	Can You Tell	Ra Ra Riot	The Rhumb Line	INDIFFERENT	2:42	a1E8XnUJdZw	MPREb_91mf8K7fYtU	UCwOXA9x2-zT74x0OB5DIqaA
+4	Can You Tell	Ra Ra Riot	The Rhumb Line	INDIFFERENT	2:42	a1E8XnUJdZw	MPREb_91mf8K7fYtU	UCqriz7-w0IOJhe-ZL7hbhfg
 144	Warm Priority	Project Pablo	Priorities	INDIFFERENT	5:49	In5ao03ORPA	MPREb_RMCujo6R2BW	UCfs8MUK10NUHXQ-J5zfDqzA
 148	The Fuss	Project Pablo	I Want To Believe	INDIFFERENT	5:53	CJAGH0jSf88	MPREb_JPN45wqVI1u	UCfs8MUK10NUHXQ-J5zfDqzA
 234	Kavalar	Prins Thomas	Prins Thomas 3	INDIFFERENT	5:32	kZ4r5faACXo	MPREb_gWppiRLvl6q	UCy1p_DvaXwETyB0nuuzCSMQ
@@ -219,8 +219,8 @@
 221	Bad Habit	Foals	Holy Fire	INDIFFERENT	4:41	WrNtGuLZQH8	MPREb_wsyLVbdm7oe	UCKbSM-2Qu8hCdLDdzpFa0eQ
 244	Olympic Airways	Foals	Antidotes	INDIFFERENT	4:12	fitqQsQeOEo	MPREb_zcFKLN6MFQX	UCKbSM-2Qu8hCdLDdzpFa0eQ
 151	Lucerne Valley	Floating Points	Reflections - Mojave Desert	INDIFFERENT	3:38	XWVdbrjCTG0	MPREb_SsZW0wQq6KP	UCHLmGIlqt6qD8JlWIlWhs0A
-26	Triangle Walks	Fever Ray	Fever Ray	INDIFFERENT	4:23	WrfBMyJBomc	MPREb_TbaIOUShS8o	UCRaHFNd1y3DzyPHSLSeIR-Q
-145	Only Of The Universe	Fatima Yamaha	Imaginary Lines	INDIFFERENT	4:08	-KFWuE_ISmc	MPREb_dKDUUCMDR8c	UCS4vfxt9kuU_jAL0u0k7m-w
+26	Triangle Walks	Fever Ray	Fever Ray (Deluxe Edition)	INDIFFERENT	4:24	Gl8b5RQmrOM	MPREb_iqO5kYUd5Up	UCRaHFNd1y3DzyPHSLSeIR-Q
+145	Only Of The Universe	Fatima Yamaha	Imaginary Lines	INDIFFERENT	4:08	-KFWuE_ISmc	MPREb_dKDUUCMDR8c	UCVsa-mAOG4UO0sgU-W8OMMg
 110	Headlock	Esser	Braveface	INDIFFERENT	3:10	6jHiAEWm-zo	MPREb_ultmUQLqRn5	UC3VG3W5XyNNk8yVZm-VOaHg
 54	Periscope Up	Emancipator	Soon It Will Be Cold Enough	INDIFFERENT	3:05	QvNRIcwiXVY	MPREb_1Eejvi2xh4U	UChNB35QmqX81vSbDXDR3i4w
 208	Awake	Electric Guest	Mondo	INDIFFERENT	5:00	quBnucFCiIY	MPREb_2nDmf2BveqA	UCNazp20wakA7ZL0pfZgXaQQ
@@ -233,7 +233,7 @@
 198	Pogo	Digitalism	Idealism	INDIFFERENT	3:46	PzChaAxsM-A	MPREb_6bClKWz56Ol	UCti-LwWBYB_5gNs_Bu0O9hQ
 200	Apollo-Gize	Digitalism	Idealism	INDIFFERENT	2:19	gPwhhMYzlIY	MPREb_6bClKWz56Ol	UCti-LwWBYB_5gNs_Bu0O9hQ
 249	Doubt	Delphic	Acolyte	INDIFFERENT	4:06	ff_wKzUglzk	MPREb_mpePntxZvua	UCDGNuuh7GX84_rwW1QZqyeQ
-28	Leitmotiv	Dauwd	Leitmotiv	INDIFFERENT	5:53	EbW-9kZWPZY	MPREb_bc7eXU6nbbN	UCNuAjkBA601CDVsYDeNty7A
+28	Leitmotiv	Dauwd	Leitmotiv	INDIFFERENT	5:53	EbW-9kZWPZY	MPREb_bc7eXU6nbbN	UCkAjMqOPIYoyA9KDUgG9Wgg
 55	Computer Camp Love	Datarock	Computer Camp Love	INDIFFERENT	3:08	8RLdTJloD_o	MPREb_f7X7HxJP8fR	UCf5nD366gk98oxYjE-DWdLA
 64	Princess	Datarock	Datarock Datarock	INDIFFERENT	3:48	gHqwmJuv3d0	MPREb_wzyOTPy9dZj	UCf5nD366gk98oxYjE-DWdLA
 103	Cos-Ber-Zam Ne Noya (Daphni Mix)	Daphni	Jiaolong	INDIFFERENT	5:36	-iMoUGKSBLY	MPREb_JK7ufPOCV0d	UCfk1G9VN3pt5bfjbxFFEytQ
@@ -265,7 +265,7 @@
 147	Korals	Call Super	Arpo	INDIFFERENT	2:32	ASlOfX9YK3w	MPREb_YOCGMY1iVKV	UCrSgFz7Ml4THAjXjjoeXXrw
 84	Left Behind	CSS	Donkey	INDIFFERENT	3:29	VjmniLCYNvk	MPREb_4PWdcCnMYCQ	UC8pXbN_LqqUG1TjrLFMK4Ow
 159	Let's Make Love and Listen to Death From Above	CSS	Cansei De Ser Sexy	INDIFFERENT	3:32	VtZk_l5bhWs	MPREb_RKrbxJeEhk0	UC8pXbN_LqqUG1TjrLFMK4Ow
-189	Meyrin Fields	Broken Bells	Meyrin Fields EP	INDIFFERENT	2:46	0Arm39FCv2s	MPREb_URvdV1PIvnZ	UCHEURKSdC-GByFdgBGtNDfQ
+189	Meyrin Fields	Broken Bells	Meyrin Fields EP	INDIFFERENT	2:47	0Arm39FCv2s	MPREb_URvdV1PIvnZ	UCHEURKSdC-GByFdgBGtNDfQ
 128	I Wanna Be Your Limousine	Black Kids	Partie Traumatic	INDIFFERENT	3:17	DgcZ5JSM5_4	MPREb_5CumeU4v5Qh	UCzXc13HOC0zk9lhvRvaMYBg
 238	I'm Making Eyes At You	Black Kids	Partie Traumatic	INDIFFERENT	4:30	ZgvhsRBlf1I	MPREb_5CumeU4v5Qh	UCzXc13HOC0zk9lhvRvaMYBg
 90	Crazy for You	Best Coast	Crazy for You	INDIFFERENT	1:51	R44lmbpVYAI	MPREb_RgOiVi8IQhb	UCBAYaAMrMo1FqqBB9Z3kn4g

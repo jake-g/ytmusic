@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 117	The Heart Part 5	Kendrick Lamar	Mr. Morale & The Big Steppers	LIKE	5:33	kAbhILeXwGE	MPREb_6IWMYM68N3w	UCprAFmT0C6O4X0ToEXpeFTQ
 66	Trane	niceguykyle	niceguy	INDIFFERENT	2:49	5nMQCpHNWz4	MPREb_AMgEBIa1F5j	UCRzp7s-LZoHMhSVM0Viq3rQ
-96	Tidal Wave (just a little reference)	kiLL edward	Tidal Wave (just a little reference)	INDIFFERENT	1:48	KOxU64lKHKI	MPREb_ZwvyDczs2sO	UCHGuPxq1KnE1UInCGkBkJcw
+96	Tidal Wave (just a little reference)	kiLL edward	Tidal Wave (just a little reference)	INDIFFERENT	1:48	KOxU64lKHKI	MPREb_ZwvyDczs2sO	UChjJcL3zBbTQLGh7lV0odqg
 79	Piano Trap Beethoven	josh pan	Piano Trap Beethoven	INDIFFERENT	3:14	nVAsm7e6WaE	MPREb_kX5HBix42VU	UCWxF6FfBP2QeCxyIyu9KQxQ
 32	Mad Kid (feat. Mad Kid)	iLL' J	Mad N' Smooth	INDIFFERENT	3:13	Tv53qgDqYLc	MPREb_yCkaGOBWPZD	UChDVnf7_w_nLdHlefF12eMA
 56	Take On Me (Instrumental Version)	a-ha	Karaoke Hits (Instrumental Version)	INDIFFERENT	3:49	Hb0NEt0Q9T4	MPREb_A0kjqbR1ZVj	UCx00XxqRCfPS6zaTzRm3H2A
@@ -41,8 +41,8 @@
 97	Hot Air Balloon	Owl City	Ocean Eyes (Deluxe Version)	INDIFFERENT	3:33	BRwBa4ahWqM	MPREb_qybgJFJ8CAo	UCc7qv30nl6n6ZLP8TWDKjAw
 75	Bridges	Orrow	Bridges	INDIFFERENT	3:45	32bmtW-LUtg	MPREb_rjd0wUHZPT9	UC_NqnH8ZZtO24Vx-34F3QjA
 107	Damage (Instrumental) [2020 Remaster]	Ol' Dirty Bastard	Return to the 36 Chambers: The Dirty Version (25th Anniversary Remaster)	INDIFFERENT	2:52	7IBUXdDjvW8	MPREb_h8aq8hwuiBY	UCrYJAAly5ySwMg0t-LC1r0Q
-17	Glibness	Oddplay	Wonderland	INDIFFERENT	3:54	Avxq4qOgiv4	MPREb_qIpR5nHuAXl	UCEbFE3Gaxo0JVzd1KZxr_tg
-71	Chasing Odds	Oddplay	Soundscape	INDIFFERENT	3:41	BBwSH3P0OEY	MPREb_VWzHWUoSeVL	UCEbFE3Gaxo0JVzd1KZxr_tg
+17	Glibness	Oddplay	Wonderland	INDIFFERENT	3:54	Avxq4qOgiv4	MPREb_qIpR5nHuAXl	UCH8yjDKCXxI_-KkaPv8RH2A
+71	Chasing Odds	Oddplay	Soundscape	INDIFFERENT	3:41	BBwSH3P0OEY	MPREb_VWzHWUoSeVL	UCH8yjDKCXxI_-KkaPv8RH2A
 89	Mad	Nick Pagano	Soundscape	INDIFFERENT	3:18	BMJP8r-0Hr8	MPREb_dMdLkY9H4JW	UCFfWRL0yiHd0PPm04YpK-eg
 121	Sanctuarize	Nevrness	Reorient	INDIFFERENT	2:10	Qc4NYw0JGFI	MPREb_SNI3IcxpbDl	UCrxPPrlrVxDk5OpyNlC_akw
 61	Empty Eyes	Munn	Empty Eyes	INDIFFERENT	3:08	A-vlJvGJ8J8	MPREb_HaUTQCXqR6h	UCrPTM502k2It_0uhsSxPL2w
@@ -60,7 +60,7 @@
 64	Party Eyes	Juniper Ridge	Prickly Pear Prison	INDIFFERENT	2:39	lqBZINfDjwg	MPREb_Evld5gGMCIo	UCUTNA8hY2cJgsg0RofDHrnw
 86	Robbery	Juice WRLD	Death Race For Love (Bonus Track Version)	INDIFFERENT	4:01	yokFi-oDwws	MPREb_NKzORmgWPaZ	UCbn0GRdgsQtl9hlV-IqxFGg
 23	Say You Love Me	Jessie Ware	Tough Love (Deluxe)	INDIFFERENT	4:17	FMgxocHv8n4	MPREb_jekaRPFclJO	UC53XOR2hYpVcmGmkhukIihA
-60	The Return (feat. Sadat X)	Jazz Liberatorz	Clin d'oeil	INDIFFERENT	5:15	_eGK8JH1Oqw	MPREb_8uNBBAkq66R	UCz7DdNBOAyIdc6qVos6pMyw
+60	The Return (feat. Sadat X)	Jazz Liberatorz	Clin d'oeil	INDIFFERENT	5:15	_eGK8JH1Oqw	MPREb_8uNBBAkq66R	UCOfUGQ0ZIVK8Vj903Xjw7Hg
 73	new year 1988	Instrumental Christmas Music Orchestra	2022 Christmas Songs	INDIFFERENT	1:53	Ysq-o3dqjNU	MPREb_V2aovTSX502	UCqUM7ekAt7gURoISHbs4PgA
 100	Everlasting	Huntabeats	Everlasting	INDIFFERENT	3:15	YP0SzhE4z0s	MPREb_AsaQ2V8rNXW	UC7B4PLgEjPcF49Bjw-Twt2Q
 106	I Am Who We Are	Home Brewed Universe	I Am Who We Are	INDIFFERENT	6:59	kppqJaJEfPg	MPREb_I71HJ5LvcnZ	UCYw6rsfJpbSPbUQfxeg13ow
@@ -68,14 +68,14 @@
 87	Turn Away	Helen Jane Long	Porcelain	INDIFFERENT	4:24	mz0beDI_lu8	MPREb_5sOqxlG6sHz	UCscP9LRm5_t3nnzd1DF4MRg
 99	Marilyn Monroe (Instrumental / Karaoke Version) In The Style Of Pharrell Williams	HQ INSTRUMENTALS	Marilyn Monroe (Instrumental / Karaoke Version) In The Style of Pharrell Williams	INDIFFERENT	4:27	SyuonIorWJs	MPREb_x78yZy0CtYf	UC4iLJiI7b6OTpCn99tljq0A
 88	Cool	Gwen Stefani	Love Angel Music Baby (Deluxe Version)	INDIFFERENT	3:09	apGh9uDfSTY	MPREb_caylpPEclOS	UCAuQUWRAPnCVryLUuPbMphg
-113	Star Chaser	Guy	Star Chaser	INDIFFERENT	3:00	VQ6NWRwR7vU	MPREb_DvOmJNlBWtv	UCbPqXYXixdct4uhfXIx7C7Q
-62	Just Cause - Yelawolf Type Beat (Hip Hop Guitar Instrumental)	Grim Delarosa	Just Cause - Yelawolf Type Beat (Hip Hop Guitar Instrumental)	INDIFFERENT	3:25	05MSDWdz6jU	MPREb_VQ9krd8d744	UCZtSVnc6_k9BA1hTKb51HaQ
+113	Star Chaser	Guy	Star Chaser	INDIFFERENT	3:00	VQ6NWRwR7vU	MPREb_DvOmJNlBWtv	UCnvoYGP59s90T3hemmuBvpQ
+62	Just Cause - Yelawolf Type Beat (Hip Hop Guitar Instrumental)	Grim Delarosa	Just Cause - Yelawolf Type Beat (Hip Hop Guitar Instrumental)	INDIFFERENT	3:25	05MSDWdz6jU	MPREb_VQ9krd8d744	UCumFQQW1Xl1kTjh8TzH1ALQ
 90	Inglourious Basterds- Main Theme	Geek Music	Inglourious Basterds- Main Theme	INDIFFERENT	3:50	y-0B7I1ZeD8	MPREb_NIm8XedqU7W	UCHjqGmMpR4aLr4-YygMkWRQ
 68	Life Is Good (feat. Drake)	Future	High Off Life	INDIFFERENT	3:58	6f8gDL-wPN8	MPREb_I1US56lmtAJ	UC1_liDR4fRFJgH4HoJeV8cw
 18	Opaul	Freddie Dredd	Opaul	INDIFFERENT	2:21	gSg-ZTcgUOQ	MPREb_eyvVKHvb25y	UCSPiqrbNMWj07T8IlaqEe1A
 119	Son Of Mr. Green Genes (1969 Mix Outtake)	Frank Zappa	The Hot Rats Sessions	INDIFFERENT	10:39	8dRZn4x5R_Y	MPREb_GblUAmdLwyb	UCj5ZiBBqpe0Tg4zfKGHEFuQ
 43	GO AHEAD!! (instrumental)	Folder 5	GO AHEAD!!	INDIFFERENT	4:33	o4U1ycJUvnc	MPREb_tNLdyqeC94N	UCuYHUS-72RgfqrxUZRu70Lw
-40	Brazil	Filippo Dall'asta	Mediterasian	INDIFFERENT	4:23	BvEh0NzQrYM	MPREb_ro1pe2UWYvt	UCbX6nB3wZnI-kgHAulmjFQw
+40	Brazil	Filippo Dall'asta	Mediterasian	INDIFFERENT	4:23	BvEh0NzQrYM	MPREb_ro1pe2UWYvt	UC0nejv1lMDx1UV_n9hD6bqg
 53	Pendulum	FKA twigs	LP1	INDIFFERENT	4:59	iIJt-Hel-7g	MPREb_D65pKCLlGsT	UC_iqdQXYWYi_zCcd8q2G0rQ
 33	Let's Groove (Instrumental)	Earth, Wind & Fire	Constellations: The Universe of Earth, Wind & Fire	INDIFFERENT	3:59	mnOtN1Xf7-4	MPREb_Ug2h2t3LGw7	UCdyqvgHHq9NEEfV20lO61jQ
 116	Titanic	Earl Sweatshirt	Titanic	INDIFFERENT	1:53	u0WtmcfcKLI	MPREb_mRoIcfNCOBy	UCrE_FNQxg5oXy8SLQ63Nx7A
@@ -108,9 +108,9 @@
 12	So Here We Are	Bloc Party	Silent Alarm (U.S. Version)	INDIFFERENT	3:53	YtH9mF3FSHs	MPREb_iUKPNsVzICW	UC8WZEmES6UN3w_J2XQQVm-w
 29	Banquet	Bloc Party	Silent Alarm (U.S. Version)	INDIFFERENT	3:17	P-i0jw61niE	MPREb_iUKPNsVzICW	UC8WZEmES6UN3w_J2XQQVm-w
 34	Blue Light	Bloc Party	Silent Alarm (U.S. Version)	INDIFFERENT	2:47	WxsTJutbTVI	MPREb_iUKPNsVzICW	UC8WZEmES6UN3w_J2XQQVm-w
-102	R. Strauss: Salome, Op.54, TrV 215 / Scene 4 - Salome's Dance Of The Seven Veils	Berliner Philharmoniker	Strauss: Also Sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils	INDIFFERENT	10:09	_NDTJF3rP2Q	MPREb_L2IQrwLZwmc	UCW084_r6OKr3YB9OWxydhHw
-81	daytimemoon	Attlus	daytimemoon	INDIFFERENT	2:54	MaHcj72_LQs	MPREb_CAcc1zrAegB	UCU_7uFkb-diFWbKFifOa0vg
-92	Nadine's Theme	Atli Örvarsson	The Edge of Seventeen (Original Motion Picture Soundtrack)	INDIFFERENT	3:44	IJmH9gqYPNA	MPREb_TZ5Flv4d5tW	UCcfrzVmXrJKUe6hDEx9-YLw
+102	R. Strauss: Salome, Op. 54, TrV 215 / Scene 4 - Salome's Dance of the Seven Veils	Berliner Philharmoniker	Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils	INDIFFERENT	10:09	_NDTJF3rP2Q	MPREb_L2IQrwLZwmc	UCW084_r6OKr3YB9OWxydhHw
+81	daytimemoon	Attlus	daytimemoon	INDIFFERENT	2:54	MaHcj72_LQs	MPREb_CAcc1zrAegB	UCWfhkD-oqQFGKF_9hBHrmvQ
+92	Nadine's Theme	Atli Örvarsson	The Edge of Seventeen (Original Motion Picture Soundtrack)	INDIFFERENT	3:44	IJmH9gqYPNA	MPREb_TZ5Flv4d5tW	UCRlJYZShx4FaHHIisqoLptg
 82	Adiós Nonino	Astor Piazzolla	Adiós Nonino	INDIFFERENT	8:02	ZP406JRIUsc	MPREb_px5veHprWsE	UC8lHARFoda2LKdP-ZPwLQYw
 35	nasty	Ariana Grande	Positions	INDIFFERENT	3:21	EKajhntvaZA	MPREb_l2GaeT4N6Dw	UC0076UMUgEng8HORUw_MYHA
 111	Revelation (Instrumental)	Apostate	At the Tomb of Sanity	INDIFFERENT	1:31	nWc8Y5VOMxg	MPREb_K6E2CDUvDif	UCsEbo8KUJZhBBbq6o9ZzVfg

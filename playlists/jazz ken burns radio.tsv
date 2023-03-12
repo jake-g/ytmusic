@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+13	Strange Fruit	Billie Holiday	Lady Sings The Blues	LIKE	3:03	Lx_mOECjT_8	MPREb_iSM4Hxub01w	UCW-raws5Iq2xLADkLcEoVaA
 54	Soon All Will Know	Wynton Marsalis	Marsalis Standard Time - Volume I	INDIFFERENT	3:36	QGjMpb_DHp4	MPREb_Xaltq65xrHU	UCzWGLXcvQlN_VMWJes9VYyw
 8	Birdland	Weather Report	Forecast: Tomorrow	INDIFFERENT	5:58	OG-rFE2NkhI	MPREb_QxedWy3SK0U	UCIarlYUBEI7vNYAyrt4vRlQ
-56	Memphis Blues (feat. Various Artists)	Various Artists	Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929)	INDIFFERENT	2:37	JXRS_A_vTG0	MPREb_qYsPRP40ggw	UCGMrDYDeGK_baCcB0IqfARw
 45	Well, Git It! (1990 Remastered)	Tommy Dorsey & His Orchestra	The Homefront 1941-1945	INDIFFERENT	3:01	FgiHzCiB5Aw	MPREb_kl5K9Dt708q	UCxDQrM2JMfe1aVujAnaNlbw
 51	Straight No Chaser	Thelonious Monk	Genius Of Modern Music (Vol. 2)	INDIFFERENT	2:56	HD6xopw26Go	MPREb_NUEphlVlXAJ	UCyCL_gVNVoWZTjkw-KnuIDg
 84	Epistrophy	Thelonious Monk	’Round Midnight: The Complete Blue Note Singles 1947-1952	INDIFFERENT	3:08	UL9qQBWEEgo	MPREb_1dtwrM6mleO	UCyCL_gVNVoWZTjkw-KnuIDg
@@ -15,7 +15,7 @@
 21	Chronology	Ornette Coleman	Beauty Is A Rare Thing- The Complete Atlantic Recordings	INDIFFERENT	6:04	zUl32wJukmM	MPREb_UWDA1zRHTeZ	UCMD_nRrrkezVzMumc1hBuwQ
 57	Livery Stable Blues	Original Dixieland Jazz Band	1917-36	INDIFFERENT	3:08	AbFp0fiqLBQ	MPREb_x8zTWgKYrxR	UC5xpN0kVYBy30cptkpd9pwQ
 78	Dear Old Southland	Noble Sissle & His Orchestra	Ken Burns Jazz-The Story Of America's Music	INDIFFERENT	2:35	WauhpJOdRZI	MPREb_ALxELrsw9O1	UC0Q8feogQ2d4XlML0SbJwmg
-4	Soon One Mornin'	Mississippi Fred McDowell	Ole Miss Blues	INDIFFERENT	3:14	i3sf67o_Z24	MPREb_TaKa1hznxSm	UCbNXWMxWD39iFkSGr1auS2g
+4	Soon One Mornin'	Mississippi Fred McDowell	Ole Miss Blues	INDIFFERENT	3:14	i3sf67o_Z24	MPREb_TaKa1hznxSm	UCTwFXJVwnesbLQRNOTvYPGw
 2	Spanish Key (single)	Miles Davis	Bitches Brew (Legacy Edition)	INDIFFERENT	2:50	cHqwPoPFQ0I	MPREb_2OQ7oaNSBJh	UCIev2PktTH5mI-QlGmbUkiw
 25	So What (Live)	Miles Davis		INDIFFERENT	9:07	zqNTltOGh5c		UCIev2PktTH5mI-QlGmbUkiw
 29	E.S.P. (feat. Wayne Shorter & Herbie Hancock)	Miles Davis	E.S.P.	INDIFFERENT	5:34	lRhqn21-xeg	MPREb_LVe9i4KxDto	UCIev2PktTH5mI-QlGmbUkiw
@@ -34,7 +34,7 @@
 18	A Love Supreme, Pt. I – Acknowledgement	John Coltrane	A Love Supreme	INDIFFERENT	7:42	TMvbUKqWYEs	MPREb_d0lggJKktFo	UCH4T2kv7rr9qnuP0DOXLxMA
 26	Giant Steps	John Coltrane	Giant Steps (Mono)	INDIFFERENT	4:47	g8QnKWPYRCs	MPREb_BJKgP7wXKcO	UCH4T2kv7rr9qnuP0DOXLxMA
 72	For Dancers Only	Jimmie Lunceford & His Orchestra	Black Legends Of Jazz	INDIFFERENT	2:40	73kHt69Z_mw	MPREb_WVxTzHHdkX0	UCk_oOOfuHWGhqlYrCB9_aVQ
-60	Dead Man Blues	Jelly Roll Morton	The Sound of New Orleans, Vol. 1 (Original Jazz Sound)	INDIFFERENT	3:19	BgcJNjGb248	MPREb_tY5yvaaPZmQ	UCiKpyur6AJCOyJx_ZoINNiw
+60	Dead Man Blues	Jelly Roll Morton	The Sound of New Orleans, Vol. 1 (Original Jazz Sound)	INDIFFERENT	3:19	BgcJNjGb248	MPREb_tY5yvaaPZmQ	UCuI6yTUW63rPOR72F5xyaMQ
 48	Charleston	James P. Johnson	Charleston	INDIFFERENT	1:47	NkUVW3NuolM	MPREb_rVo6bTIO5Kl	UCw2eX64araFW9wUao7cBphg
 33	Doodlin'	Horace Silver And The Jazz Messengers	The Best Of Horace Silver	INDIFFERENT	6:48	N1EYT7hDqWc	MPREb_UGLH6IpACQJ	UC834B7DbQ6WZzigm4UCwuKg
 0	Rockit (Official Video)	Herbie Hancock		INDIFFERENT	3:23	GHhD4PD75zY		UCq_O_14tCKbx9U9uUT_LEPA
@@ -46,7 +46,8 @@
 69	Riverboat Shuffle (feat. Bix Beiderbecke)	Frankie Trumbauer & His Orchestra	Bix Beiderbecke, Volume I: Singin' The Blues	INDIFFERENT	3:08	mCVmXZ5zDIU	MPREb_uqXTz0sabmh	UC0s7YmgZcGKXdUTF-IoCGSw
 70	Hotter Than? Ell	Fletcher Henderson and His Orchestra	Wild Party (The Essence Of Swing)	INDIFFERENT	2:56	TzIq0Mw7GiQ	MPREb_hp9wlMbwtqV	UCXemqs0yHEEoKxSsnuLFJpg
 63	Sugar Foot Stomp	Fletcher Henderson	The Fletcher Henderson Story	INDIFFERENT	3:18	hOFEi8Gzv1U	MPREb_qn6jdZZ1SIR	UCXemqs0yHEEoKxSsnuLFJpg
-59	The Pearls	Ferd 'Jelly Roll' Morton	1923-1926	INDIFFERENT	2:47	XmOUQh1-FvA	MPREb_DoAKV1SEfK5	UCiKpyur6AJCOyJx_ZoINNiw
+59	The Pearls	Ferd 'Jelly Roll' Morton	1923-1926	INDIFFERENT	2:47	XmOUQh1-FvA	MPREb_DoAKV1SEfK5	UCuI6yTUW63rPOR72F5xyaMQ
+56	Memphis Blues	Europe Society Orchestra	Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929)	INDIFFERENT	2:37	JXRS_A_vTG0	MPREb_qYsPRP40ggw	UCEXBjPUCgPPg_-u9t0ZjeUg
 3	I Got Rhythm	Ethel Waters	Favorite Blues of All Time	INDIFFERENT	3:07	7jaEpi74I80	MPREb_zmuUqMb5Gal	UCJ-kTJBYqO5ucEdev0koDjQ
 42	A Tisket A Tasket	Ella Fitzgerald	Love, Ella	INDIFFERENT	2:38	no4kc9cMndM	MPREb_JxbyWI5E2tF	UCuMHq8jMRZXpUxSGLBuCa9g
 79	Cotton Tail	Duke Ellington and His Famous Orchestra	Never No Lament: The Blanton-Webster Band	INDIFFERENT	3:12	Bq5LRQIJx3k	MPREb_QQnZ1Kva1oi	UCvwUPRgFawNNBdQg497gHJw
@@ -63,7 +64,7 @@
 32	Tanya	Dexter Gordon	One Flight Up	INDIFFERENT	18:19	TLgwySiWApQ	MPREb_FIi7ArAEMVu	UCnH1LrQs42YLOQnpdoUYvdA
 39	Lester Leaps In	Count Basie's Kansas City Seven	The Real Kansas City Of The '20s, '30s & '40s	INDIFFERENT	3:13	yKmWN15IY30	MPREb_5PQqhS20SIp	UC2C5LKX_qE6BzyMehXA0ClA
 38	Jumpin' At The Woodside	Count Basie And His Orchestra	The Complete Decca Recordings	INDIFFERENT	3:11	qL0Cy4Dyaac	MPREb_ULxUgy7IL3O	UC2C5LKX_qE6BzyMehXA0ClA
-73	Oh, Lady, Be Good! (feat. Jones-Smith, Incorporated, Jones-Smith & Incorporated)	Count Basie	Ken Burns Jazz-The Story Of America's Music	INDIFFERENT	3:06	PyUWXY-2IGM	MPREb_ALxELrsw9O1	UC2C5LKX_qE6BzyMehXA0ClA
+73	Oh, Lady, Be Good! (feat. Jones-Smith, Incorporated)	Count Basie	Ken Burns Jazz-The Story Of America's Music	INDIFFERENT	3:06	PyUWXY-2IGM	MPREb_ALxELrsw9O1	UC2C5LKX_qE6BzyMehXA0ClA
 15	Body and Soul	Coleman Hawkins	Jazz Giants	INDIFFERENT	3:02	lBSLGX4bWS8	MPREb_2HNityWg21x	UCaqOj5uQl-733nBtBpEEGBw
 22	I Get A Kick Out Of You	Clifford Brown	Brown And Roach Incorporated	INDIFFERENT	7:38	WNnpsl48CVE	MPREb_O0NEPF2Zalh	UCQFCMVgOtWDn5Vd3Nt1SRfQ
 61	Wild Cat Blues (feat. Sidney Bechet)	Clarence Williams' Blue Five	Jazz: The Definitive Performances	INDIFFERENT	2:59	Xk27VU4xfDI	MPREb_VspSDbW4kX5	UCRzK8xIBFeMX3dZsFb6PzBg
@@ -79,7 +80,6 @@
 50	I Want To Be Happy (Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster)	Bud Powell	The Amazing Bud Powell	INDIFFERENT	2:54	C2DFplwLR6U	MPREb_pvaaVpRDaRZ	UCsyeGJfR7t0QBrNUl7c36gw
 40	Without Your Love (Take 1)	Billie Holiday & Her Orchestra	Ken Burns Jazz-The Story Of America's Music	INDIFFERENT	2:52	FhMuNmcZiec	MPREb_ALxELrsw9O1	UCW-raws5Iq2xLADkLcEoVaA
 5	Fine and Mellow	Billie Holiday	Ken Burns Jazz-The Story Of America's Music	INDIFFERENT	8:02	kr4DYFw4kJc	MPREb_ALxELrsw9O1	UCW-raws5Iq2xLADkLcEoVaA
-13	Strange Fruit	Billie Holiday	Lady Sings The Blues	INDIFFERENT	3:03	Lx_mOECjT_8	MPREb_iSM4Hxub01w	UCW-raws5Iq2xLADkLcEoVaA
 41	God Bless the Child (feat. Eddie Heywood and His Orchestra)	Billie Holiday	Billie Holiday (The Indispensable Greatest Hits)	INDIFFERENT	2:54	SLdjvoDKaXI	MPREb_fQ2IbXI548I	UCW-raws5Iq2xLADkLcEoVaA
 46	Solitude	Billie Holiday	Falling In Love Again	INDIFFERENT	3:18	mb2Df-2Mdgk	MPREb_ic2lIzoJZHE	UCW-raws5Iq2xLADkLcEoVaA
 75	Rebecca	Big Joe Turner	Miss Brown Blues	INDIFFERENT	2:40	GsuSppa__Qs	MPREb_aLtn42uITiY	UCRneEQ55dXpMn1hoEcigCEA

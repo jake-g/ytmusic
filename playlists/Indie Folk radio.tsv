@@ -21,6 +21,7 @@
 373	Poke	Frightened Rabbit	The Midnight Organ Fight	LIKE	4:37	erwmxg_tqJM	MPREb_NL3cdpReDKw	UCq7GLwCeZCu6HdGabZG64sA
 223	Emmylou	First Aid Kit	The Lion's Roar	LIKE	4:18	9Zr3A23857Q	MPREb_s90FxSxuWmX	UC5Ziwoo7xz2i-vKsgKcm-kQ
 428	Run	Daughter	Smother	LIKE	4:07	ecbe_UQDIfg	MPREb_Po3dTFc8sIl	UCBlrV-yC9iu2tQvrCAd4opA
+187	Boots of Spanish Leather	Bob Dylan	The Times They Are A-Changin'	LIKE	4:38	0_-56W5t-nY	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
 208	3 Rounds and a Sound	Blind Pilot	3 Rounds and a Sound	LIKE	4:27	kDMhAG3yBVE	MPREb_iO2O3yTzkb4	UCCoCyEztEqzooOfnqSknjOA
 366	Indians Never Die	Black Belt Eagle Scout	Mother of My Children	LIKE	4:30	SV8MuWqYiBw	MPREb_IsBklRBPnYo	UCJ-j-SIfFkfpvL3VdElJBdw
 410	Old Pine	Ben Howard	Every Kingdom (Deluxe Edition)	LIKE	5:28	Coj1Nb2DY_w	MPREb_AZfTZnmHPug	UCdrYSE8i5VS1HwtXJBnWJ8A
@@ -28,8 +29,7 @@
 350	Only Son of the Falling Snow	Bear's Den	Only Son of the Falling Snow	LIKE	4:34	ZtiCxp65KQY	MPREb_IYkbzxol6Go	UCVjOexgiO1DQURNXdNBdCzw
 230	The Suburbs	Arcade Fire	The Suburbs (Deluxe)	LIKE	5:17	BWuYbxdrJoA	MPREb_HfNofHHa8uc	UCXvAK640Ko85SLbI-zA0ZCg
 0	New Song	אוהד פילו - Ohad Pilo	New Song	INDIFFERENT	3:27	jVR0TnW5MI8	MPREb_5T4OQdPBOr5	
-389	How It Turns Out	vinnyrn	Ways Out	INDIFFERENT	2:31	KuUtU1xreTQ	MPREb_yNgn8bMCTfm	UCczFj9XtWEypacC9O6dxN7w
-63	Salivating Sun	stevenvsnothingness	Salivating Sun	INDIFFERENT	3:04	TiB_2vPgtMQ	MPREb_Z2xzSC9BSGs	UCjMVNNrCIcFJaYvO-TONAgA
+389	How It Turns Out	vinnyrn	Ways Out	INDIFFERENT	2:31	KuUtU1xreTQ	MPREb_yNgn8bMCTfm	UCkf466oS2CUVNMVi6wHRvqA
 326	Dance for a While	Zach Kleisinger	Dance for a While	INDIFFERENT	2:53	5lDfiRr40Hc	MPREb_gQFz1lCiyD8	UCYfO_wNSgeL8w_5zla6kKmA
 93	Strings (2020 Remaster)	Young the Giant	Young The Giant (10th Anniversary Edition)	INDIFFERENT	4:11	B_gbapQt3Wg	MPREb_2UNP8EGtQby	UC7xy1_cEwDPN2Ffk1fyFbIQ
 533	Magicians	Young Jesus	Welcome to Conceptual Beach	INDIFFERENT	10:10	Rw1iw1rK4bA	MPREb_PNOfcRVQwNr	UCOhb9CgbrDccpZTcExg6gvA
@@ -65,8 +65,8 @@
 144	Gasoline	Trampled By Turtles	Palomino	INDIFFERENT	3:00	WSs3UYlZo1k	MPREb_vIld2wBPfKk	UCTawkKEDqVN4Ef2lye8ohqA
 156	Albert Camus	Tom Rosenthal	Albert Camus	INDIFFERENT	3:21	iecCLEI7yRw	MPREb_wKf3dHszqBt	UCv4W7oFg_kWGldChEpqs3rA
 159	One Million Flowers	Tiny Ruins	Olympic Girls	INDIFFERENT	4:15	lnhGwaQPXn4	MPREb_NcQcGQHeLCD	UC957ZUYp2amrY5CSm8Yjl_Q
-178	Long Fortune	Thorn Haze	Long Fortune	INDIFFERENT	3:12	SPLST72eAaM	MPREb_WJlIr2XwEOP	UCBelmbRNMtpD1dzL0TWItMA
-478	Electronic Stars	Thorn Haze	Electronic Stars	INDIFFERENT	2:32	e6VVg5w1CsQ	MPREb_Jw16bw4RrPq	UCBelmbRNMtpD1dzL0TWItMA
+178	Long Fortune	Thorn Haze	Long Fortune	INDIFFERENT	3:12	SPLST72eAaM	MPREb_WJlIr2XwEOP	UCYxJ1HPkcwnFjw1WB63a8BA
+478	Electronic Stars	Thorn Haze	Electronic Stars	INDIFFERENT	2:32	e6VVg5w1CsQ	MPREb_Jw16bw4RrPq	UCYxJ1HPkcwnFjw1WB63a8BA
 400	an artist in the rain (demo)	Thistle Street	an artist in the rain (demo)	INDIFFERENT	3:08	E7K45WFkBb4	MPREb_sEcdPk8Kpjh	UCVB-v1DStcYkyfb59goum4w
 84	Moonshine Freeze	This Is the Kit	Moonshine Freeze	INDIFFERENT	3:42	BlJzE5p9cFA	MPREb_mvUQAEN16uN	UC_DKYQzsRRfaBfcG8Lyu1zw
 406	Was Magician	This Is the Kit	Was Magician	INDIFFERENT	4:27	hrXmtjaOAGs	MPREb_ptDvFWlXmZt	UC_DKYQzsRRfaBfcG8Lyu1zw
@@ -120,7 +120,7 @@
 132	The Darkest Side	The Middle East	The Recordings of the Middle East	INDIFFERENT	5:08	IO-45YvYS4s	MPREb_tOa9kGfx1MQ	UCnL4ix-j0t9RMidhmUPifPw
 334	Blood	The Middle East	The Recordings of the Middle East	INDIFFERENT	5:27	9FxfjJa_24g	MPREb_tOa9kGfx1MQ	UCnL4ix-j0t9RMidhmUPifPw
 99	Salt and the Sea	The Lumineers	Jimmy Sparks	INDIFFERENT	4:31	A1YPd-YoUGQ	MPREb_anL1ylqMHK6	UCMcghb8JhNIYntWea9QKFGA
-213	Big Parade	The Lumineers	The Lumineers (Deluxe Edition)	INDIFFERENT	5:28	h74QKcEHRGI	MPREb_yMn4gBJtpdA	UCMcghb8JhNIYntWea9QKFGA
+213	Big Parade	The Lumineers	The Lumineers	INDIFFERENT	5:26	Rn0MyYh0HiI	MPREb_HMVaGh83kR2	UCMcghb8JhNIYntWea9QKFGA
 449	Here's a Health to the Company	The Longest Johns	Cures What Ails Ya	INDIFFERENT	4:11	uZOJZsxECNw	MPREb_qcaa3PtW5DM	UCPtgd_D0BIXZX2XbDely3BQ
 333	Switzerland	The Last Bison	Inheritance (EP)	INDIFFERENT	5:10	wOnUNSHbsfg	MPREb_a6wW5U0tRax	UC7eZly9-0OGJpFBNhOeyjPw
 3	On Your Side	The Innocence Mission	See You Tomorrow	INDIFFERENT	3:35	ofJSC0xCIJ0	MPREb_i5AkwbXnQUA	UCClp5LLc1LGVhH02fKxcpoQ
@@ -155,7 +155,8 @@
 194	Only Thinking of You	Ten Kills the Pack	Life, Death, & Afterwards	INDIFFERENT	2:54	BZykK9bAyCY	MPREb_ystLBK2K7Mc	UCY2IjAECzFOHEvM58uySf3Q
 13	The Mountain	Tall Heights	The Mountain	INDIFFERENT	3:52	Oz2DOopPnV4	MPREb_46dt4eWLlLr	UCsbvg5HeOP2WMO8g5ExmpIg
 29	Young Liars	TV on the Radio	Young Liars	INDIFFERENT	5:12	9YfbARlUsoE	MPREb_eUmj8S9yQZ4	UCyRprZQCBFlc-lMRR2uQq-Q
-515	Turning Page	Sydney Rose	Turning Page	INDIFFERENT	3:39	-4kjBuaUI1I	MPREb_4Sx9HckgY1t	UCu8qXQR_QcmeZOVcdnBS1Cw
+515	Turning Page	Sydney Rose	Turning Page	INDIFFERENT	3:39	-4kjBuaUI1I	MPREb_4Sx9HckgY1t	UCUsDisMrsXy3aAoVkQFwKOw
+133	Maze	Sunday Antiques	Maze	INDIFFERENT	5:12	pNP5YSetx5M	MPREb_9lEFlAs7nNP	UCKriV5FWTrOvexyhrQM05FA
 108	Ocean Breathes Salty	Sun Kil Moon	Tiny Cities	INDIFFERENT	4:37	0Vh7Bo0brsQ	MPREb_zUJvmfEz2yP	UCKV-LtkbVqsjBrAAzDyWc6w
 143	Carissa	Sun Kil Moon	Benji	INDIFFERENT	6:55	BSaUXsaBnI8	MPREb_70OMHp9tFC8	UCKV-LtkbVqsjBrAAzDyWc6w
 527	Carry Me Ohio	Sun Kil Moon	Ghosts of the Great Highway	INDIFFERENT	6:22	2bFCNJx-BpM	MPREb_qbgy9EO9LjQ	UCKV-LtkbVqsjBrAAzDyWc6w
@@ -215,7 +216,7 @@
 353	Wildfires	Rosa Lavenne	Wildfires	INDIFFERENT	3:56	xu-Op-IA2b0	MPREb_R0wOyotjfK5	UCQ5eqbQlsxzv1H9B0_8oDqw
 401	Anyone	Rosa Lavenne	Anyone	INDIFFERENT	3:41	SL9qTZkP66Q	MPREb_4euXQYC7TxS	UCQ5eqbQlsxzv1H9B0_8oDqw
 403	Jubilation	Rosa Lavenne	Jubilation	INDIFFERENT	3:51	GVJmYAtSw-c	MPREb_snG1mZzWL4p	UCQ5eqbQlsxzv1H9B0_8oDqw
-188	In the Rows	Robert Leslie	In the Rows	INDIFFERENT	2:53	Qe0k0AnluuI	MPREb_Vg9OZyh70Fb	UCn59I325BaAT-FJ-6dORvBA
+188	In the Rows	Robert Leslie	In the Rows	INDIFFERENT	2:53	Qe0k0AnluuI	MPREb_Vg9OZyh70Fb	UCrfvRPgcqdP-9thEaqHt_0Q
 365	Poor Johnny	Robert Cray	Twenty	INDIFFERENT	5:01	n9oheVmmV6Q	MPREb_09lVYRnH5sK	UCqxbcMT-psXS09fi0csDkWg
 453	Bitterness	Robbie Miller	Little Love	INDIFFERENT	3:13	XwHo9vccG6Y	MPREb_3MtAqGVTCbe	UCxm7xQBFYNblNbU-mfyclPw
 26	As It Should Be	River Roots	As It Should Be	INDIFFERENT	3:53	hKQdl-IaXxM	MPREb_zFfbYN27Zlf	UCjEbp6BRb_X9uVwAHg6gKxA
@@ -287,7 +288,7 @@
 36	The First Time I Ran Away	M. Ward	A Wasteland Companion	INDIFFERENT	3:17	BK4HNTxEhKU	MPREb_Aj44Rk4TCjN	UCUH86WXWeBLgdKEwel2Agig
 384	Heaven's Nail and Hammer	M. Ward	Migration Stories	INDIFFERENT	4:43	zUv4FgwB_yk	MPREb_vzo25LDuKhR	UCUH86WXWeBLgdKEwel2Agig
 294	Dance, Dance, Dance	Lykke Li	Youth Novels	INDIFFERENT	3:42	U6x7x3DnfGU	MPREb_h7sLu4CxeXg	UCT5O41GykmKuyD2lQlwm5DA
-483	Nothing the King	Luke De-Sciscio	Extended folk boy playlist	INDIFFERENT	4:33	WxmTKGpohsM	MPREb_ZBpm6ODhA9Q	UCwI3j88xGdm0Ji4KBCWaaTw
+483	Nothing the King	Luke De-Sciscio	Extended folk boy playlist	INDIFFERENT	4:33	WxmTKGpohsM	MPREb_ZBpm6ODhA9Q	UCCB5fcjbnys2XDCCjsEZSpw
 173	Place	Lucy Rose	Like I Used To (Deluxe Edition)	INDIFFERENT	3:49	SNERdolT5UM	MPREb_XzvxUs6HVgD	UCHa3H70CsNHC_2htqz9sNyg
 218	Middle of the Bed	Lucy Rose	Like I Used To	INDIFFERENT	3:12	7314RvnKAHc	MPREb_8bKllg6udOS	UCHa3H70CsNHC_2htqz9sNyg
 341	Place (Live at Urchin Studios)	Lucy Rose	Live at Urchin Studios	INDIFFERENT	3:34	e1eH3LNDzcw	MPREb_ZYybSYlwFCV	UCHa3H70CsNHC_2htqz9sNyg
@@ -307,8 +308,8 @@
 473	Wooly Mammoth	Local Natives	Hummingbird	INDIFFERENT	3:26	XKDryKOPVYQ	MPREb_wrx175M5q4J	UCZGPl54hjSOMbVgCAJfpEeg
 110	The Kitchen Floor	Little Green Cars	Absolute Zero	INDIFFERENT	5:22	El_3KK8TPTQ	MPREb_PDHrEj6U4rL	UC8ilhuA8DJrHsn6pDIsNwng
 239	Wooden Heart	Listener	Wooden Heart	INDIFFERENT	4:08	1nnSVL9Xzs0	MPREb_aznnXmTle2V	UCJbNGDGetajQpWpfB-yQaMw
-537	Don't Stop	Lisa Ekdahl	Give Me That Slow Knowing Smile	INDIFFERENT	3:32	xKzFYp-H8A8	MPREb_f68mxR3gYRc	UCnfXCF2APY2IGxXYiYQb8Pw
-558	One Life	Lisa Ekdahl	Give Me That Slow Knowing Smile	INDIFFERENT	4:19	1m7pCJQHkZM	MPREb_f68mxR3gYRc	UCnfXCF2APY2IGxXYiYQb8Pw
+537	Don't Stop	Lisa Ekdahl	Give Me That Slow Knowing Smile	INDIFFERENT	3:33	xKzFYp-H8A8	MPREb_f68mxR3gYRc	UCnfXCF2APY2IGxXYiYQb8Pw
+558	One Life	Lisa Ekdahl	Give Me That Slow Knowing Smile	INDIFFERENT	4:20	1m7pCJQHkZM	MPREb_f68mxR3gYRc	UCnfXCF2APY2IGxXYiYQb8Pw
 306	Dancing Trees	Lisa Akuah	Dancing Trees	INDIFFERENT	3:31	s0ZBhh1aMgc	MPREb_c7Eq5rovnnB	UC7IXsuf3T1DKgg3MqIG7Mag
 234	Standing on the Moon	Lera Lynn	The Avenues	INDIFFERENT	4:21	v4tkWuJQ7vU	MPREb_vLdotgvZA5O	UCAZ8ZCGxG4LDqYmjfZWiS9Q
 278	My Least Favorite Life (From The HBO Series True Detective)	Lera Lynn	True Detective (Music From The HBO Series)	INDIFFERENT	3:29	CTTWgwjMPJk	MPREb_Qs9PHPBz3uI	UCAZ8ZCGxG4LDqYmjfZWiS9Q
@@ -343,7 +344,7 @@
 472	Like a Star	Karl McCann	Ruptured Dreams	INDIFFERENT	4:47	Dp9fvuCzrXA	MPREb_OgqTNeLUkBW	UCUv94rbPHcWA7iC3dwreLZA
 437	Colonize the Moon	Juniper Ridge	Colonize the Moon	INDIFFERENT	2:50	6Qnj-D0o6ug	MPREb_aA699nref3o	UCUTNA8hY2cJgsg0RofDHrnw
 201	Something (Audiotree Live Version)	Julien Baker	Julien Baker on Audiotree Live	INDIFFERENT	4:00	yegz7jAjJTw	MPREb_Sj4Q9phSo1G	UC93QsTG5LEfU3zpP87XvQSA
-260	Something	Julien Baker	Sprained Ankle	INDIFFERENT	3:53	wU15wGpZzvQ	MPREb_Ri5WroDhuwb	UC93QsTG5LEfU3zpP87XvQSA
+260	Something	Julien Baker	Sprained Ankle	INDIFFERENT	3:53	Sb-7-19t4rk	MPREb_DkGuI9NAnsM	UC93QsTG5LEfU3zpP87XvQSA
 269	Faith Healer	Julien Baker	Faith Healer	INDIFFERENT	2:55	r2qat5NKWx8	MPREb_42qlWhCigcK	UC93QsTG5LEfU3zpP87XvQSA
 539	Tokyo	Julien Baker	Tokyo	INDIFFERENT	3:43	Ae9WpDmTFvQ	MPREb_wlXUThQtSS3	UC93QsTG5LEfU3zpP87XvQSA
 521	Pool Party	Julia Jacklin	Pool Party	INDIFFERENT	4:16	QR08hr9ufOo	MPREb_fl3YrLtX4ol	UCypJMo2Ed63_4gvbtwkrgVw
@@ -370,14 +371,13 @@
 243	Cold Hard Cash	Jeremy Benjamin	Cold Hard Cash	INDIFFERENT	3:43	LobDlg1al7M	MPREb_WtNrK8oVxnF	UClQRzGb0XKhVnCkJnFR8N1Q
 529	Wolves	Jensen McRae	Who Hurt You?	INDIFFERENT	3:56	Ih9kN_zTrMc	MPREb_Q8jeGXz0iD9	UCVZE8FdtdU-8xiKWfJV9nlg
 481	Love Is The King	Jeff Tweedy	Love Is The King	INDIFFERENT	4:47	YP0_3CcFhyc	MPREb_2Za9opf50rN	UCBTNjh7tNSvoOwEvYeqWY0g
-128	Animal	Javier Dunn	Animal	INDIFFERENT	3:35	ElxL4pXED1M	MPREb_JzwOu9fDf7h	UC-MzSKLp0SDCh1ydDfscGjQ
+128	Animal	Javier Dunn	Animal	INDIFFERENT	3:35	ElxL4pXED1M	MPREb_JzwOu9fDf7h	UCQZIq6okZvWhUlp6M9dUskw
 217	No Hand Was at the Wheel	Jason Molina	Autumn Bird Songs	INDIFFERENT	3:52	cv9vkqkkuoA	MPREb_z87HI71vfGE	UCBuoLrelQ7JArlNob0QDykQ
 386	This Old Dark Machine	James Vincent McMorrow	Early in the Morning (Bonus Version)	INDIFFERENT	4:15	HVbAcxx2gO4	MPREb_e3r77D1aEig	UC0uhPFmYhU1nNuikoemDUug
 545	Lightning Bolt	Jake Bugg	Jake Bugg	INDIFFERENT	2:25	3kXRkLRsmKY	MPREb_hdk2rvfqXNx	UCWkdwDorGsq7xdLUOQ3iXmQ
 44	Beyond This Wall	Jake Blount	Spider Tales	INDIFFERENT	3:26	LqQuN3kYRIY	MPREb_BGAwxaSaMgT	UCNfQDWWJtoQl8YdKMQ3oaLw
 141	Save The World	JOHN GARNER	Save The World	INDIFFERENT	3:27	m8RA5yTISTY	MPREb_VvN7TZy51X2	UCgXUxQhG40lwGYGnkhtC9Jg
 148	Til Flowers Bloom	J Flint	Til Flowers Bloom	INDIFFERENT	3:51	s16ibifZdeE	MPREb_avlqmPaGqIt	UC9lekkXsuhuKwFn396oSpIQ
-446	Running For Cover	Ivan & Alyosha	All the Times We Had	INDIFFERENT	3:56	S1P2vKqc2ws	MPREb_b9QcEyOAoxp	UCtQz8r8VXMbPWFNlmKeFzCw
 416	The National Bird of India	Isobel Campbell	There is No Other…	INDIFFERENT	4:37	uCu_Xk9nmVc	MPREb_8bcIfCrvkDv	UCk5_hLQmjK863_ynE-F_qoA
 38	Upward Over the Mountain	Iron & Wine	The Creek Drank the Cradle	INDIFFERENT	5:56	lwMsm6h-0u0	MPREb_X5cJndTs4Rd	UCbPM7GBZG0U7Fz5FsnoUIag
 105	The Trapeze Swinger	Iron & Wine	Around the Well	INDIFFERENT	9:32	1cKKVz6GEVs	MPREb_A7E5NBOUwo3	UCbPM7GBZG0U7Fz5FsnoUIag
@@ -386,18 +386,17 @@
 424	Naked As We Came	Iron & Wine	The L Word: The Second Season	INDIFFERENT	2:34	y7h1l2SHzqA	MPREb_FaVudFO1nST	UCbPM7GBZG0U7Fz5FsnoUIag
 512	Biting Your Tail	Iron & Wine	Walking Far From Home	INDIFFERENT	3:41	bo3ychUaPpQ	MPREb_RzSCuHjKW2W	UCbPM7GBZG0U7Fz5FsnoUIag
 352	Peach Stone	Indoor Foxes	Peach Stone	INDIFFERENT	4:19	A9Hextx7zDc	MPREb_J3MqhH4FQjI	UCMvchiLpeVSAN3vgJY12xUg
-160	Bones	In the Pines	Bones	INDIFFERENT	5:06	rtIp4BRc_CA	MPREb_o327VXmNjUR	UCJamAKYGHJkmz_MkAsOkH3A
+160	Bones	In the Pines	Bones	INDIFFERENT	5:06	rtIp4BRc_CA	MPREb_o327VXmNjUR	UCBtwl6Nk2N5TE3Hv-6bH1NQ
 561	Sera in Italia	Ideini	Sera in Italia	INDIFFERENT	3:12	pESoOC5Pcic	MPREb_byjMRWqpGjU	UCp9R3dezEv3auUIdSzB-Shg
 265	Hungry Ghost	Hurray For The Riff Raff	The Navigator	INDIFFERENT	3:26	UYcvh2zTdPE	MPREb_0JraWHBSZmB	UCpDeHPntpUS7mEnESy9odmQ
 425	The Body Electric	Hurray For The Riff Raff	Small Town Heroes	INDIFFERENT	2:49	EGGa8v0snGc	MPREb_vvZ0ymWONQY	UCpDeHPntpUS7mEnESy9odmQ
 245	Work Song	Hozier	Hozier (Expanded Edition)	INDIFFERENT	3:50	EtdapG2ABQ0	MPREb_jwJuEsB8Nu8	UCA3Zs9A2IeetfGT3Omi9ivw
 439	From Eden	Hozier	Hozier (Expanded Edition)	INDIFFERENT	4:44	O38FedIEUBg	MPREb_jwJuEsB8Nu8	UCA3Zs9A2IeetfGT3Omi9ivw
 357	Trouble	Hope Sandoval and the Warm Inventions	Through The Devil Softly	INDIFFERENT	5:22	9X0Zidf_bhk	MPREb_2RVWZhcxoVC	UCY9nbU7NERWoY4rVZ4-jxoA
-175	Open Season	High Highs	Open Season [Deluxe Edition]	INDIFFERENT	3:51	vjmp41vxfZ0	MPREb_jzpKqt2IF7i	UCL94IQ2EHdfZYUCMmHQWr_A
+175	Open Season	High Highs	Open Season (Deluxe Edition)	INDIFFERENT	3:51	vjmp41vxfZ0	MPREb_jzpKqt2IF7i	UCL94IQ2EHdfZYUCMmHQWr_A
 196	Lyla	Hige Kuma	Lyla	INDIFFERENT	2:02	TEzoxP_iqvQ	MPREb_WzJl33zo9Gi	UCIxfwGaLkMakDzSgeQe642Q
 111	Sunlit Juice	Henry Jamison	The Wilds	INDIFFERENT	2:52	pfu--Us_cpI	MPREb_SkSu27mrEzX	UC5FS92Vpp5brywPJRK_6uOg
 413	Low Low Low	Heartless Bastards	Arrow	INDIFFERENT	5:04	-ZPEvwgAvko	MPREb_gzYvGcqOyD9	UC8XXOUgBXUvvv8ZE8okeUmw
-133	Maze	Harry Hons	Maze	INDIFFERENT	5:12	pNP5YSetx5M	MPREb_9lEFlAs7nNP	UCKriV5FWTrOvexyhrQM05FA
 28	The Stable Song	Gregory Alan Isakov	Gregory Alan Isakov with the Colorado Symphony	INDIFFERENT	6:09	bqCRtvLxdHA	MPREb_8AUzxHEFLln	UCiLwv1oZ3MGbdZHVYoKYYUQ
 120	Amsterdam	Gregory Alan Isakov	The Weatherman	INDIFFERENT	3:19	MyIF2A2CQa4	MPREb_6cPXbWeCTpG	UCiLwv1oZ3MGbdZHVYoKYYUQ
 161	The Universe	Gregory Alan Isakov	The Weatherman	INDIFFERENT	4:17	dB4ZTGUsfxY	MPREb_6cPXbWeCTpG	UCiLwv1oZ3MGbdZHVYoKYYUQ
@@ -463,7 +462,7 @@
 339	Taking a Page	Devendra Banhart	Ma	INDIFFERENT	3:36	9JRkIurkaVY	MPREb_slTGxyj6GXf	UCOWhG8hIkXbA9f_yMDPtQhg
 516	Ashamed	Deer Tick	War Elephant	INDIFFERENT	2:13	TILo-c-mpGE	MPREb_joOrlXcmCqG	UCEfnosbF_Cfm4fTlOzodOVQ
 340	Rosewood	Davis John Patton	Songs from Davis	INDIFFERENT	4:01	5hGePyPGmHQ	MPREb_HVOuNpql5PN	UCpfYABIQrtXDH98qo-1vDSA
-112	South of the South	David Dondero	South of the South	INDIFFERENT	5:12	HYZyr8f4bdo	MPREb_PhT0RvtD18q	UCgnmLBaSfixl-uFOlGq8iTA
+112	South of the South	David Dondero	South of the South	INDIFFERENT	5:12	HYZyr8f4bdo	MPREb_PhT0RvtD18q	UCl6gj7L-OYUyoqJGXTeC4vg
 423	Hard To Be	David Bazan	Curse Your Branches	INDIFFERENT	6:24	p2HPzbyJ_O4	MPREb_e8jC8uBpfCo	UCFS6GgySd74CKtF0putB2Og
 73	Youth	Daughter	Wild Youth	INDIFFERENT	4:12	P44CjuM-tfA	MPREb_2xZflBNQPei	UCBlrV-yC9iu2tQvrCAd4opA
 145	The Woods	Daughter	His Young Heart	INDIFFERENT	3:50	40aImJURAS0	MPREb_4JIBe0V8UCg	UCBlrV-yC9iu2tQvrCAd4opA
@@ -521,7 +520,6 @@
 77	Calgary	Bon Iver	Bon Iver	INDIFFERENT	4:11	WwDxt-mpUC0	MPREb_CV3KFsT8IdK	UCx-cwf1tCXoZr0KtnpaDwyA
 324	Michicant	Bon Iver	Bon Iver	INDIFFERENT	3:46	DwXTx3yveBg	MPREb_CV3KFsT8IdK	UCx-cwf1tCXoZr0KtnpaDwyA
 415	Hey, Ma	Bon Iver	i,i	INDIFFERENT	3:36	1Fa9ZDy-EJg	MPREb_xNXxwU8gEvb	UCx-cwf1tCXoZr0KtnpaDwyA
-187	Boots of Spanish Leather	Bob Dylan	The Times They Are A-Changin'	INDIFFERENT	4:38	0_-56W5t-nY	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
 158	Things I Cannot Recall	Blind Pilot	3 Rounds and a Sound	INDIFFERENT	3:19	pFjw7HLAVP4	MPREb_iO2O3yTzkb4	UCCoCyEztEqzooOfnqSknjOA
 170	The Story I Heard	Blind Pilot	3 Rounds and a Sound	INDIFFERENT	4:34	rIRI78w7JPE	MPREb_iO2O3yTzkb4	UCCoCyEztEqzooOfnqSknjOA
 469	I Buried a Bone	Blind Pilot	3 Rounds and a Sound	INDIFFERENT	2:40	nO-ijXtKsgg	MPREb_iO2O3yTzkb4	UCCoCyEztEqzooOfnqSknjOA
@@ -549,7 +547,7 @@
 358	The General Specific	Band Of Horses	Cease to Begin	INDIFFERENT	3:07	NnDQfJ9WBG8	MPREb_ISeBtatD8ky	UCLEJF57HPNem3bdqXSiIo3Q
 295	Little Numbers (Acoustic Version)	BOY	Acoustic Collection	INDIFFERENT	3:42	5A9SL30MpK4	MPREb_4w2XWuH7q5w	UCwfnahM4DIv75fAOYZXGHdQ
 332	Little Numbers	BOY	Mutual Friends	INDIFFERENT	3:40	IAEISBR1iR8	MPREb_KhDSodkksc0	UCwfnahM4DIv75fAOYZXGHdQ
-116	Nothing is Sacred	Average Joey	Shanda	INDIFFERENT	3:42	v12s2kQt4aQ	MPREb_zrlNEBAIpAl	UCqf-lJtiogkQJYlauRLn1cA
+116	Nothing is Sacred	Average Joey	Shanda	INDIFFERENT	3:42	v12s2kQt4aQ	MPREb_zrlNEBAIpAl	UCA3Q-6T1XXsQFg4fWeJX3Cw
 448	Impossible Standards	Asela Perera	Impossible Standards	INDIFFERENT	3:04	WF94l7IuO68	MPREb_pVteHWiK0AU	UCDrrJCYwjMDCMqTKBtJ34eA
 348	Figure It Out	Anna Tivel	The Question	INDIFFERENT	4:27	i07ccMNQGzY	MPREb_VKlh9yp3EIV	UCmqgDN9yqT6nLaT6wKo7yGg
 327	Wondering	Anna Leone	Wondering	INDIFFERENT	3:32	1JilFXWHLV0	MPREb_bmXpRTZI1Qs	UCtTbiIzudTM_v95CAGYCyww
@@ -559,13 +557,13 @@
 311	Haze	Angelo De Augustine	Swim Inside the Moon	INDIFFERENT	3:21	4meUbNzSqVo	MPREb_RoZRa3tGwJF	UCkbPCoZKBkfXuiughWP0KDA
 499	Closer (Piano Version)	Ane Brun	The RMV Sessions	INDIFFERENT	4:20	bDpBqxF1v34	MPREb_kapHaUmM5CM	UCT2tydkRUkgtepcnhc9QpGA
 369	Tenuousness	Andrew Bird	Noble Beast	INDIFFERENT	3:52	0nSbR0hG6nc	MPREb_dMIDb6SMnV3	UCWWyLppgObl9xS8wdSpiv8Q
-484	The Giant of Illinois	Andrew Bird	Dark Was The Night (Red Hot Compilation)	INDIFFERENT	4:45	-nEjOifT6II	MPREb_aIAT8FNyrgK	UCWWyLppgObl9xS8wdSpiv8Q
+484	The Giant Of Illinois	Andrew Bird	Dark Was The Night (Red Hot Compilation)	INDIFFERENT	4:45	-nEjOifT6II	MPREb_aIAT8FNyrgK	UCWWyLppgObl9xS8wdSpiv8Q
 486	Plasticities (Remix)	Andrew Bird	Soldier On	INDIFFERENT	3:52	MleAFTuU4T0	MPREb_kY133Doy3nU	UCWWyLppgObl9xS8wdSpiv8Q
 283	Old Fashioned Hat	Anaïs Mitchell	The Brightness	INDIFFERENT	4:00	7Zo4GAhSTfE	MPREb_WY2GFvOUP5A	UCu5NSquEmNHm5XiHppFlTeA
 55	Act of Human Kindness	Amelia Curran	Watershed	INDIFFERENT	2:58	uwjlyimG6wo	MPREb_FUpYazKSNBX	UCE3B3zS4H9KDmgLUX7yvZzw
 117	Hollow	Always Evergreen	Songs from a Log Cabin	INDIFFERENT	4:04	yQaVqzgMp9I	MPREb_0f18rBGYwBu	UCSfqMCHC-Ae8F11N2qNs8oA
 479	Lights Go Out	Always Evergreen	Songs from a Log Cabin	INDIFFERENT	3:44	2u2iZRzE-F0	MPREb_0f18rBGYwBu	UCSfqMCHC-Ae8F11N2qNs8oA
-182	No Such Thing As Love	Alla Igityan	No Such Thing As Love	INDIFFERENT	3:34	K4kaNOv8irU	MPREb_96WViXAH3PY	UCXntMvG69noUK0cWm1RVu5g
+182	No Such Thing As Love	Alla Igityan	No Such Thing As Love	INDIFFERENT	3:34	K4kaNOv8irU	MPREb_96WViXAH3PY	UC-86V3_6MT_rfOpERBQbYpw
 371	Warm Advice	Alison's Tundra	Alison's Tundra	INDIFFERENT	2:10	-yIOfdsGD54	MPREb_nVY8bCfkJLp	
 309	Ocean (Mahogany Sessions)	Alice Phoebe Lou	Ocean (Mahogany Sessions)	INDIFFERENT	2:56	3hyxqMlJ_ag	MPREb_Kj3HHB20uhy	UCI_QFqQDv-v7UxDgYqwmeLw
 280	Orange Sky	Alexi Murdoch	Four Songs	INDIFFERENT	6:19	u3TyWo5yfsM	MPREb_u2nIMtGlkQN	UCrzKPJu6OR0ndFT2Qz3IfIA
@@ -578,4 +576,6 @@
 454	heavy focus	Adrianne Lenker	songs	INDIFFERENT	2:35	ckcq8L66XI4	MPREb_tP4c5VBnG44	UCUk49fVKOmtT_l-nOv59QyA
 364	My Blizzard	Adar Alfandari	Gold Dust	INDIFFERENT	3:52	KUNOhZkpNXo	MPREb_NJpQLY1yMt5	UC2CHo0WohBiNMefjImtby6w
 52	Sno Cone Man	Adam Carroll	Lookin' Out the Screen Door	INDIFFERENT	4:16	xlVVaxpiB1E	MPREb_TzFYAsbtzpF	UCkkg99yDHPee6iEpmiyr8_w
-307	NOWHERE BOI	Zig Da Kid	VHS, Vol. 2			b41UQRZV5oU		
+63	Salivating Sun	stevenvsnothingness	Salivating Sun			TiB_2vPgtMQ		
+307	NOWHERE BOI	Zig Sandwich	VHS, Vol. 2			b41UQRZV5oU		
+446	Running For Cover	Ivan & Alyosha	All the Times We Had		3:56	n5FUJR6KCT4		

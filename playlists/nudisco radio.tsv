@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-0	Rose Quartz	Toro y Moi	Anything in Return	LIKE	4:14	rdTvgM8CwL4	MPREb_KCcBhRzFYI1	UCJikOjbf3VffCdLXTsbxfxg
 310	Off My Mind	Moon Boots	Off My Mind	LIKE	4:33	6nAvKMMkpBc	MPREb_lZX75zTVGg6	UCofY9PKiEIos057qjBayKkA
 119	Paper Planes	M.I.A.	Paper Planes	LIKE	4:03	pdNP0imIW_8	MPREb_2uI8PipigGE	UCaPHikQGkyaAoH_zwrZmY1w
 7	Fou	L'Impératrice	Fou / Exit	LIKE	5:10	vc88Pm0uQCs	MPREb_TDde20wt4JG	UCOsADrywlh1KRCU3IPAXk_g
@@ -19,12 +18,12 @@
 425	1988	Youandewan	Tarifa Groove Collections (Vol. 13: Masterpiece)	INDIFFERENT	5:53	D3-YjTTnQ4g	MPREb_o1T4zqSH8OA	UCU6zBxNudv6wTSNC-B4MsTA
 411	Deep Down (feat. Nas & Loumar)	Xtrafunk	Last Summer Sun	INDIFFERENT	7:16	ZZu9TuRj9XI	MPREb_C3NbinMRpaA	UCaAWNE8YZZgxClIY4FhcOBQ
 418	Work That Shit	Xtrafunk	Last Summer Sun	INDIFFERENT	6:19	J5cBhqDVxuA	MPREb_C3NbinMRpaA	UCaAWNE8YZZgxClIY4FhcOBQ
-166	Airborne	X	Airborne	INDIFFERENT	5:18	BXuKc_Fq4ms	MPREb_nI4uSynm2gv	UCdBxphSg0bZRuplGECKf_Rg
+166	airborne	X	airborne	INDIFFERENT	5:37	BXuKc_Fq4ms	MPREb_nI4uSynm2gv	UCdBxphSg0bZRuplGECKf_Rg
 64	In the Morning	Wolf + Lamb	Versus	INDIFFERENT	4:40	qarcHmcImEU	MPREb_Y0OPVQUWsC6	UCwSwBU-Od-1MTODeP1zwWZg
 71	The Love	Wine & Cheese	The Feels	INDIFFERENT	4:30	X4UumElA9Bk	MPREb_McOy89MNy5P	UCaV3ThtQ97Py_FwLOJr5UbA
 466	Tomorrow's Music	Will The Funkboss	Tomorrow's Music	INDIFFERENT	6:28	SKjMg9y-1eY	MPREb_5IaFIhyYfzo	UCnByc8Mlb7XpX2pUwMoA-ig
 504	5. Sinfonie (Beethoven) (Allegro Con Brio Edit)	Volker von Mozart	Beethoven Disco	INDIFFERENT	8:41	R4o-OlrgMpk	MPREb_G4Dk75oIknZ	UCor3Y65-5l3gHIvS2KB1uew
-513	Congruence	Video Void	French Synthwave Compilation, Vol. 2	INDIFFERENT	4:36	d3327COpDfE	MPREb_cccKMXOWyQH	UCRPqZqyoSR2l-IcfEfmdIOw
+513	Congruence	Video Void	French Synthwave Compilation, Vol. 2	INDIFFERENT	4:36	d3327COpDfE	MPREb_cccKMXOWyQH	
 489	Chewing-Gum	Vendredi sur Mer	Premiers émois	INDIFFERENT	4:27	p1pdsIHs67I	MPREb_JRjqx2FCwuW	UCNnnWUzxEzg4c05vWFufKRQ
 497	La femme à la peau bleue	Vendredi sur Mer	Marée basse	INDIFFERENT	3:28	69WOoSim8_E	MPREb_cCYQ5HyEU98	UCNnnWUzxEzg4c05vWFufKRQ
 437	50//50	Vantage	50//50	INDIFFERENT	4:07	UGeJoaBYg04	MPREb_F1N9VsmvJKv	UC05C81u7hnR_enq1DAyGeuQ
@@ -43,6 +42,7 @@
 517	Muanapoto	Tshegue	Survivor	INDIFFERENT	5:13	TSxyxsrCZMY	MPREb_3NAC70JZFJ9	UCfgDqhYGM0l6YCqyYjqZCrg
 433	Wilderness (Genius of Time Remix)	Trickski	Wilderness	INDIFFERENT	8:32	sZ0fow2LB44	MPREb_I3vklot6XP9	UCgeNL8HqfyGt-n9p9lVRhBw
 277	Tonight	Tourist	Tonight	INDIFFERENT	5:11	MHJ9772FH-4	MPREb_LbpLXu6WkJR	UCP-mlMKCt28XuYwWvECgtAw
+0	Rose Quartz	Toro y Moi	Anything in Return	INDIFFERENT	4:14	TOd_r4hBZJI	MPREb_Ws8ystnFNy4	UCJikOjbf3VffCdLXTsbxfxg
 142	Get Like It	Tora	Tora	INDIFFERENT	2:10	qqqkh9kw4s4	MPREb_Cjf99Jcl7B3	UCY2xSEeJNcNH0j4-FxHqfeg
 194	Poly Amor	Tora	Poly Amor	INDIFFERENT	3:23	Ym5hg7mRW3c	MPREb_LJaghAgfo5w	UCY2xSEeJNcNH0j4-FxHqfeg
 241	Sugar Snap	Tora	Eat The Sun	INDIFFERENT	3:52	vzcjuyqvBQc	MPREb_VJP4VbKeJ44	UCY2xSEeJNcNH0j4-FxHqfeg
@@ -62,7 +62,7 @@
 317	Chained (LIAR Remix)	The xx	Chained (LIAR Remix)	INDIFFERENT	4:08	qAla9TdIvhA	MPREb_jBatBE04uKW	UCQ1Xqlk89CLZ9aAFyo-1THg
 429	It's You (Ron Basejam Mix)	The White Lamp	Puro Desert Lounge Volume Five (Mixed & Compiled By Ben Sowton & Sebas Ramis)	INDIFFERENT	7:59	v-8vkvwCYRY	MPREb_i4GHLo8GFz0	UCddUuEQ5eFT89G17e2wrvsg
 512	Turning It Up For The Sunshine (Louis La Roche Remix)	The Tribe Of Good	Turning It Up For The Sunshine (Remixes)	INDIFFERENT	3:42	blD1q7b8wNk	MPREb_Jxkjl2z05Qa	UCJuTVs78szljQ3qgY6lGiKQ
-487	Party Politics	The Rhythm Method	Party Politics	INDIFFERENT	4:10	eZ943qZcE0c	MPREb_k8zcdZUbbW7	UCLrkCSVLfRA8Oy0lrCSQf7w
+487	Party Politics	The Rhythm Method	Party Politics	INDIFFERENT	4:11	eZ943qZcE0c	MPREb_k8zcdZUbbW7	UCLrkCSVLfRA8Oy0lrCSQf7w
 72	Pigeons	The Hundred in the Hands	The Hundred In The Hands	INDIFFERENT	3:29	_HAT_X8yicQ	MPREb_YANWFJrCNoI	UCURsrjVSUvb5FNwIIx3atTg
 58	Slow (Lindstrøm + Prins Thomas Remix)	The Chain Gang Of 1974	Slow (Lindstrøm + Prins Thomas Remix)	INDIFFERENT	7:18	WX8OP2fwLQE	MPREb_EoMzZdRo3eL	UCaO_dVMlUWJ3P7_zrnqdRRg
 43	The Birds & the Bees	The 2 Bears	Be Strong	INDIFFERENT	4:22	zE8F32I6tfs	MPREb_ZIXG6Rho1bs	UC5X7NulhC2P2sJyWNDvktwQ
@@ -100,7 +100,7 @@
 423	Garota '92	Shook	Shook	INDIFFERENT	3:21	ZojkT_9iKyk	MPREb_iyDpineVLnG	UCxER5qGCpGKDPuh7z4ZDTlw
 200	We Got A Love (Radio Edit)	Shit Robot	We Got A Love (feat. Reggie Watts) [Remixes]	INDIFFERENT	3:29	VNooGi72oG8	MPREb_YfNmqz6oxDf	UCpXoyFPr2w6_UEXaHPgLT1g
 470	Play	Sharam Jey	Loulou Records Ade Compilation	INDIFFERENT	4:48	w-2LB4QUUJE	MPREb_hrNEyPOYAXi	UC76lX4XEGCL4CjJq4DF0e-g
-229	Make a Scene	Shamir	Ratchet	INDIFFERENT	2:53	7sX1kWQEUJo	MPREb_hZrMZdfJmLV	UCiISKpMPZx3agHVqoyiNSBg
+229	Make a Scene	Shamir	Ratchet	INDIFFERENT	2:53	7sX1kWQEUJo	MPREb_hZrMZdfJmLV	UCPJnraQ2jIoP6ZjcjRHoGMg
 11	Shadows	Session Victim	Listen To Your Heart, Pt. Two	INDIFFERENT	5:40	r6ptRaH1SH0	MPREb_QEwl7uzyJ1C	UCJxS3qB0YeJNz8qgBW17iHQ
 86	Good Intentions (LP Mix)	Session Victim	The Haunted House of House Pt Three	INDIFFERENT	4:30	8tzbmJwYctw	MPREb_BJFBTdCkx7i	UCJxS3qB0YeJNz8qgBW17iHQ
 57	You Make Me Feel Good	Satin Jackets	You Make Me Feel Good	INDIFFERENT	7:08	3B_IVy-gRn4	MPREb_byIPz2tOAwv	UC38pEVsac-8a3LMSb16qxZA
@@ -172,15 +172,15 @@
 297	When The Night [Breakbot Remix]	Para One	When The Night	INDIFFERENT	5:16	nEVJQOAMdk0	MPREb_XXkG3ajQZkv	UCkaYI-6bGaYNg66-Nh5A2Aw
 196	Lonnie's Secret	Owusu & Hannibal	Living With Owusu & Hannibal	INDIFFERENT	6:20	p9A1EIrmH8g	MPREb_UYY8VkDkgs4	UCcM6q0-v7W4KFVAl6dAyyow
 356	Ain't A Thing (feat. Kaleem Taylor)	Oliver Nelson	Ain't A Thing	INDIFFERENT	4:32	3nc-qD-6Rn0	MPREb_66tbueLXOAL	UC5OQp1Brp30xYJJxTguRBEg
-458	Holiday	Nytron, Samuel Boogie, Bejamin Ayra, and M0B	Prison 5th Birthday	INDIFFERENT	7:04	GW0I26DrGNo	MPREb_ov79JelXPc2	
+458	Holiday	Nytron, Samuel Boogie, M0B, and Bejamin Ayra	Prison 5th Birthday	INDIFFERENT	7:04	GW0I26DrGNo	MPREb_ov79JelXPc2	
 335	Come With Me (Satin Jackets Radio Edit)	Nora En Pure	Come With Me (The Remixes)	INDIFFERENT	3:17	Ib3TpUApUYM	MPREb_I9fgju4xPip	UC6JGKPReGZm_c3dHjb2YjBA
 175	Let It Happen	Nondoh	Let It Happen	INDIFFERENT	3:46	Zg9MP6tN8_I	MPREb_KtiaLjMeWPp	UC0pk4gwtIbUM2-H6pyCZhHg
 233	Told	Noah Slee	Told	INDIFFERENT	3:52	iBmpDarUfso	MPREb_VErWlRIGJdU	UCaz0WpHCDoZ4cc68-AXcZ6A
 304	Radar	Noah Slee	Otherland	INDIFFERENT	3:06	6GoXL17JwaU	MPREb_8b69lGi5TVf	UCaz0WpHCDoZ4cc68-AXcZ6A
 136	No Qualms	No Karma	Thesoundyouneed, Vol. 1	INDIFFERENT	3:36	58Tda7d4qHE	MPREb_mhsR8F208XG	
 186	Let Me Be Me	Nite-Funk	Let Me Be Me	INDIFFERENT	4:33	Cma7iXMqtrg	MPREb_R4D8ZszIzHN	UCum6sQYCOxjwN9CYjZyyPTQ
-228	Obsessed	NiHouse	Obsessed	INDIFFERENT	2:41	WAhBc3UNlic	MPREb_7iFuZFcdzjb	UCpWzsL8H4ZVGVDb2TtBV3Sg
-510	Peyote	NiHouse	Peyote	INDIFFERENT	3:37	LiRYv9nEmaY	MPREb_3uA29OIY5Cp	UCpWzsL8H4ZVGVDb2TtBV3Sg
+228	Obsessed	NiHouse	Obsessed	INDIFFERENT	2:41	WAhBc3UNlic	MPREb_7iFuZFcdzjb	UCYcxO4YELpoBSX5B91Fh_RQ
+510	Peyote	NiHouse	Peyote	INDIFFERENT	3:37	LiRYv9nEmaY	MPREb_3uA29OIY5Cp	UCYcxO4YELpoBSX5B91Fh_RQ
 474	People On The High Line (LNTG Can't Get Any Higher Remix)	New Order	People On The High Line	INDIFFERENT	7:21	VGn6Em-uhyc	MPREb_nI8aj8ONUl7	UCXExK7We8VKsIzFFQYNEgBg
 500	Valley Girl	Neon Valley	Valley Girl	INDIFFERENT	3:09	okIMYEXkkBo	MPREb_4HLsJeQ7vnR	UC050-wxgc_zczKKpAHpmw-Q
 191	Cyclope	Møme	Cosmopolitan	INDIFFERENT	3:44	7vmCMHruGHU	MPREb_yqRhuvDVZGE	UCynwkkxbtNuSNnT9xOYIgpA
@@ -202,7 +202,7 @@
 460	Funk Down (Joe Claussell Remix)	Mongo Santamaría	Hammock House: Eastbound L	INDIFFERENT	8:37	wd97x_0Dv1M	MPREb_fJKDHk409zc	UCXUHtVFBXgFDTKXPWVgbGBA
 443	Sing It Back (Mousse T's Feel Love Mix)	Moloko	Indigo	INDIFFERENT	6:05	9bLiQvxoBIo	MPREb_CDqJEtYY4ZS	UCQHPKJExgLinKZwhrc9inHg
 104	Magic [extended Mix] (feat. Dirty Radio)	Mokoa	Magic (feat. DiRTY RADiO)	INDIFFERENT	3:52	i8LFwUH3zD0	MPREb_UN8UkKEguik	UC4cu2G5gSm2rXAxJRJ61SlQ
-446	Rock the Disco (Radio Edit)	Mokoa	Cookie Compilation: Crispy Groove	INDIFFERENT	3:13	MiF7Yv1S984	MPREb_ctOBJgLCite	UC4cu2G5gSm2rXAxJRJ61SlQ
+446	Rock the Disco (Radio Edit)	Mokoa	Crispy Groove	INDIFFERENT	3:13	MiF7Yv1S984	MPREb_ctOBJgLCite	UC4cu2G5gSm2rXAxJRJ61SlQ
 198	Marche, Pt. 1	Moi Je	Profite	INDIFFERENT	2:05	wSfQt0FjwGo	MPREb_yeeNkZWWHcV	UCM9F_HjxVnO9kWlW8VAr7Hg
 345	Profite	Moi Je	Profite	INDIFFERENT	4:31	AHFhdJqIbl4	MPREb_yeeNkZWWHcV	UCM9F_HjxVnO9kWlW8VAr7Hg
 348	Fais rien (Petit Biscuit Remix)	Moi Je	Fabrique Club	INDIFFERENT	3:48	-35tJMTyAkA	MPREb_9FQDWkxloTV	UCM9F_HjxVnO9kWlW8VAr7Hg
@@ -256,8 +256,8 @@
 210	Sunset (feat. Yota)	Lifelike	Sunset	INDIFFERENT	9:09	cXSrT2yrrq4	MPREb_a8gLLmRntzN	UCYwLnNHnVF6TRQ8O0Gg653g
 399	Plaisir	Lewis OfMan	Yo bene	INDIFFERENT	1:59	wg9WJOO57y8	MPREb_MjYmMJOxChr	UChiaOem-lr83R44MY82ZnUQ
 503	Flash	Lewis OfMan	Yo bene	INDIFFERENT	3:00	DLkC-Bs7Lqo	MPREb_MjYmMJOxChr	UChiaOem-lr83R44MY82ZnUQ
-128	Colourblind (feat. Cybil)	Les Loups	Colourblind (feat. Cybil)	INDIFFERENT	4:05	AlVX5PrL624	MPREb_f0XugYuyzPR	UCGwZxqZuMyR7SeBo27BI7QQ
-408	Elephant & Ivory	Les Loups	Elephant & Ivory	INDIFFERENT	4:22	Gs_pg0uGpcE	MPREb_QJmwDZVyTHH	UCGwZxqZuMyR7SeBo27BI7QQ
+128	Colourblind	Les Loups	Colourblind	INDIFFERENT	4:05	AlVX5PrL624	MPREb_f0XugYuyzPR	UCGwZxqZuMyR7SeBo27BI7QQ
+408	Elephant & Ivory	Les Loups	Elephant & Ivory	INDIFFERENT	4:22	Gs_pg0uGpcE	MPREb_QJmwDZVyTHH	UC2bQ2CWQGy_eTbaCQw8JomA
 133	Atlas	Les Gordon	Atlas - EP	INDIFFERENT	2:55	92lQQLoKraQ	MPREb_DRB41QeNR84	UCNhnIuFYhUujKdN069ndGBA
 143	Cendres	Les Gordon	La	INDIFFERENT	3:18	GwIAYSRQn78	MPREb_2WjN8ESXUHQ	UCNhnIuFYhUujKdN069ndGBA
 285	Butterflies	Leon Vynehall	Butterflies / This is the Place	INDIFFERENT	7:29	0rilHq0uLW8	MPREb_ARDEDKNqhdd	UCfG9U3KHCTwq8ED0SpQrJ4g
@@ -276,11 +276,12 @@
 422	Swords Cry	Knight One	Swords Cry	INDIFFERENT	3:22	jCdrXt-CvL0	MPREb_6NYBsx8AeMR	UCr0NuoK1EOgXp2u-RUcMotA
 490	Geschichten aus erster Hand	Klaus Johann Grobe	Geschichten aus erster Hand	INDIFFERENT	4:03	1q8yxXAjiJ0	MPREb_spPWofgNbja	UCv2VsjBZzBv2HhYVBsP1VLw
 450	Sonnentanz	Klangkarussell	Sonnentanz	INDIFFERENT	6:00	fi_ewIXD2qo	MPREb_pqsDyvuHzSl	UCttJhgDSWb98oCQXUzRUnZA
-179	The Nile	Kisses	Rest in Paradise	INDIFFERENT	5:05	U3TD4aSOVdQ	MPREb_TI9Vo5rabdI	UCX1NEZ6ipyL26scYuXyNTng
+179	The Nile	Kisses	Rest in Paradise	INDIFFERENT	5:05	U3TD4aSOVdQ	MPREb_TI9Vo5rabdI	UC8gDs-NtiFNvDS0nz_k1eQA
 95	The Get Up	Kayex	The Get Up	INDIFFERENT	3:16	3joJtoeTzsk	MPREb_uWgPv5u7LUt	UCz1oLiuUdIvmG8gBEc5SUpw
 52	All I Have (feat. J-Rican)	Kartell	Tender Games	INDIFFERENT	3:47	tGKXbPvBTRc	MPREb_6JL47M0Vv0c	UC9-G_5Fqd6mCcP1AkGluFPQ
 78	Turn Over	Kartell	Sapphire	INDIFFERENT	4:06	cycFQ1MhhKw	MPREb_V4D9FgIWblq	UC9-G_5Fqd6mCcP1AkGluFPQ
 300	Flares (feat. Crayon)	Kartell	Last Glow	INDIFFERENT	3:12	a5P-EMSD9aU	MPREb_w0DzFnNcAsQ	UC9-G_5Fqd6mCcP1AkGluFPQ
+389	Leste	Kartell	.Wave, Vol. 2	INDIFFERENT	4:19	H7RQU0bUFOM	MPREb_n3Zoo37ACl6	UC9-G_5Fqd6mCcP1AkGluFPQ
 251	Temptation	Karol Aleksander	Temptation	INDIFFERENT	3:56	M3kzDl4SL2M	MPREb_r9GixoVG0f3	UCzkDlt9KvzqIz4GQzMQ0rNA
 10	Man of the Year	Karma Kid	Man of the Year	INDIFFERENT	3:51	My6CFUlV2dY	MPREb_fZ425On3C7T	UCCPpegvROfCDCfdaXpfo1nQ
 65	Between Sheets	Karma Kid	Like I'm on Fire	INDIFFERENT	3:04	gZwvfchbEfI	MPREb_VTjRfCcfd7L	UCCPpegvROfCDCfdaXpfo1nQ
@@ -340,7 +341,7 @@
 208	Dream Constant	Hyperlamb	Dream Constant	INDIFFERENT	3:08	Extn2W3Lc2g	MPREb_SUtNKJRBQZm	UCNaYyaAAsDjVA3TLsgisFFw
 42	Home Cooked	Hurley Mower	Home Cooked - EP	INDIFFERENT	3:15	xj2uOL7zc7E	MPREb_t6TvGQhrHwp	UCT0jdEHAbbDaSfNYqrzlcRQ
 153	Drip	Hurley Mower	Home Cooked - EP	INDIFFERENT	3:07	WzqsbFAa9Q0	MPREb_t6TvGQhrHwp	UCT0jdEHAbbDaSfNYqrzlcRQ
-370	Drank	Hurley Mower	Drank	INDIFFERENT	3:17	oUOs1dZSKAc	MPREb_URy6I4KM6EO	UCT0jdEHAbbDaSfNYqrzlcRQ
+370	Drank	Hurley Mower	Drank	INDIFFERENT	3:17	oUOs1dZSKAc	MPREb_URy6I4KM6EO	UCmDRSEFFMSZF9_IkHg6f1rA
 89	Roman (Oliver remix)	Housse De Racket	Alésia (Deluxe Edition) (Deluxe Edition)	INDIFFERENT	4:58	LKCIlyLl1as	MPREb_K4Pu5DvSsUZ	UCH4gfSKy7sJxzuvg9ETuuqQ
 31	Boy From School	Hot Chip	The Warning	INDIFFERENT	5:20	UhdF_4CoQlM	MPREb_XGKQq8OEhgN	UCelQU7g_ZFCyK2ylb-mcrQw
 90	Ready For The Floor	Hot Chip	Made In The Dark	INDIFFERENT	4:41	fkx1z8O9bFE	MPREb_FQoIqbKmAcf	UCelQU7g_ZFCyK2ylb-mcrQw
@@ -370,8 +371,8 @@
 362	Good Look for You (Gigamesh Remix)	Gavin Turek	Good Look for You (Gigamesh Remix)	INDIFFERENT	4:03	Z6wLpxFrTps	MPREb_qlNzgpKiTJq	UCTKBBmJUMxqdVNWG68gMRwA
 107	One of a Kind	Funk Leblanc	One of a Kind	INDIFFERENT	2:43	GTeEmo5uVNg	MPREb_kDq5fkWok9I	UC1PaEyYFKgqXkFjBgGcvQCg
 268	Real Love (feat. Holland Greco)	Funk Leblanc	Real Love	INDIFFERENT	4:34	xgcBECBa9nk	MPREb_hNbJs0UdORG	UC1PaEyYFKgqXkFjBgGcvQCg
-103	Real Love (Maratta Remix) (feat. Holland Greco & Maratta)	Funk LeBlanc	Real Love	INDIFFERENT	4:38	nhALP9I_kpQ	MPREb_H1nCVQRgrag	UC1PaEyYFKgqXkFjBgGcvQCg
-405	Man X Woman	Full Create x Mar	Elite. Fashion Fantasy	INDIFFERENT	2:57	bad51gtwPBI	MPREb_EnlO4OP4zb3	
+103	Real Love (Maratta Remix) (feat. Holland Greco & Maratta)	Funk LeBlanc	Real Love	INDIFFERENT	4:38	nhALP9I_kpQ	MPREb_H1nCVQRgrag	UCODUrcb6Od_Dxux-YUY3T0A
+405	Man x Woman	Full Create x Mar	Elite - Fashion Fantasy	INDIFFERENT	2:57	bad51gtwPBI	MPREb_EnlO4OP4zb3	
 265	Heaven Let Me In	Friendly Fires	Inflorescent	INDIFFERENT	4:41	XAuQlkHdJ1Y	MPREb_TTDXTgWMaSe	UCh4hJjHSz7KwukIetZ2o_Aw
 299	Paris (Aeroplane Remix)	Friendly Fires	Friendly Fires	INDIFFERENT	7:46	tsvLWtopPIE	MPREb_PersgxQz9xj	UCh4hJjHSz7KwukIetZ2o_Aw
 333	Bored Of Each Other	Friendly Fires	Friendly Fires	INDIFFERENT	3:29	UD86xdsNQE0	MPREb_PersgxQz9xj	UCh4hJjHSz7KwukIetZ2o_Aw
@@ -383,7 +384,7 @@
 23	Friday Nights	French Horn Rebellion	Next Jack Swing	INDIFFERENT	3:36	Rvv3a5iq9pQ	MPREb_k2HDBqwM76V	UCfiebZmoRaesYuIHAPvRaCg
 375	Don't You Want Me (feat. Deidre & the Dark, Deidre & The Dark)	French Horn Rebellion	Next Jack Swing	INDIFFERENT	4:43	HvfRYx3RpR4	MPREb_k2HDBqwM76V	UCfiebZmoRaesYuIHAPvRaCg
 291	808 PM At The Beach	Fred Falke	Part IV	INDIFFERENT	6:24	itNCnJkdSQ4	MPREb_AiNF37zUWNV	UCLX5FQ5P842GMl2iy8dMKFg
-234	Internal Journey	Frankllin	Internal Journey	INDIFFERENT	6:50	UFq2hudLfxc	MPREb_kMYPrgTCNlP	UCvMx1r1sQbLZ3opSz9_6iow
+234	Internal Journey	Frankllin	Internal Journey	INDIFFERENT	6:50	ebwIR3zc2lc	MPREb_8Tyhj1TMVDQ	UCvMx1r1sQbLZ3opSz9_6iow
 276	SW9	Fort Romeau	SW9	INDIFFERENT	5:20	eh8AFejGsfk	MPREb_j3xlpJhRhkY	UCz7q5D7TGbeWJ4NnVHgsQ3Q
 286	Utopia	Footprintz	Escape Yourself	INDIFFERENT	4:56	z4gbPkn15fU	MPREb_wPaPJAs584N	UCkssfyUQgZSXJHhhnGN3LAw
 516	Super Disco Galaxy	Flying Orion	Cosmic Bliss Adventure	INDIFFERENT	4:47	Ytfcv0xuv1E	MPREb_NmlEvvVQFCo	UCp_xEFpX05-lqTrI58-PaPA
@@ -393,7 +394,7 @@
 272	Song for Jo (Bonus Track)	Fakear	Animal	INDIFFERENT	3:24	38glJFNB5DU	MPREb_Nn29TnWSLcd	UCSgO44QUssXF0dxOpeAqnww
 12	Skyline	FKJ	French Kiwi Juice	INDIFFERENT	4:10	iLWR9ZlMyZg	MPREb_20GBfLUWMGS	UCxcGxv-per5g7A9be800tQA
 13	Die with a Smile	FKJ	French Kiwi Juice	INDIFFERENT	4:13	lpExvx7pbuI	MPREb_20GBfLUWMGS	UCxcGxv-per5g7A9be800tQA
-20	TUI	FKJ	TUI	INDIFFERENT	1:50	ieXSGX3udHw	MPREb_xPDBBOW1ulS	UCxcGxv-per5g7A9be800tQA
+20	Tui	FKJ	.Wave, Vol. 2	INDIFFERENT	1:51	tDoseU9PT6w	MPREb_n3Zoo37ACl6	UCxcGxv-per5g7A9be800tQA
 36	Why Are There Boundaries	FKJ	French Kiwi Juice	INDIFFERENT	3:03	J2HO63gnow8	MPREb_20GBfLUWMGS	UCxcGxv-per5g7A9be800tQA
 220	Waiting (feat. Madelyn Grant)	FKJ	Take Off	INDIFFERENT	4:23	aGEpPANozQM	MPREb_kQazbY2uv2T	UCxcGxv-per5g7A9be800tQA
 238	Learn to Fly (feat. Jordan Rakei)	FKJ	Take Off	INDIFFERENT	4:29	F5bvMtj5wkw	MPREb_kQazbY2uv2T	UCxcGxv-per5g7A9be800tQA
@@ -410,7 +411,7 @@
 56	Pacific 704	Else	Pacific	INDIFFERENT	4:25	HQ03OPzVN7k	MPREb_pTEHjjt9hD0	UCZZ6wCwtx_Vefq5pgH5lHTg
 346	Ambre	Else	Ambre	INDIFFERENT	4:00	WnymgODJ5d0	MPREb_fCiieTU50kc	UCZZ6wCwtx_Vefq5pgH5lHTg
 462	Love Dance	Ed Wizard, Disco Double Dee & Disco Double Dee	Midnight Riot, Vol. 4	INDIFFERENT	5:57	29PDjarNPvA	MPREb_9BiXPFEDQAh	
-209	Here I Am	ED.	Forever	INDIFFERENT	3:13	BMJYHNTNSP8	MPREb_UzJzxDhRQAs	UCeX-EG9OXeIwTS_d8BUlCFg
+209	Here I Am	ED.	Forever	INDIFFERENT	3:13	BMJYHNTNSP8	MPREb_UzJzxDhRQAs	UCsEzY4d7n40ed1bpJ-nuOtw
 485	Do Me Like That (feat. Chesta Blake)	E. Live	Do Me Like That / Flotational Device	INDIFFERENT	3:42	6ncb2dFpjw4	MPREb_i0IXKZPamAM	UCflSdGmDUl5ll43A5Okn44Q
 144	Lazy	Duñe	Duñe x Crayon	INDIFFERENT	3:11	lj5zM15YJwU	MPREb_lgC2EACvQt5	UCXmm3fwzFQ0DE8rA3hMRP9g
 257	Ocean Drive	Duke Dumont	Blasé Boys Club (Pt. 1)	INDIFFERENT	3:26	dmaE78oaVLg	MPREb_OA3zubxgX3W	UCmOc5q8hTHMhurRJE5wDb0Q
@@ -439,6 +440,7 @@
 167	Get You Off (Mark Lower Remix)	Croatia Squad	Work It	INDIFFERENT	4:48	mPyLzT_JmtI	MPREb_gjE3O1hPxFP	UCXPW-0CytH7TqJbiMuNHDWA
 454	The Hit	Crazy P	The Hit / Freak Control	INDIFFERENT	6:55	PQu5TaLc9hc	MPREb_kmNH4KpUxTV	UCnYmkH9d7FWdvfUK5-jUWrg
 477	Like A Fool	Crazy P	Walk Dance Talk Sing	INDIFFERENT	5:06	ORoPx2UCMt8	MPREb_Ebo58VSH7WJ	UCnYmkH9d7FWdvfUK5-jUWrg
+61	What I Do	Crayon	.Wave	INDIFFERENT	4:40	TgKFLraeDZU	MPREb_n6TN9b893fw	UCJ3IX-xpxlEd7Uq0cLql1Zw
 359	Flee (feat. Ann Shirley)	Crayon	Flee	INDIFFERENT	3:14	nkr7VWTh1Is	MPREb_LVsNQmsKej1	UCJ3IX-xpxlEd7Uq0cLql1Zw
 87	Polarised	Cosmo's Midnight	What Comes Next	INDIFFERENT	3:09	yBo_LbR5riE	MPREb_gwnN4ob4KdM	UCMxWoTwaX5LGxkF_jUxIH1A
 161	Snare (feat. Wild Eyed Boy)	Cosmo's Midnight	Moments - EP	INDIFFERENT	3:22	OA6FCt93U08	MPREb_KQcWvWh83wl	UCMxWoTwaX5LGxkF_jUxIH1A
@@ -488,7 +490,7 @@
 488	Deeper In Love	Barely Alive, Great Good Fine Ok	Odyssey	INDIFFERENT	3:20	GA8S4AuABD8	MPREb_wvyydmVMu6U	UCa0Qet1jCEeMzPHrsmdw8TQ
 511	My Favorite Star	Barely Alive	Lost In Time EP	INDIFFERENT	4:26	usDw9vt0644	MPREb_LkGa0LF9sze	UCa0Qet1jCEeMzPHrsmdw8TQ
 267	Pleasure	BarbWalters	Pleasure	INDIFFERENT	3:32	ZCvbulxnws8	MPREb_yLsLxrw1Irx	UC4Z14TFDsEUAwNJN7IhmC1g
-515	3 Am Disco	Badlander	In Alpha EP	INDIFFERENT	7:32	23qLUE1_4aQ	MPREb_QF0GR8lTOim	UC0LbZ5YZMAX_z7klTUdEg_w
+515	3 Am Disco	Badlander	In Alpha EP	INDIFFERENT	7:32	23qLUE1_4aQ	MPREb_QF0GR8lTOim	UCD0Oq9aredwYGUSKafDBVUg
 498	Mimi	Bad Rabbits	Mimi	INDIFFERENT	3:44	Pu34fwt7D84	MPREb_2J374PjVkh4	UCynTXBwTRmqp05kTlKiTPvg
 287	Someone New	BANKS	Goddess (Deluxe)	INDIFFERENT	4:41	45uaPFJAxfw	MPREb_NXMFbcI1Vyp	UC7QXn5ZO2n5MqNy1Rrp547g
 302	You Should Know Where I’m Coming From	BANKS	Goddess	INDIFFERENT	3:55	ntctdxh-5nw	MPREb_rQxIkuolhrS	UC7QXn5ZO2n5MqNy1Rrp547g
@@ -512,12 +514,10 @@
 218	Cocchetti	Alfa Cornae	Alfa	INDIFFERENT	5:05	liwn2ACBTUE	MPREb_KTxhk9kO9o7	UCT5JHqmOyTplUFM3qMcPJBg
 248	Use 2 Hold Me (Yam Who? Remix)	Alena	Use 2 Hold Me & Let Me Be the One	INDIFFERENT	6:06	9sDEBy33L2s	MPREb_R8YBi5qrF1X	UCIkjxSsDrsdY3yGThj7gRzg
 439	Haven't You Heard (Fitzy's Fully Charged Mix)	Alan Fitzpatrick	Haven't You Heard	INDIFFERENT	7:12	Vbkiahqy6Q0	MPREb_Qbih7TqJiML	UCssXqbq0M0w-KsR5dMm8Idg
-506	Love 94 (Mighty Mouse Remix)	Air Zaire	Wonder Buds, Vol. 1	INDIFFERENT	5:53	QrqxLwJL1F4	MPREb_IVyhwGsT91J	UCs1ksitRDu8EdcDuV-D15dQ
+506	Love 94 (Mighty Mouse Remix)	Air Zaire	Wonder Buds Vol. 1	INDIFFERENT	5:53	QrqxLwJL1F4	MPREb_IVyhwGsT91J	UC2ULpph0LbQnifJ2CTtIOlw
 274	We Can't Fly	Aeroplane	We Cant Fly	INDIFFERENT	4:13	m7O8Qu77WOI	MPREb_83W49J85CIx	UCuzxRFak-JBfw5oMNRtVXhg
 284	Save Me Now	Aeroplane	In Flight Entertainment	INDIFFERENT	5:48	viWPbUx4wNM	MPREb_jvkjqg2FjCu	UCuzxRFak-JBfw5oMNRtVXhg
 384	Caramellas	Aeroplane	We Cant Fly	INDIFFERENT	5:13	9P5A0mhl8os	MPREb_83W49J85CIx	UCuzxRFak-JBfw5oMNRtVXhg
 463	"Tonight (Adam Port 12"" Autobahn Edit)"	Adam Port / Here is Why	Sonnenfinsternis	INDIFFERENT	6:14	pYMRrlJvIrQ	MPREb_tpElLEpDCAc	
 178	Tangerine	Aaron Childs	Tangerine / No Hobbies	INDIFFERENT	3:51	MJGTpuo73pg	MPREb_VqmtqAuaqM1	UCITaMvf06dn7ol4E3EXgJTA
 235	World	Leeveye	World			hegEIgBVfrg		
-389	Leste	Kartell	.Wave, Vol. 2			H7RQU0bUFOM		
-61	What I Do	Crayon	.Wave			TgKFLraeDZU		

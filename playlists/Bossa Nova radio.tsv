@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	Berimbau	Os Ipanemas	Os Ipanemas	LIKE	2:35	tITgZ2eBVsI	MPREb_jokK0vZtQRQ	UC5Z6exyJ7JRymiNKfvO_NBA
-15	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:31	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UCOIGsRG-03Kx96mgog77_dQ
+16	The Girl from Ipanema	Astrud Gilberto & Joao Gilberto & Stan Getz	Best of Brazil	LIKE	5:12	nVrub503YkY	MPREb_imbnbSOFg8O	UCHfuC6qjRi-7wQobu_WCuig
+15	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:31	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UC3-1Mwk2l8SIY5YSd79wNhQ
 263	Clementine	grentperez	Clementine	INDIFFERENT	4:06	0GLqoQgmlWU	MPREb_2juW7euUC94	UC3CyxyxdZLGrcpHUuaZolVw
 302	Pensa Bem	daBossa	Um Dois	INDIFFERENT	2:43	5x0qNAtKBJ4	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
 306	Ao Seu Dispor	daBossa	Um Dois	INDIFFERENT	3:23	DZzlVnb9RDc	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
@@ -25,7 +26,7 @@
 241	Não Me Deixe Só	Vanessa Da Mata	Vanessa da Mata	INDIFFERENT	3:10	1SLw-a8Ksj4	MPREb_SIB4yhX9hJH	UC-IR8CrnRXicPTU68e0gm7Q
 226	Samba de uma Nota So (feat. Moana)	Urban Love	Chill N' Brazil - The Best Of Electro-Bossa And Chill Out Remixes	INDIFFERENT	3:12	BlbiRn_W0MA	MPREb_ck8CjetiDZV	UCEfWfmgP7Pp8ILWPX7oiupA
 244	Carolina Carol Bela (Ao Vivo) (feat. Anna Setton)	Toquinho	Toquinho - 50 Anos de Carreira (Ao Vivo)	INDIFFERENT	2:38	OfefibF2H-0	MPREb_PKtg0Js6jm9	UCKCdY6tlFf3ttS9veVkk-vg
-239	Aquelas Coisas Todas	Toninho Horta	Terra dos Pássaros	INDIFFERENT	5:41	ne9qgve1ikI	MPREb_QBHDNobgToa	UCEIOL7EYjrpIwTaryN02B9w
+239	Aquelas Coisas Todas	Toninho Horta	Terra dos Pássaros	INDIFFERENT	5:41	ne9qgve1ikI	MPREb_QBHDNobgToa	UCqn73_gePzIqSh12csINERg
 253	Augusta, Angélica e Consolação	Tom Zé	Dois Momentos - Vol.1	INDIFFERENT	3:44	I-q7dpNe-us	MPREb_CDIjKAOffrd	UCMQFskCgaYkHOUPxapXWpgQ
 328	Parabéns (Quarantine Sessions) (feat. Marcos Valle)	Tom Misch	Quarantine Sessions	INDIFFERENT	4:09	xN8XC0CEXl0	MPREb_F06aYXbUdov	UCCCWJwLEvpPAs4r_nJiKe2Q
 63	Corcovado	Tom Jobim	Bossa Nova	INDIFFERENT	3:02	wilIgoJ294M	MPREb_GarmI1i9SFT	UCDg8OKNNZEvWvMAYtXZMPMQ
@@ -51,7 +52,7 @@
 55	Baiãozinho	Sylvia Telles	Pure Brazil II - Bossa 4 Two	INDIFFERENT	1:45	S-Qhy2McIcE	MPREb_7ltqTYia5G0	UCrBAxFjx81FFHdzRSUVNv9w
 59	Bossa Na Praia	Sylvia Telles	Bossa, Balanço, Balada	INDIFFERENT	2:01	wUKmhLPaJqo	MPREb_yQxQN6ylYNd	UCrBAxFjx81FFHdzRSUVNv9w
 108	How Insensitive	Sting	Red Hot & Rio	INDIFFERENT	3:44	gL6cCNQzOKc	MPREb_lNfCQCRroSV	UCHhKCdsmx9t-PSqlSfa-VKA
-6	Desafinado (feat. Antonio Carlos Jobim)	Stan Getz	Stan Getz: The Bossa Nova Albums	INDIFFERENT	4:10	8musBH12tSU	MPREb_6VPJPuJYKiN	UCITWDrIiWv0Y-zj8xrvoY-Q
+6	Desafinado	Stan Getz	Stan Getz: The Bossa Nova Albums	INDIFFERENT	4:10	8musBH12tSU	MPREb_6VPJPuJYKiN	UCITWDrIiWv0Y-zj8xrvoY-Q
 35	Falsa Baiana	Stan Getz	The Best Of Two Worlds	INDIFFERENT	5:02	BrM6o2yxux0	MPREb_F9E3oCLHOTa	UCITWDrIiWv0Y-zj8xrvoY-Q
 70	O Morro Nao Tem Vez	Stan Getz	Jazz Samba Encore!	INDIFFERENT	6:54	yjaKvH-_hdk	MPREb_48k8KVOB3Ub	UCITWDrIiWv0Y-zj8xrvoY-Q
 115	The Girl From Ipanema (Live At Carnegie Hall, USA / 1964) (feat. Astrud Gilberto)	Stan Getz	The Girl From Ipanema - The Bossa Nova Years	INDIFFERENT	6:32	NfZ_b26F3g8	MPREb_4I9kHC5NByq	UCITWDrIiWv0Y-zj8xrvoY-Q
@@ -147,6 +148,7 @@
 186	Com Mais de 30	Marcos Valle	Garra	INDIFFERENT	2:45	Zt9hmSNAsUY	MPREb_jAsX4eOMHBw	UCeDBFt2rTmBmyzCqM8diccA
 200	Samba de Verão	Marcos Valle	Marcos Valle	INDIFFERENT	3:46	DsmlTpqXY5A	MPREb_OrUQI27C8Ed	UCeDBFt2rTmBmyzCqM8diccA
 207	Com Mais De 30	Marcos Valle	Bis Bossa Nova - Marcos Valle	INDIFFERENT	2:36	21uU3Ydmcsg	MPREb_UN1tsCS74Ry	UCeDBFt2rTmBmyzCqM8diccA
+289	Our Train	Marcos Valle	Marcos Valle JID003	INDIFFERENT	3:37	WNbAH4GQWvE	MPREb_akEvbVx8T1F	UCeDBFt2rTmBmyzCqM8diccA
 357	Tiu-Ba-La-Quieba	Marcos Valle	Previsão Do Tempo	INDIFFERENT	3:27	a1hs_tgSE8w	MPREb_98BgRHSKjxO	UCeDBFt2rTmBmyzCqM8diccA
 11	Girl From Ipanema	Marco Esu	A Soft Interpretation Of The Mind	INDIFFERENT	3:44	MuSc2PaUxpc	MPREb_AeyMfOugNcF	UCVZvDNOnwNdLnQxiooPLVog
 254	O Sol Nascerá (A Sorrir)	Marcelinho & Mané Messias	Cartola para Todos	INDIFFERENT	2:04	M-Dw5Wh_mRY	MPREb_otzCbo4XM38	
@@ -169,7 +171,7 @@
 105	O Pato (The Duck) (Live At Carnegie Hall/1964)	João Gilberto	Getz/Gilberto #2	INDIFFERENT	2:16	L4D6gZZEE3o	MPREb_7mLOYksE3mj	UCOO1sDcQ7DpldFvXVNPXMFA
 112	Nao Vou Pra Casa	João Gilberto	João Voz E Violão	INDIFFERENT	2:57	oHNSIJyJJuA	MPREb_OciwQ5jKiTE	UCOO1sDcQ7DpldFvXVNPXMFA
 131	Chega De Saudade	João Gilberto	Latin Legends	INDIFFERENT	2:04	7LgzJJQSTzI	MPREb_lUyV90nj5o4	UCOO1sDcQ7DpldFvXVNPXMFA
-205	Sorriu Para Mim	João Gilberto	João Gilberto: Hits & Rarities	INDIFFERENT	3:06	Jn2R8oq0nF8	MPREb_lHN3ydveOIP	UCOO1sDcQ7DpldFvXVNPXMFA
+205	Sorriu Para Mim	João Gilberto	João Gilberto - Autumn Nights	INDIFFERENT	3:06	GMJYuRR_o9Q	MPREb_RFRaMtq0Qqc	UCOO1sDcQ7DpldFvXVNPXMFA
 281	Aos Pés Da Cruz (Live Version)	João Gilberto	Eu Sei Que Vou Te Amar	INDIFFERENT	2:14	dMznJYY-mcI	MPREb_cSdvFybc2MB	UCOO1sDcQ7DpldFvXVNPXMFA
 313	Corcovado (Live Version)	João Gilberto	Eu Sei Que Vou Te Amar	INDIFFERENT	2:29	EWSSNbmk5PU	MPREb_cSdvFybc2MB	UCOO1sDcQ7DpldFvXVNPXMFA
 336	Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso) (feat. Gilberto Gil & Caetano Veloso)	João Gilberto	Mestres da Mpb	INDIFFERENT	6:32	9O5F4732gHU	MPREb_2bwgq1qcoza	UCOO1sDcQ7DpldFvXVNPXMFA
@@ -232,7 +234,7 @@
 185	Minhas Razões	Gile	Minhas Razões	INDIFFERENT	2:58	OE2cLl0TnwE	MPREb_SfWXBfMCizU	UC8PTzmiHWyYtSmmDDYSupZQ
 257	Filhos de Gandhi (Ao Vivo)	Gilberto Gil	O Viramundo, Vol. 2 (Ao Vivo)	INDIFFERENT	17:56	gDzykMfdQQk	MPREb_Y8kGORAzf9W	UCZwEO8vAcFyT43zmNm_PCGQ
 356	Toda Menina Baiana (Ao Vivo)	Gilberto Gil	20 Anos da Sicam - Ao Vivo Na Arena Anhembi 1980	INDIFFERENT	2:13	mBmYbg1Nodg	MPREb_i9QNjH9meFw	UCZwEO8vAcFyT43zmNm_PCGQ
-338	Chega De Saudade (No More Blues) (Live)	Gary Burton	Live at Midem 1981	INDIFFERENT	5:25	BFzNe2wzHSs	MPREb_tdAZwpmCpW4	UCbjJxo5rkkSwe_twq0N31mw
+338	Chega De Saudade (No More Blues) (Live)	Gary Burton	Live at Midem 1981	INDIFFERENT	5:25	BFzNe2wzHSs	MPREb_tdAZwpmCpW4	UCJ0_8VigLqL0eO56wgcNPkA
 354	Aquele Frevo Axé	Gal Costa	Aquele Frevo Axé	INDIFFERENT	3:53	Pbi18hK2o_w	MPREb_pcw8S4Vwlyn	UCSv4Mv6YMSJXaPav-cSRDxQ
 19	Blackbird (Bossa Version)	Flavio Mendes	Relaxing Bossa Lounge 9	INDIFFERENT	2:28	CIU-7J1p1Ng	MPREb_JdYWXLfLr0T	UCu0140d6fv-jI_Es_ao7wCQ
 187	Roda Viva	Fernanda Porto	Best Of Fernanda Porto	INDIFFERENT	3:31	OVEdb6LUG-c	MPREb_0BmiHotHWgo	UC2wOJ1PzO7pE-SAd1nLqx7g
@@ -242,6 +244,7 @@
 232	Não Vem (Assim Não dá)	Elton/Guilherme Brito/Cavaquinho/Candeia	Quatro Grandes Do Samba	INDIFFERENT	3:22	t55yvaFK9H0	MPREb_kkqm968ZfOi	
 171	Chega de Saudade	Elizeth Cardoso	A Divina Elizeth	INDIFFERENT	3:30	_jrIlzQa4FA	MPREb_RNajNsXvGN6	UCDIe8juor2w8LA9sVALLYuQ
 218	Manha de Carnaval (Eurydice)	Elizeth Cardoso	Black Orpheus (US Edition)	INDIFFERENT	2:57	X3Fjtd9FKMM	MPREb_UX0cIPUfRhz	UCDIe8juor2w8LA9sVALLYuQ
+29	Águas De Março	Elis Regina	The Girl From Ipanema: The Antonio Carlos Jobim Songbook	INDIFFERENT	3:35	_7tuzQH5aWg	MPREb_P3T6kymIQOR	UCuPT1QBMCrlp3L7lQmO5_4Q
 124	Águas De Março	Elis Regina	Elis & Tom	INDIFFERENT	3:35	BnB1G63XvCQ	MPREb_etSPEAfW5CB	UCuPT1QBMCrlp3L7lQmO5_4Q
 126	Águas De Março	Elis Regina	Dia dos Pais 2021	INDIFFERENT	3:35	-wVu3stYZ3Q	MPREb_hQPGZKJhqz8	UCuPT1QBMCrlp3L7lQmO5_4Q
 150	Triste	Elis Regina	Elis & Tom	INDIFFERENT	2:43	pNWpquMzJSY	MPREb_etSPEAfW5CB	UCuPT1QBMCrlp3L7lQmO5_4Q
@@ -277,13 +280,13 @@
 224	Essa Moça Tá Diferente	Chico Buarque	Chico Buarque De Hollanda Nº4	INDIFFERENT	2:47	Ix6D9QC8rpA	MPREb_N4EEaR3JKm4	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 238	A Banda	Chico Buarque	Chico Buarque de Hollanda	INDIFFERENT	2:11	SSmz9xg4Ks0	MPREb_sJk9ZtPZ4tO	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 329	Quem Te Viu Quem Te Ve (Live)	Chico Buarque	Chico Buarque & Maria Bethania	INDIFFERENT	3:15	mDDhw8Seoy8	MPREb_Wo7NrdbyuCc	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
-135	Bamba Samba Bossa Nova	Charlie Byrd	Sizzling Mambo Classics	INDIFFERENT	3:06	60bCrMXGfqA	MPREb_RXwVvkLtQ7I	UCPWF84oej4PJgMCMCDtGVEQ
+135	Bamba Samba Bossa Nova	Charlie Byrd	Sizzling Mambo Classics	INDIFFERENT	3:06	60bCrMXGfqA	MPREb_RXwVvkLtQ7I	UCMko3MSV3gcTOiymakMtExw
 326	Que reste-t-il de nos amours?	Charles Trenet	Chansons d'amour	INDIFFERENT	3:11	ODz0Swsbt5s	MPREb_HmXJ1acPLTE	UCoN36ETvG41PaxAsqxGLmdQ
 272	Areia Branca	Cereja Azul	Fada	INDIFFERENT	4:27	GaYPPDav8lc	MPREb_lgqRFtTs3uc	UC_47ZJ9djpNcyjjUrd5rDQg
 276	A Origem da Felicidade	Celso Fonseca	Moska Apresenta Zoombido: Celso Fonseca	INDIFFERENT	3:15	730CjE69IkM	MPREb_5wob6quqRzF	UC8UBMF-OOkOXOvwSYHQNF7g
 342	Meu Samba Torto	Celso Fonseca	Natural	INDIFFERENT	4:31	aXT-_28De1M	MPREb_KkhdzzTLn2K	UC8UBMF-OOkOXOvwSYHQNF7g
 322	"K. K. Bossa (From ""Animal Crossing"") [Chillhop]"	Celestial Alignment	"K. K. Bossa (From ""Animal Crossing"") [Chillhop]"	INDIFFERENT	2:09	Q_e33HhU5h4	MPREb_kO59AT7B20A	UCj6C-esGVkW8gbWqTJ1GVsg
-337	Tywydd Hufen Iâ	Carwyn Ellis & Rio 18	Joia!	INDIFFERENT	3:19	kbhMe5-vX50	MPREb_rG214EF9mDM	UCM_0V22jDUXSvuZ2GRjQC3w
+337	Tywydd Hufen Iâ	Carwyn Ellis & Rio 18	Joia!	INDIFFERENT	3:19	kbhMe5-vX50	MPREb_rG214EF9mDM	UCAE11pxe_EIXg1S6AtAWzSg
 236	Alvorada	Cartola	Raízes Do Samba	INDIFFERENT	2:39	xT0_gTMqAwo	MPREb_Kd0CR9C0nDr	UCQjfjO6IV3Yxo4cKW-35FXA
 237	O Sol Nascerá (A Sorrir)	Cartola	Raízes Do Samba	INDIFFERENT	1:38	UDmjhNnfnGo	MPREb_Kd0CR9C0nDr	UCQjfjO6IV3Yxo4cKW-35FXA
 51	Barquinho De Papel	Carlos Lyra	Brazilian Bossa Nova Classics	INDIFFERENT	2:37	YDvxdIfgIqo	MPREb_2OE0b5P3p52	UCm2GAr0lGZyvDLjO12VKCZw
@@ -297,7 +300,7 @@
 175	Julia/Moreno	Caetano Veloso	Araçá Azul	INDIFFERENT	3:18	700poa1Vta4	MPREb_7dA8LDhRH8z	UCo7VN5w1PpeBOapTqtal75Q
 304	Alegria, Alegria (Ao Vivo) (feat. Tom Veloso)	Caetano Veloso	Espera Musical	INDIFFERENT	2:40	qrkrlmtXdUc	MPREb_XG7z1rggVS1	UCo7VN5w1PpeBOapTqtal75Q
 334	Mariana	Bïa	Carmin	INDIFFERENT	3:12	fQwsoE37lWI	MPREb_9YrOIRvmAcU	UCXgoU8pfB3ZYHG-6FOlsy8A
-270	Planetary Boogie	Bubblegum Hypnosis	Cosmic Stream	INDIFFERENT	2:15	RNIqA5BPMgE	MPREb_QAfH56nhemx	UCnM1cu9YspjlbN-uWfgqkWg
+270	Planetary Boogie	Bubblegum Hypnosis	Cosmic Stream	INDIFFERENT	2:15	RNIqA5BPMgE	MPREb_QAfH56nhemx	UCqy1lmpafX7z7faW_rMKYAA
 256	Cordeiro de nana (feat. Buarque, Chico)	Buarque, Chico	Brazil	INDIFFERENT	1:16	cm-at3zrFTs	MPREb_DqWQ4ol7Qgt	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 37	Santa Claus Is Comin' to Town	Bruce Springsteen	Sounds Of The Season	INDIFFERENT	4:28	qrNMYDPYY0E	MPREb_uhko2oZOAtE	UCyFqJ_5TyAeTD7rHpLikbKQ
 44	Scream	Bossa Nostra	Solaria	INDIFFERENT	6:08	x9zSieLC428	MPREb_TOheWRjxnJw	UC25mzRgO6N7lztFZXSqXqxA
@@ -318,7 +321,6 @@
 206	Canto De Ossanha	Baden Powell	Back To Brasil	INDIFFERENT	4:17	8f7QD1Oy1cI	MPREb_3GIzvzmtYPp	UC3wsl-MT-3zBC-PSy7jT5Gw
 271	All the Things You Are	Baden Powell	Tristeza / Poema / Canto / Images On Guitar	INDIFFERENT	4:24	BY-iTjhmXFM	MPREb_lQDVrQHdNIG	UC3wsl-MT-3zBC-PSy7jT5Gw
 297	Tristeza e Solidão	Baden Powell	Tristeza / Poema / Canto / Images On Guitar	INDIFFERENT	2:23	AvlNN9X7OXA	MPREb_lQDVrQHdNIG	UC3wsl-MT-3zBC-PSy7jT5Gw
-16	The Girl from Ipanema	Astrud Gilberto & Joao Gilberto & Stan Getz	Best of Brazil	INDIFFERENT	5:12	nVrub503YkY	MPREb_imbnbSOFg8O	UCHfuC6qjRi-7wQobu_WCuig
 14	Call Me	Astrud Gilberto	A Certain Smile, A Certain Sadness (Expanded Edition)	INDIFFERENT	3:21	vhRz8CNDfmI	MPREb_GyUWKvTWhVh	UCHfuC6qjRi-7wQobu_WCuig
 65	She's A Carioca	Astrud Gilberto	Look To The Rainbow	INDIFFERENT	2:28	d-3foYfTRRw	MPREb_184kkIugpjB	UCHfuC6qjRi-7wQobu_WCuig
 134	Non-Stop To Brazil	Astrud Gilberto	The Shadow Of Your Smile	INDIFFERENT	2:28	l65ZnEBqqME	MPREb_TCBC6wLDxU9	UCHfuC6qjRi-7wQobu_WCuig
@@ -334,7 +336,6 @@
 98	Corteguay	Antonio Carlos Jobim, Eumir Deodato	Brazil | Once Upon a Time	INDIFFERENT	2:32	VIbVGrHw9_E	MPREb_yOwwFG57jBA	UCDg8OKNNZEvWvMAYtXZMPMQ
 4	The Red Blouse	Antonio Carlos Jobim	Wave	INDIFFERENT	5:10	f1PMeosHdfo	MPREb_27burEsvfE4	UCDg8OKNNZEvWvMAYtXZMPMQ
 20	The Girl From Ipanema	Antonio Carlos Jobim	The Composer Of Desafinado, Plays	INDIFFERENT	2:43	w7OHMCunm-w	MPREb_YqrUfr8amAl	UCDg8OKNNZEvWvMAYtXZMPMQ
-29	Águas De Março	Antonio Carlos Jobim	The Girl From Ipanema: The Antonio Carlos Jobim Songbook	INDIFFERENT	3:35	_7tuzQH5aWg	MPREb_P3T6kymIQOR	UCDg8OKNNZEvWvMAYtXZMPMQ
 31	Waters Of March (Aguas De Marco)	Antonio Carlos Jobim	Jobim	INDIFFERENT	3:55	iht7ObbslRY	MPREb_sGunimOL4t2	UCDg8OKNNZEvWvMAYtXZMPMQ
 33	Modinha	Antonio Carlos Jobim	Terra Brasilis	INDIFFERENT	3:36	lEjzFYy3knQ	MPREb_30t0nQ5zjFu	UCDg8OKNNZEvWvMAYtXZMPMQ
 43	O Grande Amor	Antonio Carlos Jobim	Compact Jazz: Antonio Carlos Jobim	INDIFFERENT	5:27	QmF7587V7U8	MPREb_mjLiSTgzykF	UCDg8OKNNZEvWvMAYtXZMPMQ
@@ -361,5 +362,4 @@
 359	The Happy People	Airto Moreira	I'm Fine, How Are You?	INDIFFERENT	3:50	p0Ab8WSM1HU	MPREb_s04WTGQv9Li	UCpzAQ9SBUSfOfBM0dRsciog
 277	Go	Ahu	Go	INDIFFERENT	2:26	bnzz5yciaJM	MPREb_K76wpKPsm5c	UCZ1JiVcHA6B3yVb0HYeljDQ
 146	A Felicidade	Agostinho Dos Santos	Black Orpheus (US Edition)	INDIFFERENT	2:35	5zd5e9ktUeE	MPREb_UX0cIPUfRhz	UCvMu4ogxW9BZdkM1ZDnvoPw
-289	Our Train	Adrian Younge	Marcos Valle JID003	INDIFFERENT	3:37	WNbAH4GQWvE	MPREb_akEvbVx8T1F	UCtHqIJdZKV_1aPxC109g_lA
 58	Viagem (1995 Remaster)	Marcos Valle	Viola Enluarada		2:44	ptplkP7xkLI		

@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 6	Bad (feat. Tiara Thomas)	Wale	The Gifted	LIKE	4:16	ucbBDcpi-g4	MPREb_5xomYB7uK7C	UC-ZdvsS3ZOVkyKpDXUavCcg
-3	Yeah! (feat. Lil Jon & Ludacris)	Usher	Confessions (Special Edition)	LIKE	4:11	XGXZOQ8yTU4	MPREb_SWsgZy2lpfg	UCILuIcqzJMtkxCmftNVjNBQ
+3	Yeah! (feat. Lil Jon & Ludacris)	Usher	Confessions (Expanded Edition)	LIKE	4:11	XGXZOQ8yTU4	MPREb_SWsgZy2lpfg	UCILuIcqzJMtkxCmftNVjNBQ
 5	Paper Planes	M.I.A.	Paper Planes	LIKE	4:03	pdNP0imIW_8	MPREb_2uI8PipigGE	UCaPHikQGkyaAoH_zwrZmY1w
 7	Otis (feat. Otis Redding)	JAY Z	Watch The Throne	LIKE	2:58	UgKguykIX9M	MPREb_q6UQ3uJuSJX	UCbJG1HvzgzaMe_15xfiUyWw
 16	Let Me Blow Ya Mind (feat. Gwen Stefani)	Eve	Scorpion	LIKE	3:49	5EPJgyX7rvI	MPREb_jfgZuSt8oyX	UCDp8r3R9SpxXicOlUWFlj0w
@@ -20,7 +20,7 @@
 52	Gas Pedal (feat. Iamsu!)	Sage The Gemini	Gas Pedal	INDIFFERENT	3:27	byA2U4iMXu0	MPREb_084skaOMWef	UCwFCoaMCvBRRsNWmpdPU0KA
 63	Shake Ya Tailfeather	Pop Feast	Party In The Sun	INDIFFERENT	4:57	r_71Oxx-rlI	MPREb_d8Womq3ZMtj	UCuOW79OwObJuz_EwaJNwYtQ
 22	Rosa Parks	Outkast	Big Boi & Dre Present...OutKast	INDIFFERENT	3:58	lJmreWtKgI8	MPREb_wRzPvqbXd9H	UCpJG35xsNdMgxsXn7kqG4Ew
-35	Da Art of Storytellin' (Pt. 1)	OutKast	Aquemini	INDIFFERENT	3:43	qgnHmtsjFN4	MPREb_7tDaxFl3XwZ	UCpJG35xsNdMgxsXn7kqG4Ew
+35	Da Art of Storytellin' (Pt. 1)	Outkast	Aquemini	INDIFFERENT	3:43	qgnHmtsjFN4	MPREb_7tDaxFl3XwZ	UCpJG35xsNdMgxsXn7kqG4Ew
 10	Truffle Butter (feat. Drake & Lil Wayne)	Nicki Minaj	The Pinkprint (Deluxe)	INDIFFERENT	3:40	NwsworGfSC0	MPREb_tRhAt7t9fv7	UCTTcTeAszDGxALRSMkJH9FQ
 45	Super Bass	Nicki Minaj	Pink Friday (Deluxe Edition)	INDIFFERENT	3:21	zqZt6VNnEIA	MPREb_hUG8qdCpfgF	UCTTcTeAszDGxALRSMkJH9FQ
 48	Anaconda	Nicki Minaj	The Pinkprint (Deluxe)	INDIFFERENT	4:20	MAa722XN74M	MPREb_tRhAt7t9fv7	UCTTcTeAszDGxALRSMkJH9FQ
@@ -47,7 +47,6 @@
 23	Love The Way You Lie (feat. Rihanna)	Eminem	Recovery (Deluxe Edition)	INDIFFERENT	4:24	Xm0OCPZROkk	MPREb_HPC5KHJw2P1	UCedvOgsKFzcK3hA5taf3KoQ
 46	Forever (feat. Kanye West, Lil Wayne & Eminem)	Drake	Forever	INDIFFERENT	5:57	dvmmnqrV8-U	MPREb_MM8zGSv9zTW	UCU6cE7pdJPc6DU2jSrKEsdQ
 53	0 To 100 / The Catch Up	Drake	0 To 100 / The Catch Up	INDIFFERENT	4:35	s0PZYWA4LoM	MPREb_BgzPhK4kwGM	UCU6cE7pdJPc6DU2jSrKEsdQ
-59	P. Diddy [feat. Black Rob & Mark Curry] - Bad Boy 4 Life (Official Music Video)	Diddy		INDIFFERENT	6:00	GbJO59nWQRU		UCa7UEhon5aHfncjkOWgwRDA
 61	Ridin' Rims (Xtra Clean Radio Edit)	Dem Franchize Boyz	Ridin' Rims	INDIFFERENT	3:54	RJeuORNdExE	MPREb_vz9DsdL9NKA	UCl2lQY5YLZ-SZxeoF9qFZfg
 2	Party Up	DMX	...And Then There Was X	INDIFFERENT	4:29	GbZYtHHrmG4	MPREb_6shpETFdkfs	UCZe87x5wDk_YUmdmfAGymPQ
 32	X Gon' Give It To Ya	DMX	The Definition of X: Pick Of The Litter	INDIFFERENT	3:39	36EBd2Q4-gg	MPREb_9O3AORAe0Ik	UCZe87x5wDk_YUmdmfAGymPQ
@@ -58,6 +57,7 @@
 11	Whoa	Black Rob		INDIFFERENT	4:29	EC5LzftfcjI		UCbkZq68S79Uq6SeYb7GPGMw
 31	I Got Cha Opin (Vocal Mix)	Black Moon	I GOT CHA OPIN b/w REALITY (KILLING EVERY...)	INDIFFERENT	4:30	KFGYLQLURv0	MPREb_9gEP6bfwxaN	UCy2P4JutFzqz9EtGo2lyEkA
 21	Make Some Noise	Beastie Boys	Hot Sauce Committee (Pt. 2)	INDIFFERENT	3:31	9iywkP2l2eM	MPREb_bg9CJRajhfK	UCe6E2f1FNQZ0XuCJ4GlONwQ
+59	P. Diddy [feat. Black Rob & Mark Curry] - Bad Boy 4 Life (Official Music Video)	Bad Boy Entertainment		INDIFFERENT	6:00	GbJO59nWQRU		UCoECJ7RMZGrMjBrhXSaHtOQ
 57	HeadBand (feat. 2 Chainz)	B.o.B	Underground Luxury	INDIFFERENT	3:41	XXVtlxKVmd8	MPREb_Lc3NRkVMrKy	UCU1JusGzZe0Msn79JB3g46w
 41	Happy	Ashanti	Ashanti	INDIFFERENT	4:22	UY-cIYtv5r0	MPREb_8c37oxqtflz	UCVW_nVC1hjTCxT9uiPRRLCQ
 38	I Get Money	50 Cent	Curtis	INDIFFERENT	3:43	JZpr7RTunX0	MPREb_YSRyBJnYYkm	UCOcnYBwT1jb6EHlS0cwhNkA
