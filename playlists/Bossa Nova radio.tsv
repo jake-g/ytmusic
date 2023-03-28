@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	Berimbau	Os Ipanemas	Os Ipanemas	LIKE	2:35	tITgZ2eBVsI	MPREb_jokK0vZtQRQ	UC5Z6exyJ7JRymiNKfvO_NBA
 16	The Girl from Ipanema	Astrud Gilberto & Joao Gilberto & Stan Getz	Best of Brazil	LIKE	5:12	nVrub503YkY	MPREb_imbnbSOFg8O	UCHfuC6qjRi-7wQobu_WCuig
-15	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:31	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UC3-1Mwk2l8SIY5YSd79wNhQ
+15	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:32	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UC3-1Mwk2l8SIY5YSd79wNhQ
 263	Clementine	grentperez	Clementine	INDIFFERENT	4:06	0GLqoQgmlWU	MPREb_2juW7euUC94	UC3CyxyxdZLGrcpHUuaZolVw
 302	Pensa Bem	daBossa	Um Dois	INDIFFERENT	2:43	5x0qNAtKBJ4	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
 306	Ao Seu Dispor	daBossa	Um Dois	INDIFFERENT	3:23	DZzlVnb9RDc	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
@@ -66,7 +66,6 @@
 176	Slow Hot Wind	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	2:31	3g8vePG8wQo	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
 197	Berimbau	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	3:16	PURhPYOqoTo	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
 317	Time to Know - Be Waltz	Seatbelts	COWBOY BEBOP - Knockin' on Heaven's Door (Original Motion Picture Soundtrack - Future Blues)	INDIFFERENT	3:50	qsi7o5YmlS8	MPREb_i1152RPPjuS	UCFhMA8ygjzH72UqPf7PmlUg
-233	Ex-Amor	Sambabook & Ney Matogrosso	Sambabook: Martinho da Vila	INDIFFERENT	4:06	dYzFUan5zdY	MPREb_cIcIJ4FU5cK	
 345	Terra de Ninguém (Nicola Conte Rework)	Sabrina Malheiros	Terra de Ninguém (Nicola Conte Rework)	INDIFFERENT	6:25	3i1hACQE8_8	MPREb_lQo1lCIkuxg	UC65Q7sPjUVZWssamL99aXRw
 346	Terra de Ninguém	Sabrina Malheiros	Equilibria	INDIFFERENT	4:23	uVtH6E8R9UI	MPREb_OvVFIcVjgxo	UC65Q7sPjUVZWssamL99aXRw
 327	Vivo Sonhando - Dreamer	Ryuichi Sakamoto	Casa	INDIFFERENT	4:31	sV6cmt33xbA	MPREb_5top8CNAgia	UCfWELfxrSN1ryuNWZtXqR3g
@@ -108,6 +107,7 @@
 72	Agua de Beber	Nova	Nova	INDIFFERENT	3:59	BMNpZwb6kD0	MPREb_Nhg5qyCYA4o	UCIvnvwIL3ywF9lI4nSAfxjg
 350	Ho ba la la	Norma Bengel	BOSSA NOVA - Cool Bossa Nova and Hip Samba Sounds from Rio de Janeiro	INDIFFERENT	2:50	F6ghKpttK4A	MPREb_vYcYfPm1Bxq	
 273	Julia	Nina Miranda	Freedom of Movement	INDIFFERENT	2:43	UwQfVSOrZXw	MPREb_3umvnhTgnHV	UCEZui1y7xW1ZyRF3dMBodLA
+233	Ex-Amor	Ney Matogrosso & Sambabook	Sambabook: Martinho da Vila	INDIFFERENT	4:06	dYzFUan5zdY	MPREb_cIcIJ4FU5cK	
 287	Sorriso do Pablo (Live)	Netoband	Live at Guiting Power	INDIFFERENT	6:40	5ozZYivnz8A	MPREb_4YDRecxJpkX	UC10cEIJG6Re5ZZTI9bbRMfA
 293	Influenciado	Nelson Faria, Zélia Duncan	Ioiô	INDIFFERENT	2:06	sT-uaGH3fp4	MPREb_Np2sx40iLp2	UC-L6jAUL5KwD7ngXwElheFQ
 330	Samba do Avião	Nelson Faria	Nelson Faria Convida David Sacks. Um Café Lá Em Casa	INDIFFERENT	2:42	-vk2tmJtkh0	MPREb_0KNTq3p2m10	UC-L6jAUL5KwD7ngXwElheFQ
@@ -360,6 +360,6 @@
 344	Garganta	Ana Carolina	Ana E Jorge Ao Vivo	INDIFFERENT	4:20	3A2Ai_8A1PA	MPREb_GwQNGrdyiIU	UClaVAP13twAF0BdlceJYLIw
 91	Pra Que Chorar	Alcione	Bossa Nova Brasil	INDIFFERENT	3:17	qPd_N9MQmN8	MPREb_CbzAvOUj4W5	UCIF4LUEHlb4_7XaScC05mOg
 359	The Happy People	Airto Moreira	I'm Fine, How Are You?	INDIFFERENT	3:50	p0Ab8WSM1HU	MPREb_s04WTGQv9Li	UCpzAQ9SBUSfOfBM0dRsciog
-277	Go	Ahu	Go	INDIFFERENT	2:26	bnzz5yciaJM	MPREb_K76wpKPsm5c	UCZ1JiVcHA6B3yVb0HYeljDQ
+277	Go	Ahu	Go	INDIFFERENT	2:27	bnzz5yciaJM	MPREb_K76wpKPsm5c	UCZ1JiVcHA6B3yVb0HYeljDQ
 146	A Felicidade	Agostinho Dos Santos	Black Orpheus (US Edition)	INDIFFERENT	2:35	5zd5e9ktUeE	MPREb_UX0cIPUfRhz	UCvMu4ogxW9BZdkM1ZDnvoPw
 58	Viagem (1995 Remaster)	Marcos Valle	Viola Enluarada		2:44	ptplkP7xkLI		

@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 31	Spoonful	Willie Dixon	I Am The Blues	LIKE	4:57	SQ7fNUJ3qTE	MPREb_7KYsJybn2BP	UCqjv56WoIUXuzrpdRUufR-A
 15	I've Got Love If You Want It	Warren Smith	The Sun Records Sound of Warren Smith (20 Rockabilly Favorites)	LIKE	2:09	8VjvWD64Zlk	MPREb_jnfx1xWzD5t	UCpS_zAyW8-0-VMIR35s6nYA
+33	Whiskey Head Woman	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	LIKE	2:59	mVVLjQ-JL3I	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
 34	Hoochie Coochie Man	The Jeff Healey Band	Road House	LIKE	5:14	u_mXqsV-DIY	MPREb_uhBQvtFo8EJ	UCNXf85Uku4VxihNg3fHyPKQ
 28	Bring It Back Again	Stray Cats	Blast Off	LIKE	3:06	VtMZ-ALyL4A	MPREb_ymquIfHf3dI	UC0gJ5apzM5borvq4HHWxpxQ
 188	Tin Pan Alley (AKA Roughest Place in Town)	Stevie Ray Vaughan And Double Trouble	Couldn't Stand The Weather	LIKE	9:12	LNX4Bl4T1q0	MPREb_gxwXNKePI0b	UCG47N6MrGcPaJpVRgBoAVAQ
@@ -36,7 +37,6 @@
 353	Downtown Tonight	Tyler Bryant & The Shakedown	Wild Child	INDIFFERENT	4:08	EKvgffpIdKo	MPREb_WArcvAmx0wI	UChSKPw7Ya8obUWA-gLeb_VQ
 453	Lipstick Wonder Woman	Tyler Bryant & The Shakedown	Wild Child	INDIFFERENT	3:56	SS8DxL9OTlU	MPREb_WArcvAmx0wI	UChSKPw7Ya8obUWA-gLeb_VQ
 469	Yes, I Was Drunk	Twin Atlantic	Free	INDIFFERENT	3:59	ued2l9YLudo	MPREb_Qv52nkBmunt	UCSBKF2d_DrrASZsxCiN2Xrw
-33	Whiskey Head Woman	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	INDIFFERENT	2:59	mVVLjQ-JL3I	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
 130	Cross Cut Saw Blues	Tommy McClennan	"Tommy McClennan Vol. 2 ""Cross Cut Saw"""	INDIFFERENT	2:42	BiCyA__JfHA	MPREb_iJPx2ihYBNg	UCVLRntJ1pc_mHdkNMHYSJeQ
 256	My Baby's Doggin' Me	Tommy McClennan	The Very Best Of	INDIFFERENT	2:40	dRJAhOhLv5k	MPREb_VTTlDSRv5cb	UCVLRntJ1pc_mHdkNMHYSJeQ
 600	Love With A Feeling	Tommy McClennan	"Tommy McClennan Vol. 1 ""Whiskey Head Woman"""	INDIFFERENT	2:59	BDn-WlGx9bg	MPREb_Xc0e5XucXUw	UCVLRntJ1pc_mHdkNMHYSJeQ
@@ -533,7 +533,7 @@
 152	Somebody Changed the Lock	Champion Jack Dupree	Sharp Harp	INDIFFERENT	2:54	dIRpdrKR2HQ	MPREb_gqmoGi3og1A	UCjRMvVN_0wK2KFmIK9XCcVA
 103	New Mean Mistreater Blues	Bumble Bee Slim	Bumble Bee Slim Vol. 2 1934	INDIFFERENT	3:27	tyC42vb3fCI	MPREb_unZxamcpPUn	UC3r1OD7SDytLybEwTqo-pVA
 160	Aberdeen, Mississippi Blues	Bukka White	Mississippi Blues	INDIFFERENT	4:20	NxtIjknbHjE	MPREb_auHeNUk2gdx	UC5gCQ7rJd41LweNTasYo2uQ
-229	District Attorney Blues	Bukka White	Parchman Farm	INDIFFERENT	2:41	rvj_Equ83ec	MPREb_I6vGBQRHXba	UC5gCQ7rJd41LweNTasYo2uQ
+229	District Attorney Blues	Bukka White	Parchman Farm	INDIFFERENT	2:42	rvj_Equ83ec	MPREb_I6vGBQRHXba	UC5gCQ7rJd41LweNTasYo2uQ
 279	Fixin' To Die	Bukka White	The Roots of Led Zeppelin	INDIFFERENT	2:50	--OpLExHBkw	MPREb_z6iANsa11jk	UC5gCQ7rJd41LweNTasYo2uQ
 425	Parcham Farm Blues	Bukka White	The Blues Mothership: The Original Rock Inspirations	INDIFFERENT	2:45	bALlyDdhLmU	MPREb_ezhgOy08ZHt	UC5gCQ7rJd41LweNTasYo2uQ
 471	Pinebluff, Arkansas	Bukka White	The Complete Bukka White	INDIFFERENT	2:48	r516CQNPTNs	MPREb_42flrw7a4Fs	UC5gCQ7rJd41LweNTasYo2uQ
