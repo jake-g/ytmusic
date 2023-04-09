@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+44	First Responders	Terrace Martin	Dinner Party	LIKE	4:50	klhCx_zXYlg	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
 191	Right Round The Clock	Sorry	925	LIKE	4:05	Tu6iTmxw1ks	MPREb_6cd4p39vsII	UCnCZ8fBkvrjyDh7yV1mEdiw
 192	In Unison	Sorry	925	LIKE	2:48	J4h-3iMHOA0	MPREb_6cd4p39vsII	UCnCZ8fBkvrjyDh7yV1mEdiw
 193	Snakes	Sorry	925	LIKE	3:42	U5yjFD9mkQA	MPREb_6cd4p39vsII	UCnCZ8fBkvrjyDh7yV1mEdiw
@@ -7,6 +8,8 @@
 172	Sound of Your Voice	Skinshape	Arrogance is the Death of Men	LIKE	4:05	PYbBkymg_Ws	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 174	The Eastern Connection	Skinshape	Arrogance is the Death of Men	LIKE	3:35	yJbPNeHS4bo	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 175	Behind the Sun	Skinshape	Arrogance is the Death of Men	LIKE	3:32	qXklot3aSdM	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
+177	Losing My Mind	Skinshape	Arrogance is the Death of Men	LIKE	3:38	uoWiSvCvwcM	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
+182	In the End	Skinshape	Umoja	LIKE	4:29	BSFvIHJf65E	MPREb_nnUEZRWiw3Q	UCil1XLYzKqVoM_2C_4tyOLA
 163	Troublesome	Ryan Celsius Sounds	Slow Motion	LIKE	3:39	Tou3USexevA	MPREb_7zqlSVcNUD4	UCeOM_CfFCGcotUIwm40lPPQ
 165	The City	Ryan Celsius Sounds	Slow Motion	LIKE	3:43	xVSs2-kyb6g	MPREb_7zqlSVcNUD4	UCeOM_CfFCGcotUIwm40lPPQ
 155	ALL THESE INSTRUMENTS	Nick Hakim	WILL THIS MAKE ME GOOD	LIKE	4:10	rzeB5VVTLHg	MPREb_kjhZz51CYWK	UCGJ1mUIImZ528gG_M1ZF_Dg
@@ -59,7 +62,6 @@
 41	Sleepless Nights (feat. Phoelix)	Terrace Martin	Dinner Party	INDIFFERENT	3:00	d6lst_Mp8Vs	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
 42	Love You Bad (feat. Phoelix)	Terrace Martin	Dinner Party	INDIFFERENT	2:49	5XSZk8UZTRM	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
 43	From My Heart and My Soul (feat. Phoelix)	Terrace Martin	Dinner Party	INDIFFERENT	2:31	Vq7RReNKcxE	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
-44	First Responders	Terrace Martin	Dinner Party	INDIFFERENT	4:50	klhCx_zXYlg	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
 45	The Mighty Tree (feat. Kamasi Washington)	Terrace Martin	Dinner Party	INDIFFERENT	2:55	N2VnoBjp8R0	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
 46	Freeze Tag (feat. Phoelix)	Terrace Martin	Dinner Party	INDIFFERENT	3:12	OGvIR7PNbd4	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
 47	LUV U	Terrace Martin	Dinner Party	INDIFFERENT	3:50	Y7-pr5x7SnI	MPREb_3RlHmjmJGEh	UCN5vXTdu4G2NyDoWS5MnRSA
@@ -74,12 +76,10 @@
 171	Tomorrow	Skinshape	Arrogance is the Death of Men	INDIFFERENT	4:16	mobQDfQ0fNI	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 173	Arrogance is the Death of Men	Skinshape	Arrogance is the Death of Men	INDIFFERENT	3:57	bYubbtxYEWA	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 176	Another Day	Skinshape	Arrogance is the Death of Men	INDIFFERENT	3:45	0tlKmnfgAWw	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
-177	Losing My Mind	Skinshape	Arrogance is the Death of Men	INDIFFERENT	3:38	uoWiSvCvwcM	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 178	Flight of the Erhu	Skinshape	Arrogance is the Death of Men	INDIFFERENT	4:13	rwi48BnoVhk	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 179	Watching from the Shadows	Skinshape	Arrogance is the Death of Men	INDIFFERENT	3:07	Sja50aoWR5g	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 180	Outro	Skinshape	Arrogance is the Death of Men	INDIFFERENT	4:04	sdALYDr7els	MPREb_z7rjT3kpj2g	UCil1XLYzKqVoM_2C_4tyOLA
 181	Sua Alma (feat. D'Alma)	Skinshape	Umoja	INDIFFERENT	4:43	JyIAAc1fAr4	MPREb_nnUEZRWiw3Q	UCil1XLYzKqVoM_2C_4tyOLA
-182	In the End	Skinshape	Umoja	INDIFFERENT	4:29	BSFvIHJf65E	MPREb_nnUEZRWiw3Q	UCil1XLYzKqVoM_2C_4tyOLA
 183	Afande (feat. Idd Aziz)	Skinshape	Umoja	INDIFFERENT	5:24	D7Ma4MquiKE	MPREb_nnUEZRWiw3Q	UCil1XLYzKqVoM_2C_4tyOLA
 184	Kourou (feat. Modou Touré)	Skinshape	Umoja	INDIFFERENT	4:52	MmNvpR2X-yY	MPREb_nnUEZRWiw3Q	UCil1XLYzKqVoM_2C_4tyOLA
 185	Azon De Ma Gnin	Skinshape	Umoja	INDIFFERENT	3:05	d9YRyRdci1o	MPREb_nnUEZRWiw3Q	UCil1XLYzKqVoM_2C_4tyOLA

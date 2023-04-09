@@ -1,9 +1,11 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 47	i jus been chillin dude	bsd.u	pook	LIKE	2:08	8oOZnakitKE	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
 66	og sx live sesh	bsd.u	pook	LIKE	1:47	0Cd4s6uyZGI	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
+8	3WW	alt-J	RELAXER	LIKE	5:01	qT7pVIW9Fh0	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 9	In Cold Blood	alt-J	RELAXER	LIKE	3:27	Fkfx3qVd184	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 10	House of the Rising Sun	alt-J	RELAXER	LIKE	5:21	CmroJ30O4Cc	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 11	Hit Me Like That Snare	alt-J	RELAXER	LIKE	3:38	2SK6rbsXm6c	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
+12	Deadcrush	alt-J	RELAXER	LIKE	3:52	rCuBBaLtXQQ	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 235	That Easy	Yellow Days	Is Everything Okay In Your World?	LIKE	4:29	aeoaaun7atc	MPREb_jhlyigObOmX	UCuo2J6HEzc4xiaOMu9dRXNg
 236	The Tree I Climb (feat. Nick Walters)	Yellow Days	Is Everything Okay In Your World?	LIKE	3:41	9qYi8K4oiOU	MPREb_jhlyigObOmX	UCuo2J6HEzc4xiaOMu9dRXNg
 237	Holding On	Yellow Days	Is Everything Okay In Your World?	LIKE	4:38	3jAEiav6FQ0	MPREb_jhlyigObOmX	UCuo2J6HEzc4xiaOMu9dRXNg
@@ -38,6 +40,7 @@
 150	A/B	Pond	The Weather	LIKE	3:28	O6LLWHElVeU	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
 152	All I Want For Xmas (Is A Tascam 388)	Pond	The Weather	LIKE	2:36	uPE8XOwHBxA	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
 154	The Weather	Pond	The Weather	LIKE	3:58	8zz_X9cD9NE	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
+136	Drop the Guillotine	Peach Pit	Being So Normal	LIKE	3:40	9RCSru8wkZM	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 137	Being so Normal	Peach Pit	Being So Normal	LIKE	3:41	3jxiD3Up3mw	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 138	Techno Show	Peach Pit	Being So Normal	LIKE	3:47	DSqvSO4Llzw	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 139	Alrighty Aphrodite	Peach Pit	Being So Normal	LIKE	3:28	6e3qnMmeApE	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
@@ -122,8 +125,6 @@
 64	the shit	bsd.u	pook	INDIFFERENT	1:34	enj1T1ifaEU	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
 65	reflection	bsd.u	pook	INDIFFERENT	1:15	6BP7bwWKzV0	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
 67	outro	bsd.u	pook	INDIFFERENT	1:34	1JRqQwBULBk	MPREb_c9qRjY4QVbB	UCXqpfSoOYtMr7FUcnVjD49g
-8	3WW	alt-J	RELAXER	INDIFFERENT	5:01	qT7pVIW9Fh0	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
-12	Deadcrush	alt-J	RELAXER	INDIFFERENT	3:52	rCuBBaLtXQQ	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 13	Adeline	alt-J	RELAXER	INDIFFERENT	5:51	IGJWUaiiyTw	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 14	Last Year	alt-J	RELAXER	INDIFFERENT	6:07	hwYPexpTt2E	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
 15	Pleader	alt-J	RELAXER	INDIFFERENT	5:49	dptzIpCSMMI	MPREb_EuILBeE1vdO	UCyzh4EnNuEO3Jk_mlXJCIag
@@ -195,7 +196,6 @@
 151	Zen Automaton	Pond	The Weather	INDIFFERENT	4:01	FbrkWs6_Rp0	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
 153	Edge Of The World Pt. 2	Pond	The Weather	INDIFFERENT	6:22	42wMgm2Eogo	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
 155	Fire In The Water (Bonus Track)	Pond	The Weather	INDIFFERENT	4:03	bTgcCI2vOgY	MPREb_UfKxcPhxHee	UCV-D85RlUj_QXf3Hzx5I5dA
-136	Drop the Guillotine	Peach Pit	Being So Normal	INDIFFERENT	3:40	9RCSru8wkZM	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 140	Chagu's Sideturn	Peach Pit	Being So Normal	INDIFFERENT	3:31	ZnvhKavR_Mw	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 141	Not Me	Peach Pit	Being So Normal	INDIFFERENT	3:30	SrTBHKcus4M	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 142	Hot Knifer	Peach Pit	Being So Normal	INDIFFERENT	4:09	VYHYyFDbUnA	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ

@@ -1,6 +1,9 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 61	Take Ten	Paul Desmond	Take Ten	LIKE	3:10	7finO1huMZw	MPREb_443yRib389K	UCnEtwvQYjKy9Px5lg9TO8sQ
+130	Blues For Mr. Broadway (feat. Ben Webster)	Oliver Nelson	More Blues And The Abstract Truth	LIKE	8:07	p98F2EkRIlk	MPREb_aTSWOAhuEFu	UCMvPDIHMNBj-l9KWRVS10aQ
+25	Topsy	Django Reinhardt	Best of Django Reinhardt	LIKE	3:03	S-ojPGxsMv0	MPREb_lMPBjRq57eT	UCDvzmvEF-ReWkWb8B_jL-qQ
 266	Cheese Cake (Remastered 1999/Rudy Van Gelder Edition)	Dexter Gordon	Go! (The Rudy Van Gelder Edition)	LIKE	6:34	a9HP9p3GXg8	MPREb_Yji5CkNA2Q8	UCnH1LrQs42YLOQnpdoUYvdA
+406	Mood Indigo	Charles Mingus	Mingus Mingus Mingus Mingus Mingus	LIKE	4:45	j_3-D8t5tKc	MPREb_Spv3LayGdDi	UCXSaOCck3oVxhB4W_4Ca3MQ
 87	Remembrance	Yussef Kamaal	Black Focus	INDIFFERENT	9:01	2AKNqbskCLc	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
 110	Mansur's Message	Yussef Kamaal	Black Focus	INDIFFERENT	2:07	kqLViNOZ5O4	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
 500	Ching Miau (Rudy Van Gelder Remaster)	Yusef Lateef	Eastern Sounds	INDIFFERENT	3:16	uHMazzeGvqM	MPREb_uLpUwug6aZi	UCTzvT7cM3lVEnarspxywomQ
@@ -183,7 +186,6 @@
 476	I Love Paris	Oscar Peterson	Oscar Peterson Plays The Cole Porter Songbook	INDIFFERENT	2:09	rDMqEd-48yA	MPREb_u5wFoYKPNCT	UCGO2MrCyB3dLCID5wLE0JUw
 485	Mas Que Nada	Oscar Peterson	Soul Español	INDIFFERENT	2:27	3SBoLT7fb-I	MPREb_1MXMB9OFwi9	UCGO2MrCyB3dLCID5wLE0JUw
 409	The Blessing	Ornette Coleman	Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)	INDIFFERENT	4:46	Pg4mgs9eTac	MPREb_svqzDQM0X3z	UCMD_nRrrkezVzMumc1hBuwQ
-130	Blues For Mr. Broadway (feat. Ben Webster)	Oliver Nelson	More Blues And The Abstract Truth	INDIFFERENT	8:07	p98F2EkRIlk	MPREb_aTSWOAhuEFu	UCMvPDIHMNBj-l9KWRVS10aQ
 290	Pages (feat. Gretchen Parlato)	Nate Smith	KINFOLK: Postcards from Everywhere	INDIFFERENT	3:52	KEBJjanEoCk	MPREb_OWInQYQjEw3	UC3Y-seX-ayMcpwjPgIFXlQg
 308	From Here: Interlude	Nate Smith	KINFOLK: Postcards from Everywhere	INDIFFERENT	2:35	wAUpDUvkb-c	MPREb_OWInQYQjEw3	UC3Y-seX-ayMcpwjPgIFXlQg
 335	Retold	Nate Smith	KINFOLK: Postcards from Everywhere	INDIFFERENT	4:55	VSL4CAqGHlY	MPREb_OWInQYQjEw3	UC3Y-seX-ayMcpwjPgIFXlQg
@@ -408,7 +410,6 @@
 548	Jumpin' at the Woodside (Alternate Take)	Duke Ellington	First Time! The Count Meets The Duke	INDIFFERENT	3:14	6JVVMaorqqw	MPREb_ninhFqMjInp	UCvwUPRgFawNNBdQg497gHJw
 557	The Swinger's Jump (Alternate Take)	Duke Ellington	Blues In Orbit	INDIFFERENT	3:50	LPr5v6vzcKg	MPREb_oUOp2SgObne	UCvwUPRgFawNNBdQg497gHJw
 591	Corner Pocket (aka Until I Met You)	Duke Ellington	First Time! The Count Meets The Duke	INDIFFERENT	4:53	9YRdDeoSu74	MPREb_ninhFqMjInp	UCvwUPRgFawNNBdQg497gHJw
-25	Topsy	Django Reinhardt	Best of Django Reinhardt	INDIFFERENT	3:03	S-ojPGxsMv0	MPREb_lMPBjRq57eT	UCDvzmvEF-ReWkWb8B_jL-qQ
 26	Minor Swing	Django Reinhardt	Djangologie Vol18 / 1949 - 1950	INDIFFERENT	2:26	ew0qsyV4Tk4	MPREb_KHHFemVaPEM	UCDvzmvEF-ReWkWb8B_jL-qQ
 498	All The Things You Are	Dizzy Gillespie Sextet	Groovin' High	INDIFFERENT	2:52	nuUvw0IIb_Y	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
 538	Ray's Idea	Dizzy Gillespie & His Orchestra	Groovin' High	INDIFFERENT	2:24	O2B1EwYUykw	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
@@ -509,14 +510,13 @@
 340	A.T.F.W. (Art Tatum Fats Waller)	Charles Mingus	The Great Concert of Charles Mingus	INDIFFERENT	4:17	Njo0Kff5-eU	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIfZ3JlYXQgY29uY2VydCBvZiBjaGFybGVzIG1pbmd1cxoOY2hhcmxlcyBtaW5ndXMiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIOY2hhcmxlcyBtaW5ndXM
 397	I've Got You Under My Skin	Charles Mingus	Jazz for a Lazy Day	INDIFFERENT	2:23	L9EuA6B22C0	MPREb_IfgAEdMWqr9	UCXSaOCck3oVxhB4W_4Ca3MQ
 399	Self-Portrait in Three Colors	Charles Mingus	Ah Um	INDIFFERENT	3:08	dHV4Ej7-Kpk	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
-406	Mood Indigo	Charles Mingus	Mingus Mingus Mingus Mingus Mingus	INDIFFERENT	4:45	j_3-D8t5tKc	MPREb_Spv3LayGdDi	UCXSaOCck3oVxhB4W_4Ca3MQ
 407	Jump Monk	Charles Mingus	Charles Mingus' Finest Hour	INDIFFERENT	2:51	bjdDCSAA6x4	MPREb_VVub4DoLlmG	UCXSaOCck3oVxhB4W_4Ca3MQ
 412	What Is This Thing Called Love	Charles Mingus	The Ultimate Jazz Archive 31 - Intrusions (4 Of 4)	INDIFFERENT	7:59	Y5UuKHrQRe0	MPREb_bQ7lh1HNYa5	UCXSaOCck3oVxhB4W_4Ca3MQ
 416	I X Love (Long Version)	Charles Mingus	Mingus Mingus Mingus Mingus Mingus	INDIFFERENT	7:41	3KMAzqSjkvs	MPREb_Spv3LayGdDi	UCXSaOCck3oVxhB4W_4Ca3MQ
 421	Profile of Jackie	Charles Mingus	The Very Best Of Charles Mingus	INDIFFERENT	3:09	hEtNsCiIV2c	MPREb_XsZjdNW98I8	UCXSaOCck3oVxhB4W_4Ca3MQ
 142	Nada Como Ter Amor	Carlos Lyra	Brazilian Bossa Nova Classics	INDIFFERENT	1:47	tEYeSwyEG40	MPREb_2OE0b5P3p52	UCm2GAr0lGZyvDLjO12VKCZw
 195	Limehouse Blues	Cannonball Adderley Quintet	The Greatest Jazz Duets	INDIFFERENT	4:39	yXIaL6hPM-c	MPREb_kmnMmHgves1	UCRQLvDfTNOFUgst4GpnyDvA
-213	Grand Central	Cannonball Adderley Quintet	New York Jazz	INDIFFERENT	4:34	C0W3mpd3fO0	MPREb_bUVQcaGnT9E	UCRQLvDfTNOFUgst4GpnyDvA
+213	Grand Central	Cannonball Adderley Quintet	Classic John Coltrane Cover Versions	INDIFFERENT	4:34	8jbNKl2GPwY	MPREb_MF2lrlfhxFN	UCRQLvDfTNOFUgst4GpnyDvA
 282	Wabash	Cannonball Adderley Quintet	Cannonball Adderley Quintet In Chicago	INDIFFERENT	5:47	4WJs17NZsgU	MPREb_M1NFIxrK1gU	UCRQLvDfTNOFUgst4GpnyDvA
 402	Serenata	Cannonball Adderley Quartet	Cannonball Takes Charge	INDIFFERENT	4:17	ccl4W_BHZR0	MPREb_EtoTSxouSXO	UCRQLvDfTNOFUgst4GpnyDvA
 57	Walz for Debby	Cannonball Adderley	Know What I Mean	INDIFFERENT	5:18	R7IEQUGR3fQ	MPREb_uv503nsjSen	UCRQLvDfTNOFUgst4GpnyDvA
@@ -582,7 +582,7 @@
 546	If You Were Mine	BILLIE HOLIDAY	Song Parade - Music Mix	INDIFFERENT	3:15	a8k1ZlyH9QE	MPREb_CqPqy1min40	UCW-raws5Iq2xLADkLcEoVaA
 594	We Will Meet Again (For Harry) [Remastered Version]	BILL EVANS	Les incontournables du jazz - Bill Evans	INDIFFERENT	4:05	7FQpb6yhRQg	MPREb_IteMEcKirNX	UCriB97bZopXsBHVYOQEIIZg
 21	Nuggets of Wisdom	BADBADNOTGOOD	Sour Soul	INDIFFERENT	2:10	V3f5zL6GyS0	MPREb_ooMr4ZejO2p	UCeLdRRQwPb-KP8Qj7j3P5dw
-104	Catfish Blues	B.B. King	B.B. King Greatest Hits	INDIFFERENT	2:24	JdOu-QfAeB4	MPREb_BseldnKt0uN	UCqKrqzF3eX7R17m_MIMte4w
+104	Catfish Blues	B.B. King	B.B. King Greatest Hits	INDIFFERENT	2:25	JdOu-QfAeB4	MPREb_BseldnKt0uN	UCqKrqzF3eX7R17m_MIMte4w
 143	Let Go (Canta De Ossanha)	Astrud Gilberto	September 17, 1969	INDIFFERENT	3:06	LaHudvno_i4	MPREb_TlufN4NmF8d	UCHfuC6qjRi-7wQobu_WCuig
 471	Ponteio	Astrud Gilberto	Astrud Gilberto W/ Stanley Turrentine	INDIFFERENT	3:52	1wP7vOs2-Kg	MPREb_LcblICvAQsK	UCHfuC6qjRi-7wQobu_WCuig
 587	Diga, Diga Doo	Artie Shaw & His Orchestra	Wicked Swing	INDIFFERENT	2:42	EMWkHtUZu4s	MPREb_VHXZR6VELAp	UCYSVpl3FRQsikR7ZEdSQRqQ
