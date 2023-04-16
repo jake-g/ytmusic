@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-310	Off My Mind	Moon Boots	Off My Mind	LIKE	4:33	6nAvKMMkpBc	MPREb_lZX75zTVGg6	UCofY9PKiEIos057qjBayKkA
 119	Paper Planes	M.I.A.	Paper Planes	LIKE	4:03	pdNP0imIW_8	MPREb_2uI8PipigGE	UCaPHikQGkyaAoH_zwrZmY1w
 7	Fou	L'Impératrice	Fou / Exit	LIKE	5:10	vc88Pm0uQCs	MPREb_TDde20wt4JG	UCOsADrywlh1KRCU3IPAXk_g
 46	Riviera	Kartell	Riviera	LIKE	5:28	wq5vorNDTl0	MPREb_wRynfH52iXl	UC9-G_5Fqd6mCcP1AkGluFPQ
@@ -132,7 +131,7 @@
 264	Shadows	Roosevelt	Shadows	INDIFFERENT	4:26	jQqNi_memTo	MPREb_nGPyxdZe96N	UC7jTDrwBF4FNMX_zzaIC5mQ
 280	Elliot	Roosevelt	Elliot - EP	INDIFFERENT	4:21	36sweHHSyUg	MPREb_TcNZtRincho	UC7jTDrwBF4FNMX_zzaIC5mQ
 341	Teardrops	Roosevelt	Teardrops	INDIFFERENT	5:27	mTLGhV7KYPA	MPREb_ejdrvKEO8yn	UC7jTDrwBF4FNMX_zzaIC5mQ
-459	Time Feat. Vern (feat. Vern)	Ron Basejam	The Carrington Spirituals	INDIFFERENT	6:58	67K3e17jbIE	MPREb_JqnaKYgJULF	UC6btI970Tq6SrYkQgq46Jrg
+459	Time (feat. Vern)	Ron Basejam	The Carrington Spirituals	INDIFFERENT	6:59	VxoepjXhP_Y	MPREb_POG9t5IIrMQ	UC6btI970Tq6SrYkQgq46Jrg
 273	No Regrets	Roisto		INDIFFERENT	3:31	X7BdZHvOhCY		UCq7c04EG1JfyKdqN2WBBpJw
 97	Breakin' Up (The Loving Hand Remix)	Rilo Kiley	Breakin' Up EP (DMD Album)	INDIFFERENT	6:24	WCuTvfgjfbg	MPREb_WXPFdUOzNaN	UCt4rwPR6uNTZd8o9W3AX2cQ
 493	Cleverword	Renato Cohen	Cleverword	INDIFFERENT	4:03	VgWLMBeO5Us	MPREb_RGLfIgzBsWD	UClpcKsf00oUnIH53FOs_BwA
@@ -196,9 +195,10 @@
 431	Keep My Secret (Rory Phillips Club Mix)	Munk	Keep My Secret	INDIFFERENT	5:06	KC-V5r88zOs	MPREb_Bf2Umh5Kwl7	UC9RHJHIFp0hPcxeBFJkefqA
 184	Echo Arms	Mr Twin Sister	Power of Two / Echo Arms	INDIFFERENT	4:28	aGGcOLh2CVc	MPREb_Nz2nzoobFKy	UC8sGOJAGcM-IkIqR0HgBPKA
 190	Jo	Mr Oizo	Lambs Anger	INDIFFERENT	2:16	iXKxmpavnyY	MPREb_tiptruWdTIj	UCkjEqPY4fcDZFYER-rF8kmA
-243	Whatever You Need	Moon Boots	Whatever You Need	INDIFFERENT	5:36	jkRqW6zXXi4	MPREb_Gc1YJ7jiFkJ	UCofY9PKiEIos057qjBayKkA
+243	Whatever You Need	Moon Boots	Whatever You Need	INDIFFERENT	5:37	0qKutklYsPk	MPREb_Um58M0EFwRW	UCofY9PKiEIos057qjBayKkA
 252	Aretha (Zimmer Remix)	Moon Boots	Nervous April 2012 Top 8	INDIFFERENT	5:04	eU3AxZ9DGHY	MPREb_Zg9lR35t7ta	UCofY9PKiEIos057qjBayKkA
-325	No One	Moon Boots	No One	INDIFFERENT	5:10	7ycHTwYCFbE	MPREb_b6iQYKutxFi	UCofY9PKiEIos057qjBayKkA
+310	Off My Mind	Moon Boots	Off My Mind	INDIFFERENT	4:34	GuIPTwmBV8A	MPREb_1mazZZoeMYj	UCofY9PKiEIos057qjBayKkA
+325	No One	Moon Boots	No One	INDIFFERENT	5:11	-mth60jVm6M	MPREb_r2zQLOYVXsv	UCofY9PKiEIos057qjBayKkA
 8	Evolve	Moods	A Beautiful Mind	INDIFFERENT	3:33	SElvGTmBtyE	MPREb_bTtlobDRzmY	UC1MzAwlkjohTbz8ZGnLQBwA
 421	Vitae (feat. Bit)	Monitor 66	Vitae	INDIFFERENT	6:47	4AkrNWv3iIU	MPREb_iAWfpcvbYDT	UC6f868H-VDyRkzLkE3pHthA
 460	Funk Down (Joe Claussell Remix)	Mongo Santamaría	Hammock House: Eastbound L	INDIFFERENT	8:37	wd97x_0Dv1M	MPREb_fJKDHk409zc	UCXUHtVFBXgFDTKXPWVgbGBA
@@ -210,7 +210,6 @@
 348	Fais rien (Petit Biscuit Remix)	Moi Je	Fabrique Club	INDIFFERENT	3:48	-35tJMTyAkA	MPREb_9FQDWkxloTV	UCM9F_HjxVnO9kWlW8VAr7Hg
 169	Weekend (Cesare Remix)	Mocki	Ipanema Beach House (Cesare Remixes)	INDIFFERENT	4:46	Z5ZMRS1Jj44	MPREb_GR0hbJGEKIj	UCk9R-XvIJNQklbbdhPfhCeg
 112	Cult Logic	Miike Snow	Miike Snow	INDIFFERENT	3:57	-iZ7fIhdFB4	MPREb_rTJGm1C27zg	UCzsEmTSzPLxL0w0Ff6n8rEA
-432	Something Special	Miguel Campbell	Back In Flight School	INDIFFERENT	4:18	rAg3gzaDsww	MPREb_XIt6Ks5XUGh	UC_6qpJW-98Vvk_othjAue1w
 290	Beam Me Up (Jacques Renault Remix)	Midnight Magic	Beam Me Up	INDIFFERENT	6:05	NuXUgygQQ0w	MPREb_EswBFZqwCIH	UCrPPHn_ilz8wIVNp3vOI1mw
 44	Shadows	Midnight Juggernauts	Shadows	INDIFFERENT	2:51	TFf9u1O269c	MPREb_Ejv27UymSYn	UCo176AB88phkfOOBrv3J5oQ
 455	Harlem (Extended Mix) (feat. Malika)	Mickey	Harlem	INDIFFERENT	5:08	aag8vYVv87k	MPREb_n7MKPn9hbSU	UCUIn6pAWkivUhLD5IFAjh2g
@@ -225,7 +224,7 @@
 205	Show Me (Radio Mix)	Me & My Toothbrush	Show Me	INDIFFERENT	3:35	ZEvctc1yMnY	MPREb_WZhzKKhDxFM	UCPwEtnYmhpfMkZTyXNtwz1g
 444	Gold Member	Me & My Toothbrush	No Definition Present Deep Tales 02	INDIFFERENT	4:59	-t_-1SJyQME	MPREb_fb06TPR4h3D	UCPwEtnYmhpfMkZTyXNtwz1g
 292	No Stick	Maya Jane Coles	Burning Bright (Remixes)	INDIFFERENT	5:36	HgGcMmJ1keE	MPREb_ut1Bdt3Hl6C	UCazUmsL6IYfLule9QjGaiDw
-424	Parallel Worlds	Maya Jane Coles	Don't Put Me In Your Box	INDIFFERENT	6:11	n2DcsdIHy1k	MPREb_H4XGbQjpsBK	UCazUmsL6IYfLule9QjGaiDw
+424	Parallel Worlds	Maya Jane Coles	Don't Put Me in Your Box	INDIFFERENT	6:11	WXM5ZfUOBqo	MPREb_rATf6xC327V	UCazUmsL6IYfLule9QjGaiDw
 482	Strut	Max Sedgley	Strut	INDIFFERENT	5:56	J3dfaAh4l10	MPREb_WKTg1ABTc1r	UCxpKRlSMzb7-jrIjCM3_Dew
 449	Minimal	Matias Aguayo	20 Jahre Kompakt / Kollektion 1	INDIFFERENT	6:07	NDao-84gTHY	MPREb_3zL2IsIMPi2	UCDo0aIeII94t0MY5io_6GHQ
 176	Prone	Masego	Lady Lady	INDIFFERENT	3:07	XzNoC0JBNZk	MPREb_FgSJhFwdte9	UCnNg7G379GMitKDisM5wO8Q
@@ -234,10 +233,10 @@
 177	The Music	Marcus Marr	The Music	INDIFFERENT	8:58	i9AT0dhiE5A	MPREb_48Zdicvr9a1	UCe-o0qmDmyNYVhWpCz_Ntcw
 468	Peacemakers	Marcus Marr	Brown Sauce	INDIFFERENT	5:48	8VaTWxdsDiI	MPREb_ATZ9SMsMSKQ	UCe-o0qmDmyNYVhWpCz_Ntcw
 472	Rocketship	Marcus Marr	Rocketship	INDIFFERENT	7:03	vxl-Fkt3OLc	MPREb_sBmT1zVelp5	UCe-o0qmDmyNYVhWpCz_Ntcw
-26	Sunset Funk	Mam	Modern Heat EP	INDIFFERENT	4:21	E3pmkBvc1mM	MPREb_kreFFn8dAch	UCKAyZrfbXh4wMO87YDy1s2Q
-75	Crushed Ice	Mam	Modern Heat EP	INDIFFERENT	4:41	GA42AV-1B1Q	MPREb_kreFFn8dAch	UCKAyZrfbXh4wMO87YDy1s2Q
-79	Modern Heat	Mam	Modern Heat EP	INDIFFERENT	5:36	hAG47cidrjY	MPREb_kreFFn8dAch	UCKAyZrfbXh4wMO87YDy1s2Q
-320	Talking Box	Mam	7 Years Of Outcross Records	INDIFFERENT	4:07	UGTcosWwUhY	MPREb_JQ4NhuoIjYs	UCKAyZrfbXh4wMO87YDy1s2Q
+26	Sunset Funk	Mam	Modern Heat EP	INDIFFERENT	4:21	GaW17xXnk3k	MPREb_9FiZMK8XGSz	UCKAyZrfbXh4wMO87YDy1s2Q
+75	Crushed Ice	Mam	Modern Heat EP	INDIFFERENT	4:41	oprSkcGfIiI	MPREb_9FiZMK8XGSz	UCKAyZrfbXh4wMO87YDy1s2Q
+79	Modern Heat	Mam	Modern Heat EP	INDIFFERENT	5:36	jIEK3HXdaIA	MPREb_9FiZMK8XGSz	UCKAyZrfbXh4wMO87YDy1s2Q
+320	Talking Box	Mam	10 Years of Mam	INDIFFERENT	4:04	Mq__oCovOTo	MPREb_lKg1QaEuNyt	UCKAyZrfbXh4wMO87YDy1s2Q
 456	Must Get There (Dubka Remix)	Majestique	Must Get There	INDIFFERENT	5:58	0gG12BVmtGI	MPREb_OVciYkObq0u	UC5bGSaHZpAdABLchfbYB3XQ
 275	Us	MOVEMENT	MOVEMENT	INDIFFERENT	3:02	VGr7wd7VXGE	MPREb_SzGg4wMLUel	UC5qYvVuUT9aCbIdbdY4iXBQ
 491	Polaroid (feat. Desmond & Betty Gray)	MIKVH	Polaroid (feat. Betty Gray & Desmond)	INDIFFERENT	3:50	Bk6HIeL7WG8	MPREb_JfR90V7cQVE	UCIbGpwZ14-uPQCqSTUbDEDw
@@ -336,7 +335,7 @@
 6	Play It Back	JackLNDN	Summer Never Ends, Vol. 1	INDIFFERENT	5:42	0H1Vh-GsCzo	MPREb_HcynJWPG0jJ	UC3ZPJqok8mjJJHeeY5clbNw
 386	Bittersweet Emotion (feat. Josh Tobias)	JackLNDN	Colours LP	INDIFFERENT	3:10	zNbjbQHBwh4	MPREb_lt0GSMNSgrx	UC3ZPJqok8mjJJHeeY5clbNw
 387	The Feels	JackLNDN	Colours LP	INDIFFERENT	4:32	4z_IE6Xshbk	MPREb_lt0GSMNSgrx	UC3ZPJqok8mjJJHeeY5clbNw
-295	Doing What I Got	Isaac Tichauer	Devotion	INDIFFERENT	5:17	bl_QXzxy0mo	MPREb_iT4Ief54Zte	UCBb5lKlhmXXeMQuShVyinpA
+295	Doing What I Got	Isaac Tichauer	Devotion	INDIFFERENT	5:18	qmOHTDgS35k	MPREb_GTM4ATRDO8D	UCBb5lKlhmXXeMQuShVyinpA
 318	Heart on Fire (IYES Remix)	Indiana	Heart on Fire (Remixes)	INDIFFERENT	4:26	JJCkyNPx4DI	MPREb_Hnz1fjdRY0z	UCQKW13pt63dGvL5mFtEEQqw
 464	Changes (Late Nite Tuff Guy Remix)	Imagination	Night Dubbing II	INDIFFERENT	7:01	aWd_jGxTVoY	MPREb_5G0wrcXBVRb	UCXMpeyLh_o6iIAdXhUMwNmQ
 499	Need You Tonight (Ben Liebrand Mix)	INXS	Kick (30th Deluxe Edition)	INDIFFERENT	7:16	3KoyzDhDCdY	MPREb_3qtUduLmjft	UCVHfuJpwPb1AWBLWOwA0McQ
@@ -446,7 +445,7 @@
 359	Flee (feat. Ann Shirley)	Crayon	Flee	INDIFFERENT	3:14	nkr7VWTh1Is	MPREb_LVsNQmsKej1	UCJ3IX-xpxlEd7Uq0cLql1Zw
 87	Polarised	Cosmo's Midnight	What Comes Next	INDIFFERENT	3:09	yBo_LbR5riE	MPREb_gwnN4ob4KdM	UCMxWoTwaX5LGxkF_jUxIH1A
 161	Snare (feat. Wild Eyed Boy)	Cosmo's Midnight	Moments - EP	INDIFFERENT	3:22	OA6FCt93U08	MPREb_KQcWvWh83wl	UCMxWoTwaX5LGxkF_jUxIH1A
-426	Reginald's Groove (Classixx Remix)	Cosmic Kids	Reginald's Groove	INDIFFERENT	5:31	DZ57cENjz50	MPREb_0M73UgpKr9t	UCgL-nS9JrdVVzX_gvCuKz9w
+426	Reginald's Groove (Classixx Remix)	Cosmic Kids	Reginald's Groove	INDIFFERENT	5:32	JQp_hMr9O0s	MPREb_fYB0jaN4JKD	UCgL-nS9JrdVVzX_gvCuKz9w
 212	Maquillage	Corine	Un air de fête	INDIFFERENT	3:00	xJ2fny3iKDI	MPREb_TEA4az0fZ7X	UCxbvptn43M8U6XgLOAzHIdw
 509	Pluie fine (Polo & Pan Remix)	Corine	Fille de ta région Remixée	INDIFFERENT	3:58	8Mlkn8I4p2M	MPREb_ZwgKFGsiabv	UCxbvptn43M8U6XgLOAzHIdw
 480	Alpha Bravo	Cody Currie	Alpha Bravo EP	INDIFFERENT	8:11	doXywQrzpXg	MPREb_dN317nr1jfv	UChY9JPoyjOINr0tX782g5Vg
@@ -469,7 +468,7 @@
 67	Our Love (Louis La Roche Remix)	Cadre Cola	Our Love	INDIFFERENT	5:16	ktYWzLmiKK0	MPREb_bLjVPFdbmIG	UCi2f8NOUHm3s_-NewmiHAzQ
 278	Gold	Cabu & Akacia	Majestic Casual - Chapter 3	INDIFFERENT	3:57	IyywfzzxtjI	MPREb_Jk6WbWDtvgP	UCQWgXZ8xIYLUBBj3Pv5DOFw
 434	Let's Make Love And Listen To Death From Above	CSS	Let's Make Love And Listen To Death From Above	INDIFFERENT	3:35	aJk5AAbeKIM	MPREb_Uw1KWO3erDN	UC8pXbN_LqqUG1TjrLFMK4Ow
-109	Dope	Butch	Dope	INDIFFERENT	8:29	Rst52jNHqAE	MPREb_S0Lrmw3CcQc	UCnnknTAe37w2kFNL-bUTmVQ
+109	Dope	Butch	Dope	INDIFFERENT	8:30	Y6SWT_CQrQ8	MPREb_L8oWNoiNfKL	UCnnknTAe37w2kFNL-bUTmVQ
 182	You Should Know (feat. Ruckazoid)	Breakbot	You Should Know	INDIFFERENT	4:02	x-FEAByqY48	MPREb_MH6zuekJhqE	UC2hW8YWmspFv-nWNdGMUcSg
 260	Don't Stop the Dance (feat. Delafleur)	Breakbot	Another You	INDIFFERENT	5:21	-7udG89qix4	MPREb_ILlwHRij1dw	UC2hW8YWmspFv-nWNdGMUcSg
 266	Too Soon	Breakbot	Still Waters	INDIFFERENT	4:09	fbuaE27RV6c	MPREb_K5l2oWDKRbi	UC2hW8YWmspFv-nWNdGMUcSg
@@ -499,11 +498,11 @@
 314	Drowning	BANKS	Goddess (Deluxe)	INDIFFERENT	4:09	fTHXCcwhrn8	MPREb_NXMFbcI1Vyp	UC7QXn5ZO2n5MqNy1Rrp547g
 326	Waiting Game	BANKS	Goddess (Deluxe)	INDIFFERENT	3:27	hQa06nWnHCM	MPREb_NXMFbcI1Vyp	UC7QXn5ZO2n5MqNy1Rrp547g
 230	Climb (Radio Edit)	B.A.N.G!	Climb	INDIFFERENT	3:25	uGhdNCq11oI	MPREb_CItrwNpv4E9	UCrXZnpaEl3Kw27V31snLlpA
-282	Cubic Mouth	Axel Boman	Black Magic Boman EP	INDIFFERENT	3:30	zbKMSDo2GR0	MPREb_GKsslUQjYlW	UCToXpL5S9rE2qf2lpR8tTXw
+282	Cubic Mouth	Axel Boman	Black Magic Boman EP	INDIFFERENT	3:30	qAr3uEqCcYQ	MPREb_7Tz2dlntDLk	UCToXpL5S9rE2qf2lpR8tTXw
 30	Running	Autograf	Running	INDIFFERENT	3:56	8Wz5063mkYw	MPREb_CgGgS1EpCAF	UCtkm_F9fPZjzqi2p7EjYKSw
 164	Softer Still	Atlas Bound	Lullaby EP	INDIFFERENT	3:19	KcAak3boGF4	MPREb_WcivhQXlIr5	UCNDkq1-bVXNsUQMj_E2Uz8g
 245	Your Motion Says (Twin Version)	Arthur's Landing	Spring Collection	INDIFFERENT	4:37	OxIOD4VWk0w	MPREb_wJsY2RhZjCM	UC2MQWmreA5k9eoDwPw1FBQQ
-283	Without You	Art Department	The Drawing Board	INDIFFERENT	5:15	APLvP3edxQI	MPREb_RUzry5Y5FOj	UC-pNEXeo1yqLeBrt2bE5Mng
+283	Without You	Art Department	The Drawing Board	INDIFFERENT	5:16	ORLWRUJsdbY	MPREb_DJOK3oXdyNV	UC-pNEXeo1yqLeBrt2bE5Mng
 353	Favor	Anoraak	Favor	INDIFFERENT	3:44	HqUpIYd1yHc	MPREb_QGGJQHLnpUt	UCvE6R0gEQUOhDz1eyIkn_7g
 379	Above Your Head	Anoraak	Wherever the Sun Sets (Bonus Track Edition)	INDIFFERENT	3:42	LGR5kaIq02s	MPREb_4n1SlQK2SRS	UCx1y_YbI4JNwZgc3pL473cg
 19	Am I Wrong (feat. ScHoolboy Q)	Anderson .Paak	Malibu	INDIFFERENT	4:13	BonLgl1dod4	MPREb_jjLqNxEKkl5	UCLdqZBVvWa174TnYyLC-IAg
@@ -520,4 +519,5 @@
 384	Caramellas	Aeroplane	We Cant Fly	INDIFFERENT	5:13	9P5A0mhl8os	MPREb_83W49J85CIx	UCuzxRFak-JBfw5oMNRtVXhg
 463	"Tonight (Adam Port 12"" Autobahn Edit)"	Adam Port / Here is Why	Sonnenfinsternis	INDIFFERENT	6:14	pYMRrlJvIrQ	MPREb_tpElLEpDCAc	
 178	Tangerine	Aaron Childs	Tangerine / No Hobbies	INDIFFERENT	3:51	MJGTpuo73pg	MPREb_VqmtqAuaqM1	UCITaMvf06dn7ol4E3EXgJTA
+432	Something Special	Miguel Campbell	Back In Flight School			rAg3gzaDsww		
 235	World	Leeveye	World			hegEIgBVfrg		
