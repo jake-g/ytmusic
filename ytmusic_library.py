@@ -34,6 +34,17 @@ class YTMusicPlaylists:
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
 
+    def test_ytmusic_api(self):
+        import ytmusicapi as ytmusicapi
+        print(f'Using ytmusicapi version: {ytmusicapi.__version__}')
+
+        assert (self.yt)
+        # Don't Think Twice, It's All Right	Bob Dylan
+        assert (self.yt.get_song('Kv7K9ghgcgA'))
+        assert (self.yt.get_library_playlists(limit=1))
+        assert (self.yt.get_library_albums())
+        assert (self.yt.get_library_artists())
+
     def _playlist_loc_first(self, col, value):
         res = self.playlists.loc[self.playlists[col] == value]
         if len(res) == 0:
