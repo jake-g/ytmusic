@@ -174,7 +174,11 @@ class YTMusicPlaylists:
             print(f'Sorting {pl_info["title"]} ({pl_info["id"]}) with',
                   f'{len(tracks)} tracks into like and indifferent')
         orig_name = pl_info["title"]
-        like_pl_name = orig_name.replace('_radio', '') + '_like'
+        like_pl_name = orig_name
+        if 'radio' in like_pl_name:
+            like_pl_name = like_pl_name.replace('radio', 'like')
+        else:
+            like_pl_name += '_like'
         res_like, n_like = self.create_rating_playlist_subset(
             tracks, orig_name, like_pl_name, 'LIKE',
             min_ids=min_n_like
@@ -184,7 +188,9 @@ class YTMusicPlaylists:
                   f'not enough likes ({n_like})')
             return
         time.sleep(sleep_time)
-        indiff_pl_name = orig_name.replace('_radio', '') + '_radio'
+        indiff_pl_name = orig_name
+        if 'radio' not in indiff_pl_name:
+            indiff_pl_name += '_radio'
         res_indif, n_indif = self.create_rating_playlist_subset(
             tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=playcount_sort,
             ignore_banned=ignore_banned)
