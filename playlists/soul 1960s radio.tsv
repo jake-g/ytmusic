@@ -1,8 +1,10 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 91	Papa Was A Rollin' Stone	The Temptations	All Directions	LIKE	11:45	71l85z2bXAs	MPREb_SaLHVAWTrXb	UCwWtKZD4xNVpEHndNxYu51g
 132	You Don't Know Like I Know (LP/Single Version)	Sam & Dave	Hold On, I'm Comin'	LIKE	2:43	ONaypwDKUzI	MPREb_W3xXW2qlAQd	UC0jVmnViSoUHl_XwocssdPg
+24	Ain't No Mountain High Enough	Marvin Gaye	The Love Songs Of Motown	LIKE	2:27	vA9-3mLVGTY	MPREb_JlVcQfGuarH	UCpMMYJB5GJAYSJr3QpxnHEg
 34	Any Other Way	Jackie Shane	Sticks And Stone The Sue Records Story - Various Artists	LIKE	2:38	b5hcGLoD5Uw	MPREb_B4tYHfSmqgy	UCcxL-whnoTLyFvexFiFhM4w
 10	(You Make Me Feel Like) A Natural Woman [45 Version]	Aretha Franklin	[You Make Me Feel Like] A Natural Woman / Baby, Baby, Baby	LIKE	2:45	Ay6oJZQ0Y4w	MPREb_aReJVeP5lcr	UCW02f_MjH8n1uMZhSds4mQQ
+143	I Never Loved a Man (The Way I Love You) [Mono]	Aretha Franklin	I Never Loved a Man the Way I Love You (Mono)	LIKE	2:53	ts7mEKN7o5A	MPREb_38mw3TZO9yt	UCW02f_MjH8n1uMZhSds4mQQ
 53	I've Come A Long Way	Wilson Pickett	Pick It Wilson	INDIFFERENT	3:16	0KoS2dVFkv8	MPREb_6xBJavBlQ6w	UC_nBrnmRNUgbvTbsr20gssQ
 70	I'm Not Tired (45 Version)	Wilson Pickett	In The Midnight Hour / I'm Not Tired	INDIFFERENT	2:56	rh8zrWYyUrc	MPREb_O9fsOYOw91w	UC_nBrnmRNUgbvTbsr20gssQ
 150	Can't Stop a Man in Love	Wilson Pickett	Atlantic Unearthed: Soul Brothers	INDIFFERENT	3:14	4pBpi3uYjfA	MPREb_dz2xBbtJZiw	UC_nBrnmRNUgbvTbsr20gssQ
@@ -100,7 +102,6 @@
 74	Heartbreaker	Ray Charles	Yes Indeed!	INDIFFERENT	2:55	1n4y6vkCzow	MPREb_Ox9CvuuUypI	UClapQBGYNOoLYmCct6e3B5Q
 65	Let The Music Get Down In Your Soul	Rance Allen	Let The Music Get Down In Your Soul	INDIFFERENT	8:44	9bMYYLPTuvo	MPREb_8btO6ptYgVl	UCxHfGwO7hlsrkaX4UZeDC1w
 252	Lying On The Truth (Live)	Rance Allen	Wattstax: The Living Word	INDIFFERENT	3:41	LEfTNHBz2t0	MPREb_Mnk7ymurSwo	UCxHfGwO7hlsrkaX4UZeDC1w
-249	Soul Mate	Ramona Parks	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:02	jSHVQmGZ7rg	MPREb_aKQBOtnUTpc	UCPS0xNKyWRPnTmmWGYkgjGg
 235	One More Hurt	Phil Flowers	Soul Legends	INDIFFERENT	2:41	PEE1xF3wTrI	MPREb_OdQiP3cLaLt	UCzKl7F8nT4MS5IcRZRI2PSw
 244	Little Devil	Phil Flowers	The Otis Rene Story	INDIFFERENT	2:13	Kot3gQMsF9Q	MPREb_wcVFqx9GRW6	UCzKl7F8nT4MS5IcRZRI2PSw
 17	When a Man Loves a Woman (Mono)	Percy Sledge	When A Man Loves A Woman (Mono)	INDIFFERENT	2:54	dsQriJbxYBU	MPREb_2XaV4gPBGFq	UC5M-4duAPtRBjTCUxo_jxtQ
@@ -120,7 +121,6 @@
 240	This Ain't The Way	Melvin Davis	Detroit Soul Ambassador	INDIFFERENT	2:52	xWre-bGruo8	MPREb_nHGZUfhj0H5	UCV9XNIrUURqaA9NTB3-QaVg
 33	Dear Lover (Single Version)	Mary Wells	Two Sides Of Mary Wells	INDIFFERENT	2:15	Nl9zDHiUsJU	MPREb_CqSSvfBGMDP	UCuEa7OeWhqbdPAseZmH4jYg
 156	Hands off My Baby (Remastered Version)	Mary Wells	Atlantic Unearthed: Soul Sisters	INDIFFERENT	2:30	0khLsyyJtDU	MPREb_U30yGaA0TNV	UCuEa7OeWhqbdPAseZmH4jYg
-24	Ain't No Mountain High Enough	Marvin Gaye	The Love Songs Of Motown	INDIFFERENT	2:27	vA9-3mLVGTY	MPREb_JlVcQfGuarH	UCpMMYJB5GJAYSJr3QpxnHEg
 44	This Love Starved Heart Of Mine (It's Killing Me) (1994 Love Starved Heart Version (Mono))	Marvin Gaye	Lost and Found: Love Starved Heart [Expanded Edition]	INDIFFERENT	2:40	lqKR_o2pIcA	MPREb_a2vyPc0fUpy	UCpMMYJB5GJAYSJr3QpxnHEg
 182	Tainted Love	Martha Reeves	Tainted Love	INDIFFERENT	4:06	8aar44FjxM0	MPREb_Gg8bbGk8G7m	UCuhny_QztUZ3-ayAcOaJzZg
 46	Woman Of The Ghetto	Marlena Shaw	The Spice Of Life	INDIFFERENT	6:02	WaQTwVPvCAU	MPREb_EsPrF3B5a0K	UCeqbGfZMGFL-qg8_QSxnr_g
@@ -197,7 +197,6 @@
 14	All I Could Do Was Cry	Etta James	At Last!	INDIFFERENT	2:58	8sMb7QP78Vw	MPREb_SpgHmaufiRV	UCieyolnCbsWzyEt6wsd7lgQ
 201	Tell Mama	Etta James	Tell Mama	INDIFFERENT	2:24	t_wbyv1TgIQ	MPREb_zqisM59IhFI	UCieyolnCbsWzyEt6wsd7lgQ
 225	Humpback	Eldridge Holmes	His Greatest	INDIFFERENT	1:59	Xz7wyVALG0Q	MPREb_qaMBiQItuPs	UCmLd16Ltx2KRq84Tfgd5Hbw
-239	The Grunt	Eddie Kirk	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:49	6pXR-YoIQI4	MPREb_aKQBOtnUTpc	UCZulqmytPq6QNGXKfRlstgg
 79	Big Bird (Mono)	Eddie Floyd	Stax Profiles: Eddie Floyd	INDIFFERENT	3:01	TkS4jz9bFqI	MPREb_arNBprcdRBz	UCWLQEbqa5zFzVGGeF6ZiOgg
 228	He's About a Mover	Dottie Cambridge	Here's a Song! (You Might Have Missed), Vol. 49: New York Soul 1960's, Pt. 2 Img-925	INDIFFERENT	1:49	Wl8oXt3xTJA	MPREb_sP5LGEMYCWH	UCPvRc6Tww6yHSG6NUwVm4aQ
 166	Just One Look	Doris Troy	Sings Just One Look And Other Memorable Selections	INDIFFERENT	2:32	GI3OYR_XM0w	MPREb_zp9Ai2rEK4t	UCQrC_HNrZaHof5OQM9C-0Yg
@@ -219,7 +218,7 @@
 217	(She's So Fine) So Glad She's Mine	Carter Brothers	(She's so Fine) So Glad She's Mine / Booby Trap Baby	INDIFFERENT	2:32	PGaCzDCgxfM	MPREb_XRPQD32qWxE	UCD2ZCeXGfUVTTyd5CCqlrOA
 41	Tramp	Carla Thomas	King & Queen	INDIFFERENT	3:02	EF9w_ZRsLtc	MPREb_57nzxs4harZ	UCMpfKKpbjRSQsYRKou-1H0w
 125	I Like What You're Doing (To Me)	Carla Thomas	The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971	INDIFFERENT	2:55	Q9C-FNll6ek	MPREb_CSNUVYXndKu	UCMpfKKpbjRSQsYRKou-1H0w
-248	When You See Me Hurt	Carl Lester & The Showstoppers	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:20	0iepJhPZ06Y	MPREb_aKQBOtnUTpc	
+248	When You See Me Hurt	Carl Lester & The Showstoppers	Novelty Hits For Summer Grill Party, Vol.4	INDIFFERENT	2:21	FAXkJF8muoo	MPREb_J1eADnMpvni	
 237	Hipster	C. Forture & J. Brinson	Movements Vol.4	INDIFFERENT	2:49	zLdB5iJOtk8	MPREb_Rb9bWJ4vAyJ	
 77	Outrage	Booker T. & The M.G.'s	Time Is Tight	INDIFFERENT	2:32	SowH3N9K7Z8	MPREb_8UwLsR3RZuq	UCArwMp9q2N-UvSXih_0ahTA
 118	Burnt Biscuits	Booker T. & The M.G.'s	Time Is Tight	INDIFFERENT	2:15	vQW91vJySOs	MPREb_8UwLsR3RZuq	UCArwMp9q2N-UvSXih_0ahTA
@@ -230,7 +229,6 @@
 103	Chained To Your Heart	Bobby Moore & The Rhythm Aces	Go Ahead And Burn	INDIFFERENT	2:21	-xGRE5tcUoc	MPREb_Gb7xq9Gw5sh	UC-jZ1kxVvylv7kaMaDHbZGQ
 144	Uncle Willie Time	Bobby Miller	Constellation of Chicago Soul	INDIFFERENT	2:14	LSa8L1TE5Pc	MPREb_ZuOSk8HFwEe	UC7sUlD_KTV015LYkXOGh-8g
 202	Harlem Shuffle	Bob James & Earl Klugh	Harlem Shuffle	INDIFFERENT	3:01	2QWzrtLxlo8	MPREb_1zQrl8Uwznx	UCDLYptb8hVAbNSSJLuMBm7g
-241	I'm Tired	Billy Watkins	Rattlesnake Shake Blues N' Rhythm	INDIFFERENT	2:12	IboiBvnKKxY	MPREb_aKQBOtnUTpc	UCdg1YZOEMUSjpO4DQI7yGEA
 135	Sitting In The Park	Billy Stewart	I Do Love You	INDIFFERENT	3:15	uMywkoPdA2U	MPREb_WWoOvuIEHZ7	UCATenkbGJuZeE2RBKzEwzWg
 149	Summertime	Billy Stewart	By George And Ira: Red Hot On Gershwin	INDIFFERENT	4:23	ZvpnIOXna0Y	MPREb_wohXPCJ5qm0	UCATenkbGJuZeE2RBKzEwzWg
 187	Hope She'll Be Happier (Live at Carnegie Hall, New York, NY - October 1972)	Bill Withers	Bill Withers Live At Carnegie Hall	INDIFFERENT	4:27	MXdn9FrTpk8	MPREb_482hhjK6KaD	UCDjpW6k2Sfg_FTr1toLvffQ
@@ -248,8 +246,10 @@
 220	I Got Soul	Art Grayson	Jazz Beat, Vol.2 (Live)	INDIFFERENT	2:40	-kSeBUDN8UM	MPREb_fERiZAnCRZ9	UCQLRsOK_K48flyrGU-KZBtA
 38	(Sweet Sweet Baby) Since You've Been Gone [Mono Single Version]	Aretha Franklin	Lady Soul	INDIFFERENT	2:29	EscSJVTx7Gg	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
 47	Don't Play That Song	Aretha Franklin	Spirit in the Dark	INDIFFERENT	3:03	pCQXc8qkVnI	MPREb_6aIMsBjBoCt	UCW02f_MjH8n1uMZhSds4mQQ
-143	I Never Loved a Man (The Way I Love You) [Mono]	Aretha Franklin	I Never Loved a Man the Way I Love You (Mono)	INDIFFERENT	2:53	ts7mEKN7o5A	MPREb_38mw3TZO9yt	UCW02f_MjH8n1uMZhSds4mQQ
 199	I Never Loved a Man (The Way I Love You) (Stereo)	Aretha Franklin	I Never Loved a Man the Way I Love You	INDIFFERENT	2:47	Ou2vVeRXO_s	MPREb_vQEkQ85wKYE	UCW02f_MjH8n1uMZhSds4mQQ
 115	She Caught The Katy And Left Me A Mule To Ride	Albert King	Lovejoy	INDIFFERENT	3:56	fYJTQ9RGgwY	MPREb_XNtAKxWbIZz	UC9XFvJIqt0duVgnlvkXBeKA
 203	Back Up Train	Al Green	Back Up Train	INDIFFERENT	2:20	R-zF9fnIrAA	MPREb_LgWZUCDJDMt	UC7tb2Of68kIlrtj2qUnJtbQ
 100	Watch Yourself	Al Gardner	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:19	L3JtS-3uwQY	MPREb_5V84aiei9iR	UCsr0OMXmR1iQBqaDZzGdSMQ
+249	Soul Mate	Ramona Parks	Rattlesnake Shake Blues N' Rhythm		2:02	jSHVQmGZ7rg		
+239	The Grunt	Eddie Kirk	Rattlesnake Shake Blues N' Rhythm		2:49	6pXR-YoIQI4		
+241	I'm Tired	Billy Watkins	Rattlesnake Shake Blues N' Rhythm		2:12	IboiBvnKKxY		

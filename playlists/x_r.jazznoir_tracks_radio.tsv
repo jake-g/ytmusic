@@ -1,4 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+117	Ruins	Portico Quartet	Portico Quartet	LIKE	5:35	g1qRVxTwD7A	MPREb_oW7C69hjaoN	UCEjV3Q-KQmjxSBpYFIAbISw
+13	Dark Jazz	Parov Stelar	Seven and Storm	LIKE	3:23	jZe3RnmACXc	MPREb_I2cNiqEvk45	UCWrsznYEg0tnrsgaXrUi36g
+71	The Unnamable	Musica Cthulhiana	The Fourth	LIKE	6:32	uFsSQGryHgI	MPREb_2Itf8IMkRCD	UCnz7-EneLs7GYzl_igFhW6w
+10	Yèkèrmo Sèw (A Man of Experience and Wisdom)	Mulatu Astatke	Ethiopiques, Vol. 4: Ethio Jazz 1969-1974	LIKE	4:16	WxEjBw69ce0	MPREb_nyYdjRoQrBO	UCzEIYuYX27ZmTBTASkIjKZA
 40	Julien Dans L'Ascenseur	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	LIKE	2:09	b644T5CSLtQ	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
 179	Chez Le Photographe Du Motel	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	LIKE	3:54	yKHBMe0y63Y	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
 240	'Round Midnight	Miles Davis	'Round About Midnight (Legacy Edition)	LIKE	5:56	7r77GLcGlvQ	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
@@ -9,13 +13,15 @@
 36	"Love Theme From Chinatown (End Title) (From The ""Chinatown"" Soundtrack)"	Jerry Goldsmith	Chinatown (Soundtrack)	LIKE	2:02	Yk7A6I3TkxQ	MPREb_XUqaIvrpCVv	UCrVjLr_xAYya1nLtASj4_BQ
 255	You'd Be so Nice to Come Home to	Chet Baker	Chet Baker In Tokyo (The Complete Concert)	LIKE	10:56	XL3JZros1Ns	MPREb_X752a9pMX6a	UCVNfRXuaWVILL9giCEg0rQg
 267	Prowler	Bohren & Der Club Of Gore	Sunset Mission	LIKE	5:05	X2cEtEebGPo	MPREb_ADrg9Fw1qto	UCuaizhGGGx28ehnaIiqYLew
+79	While My Guitar Gently Weeps	Black Chamber	Black Chamber	LIKE	4:40	NFcZB6f_4hw	MPREb_FpaEhcTf2I6	UCD2nW8sdjPnxjcWA94Jn6Hg
+92	Teleology	Black Chamber	Black Chamber	LIKE	4:26	DuZQkjhFdr0	MPREb_FpaEhcTf2I6	UCD2nW8sdjPnxjcWA94Jn6Hg
+75	Theme from Twin Peaks-Fire Walk with Me	Angelo Badalamenti	Twin Peaks: Fire Walk With Me - Soundtrack	LIKE	6:46	grlkoRazWh4	MPREb_WRX0bk9k01w	UC7ygKpFFov9EnbZQq3SqRCA
 269	Don't Do Anything (I Wouldn't Do)	Angelo Badalamenti	Twin Peaks: Fire Walk With Me - Soundtrack	LIKE	7:21	KrsBPs_cMmY	MPREb_WRX0bk9k01w	UC7ygKpFFov9EnbZQq3SqRCA
 1	Rorschach	loscil	Plume	INDIFFERENT	8:19	-VxwbHL78HI	MPREb_Ng1iG2NwySQ	UC9EE9HaPwLsC7F6C9Po0HVg
 91	The Kilimanjaro Darkjazz Ensemble  -  Giallo	kXipu		INDIFFERENT	6:02	uHpj0vE_O2M		UCTX8LBeG2k0iKT5vqZ9P3OQ
 196	"It's Raining Somewhere Else (From ""Undertale"")"	insaneintherainmusic	Year 4	INDIFFERENT	6:36	E1wmcNnMzxk	MPREb_GVVDLlYnQgr	UCpznTIpk7wywAf62U3Jm-mg
 192	Years of Yearning	e.s.t. Esbjörn Svensson Trio	Strange Place for Snow	INDIFFERENT	5:40	E3da-hvsOII	MPREb_tfZFgeI3Hp0	UCUzDPhpNPFEJWHSdriQfZAQ
 258	tranquillity.	crier	Tranquillity.	INDIFFERENT	2:22	CgnrG3OarKY	MPREb_ge3UHMokVZh	UCQte4ugDkwEegtkwuLrGijA
-104	Håkon Kornstad - Oslo	ambivalentrecord		INDIFFERENT	4:38	CMVvceaPk0Y		UCYVW3Xpn9l1KPiv_9MHsCSA
 80	Deaf Center - White Lake	ZerothRecursion		INDIFFERENT	6:36	2jUsmWfblI4		UCYU4Gy82klUOpgtepIbNyaA
 223	Longing	Yuna Sayaka Kanda	Gekijouban Sword Art Online Ordinal Scale Original Soundtrack	INDIFFERENT	3:48	Eppci-N4UOs	MPREb_zK4PAbvrGkO	UC41WtPkx7MEBWKyWri1yVMA
 166	Soundless Bye (feat. Ulf Wakenius, Lars Danielsson & Vincent Peirani)	Youn Sun Nah	Lento	INDIFFERENT	3:45	_8rSOHcRk_o	MPREb_rTVRC6krRKg	UCsawFGshuEQk0oqYgPulJhw
@@ -28,15 +34,14 @@
 224	East/Jinx	Tuxedomoon	Solve Et Coagula	INDIFFERENT	10:00	GAgmTx2Y6tk	MPREb_OiNQoeyN7Yw	UCEJOvBeC1WiZCJZN6Y8FhUg
 250	Azadeh (feat. Ballaké Sissoko & Omar Sosa)	Trio Chemirani	Trio Chemirani invite	INDIFFERENT	6:00	rOlOnt2pwxc	MPREb_ZIF0yicnGUZ	UCp7n9zaVIm5loKJ62t03JWg
 32	Pick Or Pluck	Trigg & Gusset	Pick Or Pluck	INDIFFERENT	4:58	CSvPcb8ni94	MPREb_fUV5U5jHNSW	UCD7VSlPQNlyssliOGp3MdKQ
+95	Cardium	Trigg & Gusset	Adagio for the Blue	INDIFFERENT	6:19	CDfzp7vQrtw	MPREb_5azVxPL98wG	UCD7VSlPQNlyssliOGp3MdKQ
 235	Last Known Spy	Trigg & Gusset	Legacy of the Witty	INDIFFERENT	3:50	8KtABGlwc1I	MPREb_OEbhBJfMEh5	UCD7VSlPQNlyssliOGp3MdKQ
-95	Trigg & Gusset - Cardium	Trigg		INDIFFERENT	6:20	VaE2yabq458		UCugy4t3PsG69Bj7gAt2yl2A
 138	disco tits	Tove Lo	BLUE LIPS (Lady Wood Phase II)	INDIFFERENT	3:43	5ntYCQculZo	MPREb_aOXpuNC1smT	UCIWrwx1RmgvMbnugBl5pq7Q
 58	Blues for Ali	Toufic Farroukh	Drab Zeen	INDIFFERENT	4:32	Hfkl2NEEWmg	MPREb_jmdkEuCGRw0	UCxOHdLRQvTgStv50NN55CPw
 265	You Must Believe In Spring	Tony Bennett	The Complete Tony Bennett/Bill Evans Recordings	INDIFFERENT	5:50	CPf0m1PjZV8	MPREb_pyi9Eqj21qh	UCQgu2j5deAy_cJfByew18qg
 59	Music for the Sun King	Tonbruket	Forevergreens	INDIFFERENT	5:43	nW_b_jihqFs	MPREb_pSzmmMpIYDU	UCTvdwL6OSltbwI8Nd6NPBTA
 73	Burma-Shave	Tom Waits	Foreign Affairs	INDIFFERENT	6:35	FX5jlZFjSUQ	MPREb_CTEPsQrYb6h	UC39N3pyt2Z15oOMjouokl8A
 264	Small Change (Got Rained On With His Own .38)	Tom Waits	Small Change	INDIFFERENT	5:07	12ku8huQYvE	MPREb_bcX23G6xXPH	UC39N3pyt2Z15oOMjouokl8A
-68	Deaf Center - Time Spent	Tobias		INDIFFERENT	2:10	uUUXCMKbtL8		UCPuoMSHYtNLVPc1r69AODOg
 110	x+x	Tibe D'oro	x+x=1	INDIFFERENT	3:14	4OEq8ptNxmg	MPREb_LuvG0Xuxjs4	UC2F3PuD2QSdrBdddvtaca9Q
 207	Monk's Dream (Take 8)	Thelonious Monk	Monk's Dream	INDIFFERENT	6:26	mgqYJa5hMQY	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
 116	Live At The Nocturnus	The Thing With Five Eyes	Frequencies Of The Mind III	INDIFFERENT	5:05	4xAF8PurfTo	MPREb_i827VFUFuVi	UCbKAbmTa-pzHxwMCy_gsOng
@@ -50,6 +55,8 @@
 37	Past Midnight	The Kilimanjaro Darkjazz Ensemble	From the Stairwell	INDIFFERENT	12:02	uAzKHWnbRU4	MPREb_jsEst6erine	UCCOfI7bSteogcp8KW2tSrgg
 39	Cocaine	The Kilimanjaro Darkjazz Ensemble	From the Stairwell	INDIFFERENT	11:28	iYifc1e95bY	MPREb_jsEst6erine	UCCOfI7bSteogcp8KW2tSrgg
 52	Scirocco	The Kilimanjaro Darkjazz Ensemble	Here Be Dragons	INDIFFERENT	5:33	he8fOtVDj4Y	MPREb_xxzVRKAnBJM	UCCOfI7bSteogcp8KW2tSrgg
+111	Lobby	The Kilimanjaro Darkjazz Ensemble	The Kilimanjaro Darkjazz Ensemble	INDIFFERENT	6:58	Ueokv2qQYDs	MPREb_52u624CckdX	UCCOfI7bSteogcp8KW2tSrgg
+112	Parallel Corners	The Kilimanjaro Darkjazz Ensemble	The Kilimanjaro Darkjazz Ensemble	INDIFFERENT	3:36	uGs52vyFtyY	MPREb_52u624CckdX	UCCOfI7bSteogcp8KW2tSrgg
 202	Celladoor	The Kilimanjaro Darkjazz Ensemble	From the Stairwell	INDIFFERENT	7:16	SjR18A8A1D0	MPREb_jsEst6erine	UCCOfI7bSteogcp8KW2tSrgg
 193	Coleen feat. The Dap-Kings Horns (feat. The Dap-Kings Horns)	The Heavy	That Kind Of Man	INDIFFERENT	3:00	S15oUfslxl8	MPREb_Y11wVcj49KT	UCbGFbVqBTN3aCjUwz3FChFw
 146	Hypnosis	The Grand Imposter	Hypnosis	INDIFFERENT	3:57	sqpd_sdD3UY	MPREb_uYE49Nsqts5	UC2CSRPsfudXA-sAtEcpT-aQ
@@ -58,13 +65,14 @@
 234	"Night Piece for Saxophone and Orchestra (From ""Taxi Driver"")"	The City of Prague Philharmonic Orchestra	Citizen Kane: The Essential Bernard Herrmann	INDIFFERENT	8:03	3GUBnPGvl-k	MPREb_FlymQcttKlJ	UC_FXfSRzcrKYJPPEVHAi7GQ
 47	Night of The Iguana	The Cinematic Orchestra	Motion	INDIFFERENT	13:21	lF2git4Hetg	MPREb_OvhxgXXQmEm	UCIzsJBIyo8hhpFm1NK0uLgw
 228	Sleazy Bed Track	The Bluetones	Return To The Last Chance Saloon	INDIFFERENT	4:41	kVTVjGSDpBg	MPREb_HEyE7AcQR9F	UCxbzygCO_IGe3exRL8FP6qg
+98	Neptune (The Planet)	The Bad Plus	Give	INDIFFERENT	5:29	eqwrBP_PAJM	MPREb_9xoxxDhVZsP	UCffLfyriw4jRU-y-TzABZgQ
+121	Dreadnought	Teeth Of The Sea	Orphaned By the Ocean	INDIFFERENT	7:31	AGLiqXsRzFA	MPREb_d2qwJ7KkYw3	UC7wrknDrjvF0DddRctX-vIQ
 274	Dawn Mists	Stringtronics	Barry 7's Connectors - 21 Rare Library Tracks	INDIFFERENT	3:30	LwIgNncc_C0	MPREb_x10Vjf2A7VM	UCwhDmElDRwVCE9_9H4k2z0w
-147	Crack in the Sky (feat. Gary Husband, Tony Levin, Pat Mastelotto & Markus Reuter)	Stick Men	Owari	INDIFFERENT	5:34	mcH5NbL_Ni8	MPREb_UhxnTwLaYZk	UCQWbX-ttkQc2IAwdHVno_ag
+147	Crack In The Sky (feat. Markus Reuter, Pat Mastelotto, Tony Levin & David Cross)	Stick Men	Owari	INDIFFERENT	5:33	x3XHZFY4hG0	MPREb_TFrDMgL2HhT	UCQWbX-ttkQc2IAwdHVno_ag
 148	City of Motors	Soul Coughing	Ruby Vroom	INDIFFERENT	4:39	poFlE2qs-o0	MPREb_3TtfCns5IJF	UC72o75dCRSDrhAkDvyrSlzQ
 100	Adonia's Lullaby	Sons Of Kemet	Burn	INDIFFERENT	4:12	nAR_5C_3_3o	MPREb_P8XlTgchJEt	UCPT3mSJk7wEloINrQauRwxQ
 230	Lover Man	Sonny Stitt	HIP JAZZ BOP - Cut And Run: Jazz Essentials By Jazz Greats	INDIFFERENT	5:22	4nEoVhEBBsw	MPREb_TinUWMpwYE0	UCB3J5quVDC8D4nfFSWTzFnQ
 135	Michele's Meditation	Shorty Rogers	The Swinging Mr. Rogers	INDIFFERENT	3:57	EXcd9eewtuc	MPREb_uuf3XLwikEg	UCUNO4YlJ7esqE0HwRqIagdw
-98	Neptune (The Planet) - The Bad Plus	Sergio Roa		INDIFFERENT	5:29	5CinMirRYAA		UCt9u2k77l1j0XAEUOZnxjYQ
 42	Piano Black	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	INDIFFERENT	2:48	ssmYUDYtrKA	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
 43	Goodnight Julia	Seatbelts	COWBOY BEBOP - Knockin' on Heaven's Door (Original Motion Picture Soundtrack - Future Blues)	INDIFFERENT	1:57	wKuKfEM1gdo	MPREb_i1152RPPjuS	UCFhMA8ygjzH72UqPf7PmlUg
 45	Bad Dog No Biscuits	Seatbelts	COWBOY BEBOP (Original Motion Picture Soundtrack)	INDIFFERENT	4:11	mDqW81sDGLg	MPREb_asHLU4Jr7nQ	UCFhMA8ygjzH72UqPf7PmlUg
@@ -84,11 +92,10 @@
 102	A Day for Trade Winds	Ronu Majumdar	Hollow Bamboo	INDIFFERENT	8:04	0XEA5ZGWNUo	MPREb_yQCAW1N33un	UCQslp02h_km_WVh1-5HLXwA
 82	Love Me or Leave Me	Robert Palmer	Ridin' High	INDIFFERENT	3:47	0-0tepWchpg	MPREb_Pyz5pNWl9kf	UChFzZ5AFICBswe24HOzDWdA
 249	Ridin' High	Robert Palmer	Ridin' High	INDIFFERENT	2:17	S-bKO4Sut6I	MPREb_Pyz5pNWl9kf	UChFzZ5AFICBswe24HOzDWdA
-22	Bohren & Der Club of gore-Black city skyline	RedAnarchistBM		INDIFFERENT	5:53	XwellHLgKL4		UCTtUVwicx1KkbxSejpLAQ3g
 231	Peter Gunn Suite Medley	Ray Anthony And His Orchestra	Ultra-Lounge / The Crime Scene - Volume Seven	INDIFFERENT	8:34	0dA1c7jydJY	MPREb_WLx5Y2mVxUa	UC1t4wDfaKjYEYZYXbhvwHqQ
 56	Soul Bossa Nova	Quincy Jones And His Orchestra	Big Band Bossa Nova	INDIFFERENT	2:46	y-ndMMYhmi0	MPREb_S0cee5u2fx9	UCaBIjouEo87YhSGmPjuXDoA
 108	Oiseaux-Tempête - Ouroboros	Ptitmousse01		INDIFFERENT	17:39	hJL6S-uLp-A		UC8R0r2wxHo1wm5z1MB6LStQ
-117	Ruins	Portico Quartet		INDIFFERENT	5:35	jQH0GPL33uc		UCEjV3Q-KQmjxSBpYFIAbISw
+114	Peepshow	Pram	Dark Island	INDIFFERENT	3:28	Ko7lKGzvcfo	MPREb_vOQHVcinRNx	UCVO0RkvvT8tzcRDYNzBrlGQ
 191	Trains	Porcupine Tree	In Absentia	INDIFFERENT	5:57	4PJs2VaEveE	MPREb_idM3JWikeZg	UCc3TEf15ldupda3ifbVzNMA
 90	Leafcup	Polar Bear	Polar Bear	INDIFFERENT	8:11	G__UpGRkuTw	MPREb_JvzWVKtWlJO	UCrdfHb2HEsHgFE_-9qIm0vQ
 24	Play It Sam	Philip E Morris	A Beat Collection, Vol. 2	INDIFFERENT	2:25	9uij0f_f9jA	MPREb_rFmuRJa3Ofo	UCiw4qXgP2tG02OSe9OsgcUg
@@ -96,21 +103,17 @@
 229	Mandala - Opening	Peter Michael Hamel	Earth's Answer	INDIFFERENT	7:34	Du9Cc5HAiRw	MPREb_sExEnKN9XrJ	UC_5d2YR-Gunk9Bt4-H1stDg
 218	Femme Fatale (feat. Highway Superstar)	Perturbator	The Uncanny Valley	INDIFFERENT	5:29	rCUnPxRq2qM	MPREb_K3MgSweorpU	UCbyUJ5kOv-n05lAKqPdR6ig
 167	Willow	Pat Martino	Impressions: The Incredible Pat Martino	INDIFFERENT	6:11	d7ElfnsgOuY	MPREb_N9YjkqwGW2G	UCUB31jF3RaFkHG-Ty55vaIQ
-13	Dark Jazz	Parov Stelar		INDIFFERENT	3:23	3E2XUa6q_CU		UCWrsznYEg0tnrsgaXrUi36g
 143	Booty Swing	Parov Stelar	The Paris Swing Box	INDIFFERENT	3:17	DvvviZ3gZXM	MPREb_jYsmjIKpCwP	UCWrsznYEg0tnrsgaXrUi36g
 241	Turnaround	Ornette Coleman	Jazz for a Lazy Day	INDIFFERENT	7:56	nDXxVFzZSYs	MPREb_P8cgc5h1zpN	UCMD_nRrrkezVzMumc1hBuwQ
 221	OJ Curice Dina Ti, Kolo (Dance Tune)	Orientexpressen	An Unfinished Story	INDIFFERENT	2:40	6mBFX-Uh_oo	MPREb_0ExLHmqOpAj	UCHnzYoHRl5B5Q88uwtzyjVA
 6	Thrill of Romance...?	Nurse With Wound	Huffin’ Rag Blues	INDIFFERENT	6:40	p9U2i_ttgyc	MPREb_CJvUoMhW2Ky	UC5zxgGm1eRD9a05JcFVpSeQ
 124	Quiet Dawn (feat. Beth Rowley)	Nostalgia 77	Quiet Dawn	INDIFFERENT	5:54	nPKxGDSJISk	MPREb_jveqscWHIsY	UCORO-Ahi0-iiDGD8GyN__gg
 26	Black Is The Color Of My True Love's Hair (Jaffa Remix)	Nina Simone	Verve Remixed 2	INDIFFERENT	4:57	2d7puV62xQQ	MPREb_va7PSAYiPHd	UCqj1HtTq76Bo6rBXNwrF5Uw
-71	Musica Cthulhiana - The Unnamable	Nick Sakkas		INDIFFERENT	6:32	hg0pcwT2MvU		UCqFZN9P1lIL-fnyHOJn6Urg
 248	Into My Arms (2011 Remastered Version)	Nick Cave & The Bad Seeds	The Boatman's Call (2011 Remastered Version)	INDIFFERENT	4:17	_8M_N75nH8Q	MPREb_MC8M8vB7tuY	UCO3bMONL-69xY-dqqo5Cnew
-10	Yèkèrmo Sèw (A Man of Experience and Wisdom)	Mulatu Astatke	Ethiopiques, Vol. 4: Ethio Jazz 1969-1974	INDIFFERENT	4:16	WxEjBw69ce0	MPREb_nyYdjRoQrBO	UCzEIYuYX27ZmTBTASkIjKZA
 208	Ever Since The World Ended	Mose Allison	Ever Since The World Ended	INDIFFERENT	4:52	XuU0v_s-wWQ	MPREb_q4GoyD3IIox	UCHftue3JEfzN9X6bURGSB3g
 237	"I Ain't Got Nothin' but the Blues (Live at ""In Your Ear"" 1972)"	Mose Allison	Mose In Your Ear [Live]	INDIFFERENT	4:26	TDvNmlImyFc	MPREb_vvMJNMr6w4y	UCHftue3JEfzN9X6bURGSB3g
 272	Everybody Cryin' Mercy	Mose Allison	Allison Wonderland: The Mose Allison Anthology	INDIFFERENT	2:43	6fUoEIA6414	MPREb_rEtS25XBK5g	UCHftue3JEfzN9X6bURGSB3g
 164	Don't Come Back	Mononome	Come Close	INDIFFERENT	3:37	42RobHaiHqg	MPREb_9oHoHIguqy5	UCdqwXFtffLWohZqnxJzz7mA
-99	Hidden Orchestra - Antiphon	MineurDuSon		INDIFFERENT	6:07	RHcEg3Va7eE		UCNTngyvySnbzUdV1n0Dr52Q
 15	Diner Au Motel	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	3:59	gYHkm03DKM8	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
 16	Visite Du Vigile	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	2:06	V1o7f32GteQ	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
 17	Motel (Diner Au Motel)	Miles Davis (trumpet), Barney Wilen (tenor sax), Rene Urtreger (piano), Pierre Michelot (bass), Kenny Clarke (drums)	L'Ascenseur Pour L'Echafaud [Lift To The Scaffol] (1958 Film Score)	INDIFFERENT	4:01	dVF89n3QIBc	MPREb_MgMnOHVHWDu	UCIev2PktTH5mI-QlGmbUkiw
@@ -121,17 +124,13 @@
 25	Bitches Brew (feat. Wayne Shorter, Joe Zawinul, Chick Corea & John McLaughlin)	Miles Davis	The Complete Bitches Brew Sessions	INDIFFERENT	26:59	cwcmT_85Gbs	MPREb_Ap9mq8pSocK	UCIev2PktTH5mI-QlGmbUkiw
 54	The Rain	Melody Gardot	My One And Only Thrill	INDIFFERENT	3:21	L6Pa9zQBhIw	MPREb_9wnLj56kuzY	UCDFCfcSFCmT1pZE5ySOBX8A
 213	Where's Sly?	Medeski, Martin & Wood	It's A Jungle In Here	INDIFFERENT	5:24	VmtTTyvWmVE	MPREb_WD37zUPmopk	UCXlUuoNxnI4-44DG3AEL64Q
-96	Nemesis - Aaron Parks	MauroFDTO		INDIFFERENT	6:14	6565AKRNsHE		UCEdAyeyJe9AOgyJaUHUONLg
 118	These Goodbyes	Matthew Halsall & The Gondwana Orchestra	Into Forever	INDIFFERENT	2:50	bLmL_U5AMlY	MPREb_xplLbP1YiG2	UCwSovRiiv24sgTebtpipdwQ
-114	Pram - Peepshow	Matthew Foster		INDIFFERENT	3:30	ZMOMaPPeSog		UC2h_NXWdBhC4eNIOUbcTbCQ
-112	The Kilimanjaro Darkjazz Ensemble - Parallel Corners	MasterfulKoT		INDIFFERENT	3:37	6rk12h_Kc7k		UC1hCUg3bHbbrwj_d772eOvQ
 163	Firecracker	Mass Production	Firecrackers: The Best Of Mass Production	INDIFFERENT	5:03	gBvuqW233Lw	MPREb_68FxPBJqJSg	UC5Fpsxnr4aJJqfN18Fslzcg
 226	Live in Baghdad	Masaaki Endo	COWBOY BEBOP (Original Motion Picture Soundtrack 2 - No Disc)	INDIFFERENT	3:24	CIQ9Suj6idQ	MPREb_iGcIYR3sDsP	UC1gUuRp9Gxlp_ZOZ_eNga5g
 270	It Ain't Necessarily So	Mary Lou Williams	Mary Lou Williams	INDIFFERENT	4:47	2Sp-4Jy4xTU	MPREb_p89LnUIZoQD	UCha4zVvYM9Tv8Hx0Q9lN_jQ
+67	Éclipse (feat. Roger Döring)	Marsen Jules Trio	Présence Acousmatique	INDIFFERENT	9:46	cLAiQXlxIzI	MPREb_bUWxa3ShUd6	UC0n-GFQy3rbuSi1yHG-eI5g
 86	Don't Bother None	Mai Yamane	COWBOY BEBOP (Original Motion Picture Soundtrack 2 - No Disc)	INDIFFERENT	3:42	KeEnUfSYK1E	MPREb_iGcIYR3sDsP	UCmR7JSS_-D8WtR8SCnazq0Q
 87	Want It All Back	Mai Yamane	COWBOY BEBOP (Original Motion Picture Soundtrack 2 - No Disc)	INDIFFERENT	4:02	vzEgPbd0hfo	MPREb_iGcIYR3sDsP	UCmR7JSS_-D8WtR8SCnazq0Q
-79	Black Chamber - While My Guitar Gently Weeps (Cover)	Magnus Maynard		INDIFFERENT	4:40	5YRvEV5rmI4		UCB4lto4YJnPJtc4-L0BTeOw
-92	Black Chamber - Teleology	Magnus Maynard		INDIFFERENT	4:26	w_toC9sNxvw		UCB4lto4YJnPJtc4-L0BTeOw
 46	C'Est Si Bon	Louis Armstrong	Louis Armstrong's All Stars	INDIFFERENT	3:35	sgK8VQQS2rw	MPREb_ClEAZm9K9x4	UCCDaSui4C9VFMpeRlKEOHDA
 60	In the Beginning	Lonnie Smith	Finger Lickin' Good	INDIFFERENT	2:55	TBWp3iULK8w	MPREb_00MKBAut0I6	UCis-douipczmxp-G2OmSNgg
 126	LoFi Chill	Lofi Sleep Chill & Study	LoFi Beats To Study To	INDIFFERENT	3:01	0n1mntTXSPk	MPREb_eOva8PmKk9D	UCHILDmHNVNO7LYXUr71GJpA
@@ -165,15 +164,16 @@
 113	Strands	Jakob Bro	Returnings	INDIFFERENT	4:44	eEMEEJhqpRI	MPREb_Rxlyg67v9VT	UCXgtvaD9SxJpAg_7G5xpN3Q
 214	The Atomic Bomb	Jack Sheldon	Jack Sheldon Presents The Entertainers	INDIFFERENT	4:40	TGDOPIOSl-c	MPREb_cbjJZcAOvLm	UCyrjbLygy1J5dsC2JFxQHVQ
 260	Vigoya	Isaac Tumor	Vigoya	INDIFFERENT	5:18	aJghLEcYWsU	MPREb_vXIbz0SdSEj	UCTz2IT4zJscrLPDaUPUFueg
+104	Oslo	Håkon Kornstad	Dwell Time	INDIFFERENT	4:40	wn1RBpccybQ	MPREb_pgs9qFnnuWE	UChAVifPeIdL-rh5oTKeCB_w
 107	Arsonist's Lullabye	Hozier	From Eden EP	INDIFFERENT	4:27	U2Kc8WSwjq8	MPREb_v1CGOFSrezu	UCA3Zs9A2IeetfGT3Omi9ivw
 210	My Love Is	Holly Golightly	Slowly but Surely	INDIFFERENT	3:04	xIUtK-3xoOg	MPREb_uf2zGkcWR6G	UCAabf-Phb7x4t__13Cpze0A
 57	Fourth Wall	Hidden Orchestra	Archipelago	INDIFFERENT	3:59	tcC_abMr3Mg	MPREb_ciZyERQZTFG	UCLOHKI0N3v9AON6gUW5gZOg
+99	Antiphon	Hidden Orchestra	Night Walks	INDIFFERENT	6:05	tcSgzT43pw4	MPREb_GRTfRImx9ZD	UCLOHKI0N3v9AON6gUW5gZOg
 242	Death Wish (Main Title)	Herbie Hancock	Death Wish: Original Soundtrack Album	INDIFFERENT	6:12	NvYLTaRMpDQ	MPREb_7Vg58LZiAAv	UCq_O_14tCKbx9U9uUT_LEPA
 276	Dreamsville	Henry Mancini & His Orchestra	Music From Peter Gunn	INDIFFERENT	3:58	OWZWPDMezjE	MPREb_xsABGDKWYVI	UCieaIKlhI5t7_gAmBA99d-g
 212	Royal Blue (From The PInk Panther)	Henry Mancini	The Pink Panther And Other Hits	INDIFFERENT	3:15	ZSCxkS5fNsU	MPREb_M124BwjxMIQ	UCieaIKlhI5t7_gAmBA99d-g
 7	Who Lived Here?	Hauschka	Abandoned City	INDIFFERENT	4:49	3BQunpQJbvw	MPREb_nYFC0oTzICv	UC7f8ziHURWDT9plVVPlT96A
 200	American Idiot	Green Day	American Idiot	INDIFFERENT	2:55	VyV54YwPAkk	MPREb_jnYA50rlu4H	UC4JNeITH4P7G51C1hJoG6vQ
-67	Marsen Jules Trio - Éclipse (feat. Roger Döring)	Gold Isthemetal		INDIFFERENT	9:46	qA0Y8azUOmE		UCTbUoJT-zGVn7_N9dkNEj0A
 106	"Eclisse Slow (From ""L'eclisse"" Original Soundtrack)"	Giovanni Fusco	"Eclisse Slow (From ""L'eclisse"" Original Soundtrack)"	INDIFFERENT	2:44	l1Y-BAocsak	MPREb_o16NlsHAOCT	UCaRPRvkY0QzJSK5BZ_oUWmQ
 78	"Blues all'alba (From ""La notte"" Original Soundtrack)"	Giorgio Gaslini Quartet	La Notte	INDIFFERENT	5:48	iae_mSY3sRM	MPREb_09DDrAw01Of	UCktgzCD9XReILHfNntiQS0w
 190	Where Did the Night Go	Gil Scott-Heron	Where Did the Night Go	INDIFFERENT	2:38	iAtbrPOqQoE	MPREb_971MeTaHfL3	UCO78NEi7Y7J3HKFuPke0LoA
@@ -191,13 +191,13 @@
 162	Laura	Ella Fitzgerald	Ella Fitzgerald Sings The Johnny Mercer Songbook	INDIFFERENT	3:45	hNdWRX4jZWc	MPREb_AFM59VAIHoB	UCuMHq8jMRZXpUxSGLBuCa9g
 254	The Garden	Einstürzende Neubauten	Ende neu	INDIFFERENT	5:11	QHqN9o9Ptlw	MPREb_cnuVsJ4T19X	UC7dNbCq4nwEQhGOYx7LWLEw
 253	Fontanel	Eartheater	Trinity	INDIFFERENT	3:41	CTm_uysBAC0	MPREb_FKYHllE0HWC	UCO7iNPKPpQSn4JhUcPq-Jog
-75	Angelo Badalamenti - Theme from Twin Peaks Fire Walk With Me	DuarteGlen		INDIFFERENT	6:47	3hOERnIuvbg		UCUwzBc1AHBR-zQY-V_KPXQA
 9	Such a Night	Dr. John	In The Right Place	INDIFFERENT	2:57	fj9lG30WzcA	MPREb_SWfBmTdZ4XP	UCzD64Nzs2z_fpYXwxk7kWNQ
 216	Perfidia	Dorothy Lamour	My Music History	INDIFFERENT	3:07	3-5LpMVLJsg	MPREb_etttfro6kKx	UC1SfrHhcwFYveXbQBKDxcBw
 161	White Horse	Dirty Streets	White Horse	INDIFFERENT	2:59	62sXJ3jDwiI	MPREb_cxzu83ZHdhn	UCSGMJm55jeKImhdBMsxZMPQ
 20	The Conversation	Dictaphone	Poems From a Rooftop	INDIFFERENT	5:01	VPpLZMaAhw0	MPREb_DnHrQKzpkCE	UCIFL80Yfez0qyYnWAttAgrA
 133	I'm Not In Love	Diana Krall	Wallflower	INDIFFERENT	3:52	zsJJYkZDC2I	MPREb_YXkHtH75IId	UCHOHY0V0VKiEW0Yw7DR4xQw
 74	Three Cheers For Existence	Deru	1979	INDIFFERENT	5:19	z9qPu_oJCAc	MPREb_x95QHYavxRO	UCypJ0yuDqwlTsj4agNilciw
+68	Time Spent	Deaf Center	Owl Splinters	INDIFFERENT	2:09	OU9cY5ZJ9x4	MPREb_CsOM5ltqVKL	UCQLa0W2vkQwLFJQ7noS727w
 160	Sue (Or In A Season Of Crime)	David Bowie	Blackstar	INDIFFERENT	4:41	xM1kN8MtC8s	MPREb_IawaWE6E8uK	UCvY1eVE6lTebXsdFbbXUtkQ
 70	Daniels Dust Devil	Daniel Herskedal	Slow Eastbound Train	INDIFFERENT	2:00	YpX14PHAKX8	MPREb_y4uVCQJXzZm	UCe0cxtmhXjdpg7-45PXSBhQ
 139	Monsoon Coming	Daniel Herskedal	Slow Eastbound Train	INDIFFERENT	6:34	n7YaHHCtyfI	MPREb_y4uVCQJXzZm	UCe0cxtmhXjdpg7-45PXSBhQ
@@ -232,6 +232,7 @@
 66	Unkerich	Bohren & der Club of Gore	Dolores	INDIFFERENT	5:31	j_kte9y-Jmo	MPREb_tXs4ANzFDQX	UCuaizhGGGx28ehnaIiqYLew
 81	Constant Fear	Bohren & der Club of Gore	Bohren for Beginners	INDIFFERENT	6:30	E6AWm5S_ed4	MPREb_mKpyZtmHPAg	UCuaizhGGGx28ehnaIiqYLew
 151	Black City Skyline	Bohren & der Club of Gore	Bohren for Beginners	INDIFFERENT	5:54	PtDq2IaObbY	MPREb_mKpyZtmHPAg	UCuaizhGGGx28ehnaIiqYLew
+22	Black City Skyline	Bohren & Der Club Of Gore	Sunset Mission	INDIFFERENT	5:52	0BE0nV6WC9k	MPREb_ADrg9Fw1qto	UCuaizhGGGx28ehnaIiqYLew
 152	On Demon Wings	Bohren & Der Club Of Gore	Sunset Mission	INDIFFERENT	7:02	vl4x5pchBXI	MPREb_ADrg9Fw1qto	UCuaizhGGGx28ehnaIiqYLew
 153	Texas Keller	Bohren & Der Club Of Gore	Gore Motel	INDIFFERENT	4:42	gveh_x52dC0	MPREb_Ti3r2jDDbGw	UCuaizhGGGx28ehnaIiqYLew
 171	Midnight Radio Track 4	Bohren & Der Club Of Gore	Midnight Radio	INDIFFERENT	12:59	GXl10ZkDF5c	MPREb_7COtNWGCzDG	UCuaizhGGGx28ehnaIiqYLew
@@ -259,7 +260,6 @@
 62	Getting Into Shape / Listen You Screwheads / Gun Play / Dear Father & Mother / The Card / Soap Opera	Bernard Herrmann	Taxi Driver	INDIFFERENT	5:29	YdR7uB5v2eg	MPREb_TgcWs2PuVb7	UCJBS5q6QKyG6NvSZEICaPgg
 48	Solitude	Ben Webster	Ben Webster / The Golden Sax, Vol. 1	INDIFFERENT	2:59	JEdj4Z54xO8	MPREb_hb8b5ZxQPxY	UCANynQMnWY6tEaDl4eWwm1Q
 232	Jazz Devil	Barry Adamson	As Above So Below	INDIFFERENT	5:07	viyzBGFJKMo	MPREb_fAgbafTJQgz	UCi3uuU0SQL-wV-hvkVhNHWg
-121	Teeth Of The Sea -- Dreadnought	Azrafer		INDIFFERENT	7:31	QhINMJy6vPQ		UC_iBIseeJ6dikB0bvDWAtFg
 245	Teardrop	Avishai Cohen	Teardrop	INDIFFERENT	7:25	1q1nTof5VmU	MPREb_wUjHstRXjwL	UCNCQwYr0JqdmSeymoKKAfYA
 8	Miles to Midnight	Atrium Carceri	Miles to Midnight	INDIFFERENT	5:55	oYApXs85gRc	MPREb_0dsBMi5RQDu	UCGyKzvCBAw1m04s7VIG5w2g
 142	Quiet Days on Earth	Atrium Carceri	Miles to Midnight	INDIFFERENT	7:44	NNO_oaJdKfw	MPREb_0dsBMi5RQDu	UCGyKzvCBAw1m04s7VIG5w2g
@@ -269,7 +269,6 @@
 23	Samba Mom-Mom (Original Take)	Art Pepper	Living Legend	INDIFFERENT	8:20	ChqxQESnE-w	MPREb_yRTQHa1GNdu	UCQ6s8dxxZYIRCeuFtB3Zdxw
 61	What Laurie Likes	Art Pepper	Living Legend	INDIFFERENT	6:44	5h4kABEDAlo	MPREb_yRTQHa1GNdu	UCQ6s8dxxZYIRCeuFtB3Zdxw
 165	Ophelia	Art Pepper	Living Legend	INDIFFERENT	7:52	-UEHjljfNHs	MPREb_yRTQHa1GNdu	UCQ6s8dxxZYIRCeuFtB3Zdxw
-69	Agnes Obel - Chord Left	Andrew McEwan		INDIFFERENT	2:30	ZMzh5GLV7Dw		UCdhSUKYNM-CvEHxX6oAiq0A
 145	Minor 9th	Andrew Hale	L.A. Noire Official Soundtrack	INDIFFERENT	2:51	wKoEaE8sEUo	MPREb_qiqtkg777gX	UCg9p_wgcC-1tE4hl78GEDMg
 18	Embassy Stomp	Ambrose and His Orchestra	Broadway Rhythm (1933 - 1935)	INDIFFERENT	2:50	9wnHPkb8ou4	MPREb_vO1c5zEExuo	UCtdfhSt2BeRlFw5htJxys6w
 263	The Buddha	AmGn	The Buddha	INDIFFERENT	2:41	cNWeqROkp5M	MPREb_lEbX4hefs5B	UClGAmv8xRjEgfKKsQytrG_A
@@ -277,4 +276,5 @@
 120	I Feel Blue	Alif Tree	Sunday in Bed, Vol. 5 - the Essential Tracks (Sexy Sounds for Lazy Lovers)	INDIFFERENT	4:54	Mpy8OpfLCko	MPREb_hgOhZEU7jLs	UCXeeUKULB2mv8v15muT72Ag
 236	Isla (The Sapphic Sleep)	Alejandro Jodorowsky	The Holy Mountain (Original Motion Picture Soundtrack)	INDIFFERENT	2:21	ZR4F1ukDM0Q	MPREb_60pLWHkrWcY	UCdlJogWdUJYKWZMR7NfSvGg
 5	E.32nd Elegy (feat. Brian Bromberg)	Alan Broadbent	Every Time I Think Of You	INDIFFERENT	7:19	PxIb8X5PNy0	MPREb_etTvTJcMktB	UCcUnUaJ9flR95OJx7ILcT5g
-111	Kilimanjaro Darkjazz Ensemble - Lobby	Abry Frederic		INDIFFERENT	6:58	DANNS0iiEv4		UCwcOXsNDRrmMrLZSNZp4uxg
+69	Chord Left	Agnes Obel	Aventine	INDIFFERENT	2:31	3DM8YwiGeyE	MPREb_LJTDAoOAJvo	UCaHeZtCBP3Jh8v1cSq6siNw
+96	Nemesis	Aaron Parks	Invisible Cinema	INDIFFERENT	6:15	MX4-ldO4YXk	MPREb_135BEs60cUg	UC4mZBHwCY1rATrADJIOHJIQ

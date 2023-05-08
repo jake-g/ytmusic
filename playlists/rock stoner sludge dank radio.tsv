@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 40	Baby Please Don't Leave Me	Buddy Guy	Sweet Tea	LIKE	7:23	We5guKEgbGs	MPREb_CrgJRqOVyqi	UCqQnmSnXS_qlyP6qok7lCAA
 376	Into the Void	Black Sabbath	Master of Reality	LIKE	6:11	KSSEzWXqGKY	MPREb_x9ZhUx7rpAe	UCLCELUuoHbkUxZ9EMHTYebg
+63	Voodoo Chile	All Them Witches	Electric Ladyland (Redux)	LIKE	14:59	C38vH64vazY	MPREb_ZeUJPLCxRPc	UCyYGtzX--CaSWjM8SC9t1qQ
 246	Adrift in the Ocean (2011 Mix)	Yob	Atma (Deluxe Edition)	INDIFFERENT	13:34	qCYrQJnTEKE	MPREb_VO1SDd3uP8C	UCsEbjClLo57ZV18bGgobi7w
 205	Death Is Not An Exit	Woods Of Ypres	Woods 5: Grey Skies & Electric Light	INDIFFERENT	5:10	P6TdBLIhTEk	MPREb_kYbscA3wHbd	UCUKasoaU68XYA7_d9wjQRKg
 85	The Black Code	Wo Fat	The Black Code	INDIFFERENT	10:05	Jp77bazZzEs	MPREb_TpfYV6bOwmM	UCGQddXEv_Fko6sKIqH5pMLg
@@ -265,8 +266,8 @@
 131	The Bees Made Honey In The Lions Skull	Earth	The Bees Made Honey In The Lion's Skull	INDIFFERENT	8:14	UiCIW04PF3I	MPREb_qLkdlRn6IyJ	UC4zvHfwE70g64S1X6Nd9Gcg
 111	I Only Want You (Live)	Eagles Of Death Metal	I Love You All The Time: Live At The Olympia Paris	INDIFFERENT	4:26	ucBBrLpo-ls	MPREb_xYzcZNhnc1N	UCxgOqsrldkz43rP5xbWnUow
 309	Pickabar	Dr. Colossus	Pickabar	INDIFFERENT	4:08	WTes1-QVH78	MPREb_Nwl6UoEc2ke	UCIEAxHaoRfySRAiOXpUutCQ
-34	Big Sky Theory	Dozer	Through The Eyes Of Heathens	INDIFFERENT	8:29	Ek6V5_yeL0w	MPREb_pwym4fkkJMR	UCS1yxDub-I9mVLla-2NQaaw
-117	Inside the Falcon	Dozer	In the tail of a comet	INDIFFERENT	3:59	sbXmxfQiU6U	MPREb_B5LWKQXdl3z	UC4F6L6ydXpAcm-kHQ6ndPGQ
+34	Big Sky Theory	Dozer	Through The Eyes Of Heathens	INDIFFERENT	8:29	Ek6V5_yeL0w	MPREb_pwym4fkkJMR	UCUT1XXYsVJgfM0634CrS2Mg
+117	Inside the Falcon	Dozer	In the tail of a comet	INDIFFERENT	3:59	sbXmxfQiU6U	MPREb_B5LWKQXdl3z	UCUT1XXYsVJgfM0634CrS2Mg
 263	Bury Me in Smoke	Down	Nola	INDIFFERENT	7:04	W2cMVP6McdQ	MPREb_ieTzpphIdCd	UCKKxCacxMuyDSjG7Ep7BlFw
 185	Lucifer's Son	Dopelord	Magick Rites	INDIFFERENT	8:16	dbPGqltIFDo	MPREb_gB2P7CaSlG8	UCtEqQk1m0WN3cu92JhGP6Eg
 189	Pass the Bong	Dopelord	Black Arts, Riff Worship & Weed Cult	INDIFFERENT	11:31	EIjkhY5gSlI	MPREb_MXTRJoVqZbV	UCtEqQk1m0WN3cu92JhGP6Eg
@@ -355,7 +356,6 @@
 88	Jawa Juice	Bantha Rider	Bantha Rider	INDIFFERENT	9:00	MAGq8_2Wc2o	MPREb_RTpwho0ohoJ	UCe3v4jSiNSGxvVpcWeX7K5A
 115	Daewon	Arctic	Arctic	INDIFFERENT	4:58	YIM-fG9Ns9M	MPREb_WIWyXBDuCwV	UCN6u-7OPtIn3ruv4bZ1YkHw
 16	The Death of Coyote Woman	All Them Witches	Lightning at the Door	INDIFFERENT	8:11	xn0ZbdEpFIQ	MPREb_gy2JSoOzxiq	UCyYGtzX--CaSWjM8SC9t1qQ
-63	Voodoo Chile	All Them Witches	Electric Ladyland (Redux)	INDIFFERENT	14:59	C38vH64vazY	MPREb_ZeUJPLCxRPc	UCyYGtzX--CaSWjM8SC9t1qQ
 109	Elk.Blood.Heart	All Them Witches	Our Mother Electricity	INDIFFERENT	5:53	uTni-TWEvl0	MPREb_4ekow89MSvA	UCyYGtzX--CaSWjM8SC9t1qQ
 124	When God Comes Back	All Them Witches	Lightning at the Door	INDIFFERENT	3:33	ve1gXpIeooc	MPREb_gy2JSoOzxiq	UCyYGtzX--CaSWjM8SC9t1qQ
 137	3-5-7	All Them Witches	Sleeping Through the War	INDIFFERENT	3:56	QmWiz4TTrgA	MPREb_ERXcfII15p6	UCyYGtzX--CaSWjM8SC9t1qQ
