@@ -1,7 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 40	Sunrise	Yeasayer	All Hour Cymbals	LIKE	4:06	zrZvAfC-HrM	MPREb_VHnbDKpq7D7	UCOmQROWwukObd9QvmZS3mXA
 78	House Of Jealous Lovers	The Rapture	Echoes	LIKE	5:04	C_l4b6xEUCM	MPREb_j5iVGYSIQIA	UCeNX7t0ZUTG5q2fek3LHzeA
-19	Silent Shout	The Knife	Silent Shout	LIKE	4:53	fTXgWu8I3-g	MPREb_gPzeyDHQBsY	UCis1bLqVozucj8JQo1bLHHg
 0	Boy Toy	STRFKR	Jupiter	LIKE	3:11	yno7UM7-rGc	MPREb_Nc61Xcpz8VE	UCL6qpCZZBTfp1MtI3bmL7jw
 14	Recess Time (Deluxe Edition Bonus Track)	STRFKR	Reptilians (10-Year Anniversary Edition)	LIKE	2:21	tfTZnMfj_aM	MPREb_FS0fV0tFwVR	UCL6qpCZZBTfp1MtI3bmL7jw
 43	Saxony	Leon Vynehall	Rojus (Designed To Dance)	LIKE	4:22	bAxTu68EQuI	MPREb_3OAstHbG1P1	UCfG9U3KHCTwq8ED0SpQrJ4g
@@ -45,8 +44,9 @@
 214	Can You Find A Way?	The Rapture	In The Grace Of Your Love	INDIFFERENT	2:52	jR3BZpoxYHA	MPREb_E3lc4DiuSvr	UCeNX7t0ZUTG5q2fek3LHzeA
 216	Sail Away	The Rapture	In The Grace Of Your Love	INDIFFERENT	5:21	nm_-ueP9RcQ	MPREb_E3lc4DiuSvr	UCeNX7t0ZUTG5q2fek3LHzeA
 248	How Deep Is Your Love?	The Rapture	In The Grace Of Your Love	INDIFFERENT	6:27	zzEQ2IEAJ-Q	MPREb_E3lc4DiuSvr	UCeNX7t0ZUTG5q2fek3LHzeA
+19	Silent Shout	The Knife	Silent Shout	INDIFFERENT	4:54	l19Q0z8FKXc	MPREb_B7BfWJjU2QX	UCis1bLqVozucj8JQo1bLHHg
 29	Pass This On	The Knife	Deep Cuts	INDIFFERENT	3:48	IuKrASzYhAo	MPREb_4oonycRlhJE	UCis1bLqVozucj8JQo1bLHHg
-199	Neverland	The Knife	Silent Shout	INDIFFERENT	3:38	7BeNU5ATG-A	MPREb_gPzeyDHQBsY	UCis1bLqVozucj8JQo1bLHHg
+199	Neverland	The Knife	Silent Shout	INDIFFERENT	3:39	gqvlDmIUEm0	MPREb_B7BfWJjU2QX	UCis1bLqVozucj8JQo1bLHHg
 135	Tito's Way	The Juan Maclean	Less Than Human	INDIFFERENT	3:40	AwfwzVweQ4M	MPREb_O218WiYYpPN	UCmSauSjSBg6B1-FaCRjrQzw
 109	No Time	The Juan MacLean	The Future Will Come	INDIFFERENT	3:52	EqyRjhcZ-oE	MPREb_7CSTKX8Wo6A	UCmSauSjSBg6B1-FaCRjrQzw
 127	Happy House	The Juan MacLean	Happy House	INDIFFERENT	12:39	91FL6y4zW3U	MPREb_fmK3XpFvBIy	UCmSauSjSBg6B1-FaCRjrQzw
@@ -111,8 +111,7 @@
 124	Tight Fit	New Young Pony Club	Fantastic Playroom	INDIFFERENT	3:55	p-8RxT9uXj0	MPREb_bZNXSl8NI2S	UCbxYYYb1TKt90TVGEEnE45g
 225	The Get Go	New Young Pony Club	Fantastic Playroom	INDIFFERENT	4:27	4DF268DyrjI	MPREb_bZNXSl8NI2S	UCbxYYYb1TKt90TVGEEnE45g
 79	Zimbabwe (Flume Remix)	New Navy	Waves, Vol. 1 (Mixed By Murder He Wrote)	INDIFFERENT	3:34	KPDspnYCEb8	MPREb_mD7YLqtpHgh	UC8WomYthAJLsLqS_Syn17vQ
-38	Fallout	Neon Indian	Era Extraña	INDIFFERENT	3:32	YVzzMwGG3fA	MPREb_ColPMrjXarF	UCQfjAfgbhbscEJx5AnTXNWA
-68	Heart: Decay	Neon Indian	Era Extraña	INDIFFERENT	1:45	VvBYLVcat0Q	MPREb_ColPMrjXarF	UCQfjAfgbhbscEJx5AnTXNWA
+38	Fallout	Neon Indian	Era Extraña	INDIFFERENT	3:32	QFTLGrLXXjo	MPREb_HSAiYV9xfmq	UCQfjAfgbhbscEJx5AnTXNWA
 70	DEGREELESSNESS (feat. Prurient)	Nathan Fake	Providence	INDIFFERENT	8:08	J08rbbn0x20	MPREb_JQNJwGzYnds	UCerofcW3r2o74HjKZLQKhRw
 73	feelings 1	Nathan Fake	Providence	INDIFFERENT	1:42	Q-twCROP5cg	MPREb_JQNJwGzYnds	UCerofcW3r2o74HjKZLQKhRw
 131	In Infancy	Museum Of Love	Museum Of Love	INDIFFERENT	4:29	N1P4SV8oelA	MPREb_opEK9Y3J4Nf	UC3d8z1imzsPAkn09100Hv3A
@@ -283,3 +282,4 @@
 130	Yadnus	!!!	Myth Takes	INDIFFERENT	5:14	m-5hskv-c84	MPREb_2LyolNjViS6	UC_kiReqJMAcQ9F9gf10QMTg
 136	Jamie, My Intentions Are Bass	!!!	Strange Weather, Isn't It?	INDIFFERENT	5:07	C-GzGnWmbrU	MPREb_9B1RPFLWvbm	UC_kiReqJMAcQ9F9gf10QMTg
 213	Even When The Water's Cold	!!!	Thr!!!er	INDIFFERENT	3:48	JEPLFpHopCg	MPREb_yG2gBJ8eF8f	UC_kiReqJMAcQ9F9gf10QMTg
+68	Era Extraña	Neon Indian	Era Extraña			VvBYLVcat0Q		
