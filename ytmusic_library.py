@@ -34,16 +34,18 @@ class YTMusicPlaylists:
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
 
-    def test_ytmusic_api(self):
-        import ytmusicapi as ytmusicapi
-        print(f'Using ytmusicapi version: {ytmusicapi.__version__}')
-
+    def test_ytmusic_api(self, verbose=True):
+        t0 = time.time()
         assert (self.yt)
         # Don't Think Twice, It's All Right	Bob Dylan
         assert (self.yt.get_song('Kv7K9ghgcgA'))
         assert (self.yt.get_library_playlists(limit=1))
         assert (self.yt.get_library_albums())
         assert (self.yt.get_library_artists())
+        if verbose:
+            print(f'Test Passed in {(time.time() - t0):0.2f} seconds')
+            import ytmusicapi as ytmusicapi
+            print(f'Using ytmusicapi version: {ytmusicapi.__version__}')
 
     def _playlist_loc_first(self, col, value):
         res = self.playlists.loc[self.playlists[col] == value]
@@ -82,6 +84,25 @@ class YTMusicPlaylists:
                 out_playlists.append(p)
                 print(f'Found {privacy.lower()} playlist named: {p["title"]}')
         return pd.concat(out_playlists)
+
+    def get_playlist_counts(self, verbose=False, filter_title=None):
+        playlists = []
+        for i, row in self.playlists.iterrows():
+            if filter_title and filter_title.lower() not in row.title.lower():
+                if verbose:
+                    print(f'{i}: Skipping: {row.title}, filter: {filter_title}')
+                continue
+            playlist_info = self.playlist_get_info(row['playlistId'])
+            playlists.append({
+                'title': row['title'],
+                'playlist_id': row['playlistId'],
+                'track_count': len(playlist_info.get('tracks', [])),
+                'privacy': playlist_info.get('privacy', ''),
+                'duration_hours': round(float(playlist_info.get('duration_seconds', 1)) / 3600)
+            })
+            if verbose:
+                print(f'{i}: {playlists[-1]}')
+        return pd.DataFrame(playlists).sort_values('track_count', ascending=False)
 
     def playlist_get_info(self, playlistId,
                           playlist_limit=PLAYLIST_LIMIT, use_cache=True):
