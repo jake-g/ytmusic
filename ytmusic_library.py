@@ -160,6 +160,10 @@ class YTMusicPlaylists:
         desc = f'generated from {orig_name} includes {rating} subset'
         tracks = tracks.loc[tracks['likeStatus']
                             == rating].set_index('videoId')
+        if not ignore_banned:
+            orig_len = len(tracks)
+            tracks = tracks.loc[~tracks.index.isin(self.banned_vid_set)]
+            desc += f'\n\nremoved {orig_len - len(tracks)} banned tracks, keeping {len(tracks)}'
         if playcount_sort:
             if not len(self._playcount_map):
                 print('WARNING: playcount_sort sorting requires initializing the',
@@ -174,15 +178,12 @@ class YTMusicPlaylists:
                     int).astype('str') + '\t|  ' + pc['title']
                 desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
                     '\n'.join(pc_str.to_list())
-        if ignore_banned:
-            video_ids = tracks.index
-        else:
-            video_ids = frozenset(tracks.index.unique()) - self.banned_vid_set
+        video_ids = list(tracks.index)
         if len(video_ids) <= min_ids:
             return None, len(video_ids)
         pl_id = self.yt.create_playlist(
             title=new_name, description=desc,
-            privacy_status='PRIVATE', video_ids=list(video_ids)
+            privacy_status='PRIVATE', video_ids=video_ids
         )
         return pl_id, len(video_ids)
 
