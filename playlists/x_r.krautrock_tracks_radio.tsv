@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 40	Vamos Companeros	Harmonia & Eno '76	Tracks and Traces	LIKE	4:34	AxYzWamhB6Q	MPREb_mVyBAf9TkNw	UC56jP9D8IMxCPbizV6iuyAw
 3	Piano Piece	Faust	Faust IV (Deluxe Edition)	LIKE	5:59	w-psBn6DxoU	MPREb_LqPsCz4dmyS	UCJVrwbzHjMbLpSB7ZyLFSfg
-30	It's A Rainy Day Sunshine Girl	Faust	So Far	LIKE	7:27	8Z4ahue-pSo	MPREb_iFAOQgBrfB1	UCJVrwbzHjMbLpSB7ZyLFSfg
+30	It's A Rainy Day Sunshine Girl	Faust	So Far	LIKE	7:28	8Z4ahue-pSo	MPREb_iFAOQgBrfB1	UCJVrwbzHjMbLpSB7ZyLFSfg
 64	Ocean Of Tenderness	Ashra	New Age Of Earth	LIKE	12:43	vBwoLCD6BYE	MPREb_pH9UhAArlRT	UCxICdazAuxfYyfl6c4Cyl-A
 77	77 Slightly Delayed	Ashra	Blackouts	LIKE	6:51	CVPPCsG0FjE	MPREb_YNSFOLwhgXn	UCxICdazAuxfYyfl6c4Cyl-A
 167	Kraut In C#	earth moon transit	Kraut in C# (Digital)	INDIFFERENT	40:56	haSiXU9Q9O0	MPREb_8hcnShpzkTH	UC6loEjoqRAbhyV_idspCOYQ
@@ -30,7 +30,7 @@
 97	Crows	The Cool Adorers	Borderline Melodies	INDIFFERENT	5:27	xAhs50OK1YM	MPREb_ZYH1FEC2AAd	UCwb_cCAst3GOUeKaFPpnUPA
 7	Not Guilty (Take 102)	The Beatles	The Beatles (White Album / Super Deluxe)	INDIFFERENT	4:29	tBRss5I_uw0	MPREb_Vq5MhmCk3JS	UC2XdaAVUannpujzv32jcouQ
 149	Silberne Maschinen	Tausend Augen	Westend	INDIFFERENT	4:05	NpKc7yoxD3s	MPREb_smGRSD5Smyz	UCuwgIqKDTYmH8DpZMLF9fNw
-52	Betrayal (Sorcerer Theme)	Tangerine Dream	Sorcerer: Music From The Original Motion Picture Soundtrack	INDIFFERENT	3:43	phJKQcvZ3sE	MPREb_BQEUjQKXvk3	UClE2TcmrYlBn4L8WM_fnl_Q
+52	Betrayal (Sorcerer Theme)	Tangerine Dream	Sorcerer: Music From The Original Motion Picture Soundtrack	INDIFFERENT	3:44	phJKQcvZ3sE	MPREb_BQEUjQKXvk3	UClE2TcmrYlBn4L8WM_fnl_Q
 176	Love On A Real Train (From 'Risky Business' Original Motion Picture Soundtrack)	Tangerine Dream	Hyperborea (Deluxe Version / Remastered 2020)	INDIFFERENT	4:00	sBhB9gAM1J4	MPREb_rFGRKZQVc0l	UClE2TcmrYlBn4L8WM_fnl_Q
 177	Boat to China	Tangerine Dream	Zeitgeist Concert - Live at the Royal Albert Hall, London 2010	INDIFFERENT	8:59	1HjoLqh2k3o	MPREb_HcgOkQWuDQD	UClE2TcmrYlBn4L8WM_fnl_Q
 185	Ricochet (Live On European Tour / 1975 / Pt. 1 / Remastered 2018)	Tangerine Dream	Ricochet (Live / Deluxe Version)	INDIFFERENT	17:03	tNVWqNn2auM	MPREb_M7e8T2Q6n9B	UClE2TcmrYlBn4L8WM_fnl_Q
@@ -38,7 +38,7 @@
 54	Translate	Suuns	Hold/Still	INDIFFERENT	4:57	DbDN8HWWnbA	MPREb_lNpr00FjvFG	UC6z_5Na0I9bYDIdY5R3V1-A
 35	Ether Ships (2007 Digital Remaster)	Steve Hillage	Green	INDIFFERENT	5:08	IXCBYpe6WTs	MPREb_m2NJPaD2t4B	UCVoAZp0Sz3FKqT9NUyLhU6A
 19	Metronomic Underground	Stereolab	Emperor Tomato Ketchup	INDIFFERENT	7:55	pxknMTAoC8U	MPREb_dQM5mmDnUW2	UCRUe8cfECb_SNa-Y15Z4EZw
-66	Jenny Ondioline	Stereolab	Transient Random-Noise Bursts With Announcements	INDIFFERENT	18:07	c_zYpoHQzbA	MPREb_GONcWN8NzoE	UCRUe8cfECb_SNa-Y15Z4EZw
+66	Jenny Ondioline	Stereolab	Transient Random-Noise Bursts With Announcements	INDIFFERENT	18:08	c_zYpoHQzbA	MPREb_GONcWN8NzoE	UCRUe8cfECb_SNa-Y15Z4EZw
 76	Exploding Head Movie	Stereolab	Refried Ectoplasm [Switched On Volume 2]	INDIFFERENT	4:49	FbbXqnLTOCo	MPREb_Slojt59Cs2H	UCRUe8cfECb_SNa-Y15Z4EZw
 126	Die Mittagssonne friert (feat. faUSt)	Station 17	Ausblick	INDIFFERENT	4:43	Ukva00krLhM	MPREb_9kwuuWiYbcR	UCSNC2kVAXvNndmT2bqNpE1g
 152	Boogie Boogie Baka (Live)	Station 17	Boogie Boogie Baka (Live)	INDIFFERENT	6:05	3LIZ9ljt0Ug	MPREb_4AupkZLQ4Fb	UCSNC2kVAXvNndmT2bqNpE1g
@@ -46,7 +46,7 @@
 58	Emisión	Sei Still	Sei Still	INDIFFERENT	7:14	Oj-HSWxmFp4	MPREb_ZgcSwVOP1mv	UCNIeLoalmaQrr2FuuWF467A
 100	Otto	Sei Still	Radar, Vol. 1	INDIFFERENT	5:00	dvZL2b-VrwQ	MPREb_wCtKEIxTJ2J	UCNIeLoalmaQrr2FuuWF467A
 134	Wenig Worte für ein Ende	Sankt Otten	Lieder für geometrische Stunden	INDIFFERENT	8:01	Be7d611zSTw	MPREb_7fjNKfe8xlS	UCn4yiptOZUEfdiB1mbac50Q
-160	Das endgültige Scheitern der Melancholie	Sankt Otten	Zwischen Demut und Disco	INDIFFERENT	6:49	mz8IF6BdeDY	MPREb_IxK06FEUALj	UCn4yiptOZUEfdiB1mbac50Q
+160	Das endgültige Scheitern der Melancholie	Sankt Otten	Zwischen Demut und Disco	INDIFFERENT	6:50	mz8IF6BdeDY	MPREb_IxK06FEUALj	UCn4yiptOZUEfdiB1mbac50Q
 26	Helicopter	Sand	Golem	INDIFFERENT	13:41	RbistyLl9nE	MPREb_EeEDnLX5is5	UCC9U2jV5m9hjwlX0m-F0bbw
 129	For Balkaar / Back in Baltimore	SNUTCH	For Balkaar / Back in Baltimore	INDIFFERENT	5:19	95Wr15C91v4	MPREb_yFJgie8mBrj	UCG0iKTYFiAV29YygFvs3AcA
 73	Girlande	Roedelius	Selbstportrait I	INDIFFERENT	3:50	kexZpDxKhdE	MPREb_NTSxzjDwHUP	UCOUeCU6hgANs8qLIAk5ZP3Q
@@ -62,9 +62,9 @@
 11	Anthemic Aggressor	Oh Sees	Smote Reverser	INDIFFERENT	12:13	BY4VmgFnO4A	MPREb_2KpN3IhgENg	UCy-Gzb-aCE1vWkbwQZaoIXQ
 101	A (Live)	Nisennenmondai	Nisennenmondai (Live at Clouds Hill)	INDIFFERENT	12:01	7tYbhH_KGlw	MPREb_iDbmU6Y9Mda	UCmUtgQ9TWoDzEoOJrug6kzA
 56	Futur I (feat. Wolfgang Flür)	Newmen	Futur I	INDIFFERENT	4:30	x5mguB0lXxU	MPREb_AwBd6nrPNqB	UCXy7NloG5kVcHfL7OjlDKBw
-20	Leb Wohl	Neu!	Neu! 75	INDIFFERENT	8:50	1MdacErizbs	MPREb_U9OjXaA4lZI	UCCEWpecbsl1360IuTF0w1bw
+20	Leb Wohl	Neu!	Neu! 75	INDIFFERENT	8:51	1MdacErizbs	MPREb_U9OjXaA4lZI	UCCEWpecbsl1360IuTF0w1bw
 124	Super 16 (Excerpt)	Neu!	Kill Bill Vol. 1 Original Soundtrack (PA Version)	INDIFFERENT	3:40	2bpB8h1oawU	MPREb_nTyd4PgE091	UCCEWpecbsl1360IuTF0w1bw
-5	Drive (Grundfunken)	NEU!	NEU! '86	INDIFFERENT	5:13	S35jsmrqD6k	MPREb_jx9VBHQmSkm	UCCEWpecbsl1360IuTF0w1bw
+5	Drive (Grundfunken)	NEU!	NEU! '86	INDIFFERENT	5:14	S35jsmrqD6k	MPREb_jx9VBHQmSkm	UCCEWpecbsl1360IuTF0w1bw
 78	Fur immer	NEU!	NEU! 2	INDIFFERENT	11:18	IId4EH3zANs	MPREb_QZxMSupBasd	UCCEWpecbsl1360IuTF0w1bw
 168	First Loss	Murphy Blend	First Loss	INDIFFERENT	7:52	o9z2F4I5WPI	MPREb_DL0BfgEZpwg	UCpOKAAw3X211LHrwUeXrJtw
 17	Headlights	Motor!k	Headlights	INDIFFERENT	5:22	9aHbx0Bud4A	MPREb_bKdQavoeMkE	UCDgmsb_AuZbj6NhLWgfADjQ
@@ -86,7 +86,7 @@
 115	Expo 2000 (Kling Klang Mix 2000)	Kraftwerk	Remixes	INDIFFERENT	6:51	RTNsXYqhczY	MPREb_emboFfJ28yM	UCNUkEFnPvPsWtzftcd45t1A
 173	Rückstoß Gondoliere (Ruckzuck) (live)	Kraftwerk	Tone Float Beat-Club 1971	INDIFFERENT	11:18	Wo7QjA2yuSs	MPREb_uec8viTezw4	UCNUkEFnPvPsWtzftcd45t1A
 84	Fat Mr. Rich	Kraan	Wintrup	INDIFFERENT	5:44	JJ794hxCfg8	MPREb_NgdxcBlFzVD	UC2Va9Qm8mPEeOnL_Nbjtaaw
-108	Stardancer	Klaus Schulze	Body Love Original Soundtrack	INDIFFERENT	13:38	pS79pt-N7LE	MPREb_m9o4mYTUGcv	UCNezSmfQ8VIgvHUNj1Gzx6A
+108	Stardancer	Klaus Schulze	Body Love Original Soundtrack	INDIFFERENT	13:39	pS79pt-N7LE	MPREb_m9o4mYTUGcv	UCNezSmfQ8VIgvHUNj1Gzx6A
 41	Church of Anthrax	John Cale	Church of Anthrax	INDIFFERENT	9:06	0f2A846bvo8	MPREb_drM3tpiogcZ	UCoPPW8I6efLnso3McEaC7Ow
 111	Magnetic Fields, Pt. 4	Jean-Michel Jarre	Les Chants Magnétiques / Magnetic Fields	INDIFFERENT	6:26	r2_-TWlChk4	MPREb_WBFWLmQiUES	UCgZdvpUfbbUiqJ6UvAdM7EQ
 164	How Much Are They?	Jaki Liebezeit	Full Circle	INDIFFERENT	4:51	wED6xImJ-5U	MPREb_9enQTgsgMu1	UCJ3OsGdzLZpDD9TPW2746jA
@@ -97,16 +97,16 @@
 171	THE FINAL FRONTIER	IXZHILION	THE FINAL FRONTIER	INDIFFERENT	7:51	WhgkbvZ0GxM	MPREb_BQE4i8q6sKG	UCl2Y1YLnyiCCyiGgdra7Rnw
 37	Blue Whale	Holy Monitor	Blue Whale	INDIFFERENT	3:56	lrOZF-mQFWA	MPREb_cCWQ5c9CBSj	UC0wj87bTvfJzuwuW6V8Oa9g
 75	Ode To Perfume	Holger Czukay	On The Way To The Peak Of Normal	INDIFFERENT	4:06	13KC5ClKS3s	MPREb_DELTM8aJddc	UC2EXldSlz_rHtbVz7q3jfLg
-120	Cool in the Pool	Holger Czukay	Movie	INDIFFERENT	4:58	oKipOZnQ4tc	MPREb_4EwgwsedZF4	UC2EXldSlz_rHtbVz7q3jfLg
-156	Persian Love	Holger Czukay	Movie	INDIFFERENT	6:26	81OIBFNf_9w	MPREb_4EwgwsedZF4	UC2EXldSlz_rHtbVz7q3jfLg
+120	Cool in the Pool	Holger Czukay	Movie	INDIFFERENT	5:06	oKipOZnQ4tc	MPREb_4EwgwsedZF4	UC2EXldSlz_rHtbVz7q3jfLg
+156	Persian Love	Holger Czukay	Movie	INDIFFERENT	6:29	81OIBFNf_9w	MPREb_4EwgwsedZF4	UC2EXldSlz_rHtbVz7q3jfLg
 112	Opa-Loka	Hawkestrel	Psych Box	INDIFFERENT	5:00	Hw6SlzqjDlA	MPREb_Ak4FMSctLez	UCC4PoBHH9A_opvjOfwtrjPQ
 121	Sources In Cleveland	Hash Jar Tempo	Under Glass	INDIFFERENT	4:57	qkTqX0CYohQ	MPREb_Sjmz0eDwIsc	UCyvMEM2iCxXNG2I_kgu_rZQ
 67	Walky Talky	Harmonia	Deluxe	INDIFFERENT	10:43	_2ftolsImz0	MPREb_l2ung7v6I7Q	UCvkCsZPKyO-r0QlVQrhvDlw
-123	Veteranissimo (Live)	Harmonia	Live 1974	INDIFFERENT	17:26	_pd_oj72fqk	MPREb_YNigIMNVDil	UCvkCsZPKyO-r0QlVQrhvDlw
+123	Veteranissimo (Live)	Harmonia	Live 1974	INDIFFERENT	17:25	_pd_oj72fqk	MPREb_YNigIMNVDil	UCvkCsZPKyO-r0QlVQrhvDlw
 169	Night Meets The Day	Harlis	Night Meets The Day	INDIFFERENT	5:02	ZC8Fi_2eLhM	MPREb_bjWhxzLZ55m	UCSqUgiEXjb4Bsy-hI6xiEWw
 106	Blinkgürtel	Hallo Gallo 2010	Blinkgürtel / Drone Schlager	INDIFFERENT	4:58	fm45sDHTDPc	MPREb_6e9FnleQuBX	UCM94kt-ibJWe7tyxhAgOFvw
 154	Puls	Günter Schickert	Überfällig	INDIFFERENT	14:55	_NJWt__LFKc	MPREb_zInkW2QTY4I	UCo1cOLDkCHr-0OapFblZNKg
-109	Oxymoron	Guru Guru	Känguru	INDIFFERENT	10:34	NSkgEAvISL4	MPREb_A5Jcn3fyPdt	UC6Ezznjodh2lMs4RMhcdfFA
+109	Oxymoron	Guru Guru	Känguru	INDIFFERENT	10:32	NSkgEAvISL4	MPREb_A5Jcn3fyPdt	UC6Ezznjodh2lMs4RMhcdfFA
 139	Persistance & changement	Grand Veymont	Persistance & changement	INDIFFERENT	39:04	0mFzmG30vEU	MPREb_1vnni2EKAjt	UCGaKi5xvh9jTKV9r8C6BSLA
 118	Missile Song	German Oak	Down In The Bunker	INDIFFERENT	18:48	XIKoBkQepB0	MPREb_7urKGGVZnqG	UCNio8UVvULaexDZpMOJ_OnA
 138	Happy Stripes (On Cats)	German Oak	Down In The Bunker	INDIFFERENT	11:31	5lZU_mQnpVk	MPREb_7urKGGVZnqG	UCNio8UVvULaexDZpMOJ_OnA
@@ -114,9 +114,9 @@
 182	I	Föllakzoid	I	INDIFFERENT	17:00	gmB7-gcg-0k	MPREb_t3PzCh8Ky4Z	UCkuF5SRhfwha-WH0S8zW_7g
 46	Fliessbandbaby, Manchmal Träum Ich	Floh de Cologne	Fließbandbabys Beat-Show	INDIFFERENT	4:36	L1TUYd_bN28	MPREb_EFPkFafBunZ	UCn9cYSxcbWSB3ZENV-K-NeA
 33	It's A Bit Of A Pain (2006 Digital Remaster)	Faust	Faust IV (Deluxe Edition)	INDIFFERENT	3:09	AG4MbkyBK6I	MPREb_LqPsCz4dmyS	UCJVrwbzHjMbLpSB7ZyLFSfg
-45	Miss Fortune	Faust	Faust	INDIFFERENT	16:34	SC-Z9Fwg5eg	MPREb_dZPWKGqTuIE	UCJVrwbzHjMbLpSB7ZyLFSfg
+45	Miss Fortune	Faust	Faust	INDIFFERENT	16:35	SC-Z9Fwg5eg	MPREb_dZPWKGqTuIE	UCJVrwbzHjMbLpSB7ZyLFSfg
 53	Fernlicht	Faust	Fernlicht	INDIFFERENT	1:59	-5VLlh4eE6k	MPREb_eL9WKXXNXDW	UC_4gC0UiWSr0xPzY0OHIPbw
-72	Looking After Baby	Faust	Looking After Baby	INDIFFERENT	3:25	HxdYp26LUGU	MPREb_BS0vChwfLMG	
+72	Looking After Baby	Faust	Looking After Baby	INDIFFERENT	5:44	HxdYp26LUGU	MPREb_BS0vChwfLMG	
 181	Sur le ventre	Faust	Just Us	INDIFFERENT	4:32	KsALMD8Xdnc	MPREb_lJ7LKil5wl3	UC_4gC0UiWSr0xPzY0OHIPbw
 79	Drying Out Your Eyes	Evolfo	Site out of Mind	INDIFFERENT	3:52	q3if94TnbYs	MPREb_jkRSUcfjKbw	UCDigniEwyXLzf3AjUdFoTiA
 36	Foreign Affairs	Eno Moebius Roedelius	After the Heat	INDIFFERENT	3:32	YF-Gl1wV82o	MPREb_bYxvN7mcFN2	UCFgNf-KpUwuC_q2zFMOcLow
@@ -131,7 +131,7 @@
 43	Tunnel Vision	Crack Cloud	Tunnel Vision	INDIFFERENT	4:38	TYyutaRi8DU	MPREb_Y2xNkJT71r3	UC4yFh-28ICCl4B9SlXjGiMQ
 61	Galactic Joke	Cosmic Jokers	Galactic Joke	INDIFFERENT	22:40	TAfb-ph_Z9s	MPREb_71hB5qS7ffM	UCJH7-Oq7JIlFf1MdvvTWx3A
 22	Für Luise	Cluster	Cluster & Eno	INDIFFERENT	3:27	N2DyOl9Jrvc	MPREb_NjymTR5kJSv	UCcMvWXS-AI7CScirquFsXWg
-163	Im Süden	Cluster	Cluster II	INDIFFERENT	12:50	6aqr4BlWjlo	MPREb_s3cjVcYjfF1	UCqnvTJBO057azffiCg_SMeQ
+163	Im Süden	Cluster	Cluster II	INDIFFERENT	12:51	6aqr4BlWjlo	MPREb_s3cjVcYjfF1	UCqnvTJBO057azffiCg_SMeQ
 166	Sowiesoso	Cluster	Sowiesoso	INDIFFERENT	8:11	MD3Q3PaxMa4	MPREb_W8caALzFn5u	UCcMvWXS-AI7CScirquFsXWg
 178	Ain't Got Enough Mojo	Centre el Muusa	Centre el Muusa	INDIFFERENT	3:47	Opv6TWq9eZY	MPREb_t1JuGw4t9WC	UCwo9jUuEa4p87m7n9gVp8Xw
 142	melody in high feedback tones	Cavern Of Anti-Matter	melody in high feedback tones	INDIFFERENT	3:54	DogEoN8A3fg	MPREb_3Xz7jcMjQDb	UCiCR6WTveMGAFWJ1Vyp3mgg
@@ -176,15 +176,15 @@
 16	Club Cannibal	Ashra	Correlations	INDIFFERENT	5:25	tDYqrlWnTnM	MPREb_mPTo4anKRPn	UCxICdazAuxfYyfl6c4Cyl-A
 63	Midnight On Mars	Ashra	Blackouts	INDIFFERENT	6:57	Yga14wTBQ4M	MPREb_YNSFOLwhgXn	UCxICdazAuxfYyfl6c4Cyl-A
 189	Felicita Lale	Anadol	Felicita	INDIFFERENT	3:25	tUmjozQ4lkQ	MPREb_fhB3re23Xxf	UCqF66EXAG6-nb3MYdTNuqDA
-9	Eye Shaking King (Live)	Amon Düül II	Live in London	INDIFFERENT	6:17	_o55-fyB-hY	MPREb_lMg67BqlwwO	UC_t6a5jY7sfL-MTvoOI3jfw
+9	Eye Shaking King (Live)	Amon Düül II	Live in London	INDIFFERENT	6:18	_o55-fyB-hY	MPREb_lMg67BqlwwO	UC_t6a5jY7sfL-MTvoOI3jfw
 21	Traveller	Amon Düül II	Hijack	INDIFFERENT	4:22	hmryMlZaHPw	MPREb_gFIHCTSYY5G	UC_t6a5jY7sfL-MTvoOI3jfw
-39	Deutsch Nepal	Amon Düül II	Wolf City	INDIFFERENT	2:57	isyIixbKbmI	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
-51	Wolf City	Amon Düül II	Wolf City	INDIFFERENT	3:20	h2iQCEL7-ak	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
-59	Phallus Dei	Amon Düül II	Phallus Dei	INDIFFERENT	20:47	ygfpMapPPs4	MPREb_ms9MVr6ZZiT	UC_t6a5jY7sfL-MTvoOI3jfw
-62	Green Bubble Raincoated Man	Amon Düül II	Wolf City	INDIFFERENT	5:03	MOHXuvMj8r0	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
+39	Deutsch Nepal	Amon Düül II	Wolf City	INDIFFERENT	2:58	isyIixbKbmI	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
+51	Wolf City	Amon Düül II	Wolf City	INDIFFERENT	3:21	h2iQCEL7-ak	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
+59	Phallus Dei	Amon Düül II	Phallus Dei	INDIFFERENT	20:50	ygfpMapPPs4	MPREb_ms9MVr6ZZiT	UC_t6a5jY7sfL-MTvoOI3jfw
+62	Green Bubble Raincoated Man	Amon Düül II	Wolf City	INDIFFERENT	5:04	MOHXuvMj8r0	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
 69	Archangels Thunderbird	Amon Düül II	Yeti	INDIFFERENT	3:34	sfu-k9CKq2w	MPREb_KkvKFDX8YUP	UC_t6a5jY7sfL-MTvoOI3jfw
-143	Apocolyptic Bore	Amon Düül II	Vive La Trance	INDIFFERENT	6:40	hYfWzjS8JLc	MPREb_ndTKjAlhhi7	UC_t6a5jY7sfL-MTvoOI3jfw
-186	Surrounded by the Stars	Amon Düül II	Wolf City	INDIFFERENT	7:44	scWD73Og0kQ	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
+143	Apocolyptic Bore	Amon Düül II	Vive La Trance	INDIFFERENT	6:41	hYfWzjS8JLc	MPREb_ndTKjAlhhi7	UC_t6a5jY7sfL-MTvoOI3jfw
+186	Surrounded by the Stars	Amon Düül II	Wolf City	INDIFFERENT	7:45	scWD73Og0kQ	MPREb_2TVNUGkCERW	UC_t6a5jY7sfL-MTvoOI3jfw
 65	Paramechanical World	Amon Düül	Paradieswärts Düül	INDIFFERENT	5:45	nCdXctGHGvo	MPREb_sJK6lAHsUZo	UCJOI3zEROGsque2wo3reErg
 12	In the Silence of the Morning Sunrise	Agitation Free	2nd	INDIFFERENT	6:38	Cx5kxqVGNMo	MPREb_vpz0JNHkfBv	UCdD-hYMRWR-UZpVjAY2WGIA
 82	First Communication	Agitation Free	2nd	INDIFFERENT	8:11	2JoJPnBcm9w	MPREb_vpz0JNHkfBv	UCdD-hYMRWR-UZpVjAY2WGIA

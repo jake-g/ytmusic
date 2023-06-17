@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 5	You've Changed	Teebs	Ardour (10th Anniversary Edition)	LIKE	2:12	Jjf6rfweKuE	MPREb_yf50AEXcyyV	UC_ioFVKCiroFVULYhOBfZvg
+70	Home	Medasin	Irene	LIKE	3:15	55MCvtwvZn8	MPREb_CREs0BSkbu2	UCLFWRFzjIUfifA4VNsEvoOw
+747	Dead Bent	MF DOOM	Operation: Doomsday (Complete)	LIKE	2:23	eA9MGW0KTI0	MPREb_vlItrFAKtji	UCooTDYkIERWBwDC1JKyoElQ
 721	Moshi Moshi	サイバー '98	Computer Dreams	INDIFFERENT	1:50	TYvN14DTAcI	MPREb_u3WmWw8R9Rl	UCbY8PnFXV_m3ym4AW5bgmow
 754	迷ってしまいました	サイバー '98	Computer Dreams	INDIFFERENT	2:29	VdaAnysJXdY	MPREb_u3WmWw8R9Rl	UCbY8PnFXV_m3ym4AW5bgmow
 779	Keiko	サイバー '98	Digital Forest	INDIFFERENT	1:56	iJnnZpW9bi8	MPREb_3a9h7dKgZz6	UCbY8PnFXV_m3ym4AW5bgmow
@@ -88,11 +90,11 @@
 735	Cruisin'	Tom Misch	Beat Tape 1	INDIFFERENT	1:56	7CahA9cAp_g	MPREb_ZuYnKCYAmmd	UCCCWJwLEvpPAs4r_nJiKe2Q
 163	Waiting on You	Tim Legend	Waiting on You	INDIFFERENT	2:30	2geac_YWp0o	MPREb_ejBGq5G1YJY	UCAOxW4Ftk1yUfxd0GNH9ujw
 203	Gate City Saving and Loan	Thes One	Lifestyle Marketing	INDIFFERENT	3:04	QDfja4pjDzs	MPREb_EiwQNxkUdGp	UCS0mbP95xOs-ifvKH3ui60w
-184	Y? (Remix Instrumental)	The Pharcyde	Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)	INDIFFERENT	4:55	8hlUi8ag1b8	MPREb_4DlwfKxCv0i	UCPBVpB_roy80QRKWi4vwRVQ
-218	Bullshit (Instrumental)	The Pharcyde	Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)	INDIFFERENT	4:26	FbnChT12xe0	MPREb_4DlwfKxCv0i	UCPBVpB_roy80QRKWi4vwRVQ
+184	Y? (Remix Instrumental)	The Pharcyde	Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)	INDIFFERENT	4:56	8hlUi8ag1b8	MPREb_4DlwfKxCv0i	UCPBVpB_roy80QRKWi4vwRVQ
+218	Bullshit (Instrumental)	The Pharcyde	Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)	INDIFFERENT	4:27	FbnChT12xe0	MPREb_4DlwfKxCv0i	UCPBVpB_roy80QRKWi4vwRVQ
 529	Mystic Voyage (For Roy Ayers)	The Last Electro-Acoustic Space Jazz & Percussion Ensemble	Miles Away	INDIFFERENT	4:26	KpAXFw3KjqY	MPREb_W2VIeuI0a9J	UCX5EtK51J7IJRq_EJ3BnkSA
-557	Waltz For Woody (For Woody Shaw)	The Last Electro-Acoustic Space Jazz & Percussion Ensemble	Miles Away	INDIFFERENT	3:57	eMCz2JjxB50	MPREb_W2VIeuI0a9J	UCX5EtK51J7IJRq_EJ3BnkSA
-809	Marcus, Martin & Malcolm	The Jazzistics	Yesterdays Universe: Prepare For A New Yesterday (Volume 1)	INDIFFERENT	3:24	cDny-WOIft0	MPREb_1mGD3kBVznx	
+557	Waltz For Woody (For Woody Shaw)	The Last Electro-Acoustic Space Jazz & Percussion Ensemble	Miles Away	INDIFFERENT	3:58	eMCz2JjxB50	MPREb_W2VIeuI0a9J	UCX5EtK51J7IJRq_EJ3BnkSA
+809	Marcus, Martin & Malcolm	The Jazzistics	Yesterdays Universe: Prepare For A New Yesterday (Volume 1)	INDIFFERENT	3:25	cDny-WOIft0	MPREb_1mGD3kBVznx	
 255	Carpool Dummy	The Gaslamp Killer	Death Gate EP	INDIFFERENT	2:18	GuvjQrPKhus	MPREb_OnbDe2nzTmw	UCuvoqnctKBbiatTnb_RUNrA
 348	It Pours	The Flashbulb	Opus at the End of Everything	INDIFFERENT	2:19	sZRj4XuZNhU	MPREb_QnyGWgEq2QT	UCokwPF41zVkP57MyjIZNniw
 383	Fall Thru	The Doppelgangaz	Peace Kehd (Deluxe Version)	INDIFFERENT	3:36	uLFNhWn8jpQ	MPREb_VYR73SDQquh	UCBgCjsx9aRIbEAzg6P31xQA
@@ -105,12 +107,12 @@
 140	Hideout	Tesk	Hideout	INDIFFERENT	2:12	3hndxAXGPo4	MPREb_DQwNJv7DniE	UCnnxsr-jZc4PGuw3uElF3QA
 172	Snapback	Tesk	Spotless Minds	INDIFFERENT	2:02	4I2IFrdNSlQ	MPREb_uF67t8FWlrd	UCnnxsr-jZc4PGuw3uElF3QA
 294	burn my mind	Tesk	Chillhop Essentials Winter 2018	INDIFFERENT	2:31	FMG1joxE8Wg	MPREb_DAtYyHzajvk	UCSC10JJbKxbUOzX7UsqH9zg
-209	2003	Tek.lun	Ridin' Round 2	INDIFFERENT	1:31	0zXQGuXC18w	MPREb_crUwkx8Bh0i	
+209	2003	Tek.lun	Ridin' Round 2	INDIFFERENT	3:26	0zXQGuXC18w	MPREb_crUwkx8Bh0i	
 446	Untitled	Teebs & Jackhigh	The Tropics	INDIFFERENT	1:44	ULHI0AOzxZo	MPREb_ZJGLvE4KLED	
 3	King Bathtub	Teebs	Ardour (10th Anniversary Edition)	INDIFFERENT	2:56	lBEEPEcIlpc	MPREb_yf50AEXcyyV	UC_ioFVKCiroFVULYhOBfZvg
 10	Lakeshore Ave.	Teebs	Ardour (10th Anniversary Edition)	INDIFFERENT	1:46	TeC30LS1yXc	MPREb_yf50AEXcyyV	UC_ioFVKCiroFVULYhOBfZvg
 130	Anchor Steam	Teebs	LA Series 6	INDIFFERENT	1:51	GTBkrtGk8pQ	MPREb_AFqcgATkECm	UC_ioFVKCiroFVULYhOBfZvg
-290	Daughter Callin' (feat. Pink Siifu)	Teebs	Anicca	INDIFFERENT	3:20	cHy0TJTcsFA	MPREb_C02KyxFmDSV	UC_ioFVKCiroFVULYhOBfZvg
+290	Daughter Callin' (feat. Pink Siifu)	Teebs	Anicca	INDIFFERENT	3:21	cHy0TJTcsFA	MPREb_C02KyxFmDSV	UC_ioFVKCiroFVULYhOBfZvg
 647	Florasia	Taylor McFerrin	Early Riser	INDIFFERENT	4:17	IfBZeDKwp4A	MPREb_5b1nEzQfOWI	UC3n51lqqveGPytJEkI4Ty1Q
 740	Rain Into the Nite (Outro)	Tall Black Guy	8 Miles to Moenart	INDIFFERENT	3:58	DCLJK4ewLsc	MPREb_hwJzHBDgxN5	UCv9vIuPAsrrGnCIGie5pqpw
 768	Funeral Biz / Welcome to Detroit (Interlude) (feat. Malice & Mario Sweet)	Tall Black Guy	8 Miles to Moenart	INDIFFERENT	4:21	dkxL2c7sg5g	MPREb_hwJzHBDgxN5	UCv9vIuPAsrrGnCIGie5pqpw
@@ -138,21 +140,21 @@
 774	Dubious	Swarvy	Scotch	INDIFFERENT	3:31	cuUQRL5Di_4	MPREb_OmJnGivnq68	
 497	Silver Head	Superpoze	Jaguar - EP	INDIFFERENT	3:26	BUw3v87LXjE	MPREb_iHteXKWcHup	UCNMmB8d-a-2Sgf8mrwOkTKA
 366	They Don't Want to Let You Know	Sun Glitters	High	INDIFFERENT	2:48	3-eyTlRM5UQ	MPREb_yfCItoTcm4t	UCRy5rsbtLq5pDdaye80oEdg
-509	Hurry	Suicideyear	Japan	INDIFFERENT	4:25	3oTQFtRlOlE	MPREb_sAH97sGkxDc	UCotl_TZK1Adswq_BjPqfiKg
+509	Hurry	Suicideyear	Japan	INDIFFERENT	4:26	3oTQFtRlOlE	MPREb_sAH97sGkxDc	UCotl_TZK1Adswq_BjPqfiKg
 625	Blips In December	Submerse	Algorithms and Ghosts	INDIFFERENT	2:21	5djMYzKpplw	MPREb_S6F0F15vAps	UCjtvC7kQZTtmJ9Y00cfMqLg
 706	Neurodata 脳	Subaeris	New Tokyo Blue Mood 東京	INDIFFERENT	3:05	FclzBshQoyE	MPREb_oYdipErTVWG	UCq-qZkdZMkp9bn1dx8_tFVQ
-359	No Hesitation (feat. Styles P)	Step Brothers	Lord Steppington (Deluxe Version)	INDIFFERENT	2:57	XGIUv7E4RXA	MPREb_KAfeA2Bzs0M	UCbMze2GgC4EuSkTzK14jtDA
-653	String Cheese (Bonus Track)	Step Brothers	Lord Steppington (Deluxe Version)	INDIFFERENT	2:17	g1X36msxz8Q	MPREb_KAfeA2Bzs0M	UCbMze2GgC4EuSkTzK14jtDA
+359	No Hesitation (feat. Styles P)	Step Brothers	Lord Steppington (Deluxe Version)	INDIFFERENT	2:58	XGIUv7E4RXA	MPREb_KAfeA2Bzs0M	UCbMze2GgC4EuSkTzK14jtDA
+653	String Cheese (Bonus Track)	Step Brothers	Lord Steppington (Deluxe Version)	INDIFFERENT	2:18	g1X36msxz8Q	MPREb_KAfeA2Bzs0M	UCbMze2GgC4EuSkTzK14jtDA
 690	More Wins (Instrumental)	Step Brothers	Lord Steppington (Instrumental Version)	INDIFFERENT	2:32	ZQD66yiGX9w	MPREb_K9dv62Uebjm	UCbMze2GgC4EuSkTzK14jtDA
 522	Heltah Selektah (feat. Rock & Sean Price)	Statik Selektah	What Goes Around	INDIFFERENT	2:06	9ea4E2AvEg8	MPREb_rTC0T5PVThh	UC4ZaPSe-xixJIDKRrSgYjqg
-320	The Horse	Sound Directions	The Funky Side Of LIfe	INDIFFERENT	2:49	kXcB54Dml1g	MPREb_ekfUlppdAGn	UCkoSqhmwdsYep8joB7cHNVA
-435	Wanda Vidal	Sound Directions	The Funky Side Of LIfe	INDIFFERENT	2:17	bwSl7nBkUgg	MPREb_ekfUlppdAGn	UCkoSqhmwdsYep8joB7cHNVA
+320	The Horse	Sound Directions	The Funky Side Of LIfe	INDIFFERENT	2:46	kXcB54Dml1g	MPREb_ekfUlppdAGn	UCkoSqhmwdsYep8joB7cHNVA
+435	Wanda Vidal	Sound Directions	The Funky Side Of LIfe	INDIFFERENT	2:16	bwSl7nBkUgg	MPREb_ekfUlppdAGn	UCkoSqhmwdsYep8joB7cHNVA
 620	A Divine Image	Sound Directions	The Funky Side Of LIfe	INDIFFERENT	2:19	mwgg1IAv3Fk	MPREb_ekfUlppdAGn	UCkoSqhmwdsYep8joB7cHNVA
-812	She's Gonna Stay	Sound Directions	Yesterdays Universe: Prepare For A New Yesterday (Volume 1)	INDIFFERENT	2:49	EI5UFkxE6N0	MPREb_1mGD3kBVznx	UCkoSqhmwdsYep8joB7cHNVA
+812	She's Gonna Stay	Sound Directions	Yesterdays Universe: Prepare For A New Yesterday (Volume 1)	INDIFFERENT	2:50	EI5UFkxE6N0	MPREb_1mGD3kBVznx	UCkoSqhmwdsYep8joB7cHNVA
 450	Jealousy (Instrumental)	Slum Village	Fantastic, Vol.2: Vinyl Instrumentals	INDIFFERENT	3:28	02-S_5kDu80	MPREb_rTS3y4hQdju	UChjec6PW8WND5h9qjdRBKyQ
 574	Hoc N Pucky (feat. Various Artists)	Slum Village	Slum Village Greatest Hits, Vol. 2	INDIFFERENT	1:38	GIa4nZJD4O0	MPREb_kgpJVwFSRZn	UChjec6PW8WND5h9qjdRBKyQ
 684	2000 Beyond (Instrumental)	Slum Village	Villa Manifesto Instrumentals	INDIFFERENT	2:53	7-Do93oyegE	MPREb_BxVfKUm3RRW	UChjec6PW8WND5h9qjdRBKyQ
-50	Dragon Drums	Slugabed	Time Team	INDIFFERENT	3:54	TxFpHAYGjLE	MPREb_kBTkQupnGMR	UCdDSBOK6yAkweGuILUG_IGQ
+50	Dragon Drums	Slugabed	Time Team	INDIFFERENT	3:55	TxFpHAYGjLE	MPREb_kBTkQupnGMR	UCdDSBOK6yAkweGuILUG_IGQ
 129	Imsomnia	Sleepdealer	Yerba	INDIFFERENT	1:38	G6s9abbTw-0	MPREb_OnWV8KkTf8C	UCaVMak8yofbc_Pgd3FaE9Bg
 787	Money Makes Us Happy (feat. Bilal & Black Thought)	Skyzoo	Music For My Friends	INDIFFERENT	5:25	ilT7Qa0u0Vo	MPREb_8itUMBfUU9j	UCRFpRfypYSs8NgEETso9s8w
 8	11_9_10 Asleep On The 22	Shlohmo	Bad Vibes - 5th Anniversary Edition	INDIFFERENT	4:30	okhh3Wkhw-0	MPREb_gsKYMvQf93V	UCnCEHQJ4sNkIkkqsPp9u-Ag
@@ -161,7 +163,7 @@
 252	Back House	Shlohmo	Bad Vibes - 5th Anniversary Edition	INDIFFERENT	2:45	pQ9Y4lW4V-g	MPREb_gsKYMvQf93V	UCnCEHQJ4sNkIkkqsPp9u-Ag
 342	Naps	Shlohmo	Camping - EP	INDIFFERENT	3:26	PNi3raPbKGU	MPREb_nCmXUoyUBtG	UCnCEHQJ4sNkIkkqsPp9u-Ag
 188	Please Stay	Shigeto	Lineage	INDIFFERENT	3:53	yX_-ew5dBxI	MPREb_g66gPAopoNU	UC9HVpucaFBCEw2C7y15v2CQ
-278	City Dweller	Shigeto	Intermission	INDIFFERENT	3:46	ceEEDmjgIUY	MPREb_TIm7DRdKwuo	UC9HVpucaFBCEw2C7y15v2CQ
+278	City Dweller	Shigeto	Intermission	INDIFFERENT	3:47	ceEEDmjgIUY	MPREb_TIm7DRdKwuo	UC9HVpucaFBCEw2C7y15v2CQ
 283	Back to Basics	Shigeto	Versions	INDIFFERENT	3:21	V3wCCtdgGwk	MPREb_emzu5380bE7	UC9HVpucaFBCEw2C7y15v2CQ
 413	Huron River Drive	Shigeto	Lineage	INDIFFERENT	2:41	tvQSMCjOvTw	MPREb_g66gPAopoNU	UC9HVpucaFBCEw2C7y15v2CQ
 422	Bitter Sweet	Shigeto	What We Held On To EP	INDIFFERENT	2:18	fIIf75dUrJc	MPREb_QbNrfsreY5V	UC9HVpucaFBCEw2C7y15v2CQ
@@ -170,11 +172,11 @@
 804	To Impress the Empress	Scott Matelic	Primitive Pessimist	INDIFFERENT	4:21	syyQvuwXbr0	MPREb_BJFPu1eO3vL	UCA9VAqxVAfCPM9UbDsoTlQg
 236	Dance for Blessings	Sango	Dance for Blessings	INDIFFERENT	3:26	kQTkGWOp_DI	MPREb_959Kv4y1fyY	UC6fLhJJHFQUzTw7GBQG7l1w
 492	Life Without God Is Nothing	Sango	In The Comfort Of	INDIFFERENT	3:08	lIioJSfszDw	MPREb_K7E9L7Ejo0p	UC6fLhJJHFQUzTw7GBQG7l1w
-13	Slime	Samiyam	Pizza Party	INDIFFERENT	2:53	D_OR1Jmv_R8	MPREb_bNNgJ370bK6	UC48WBBdci_jryqrlu_aU-Mw
+13	Slime	Samiyam	Pizza Party	INDIFFERENT	2:54	D_OR1Jmv_R8	MPREb_bNNgJ370bK6	UC48WBBdci_jryqrlu_aU-Mw
 55	Fishsticks	Samiyam	LA Series #3	INDIFFERENT	3:18	lledCxe41Z4	MPREb_00QqH3L30Md	UC48WBBdci_jryqrlu_aU-Mw
-85	Gumdrops	Samiyam	Animals Have Feelings	INDIFFERENT	1:32	Krc8dob941U	MPREb_3qFZL0va7gi	UC48WBBdci_jryqrlu_aU-Mw
+85	Gumdrops	Samiyam	Animals Have Feelings	INDIFFERENT	1:33	Krc8dob941U	MPREb_3qFZL0va7gi	UC48WBBdci_jryqrlu_aU-Mw
 181	Cushion	Samiyam	Brainfeeder Sampler 2012	INDIFFERENT	2:23	dYwSOAbNkxY	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIYYnJhaW5mZWVkZXIgc2FtcGxlciAyMDEyGg92YXJpb3VzIGFydGlzdHMiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIHc2FtaXlhbQ
-600	What Can I Do	Samiyam	Pizza Party	INDIFFERENT	3:07	r3LSjFKwYhE	MPREb_bNNgJ370bK6	UC48WBBdci_jryqrlu_aU-Mw
+600	What Can I Do	Samiyam	Pizza Party	INDIFFERENT	3:08	r3LSjFKwYhE	MPREb_bNNgJ370bK6	UC48WBBdci_jryqrlu_aU-Mw
 97	A Woman	Saib	Buena Vista	INDIFFERENT	2:38	EM9Xr4mZ5LQ	MPREb_8XDcLQnKW2h	UCw02oGFeqYXl14LcyKhOTYw
 132	let's go on a magic akai ride (feat. afternoon)	Rook1e	Grape Soda	INDIFFERENT	1:37	1_UI_GrCay8	MPREb_UqUpItsuZWO	UCn73gaYjA5TdiONNbZ1S2BA
 602	Sunflowers (feat. Limes)	Rook1e	Grape Soda	INDIFFERENT	2:03	gwac6RB3_fU	MPREb_UqUpItsuZWO	UCn73gaYjA5TdiONNbZ1S2BA
@@ -187,26 +189,26 @@
 662	Ur My Destiny	Ricky Eat Acid	Haunt U Forever	INDIFFERENT	2:58	1ESXG4dDixA	MPREb_Mq7JowbnghC	UCALjtt9UMVClsw9HZQ7jwGQ
 496	Kill Em (Prod. by Sean C & LV)	Reks	Rhythmatic Eternal King Supreme	INDIFFERENT	3:15	SgV3ZF3vaZM	MPREb_nhviYF6DSVe	UCMzHWExGNgleTyXJiFeL7uQ
 778	Roses (feat. 4 Rax)	Ras Kass	Blasphemy	INDIFFERENT	3:47	E3lT2Qdql8Y	MPREb_YvbnaODJMzi	UCmNriPWyiSyo4E7gfFLG_pQ
-49	Polo Jacket & Dashiki	Ras G	Down To Earth Vol. 2 (The Standard Bap Edition)	INDIFFERENT	2:18	mhsOXdcP6Bs	MPREb_sUP9QQdGjpz	UCfiEjbVXR345Ey3LyBQwm-A
+49	Polo Jacket & Dashiki	Ras G	Down To Earth Vol. 2 (The Standard Bap Edition)	INDIFFERENT	2:19	mhsOXdcP6Bs	MPREb_sUP9QQdGjpz	UCfiEjbVXR345Ey3LyBQwm-A
 102	News @ 11	Ras G	Raw Fruit, Vol. 1	INDIFFERENT	1:34	-JSLIRYswog	MPREb_5S1Unlrek8M	UCfiEjbVXR345Ey3LyBQwm-A
-161	Hear U(MPC 2000XL )	Ras G	Raw Fruit Vol.3	INDIFFERENT	1:31	4UkhD3Ey47g	MPREb_dVIpA3fKwIC	UCfiEjbVXR345Ey3LyBQwm-A
+161	Hear U(MPC 2000XL )	Ras G	Raw Fruit Vol.3	INDIFFERENT	1:32	4UkhD3Ey47g	MPREb_dVIpA3fKwIC	UCfiEjbVXR345Ey3LyBQwm-A
 211	Crenshaw Bus	Ras G	Down 2 Earth (The Standard Edition)	INDIFFERENT	1:43	9Fqtp05F1LI	MPREb_kiUtjONY0Z9	UCfiEjbVXR345Ey3LyBQwm-A
 214	Harlem Negus Wild	Ras G	Down 2 Earth (The Standard Edition)	INDIFFERENT	2:04	F7I1S7cXYkk	MPREb_kiUtjONY0Z9	UCfiEjbVXR345Ey3LyBQwm-A
 476	$10 Coffee Cake	Ras G	Raw Fruit, Vol. 4	INDIFFERENT	1:56	ccFsLjCG8nI	MPREb_b04J6RLMdec	UCfiEjbVXR345Ey3LyBQwm-A
 507	Breakfast Blunts	Ras G	LA Series #3	INDIFFERENT	2:21	UNY0izYyBBQ	MPREb_00QqH3L30Md	UCfiEjbVXR345Ey3LyBQwm-A
-517	Duppy Conquer…	Ras G	Down To Earth Vol. 2 (The Standard Bap Edition)	INDIFFERENT	2:46	LV8DnAbmXRg	MPREb_sUP9QQdGjpz	UCfiEjbVXR345Ey3LyBQwm-A
-575	Imamu`s Time….	Ras G	Down To Earth Vol. 2 (The Standard Bap Edition)	INDIFFERENT	1:53	ZC_nz-7vnqM	MPREb_sUP9QQdGjpz	UCfiEjbVXR345Ey3LyBQwm-A
+517	Duppy Conquer…	Ras G	Down To Earth Vol. 2 (The Standard Bap Edition)	INDIFFERENT	2:47	LV8DnAbmXRg	MPREb_sUP9QQdGjpz	UCfiEjbVXR345Ey3LyBQwm-A
+575	Imamu`s Time….	Ras G	Down To Earth Vol. 2 (The Standard Bap Edition)	INDIFFERENT	1:54	ZC_nz-7vnqM	MPREb_sUP9QQdGjpz	UCfiEjbVXR345Ey3LyBQwm-A
 570	Every Block (feat. Phonte (of Little Brother))	Rapper Big Pooh	Sleepers	INDIFFERENT	3:27	iLtT_bL_hzo	MPREb_IjplXQ4sVwk	UC8ZpX1bKLwbj6d7gcZYQxYQ
-273	Hydrant Game (Jaylib Remix)	Quasimoto	Peanut Butter Wolf's B Ball Zombie War	INDIFFERENT	1:36	ptPOx7X-7JE	MPREb_xizgcycignr	UCFkCLeMBKTlA3UD13VBTR9w
-327	Broad Factor	Quasimoto	Yessir Whatever	INDIFFERENT	2:45	2Jh-6kPlhbg	MPREb_9scXa7ydxWh	UCFkCLeMBKTlA3UD13VBTR9w
-403	MHB's	Quasimoto	The Unseen	INDIFFERENT	2:02	rdvVAYKBTPU	MPREb_0K6QZkMjHgO	UCFkCLeMBKTlA3UD13VBTR9w
+273	Hydrant Game (Jaylib Remix)	Quasimoto	Peanut Butter Wolf's B Ball Zombie War	INDIFFERENT	1:38	ptPOx7X-7JE	MPREb_xizgcycignr	UCFkCLeMBKTlA3UD13VBTR9w
+327	Broad Factor	Quasimoto	Yessir Whatever	INDIFFERENT	2:46	2Jh-6kPlhbg	MPREb_9scXa7ydxWh	UCFkCLeMBKTlA3UD13VBTR9w
+403	MHB's	Quasimoto	The Unseen	INDIFFERENT	2:03	rdvVAYKBTPU	MPREb_0K6QZkMjHgO	UCFkCLeMBKTlA3UD13VBTR9w
 425	Raw Deal	Quasimoto	The Further Adventures of Lord Quas	INDIFFERENT	2:17	NUGIG26_mHM	MPREb_dPd2J36SsaI	UCFkCLeMBKTlA3UD13VBTR9w
-430	Bullyshit (Instrumental)	Quasimoto	The Further Adventures Instrumentals	INDIFFERENT	2:38	V4SDfy_ZmTI	MPREb_AdivwGz7mq0	UCFkCLeMBKTlA3UD13VBTR9w
+430	Bullyshit (Instrumental)	Quasimoto	The Further Adventures Instrumentals	INDIFFERENT	2:39	V4SDfy_ZmTI	MPREb_AdivwGz7mq0	UCFkCLeMBKTlA3UD13VBTR9w
 545	Life Is…	Quasimoto	The Further Adventures of Lord Quas	INDIFFERENT	2:19	GEOes2j80L8	MPREb_dPd2J36SsaI	UCFkCLeMBKTlA3UD13VBTR9w
 590	Low Class Conspiracy	Quasimoto	Our Vinyl Weighs A Ton - This Is Stones Throw Records	INDIFFERENT	2:30	a7F2HfM9OYY	MPREb_NTlme5HtwcO	UCFkCLeMBKTlA3UD13VBTR9w
-619	Basic Instinct	Quasimoto	The Unseen	INDIFFERENT	2:10	JXeJA2i-Lck	MPREb_0K6QZkMjHgO	UCFkCLeMBKTlA3UD13VBTR9w
-622	Put A Curse On You	Quasimoto	The Unseen	INDIFFERENT	1:46	U8C4w_bkP8k	MPREb_0K6QZkMjHgO	UCFkCLeMBKTlA3UD13VBTR9w
-176	Johnny Is Dead	Q-Tip	The Renaissance	INDIFFERENT	3:01	FI00bZqKP0Q	MPREb_dT1rO3ij0mG	UCe0gK3BlE7ZD1fekT0LxBiA
+619	Basic Instinct	Quasimoto	The Unseen	INDIFFERENT	2:11	JXeJA2i-Lck	MPREb_0K6QZkMjHgO	UCFkCLeMBKTlA3UD13VBTR9w
+622	Put A Curse On You	Quasimoto	The Unseen	INDIFFERENT	1:47	U8C4w_bkP8k	MPREb_0K6QZkMjHgO	UCFkCLeMBKTlA3UD13VBTR9w
+176	Johnny Is Dead	Q-Tip	The Renaissance	INDIFFERENT	3:02	FI00bZqKP0Q	MPREb_dT1rO3ij0mG	UCe0gK3BlE7ZD1fekT0LxBiA
 713	Even If It Is So	Q-Tip	Kamaal The Abstract	INDIFFERENT	5:31	1uzWyxMryfQ	MPREb_XMrNuPCMjsc	UCe0gK3BlE7ZD1fekT0LxBiA
 418	Eating Disorder	Psymun	Pink Label	INDIFFERENT	2:14	WoCoJhoyqNg	MPREb_gok2tEOb2C8	UCXiOk6sgVl7r2_g4NAphtxA
 31	Morning Sun (feat. Nanna.B)	Potatohead People	Nick & Astro's Guide to the Galaxy	INDIFFERENT	3:54	Qc1BhptCUEU	MPREb_tYlgIRdgVP2	UCISsoydZ3T3JH2bsSgs-o1A
@@ -226,7 +228,7 @@
 151	For Pete's Sake	Pete Rock & C.L. Smooth	Mecca And The Soul Brother	INDIFFERENT	5:55	ndz5Bj4HSzk	MPREb_VM6zes2f4HW	UCmH331qHkIZdDZeqshhycOw
 11	Dilla Bounce (R.I.P.)	Pete Rock	Petestrumentals 2	INDIFFERENT	3:43	v5lgiPt6sco	MPREb_7wzCkUj3wpV	UCOwnuQTYOU-1hE4rGM2ohAg
 12	Beat Goes On	Pete Rock	Petestrumentals 2	INDIFFERENT	3:48	K1miGHndJXc	MPREb_7wzCkUj3wpV	UCOwnuQTYOU-1hE4rGM2ohAg
-310	We Roll (Instrumental)	Pete Rock	NY's Finest (Instrumentals)	INDIFFERENT	4:04	ddrlq-WM1z0	MPREb_6fOJmkqoZqa	UCOwnuQTYOU-1hE4rGM2ohAg
+310	We Roll (Instrumental)	Pete Rock	NY's Finest (Instrumentals)	INDIFFERENT	4:05	ddrlq-WM1z0	MPREb_6fOJmkqoZqa	UCOwnuQTYOU-1hE4rGM2ohAg
 457	Heaven & Earth	Pete Rock	Petestrumentals 2	INDIFFERENT	3:39	YQdS7q3dppA	MPREb_7wzCkUj3wpV	UCOwnuQTYOU-1hE4rGM2ohAg
 29	Still Broke	Onra	Chinoiseries pt 2	INDIFFERENT	1:57	15CkC9iyUkk	MPREb_7BwLcEoGF30	UCUy-Fz5hIi6u6i2fDdVdEew
 94	Chop Your Hands	Onra	Chinoiseries	INDIFFERENT	2:04	cXHhLscF2sI	MPREb_N2OhSHyjvPz	UCUy-Fz5hIi6u6i2fDdVdEew
@@ -252,7 +254,7 @@
 811	Lorb	Ohbliv	EZ Widas	INDIFFERENT	1:55	HLVPmNhGDEg	MPREb_T7syhGGXgDm	UCplsjd6l-H1iwUZSCQZB-IA
 820	668	Ohbliv	Up	INDIFFERENT	3:03	cjDxucTI6u4	MPREb_EokfbQ1kST5	UCG7bqxF2ISjsiRxn85TvEAA
 453	Hell Yes	Oh No	Dr. No's Kali Tornado Funk	INDIFFERENT	1:58	3E-nOsqZi5A	MPREb_VjiYbOKHD3P	UCAcRGI5NsK-qwkcrLdt5avw
-467	Living For The City	Oh No	Chrome Children Vol. 2	INDIFFERENT	3:36	UzgZYfrtEu8	MPREb_SnmOiT1lV3m	UCAcRGI5NsK-qwkcrLdt5avw
+467	Living For The City	Oh No	Chrome Children Vol. 2	INDIFFERENT	3:37	UzgZYfrtEu8	MPREb_SnmOiT1lV3m	UCAcRGI5NsK-qwkcrLdt5avw
 83	Maybes	Oddisee	People Hear What They See	INDIFFERENT	3:47	2xSYydgs2j0	MPREb_nv6sDOUiEzc	UC8saRlWqYkWEVtwgNH12ZeA
 86	Gentrification (feat. DJ Jazzy Jeff, J-Live, Freddie Foxxx & Kev Brown)	Oddisee	Foot In the Door (Mixed by DJ Jazzy Jeff)	INDIFFERENT	3:08	WUq6AlToK5g	MPREb_RlEmJ5ilh3U	UC8saRlWqYkWEVtwgNH12ZeA
 122	One Thing Right	Oddisee	The Beauty in All	INDIFFERENT	4:24	cGaz2JtVLR0	MPREb_itGhBh4yRHI	UC8saRlWqYkWEVtwgNH12ZeA
@@ -279,8 +281,8 @@
 635	We Were Never There	Nym	Convex	INDIFFERENT	1:54	T9KQZp3DNJI	MPREb_5OP8zPb5kD6	UCedH5ZPUnuA_sjLQS8SGzYw
 110	Fujita Scale	NxxxxxS	Fujita Scale	INDIFFERENT	4:43	mFkxaAnUGwo	MPREb_DNLpvf5UuIh	UCI_5yFZCWsxAjmi13AYQVOw
 268	Extratropical Cyclone	NxxxxxS	Fujita Scale	INDIFFERENT	5:07	rZJSbbFV9zc	MPREb_DNLpvf5UuIh	UCI_5yFZCWsxAjmi13AYQVOw
-65	Scared Money (Remix)	NxWorries	Yes Lawd! Remixes	INDIFFERENT	3:00	SaLbUKmEYSA	MPREb_vfZMVQfaSke	UCxECDWaXlusip8MvkQQok7w
-66	Lyk Dis (Remix)	NxWorries	Yes Lawd! Remixes	INDIFFERENT	2:13	UcEq15PIpFQ	MPREb_vfZMVQfaSke	UCxECDWaXlusip8MvkQQok7w
+65	Scared Money (Remix)	NxWorries	Yes Lawd! Remixes	INDIFFERENT	3:01	SaLbUKmEYSA	MPREb_vfZMVQfaSke	UCxECDWaXlusip8MvkQQok7w
+66	Lyk Dis (Remix)	NxWorries	Yes Lawd! Remixes	INDIFFERENT	2:14	UcEq15PIpFQ	MPREb_vfZMVQfaSke	UCxECDWaXlusip8MvkQQok7w
 113	Eclipse (feat. Substantial)	Nujabes	Modal Soul	INDIFFERENT	3:35	i7k9JWvG65M	MPREb_o1pek8NkJT6	UCxQQET-tQsC4cwzLow9ZsuQ
 432	Beat laments the world	Nujabes	Metaphorical Music	INDIFFERENT	4:24	lYDaNWFlK2w	MPREb_h5m1Uq77nmr	UCxQQET-tQsC4cwzLow9ZsuQ
 470	The Final View	Nujabes	Metaphorical Music	INDIFFERENT	3:35	Y_jaL9Q5C-A	MPREb_h5m1Uq77nmr	UCxQQET-tQsC4cwzLow9ZsuQ
@@ -313,14 +315,14 @@
 626	Attila	Mono:Massive	Chillhop Essentials Spring 2017	INDIFFERENT	2:28	yHmh78FkEMc	MPREb_ohmFrD8Q5Pr	UCrXXb_AAehV3VxV1UZfwgGg
 652	Somewhat	Mono:Massive	Chillhop Essentials Spring 2016	INDIFFERENT	3:40	0uW_xcztyT8	MPREb_MNlSWG6Z6xs	UCrXXb_AAehV3VxV1UZfwgGg
 198	Land of Love / Star Grab	Mono/Poly	Paramatma	INDIFFERENT	5:45	Roc--HHdelo	MPREb_Ykru2TjyYDN	UCoE2FYcPhH53r9SCjv_fGdQ
-202	Gamma	Mono/Poly	Golden Skies	INDIFFERENT	3:44	5ACQeaS0Wpw	MPREb_p5NijrAvdJG	UCsUof1Dknyy0gPTJa9KvhdA
+202	Gamma	Mono/Poly	Golden Skies	INDIFFERENT	3:45	5ACQeaS0Wpw	MPREb_p5NijrAvdJG	UCsUof1Dknyy0gPTJa9KvhdA
 232	The System Crumbles	Mono/Poly	Paramatma	INDIFFERENT	2:46	h3_hWafL_wE	MPREb_Ykru2TjyYDN	UCoE2FYcPhH53r9SCjv_fGdQ
 330	Roots In Earth (Muladhara)	Mono/Poly	Paramatma	INDIFFERENT	2:46	4z2fc_x6g_c	MPREb_Ykru2TjyYDN	UCoE2FYcPhH53r9SCjv_fGdQ
 336	Oil Fields	Mono/Poly	Producer 2, Pt. 3	INDIFFERENT	3:38	uiuc53ldo3c	MPREb_zBBSZIs5mEL	UC5zve3dQy52SZl7wZe2iNFQ
 358	Intergalactic	Mono/Poly	Cryptic	INDIFFERENT	2:45	FfpzkGCmfsI	MPREb_tM6Dq4wtw3B	UCoE2FYcPhH53r9SCjv_fGdQ
 471	The Fuckin Real	Mono/Poly	Cryptic	INDIFFERENT	2:45	NaMxXBZSIBI	MPREb_tM6Dq4wtw3B	UCoE2FYcPhH53r9SCjv_fGdQ
 525	Shapeshift	Mono/Poly	Cryptic	INDIFFERENT	3:53	vWhR9dSz3IM	MPREb_tM6Dq4wtw3B	UCoE2FYcPhH53r9SCjv_fGdQ
-566	Night Garden	Mono/Poly	Golden Skies	INDIFFERENT	3:51	X5hoEHHOzr8	MPREb_p5NijrAvdJG	UCsUof1Dknyy0gPTJa9KvhdA
+566	Night Garden	Mono/Poly	Golden Skies	INDIFFERENT	3:52	X5hoEHHOzr8	MPREb_p5NijrAvdJG	UCsUof1Dknyy0gPTJa9KvhdA
 618	Raw Power Moves	Mono/Poly	Cryptic	INDIFFERENT	1:51	S73dHmuWYqU	MPREb_tM6Dq4wtw3B	UCoE2FYcPhH53r9SCjv_fGdQ
 581	Fast Travel	Monma	Chillhop Essentials Summer 2019	INDIFFERENT	2:03	kfZNy9o_H7E	MPREb_9UNCTFZa4Lk	UC9PwpMOQrmnNORZ6HQ46xOg
 247	Day Of Spirit Man	Monk Hughes & The Outer Realm	A Tribute To Brother Weldon	INDIFFERENT	5:13	S70vhF6jUqA	MPREb_1s7J47coE9c	UCV8juS5TGPzBzx1yFdvH3rA
@@ -330,20 +332,20 @@
 572	Mother	Moglii	Mother	INDIFFERENT	3:07	9BPqJ1s5O6A	MPREb_aNBQoyjpupk	UC5YZehmJ0DurKnbwiouxYYw
 73	Drum Talking	Mo Kolours	EP1: Drum Talking	INDIFFERENT	3:08	b95b2G40WjY	MPREb_zyBqIfymSoW	UCBbd8PKtLxmdsM3PrdllRCA
 91	Mini Culcha	Mo Kolours	EP2: Banana Wine	INDIFFERENT	2:35	FgOH65fIpAs	MPREb_j4oMkS2E4Hv	UCBbd8PKtLxmdsM3PrdllRCA
-68	Transmissionnn	Mndsgn	Body Wash	INDIFFERENT	3:37	gnY6Sgz8_Yw	MPREb_0o7KCdblxpi	UCmflnbbQQqbB5J4s1rC81-Q
-124	overwhelming gratitude	Mndsgn	Surface Outtakes	INDIFFERENT	2:40	ekAQ0vD5xUo	MPREb_WW6RG9Gvyr1	UCwVQtygrhoRIcjJ-GWxePHA
-154	Ya Own Way	Mndsgn	Body Wash	INDIFFERENT	4:42	z3oHMX-GVe0	MPREb_0o7KCdblxpi	UCmflnbbQQqbB5J4s1rC81-Q
+68	Transmissionnn	Mndsgn	Body Wash	INDIFFERENT	3:38	gnY6Sgz8_Yw	MPREb_0o7KCdblxpi	UCmflnbbQQqbB5J4s1rC81-Q
+124	overwhelming gratitude	Mndsgn	Surface Outtakes	INDIFFERENT	2:41	ekAQ0vD5xUo	MPREb_WW6RG9Gvyr1	UCwVQtygrhoRIcjJ-GWxePHA
+154	Ya Own Way	Mndsgn	Body Wash	INDIFFERENT	4:43	z3oHMX-GVe0	MPREb_0o7KCdblxpi	UCmflnbbQQqbB5J4s1rC81-Q
 237	Just Air	Mndsgn	breatharian	INDIFFERENT	2:27	S23dN1Ixl6A	MPREb_xxUPnz9b8KL	UC5TMG6hCWZnclau0C8svWjA
-256	Homewards	Mndsgn	Yawn Zen	INDIFFERENT	2:31	7d3jo8CqVBI	MPREb_eL1aV9E4sWy	UCmflnbbQQqbB5J4s1rC81-Q
+256	Homewards	Mndsgn	Yawn Zen	INDIFFERENT	2:32	7d3jo8CqVBI	MPREb_eL1aV9E4sWy	UCmflnbbQQqbB5J4s1rC81-Q
 306	Hiking	Mndsgn	breatharian	INDIFFERENT	2:10	eEtDL6BpZlc	MPREb_xxUPnz9b8KL	UC5TMG6hCWZnclau0C8svWjA
-332	Frugality	Mndsgn	Yawn Zen	INDIFFERENT	3:07	X16wSXWjU5I	MPREb_eL1aV9E4sWy	UCmflnbbQQqbB5J4s1rC81-Q
-548	Unnecessary	Mndsgn	Snaxx	INDIFFERENT	2:34	XEthJ6LaFOw	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
-549	Deviled Eggs	Mndsgn	Snaxx	INDIFFERENT	2:25	oAhCKOAOUs0	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
-550	Chips	Mndsgn	Snaxx	INDIFFERENT	1:41	LCeWP-ZKacg	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
+332	Frugality	Mndsgn	Yawn Zen	INDIFFERENT	3:08	X16wSXWjU5I	MPREb_eL1aV9E4sWy	UCmflnbbQQqbB5J4s1rC81-Q
+548	Unnecessary	Mndsgn	Snaxx	INDIFFERENT	2:35	XEthJ6LaFOw	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
+549	Deviled Eggs	Mndsgn	Snaxx	INDIFFERENT	2:26	oAhCKOAOUs0	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
+550	Chips	Mndsgn	Snaxx	INDIFFERENT	1:42	LCeWP-ZKacg	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
 587	Starving	Mndsgn	breatharian	INDIFFERENT	2:03	eQ6QiYKt_pE	MPREb_xxUPnz9b8KL	UC5TMG6hCWZnclau0C8svWjA
-593	Browneez	Mndsgn	Snaxx	INDIFFERENT	3:06	r1k_-ipod7k	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
-639	Enter Her Abode (Interlude)	Mndsgn	Body Wash	INDIFFERENT	1:35	trhX-n0E5kU	MPREb_0o7KCdblxpi	UCmflnbbQQqbB5J4s1rC81-Q
-697	Afternoon Shuffle	Mndsgn	Yawn Zen	INDIFFERENT	2:03	Qh_qcuLTNI4	MPREb_eL1aV9E4sWy	UCmflnbbQQqbB5J4s1rC81-Q
+593	Browneez	Mndsgn	Snaxx	INDIFFERENT	3:07	r1k_-ipod7k	MPREb_e1J66AWxf8I	UCmflnbbQQqbB5J4s1rC81-Q
+639	Enter Her Abode (Interlude)	Mndsgn	Body Wash	INDIFFERENT	1:36	trhX-n0E5kU	MPREb_0o7KCdblxpi	UCmflnbbQQqbB5J4s1rC81-Q
+697	Afternoon Shuffle	Mndsgn	Yawn Zen	INDIFFERENT	2:04	Qh_qcuLTNI4	MPREb_eL1aV9E4sWy	UCmflnbbQQqbB5J4s1rC81-Q
 806	Deerghalabati (Zeroh Remix)	Mndsgn	Inedia	INDIFFERENT	2:25	Yogaz9RR-YE	MPREb_DBhmok94jWb	UC5TMG6hCWZnclau0C8svWjA
 323	Ashore	Mister Lies	Mowgli	INDIFFERENT	5:32	9j0oBXhF0dE	MPREb_eqb80nQEAfs	UCGHYawvRZSqBNgAaSXnpT1Q
 504	Hubris Produca	Mike Gao	LA Series 8	INDIFFERENT	1:36	DSmq_3d78A8	MPREb_9f8zSqOlIxY	UCEyFXiMkCpBOOAy2Ehl-v2w
@@ -359,14 +361,13 @@
 225	Circles Around Circles (feat. L'Orange & Gift of Gab)	Mello Music Group	Persona	INDIFFERENT	3:10	_OkQA8whk2Q	MPREb_f67QrBQ7MtC	UCG7BbaMbHKSW0NQlXmntySA
 438	The Lost Nova (feat. Mr. Lif, John Robinson & L'Orange)	Mello Music Group	Mandala Vol. 1, Polysonic Flows	INDIFFERENT	3:07	S6oBhh3u4BU	MPREb_maL8aH0RobT	UCG7BbaMbHKSW0NQlXmntySA
 594	The Pain Is Gone (feat. Murs & Apollo Brown)	Mello Music Group	Mandala Vol. 2, Today's Mathematics	INDIFFERENT	3:22	GbIvNc19DXg	MPREb_FJQy7ugAmrv	UCG7BbaMbHKSW0NQlXmntySA
-70	Home	Medasin	Irene	INDIFFERENT	3:15	55MCvtwvZn8	MPREb_CREs0BSkbu2	UCLFWRFzjIUfifA4VNsEvoOw
 92	Work For You (feat. Kaz Moon)	Medasin	Irene	INDIFFERENT	3:03	TOBMLPAO7hA	MPREb_CREs0BSkbu2	UCLFWRFzjIUfifA4VNsEvoOw
 103	Flow with The Go	Matthewdavid	Time Flying Beats	INDIFFERENT	2:42	sbSx9Ute70g	MPREb_jnuOT5HWL5o	UCYOsGtryWUzrMkrjdE91tuQ
-333	House of Horus	Matthewdavid	In My World	INDIFFERENT	2:18	l18rIxKJnQs	MPREb_YcBnL0AmfBO	UCYOsGtryWUzrMkrjdE91tuQ
-584	In My World	Matthewdavid	In My World	INDIFFERENT	3:31	ybeT8HxIZYE	MPREb_YcBnL0AmfBO	UCYOsGtryWUzrMkrjdE91tuQ
+333	House of Horus	Matthewdavid	In My World	INDIFFERENT	2:19	l18rIxKJnQs	MPREb_YcBnL0AmfBO	UCYOsGtryWUzrMkrjdE91tuQ
+584	In My World	Matthewdavid	In My World	INDIFFERENT	3:32	ybeT8HxIZYE	MPREb_YcBnL0AmfBO	UCYOsGtryWUzrMkrjdE91tuQ
 296	Palomino	Mates of State	Mountaintops	INDIFFERENT	4:55	CMCk_wCbbao	MPREb_rdqFX1lip9Z	UCwiH7wncfjoMxvJKnxS_sUA
 755	Professor At Large	Marco Polo	Baker's Dozen: Marco Polo	INDIFFERENT	2:48	ux06UbOk5Ws	MPREb_micknf2aiBa	UCLLWHwXySHdUmNDMPKBPTgg
-168	God Willing	Mansur Brown	Shiroi	INDIFFERENT	3:25	w-GQbNsE5vA	MPREb_viuVnm4aryd	UCHYEzegg4q00jTDTmGZjpcg
+168	God Willing	Mansur Brown	Shiroi	INDIFFERENT	3:26	w-GQbNsE5vA	MPREb_viuVnm4aryd	UCHYEzegg4q00jTDTmGZjpcg
 597	Slightest Right	Makaya McCraven	In the Moment (Deluxe Edition)	INDIFFERENT	3:06	sdX0dK8t69E	MPREb_XA9Gj4xtjwq	UChRhO68u51ffO4eCqOZXMRA
 406	ONE WISH	Maitro	Dragonball Wave	INDIFFERENT	1:53	UkeOPe3oFFw	MPREb_jdvFixO5bNb	UCs0dfPHrI-zi-M8HlIXwP9A
 48	Meat Grinder	Madvillain	Madvillainy	INDIFFERENT	2:12	FoasIcgem0w	MPREb_gsxHe49IEfl	UCvYD4mt2SEikFlX0iJmTKvw
@@ -376,21 +377,20 @@
 266	Jungle Soundz (Part One)	Madlib	Medicine Show # 3: Beat Konducta In Africa	INDIFFERENT	2:01	Q_ds5VYVqZE	MPREb_fHUprp8Ya0s	UCWUNcVPwXcG_5SoOMUtPYKA
 281	Harmonia Inventions	Madlib	Rock Konducta, Pt. 1	INDIFFERENT	1:44	hUvu-1NCJlU	MPREb_lz9GQK3bZ8P	UCWUNcVPwXcG_5SoOMUtPYKA
 285	The Frontline (Liberation)	Madlib	Medicine Show # 3: Beat Konducta In Africa	INDIFFERENT	2:01	2I-X6NvjDwQ	MPREb_fHUprp8Ya0s	UCWUNcVPwXcG_5SoOMUtPYKA
-300	New Bombay	Madlib	Beat Konducta Vol. 3 & 4: In India	INDIFFERENT	2:11	NtfiZ9eQ14Y	MPREb_6RB9NARtZOr	UCWUNcVPwXcG_5SoOMUtPYKA
-595	Cue 8	Madlib	The Beats (Our Vinyl Weighs a Ton Soundtrack)	INDIFFERENT	1:02	EN4G4EthbN4	MPREb_Lp0g00utGxb	UCWUNcVPwXcG_5SoOMUtPYKA
+300	New Bombay	Madlib	Beat Konducta Vol. 3 & 4: In India	INDIFFERENT	2:12	NtfiZ9eQ14Y	MPREb_6RB9NARtZOr	UCWUNcVPwXcG_5SoOMUtPYKA
+595	Cue 8	Madlib	The Beats (Our Vinyl Weighs a Ton Soundtrack)	INDIFFERENT	1:49	EN4G4EthbN4	MPREb_Lp0g00utGxb	UCWUNcVPwXcG_5SoOMUtPYKA
 810	Throwback	MXXWLL	Beats Vol. 1	INDIFFERENT	2:42	p_n_c2_Z9O8	MPREb_kG5tuw4JssR	UCzN1q7i55jYziyiXWr0BadA
 262	Monkey Suite	MF Doom	Chrome Children Vol. 1	INDIFFERENT	2:40	BFwioSgXN6I	MPREb_NutGH0xD5c6	UCooTDYkIERWBwDC1JKyoElQ
-485	Can't Reform Em	MF Doom	Madvillainy 2: The Madlib Remix	INDIFFERENT	1:56	1Z8KLIhgiS0	MPREb_N7fXXgD416X	UCooTDYkIERWBwDC1JKyoElQ
-689	Pearls	MF Doom	Madvillainy 2: The Madlib Remix	INDIFFERENT	2:41	xr_MgHHPSZs	MPREb_N7fXXgD416X	UCooTDYkIERWBwDC1JKyoElQ
-747	Dead Bent	MF DOOM	Operation: Doomsday (Complete)	INDIFFERENT	2:23	eA9MGW0KTI0	MPREb_vlItrFAKtji	UCooTDYkIERWBwDC1JKyoElQ
+485	Can't Reform Em	MF Doom	Madvillainy 2: The Madlib Remix	INDIFFERENT	1:57	1Z8KLIhgiS0	MPREb_N7fXXgD416X	UCooTDYkIERWBwDC1JKyoElQ
+689	Pearls	MF Doom	Madvillainy 2: The Madlib Remix	INDIFFERENT	2:42	xr_MgHHPSZs	MPREb_N7fXXgD416X	UCooTDYkIERWBwDC1JKyoElQ
 223	Even Though	MED, Blu & Madlib	The Turn Up	INDIFFERENT	2:50	lV7ox3j6W-w	MPREb_o8WXFGjEz4b	UCtcN7XHdZEIJ-a5-NBegmNw
 678	Burgundy Whip	MED	The Burgundy - EP	INDIFFERENT	2:40	BDBy4sOlT0Y	MPREb_4gLiWyPO0Fc	UCtcN7XHdZEIJ-a5-NBegmNw
 608	The Informer	M-Seven	Imaginary Being	INDIFFERENT	3:51	_f2KFdDe0m4	MPREb_VpHY7t8s7lc	UCZl2AbSfXoiJKnCD4l4mdaA
-264	The Level	Lusine	Sensorimotor	INDIFFERENT	5:40	wEUva8R49Xg	MPREb_YovVyFGb07o	UCuT7nowJuCra1vUc3Q0-VOg
-309	Witness	Lusine	Sensorimotor	INDIFFERENT	4:23	0IG1OdG_zwc	MPREb_YovVyFGb07o	UCuT7nowJuCra1vUc3Q0-VOg
+264	The Level	Lusine	Sensorimotor	INDIFFERENT	5:41	wEUva8R49Xg	MPREb_YovVyFGb07o	UCuT7nowJuCra1vUc3Q0-VOg
+309	Witness	Lusine	Sensorimotor	INDIFFERENT	4:24	0IG1OdG_zwc	MPREb_YovVyFGb07o	UCuT7nowJuCra1vUc3Q0-VOg
 481	Panoramic	Lusine	The Waiting Room	INDIFFERENT	5:17	pJXu2fPTeDM	MPREb_oWK9aVfAYp1	UCuT7nowJuCra1vUc3Q0-VOg
 39	Go	Louis The Child	Love Is Alive EP	INDIFFERENT	2:14	23s_YeoEdow	MPREb_KPM7BFDoMBR	UCWerwF0q4QKlKL37Yod4aSw
-730	Ghosst(s)	Lorn	Ask The Dust	INDIFFERENT	4:19	Tx2dCzprXpI	MPREb_XternmCK4B5	UCCIJUG17meyqvnQ8yNBz3SQ
+730	Ghosst(s)	Lorn	Ask The Dust	INDIFFERENT	4:21	Tx2dCzprXpI	MPREb_XternmCK4B5	UCCIJUG17meyqvnQ8yNBz3SQ
 564	Stoked Tourist	Lord RAJA	PARA	INDIFFERENT	2:37	uzXpwApZOkI	MPREb_JksYKCvZD0o	UCOjrOlvdHDavepUi4l3Gkcg
 226	The Roots	Long Arm	The Branches (Deluxe Edition)	INDIFFERENT	4:45	hSkSyUZxq9A	MPREb_3FejVqZ2Nl8	UCmyMHQL57HmSncGK4BEx3Wg
 215	Lying in the Reeds	Lone	Galaxy Garden	INDIFFERENT	4:32	b4hsumDkasc	MPREb_y0559RiOARj	UC7-hqDqFbdlHr0sq5jhcucw
@@ -419,7 +419,7 @@
 276	Nowhere Else	Kupla	Taiga Native	INDIFFERENT	2:37	Z19FLZ2BJ0M	MPREb_8WOSB3wAcmd	UCXDXGJcbXFnzsiyh9EVD7FQ
 531	Feathers	Kupla	All Natural	INDIFFERENT	2:01	TZTJnKyJ3a4	MPREb_ITYp9GlB57g	UCXDXGJcbXFnzsiyh9EVD7FQ
 681	Seasons	Kupla	All Natural	INDIFFERENT	2:06	mfMKaruuPV4	MPREb_ITYp9GlB57g	UCXDXGJcbXFnzsiyh9EVD7FQ
-691	emerald	Kupla	in.the.forest.we.are.wizards	INDIFFERENT	2:34	UtypnWBopA0	MPREb_0vDUYNTRZG5	UCXDXGJcbXFnzsiyh9EVD7FQ
+691	emerald	Kupla	in.the.forest.we.are.wizards	INDIFFERENT	2:35	UtypnWBopA0	MPREb_0vDUYNTRZG5	UCXDXGJcbXFnzsiyh9EVD7FQ
 714	Ascension Phase	Kuedo	Severant (2022 Edition)	INDIFFERENT	2:51	PCOtcN8q1ig	MPREb_bNsgSg830PR	UCvf13pF7j6vWyzaikLW5D7g
 796	Memory Rain	Kuedo	Severant (2022 Edition)	INDIFFERENT	3:43	OdvYFKSHj74	MPREb_bNsgSg830PR	UCvf13pF7j6vWyzaikLW5D7g
 427	Ride It Out	Koushik	Be With	INDIFFERENT	1:48	d33YrtyjnNc	MPREb_FxxQ2WnJOy2	UC4NV9VPGGz2Ykl_4mdwelTA
@@ -430,7 +430,7 @@
 429	2. flexbby[TWRK].	Knxwledge.	H.S.PRT.8*	INDIFFERENT	2:22	OWUo9M9esC8	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIGaHNwcnQ4Gglrbnh3bGVkZ2UiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIJa254d2xlZGdl
 491	3. fool[WTT]	Knxwledge.	H.S.PRT.8*	INDIFFERENT	1:54	fHpvkRiXPRY	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIGaHNwcnQ4Gglrbnh3bGVkZ2UiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIJa254d2xlZGdl
 26	Give	Knxwledge	Klouds	INDIFFERENT	2:00	b4uUj0Qye7g	MPREb_jez6ZuOpTuJ	UCzabATJlYqdlFue-_QptQVQ
-123	rant'n	Knxwledge	Buttrskotch	INDIFFERENT	1:36	kcw7kZG1cgE	MPREb_rO4G9IW5ePI	UCzabATJlYqdlFue-_QptQVQ
+123	rant'n	Knxwledge	Buttrskotch	INDIFFERENT	1:37	kcw7kZG1cgE	MPREb_rO4G9IW5ePI	UCzabATJlYqdlFue-_QptQVQ
 127	Smoof	Knxwledge	Anthology	INDIFFERENT	2:02	Hwse4tCRE8A	MPREb_4ACCTyOLlkf	UCzabATJlYqdlFue-_QptQVQ
 180	Exekutive	Knxwledge	Klouds	INDIFFERENT	1:30	XMFzNgh3174	MPREb_jez6ZuOpTuJ	UCzabATJlYqdlFue-_QptQVQ
 192	Freedomb	Knxwledge	Anthology	INDIFFERENT	2:03	vnPXrgMe_5U	MPREb_4ACCTyOLlkf	UCzabATJlYqdlFue-_QptQVQ
@@ -444,9 +444,9 @@
 659	Takira	Knxwledge	Anthology	INDIFFERENT	1:33	4_VmImsP9VY	MPREb_4ACCTyOLlkf	UCzabATJlYqdlFue-_QptQVQ
 687	Fade	Knxwledge	Klouds	INDIFFERENT	2:58	Pn9OrSpLY5s	MPREb_jez6ZuOpTuJ	UCzabATJlYqdlFue-_QptQVQ
 18	Thinkin of	Kiefer	Happysad	INDIFFERENT	2:33	0UQOjpyD8RU	MPREb_jDOUkjw95lF	UCK4EdR3o8NrJBhUjy7SXURw
-624	Kickinit Alone	Kiefer	Kickinit Alone	INDIFFERENT	3:13	tzl8pCT4K4U	MPREb_ERxhsN03Ibh	
-749	U R What U Repeatedly Do	Kiefer	Kickinit Alone	INDIFFERENT	2:26	JMCkol_Chck	MPREb_ERxhsN03Ibh	
-808	IDK	Kiefer	Kickinit Alone	INDIFFERENT	2:38	zdIxjsoqMlU	MPREb_ERxhsN03Ibh	
+624	Kickinit Alone	Kiefer	Kickinit Alone	INDIFFERENT	3:14	tzl8pCT4K4U	MPREb_ERxhsN03Ibh	
+749	U R What U Repeatedly Do	Kiefer	Kickinit Alone	INDIFFERENT	2:27	JMCkol_Chck	MPREb_ERxhsN03Ibh	
+808	IDK	Kiefer	Kickinit Alone	INDIFFERENT	3:15	zdIxjsoqMlU	MPREb_ERxhsN03Ibh	
 393	All Black	Khrysis	fuNkwhatchuheard	INDIFFERENT	2:09	77uqpTSetfo	MPREb_ZlyGuEUCDqt	UCGyjnuaxXJ7UAknlUubNqQA
 783	Smart Person	Khrysis	Khrysis On The Board	INDIFFERENT	1:49	5wcAvptocEs	MPREb_B87hRcGIhes	UCGyjnuaxXJ7UAknlUubNqQA
 488	Take (feat. CYN)	Khai	If You	INDIFFERENT	3:38	FQyYKaZmjbQ	MPREb_yed0hLqYpXr	UCavN7wd8G9FTPvukGxqweSQ
@@ -463,16 +463,16 @@
 440	Cigarettes & Whiskey	Kenn Starr	Square One	INDIFFERENT	2:01	tKspHzhM_YA	MPREb_5WUzxfHb9MS	UCb__t2CGZM9Lv4GayuV_Bbw
 764	Rain Reverb	Kenmochi Hidefumi	Falliccia	INDIFFERENT	3:42	gSiV0-AL8Tg	MPREb_HI5aR7t6IWA	UCuDi3DWktE3PJ4aSDnSZVMg
 805	Spirit Lamp	Kenmochi Hidefumi	Falliccia	INDIFFERENT	1:56	EnDytgVIODU	MPREb_HI5aR7t6IWA	UCuDi3DWktE3PJ4aSDnSZVMg
-62	K. Riffins	Karriem Riggins	Alone Together	INDIFFERENT	1:50	7qOjLxwFe3I	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
-81	Alto Flute	Karriem Riggins	Alone Together	INDIFFERENT	2:24	I7zUg6duTOg	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
-88	Up	Karriem Riggins	Alone Together	INDIFFERENT	1:48	B52QsOkRPV8	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
-126	4Es'J	Karriem Riggins	Headnod Suite	INDIFFERENT	1:58	ezhWFgMnF3A	MPREb_H1JTO5W9jdt	UCK6A7szXQa489jDF-u6G68Q
-217	Fluture	Karriem Riggins	Headnod Suite	INDIFFERENT	1:47	qrbRyeTFTgo	MPREb_H1JTO5W9jdt	UCK6A7szXQa489jDF-u6G68Q
-280	J Dilla the Greatest	Karriem Riggins	Alone Together	INDIFFERENT	1:42	8OXaeADx52o	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
-404	Bahia Dreamin’	Karriem Riggins	Headnod Suite	INDIFFERENT	2:10	_-D0HuyWvPI	MPREb_H1JTO5W9jdt	UCK6A7szXQa489jDF-u6G68Q
-483	Round the Outside	Karriem Riggins	Alone Together	INDIFFERENT	1:30	sLZk30HANpY	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
-494	Double Trouble	Karriem Riggins	Alone Together	INDIFFERENT	1:56	DNoxkit4CgA	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
-688	Harpsichord Session	Karriem Riggins	Alone Together	INDIFFERENT	2:02	cZGodkjF0a0	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+62	K. Riffins	Karriem Riggins	Alone Together	INDIFFERENT	1:51	7qOjLxwFe3I	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+81	Alto Flute	Karriem Riggins	Alone Together	INDIFFERENT	2:25	I7zUg6duTOg	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+88	Up	Karriem Riggins	Alone Together	INDIFFERENT	1:49	B52QsOkRPV8	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+126	4Es'J	Karriem Riggins	Headnod Suite	INDIFFERENT	1:59	ezhWFgMnF3A	MPREb_H1JTO5W9jdt	UCK6A7szXQa489jDF-u6G68Q
+217	Fluture	Karriem Riggins	Headnod Suite	INDIFFERENT	1:48	qrbRyeTFTgo	MPREb_H1JTO5W9jdt	UCK6A7szXQa489jDF-u6G68Q
+280	J Dilla the Greatest	Karriem Riggins	Alone Together	INDIFFERENT	1:43	8OXaeADx52o	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+404	Bahia Dreamin’	Karriem Riggins	Headnod Suite	INDIFFERENT	2:11	_-D0HuyWvPI	MPREb_H1JTO5W9jdt	UCK6A7szXQa489jDF-u6G68Q
+483	Round the Outside	Karriem Riggins	Alone Together	INDIFFERENT	1:31	sLZk30HANpY	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+494	Double Trouble	Karriem Riggins	Alone Together	INDIFFERENT	1:57	DNoxkit4CgA	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
+688	Harpsichord Session	Karriem Riggins	Alone Together	INDIFFERENT	2:03	cZGodkjF0a0	MPREb_0VhICrGPZZb	UCK6A7szXQa489jDF-u6G68Q
 761	Suspended Animation	KMD	Black Bastards (Deluxe Edition)	INDIFFERENT	2:24	wtfVzY06vVI	MPREb_LiO8P9yj3XV	UCDBGL2R0-UrPKt2nXN3XBkQ
 823	Constipated Monkey	KMD	Black Bastards (Deluxe Edition)	INDIFFERENT	2:48	ZVfrUg67vPA	MPREb_LiO8P9yj3XV	UCDBGL2R0-UrPKt2nXN3XBkQ
 101	Shore Breezin'	KANKICK	Acid Massive Musical	INDIFFERENT	1:57	4LULUTW4kwo	MPREb_Iq715tMBq1c	UCEtUszvo6O0eNwQiTCHIX1A
@@ -487,10 +487,10 @@
 379	perenne	Juan Rios	Chillhop Essentials Winter 2017	INDIFFERENT	2:31	Yjk1K86EL3M	MPREb_aIEs5nt342m	UCY9xKkpznxa7X8fnWM-s-Ng
 567	Pine Trees	Juan Rios	Chillhop Essentials Winter 2016	INDIFFERENT	2:48	HM9mOLevhVA	MPREb_RYbYiloRlYS	UCY9xKkpznxa7X8fnWM-s-Ng
 346	Theta State	Jordan Rakei	Cloak	INDIFFERENT	3:09	40l7ogeucyY	MPREb_jUtVWJTtzGu	UC2VUdY3v6_24rc1QUE2lZog
-254	ElecTricity	Jonwayne	Oodles of Doodles	INDIFFERENT	2:24	UqnJC5FTWYM	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
-387	Dat Ass	Jonwayne	Oodles of Doodles	INDIFFERENT	1:50	68eShQFuIG4	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
-611	Fireflies II	Jonwayne	Oodles of Doodles	INDIFFERENT	2:00	B2_YB2Ir45A	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
-693	Machine Orgasm	Jonwayne	Oodles of Doodles	INDIFFERENT	2:18	C2QfZnmkIng	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
+254	ElecTricity	Jonwayne	Oodles of Doodles	INDIFFERENT	2:25	UqnJC5FTWYM	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
+387	Dat Ass	Jonwayne	Oodles of Doodles	INDIFFERENT	1:51	68eShQFuIG4	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
+611	Fireflies II	Jonwayne	Oodles of Doodles	INDIFFERENT	2:01	B2_YB2Ir45A	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
+693	Machine Orgasm	Jonwayne	Oodles of Doodles	INDIFFERENT	2:19	C2QfZnmkIng	MPREb_ZXGEW8nvy7d	UCvc5goRDzFHpP_n_ro2kNFA
 814	Scrood	Jonti	Scrood	INDIFFERENT	3:22	vJr7JWz0o98	MPREb_iJykRj2LQGt	UCORBRiO7fcvovs6v8KdyEYw
 194	Halcyon	Jon Hopkins	Opalescent	INDIFFERENT	5:02	xrIIBOJi4T8	MPREb_DNSnB2QL7E4	UCpbWC9Xun4IM_28zH623-nw
 728	Seafood	Joey Pecoraro	Little Pear	INDIFFERENT	2:04	VVEhd4F7SFY	MPREb_RDAfzAsULg5	UCT2-ZDqZq35BUz_gA7tYRWg
@@ -502,16 +502,16 @@
 354	Struggles	Jinsang	Life	INDIFFERENT	1:48	rgcLjnIU0sc	MPREb_qB7kQZtwCTr	UClpcunja__49WB1aKj-18Eg
 449	Pine Leaves.	Jinsang	Solitude.	INDIFFERENT	1:31	SJKI4x9EalY	MPREb_LQb7i8P7Y7W	UClpcunja__49WB1aKj-18Eg
 612	Untold	Jinsang	Life	INDIFFERENT	1:36	QX72yMv4Lxc	MPREb_qB7kQZtwCTr	UClpcunja__49WB1aKj-18Eg
-21	Cat Fight	Jeremiah Jae	Raw Money Raps	INDIFFERENT	2:25	-bbd9xv4UcI	MPREb_XbdxZbOXAa2	UCIZuJOaEbPPj8COgPrWC0Sw
+21	Cat Fight	Jeremiah Jae	Raw Money Raps	INDIFFERENT	2:26	-bbd9xv4UcI	MPREb_XbdxZbOXAa2	UCIZuJOaEbPPj8COgPrWC0Sw
 243	Rawmoney Shit (feat. Franklin Tabasco)	Jeremiah Jae	"""777"""	INDIFFERENT	2:58	jWSMl9MU3M0	MPREb_GYpT8QjUMOd	UCIZuJOaEbPPj8COgPrWC0Sw
 381	Memo	Jeremiah Jae	Daffi	INDIFFERENT	2:51	uJulYWjKysY	MPREb_6p7NuRxZFno	UCIZuJOaEbPPj8COgPrWC0Sw
 818	Bright Works (feat. Isreal & E. Snow)	Jeremiah Jae	Dirty Collections Vol. 3	INDIFFERENT	2:01	RfeH7jXrxL0	MPREb_cJlbH56k49u	UCIZuJOaEbPPj8COgPrWC0Sw
-627	Da Rawkus (Sir Bang Version)	Jaylib	Champion Sound: The Remix	INDIFFERENT	3:26	s6GrBxE_7VU	MPREb_aMK7hZMhkFN	UCULPZ0Mnz7ZMzjfO1aiSCYA
-683	Heavy (Chronic Mix)	Jaylib	Champion Sound: The Remix	INDIFFERENT	3:13	6Pf5DYSmE8c	MPREb_aMK7hZMhkFN	UCULPZ0Mnz7ZMzjfO1aiSCYA
+627	Da Rawkus (Sir Bang Version)	Jaylib	Champion Sound: The Remix	INDIFFERENT	3:27	s6GrBxE_7VU	MPREb_aMK7hZMhkFN	UCULPZ0Mnz7ZMzjfO1aiSCYA
+683	Heavy (Chronic Mix)	Jaylib	Champion Sound: The Remix	INDIFFERENT	3:14	6Pf5DYSmE8c	MPREb_aMK7hZMhkFN	UCULPZ0Mnz7ZMzjfO1aiSCYA
 367	One (Instrumental)	Jay Dee	Welcome 2 Detroit Instrumental	INDIFFERENT	1:36	TYHBjQwl1qU	MPREb_5LoJaVxYdQ2	UCg6G23d_0Rdx3W5XbxC7N8A
 795	Sandsy (Instrumental)	J. Rawls	The Hip-Hop Affect (Instrumentals)	INDIFFERENT	4:01	aO0hQBs1pgI	MPREb_n19wLUou81Y	UC3TS-bTrEunHz-bNVX_FwEA
-150	Thru The Tulips	J Rocc	Some Cold Rock Stuf	INDIFFERENT	2:01	llyKTZt__KM	MPREb_ubR9DBH4h1T	UCjXdtDI6B4NZ4X-A4DHceTw
-539	Roadies	J Rocc	Beats on Tap(e)	INDIFFERENT	2:01	1ev3i6ZzGn8	MPREb_Cgxbvg5NuYQ	UCjXdtDI6B4NZ4X-A4DHceTw
+150	Thru The Tulips	J Rocc	Some Cold Rock Stuf	INDIFFERENT	2:02	llyKTZt__KM	MPREb_ubR9DBH4h1T	UCjXdtDI6B4NZ4X-A4DHceTw
+539	Roadies	J Rocc	Beats on Tap(e)	INDIFFERENT	2:02	1ev3i6ZzGn8	MPREb_Cgxbvg5NuYQ	UCjXdtDI6B4NZ4X-A4DHceTw
 585	Girls	J Rocc	Madlib Medicine Show #11: Low Budget High Fi Music	INDIFFERENT	2:05	WwTq9qgLEEA	MPREb_3roVeLLkpxS	UCjXdtDI6B4NZ4X-A4DHceTw
 378	We Here	J Dilla (aka Jay Dee)	Yancey Boys (Instrumentals) Produced By Jay Dee Aka J Dilla	INDIFFERENT	4:10	oCxM9tt9B10	MPREb_RNUuQOvxIFs	
 520	Sounds Like Love	J Dilla (aka Jay Dee)	Yancey Boys (Instrumentals) Produced By Jay Dee Aka J Dilla	INDIFFERENT	3:26	SVU9KnO5jPw	MPREb_RNUuQOvxIFs	
@@ -543,18 +543,18 @@
 703	Obedience	Ivan Ave	Helping Hands	INDIFFERENT	3:01	lJxKfSfLyWw	MPREb_z7mtepif7oP	UCHtusPseeR5kKaI8axa-79Q
 501	Dusk Beat	Ital Tek	Nebula Dance	INDIFFERENT	3:10	U96KrtI4vhE	MPREb_LelPFxUcFhI	UC80Yp6RfippuaEY5opag3XA
 790	landrace	Invention	landrace	INDIFFERENT	2:26	IjeHhny05NQ	MPREb_6vQOD9FxxFd	UCrzNJKhy5YKHDecpny0BbfA
-750	The Loyalist	Insightful	All That Is Left Is Right	INDIFFERENT	4:25	AnfqNxM20XA	MPREb_93wCprFQiF9	UCO_9UYrCC_zb7uRVymy_jEA
+750	The Loyalist	Insightful	All That Is Left Is Right	INDIFFERENT	4:26	AnfqNxM20XA	MPREb_93wCprFQiF9	UCO_9UYrCC_zb7uRVymy_jEA
 319	Tummy	Iman Omari	High-Loops & Higher-Loops	INDIFFERENT	2:02	niArUL75O8M	MPREb_IcxVR3jH7Ng	UCvw92GAcjTITa_FsWs_CGzQ
 407	Take You There	Iman Omari	Samadhi	INDIFFERENT	3:40	4_DcrsOh65A	MPREb_S6jMAFoF3qu	UCvw92GAcjTITa_FsWs_CGzQ
 464	Janky Party	Iman Omari	High-Loops & Higher-Loops	INDIFFERENT	2:07	huuwDf7gC6w	MPREb_IcxVR3jH7Ng	UCvw92GAcjTITa_FsWs_CGzQ
 543	Diamond Girl	Iman Omari	High-Loops & Higher-Loops	INDIFFERENT	2:14	5yP14Eakimg	MPREb_IcxVR3jH7Ng	UCvw92GAcjTITa_FsWs_CGzQ
 592	Free Fall	Iman Omari	High-Loops & Higher-Loops	INDIFFERENT	2:24	j8z0LrhMMMo	MPREb_IcxVR3jH7Ng	UCvw92GAcjTITa_FsWs_CGzQ
-210	Embryonic	Illum Sphere	Ghosts Of Then And Now	INDIFFERENT	2:45	RmA3vNybMDY	MPREb_517RmUHvBDU	UC7VxSLY9_K3CeuAzFp1YtBw
+210	Embryonic	Illum Sphere	Ghosts Of Then And Now	INDIFFERENT	2:46	RmA3vNybMDY	MPREb_517RmUHvBDU	UC7VxSLY9_K3CeuAzFp1YtBw
 356	Timeless	Illa J	Yancey Boys	INDIFFERENT	3:15	jYR4RGKGeGU	MPREb_5u0keeYDRUD	UCsOhADKXZc6bPV8NXH3UDUA
-385	Purity Shards	Iglooghost	Neō Wax Bloom	INDIFFERENT	1:38	r1RvkKsAgeY	MPREb_S5bC66wxstD	UC1N5c5QRQxR2qCSw7ZFKdnQ
-487	Sōlar Blade	Iglooghost	Neō Wax Bloom	INDIFFERENT	3:53	U98CHeOnsCU	MPREb_S5bC66wxstD	UC1N5c5QRQxR2qCSw7ZFKdnQ
+385	Purity Shards	Iglooghost	Neō Wax Bloom	INDIFFERENT	1:39	r1RvkKsAgeY	MPREb_S5bC66wxstD	UC1N5c5QRQxR2qCSw7ZFKdnQ
+487	Sōlar Blade	Iglooghost	Neō Wax Bloom	INDIFFERENT	3:54	U98CHeOnsCU	MPREb_S5bC66wxstD	UC1N5c5QRQxR2qCSw7ZFKdnQ
 527	Saturn Rice	Iglooghost	Spacebus Vol.1	INDIFFERENT	2:24	UtlL_eslbNY	MPREb_LE2XwwDMTVw	UC1N5c5QRQxR2qCSw7ZFKdnQ
-701	Xiangjiao	Iglooghost	Chinese Nü Yr	INDIFFERENT	2:52	x7emhMWyODk	MPREb_qJ3JNQYOQpa	UC1N5c5QRQxR2qCSw7ZFKdnQ
+701	Xiangjiao	Iglooghost	Chinese Nü Yr	INDIFFERENT	2:53	x7emhMWyODk	MPREb_qJ3JNQYOQpa	UC1N5c5QRQxR2qCSw7ZFKdnQ
 250	tsuyu	Idealism	rainy evening	INDIFFERENT	1:31	Na9UDSecydE	MPREb_X0cIsoynT4m	UCOc-AHiKRo_Z8rSHPM74Wag
 411	Craft Draft Brewski Bois	Ian Ewing	Chillhop Essentials Summer 2017	INDIFFERENT	3:27	appMhY65Cuk	MPREb_YATiCFlCJtq	UC93IJn52Fc5tVWcSA3GHbzg
 558	Poke Date	Ian Ewing	Chillhop Essentials Spring 2019	INDIFFERENT	2:11	0Dtsd8VWeUI	MPREb_GkGDgCcCDKC	UC93IJn52Fc5tVWcSA3GHbzg
@@ -571,8 +571,8 @@
 125	Turbine	Hiatus	Ghost Notes	INDIFFERENT	3:25	Y7Nv_btuATk	MPREb_3T4AkPQe5K6	UCwTt8gBv6lRGMaShDbmwaqQ
 318	Glimpse	Helios	Caesura	INDIFFERENT	5:51	FmkNA5MR61Q	MPREb_GAd4xDMs5sj	UCUbg0pSvhe8dqSaZLmbluvw
 199	Perfume Catalogue	Heathered Pearls	Body Complex	INDIFFERENT	4:10	e6AwXBUmV2I	MPREb_Z89buIKNSUS	UCYHP_xjzs6RZ1ynz__Es_fg
-420	Tôzen	Gyvus	Tôzen	INDIFFERENT	2:50	MeNqXPgYFfw	MPREb_ewED4aVwrbQ	UChM3ZzFj4iQPdOen_QxWMHQ
-734	To Wherever	Gyvus	To Wherever	INDIFFERENT	2:40	maa1jmGdjr8	MPREb_jbtF6gNXEjN	UChM3ZzFj4iQPdOen_QxWMHQ
+420	Tôzen	Gyvus	Tôzen	INDIFFERENT	2:51	MeNqXPgYFfw	MPREb_ewED4aVwrbQ	UChM3ZzFj4iQPdOen_QxWMHQ
+734	To Wherever	Gyvus	To Wherever	INDIFFERENT	2:43	maa1jmGdjr8	MPREb_jbtF6gNXEjN	UChM3ZzFj4iQPdOen_QxWMHQ
 352	A Grass Day	Groundislava	Groundislava	INDIFFERENT	3:25	mIdoOXNbdF8	MPREb_A3AltlijCyY	UCnPDB133a63J126svJRt5Xw
 785	Dark Planet	Groundislava	Endless Voyage	INDIFFERENT	3:19	SfkD5cADSzg	MPREb_srOGPgf61Sx	UCnPDB133a63J126svJRt5Xw
 36	But U Won't	Goldwash	But U Won't	INDIFFERENT	3:02	Ti2_L6i8FGg	MPREb_ddBvndxnS4A	UCs4UDQ6UtQwC1nXkCOqpF5w
@@ -594,8 +594,8 @@
 40	Whynotzki	Flughand	EXPEDITion Vol. 7: Moonloops	INDIFFERENT	1:41	j6YyIYaCnv4	MPREb_ByQT8S9YW3z	UCDbskITNmEb6f5cLDVkQn-g
 696	Camille	Flughand	peaceful weibs	INDIFFERENT	1:35	2hqeJ98gIMQ	MPREb_ILD8txQlo7l	UCDbskITNmEb6f5cLDVkQn-g
 442	Sailing Above	Flitz&Suppe	Chillhop Essentials Winter 2017	INDIFFERENT	2:05	brjcvUm3MFQ	MPREb_aIEs5nt342m	UCc1b6egedtrql0YIUpzRbtA
-159	On a Cloud (feat. Beatmachinearon)	Flamingosis	Pleasure Palette	INDIFFERENT	3:01	oA8GiwgGN-U	MPREb_kdaBTrmgkSZ	UCv2swbKUFrmVUeW1Xyp5vEg
-227	Finesse (Hey Baby)	Flamingosis	Pleasure Palette	INDIFFERENT	2:42	ARRwBp2JgxQ	MPREb_kdaBTrmgkSZ	UCv2swbKUFrmVUeW1Xyp5vEg
+159	On a Cloud (feat. Beatmachinearon)	Flamingosis	Pleasure Palette	INDIFFERENT	3:02	oA8GiwgGN-U	MPREb_kdaBTrmgkSZ	UCv2swbKUFrmVUeW1Xyp5vEg
+227	Finesse (Hey Baby)	Flamingosis	Pleasure Palette	INDIFFERENT	2:43	ARRwBp2JgxQ	MPREb_kdaBTrmgkSZ	UCv2swbKUFrmVUeW1Xyp5vEg
 117	X98	Fennec	Let Your Heart Break	INDIFFERENT	2:43	maxSrwYmIbk	MPREb_YFITL3HnCuo	UCE8111GE26HaCISWlcix6gg
 511	Hemlock Groove	Fennec	Let Your Heart Break	INDIFFERENT	2:37	QH0Z2wHVipM	MPREb_YFITL3HnCuo	UCE8111GE26HaCISWlcix6gg
 737	Muses	Fat Jon	Repaint Tomorrow	INDIFFERENT	2:07	Y68rp6iPLIY	MPREb_HcaoXrRGQZw	UCftZ6qwhqoRC-V85EXThRYA
@@ -603,7 +603,7 @@
 69	Let It Began	Exile	Zip Disks & Floppies	INDIFFERENT	2:01	_Yxjtcz5hmc	MPREb_IZWuGtD5dym	UCb7ClaUVKSp1DV_4xzaLedw
 93	For The Kids	Exile	Zip Disks & Floppies	INDIFFERENT	1:51	DnTkJHopAcM	MPREb_IZWuGtD5dym	UCb7ClaUVKSp1DV_4xzaLedw
 399	Chillaxing	Evil Needle	Cirrostratus	INDIFFERENT	2:40	jLnqy17RgEY	MPREb_sgnK5TGhzva	UCg2TAN484obS3oqbATNdaEw
-444	The Groove	Evil Needle	Homeworks	INDIFFERENT	2:30	JDXq5EkITYM	MPREb_UiR3r1j6F57	UCg2TAN484obS3oqbATNdaEw
+444	The Groove	Evil Needle	Homeworks	INDIFFERENT	2:31	JDXq5EkITYM	MPREb_UiR3r1j6F57	UCg2TAN484obS3oqbATNdaEw
 613	Summer Blap	Evil Needle	Cirrostratus	INDIFFERENT	2:21	00m_VAdERMI	MPREb_sgnK5TGhzva	UCg2TAN484obS3oqbATNdaEw
 259	Scrolling	Evidence	Green Tape Instrumentals	INDIFFERENT	1:47	hlKI-tCEjhw	MPREb_xppgq5xQETO	UCx6rDjSKJDNj13CefDRYdwA
 552	Self Taught	Evidence	Green Tape Instrumentals	INDIFFERENT	2:39	WiP_GtIMhOM	MPREb_xppgq5xQETO	UCx6rDjSKJDNj13CefDRYdwA
@@ -624,17 +624,12 @@
 340	Graffiti High	Elaquent	After Midnight	INDIFFERENT	2:43	nKkfc9SJ7uU	MPREb_VPE13vG2jJW	UCipCMmR5PzWVOjehWiiarMQ
 388	Almost There (feat. Budamunk)	Elaquent	Green Apples and Oranges	INDIFFERENT	2:44	2xTDq-7nahM	MPREb_bUiR7RqCLM7	UCipCMmR5PzWVOjehWiiarMQ
 813	Something Classic (feat. Dibiase)	Elaquent	Celebrate Life!	INDIFFERENT	3:14	dhgrb52nVpM	MPREb_7XoqMOkevTB	UCipCMmR5PzWVOjehWiiarMQ
-63	Bahia Blues	Dr. Who Dat?	Beat Journey	INDIFFERENT	2:49	VwECCNtkudk	MPREb_CC5ud3xYovU	UCmH1qUqZjMF2YGHwyb_u_hw
-84	ASAP (Flash)	Dr. Who Dat?	Beat Journey	INDIFFERENT	2:43	SKIpW4676E4	MPREb_CC5ud3xYovU	UCmH1qUqZjMF2YGHwyb_u_hw
-263	Follow	Dr. Who Dat?	Beat Journey	INDIFFERENT	2:25	3uasXOgt33Y	MPREb_CC5ud3xYovU	UCmH1qUqZjMF2YGHwyb_u_hw
-322	Memories	Dr. Who Dat?	Beat Journey	INDIFFERENT	2:40	jryJlgv79yw	MPREb_CC5ud3xYovU	UCmH1qUqZjMF2YGHwyb_u_hw
-536	Miles Away	Dr. Who Dat?	Beat Journey	INDIFFERENT	1:44	d99OTO6Oo5s	MPREb_CC5ud3xYovU	UCmH1qUqZjMF2YGHwyb_u_hw
 743	Yorktown Recreation	Dorian Concept	Maximized Minimalization	INDIFFERENT	4:03	Hapn198fceU	MPREb_6Eq4pibw2pr	UC8h-G0iBla88jTNB_lEzbsA
 100	Fantasy Prone	Dirty Art Club	Heavy Starch	INDIFFERENT	2:26	UR0Vgoy0wYM	MPREb_QKl6weTe5uo	UCYZf0tcEjjeABH2QVXd_AKg
 105	Sincerely Yours, The D.A.C.	Dirty Art Club	Heavy Starch	INDIFFERENT	3:02	YCQXNWdAsJ8	MPREb_QKl6weTe5uo	UCYZf0tcEjjeABH2QVXd_AKg
 128	Napalm Skyline	Dirty Art Club	Heavy Starch	INDIFFERENT	2:13	y6-iBrsR-Vc	MPREb_QKl6weTe5uo	UCYZf0tcEjjeABH2QVXd_AKg
 769	Rosslyn's Crypt	Dirty Art Club	Hexes	INDIFFERENT	2:26	9EfMvMkDGXE	MPREb_5vnDZcI5rys	UCYZf0tcEjjeABH2QVXd_AKg
-392	Miami Showdown	Digitalism	I Love You, Dude	INDIFFERENT	3:27	1Ky1NlVPsuY	MPREb_kfEpH0WeYdZ	UCti-LwWBYB_5gNs_Bu0O9hQ
+392	Miami Showdown	Digitalism	I Love You, Dude	INDIFFERENT	3:28	1Ky1NlVPsuY	MPREb_kfEpH0WeYdZ	UCti-LwWBYB_5gNs_Bu0O9hQ
 349	Forever	Dibiase	Its All on You	INDIFFERENT	3:56	8xQk0Xy61lE	MPREb_2MLM4LzHBdc	UCJh1Sa8YkmFfYbS2o48YQkQ
 560	Nothing Else	Dibiase	Its All on You	INDIFFERENT	3:24	2Nm9qGzWvDQ	MPREb_2MLM4LzHBdc	UCJh1Sa8YkmFfYbS2o48YQkQ
 583	Hotboxin'	Dibiase	"""777"""	INDIFFERENT	1:50	hvXo1bKnBBQ	MPREb_GYpT8QjUMOd	UCJh1Sa8YkmFfYbS2o48YQkQ
@@ -671,9 +666,9 @@
 240	Red	Devonwho	keepthefunkalive	INDIFFERENT	2:45	IDXEtelF45M	MPREb_1HrHQy5cjhB	UCim8vNcJlt-bNrDsD56JloQ
 364	Strangebrew	Devonwho	Strangebrew	INDIFFERENT	4:36	x-Lzbxb4_po	MPREb_aRY0p0Wytun	UCim8vNcJlt-bNrDsD56JloQ
 397	goodgreat (prequel)	Devonwho	Lyon	INDIFFERENT	2:11	7brXKWsFg7c	MPREb_zMO8KezxsbG	UCim8vNcJlt-bNrDsD56JloQ
-441	Andthentherewas	Devonwho	Luz	INDIFFERENT	3:02	UFhRkzrHznM	MPREb_1Librkm0x4l	UCim8vNcJlt-bNrDsD56JloQ
+441	Andthentherewas	Devonwho	Luz	INDIFFERENT	3:03	UFhRkzrHznM	MPREb_1Librkm0x4l	UCim8vNcJlt-bNrDsD56JloQ
 510	Don't Smoke K2	Denmark Vessey	Martin Lucid Dream	INDIFFERENT	1:58	FktRNI1am3k	MPREb_P9AUCzsn2OW	UCGCh6GAm3KhlKoN6e6C1hrg
-233	Heiwa	Dday One	Journal Ep	INDIFFERENT	4:11	dAnSUO1s9UE	MPREb_QiI1zoUe32F	UCmU5m5Y9P-A0ABVqY3g9H4w
+233	Heiwa	Dday One	Journal Ep	INDIFFERENT	4:12	dAnSUO1s9UE	MPREb_QiI1zoUe32F	UCmU5m5Y9P-A0ABVqY3g9H4w
 200	Wonka Beat 4	Damu The Fudgemunk	Supply For Demand	INDIFFERENT	1:46	H_Z5VuTxMbg	MPREb_QwoVm7SnqGn	UCos_lmslTItUE3JEKl5Tfdg
 251	Killin' Time Rhyme - Instrumental	Damu The Fudgemunk	Supply For Demand	INDIFFERENT	1:41	2GUq3VCSRtc	MPREb_QwoVm7SnqGn	UCos_lmslTItUE3JEKl5Tfdg
 292	Another Introduction	Damu The Fudgemunk	How It Should Sound, Vol. 1 & 2	INDIFFERENT	3:00	UTrTrjRzXgQ	MPREb_R94hSoTxmY7	UCos_lmslTItUE3JEKl5Tfdg
@@ -689,19 +684,19 @@
 540	Space Station #9	DR+	A Left Consciousness	INDIFFERENT	3:19	N3EHCZLvNnY	MPREb_Ix3jrpIVnJM	UCmH1qUqZjMF2YGHwyb_u_hw
 568	Detached	DR+	A Left Consciousness	INDIFFERENT	6:14	qtIIiZloq3s	MPREb_Ix3jrpIVnJM	UCmH1qUqZjMF2YGHwyb_u_hw
 512	Animal Forest	DJ OKAWARI	DIORAMA	INDIFFERENT	3:41	evelBm4iAEY	MPREb_psPmJXQWC3X	UCJqe44UWvLb6tdU1kgGEjzw
-246	GameRestart	DJ Harrison	HazyMoods	INDIFFERENT	2:26	KkZSohN5AEU	MPREb_GyiT41cvSAK	UCY1bvSCN5ViDe5ekJ0hzUUQ
+246	GameRestart	DJ Harrison	HazyMoods	INDIFFERENT	2:27	KkZSohN5AEU	MPREb_GyiT41cvSAK	UCY1bvSCN5ViDe5ekJ0hzUUQ
 428	Let Me Know	DJ Harrison	Stashboxxx	INDIFFERENT	2:05	2jlvbLGZ7fc	MPREb_I39YohpIqjT	UCY1bvSCN5ViDe5ekJ0hzUUQ
-508	PartyLife	DJ Harrison	HazyMoods	INDIFFERENT	2:04	XAgAj9bYfXY	MPREb_GyiT41cvSAK	UCY1bvSCN5ViDe5ekJ0hzUUQ
+508	PartyLife	DJ Harrison	HazyMoods	INDIFFERENT	2:05	XAgAj9bYfXY	MPREb_GyiT41cvSAK	UCY1bvSCN5ViDe5ekJ0hzUUQ
 739	Late Ride	DJ Harrison	Stashboxxx	INDIFFERENT	2:06	6XvaOfDuwxU	MPREb_I39YohpIqjT	UCY1bvSCN5ViDe5ekJ0hzUUQ
 789	Side Effects	DJ Harrison	Stashboxxx	INDIFFERENT	2:46	kx68pppwVUQ	MPREb_I39YohpIqjT	UCY1bvSCN5ViDe5ekJ0hzUUQ
 112	Basket Case	DANGERDOOM	The Mouse & The Mask	INDIFFERENT	2:34	fYIrrOnrs3c	MPREb_dfyRtoZG5AI	UCT_soIUep7-opw7K5vJKDwg
 617	Space Ho's	DANGERDOOM	The Mouse & The Mask (Metalface Edition)	INDIFFERENT	3:29	bPobMAMMf64	MPREb_ySTEj2tomqZ	UCT_soIUep7-opw7K5vJKDwg
-121	Faded Creek	D33J	Gravel	INDIFFERENT	5:12	PdfoY4x-Qoo	MPREb_K9VihjLcCwh	UCrWBZF8-ni_bTSvlvE7BFDw
-239	Empty Sunset	D33J	Gravel	INDIFFERENT	4:26	kgLxtMT24wc	MPREb_K9VihjLcCwh	UCrWBZF8-ni_bTSvlvE7BFDw
+121	Faded Creek	D33J	Gravel	INDIFFERENT	5:13	PdfoY4x-Qoo	MPREb_K9VihjLcCwh	UCrWBZF8-ni_bTSvlvE7BFDw
+239	Empty Sunset	D33J	Gravel	INDIFFERENT	4:27	kgLxtMT24wc	MPREb_K9VihjLcCwh	UCrWBZF8-ni_bTSvlvE7BFDw
 664	Haze	Cyne	Evolution Fight	INDIFFERENT	3:26	msJBZZ05Fcc	MPREb_q15SDcPnYej	UCnIsVRGgATUNvVDg-7vsEJQ
 291	No. 3 Pencil	Count Bass D	BEGBORROWSTEEL	INDIFFERENT	1:38	m-3E-VMdoaA	MPREb_GvRCP4OzKHa	UCmHEleWJj66_u2uwi18FLgw
 315	August 25, 2001	Count Bass D	Dwight Spitz	INDIFFERENT	3:30	dlCKqUiMwIs	MPREb_dQXjorOIdA5	UCmHEleWJj66_u2uwi18FLgw
-532	Funky For You (feat. Bilal & Jill Scott)	Common	Like Water For Chocolate	INDIFFERENT	5:55	lSTPcqlwHuE	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw
+532	Funky For You (feat. Bilal & Jill Scott)	Common	Like Water For Chocolate	INDIFFERENT	5:56	lSTPcqlwHuE	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw
 32	Air Cal	Com Truise	Galactic Melt	INDIFFERENT	4:32	3GPNRcxbwZw	MPREb_QXiyPdFjJFm	UC3G1cV92stSGOy4cLgXmgJQ
 369	H’okay (feat. Soul Food Horns)	Cloudchord	Chillhop Essentials Spring 2018	INDIFFERENT	2:12	ty1MOKU0JFk	MPREb_GUU5YfwnXQU	UCkk09exFw2una3C4GkyycrA
 500	The Cute	Clarence Clarity	No NOW	INDIFFERENT	2:10	lb9Xf2M4bL0	MPREb_jPJ53qSoxys	UCPGVWTgB9igungz5AkiBJNg
@@ -729,11 +724,11 @@
 78	Don't Be Jelly	Blu	Give Me My Flowers While I Can Still Smell Them	INDIFFERENT	3:33	xSxDcRUZjnY	MPREb_Zwxgky6Tw6P	UCNDvQXpM-zUtuqSMT2aXNKw
 480	Boyz N the Hood (feat. Fashawn & Pac Div)	Blu	Good to Be Home	INDIFFERENT	4:16	ImRDvxyEolQ	MPREb_H3cpkMhj1Y4	UCNDvQXpM-zUtuqSMT2aXNKw
 530	The LA (feat. Secret Service Agents)	Blu	Good to Be Home	INDIFFERENT	3:51	diZZiP7e4gM	MPREb_H3cpkMhj1Y4	UCNDvQXpM-zUtuqSMT2aXNKw
-666	Beggars/BlackGold	Blu	Her Favorite Colo(u)r	INDIFFERENT	2:20	2jj5weuoM9E	MPREb_ttIdQAU5hSt	UCNDvQXpM-zUtuqSMT2aXNKw
+666	Beggars/BlackGold	Blu	Her Favorite Colo(u)r	INDIFFERENT	2:21	2jj5weuoM9E	MPREb_ttIdQAU5hSt	UCNDvQXpM-zUtuqSMT2aXNKw
 631	Videotapes	Blouse	Blouse	INDIFFERENT	3:00	5ODfzvMe4i0	MPREb_ZtUdKtFZFxA	UCWdobM0xYA6L1QZo_f3a5RQ
 629	Essential Violet	Blazo	Colors of Jazz	INDIFFERENT	2:36	yUZN2AKROU0	MPREb_3bbsy0dx9JD	UC4zL6AlLAQYFPAuv5WK68eg
 260	D ☰ ☰ P $ P Λ C ☰	Blank Banshee	Blank Banshee 0	INDIFFERENT	2:17	0LQgfuCQ-0U	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIPYmxhbmsgYmFuc2hlZSAwGg1ibGFuayBiYW5zaGVlIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINYmxhbmsgYmFuc2hlZQ
-27	Tear (Grenier Remix)	Blackbird Blackbird	Boracay Planet	INDIFFERENT	4:01	5W0Q41pAEKc	MPREb_yoBOv3D765z	UCcHQ1Muhcxuj18boIMWn29Q
+27	Tear (Grenier Remix)	Blackbird Blackbird	Boracay Planet	INDIFFERENT	4:02	dCU5fvEe290	MPREb_icMwARJnorb	UCcHQ1Muhcxuj18boIMWn29Q
 14	Shut It Down (Instrumental)	Black Milk	Popular Demand Instrumentals	INDIFFERENT	3:28	5tlhL8c9wFw	MPREb_jMCFK4a3PA3	UCJEUe4Ak8bBv1y_9KolT7rw
 104	Why Worry	Black Milk	Synth Or Soul	INDIFFERENT	1:49	uvKf_bwFpQo	MPREb_N36NkxA0p7H	UCJEUe4Ak8bBv1y_9KolT7rw
 133	Computer Ugly Ugly	Black Milk	Synth Or Soul	INDIFFERENT	2:33	9toch3AcfWY	MPREb_N36NkxA0p7H	UCJEUe4Ak8bBv1y_9KolT7rw
@@ -783,7 +778,7 @@
 547	The Formula	Apollo Brown	Trophies	INDIFFERENT	3:50	CuvJvvTaPwI	MPREb_zlNuYOBXxdQ	UC7W2Fz6mkc2WyJDbftx_G5A
 46	Bass and Time	Ancient Astronauts	Into Bass and Time	INDIFFERENT	1:51	nFn7LVmdzPI	MPREb_qsWLDo2j9HR	UCigPQqDK3UL4YAqTe2Yts7A
 52	I Came Running	Ancient Astronauts	We Are to Answer	INDIFFERENT	4:00	6nitAtlHz24	MPREb_kl7cFfIZte6	UCigPQqDK3UL4YAqTe2Yts7A
-345	Surge (Two Fingers Remix)	Amon Tobin	Surge	INDIFFERENT	4:13	WvPgxoX6_0U	MPREb_0DGrOBiDdpV	UCCbVPlwGMWlYTzFDyt5LUNQ
+345	Surge (Two Fingers Remix)	Amon Tobin	Surge	INDIFFERENT	4:14	WvPgxoX6_0U	MPREb_0DGrOBiDdpV	UCCbVPlwGMWlYTzFDyt5LUNQ
 773	Float	Amber Navran	Speak Up EP	INDIFFERENT	1:34	XVIFvMI2A_U	MPREb_YOqRSr2R3b8	UCykvUj5h9z8DinT-T1JIWcg
 434	Falling (feat. Kaya Thomas-Dyke)	Alfa Mist	Structuralism	INDIFFERENT	4:13	5gbFAYM4GS4	MPREb_UB7r0MhHuAJ	UCdkcalEgGoQdAQAPSUxiZYw
 267	Inst. (Toomuch)	Ahwlee	1991	INDIFFERENT	2:40	pcwcue7qryo	MPREb_KVVh1F4riTF	UCFTSgWyTfIkMA-1gsIi_hCA
@@ -824,3 +819,8 @@
 514	Without	14KT	Nowalataz	INDIFFERENT	2:05	CtIgTWxqtQQ	MPREb_GU6iKHj0XCN	UCDVudaGesuWyWr6qPrhXzhQ
 772	Choosing	14?	Past Is Past	INDIFFERENT	2:34	escQXWuQrzE	MPREb_91XsVj6GwzM	UCpi3vjM5Sg3geEL9zagrU-Q
 807	Dreams	14	Tribute To Jun (Nujabes Tribute)	INDIFFERENT	5:08	kxqoct38ybI	MPREb_usdMukx9sgr	UCs_cJjL-Nb7LyeyYCnzobSw
+63	Bahia Blues	Dr. Who Dat?	Beat Journey		2:49	wGJ5RuJmNoY		
+84	ASAP (Flash)	Dr. Who Dat?	Beat Journey		2:43	X9Z1d8hg3ro		
+263	Follow	Dr. Who Dat?	Beat Journey		2:25	tNUIAUqoLHw		
+322	Memories	Dr. Who Dat?	Beat Journey		2:40	uBSfxHbtx-c		
+536	Miles Away	Dr. Who Dat?	Beat Journey		1:44	t3djtAmruhU		
