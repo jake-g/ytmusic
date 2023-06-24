@@ -1,14 +1,17 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 112	Fast Car	Tracy Chapman	Tracy Chapman	LIKE	4:57	IJ8i49EqgYI	MPREb_vKX5oVsmqCd	UCndrh03uIKb9SUR7-znGZ9w
+38	She Blinded Me With Science (2009 Remastered Version)	Thomas Dolby	The Golden Age Of Wireless	LIKE	3:43	ff2Zar6KCiQ	MPREb_zQNVthLN73G	UCUFQNbMKZ5Jy01q_joLC7Kw
 7	In Between Days	The Cure	The Head On The Door	LIKE	2:57	EDMDb8unsIA	MPREb_3nkkSERyhDu	UCKuG9-MGolUuWbEcoz5qijw
 106	Close to Me	The Cure	The Head On The Door	LIKE	3:23	t7U1k147Qk4	MPREb_3nkkSERyhDu	UCKuG9-MGolUuWbEcoz5qijw
 20	Rock the Casbah	The Clash	Combat Rock	LIKE	3:41	0pCFVX6lzHU	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
 163	Mad World	Tears For Fears	The Hurting	LIKE	3:36	vlRAstW6cCQ	MPREb_rvPwgpJDKbz	UCcozhiTOkGB1HCOgdBlEFPA
 54	Tainted Love / Where Did Our Love Go (Extended Version)	Soft Cell	Keychains & Snowstorms – The Soft Cell Story	LIKE	8:58	q84psZX6MbA	MPREb_nuxhQZlzsjK	UCqx2-vXNXURrhxbXD0zSIUw
 85	Push It	Salt-N-Pepa	Hot, Cool & Vicious	LIKE	4:33	dPfTiX2i4Vk	MPREb_WPoe83R7Pwv	UChG4UYfQHHCXbKHA4XAhiew
+242	Xanadu	Rush	A Farewell To Kings	LIKE	11:05	RLh3A6AqmUs	MPREb_09PjipZWekI	UCDCgtKZG6r7C9n87FMxR5ow
 102	It's The End Of The World As We Know It (And I Feel Fine) (Remastered 2006)	R.E.M.	And I Feel Fine.....The Best Of The IRS Years 82-87 Collector's Edition	LIKE	4:06	8OyBtMPqpNY	MPREb_cEzJLDwHdyn	UCZQMYjqm_j5mBVTfPcCy3FA
 46	Bizarre Love Triangle	New Order	Brotherhood	LIKE	4:22	bKVbB_qZQcU	MPREb_rYm7oe4Kj2G	UCXExK7We8VKsIzFFQYNEgBg
 275	Funkytown	Lipps Inc.	Mouth to Mouth	LIKE	7:51	OAC4ItP0xWM	MPREb_pRQXdtKvWpI	UC02eqrW1fCLDZwOKVOA62vQ
+171	Angel Of The Morning	Juice Newton	Juice	LIKE	4:11	fN5YZb6X8to	MPREb_pqrCoGVGAzc	UCpgPkRzgQeI6D6KMUZzQ4eA
 13	Need You Tonight	INXS	Kick (30th Deluxe Edition)	LIKE	3:02	j5ZPrW3-WUI	MPREb_3qtUduLmjft	UCVHfuJpwPb1AWBLWOwA0McQ
 63	Cars	Gary Numan	Cars	LIKE	3:59	MkeO7ThL8yg	MPREb_i3AOGjGVA7C	UC-K605FxFMSn8lOvPIWyBYg
 29	Rock Me Amadeus (The Gold Mix)	Falco	Falco III	LIKE	3:23	OKxBk4V79Co	MPREb_F8jAh04pzzb	UC2IxXopNUjjBCC78s_01mnw
@@ -17,7 +20,7 @@
 53	Karma Chameleon	Culture Club	Colour By Numbers	LIKE	4:13	S8Cv5XbG428	MPREb_3yvfKLrNTKx	UChva71IdUXvTn8uHGtJkB_w
 64	Rapture	Blondie	Autoamerican	LIKE	6:32	Sp9An5OcdE4	MPREb_sJ748QpVfUZ	UCF6I8FH_f6NBEsngIfkZY6g
 12	Eyes Without A Face	Billy Idol	Greatest Hits	LIKE	4:58	G_GxaoOJFTY	MPREb_OxTczGFYthJ	UC_R3nYWHZV0tGgbpuDoI0vA
-9	The Metro	Berlin	Pleasure Victim	LIKE	4:11	FJZ8NH0HT_o	MPREb_orhJYn3lAh5	UCvbXUcYqlKzds_xhkYGa7ag
+9	The Metro	Berlin	Pleasure Victim	LIKE	4:12	FJZ8NH0HT_o	MPREb_orhJYn3lAh5	UCvbXUcYqlKzds_xhkYGa7ag
 235	The Sun Always Shines on TV	a-ha	Time and Again: The Ultimate a-ha	INDIFFERENT	5:07	LwUEb8Q-qAA	MPREb_OUl8FaluP4R	UCx00XxqRCfPS6zaTzRm3H2A
 97	Legs (Remix)	ZZ Top	Greatest Hits	INDIFFERENT	4:32	EypcvW64VcI	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
 139	Self Control	YoungBoy Never Broke Again	AI YoungBoy 2	INDIFFERENT	3:06	KVOTvkP-03E	MPREb_iCghr3nFk8h	UCR28YDxjDE3ogQROaNdnRbQ
@@ -43,13 +46,12 @@
 311	Hey Mickey	Toni Basil	Hey Mickey	INDIFFERENT	4:12	F8j1KVppRtc	MPREb_8YDNp5Xojps	UClBio757eFBeSeDYGnFYUiQ
 141	Wild Thing	Tone-Loc	Loc-ed After Dark	INDIFFERENT	4:24	G_upnEFGDcM	MPREb_zyeju4abXNh	UCByTu-eVh85UNLURn0oVIYA
 226	867-5309 / Jenny	Tommy Tutone	2	INDIFFERENT	3:47	tHL2XeuA6Yg	MPREb_dkxdRLHhgoK	UCGYRrl9tcG0k711X-tRVAGw
-179	Don't Come Around Here No More	Tom Petty And The Heartbreakers	Southern Accents	INDIFFERENT	5:07	WldDwR1UTYM	MPREb_p518YN9pzs5	UC6hGusDLTI8bW-P4pMYdIqA
+179	Don't Come Around Here No More	Tom Petty And The Heartbreakers	Southern Accents	INDIFFERENT	5:08	WldDwR1UTYM	MPREb_p518YN9pzs5	UC6hGusDLTI8bW-P4pMYdIqA
 266	We Don't Need Another Hero (Thunderdome)	Tina Turner	Simply the Best	INDIFFERENT	4:16	kDERlmd2NS4	MPREb_su0sqYAsV2c	UC3XcDooUnwiaiTPlICV6-ig
 335	Private Dancer (Single Edit)	Tina Turner	Simply the Best	INDIFFERENT	4:01	MRm7yNpynLs	MPREb_su0sqYAsV2c	UC3XcDooUnwiaiTPlICV6-ig
 241	I Think We're Alone Now	Tiffany	Tiffany	INDIFFERENT	3:49	wsi43H9FTtE	MPREb_tSxgJXEJb9k	UCaW1JwKVDOV8Q0npPfMUJvg
 87	Lay Your Hands on Me (U.S. Single Mix)	Thompson Twins	Platinum & Gold Collection	INDIFFERENT	4:09	L_6QEBZ3BIU	MPREb_0LdjY96Di6D	UCMRJ1CdKBBR_x5b0cdHIrWA
 111	Doctor! Doctor!	Thompson Twins	Into the Gap (Deluxe Edition)	INDIFFERENT	4:39	JJzmmTtLprE	MPREb_bvmS5FP6v84	UCMRJ1CdKBBR_x5b0cdHIrWA
-38	She Blinded Me With Science (2009 Remastered Version)	Thomas Dolby	The Golden Age Of Wireless	INDIFFERENT	3:43	ff2Zar6KCiQ	MPREb_zQNVthLN73G	UCUFQNbMKZ5Jy01q_joLC7Kw
 142	The Whole of the Moon (2004 Remaster)	The Waterboys	This Is the Sea (Deluxe Version)	INDIFFERENT	5:03	d388s231dqQ	MPREb_kanW24bhEY5	UCSDchhThpWeuXWTU0ce34rQ
 276	I Know What Boys Like	The Waitresses	Wasn't Tomorrow Wonderful?	INDIFFERENT	3:11	hq1kydRkShg	MPREb_xqsQDfdv2fT	UCn0GZ96Qvq8yPKB_KicJvFg
 368	Christmas Wrapping (Single Edit)	The Waitresses	Wasn't Tomorrow Wonderful?	INDIFFERENT	4:31	ZYE7UJSA7k0	MPREb_xqsQDfdv2fT	UCn0GZ96Qvq8yPKB_KicJvFg
@@ -97,7 +99,7 @@
 52	Heart And Soul (Single Version)	T'Pau	Bridge Of Spies (Expanded Edition)	INDIFFERENT	3:40	nULSZY9gI3Y	MPREb_ooDh9RGrHIf	UC96O3b2Ga3ixSy90tM3mZWw
 255	Breakout	Swing Out Sister	It's Better To Travel (Deluxe Edition)	INDIFFERENT	3:47	sPp9lQyEdNk	MPREb_JJCwP2Zv6GC	UC1XSlysUQjZV3yeI7ezs3sQ
 90	Luka	Suzanne Vega	Solitude Standing	INDIFFERENT	3:51	SiTPX2ks-jU	MPREb_7df6M9lD6nY	UCGZazpc8WlWMQAavpOiwvyw
-24	Part-Time Lover	Stevie Wonder	In Square Circle	INDIFFERENT	4:12	MpDM6ygsb20	MPREb_lQ53woIoqxV	UCR83RRXHzXrEQbu_ZQmPMSg
+24	Part-Time Lover	Stevie Wonder	In Square Circle	INDIFFERENT	4:13	MpDM6ygsb20	MPREb_lQ53woIoqxV	UCR83RRXHzXrEQbu_ZQmPMSg
 244	Stand Back	Stevie Nicks	The Wild Heart (2016 Remastered)	INDIFFERENT	4:52	q3jrhQvoCSc	MPREb_DMhLJT9YhV7	UCfO0DvLW0NPwtLcxD6_nHEg
 114	Valerie	Steve Winwood	Talking Back To The Night	INDIFFERENT	4:07	2fTUQaMeuDw	MPREb_IIzNNpq6ny4	UCG0C3BebQHCriXlHDJ0xuCA
 174	Higher Love	Steve Winwood	Back In The High Life	INDIFFERENT	5:52	PagMEUbbBcs	MPREb_F17LDSvuaiz	UCG0C3BebQHCriXlHDJ0xuCA
@@ -111,7 +113,7 @@
 32	Peek-A-Boo	Siouxsie And The Banshees	Peepshow (Remastered And Expanded)	INDIFFERENT	3:13	cBENPJQGgco	MPREb_VM7x4HsWmf1	UCjCD5fzt7QaWpuGE9KNXN0g
 89	Dear Prudence	Siouxsie And The Banshees	Hyaena (Remastered And Expanded)	INDIFFERENT	3:49	MT0glbyHyOE	MPREb_qyByh8HrSfq	UCjCD5fzt7QaWpuGE9KNXN0g
 222	Holding Back the Years (2008 Remaster)	Simply Red	Picture Book	INDIFFERENT	4:30	0HB0giSCuFA	MPREb_EzYtYbMVdKh	UC1VJavwj-780ZpZCXgzGscA
-245	Don't You (Forget About Me)	Simple Minds	The Breakfast Club	INDIFFERENT	4:20	Ly61QG9yWOc	MPREb_RbrKACXsbEz	UCE_svhtO1EX9jG8KV2-njfA
+245	Don't You (Forget About Me)	Simple Minds	The Breakfast Club	INDIFFERENT	4:21	Ly61QG9yWOc	MPREb_RbrKACXsbEz	UCE_svhtO1EX9jG8KV2-njfA
 296	Alive And Kicking	Simple Minds	Once Upon A Time (Super Deluxe)	INDIFFERENT	5:26	vt5vm6Uxj5Y	MPREb_5uXXSBzgj26	UCE_svhtO1EX9jG8KV2-njfA
 40	The Glamorous Life	Sheila E	The Glamorous Life	INDIFFERENT	9:04	HpO07s-Aw4I	MPREb_YiAdtsxNrsc	UCGdUKQXyjezqRm_fNYzlOMQ
 324	Morning Train (Nine to Five) [Edit]	Sheena Easton	Take My Time	INDIFFERENT	3:17	-dNtJZe9A5Q	MPREb_bDtWGp21mwb	UCMuEjr-j98HkViKOQLP2mLA
@@ -121,7 +123,6 @@
 56	The Sweetest Taboo	Sade	Promise	INDIFFERENT	4:38	RcejfvTXusM	MPREb_TUbd1UJ765x	UCgxBu-PnULL4WRG7HcNpRvg
 105	Your Love Is King	Sade	The Best of Sade	INDIFFERENT	3:40	c_lgse6-JKo	MPREb_6mgYXAVHMgn	UCgxBu-PnULL4WRG7HcNpRvg
 137	Subdivisions	Rush	Signals	INDIFFERENT	5:34	NhF1Z40Ua20	MPREb_T3g0xGuUvCD	UCDCgtKZG6r7C9n87FMxR5ow
-242	Xanadu	Rush	A Farewell To Kings	INDIFFERENT	11:05	RLh3A6AqmUs	MPREb_09PjipZWekI	UCDCgtKZG6r7C9n87FMxR5ow
 82	Avalon	Roxy Music	Avalon	INDIFFERENT	4:17	f6NSkSzoufY	MPREb_NWhOZENhXk4	UClkVjeqL5g7pMox3ydHFkGg
 151	More Than This	Roxy Music	Avalon	INDIFFERENT	4:31	wwXtPu-iA4Q	MPREb_NWhOZENhXk4	UClkVjeqL5g7pMox3ydHFkGg
 253	The Look	Roxette	Look Sharp!	INDIFFERENT	3:58	-1lHYs--Pik	MPREb_zL4bL7QvReS	UCm8Brkkx9u_4J7DALxg0n1w
@@ -234,7 +235,6 @@
 188	Too Shy	Kajagoogoo	White Feathers	INDIFFERENT	3:42	ixshJIg2hPs	MPREb_rmRB1kLoU8N	UCP9bIOZ6ycSggD3m-Nazmww
 116	Too Late for Goodbyes	Julian Lennon	Valotte	INDIFFERENT	3:35	lonninMiymY	MPREb_v9S7CaXMayy	UCwZ6D9uv5QFbFe87nx1KhnA
 125	Wishing Well	Juice WRLD	Legends Never Die	INDIFFERENT	3:15	SjVyYFagYJM	MPREb_zOzftSw8ZL0	UCbn0GRdgsQtl9hlV-IqxFGg
-171	Angel Of The Morning	Juice Newton	Juice	INDIFFERENT	4:11	fN5YZb6X8to	MPREb_pqrCoGVGAzc	UCpgPkRzgQeI6D6KMUZzQ4eA
 256	You've Got Another Thing Coming	Judas Priest	Screaming For Vengeance	INDIFFERENT	5:11	LNyIhirtXUI	MPREb_mAVYTe4Go1r	UCy6-RHgm74I8CCCvMu4NPJQ
 363	Separate Ways (Worlds Apart)	Journey	Greatest Hits	INDIFFERENT	5:26	UsdGgRL1xHc	MPREb_uN8bgEO1in5	UCPKnuPciHDB8qw-wyBVQo9A
 315	Shattered Dreams	Johnny Hates Jazz	Turn Back The Clock	INDIFFERENT	3:28	Kz5scjSQ_WE	MPREb_h9WqY5w6vAm	UC_xBAWLhhUJ7hMdBaNPGsyg
@@ -329,7 +329,7 @@
 16	Say It Isn't So	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	INDIFFERENT	4:18	RXaUmxqivIc	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
 18	Out of Touch	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	INDIFFERENT	4:10	DCkJ5lGPqFs	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
 19	Maneater	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	INDIFFERENT	4:32	oqy2N1jM2tU	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
-193	I Can Dream About You	Dan Hartman	Streets Of Fire	INDIFFERENT	4:09	J2LxM1bg034	MPREb_wjkCtyoC3lV	UCr6zAONmpwjlSVhZm4GHDTw
+193	I Can Dream About You	Dan Hartman	Streets Of Fire	INDIFFERENT	4:10	J2LxM1bg034	MPREb_wjkCtyoC3lV	UCr6zAONmpwjlSVhZm4GHDTw
 131	Time After Time	Cyndi Lauper	She's So Unusual	INDIFFERENT	4:02	7wBgcalM4c4	MPREb_wRKmB04VUmW	UC9I3hbllzsS4QZqNekPE76g
 135	She Bop	Cyndi Lauper	Twelve Deadly Cyns...And Then Some	INDIFFERENT	3:43	0JLX_yEJFfM	MPREb_hwGSjSexBck	UC9I3hbllzsS4QZqNekPE76g
 257	I Drove All Night	Cyndi Lauper	A Night To Remember	INDIFFERENT	4:12	CNcgd9h9JnQ	MPREb_2dhN8jm6t3I	UC9I3hbllzsS4QZqNekPE76g
@@ -338,8 +338,8 @@
 361	All Through the Night	Cyndi Lauper	She's So Unusual	INDIFFERENT	4:33	uH9oRCraBnM	MPREb_wRKmB04VUmW	UC9I3hbllzsS4QZqNekPE76g
 285	(I Just) Died In Your Arms	Cutting Crew	Broadcast	INDIFFERENT	4:41	2wf-MNzSbpA	MPREb_i7boqE6FE5M	UC7CYIif6lYnbE9ouq9XNFRQ
 178	Church Of The Poison Mind (Remastered 2002)	Culture Club	Colour By Numbers	INDIFFERENT	3:33	3qHlKJJjwxc	MPREb_3yvfKLrNTKx	UChva71IdUXvTn8uHGtJkB_w
-160	Something So Strong	Crowded House	Crowded House	INDIFFERENT	2:51	275Civ8J6NI	MPREb_S5n0dF722Fh	UC1ZUH23qJMm54MCUZAKqzFg
-219	Don't Dream It's Over	Crowded House	Crowded House	INDIFFERENT	3:56	H7UMRkp7m80	MPREb_S5n0dF722Fh	UC1ZUH23qJMm54MCUZAKqzFg
+160	Something So Strong	Crowded House	Crowded House	INDIFFERENT	2:52	275Civ8J6NI	MPREb_S5n0dF722Fh	UC1ZUH23qJMm54MCUZAKqzFg
+219	Don't Dream It's Over	Crowded House	Crowded House	INDIFFERENT	3:57	H7UMRkp7m80	MPREb_S5n0dF722Fh	UC1ZUH23qJMm54MCUZAKqzFg
 330	Sunglasses At Night	Corey Hart	First Offense	INDIFFERENT	5:20	JjKTafF8HSM	MPREb_OeFrOLQP0Om	UCC_ZV58kzM9d06dzWhafKwQ
 3	Nightshift	Commodores	Nightshift	INDIFFERENT	5:07	X3FMFFdYkNo	MPREb_D41GxmIX62B	UCmdiAudyJFCgdQjnPyoUaWw
 300	Nobody's Fool	Cinderella	Night Songs	INDIFFERENT	4:47	NORN7ZkBEew	MPREb_GmUjdpMAahy	UCCBJluZ9yYYgy2vB8QU4Tjg
@@ -349,7 +349,6 @@
 250	Ain't Nobody	Chaka Khan	Epiphany: The Best of Chaka Khan, Vol. 1	INDIFFERENT	4:41	rcAv1cGAeXE	MPREb_pGEBA12lYsY	UCwRmRZFN_nTAkKZYngL-x6A
 152	Word Up	Cameo	Word Up	INDIFFERENT	4:20	iJQ79yh_Agk	MPREb_gU8xiDSdo26	UCWOWuP1wrpPtdpX72l8jl5w
 95	Run To You (Live)	Bryan Adams	Wembley 1996 Live	INDIFFERENT	5:31	fbdy4xFj31U	MPREb_uRoUDDFGTGm	UCSoZk6OcvRneFfAZH3I3-gQ
-312	Summer Of '69	Bryan Adams	Best Party Hits 2022	INDIFFERENT	3:38	0eoxhz6qCGs	MPREb_wXzCPILAbZ4	UCSoZk6OcvRneFfAZH3I3-gQ
 201	The Way It Is	Bruce Hornsby	The Way It Is	INDIFFERENT	4:58	gthpodDZJeQ	MPREb_lM3hrOdhkkW	UCiwLXd-mXNArd1LLq-ri9Kw
 326	Waiting for a Star to Fall	Boy Meets Girl	Reel Life (Expanded Edition)	INDIFFERENT	4:31	iVOhqIwOtg0	MPREb_uKyDbXHHQlb	UCJJVV7JpOQYgeIR03fzBGlw
 25	I Touch Roses	Book Of Love	Book Of Love	INDIFFERENT	3:22	0AysNgVkmpg	MPREb_bdhTq5g9OnZ	UCH8mCnx-rA-tJCifoNiF29Q
@@ -390,3 +389,4 @@
 44	Voices Carry	'Til Tuesday	Voices Carry (Expanded Edition)	INDIFFERENT	4:24	zUKXhRikfPw	MPREb_rzYlZW55M1P	UCnUsoBuDdl_qje4S1w_K7jA
 72	The Promise (Coliseum Club Mix)	When In Rome	Balearic Electronic			zLXvgS3adrE		
 308	Easy Lover	Phil Collins	Hits			uR_2MMar0s0		
+312	Summer Of '69	Bryan Adams	World Cup Classics 2022		3:38	8yakssx6bKk		

@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 1	Rude Mood	Stevie Ray Vaughan And Double Trouble	Texas Flood	LIKE	4:40	iUQsg9J7tuQ	MPREb_e1QtSs6QaKL	UCG47N6MrGcPaJpVRgBoAVAQ
 2	Teen Beat	Sandy Nelson	20th Century Rocks: 50's Rock 'n Roll - At The Hop	LIKE	2:23	8ZtCCx1y-5w	MPREb_pl5ha30X4xE	UC1yb9WHNcJ5zSpbhIqwL0fA
+76	La Villa Strangiato	Rush	Hemispheres	LIKE	9:35	PWue-XcFFxw	MPREb_xX2ypoWnQyH	UCDCgtKZG6r7C9n87FMxR5ow
 69	Rat Salad	Black Sabbath	Paranoid	LIKE	2:31	I_uWnstakOg	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
 81	Apologies to Pearly	ZZ Top	Rio Grande Mud	INDIFFERENT	2:40	yBl8XUnDdPg	MPREb_nOYpjM1PS28	UC_Us2Zqt4ovGtdXKmws60mw
 105	Cinema	Yes	90125 (Deluxe Version)	INDIFFERENT	2:08	qSRzlThuXmM	MPREb_N9KiQcTZrDh	UCtwW_44fofodl7K_12nXOEg
@@ -57,7 +58,6 @@
 73	El Farol	Santana	Supernatural (Remastered)	INDIFFERENT	4:51	8j9YzYZyEK8	MPREb_kw8Dova0NEd	UCX0rR7x8-nLew2t8UH-n2aw
 87	Samba Pa Ti	Santana	Dance Of The Rainbow Serpent	INDIFFERENT	4:43	AOrd1Yo7my4	MPREb_5bXA8YzdxUU	UCX0rR7x8-nLew2t8UH-n2aw
 13	Let There Be Drums (Rerecorded)	Sandy Nelson	Rockin' Instrumentals	INDIFFERENT	2:24	4BW5XjGAl9M	MPREb_3iI4oWCZiQ5	UC1yb9WHNcJ5zSpbhIqwL0fA
-76	La Villa Strangiato	Rush	Hemispheres	INDIFFERENT	9:35	PWue-XcFFxw	MPREb_xX2ypoWnQyH	UCDCgtKZG6r7C9n87FMxR5ow
 26	Anybody There	Rainbow	Bent Out Of Shape	INDIFFERENT	2:39	frBpthtJT8Y	MPREb_Y3imsa9mxoP	UCDhSzNQ4TsD_7OmSaTGQz2A
 72	Still I'm Sad	Rainbow	Ritchie Blackmore's Rainbow	INDIFFERENT	3:54	PhV_LbEkyL8	MPREb_4OqmBFuMmPo	UCDhSzNQ4TsD_7OmSaTGQz2A
 100	Seven Seas Of Rhye	Queen	Queen	INDIFFERENT	1:17	ywOgpTeYZVk	MPREb_N6RyFPMXAGF	UCEPMVbUzImPl4p8k4LkGevA
@@ -110,6 +110,6 @@
 113	Guddyville	Bill Justis	Bill Justis Selected Hits	INDIFFERENT	2:24	ihdD3Lq9aYE	MPREb_EAjebAajJO9	UCZjEBtY1HQsYgb1z8Exi1Xg
 8	Slow Walk	Bill Doggett	Wow!	INDIFFERENT	3:33	CODw-1A4Xto	MPREb_4GHIGuilloN	UCQFjqwQsFXwwRU94Tsb_GRA
 46	Honky Tonk (Part 1)	Bill Doggett	Honky Tonk (Part 1) / Honky Tonk (Part 2)	INDIFFERENT	2:34	sm5F6lt1BAw	MPREb_SHDAGFfqaRS	UCQFjqwQsFXwwRU94Tsb_GRA
-66	Free Wheelin	Bachman-Turner Overdrive	Not Fragile	INDIFFERENT	3:47	4roXFChyvqI	MPREb_q5i5I7igskA	UC5mrFYxM2gUV8zkM-kh4rJg
+66	Free Wheelin	Bachman-Turner Overdrive	Not Fragile	INDIFFERENT	3:45	4roXFChyvqI	MPREb_q5i5I7igskA	UC5mrFYxM2gUV8zkM-kh4rJg
 110	Bumble Boogie (Rerecorded)	B. Bumble & The Stingers	Rockin' Instrumentals	INDIFFERENT	2:15	OOCR518B2rs	MPREb_OQ4WnPU7QZa	UCU4inq-YtKepzr_bNP1YUXg
 94	Let It Slide	Aerosmith	Pandora's Box	INDIFFERENT	2:54	rVf6kgESlwg	MPREb_xdTgH5ONh6S	UCYuinPfuhK_rSlrJXvZQrng
