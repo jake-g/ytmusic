@@ -12,11 +12,14 @@ VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
 # regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 
-
+HEADERS='headers_auth.json'
+NOT_LIKE_TSV='playlists/xx not like.tsv'
+PLAYLIST_TSV_COLUMNS = ['title', 'artist', 'album', 'likeStatus',
+                         'duration', 'videoId', 'albumId', 'artistId']
 class YTMusicPlaylists:
 
-    def __init__(self, header='headers_auth.json', playcount_map=None,
-                 not_like_tsv='playlists/xx not like.tsv',
+    def __init__(self, header=HEADERS, playcount_map=None,
+                 not_like_tsv=NOT_LIKE_TSV,
                  playlist_limit=PLAYLIST_LIMIT):
         print(f'Using header file: {header}')
         self.yt = YTMusic(header)
