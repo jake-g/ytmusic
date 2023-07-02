@@ -269,7 +269,7 @@ if __name__ == "__main__":
     track_db = track_db[~track_db.index.isin(new_track_rating)]
     new_track_ids |= new_track_rating
     # Get metadata for new/changed traks
-    new_tracks_no_meta = tracks_no_meta.loc[new_track_ids]
+    new_tracks_no_meta = tracks_no_meta.loc[list(new_track_ids)]
     track_db = update_track_db(yt_api.yt, track_db, new_tracks_no_meta)
     track_db.to_csv(TRACKS_DB_TSV, sep='\t', header=True)
 
