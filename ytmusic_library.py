@@ -206,7 +206,7 @@ class YTMusicPlaylists:
             like_pl_name += '_like'
         res_like, n_like = self.create_rating_playlist_subset(
             tracks, orig_name, like_pl_name, 'LIKE',
-            min_ids=min_n_like
+            min_ids=min_n_like, ignore_banned=ignore_banned
         )
         if res_like is None:
             print(f'Not splitting playlist {orig_name}, ',

@@ -213,8 +213,6 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
     print('Fetched playlist and saved playlist .tsv files in %d minutes' %
           playlist_elapsed)
 
-    assert 1 == 0
-
     if include_library_tracks:
         t1 = time.time()
         print('Fetching library tracks (approx 5 min)...')
