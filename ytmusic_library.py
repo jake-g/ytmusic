@@ -13,7 +13,7 @@ VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
 DUPLICATE_THRESHOLD = 3
 
 HEADERS='headers_auth.json'
-NOT_LIKE_TSV='playlists/xx not like.tsv'
+NOT_LIKE_TSV='playlists/_not_liked_tracks.tsv'
 PLAYLIST_TSV_COLUMNS = ['title', 'artist', 'album', 'likeStatus',
                          'duration', 'videoId', 'albumId', 'artistId']
 class YTMusicPlaylists:
@@ -33,7 +33,7 @@ class YTMusicPlaylists:
         self.banned_vid_set = set()
         if not_like_tsv != None:
             self.banned_vid_set = frozenset(pd.read_csv(
-                not_like_tsv, sep='\t', index_col=0).videoId)
+                not_like_tsv, sep='\t', index_col=0).index)
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
 
