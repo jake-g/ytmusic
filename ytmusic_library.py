@@ -4,7 +4,7 @@ import pandas as pd
 from ytmusicapi import YTMusic
 
 PLAYLIST_LIMIT = 6000
-MIN_RADIO_LIKE_TO_SPLIT = 8
+MIN_RADIO_LIKE_TO_SPLIT = 10
 VALID_TRACK_RATINGS = ('LIKE', 'DISLIKE', 'INDIFFERENT', 'NONE')
 VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
                         'ALBUM', 'SKIP', 'YT_GENERATED')
@@ -12,14 +12,18 @@ VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
 # regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 
-HEADERS='headers_auth.json'
-NOT_LIKE_TSV='playlists/_not_liked_tracks.tsv'
+HEADERS = 'headers_auth.json'
+NOT_LIKE_TSV = 'playlists/_not_liked_tracks.tsv'
+RADIO_TO_LIKE_PL_TSV = 'playlists/_ytmusic_radio_to_like_pl_map.tsv'
 PLAYLIST_TSV_COLUMNS = ['title', 'artist', 'album', 'likeStatus',
-                         'duration', 'videoId', 'albumId', 'artistId']
+                        'duration', 'videoId', 'albumId', 'artistId']
+
+
 class YTMusicPlaylists:
 
     def __init__(self, header=HEADERS, playcount_map=None,
                  not_like_tsv=NOT_LIKE_TSV,
+                 radio_to_like_map_tsv=RADIO_TO_LIKE_PL_TSV,
                  playlist_limit=PLAYLIST_LIMIT):
         print(f'Using header file: {header}')
         self.yt = YTMusic(header)
@@ -30,6 +34,10 @@ class YTMusicPlaylists:
         self._playcount_map = pd.DataFrame([])
         if playcount_map != None:
             self._playcount_map = self.get_playcount_map(playcount_map)
+        self._radio_to_like_map = pd.DataFrame([])
+        if radio_to_like_map_tsv != None:
+            self._radio_to_like_map = pd.read_csv(
+                radio_to_like_map_tsv, sep='\t')
         self.banned_vid_set = set()
         if not_like_tsv != None:
             self.banned_vid_set = frozenset(pd.read_csv(
@@ -156,78 +164,129 @@ class YTMusicPlaylists:
         tracks = self.parse_tracks(track_list)
         return tracks, playlist_meta
 
-    def create_rating_playlist_subset(self, tracks, orig_name, new_name,
-                                      rating, min_ids=0, playcount_sort=False, ignore_banned=False,
-                                      max_playcount_str=50):
-        assert rating in self._valid_ratings
-        desc = f'generated from {orig_name} includes {rating} subset'
-        tracks = tracks.loc[tracks['likeStatus']
-                            == rating].set_index('videoId')
+    def playcount_sort_playlist(self, pl_info, max_playcount_str=50, ignore_banned=True, sleep_time=1):
+
+        if not len(self._playcount_map):
+            print('ERROR: playcount_sort sorting requires initializing the',
+                  'lastfm playcount map using self.load_playcount_map()')
+            return
+        desc = f'generated from {pl_info["title"]} sorting by lastfm playcount'
+        tracks = pd.DataFrame(pl_info.get('tracks', None))
+        tracks = tracks.set_index('videoId', drop=True)
         if not ignore_banned:
             orig_len = len(tracks)
             tracks = tracks.loc[~tracks.index.isin(self.banned_vid_set)]
-            desc += f'\n\nremoved {orig_len - len(tracks)} banned tracks, keeping {len(tracks)}'
-        if playcount_sort:
-            if not len(self._playcount_map):
-                print('WARNING: playcount_sort sorting requires initializing the',
-                      'lastfm playcount map using self.load_playcount_map()')
-            else:
-                tracks = tracks.join(self._playcount_map).sort_values(
-                    'lastfm_playcount', ascending=False)
-                # generate description string with top playcounts
-                pc = tracks.loc[tracks['lastfm_playcount']
-                                > 0].head(max_playcount_str)
-                pc_str = pc['lastfm_playcount'].astype(
-                    int).astype('str') + '\t|  ' + pc['title']
-                desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
-                    '\n'.join(pc_str.to_list())
+            desc += f'\n\nremoved {orig_len - len(tracks)} ' + \
+                f'banned tracks, keeping {len(tracks)}'
+        tracks = tracks.join(self._playcount_map).sort_values(
+            'lastfm_playcount', ascending=False)
+        # generate description string with top playcounts
+        pc = tracks.loc[tracks['lastfm_playcount']
+                        > 0].head(max_playcount_str)
+        pc_str = pc['lastfm_playcount'].astype(
+            int).astype('str') + '\t|  ' + pc['title']
+        desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
+            '\n'.join(pc_str.to_list())
         video_ids = list(tracks.index)
-        if len(video_ids) <= min_ids:
-            return None, len(video_ids)
         pl_id = self.yt.create_playlist(
-            title=new_name, description=desc,
-            privacy_status='PRIVATE', video_ids=video_ids
-        )
-        return pl_id, len(video_ids)
-
-    def move_likes_from_radio_playlist(self, pl_info,
-                                       min_n_like=MIN_RADIO_LIKE_TO_SPLIT,
-                                       sleep_time=3, verbose=False, playcount_sort=True,
-                                       ignore_banned=True):
-        tracks = pd.DataFrame(pl_info.get('tracks', None))
-        if verbose:
-            print(f'Sorting {pl_info["title"]} ({pl_info["id"]}) with',
-                  f'{len(tracks)} tracks into like and indifferent')
-        orig_name = pl_info["title"]
-        like_pl_name = orig_name
-        if 'radio' in like_pl_name:
-            like_pl_name = like_pl_name.replace('radio', 'like')
-        else:
-            like_pl_name += '_like'
-        res_like, n_like = self.create_rating_playlist_subset(
-            tracks, orig_name, like_pl_name, 'LIKE',
-            min_ids=min_n_like, ignore_banned=ignore_banned
-        )
-        if res_like is None:
-            print(f'Not splitting playlist {orig_name}, ',
-                  f'not enough likes ({n_like})')
-            return
-        time.sleep(sleep_time)
-        indiff_pl_name = orig_name
-        if 'radio' not in indiff_pl_name:
-            indiff_pl_name += '_radio'
-        res_indif, n_indif = self.create_rating_playlist_subset(
-            tracks, orig_name, indiff_pl_name, 'INDIFFERENT', min_ids=0, playcount_sort=playcount_sort,
-            ignore_banned=ignore_banned)
-        if res_indif is None:
-            print(f'ERROR: Radio Playlist {indiff_pl_name} was',
-                  f'not created, skip deleting original : {orig_name}')
-            return
+            title=pl_info["title"], description=desc,
+            privacy_status='PRIVATE', video_ids=video_ids)
         time.sleep(sleep_time)
         self.yt.delete_playlist(pl_info["id"])
-        print(f'Created like playlist: {like_pl_name} ({n_like}) and',
-              f'indifferent playlist: {indiff_pl_name} ({n_indif} entries),',
-              f'deleted original playlist: {orig_name} ({len(tracks)} entries)')
+        time.sleep(sleep_time)
+        print(f'Created sorted pl: {pl_id}, and ',
+              f'deleted original pl: {pl_info["id"]}')
+        return pc
+
+    def clean_up_radio_playlist(
+            self, pl_info, verbose=False,
+            move_like=True, min_num_like=MIN_RADIO_LIKE_TO_SPLIT,
+            sleep=1, create_like_playlist=True,
+            remove_not_like_and_dislike=True):
+        not_like_vids = self.banned_vid_set
+
+        remove_tracks = []
+        move_like_tracks = []
+        pl_counters = {'name': pl_info['title'], 'removed_dislike': 0,
+                       'moved_like': 0, 'removed_not_like': 0, 'like_and_not_like': 0}
+        for track in pl_info.get('tracks', []):
+            if track['likeStatus'] == 'DISLIKE':
+                pl_counters['removed_dislike'] += 1
+                remove_tracks.append(track)
+            elif track['likeStatus'] == 'LIKE':
+                pl_counters['moved_like'] += 1
+                move_like_tracks.append(track)
+                if track['videoId'] in not_like_vids:
+                    pl_counters['like_and_not_like'] += 1
+            elif track['videoId'] in not_like_vids:
+                pl_counters['removed_not_like'] += 1
+                remove_tracks.append(track)
+        if verbose:
+            print(100*'*' + f'\n{pl_counters}')
+        # Handle flagged tracks
+        like_pl = self._radio_to_like_map.loc[
+            self._radio_to_like_map['radio_playlist'] == pl_info["title"]].iloc[0]['like_playlist']
+
+        if move_like and len(move_like_tracks) > min_num_like:
+            # Create like playlist and add from 'move_like_tracks'
+            like_pl_id = None
+            like_vids = [t['videoId'] for t in move_like_tracks]
+            if pd.isna(like_pl):
+                if create_like_playlist:
+                    like_pl = pl_info["title"].replace('radio', 'like')
+                    like_pl_id = self.yt.create_playlist(
+                        title=like_pl,  description=f'Created for dumping likes from {pl_info["title"]}',
+                        privacy_status='PRIVATE', video_ids=like_vids)
+                    if verbose:
+                        print(f'Created LIKE playlist for '
+                              f'{pl_info["title"]}: {like_pl}')
+                    time.sleep(2*sleep)
+            else:
+                like_pl_id = self.query_by_title(like_pl).playlistId
+                like_orig_vids = frozenset([t['videoId'] for t in self.playlist_get_info(
+                    like_pl_id, use_cache=True).get('tracks', [])])
+                like_new_vids = frozenset(like_vids) - like_orig_vids
+                like_dedupe_num = len(like_vids) - len(like_new_vids)
+                if like_dedupe_num > 0:
+                    like_vids = list(like_new_vids)
+                if len(like_vids):
+                    status = self.yt.add_playlist_items(
+                        playlistId=like_pl_id, videoIds=like_vids, duplicates=False)
+                    err_msg = f'Bad Status for {pl_info["title"]} add {len(move_like_tracks)} LIKE tracks: {status}'
+                    assert status['status'] == 'STATUS_SUCCEEDED', err_msg
+                    # Somtimes this still fails, fallback is to reemove like pl mapping so it generates a fresh pl
+                    # TODO if this happens copy the create playlist fallback here
+                    time.sleep(sleep)
+                elif verbose:
+                    print(f'No new LIKE tracks to add to playlist '
+                          f'{like_pl_id}')
+
+            if like_pl_id == None:
+                if verbose:
+                    print(f'No LIKE playlist for {pl_info["title"]}, ',
+                          f'so not moving {len(move_like_tracks)} LIKE tracks')
+                return {}
+
+            status = self.yt.remove_playlist_items(
+                pl_info["id"], move_like_tracks)
+            err_msg = f'Bad Status for {pl_info["id"]} remove {len(move_like_tracks)} LIKE tracks: {status}'
+            assert str(status) == 'STATUS_SUCCEEDED', err_msg
+            time.sleep(sleep)
+            if verbose:
+                print(f'Moved {len(move_like_tracks)} LIKE entries '
+                      f'from {pl_info["title"]} to {like_pl_id}')
+
+        if remove_not_like_and_dislike and len(remove_tracks):
+            status = self.yt.remove_playlist_items(
+                pl_info["id"], remove_tracks)
+            err_msg = f'Bad Status for {pl_info["id"]} remove {len(remove_tracks)} NOT LIKE tracks: {status}'
+            assert str(status) == 'STATUS_SUCCEEDED', err_msg
+            if verbose:
+                print(f'Removed {len(remove_tracks)} NOT_LIKE '
+                      f'entries from {pl_info["title"]}')
+            time.sleep(sleep)
+
+        return pl_counters
 
     def playlist_rate_all_songs(self, pl_info, rating, sleep_time=0.5,
                                 verbose=False, skip_if_dislike=False):
