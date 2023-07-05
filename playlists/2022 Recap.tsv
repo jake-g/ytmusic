@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 62	Black Rice	Women	Women	LIKE	3:14	K3NgJbc8-vo	MPREb_eaHMJgj3le0	UCgUN36xwqqYlk7AHiYP_FMw
 35	Ex Lion Tamer (2006 Remastered Version)	Wire	Pink Flag	LIKE	2:20	YOIBDZuetBY	MPREb_0uByMaayRnq	UCJOW5ijQ4MFnvZxhdCHha6Q
+96	If I Ever Was a Child	Wilco	Schmilco	LIKE	2:56	Jem-p1VadYU	MPREb_BEuZvCP4G5z	UCb5aNlKdWOySR6Z-CnQieFQ
 25	Feel It All Around	Washed Out	Life of Leisure	LIKE	3:12	3Pt0V6K7WpM	MPREb_bLTiKGI4leg	UC1rCT_Cy1pP1wnRcEUV3nPA
 9	Feel	Ty Segall	Manipulator	LIKE	4:16	zGRU5ui6IcI	MPREb_gpRx3sEnpyd	UC-Z_sxJOcuEGSq822j9VqNw
 42	Dear Mr. Fantasy	Traffic	Mr. Fantasy	LIKE	5:34	sS_eHdqcrM8	MPREb_pEzFtyHuF1q	UCFh-Yyaep1Gl5c0O1JTvEBQ
@@ -44,6 +45,7 @@
 41	Working Class Hero	John Lennon	Plastic Ono Band	LIKE	3:48	D77dbv-xNfE	MPREb_HfjgON4frnB	UCcSL2nYSJp_IgdzH0xBBdcg
 82	Isolation	John Lennon	Plastic Ono Band	LIKE	2:53	N8lOLNfnCBg	MPREb_HfjgON4frnB	UCcSL2nYSJp_IgdzH0xBBdcg
 28	Boom Boom	John Lee Hooker	Boom Boom	LIKE	4:20	XgWs8LnDJyg	MPREb_rlWLpeUK23n	UCcWk0Z6iOwjUeycdoh7mIMQ
+49	All Along The Watchtower	Jimi Hendrix	Moment of Forever - Feel Like Makin’ Love!	LIKE	4:07	1bt54ghVbaw	MPREb_mzlRj0SJhyf	
 43	Sugaree	Jerry Garcia	Garcia	LIKE	5:53	sxF9UJ-Rm0E	MPREb_ctTADWgtPz5	UCGZ-ePa-J8bm_TfglDQYWkg
 78	The Wheel	Jerry Garcia	Garcia	LIKE	4:04	cig82_aGmTg	MPREb_ctTADWgtPz5	UCGZ-ePa-J8bm_TfglDQYWkg
 19	Everybody's Talkin'	Harry Nilsson	Aerial Pandemonium Ballet	LIKE	2:43	jzFM_-1moSo	MPREb_fGQPRxlHNTx	UCVlbbMiyHZiH2hNLd0MOMhA
@@ -76,6 +78,7 @@
 46	Midnight Special	Creedence Clearwater Revival	Willy And The Poor Boys	LIKE	4:14	QBPqlxZD-h8	MPREb_d8kLLgkuT5I	UCRbMcMQeSFVvsyEuOn7uAKQ
 60	Proud Mary	Creedence Clearwater Revival	The Long Road Home - The Ultimate John Fogerty / Creedence Collection	LIKE	3:05	BCkjKcXr5iM	MPREb_nbOxRvMDfDl	UCRbMcMQeSFVvsyEuOn7uAKQ
 66	Johnny B. Goode	Chuck Berry	Deluxe: Johnny B. Goode	LIKE	2:42	Uf4rxCB4lys	MPREb_neZSLzLS6DA	UCUfKmP9mv1yUkxlE5DDX5Zg
+83	Roll Over Beethoven	Chuck Berry	Deluxe: Johnny B. Goode	LIKE	2:25	o3CAAcndhlM	MPREb_neZSLzLS6DA	UCUfKmP9mv1yUkxlE5DDX5Zg
 7	Going Up The Country	Canned Heat	The Best Of Canned Heat	LIKE	2:52	La1J2Ze7vzc	MPREb_LikfScnr8sg	UCZY-JjjttGrdoF1vhCBgpzw
 13	On The Road Again	Canned Heat	Boogie With Canned Heat	LIKE	4:57	CEwyoo3fT8w	MPREb_zpfcmpMDUha	UCZY-JjjttGrdoF1vhCBgpzw
 27	That’ll Be the Day	Buddy Holly	Deluxe: Greatest Hits - Buddy Holly	LIKE	2:19	M4TfFTmITLo	MPREb_fKobpCdu0Uq	UCddPyO3i288bFhCe9mzJsqg
@@ -89,13 +92,10 @@
 88	Dance of the Dream Man (Instrumental)	Angelo Badalamenti	Soundtrack From Twin Peaks	LIKE	3:42	kBn_lQBh9JA	MPREb_A83lOZic22r	UC7ygKpFFov9EnbZQq3SqRCA
 53	The Marriage of Coyote Woman	All Them Witches	Lightning at the Door	LIKE	5:50	stUxPQ6mjAI	MPREb_gy2JSoOzxiq	UCyYGtzX--CaSWjM8SC9t1qQ
 73	Liam Liesl	Aaron Walker	Bounce!	LIKE	2:47	qAmgGuZpoM8	MPREb_0yk5u8kFvf4	UCyUsPqZK4V5gv-mJtg-mB-g
-96	If I Ever Was a Child	Wilco	Schmilco	INDIFFERENT	2:56	Jem-p1VadYU	MPREb_BEuZvCP4G5z	UCb5aNlKdWOySR6Z-CnQieFQ
 70	Here Comes The Sun (2019 Mix)	The Beatles		INDIFFERENT	3:12	KQetemT1sWc		UC2XdaAVUannpujzv32jcouQ
 40	Plant Life (Peak Wifi Vibes Mix)	Parquet Courts	Plant Life	INDIFFERENT	7:27	Oj6wS4l6iNE	MPREb_g7vfJrs590o	UC9mjOu5Vl7zQo-DvNeMES_g
 57	Plant Life	Parquet Courts	Sympathy for Life	INDIFFERENT	5:51	p8H7Reu-hiY	MPREb_hj9z1rqqLyZ	UC9mjOu5Vl7zQo-DvNeMES_g
 98	Rose Marie	Mario Lanza	His Greatest Successes	INDIFFERENT	3:26	DCbxqOqMSEo	MPREb_HCEkAgsKgN7	UC9rfSEz9xUS39k_C6QJMYDg
-49	All Along The Watchtower	Jimi Hendrix	Moment of Forever - Feel Like Makin’ Love!	INDIFFERENT	4:07	1bt54ghVbaw	MPREb_mzlRj0SJhyf	
 77	In a Black Out	Hamilton Leithauser	I Had a Dream That You Were Mine	INDIFFERENT	3:17	CLlMnG1NEM8	MPREb_eZjWzKT0ohm	UCoU8mpsdBz-rcl3fmm3iUYA
 84	Three-30 Blues	Duane Eddy	Have 'Twangy' Guitar Will Travel	INDIFFERENT	3:33	ykUX-Dco9os	MPREb_wW4vKdUybag	UCwQjNmocxQ_8nXJiKu0bm0g
-83	Roll Over Beethoven	Chuck Berry	Deluxe: Johnny B. Goode	INDIFFERENT	2:25	o3CAAcndhlM	MPREb_neZSLzLS6DA	UCUfKmP9mv1yUkxlE5DDX5Zg
 20	Queen of the Hop	Bobby Darin	The Ultimate Bobby Darin	INDIFFERENT	2:12	AIecFM01Tkc	MPREb_A2gacOneHPT	UCj_otreRPRMynq2_gZj9s3w

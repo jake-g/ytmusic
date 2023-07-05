@@ -1,4 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+636	Bright Leaves	Wilco	Ode to Joy	LIKE	4:11	zo6qWxW7h4s	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
+640	Everyone Hides	Wilco	Ode to Joy	LIKE	3:00	477QKJOXqxI	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
+644	Love Is Everywhere (Beware)	Wilco	Ode to Joy	LIKE	3:34	jy4EXHlNgPA	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
+645	Hold Me Anyway	Wilco	Ode to Joy	LIKE	3:59	G9kMlOG199w	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 45	A Lot's Gonna Change	Weyes Blood	Titanic Rising	LIKE	4:21	7OrVUk61wHE	MPREb_TN1ByWUr0Xt	UChpnWWkg9ZAgAZ5KwkeQkFg
 46	Andromeda	Weyes Blood	Titanic Rising	LIKE	4:40	jj4u0OmCqsA	MPREb_TN1ByWUr0Xt	UChpnWWkg9ZAgAZ5KwkeQkFg
 50	Movies	Weyes Blood	Titanic Rising	LIKE	5:53	xniRJsus8pk	MPREb_TN1ByWUr0Xt	UChpnWWkg9ZAgAZ5KwkeQkFg
@@ -110,7 +114,10 @@
 707	Corn Maze	Malibu Ken	Malibu Ken	LIKE	3:23	z-3hHPJcztg	MPREb_n1xt5lSF7Rq	UCmbIGidolhdL5g5ePLGtejw
 708	Tuesday	Malibu Ken	Malibu Ken	LIKE	3:30	B_Ny_0J9W6E	MPREb_n1xt5lSF7Rq	UCmbIGidolhdL5g5ePLGtejw
 710	Sword Box	Malibu Ken	Malibu Ken	LIKE	4:02	DLrPF7PSas0	MPREb_n1xt5lSF7Rq	UCmbIGidolhdL5g5ePLGtejw
+611	Cuz I Love You	Lizzo	Cuz I Love You	LIKE	3:00	Mj0QnggaTeM	MPREb_c2AWnTcuulb	UCVjeW1D_3IsiMYvG46nay4Q
+612	Cuz I Love You	Lizzo	Cuz I Love You (Deluxe)	LIKE	3:01	PdZwYjkWyU0	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
 619	Jerome	Lizzo	Cuz I Love You (Deluxe)	LIKE	3:52	YfPErJbaC8I	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
+620	Jerome	Lizzo	Cuz I Love You	LIKE	3:52	NOS0-U_9Cco	MPREb_3OHQZBdncdo	UCVjeW1D_3IsiMYvG46nay4Q
 695	Plastic Boogie	King Gizzard & The Lizard Wizard	Fishing For Fishies	LIKE	3:04	ARJz9LWgjJU	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 696	The Cruel Millennial	King Gizzard & The Lizard Wizard	Fishing For Fishies	LIKE	4:57	gxqCQsJJlak	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
 697	Real's Not Real	King Gizzard & The Lizard Wizard	Fishing For Fishies	LIKE	3:41	B44MsJgLAAE	MPREb_ZPkIvasA3Xa	UC-3mACkWPK3QluQYi5dHQCA
@@ -173,6 +180,7 @@
 11	Black Balloons Reprise (feat. Denzel Curry)	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	2:42	pj3cihEAFFw	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 12	Fire Is Coming (feat. David Lynch)	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	3:17	bCwMW1gMJVA	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 15	Andromeda	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	1:29	E9in2n6WB58	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
+16	Remind U	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	2:42	SwvaLcEAXgM	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 17	Say Something	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	1:16	59XfRXg8-EE	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 18	Debbie Is Depressed	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	2:20	bZSo1HZDALA	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 21	Pygmy	Flying Lotus	Flamagra (Deluxe Edition)	LIKE	1:25	-4EG22R3LY0	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
@@ -293,16 +301,12 @@
 359	Your Last Ride	masterwerks	Purple Mountain	INDIFFERENT	3:31	94-TYeXspLY	MPREb_Aa7ZjftlgGc	UCTDPx5SgRKKuuxRb-J8RCOw
 364	Look At Me	masterwerks	Purple Mountain	INDIFFERENT	2:59	wEW31f20MCo	MPREb_Aa7ZjftlgGc	UCTDPx5SgRKKuuxRb-J8RCOw
 369	Somewhere Down The Line	masterwerks	Purple Mountain	INDIFFERENT	2:57	zet90TCWMm4	MPREb_Aa7ZjftlgGc	UCTDPx5SgRKKuuxRb-J8RCOw
-636	Bright Leaves	Wilco	Ode to Joy	INDIFFERENT	4:11	zo6qWxW7h4s	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 637	Before Us	Wilco	Ode to Joy	INDIFFERENT	3:23	r6gME3stoHM	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 638	One and a Half Stars	Wilco	Ode to Joy	INDIFFERENT	3:44	7RGndqnqXDw	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 639	Quiet Amplifier	Wilco	Ode to Joy	INDIFFERENT	5:50	f4AWP0WJuFY	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
-640	Everyone Hides	Wilco	Ode to Joy	INDIFFERENT	3:00	477QKJOXqxI	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 641	White Wooden Cross	Wilco	Ode to Joy	INDIFFERENT	3:13	t4TgW43iyIU	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 642	Citizens	Wilco	Ode to Joy	INDIFFERENT	3:03	zXIh2GFW6EU	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 643	We Were Lucky	Wilco	Ode to Joy	INDIFFERENT	4:58	rCx2sIOQdHA	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
-644	Love Is Everywhere (Beware)	Wilco	Ode to Joy	INDIFFERENT	3:34	jy4EXHlNgPA	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
-645	Hold Me Anyway	Wilco	Ode to Joy	INDIFFERENT	3:59	G9kMlOG199w	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 646	An Empty Corner	Wilco	Ode to Joy	INDIFFERENT	3:47	fqb_RH6pSnU	MPREb_vzPuVHv0U9b	UCb5aNlKdWOySR6Z-CnQieFQ
 47	Everyday	Weyes Blood	Titanic Rising	INDIFFERENT	5:07	Ay6_iBJV9cc	MPREb_TN1ByWUr0Xt	UChpnWWkg9ZAgAZ5KwkeQkFg
 48	Something to Believe	Weyes Blood	Titanic Rising	INDIFFERENT	4:45	mt2o_VMWiEw	MPREb_TN1ByWUr0Xt	UChpnWWkg9ZAgAZ5KwkeQkFg
@@ -452,15 +456,12 @@
 714	1+1=13	Malibu Ken	Malibu Ken	INDIFFERENT	3:46	ffNvd-WOZ_U	MPREb_WQlnxBCHqwj	UCmbIGidolhdL5g5ePLGtejw
 715	Churro	Malibu Ken	Malibu Ken	INDIFFERENT	2:28	5BznJXjBjvA	MPREb_n1xt5lSF7Rq	UCmbIGidolhdL5g5ePLGtejw
 716	Purple Moss	Malibu Ken	Malibu Ken	INDIFFERENT	3:52	SIg6DnrZdrQ	MPREb_WQlnxBCHqwj	UCmbIGidolhdL5g5ePLGtejw
-611	Cuz I Love You	Lizzo	Cuz I Love You	INDIFFERENT	3:00	Mj0QnggaTeM	MPREb_c2AWnTcuulb	UCVjeW1D_3IsiMYvG46nay4Q
-612	Cuz I Love You	Lizzo	Cuz I Love You (Deluxe)	INDIFFERENT	3:01	PdZwYjkWyU0	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
 613	Like a Girl	Lizzo	Cuz I Love You (Deluxe)	INDIFFERENT	3:06	Sn_tANkDk1k	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
 614	Like a Girl	Lizzo	Cuz I Love You	INDIFFERENT	3:05	nqp4Igyg53g	MPREb_WweJ3rIEO3Z	UCVjeW1D_3IsiMYvG46nay4Q
 615	Juice	Lizzo	Cuz I Love You	INDIFFERENT	3:16	3FA41rxMTig	MPREb_WweJ3rIEO3Z	UCVjeW1D_3IsiMYvG46nay4Q
 616	Juice	Lizzo	Cuz I Love You (Deluxe)	INDIFFERENT	3:15	3fOqNBHyzgE	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
 617	Soulmate	Lizzo	Cuz I Love You (Deluxe)	INDIFFERENT	2:57	nrOYeLvv4Ag	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
 618	Soulmate	Lizzo	Cuz I Love You	INDIFFERENT	2:56	h3xT49OKbbU	MPREb_WweJ3rIEO3Z	UCVjeW1D_3IsiMYvG46nay4Q
-620	Jerome	Lizzo	Cuz I Love You	INDIFFERENT	3:52	NOS0-U_9Cco	MPREb_3OHQZBdncdo	UCVjeW1D_3IsiMYvG46nay4Q
 621	Crybaby	Lizzo	Cuz I Love You (Deluxe)	INDIFFERENT	2:56	z9RgwNMCpbw	MPREb_V89L3IGHwxu	UCVjeW1D_3IsiMYvG46nay4Q
 622	Crybaby	Lizzo	Cuz I Love You	INDIFFERENT	2:56	2_ItO-N9KpE	MPREb_WweJ3rIEO3Z	UCVjeW1D_3IsiMYvG46nay4Q
 623	Tempo (feat. Missy Elliott)	Lizzo	Cuz I Love You	INDIFFERENT	2:56	cG44dfXQykQ	MPREb_WweJ3rIEO3Z	UCVjeW1D_3IsiMYvG46nay4Q
@@ -546,7 +547,6 @@
 8	Pilgrim Side Eye	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	1:31	LvnpZPNecDU	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 13	Inside Your Home	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	1:27	afo2aVX8m7c	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 14	Actually Virtual (feat. Shabazz Palaces)	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	1:59	bpVn2ZnDyTs	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
-16	Remind U	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	2:42	SwvaLcEAXgM	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 19	Find Your Own Way Home	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	1:41	5l8M0WZtUuo	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 20	The Climb (feat. Thundercat)	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	3:16	ZzUOXk7PvGo	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ
 25	Thank U Malcolm	Flying Lotus	Flamagra (Deluxe Edition)	INDIFFERENT	1:33	XeGjeo2eT84	MPREb_vr2sMbly9hP	UCJvOvKwxPEL-4RtSvu_nWhQ

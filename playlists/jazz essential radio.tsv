@@ -1,41 +1,36 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-31	Come Away With Me	Norah Jones	Come Away With Me (Deluxe Edition)	LIKE	3:19	rZbhDOC7oyI	MPREb_lgKrzgDXyvo	UCxRuL2yOu2ydTJNZuYdU0qg
-10	A Love Supreme, Pt. I – Acknowledgement	John Coltrane	A Love Supreme	LIKE	7:43	vMCHDC2Lurk	MPREb_hyFoyR9KdiL	UCH4T2kv7rr9qnuP0DOXLxMA
-28	Four On Six (feat. Tommy Flanagan, Percy Heath & Albert Heath)	Wes Montgomery	The Incredible Jazz Guitar (Keepnews Collection)	INDIFFERENT	6:16	9PD2Q7TXmvU	MPREb_ExKlvjP0Cm7	UCYs8ep9Xe3RQc3Oy4BWKNAw
-26	Black Nile (feat. Lee Morgan, Reginald Workman & Elvin Jones)	Wayne Shorter	Night Dreamer	INDIFFERENT	6:29	8OxrGVPBzZM	MPREb_g38iP428MFH	UC3X4afoYfFCLWw1LTfeLCqA
-29	Footprints	Wayne Shorter	Adam's Apple (Rudy Van Gelder Edition)	INDIFFERENT	7:30	LgaIUqH0w6c	MPREb_RqvtCvPaLQP	UC3X4afoYfFCLWw1LTfeLCqA
-3	Bemsha Swing	Thelonious Monk	Original Jazz Sound: Brilliant Corners 1956	INDIFFERENT	7:40	LhMDa0fJvOA	MPREb_sZ53ympKYGC	UCyCL_gVNVoWZTjkw-KnuIDg
-23	Straight, No Chaser	Thelonious Monk	Straight, No Chaser	INDIFFERENT	11:29	7naC7TF9OU0	MPREb_JaZzqbVMfId	UCyCL_gVNVoWZTjkw-KnuIDg
-25	Django	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	INDIFFERENT	7:04	wXnkD7_5vqM	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
-37	Satin Doll	The Duke Ellington Orchestra	From the Archives: In Memorium	INDIFFERENT	9:06	XgP0VAtKZXU	MPREb_kNV0k9SgXq0	UCvwUPRgFawNNBdQg497gHJw
-13	Three to Get Ready	The Dave Brubeck Quartet	Time Out	INDIFFERENT	5:24	EZLMHglUTaI	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
-38	"Alfie's Theme (From ""Alfie"" Score)"	Sonny Rollins	Alfie	INDIFFERENT	9:45	b6BAN0zM0X4	MPREb_IJIHq9a1mP1	UCqwmTSEZTKX_BmxlmDSOzGQ
-39	Muskrat Ramble	Sidney Bechet's Blue Note Jazzmen	The Best Of Sidney Bechet	INDIFFERENT	3:42	e_um8pFJMHw	MPREb_Ye73yp0OZ1q	UCJdP0RSsGpcdI8S_aH5Y7yQ
-12	The Seventh Son	Mose Allison	Creek Bank	INDIFFERENT	2:38	qMHHUN7nnYc	MPREb_qAQ2Rqq7YFY	UCHftue3JEfzN9X6bURGSB3g
+24	Four On Six (feat. Tommy Flanagan, Percy Heath & Albert Heath)	Wes Montgomery	The Incredible Jazz Guitar (Keepnews Collection)	INDIFFERENT	6:16	9PD2Q7TXmvU	MPREb_ExKlvjP0Cm7	UCYs8ep9Xe3RQc3Oy4BWKNAw
+22	Black Nile (feat. Lee Morgan, Reginald Workman & Elvin Jones)	Wayne Shorter	Night Dreamer	INDIFFERENT	6:29	8OxrGVPBzZM	MPREb_g38iP428MFH	UC3X4afoYfFCLWw1LTfeLCqA
+25	Footprints	Wayne Shorter	Adam's Apple (Rudy Van Gelder Edition)	INDIFFERENT	7:30	LgaIUqH0w6c	MPREb_RqvtCvPaLQP	UC3X4afoYfFCLWw1LTfeLCqA
+2	Bemsha Swing	Thelonious Monk	Original Jazz Sound: Brilliant Corners 1956	INDIFFERENT	7:40	LhMDa0fJvOA	MPREb_sZ53ympKYGC	UCyCL_gVNVoWZTjkw-KnuIDg
+19	Straight, No Chaser	Thelonious Monk	Straight, No Chaser	INDIFFERENT	11:29	7naC7TF9OU0	MPREb_JaZzqbVMfId	UCyCL_gVNVoWZTjkw-KnuIDg
+21	Django	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	INDIFFERENT	7:04	wXnkD7_5vqM	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
+32	Satin Doll	The Duke Ellington Orchestra	From the Archives: In Memorium	INDIFFERENT	9:06	XgP0VAtKZXU	MPREb_kNV0k9SgXq0	UCvwUPRgFawNNBdQg497gHJw
+10	Three to Get Ready	The Dave Brubeck Quartet	Time Out	INDIFFERENT	5:24	EZLMHglUTaI	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
+33	"Alfie's Theme (From ""Alfie"" Score)"	Sonny Rollins	Alfie	INDIFFERENT	9:45	b6BAN0zM0X4	MPREb_IJIHq9a1mP1	UCqwmTSEZTKX_BmxlmDSOzGQ
+34	Muskrat Ramble	Sidney Bechet's Blue Note Jazzmen	The Best Of Sidney Bechet	INDIFFERENT	3:42	e_um8pFJMHw	MPREb_Ye73yp0OZ1q	UCJdP0RSsGpcdI8S_aH5Y7yQ
+9	The Seventh Son	Mose Allison	Creek Bank	INDIFFERENT	2:38	qMHHUN7nnYc	MPREb_qAQ2Rqq7YFY	UCHftue3JEfzN9X6bURGSB3g
 0	Goodbye Pork Pie Hat	Mingus Big Band	The Essential Mingus Big Band	INDIFFERENT	9:43	FH-iYMWrHIs	MPREb_qQrjXVkIRGv	UCSwB6eIz7W1Riu-q4HKYU2Q
-19	Diane	Miles Davis	It's Me Again	INDIFFERENT	7:53	AaC4i9mkqmM	MPREb_9OHX9of0jgw	UCIev2PktTH5mI-QlGmbUkiw
-22	Birds of Fire	Mahavishnu Orchestra	Birds Of Fire	INDIFFERENT	5:43	AulNvAR0u5c	MPREb_56XlX7vyKxm	UCSY3q7GsOWCjwlHB0CFs9Kw
-14	Speedball	Lee Morgan	The Gigolo	INDIFFERENT	5:33	-Gp72Pt-8JI	MPREb_zGgtnuhFYA4	UCw-ObIVVFPxf6McrsKHQT0A
-9	Caravan	John Wasson	Whiplash (Original Motion Picture Soundtrack)	INDIFFERENT	9:15	38CRu1rCaKg	MPREb_QEZq678MKrI	UCYIjDI_8JV13dnJ8PX6f66w
+15	Diane	Miles Davis	It's Me Again	INDIFFERENT	7:53	AaC4i9mkqmM	MPREb_9OHX9of0jgw	UCIev2PktTH5mI-QlGmbUkiw
+18	Birds of Fire	Mahavishnu Orchestra	Birds Of Fire	INDIFFERENT	5:43	AulNvAR0u5c	MPREb_56XlX7vyKxm	UCSY3q7GsOWCjwlHB0CFs9Kw
+11	Speedball	Lee Morgan	The Gigolo	INDIFFERENT	5:33	-Gp72Pt-8JI	MPREb_zGgtnuhFYA4	UCw-ObIVVFPxf6McrsKHQT0A
+7	Caravan	John Wasson	Whiplash (Original Motion Picture Soundtrack)	INDIFFERENT	9:15	38CRu1rCaKg	MPREb_QEZq678MKrI	UCYIjDI_8JV13dnJ8PX6f66w
 1	My Favourite Things	John Coltrane	My Favourite Things	INDIFFERENT	10:36	u8-p3fKyHXM	MPREb_QjsL9kmlIoi	UCH4T2kv7rr9qnuP0DOXLxMA
-2	Naima	John Coltrane	My Favourite Things	INDIFFERENT	7:09	lCWOjcvVJ6E	MPREb_QjsL9kmlIoi	UCH4T2kv7rr9qnuP0DOXLxMA
-16	Blue Train	John Coltrane	The Art Of Coltrane	INDIFFERENT	10:43	6vnxZqqK380	MPREb_dP5ByiJppw4	UCH4T2kv7rr9qnuP0DOXLxMA
-21	Giant Steps	John Coltrane	Giant Steps (Deluxe Edition)	INDIFFERENT	4:44	fZ1pcOenxoo	MPREb_ruVjr8RTIlw	UCH4T2kv7rr9qnuP0DOXLxMA
-33	Sping Is Here	John Coltrane	Original Jazz Sound: Standard Coltrane	INDIFFERENT	6:53	bgAZYN3sgE8	MPREb_BT9T5ma0u3H	UCH4T2kv7rr9qnuP0DOXLxMA
-15	Sister Sadie	Horace Silver	Blowin' The Blues Away	INDIFFERENT	6:20	MkLhMPQtQ-o	MPREb_pbLltwUORdL	UC834B7DbQ6WZzigm4UCwuKg
-7	One Finger Snap (Remastered 1999 / Rudy Van Gelder Edition)	Herbie Hancock	Empyrean Isles (Rudy Van Gelder Edition / Expanded Edition)	INDIFFERENT	7:22	yQgv5bRqmnk	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
-6	Take The a Train	Duke Ellington	Take the A Train	INDIFFERENT	5:20	z-y6pPhVRPI	MPREb_bXoiiBkV8Ll	UCvwUPRgFawNNBdQg497gHJw
-36	Gee Baby, Ain't I Good To You	Diana Krall	All For You (A Dedication To The Nat King Cole Trio)	INDIFFERENT	4:08	geyFRXqPjds	MPREb_X0LDsEptiOv	UCHOHY0V0VKiEW0Yw7DR4xQw
-20	Three O'Clock In The Morning (Rudy Van Gelder Edition)	Dexter Gordon	Go! (The Rudy Van Gelder Edition)	INDIFFERENT	5:42	OIIaIDzQRXs	MPREb_Yji5CkNA2Q8	UCnH1LrQs42YLOQnpdoUYvdA
-11	Besame Mucho	Dave Brubeck	On Time	INDIFFERENT	5:55	TvtaSiYAjaQ	MPREb_ydvttA9blHE	UCMBevFAp40kVlvIcOvzv5Bw
-5	Cherokee	Clifford Brown	Memorial Album (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	3:28	KGLkQ3Uosjw	MPREb_g9XdfY2cLp4	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-34	Spain	Chick Corea	Light As A Feather	INDIFFERENT	9:50	sEhQTjgoTdU	MPREb_OrS1VRA4Y74	UC7Syqiz3THx07IfHPlgroRA
-4	Autumn Leaves	Chet Baker	She Was Too Good To Me	INDIFFERENT	7:03	AFTC1Fg9cXQ	MPREb_rfesaooSTRu	UCVNfRXuaWVILL9giCEg0rQg
-8	My Funny Valentine	Chet Baker	My Funny Valentine	INDIFFERENT	5:26	qGq8cgN1gwU	MPREb_0OmRFJ9j3cD	UCVNfRXuaWVILL9giCEg0rQg
-18	Homeward Bound	Charlie Christian	The Definitive Compilation	INDIFFERENT	3:14	WUi_6cYjCTU	MPREb_Nwq2JzZX2Yf	UC-iERZ8XmVc3NWRE1oQEHgQ
-32	Take Five (Single Version)	Carmen McRae	Vocal Encounters	INDIFFERENT	2:16	nh5g_BHd7HA	MPREb_mOxYFLdDYlc	UCrc96CUi56qYgy0VpnL2vIg
-30	Mercy, Mercy, Mercy	Cannonball Adderley	The Best Of Capitol Years	INDIFFERENT	5:09	y7FFLYXEOqA	MPREb_Z1uArCh2HA3	UCRQLvDfTNOFUgst4GpnyDvA
-27	Blackbird	Brad Mehldau	The Art Of The Trio, Volume One	INDIFFERENT	5:00	VxzWDnfqZzY	MPREb_GmCFTbeq1g0	UCf-QhVNMqeqO2_em7Bz1iFg
-24	Are You All The Things (Live)	Bill Evans	Re: Person I Knew	INDIFFERENT	6:22	ITbm9BlGP1Q	MPREb_yuBRJTV8N40	UCriB97bZopXsBHVYOQEIIZg
-35	Killer Joe	Benny Golson	Terminal 1	INDIFFERENT	6:54	x5aC0G3JBKA	MPREb_7ASAAV0lgBF	UCwbCgjhQzrTls4oGWdqPF5w
-17	Blues March	Art Blakey & The Jazz Messengers	The Best Of Art Blakey	INDIFFERENT	6:16	hn18mOfOr-w	MPREb_RS7QzZs1fTw	UCMki-b0zfAQiMQ0nbsrIuBQ
+17	Giant Steps	John Coltrane	Giant Steps (Deluxe Edition)	INDIFFERENT	4:44	fZ1pcOenxoo	MPREb_ruVjr8RTIlw	UCH4T2kv7rr9qnuP0DOXLxMA
+28	Sping Is Here	John Coltrane	Original Jazz Sound: Standard Coltrane	INDIFFERENT	6:53	bgAZYN3sgE8	MPREb_BT9T5ma0u3H	UCH4T2kv7rr9qnuP0DOXLxMA
+12	Sister Sadie	Horace Silver	Blowin' The Blues Away	INDIFFERENT	6:20	MkLhMPQtQ-o	MPREb_pbLltwUORdL	UC834B7DbQ6WZzigm4UCwuKg
+6	One Finger Snap (Remastered 1999 / Rudy Van Gelder Edition)	Herbie Hancock	Empyrean Isles (Rudy Van Gelder Edition / Expanded Edition)	INDIFFERENT	7:22	yQgv5bRqmnk	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
+5	Take The a Train	Duke Ellington	Take the A Train	INDIFFERENT	5:20	z-y6pPhVRPI	MPREb_bXoiiBkV8Ll	UCvwUPRgFawNNBdQg497gHJw
+31	Gee Baby, Ain't I Good To You	Diana Krall	All For You (A Dedication To The Nat King Cole Trio)	INDIFFERENT	4:08	geyFRXqPjds	MPREb_X0LDsEptiOv	UCHOHY0V0VKiEW0Yw7DR4xQw
+16	Three O'Clock In The Morning (Rudy Van Gelder Edition)	Dexter Gordon	Go! (The Rudy Van Gelder Edition)	INDIFFERENT	5:42	OIIaIDzQRXs	MPREb_Yji5CkNA2Q8	UCnH1LrQs42YLOQnpdoUYvdA
+8	Besame Mucho	Dave Brubeck	On Time	INDIFFERENT	5:55	TvtaSiYAjaQ	MPREb_ydvttA9blHE	UCMBevFAp40kVlvIcOvzv5Bw
+4	Cherokee	Clifford Brown	Memorial Album (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	3:28	KGLkQ3Uosjw	MPREb_g9XdfY2cLp4	UCQFCMVgOtWDn5Vd3Nt1SRfQ
+29	Spain	Chick Corea	Light As A Feather	INDIFFERENT	9:50	sEhQTjgoTdU	MPREb_OrS1VRA4Y74	UC7Syqiz3THx07IfHPlgroRA
+3	Autumn Leaves	Chet Baker	She Was Too Good To Me	INDIFFERENT	7:03	AFTC1Fg9cXQ	MPREb_rfesaooSTRu	UCVNfRXuaWVILL9giCEg0rQg
+14	Homeward Bound	Charlie Christian	The Definitive Compilation	INDIFFERENT	3:14	WUi_6cYjCTU	MPREb_Nwq2JzZX2Yf	UC-iERZ8XmVc3NWRE1oQEHgQ
+27	Take Five (Single Version)	Carmen McRae	Vocal Encounters	INDIFFERENT	2:16	nh5g_BHd7HA	MPREb_mOxYFLdDYlc	UCrc96CUi56qYgy0VpnL2vIg
+26	Mercy, Mercy, Mercy	Cannonball Adderley	The Best Of Capitol Years	INDIFFERENT	5:09	y7FFLYXEOqA	MPREb_Z1uArCh2HA3	UCRQLvDfTNOFUgst4GpnyDvA
+23	Blackbird	Brad Mehldau	The Art Of The Trio, Volume One	INDIFFERENT	5:00	VxzWDnfqZzY	MPREb_GmCFTbeq1g0	UCf-QhVNMqeqO2_em7Bz1iFg
+20	Are You All The Things (Live)	Bill Evans	Re: Person I Knew	INDIFFERENT	6:22	ITbm9BlGP1Q	MPREb_yuBRJTV8N40	UCriB97bZopXsBHVYOQEIIZg
+30	Killer Joe	Benny Golson	Terminal 1	INDIFFERENT	6:54	x5aC0G3JBKA	MPREb_7ASAAV0lgBF	UCwbCgjhQzrTls4oGWdqPF5w
+13	Blues March	Art Blakey & The Jazz Messengers	The Best Of Art Blakey	INDIFFERENT	6:16	hn18mOfOr-w	MPREb_RS7QzZs1fTw	UCMki-b0zfAQiMQ0nbsrIuBQ
