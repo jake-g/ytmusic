@@ -198,21 +198,22 @@ class YTMusicPlaylists:
               f'deleted original pl: {pl_info["id"]}')
         return pc
 
-    def clean_up_radio_playlist(
+    def clean_up_playlist(
             self, pl_info, verbose=False,
-            move_like=True, min_num_like=MIN_RADIO_LIKE_TO_SPLIT,
-            sleep=1, create_like_playlist=True,
-            remove_not_like_and_dislike=True):
+            move_like=False, min_num_like=MIN_RADIO_LIKE_TO_SPLIT,
+            sleep=1, create_like_playlist=False,
+            remove_dislike=True, remove_not_like=False):
         not_like_vids = self.banned_vid_set
 
-        remove_tracks = []
+        remove_dislike_tracks = []
+        remove_not_like_tracks = []
         move_like_tracks = []
         pl_counters = {'name': pl_info['title'], 'removed_dislike': 0,
                        'moved_like': 0, 'removed_not_like': 0, 'like_and_not_like': 0}
         for track in pl_info.get('tracks', []):
             if track['likeStatus'] == 'DISLIKE':
                 pl_counters['removed_dislike'] += 1
-                remove_tracks.append(track)
+                remove_dislike_tracks.append(track)
             elif track['likeStatus'] == 'LIKE':
                 pl_counters['moved_like'] += 1
                 move_like_tracks.append(track)
@@ -220,7 +221,7 @@ class YTMusicPlaylists:
                     pl_counters['like_and_not_like'] += 1
             elif track['videoId'] in not_like_vids:
                 pl_counters['removed_not_like'] += 1
-                remove_tracks.append(track)
+                remove_not_like_tracks.append(track)
         if verbose:
             print(100*'*' + f'\n{pl_counters}')
         # Handle flagged tracks
@@ -276,13 +277,26 @@ class YTMusicPlaylists:
                 print(f'Moved {len(move_like_tracks)} LIKE entries '
                       f'from {pl_info["title"]} to {like_pl_id}')
 
-        if remove_not_like_and_dislike and len(remove_tracks):
+        if remove_not_like and len(remove_not_like_tracks):
+            if remove_dislike and len(remove_dislike_tracks):
+                remove_not_like_tracks += remove_dislike_tracks
+
             status = self.yt.remove_playlist_items(
-                pl_info["id"], remove_tracks)
-            err_msg = f'Bad Status for {pl_info["id"]} remove {len(remove_tracks)} NOT LIKE tracks: {status}'
+                pl_info["id"], remove_not_like_tracks)
+            err_msg = f'Bad Status for {pl_info["id"]} remove {len(remove_not_like_tracks)} NOT LIKE tracks: {status}'
             assert str(status) == 'STATUS_SUCCEEDED', err_msg
             if verbose:
-                print(f'Removed {len(remove_tracks)} NOT_LIKE '
+                print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
+                      f'entries from {pl_info["title"]}')
+            time.sleep(sleep)
+
+        elif remove_dislike and len(remove_dislike_tracks):
+            status = self.yt.remove_playlist_items(
+                pl_info["id"], remove_dislike_tracks)
+            err_msg = f'Bad Status for {pl_info["id"]} remove {len(remove_dislike_tracks)} noly DISLIKE tracks: {status}'
+            assert str(status) == 'STATUS_SUCCEEDED', err_msg
+            if verbose:
+                print(f'Removed {len(remove_dislike_tracks)} DISLIKE '
                       f'entries from {pl_info["title"]}')
             time.sleep(sleep)
 
