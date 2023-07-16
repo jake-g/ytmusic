@@ -6,7 +6,22 @@ import datetime
 
 from ytmusic_library import YTMusicPlaylists
 
+SKIP_PLAYLIST_BACKUP = False
+BACKUP_DIR = './playlists/'
+AUTH = 'headers_auth.json'
+TRACKS_NO_META_TSV = os.path.join(BACKUP_DIR, '_tracks_no_meta.tsv')
+TRACKS_DB_TSV = os.path.join(BACKUP_DIR, '_tracks_db.tsv')
+TRACK_RM_COLS = ['setVideoId', 'feedbackTokens']
+PLAYLIST_COLS = ['title', 'artist', 'album', 'likeStatus',
+                 'duration', 'videoId', 'albumId', 'artistId']
+METADATA_COLS = ['title', 'trackCount', 'duration', 'privacy', 'id']
+NOT_LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_not_liked_tracks.tsv')
+NOT_LIKE_PREFIX = 'zz not like'
+LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_liked_tracks.tsv')
+LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact
 
+
+# todo incorperate like map
 def is_like_pl(name):
     name = os.path.splitext(name)[0].lower()
     contained_toks = [
@@ -23,7 +38,7 @@ def is_like_pl(name):
         'rock 1960s classic', 'rock krautrock', 'rock modern chill',
         'Shoegaze', 'soul funk'
     ]
-    if 'not like' in name:
+    if NOT_LIKE_PREFIX in name.lower():
         return False
     for t in contained_toks:
         if t.lower() in name:
@@ -31,6 +46,11 @@ def is_like_pl(name):
     for t in exact_toks:
         if t.lower() == name:
             return True
+
+
+def is_not_like_pl(name):
+    if name.startswith(NOT_LIKE_PREFIX):
+        return True
 
 
 def valid_date(date_str):
@@ -90,6 +110,22 @@ def get_yt_track_info(yt, row):
     return row
 
 
+def get_new_or_newly_liked_tracks(track_db, tracks_no_meta):
+    new_track_ids = set(tracks_no_meta.index) - set(track_db.index)
+    # Update likes on existing tracks
+    existing = tracks_no_meta[~tracks_no_meta.isin(new_track_ids)]
+    tracks_no_meta_liked = existing[existing['likeStatus'] == 'LIKE']
+    track_db_not_liked = track_db[track_db['likeStatus'] != 'LIKE']
+    new_track_rating = set(track_db_not_liked.index) & set(
+        tracks_no_meta_liked.index)
+    print(f'Re-adding {len(new_track_rating)} tracks now LIKE')
+    track_db = track_db[~track_db.index.isin(new_track_rating)]
+    new_track_ids |= new_track_rating
+    # Get metadata for new/changed traks
+    new_tracks_no_meta = tracks_no_meta.loc[list(new_track_ids)]
+    return new_tracks_no_meta
+
+
 def update_track_db(yt, track_db, new_tracks):
     print(f"Track database has {len(track_db)} tracks")
     print(f"Found {len(new_tracks)} unique new tracks")
@@ -124,39 +160,86 @@ def update_track_db(yt, track_db, new_tracks):
     return track_db
 
 
-def update_like_tsv(liked_tracks, like_tsv, header):
-    # Load already existing like list tsv
-    like_tracks = pd.read_csv(like_tsv, sep='\t', index_col=0)
-    assert_msg = 'Expected %s to have header %s, not: %s' % (
-        like_tsv, header, like_tracks.columns)
-    assert list(like_tracks.columns) == header, assert_msg
+def collect_all_not_like_tracks():
+    playlist_files = sorted(os.listdir(BACKUP_DIR))
+    not_like_playlists = [pl for pl in playlist_files if is_not_like_pl(pl)]
+    print('Found %d not like playlists out ot the %d total' %
+          (len(not_like_playlists), len(playlist_files)))
+    not_like_tracks = []
+    for pl in not_like_playlists:
+        tracks_db_not_liked = pd.read_csv(os.path.join(
+            BACKUP_DIR, pl), sep='\t', index_col=0)
+        tracks_db_not_liked = tracks_db_not_liked
+        not_like_tracks.append(tracks_db_not_liked)
+    not_like_tracks = pd.concat(
+        not_like_tracks).sort_values('artist')
+    not_like_tracks = not_like_tracks.loc[
+        ~not_like_tracks.index.duplicated(keep='first'),
+        LIKE_TRACKS_HEADER]
+    print('Updated not liked tracks, contains %d entries.' %
+          (len(not_like_tracks)))
+    return not_like_tracks
 
+
+def collect_all_like_tracks():
+    playlist_files = sorted(os.listdir(BACKUP_DIR))
+    like_playlists = [pl for pl in playlist_files if is_like_pl(pl)]
+    print('Found %d like playlists out ot the %d total' %
+          (len(like_playlists), len(playlist_files)))
+    like_tracks = []
+    for pl in like_playlists:
+        track_df = pd.read_csv(os.path.join(
+            BACKUP_DIR, pl), sep='\t', index_col=0)
+        tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
+        tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
+        like_tracks.append(tracks_db_liked)
+        print('%s\t%0.1f%% currently liked (of %d total tracks) ' %
+              (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
+    like_tracks = pd.concat(
+        like_tracks).sort_values('artist')
+    like_tracks = like_tracks.loc[
+        ~like_tracks.index.duplicated(keep='first'),
+        LIKE_TRACKS_HEADER]
+    # Update Like tsv
+    # Load already existing like list tsv
+    like_tracks = pd.read_csv(LIKE_TRACKS_TSV, sep='\t', index_col=0)
+    assert_msg = 'Expected %s to have header %s, not: %s' % (
+        LIKE_TRACKS_TSV, LIKE_TRACKS_HEADER, like_tracks.columns)
+    assert list(like_tracks.columns) == LIKE_TRACKS_HEADER, assert_msg
     # Append new like tracks in db but not in like list, save tsv.
-    new_like_tracks = liked_tracks.loc[frozenset(
-        liked_tracks.index) - frozenset(like_tracks.index)]
+    new_like_tracks = like_tracks.loc[frozenset(
+        like_tracks.index) - frozenset(like_tracks.index)]
     all_like_tracks = pd.concat([like_tracks, new_like_tracks])
-    all_like_tracks.to_csv(like_tsv, sep='\t', header=True)
     print('Updated liked tracks with %d new entries (from %d to %d).' % (
         len(new_like_tracks), len(like_tracks), len(all_like_tracks)))
-    return all_like_tracks
+    return like_tracks
+
+
+def dedupe_track_df(all_tracks):
+    def _merge_duplicates(group):
+        _playlists = list(group['playlists'].values)
+        _row = group.iloc[0]
+        _row['playlists'] = _playlists
+        return _row
+    unique_tracks = pd.concat(all_tracks).groupby(
+        'videoId').apply(_merge_duplicates).set_index('videoId')
+    unique_tracks = unique_tracks.drop(TRACK_RM_COLS, axis=1)
+    unique_tracks = unique_tracks.sort_values(
+        ['likeStatus', 'artist'], ascending=False)
+    return unique_tracks
 
 
 def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
                                         remove_disliked=False,
                                         include_library_tracks=True,
-                                        song_lim=200000, playlist_lim=500,
+                                        song_lim=200000,
                                         yt_user='Jake G'):
     # Backs up library playlists and returns playlist info summary df,
     # also collects all unique tracks and returns track df.
-    playlist_tsv_cols = ['title', 'artist', 'album', 'likeStatus',
-                         'duration', 'videoId', 'albumId', 'artistId']
-    db_remove_tsv_cols = ['setVideoId', 'feedbackTokens']
-    metadata_tsv_cols = ['title', 'trackCount', 'duration', 'privacy', 'id']
     all_playlist_info = []
     all_tracks = []
     start_time = time.time()
     print('Fetching and backing up playlists to %s (~10 min)' % backup_dir)
-    not_like_tracks = []
     for i, row in yt_pl.playlists.iterrows():
         try:
             pl_title = decode(row['title'])
@@ -184,28 +267,17 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
                     tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
 
             if len(tracks):
-                tracks = tracks.sort_values(
+                tracks = tracks.sort_values(  # Sort tsv by like, then artist
                     ['likeStatus', 'artist'], ascending=False)
                 fname = os.path.join(backup_dir, '%s.tsv' % playlist['title'])
-                tracks[playlist_tsv_cols].to_csv(fname, sep='\t', header=True)
-                print(pl_title)
-                if pl_title.startswith(NOT_LIKE_PREFIX):
-                    not_like_tracks.append(tracks)
-
+                tracks[PLAYLIST_COLS].to_csv(fname, sep='\t', header=True)
             print(90*'-')
         except Exception as e:
             print('Error in playlist %d: %s' % (i, e))
             print('Error in playlist title: %s' % pl_title)
-    # Combine not like playlists into one (TODO move this out of this func?)
-    not_like_tracks = pd.concat(not_like_tracks).sort_values(
-        'artist').set_index('videoId', drop=True)
-    not_like_tracks = not_like_tracks.loc[~not_like_tracks.index.duplicated(
-        keep='first'), LIKE_TRACKS_HEADER]
-    not_like_tracks.to_csv(NOT_LIKE_TRACKS_TSV, sep='\t', header=True)
-    print('Updated not liked tracks, contains %d entries.' %
-          (len(not_like_tracks)))
 
-    playlist_info = pd.DataFrame(all_playlist_info)[metadata_tsv_cols]
+    # Save playlist info
+    playlist_info = pd.DataFrame(all_playlist_info)[METADATA_COLS]
     playlist_info.sort_values('title', ascending=False).to_csv(os.path.join(
         backup_dir, '_playlists.tsv'), sep='\t', header=True)
     playlist_elapsed = (time.time() - start_time) / 60
@@ -224,35 +296,15 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
               (len(library_tracks), library_elapsed))
         library_tracks = library_tracks.sort_values('artist')
         fname = os.path.join(backup_dir, '%s.tsv' % '_library')
-        library_tracks[playlist_tsv_cols].to_csv(fname, sep='\t', header=True)
-
-    def _merge_duplicates(group):
-        _playlists = list(group['playlists'].values)
-        _row = group.iloc[0]
-        row['playlists'] = _playlists
-        return _row
-    unique_tracks = pd.concat(all_tracks).groupby(
-        'videoId').apply(_merge_duplicates).set_index('videoId')
-    unique_tracks = unique_tracks.drop(db_remove_tsv_cols, axis=1)
-    unique_tracks = unique_tracks.sort_values(
-        ['likeStatus', 'artist'], ascending=False)
+        library_tracks[PLAYLIST_COLS].to_csv(fname, sep='\t', header=True)
+    unique_tracks = dedupe_track_df(all_tracks)
     elapsed_minutes = (time.time() - start_time) / 60.0
     print('Backed up %d playlists and %d tracks in %d minutes to: %s' %
           (len(playlist_info), len(unique_tracks),
            elapsed_minutes, backup_dir))
-    return unique_tracks
 
 
 if __name__ == "__main__":
-    BACKUP_DIR = './playlists/'
-    AUTH = 'headers_auth.json'
-    SKIP_PLAYLIST_BACKUP = False
-    TRACKS_NO_META_TSV = os.path.join(BACKUP_DIR, '_tracks_no_meta.tsv')
-    TRACKS_DB_TSV = os.path.join(BACKUP_DIR, '_tracks_db.tsv')
-    NOT_LIKE_PREFIX = 'zz not like'
-    NOT_LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_not_liked_tracks.tsv')
-    LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_liked_tracks.tsv')
-    LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact
 
     start_time = time.time()
     yt_api = YTMusicPlaylists(header=AUTH)
@@ -269,47 +321,20 @@ if __name__ == "__main__":
             include_library_tracks=True)
         tracks_no_meta.to_csv(TRACKS_NO_META_TSV, sep='\t', header=True)
 
-    # Get ytmusic metadata for new tracks from tracks_no_meta
-    # and update tracks_db
+    # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
     track_db = pd.read_csv(TRACKS_DB_TSV, sep='\t', index_col=0)
     tracks_no_meta = pd.read_csv(TRACKS_NO_META_TSV, sep='\t', index_col=0)
-    new_track_ids = set(tracks_no_meta.index) - set(track_db.index)
-    # Update likes on existing tracks
-    existing = tracks_no_meta[~tracks_no_meta.isin(new_track_ids)]
-    tracks_no_meta_liked = existing[existing['likeStatus'] == 'LIKE']
-    track_db_not_liked = track_db[track_db['likeStatus'] != 'LIKE']
-    new_track_rating = set(track_db_not_liked.index) & set(
-        tracks_no_meta_liked.index)
-    print(f'Re-adding {len(new_track_rating)} tracks now LIKE')
-    track_db = track_db[~track_db.index.isin(new_track_rating)]
-    new_track_ids |= new_track_rating
-    # Get metadata for new/changed traks
-    new_tracks_no_meta = tracks_no_meta.loc[list(new_track_ids)]
+    new_tracks_no_meta = get_new_or_newly_liked_tracks(
+        track_db, tracks_no_meta)
     track_db = update_track_db(yt_api.yt, track_db, new_tracks_no_meta)
     track_db.to_csv(TRACKS_DB_TSV, sep='\t', header=True)
 
-    # Update Likes list with playlist.tsv
-    playlist_files = sorted(os.listdir(BACKUP_DIR))
-    like_playlists = [pl for pl in playlist_files if is_like_pl(pl)]
-    print('Found %d like playlists out ot the %d total' %
-          (len(like_playlists), len(playlist_files)))
-    playlist_liked_tracks = []
-    for pl in like_playlists:
-        track_df = pd.read_csv(os.path.join(
-            BACKUP_DIR, pl), sep='\t', index_col=0)
-        tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
-        tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
-        playlist_liked_tracks.append(tracks_db_liked)
-        print('%s\t%0.1f%% currently liked (of %d total tracks) ' %
-              (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
-    playlist_liked_tracks = pd.concat(
-        playlist_liked_tracks).sort_values('artist')
-    playlist_liked_tracks = playlist_liked_tracks.loc[
-        ~playlist_liked_tracks.index.duplicated(keep='first'),
-        LIKE_TRACKS_HEADER]
-    new_like_df = update_like_tsv(
-        playlist_liked_tracks, like_tsv=LIKE_TRACKS_TSV,
-        header=LIKE_TRACKS_HEADER)
+    # Update combined like and not_like tsvs
+    not_like_tracks = collect_all_not_like_tracks()
+    not_like_tracks.to_csv(NOT_LIKE_TRACKS_TSV, sep='\t', header=True)
+    like_tracks = collect_all_like_tracks()
+    like_tracks.to_csv(LIKE_TRACKS_TSV, sep='\t', header=True)
 
+    # Finish
     elapsed_time = (time.time() - start_time) / 60
     print('Completed in %d minutes' % elapsed_time)
