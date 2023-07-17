@@ -17,33 +17,36 @@ PLAYLIST_COLS = ['title', 'artist', 'album', 'likeStatus',
 METADATA_COLS = ['title', 'trackCount', 'duration', 'privacy', 'id']
 NOT_LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_not_liked_tracks.tsv')
 NOT_LIKE_PREFIX = 'zz not like'
+RADIO_TO_LIKE_PL_TSV = 'playlists/_ytmusic_radio_to_like_pl_map.tsv'
 LIKE_TRACKS_TSV = os.path.join(BACKUP_DIR, '_liked_tracks.tsv')
 LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact
+LIKE_TOKS = ['thumbs_up', ' like', ' likes', ' top']
+LIKE_PLAYLISTS = [
+    'ambient', 'ambient Indie Synths', 'ambient modern like', 'beats', 'Beats indie Chill', 'beats instrumental',
+    'blues', 'Bossa Nova', 'brass like', 'Brass n chill', 'Chillwave', 'electronic', 'electronic big beats',
+    'electronic chill', 'electronic Dance', 'electronic Focus', 'electronic house french touch', 'electronic house funk',
+    'electronic House Special', 'electronic Innerwaves', 'electronic new indie beats', 'electronic soft pad', 'Folk',
+    'future bass', 'future beats', 'future garage', 'futurebeat_rap', 'garage rock', 'goth 1980s', 'Grunge', 'Hip Hop 1990s',
+    'Hip Hop 2000s', 'Hip Hop Hits', 'Hip hop It Was a Good Day', 'hiphop', 'hiphop 2000s southern', 'hiphop jazzy',
+    'hiphop modern', 'hiphop old school', 'hiphop soul good vibe', 'indie', 'Indie 1990s Rock', 'Indie 2000s', 'indie folk',
+    'indie loose', 'jazz', 'jazz cool', 'jazz gloom smooth', 'jazz guitar', 'jazz noir', 'like_playlist', 'my balls your chill',
+    'nudisco', 'nudisco smooth', 'Oldies', 'oldies 1950s', 'oldies 1960s', 'oldies doo wop', 'oldies Jukebox Vintage Party',
+    'post rock slow core', 'Post-Punk 1970s-1980s', 'Produced By Dilla', 'Produced by DJ Premier', 'Produced by kanye',
+    'psych rock modern', 'psychedelic classic rock', 'punk 1970s', 'Reggae', 'reggae classic', 'Reggae Dub', 'reggae modern',
+    'rnb dj', 'rock 1950s roots', 'rock 1960s classic', 'rock 1967 Monterey Pop Festival', 'Rock 1980s Pop New Wave', 'rock 1990s',
+    'rock instrumentals classic vintage', 'rock krautrock', 'rock modern chill', 'rock proto metal', 'rock stoner sludge dank',
+    'Shoegaze', 'soul 1960s', 'Soul Classic Sunshine', 'soul funk', 'soul motown', 'trip hop', 'triphop bristol sound'
+]
 
 
-# todo incorperate like map
 def is_like_pl(name):
     name = os.path.splitext(name)[0].lower()
-    contained_toks = [
-        'thumbs_up', ' like', ' likes', ' top'
-    ]
-    exact_toks = [
-        'ambient Indie synths', 'beats instrumental', 'Brass n chill',
-        'blues', 'Chillwave', 'electronic chill', 'electronic new indie beats',
-        'future bass', 'future beats', 'future garage', 'futurebeat_rap',
-        'garage rock', 'hiphop', 'hiphop modern', 'indie',
-        'jazz', 'jazz cool', 'jazz noir', 'my balls your chill', 'nudisco',
-        'nudisco smooth', 'psych rock modern', 'psychedelic classic rock',
-        'reggae classic', 'reggae modern', 'rnb dj',
-        'rock 1960s classic', 'rock krautrock', 'rock modern chill',
-        'Shoegaze', 'soul funk'
-    ]
     if NOT_LIKE_PREFIX in name.lower():
         return False
-    for t in contained_toks:
+    for t in LIKE_TOKS:
         if t.lower() in name:
             return True
-    for t in exact_toks:
+    for t in LIKE_PLAYLISTS:
         if t.lower() == name:
             return True
 
@@ -287,7 +290,7 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
 
     if include_library_tracks:
         t1 = time.time()
-        print('Fetching library tracks (approx 5 min)...')
+        print('Fetching library tracks (approx 7 min)...')
         library_tracks = yt_pl.parse_tracks(
             yt_pl.yt.get_library_songs(limit=song_lim))
         all_tracks.append(library_tracks)
@@ -302,6 +305,7 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
     print('Backed up %d playlists and %d tracks in %d minutes to: %s' %
           (len(playlist_info), len(unique_tracks),
            elapsed_minutes, backup_dir))
+    return unique_tracks
 
 
 if __name__ == "__main__":
@@ -312,7 +316,7 @@ if __name__ == "__main__":
     # Backup playlists and fetch (or load from file) all playlist
     # and library tracks. The set of tracks are missing ytmusic
     # metadata like release year.
-    if SKIP_PLAYLIST_BACKUP:  # load last backup from file (faster)
+    if not SKIP_PLAYLIST_BACKUP:  # load last backup from file (faster)
         tracks_no_meta = pd.read_csv(
             TRACKS_NO_META_TSV, sep='\t', index_col=0)
     else:  # default do full backup
@@ -323,7 +327,6 @@ if __name__ == "__main__":
 
     # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
     track_db = pd.read_csv(TRACKS_DB_TSV, sep='\t', index_col=0)
-    tracks_no_meta = pd.read_csv(TRACKS_NO_META_TSV, sep='\t', index_col=0)
     new_tracks_no_meta = get_new_or_newly_liked_tracks(
         track_db, tracks_no_meta)
     track_db = update_track_db(yt_api.yt, track_db, new_tracks_no_meta)
