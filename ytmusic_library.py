@@ -529,7 +529,7 @@ class YTMusicPlaylists:
             tracks[track_cols].to_csv(fname, sep='\t', header=True)
         return tracks, metadata
 
-    def backup_playlists_and_collect_tracks(self, backup_dir,
+    def backup_playlists_and_collect_tracks(self,
                                             remove_disliked=False,
                                             include_library_tracks=True,
                                             song_lim=PLAYLIST_LIMIT,
@@ -566,7 +566,7 @@ class YTMusicPlaylists:
         # Save playlist info
         playlist_info = pd.DataFrame(all_playlist_info)[metadata_cols]
         playlist_info.sort_values('title', ascending=False).to_csv(os.path.join(
-            backup_dir, '_playlists.tsv'), sep='\t', header=True)
+            self.playlist_tsv_dir, '_playlists.tsv'), sep='\t', header=True)
         playlist_elapsed = (time.time() - start_time) / 60
         print('Backed up playlist metadata:\n%s' % playlist_info)
         print('Fetched playlist and saved playlist .tsv files in %d minutes' %
@@ -582,7 +582,7 @@ class YTMusicPlaylists:
             print('Fetched and saved %d tracks to _library.tsv in %d minutes\n' %
                   (len(library_tracks), library_elapsed))
             library_tracks = library_tracks.sort_values('artist')
-            fname = os.path.join(backup_dir, '%s.tsv' % '_library')
+            fname = os.path.join(self.playlist_tsv_dir, '%s.tsv' % '_library')
             library_tracks[track_cols].to_csv(fname, sep='\t', header=True)
 
         def _merge_duplicates(group):
@@ -598,7 +598,7 @@ class YTMusicPlaylists:
         elapsed_minutes = (time.time() - start_time) / 60.0
         print('Backed up %d playlists and %d tracks in %d minutes to: %s' %
               (len(playlist_info), len(unique_tracks),
-               elapsed_minutes, backup_dir))
+               elapsed_minutes, self.playlist_tsv_dir))
         return unique_tracks
 
     # Functions for aggregating from playlist tsvs
