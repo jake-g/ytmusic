@@ -6,6 +6,7 @@ import datetime
 
 from ytmusic_library import YTMusicPlaylists
 
+SKIP_PLAYLIST_BACKUP = False
 BACKUP_DIR = './playlists/'
 AUTH = 'headers_auth.json'
 TRACKS_NO_META_TSV = os.path.join(BACKUP_DIR, '_tracks_no_meta.tsv')
@@ -171,7 +172,7 @@ def collect_all_not_like_tracks():
     for pl in not_like_playlists:
         tracks_db_not_liked = pd.read_csv(os.path.join(
             BACKUP_DIR, pl), sep='\t', index_col=0)
-        tracks_db_not_liked = tracks_db_not_liked
+        tracks_db_not_liked = tracks_db_not_liked.set_index('videoId', drop=True)
         not_like_tracks.append(tracks_db_not_liked)
     not_like_tracks = pd.concat(
         not_like_tracks).sort_values('artist')
@@ -236,6 +237,7 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
                                         include_library_tracks=True,
                                         song_lim=200000,
                                         yt_user='Jake G'):
+    
     # Backs up library playlists and returns playlist info summary df,
     # also collects all unique tracks and returns track df.
     all_playlist_info = []
@@ -306,12 +308,9 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
            elapsed_minutes, backup_dir))
     return unique_tracks
 
-
-if __name__ == "__main__":
-    SKIP_PLAYLIST_BACKUP = False
+def run_backup(yt_api):
     start_time = time.time()
     yt_api = YTMusicPlaylists(header=AUTH)
-
     # Backup playlists and fetch (or load from file) all playlist
     # and library tracks. The set of tracks are missing ytmusic
     # metadata like release year.
@@ -336,7 +335,8 @@ if __name__ == "__main__":
     not_like_tracks.to_csv(NOT_LIKE_TRACKS_TSV, sep='\t', header=True)
     like_tracks = collect_all_like_tracks()
     like_tracks.to_csv(LIKE_TRACKS_TSV, sep='\t', header=True)
+    print(f'Completed in {(time.time() - start_time) / 60} minutes')
 
-    # Finish
-    elapsed_time = (time.time() - start_time) / 60
-    print('Completed in %d minutes' % elapsed_time)
+
+if __name__ == "__main__":
+    run_backup()
