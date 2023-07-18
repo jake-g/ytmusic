@@ -6,7 +6,6 @@ import datetime
 
 from ytmusic_library import YTMusicPlaylists
 
-SKIP_PLAYLIST_BACKUP = False
 BACKUP_DIR = './playlists/'
 AUTH = 'headers_auth.json'
 TRACKS_NO_META_TSV = os.path.join(BACKUP_DIR, '_tracks_no_meta.tsv')
@@ -309,14 +308,14 @@ def backup_playlists_and_collect_tracks(yt_pl, backup_dir,
 
 
 if __name__ == "__main__":
-
+    SKIP_PLAYLIST_BACKUP = False
     start_time = time.time()
     yt_api = YTMusicPlaylists(header=AUTH)
 
     # Backup playlists and fetch (or load from file) all playlist
     # and library tracks. The set of tracks are missing ytmusic
     # metadata like release year.
-    if not SKIP_PLAYLIST_BACKUP:  # load last backup from file (faster)
+    if SKIP_PLAYLIST_BACKUP:  # load last backup from file (faster)
         tracks_no_meta = pd.read_csv(
             TRACKS_NO_META_TSV, sep='\t', index_col=0)
     else:  # default do full backup
