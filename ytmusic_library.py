@@ -16,7 +16,7 @@ DUPLICATE_THRESHOLD = 3
 PLAYLIST_LIMIT = 6000
 
 # Files
-HEADERS = 'headers_auth.json'
+HEADER_FILE = 'headers_auth.json'
 PLAYLIST_TSV_DIR = './playlists/'
 
 # Track DB Files
@@ -46,7 +46,7 @@ ALBUM_TOKS = ['_albums', '  album']
 
 
 # Manually Curated
-# TODO: load this from some map? maybe repurpose radio like map?
+# TODO: load this from some map? maybe repurpose radio like map? also see
 LIKE_PLAYLISTS = [
     'ambient', 'ambient Indie Synths', 'ambient modern like', 'beats', 'Beats indie Chill', 'beats instrumental',
     'blues', 'Bossa Nova', 'brass like', 'Brass n chill', 'Chillwave', 'electronic', 'electronic big beats',
@@ -64,6 +64,7 @@ LIKE_PLAYLISTS = [
     'Shoegaze', 'soul 1960s', 'Soul Classic Sunshine', 'soul funk', 'soul motown', 'trip hop', 'triphop bristol sound'
 ]
 
+
 # Constants
 VALID_TRACK_RATINGS = ('LIKE', 'DISLIKE', 'INDIFFERENT', 'NONE')
 VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
@@ -72,7 +73,7 @@ VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
 
 class YTMusicPlaylists:
 
-    def __init__(self, header=HEADERS,
+    def __init__(self, header=HEADER_FILE,
                  playlist_tsv_dir=PLAYLIST_TSV_DIR,
                  lastfm_playcount_file=LASTFM_PLAYCOUNT_FILE,
                  track_db_file=TRACK_DB_FILE,
@@ -757,3 +758,9 @@ class YTMusicPlaylists:
     def _decode(self, string, encode_key='latin-1', decode_key='windows-1252'):
         return str(string).encode(encode_key, errors='replace').decode(
             decode_key, errors='replace')
+
+
+if __name__ == "__main__":
+    print('Running main ytmusic library backup task')
+    Y = YTMusicPlaylists(header=HEADER_FILE, playlist_tsv_dir=PLAYLIST_TSV_DIR)
+    Y.run_backup(skip_playlist_tsv_backup=SKIP_PLAYLIST_BACKUP)
