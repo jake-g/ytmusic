@@ -762,5 +762,6 @@ class YTMusicPlaylists:
 
 if __name__ == "__main__":
     print('Running main ytmusic library backup task')
+    # TODO track each run in a log and perhaps have a run monthly that runs if 30 days haave past
     Y = YTMusicPlaylists(header=HEADER_FILE, playlist_tsv_dir=PLAYLIST_TSV_DIR)
     Y.run_backup(skip_playlist_tsv_backup=SKIP_PLAYLIST_BACKUP)
