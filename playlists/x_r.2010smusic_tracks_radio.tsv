@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+74	Love Is to Die	Warpaint	Warpaint	LIKE	4:52	hdaEEAx9Hj8	MPREb_g8n0NPHmS0V	UCvQT_XAgFdh-6wYEKxKGcGw
 644	FIYAH	will.i.am	FIYAH	INDIFFERENT	4:01	wZmS4RsoAUc	MPREb_dtE11I0GJKi	UCMCqlMhBZnxsgYtI5tcFHbA
 938	Scream & Shout (feat. Britney Spears)	will.i.am	#willpower	INDIFFERENT	4:44	ED-XKgdt6-4	MPREb_ykpiBves9aD	UCMCqlMhBZnxsgYtI5tcFHbA
 56	Saturday	twenty one pilots	Scaled And Icy	INDIFFERENT	2:53	eY43Sy1wTc0	MPREb_NPxhttzsagk	UCnX0L9QiftAcWdzeBx31xCw
@@ -37,11 +38,10 @@
 256	Lonely Girl	Weezer	Everything Will Be Alright In The End	INDIFFERENT	2:50	ipCf_e_AK3I	MPREb_nWqYwVccyrg	UCtHZHneyvFGwxg6MHcbMLAw
 336	L.A. Girlz	Weezer	Weezer (White Album)	INDIFFERENT	3:29	6X7EvZEMtMI	MPREb_TpiYpVN7Wh8	UCtHZHneyvFGwxg6MHcbMLAw
 1047	We Are Warriors (feat. Kemist)	Warriors	We Are Warriors	INDIFFERENT	5:03	upSxBzQ2jbo	MPREb_wv3HtCsvPOh	UCx_ee3ZCqPoOeB2m-uXPxpw
-74	Love Is to Die	Warpaint	Warpaint	INDIFFERENT	4:52	hdaEEAx9Hj8	MPREb_g8n0NPHmS0V	UCvQT_XAgFdh-6wYEKxKGcGw
 247	Anna Sun	WALK THE MOON	Walk The Moon	INDIFFERENT	5:22	gP0BRG-oN54	MPREb_WZtFJwToJn5	UC3zDBc-LGuLP4WXe0JPn8ag
 297	One Foot	WALK THE MOON	What If Nothing	INDIFFERENT	4:22	Jc_ejF_TMy8	MPREb_rt2pMwOLuW9	UC3zDBc-LGuLP4WXe0JPn8ag
 793	Shut Up and Dance	WALK THE MOON	TALKING IS HARD	INDIFFERENT	3:20	GGsuLVlLObc	MPREb_Hv9WHYmtyp2	UC3zDBc-LGuLP4WXe0JPn8ag
-945	Just Say	Voost, Juliette Claire, Brian Provoost, Juliette Clair Speijer	Just Say	INDIFFERENT	3:15	kkMQhG59XWY	MPREb_QC7B1y92GWC	UC4bcICHxl8sSqF8AH7QNW9g
+945	Just Say (feat. Juliette Claire)	Voost	Just Say	INDIFFERENT	3:15	LsM5Uw1rWSA	MPREb_mg9yjlEW0Rh	UC4bcICHxl8sSqF8AH7QNW9g
 604	Jesus Stole My Girlfriend	Violent Soho	Violent Soho	INDIFFERENT	2:58	ixItWAZYkxo	MPREb_mzxqqWT3ZAj	UCU4M3FaGJhS6iajHczJhoXQ
 756	Transformers Devastation Theme (Mix)	Vince DiCola	Transformers Devastation (Original Game Soundtrack)	INDIFFERENT	1:59	NNlPySr8Nl4	MPREb_Xdm7jFKuHtN	UCgQtUGqvMohQiKvEKtB9gnQ
 656	Level Up	Vienna Teng	Aims	INDIFFERENT	3:53	vpvJLg7cUbw	MPREb_BnXI83fqz9O	UCSw1YPnNAfWZQStolM-Znww
@@ -165,7 +165,7 @@
 315	The Difference Between Us	The Dead Weather	Sea Of Cowards	INDIFFERENT	3:37	lIRbBRHU8H8	MPREb_HvuqueV6s1u	UCHLSNz596sbRjYcyjIJc23g
 935	Long Way to Go	The Dead Daisies	Make Some Noise	INDIFFERENT	4:29	fR6JkS8qSrY	MPREb_6fDCuaA6j4B	UCWnJ4LjcKtEQZgAtGtqIeIQ
 1025	American Band (Live)	The Dead Daisies	Live & Louder	INDIFFERENT	3:27	X8EtZd7PmL4	MPREb_se2abP99Hde	UCWnJ4LjcKtEQZgAtGtqIeIQ
-384	Another Log on the Fire	The Darcys	Another Log on the Fire	INDIFFERENT	4:14	IRdYNxl6ims	MPREb_IelRyTTd9eQ	UCAQVAZ_TuQ8UwEZYBidd7aw
+384	Another Log on the Fire	The Darcys	Another Log on the Fire	INDIFFERENT	4:14	IRdYNxl6ims	MPREb_IelRyTTd9eQ	UCcHIoKCpXgkd3JXR1HQEy8A
 688	Echoes	The Charm The Fury	The Sick, Dumb & Happy	INDIFFERENT	4:40	ZGd37L47-3E	MPREb_ccd8kquSSlR	UCQNrQw6YjSJ_HJGo7ZUaJRg
 207	Closer (feat. Halsey)	The Chainsmokers	Closer	INDIFFERENT	4:05	u-YGV5xt-jk	MPREb_BDY2Gf3QGsQ	UCQgUHOPJJrmzCjExg-ISupA
 322	#SELFIE	The Chainsmokers	#SELFIE	INDIFFERENT	3:04	RK4Vplud0SM	MPREb_xYwWDcFNGg2	UCQgUHOPJJrmzCjExg-ISupA
@@ -669,7 +669,7 @@
 615	Half Remembered Dream	Hans Zimmer	Inception (Music From The Motion Picture)	INDIFFERENT	1:12	iaGLiXCIgbw	MPREb_JL3tq9xT4hB	UCfCNL5oajlQBAlyjWv1ChVw
 649	Without Me	Halsey	Manic	INDIFFERENT	3:22	Tk7WFyHUr1E	MPREb_NcBdTvHmbxw	UC3BBS0-pODIeS8QGX_qtrCg
 441	Love Bites (So Do I)	Halestorm	Hello, It's Mz. Hyde	INDIFFERENT	3:11	IXntI8-U97o	MPREb_Y7I8tlVY2jB	UC5lcF1AOTeSEbeEPtfywewg
-832	Runaway	Halcyon	Runaway	INDIFFERENT	3:16	ExqDpoUDC6U	MPREb_ziLiCZ6sUOh	UCoIR66-Y9gns53-c61VSKoA
+832	Runaway	Halcyon	Runaway	INDIFFERENT	3:16	ExqDpoUDC6U	MPREb_ziLiCZ6sUOh	UCKXm5lnnRoM5Q7BHyVB8fZQ
 433	"Love Myself (From ""Jem And The Holograms"" Soundtrack)"	Hailee Steinfeld	Jem And The Holograms (Original Motion Picture Soundtrack)	INDIFFERENT	3:39	BPrQVAmHwb8	MPREb_kzFjZRS5rCI	UCBNeAoPycNhoRuS01B9Kf5g
 279	Ready To Love You	HEDEGAARD	Ready To Love You	INDIFFERENT	3:30	vLUTUcQhrSM	MPREb_K4M5TUz3N6d	UCJeLbwLISMkhq-yrOwaIChQ
 164	The Wire	HAIM	Days Are Gone	INDIFFERENT	4:06	BfdbBn015q4	MPREb_EoHr0d96CLC	UCxUTLbpwMNwO6g8kx-BHdQg

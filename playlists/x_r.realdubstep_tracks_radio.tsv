@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+31	Jahova	Rusko	Babylon, Vol. 1	LIKE	5:18	BXG1yweQRFk	MPREb_uDoiDXhZ5Qi	UCrvA4qX6BUQxdG9uDPifxEA
 479	Singularity	q100, ØZ, & FLO	Singularity	INDIFFERENT	4:01	mzIf91bRxFI	MPREb_BHSFFzk5O2l	
 47	Digital Dread	dBridge	Fashion Dread	INDIFFERENT	5:11	hFgYohlgl4g	MPREb_RBN8E6tVXLP	UCLIhPWxigkEIAm8rTmaSpXA
 341	Swirlin'	Zygos	0404	INDIFFERENT	4:35	iSBKdlsfeNw	MPREb_mtIPbtE2Q2p	
@@ -40,7 +41,7 @@
 273	Riddles of Jah VIP	Tunnidge	Higher Forces / Riddles of Jah VIP	INDIFFERENT	4:33	nkvRQxUojQg	MPREb_HTeLug6a9kl	UCsh3PgY2nETXA5KTwYtI3gg
 183	Devil's Hands	Truth	Devil's Hands / I Belong	INDIFFERENT	4:51	98HxcFbgfmA	MPREb_c90cLiuFhh4	UCA97mRnN40VrEISHEIv7uAw
 460	Strange Dreams	Truth	Twinkle Toad	INDIFFERENT	4:40	d5gSLh-XcGI	MPREb_PyMVFCp2L7O	UCgNK017HG9WUIFlUk3jFf0A
-480	Connected Illusions	Truth	Connected Illusions	INDIFFERENT	4:22	zkIM0YndpoE	MPREb_xHcFORykOsK	UCLykEx0llOCKdlTOgsqiYyw
+480	Connected Illusions	Truth	Connected Illusions	INDIFFERENT	4:22	zkIM0YndpoE	MPREb_xHcFORykOsK	UCgNK017HG9WUIFlUk3jFf0A
 219	Archangel	Treyarch	Origins Soundtrack	INDIFFERENT	5:12	13YKYv8J_cY	MPREb_LPBZt5xDHvm	UCH-KWzkv3AahEJamT7gotrw
 467	Haunted	Torcha	Haunted	INDIFFERENT	3:12	YGQfKInYykk	MPREb_KgyVd3hOLLz	
 18	Take It Personal	Toasty	Take It Personal	INDIFFERENT	5:30	NcgUzUT0-jc	MPREb_UThN7BRaCWt	UCm0AbLS-XIlaGECB2AflKbg
@@ -125,7 +126,6 @@
 417	On My Bike	Sa Bat' Machines	BassSkin Dub 01	INDIFFERENT	5:55	UkJy-dLsuZo	MPREb_8TKjIn8aW7l	
 181	Hunted	SP:MC	Hunted / Oh My Gosh	INDIFFERENT	5:00	22I2ytznP58	MPREb_3UiwnleDxa0	UC_m9_cVWxfYIF1-3Pyy8iYg
 188	Trust Nobody	SP:MC	Trust Nobody / Future	INDIFFERENT	4:33	Ujd0e7rXUW4	MPREb_TSUb17ubSTq	UC_m9_cVWxfYIF1-3Pyy8iYg
-31	Jahova	Rusko	Babylon, Vol. 1	INDIFFERENT	5:18	BXG1yweQRFk	MPREb_uDoiDXhZ5Qi	UCrvA4qX6BUQxdG9uDPifxEA
 63	Mr Chips	Rusko	Mr Chips	INDIFFERENT	4:39	jKo2zh-d4t8	MPREb_CFJnXX6A27T	UCrvA4qX6BUQxdG9uDPifxEA
 222	2 N A Q	Rusko	Gone 2 Far	INDIFFERENT	4:13	iJUY7KFLqsk	MPREb_1yZwEEu4YkW	UCrvA4qX6BUQxdG9uDPifxEA
 401	Hammertime	Rusko	Mr Chips	INDIFFERENT	4:16	2gZFEAbTDrg	MPREb_CFJnXX6A27T	UCrvA4qX6BUQxdG9uDPifxEA
@@ -151,7 +151,7 @@
 210	To Remain Untold (Cutkachi Remix)	Phrex	Cyber Love	INDIFFERENT	4:13	ZwwBpxzkgnE	MPREb_zNIcIUnFp0t	
 15	Badman	Phaeleh	Fallen Light	INDIFFERENT	5:42	FPZgdCp9SkE	MPREb_I05Fj7qGK06	UCV3rFgKeOAkg3ikpHE8HsZQ
 372	Bluez (Classic Mix)	Peverelist	Bluez (Classic Mix) / Und_92	INDIFFERENT	6:14	BCAtlhZEl6I	MPREb_BWJzKQV0zB6	UC01e9f6CmEDDvEyMsFWof5A
-349	Sweat	Oxossi	Morbid Impulses EP	INDIFFERENT	3:38	9tX42Zfgj98	MPREb_RumVYu97FJm	UCER2klLG05ziBryn6s5Varw
+349	Sweat	Oxossi	Morbid Impulses EP	INDIFFERENT	3:38	9tX42Zfgj98	MPREb_RumVYu97FJm	UCpG4j2Si6HS8-mODtv8OuNw
 377	Murda	Oxossi	Poison People	INDIFFERENT	4:13	Ct7u1SzHdaY	MPREb_hNlzCHUtcKM	UCdNofBhIx84o-Nlg1lmCPrw
 441	XXX	Oxossi	10 Years of duploc.com album	INDIFFERENT	4:42	uc7RTjJpToo	MPREb_6hmOg9Sg063	UCpG4j2Si6HS8-mODtv8OuNw
 0	Windy	Ourman	Windy	INDIFFERENT	4:09	YAeeB_5ST8Q	MPREb_6Y3IQ4JgOpg	UC3tSnJyTBF4NcHZSzdNwmJA
@@ -196,7 +196,7 @@
 11	Righteous	Monty	Righteous	INDIFFERENT	4:46	8tya2dYE6WM	MPREb_7jA2sAz2igF	UCpicqZRabaO5MeoC96dppZA
 121	Hardware (feat. PAV4N & Strategy)	Monty	Hardware	INDIFFERENT	3:50	2S3IlHmqxCw	MPREb_yPMm5VsRamS	UCpicqZRabaO5MeoC96dppZA
 350	Apollo (Mystic State Remix)	Monty	Apollo	INDIFFERENT	4:17	IfPpapv5PUc	MPREb_1KDpq5KVU6h	UCIsWGUIPaSX8RAt_u3If_4Q
-473	TEK	Monty	TEK	INDIFFERENT	4:13	B6dlA8NHirs	MPREb_SmiDlsYgjjv	UCrWQ9Phsqm9n8k2y4WDK_4w
+473	TEK	Monty	TEK	INDIFFERENT	4:13	B6dlA8NHirs	MPREb_SmiDlsYgjjv	UCpicqZRabaO5MeoC96dppZA
 484	Lighthouse Dub (Pinch Remix)	Monkeysteak	Lighthouse Dub / Lighthouse Dub (Pinch Remix)	INDIFFERENT	5:09	-kzQi_SiAZo	MPREb_S2pA0scEq0R	UCjqzxHye_UfkUJ1TLN1gsYA
 40	Forge	Mistah	Forge	INDIFFERENT	5:24	HUcZAOUrpFg	MPREb_MlBkXKa145d	UCPyUgKxZrdJsxrp2TsP8_XA
 6	Eye of Truth	Mikrodot	Eye of Truth	INDIFFERENT	4:14	OS74OfAChH8	MPREb_HOweEwUaxWF	UCvCrbs8Io-53KRrmCgcSwhA
@@ -278,7 +278,7 @@
 365	Pace	KALI	What Would It Be / Pace	INDIFFERENT	4:35	SB3U1OQRJLU	MPREb_8M6stwhwDp0	UCCsVVM3Vz7NqFMOQyG3QHEg
 258	Barbarossa	K-LONE	BB-8 / Barbarossa	INDIFFERENT	5:02	e1dkMXW_q10	MPREb_bciuYNAeYKX	UC92QlJE8s5L3PX_ox-iWkhg
 52	Sandman (Ourman Remix)	Juss B	Sandman (Ourman remix)	INDIFFERENT	4:10	R1bZsSGBqRg	MPREb_tQHpm8sYtqQ	UCh5IXNwTjPK2tZJ7uO6oCSQ
-412	G.M.S (Gun Man Sound)	Jus Rival	G.M.S (Gun Man Sound)	INDIFFERENT	3:19	LpLAUVm_x1Y	MPREb_hPqay0T6ACA	UCI0G7TSLr72_L78Ai8iVtVg
+412	G.M.S (Gun Man Sound)	Jus Rival	G.M.S (Gun Man Sound)	INDIFFERENT	3:19	LpLAUVm_x1Y	MPREb_hPqay0T6ACA	UCrIV_BF4isD2K7rEVs_2Qgg
 62	Tempered	Joker	Play Doe / Tempered	INDIFFERENT	3:44	Kir7d_8oidA	MPREb_nQFATurli7v	UC4UyO7r57Qdri7g9HsSvzFQ
 348	Boat	Joker	Boat / Deploy	INDIFFERENT	5:38	C8apSUtFPJs	MPREb_Febp8zr6mKW	UCBmxESRuFCLyTWGCg5sGCKg
 416	Anamorphic	Joker	Anamorphic	INDIFFERENT	7:10	zCGfwKJAwGA	MPREb_mj1KnyCRaeH	UCBmxESRuFCLyTWGCg5sGCKg
@@ -401,7 +401,7 @@
 220	Rebellion	Coki	Hatched 17	INDIFFERENT	4:37	9bkVJQAvsgs	MPREb_xpT6zZ5iti4	UCD26yeeXoZ4CntgSxKZuSpQ
 233	Celestial Horns (feat. Trixx)	Coki	Heights EP	INDIFFERENT	4:30	lK1OoY70GTs	MPREb_x33eHs5391v	UC4lvCkox1UZq8st8-6N62XQ
 463	Shattered	Coki	Tortured / Shattered	INDIFFERENT	4:59	oXqwzHis-W8	MPREb_2qKgdO1To14	UClr3yKbuj73f_xSKUIbfmKw
-190	Dolphin	Cluekid	Dolphin / Fossil / Nihonto	INDIFFERENT	5:40	VtlHmFuhlxo	MPREb_ysUbOapxNpr	UCRz0JcUCPXRgIBMxWOg3pxQ
+190	Dolphin	Cluekid	Dolphin / Fossil / Nihonto	INDIFFERENT	5:40	VtlHmFuhlxo	MPREb_ysUbOapxNpr	UCmo7CIsY46FHX4BILRbjUCA
 344	Weed Smokers (Mikrodot Remix)	Cluekid	Deeply Rooted	INDIFFERENT	4:01	YD0B_iPQbqs	MPREb_X7dcp7Cn8CK	
 57	Embryo	Clubroot	Clubroot	INDIFFERENT	7:20	nFR-Ge7CetQ	MPREb_huzzcvIvLD0	UCFXLG4-p9F3mbT5qRsP7z1A
 352	Conman	Cimm	Conman / So	INDIFFERENT	3:55	3IMlUSqjI0g	MPREb_y2XZEAsxaco	UCv4cBpK7YFZwmnXmzLhJE3Q
