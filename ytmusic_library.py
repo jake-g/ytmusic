@@ -102,6 +102,7 @@ class YTMusicPlaylists:
         # fetch playlists (needed for many downstream function, takes some time)
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
+        self.playlist_titles = frozenset(self.playlists['title'])
 
     def init_ytmusic_api(self, header):
         print(f'Using header file: {header}')
@@ -220,8 +221,9 @@ class YTMusicPlaylists:
         tracks = self.parse_tracks(track_list)
         return tracks, playlist_meta
 
-    def playcount_sort_playlist(self, pl_info, max_playcount_str=50, ignore_banned=True, sleep_time=1, verbose=True):
-
+    def playcount_sort_playlist(
+            self, pl_info, max_playcount_str=50,
+            ignore_banned=True, sleep_time=1, verbose=True):
         if not len(self._playcount_map):
             self._playcount_map = pd.read_csv(
                 self.lastfm_tsv, sep='\t', index_col=0)
@@ -257,7 +259,7 @@ class YTMusicPlaylists:
               f'deleted original pl: {pl_info["id"]}')
         return pc
 
-    def clean_up_playlist(
+    def clean_up_radio_playlist(
             self, pl_info, verbose=False,
             move_like=False, min_num_like=MIN_RADIO_LIKE_TO_SPLIT,
             sleep=1, create_like_playlist=False,
@@ -284,18 +286,27 @@ class YTMusicPlaylists:
         if verbose:
             print(100*'*' + f'\n{pl_counters}')
         # Handle flagged tracks
-        like_pl = self._radio_to_like_map.loc[
-            self._radio_to_like_map['radio_playlist'] == pl_info["title"]].iloc[0]['like_playlist']
-
+        if 'radio' not in pl_info["title"]:
+            print(f'Skipping {pl_info["title"]} modifications,',
+                  f'only playlists with "radio" in name supported')
+            return pl_counters
         if move_like and len(move_like_tracks) > min_num_like:
             # Create like playlist and add from 'move_like_tracks'
             like_pl_id = None
             like_vids = [t['videoId'] for t in move_like_tracks]
-            if pd.isna(like_pl):
+            like_pl = None
+            like_pl_matches = self._radio_to_like_map.loc[
+                self._radio_to_like_map['radio_playlist'] == pl_info["title"]].dropna()
+            if len(like_pl_matches):  # Nan or mapping
+                like_pl = like_pl_matches.iloc[0]['like_playlist']
+            elif pl_info["title"].replace('radio', 'like') in self.playlist_titles:
+                like_pl = pl_info["title"].replace('radio', 'like')
+            if like_pl == None:
                 if create_like_playlist:
                     like_pl = pl_info["title"].replace('radio', 'like')
                     like_pl_id = self.yt.create_playlist(
-                        title=like_pl,  description=f'Created for dumping likes from {pl_info["title"]}',
+                        title=like_pl,
+                        description=f'Created for dumping likes from {pl_info["title"]}',
                         privacy_status='PRIVATE', video_ids=like_vids)
                     if verbose:
                         print(f'Created LIKE playlist for '
@@ -303,8 +314,10 @@ class YTMusicPlaylists:
                     time.sleep(2*sleep)
             else:
                 like_pl_id = self.query_by_title(like_pl).playlistId
-                like_orig_vids = frozenset([t['videoId'] for t in self.playlist_get_info(
-                    like_pl_id, use_cache=True).get('tracks', [])])
+                like_orig_vids = frozenset([t['videoId'] for t in
+                                            self.playlist_get_info(
+                                                like_pl_id, use_cache=True).get('tracks', [])
+                                            ])
                 like_new_vids = frozenset(like_vids) - like_orig_vids
                 like_dedupe_num = len(like_vids) - len(like_new_vids)
                 if like_dedupe_num > 0:
@@ -362,7 +375,8 @@ class YTMusicPlaylists:
         return pl_counters
 
     def playlist_rate_all_songs(self, pl_info, rating, sleep_time=0.5,
-                                verbose=False, skip_if_dislike=False, valid_ratings=VALID_TRACK_RATINGS):
+                                verbose=False, skip_if_dislike=False,
+                                valid_ratings=VALID_TRACK_RATINGS):
         assert rating in valid_ratings
         if verbose:
             print(f'Playlist {pl_info["title"]}: Found',
@@ -554,7 +568,7 @@ class YTMusicPlaylists:
                     row['playlistId'], playlist_limit=song_lim, use_cache=True)
                 if playlist_info['trackCount'] == 0:
                     print('Skipping: %s, due to zero tracks' % pl_title)
-                    return None
+                    continue
                 tracks, metadata = self.save_playlist_tsv(playlist_info,
                                                           remove_disliked=remove_disliked)
                 all_playlist_info.append(metadata)
