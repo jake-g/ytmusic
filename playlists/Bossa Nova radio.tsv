@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 24	Brasil Pandeiro	Novos Baianos	Acabou Chorare	LIKE	3:56	zYsTvGKyT1Q	MPREb_UP1PmGC2STl	UCixnFkj6oC7bLyvpm1PQk9A
+7	Samba de Orfeu	Luiz Bonfá	Solo In Rio	LIKE	1:15	HZKEN2TT6wg	MPREb_VQlyIM6pv5L	UCkQvoiWH10p2znjXFVXeJFQ
 128	Mas, Que Nada!	Jorge Ben	Samba Esquema Novo	LIKE	3:00	hg0XftC43Zo	MPREb_49pU0WsCtNI	UCprFt4Sn4rnLyXUnXFX9ksQ
 13	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:32	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UC3-1Mwk2l8SIY5YSd79wNhQ
 257	Clementine	grentperez	Clementine	INDIFFERENT	4:06	0GLqoQgmlWU	MPREb_2juW7euUC94	UC3CyxyxdZLGrcpHUuaZolVw
@@ -47,7 +48,6 @@
 133	Sonho De Maria	Tamba Trio	Pure Bossa Nova	INDIFFERENT	3:31	vi55Q3HwnsU	MPREb_LEdKU9Zec9v	UCt3eJWFnbE5jvTjBPEv27XQ
 215	Resolução (Live At Teatro Paramount, Sao Paulo / 1965)	Tamba Trio	Edu Lobo Por Edu Lobo Com Tamba Trio	INDIFFERENT	2:11	E3Cu-Zfdz50	MPREb_DJymWeYJKR0	UCt3eJWFnbE5jvTjBPEv27XQ
 56	Strawberry Cake	Takara	Strawberry Cake	INDIFFERENT	3:14	8ISApJwSUY4	MPREb_hdKcFqpXg4q	UCuq9adXNnWROutcAKUJiJLQ
-259	Garota de Ipanema (Instrumental)	Sérgio Alcântara	A Bossa do Violão (Instrumental)	INDIFFERENT	2:50	JzwTKD3zKoM	MPREb_SBZXQBV5rpF	UC2fipONe_Y8ZIsOTBBvTyFg
 21	Discussão	Sylvia Telles	The Bossa Nova Wave - Digital	INDIFFERENT	1:56	2ZUlkfhVxsM	MPREb_H9HEEqWcCsT	UCrBAxFjx81FFHdzRSUVNv9w
 50	Baiãozinho	Sylvia Telles	Pure Brazil II - Bossa 4 Two	INDIFFERENT	1:45	S-Qhy2McIcE	MPREb_7ltqTYia5G0	UCrBAxFjx81FFHdzRSUVNv9w
 54	Bossa Na Praia	Sylvia Telles	Bossa, Balanço, Balada	INDIFFERENT	2:02	wUKmhLPaJqo	MPREb_yQxQN6ylYNd	UCrBAxFjx81FFHdzRSUVNv9w
@@ -64,6 +64,7 @@
 117	One Note Samba / Spanish Flea	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	1:47	Gg7I3VFqF1I	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
 171	Slow Hot Wind	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	2:32	3g8vePG8wQo	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
 191	Berimbau	Sergio Mendes & Brasil '66	Herb Alpert Presents: Sergio Mendes & Brasil '66	INDIFFERENT	3:17	PURhPYOqoTo	MPREb_B4rhUAW3i9g	UCyre9YliZG7iFAD7-t3Zibg
+259	Garota de Ipanema (Instrumental)	Sergio Alcantara	A Bossa do Violão (Instrumental)	INDIFFERENT	2:50	JzwTKD3zKoM	MPREb_SBZXQBV5rpF	UC2fipONe_Y8ZIsOTBBvTyFg
 311	Time to Know - Be Waltz	Seatbelts	COWBOY BEBOP - Knockin' on Heaven's Door (Original Motion Picture Soundtrack - Future Blues)	INDIFFERENT	3:50	qsi7o5YmlS8	MPREb_i1152RPPjuS	UCFhMA8ygjzH72UqPf7PmlUg
 339	Terra de Ninguém (Nicola Conte Rework)	Sabrina Malheiros	Terra de Ninguém (Nicola Conte Rework)	INDIFFERENT	6:26	3i1hACQE8_8	MPREb_lQo1lCIkuxg	UC65Q7sPjUVZWssamL99aXRw
 340	Terra de Ninguém	Sabrina Malheiros	Equilibria	INDIFFERENT	4:24	uVtH6E8R9UI	MPREb_OvVFIcVjgxo	UC65Q7sPjUVZWssamL99aXRw
@@ -150,7 +151,6 @@
 9	Girl From Ipanema	Marco Esu	A Soft Interpretation Of The Mind	INDIFFERENT	3:44	MuSc2PaUxpc	MPREb_AeyMfOugNcF	UCVZvDNOnwNdLnQxiooPLVog
 248	O Sol Nascerá (A Sorrir)	Marcelinho & Mané Messias	Cartola para Todos	INDIFFERENT	2:04	M-Dw5Wh_mRY	MPREb_otzCbo4XM38	
 249	Congênito	Luiz Melodia	Maravilhas Contemporâneas	INDIFFERENT	3:32	MwV7u93zTLM	MPREb_e21wrmAU4Ab	UC9aP7EqDWFN7hsCDDQDdYyg
-7	Samba de Orfeu	Luiz Bonfá	Solo In Rio	INDIFFERENT	1:15	HZKEN2TT6wg	MPREb_VQlyIM6pv5L	UCkQvoiWH10p2znjXFVXeJFQ
 55	Samba de Duas Notas	Luiz Bonfá	Samba de Duas Notas / Bossa Em Re	INDIFFERENT	3:09	REQW0HVy3lM	MPREb_vTqyhnAYs9P	UCkQvoiWH10p2znjXFVXeJFQ
 75	Ilha De Coral (Coral Island)	Luiz Bonfa	Composer Of Black Orpheus Plays And Sings Bossa Nova	INDIFFERENT	3:16	CH9iOZfakqU	MPREb_zCXISfXxN3j	UCkQvoiWH10p2znjXFVXeJFQ
 213	Samba De Duas Notas (Enr En Octobre 1962 Paris)	Luiz Bonfa	Le Roi de la Bossa Nova	INDIFFERENT	3:13	iXaFNy3L58s	MPREb_NyuAELZxhbq	UCkQvoiWH10p2znjXFVXeJFQ
@@ -167,7 +167,7 @@
 68	Bim Bom	João Gilberto	By Your Side	INDIFFERENT	1:17	PoE4mPGlwaI	MPREb_vm0wYJVp6XY	UCOO1sDcQ7DpldFvXVNPXMFA
 100	O Pato (The Duck) (Live At Carnegie Hall/1964)	João Gilberto	Getz/Gilberto #2	INDIFFERENT	2:17	L4D6gZZEE3o	MPREb_7mLOYksE3mj	UCOO1sDcQ7DpldFvXVNPXMFA
 107	Nao Vou Pra Casa	João Gilberto	João Voz E Violão	INDIFFERENT	2:57	oHNSIJyJJuA	MPREb_OciwQ5jKiTE	UCOO1sDcQ7DpldFvXVNPXMFA
-125	Rosa Morena	João Gilberto	Chega de Saudade / O Amor, O Sorriso e a Flor / João Gilberto	INDIFFERENT	2:09	1DiIJvAUlss	MPREb_crEKwCxButt	UCOO1sDcQ7DpldFvXVNPXMFA
+125	Rosa Morena	João Gilberto	By Your Side	INDIFFERENT	2:06	BwOWvUOJLHQ	MPREb_vm0wYJVp6XY	UCOO1sDcQ7DpldFvXVNPXMFA
 126	Chega De Saudade	João Gilberto	Latin Legends	INDIFFERENT	2:04	7LgzJJQSTzI	MPREb_lUyV90nj5o4	UCOO1sDcQ7DpldFvXVNPXMFA
 275	Aos Pés Da Cruz (Live Version)	João Gilberto	Eu Sei Que Vou Te Amar	INDIFFERENT	2:14	dMznJYY-mcI	MPREb_cSdvFybc2MB	UCOO1sDcQ7DpldFvXVNPXMFA
 307	Corcovado (Live Version)	João Gilberto	Eu Sei Que Vou Te Amar	INDIFFERENT	2:29	EWSSNbmk5PU	MPREb_cSdvFybc2MB	UCOO1sDcQ7DpldFvXVNPXMFA
@@ -273,7 +273,7 @@
 218	Essa Moça Tá Diferente	Chico Buarque	Chico Buarque De Hollanda Nº4	INDIFFERENT	2:48	Ix6D9QC8rpA	MPREb_N4EEaR3JKm4	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 232	A Banda	Chico Buarque	Chico Buarque de Hollanda	INDIFFERENT	2:11	SSmz9xg4Ks0	MPREb_sJk9ZtPZ4tO	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
 323	Quem Te Viu Quem Te Ve (Live)	Chico Buarque	Chico Buarque & Maria Bethania	INDIFFERENT	3:15	mDDhw8Seoy8	MPREb_Wo7NrdbyuCc	UC7Rmi-Sp3Z5ec12vA6eZ_WQ
-130	Bamba Samba Bossa Nova	Charlie Byrd	Sizzling Mambo Classics	INDIFFERENT	3:06	60bCrMXGfqA	MPREb_RXwVvkLtQ7I	UCMko3MSV3gcTOiymakMtExw
+130	Bamba Samba Bossa Nova	Charlie Byrd	Sizzling Mambo Classics	INDIFFERENT	3:06	60bCrMXGfqA	MPREb_RXwVvkLtQ7I	UCPWF84oej4PJgMCMCDtGVEQ
 320	Que reste-t-il de nos amours?	Charles Trenet	Chansons d'amour	INDIFFERENT	3:11	ODz0Swsbt5s	MPREb_HmXJ1acPLTE	UCoN36ETvG41PaxAsqxGLmdQ
 266	Areia Branca	Cereja Azul	Fada	INDIFFERENT	4:27	GaYPPDav8lc	MPREb_lgqRFtTs3uc	UC_47ZJ9djpNcyjjUrd5rDQg
 270	A Origem da Felicidade	Celso Fonseca	Moska Apresenta Zoombido: Celso Fonseca	INDIFFERENT	3:15	730CjE69IkM	MPREb_5wob6quqRzF	UC8UBMF-OOkOXOvwSYHQNF7g

@@ -1,7 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	My Pet Coelacanth	deadmau5	while(1<2)	LIKE	8:16	FhnH43IvvBc	MPREb_8NyQF2KcW2k	UCL44WZGVf-BU5N0ymCXrpBg
 5	Mercedes	deadmau5	while(1<2)	LIKE	9:39	ahw4xxWOHV0	MPREb_K1sEPyL4APl	UCL44WZGVf-BU5N0ymCXrpBg
-17	Not Exactly	deadmau5	Not Exactly/We Fail	LIKE	9:16	d-xwcjmZLTs	MPREb_EiQ1Hz1Gt5h	UCL44WZGVf-BU5N0ymCXrpBg
 20	October	deadmau5	> album title goes here <	LIKE	7:11	VsCk2_iDbng	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIXIGFsYnVtIHRpdGxlIGdvZXMgaGVyZSAaCGRlYWRtYXU1IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 22	Moar Ghosts n' Stuff	deadmau5	For Lack of a Better Name	LIKE	4:30	WO0PfgeJwRA	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIZZm9yIGxhY2sgb2YgYSBiZXR0ZXIgbmFtZRoIZGVhZG1hdTUiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 23	Some Chords	deadmau5	4x4=12	LIKE	8:04	4iBkUrhDiuo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIFNHg0MTIaCGRlYWRtYXU1IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
@@ -26,3 +25,4 @@
 10	Some Chords	deadmau5	4x4=12	INDIFFERENT	7:24	HXipID0x-HM	MPREb_qjzStGSp3SP	UCL44WZGVf-BU5N0ymCXrpBg
 15	Fn Pig	deadmau5	> album title goes here <	INDIFFERENT	8:52	3ZEO7O0bTH0	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
 16	There Might Be Coffee	deadmau5	> album title goes here <	INDIFFERENT	7:03	2LG9kluclnQ	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
+17	Not Exactly (Unmixed Extended Version)	deadmau5	Not Exactly (Unmixed Extended Version) / We Fail	INDIFFERENT	9:16	BrRl6Aq8r0E	MPREb_p1qG0JYh2dg	UCL44WZGVf-BU5N0ymCXrpBg

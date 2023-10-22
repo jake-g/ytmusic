@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 202	Golden Brown	The Stranglers	The Collection 1977-1982	LIKE	3:27	Qca9ByvLhBA	MPREb_eOfhncLHRMP	UCc-wWdxvOaNCJDbl2Gr1ThA
 167	Incident at Neshabur	Santana	Abraxas	LIKE	4:58	338TDhTN7HQ	MPREb_L54fdPS3ZqF	UCX0rR7x8-nLew2t8UH-n2aw
+76	Everything Borrowed	Jerry Paper	Like a Baby	LIKE	2:24	bMp2v2dAllE	MPREb_3naCqxKSVBB	UC-fiA0gSpkSpk0uVMIO1S3Q
 110	I Will Follow You Into the Dark	Death Cab for Cutie	Plans	LIKE	3:10	zYTEb7fVdzw	MPREb_zUC8wB2Q2sC	UCQyYgbGkyvK3v3X1XzGDQ2Q
 672	New Grass	Ólafur Arnalds	some kind of peace	INDIFFERENT	4:03	f-6WSrgr2xI	MPREb_3l6EXJ9JS8G	UCDQlvsMEM5j0k5cqmfHBzVA
 760	this storyends	winnie	Synchronized	INDIFFERENT	3:14	stLIXV3Wg-E	MPREb_W3xvcj7EasB	UCgfpoY-PaYaabJsPsLNWf7A
@@ -84,7 +85,6 @@
 254	Lyric Pieces, Book 5, Op. 54: IV. Notturno	Up North Session Orchestra	Sublime Classical	INDIFFERENT	4:24	so7DBvJPeJY	MPREb_zCz8580LlZb	UCa6iBJPIFH5hcFcZp5-ycjw
 44	No Need for a Leader	Unknown Mortal Orchestra	II	INDIFFERENT	5:44	Hse8MIjhV2M	MPREb_nYUQ9DWLlY3	UCXMAKzy9duqBltrR8TrHmpQ
 820	Transformation	Univore	Sympathetic Vibrations	INDIFFERENT	3:53	vhP4gnljLEI	MPREb_skxe9lr8pSp	UC5VsWvYqSVEBZBijw-_o6zA
-507	The River	U.M.S	The River	INDIFFERENT	5:12	WUXhb1lGbMM	MPREb_xWTztrDYmkr	UCt0vRx8mgfoWS5L9c0ld8Ow
 146	For How Long (feat. Saint Sinner)	Tycho	Weather	INDIFFERENT	3:01	d_MEeON9HjM	MPREb_XUB5xxzy6tE	UC6M6DgivBo3VHTYDa9BblqQ
 437	Car Radio	Twenty One Pilots	Vessel	INDIFFERENT	4:27	Z_Jp2mlzEjw	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
 695	Cali	Tropidelic	Here in The Heights	INDIFFERENT	3:44	AIZyv1XkhCM	MPREb_AKDqG74JxiC	UCvZZgk5mYNi0EEmQNF1cg_w
@@ -545,7 +545,6 @@
 803	Cut Me Loose (feat. Max Marshall)	Jethro Heston	Cut Me Loose	INDIFFERENT	5:00	G1_ZOGVg0g0	MPREb_QwR2bx1186R	UC-rv2J9QJglkfOQSslgOusg
 131	Are You Gonna Be My Girl (Acoustic)	Jet	Are You Gonna Be My Girl (Deluxe EP)	INDIFFERENT	3:58	aZteek1bae8	MPREb_0ZhwvRLr5XL	UCDY3bjtG-e456ADVpfDZ4Tw
 756	Selecta (feat. Ghostface Killah, Juelz Santana & Telli)	Jesse And The Wolf	Selecta	INDIFFERENT	3:05	peJBqeIXqbo	MPREb_0p30D75L1RL	UCEIF85B2c0IVqbMnIF8O66A
-76	Everything Borrowed	Jerry Paper	Like a Baby	INDIFFERENT	2:24	bMp2v2dAllE	MPREb_3naCqxKSVBB	UC-fiA0gSpkSpk0uVMIO1S3Q
 339	Jazz Cigarette	Jeramiah Ferrari	Jazz Cigarette	INDIFFERENT	4:15	KXPVs8u5LLQ	MPREb_j9vcqQmjiq6	UCgcUz9Uzh5FLLIPQL1LAKAA
 461	Talk My Talk (feat. Robn)	Jeed	Talk My Talk	INDIFFERENT	3:09	XkJNBi7D8i0	MPREb_1at8TKFoLwb	UCE5iNwe3GHGj-H-F7PWb3VQ
 319	Design in Malice (feat. Pacewon & Young Zee)	Jedi Mind Tricks	Violence Begets Violence	INDIFFERENT	3:39	ZG-hnzuX4Yo	MPREb_jLfuZmqdsdB	UC9_UQFjJlfIR49YeyqDnm4w
@@ -742,8 +741,8 @@
 316	Lux Prima	Danger Mouse	Lux Prima	INDIFFERENT	9:03	plz4nlkletg	MPREb_fXnsCEeuARb	UC5174GK88E8jwZC_TDIKJGQ
 173	Photographs (You Are Taking Now)	Damon Albarn	Everyday Robots	INDIFFERENT	4:44	KFvcLnUxQ44	MPREb_UJINee2W2Hl	UCW-2jeHSUVkobsiVJBJ6PXg
 353	The History of a Cheating Heart	Damon Albarn	Everyday Robots	INDIFFERENT	4:01	Szain19hqks	MPREb_UJINee2W2Hl	UCW-2jeHSUVkobsiVJBJ6PXg
-552	Casilda	Dabritz	Antologia: Gula	INDIFFERENT	2:53	G4gC19eN6XE	MPREb_WiLXmpC0c9a	UC8DFUSIA-t_JDTRR-DVZWCQ
 762	Last Night a DJ Saved My Life	DJ Team	Hits Dance Club, Vol. 49	INDIFFERENT	3:39	FVptGDMRuAc	MPREb_DiYZXkOR2gV	UCGFdWqb1Gc-PHXIZb7WMKbw
+488	NOUVEAU CHEURI	DJ TAKUMANE	UNKNOWN DELIVERY VOL I	INDIFFERENT	2:08	47OWBqj6pjo	MPREb_ltn4Fhzypxr	UC2u430PkS87QQ8qRrBzj8CQ
 323	Lawmaker	DARKSIDE	Spiral	INDIFFERENT	5:50	RJ-_tY3JgUs	MPREb_9afRqpYoSh7	UCPWad8IPnWG-EY23ePpI3bg
 716	Enemies With Benefits F. Tonedeff	Cunninlynguists	Oneirology	INDIFFERENT	4:38	DRDtRhWUPpM	MPREb_FF3JC4TFAwc	UCOX1Au3bxs_9IusLewB8V4g
 421	Die for You (feat. Mr. Sos)	CunninLynguists	Strange Journey Volume One	INDIFFERENT	3:51	Dq3gJYvz3Fs	MPREb_jQTqoLvWLSH	UCOX1Au3bxs_9IusLewB8V4g
@@ -933,8 +932,9 @@
 17	one last time.	.Uzu	who am I?	INDIFFERENT	2:54	2IN7SlSCkmU	MPREb_7ZUFTdVRm3k	UCtixIpCQKct76w8gYtlNJgA
 213	Broke(n)	$uicideboy$	Grey Sheep	INDIFFERENT	2:14	6d_IWn_HeRM	MPREb_JlqxID2Igkf	UC0PsqWsDU7JJKqztI8V6spA
 177	Stay Up	jxne	Stay Up			mLt5mydyxsk		
+507	The River	U.M.S	The River			WUXhb1lGbMM		
 895	Mac Miller Memorial (Nikes on My Feet Remix)	Moon	Mac Miller Memorial			O26br4l7_MQ		
 669	African Herbsman (Bonus Tracks feat. Bob Marley)	"Lee ""Scratch"" Perry"	Gold Collection			9QZJVdoxb2E		
 925	Violets	Josh Golden	Violets			CuEtvaIzQis		
 637	Fairlight	Florigen	Synthwave Love			9o3N62nWgcU		
-488	NOUVEAU CHEURI	DJ TAKUMANE	UNKNOWN DELIVERY VOL I			47OWBqj6pjo		
+552	Casilda	Dabritz	Antologia: Gula			G4gC19eN6XE		

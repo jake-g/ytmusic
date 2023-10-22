@@ -1,8 +1,13 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 2	So Long Donkey	The Sugarman 3	Soul Donkey	LIKE	2:07	eRhT-v9PrW4	MPREb_mVewUU5Lohb	UCS-dGZbnHvabhBlvRzKIUgQ
 11	Augusta, GA	The Poets of Rhythm	The Anthology 1992-2003	LIKE	2:07	73HoGhA9Jn8	MPREb_QOxO4tQOgIl	UCdFEpyvXo2A4iwpXsrpPCRQ
+66	Burgundy Whip	Madlib	Bad Neighbor Instrumentals	LIKE	2:42	YRu9x_gBm-s	MPREb_FGYNq3AnBOe	UCWUNcVPwXcG_5SoOMUtPYKA
 9	Rush Hour	Karl Hector & The Malcouns	Sahara Swing	LIKE	2:30	ho8gEXY3ROs	MPREb_DVcw2WezVlR	UC2DVaW5DPsrc07DH0Kkc1dA
+83	Shore Breezin'	KANKICK	Acid Massive Musical	LIKE	1:57	4LULUTW4kwo	MPREb_Iq715tMBq1c	UCEtUszvo6O0eNwQiTCHIX1A
+0	The Hold Up	Ikebe Shakedown	Ikebe Shakedown	LIKE	3:04	Pk5t7k6nnog	MPREb_gog88shDXOp	UC20CZIzh2uR71kH3eapYPPw
 158	My Guru	Dan the Automator	Bombay the Hard Way: Guns, Cars & Sitars	LIKE	4:11	glOOvZeXA2A	MPREb_rcs4RqV4m9A	UCiGX-wSQ4Pf2ZNGssJZoGKQ
+98	Another Introduction	Damu The Fudgemunk	How It Should Sound, Vol. 1 & 2	LIKE	3:00	UTrTrjRzXgQ	MPREb_R94hSoTxmY7	UCos_lmslTItUE3JEKl5Tfdg
+84	Pizza Pizza	Bugseed	Soundcraft	LIKE	1:32	F4PV-2F7fWE	MPREb_kwxAutuRgIU	UCSubsG0GBlPeNcRqBTDqNdg
 154	Detroit State Of Mind	Will Sessions	The Elmatic Instrumentals	INDIFFERENT	3:59	v7eVtgh61uc	MPREb_8Zinfm9kFk3	UCXaDA8J3vQlzk8oT4jwMUWw
 8	Eji	Whitefield Brothers	In The Raw	INDIFFERENT	3:44	MM6VfQDX1fA	MPREb_VM0zxGfegNz	UCXWAfYnHSsWUEMLiUgEbTMw
 22	Yakuba	Whitefield Brothers	In The Raw	INDIFFERENT	3:15	Jk-oo7jzS1c	MPREb_VM0zxGfegNz	UCXWAfYnHSsWUEMLiUgEbTMw
@@ -76,7 +81,6 @@
 122	Let It Slide (feat. Jessica Fitoussi)	Mister Modo & Ugly Mac Beer	Modonut 2 EP	INDIFFERENT	2:27	4QUTrizho2w	MPREb_So4LYnvGoMQ	UCj8mVWiBl256CIfVl3qFHwA
 6	Iron Leg	Mickey & The Soul Generation	The Complete Mickey & the Soul Generation	INDIFFERENT	2:14	0fWIaUDTGlU	MPREb_aQxpOwIan4Y	UC1kJD7OIfbMeN7tPJD7x88w
 5	Slim's Return	Madlib	Shades Of Blue: Madlib Invades Blue Note	INDIFFERENT	3:57	78E1ZFpHOJI	MPREb_AdOWNx9kQCQ	UCWUNcVPwXcG_5SoOMUtPYKA
-66	Burgundy Whip	Madlib	Bad Neighbor Instrumentals	INDIFFERENT	2:42	YRu9x_gBm-s	MPREb_FGYNq3AnBOe	UCWUNcVPwXcG_5SoOMUtPYKA
 91	Funky Shit	LoopMaffia	Cold Busted #BeatportDecade Funk/R&B	INDIFFERENT	3:03	sBnyy7F7gmQ	MPREb_JErHBjkDiYf	UC4O50LoJRozQUghS69YDOCA
 48	Chum Shaker	Lefties Soul Connection	Akathisia	INDIFFERENT	2:10	Dm1-yxyvr0w	MPREb_Oe8aNmshFBf	UCf7QRANbRIZ5WbCGVSUz2BQ
 72	You're the Kind of Girl (Instrumental)	Lee Fields	Faithful Man (Instrumentals)	INDIFFERENT	4:01	WYiNxlB9D4I	MPREb_WcSkZA13Z6z	UCHpBOdDgNkQK2HK22WMffqw
@@ -90,11 +94,9 @@
 143	Mongrel Strut	Lack of Afro	Press On	INDIFFERENT	4:51	XnROfdIZRIU	MPREb_u4K7YIlTDjy	UCTlfk1J3fz8YxSKXdO9pcgg
 145	When the Sun Goes Down	Lack of Afro	Press On	INDIFFERENT	3:31	TMp9vII6Vd8	MPREb_u4K7YIlTDjy	UCTlfk1J3fz8YxSKXdO9pcgg
 79	Mystical Brotherhood	Karl Hector & The Malcouns	Sahara Swing	INDIFFERENT	2:41	ipU4xAkFLpM	MPREb_DVcw2WezVlR	UC2DVaW5DPsrc07DH0Kkc1dA
-83	Shore Breezin'	KANKICK	Acid Massive Musical	INDIFFERENT	1:57	4LULUTW4kwo	MPREb_Iq715tMBq1c	UCEtUszvo6O0eNwQiTCHIX1A
 15	Think Twice (Instrumental)	Jay Dee	Welcome 2 Detroit Instrumental	INDIFFERENT	3:37	UMERZP6hHZw	MPREb_5LoJaVxYdQ2	UCg6G23d_0Rdx3W5XbxC7N8A
 76	It's So Hard	JK Soul	Dinner With FAT Beatz	INDIFFERENT	3:53	mFM6julg330	MPREb_oqk5rnPRT4L	UCGXl0Mh0Ca3TR50au9Nr7Yg
 78	I'm Gone	JK Soul	Dinner With FAT Beatz	INDIFFERENT	3:33	guX3hVSx2I0	MPREb_oqk5rnPRT4L	UCGXl0Mh0Ca3TR50au9Nr7Yg
-0	The Hold Up	Ikebe Shakedown	Ikebe Shakedown	INDIFFERENT	3:04	Pk5t7k6nnog	MPREb_gog88shDXOp	UC20CZIzh2uR71kH3eapYPPw
 45	Refuge	Ikebe Shakedown	Ikebe Shakedown	INDIFFERENT	4:14	5DmDr1ZGeP8	MPREb_gog88shDXOp	UC20CZIzh2uR71kH3eapYPPw
 90	Tame the Beats	Ikebe Shakedown	Ikebe Shakedown	INDIFFERENT	3:23	oLQ4CVIEi1o	MPREb_gog88shDXOp	UC20CZIzh2uR71kH3eapYPPw
 149	Pepper	Ikebe Shakedown	Ikebe Shakedown	INDIFFERENT	2:57	yrNd2wi1Ovc	MPREb_gog88shDXOp	UC20CZIzh2uR71kH3eapYPPw
@@ -131,7 +133,6 @@
 157	Satchidananda	Dan the Automator	Bombay the Hard Way: Guns, Cars & Sitars	INDIFFERENT	3:07	22Y6kRkwC0w	MPREb_rcs4RqV4m9A	UCiGX-wSQ4Pf2ZNGssJZoGKQ
 92	Tea Thyme	Damu The Fudgemunk	How It Should Sound, Vol. 1 & 2	INDIFFERENT	2:42	kzOiWWaQMsU	MPREb_R94hSoTxmY7	UCos_lmslTItUE3JEKl5Tfdg
 93	Puttin In Work 11-14 Mix	Damu The Fudgemunk	Full Time	INDIFFERENT	3:04	iRPKf86Waiw	MPREb_MjRd4KPHONX	UCos_lmslTItUE3JEKl5Tfdg
-98	Another Introduction	Damu The Fudgemunk	How It Should Sound, Vol. 1 & 2	INDIFFERENT	3:00	UTrTrjRzXgQ	MPREb_R94hSoTxmY7	UCos_lmslTItUE3JEKl5Tfdg
 85	The Piano Song	DJ Vadim	USSR:Life From The Other Side	INDIFFERENT	2:46	rx1GIm1YgKE	MPREb_ZnSaBaeEWK6	UCRdWLezKaFvUmCMzCa7ujig
 58	Tropicalifornia (feat. Quantic)	DJ Nu-Mark	Shaka Loves You Joints n' Jams, Vol. 1	INDIFFERENT	4:15	gGDze6lBg08	MPREb_gXjUA1OoX8z	UC3P_59pxdjuWEKd1_2FL9Hg
 71	Tough Break	DJ Nu-Mark	Broken Sunlight	INDIFFERENT	2:02	oZBtCSMchKw	MPREb_A3ck1FsBndX	UC3P_59pxdjuWEKd1_2FL9Hg
@@ -149,7 +150,6 @@
 74	The Old Spot	Clutchy Hopkins And Lord Kenjamin	Music Is My Medicine	INDIFFERENT	2:05	FkRWfCtNCbo	MPREb_QRjgtrUQC3I	UCaMn1SIi30ilM_AS9ZQPOuw
 50	3:06	Clutchy Hopkins	The Life of Clutchy Hopkins	INDIFFERENT	3:08	Tl9pIo7seDw	MPREb_9HNXaHbh9i0	UCaMn1SIi30ilM_AS9ZQPOuw
 60	Sound of the Ghost	Clutchy Hopkins	Walking Backwards	INDIFFERENT	3:05	dIkNRzkoHPM	MPREb_zvHFDE9WkYJ	UCaMn1SIi30ilM_AS9ZQPOuw
-84	Pizza Pizza	Bugseed	Soundcraft	INDIFFERENT	1:32	F4PV-2F7fWE	MPREb_kwxAutuRgIU	UCSubsG0GBlPeNcRqBTDqNdg
 152	Song For Ray	Bronx River Parkway	San Sebastian 152	INDIFFERENT	4:15	Qx16wcxgS20	MPREb_HR5DyzXHWj4	UCxQOnw7Akmej0F-7hOqmHnw
 10	Me & Michelle	Breakestra	Dusk Till Dawn	INDIFFERENT	5:01	_EcB94y_7ec	MPREb_VtlucV8clP8	UC-h8i3AlwjAjUfKca9Z9blQ
 102	Come On Over feat. Afrodyete (feat. Afrodyete)	Breakestra	Dusk Till Dawn	INDIFFERENT	4:27	kNl00x8Ym_M	MPREb_VtlucV8clP8	UC-h8i3AlwjAjUfKca9Z9blQ
