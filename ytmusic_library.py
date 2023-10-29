@@ -16,7 +16,7 @@ DUPLICATE_THRESHOLD = 3
 PLAYLIST_LIMIT = 6000
 
 # Files
-HEADER_FILE = 'headers_auth.json'
+HEADER_FILE = 'oauth.json'
 PLAYLIST_TSV_DIR = './playlists/'
 
 # Track DB Files
