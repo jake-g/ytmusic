@@ -459,6 +459,8 @@ class YTMusicPlaylists:
     def _playlist_is_not_like(self, name,
                               not_like_toks=NOT_LIKE_TOKS):
         name = name.lower()
+        if name.startswith('_'):
+            return False
         if NOT_LIKE_PREFIX in name:
             return True
         for tok in not_like_toks:
@@ -466,8 +468,11 @@ class YTMusicPlaylists:
                 return True
 
     def _playlist_is_like(self, name,
-                          like_toks=LIKE_TOKS, like_playlist_names=LIKE_PLAYLISTS):
+                          like_toks=LIKE_TOKS, 
+                          like_playlist_names=LIKE_PLAYLISTS):
         name = name.lower()
+        if name.startswith('_'):
+            return False
         if self._playlist_is_not_like(name):
             return False
         for t in like_playlist_names:
