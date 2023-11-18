@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 138	Halcyon Age	Vansire	Halcyon Age	LIKE	3:14	sbqN4AlgPxY	MPREb_SNruAemIU3o	UCXnU9Wc2jnOuSo1jzFhAA9g
 37	Aquarium	Nosaj Thing	Views/Octopus EP	LIKE	3:05	UPNfbpsGsrs	MPREb_h4Hb1Gc8mSj	UCg-Tm8zz9_VME3VvV9mVN0Q
+530	Kim & Jessie	M83	Saturdays = Youth	LIKE	5:23	76y8mw14tDM	MPREb_JsO3zwncAa2	UC0UUzwcmD3s1S7NYAxHfs1w
 317	Sometimes	Goth Babe	Sometimes	LIKE	4:22	kQrRNOmTRSA	MPREb_502PPZFKGel	UCRYLLf5FNYqphqp2BtkA0pQ
 39	Air Cal	Com Truise	Galactic Melt	LIKE	4:32	3GPNRcxbwZw	MPREb_QXiyPdFjJFm	UC3G1cV92stSGOy4cLgXmgJQ
 13	It's Late	A Beacon School	Cola	LIKE	6:06	jMjTOhqQ2Bs	MPREb_0pWv7UnQ43w	UCpplRaYTbMS6YbtjQi3y5UA
@@ -202,6 +203,7 @@
 131	Ryan Must Be Destroyed (Wave Racer Remix)	Ryan Hemsworth	Tunesdays	INDIFFERENT	3:05	7uSTDAGHWtU	MPREb_qmsHWfqizSz	UCHccqgrWMi_JxX6bizyE7lQ
 180	Perfectly (Taquwami Remix)	Ryan Hemsworth	Still Awake	INDIFFERENT	3:43	RMxPQptny5U	MPREb_dMmqhYqGkHO	UCHccqgrWMi_JxX6bizyE7lQ
 216	Sound Of Erasing	Rubblebucket	Survival Sounds	INDIFFERENT	3:06	Yk_8CBg-trw	MPREb_pwxYtFuOy20	UCLIe-9VV2P2cnmxYZF_lTcA
+90	Scarves	Rose Quartz	Flashlights	INDIFFERENT	3:59	L3kNlTlwPG4	MPREb_G73h6P3lky7	UCURWjz2A2AtNaAW6O58BzeA
 424	Forgive	Roosevelt feat. Washed Out	Forgive	INDIFFERENT	4:38	fECKHQeQ-rY	MPREb_gDSLUV12gkS	UC7jTDrwBF4FNMX_zzaIC5mQ
 480	Low-Fidelity	Robert Lilly	Low-Fidelity	INDIFFERENT	2:10	Eafcc0kpvZA	MPREb_SBHFyLmrb2s	UCMDFXHZySt2b_TBKc_JFK0A
 416	Strawberries	Ricky Eat Acid	2009-2016 loose tracks	INDIFFERENT	2:52	qwXH5hVXKPE	MPREb_iYOLCFmzK3g	UCALjtt9UMVClsw9HZQ7jwGQ
@@ -289,7 +291,6 @@
 206	Another Night	Mac Miller	On And On And Beyond	INDIFFERENT	2:57	lRMHJRGBbaU	MPREb_Sx96pyvtmOz	UC52ZqHVQz5OoGhvbWiRal6g
 366	Celestial Garden	MIA MOONSHINE	Celestia	INDIFFERENT	7:17	5MWkoQ_gmdc	MPREb_BjeN2AfRL8S	UC9LyduJ1sO8hNC7J4O5-Blg
 115	The Wizard	M83	Junk	INDIFFERENT	2:24	6D1q6WFvlsU	MPREb_DGkcECfjyiy	UC0UUzwcmD3s1S7NYAxHfs1w
-530	Kim & Jessie	M83	Saturdays = Youth	INDIFFERENT	5:23	76y8mw14tDM	MPREb_JsO3zwncAa2	UC0UUzwcmD3s1S7NYAxHfs1w
 548	Deep Dive	Luxe & Leisure	Resort	INDIFFERENT	4:39	m8xTCnBDWuI	MPREb_0DJjXodaeFM	UCeRhuJPI7yVI0jNYyjx1AyQ
 439	Valley Girl	Luvian	Valley Girl	INDIFFERENT	4:47	r2QJPDBVLpQ	MPREb_yKbVtYSNd0G	UC4A0NkwGFrwUWoeM2Y2birw
 199	Midnight Opera	Lunar Plane	Terra Incognita, Vol. 4	INDIFFERENT	8:00	Ryuz1nrW4NE	MPREb_vVn8HdhA6YX	UCXDD1pHOgO_ITUxehaUWm-g
@@ -580,7 +581,6 @@
 89	Petrichor	Xandra	Petrichor			Z5r_QN_MTl4		
 365	No Reasons (Tensnake Remix)	Vega	Fool's Gold Vol.1			KKqzNaWUyh8		
 589	Madison	U.M.S	Madison			D-CwkdT8Npw		
-90	Scarves	Rose Quartz	The Flashlights EP			8x5OaRMF114		
 279	Living Like I'm Dead	Panicky Pete	Living Like I'm Dead			SM7kN00SZwc		
 81	Frames	No Vacancy	Frames			itJjOvM96Rs		
 555	2001: A Space Bop	Mr. Jingles	2001: A Space Bop			18KRDVTRFP4		
