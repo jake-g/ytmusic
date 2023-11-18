@@ -29,7 +29,7 @@ TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
 PLAYLIST_METADATA_TSV_COLS = [
     'title', 'trackCount', 'duration', 'privacy', 'id']
 # LIKE subset
-LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact for _.tsvs
+LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact/limited for _.tsvs
 LIKE_TOKS = ['thumbs_up', ' like', ' likes', ' top']
 LIKE_TRACKS_TSV_FILE = '_liked_tracks.tsv'
 
@@ -47,7 +47,7 @@ ALBUM_TOKS = ['_albums', '  album']
 
 # Manually Curated
 # TODO: load this from some map? maybe repurpose radio like map? also see
-LIKE_PLAYLISTS = [
+LIKE_PLAYLISTS = ['Liked Music',
     'ambient', 'ambient Indie Synths', 'ambient modern like', 'beats', 'Beats indie Chill', 'beats instrumental',
     'blues', 'Bossa Nova', 'brass like', 'Brass n chill', 'Chillwave', 'electronic', 'electronic big beats',
     'electronic chill', 'electronic Dance', 'electronic Focus', 'electronic house french touch', 'electronic house funk',
@@ -70,6 +70,9 @@ VALID_TRACK_RATINGS = ('LIKE', 'DISLIKE', 'INDIFFERENT', 'NONE')
 VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
                         'ALBUM', 'SKIP', 'YT_GENERATED')
 
+
+# Format the date as "month-day-year"
+DATE = datetime.datetime.now().strftime("%m-%d-%Y")
 
 class YTMusicPlaylists:
 
@@ -522,7 +525,7 @@ class YTMusicPlaylists:
         not_like_tracks.to_csv(self.not_like_tsv, sep='\t', header=True)
         like_tracks = self.collect_all_like_tracks_from_tsvs()
         like_tracks.to_csv(self.like_tsv, sep='\t', header=True)
-        print(f'Completed in {(time.time() - start_time) / 60} minutes')
+        print(f'Completed in {(time.time() - start_time) / 60:.1f} minutes')
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS, remove_disliked=False, yt_user='Jake G'):
         tracks, metadata = self.parse_playlist(pl_info, verbose=True)
@@ -659,7 +662,7 @@ class YTMusicPlaylists:
         for pl in not_like_playlists:
             tracks_db_not_liked = pd.read_csv(os.path.join(
                 self.playlist_tsv_dir, pl), sep='\t', index_col=0)
-            tracks_db_not_liked = tracks_db_not_liked
+            tracks_db_not_liked = tracks_db_not_liked.set_index('videoId', drop=True)
             not_like_tracks.append(tracks_db_not_liked)
         not_like_tracks = pd.concat(
             not_like_tracks).sort_values('artist')
@@ -742,24 +745,54 @@ class YTMusicPlaylists:
                 f"{row['artist']} - {row['album']} - {row['title']}")
             if 'likeStatus' in row:
                 track_str += self._decode(f" -> {row['likeStatus']}")
+            if 'albumYear' in row:
+                track_str += self._decode(f" ({row['albumYear']})")
             # if 'averageRating' in row:
             #     track_str += self._decode(f" rating={round(row['averageRating'],2)}")
             # if 'release' in row:
             #     track_str += self._decode(f" ({row['release']})")
-            if 'albumType' in row:
-                track_str += self._decode(f" | {row['albumType']}")
-            if 'albumYear' in row:
-                track_str += self._decode(f" ({row['albumYear']})")
+            # if 'albumType' in row:
+            #     track_str += self._decode(f" | {row['albumType']}")
             print(f"({i}/{len(new_tracks)}): {track_str}")
 
         tracks_w_info = pd.DataFrame(tracks_w_info)
+        tracks_w_info['date_modified'] = DATE
         print('Scraped info for %d tracks' % len(tracks_w_info))
 
         track_db = pd.concat([track_db, tracks_w_info])
+        track_db = self._track_db_dedupe(track_db, keep='last')
         track_db = track_db.sort_values(['artist', 'album'])
         elapsed_t = (time.time() - t0) / 60
         print('Finished in %d minutes' % elapsed_t)
         print('Track database now has %d tracks' % len(track_db))
+        return track_db
+
+    def _track_db_dedupe(self, track_db, keep='last'):
+        # Remove exact duplicate rows, keep the first occurrence
+        _length = len(track_db)
+        track_db = track_db.drop_duplicates(keep=keep)
+        print(f"Removed {_length - len(track_db)} exact duplicate rows")
+
+        # Remove duplicates for rows, ignoring specific columns
+        _length = len(track_db)
+        ignore_cols = ['playlists',  'inLibrary',
+                       'duration', 'artistId', 'albumId']
+        track_db = track_db.drop_duplicates(
+            subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
+        print(f"Removed { _length - len(track_db)} row duplicates",
+              f"(ignoring columns: {ignore_cols})")
+        _length = len(track_db)
+        ignore_cols = ['title',  'album']
+        track_db = track_db.drop_duplicates(
+            subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
+        print(f"Removed { _length - len(track_db)} row duplicates",
+              f"(ignoring columns: {ignore_cols})")
+        
+        # Remove duplicate index rows (ignoring other columns)
+        _length = len(track_db)
+        track_db = track_db[~track_db.index.duplicated(keep=keep)]
+        print(f"Removed {_length - len(track_db)} duplicate index rows")
+        print(f"Final length of track_db: {len(track_db)}")
         return track_db
 
     def _is_valid_date(self, date_str):
