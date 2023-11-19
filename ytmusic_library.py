@@ -197,7 +197,8 @@ class YTMusicPlaylists:
         for i, row in self.playlists.iterrows():
             if filter_title and filter_title.lower() not in row.title.lower():
                 if verbose:
-                    print(f'{i}: Skipping: {row.title}, filter: {filter_title}')
+                    print(f'{i}: Skipping: {row.title},', 
+                          f'filter: {filter_title}')
                 continue
             playlist_info = self.playlist_get_info(row['playlistId'])
             playlists.append({
@@ -489,7 +490,8 @@ class YTMusicPlaylists:
                     like_pl = pl_info["title"].replace('radio', 'like')
                     like_pl_id = self.yt.create_playlist(
                         title=like_pl,
-                        description=f'Created for dumping likes from {pl_info["title"]}',
+                        description=f'Created for dumping likes from {
+                            pl_info["title"]}',
                         privacy_status='PRIVATE', video_ids=like_vids)
                     if verbose:
                         print(f'Created LIKE playlist for '
@@ -579,7 +581,7 @@ class YTMusicPlaylists:
             for skip_str in playlist_skip_starts_with:
                 if p.title.startswith(skip_str):
                     pl_ct[f'playlist_skip_starts_with_{skip_str}'] += 1
-                    print(f' SKIPPING playlist: {p.title}', 
+                    print(f' SKIPPING playlist: {p.title}',
                           f'starts with {skip_str}')
                     continue
 
@@ -630,7 +632,7 @@ class YTMusicPlaylists:
             elif p_info['privacy'] == 'UNLISTED':
                 pl_ct['playlist_privacy_is_unlisted'] += 1
                 if verbose:
-                    print(f' playlist: {p.title} has', 
+                    print(f' playlist: {p.title} has',
                           f'privacy {p_info["privacy"]}')
 
             # Get ratings for playlist tracks
@@ -653,9 +655,11 @@ class YTMusicPlaylists:
                                              radio_playlist_max_like_pct):
                 pl_ct['playlist_kind_not_ok'] += 1
                 print(f'WARNING NOT OK playlist: {p.title} of kind {pl_kind}',
-                      f'({like_percent}% liked) has: {len(ratings["LIKE"])} likes,',
-                      f'{len(ratings["DISLIKE"])} dislikes,{len(ratings["INDIFFERENT"])}',
-                      f'indifferent, {len(ratings["NONE"])} none')
+                      f'({like_percent}% liked) has: {
+                    len(ratings["LIKE"])} likes,',
+                    f'{len(ratings["DISLIKE"])} dislikes,{
+                    len(ratings["INDIFFERENT"])}',
+                    f'indifferent, {len(ratings["NONE"])} none')
 
             # Potentially alter playlist, or generate new playlists
             if do_dry_run:
@@ -836,19 +840,18 @@ class YTMusicPlaylists:
         # Backup playlists and fetch (or load from file) all playlist
         # and library tracks. The set of tracks are missing ytmusic
         # metadata like release year.
-        if skip_playlist_tsv_backup:  # load last backup from file (faster)
-            tracks_no_meta = pd.read_csv(
-                self.tracks_no_meta_tsv, sep='\t', index_col=0)
-        else:  # default do full backup
+        if not skip_playlist_tsv_backup:  # regenerate tracks_no_meta
             tracks_no_meta = self.backup_playlists_and_collect_tracks(
                 remove_disliked=True,
                 include_library_tracks=True)
             tracks_no_meta.to_csv(self.tracks_no_meta_tsv,
                                   sep='\t', header=True)
 
-        # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
+        # Reload tsb dbs
         track_db = pd.read_csv(self.track_db_tsv, sep='\t', index_col=0)
-
+        tracks_no_meta = pd.read_csv(
+            self.tracks_no_meta_tsv, sep='\t', index_col=0)
+        # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
         new_tracks_no_meta = self._track_db_new_or_newly_liked_tracks(
             track_db, tracks_no_meta)
         track_db = self._track_db_update(track_db, new_tracks_no_meta)
@@ -898,15 +901,16 @@ class YTMusicPlaylists:
 
         print(f'Completed in {(time.time() - start_time) / 60:.1f} minutes')
 
-    def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS, remove_disliked=False, yt_user='Jake G'):
+    def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
+                          remove_disliked=False, yt_user='Jake G'):
         tracks, metadata = self.parse_playlist(pl_info, verbose=True)
         tracks['playlists'] = pl_info['title']
         if remove_disliked:
             tracks_disliked = tracks.loc[tracks['likeStatus'] == 'DISLIKE']
             if (len(tracks_disliked) and
                     metadata['author']['name'] == yt_user):
-                print('Removing %d tracks:\n%s' %
-                      (len(tracks_disliked), tracks_disliked['title']))
+                print(f'Removing {len(tracks_disliked)}',
+                      f'tracks:\n{tracks_disliked["title"]}')
                 self.yt.remove_playlist_items(
                     metadata['id'], tracks_disliked.to_dict('records'))
                 tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
@@ -914,7 +918,7 @@ class YTMusicPlaylists:
             tracks = tracks.sort_values(  # Sort tsv by like, then artist
                 ['likeStatus', 'artist'], ascending=False)
             fname = os.path.join(
-                self.playlist_tsv_dir, '%s.tsv' % pl_info['title'])
+                self.playlist_tsv_dir, f'{pl_info['title']}.tsv')
             tracks[track_cols].to_csv(fname, sep='\t', header=True)
         return tracks, metadata
 
@@ -931,35 +935,34 @@ class YTMusicPlaylists:
         all_playlist_info = []
         all_tracks = []
         start_time = time.time()
-        print('Fetching and backing up playlists to %s (~10 min)' %
-              self.playlist_tsv_dir)
+        print(f'Fetching and backing up playlists to',
+              f'{self.playlist_tsv_dir} (~10 min)')
         for i, row in self.playlists.iterrows():
             try:
                 pl_title = self._decode(row['title'])
-                print('\n\n(%d/%d)\t%s' %
-                      (i+1, len(self.playlists), pl_title))
+                print(f'\n\n({i+1}/{len(self.playlists)})\t{pl_title}')
                 playlist_info = self.playlist_get_info(
                     row['playlistId'], playlist_limit=song_lim, use_cache=True)
                 if playlist_info['trackCount'] == 0:
-                    print('Skipping: %s, due to zero tracks' % pl_title)
+                    print(f'Skipping: {pl_title}, due to zero tracks')
                     continue
-                tracks, metadata = self.save_playlist_tsv(playlist_info,
-                                                          remove_disliked=remove_disliked)
+                tracks, metadata = self.save_playlist_tsv(
+                    playlist_info, remove_disliked=remove_disliked)
                 all_playlist_info.append(metadata)
                 all_tracks.append(tracks)
                 print(90*'-')
             except Exception as e:
-                print('Error in playlist %d: %s' % (i, e))
-                print('Error in playlist title: %s' % pl_title)
+                print(f'Error in playlist {i}: {e}')
+                print(f'Error in playlist title: {pl_title}')
 
         # Save playlist info
         playlist_info = pd.DataFrame(all_playlist_info)[metadata_cols]
         playlist_info.sort_values('title', ascending=False).to_csv(os.path.join(
             self.playlist_tsv_dir, '_playlists.tsv'), sep='\t', header=True)
         playlist_elapsed = (time.time() - start_time) / 60
-        print('Backed up playlist metadata:\n%s' % playlist_info)
-        print('Fetched playlist and saved playlist .tsv files in %d minutes' %
-              playlist_elapsed)
+        print(f'Backed up playlist metadata:\n{playlist_info}')
+        print(f'Fetched playlist and saved playlist .tsv files',
+              f'in {playlist_elapsed:.2f} minutes')
 
         if include_library_tracks:
             t1 = time.time()
@@ -968,10 +971,10 @@ class YTMusicPlaylists:
                 self.yt.get_library_songs(limit=song_lim))
             all_tracks.append(library_tracks)
             library_elapsed = (time.time() - t1) / 60
-            print('Fetched and saved %d tracks to _library.tsv in %d minutes\n' %
-                  (len(library_tracks), library_elapsed))
+            print(f'Fetched and saved {len(library_tracks)} tracks',
+                  f'to _library.tsv in {library_elapsed:.2f} minutes\n')
             library_tracks = library_tracks.sort_values('artist')
-            fname = os.path.join(self.playlist_tsv_dir, '%s.tsv' % '_library')
+            fname = os.path.join(self.playlist_tsv_dir, '_library.tsv')
             library_tracks[track_cols].to_csv(fname, sep='\t', header=True)
 
         def _merge_duplicates(group):
@@ -985,9 +988,8 @@ class YTMusicPlaylists:
         unique_tracks = unique_tracks.sort_values(
             ['likeStatus', 'artist'], ascending=False)
         elapsed_minutes = (time.time() - start_time) / 60.0
-        print('Backed up %d playlists and %d tracks in %d minutes to: %s' %
-              (len(playlist_info), len(unique_tracks),
-               elapsed_minutes, self.playlist_tsv_dir))
+        print(f'Backed up {len(playlist_info)} playlists and {len(unique_tracks)}',
+              f'tracks in {elapsed_minutes:.2f} minutes to: {self.playlist_tsv_dir}')
         return unique_tracks
 
     # Functions for aggregating from playlist tsvs
@@ -995,8 +997,8 @@ class YTMusicPlaylists:
         playlist_files = sorted(os.listdir(self.playlist_tsv_dir))
         like_playlists = [pl for pl in playlist_files
                           if self._playlist_is_like(pl.replace('.tsv', ''))]
-        print('Found %d like playlists out of the %d total' %
-              (len(like_playlists), len(playlist_files)))
+        print(f'Found {len(like_playlists)} like playlists out of '
+              f'the {len(playlist_files)} total')
         like_tracks = []
         for pl in like_playlists:
             track_df = pd.read_csv(os.path.join(
@@ -1004,31 +1006,32 @@ class YTMusicPlaylists:
             tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
             tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
             like_tracks.append(tracks_db_liked)
-            print('%s\t%0.1f%% currently liked (of %d total tracks) ' %
-                  (pl, 100*len(tracks_db_liked)/len(track_df), len(track_df)))
+            liked_percent = 100 * len(tracks_db_liked) / len(track_df)
+            print(f'{pl}\t{liked_percent:0.1f}% currently liked '
+                  f'(of {len(track_df)} total tracks)')
         like_tracks = pd.concat(
             like_tracks).sort_values('artist')
         like_tracks = like_tracks.loc[
             ~like_tracks.index.duplicated(keep='first'), tsv_header]
         # Load already existing like list tsv
         like_tracks = pd.read_csv(self.like_tsv, sep='\t', index_col=0)
-        assert_msg = 'Expected %s to have header %s, not: %s' % (
-            self.like_tsv, tsv_header, like_tracks.columns)
+        assert_msg = (f'Expected {self.like_tsv} to have header {tsv_header}, '
+                      f'not: {like_tracks.columns}')
         assert list(like_tracks.columns) == tsv_header, assert_msg
         # Update and save tsv, append new like tracks in db but not in like list
         new_like_tracks = like_tracks.loc[frozenset(
             like_tracks.index) - frozenset(like_tracks.index)]
         all_like_tracks = pd.concat([like_tracks, new_like_tracks])
-        print('Updated liked tracks with %d new entries (from %d to %d).' % (
-            len(new_like_tracks), len(like_tracks), len(all_like_tracks)))
+        print(f'Updated liked tracks with {len(new_like_tracks)} new entries '
+              f'(from {len(like_tracks)} to {len(all_like_tracks)}).')
         return like_tracks
 
     def collect_all_not_like_tracks_from_tsvs(self, tsv_header=LIKE_TRACKS_HEADER):
         playlist_files = sorted(os.listdir(self.playlist_tsv_dir))
         not_like_playlists = [pl for pl in playlist_files
                               if self._playlist_is_not_like(pl.replace('.tsv', ''))]
-        print('Found %d not like playlists out of the %d total' %
-              (len(not_like_playlists), len(playlist_files)))
+        print(f'Found {len(not_like_playlists)} not like playlists',
+              f'out of the {len(playlist_files)} total')
         not_like_tracks = []
         for pl in not_like_playlists:
             tracks_db_not_liked = pd.read_csv(os.path.join(
@@ -1040,8 +1043,8 @@ class YTMusicPlaylists:
             not_like_tracks).sort_values('artist')
         not_like_tracks = not_like_tracks.loc[~not_like_tracks.index.duplicated(
             keep='first'), tsv_header]
-        print('Updated not liked tracks, contains %d entries.' %
-              (len(not_like_tracks)))
+        print(f'Updated not liked tracks, contains',
+              f'{len(not_like_tracks)} entries.')
         return not_like_tracks
 
     # Functions for dealing with track db tsv
@@ -1060,24 +1063,24 @@ class YTMusicPlaylists:
             if col not in song:
                 continue
             if col == 'release' and not self._is_valid_date(song['release']):
-                print(
-                    f'\tSkipping release field, not a valid date: {track_str}')
+                print(f'\tSkipping release field,',
+                      f'not a valid date: {track_str}')
                 continue
             row[col] = song[col]
         if row['albumId'] and type(row['albumId']) == str:
             try:
                 album = self.yt.get_album(row.albumId)
             except Exception as e:
-                print(
-                    f'ERROR running: get_album(albumID)\n{e} for row: {track_str}')
+                print(f'ERROR running: get_album(albumID)\n',
+                      f'{e} for row: {track_str}')
                 return row
             if len(album['artists']):
                 row['albumArtist'] = album['artists'][0]['name']
             elif len(album['tracks']) and len(album['tracks'][0]['artists']):
                 row['albumArtist'] = album['tracks'][0]['artists'][0]['name']
             else:
-                print(
-                    f'\nERROR Failed: len(album["artists"]) for album:  {track_str}')
+                print(f'\nERROR Failed: len(album["artists"])',
+                      f'for album:  {track_str}')
             for col in copy_album_cols:
                 if col not in album:
                     continue
@@ -1085,8 +1088,8 @@ class YTMusicPlaylists:
                 if album[col]:
                     row[new_col] = album[col]
                 else:
-                    print(
-                        f'\nERROR column {col} not in albums: {track_str}')
+                    print(f'\nERROR column {col} not in',
+                          f'albums: {track_str}')
         return row
 
     def _track_db_new_or_newly_liked_tracks(self, track_db, tracks_no_meta):
@@ -1110,7 +1113,7 @@ class YTMusicPlaylists:
         i = 0
         tracks_w_info = []
         t0 = time.time()
-        for vid, row in new_tracks.iterrows():
+        for _, row in new_tracks.iterrows():
             i += 1
             tracks_w_info.append(self._track_db_get_track_info(row))
             track_str = self._decode(
@@ -1126,17 +1129,15 @@ class YTMusicPlaylists:
             # if 'albumType' in row:
             #     track_str += self._decode(f" | {row['albumType']}")
             print(f"({i}/{len(new_tracks)}): {track_str}")
-
         tracks_w_info = pd.DataFrame(tracks_w_info)
         tracks_w_info['date_modified'] = DATE
-        print('Scraped info for %d tracks' % len(tracks_w_info))
-
+        print(f'Scraped info for {len(tracks_w_info)} tracks')
         track_db = pd.concat([track_db, tracks_w_info])
         track_db = self._track_db_dedupe(track_db, keep='last')
         track_db = track_db.sort_values(['artist', 'album'])
         elapsed_t = (time.time() - t0) / 60
-        print('Finished in %d minutes' % elapsed_t)
-        print('Track database now has %d tracks' % len(track_db))
+        print(f'Finished in {elapsed_t} minutes')
+        print(f'Track database now has {len(track_db)} tracks')
         return track_db
 
     def _track_db_dedupe(self, track_db, keep='last'):
@@ -1151,13 +1152,13 @@ class YTMusicPlaylists:
                        'duration', 'artistId', 'albumId']
         track_db = track_db.drop_duplicates(
             subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
-        print(f"Removed { _length - len(track_db)} row duplicates",
+        print(f"Removed {_length - len(track_db)} row duplicates",
               f"(ignoring columns: {ignore_cols})")
         _length = len(track_db)
         ignore_cols = ['title',  'album']
         track_db = track_db.drop_duplicates(
             subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
-        print(f"Removed { _length - len(track_db)} row duplicates",
+        print(f"Removed {_length - len(track_db)} row duplicates",
               f"(ignoring columns: {ignore_cols})")
 
         # Remove duplicate index rows (ignoring other columns)
