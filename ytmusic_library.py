@@ -15,12 +15,19 @@ DUPLICATE_THRESHOLD = 3
 PLAYLIST_LIMIT = 6000
 
 # Settings for automated radio playlist like dislike not like cleanup.
-RADIO_CLEAN_SKIP = False
-RADIO_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
-RADIO_CLEAN_MOVE_LIKE = True
-RADIO_CLEAN_CREATE_LIKE_PLAYLIST = True
-# Split radio playlists with at least this many likes
-RADIO_CLEAN_MIN_LIKE_TO_SPLIT = 10
+SKIP_PLAYLIST_CLEAN = False
+PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
+PLAYLIST_CLEAN_MOVE_LIKE = True
+PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST = True
+PLAYLIST_CLEAN_DRY_RUN = False
+PLAYLIST_CLEAN_SKIP_IF_DISLIKE = True
+PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT = 10
+PLAYLIST_CLEAN_LIKE_MIN_LIKE_PCT = 80
+PLAYLIST_CLEAN_NOT_LIKE_MAX_LIKE_PCT = 20
+PLAYLIST_CLEAN_RADIO_MAX_LIKE_PCT = 50
+PLAYLIST_CLEAN_DUPLICATE_THRESH = 5
+PLAYLIST_SKIP_STARTS_WITH = ['zz not like']
+PLAYLIST_CLEAN_SKIP_KINDS = ('SKIP', 'ALBUM', 'YT_GENERATED')
 
 # Files
 HEADER_FILE = 'oauth.json'
@@ -59,6 +66,8 @@ NEED_RATE_TSV_FILE = '_ytmusic_new_like_and_not_like_need_manual_rating.tsv'
 PLAYLIST_RADIO_COUNT_TSV_FILE = '_playlist_radio_counts.tsv'
 # Results for automated radio playlist like dislike not like cleanup.
 RADIO_PLAYLIST_CLEANUP_TSV_FILE = '_ytmusic_cleanup_radio_playlists_results.tsv'
+LIKE_PLAYLIST_CLEANUP_TSV_FILE = '_ytmusic_cleanup_like_playlists_results.tsv'
+PLAYLIST_CLEANUP_COUNTERS_TSV_FILE = '_ytmusic_cleanup_playlist_counters.tsv'
 
 # Playlists for liked tracks
 LIKE_PLAYLISTS_TSV_FILE = '_like_playlists.tsv'
@@ -87,6 +96,8 @@ class YTMusicPlaylists:
                  radio_to_like_map_file=RADIO_TO_LIKE_MAP_FILE,
                  radio_count_file=PLAYLIST_RADIO_COUNT_TSV_FILE,
                  radio_cleanup_file=RADIO_PLAYLIST_CLEANUP_TSV_FILE,
+                 like_cleanup_file=LIKE_PLAYLIST_CLEANUP_TSV_FILE,
+                 cleanup_counters_file=PLAYLIST_CLEANUP_COUNTERS_TSV_FILE,
                  manual_rate_tsv=MANUALLY_RATED_TSV_FILE,
                  valid_playlist_kinds=VALID_PLAYLIST_KINDS,
                  valid_track_ratings=VALID_TRACK_RATINGS,
@@ -95,26 +106,29 @@ class YTMusicPlaylists:
         self._valid_playlist_kinds = valid_playlist_kinds
         self._valid_ratings = valid_track_ratings
         # Paths
-        self.track_db_tsv = os.path.join(playlist_tsv_dir, track_db_file)
-        self.tracks_no_meta_tsv = os.path.join(
-            playlist_tsv_dir, tracks_no_meta_file)
-        self.lastfm_tsv = os.path.join(playlist_tsv_dir, lastfm_playcount_file)
-        self.not_like_tsv = os.path.join(playlist_tsv_dir, not_like_tsv_file)
-        self.like_tsv = os.path.join(playlist_tsv_dir, like_tsv_file)
-        self.manual_rate_tsv = os.path.join(playlist_tsv_dir, manual_rate_tsv)
-        self.need_rate_tsv = os.path.join(playlist_tsv_dir, need_rate_tsv)
-        self.radio_count_file = os.path.join(
-            playlist_tsv_dir, radio_count_file)
-        self.radio_cleanup_file = os.path.join(
-            playlist_tsv_dir, radio_cleanup_file)
+        jn = os.path.join
+        self.track_db_tsv = jn(playlist_tsv_dir, track_db_file)
+        self.tracks_no_meta_tsv = jn(playlist_tsv_dir, tracks_no_meta_file)
+        self.lastfm_tsv = jn(playlist_tsv_dir, lastfm_playcount_file)
+        self.not_like_tsv = jn(playlist_tsv_dir, not_like_tsv_file)
+        self.like_tsv = jn(playlist_tsv_dir, like_tsv_file)
+        self.manual_rate_tsv = jn(playlist_tsv_dir, manual_rate_tsv)
+        self.need_rate_tsv = jn(playlist_tsv_dir, need_rate_tsv)
+        self.radio_count_file = jn(playlist_tsv_dir, radio_count_file)
+        self.radio_cleanup_file = jn(playlist_tsv_dir, radio_cleanup_file)
+        self.like_cleanup_file = jn(playlist_tsv_dir, like_cleanup_file)
+        self.cleanup_counters_file = jn(
+            playlist_tsv_dir, cleanup_counters_file)
+        self.like_playlist_file = jn(playlist_tsv_dir, like_playlist_file)
         self.playlist_limit = playlist_limit
+        self.radio_like_map_file = jn(playlist_tsv_dir, radio_to_like_map_file)
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header)
         # Load small files right away
-        self._like_playlist_titles = pd.read_csv(os.path.join(
-            playlist_tsv_dir, like_playlist_file), sep='\t')['title'].str.lower().tolist()
-        self._radio_to_like_map = pd.read_csv(os.path.join(
-            playlist_tsv_dir, radio_to_like_map_file), sep='\t')
+        self._like_playlist_titles = pd.read_csv(self.like_playlist_file, sep='\t')[
+            'title'].str.lower().tolist()
+        self._radio_to_like_map = pd.read_csv(
+            self.radio_like_map_file, sep='\t')
         self.banned_vid_set = frozenset(pd.read_csv(
             self.not_like_tsv, sep='\t', index_col=0).index)
         # Load this later, intialize empty for now
@@ -425,7 +439,7 @@ class YTMusicPlaylists:
 
     def clean_up_radio_playlist(
             self, pl_info, verbose=False,
-            move_like=False, min_num_like=RADIO_CLEAN_MIN_LIKE_TO_SPLIT,
+            move_like=False, min_num_like=10,
             sleep=1, create_like_playlist=False,
             remove_dislike=True, remove_not_like=False):
         not_like_vids = self.banned_vid_set
@@ -545,39 +559,147 @@ class YTMusicPlaylists:
             time.sleep(sleep)
         return pl_counters
 
-    def clean_up_all_radio_playlists(self, verbose=False,
-                                     move_like=False, min_num_like=10,
-                                     sleep=1, create_like_playlist=False,
-                                     remove_dislike=True, remove_not_like=False):
+    def clean_playlists(self, do_dry_run=False, verbose=False, move_like=True,
+                        min_num_like=10, sleep=1, create_like_playlist=True,
+                        remove_not_like=True, remove_dislike=True,
+                        playlist_skip_kinds=('SKIP', 'ALBUM', 'YT_GENERATED'),
+                        skip_if_dislike=True, like_playlist_min_like_pct=80,
+                        not_like_playlist_max_like_pct=20,
+                        radio_playlist_max_like_pct=50, duplicate_threshold=5,
+                        playlist_skip_starts_with=['zz not like']):
+        pl_ct = defaultdict(int)
+        like_results, radio_results = {}, {}
+        playlists_kinds = {k: set() for k in self._valid_playlist_kinds}
+        n_playlists = len(self.playlists)
+        print(f'Attempting to clean {n_playlists} playlists')
+        for i, p in self.playlists.iterrows():
+            if (i+1) % 100 == 0:
+                print(f'{i+1} of {n_playlists} playlists processed')
+            pl_ct['playlists_processed'] += 1
+            for skip_str in playlist_skip_starts_with:
+                if p.title.startswith(skip_str):
+                    pl_ct[f'playlist_skip_starts_with_{skip_str}'] += 1
+                    print(f' SKIPPING playlist: {p.title}', 
+                          f'starts with {skip_str}')
+                    continue
 
-        map_df = self._radio_to_like_map
-        print(f'Loaded playlist map with {len(map_df)} manual entries')
-        no_match_like = map_df.loc[map_df['like_playlist'].isna()]
-        if len(no_match_like):
-            print(f'WARNING: {len(no_match_like)} do',
-                  f'not have a match:\n{no_match_like}')
+            if verbose:
+                print(f"Playlist: {p.title} ({p.playlistId})',
+                      f'has {p['count']} tracks")
 
-        results = {}
-        for pl in self.playlists.itertuples():
-            if 'radio' not in pl.title:
+            # Infer playlist kind from title, default to LIKE if nothing inferred
+            pl_kind = self.infer_playlist_kind(p)
+
+            # Maybe skip playlist right away
+            # Skip when unable to infer kind (ideally this is not called)
+            if not pl_kind:
+                pl_ct['playlist_kind_not_inferred'] += 1
+                print(f'SKIPPING playlist: {p.title} can not infer kind',
+                      f'for playlist need manual fix (add to _like_playlists.tsv?)')
                 continue
-            if pl.title in results:
+            pl_ct[f'playlist_kind_is_{pl_kind.lower()}'] += 1
+
+            # Decide to skip playlist based on playlist kind
+            playlists_kinds[pl_kind].add(p.title)
+            if pl_kind in playlist_skip_kinds:
+                pl_ct['playlist_kind_in_playlist_skip_list'] += 1
                 if verbose:
-                    print(f'Already results {pl.title}')
+                    print(f'SKIPPING playlist: {p.title} as it is',
+                          f'a kind flagged for skipping: {pl_kind}')
                 continue
 
-            results[pl.title] = self.clean_up_radio_playlist(
-                pl_info=self.playlist_get_info(pl.playlistId, use_cache=True),
-                verbose=verbose, sleep=sleep,
-                move_like=move_like, min_num_like=min_num_like, create_like_playlist=create_like_playlist,
-                remove_dislike=remove_dislike,  remove_not_like=remove_not_like)
+            # Query playlist tracks and other metadata
+            p_info = self.playlist_get_info(
+                p.playlistId, playlist_limit=self.playlist_limit)
+            if p_info['trackCount'] == 0:
+                pl_ct['playlist_is_empty'] += 1
+                print(f'SKIPPING playlist: {p.title} No tracks in playlist')
+                continue
+            # Check max length of playlist
+            if len(p_info['tracks']) >= self.playlist_limit:
+                pl_ct[f'playlist_has_>{self.playlist_limit}_limit'] += 1
+                print(f'SKIPPING playlist: {p.title} which has',
+                      f'{self.playlist_limit} or more tracks ({len(p_info["tracks"])})')
+                continue
+            # Check playlist privacy
+            if p_info['privacy'] == 'PUBLIC':
+                pl_ct['playlist_is_public'] += 1
+                print(f'SKIPPING playlist: {p.title} which has',
+                      f'privacy: {p_info["privacy"]}')
+                continue
+            elif p_info['privacy'] == 'UNLISTED':
+                pl_ct['playlist_privacy_is_unlisted'] += 1
+                if verbose:
+                    print(f' playlist: {p.title} has', 
+                          f'privacy {p_info["privacy"]}')
 
-        count_cols = ['removed_dislike', 'moved_like',
-                      'removed_not_like', 'like_and_not_like']
-        results = pd.DataFrame(results).T.sort_values('moved_like')
-        results['total_changes'] = results[count_cols].sum(axis=1)
-        results = results.sort_values('total_changes', ascending=False)
-        return results
+            # Get ratings for playlist tracks
+            ratings = {k: set() for k in self._valid_ratings}
+            for track in p_info["tracks"]:
+                pl_ct['track_processed'] += 1
+                if track["likeStatus"] not in ratings.keys():
+                    pl_ct['track_rating_is_none'] += 1
+                    ratings['NONE'].add(track["videoId"])
+                else:
+                    pl_ct['track_rating_exists'] += 1
+                    ratings[track["likeStatus"]].add(track["videoId"])
+
+            # See if playlist is correctly flagged as LIKE or RADIO
+            like_percent = round(
+                100*len(ratings["LIKE"])/len(p_info["tracks"]))
+            if not self._is_playlist_kind_ok(pl_kind, like_percent,
+                                             like_playlist_min_like_pct,
+                                             not_like_playlist_max_like_pct,
+                                             radio_playlist_max_like_pct):
+                pl_ct['playlist_kind_not_ok'] += 1
+                print(f'WARNING NOT OK playlist: {p.title} of kind {pl_kind}',
+                      f'({like_percent}% liked) has: {len(ratings["LIKE"])} likes,',
+                      f'{len(ratings["DISLIKE"])} dislikes,{len(ratings["INDIFFERENT"])}',
+                      f'indifferent, {len(ratings["NONE"])} none')
+
+            # Potentially alter playlist, or generate new playlists
+            if do_dry_run:
+                continue
+
+            # Remove duplicates from playlist
+            new_pl_id = self.playlist_remove_duplicates(
+                p_info, duplicate_threshold, verbose=verbose)
+            if p.playlistId != new_pl_id:
+                p.playlistId = new_pl_id
+                pl_ct['playlist_removed_duplicates'] += 1
+                p_info = self.playlist_get_info(
+                    new_pl_id, playlist_limit=self.playlist_limit, use_cache=False)
+
+            # Like all tracks in playlist if kind is LIKE
+            if pl_kind == 'LIKE':
+                like_results[p.title] = self.playlist_rate_all_songs(
+                    p_info, rating=pl_kind, skip_if_dislike=skip_if_dislike,
+                    verbose=verbose, sleep_time=sleep)
+                continue
+            # Split radio playlist into LIKE vs RADIO
+            elif pl_kind == 'INDIFFERENT':
+                radio_results[p.title] = self.clean_up_radio_playlist(
+                    pl_info=self.playlist_get_info(
+                        p.playlistId, use_cache=True),
+                    verbose=verbose, sleep=sleep,
+                    move_like=move_like, min_num_like=min_num_like,
+                    create_like_playlist=create_like_playlist,
+                    remove_dislike=remove_dislike,  remove_not_like=remove_not_like)
+                continue
+
+        # Package results
+        pl_ct = pd.DataFrame.from_dict(dict(pl_ct), orient='index')
+        pl_ct.columns = ['count']
+        print(f'Final Playlist Cleanup Counters:\n{pl_ct}')
+
+        like_results = pd.DataFrame(like_results).T.sort_values(
+            'track_rated', ascending=False)
+
+        radio_results = pd.DataFrame(radio_results).T.sort_values('moved_like')
+        radio_results['total_changes'] = radio_results.sum(axis=1)
+        radio_results = radio_results.sort_values(
+            'total_changes', ascending=False)
+        return like_results, radio_results, pl_ct
 
     def playlist_rate_all_songs(self, pl_info, rating, sleep_time=0.5,
                                 verbose=False, skip_if_dislike=False,
@@ -747,16 +869,32 @@ class YTMusicPlaylists:
             filter_title='radio', verbose=False)
         radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
 
+        # General automated task playlist todos
+        # TODO add playlist to super playliusts if exist see pdf
+        # TODO auto generate some date based like playlsiysd
+        # TODO move based on playcount (if not LIKE infer NOT_LIKE based on large playcount)
+
         # Clean radio playlists, move like, dislike, not_like.
-        if not RADIO_CLEAN_SKIP:
-            radio_clean_df = self.clean_up_all_radio_playlists(
-                verbose=True, sleep=1,
-                move_like=RADIO_CLEAN_MOVE_LIKE,
-                min_num_like=RADIO_CLEAN_MIN_LIKE_TO_SPLIT,
-                create_like_playlist=RADIO_CLEAN_CREATE_LIKE_PLAYLIST,
-                remove_dislike=RADIO_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
-                remove_not_like=RADIO_CLEAN_RM_NOT_LIKE_AND_DISLIKE)
-            radio_clean_df.to_csv(self.radio_cleanup_file, sep='\t')
+        if not SKIP_PLAYLIST_CLEAN:
+            like_results, radio_results, pl_counters = self.clean_playlists(
+                verbose=False, sleep=1,
+                do_dry_run=PLAYLIST_CLEAN_DRY_RUN,
+                move_like=PLAYLIST_CLEAN_MOVE_LIKE,
+                min_num_like=PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT,
+                create_like_playlist=PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST,
+                remove_dislike=PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
+                remove_not_like=PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
+                playlist_skip_kinds=PLAYLIST_CLEAN_SKIP_KINDS,
+                skip_if_dislike=PLAYLIST_CLEAN_SKIP_IF_DISLIKE,
+                like_playlist_min_like_pct=PLAYLIST_CLEAN_LIKE_MIN_LIKE_PCT,
+                not_like_playlist_max_like_pct=PLAYLIST_CLEAN_NOT_LIKE_MAX_LIKE_PCT,
+                radio_playlist_max_like_pct=PLAYLIST_CLEAN_RADIO_MAX_LIKE_PCT,
+                duplicate_threshold=PLAYLIST_CLEAN_DUPLICATE_THRESH,
+                playlist_skip_starts_with=PLAYLIST_SKIP_STARTS_WITH
+            )
+            like_results.to_csv(self.like_cleanup_file, sep='\t')
+            radio_results.to_csv(self.radio_cleanup_file, sep='\t')
+            pl_counters.to_csv(self.cleanup_counters_file, sep='\t')
 
         print(f'Completed in {(time.time() - start_time) / 60:.1f} minutes')
 
