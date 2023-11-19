@@ -196,6 +196,9 @@ class YTMusicPlaylists:
 
     # Generate a tsv for tracks to review LIKE/NOT_LIKE status
     def get_like_not_like_tracks_to_review(self):
+        review_cols = ['category', 'manual_rating', 'likeStatus', 'title', 'album', 'artist',
+                       'date_modified', 'playlists', 'averageRating', 'viewCount', 'release',
+                       'albumYear', 'albumType', 'albumTrackCount', 'keywords', 'fuzzy_track_id']
         import sys
         module_path = os.path.abspath(os.path.join('../music-sources-unified'))
         if module_path not in sys.path:
@@ -325,6 +328,9 @@ class YTMusicPlaylists:
         need_review = pd.concat([v.assign(category=k)
                                 for k, v in like_not_like_res.items()])
         print(f'{len(need_review)} entries need like or not like manual review')
+        need_review['manual_rating'] = ''
+        need_review = need_review.drop_duplicates(keep='last')
+        need_review[review_cols].to_csv(Y.need_rate_tsv, sep='\t', index=True)
         return need_review
 
     def playlist_get_info(self, playlistId,
