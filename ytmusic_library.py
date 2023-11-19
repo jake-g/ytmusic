@@ -28,8 +28,9 @@ TRACK_TSV_COLS = ['title', 'artist', 'album', 'likeStatus',
 TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
 PLAYLIST_METADATA_TSV_COLS = [
     'title', 'trackCount', 'duration', 'privacy', 'id']
+LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
 # LIKE subset
-LIKE_TRACKS_HEADER = ['title', 'album', 'artist']  # more compact/limited for _.tsvs
+
 LIKE_TOKS = ['thumbs_up', ' like', ' likes', ' top']
 LIKE_TRACKS_TSV_FILE = '_liked_tracks.tsv'
 
@@ -44,25 +45,30 @@ RADIO_TO_LIKE_MAP_FILE = '_ytmusic_radio_to_like_pl_map.tsv'
 SKIP_STARTS_WITH_TOKS = ['zz']
 ALBUM_TOKS = ['_albums', '  album']
 
+# For get_like_not_like_tracks_to_review()
+MANUALLY_RATED_TSV_FILE = '_ytmusic_new_like_and_not_like_manual_rated.tsv'
+NEED_RATE_TSV_FILE = '_ytmusic_new_like_and_not_like_need_manual_rating.tsv'
+# For get_playlist_counts()
+PLAYLIST_RADIO_COUNT_TSV_FILE = '_playlist_radio_counts.tsv'
 
 # Manually Curated
 # TODO: load this from some map? maybe repurpose radio like map? also see
 LIKE_PLAYLISTS = ['Liked Music',
-    'ambient', 'ambient Indie Synths', 'ambient modern like', 'beats', 'Beats indie Chill', 'beats instrumental',
-    'blues', 'Bossa Nova', 'brass like', 'Brass n chill', 'Chillwave', 'electronic', 'electronic big beats',
-    'electronic chill', 'electronic Dance', 'electronic Focus', 'electronic house french touch', 'electronic house funk',
-    'electronic House Special', 'electronic Innerwaves', 'electronic new indie beats', 'electronic soft pad', 'Folk',
-    'future bass', 'future beats', 'future garage', 'futurebeat_rap', 'garage rock', 'goth 1980s', 'Grunge', 'Hip Hop 1990s',
-    'Hip Hop 2000s', 'Hip Hop Hits', 'Hip hop It Was a Good Day', 'hiphop', 'hiphop 2000s southern', 'hiphop jazzy',
-    'hiphop modern', 'hiphop old school', 'hiphop soul good vibe', 'indie', 'Indie 1990s Rock', 'Indie 2000s', 'indie folk',
-    'indie loose', 'jazz', 'jazz cool', 'jazz gloom smooth', 'jazz guitar', 'jazz noir', 'like_playlist', 'my balls your chill',
-    'nudisco', 'nudisco smooth', 'Oldies', 'oldies 1950s', 'oldies 1960s', 'oldies doo wop', 'oldies Jukebox Vintage Party',
-    'post rock slow core', 'Post-Punk 1970s-1980s', 'Produced By Dilla', 'Produced by DJ Premier', 'Produced by kanye',
-    'psych rock modern', 'psychedelic classic rock', 'punk 1970s', 'Reggae', 'reggae classic', 'Reggae Dub', 'reggae modern',
-    'rnb dj', 'rock 1950s roots', 'rock 1960s classic', 'rock 1967 Monterey Pop Festival', 'Rock 1980s Pop New Wave', 'rock 1990s',
-    'rock instrumentals classic vintage', 'rock krautrock', 'rock modern chill', 'rock proto metal', 'rock stoner sludge dank',
-    'Shoegaze', 'soul 1960s', 'Soul Classic Sunshine', 'soul funk', 'soul motown', 'trip hop', 'triphop bristol sound'
-]
+                  'ambient', 'ambient Indie Synths', 'ambient modern like', 'beats', 'Beats indie Chill', 'beats instrumental',
+                  'blues', 'Bossa Nova', 'brass like', 'Brass n chill', 'Chillwave', 'electronic', 'electronic big beats',
+                  'electronic chill', 'electronic Dance', 'electronic Focus', 'electronic house french touch', 'electronic house funk',
+                  'electronic House Special', 'electronic Innerwaves', 'electronic new indie beats', 'electronic soft pad', 'Folk',
+                  'future bass', 'future beats', 'future garage', 'futurebeat_rap', 'garage rock', 'goth 1980s', 'Grunge', 'Hip Hop 1990s',
+                  'Hip Hop 2000s', 'Hip Hop Hits', 'Hip hop It Was a Good Day', 'hiphop', 'hiphop 2000s southern', 'hiphop jazzy',
+                  'hiphop modern', 'hiphop old school', 'hiphop soul good vibe', 'indie', 'Indie 1990s Rock', 'Indie 2000s', 'indie folk',
+                  'indie loose', 'jazz', 'jazz cool', 'jazz gloom smooth', 'jazz guitar', 'jazz noir', 'like_playlist', 'my balls your chill',
+                  'nudisco', 'nudisco smooth', 'Oldies', 'oldies 1950s', 'oldies 1960s', 'oldies doo wop', 'oldies Jukebox Vintage Party',
+                  'post rock slow core', 'Post-Punk 1970s-1980s', 'Produced By Dilla', 'Produced by DJ Premier', 'Produced by kanye',
+                  'psych rock modern', 'psychedelic classic rock', 'punk 1970s', 'Reggae', 'reggae classic', 'Reggae Dub', 'reggae modern',
+                  'rnb dj', 'rock 1950s roots', 'rock 1960s classic', 'rock 1967 Monterey Pop Festival', 'Rock 1980s Pop New Wave', 'rock 1990s',
+                  'rock instrumentals classic vintage', 'rock krautrock', 'rock modern chill', 'rock proto metal', 'rock stoner sludge dank',
+                  'Shoegaze', 'soul 1960s', 'Soul Classic Sunshine', 'soul funk', 'soul motown', 'trip hop', 'triphop bristol sound'
+                  ]
 
 
 # Constants
@@ -74,6 +80,7 @@ VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
 # Format the date as "month-day-year"
 DATE = datetime.datetime.now().strftime("%m-%d-%Y")
 
+
 class YTMusicPlaylists:
 
     def __init__(self, header=HEADER_FILE,
@@ -83,7 +90,10 @@ class YTMusicPlaylists:
                  tracks_no_meta_file=TRACKS_NO_META_FILE,
                  like_tsv_file=LIKE_TRACKS_TSV_FILE,
                  not_like_tsv_file=NOT_LIKE_TRACKS_TSV_FILE,
+                 need_rate_tsv=NEED_RATE_TSV_FILE,
                  radio_to_like_map_file=RADIO_TO_LIKE_MAP_FILE,
+                 radio_count_file=PLAYLIST_RADIO_COUNT_TSV_FILE,
+                 manual_rate_tsv=MANUALLY_RATED_TSV_FILE,
                  playlist_limit=PLAYLIST_LIMIT):
         self.playlist_tsv_dir = playlist_tsv_dir
         self.track_db_tsv = os.path.join(playlist_tsv_dir, track_db_file)
@@ -92,6 +102,10 @@ class YTMusicPlaylists:
         self.lastfm_tsv = os.path.join(playlist_tsv_dir, lastfm_playcount_file)
         self.not_like_tsv = os.path.join(playlist_tsv_dir, not_like_tsv_file)
         self.like_tsv = os.path.join(playlist_tsv_dir, like_tsv_file)
+        self.manual_rate_tsv = os.path.join(playlist_tsv_dir, manual_rate_tsv)
+        self.need_rate_tsv = os.path.join(playlist_tsv_dir, need_rate_tsv)
+        self.radio_count_file = os.path.join(
+            playlist_tsv_dir, radio_count_file)
         self.playlist_limit = playlist_limit
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header)
@@ -157,7 +171,12 @@ class YTMusicPlaylists:
         return pd.concat(out_playlists)
 
     def get_playlist_counts(self, verbose=False, filter_title=None):
+        count_df_cols = ['title', 'track_count',
+                         'duration_hours', 'privacy', 'playlist_id']
         playlists = []
+        print('Getting playlist track count for playlists (takes ~5 minutes)')
+        if filter_title:
+            print(f'Only for playlists with {filter_title} in the title')
         for i, row in self.playlists.iterrows():
             if filter_title and filter_title.lower() not in row.title.lower():
                 if verbose:
@@ -173,7 +192,140 @@ class YTMusicPlaylists:
             })
             if verbose:
                 print(f'{i}: {playlists[-1]}')
-        return pd.DataFrame(playlists).sort_values('track_count', ascending=False)
+        return pd.DataFrame(playlists)[count_df_cols].sort_values('track_count')
+
+    # Generate a tsv for tracks to review LIKE/NOT_LIKE status
+    def get_like_not_like_tracks_to_review(self):
+        import sys
+        module_path = os.path.abspath(os.path.join('../music-sources-unified'))
+        if module_path not in sys.path:
+            sys.path.append(module_path)
+        import unify_lib as uni
+
+        all_df = pd.read_csv(self.track_db_tsv, sep='\t', index_col=0)
+        all_df['fuzzy_track_id'] = all_df.apply(
+            uni.make_ytmusic_fuzzy_slugified_track_id, axis=1)
+
+        like_df = pd.read_csv(self.like_tsv, sep='\t', index_col=0)
+        not_like_df = pd.read_csv(self.not_like_tsv, sep='\t', index_col=0)
+
+        print(f'Loaded {len(like_df)} like, {len(not_like_df)} not like entries,',
+              f'and {len(all_df)} total tracks')
+        like_df = all_df.loc[all_df.index.isin(like_df.index)]
+        not_like_df = all_df.loc[all_df.index.isin(not_like_df.index)]
+        print(f'Loaded {len(not_like_df)} not like entries,',
+              f'that have an entry in ALL_TRACKS')
+        not_like_df = not_like_df.loc[not_like_df['likeStatus'] != 'LIKE']
+        print(f'Keeping {len(not_like_df)} not like after remove LIKE')
+
+        not_like_vids = frozenset(not_like_df.index)
+        like_vids = frozenset(like_df.index)
+        # LIKE
+        like_fuzzy_ids = frozenset(like_df['fuzzy_track_id'])
+        like_impacted_playlists = []
+        new_likes = set()
+        skip_not_like = set()
+        print('Processing LIKE tracks (takes ~4 minutes)')
+        for fuzzy_track_id in like_fuzzy_ids:
+            matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
+            if not len(matches):
+                continue
+            for match in matches.itertuples():
+                if match.likeStatus == 'LIKE' or match.Index in like_vids:
+                    continue
+                if match.Index in not_like_vids:
+                    skip_not_like.add(match.Index)
+                    continue
+                new_likes.add(match.Index)
+                if not pd.isna(match.playlists):
+                    like_impacted_playlists.append(match.playlists)
+        print(f' Found {len(new_likes)} new tracks to LIKE')
+        print(f' Found {len(skip_not_like)} tracks to LIKE',
+              f'but already in NOT LIKE')
+
+        # NOT_LIKE
+        not_like_fuzzy_ids = frozenset(not_like_df['fuzzy_track_id'])
+        not_like_impacted_playlists = []
+        new_not_likes = set()
+        skip_is_like = set()
+        print('\nProcessing NOT LIKE tracks (takes ~1 minute)')
+        for fuzzy_track_id in not_like_fuzzy_ids:
+            matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
+            if not len(matches):
+                continue
+            for match in matches.itertuples():
+                if match.Index in not_like_vids:
+                    continue
+                if match.Index in like_vids or match.Index in new_likes:
+                    skip_is_like.add(match.Index)
+                    continue
+                new_not_likes.add(match.Index)
+                if not pd.isna(match.playlists):
+                    not_like_impacted_playlists.append(match.playlists)
+
+        print(f' Found {len(new_not_likes)} new tracks to NOT LIKE')
+        print(f' Found {len(skip_is_like)} tracks to NOT LIKE',
+              f'but they are already in LIKE')
+
+        # optional extra info
+        def display_top_impacted_playlist_df(impacted_playlists, top_n=10):
+            df = pd.DataFrame(impacted_playlists, columns=['encoded_list'])
+            df['encoded_list'] = df['encoded_list'].dropna(
+            ).str.replace('[nan]', "['nan']")
+            df['decoded_list'] = df['encoded_list'].str.lstrip(
+                '[').str.rstrip(']').str.split(', ')
+            df = df.explode('decoded_list')
+            df['decoded_list'] = df['decoded_list'].str.strip("'")
+            print(f"\nTop {top_n} playlists impacted:")
+            print(df['decoded_list'].value_counts().head(top_n))
+        display_top_impacted_playlist_df(like_impacted_playlists, top_n=10)
+        # display_top_impacted_playlist_df(not_like_impacted_playlists, top_n=10)
+
+        # Load previous manual ratings and remove duplicates
+        manual_picks = pd.read_csv(
+            self.manual_rate_tsv, sep='\t', index_col=0).drop_duplicates(keep='first')
+        old_like = manual_picks.loc[manual_picks['manual_rating'] == 'LIKE']
+        old_not_like = manual_picks.loc[manual_picks['manual_rating'] == 'NOT_LIKE']
+        print(f'Loaded {len(manual_picks)} manually labeled entries, '
+              f'{len(old_like)} are LIKE, {len(old_not_like)} NOT_LIKE')
+        old_like_vids = frozenset(old_like.index)
+        old_not_like_vids = frozenset(old_not_like.index)
+        old_all = old_like_vids & old_not_like_vids
+
+        # Compare old and new
+        new_likes_len = len(new_likes)
+        new_likes -= old_like_vids
+        print(f'Reduced new LIKE from {new_likes_len} to {len(new_likes)}'
+              f' entries after removing reviewed matches')
+        new_not_likes_len = len(new_not_likes)
+        new_not_likes -= old_not_like_vids
+        print(f'Reduced new NOT_LIKE from {new_not_likes_len} to {len(new_not_likes)}'
+              f' entries after removing reviewed matches')
+        skip_not_like_len = len(skip_not_like)
+        skip_not_like -= old_all
+        print(f'Reduced skip_not_like from {skip_not_like_len} to {len(skip_not_like)}'
+              f' entries after removing reviewed matches')
+        skip_is_like_len = len(skip_is_like)
+        skip_is_like -= old_all
+        print(f'Reduced skip_is_like from {skip_is_like_len} to {len(skip_is_like)}'
+              f' entries after removing reviewed matches')
+
+        # Manually screeen these in sheets, llabel as LIKE, INDIFFERENT or NOT_LIKE
+        like_not_like_res = {
+            'need_like': all_df.loc[all_df.index.isin(new_likes)],
+            'need_like_but_is_not_like': all_df.loc[all_df.index.isin(skip_not_like)],
+            'need_not_like': all_df.loc[all_df.index.isin(new_not_likes)],
+            'need_not_like_but_is_like': all_df.loc[all_df.index.isin(skip_is_like)],
+        }
+        # Original notes
+        # need_like: Most of these were LIKE, but some overridden to NOT_LIKE or INDIFFERENT (around 2000)
+        # need_not_like: Most of these were NOT_LIKE, but some overridden t0 INDIFFERENT (around 4000)
+        # need_like_but_is_not_like: Manualy reviewed (around 100)
+        # need_not_like_but_is_like: Manualy reviewed (around 100)
+        need_review = pd.concat([v.assign(category=k)
+                                for k, v in like_not_like_res.items()])
+        print(f'{len(need_review)} entries need like or not like manual review')
+        return need_review
 
     def playlist_get_info(self, playlistId,
                           playlist_limit=PLAYLIST_LIMIT, use_cache=True):
@@ -468,7 +620,7 @@ class YTMusicPlaylists:
                 return True
 
     def _playlist_is_like(self, name,
-                          like_toks=LIKE_TOKS, 
+                          like_toks=LIKE_TOKS,
                           like_playlist_names=LIKE_PLAYLISTS):
         name = name.lower()
         if name.startswith('_'):
@@ -520,6 +672,7 @@ class YTMusicPlaylists:
 
         # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
         track_db = pd.read_csv(self.track_db_tsv, sep='\t', index_col=0)
+
         new_tracks_no_meta = self._track_db_new_or_newly_liked_tracks(
             track_db, tracks_no_meta)
         track_db = self._track_db_update(track_db, new_tracks_no_meta)
@@ -530,6 +683,16 @@ class YTMusicPlaylists:
         not_like_tracks.to_csv(self.not_like_tsv, sep='\t', header=True)
         like_tracks = self.collect_all_like_tracks_from_tsvs()
         like_tracks.to_csv(self.like_tsv, sep='\t', header=True)
+
+        # Update like or not_like tracks that need manual review
+        need_review = self.get_like_not_like_tracks_to_review()
+        need_review.to_csv(self.need_rate_tsv, sep='\t', index=True)
+
+        # Update playlist counts for radio playlists
+        radio_counts_df = Y.get_playlist_counts(
+            filter_title='radio', verbose=False)
+        radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
+
         print(f'Completed in {(time.time() - start_time) / 60:.1f} minutes')
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS, remove_disliked=False, yt_user='Jake G'):
@@ -667,7 +830,8 @@ class YTMusicPlaylists:
         for pl in not_like_playlists:
             tracks_db_not_liked = pd.read_csv(os.path.join(
                 self.playlist_tsv_dir, pl), sep='\t', index_col=0)
-            tracks_db_not_liked = tracks_db_not_liked.set_index('videoId', drop=True)
+            tracks_db_not_liked = tracks_db_not_liked.set_index(
+                'videoId', drop=True)
             not_like_tracks.append(tracks_db_not_liked)
         not_like_tracks = pd.concat(
             not_like_tracks).sort_values('artist')
@@ -792,7 +956,7 @@ class YTMusicPlaylists:
             subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
         print(f"Removed { _length - len(track_db)} row duplicates",
               f"(ignoring columns: {ignore_cols})")
-        
+
         # Remove duplicate index rows (ignoring other columns)
         _length = len(track_db)
         track_db = track_db[~track_db.index.duplicated(keep=keep)]
