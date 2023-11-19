@@ -2,18 +2,25 @@ import os
 import time
 import datetime
 import pandas as pd
+from collections import defaultdict
 from ytmusicapi import YTMusic
 
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
 SKIP_PLAYLIST_BACKUP = False
-# Split radio playlists with at least this many likes
-MIN_RADIO_LIKE_TO_SPLIT = 5
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
 PLAYLIST_LIMIT = 6000
+
+# Settings for automated radio playlist like dislike not like cleanup.
+RADIO_CLEAN_SKIP = False
+RADIO_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
+RADIO_CLEAN_MOVE_LIKE = True
+RADIO_CLEAN_CREATE_LIKE_PLAYLIST = True
+# Split radio playlists with at least this many likes
+RADIO_CLEAN_MIN_LIKE_TO_SPLIT = 10
 
 # Files
 HEADER_FILE = 'oauth.json'
@@ -29,8 +36,8 @@ TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
 PLAYLIST_METADATA_TSV_COLS = [
     'title', 'trackCount', 'duration', 'privacy', 'id']
 LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
-# LIKE subset
 
+# LIKE subset
 LIKE_TOKS = ['thumbs_up', ' like', ' likes', ' top']
 LIKE_TRACKS_TSV_FILE = '_liked_tracks.tsv'
 
@@ -50,6 +57,8 @@ MANUALLY_RATED_TSV_FILE = '_ytmusic_new_like_and_not_like_manual_rated.tsv'
 NEED_RATE_TSV_FILE = '_ytmusic_new_like_and_not_like_need_manual_rating.tsv'
 # For get_playlist_counts()
 PLAYLIST_RADIO_COUNT_TSV_FILE = '_playlist_radio_counts.tsv'
+# Results for automated radio playlist like dislike not like cleanup.
+RADIO_PLAYLIST_CLEANUP_TSV = '_ytmusic_cleanup_radio_playlists_results.tsv'
 
 # Manually Curated
 # TODO: load this from some map? maybe repurpose radio like map? also see
@@ -93,6 +102,7 @@ class YTMusicPlaylists:
                  need_rate_tsv=NEED_RATE_TSV_FILE,
                  radio_to_like_map_file=RADIO_TO_LIKE_MAP_FILE,
                  radio_count_file=PLAYLIST_RADIO_COUNT_TSV_FILE,
+                 radio_cleanup_file=RADIO_PLAYLIST_CLEANUP_TSV,
                  manual_rate_tsv=MANUALLY_RATED_TSV_FILE,
                  playlist_limit=PLAYLIST_LIMIT):
         self.playlist_tsv_dir = playlist_tsv_dir
@@ -106,6 +116,8 @@ class YTMusicPlaylists:
         self.need_rate_tsv = os.path.join(playlist_tsv_dir, need_rate_tsv)
         self.radio_count_file = os.path.join(
             playlist_tsv_dir, radio_count_file)
+        self.radio_cleanup_file = os.path.join(
+            playlist_tsv_dir, radio_cleanup_file)
         self.playlist_limit = playlist_limit
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header)
@@ -422,7 +434,7 @@ class YTMusicPlaylists:
 
     def clean_up_radio_playlist(
             self, pl_info, verbose=False,
-            move_like=False, min_num_like=MIN_RADIO_LIKE_TO_SPLIT,
+            move_like=False, min_num_like=RADIO_CLEAN_MIN_LIKE_TO_SPLIT,
             sleep=1, create_like_playlist=False,
             remove_dislike=True, remove_not_like=False):
         not_like_vids = self.banned_vid_set
@@ -430,8 +442,10 @@ class YTMusicPlaylists:
         remove_dislike_tracks = []
         remove_not_like_tracks = []
         move_like_tracks = []
-        pl_counters = {'name': pl_info['title'], 'removed_dislike': 0,
-                       'moved_like': 0, 'removed_not_like': 0, 'like_and_not_like': 0}
+
+        # Get counters
+        pl_counters = {'removed_dislike': 0, 'moved_like': 0,
+                       'removed_not_like': 0, 'like_and_not_like': 0}
         for track in pl_info.get('tracks', []):
             if track['likeStatus'] == 'DISLIKE':
                 pl_counters['removed_dislike'] += 1
@@ -445,7 +459,12 @@ class YTMusicPlaylists:
                 pl_counters['removed_not_like'] += 1
                 remove_not_like_tracks.append(track)
         if verbose:
-            print(100*'*' + f'\n{pl_counters}')
+            _counters = {k: v for k, v in pl_counters.items() if v > 0}
+            print(f"Radio playlist {pl_info['title']} counters: {_counters}")
+
+        # Take action
+        results = pl_counters
+        results['status'] = ''
         # Handle flagged tracks
         if 'radio' not in pl_info["title"]:
             print(f'Skipping {pl_info["title"]} modifications,',
@@ -486,8 +505,10 @@ class YTMusicPlaylists:
                 if len(like_vids):
                     status = self.yt.add_playlist_items(
                         playlistId=like_pl_id, videoIds=like_vids, duplicates=False)
-                    err_msg = f'Bad Status for {pl_info["title"]} add {len(move_like_tracks)} LIKE tracks: {status}'
+                    err_msg = (f'Bad Status for {pl_info["title"]} add '
+                               f'{len(move_like_tracks)} LIKE tracks: {status}')
                     assert status['status'] == 'STATUS_SUCCEEDED', err_msg
+                    results['status'] = status
                     # Somtimes this still fails, fallback is to reemove like pl mapping so it generates a fresh pl
                     # TODO if this happens copy the create playlist fallback here
                     time.sleep(sleep)
@@ -503,8 +524,10 @@ class YTMusicPlaylists:
 
             status = self.yt.remove_playlist_items(
                 pl_info["id"], move_like_tracks)
-            err_msg = f'Bad Status for {pl_info["id"]} remove {len(move_like_tracks)} LIKE tracks: {status}'
+            err_msg = (f'Bad Status for {pl_info["id"]} remove '
+                       f'{len(move_like_tracks)} LIKE tracks: {status}')
             assert str(status) == 'STATUS_SUCCEEDED', err_msg
+            results['status'] = status
             time.sleep(sleep)
             if verbose:
                 print(f'Moved {len(move_like_tracks)} LIKE entries '
@@ -513,11 +536,12 @@ class YTMusicPlaylists:
         if remove_not_like and len(remove_not_like_tracks):
             if remove_dislike and len(remove_dislike_tracks):
                 remove_not_like_tracks += remove_dislike_tracks
-
             status = self.yt.remove_playlist_items(
                 pl_info["id"], remove_not_like_tracks)
-            err_msg = f'Bad Status for {pl_info["id"]} remove {len(remove_not_like_tracks)} NOT LIKE tracks: {status}'
+            err_msg = (f'Bad Status for {pl_info["id"]} remove '
+                       f'{len(remove_not_like_tracks)} NOT LIKE tracks: {status}')
             assert str(status) == 'STATUS_SUCCEEDED', err_msg
+            results['status'] = status
             if verbose:
                 print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
                       f'entries from {pl_info["title"]}')
@@ -526,14 +550,49 @@ class YTMusicPlaylists:
         elif remove_dislike and len(remove_dislike_tracks):
             status = self.yt.remove_playlist_items(
                 pl_info["id"], remove_dislike_tracks)
-            err_msg = f'Bad Status for {pl_info["id"]} remove {len(remove_dislike_tracks)} noly DISLIKE tracks: {status}'
+            err_msg = (f'Bad Status for {pl_info["id"]} remove '
+                       f'{len(remove_dislike_tracks)} noly DISLIKE tracks: {status}')
             assert str(status) == 'STATUS_SUCCEEDED', err_msg
             if verbose:
                 print(f'Removed {len(remove_dislike_tracks)} DISLIKE '
                       f'entries from {pl_info["title"]}')
             time.sleep(sleep)
+            results['status'] = status
+        return results
 
-        return pl_counters
+    def clean_up_all_radio_playlists(self, verbose=False,
+                                     move_like=False, min_num_like=10,
+                                     sleep=1, create_like_playlist=False,
+                                     remove_dislike=True, remove_not_like=False):
+
+        map_df = self._radio_to_like_map
+        print(f'Loaded playlist map with {len(map_df)} manual entries')
+        no_match_like = map_df.loc[map_df['like_playlist'].isna()]
+        if len(no_match_like):
+            print(f'WARNING: {len(no_match_like)} do',
+                  f'not have a match:\n{no_match_like}')
+
+        results = {}
+        for pl in self.playlists.itertuples():
+            if 'radio' not in pl.title:
+                continue
+            if pl.title in results:
+                if verbose:
+                    print(f'Already results {pl.title}')
+                continue
+
+            results[pl.title] = self.clean_up_radio_playlist(
+                pl_info=self.playlist_get_info(pl.playlistId, use_cache=True),
+                verbose=verbose, sleep=sleep,
+                move_like=move_like, min_num_like=min_num_like, create_like_playlist=create_like_playlist,
+                remove_dislike=remove_dislike,  remove_not_like=remove_not_like)
+
+        count_cols = ['removed_dislike', 'moved_like',
+                      'removed_not_like', 'like_and_not_like']
+        results = pd.DataFrame(results).T.sort_values('moved_like')
+        results['total_changes'] = results[count_cols].sum(axis=1)
+        results = results.sort_values('total_changes', ascending=False)
+        return results
 
     def playlist_rate_all_songs(self, pl_info, rating, sleep_time=0.5,
                                 verbose=False, skip_if_dislike=False,
@@ -698,6 +757,17 @@ class YTMusicPlaylists:
         radio_counts_df = Y.get_playlist_counts(
             filter_title='radio', verbose=False)
         radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
+
+        # Clean radio playlists, move like, dislike, not_like.
+        if not RADIO_CLEAN_SKIP:
+            radio_clean_df = self.clean_up_all_radio_playlists(
+                verbose=True, sleep=1,
+                move_like=RADIO_CLEAN_MOVE_LIKE,
+                min_num_like=RADIO_CLEAN_MIN_LIKE_TO_SPLIT,
+                create_like_playlist=RADIO_CLEAN_CREATE_LIKE_PLAYLIST,
+                remove_dislike=RADIO_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
+                remove_not_like=RADIO_CLEAN_RM_NOT_LIKE_AND_DISLIKE)
+            radio_clean_df.to_csv(self.radio_cleanup_file, sep='\t')
 
         print(f'Completed in {(time.time() - start_time) / 60:.1f} minutes')
 
