@@ -2,7 +2,7 @@ radio_playlist	like_playlist
 ambient Indie Synths radio	ambient Indie Synths
 ambient lynchian radio	ambient lynchian like
 ambient modern radio	ambient modern like
-ambient piano radio	
+ambient piano radio	ambient piano like
 Beats indie Chill radio	Beats indie Chill
 beats radio	beats
 Bossa Nova radio	Bossa Nova
@@ -51,6 +51,7 @@ oldies 1950s radio	oldies 1950s
 oldies 1960s radio	oldies 1960s
 oldies doo wop radio	oldies doo wop
 oldies Jukebox Vintage Party radio	oldies Jukebox Vintage Party
+Oldies radio	Oldies
 post rock slow core radio	post rock slow core
 Post-Punk 1970s-1980s radio	Post-Punk 1970s-1980s
 Produced by Dilla radio	Produced By Dilla
@@ -90,7 +91,6 @@ x_r.hiphop_tracks_radio	hiphop
 x_r.hiphopheadsnorthwest_tracks_radio	hiphop
 x_r.indie_tracks_radio	indie
 x_r.IndieFolk_tracks_radio	indie folk
-x_r.Instrumentals_tracks_radio	
 x_r.jazz_tracks_radio	jazz
 x_r.jazzyhiphop_tracks_radio	hiphop jazzy
 x_r.krautrock_tracks_radio	rock krautrock
@@ -100,4 +100,3 @@ x_r.OldiesMusic_tracks_radio	Oldies
 x_r.PostRock_tracks_radio	post rock slow core
 x_r.reggae_tracks_radio	Reggae
 x_r.triphop_tracks_radio	trip hop
-
