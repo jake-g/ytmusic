@@ -1,15 +1,14 @@
 	count
-playlist_is_public	1
-playlist_kind_in_playlist_skip_list	73
-playlist_kind_is_album	58
-playlist_kind_is_indifferent	140
-playlist_kind_is_like	252
-playlist_kind_is_skip	10
-playlist_kind_is_yt_generated	5
-playlist_privacy_is_unlisted	43
-playlist_removed_duplicates	13
-playlist_skip_starts_with_zz not like	2
 playlists_processed	465
-track_processed	116522
-track_rating_exists	115695
-track_rating_is_none	827
+playlist_kind_is_yt_generated	5
+playlist_kind_in_playlist_skip_list	73
+playlist_kind_is_like	252
+track_processed	116406
+track_rating_exists	115578
+track_rating_is_none	828
+playlist_kind_is_indifferent	140
+playlist_privacy_is_unlisted	38
+playlist_is_public	1
+playlist_kind_is_album	58
+playlist_skip_starts_with_zz not like	2
+playlist_kind_is_skip	10

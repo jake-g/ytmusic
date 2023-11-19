@@ -1,6 +1,15 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	My Pet Coelacanth	deadmau5	while(1<2)	LIKE	8:16	FhnH43IvvBc	MPREb_8NyQF2KcW2k	UCL44WZGVf-BU5N0ymCXrpBg
+2	Strobe (Club Edit)	deadmau5	5 Years of mau5	LIKE	6:20	xk2IPBLGJzc	MPREb_oYJ58mUsvVU	UCL44WZGVf-BU5N0ymCXrpBg
+3	October	deadmau5	> album title goes here < (Deluxe)	LIKE	7:24	PQRgz4OJYxA	MPREb_mZLkpesuMSG	UCL44WZGVf-BU5N0ymCXrpBg
 5	Mercedes	deadmau5	while(1<2)	LIKE	9:39	ahw4xxWOHV0	MPREb_K1sEPyL4APl	UCL44WZGVf-BU5N0ymCXrpBg
+6	Alone with You	deadmau5	Random Album Title	LIKE	7:30	i2KeFnq4yPM	MPREb_KuTjSTfDq9h	UCL44WZGVf-BU5N0ymCXrpBg
+7	Faxing Berlin (Piano Acoustic Version)	deadmau5	Faxing Berlin x4	LIKE	1:45	v3zGOsliTO4	MPREb_PMKzl4FBDIs	UCL44WZGVf-BU5N0ymCXrpBg
+9	Moar Ghosts 'n' Stuff	deadmau5	For Lack of a Better Name	LIKE	4:30	2r2rPJAxBhU	MPREb_NPkAfJzbXK1	UCL44WZGVf-BU5N0ymCXrpBg
+10	Some Chords	deadmau5	4x4=12	LIKE	7:24	HXipID0x-HM	MPREb_qjzStGSp3SP	UCL44WZGVf-BU5N0ymCXrpBg
+15	Fn Pig	deadmau5	> album title goes here <	LIKE	8:52	3ZEO7O0bTH0	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
+16	There Might Be Coffee	deadmau5	> album title goes here <	LIKE	7:03	2LG9kluclnQ	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
+17	Not Exactly	deadmau5	Random Album Title	LIKE	8:00	BKVrWfpdT_Q	MPREb_KuTjSTfDq9h	UCL44WZGVf-BU5N0ymCXrpBg
 20	October	deadmau5	> album title goes here <	LIKE	7:11	VsCk2_iDbng	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIXIGFsYnVtIHRpdGxlIGdvZXMgaGVyZSAaCGRlYWRtYXU1IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 22	Moar Ghosts n' Stuff	deadmau5	For Lack of a Better Name	LIKE	4:30	WO0PfgeJwRA	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIZZm9yIGxhY2sgb2YgYSBiZXR0ZXIgbmFtZRoIZGVhZG1hdTUiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 23	Some Chords	deadmau5	4x4=12	LIKE	8:04	4iBkUrhDiuo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIFNHg0MTIaCGRlYWRtYXU1IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
@@ -12,17 +21,8 @@
 13	The Sky Was Pink (Holden Remix)	Nathan Fake	The Sky Was Pink	LIKE	9:31	pN0QzsTbgmg	MPREb_2lkKmzjWVku	UCerofcW3r2o74HjKZLQKhRw
 11	Relocation	Feed Me	Feed Me's Escape from Electric Mountain	LIKE	5:36	ISsZeqbWruI	MPREb_00EG6DzQ1Me	UC9UlsJH0D1uZ3hA1LNKEV0w
 24	Relocation	Feed Me	Feed Me's Escape From Electric Mountain	LIKE	5:35	0YRTcq-deZQ	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBImZmVlZCBtZXMgZXNjYXBlIGZyb20gZWxlY3RyaWMgbW91bnRhaW4aB2ZlZWQgbWUiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIHZmVlZCBtZQ
+8	Arguru	Deadmau5	Arguru	LIKE	7:11	NTzVN0a013Q	MPREb_fepGSEodVhx	UCL44WZGVf-BU5N0ymCXrpBg
 19	Strobe	Deadmau5	For Lack of a Better Name	LIKE	10:37	uxWfMf8SF0k	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIZZm9yIGxhY2sgb2YgYSBiZXR0ZXIgbmFtZRoIZGVhZG1hdTUiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 21	Faxing Berlin	Deadmau5	Random Album Title	LIKE	2:30	v4HXx2Mglto	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIScmFuZG9tIGFsYnVtIHRpdGxlGghkZWFkbWF1NSIDZ3Bt	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 18	Satisfaction	Benny Benassi	Hypnotica	LIKE	4:46	ikX06rifHMg	MPREb_TnJiZDN33MK	UC0rp__Z5Xi4nZ4DEmCyCZTg
 26	Satisfaction	Benny Benassi	Hypnotica	LIKE	4:45	3pHs3srSGiM	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIJaHlwbm90aWNhIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINYmVubnkgYmVuYXNzaQ
-2	Strobe (Club Edit)	deadmau5	5 Years of mau5	INDIFFERENT	6:20	xk2IPBLGJzc	MPREb_oYJ58mUsvVU	UCL44WZGVf-BU5N0ymCXrpBg
-3	October	deadmau5	> album title goes here < (Deluxe)	INDIFFERENT	7:24	PQRgz4OJYxA	MPREb_mZLkpesuMSG	UCL44WZGVf-BU5N0ymCXrpBg
-6	Alone with You	deadmau5	Random Album Title	INDIFFERENT	7:30	i2KeFnq4yPM	MPREb_KuTjSTfDq9h	UCL44WZGVf-BU5N0ymCXrpBg
-7	Faxing Berlin (Piano Acoustic Version)	deadmau5	Faxing Berlin x4	INDIFFERENT	1:45	v3zGOsliTO4	MPREb_PMKzl4FBDIs	UCL44WZGVf-BU5N0ymCXrpBg
-9	Moar Ghosts 'n' Stuff	deadmau5	For Lack of a Better Name	INDIFFERENT	4:30	2r2rPJAxBhU	MPREb_NPkAfJzbXK1	UCL44WZGVf-BU5N0ymCXrpBg
-10	Some Chords	deadmau5	4x4=12	INDIFFERENT	7:24	HXipID0x-HM	MPREb_qjzStGSp3SP	UCL44WZGVf-BU5N0ymCXrpBg
-15	Fn Pig	deadmau5	> album title goes here <	INDIFFERENT	8:52	3ZEO7O0bTH0	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
-16	There Might Be Coffee	deadmau5	> album title goes here <	INDIFFERENT	7:03	2LG9kluclnQ	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
-17	Not Exactly	deadmau5	Random Album Title	INDIFFERENT	8:00	BKVrWfpdT_Q	MPREb_KuTjSTfDq9h	UCL44WZGVf-BU5N0ymCXrpBg
-8	Arguru	Deadmau5	Arguru	INDIFFERENT	7:11	NTzVN0a013Q	MPREb_fepGSEodVhx	UCL44WZGVf-BU5N0ymCXrpBg
