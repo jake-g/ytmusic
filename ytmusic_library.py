@@ -584,8 +584,8 @@ class YTMusicPlaylists:
                     continue
 
             if verbose:
-                print(f"Playlist: {p.title} ({p.playlistId})',
-                      f'has {p['count']} tracks")
+                print(f"Playlist: {p.title} ({p.playlistId})",
+                      f"has {p['count']} tracks")
 
             # Infer playlist kind from title, default to LIKE if nothing inferred
             pl_kind = self.infer_playlist_kind(p)
