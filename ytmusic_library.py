@@ -197,7 +197,7 @@ class YTMusicPlaylists:
         for i, row in self.playlists.iterrows():
             if filter_title and filter_title.lower() not in row.title.lower():
                 if verbose:
-                    print(f'{i}: Skipping: {row.title},', 
+                    print(f'{i}: Skipping: {row.title},',
                           f'filter: {filter_title}')
                 continue
             playlist_info = self.playlist_get_info(row['playlistId'])
@@ -373,11 +373,12 @@ class YTMusicPlaylists:
             vids = df.videoId
         else:
             vids = frozenset(df.videoId.unique()) - self.banned_vid_set
-
-        desc = f'Matched {len(vids)} tracks from local tsv playlist: {pl_name}'
+        pl_str = f'{len(vids)} tracks from {pl_name} [{DATE}]'
         pl_id = self.yt.create_playlist(
-            title=pl_name,  description=desc,
-            privacy_status='PRIVATE', video_ids=list(vids))
+            title=pl_name,
+            description=f'Matched local tsv playlist: {pl_str}',
+            privacy_status='PRIVATE', video_ids=list(vids)
+        )
         print(f'Saved {len(vids)} {pl_name} tracks playlist with id: {pl_id}')
 
     def parse_tracks(self, track_list):
@@ -409,10 +410,10 @@ class YTMusicPlaylists:
             if verbose:
                 print(f'Loaded {self._playcount_map["lastfm_playcount"].sum()}',
                       f'playounts from {len(self._playcount_map)} tracks')
-
-        desc = f'generated from {pl_info["title"]} sorting by lastfm playcount'
+        pl_str =  f'{pl_info["title"]} [{DATE}]'
         tracks = pd.DataFrame(pl_info.get('tracks', None))
         tracks = tracks.set_index('videoId', drop=True)
+        desc = f'generated sorting by lastfm playcount for {pl_str}'
         if not ignore_banned:
             orig_len = len(tracks)
             tracks = tracks.loc[~tracks.index.isin(self.banned_vid_set)]
@@ -487,11 +488,11 @@ class YTMusicPlaylists:
                 like_pl = pl_info["title"].replace('radio', 'like')
             if like_pl == None:
                 if create_like_playlist:
+                    pl_str = f'{pl_info["title"]} [{DATE}]'
                     like_pl = pl_info["title"].replace('radio', 'like')
                     like_pl_id = self.yt.create_playlist(
                         title=like_pl,
-                        description=f'Created for dumping likes from {
-                            pl_info["title"]}',
+                        description=f'Created for dumping likes from {pl_str}',
                         privacy_status='PRIVATE', video_ids=like_vids)
                     if verbose:
                         print(f'Created LIKE playlist for '
@@ -743,7 +744,7 @@ class YTMusicPlaylists:
         if n_dupes >= duplicate_threshold:
             new_id = self.yt.create_playlist(
                 title=str(pl_info['title']),
-                description=str(pl_info['description']),
+                description=f"Dedupe [{DATE}] {str(pl_info['description'])}",
                 video_ids=list(tracks_unique)
             )
             time.sleep(sleep_time)
