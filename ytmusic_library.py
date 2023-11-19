@@ -38,12 +38,12 @@ PLAYLIST_METADATA_TSV_COLS = [
 LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
 
 # LIKE subset
-LIKE_TOKS = ['thumbs_up', ' like', ' likes', ' top']
+LIKE_TOKS = ['thumbs_up', ' like', '_like', ' likes', ' top']
 LIKE_TRACKS_TSV_FILE = '_liked_tracks.tsv'
 
 # NOT LIKE subset
 NOT_LIKE_PREFIX = 'zz not like'
-NOT_LIKE_TOKS = ['not like', ' dislike', 'thumbs_down']
+NOT_LIKE_TOKS = ['not like', '_not_like', ' dislike', 'thumbs_down']
 NOT_LIKE_TRACKS_TSV_FILE = '_not_liked_tracks.tsv'
 # Radio subset
 RADIO_TOKS = [' radio', '_radio', '_indifferent']
@@ -58,27 +58,10 @@ NEED_RATE_TSV_FILE = '_ytmusic_new_like_and_not_like_need_manual_rating.tsv'
 # For get_playlist_counts()
 PLAYLIST_RADIO_COUNT_TSV_FILE = '_playlist_radio_counts.tsv'
 # Results for automated radio playlist like dislike not like cleanup.
-RADIO_PLAYLIST_CLEANUP_TSV = '_ytmusic_cleanup_radio_playlists_results.tsv'
+RADIO_PLAYLIST_CLEANUP_TSV_FILE = '_ytmusic_cleanup_radio_playlists_results.tsv'
 
-# Manually Curated
-# TODO: load this from some map? maybe repurpose radio like map? also see
-LIKE_PLAYLISTS = ['Liked Music',
-                  'ambient', 'ambient Indie Synths', 'ambient modern like', 'beats', 'Beats indie Chill', 'beats instrumental',
-                  'blues', 'Bossa Nova', 'brass like', 'Brass n chill', 'Chillwave', 'electronic', 'electronic big beats',
-                  'electronic chill', 'electronic Dance', 'electronic Focus', 'electronic house french touch', 'electronic house funk',
-                  'electronic House Special', 'electronic Innerwaves', 'electronic new indie beats', 'electronic soft pad', 'Folk',
-                  'future bass', 'future beats', 'future garage', 'futurebeat_rap', 'garage rock', 'goth 1980s', 'Grunge', 'Hip Hop 1990s',
-                  'Hip Hop 2000s', 'Hip Hop Hits', 'Hip hop It Was a Good Day', 'hiphop', 'hiphop 2000s southern', 'hiphop jazzy',
-                  'hiphop modern', 'hiphop old school', 'hiphop soul good vibe', 'indie', 'Indie 1990s Rock', 'Indie 2000s', 'indie folk',
-                  'indie loose', 'jazz', 'jazz cool', 'jazz gloom smooth', 'jazz guitar', 'jazz noir', 'like_playlist', 'my balls your chill',
-                  'nudisco', 'nudisco smooth', 'Oldies', 'oldies 1950s', 'oldies 1960s', 'oldies doo wop', 'oldies Jukebox Vintage Party',
-                  'post rock slow core', 'Post-Punk 1970s-1980s', 'Produced By Dilla', 'Produced by DJ Premier', 'Produced by kanye',
-                  'psych rock modern', 'psychedelic classic rock', 'punk 1970s', 'Reggae', 'reggae classic', 'Reggae Dub', 'reggae modern',
-                  'rnb dj', 'rock 1950s roots', 'rock 1960s classic', 'rock 1967 Monterey Pop Festival', 'Rock 1980s Pop New Wave', 'rock 1990s',
-                  'rock instrumentals classic vintage', 'rock krautrock', 'rock modern chill', 'rock proto metal', 'rock stoner sludge dank',
-                  'Shoegaze', 'soul 1960s', 'Soul Classic Sunshine', 'soul funk', 'soul motown', 'trip hop', 'triphop bristol sound'
-                  ]
-
+# Playlists for liked tracks
+LIKE_PLAYLISTS_TSV_FILE = '_like_playlists.tsv'
 
 # Constants
 VALID_TRACK_RATINGS = ('LIKE', 'DISLIKE', 'INDIFFERENT', 'NONE')
@@ -87,7 +70,7 @@ VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
 
 
 # Format the date as "month-day-year"
-DATE = datetime.datetime.now().strftime("%m-%d-%Y")
+DATE = time.strftime('%m-%d-%Y')
 
 
 class YTMusicPlaylists:
@@ -100,12 +83,18 @@ class YTMusicPlaylists:
                  like_tsv_file=LIKE_TRACKS_TSV_FILE,
                  not_like_tsv_file=NOT_LIKE_TRACKS_TSV_FILE,
                  need_rate_tsv=NEED_RATE_TSV_FILE,
+                 like_playlist_file=LIKE_PLAYLISTS_TSV_FILE,
                  radio_to_like_map_file=RADIO_TO_LIKE_MAP_FILE,
                  radio_count_file=PLAYLIST_RADIO_COUNT_TSV_FILE,
-                 radio_cleanup_file=RADIO_PLAYLIST_CLEANUP_TSV,
+                 radio_cleanup_file=RADIO_PLAYLIST_CLEANUP_TSV_FILE,
                  manual_rate_tsv=MANUALLY_RATED_TSV_FILE,
+                 valid_playlist_kinds=VALID_PLAYLIST_KINDS,
+                 valid_track_ratings=VALID_TRACK_RATINGS,
                  playlist_limit=PLAYLIST_LIMIT):
         self.playlist_tsv_dir = playlist_tsv_dir
+        self._valid_playlist_kinds = valid_playlist_kinds
+        self._valid_ratings = valid_track_ratings
+        # Paths
         self.track_db_tsv = os.path.join(playlist_tsv_dir, track_db_file)
         self.tracks_no_meta_tsv = os.path.join(
             playlist_tsv_dir, tracks_no_meta_file)
@@ -122,6 +111,8 @@ class YTMusicPlaylists:
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header)
         # Load small files right away
+        self._like_playlist_titles = pd.read_csv(os.path.join(
+            playlist_tsv_dir, like_playlist_file), sep='\t')['title'].str.lower().tolist()
         self._radio_to_like_map = pd.read_csv(os.path.join(
             playlist_tsv_dir, radio_to_like_map_file), sep='\t')
         self.banned_vid_set = frozenset(pd.read_csv(
@@ -463,8 +454,6 @@ class YTMusicPlaylists:
             print(f"Radio playlist {pl_info['title']} counters: {_counters}")
 
         # Take action
-        results = pl_counters
-        results['status'] = ''
         # Handle flagged tracks
         if 'radio' not in pl_info["title"]:
             print(f'Skipping {pl_info["title"]} modifications,',
@@ -508,7 +497,6 @@ class YTMusicPlaylists:
                     err_msg = (f'Bad Status for {pl_info["title"]} add '
                                f'{len(move_like_tracks)} LIKE tracks: {status}')
                     assert status['status'] == 'STATUS_SUCCEEDED', err_msg
-                    results['status'] = status
                     # Somtimes this still fails, fallback is to reemove like pl mapping so it generates a fresh pl
                     # TODO if this happens copy the create playlist fallback here
                     time.sleep(sleep)
@@ -527,7 +515,6 @@ class YTMusicPlaylists:
             err_msg = (f'Bad Status for {pl_info["id"]} remove '
                        f'{len(move_like_tracks)} LIKE tracks: {status}')
             assert str(status) == 'STATUS_SUCCEEDED', err_msg
-            results['status'] = status
             time.sleep(sleep)
             if verbose:
                 print(f'Moved {len(move_like_tracks)} LIKE entries '
@@ -541,7 +528,6 @@ class YTMusicPlaylists:
             err_msg = (f'Bad Status for {pl_info["id"]} remove '
                        f'{len(remove_not_like_tracks)} NOT LIKE tracks: {status}')
             assert str(status) == 'STATUS_SUCCEEDED', err_msg
-            results['status'] = status
             if verbose:
                 print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
                       f'entries from {pl_info["title"]}')
@@ -557,8 +543,7 @@ class YTMusicPlaylists:
                 print(f'Removed {len(remove_dislike_tracks)} DISLIKE '
                       f'entries from {pl_info["title"]}')
             time.sleep(sleep)
-            results['status'] = status
-        return results
+        return pl_counters
 
     def clean_up_all_radio_playlists(self, verbose=False,
                                      move_like=False, min_num_like=10,
@@ -601,19 +586,24 @@ class YTMusicPlaylists:
         if verbose:
             print(f'Playlist {pl_info["title"]}: Found',
                   f'{len(pl_info["tracks"])} tracks to rate as {rating}')
-        rate_count = 0
+        rate_ct = {'track_rated': 0, 'track_skip_dislike': 0,
+                   'track_already_rated': 0}
         for track in pl_info["tracks"]:
             if skip_if_dislike and track["likeStatus"] == 'DISLIKE':
+                rate_ct['track_skip_dislike'] += 1
                 continue
             if track["likeStatus"] == rating:
+                rate_ct['track_already_rated'] += 1
                 continue
             if verbose:
                 print(f'Setting rating for {track["videoId"]} to {rating}')
             self.yt.rate_song(track["videoId"], rating=rating)
-            rate_count += 1
+            rate_ct['track_rated'] += 1
             time.sleep(sleep_time)
-        print(f'Playlist {pl_info["title"]}: Rated {rate_count}',
-              f'of {len(pl_info["tracks"])} tracks as {rating}')
+        if verbose:
+            print(f'Playlist {pl_info["title"]}: Rated {rate_ct["track_rated"]}',
+                  f'of {len(pl_info["tracks"])} tracks as {rating}')
+        return rate_ct
 
     def playlist_remove_duplicates(self, pl_info,
                                    duplicate_threshold=DUPLICATE_THRESHOLD,
@@ -641,7 +631,7 @@ class YTMusicPlaylists:
     def playlist_get_all_like_playlists(self):
         like_playlists_ids = {}
         for i, row in self.playlists.iterrows():
-            if self._playlist_is_like(row.title.lower()):
+            if self._playlist_is_like(row.title):
                 like_playlists_ids[row.title] = row.playlistId
         return like_playlists_ids
 
@@ -684,20 +674,19 @@ class YTMusicPlaylists:
             if tok in name:
                 return True
 
-    def _playlist_is_like(self, name,
-                          like_toks=LIKE_TOKS,
-                          like_playlist_names=LIKE_PLAYLISTS):
+    def _playlist_is_like(self, name, like_toks=LIKE_TOKS):
         name = name.lower()
         if name.startswith('_'):
             return False
         if self._playlist_is_not_like(name):
             return False
-        for t in like_playlist_names:
+        for t in self._like_playlist_titles:
             if t.lower() == name:
                 return True
         for tok in like_toks:
             if tok in name:
                 return True
+        return False
 
     def _playlist_is_radio(self, name, radio_toks=RADIO_TOKS):
         name = name.lower()
