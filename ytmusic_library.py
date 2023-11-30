@@ -656,11 +656,10 @@ class YTMusicPlaylists:
                                              radio_playlist_max_like_pct):
                 pl_ct['playlist_kind_not_ok'] += 1
                 print(f'WARNING NOT OK playlist: {p.title} of kind {pl_kind}',
-                      f'({like_percent}% liked) has: {
-                    len(ratings["LIKE"])} likes,',
-                    f'{len(ratings["DISLIKE"])} dislikes,{
-                    len(ratings["INDIFFERENT"])}',
-                    f'indifferent, {len(ratings["NONE"])} none')
+                      f'({like_percent}% liked) has: {len(ratings["LIKE"])} likes,',
+                      f'{len(ratings["DISLIKE"])} dislikes,',
+                      f'{len(ratings["INDIFFERENT"])} indifferent,',
+                      f'{len(ratings["NONE"])} none')
 
             # Potentially alter playlist, or generate new playlists
             if do_dry_run:
@@ -919,7 +918,7 @@ class YTMusicPlaylists:
             tracks = tracks.sort_values(  # Sort tsv by like, then artist
                 ['likeStatus', 'artist'], ascending=False)
             fname = os.path.join(
-                self.playlist_tsv_dir, f'{pl_info['title']}.tsv')
+                self.playlist_tsv_dir, f"{pl_info['title']}.tsv")
             tracks[track_cols].to_csv(fname, sep='\t', header=True)
         return tracks, metadata
 
