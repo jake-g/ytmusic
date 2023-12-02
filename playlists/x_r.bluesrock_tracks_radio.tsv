@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 175	East-West	The Paul Butterfield Blues Band	East-West	LIKE	13:12	NvWvOwLCWGg	MPREb_BqfKkGBrQTv	UC0n6CuW4i5kGO1s1rn0bQ0g
+482	Pride and Joy	Stevie Ray Vaughan & Double Trouble	Folk, Gospel & Blues: Will The Circle Be Unbroken	LIKE	3:39	hDlSI_-z8Tc	MPREb_Z7aufkTeGcf	UCG47N6MrGcPaJpVRgBoAVAQ
 32	Crossroads (Live)	Cream	The Very Best Of Cream	LIKE	4:16	Td9zgUc553c	MPREb_vDufiBz4gxG	UC_oKib7DXJ7JE5erWrFUbEQ
 380	a long pointless goodbye to no one	north wind and the sun	a long pointless goodbye to no one	INDIFFERENT	3:10	9uIaoVjG4Tk	MPREb_mZxIElVCQWX	UCRVTy0e5uppMDph81n8q3Vg
 11	I Thank You (2003 Remaster)	ZZ Top	Chrome, Smoke & BBQ	INDIFFERENT	3:24	5TTbwJ1kIQ0	MPREb_uGBHKPEXQWy	UC_Us2Zqt4ovGtdXKmws60mw
@@ -62,7 +63,7 @@
 157	03 Sweet little angel	The Oscar Benton Bluesband	The Oscar Benton Bluesband	INDIFFERENT	8:50	qyqlE4GagIA	MPREb_I1USU8QRMtN	UCmTgv0qcpY-sdEdLqGLl7uQ
 534	Little Miss Attention	The Milk Men	Deliverance	INDIFFERENT	3:31	-7mazRpmw90	MPREb_SIG9oVm8KVj	UCHCCIvrFX6XL3DzAGnGuu6Q
 461	Soul Medley	The McNaMarr Project	Run With Me	INDIFFERENT	7:28	rJ8xb9cRIuo	MPREb_pEIhzysDeKy	UCzEAFMwm-mj59hsnxTPhcqw
-3	Can't You See (Live)	The Marshall Tucker Band	Live! Englishtown, NJ Sept. 3, 1977	INDIFFERENT	6:08	qpRbeVR9rPo	MPREb_XIbjyvSUGdj	UCtkFGqxsQ1ykX0Sw-wtBEeQ
+3	Can't You See (Live)	The Marshall Tucker Band	Live! Englishtown, NJ Sept. 3, 1977	INDIFFERENT	6:09	qpRbeVR9rPo	MPREb_XIbjyvSUGdj	UCtkFGqxsQ1ykX0Sw-wtBEeQ
 501	Where I'm Headed	The Marcus King Band	Carolina Confessions	INDIFFERENT	4:54	-WO5oUx9tN8	MPREb_P4EbbreY8jq	UC5xpuW4UI520aDhKXGaJYgQ
 327	"""Voodoo Child (Slight Return)"" (Jimi Hendrix Cover)"	The Main Squeeze	Squeeze House	INDIFFERENT	5:56	Lcgo36Hn6Jc	MPREb_9sCjvXODjke	UCgHtnJBHOorvwwKbcLUWj4w
 115	Yer Blues	The Kenny Wayne Shepherd Band	How I Go	INDIFFERENT	4:40	dY5KytxZymg	MPREb_EVwpGyKx87L	UCGsOZPwTwFDKOs3O63Rp4Rg
@@ -133,7 +134,6 @@
 528	Superstition (Single Version)	Stevie Wonder	Have A Good Day	INDIFFERENT	4:05	o2V3xsnWcKc	MPREb_0di5Mw6orME	UCR83RRXHzXrEQbu_ZQmPMSg
 78	Voodoo Child (Slight Return) (Live at Montreux Casino, Montreux, Switzerland - July 1985)	Stevie Ray Vaughan And Double Trouble	Live At Montreux 1982 & 1985	INDIFFERENT	10:51	XgUXS4mr7Qg	MPREb_l0ySyefjP9p	UCG47N6MrGcPaJpVRgBoAVAQ
 95	Life Without You	Stevie Ray Vaughan & Double Trouble	The Real Deal: Greatest Hits Volume 1	INDIFFERENT	4:19	4kj8hcslQpU	MPREb_iGstpRkf9xf	UCG47N6MrGcPaJpVRgBoAVAQ
-482	Pride and Joy	Stevie Ray Vaughan & Double Trouble	Folk, Gospel & Blues: Will The Circle Be Unbroken	INDIFFERENT	3:39	hDlSI_-z8Tc	MPREb_Z7aufkTeGcf	UCG47N6MrGcPaJpVRgBoAVAQ
 494	Empty Arms	Stevie Ray Vaughan & Double Trouble	The Real Deal: Greatest Hits Volume 2	INDIFFERENT	3:29	mymoNYkAXGs	MPREb_G2ty5pkBD2X	UCG47N6MrGcPaJpVRgBoAVAQ
 437	Still In My Memory	Stevie Delacruz	Clothes Off	INDIFFERENT	3:42	eR80oKeDPhg	MPREb_Pzavq3plp0i	UCu0s2ovxBdCQnLQ081hjLMQ
 27	The Pusher (Live / 1970)	Steppenwolf	Live Steppenwolf	INDIFFERENT	6:00	zb-RiPuNM_Q	MPREb_XbWywtrVdqC	UC0aR1L5OoaiiaW73-bNl_Ug
@@ -481,14 +481,14 @@
 131	Can't Find My Way Home (Live)	Bonnie Raitt	The Lost Broadcast - Philadelphia 1972 (Live)	INDIFFERENT	3:08	HGlRpJlsuCI	MPREb_w9nW9fAANl5	UCt3dWNI94rZKmfzuwZyD5Fw
 218	Hey Hey	Bones Shake	Hey Hey	INDIFFERENT	4:35	m1cCNMDVxNI	MPREb_VqXFpmvTmzy	UC4rKO35FX7NknyaigFcPbOw
 279	When I Think About Love	Bones Owens	Bones Owens	INDIFFERENT	2:53	oc-N1p-Hx7o	MPREb_hFv8qL3aPIj	UCxlgmk_Ou27do3A4XYaGYbA
-385	Boob Scotch	Bob Log III	Log Bomb	INDIFFERENT	2:51	B3qOnpaJd1Y	MPREb_WxP0pL29RVc	UCDQQNbjEf7E83MVpzgsi_gA
+385	Boob Scotch	Bob Log III	Log Bomb	INDIFFERENT	2:52	B3qOnpaJd1Y	MPREb_WxP0pL29RVc	UCDQQNbjEf7E83MVpzgsi_gA
 0	High Water (For Charley Patton)	Bob Dylan	Love And Theft	INDIFFERENT	4:05	x-GL8tvzcP8	MPREb_KZvFbj6TZmR	UCBqkojCXby4zGkWX86FEY7Q
 104	Not Dark Yet	Bob Dylan	Time Out Of Mind	INDIFFERENT	6:28	FJ1bzKISLBw	MPREb_5Ue92wVAtj6	UCBqkojCXby4zGkWX86FEY7Q
 451	.32 Blues	Bluesbury	MMXXI	INDIFFERENT	6:30	lH8UZqiziMU	MPREb_Ij1rHJRCZMQ	UCmgH1a1SwPL9xpoSw54nKXw
 152	Girl Inside My Head	Blues Traveler	Bridge	INDIFFERENT	3:39	dR-Rgc-wmKU	MPREb_BLxlCIc2f7T	UCCztH8sCstXnVpe5Gqq_v8Q
 493	Black Paris Blues	Blues Syndicate	Nothing but the Blues	INDIFFERENT	3:51	PlnVvouqumc	MPREb_pT4nDvidtFM	UCwu8FVozee8BNg8lZ46c40g
 82	Ain't No Change	Blues Pills	Blues Pills	INDIFFERENT	4:59	lHY3_EQwzcY	MPREb_QrZi0h69H3X	UCImjH3yaNnnq9tqbncNYF_w
-133	Meet Me in the City	Blues Explosion	Sunday Nights: The Songs of Junior Kimbrough	INDIFFERENT	4:03	aBwKLbKBSh8	MPREb_EeZyNrefY1J	UCEhEqJJXOKyiyF8B2Ad1Sog
+133	Meet Me in the City	Blues Explosion	Sunday Nights: The Songs of Junior Kimbrough	INDIFFERENT	4:04	aBwKLbKBSh8	MPREb_EeZyNrefY1J	UCEhEqJJXOKyiyF8B2Ad1Sog
 304	Double Trouble	Blues 'n' Trouble	First Trouble / No Minor Keys	INDIFFERENT	7:45	HXnInK58qLE	MPREb_F5YnTzrQyyX	UCqmPu-bA8RdCcDdK53AqVXQ
 308	Ain't Nothing Like You (Hoochie Coo) [feat. Jim Jones, Mos Def]	Blakroc	Blakroc	INDIFFERENT	3:20	2Egq7YokhJc	MPREb_nn0GEDOvfNo	UCaX3rywSHSeLGwKij6agRCA
 209	Hoochie Coochie Man	Black Stone Cherry	Black to Blues	INDIFFERENT	4:14	7FxsVbVyFO4	MPREb_yCNTQXqTTc2	UCPaAmDM1buMYDtshL3lvi0w

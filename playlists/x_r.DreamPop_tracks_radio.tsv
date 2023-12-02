@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+148	Golden Haze	Wild Nothing	Golden Haze	LIKE	3:25	VsC8dUq6hRs	MPREb_JJ82GhUQufy	UCbaJZUVqfEZPtwaUzGgdZ8A
 330	The Trip - 2023 Remaster	Still Corners	Strange Pleasures - 10th Anniversary Edition	LIKE	6:14	KDYPCs-9aO4	MPREb_xEx001iQnBc	UCbLt7pataRom2AHyWfBFuVQ
 442	Eva	yeule	Serotonin II	INDIFFERENT	3:34	VVCp4mqwOs8	MPREb_JowykES14qR	UCINnTJcNT6MQaU-jYNoXhbA
 499	how do you feel	strawbey	play pretend	INDIFFERENT	4:58	nKeIWdLiQuk	MPREb_I85HpbG6Rxo	UC_4SCHyw9nsN5p0Wtc8kVdA
@@ -33,7 +34,6 @@
 24	Our Composition Book	Wild Nothing	Gemini	INDIFFERENT	3:48	wKAzoGh6B7E	MPREb_jsFGot6MMrD	UCbaJZUVqfEZPtwaUzGgdZ8A
 49	Oscillation	Wild Nothing	Indigo	INDIFFERENT	3:51	C0XPjaUMHI0	MPREb_U9fVpzT89vL	UCbaJZUVqfEZPtwaUzGgdZ8A
 101	TV Queen	Wild Nothing	Life of Pause	INDIFFERENT	3:51	wVOZRJMAIis	MPREb_8kySweKzXie	UCbaJZUVqfEZPtwaUzGgdZ8A
-148	Golden Haze	Wild Nothing	Golden Haze	INDIFFERENT	3:25	VsC8dUq6hRs	MPREb_JJ82GhUQufy	UCbaJZUVqfEZPtwaUzGgdZ8A
 149	Paradise	Wild Nothing	Nocturne	INDIFFERENT	5:31	ZhN00-MPlKI	MPREb_vNAFrC5HS2I	UCbaJZUVqfEZPtwaUzGgdZ8A
 239	Wait	Wild Nothing	Nowhere	INDIFFERENT	2:52	W7oGgac9d30	MPREb_MmvMh2XZhGU	UCbaJZUVqfEZPtwaUzGgdZ8A
 269	Your Rabbit Feet	Wild Nothing	Golden Haze	INDIFFERENT	5:08	HovMckJN4Vs	MPREb_JJ82GhUQufy	UCbaJZUVqfEZPtwaUzGgdZ8A
@@ -228,7 +228,7 @@
 478	Two Minds	Nero	Between II Worlds	INDIFFERENT	3:35	SyegrEbxZ_4	MPREb_aZywLhmaUUS	UCeS-Obw3kbR8cTL1KiAa-Rg
 182	Hometown (Live at The Great Escape, 2021)	Nature TV	Live at the Great Escape	INDIFFERENT	3:47	uEkgUVPIOVk	MPREb_tp92LgM09FS	UCxxXvc8jlUktqlJgFWhxZCQ
 425	September Again	Nation of Language	Introduction, Presence	INDIFFERENT	3:54	qLmI-D-w2pM	MPREb_7APbeSPW4ZX	UCgDzQseZSP-G2PE7glxEcrQ
-513	Follow the Sun	NEIMY	Follow the Sun	INDIFFERENT	2:35	20Yr3WlnU_Y	MPREb_s6hqgV7QdDr	UCZxjimCUieUlvQcZIbx7JhA
+513	Follow the Sun	NEIMY	Follow the Sun	INDIFFERENT	2:35	20Yr3WlnU_Y	MPREb_s6hqgV7QdDr	UCLBaxzOgUrnUiklLysXl1bA
 482	The Feeling of Letting Go	Moxy The Band	Dream Feeling	INDIFFERENT	3:46	ew5SyYrtNao	MPREb_JPF8Vxhko4i	UCSyTWJCAuWYbjQPlh6glt6w
 195	Tagaiya	Moonbloomer	Tagaiya	INDIFFERENT	5:23	eawavuUWRfI	MPREb_IFpGYlCzvML	UCPaz8C1i0tGKkzGToeT8zug
 96	The Line	Mood Rings	VPI Harmony	INDIFFERENT	3:24	tIp-uX3wJKs	MPREb_ikSlmTa0KKq	UCphzSyUWMVt11eDwVQzGuvg
@@ -522,7 +522,7 @@
 429	Innocent	Lil Buckss	Innocent			gA-R2gIuOk8		
 421	Incandesce	Jin Awer	Incandesce			sOITbNQmY0g		
 497	I'm Fine (Audiotree Live Version)	Hazel English	Hazel English on Audiotree Live			IqJpWR79fJg		
-79	I Knew Everything About You	Dream People	Almost Young		6:03	2iMlqqIgHKM		
-97	Almost Young	Dream People	Almost Young		8:35	zAnniVndux8		
+79	I Knew Everything About You	Dream People	Almost Young			2iMlqqIgHKM		
+97	Almost Young	Dream People	Almost Young			yuWV-OY9338		
 15	High And Low	Cranes	Cranes		4:06	qTL5PDlArjw		
 486	Mother	Color Crush	Mother			1_X-RC5yxvM		
