@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-273	theres still us	swell	Theres Still Us - EP	LIKE	2:16	5n7jxrKpxLY	MPREb_L7wtCjbcY5F	UC_oLQShFXoJ-F9Tk8NYXHnQ
 274	I'm Sorry (feat. Shiloh)	swell	Majestic Casual - Chapter 3	LIKE	2:38	seXAgCbfIjI	MPREb_Jk6WbWDtvgP	UCo4iEsmDLsdWMKsh2VC0VXA
 222	Sedsumting	oOoOO	oOoOO EP	LIKE	5:38	3B6NGDAmVAY	MPREb_U6FW4Vy19o1	UCdTMMegAh48Awz6QuL-T1HA
 71	October	deadmau5	> album title goes here < (Deluxe)	LIKE	7:24	PQRgz4OJYxA	MPREb_mZLkpesuMSG	UCL44WZGVf-BU5N0ymCXrpBg
@@ -49,6 +48,7 @@
 284	Higher Ground	TNGHT	TNGHT	LIKE	3:20	hwtg_1Yf8wc	MPREb_VZWtonY6H4T	UCIzvaEjamDYR85oxnqAB0eQ
 145	Buy U A Drank (Shawty Snappin') (Instrumental) (feat. Yung Joc)	T-Pain	The Instrumentals	LIKE	4:04	IXCruBuM2WQ	MPREb_vlMia5pzBEr	UCLSSupJwk82DYt6OI-iSh_Q
 275	Summer Fruits	Swindle	Brownswood 10	LIKE	4:07	cQbUpkmiULk	MPREb_dxx3qb4IBtX	UCTLLkLVz9-JfZ3y6ucLN-sQ
+273	Theres Still Us	Swell	Theres Still Us	LIKE	2:16	hABtmFkHSQY	MPREb_gk1edmjUli9	UC_oLQShFXoJ-F9Tk8NYXHnQ
 331	Waiting So Long	Supertramp	The Very Best Of Supertramp (Vol. 2)	LIKE	6:36	sTBqLF-I-yY	MPREb_WqwgJaa5UNo	UCpS0hJ21amjA5eBApEOiIFw
 272	Dim Lights and Meteorites (feat. Sorrow)	Submerse	Algorithms and Ghosts	LIKE	3:34	a5VJE9-Jx8U	MPREb_S6F0F15vAps	UCjtvC7kQZTtmJ9Y00cfMqLg
 304	Higher Ground	Stevie Wonder	Innervisions	LIKE	3:43	1esf0efHbjM	MPREb_HQxE96d4Cve	UCR83RRXHzXrEQbu_ZQmPMSg
@@ -77,7 +77,7 @@
 245	Happy Up Here (Re-Interpretated by Holy Fuck)	Röyksopp	Happy Up Here [Remix Holy Fuck]	LIKE	3:42	lYoATT1UlfQ	MPREb_YkbPiUdHNEQ	UCavOXoVuq__PIq9W6E-xT6A
 247	Happiness & Dreams Forever	Ryan Hemsworth	Guilt Trips	LIKE	1:42	ruO-lAhlemE	MPREb_V5Q1BJmuy5z	UCHccqgrWMi_JxX6bizyE7lQ
 246	Moaners	Rusko	Babylon, Vol. 2	LIKE	4:37	KG65h_A9uVo	MPREb_I5YTarEIWuj	UCrvA4qX6BUQxdG9uDPifxEA
-244	Hold On	Roosevelt	Roosevelt	LIKE	3:27	eaZ7vBvz5Pw	MPREb_V76wKEtP9Lj	UC7jTDrwBF4FNMX_zzaIC5mQ
+244	Hold On	Roosevelt	Roosevelt	LIKE	3:28	eaZ7vBvz5Pw	MPREb_V76wKEtP9Lj	UC7jTDrwBF4FNMX_zzaIC5mQ
 173	No One Else (feat. The Original Cast)	Robert Barham	Archie (Deluxe Edition) [Original Cast Recording]	LIKE	3:03	xu6nmxB7K1U	MPREb_AaB9kwkhLYR	UCHr0CmODBGbaWZ9AuHBFbqg
 35	Sanctified	Rick Ross	Hardcore Rap	LIKE	4:50	2Pv1fWFyZQw	MPREb_ezkYWIQWCHQ	UCayETQO60tEaJ0ihqZYstRQ
 20	Run	Reverse Mechanic	Run	LIKE	3:35	LDT35JZfkCA	MPREb_IJVlbIiSS8U	UC7DCT9Xxf--t4ma6iGaQTVA
@@ -322,13 +322,13 @@
 321	Slyd	!!!	Thr!!!er	LIKE	4:15	sImwiRuOMsQ	MPREb_yG2gBJ8eF8f	UC_kiReqJMAcQ9F9gf10QMTg
 286	Sweet Day	TOKiMONSTA	Midnight Menu	INDIFFERENT	3:37	zhU4BgnZdio	MPREb_v1idKSV0tz5	UCg-MiMmT50XZnbSCllzhyuA
 287	Madness	TOKiMONSTA	Midnight Menu	INDIFFERENT	3:57	jxbsLd-KnL8	MPREb_v1idKSV0tz5	UCg-MiMmT50XZnbSCllzhyuA
+214	Annie	Neon Indian	VEGA INTL. Night School	INDIFFERENT	4:03	3_fNfLBUFf8	MPREb_uKZzXcLGO47	UCQfjAfgbhbscEJx5AnTXNWA
 187	Original Don (Flosstradamus Remix) (feat. The Partysquad)	Major Lazer	Original Don (Flosstradamus Remix)	INDIFFERENT	3:55	ZiYMpFLpI5w	MPREb_YpRTDvGrDtZ	UCKQ-xBLhj3SkN9Wz6MwjLaA
 307	1017 Lifestyle	Young Thug	Street Is Watching (The Mix-Tape)		3:13	0g73QYa7yiM		
 297	Everyday	Vintage Culture	Playlist		6:14	o2NxKIeLeKo		
 285	Inspector Norse	Todd Terje	Its The Arps			SPN5UaPOwMI		
 265	Mornin'	Star Slinger	Volume 1			VPPz1nUol-Q		
 266	Minted	Star Slinger	Volume 1			jUc8Sr8tIDI		
-214	Annie	Neon Indian	VEGA INTL. Night School		4:03	qfSq0Kq_dvQ		
 149	Introducing Lucifer (Instrumental)	Mr. Hyde	Evil Never Dies (Instrumentals)			z9NzQR4yKWA		
 105	Sleepless - Flume, Twin Shadow, Jezzabell Doran	Flume	Flume: Deluxe Edition		1:51	oK-usi-lAjA		
 90	Lil' Ghetto Boy	Dr. Dre	The Chronic			OYVi3hV5ONc		
