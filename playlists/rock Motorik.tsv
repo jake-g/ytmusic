@@ -1,14 +1,14 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 45	Death's Not Your Friend	Wooden Shjips	Vol. 1	LIKE	2:15	jv9x5JNS7lM	MPREb_OAH77lDJWms	UCYSZSxnAwfjJcDAjcE3Y4sQ
-11	Dancing with Tears in My Eyes (Special Remix / 2009 Remaster)	Ultravox	Dancing with Tears in My Eyes (2009 Remaster)	LIKE	10:03	1QxekeWM-uU	MPREb_OAix9iRNOY5	UCSIg6FvJsNtFJVuOY0cjc5A
+11	Dancing with Tears in My Eyes (Special Remix)	Ultravox	Dancing with Tears in My Eyes (2009 Remaster)	LIKE	10:03	1QxekeWM-uU	MPREb_OAix9iRNOY5	UCSIg6FvJsNtFJVuOY0cjc5A
 13	Lupine Dominus	Thee Oh Sees	Putrifiers II	LIKE	3:28	rt5bybIbgjI	MPREb_RZUpmbe0VRu	UCy-Gzb-aCE1vWkbwQZaoIXQ
 28	I'm Waiting For The Man	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	4:40	YbigVkiAe0s	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
-34	I Can't Stand It	The Velvet Underground	V.U.	LIKE	3:22	pFIEqCecMgM	MPREb_IdAggkrnnJp	UCXNWrugB_J3sRBYR9idQWzg
+34	I Can't Stand It	The Velvet Underground	VU	LIKE	3:22	pFIEqCecMgM	MPREb_IdAggkrnnJp	UCXNWrugB_J3sRBYR9idQWzg
 6	Down on the Street	The Stooges	Funhouse	LIKE	3:43	xEcLZ5x4WDs	MPREb_leYXfaA1EG3	UCCT8KMU8ReissgaPl7pvo9g
 5	Roadrunner	The Modern Lovers	Rock Generation, Vol.6	LIKE	4:04	0YITZvcSHjk	MPREb_5Zy5LIJgHpN	UCCAA_uQg_Qe-M6O17CBy4KA
-15	Modern World	The Modern Lovers	The Modern Lovers	LIKE	3:45	23SYApqudTw	MPREb_f8oIO6KVTs5	UCCAA_uQg_Qe-M6O17CBy4KA
+15	Modern World	The Modern Lovers	The Modern Lovers (Expanded Version)	LIKE	3:45	23SYApqudTw	MPREb_f8oIO6KVTs5	UCCAA_uQg_Qe-M6O17CBy4KA
 10	Seconds (Remaster 2002)	The Human League	Dare!	LIKE	4:59	cpEUvGnypbg	MPREb_VI5b2xRmBXd	UCrg2H-AeXXcZg_TZ8QBRTKw
-14	Sea Within A Sea	The Horrors	Primary Colours	LIKE	7:59	pgwZ95QeXC4	MPREb_TadgeCl9w8C	UCDwDPWxlTisVB5HeS11EeVw
+14	Sea Within a Sea	The Horrors	Primary Colours	LIKE	7:59	pgwZ95QeXC4	MPREb_TadgeCl9w8C	UCDwDPWxlTisVB5HeS11EeVw
 16	The Boy With The Perpetual Nervousness	The Feelies	Crazy Rhythms	LIKE	5:11	zwc9OY8q1vQ	MPREb_QGZPzppwT0m	UCz2W_8cm53XNRTxbNlcGVYQ
 40	Moscow Nights	The Feelies	Crazy Rhythms	LIKE	4:25	-1RLFGF-Z84	MPREb_QGZPzppwT0m	UCz2W_8cm53XNRTxbNlcGVYQ
 38	Touch Sensitive	The Fall	The Marshall Suite	LIKE	3:16	hCuG5rlGMyY	MPREb_17rychGLICL	UCHSNmcs_mt5htCbduPBrZhw
@@ -26,7 +26,7 @@
 35	Honey Power	My Bloody Valentine	Tremolo	LIKE	4:34	bpdsjEd-ZOc	MPREb_88np36RgTQR	UCuoGeza7Dl9Ni_hmeLTPdkg
 24	Feuerland	Michael Rother	Flammende Herzen	LIKE	7:11	5LSsHAI2lPw	MPREb_BYkYXrDrhZC	UCP-_4sYV34tNj3YmIg_O7rQ
 43	Senses On Fire	Mercury Rev	Snowflake Midnight	LIKE	3:31	FYBXmyMYOn8	MPREb_ZVpMC0n6smO	UCcyPNbtPjAU99Q0wjfzhrCA
-46	Marlon J.D. (For U.S release)	Manic Street Preachers	Journal for Plague Lovers	LIKE	2:41	98qZ8aVt0is	MPREb_97UC9myoTcx	UCEZZSrWEalYfps7ald2v18w
+46	Marlon J.D. (For U.S release)	Manic Street Preachers	Journal For Plague Lovers	LIKE	2:41	98qZ8aVt0is	MPREb_97UC9myoTcx	UCEZZSrWEalYfps7ald2v18w
 7	Watch the Tapes	LCD Soundsystem	Sound of Silver	LIKE	3:56	0OSulJRG3oQ	MPREb_cuPW1vT6K8X	UCdsmJG8eFcr6Lxgau8E7afg
 18	No Love Lost	LCD Soundsystem	All My Friends	LIKE	3:40	mO7Ko6RCF-0	MPREb_2Nx5lcGOeGQ	UCdsmJG8eFcr6Lxgau8E7afg
 0	Autobahn (2009 Remaster)	Kraftwerk	Autobahn	LIKE	22:48	vkOZNJYAZ7c	MPREb_nTBhdvHWGVh	UCNUkEFnPvPsWtzftcd45t1A
@@ -36,12 +36,12 @@
 31	Funtime	Iggy Pop	The Idiot	LIKE	2:55	DDYatCwJvCA	MPREb_YVNKGrWRqfJ	UCN2OwEXNYJFzgHvR7912Btg
 22	Casio Bossa Nova	Holy Fuck	Holy Fuck	LIKE	6:27	mhvfsFPjZYw	MPREb_V9l5c5vFI18	UC-L5Oyxd0aCk27RU1gGouWg
 4	Jump Into The Fire	Harry Nilsson	Nilsson Schmilsson	LIKE	7:03	A_r7j_NKFCM	MPREb_WKrMXqLaIOY	UCVlbbMiyHZiH2hNLd0MOMhA
-26	Monza (Rauf Und Runter)	Harmonia	Deluxe	LIKE	7:08	mIi4gnk-Wz0	MPREb_l2ung7v6I7Q	UCvkCsZPKyO-r0QlVQrhvDlw
+26	Monza (Rauf und runter)	Harmonia	Deluxe	LIKE	7:08	mIi4gnk-Wz0	MPREb_l2ung7v6I7Q	UCvkCsZPKyO-r0QlVQrhvDlw
 41	She Dances	Gravenhurst	The Western Lands	LIKE	4:02	wxaKP_AcKRA	MPREb_Rh6mZplH0vT	UChi3R2xmhzav87b_kwT5uuQ
 33	Ankle Injuries	Fujiya & Miyagi	Transparent Things	LIKE	5:04	lpRNSUxsvm4	MPREb_SWOQGRaiypT	UC9QNfSXYnDwPEdBWBOQXdZQ
-39	To The East	Electrelane	No Shouts, No Calls	LIKE	4:55	R5LZ3vNzAsk	MPREb_jTeoy2uYiAe	UCtHVgdgKqbmDlw58TUCmVww
+39	To the East	Electrelane	No Shouts, No Calls	LIKE	4:55	R5LZ3vNzAsk	MPREb_jTeoy2uYiAe	UCtHVgdgKqbmDlw58TUCmVww
 20	Cryptograms	Deerhunter	Cryptograms	LIKE	4:17	LCnBjPRfnD8	MPREb_AXchU05AlwE	UCYvqcYNDW5Ebw6nnq-mYN4Q
-25	Death Kit Train (feat. Dredd Foole)	Cul De Sac	ECIM	LIKE	6:53	Nu3V9mIP7kQ	MPREb_nAmT4VizErm	UC-K9HZCxcTYGyBpHC-FiCNw
+25	Death Kit Train	Cul De Sac	ECIM	LIKE	6:53	Nu3V9mIP7kQ	MPREb_nAmT4VizErm	UC-K9HZCxcTYGyBpHC-FiCNw
 12	Bees	Caribou	The Milk of Human Kindness	LIKE	5:24	X1Ph5kNZXWY	MPREb_kUNrz3bjfXk	UCec42nujWCAHuGcNrekNdbg
 19	A Final Warning	Caribou	The Milk of Human Kindness	LIKE	7:16	WCCiuhuQzVg	MPREb_kUNrz3bjfXk	UCec42nujWCAHuGcNrekNdbg
 17	Mother Sky (from Deep End)	Can	Soundtracks	LIKE	14:31	Sy_YBxZtHgI	MPREb_uUX1GBn1ZQX	UC6jcXPWtn2rb2GftstqZdqA

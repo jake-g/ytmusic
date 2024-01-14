@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 183	The Sun Always Shines on TV	a-ha	Time and Again: The Ultimate a-ha	INDIFFERENT	5:07	LwUEb8Q-qAA	MPREb_OUl8FaluP4R	UCx00XxqRCfPS6zaTzRm3H2A
-112	Legs (Remix)	ZZ Top	Greatest Hits	INDIFFERENT	4:32	EypcvW64VcI	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
+112	Legs (Remix)	ZZ Top	ZZ Top's Greatest Hits	INDIFFERENT	4:32	EypcvW64VcI	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
 142	Self Control	YoungBoy Never Broke Again	AI YoungBoy 2	INDIFFERENT	3:06	KVOTvkP-03E	MPREb_iCghr3nFk8h	UCR28YDxjDE3ogQROaNdnRbQ
 43	Situation	Yaz	Upstairs At Eric's	INDIFFERENT	5:47	6wgdqEHD1Y0	MPREb_gW1gxBJSiGU	UCGzAsl2oMcCZX5Xq_q5dI1w
 62	How Will I Know	Whitney Houston	Whitney Houston	INDIFFERENT	4:36	2Z_CtXKwoW4	MPREb_VlQY0urvXRU	UCcoxwwIh_afLwJHVBEQw62Q
@@ -42,15 +42,14 @@
 83	Neutron Dance	The Pointer Sisters	Platinum & Gold Collection	INDIFFERENT	4:14	SOscjUHPY-o	MPREb_Qk6YTDDKyb7	UC5hmAzA43Il46USsJPKNXXQ
 59	Suddenly Last Summer (Remastered 2002)	The Motels	80s Summer	INDIFFERENT	3:42	BW9Qm5yeR90	MPREb_H3rHTPN75fo	UCvCGX5Lccyojjb-LdNJXKvg
 176	Only The Lonely (Remastered 1999)	The Motels	80's Rock Power Ballads	INDIFFERENT	3:17	3HiQu9hp5xc	MPREb_eCaGBMCS84O	UCvCGX5Lccyojjb-LdNJXKvg
-129	Come Dancing	The Kinks	State Of Confusion	INDIFFERENT	3:57	xAvGoDWUzcg	MPREb_6ysrsWEwrSF	UCsQHS0_Fw1vIXm3TEbPokvA
+129	Come Dancing	The Kinks	State of Confusion	INDIFFERENT	3:57	xAvGoDWUzcg	MPREb_6ysrsWEwrSF	UCsQHS0_Fw1vIXm3TEbPokvA
 292	I Know There's Something Going On (Live in Auburn, GA 2019)	The Juicebox Heroes	Reset	INDIFFERENT	5:23	cUv_b6S7Wpg	MPREb_JCC9lOI6WwS	
 277	Crush On You	The Jets	Back To Back	INDIFFERENT	4:33	_fXO3X2UuP8	MPREb_gNhlDYRLRtV	UC_wsoTS10ulHuttKlSYUNeg
-244	(Keep Feeling) Fascination	The Human League	Very Best of the Human League	INDIFFERENT	3:45	CrnGQ2-bri4	MPREb_S1YKUiL5F1f	UCrg2H-AeXXcZg_TZ8QBRTKw
+244	(Keep Feeling) Fascination	The Human League	The Very Best Of The Human League	INDIFFERENT	3:45	CrnGQ2-bri4	MPREb_S1YKUiL5F1f	UCrg2H-AeXXcZg_TZ8QBRTKw
 178	Jeopardy	The Greg Kihn Band	Jeopardy EP	INDIFFERENT	3:51	l9DUtnVGYuY	MPREb_Dch2hOLvrHW	UCLxY-R2qsJrj6VjQZzx0wAQ
 157	Vacation	The Go-Go's	Vacation	INDIFFERENT	3:00	W45qh29wp0U	MPREb_IWyBVgCdWW6	UCEkRh9OALAxpdbva0L04ATg
 131	Red Skies (Re-recorded / Remastered)	The Fixx	One Thing Leads To Another - Greatest Hits	INDIFFERENT	4:22	uL4RXoqvoVU	MPREb_gZ4pPg4vYUa	UCGVdwLJx2UMWhBXbVNAu3Bg
 222	Saved By Zero	The Fixx	Synth Pop	INDIFFERENT	3:41	xu5hGgrnWMo	MPREb_X93n6ulz27R	UCGVdwLJx2UMWhBXbVNAu3Bg
-32	Life in a Northern Town	The Dream Academy	The Dream Academy	INDIFFERENT	4:20	IOEwKRCp2JY	MPREb_hqsHDexAmHX	UCxjdbQZD4vojTRqltbmRi_w
 18	Pictures Of You	The Cure	Disintegration	INDIFFERENT	7:29	Rel8ZWkNNlM	MPREb_BBV3hJMs0YP	UCKuG9-MGolUuWbEcoz5qijw
 71	Hello Again	The Cars	Heartbeat City (Expanded Edition)	INDIFFERENT	3:47	N3mjTpZk3Ao	MPREb_OjaALHg5yvL	UCu_gFD6YgmN85WjTSIotYcA
 149	You Might Think	The Cars	Heartbeat City	INDIFFERENT	3:06	h9rU5gHcsAw	MPREb_v1gTMluGvpx	UCu_gFD6YgmN85WjTSIotYcA
@@ -79,10 +78,10 @@
 268	We Built This City	Starship	Knee Deep In The Hoopla	INDIFFERENT	4:57	BsCBGsKSW4g	MPREb_QykPbxgCTeO	UCx5EhC862RMB7_dOLBUCjAg
 236	Black Coffee In Bed	Squeeze	Sweets From A Stranger	INDIFFERENT	6:13	KVj1W-bhhbs	MPREb_0BE4i35K2M9	UCFRLl1zn1by5xnZ3gI2q1RQ
 77	True (2003 Remaster)	Spandau Ballet	True - The Digital E.P.	INDIFFERENT	6:34	sWBueqYA2Es	MPREb_K0UgFnYNB7g	UCMmGdVi4OaRMktNrHNOAyOQ
-93	Gold	Spandau Ballet	Gold - The Best Of Spandau Ballet	INDIFFERENT	3:52	3VYgLmHIbls	MPREb_xj5WFLuNdKA	UCMmGdVi4OaRMktNrHNOAyOQ
+93	Gold	Spandau Ballet	Gold - The Best of Spandau Ballet	INDIFFERENT	3:52	3VYgLmHIbls	MPREb_xj5WFLuNdKA	UCMmGdVi4OaRMktNrHNOAyOQ
 119	True (2003 Remaster)	Spandau Ballet	True (Special Edition)	INDIFFERENT	6:34	ITX-SEsyGRg	MPREb_a9SzwKMHPge	UCMmGdVi4OaRMktNrHNOAyOQ
 120	Dear Prudence	Siouxsie And The Banshees	Hyaena (Remastered And Expanded)	INDIFFERENT	3:49	MT0glbyHyOE	MPREb_qyByh8HrSfq	UCjCD5fzt7QaWpuGE9KNXN0g
-170	Holding Back the Years (2008 Remaster)	Simply Red	Picture Book	INDIFFERENT	4:30	0HB0giSCuFA	MPREb_EzYtYbMVdKh	UC1VJavwj-780ZpZCXgzGscA
+170	Holding Back the Years (2008 Remaster)	Simply Red	Picture Book (Expanded Version)	INDIFFERENT	4:30	0HB0giSCuFA	MPREb_EzYtYbMVdKh	UC1VJavwj-780ZpZCXgzGscA
 238	Alive And Kicking	Simple Minds	Once Upon A Time (Super Deluxe)	INDIFFERENT	5:26	vt5vm6Uxj5Y	MPREb_5uXXSBzgj26	UCE_svhtO1EX9jG8KV2-njfA
 31	The Glamorous Life	Sheila E	The Glamorous Life	INDIFFERENT	9:04	HpO07s-Aw4I	MPREb_YiAdtsxNrsc	UCGdUKQXyjezqRm_fNYzlOMQ
 73	Let the Music Play	Shannon	Let the Music Play	INDIFFERENT	3:35	k6zmbjq9eM8	MPREb_WhamH7u1ozH	UCJPwkJz4c7YlSHRK6Rq2zqw
@@ -99,7 +98,7 @@
 38	I Didn't Mean To Turn You On	Robert Palmer	Riptide	INDIFFERENT	3:45	Y1ydeEPTIDo	MPREb_FR3TLkDX8Qb	UChFzZ5AFICBswe24HOzDWdA
 262	Simply Irresistible	Robert Palmer	Heavy Nova	INDIFFERENT	4:14	KCtsp0wul0A	MPREb_8O7MTFr7l9j	UChFzZ5AFICBswe24HOzDWdA
 92	Send Me An Angel '89	Real Life	Best Of Real Life - Send Me An Angel	INDIFFERENT	3:52	A3gRwNK9R8Y	MPREb_JXhygWlJMGB	UCEgfV9Dsuuva_E2hF1_XLag
-81	Round and Round	Ratt	Out Of The Cellar	INDIFFERENT	4:26	3ZcLiT6DqYI	MPREb_XzLVseRKvb8	UC7l_N4KoZVTzE6pbANk6xmQ
+81	Round and Round	Ratt	Out of the Cellar	INDIFFERENT	4:26	3ZcLiT6DqYI	MPREb_XzLVseRKvb8	UC7l_N4KoZVTzE6pbANk6xmQ
 113	Pet Sematary (2002 Remaster)	Ramones	Weird Tales Of The Ramones (1976-1996)	INDIFFERENT	3:33	x8UxY_AqeOA	MPREb_OCJANK5ffvI	UCXYTNaRC13Mc0muUaYDrT9g
 36	Cum on Feel the Noize	Quiet Riot	Metal Health	INDIFFERENT	4:51	XQ5mygB97nM	MPREb_0unUmthw5bV	UCa_aRV1maeXD7DroEptvWBw
 214	Radio Ga Ga (Live Aid)	Queen	Bohemian Rhapsody (The Original Soundtrack)	INDIFFERENT	4:06	quXtxH0xtlY	MPREb_RePGikaHmMB	UCEPMVbUzImPl4p8k4LkGevA
@@ -113,14 +112,14 @@
 124	Batdance	Prince	Batman	INDIFFERENT	6:14	WMk8UqL48Xw	MPREb_OWJ45Rnehu1	UCPIZb3A7k6zLefVNtaAmvGg
 197	Little Red Corvette	Prince	1999	INDIFFERENT	5:04	OUZyb7YeEYA	MPREb_3bmledu0lrk	UCPIZb3A7k6zLefVNtaAmvGg
 70	Don't Get Me Wrong	Pretenders	Get Close	INDIFFERENT	3:47	DD-5_lCEMHY	MPREb_eHkCHZP1e16	UCQ1i_JpIjWK4sMtVHLccR9A
-229	Easy Lover	Philip Bailey, Phil Collins	Chinese Wall (Expanded Edition)	INDIFFERENT	5:06	88QVKw7SFJA	MPREb_ahds4S1c5kx	UCbOnsnfAPyF0DDw3YpsNudg
+229	Easy Lover	Philip Bailey	Chinese Wall (Expanded Edition)	INDIFFERENT	5:06	88QVKw7SFJA	MPREb_ahds4S1c5kx	UCbOnsnfAPyF0DDw3YpsNudg
 259	I Don't Care Anymore	Phil Collns	Hello, I Must Be Going! 	INDIFFERENT	5:06	om7QXmvPJ34	MPREb_5e6QOvbTzNu	
 167	Take Me Home	Phil Collins	No Jacket Required (Deluxe Edition)	INDIFFERENT	5:52	1RVD6kXp1PU	MPREb_TZxjzKWZdiR	UCzt9gB3XNQYs_2UHvolUZog
 225	Another Day In Paradise	Phil Collins	…But Seriously (Deluxe Edition)	INDIFFERENT	5:23	fEk_hKiGNQc	MPREb_fdGTWNZ3eMZ	UCzt9gB3XNQYs_2UHvolUZog
 239	Against All Odds (Take a Look at Me Now)	Phil Collins	Against All Odds / Original Motion Picture Soundtrack	INDIFFERENT	3:23	gg3SgKyjwmw	MPREb_jBdR4tlq9M3	UCzt9gB3XNQYs_2UHvolUZog
 122	Major Tom (Coming Home)	Peter Schilling	The Different Story (World Of Lust And Crime)	INDIFFERENT	5:02	Ggkaj2lRPuM	MPREb_Yn21EZlEbDi	UCiGKOA0Dc8d3OtaAaobAYwg
 3	In Your Eyes	Peter Gabriel	So (Special Edition)	INDIFFERENT	5:27	8N6G0RVeFBQ	MPREb_QRPffzI7WxF	UC7dI7qJoDsMd388DTtcwIZg
-261	Shock the Monkey	Peter Gabriel	Security	INDIFFERENT	5:28	4Z9ZHcyCpxM	MPREb_abSgj07qQEw	UC7dI7qJoDsMd388DTtcwIZg
+261	Shock The Monkey	Peter Gabriel	Peter Gabriel 4: Security	INDIFFERENT	5:28	4Z9ZHcyCpxM	MPREb_abSgj07qQEw	UC7dI7qJoDsMd388DTtcwIZg
 266	Big Time	Peter Gabriel	So (Special Edition)	INDIFFERENT	4:27	m53vOXtnGHU	MPREb_QRPffzI7WxF	UC7dI7qJoDsMd388DTtcwIZg
 302	Let My Love Open The Door	Pete Townshend	Throwback Tunes: 1980	INDIFFERENT	2:43	qmcvRdN_yKU	MPREb_sC2YVp4Hw1j	UCLxj9OY4ADYmM_pM9v2mJiA
 90	Always On My Mind	Pet Shop Boys	Crazy In Love	INDIFFERENT	3:55	CIPqxg6b-cw	MPREb_ooDK05HZn5M	UCQR2QtBlTT2GTPWt9NCRyKw
@@ -128,7 +127,7 @@
 315	West End Girls (Disco Mix)	Pet Shop Boys	Disco	INDIFFERENT	9:04	zyMS-cONrLs	MPREb_QEC1sqm9oQO	UCQR2QtBlTT2GTPWt9NCRyKw
 182	Opposites Attract (Magnetic Mix)	Paula Abdul	Opposites Attract	INDIFFERENT	4:37	Zg9xK0D7tdA	MPREb_IlGcr8zXxew	UCGmhrw_cGmlbb9P5ba2VsJw
 286	Every Time You Go Away	Paul Young	The Secret Of Association	INDIFFERENT	5:25	NYEfrt2gf-E	MPREb_1BtmU1UA6QJ	UCB3qJDg2Dtzw7_cTGKn8dqw
-288	Don't Shed A Tear	Paul Carrack	One Good Reason	INDIFFERENT	4:56	pbEpkunIA34	MPREb_xNs8GCQtGcP	UCo-YuAYzAxuaS0HYufZbPfQ
+288	Don't Shed a Tear	Paul Carrack	One Good Reason	INDIFFERENT	4:56	pbEpkunIA34	MPREb_xNs8GCQtGcP	UCo-YuAYzAxuaS0HYufZbPfQ
 107	The Warrior	Patty Smyth	Patty Smyth's Greatest Hits Featuring Scandal	INDIFFERENT	3:59	b5nnnbS6DAA	MPREb_UE2xUZyG9uo	UCRdOpBah9TKHoiSdHcOfIew
 89	Forget Me Nots	Patrice Rushen	Straight From The Heart	INDIFFERENT	4:36	vP709vKwkD0	MPREb_253t8Zu1Hhw	UCplqRLGDp08dYycUADvASUw
 46	We Belong (Remastered 2002)	Pat Benatar	Greatest Hits	INDIFFERENT	3:42	I1VMuTpnzF4	MPREb_bbe3VV6a5UL	UC2kQ55vxVaZqFPmefRlX5yg
@@ -149,7 +148,7 @@
 205	One Night in Bangkok	Murray Head	Emotions (My Favourite Songs)	INDIFFERENT	3:56	73vP02w3mwo	MPREb_crhYysivR6s	UCzZz8mqp7kNVF7FEhlMi4sA
 79	Broken Wings	Mr. Mister	Welcome To The Real World	INDIFFERENT	5:44	LpmVp6s-UiY	MPREb_2CkAkarNlpi	UCsd2mz2HxTWGiHkfqozmw8w
 68	I Melt with You	Modern English	After the Snow	INDIFFERENT	4:11	xvEgcjbhbx4	MPREb_ai4f4grkKGb	UCxCM3Kk_c3qk7apEcRcDGzw
-209	Thieves	Ministry	The Mind Is A Terrible Thing To Taste	INDIFFERENT	5:02	HMTY42v1Re4	MPREb_E5VqJDuo9Rf	UCkHZWbfPk_iA8_Rio-9J5LA
+209	Thieves	Ministry	The Mind Is a Terrible Thing to Taste	INDIFFERENT	5:02	HMTY42v1Re4	MPREb_E5VqJDuo9Rf	UCkHZWbfPk_iA8_Rio-9J5LA
 37	Girl You Know It's True (Long Maxi Version)	Milli Vanilli	All Or Nothing	INDIFFERENT	8:49	Fy_yMN8KOUw	MPREb_d52Eh6nywaK	UCNs5EIHl8WqgLN2MxFVGmqA
 295	Theme from ''Hill Street Blues'' (feat. Larry Carlton)	Mike Post	Television Theme Songs	INDIFFERENT	3:13	h2qK_Qekt-I	MPREb_EYTFf24e9wR	UCyfaX3SF6jXlB7n-Hq-hNyQ
 246	All I Need Is a Miracle	Mike + The Mechanics	Mike + The Mechanics	INDIFFERENT	4:13	exImzOmXmvA	MPREb_eILgwPrRJGk	UCak2_SOTrC61nzqli-cNThw
@@ -158,16 +157,16 @@
 208	Overkill	Men At Work	Cargo	INDIFFERENT	3:50	N2kN4DGyWag	MPREb_WwSgKTj8M2o	UCX1qTEuhbyV7Ie4T8TZsX_Q
 281	The Salt In My Tears	Martin Briley	The Mercury Years	INDIFFERENT	3:29	C4dfJNYJn_U	MPREb_sx0j7laOOiU	UCnPS7tZKG6Ox6QgsNw5UNBg
 249	Toy Soldiers	Martika	Martika (Expanded Edition)	INDIFFERENT	4:48	b3v6dVDXtp0	MPREb_0aGR1GGx6dJ	UCdrT7U-pZNe782GBM8S5MmQ
-58	Borderline	Madonna	Celebration	INDIFFERENT	3:59	xAf8dSyK2HM	MPREb_tuvRsiumQe6	UCo4CrqhIV_tSOGdDWfVyCsg
+58	Borderline	Madonna	Celebration (double disc version)	INDIFFERENT	3:59	xAf8dSyK2HM	MPREb_tuvRsiumQe6	UCo4CrqhIV_tSOGdDWfVyCsg
 63	La Isla Bonita	Madonna	True Blue	INDIFFERENT	4:03	JZZWHnK6piM	MPREb_t1v3ckB5ea7	UCo4CrqhIV_tSOGdDWfVyCsg
 86	Live to Tell	Madonna	True Blue	INDIFFERENT	5:52	lWA2Lt4Se40	MPREb_t1v3ckB5ea7	UCo4CrqhIV_tSOGdDWfVyCsg
 96	Lucky Star	Madonna	Madonna	INDIFFERENT	5:38	em-WvFGVChA	MPREb_6L63BChV5bi	UCo4CrqhIV_tSOGdDWfVyCsg
 100	Like a Prayer	Madonna	Like a Prayer	INDIFFERENT	5:41	ilottRbDnGY	MPREb_yalNtYCucim	UCo4CrqhIV_tSOGdDWfVyCsg
-104	Into the Groove	Madonna	Celebration	INDIFFERENT	4:46	3ewsdfeM-nQ	MPREb_tuvRsiumQe6	UCo4CrqhIV_tSOGdDWfVyCsg
+104	Into the Groove	Madonna	Celebration (double disc version)	INDIFFERENT	4:46	3ewsdfeM-nQ	MPREb_tuvRsiumQe6	UCo4CrqhIV_tSOGdDWfVyCsg
 184	Papa Don't Preach	Madonna	True Blue	INDIFFERENT	4:29	6CuZARbr8o4	MPREb_t1v3ckB5ea7	UCo4CrqhIV_tSOGdDWfVyCsg
 128	House Of Fun	Madness	Madness	INDIFFERENT	3:01	l4ptHcz-0Lk	MPREb_bBdctOFnrRQ	UCpG8LTCBWUbEqfVy3ysifCQ
 173	"It Must Be Love (From ""The Tall Guy"")"	Madness	Ultimate Covers	INDIFFERENT	3:27	cpU3skAFmlM	MPREb_ocUe4yxp5iE	UCpG8LTCBWUbEqfVy3ysifCQ
-240	Pump Up The Volume (USA 12” Mix)	MARRS	Best Of Colourbox 82/87	INDIFFERENT	6:48	B5yzeSkPMqA	MPREb_1bhRNuPjLqY	UCX6GRf7YtFvozjOu_c46efQ
+240	"Pump Up The Volume (USA 12"" Mix)"	M/A/R/R/S	Best of Colourbox 82/87	INDIFFERENT	6:48	B5yzeSkPMqA	MPREb_1bhRNuPjLqY	UCX6GRf7YtFvozjOu_c46efQ
 216	Working for the Weekend	Loverboy	Get Lucky	INDIFFERENT	3:41	wajEoz-Sm8U	MPREb_iwnkF9xDIrS	UCFi4nlb-XoU8nmGUZZEXQlA
 324	Midnight Blue	Lou Gramm	Ready Or Not	INDIFFERENT	3:57	RIgv_uwKPvE	MPREb_r1AqKd2AWUH	UCDOPJrAZnHnr4kUqe9RuCxw
 307	Kiss Me Deadly (Live)	Lita Ford	100 Rock Power Tracks from the '70s, '80s & '90s	INDIFFERENT	4:25	wH0nU7yrAmI	MPREb_wvFlT3BLIgD	UCGUUZKfNqOcBDBYegcs7A5g
@@ -189,11 +188,11 @@
 204	This Woman's Work	Kate Bush	The Sensual World	INDIFFERENT	3:37	YXzLVYMv8fQ	MPREb_ODrXeMuyZ0Q	UCvwgfsD0OaWx0HJRExrE6uQ
 321	Babooshka	Kate Bush	Never for Ever	INDIFFERENT	3:20	1cEyxTBydzE	MPREb_u5uAI2ZwtTm	UCvwgfsD0OaWx0HJRExrE6uQ
 69	Too Shy	Kajagoogoo	White Feathers	INDIFFERENT	3:42	ixshJIg2hPs	MPREb_rmRB1kLoU8N	UCP9bIOZ6ycSggD3m-Nazmww
-163	Too Late for Goodbyes	Julian Lennon	Valotte	INDIFFERENT	3:35	lonninMiymY	MPREb_v9S7CaXMayy	UCwZ6D9uv5QFbFe87nx1KhnA
+163	Too Late For Goodbyes	Julian Lennon	Valotte	INDIFFERENT	3:35	lonninMiymY	MPREb_v9S7CaXMayy	UCwZ6D9uv5QFbFe87nx1KhnA
 155	Wishing Well	Juice WRLD	Legends Never Die	INDIFFERENT	3:15	SjVyYFagYJM	MPREb_zOzftSw8ZL0	UCbn0GRdgsQtl9hlV-IqxFGg
 202	You've Got Another Thing Coming	Judas Priest	Screaming For Vengeance	INDIFFERENT	5:11	LNyIhirtXUI	MPREb_mAVYTe4Go1r	UCy6-RHgm74I8CCCvMu4NPJQ
 299	Separate Ways (Worlds Apart)	Journey	Greatest Hits	INDIFFERENT	5:26	UsdGgRL1xHc	MPREb_uN8bgEO1in5	UCPKnuPciHDB8qw-wyBVQo9A
-255	Shattered Dreams	Johnny Hates Jazz	Turn Back The Clock	INDIFFERENT	3:28	Kz5scjSQ_WE	MPREb_h9WqY5w6vAm	UC_xBAWLhhUJ7hMdBaNPGsyg
+255	Shattered Dreams (Remastered 2008)	Johnny Hates Jazz	Turn Back The Clock	INDIFFERENT	3:28	Kz5scjSQ_WE	MPREb_h9WqY5w6vAm	UC_xBAWLhhUJ7hMdBaNPGsyg
 13	Missing You	John Waite	20 #1's: Classic Rock	INDIFFERENT	3:56	zgL19l_xnjo	MPREb_ywUyWn0WMqM	UCqKXyzKS5d4icERXpqboX4g
 49	St. Elmos Fire (Man in Motion)	John Parr	St. Elmo's Fire - Music From The Original Motion Picture Soundtrack	INDIFFERENT	4:12	or20Ovv0Mag	MPREb_43zU6gTxPRM	UCFO4W4yq31TfBT19iv3S53g
 180	I Hate Myself for Loving You	Joan Jett And The Blackhearts	Up Your Alley	INDIFFERENT	4:07	V6m7b5xJq7Y	MPREb_xSYM5FpQErD	UCV2f_8wytj9jP-01V4f83lw
@@ -209,7 +208,7 @@
 217	Electric Blue	ICEHOUSE	Man Of Colours	INDIFFERENT	4:24	IshzkSdqyJE	MPREb_gpHZFSZdio9	UC2s5vedHiwuIUuyOiS0FQsg
 85	Hip To Be Square	Huey Lewis & The News	Fore!	INDIFFERENT	4:06	mZj85Qe0pzc	MPREb_6dY0o1Zky5E	UCiLTL-mnxJDss_nOG-wyTxQ
 284	Stuck With You	Huey Lewis & The News	Fore!	INDIFFERENT	4:30	WHw0vPNSxM4	MPREb_6dY0o1Zky5E	UCiLTL-mnxJDss_nOG-wyTxQ
-29	Everlasting Love [2020 Remaster]	Howard Jones	Cross That Line (Expanded and Remastered Edition)	INDIFFERENT	4:20	_df7M8-gTMM	MPREb_By5FXasp2jz	UCgj954kyDI39_WQofPzy2UA
+29	Everlasting Love (2020 Remaster)	Howard Jones	Cross That Line (Expanded and Remastered Edition)	INDIFFERENT	4:20	_df7M8-gTMM	MPREb_By5FXasp2jz	UCgj954kyDI39_WQofPzy2UA
 115	What Is Love?	Howard Jones	The Platinum Collection	INDIFFERENT	3:41	G9KZg-mFPgI	MPREb_faSGurbt4rZ	UCgj954kyDI39_WQofPzy2UA
 318	All You Zombies	Hooters	Hooterization: A Retrospective	INDIFFERENT	5:58	aHmm-3b0kpI	MPREb_XTJlLFEoEiq	UCRqVtcShW_Tu_9eG2lNJBKg
 22	Alone	Heart	Bad Animals	INDIFFERENT	3:39	ArUxhUQZaQs	MPREb_s2MeixT1KfT	UCTY6y0k715s7bJ2Tl-ju3xw
@@ -218,18 +217,19 @@
 254	Boys of Summer	Gram Hillman	Summer Singalong	INDIFFERENT	4:33	RFDintEt9HM	MPREb_FIpcA6d3PRv	
 126	You Belong To The City	Glenn Frey	Solo Collection	INDIFFERENT	5:52	ATsN50jJ8RA	MPREb_wQKFrlLzAz5	UCx8OZop2S4F5vZY9_12MfYQ
 294	Don't Forget Me (When I'm Gone)	Glass Tiger	The Thin Red Line (Deluxe)	INDIFFERENT	4:09	e7pE3HFgQL4	MPREb_gm3r7WiYVZC	UCUIZZacIvqs2VEY2C6jfsVQ
+4	I Knew You Were Waiting (For Me)	George Michael	Aretha (Expanded Edition)	INDIFFERENT	4:02	h-99VpKPsUk	MPREb_YDdIMkyTgK7	UCgNivrx0yqbFoAEgf2AsRXg
 45	One More Try	George Michael	Faith	INDIFFERENT	5:51	gQn2xzLLSyo	MPREb_yruPAmtOZ1S	UCgNivrx0yqbFoAEgf2AsRXg
 88	Father Figure	George Michael	Faith	INDIFFERENT	5:37	2WNVNAOQWCE	MPREb_yruPAmtOZ1S	UCgNivrx0yqbFoAEgf2AsRXg
 175	Careless Whisper	George Michael	Make It Big	INDIFFERENT	6:33	_u0zg4p9cV4	MPREb_Dq1sVd1eFgw	UCgNivrx0yqbFoAEgf2AsRXg
-228	Land Of Confusion	Genesis	Invisible Touch	INDIFFERENT	4:47	CKrsAje9lxg	MPREb_Um8SO1Hzgro	UCqlnY5lvEp6F52AZSql04qQ
+228	Land of Confusion	Genesis	Invisible Touch	INDIFFERENT	4:47	CKrsAje9lxg	MPREb_Um8SO1Hzgro	UCqlnY5lvEp6F52AZSql04qQ
 169	Tenderness	General Public	All The Rage	INDIFFERENT	3:39	WwgCvxVlPxg	MPREb_4YIU7my6xHR	UCPB-_4SnGe91sXx6q1f3XBA
 267	Beverly Hills Cop - Main Theme	Geek Music	Beverly Hills Cop - Main Theme	INDIFFERENT	1:56	HJjuOu1wGUQ	MPREb_XLgQI96SGkv	UCHjqGmMpR4aLr4-YygMkWRQ
-287	Relax	Frankie Goes to Hollywood	Welcome To The Pleasuredome	INDIFFERENT	3:57	pJ2L1dh-dSo	MPREb_bEvs4gtC3eL	UC7X7CKd4-aLnn0yfJw6sRjg
 263	Two Tribes	Frankie Goes To Hollywood	Bang!... The Greatest Hits Of Frankie Goes To Hollywood	INDIFFERENT	3:57	0NBw9LohMKQ	MPREb_C8FPUK6QlEb	UC7X7CKd4-aLnn0yfJw6sRjg
+287	Relax	Frankie Goes To Hollywood	Welcome To The Pleasuredome	INDIFFERENT	3:57	pJ2L1dh-dSo	MPREb_bEvs4gtC3eL	UC7X7CKd4-aLnn0yfJw6sRjg
 102	I Want to Know What Love Is (1999 Remaster)	Foreigner	Agent Provocateur	INDIFFERENT	5:05	4jA-_g_iSY0	MPREb_EbxtfIMs44O	UClWBvmriAFpqxngoC7DPhJg
 5	Little Lies (2002 Remaster)	Fleetwood Mac	The Very Best Of Fleetwood Mac	INDIFFERENT	3:40	VIYthyp2lto	MPREb_svaycRGjksV	UCCzULu3prrEaPvM2ZtkJlYQ
 6	Everywhere (2002 Remaster)	Fleetwood Mac	The Very Best Of Fleetwood Mac	INDIFFERENT	3:42	fIoxpiS01gE	MPREb_svaycRGjksV	UCCzULu3prrEaPvM2ZtkJlYQ
-76	Big Love	Fleetwood Mac	Tango In The Night	INDIFFERENT	3:44	gU62pLxtbYk	MPREb_8NrAW63cDh7	UCCzULu3prrEaPvM2ZtkJlYQ
+76	Big Love	Fleetwood Mac	Tango in the Night	INDIFFERENT	3:44	gU62pLxtbYk	MPREb_8NrAW63cDh7	UCCzULu3prrEaPvM2ZtkJlYQ
 305	Johnny Come Home	Fine Young Cannibals	Fine Young Cannibals	INDIFFERENT	3:34	OqA5ZAhl53E	MPREb_uLvVLC8cSRK	UCNcm9d5VOJ3WFRuDAYVPtGQ
 188	Rock Me Amadeus (The American Edit)	Falco	Exquisite	INDIFFERENT	3:15	w8slcTiSGrc	MPREb_8SJocOFqRUw	UC2IxXopNUjjBCC78s_01mnw
 235	Der Kommissar	Falco	Einzelhaft	INDIFFERENT	3:53	eKaGZdY2WTU	MPREb_SeY1MC78VXc	UC2IxXopNUjjBCC78s_01mnw
@@ -244,10 +244,11 @@
 51	Think I'm In Love	Eddie Money	No Control	INDIFFERENT	3:09	R3olMu5qxlw	MPREb_rCxQOeQQC0j	UCGGFoJwI-g-8jSeCECI-2sg
 7	Rio (US Edit)	Duran Duran	Greatest	INDIFFERENT	4:45	sA97V1SrMB4	MPREb_UgGYe0Ff1Oa	UC7d6hou24HcG5sA2lwTgV0A
 141	Hungry Like the Wolf (2009 Remaster)	Duran Duran	Rio (Collector's Edition)	INDIFFERENT	3:41	DjcCQsRCHUs	MPREb_RUR0rUOX6ug	UC7d6hou24HcG5sA2lwTgV0A
-187	The Reflex	Duran Duran	Seven And The Ragged Tiger	INDIFFERENT	4:27	3EzSehpr2HM	MPREb_IjWGwQpvERO	UC7d6hou24HcG5sA2lwTgV0A
+187	The Reflex	Duran Duran	Seven and the Ragged Tiger	INDIFFERENT	4:27	3EzSehpr2HM	MPREb_IjWGwQpvERO	UC7d6hou24HcG5sA2lwTgV0A
 190	A View to a Kill	Duran Duran	Decade	INDIFFERENT	3:38	AJAGgtWwvSk	MPREb_Pwkd4j70sCv	UC7d6hou24HcG5sA2lwTgV0A
 258	New Moon on Monday	Duran Duran	Seven and the Ragged Tiger (Deluxe Edition)	INDIFFERENT	4:17	_E6Inyy9fos	MPREb_iIrzUDKwRTO	UC7d6hou24HcG5sA2lwTgV0A
 312	Is There Something I Should Know?	Duran Duran	Seven and the Ragged Tiger (Deluxe Edition)	INDIFFERENT	4:12	q-x0PFEBcDo	MPREb_iIrzUDKwRTO	UC7d6hou24HcG5sA2lwTgV0A
+32	Life in a Northern Town	Dream Academy	The Dream Academy	INDIFFERENT	4:20	IOEwKRCp2JY	MPREb_hqsHDexAmHX	
 320	The Captain of Her Heart	Double	Blue	INDIFFERENT	4:35	WvVv8R--6TQ	MPREb_x6EFWPcLrIp	UCzB-LYA16-ysTgkdKP7SHbw
 306	Ah! Leah!	Donnie Iris	20th Century Masters: The Millennium Collection: Best of Donnie Iris	INDIFFERENT	3:43	Ip9L8IvIsdQ	MPREb_olTHSaQRemO	UCcZI55PJDzRI1r1ElDIVWuQ
 111	She Works Hard For The Money	Donna Summer	She Works Hard For The Money	INDIFFERENT	5:21	tuUEpbGVV2Y	MPREb_nONaW88l8LW	UCyRT5w65wAC7kwih0xaTo0w
@@ -268,8 +269,8 @@
 123	Rhythm Of The Night	DeBarge	20th Century Masters - The Millennium Collection: The Best Of DeBarge	INDIFFERENT	3:50	-Vvt8Pets4E	MPREb_NaALhnAMh7x	UCdBrFE1c0cMouz8P8-eq4tg
 72	Me Myself And I	De La Soul	Goat rap	INDIFFERENT	3:45	Wa8u6NPGCDo	MPREb_zZcWuYKh1Zi	UCnLCApgMiI8wopT2tWVuMLw
 95	Just a Gigolo / I Ain't Got Nobody	David Lee Roth	Crazy From The Heat	INDIFFERENT	4:38	Tg2rrMwfgB0	MPREb_e48FXmeYGTB	UCxQPjwB9EG-yfcExpgRHOdw
-8	Out of Touch	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	INDIFFERENT	4:10	DCkJ5lGPqFs	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
-10	Say It Isn't So	Daryl Hall & John Oates	The Very Best Of Daryl Hall & John Oates	INDIFFERENT	4:18	RXaUmxqivIc	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
+8	Out of Touch	Daryl Hall & John Oates	The Very Best of Daryl Hall / John Oates	INDIFFERENT	4:10	DCkJ5lGPqFs	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
+10	Say It Isn't So	Daryl Hall & John Oates	The Very Best of Daryl Hall / John Oates	INDIFFERENT	4:18	RXaUmxqivIc	MPREb_ucQxh5tPlur	UC8zbYR5i0gecEZ3iPgm-i9g
 11	Family Man	Daryl Hall & John Oates	H2O	INDIFFERENT	3:25	cptMnXiHfNc	MPREb_NMv48u7dvqc	UC8zbYR5i0gecEZ3iPgm-i9g
 98	I Can Dream About You	Dan Hartman	Streets Of Fire	INDIFFERENT	4:10	J2LxM1bg034	MPREb_wjkCtyoC3lV	UCr6zAONmpwjlSVhZm4GHDTw
 146	She Bop	Cyndi Lauper	Twelve Deadly Cyns...And Then Some	INDIFFERENT	3:43	0JLX_yEJFfM	MPREb_hwGSjSexBck	UC9I3hbllzsS4QZqNekPE76g
@@ -279,7 +280,7 @@
 231	"The Goonies 'r' Good Enough (From ""The Goonies"" Soundtrack)"	Cyndi Lauper	The Goonies (Original Motion Picture Soundtrack)	INDIFFERENT	3:39	bXf8FIUvsbY	MPREb_9qpyWfUAw2h	UC9I3hbllzsS4QZqNekPE76g
 297	All Through the Night	Cyndi Lauper	She's So Unusual	INDIFFERENT	4:33	uH9oRCraBnM	MPREb_wRKmB04VUmW	UC9I3hbllzsS4QZqNekPE76g
 230	(I Just) Died In Your Arms	Cutting Crew	Broadcast	INDIFFERENT	4:41	2wf-MNzSbpA	MPREb_i7boqE6FE5M	UC7CYIif6lYnbE9ouq9XNFRQ
-47	Church Of The Poison Mind (Remastered 2002)	Culture Club	Colour By Numbers	INDIFFERENT	3:33	3qHlKJJjwxc	MPREb_3yvfKLrNTKx	UChva71IdUXvTn8uHGtJkB_w
+47	Church Of The Poison Mind (Remastered 2002)	Culture Club	Colour By Numbers (Remastered / Expanded Edition)	INDIFFERENT	3:33	3qHlKJJjwxc	MPREb_3yvfKLrNTKx	UChva71IdUXvTn8uHGtJkB_w
 61	Something So Strong	Crowded House	Crowded House	INDIFFERENT	2:52	275Civ8J6NI	MPREb_S5n0dF722Fh	UC1ZUH23qJMm54MCUZAKqzFg
 75	Don't Dream It's Over	Crowded House	Crowded House	INDIFFERENT	3:57	H7UMRkp7m80	MPREb_S5n0dF722Fh	UC1ZUH23qJMm54MCUZAKqzFg
 269	Sunglasses At Night	Corey Hart	First Offense	INDIFFERENT	5:20	JjKTafF8HSM	MPREb_OeFrOLQP0Om	UCC_ZV58kzM9d06dzWhafKwQ
@@ -292,8 +293,8 @@
 91	The Way It Is	Bruce Hornsby	The Way It Is	INDIFFERENT	4:58	gthpodDZJeQ	MPREb_lM3hrOdhkkW	UCiwLXd-mXNArd1LLq-ri9Kw
 265	Waiting for a Star to Fall	Boy Meets Girl	Reel Life (Expanded Edition)	INDIFFERENT	4:31	iVOhqIwOtg0	MPREb_uKyDbXHHQlb	UCJJVV7JpOQYgeIR03fzBGlw
 12	I Touch Roses	Book Of Love	Book Of Love	INDIFFERENT	3:27	0AysNgVkmpg	MPREb_bdhTq5g9OnZ	UCH8mCnx-rA-tJCifoNiF29Q
-121	Every Little Step	Bobby Brown	20th Century Masters - The Millennium Collection: The Best Of Bobby Brown	INDIFFERENT	3:59	IF6bjrkJ10M	MPREb_eyfJpKbkNFE	UCtxGVt-hp9UEmyAwfPuAC5w
-60	The Tide Is High	Blondie	Autoamerican	INDIFFERENT	4:41	ypWXEnK_0T8	MPREb_sJ748QpVfUZ	UCF6I8FH_f6NBEsngIfkZY6g
+121	Every Little Step	Bobby Brown	The Best Of Bobby Brown 20th Century Masters The Millennium Collection	INDIFFERENT	3:59	IF6bjrkJ10M	MPREb_eyfJpKbkNFE	UCtxGVt-hp9UEmyAwfPuAC5w
+60	The Tide Is High (Remastered 2001)	Blondie	Autoamerican (Remastered 2001)	INDIFFERENT	4:41	ypWXEnK_0T8	MPREb_sJ748QpVfUZ	UCF6I8FH_f6NBEsngIfkZY6g
 308	Everybody Wants You	Billy Squier	Emotions In Motion	INDIFFERENT	3:47	q0aLYYn_6tM	MPREb_DQal0TQ0MXx	UCPQkGmd0m7u5nE1oGrSRbYg
 54	Get Outta My Dreams, Get Into My Car	Billy Ocean	The Very Best of Billy Ocean	INDIFFERENT	4:45	hwyEKVlGLb8	MPREb_BtFZasIotrf	UC7yYP0Cq2zcwURQrklwkiPw
 179	Caribbean Queen (No More Love On the Run)	Billy Ocean	Suddenly (Expanded Edition)	INDIFFERENT	7:56	VOiZC020nl0	MPREb_zg4ToA295xq	UC7yYP0Cq2zcwURQrklwkiPw
@@ -311,10 +312,9 @@
 200	Cruel Summer	Bananarama	Bananarama (Collector's Edition)	INDIFFERENT	3:36	bO5mu4xLJbk	MPREb_Olwqh5fv9Ym	UCby1_syIoXAn08evtGbX0zQ
 198	Tarzan Boy	Baltimora	Living In The Background	INDIFFERENT	6:19	xkmgcvr5Ezc	MPREb_bQC5quB2UAc	UCi1V1RX9njQPI5YRVqBD__Q
 310	Turn Up The Radio	Autograph	Turn Up The Radio	INDIFFERENT	4:22	rCmXImK7IUw	MPREb_5KNXKT6xoiv	UCymlUs-7Mdh6ALq_Ta1N6Ig
-4	I Knew You Were Waiting (For Me)	Aretha Franklin	Aretha (Expanded Edition)	INDIFFERENT	4:02	h-99VpKPsUk	MPREb_YDdIMkyTgK7	UCW02f_MjH8n1uMZhSds4mQQ
 313	Happy Birthday	Altered Images	Reflected Images - The Best Of Altered Images	INDIFFERENT	7:02	4skFDCjxHkU	MPREb_FaumuFgbppo	UCSJHNOjQNKtI207FrX8garw
-134	Forever Young	Alphaville	Forever Young (Super Deluxe Edition)	INDIFFERENT	3:46	9OUurVdRGsc	MPREb_FELTdQwna3o	UC-GWJZkyivsS-0yMjKMH0AA
-257	Big in Japan	Alphaville	Forever Young (Super Deluxe Edition)	INDIFFERENT	4:45	WlKhxulA4O8	MPREb_FELTdQwna3o	UC-GWJZkyivsS-0yMjKMH0AA
+134	Forever Young	Alphaville	Forever Young (Super Deluxe Edition; 2019 Remaster)	INDIFFERENT	3:46	9OUurVdRGsc	MPREb_FELTdQwna3o	UC-GWJZkyivsS-0yMjKMH0AA
+257	Big in Japan	Alphaville	Forever Young (Super Deluxe Edition; 2019 Remaster)	INDIFFERENT	4:45	WlKhxulA4O8	MPREb_FELTdQwna3o	UC-GWJZkyivsS-0yMjKMH0AA
 99	Poison	Alice Cooper	Trash	INDIFFERENT	4:31	XUhjIoDC7Pg	MPREb_gHd6EhVBB6S	UCSjn-oQV136VoKk7FXxxZ0w
 136	Fantasy	Aldo Nova	Aldo Nova	INDIFFERENT	5:04	lnftMY4OBtI	MPREb_aw9yvLHRbYz	UCBu4PDNfa_XpH4FdV5AEVpQ
 9	Black Velvet	Alannah Myles	Alannah Myles	INDIFFERENT	4:48	ZHHEmd5mECY	MPREb_xOSgTOr4W6A	UCTiiXgZ55RJXdNvLk1Ayffg

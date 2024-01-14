@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 29	Some Chords	deadmau5	4x4=12	LIKE	7:24	HXipID0x-HM	MPREb_qjzStGSp3SP	UCL44WZGVf-BU5N0ymCXrpBg
-45	Woman	Wolfmother	Wolfmother (International Version)	LIKE	2:57	FCmohxJmg7E	MPREb_dDq5JK10uRY	UCledROUfeP9bglqpKqeUgwQ
+45	Woman	Wolfmother	Wolfmother	LIKE	2:57	FCmohxJmg7E	MPREb_dDq5JK10uRY	UCledROUfeP9bglqpKqeUgwQ
 7	Mansard Roof	Vampire Weekend	Vampire Weekend	LIKE	2:08	bECAsAL6fpM	MPREb_zXcVFdJ9Uu1	UCWy-MPuAh_GH8YwXxtq3gcA
 15	Campus	Vampire Weekend	Vampire Weekend	LIKE	2:57	yP7pwm6E09U	MPREb_zXcVFdJ9Uu1	UCWy-MPuAh_GH8YwXxtq3gcA
 76	Oxford Comma	Vampire Weekend	Vampire Weekend	LIKE	3:16	Xol4RPRnuXQ	MPREb_zXcVFdJ9Uu1	UCWy-MPuAh_GH8YwXxtq3gcA
@@ -42,9 +42,9 @@
 109	Feels Like We Only Go Backwards	Tame Impala	Lonerism	LIKE	3:13	f8_EpxhNEsA	MPREb_TQB0ArlaxuL	UCGz-eguN8tcic5kUG4s1ZgA
 115	Chop Suey!	System Of A Down	Toxicity	LIKE	3:31	MlcJQYON2Go	MPREb_3n9jhahGRLv	UCDJftX2zx_UT_QSnBGIF96w
 17	She's Only 18	Red Hot Chili Peppers	Stadium Arcadium	LIKE	3:26	ZEKSY7XempM	MPREb_6NxJve9rqGu	UCrSorX845CEWXzU4Z7BojjA
-19	Easily	Red Hot Chili Peppers	Californication (Deluxe Edition)	LIKE	3:51	Rtcm6QB5RL8	MPREb_9zDg9WFf7KR	UCrSorX845CEWXzU4Z7BojjA
+19	Easily	Red Hot Chili Peppers	Californication (Deluxe Version)	LIKE	3:51	Rtcm6QB5RL8	MPREb_9zDg9WFf7KR	UCrSorX845CEWXzU4Z7BojjA
 30	Slow Cheetah	Red Hot Chili Peppers	Stadium Arcadium	LIKE	5:20	-877RlLrhJA	MPREb_6NxJve9rqGu	UCrSorX845CEWXzU4Z7BojjA
-50	Parallel Universe	Red Hot Chili Peppers	Californication (Deluxe Edition)	LIKE	4:29	X-o8eGhKhlI	MPREb_9zDg9WFf7KR	UCrSorX845CEWXzU4Z7BojjA
+50	Parallel Universe	Red Hot Chili Peppers	Californication (Deluxe Version)	LIKE	4:29	X-o8eGhKhlI	MPREb_9zDg9WFf7KR	UCrSorX845CEWXzU4Z7BojjA
 62	Goodbye Angels	Red Hot Chili Peppers	The Getaway	LIKE	4:29	K5QrnKj3lMA	MPREb_0p4Lr89w8y0	UCrSorX845CEWXzU4Z7BojjA
 6	Cold Fingers	Ratatat	Magnifique	LIKE	2:01	ckG51IfRVxs	MPREb_rGahgjJXEfs	UCbqBqmG-EXTUsp2v4SHGDRg
 55	Montanita	Ratatat	Classics	LIKE	5:01	XrXqKoCPvE0	MPREb_byCLppgPeCf	UCbqBqmG-EXTUsp2v4SHGDRg
@@ -53,14 +53,14 @@
 84	Seventeen Years	Ratatat	Ratatat	LIKE	4:27	3NFqqUoh3BI	MPREb_7ZJqMXYBWlX	UCbqBqmG-EXTUsp2v4SHGDRg
 91	Falcon Jab	Ratatat	LP3	LIKE	3:56	UotXex6IHRA	MPREb_3nI4LlAA5pK	UCbqBqmG-EXTUsp2v4SHGDRg
 93	Countach	Ratatat	Magnifique	LIKE	2:33	nLcQIearls0	MPREb_rGahgjJXEfs	UCbqBqmG-EXTUsp2v4SHGDRg
-98	We Can’t Be Stopped	Ratatat	LP4	LIKE	2:11	DEte3vHXM4A	MPREb_wYTH1jEAtEX	UCbqBqmG-EXTUsp2v4SHGDRg
+98	We Can't Be Stopped	Ratatat	LP4	LIKE	2:11	DEte3vHXM4A	MPREb_wYTH1jEAtEX	UCbqBqmG-EXTUsp2v4SHGDRg
 103	El Pico	Ratatat	Ratatat	LIKE	4:42	IchOgSt_I3I	MPREb_7ZJqMXYBWlX	UCbqBqmG-EXTUsp2v4SHGDRg
 108	Dura	Ratatat	LP3	LIKE	3:08	DhNtyuQTGk8	MPREb_3nI4LlAA5pK	UCbqBqmG-EXTUsp2v4SHGDRg
 111	Flynn	Ratatat	LP3	LIKE	1:56	tRM6LA7LcwE	MPREb_3nI4LlAA5pK	UCbqBqmG-EXTUsp2v4SHGDRg
 116	Spanish Armada	Ratatat	Ratatat	LIKE	2:59	-BFvxvFYtyE	MPREb_7ZJqMXYBWlX	UCbqBqmG-EXTUsp2v4SHGDRg
 122	Gipsy Threat	Ratatat	LP3	LIKE	1:38	6TJXGAsXhjI	MPREb_3nI4LlAA5pK	UCbqBqmG-EXTUsp2v4SHGDRg
 106	Fitter Happier	Radiohead	OK Computer	LIKE	1:58	O4SzvsMFaek	MPREb_yXhSI4FCUo6	UCr_iyUANcn9OX_yy9piYoLw
-107	Weird Fishes/Arpeggi	Radiohead	In Rainbows	LIKE	5:19	LUjGtyYEi90	MPREb_R6C9lU4QEg2	UCr_iyUANcn9OX_yy9piYoLw
+107	Weird Fishes/ Arpeggi	Radiohead	In Rainbows	LIKE	5:19	LUjGtyYEi90	MPREb_R6C9lU4QEg2	UCr_iyUANcn9OX_yy9piYoLw
 114	All I Need	Radiohead	In Rainbows	LIKE	3:49	FM7ALFsOH4g	MPREb_R6C9lU4QEg2	UCr_iyUANcn9OX_yy9piYoLw
 26	Go With The Flow	Queens Of The Stone Age	Songs For The Deaf	LIKE	3:08	ZkRtdXSSuC0	MPREb_lzc8IRNO4lA	UCcYgNw9ne8v1cxcAD_sIOWQ
 35	Gonna Leave You	Queens Of The Stone Age	Songs For The Deaf	LIKE	2:51	2xZFcuQethA	MPREb_lzc8IRNO4lA	UCcYgNw9ne8v1cxcAD_sIOWQ
@@ -82,10 +82,10 @@
 52	Kids with Guns	Gorillaz	Demon Days	LIKE	3:46	gQ-z-rVdGVE	MPREb_2az20wG4HxN	UCNIV5B_aJnLrKDSnW_MOmcQ
 57	5/4	Gorillaz	Gorillaz	LIKE	2:43	SaqUBaD_nn4	MPREb_4bUnq6rWRE7	UCNIV5B_aJnLrKDSnW_MOmcQ
 58	19-2000 (Soulchild Remix)	Gorillaz	G-Sides	LIKE	3:30	iqbmsoUgbWA	MPREb_L6Ai5WN4Sby	UCNIV5B_aJnLrKDSnW_MOmcQ
-68	Let Me Out (feat. Pusha T & Mavis Staples)	Gorillaz	Humanz	LIKE	2:56	xDE-YIHMgdM	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
+68	Let Me Out (feat. Mavis Staples & Pusha T)	Gorillaz	Humanz	LIKE	2:56	xDE-YIHMgdM	MPREb_ZHeJPKFJ464	UCNIV5B_aJnLrKDSnW_MOmcQ
 73	Tomorrow Comes Today	Gorillaz	Gorillaz	LIKE	3:14	WTrAeoAtYxU	MPREb_4bUnq6rWRE7	UCNIV5B_aJnLrKDSnW_MOmcQ
 79	On Melancholy Hill	Gorillaz	Plastic Beach	LIKE	3:54	p00v9ZFhWJM	MPREb_RZdSdgE12kU	UCNIV5B_aJnLrKDSnW_MOmcQ
-82	Dirty Harry	Gorillaz	Demon Days	LIKE	3:51	qNIpG4m87ko	MPREb_2az20wG4HxN	UCNIV5B_aJnLrKDSnW_MOmcQ
+82	Dirty Harry (feat. Bootie Brown)	Gorillaz	Demon Days	LIKE	3:51	qNIpG4m87ko	MPREb_2az20wG4HxN	UCNIV5B_aJnLrKDSnW_MOmcQ
 85	Re-Hash	Gorillaz	Gorillaz	LIKE	3:41	uSwcI68NgMU	MPREb_4bUnq6rWRE7	UCNIV5B_aJnLrKDSnW_MOmcQ
 90	Fire Coming out of the Monkey's Head	Gorillaz	Demon Days	LIKE	3:19	OBabG0T2fwQ	MPREb_2az20wG4HxN	UCNIV5B_aJnLrKDSnW_MOmcQ
 97	Superfast Jellyfish (feat. Gruff Rhys & De La Soul)	Gorillaz	Plastic Beach	LIKE	2:55	1JdIBiHu7VE	MPREb_RZdSdgE12kU	UCNIV5B_aJnLrKDSnW_MOmcQ
@@ -109,14 +109,14 @@
 110	Don't Let The Man Get You Down	Fatboy Slim	The Greatest Hits: Why Try Harder	LIKE	3:19	F2l-JSoZjMk	MPREb_6lzXpRiOl5W	UCNekatqy_ys1SX8NfjpwixA
 100	Eh	Death Grips	Bottomless Pit	LIKE	2:53	7GvJLimguLg	MPREb_BeLAl3SNrRR	UCvM75EuDkJE-65aH5rkfWmg
 59	Lonely Press Play	Damon Albarn	Everyday Robots	LIKE	3:43	nsO_g-qxLOk	MPREb_UJINee2W2Hl	UCW-2jeHSUVkobsiVJBJ6PXg
-95	Long Line of Cars	Cake	Comfort Eagle	LIKE	3:24	4fwm5hZLqmk	MPREb_sHzavCc6vDo	UCPEA0kfpI53U9vmqnc9lJ-A
-31	"Girls and Boys (7"" Mix)"	Blur	Blur: The Best Of	LIKE	4:20	g_pY-wzZmdg	MPREb_JBZ5xavhmPc	UCI3EFb2lvZyBMykNd64JDhg
+95	Long Line of Cars	CAKE	Comfort Eagle	LIKE	3:24	4fwm5hZLqmk	MPREb_sHzavCc6vDo	UCPEA0kfpI53U9vmqnc9lJ-A
+31	"Girls & Boys (7"" Mix)"	Blur	The Best Of	LIKE	4:20	g_pY-wzZmdg	MPREb_JBZ5xavhmPc	UCI3EFb2lvZyBMykNd64JDhg
 36	On Your Own	Blur	Blur	LIKE	4:27	saO2EpY-GdQ	MPREb_juC52fPAHtt	UCI3EFb2lvZyBMykNd64JDhg
 117	Song 2	Blur	Blur	LIKE	2:02	SQrKCytWbj8	MPREb_juC52fPAHtt	UCI3EFb2lvZyBMykNd64JDhg
 123	Grow	Bedroom	Grow	LIKE	5:08	fwGa8u6MBq8	MPREb_x4cvQ4ugU5y	UCsbNIycvmMqKCQrTx5X9-Kg
 5	Rental Car	Beck	Guero	LIKE	3:06	37XIArRQGx0	MPREb_uJqmqGUwtzh	UC8fxkahdLdfHk8pF1fRYD-w
-4	Red Light Indicates Doors Are Secured	Arctic Monkeys	Whatever People Say I Am, That's What I Am Not	LIKE	2:24	u8PjGQLO9mI	MPREb_1X7jgKSpSz7	UC8Yu1_yfN5qPh601Y4btsYw
-18	From the Ritz to the Rubble	Arctic Monkeys	Whatever People Say I Am, That's What I Am Not	LIKE	3:14	H8bNHRVwzyA	MPREb_1X7jgKSpSz7	UC8Yu1_yfN5qPh601Y4btsYw
+4	Red Light Indicates Doors Are Secured	Arctic Monkeys	Whatever People Say I Am, That's What I'm Not	LIKE	2:24	u8PjGQLO9mI	MPREb_1X7jgKSpSz7	UC8Yu1_yfN5qPh601Y4btsYw
+18	From The Ritz To The Rubble	Arctic Monkeys	Whatever People Say I Am, That's What I'm Not	LIKE	3:14	H8bNHRVwzyA	MPREb_1X7jgKSpSz7	UC8Yu1_yfN5qPh601Y4btsYw
 27	Dance Little Liar	Arctic Monkeys	Humbug	LIKE	4:44	JZ0MoWajrQ8	MPREb_ACUs2mNKpsy	UC8Yu1_yfN5qPh601Y4btsYw
 39	Crying Lightning	Arctic Monkeys	Humbug	LIKE	3:45	1m51XbfT_tw	MPREb_ACUs2mNKpsy	UC8Yu1_yfN5qPh601Y4btsYw
 41	Secret Door	Arctic Monkeys	Humbug	LIKE	3:44	f9HF0DJ1cu8	MPREb_ACUs2mNKpsy	UC8Yu1_yfN5qPh601Y4btsYw

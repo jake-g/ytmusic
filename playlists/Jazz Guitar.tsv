@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 12	Mi Cosa (Take 1)	Wes Montgomery Trio	Guitar On The Go	LIKE	3:39	AbnjhNfLeCI	MPREb_FIMnDhFKwvg	UCYs8ep9Xe3RQc3Oy4BWKNAw
+24	'Round Midnight	Wes Montgomery Trio	The Wes Montgomery Trio (Expanded Edition)	LIKE	4:54	nA___-b3Fn4	MPREb_5vZA13y0CQ3	UCYs8ep9Xe3RQc3Oy4BWKNAw
 9	A Day In The Life	Wes Montgomery	A Day In The Life	LIKE	5:50	psvs4axQ10A	MPREb_V5BjZ0IR6IQ	UCYs8ep9Xe3RQc3Oy4BWKNAw
 23	Greensleeves	Wes Montgomery	Road Song	LIKE	2:03	OT7ctovBtJI	MPREb_Z5W6Q9jntoR	UCYs8ep9Xe3RQc3Oy4BWKNAw
 53	While We're Young	Wes Montgomery	So Much Guitar!	LIKE	2:16	_ajWF-8XTCw	MPREb_MmqwfqnChK9	UCYs8ep9Xe3RQc3Oy4BWKNAw
@@ -7,7 +8,6 @@
 78	The Thumb	Wes Montgomery	Tequila (Expanded Edition)	LIKE	4:49	zFCVV-dFAe8	MPREb_4TsLAZ02fKY	UCYs8ep9Xe3RQc3Oy4BWKNAw
 54	Body And Soul	Tuck Andress	Reckless Precision	LIKE	4:55	-jqGrMA_XMA	MPREb_kYfesX8yS6V	UCO1SxGpSxHAtP0fcz8YHCvA
 63	Over The Rainbow / If I Only Had A Brain	Tuck Andress	Reckless Precision	LIKE	4:42	6gVRJcq083g	MPREb_kYfesX8yS6V	UCO1SxGpSxHAtP0fcz8YHCvA
-24	'Round Midnight	The Wes Montgomery Trio	The Wes Montgomery Trio	LIKE	4:54	nA___-b3Fn4	MPREb_5vZA13y0CQ3	UCYs8ep9Xe3RQc3Oy4BWKNAw
 20	Just Friends	Ted Greene	Solo Guitar	LIKE	4:18	npMJu7RUHB0	MPREb_cj9S2USTWV2	UCNFZCktSLIUREr6iHwEtN1g
 28	Watch What Happens	Ted Greene	Solo Guitar	LIKE	2:30	l9v3nmRT8uM	MPREb_cj9S2USTWV2	UCNFZCktSLIUREr6iHwEtN1g
 52	Summertime / It Ain't Necessarily So (Medley)	Ted Greene	Solo Guitar	LIKE	4:40	HBNp-3XQPM0	MPREb_cj9S2USTWV2	UCNFZCktSLIUREr6iHwEtN1g
@@ -28,12 +28,13 @@
 73	Smoke Gets in Your Eyes	Pasquale Grasso	Solo Ballads	LIKE	4:10	qEPrNPJ2Gwg	MPREb_fyrkVsRaPBe	UCZ8DiSzuQ-e1RRRUV4-LfNA
 82	These Foolish Things	Pasquale Grasso	Solo Ballads, Vol. 1	LIKE	4:24	Ug2NsnFScCQ	MPREb_jEwPC03Uw9X	UCZ8DiSzuQ-e1RRRUV4-LfNA
 83	Body and Soul	Pasquale Grasso	Solo Ballads, Vol. 1	LIKE	4:08	qD5ITD9iTy8	MPREb_jEwPC03Uw9X	UCZ8DiSzuQ-e1RRRUV4-LfNA
+90	Le Fenêtre De Moscou	Pascal De Loutchek	The Russian Guitars	LIKE	4:11	bmCcOStkEJI	MPREb_aY3f9NCYY2W	UCcYam4GcHJl7hauM9taEgOg
 21	Donna Lee	Mimi Fox	Standards	LIKE	4:31	Dzb3IfHN1uI	MPREb_oOzV8ys4ViQ	UCM0sn1NB5NtRvB_ieQb3uAg
 50	Stella By Starlight	Mimi Fox	Standards	LIKE	5:05	ZveCTnEs9Ts	MPREb_oOzV8ys4ViQ	UCM0sn1NB5NtRvB_ieQb3uAg
 77	Satin Doll	Mimi Fox	Standards	LIKE	4:21	EIw3wJKwWLI	MPREb_oOzV8ys4ViQ	UCM0sn1NB5NtRvB_ieQb3uAg
 16	Embraceable You	Martin Taylor	Love Songs	LIKE	5:50	4Nw-sdBp5p8	MPREb_z9taLCjD6pG	UCbvzd0uZh7HGSLdfdsgkCQw
 39	The Dolphin (Live)	Martin Taylor	Martin Taylor In Concert	LIKE	5:48	V57eYyAWFcM	MPREb_1qAAaUVXliI	UCbvzd0uZh7HGSLdfdsgkCQw
-27	Night and Day	Luiz Bonfá	Solo In Rio	LIKE	2:10	6LWwqe3d2E4	MPREb_VQlyIM6pv5L	UCkQvoiWH10p2znjXFVXeJFQ
+27	Night and Day	Luiz Bonfa	Solo in Rio 1959	LIKE	2:10	6LWwqe3d2E4	MPREb_VQlyIM6pv5L	UCkQvoiWH10p2znjXFVXeJFQ
 36	Perdido de Amor 2	Luiz Bonfa	Solo in Rio 1959	LIKE	1:56	7YeJ_SRT6gY	MPREb_qBHi6XmTQH3	UCkQvoiWH10p2znjXFVXeJFQ
 44	Night and Day	Luiz Bonfa	Solo in Rio 1959	LIKE	2:10	SmBlRm9NObc	MPREb_qBHi6XmTQH3	UCkQvoiWH10p2znjXFVXeJFQ
 5	Cantaloupe Island	Lionel Loueke	Cantaloupe Island	LIKE	4:04	H7KO89K5A3I	MPREb_NMVEeFv1HK7	UCEGPK2cyFPYumMfgRYlt7cA
@@ -41,13 +42,12 @@
 81	Allegra's Ballerina Song	Larry Coryell	Twelve Frets To One Octave	LIKE	4:09	FPQZZVBJgjg	MPREb_xPuPM3ddNQi	UCP4puP5-qFkccianO60nb2w
 14	If I Had You	Kenny Burrell	A Generation Ago Today	LIKE	2:42	JQIk6CcgkDI	MPREb_OBTJ7auxS8e	UCxIGOyqgyrj2pKCPKZmDRYg
 72	I Think It's Going To Rain Today	Kenny Burrell	'Round Midnight	LIKE	5:00	FI8qF3c0Ejs	MPREb_9r9P2cGcFey	UCxIGOyqgyrj2pKCPKZmDRYg
-75	Moon And Sand	Kenny Burrell	Guitar Forms	LIKE	4:15	H8eEX8w1aNc	MPREb_MNvsBsi3jMr	UCxIGOyqgyrj2pKCPKZmDRYg
-79	Lotus Land	Kenny Burrell	Guitar Forms	LIKE	9:36	gerLli270Zg	MPREb_MNvsBsi3jMr	UCxIGOyqgyrj2pKCPKZmDRYg
+75	Moon And Sand	Kenny Burrell	Guitar Forms (Expanded Edition)	LIKE	4:15	H8eEX8w1aNc	MPREb_MNvsBsi3jMr	UCxIGOyqgyrj2pKCPKZmDRYg
+79	Lotus Land	Kenny Burrell	Guitar Forms (Expanded Edition)	LIKE	9:36	gerLli270Zg	MPREb_MNvsBsi3jMr	UCxIGOyqgyrj2pKCPKZmDRYg
 85	Wild Is The Wind	Kenny Burrell	Standards (Great Songs/Great Performances)	LIKE	3:12	WQ9kCBefCCc	MPREb_1vGGaArI986	UCxIGOyqgyrj2pKCPKZmDRYg
-87	Greensleeves	Kenny Burrell	Guitar Forms	LIKE	4:12	wowp7PDR4FU	MPREb_MNvsBsi3jMr	UCxIGOyqgyrj2pKCPKZmDRYg
+87	Greensleeves	Kenny Burrell	Guitar Forms (Expanded Edition)	LIKE	4:12	wowp7PDR4FU	MPREb_MNvsBsi3jMr	UCxIGOyqgyrj2pKCPKZmDRYg
 17	40's	Julian Lage	World's Fair	LIKE	3:50	c_sKqUysqt4	MPREb_XiKWyCZhLSm	UCyLOcAaj_zgWQH99Y2aELVw
 84	Familiar Posture	Julian Lage	Sounding Point	LIKE	2:59	wFeOODGbfQw	MPREb_ipbhXTumNfU	UCyLOcAaj_zgWQH99Y2aELVw
-90	Le Fenêtre de Moscou	Jon Larsen	The Russian Guitars	LIKE	4:11	bmCcOStkEJI	MPREb_aY3f9NCYY2W	UCiXN6WlLDB4d0vyAF7zA2AQ
 2	I'm Old Fashioned	Johnny Smith	Legends: Solo Guitar Performances	LIKE	2:21	bsWI3L233TE	MPREb_bBvniW4XXFe	UCOQ5iX2y8S1mVAM-oVDvc8Q
 15	I Could Have Told You	Johnny Smith	Johnny Smith Plays Jimmy Van Heusen	LIKE	2:54	Ie-0-RiaVWY	MPREb_G849Ym1nbjr	UCOQ5iX2y8S1mVAM-oVDvc8Q
 47	Macho's Lullaby	Johnny Smith	Legends: Solo Guitar Performances	LIKE	2:08	KOniJtg2XSk	MPREb_bBvniW4XXFe	UCOQ5iX2y8S1mVAM-oVDvc8Q
@@ -63,7 +63,7 @@
 40	Misty (feat. Jimmy Bruno)	Jimmy Bruno	Solo	LIKE	6:42	H-p6hy67G-U	MPREb_S3WCovthKN0	UC9MTkLzrUKHrwbocHquM2QQ
 42	Darn That Dream (feat. Jimmy Bruno)	Jimmy Bruno	Solo	LIKE	5:08	by_0BbnM3p4	MPREb_S3WCovthKN0	UC9MTkLzrUKHrwbocHquM2QQ
 41	Into the Dream	Jim Hall	Jim Hall & Pat Metheny	LIKE	3:07	UW34Wfr9T00	MPREb_cgEKvZ0M0Tm	UCVJnjY32m24nF2WHvE9BW1g
-60	You'd Be So Nice To Come Home To	Jim Hall	Concierto (CTI Records 40th Anniversary Edition - Original recording remastered)	LIKE	7:06	Zfa92vR7FRA	MPREb_BwFRl4CqUY9	UCVJnjY32m24nF2WHvE9BW1g
+60	You'd Be So Nice To Come Home To	Jim Hall	Concierto (CTI Records 40th Anniversary Edition)	LIKE	7:06	Zfa92vR7FRA	MPREb_BwFRl4CqUY9	UCVJnjY32m24nF2WHvE9BW1g
 88	Improvisation No. 3	Jim Hall	Jim Hall & Pat Metheny	LIKE	3:23	6ZvUBLzmFLY	MPREb_cgEKvZ0M0Tm	UCVJnjY32m24nF2WHvE9BW1g
 45	Octopus One	Iago Banet	Iago Banet	LIKE	3:01	Vp_bgDRuDhw	MPREb_JXdeiJGyV88	UC1CyKoQAM6VL_1qxfBt6h-A
 38	Darn That Dream	Höper & Lundgren	Darn that Dream	LIKE	5:00	F5RsSqqLfiQ	MPREb_st4bfwABvzt	UCHT3VmX_SE0wECI5Md25EJg
@@ -86,7 +86,7 @@
 55	Love You Too	Dee Brown	Love You Too	LIKE	3:48	S3r2ArjXTfI	MPREb_4OKNRjtl7Ji	UC1OdiL8btOGa90Qjx3FE53g
 49	Someone To Watch Over Me	Bucky Pizzarelli	One Morning In May	LIKE	3:09	t-ieI32QMIU	MPREb_LTaulaiGSUt	UCgJXYybvd0RnUihsDT3icTQ
 71	Wait Till You See Her	Bucky Pizzarelli	One Morning In May	LIKE	1:45	4aBz3-IgsVc	MPREb_LTaulaiGSUt	UCgJXYybvd0RnUihsDT3icTQ
-18	Django	Bill Harris	Down In the Alley (Philadelphia 1972) [The Definitive Black & Blue Sessions]	LIKE	4:50	kjad_zXTZUg	MPREb_e12FWyywOw4	UCsHpGjOzECW_uazsf2W0axQ
+18	Django	Bill Harris	Down In the Alley (Philadelphia 1972) (The Definitive Black & Blue Sessions)	LIKE	4:50	kjad_zXTZUg	MPREb_e12FWyywOw4	UCsHpGjOzECW_uazsf2W0axQ
 65	Alfie (Instrumental)	Barney Kessel	Solo	LIKE	5:28	KPH8n_qDWgg	MPREb_pXBZ5cUqxVn	UC8n0tfmW9Hxnl0SBbrTv9kQ
 25	Liable to Wyble	Ant Law	Liable to Wyble	LIKE	1:40	kfeU0pONsgk	MPREb_vXDdAbtqA3G	UCBKSkfX44gfA47ajil4lLqQ
 51	Love Letters	Andy Brown	Trio and Solo	LIKE	4:16	fL5YWQIVLBM	MPREb_KTjXFqmgEQC	UCfWbb-f_yuZTses7TiJeuHA

@@ -1,10 +1,10 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 0	Feel It All Around	Washed Out	Life of Leisure	LIKE	3:12	3Pt0V6K7WpM	MPREb_bLTiKGI4leg	UC1rCT_Cy1pP1wnRcEUV3nPA
 24	It All Feels Right	Washed Out	Paracosm	LIKE	4:06	p8XeYTcqLko	MPREb_uBenfYxZc5o	UC1rCT_Cy1pP1wnRcEUV3nPA
+19	Freelance	Toro y Moi	Outer Peace	LIKE	3:46	hGXSFL3Bhs0	MPREb_0WQCIKBWcbz	UCJikOjbf3VffCdLXTsbxfxg
 37	So Many Details	Toro y Moi	Anything in Return	LIKE	4:46	sdASbGBEZSA	MPREb_Ws8ystnFNy4	UCJikOjbf3VffCdLXTsbxfxg
+40	50-50 (Instupendo)	Toro y Moi	Outer Peace	LIKE	3:27	B3jIRkfQCjw	MPREb_0WQCIKBWcbz	UCJikOjbf3VffCdLXTsbxfxg
 52	Rose Quartz	Toro y Moi	Anything in Return	LIKE	4:14	TOd_r4hBZJI	MPREb_Ws8ystnFNy4	UCJikOjbf3VffCdLXTsbxfxg
-19	Freelance	Toro Y Moi	Outer Peace	LIKE	3:46	hGXSFL3Bhs0	MPREb_0WQCIKBWcbz	UCJikOjbf3VffCdLXTsbxfxg
-40	50-50 (feat. Instupendo)	Toro Y Moi	Outer Peace	LIKE	3:27	B3jIRkfQCjw	MPREb_0WQCIKBWcbz	UCJikOjbf3VffCdLXTsbxfxg
 46	Out of the Races and Onto the Tracks	The Rapture	Out of the Races and Onto the Tracks	LIKE	4:03	T092lRzCejU	MPREb_HodiDgLsFzX	UCeNX7t0ZUTG5q2fek3LHzeA
 56	Pieces Of The People We Love	The Rapture	Pieces Of The People We Love	LIKE	3:44	9PqkkBVfsD0	MPREb_vbhFH6PyfUy	UCeNX7t0ZUTG5q2fek3LHzeA
 57	First Gear	The Rapture	Pieces Of The People We Love	LIKE	6:20	wOdZFe154T4	MPREb_vbhFH6PyfUy	UCeNX7t0ZUTG5q2fek3LHzeA
@@ -16,7 +16,7 @@
 9	Something For Your M.I.N.D.	Superorganism	Superorganism	LIKE	2:46	zx5hAeDfplw	MPREb_CtGQAH1e55k	UCdcfLJuBIkk6bw_OQYwh1Jg
 49	Margerine Melodie	Stereolab	Margerine Eclipse	LIKE	6:19	w45fYQzleXA	MPREb_9ahu9JjIwZ1	UCRUe8cfECb_SNa-Y15Z4EZw
 55	OK	Shitdisco	S**tdisco	LIKE	4:03	foX5Olsvq7s	MPREb_rtu9ESgesJV	UC0ukX0VISkn9cAtJSpkUG2A
-23	Rawnald Gregory Erickson the Second	STRFKR	STRFKR	LIKE	2:53	Du8viWKWEvM	MPREb_zIijQD0k6VB	UCL6qpCZZBTfp1MtI3bmL7jw
+23	Rawnald Gregory Erickson the Second	STRFKR	Starfucker	LIKE	2:53	Du8viWKWEvM	MPREb_zIijQD0k6VB	UCL6qpCZZBTfp1MtI3bmL7jw
 33	The People	Photay	The People	LIKE	5:05	t4cXZsB7auk	MPREb_jjN0frgD8vY	UCLUF92M-1t6PxdqB3bpH0ww
 14	If I Ever Feel Better	Phoenix	United	LIKE	4:27	fJALBK5YD3c	MPREb_1G10uNrPLiK	UCAoGVyUtK3AHYwjJ0xDFbFw
 36	Trying To Be Cool	Phoenix	Bankrupt!	LIKE	3:49	m_DjVIje7ew	MPREb_5zpdSPW8TKG	UCAoGVyUtK3AHYwjJ0xDFbFw
@@ -28,8 +28,8 @@
 4	Little Dark Age	MGMT	Little Dark Age	LIKE	5:00	ETEg-SB01QY	MPREb_BNTnaKPYO7m	UCcP74mIhs125nerd5o5Dd-Q
 10	Kids	MGMT	Oracular Spectacular	LIKE	5:03	VHb_XIql_gU	MPREb_TfJD6rb0Ilg	UCcP74mIhs125nerd5o5Dd-Q
 13	When You Die	MGMT	Little Dark Age	LIKE	4:24	w1nGMgaukcE	MPREb_BNTnaKPYO7m	UCcP74mIhs125nerd5o5Dd-Q
-7	Midnight City	M83	Hurry Up, We're Dreaming	LIKE	4:03	7ID-1jzek4Y	MPREb_EMwa8nVu7TX	UC0UUzwcmD3s1S7NYAxHfs1w
-11	Wait	M83	Hurry Up, We're Dreaming	LIKE	5:43	60-UeAOV5tI	MPREb_EMwa8nVu7TX	UC0UUzwcmD3s1S7NYAxHfs1w
+7	Midnight City	M83	Hurry Up We're Dreaming	LIKE	4:03	7ID-1jzek4Y	MPREb_EMwa8nVu7TX	UC0UUzwcmD3s1S7NYAxHfs1w
+11	Wait	M83	Hurry Up We're Dreaming	LIKE	5:43	60-UeAOV5tI	MPREb_EMwa8nVu7TX	UC0UUzwcmD3s1S7NYAxHfs1w
 66	Lower Your Eyelids To Die With The Sun	M83	Before The Dawn Heals Us	LIKE	10:42	x4fcRtqTGZE	MPREb_zZ30TJcJ5Ib	UC0UUzwcmD3s1S7NYAxHfs1w
 48	Paper Planes (DFA Remix)	M.I.A.	Paper Planes	LIKE	5:51	FHwAH9VoFfE	MPREb_2uI8PipigGE	UCaPHikQGkyaAoH_zwrZmY1w
 53	Feather	Little Dragon	Machine Dreams	LIKE	4:53	ADHw8Rx3E8M	MPREb_fgh3Ie2aHxY	UC7oADPAbivBVFIm0ULUUtvg
@@ -43,7 +43,7 @@
 58	Get Innocuous! (Soulwax Remix)	LCD Soundsystem	A Bunch Of Stuff EP	LIKE	10:01	W5ZL9ZIr-vM	MPREb_5ceKOX1aIEu	UCdsmJG8eFcr6Lxgau8E7afg
 12	D.A.N.C.E	Justice	Cross	LIKE	4:03	P0Nryn0YZ-A	MPREb_yaHYitykXQo	UCcJLC91v0A0iD-CMUWdZkig
 62	Festival Song	Jeff Rosenstock	WORRY.	LIKE	2:55	8k36xF9ABNU	MPREb_TfGsG9WRHUw	UCdl6UCOMMGQFJeEJDMgeCNg
-35	Gosh	Jamie xx	In Colour	LIKE	4:51	3zejT2RGrBk	MPREb_IbDz5pAZFvJ	UCUIRrvexIhgFsdjRucxhQ5w
+35	Gosh (feat. MC Moose)	Jamie xx	In Colour	LIKE	4:51	3zejT2RGrBk	MPREb_IbDz5pAZFvJ	UCUIRrvexIhgFsdjRucxhQ5w
 50	Wave to Anchor	Hundred Waters	Wave To Anchor	LIKE	4:39	6TeFHdA9c-I	MPREb_KzMpF9og0xC	UCpuKw9locgpwHXsE_sPJjaw
 3	One Life Stand	Hot Chip	One Life Stand	LIKE	4:40	1CS3UvH09ew	MPREb_27ogzFDS1OA	UCelQU7g_ZFCyK2ylb-mcrQw
 30	Pais Nublado	Helado Negro	This Is How You Smile	LIKE	4:33	gq2r0BL9FcQ	MPREb_xxn4ZNpEAm8	UCeksgbeXuzXfgGEqq9eErTg

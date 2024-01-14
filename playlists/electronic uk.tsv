@@ -1,12 +1,12 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 108	Alothea	Zomby	Dedication	LIKE	2:50	fzjRjoYTG68	MPREb_CFqK65NQqHZ	UCOYlATyfI4ceyExJblL2KCw
-239	Test Me For a Reason	Zomby	Zomby EP	LIKE	2:00	jpvmM_KPXco	MPREb_keaACc7blqr	UCOYlATyfI4ceyExJblL2KCw
+239	Test Me for a Reason	Zomby	Zomby EP	LIKE	2:00	jpvmM_KPXco	MPREb_keaACc7blqr	UCOYlATyfI4ceyExJblL2KCw
 256	Test Me For A Reason	Zomby	Zomby EP	LIKE	1:59	m3S2q-FyqZo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIIem9tYnkgZXAaBXpvbWJ5IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIFem9tYnk
 191	Connct	Young Montana?	Limerence	LIKE	5:28	sy1cX1RcAss	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIJbGltZXJlbmNlGg15b3VuZyBtb250YW5hIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINeW91bmcgbW9udGFuYQ
-11	Feat B	Vondelpark	NYC Stuff and NYC Bags EP	LIKE	4:51	VqlNeBGJbiw	MPREb_l6nnGUqrrOd	UCyN0KFQw2s3ylsW1-SY-SYQ
-35	Bananas (On My Biceps)	Vondelpark	Seabed	LIKE	4:06	najxFcGrlZo	MPREb_aX6fhAM9fuc	UCyN0KFQw2s3ylsW1-SY-SYQ
+11	Feat B	Vondelpark	nyc stuff and nyc bags ep	LIKE	4:51	VqlNeBGJbiw	MPREb_l6nnGUqrrOd	UCyN0KFQw2s3ylsW1-SY-SYQ
+35	Bananas (on my biceps)	Vondelpark	Seabed	LIKE	4:06	najxFcGrlZo	MPREb_aX6fhAM9fuc	UCyN0KFQw2s3ylsW1-SY-SYQ
 62	Dracula	Vondelpark	Seabed	LIKE	4:36	eQbWStde_B4	MPREb_kCJnw535QJq	UCyN0KFQw2s3ylsW1-SY-SYQ
-79	Outro for NYC	Vondelpark	NYC Stuff and NYC Bags EP	LIKE	1:55	ae4aokwkFP4	MPREb_l6nnGUqrrOd	UCyN0KFQw2s3ylsW1-SY-SYQ
+79	Outro for nyc	Vondelpark	nyc stuff and nyc bags ep	LIKE	1:55	ae4aokwkFP4	MPREb_l6nnGUqrrOd	UCyN0KFQw2s3ylsW1-SY-SYQ
 249	Stop What You're Doing (James Blake Remix)	Untold	Stop What You're Doing (James Blake Remix)	LIKE	3:46	XilM-xjvFTw	MPREb_SxbZ81tnUgI	UCGgSoFyvuWBQF5i8EaOgrDQ
 234	Lazarus Taxon	Tyler Cassidy	Goodnight, Lazermaze	LIKE	1:50	P1vSozMlqAw	MPREb_AmtIEnMjYRL	UCEoquzAAByslEyHU-xk676g
 207	Never Stop	Tourist	Tonight	LIKE	5:30	u8FWzDSgIpA	MPREb_LbpLXu6WkJR	UCP-mlMKCt28XuYwWvECgtAw
@@ -58,7 +58,7 @@
 177	Outside	Sepalcure	Sepalcure	LIKE	4:23	ICFkAkti4j4	MPREb_wczQUCnasRr	UCST8vBCPIaYOPuUxXsCz3hQ
 217	Keys Open Doors	Salva	Complex Housing	LIKE	3:33	B5TxezJgtQY	MPREb_Dn3NRwJQ5yn	UChvfTQTmCjcnFiRXJUy1OTw
 204	2020	SBTRKT	2020	LIKE	4:13	aZNG99M831M	MPREb_4gqnS3klp1G	UCaWaWjoxiBI0Pcj4l8fKzmQ
-214	Hide or Seek	SBTRKT	Step In Shadows	LIKE	5:21	xOz5uHdcRx4	MPREb_QDDGGsIshoW	UCaWaWjoxiBI0Pcj4l8fKzmQ
+214	Hide or Seek	SBTRKT	Step in Shadows	LIKE	5:21	xOz5uHdcRx4	MPREb_QDDGGsIshoW	UCaWaWjoxiBI0Pcj4l8fKzmQ
 190	Lotus Flower (Jacques Greene Rmx)	Radiohead	TKOL RMX 1234567	LIKE	7:10	rQE2L-L5l7E	MPREb_0lUBE22oiip	UCr_iyUANcn9OX_yy9piYoLw
 203	Lotus Flower (SBTRKT RMX)	Radiohead	TKOL RMX 1234567	LIKE	5:22	vrizre-Orm0	MPREb_0lUBE22oiip	UCr_iyUANcn9OX_yy9piYoLw
 255	Lotus Flower (Jacques Greene remix)	Radiohead	TKOL RMX 1234567	LIKE	7:10	ks-vVShLMrE	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIQdGtvbCBybXggMTIzNDU2NxoJcmFkaW9oZWFkIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIJcmFkaW9oZWFk
@@ -199,7 +199,7 @@
 196	Sepia Song	Fantastic Mr Fox	Evelyn	LIKE	3:14	Tr_6U98Ihgw	MPREb_0vJC5HId7WI	UC1L5PvLPksgLtDw2VTE0ooA
 216	Pascal's Chorus (feat. Alby Daniels)	Fantastic Mr Fox	San'En	LIKE	7:31	WLm_U0sWeVY	MPREb_ime6rHfpDDp	UC1L5PvLPksgLtDw2VTE0ooA
 231	Over	Fantastic Mr Fox	Evelyn	LIKE	4:17	SpIWGKnN528	MPREb_0vJC5HId7WI	UC1L5PvLPksgLtDw2VTE0ooA
-74	Straight & Arrow	Falty DL	Hardcourage	LIKE	5:04	fv6tamwPs7Y	MPREb_hvGDcJ1RXuZ	UC-9fetHADtmYiwy-5MgDq6Q
+74	Straight & Arrow	FaltyDL	Hardcourage	LIKE	5:04	fv6tamwPs7Y	MPREb_hvGDcJ1RXuZ	UC-9fetHADtmYiwy-5MgDq6Q
 127	Lo-Velo	Evenings	Yore	LIKE	3:44	SBZmLGyiZM0	MPREb_odDj6JmGgJC	UCsAM6z5Zh_8WRhzUXAHbdvw
 152	Lately	Evenings	Yore	LIKE	4:27	cKYLySY3ZFM	MPREb_odDj6JmGgJC	UCsAM6z5Zh_8WRhzUXAHbdvw
 164	Goodbye Forever	Evenings	Yore	LIKE	3:38	4utiLgobxQY	MPREb_odDj6JmGgJC	UCsAM6z5Zh_8WRhzUXAHbdvw
@@ -213,13 +213,13 @@
 230	Say My Name	Destiny's Child	The Writing's On The Wall	LIKE	4:32	Ajez9PaCgek	MPREb_EmoyiBRSsE1	UCksv4FYu55EEkyy5Q1W_yUw
 195	Brock Lee Riddim	Deadboy	U Cheated	LIKE	4:13	oprFKFNQ4X4	MPREb_ePLEJndmVOR	
 7	Armonica	Darkstar	News From Nowhere	LIKE	3:43	64dgGFMYhnc	MPREb_ufFV0KHcUsA	UCRAlMv7W0hJeULsSNnX56sA
-18	Bed Music - North View	Darkstar	News From Nowhere	LIKE	3:41	Adl19Ivtp_E	MPREb_ufFV0KHcUsA	UCRAlMv7W0hJeULsSNnX56sA
+18	Bed Music: North View	Darkstar	News From Nowhere	LIKE	3:41	Adl19Ivtp_E	MPREb_ufFV0KHcUsA	UCRAlMv7W0hJeULsSNnX56sA
 60	Aidys Girl's a Computer	Darkstar	North	LIKE	5:12	Qq54NvYQtLg	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-124	A Day's Pay For A Day's Work	Darkstar	News From Nowhere	LIKE	3:50	dWcLypfo14c	MPREb_ufFV0KHcUsA	UCRAlMv7W0hJeULsSNnX56sA
+124	A Day's Pay for a Day's Work	Darkstar	News From Nowhere	LIKE	3:50	dWcLypfo14c	MPREb_ufFV0KHcUsA	UCRAlMv7W0hJeULsSNnX56sA
 141	Young Heart's	Darkstar	News From Nowhere	LIKE	2:58	s8I774bc7Jo	MPREb_ufFV0KHcUsA	UCRAlMv7W0hJeULsSNnX56sA
 156	Dear Heartbeat	Darkstar	North	LIKE	3:44	8PVeNDAAV8A	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
 14	A1	Darkside	Darkside	LIKE	5:59	_-WIaQSk4gQ	MPREb_izIqQI9BTDZ	UCPWad8IPnWG-EY23ePpI3bg
-167	Park (Tape Version)	D33J	Tide Songs (Bonus Track Version)	LIKE	4:44	-Da8tZqz0RU	MPREb_ODlptUKfewc	UCrWBZF8-ni_bTSvlvE7BFDw
+167	Park (Tape Version)	D33J	Tide Songs	LIKE	4:44	-Da8tZqz0RU	MPREb_ODlptUKfewc	UCrWBZF8-ni_bTSvlvE7BFDw
 194	Mirror Maru	Cashmere Cat	Mirror Maru - EP	LIKE	4:02	5PAij_DsXrU	MPREb_RvAD2tO66TJ	UC8Bm47ZusvwBV-w_WyRyEjw
 3	Julia Brightly	Caribou	Our Love	LIKE	2:04	cPs5He_qWyc	MPREb_pLHH7SwsI9w	UCec42nujWCAHuGcNrekNdbg
 55	Back Home	Caribou	Our Love	LIKE	3:34	14_leslNAN0	MPREb_pLHH7SwsI9w	UCec42nujWCAHuGcNrekNdbg
@@ -257,7 +257,7 @@
 221	Thrill	123Mrk	Refined Madness	LIKE	4:44	EnGDhB3KjZM	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIPcmVmaW5lZCBtYWRuZXNzGgYxMjNtcmsiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIGMTIzbXJr
 209	Secret Secret	123MRK	Versatile / Secret Secret	LIKE	5:33	HqOyGw1O2Ak	MPREb_y3WBfUkBini	UCNNtcM4CfZkMJKXk_RctP9g
 222	Andreya Triana - A Town Called Obsolete (Mount  Kimbie remix)			LIKE	3:21	Z668AeCKdLk		
-143	Arthur's Birds	Teebs	Why Like This?		3:59	KB-gYG420lw		
+143	Arthur's Birds	Teebs	Why Like This?		4:01	KB-gYG420lw		
 201	Mosaix	Pangaea	Bear Witness		4:40	gQXwnL6A8Ks		
 97	Why Didn't You Save Me	Nicolas Jaar feat. Tamara & Tamara	Trust			Y3da_bmy-80		
 23	Building It Still	James Blake	200 Press EP			y4YhMeQQScA		

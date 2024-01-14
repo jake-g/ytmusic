@@ -154,6 +154,7 @@
 490	Paranoiac Sl	RROYCE	Paranoiac Sl	INDIFFERENT	4:12	P32IPayMSL0	MPREb_hHd1ZTTVSWR	UC9iRUKAGNkMfObr5IAojuvw
 291	Highway Violence	Quixotic	Flamingo Drive-In	INDIFFERENT	5:32	QBM_zTM3pmU	MPREb_mav7hztKk8P	UCePxEVz1JRgghpkAtI1CRcA
 230	Bleeding Neon Mouth (God Bless America)	Queen of the Static Opera	Make Love to America Gently with a Chainsaw	INDIFFERENT	3:26	pK-JT3EV0r8	MPREb_7orbEOcV1Yk	UCI_0JAs0fU--Ih9fRqhz98w
+241	Flashbacks	Pylot	Flashbacks	INDIFFERENT	4:00	KMxYUaq2TUA	MPREb_v4H6nTSE27t	UCCL1yiGWNyenZgN9MS2MksA
 360	Sadie wants the Night	Pure Obsessions & Red Nights	Sadie wants the Night	INDIFFERENT	3:51	Zk9dPahK6Fc	MPREb_81nlKmmFCeM	UC03HRK8ensXZQNkt1l12Cxw
 382	While the World Slowly Dies	Pure Obsessions & Red Nights	While the World Slowly Dies	INDIFFERENT	3:40	XzvsUwWhPsU	MPREb_NIzwg5cSIuZ	UC03HRK8ensXZQNkt1l12Cxw
 119	The Order of Death	Public Image Ltd.	This is What You Want... This Is What You Get	INDIFFERENT	4:50	O0bk6Hbz0ZU	MPREb_nfcAyFgO6Hw	UC7s9i97DKMBbSlAAslttU4Q
@@ -179,7 +180,7 @@
 66	Raining Steel	Perturbator	I Am the Night	INDIFFERENT	4:10	50M6VHse5ik	MPREb_o7faEh83CV1	UCbyUJ5kOv-n05lAKqPdR6ig
 226	Assault	Perturbator	The Uncanny Valley	INDIFFERENT	4:09	zYiGaqfgW94	MPREb_K3MgSweorpU	UCbyUJ5kOv-n05lAKqPdR6ig
 228	Sentient (feat. Hayley Stewart)	Perturbator	The Uncanny Valley	INDIFFERENT	5:33	Q9tzrYi3Fdk	MPREb_K3MgSweorpU	UCbyUJ5kOv-n05lAKqPdR6ig
-232	Vantablack (feat. OddZoo)	Perturbator	New Model	INDIFFERENT	5:05	ANWIYyJ16C0	MPREb_ipvQ9R8q1eO	UCbyUJ5kOv-n05lAKqPdR6ig
+232	Vantablack	Perturbator	New Model	INDIFFERENT	5:05	ANWIYyJ16C0	MPREb_ipvQ9R8q1eO	UCbyUJ5kOv-n05lAKqPdR6ig
 233	She Is Young, She Is Beautiful, She Is Next	Perturbator	Dangerous Days	INDIFFERENT	5:05	2Y62egJNRbE	MPREb_Po0BGlCsVgv	UCbyUJ5kOv-n05lAKqPdR6ig
 235	Neo Tokyo	Perturbator	The Uncanny Valley	INDIFFERENT	4:14	w80MHRHz41E	MPREb_K3MgSweorpU	UCbyUJ5kOv-n05lAKqPdR6ig
 251	Vers / Us (Demo Version)	Perturbator	The Uncanny Valley (Expansion)	INDIFFERENT	5:25	wVu_tX6pik4	MPREb_2G6whNCYk76	UCbyUJ5kOv-n05lAKqPdR6ig
@@ -191,14 +192,12 @@
 269	Eclipse	Perturbator	I Am the Night	INDIFFERENT	6:30	4LCHK18J-1A	MPREb_o7faEh83CV1	UCbyUJ5kOv-n05lAKqPdR6ig
 284	Raw Power	Perturbator	Dangerous Days	INDIFFERENT	5:10	FwyXr3Fm4q4	MPREb_Po0BGlCsVgv	UCbyUJ5kOv-n05lAKqPdR6ig
 324	Future Club (Arcade Version)	Perturbator	The Uncanny Valley (Expansion)	INDIFFERENT	6:49	XqjkNdFLc1g	MPREb_2G6whNCYk76	UCbyUJ5kOv-n05lAKqPdR6ig
-327	Behemoth (Remix)	Perturbator	B-Sides and Remixes, Vol. 1	INDIFFERENT	4:23	Ebzlr-SvZ_Q	MPREb_u4zXPcysmKi	UCbyUJ5kOv-n05lAKqPdR6ig
 332	War Against Machines	Perturbator	Dangerous Days	INDIFFERENT	3:23	YDblST99Mjk	MPREb_Po0BGlCsVgv	UCbyUJ5kOv-n05lAKqPdR6ig
 522	Excess	Perturbator	Excess	INDIFFERENT	4:38	lB6toW-mj18	MPREb_Dmy3NlukjZn	UCbyUJ5kOv-n05lAKqPdR6ig
 104	GAME OVER	Pattie	GAME OVER	INDIFFERENT	3:47	Etfi8KQLBbU	MPREb_NSVK9xet4mK	UCm8CC2DQyBI5-mrLSsp-0FQ
 172	Checkered Flag	Patchwork Jack	Checkered Flag	INDIFFERENT	3:54	iCJUQduMcgs	MPREb_8VPmKJQvanh	UCszMU-XKCbEtd4ZKcuptOUA
-241	Flashbacks	PYLOT	Flashbacks	INDIFFERENT	4:00	KMxYUaq2TUA	MPREb_v4H6nTSE27t	UCCL1yiGWNyenZgN9MS2MksA
 146	Midnight FM	PRIZM	Midnight FM	INDIFFERENT	3:58	zDZZM2JzVho	MPREb_XVoruLPTcvI	UCe-vPlEoPWE1qN69IdHSJfQ
-389	All the Way	PRIZM	All the Way	INDIFFERENT	3:13	y34f-_yvOZs	MPREb_y8rpR0MvGE0	UCn3PUXTpy9Q-cG6CoQuvATA
+389	All the Way	PRIZM	All the Way	INDIFFERENT	3:13	y34f-_yvOZs	MPREb_y8rpR0MvGE0	UCe-vPlEoPWE1qN69IdHSJfQ
 354	Perfect Body Machine	PRIEST	Body Machine	INDIFFERENT	3:33	XOTs5kyAKvw	MPREb_0Q9AmBXnGKr	UCx7Y-luczeVCzuW6V8UCimA
 137	Less Than	Nine Inch Nails	Add Violence	INDIFFERENT	3:31	0D2-fk-ZmuE	MPREb_lyJfPaL0xF3	UC8txE2ZyN2Sh8XxH5OkHLSw
 115	Daydreams	Nightflyer	Daydreams	INDIFFERENT	4:39	iKauZGl8Cvk	MPREb_agyapXSI4CK	UCUyelvy_WtPIuGyGmTGlEYg
@@ -227,7 +226,7 @@
 256	Lost Patrol Theme	Mitch Murder	Selection 3	INDIFFERENT	4:14	B2hCiHUKwfk	MPREb_TKs4VsgI19l	UCajmIwgtZrSo-5Bv79U_moA
 329	Syndicate	Mitch Murder	Selection 4	INDIFFERENT	4:14	rHg3rhUC1fc	MPREb_3pWwa8SRVE9	UCajmIwgtZrSo-5Bv79U_moA
 427	Leave the Atmosphere	Mindseye	Interstellar	INDIFFERENT	3:24	T0Wd7V7I8xw	MPREb_ODzk95NEqo5	UCSZqpxJeLPBpxHGRV42qOAw
-523	Light & Dark	Mind.In.A.Box	Lost Alone	INDIFFERENT	6:39	OPKEnnYIFyw	MPREb_DgiKKieJcr9	UC65kVkETmEDK-oorzXJxLJQ
+523	Light & Dark	Mind.in.a.box	Lost Alone	INDIFFERENT	6:39	OPKEnnYIFyw	MPREb_DgiKKieJcr9	UC65kVkETmEDK-oorzXJxLJQ
 218	Piece Apart	Mike Mountain	Clouds	INDIFFERENT	5:44	1wTcPIlFdBo	MPREb_CTz7MFshF6L	UC_d_kbrAdUs4Eg6nljEvAhA
 25	Reverse and Rewind	Mike Ashe	Reversing Time	INDIFFERENT	4:57	_rH_tiycLKM	MPREb_zIZYSzOur8g	UCyruGrrrKGIKZn_ws_Xf5hA
 29	Four Dimensions	Mike Ashe	Reversing Time	INDIFFERENT	3:41	FLPpDhVMRKM	MPREb_zIZYSzOur8g	UCyruGrrrKGIKZn_ws_Xf5hA
@@ -255,7 +254,7 @@
 460	Cruz Control	Matthew Giblin	Cruz Control	INDIFFERENT	2:18	Knz05t-I9Jk	MPREb_K9CAReJMfOG	UCwohT388F-r13mx5uv43ShQ
 392	Fever Shakes	Mari Kattman	Fever Shakes	INDIFFERENT	4:18	BX2PY9igqSc	MPREb_QxlVys625ko	UCtTN1NfHSAGxmpd6QIYZIag
 145	Lady Of Light	Magic Sword	Lady Of Light	INDIFFERENT	6:26	5LGsRvjgbHY	MPREb_vHmINWQCV5g	UCnl2TnNDgp2rUepf5VnXJ1g
-252	Legend of the Keeper	Magic Sword	Legend	INDIFFERENT	5:51	lJGDDi8Zq00	MPREb_y0zu32A2Kea	UCnl2TnNDgp2rUepf5VnXJ1g
+252	Legend Of The Keeper	Magic Sword	Legend	INDIFFERENT	5:51	lJGDDi8Zq00	MPREb_y0zu32A2Kea	UCnl2TnNDgp2rUepf5VnXJ1g
 255	Journey's End	Magic Sword	Volume 1	INDIFFERENT	4:26	1ca-BownyE4	MPREb_MafTZM4ylbM	UCnl2TnNDgp2rUepf5VnXJ1g
 262	Invincible	Magic Sword	Endless	INDIFFERENT	5:49	RZuOeqULIjk	MPREb_yECqaJa7u54	UCnl2TnNDgp2rUepf5VnXJ1g
 268	In The Face Of Evil	Magic Sword	Volume 1	INDIFFERENT	6:49	ZyHfUqs17WI	MPREb_MafTZM4ylbM	UCnl2TnNDgp2rUepf5VnXJ1g
@@ -267,7 +266,7 @@
 200	NWOSHM.TXT	MASTER BOOT RECORD	C​:\​​>CHKDSK /F	INDIFFERENT	4:40	Z7e3RhKJ5ts	MPREb_DKViYj9Vpu3	UCpXUIGZGTkKYExUJjbrbHKg
 507	80386	MASTER BOOT RECORD	80386	INDIFFERENT	6:30	-b860kYM4T8	MPREb_VnfigUEmm1r	UCpXUIGZGTkKYExUJjbrbHKg
 6	Oblivion (feat. Susanne Sundfør)	M83	Oblivion (Original Motion Picture Soundtrack)	INDIFFERENT	5:56	wf5RdLDxrUk	MPREb_NKTV1qxoHlu	UC0UUzwcmD3s1S7NYAxHfs1w
-47	Steve McQueen	M83	Hurry Up, We're Dreaming	INDIFFERENT	3:48	93q6wLDyNPQ	MPREb_EMwa8nVu7TX	UC0UUzwcmD3s1S7NYAxHfs1w
+47	Steve McQueen	M83	Hurry Up We're Dreaming	INDIFFERENT	3:48	93q6wLDyNPQ	MPREb_EMwa8nVu7TX	UC0UUzwcmD3s1S7NYAxHfs1w
 69	Road Blaster	M83	Junk	INDIFFERENT	4:21	bai-1JVVZA8	MPREb_DGkcECfjyiy	UC0UUzwcmD3s1S7NYAxHfs1w
 505	Penthouse Views	Luxe & Leisure	Penthouse Views	INDIFFERENT	5:46	7N3iw8eE9eQ	MPREb_TNibM25kZ5I	UCeRhuJPI7yVI0jNYyjx1AyQ
 330	1987	Lucy In Disguise	1987 EP	INDIFFERENT	4:39	-2MVpYtybBY	MPREb_PURmBR7DFYG	UC2yVqYL9wXXriWXaM6FRRbQ
@@ -320,7 +319,7 @@
 52	Love On Hold	John Mint	Love On Hold	INDIFFERENT	3:15	jUI-hnr85sI	MPREb_AY9g1fLN004	UCJDBJ7d1sapvbePROwHNYIA
 184	Between the Spreadsheets	John Mint	Business Logic	INDIFFERENT	3:23	6YcPoYIa06M	MPREb_hgSzXZGmRZ9	UCJDBJ7d1sapvbePROwHNYIA
 75	Night	John Carpenter	Lost Themes	INDIFFERENT	3:38	c9TNOF2fc50	MPREb_wCYclTcrclK	UCI525SG53_5lnwJM6QvZhwQ
-297	Chew Bubble Gum and Kick Ass (Bonus Track)	John Carpenter	They Live (Expanded Original Motion Picture Soundtrack)	INDIFFERENT	0:20	dtIGZUrXxww	MPREb_08PxGg05hze	UCI525SG53_5lnwJM6QvZhwQ
+297	Chew Bubble Gum and Kick Ass (Bonus Track)	John Carpenter	They Live - Expanded Original Motion Picture Soundtrack 20th Anniversary Edition	INDIFFERENT	0:20	dtIGZUrXxww	MPREb_08PxGg05hze	UCI525SG53_5lnwJM6QvZhwQ
 331	Christine	John Carpenter	Christine	INDIFFERENT	4:15	QgzR8QJwpvY	MPREb_3rtIMFIMugh	UCI525SG53_5lnwJM6QvZhwQ
 56	Midnight Ride	Joe Hythe	Midnight Ride	INDIFFERENT	4:43	p-guTmLothk	MPREb_V7VPDaEQi63	UC-D5xr8t41ED0HZybtxrVJQ
 213	Elements	Jasper de Ceuster	Elements	INDIFFERENT	4:53	020If2za_EA	MPREb_muLrpSHX0Qj	UCucP5283M11q8r0KYOfbC8w
@@ -362,10 +361,11 @@
 546	Grave Desire	Gulf Blvd	Grave Desire	INDIFFERENT	2:41	0DRqSuv9WBo	MPREb_IbKumpnDAh8	UC8yj9IrR-DhuWCCk2bPA8cQ
 54	Get a Way	Grégory Van Praet	Get a Way	INDIFFERENT	3:28	iRdhTk4LISk	MPREb_Go3L31ig8DR	UCO45t85tbSHqMj8b2EpsyBg
 454	Fery Day	Gre.S	Fery Day	INDIFFERENT	5:00	-P0UMSgN7mw	MPREb_0e4lbokX6b0	UChpyFVmYrFzxE40ipjhPrHw
+327	Behemoth (Remix)	Gost & Perturbator	B-Sides and Remixes, Vol. 1	INDIFFERENT	4:23	Ebzlr-SvZ_Q	MPREb_u4zXPcysmKi	
 347	Commencement	GosT	Non Paradisi	INDIFFERENT	5:03	MIbHzHyclHo	MPREb_c0sPpOh2w5q	UCaATo5kerxn4-tgNdirqO7w
 70	74 Is the New 24	Giorgio Moroder	Déjà vu	INDIFFERENT	4:02	1H4SRceuwik	MPREb_9UldsOA32hD	UCSnDHGB1OMDPU29rxCxG2kA
 74	Pursuit	Gesaffelstein	Aleph	INDIFFERENT	4:07	1ExdigjJmaA	MPREb_w94nI1QINW6	UCq7VAQmXDurV-9VN2bSFXvw
-123	Monorail	Gereon	Initiation	INDIFFERENT	7:23	x1LxjimaCjI	MPREb_2TlIDN2ofR7	UCF4BwQW69vuQ3CcxlF8cC2A
+123	Monorail	Gereon	Initiation	INDIFFERENT	7:23	x1LxjimaCjI	MPREb_2TlIDN2ofR7	UC55XXtNWcxVZp461H38u_3Q
 38	Enjoy The Silence	George Ergem	Enjoy The Silence	INDIFFERENT	3:38	GlvZCj3CcAE	MPREb_dwqvJXP43F3	UCnf9YJ-Y-v-6wL4T25dLEaQ
 150	Stroll	George Ergem	Digitized	INDIFFERENT	5:02	eJ96N4vO87M	MPREb_iggp0fo2uo8	UCnf9YJ-Y-v-6wL4T25dLEaQ
 191	Winter Night	George Ergem	Simplicity II	INDIFFERENT	4:10	H6ZgVcH7Yhc	MPREb_2xdTLS12Qcp	UCnf9YJ-Y-v-6wL4T25dLEaQ

@@ -1,7 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 162	Bite The Hand	boygenius	boygenius	LIKE	3:13	hZlR6DjehDc	MPREb_P2giBg1fgkA	UCxMaQtHvN4Jw5kYfo8Bi5fw
 31	Jesus, Etc.	Wilco	Yankee Hotel Foxtrot	LIKE	3:52	USMsgVbf8Us	MPREb_lLsAOqmMog8	UCb5aNlKdWOySR6Z-CnQieFQ
-73	You and I	Wilco	Wilco	LIKE	3:25	F6cJ1u6O-0Q	MPREb_Y2UBl3qqdDn	UCb5aNlKdWOySR6Z-CnQieFQ
+73	You and I	Wilco	Wilco (The Album)	LIKE	3:25	F6cJ1u6O-0Q	MPREb_Y2UBl3qqdDn	UCb5aNlKdWOySR6Z-CnQieFQ
 74	Either Way	Wilco	Sky Blue Sky	LIKE	3:07	Ox2g83kGE-U	MPREb_dcLLfawEzwl	UCb5aNlKdWOySR6Z-CnQieFQ
 75	War on War	Wilco	Yankee Hotel Foxtrot	LIKE	3:48	lFy_ayCoB6k	MPREb_lLsAOqmMog8	UCb5aNlKdWOySR6Z-CnQieFQ
 76	Sky Blue Sky	Wilco	Sky Blue Sky	LIKE	3:23	IEpuZ1hQkN8	MPREb_dcLLfawEzwl	UCb5aNlKdWOySR6Z-CnQieFQ
@@ -24,14 +24,14 @@
 158	A Comet Appears	The Shins	Wincing The Night Away	LIKE	3:49	qA7o5NQfQ7Y	MPREb_h4OGAuNjf4i	UCp8bBB0AoKgBaNlUiKn8SHg
 190	It's Only Life	The Shins	Port Of Morrow	LIKE	4:02	zYtBli9P8ZQ	MPREb_MarvH1Gi7Wb	UCp8bBB0AoKgBaNlUiKn8SHg
 151	Paranormal Echoes	The Olivia Tremor Control	Black Foliage: Animation Music	LIKE	3:29	HNr9gt8IRfM	MPREb_qhEFYQKolKC	UCTV0PAtGq7nHMy1BIo-bg9g
-98	Ophelia	The Lumineers	Cleopatra (Deluxe)	LIKE	2:41	VfJD1FQtkVU	MPREb_IBNsWHQxucj	UCMcghb8JhNIYntWea9QKFGA
+98	Ophelia	The Lumineers	Cleopatra (Deluxe Edition)	LIKE	2:41	VfJD1FQtkVU	MPREb_IBNsWHQxucj	UCMcghb8JhNIYntWea9QKFGA
 204	Stubborn Love	The Lumineers	The Lumineers	LIKE	4:38	83_y4Xd1cBc	MPREb_HMVaGh83kR2	UCMcghb8JhNIYntWea9QKFGA
-164	Honeybee	The Head and the Heart	Living Mirage	LIKE	3:17	04cnPWgMrvM	MPREb_df280ImnQnm	UCfgmSmdaYvNi2g7-VyGlEcg
+164	Honeybee	The Head And The Heart	Living Mirage	LIKE	3:17	04cnPWgMrvM	MPREb_df280ImnQnm	UCfgmSmdaYvNi2g7-VyGlEcg
 225	Down in the Valley	The Head And The Heart	The Head And The Heart	LIKE	5:04	e5LvI4lgnIE	MPREb_GfGdURIHgIO	UCfgmSmdaYvNi2g7-VyGlEcg
 230	Lost in My Mind	The Head And The Heart	The Head And The Heart	LIKE	4:20	OHBC_uDMJEA	MPREb_GfGdURIHgIO	UCfgmSmdaYvNi2g7-VyGlEcg
 248	Winter Song	The Head And The Heart	The Head And The Heart	LIKE	2:44	g57SnOf8_Jg	MPREb_GfGdURIHgIO	UCfgmSmdaYvNi2g7-VyGlEcg
 205	Old Number Seven	The Devil Makes Three	The Devil Makes Three	LIKE	3:21	1tp4Vyltijw	MPREb_fG7nJn6tuAB	UCnn1sMDX4eg4CcH8LhuAzrg
-255	Waiting Around to Die	The Be Good Tanyas	A Collection (2000 - 2012)	LIKE	5:15	2PIrGzRrM-M	MPREb_QFXQv8Xx3du	UCnGzZW4bQLIIMwCd5UoAI2A
+255	Waiting Around To Die	The Be Good Tanyas	A Collection (2000 - 2012)	LIKE	5:15	2PIrGzRrM-M	MPREb_QFXQv8Xx3du	UCnGzZW4bQLIIMwCd5UoAI2A
 179	You Would Have to Lose Your Mind	The Barr Brothers	Queens of the Breakers	LIKE	6:21	Y_QVf2AY8Tc	MPREb_0i7WW71sw54	UCAEcWgj3XdSbGqBnUYWm2FQ
 193	I And Love And You	The Avett Brothers	I And Love And You	LIKE	5:01	fT3ABR-CYnQ	MPREb_1CGsL8WvfvQ	UC4gVpVxWJmpR3dNZxzyKkrA
 228	Laundry Room	The Avett Brothers	I And Love And You	LIKE	4:52	_0pKWPtDkRQ	MPREb_1CGsL8WvfvQ	UC4gVpVxWJmpR3dNZxzyKkrA
@@ -73,7 +73,7 @@
 139	Out Of Gas	Modest Mouse	The Lonesome Crowded West	LIKE	2:32	UwzrqAUw9JM	MPREb_Dj0gQI3Tv54	UCiX0EqRfobz765eBovS1BNQ
 140	Dramamine	Modest Mouse	This Is a Long Drive for Someone with Nothing to Think About	LIKE	5:42	dXBEuQwy5NU	MPREb_YeXLO3RgC04	UCiX0EqRfobz765eBovS1BNQ
 226	1957	Milo Greene	Milo Greene	LIKE	3:25	1Nb2m94yX3U	MPREb_Sipn1eFE4Q6	UCcUJI1UdBsnRU--U0FviNFg
-231	Daydreaming	Middle Brother	Middle Brother	LIKE	4:50	PLycTmbbr9A	MPREb_4a35s13qjyf	UC-Q_tKjsNfsnouIh4UgbgAw
+231	Daydreaming (feat. John McCauley, Matthew Vasquez & Taylor Goldsmith)	Middle Brother	Middle Brother	LIKE	4:50	PLycTmbbr9A	MPREb_4a35s13qjyf	UC-Q_tKjsNfsnouIh4UgbgAw
 247	Walking on a String	Matt Berninger	Walking on a String	LIKE	4:09	W6nCsl2okH0	MPREb_TVrlPJgLI0E	UCOFt7E8GLupET23jtzeUrqA
 191	Sex & Candy	Marcy Playground	Marcy Playground	LIKE	2:54	GNRBqNvcLt4	MPREb_ZjrluMBWtiU	UCZTORw04iacPi1e_rbUlvKg
 17	One Hundred Million Years	M. Ward	Hold Time	LIKE	2:12	97nGogLTFnM	MPREb_3vn4fYl3cVl	UCUH86WXWeBLgdKEwel2Agig
@@ -97,10 +97,10 @@
 138	Teardrop	José González	In Our Nature	LIKE	3:21	TiRVPC7sQKA	MPREb_pyFXnsxCYZS	UCVKb7VKgr2i5X5cFZCF2gig
 166	Heartbeats	José González	Veneer	LIKE	2:42	CJQ8bauY8Tk	MPREb_Zyi9JeUn75u	UCVKb7VKgr2i5X5cFZCF2gig
 197	Ocean	John Butler	Ocean	LIKE	11:40	bzQ2--s84uo	MPREb_UlToAbpMmZB	UCtwbkbQ5t8fQ3YRZAxBK_Xw
+254	Naked As We Came	Iron and Wine	The L Word: The Second Season	LIKE	2:34	y7h1l2SHzqA	MPREb_FaVudFO1nST	UCbPM7GBZG0U7Fz5FsnoUIag
 136	Promise What You Will	Iron & Wine	The Creek Drank the Cradle	LIKE	2:24	-IJoo_rn6b4	MPREb_X5cJndTs4Rd	UCbPM7GBZG0U7Fz5FsnoUIag
 167	Naked as We Came	Iron & Wine	Our Endless Numbered Days (Deluxe Edition)	LIKE	2:32	LbDtXmpi5r4	MPREb_4xlYfjHqjxb	UCbPM7GBZG0U7Fz5FsnoUIag
-251	Winter Prayers	Iron & Wine	Ghost On Ghost	LIKE	3:12	k5jBCyn1yTk	MPREb_8TPGXYa5SA5	UCbPM7GBZG0U7Fz5FsnoUIag
-254	Naked As We Came	Iron & Wine	The L Word: The Second Season	LIKE	2:34	y7h1l2SHzqA	MPREb_FaVudFO1nST	UCbPM7GBZG0U7Fz5FsnoUIag
+251	Winter Prayers	Iron & Wine	Ghost on Ghost	LIKE	3:12	k5jBCyn1yTk	MPREb_8TPGXYa5SA5	UCbPM7GBZG0U7Fz5FsnoUIag
 262	Tree by the River	Iron & Wine	Kiss Each Other Clean	LIKE	3:57	ocr2-7W1GHw	MPREb_IrRVA56N8Co	UCbPM7GBZG0U7Fz5FsnoUIag
 135	Disengaged	Grouper	Dragging a Dead Deer Up a Hill	LIKE	4:17	5J_fFlmimtA	MPREb_EAydIVPSKWH	UCxdqU4_Mit1HOXesHvs3g3Q
 20	Foreground	Grizzly Bear	Veckatimest	LIKE	3:36	6qJFkaJhGp8	MPREb_tMy6xvgggPJ	UCvPx-zURGfOw1CMqWtuulnw
@@ -109,7 +109,7 @@
 81	Knife	Grizzly Bear	Knife	LIKE	5:18	iPxLWUVKQ7w	MPREb_Ob643rrrsOd	UCvPx-zURGfOw1CMqWtuulnw
 82	Plans	Grizzly Bear	Yellow House	LIKE	4:17	fnNEVofV0Vk	MPREb_UnENIKOwPse	UCvPx-zURGfOw1CMqWtuulnw
 83	Colorado	Grizzly Bear	Warp20 (Chosen)	LIKE	6:12	HWHX8JB90eM	MPREb_wHDWMgNrPpD	UCvPx-zURGfOw1CMqWtuulnw
-87	Deep Sea Diver	Grizzly Bear	Horn Of Plenty	LIKE	4:48	tseWE-aT0Fk	MPREb_kBHzbg6DNAs	UCvPx-zURGfOw1CMqWtuulnw
+87	Deep Sea Diver	Grizzly Bear	Horn of Plenty	LIKE	4:48	tseWE-aT0Fk	MPREb_kBHzbg6DNAs	UCvPx-zURGfOw1CMqWtuulnw
 130	Sleeping Ute	Grizzly Bear	Shields: Expanded	LIKE	4:36	5ONJQpbjMYc	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
 131	Speak in Rounds	Grizzly Bear	Shields: Expanded	LIKE	4:25	8Qg0iBwZmrc	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
 132	Taken Down (Marfa Demo)	Grizzly Bear	Shields: Expanded	LIKE	5:12	Q2Tb3IepTB4	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
@@ -153,7 +153,7 @@
 10	Waltz For Richard	First Aid Kit	The Big Black and the Blue	LIKE	2:50	2Qkht1-qrDI	MPREb_utvbFITSWSF	UC5Ziwoo7xz2i-vKsgKcm-kQ
 234	Emmylou	First Aid Kit	The Lion's Roar	LIKE	4:18	9Zr3A23857Q	MPREb_s90FxSxuWmX	UC5Ziwoo7xz2i-vKsgKcm-kQ
 8	Train Song (feat. Ben Gibbard)	Feist	Dark Was The Night (Red Hot Compilation)	LIKE	3:03	28VPRoA0u-M	MPREb_aIAT8FNyrgK	UCpqoOPpIfyUu6qCh-i-lUtQ
-0	Nancy from Now On	Father John Misty	Fear Fun	LIKE	3:55	B0jSqB_mrj8	MPREb_GZHW0BvnFO3	UCbDizOzZ4qTxDBAVc5xbbAw
+0	Nancy From Now On	Father John Misty	Fear Fun	LIKE	3:55	B0jSqB_mrj8	MPREb_GZHW0BvnFO3	UCbDizOzZ4qTxDBAVc5xbbAw
 13	Tee Pees 1-12	Father John Misty	Fear Fun	LIKE	3:17	4WwXEAfP8_k	MPREb_GZHW0BvnFO3	UCbDizOzZ4qTxDBAVc5xbbAw
 21	Nothing Good Ever Happens At The Goddamn Thirsty Crow	Father John Misty	I Love You, Honeybear	LIKE	4:34	TSjTiAA7jkc	MPREb_TD8CxT7AU83	UCbDizOzZ4qTxDBAVc5xbbAw
 27	Well, You Can Do It Without Me	Father John Misty	Fear Fun	LIKE	2:44	RrNT2GtNSWU	MPREb_GZHW0BvnFO3	UCbDizOzZ4qTxDBAVc5xbbAw
@@ -180,8 +180,8 @@
 123	Clementine	Elliott Smith	Elliott Smith	LIKE	2:47	dMZgWghcpHs	MPREb_jepysk6rIma	UCuNTMHPl8dVBpJRtvygl-9A
 124	Son Of Sam	Elliott Smith	Figure 8	LIKE	3:05	B6sYRE65QIc	MPREb_Khzn2RtWHfs	UCuNTMHPl8dVBpJRtvygl-9A
 125	I Didn't Understand	Elliott Smith	XO	LIKE	2:18	lFIkik2I_Pc	MPREb_vTgnPLnMlEa	UCuNTMHPl8dVBpJRtvygl-9A
-120	40 Day Dream (2019 - Remaster)	Edward Sharpe & The Magnetic Zeros	Up From Below (10th Anniversary Edition) [2019 - Remaster]	LIKE	3:53	1mYhaYOIgiU	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
-121	Janglin (2019 - Remaster)	Edward Sharpe & The Magnetic Zeros	Up From Below (10th Anniversary Edition) [2019 - Remaster]	LIKE	3:50	gV6xA5HnhPI	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
+120	40 Day Dream	Edward Sharpe & The Magnetic Zeros	Up From Below - 10th Anniversary Edition	LIKE	3:53	1mYhaYOIgiU	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
+121	Janglin	Edward Sharpe & The Magnetic Zeros	Up From Below - 10th Anniversary Edition	LIKE	3:50	gV6xA5HnhPI	MPREb_Z5LBMAP1rFy	UCS_Y7_z75KVpIz9Z2mcsmsQ
 119	Song for America	Destroyer	Kaputt	LIKE	4:29	GUCqTx0vGBA	MPREb_elre5Rzyg5T	UC_plNzaYghjuzu3CWNSv28g
 84	No One Does It Like You	Department Of Eagles	In Ear Park	LIKE	3:57	Hf12y4ezv5I	MPREb_qvo4bzQ3AvS	UCM3kGxgJ0Z-UXKmcdBPO_ng
 85	Therapy Car Noise	Department Of Eagles	In Ear Park	LIKE	1:51	ga3_qnquMh4	MPREb_qvo4bzQ3AvS	UCM3kGxgJ0Z-UXKmcdBPO_ng
@@ -213,7 +213,7 @@
 186	California Stars	Billy Bragg	Mermaid Avenue	LIKE	4:59	lWQ4IPPXz2k	MPREb_zcVyl6a9s2W	UC2T-eENRX7bSeLAZtO1jQbA
 170	Dylan Thomas	Better Oblivion Community Center	Better Oblivion Community Center	LIKE	3:37	E7fc9J4C_Lk	MPREb_Tp4dSBqTe0i	UCYeXOgXm--IqeWx7L__X-7w
 224	Old Pine	Ben Howard	Every Kingdom (Deluxe Edition)	LIKE	5:29	Coj1Nb2DY_w	MPREb_AZfTZnmHPug	UCdrYSE8i5VS1HwtXJBnWJ8A
-113	Me and the Major	Belle & Sebastian	If You’re Feeling Sinister	LIKE	3:52	OtwI97kUltc	MPREb_wglHX9CGYPp	UCjOin6lF-KJsIh5shOM_EjA
+113	Me and the Major	Belle and Sebastian	If You're Feeling Sinister	LIKE	3:52	OtwI97kUltc	MPREb_wglHX9CGYPp	UCjOin6lF-KJsIh5shOM_EjA
 107	Guyamas Sonora	Beirut	The Flying Club Cup	LIKE	3:31	nxGN8Ss3Wak	MPREb_ofxdauv4CQY	UCW68o7G-s6GunZ-Gv2Z7EKQ
 108	The Penalty	Beirut	The Flying Club Cup	LIKE	2:22	c2WQvF4eAFc	MPREb_ofxdauv4CQY	UCW68o7G-s6GunZ-Gv2Z7EKQ
 109	A Candle’s Fire	Beirut	The Rip Tide	LIKE	3:19	4vNuQ22wQ0I	MPREb_mta8AwAxmAx	UCW68o7G-s6GunZ-Gv2Z7EKQ
@@ -223,7 +223,7 @@
 198	Postcards from Italy	Beirut	Gulag Orkestar	LIKE	4:17	bQJrVkUiaOY	MPREb_7DKk8QxKgv2	UCW68o7G-s6GunZ-Gv2Z7EKQ
 208	Nantes	Beirut	The Flying Club Cup	LIKE	3:50	dPRYEZx01qU	MPREb_ofxdauv4CQY	UCW68o7G-s6GunZ-Gv2Z7EKQ
 182	The Hum	Bedouine	The Hum	LIKE	3:15	LIl1b-rHHic	MPREb_FxJhwZQyOKy	UCqQTpy5DPOFnWMPQb5HVOow
-187	Nice And Quiet	Bedouine	Bedouine (Deluxe)	LIKE	3:52	Lk9pPud-ytE	MPREb_0E9VwWslt2Y	UCqQTpy5DPOFnWMPQb5HVOow
+187	Nice and Quiet	Bedouine	Bedouine (Deluxe)	LIKE	3:52	Lk9pPud-ytE	MPREb_0E9VwWslt2Y	UCqQTpy5DPOFnWMPQb5HVOow
 233	One More Time	Bedouine	Bird Songs of a Killjoy	LIKE	4:20	8CPHjJNEC5U	MPREb_vuzSOywXFdv	UCqQTpy5DPOFnWMPQb5HVOow
 235	Only Son of the Falling Snow	Bear's Den	Only Son of the Falling Snow	LIKE	4:34	ZtiCxp65KQY	MPREb_IYkbzxol6Go	UCVjOexgiO1DQURNXdNBdCzw
 16	Lover of Mine	Beach House	Teen Dream	LIKE	5:07	INH4wE6nkVI	MPREb_DHPvTGLo2Vd	UC785fnTclD2P2WQXRAt2BVg
@@ -239,8 +239,8 @@
 95	Lemon Glow	Beach House	7	LIKE	4:04	m2PFcYQeeb4	MPREb_VminM1YByDN	UC785fnTclD2P2WQXRAt2BVg
 96	PPP	Beach House	Depression Cherry	LIKE	6:09	1Bu1I7AMRIw	MPREb_6Ui257pBxny	UC785fnTclD2P2WQXRAt2BVg
 97	Lazuli	Beach House	Bloom	LIKE	5:02	9WVyA-D2aso	MPREb_OU2bcsbAHZH	UC785fnTclD2P2WQXRAt2BVg
-209	No One's Gonna Love You	Band of Horses	Cease to Begin	LIKE	3:37	uRtDMigk8_A	MPREb_ISeBtatD8ky	UCLEJF57HPNem3bdqXSiIo3Q
-169	Is There A Ghost	Band Of Horses	Cease to Begin	LIKE	2:59	DLGlnfwxCog	MPREb_ISeBtatD8ky	UCLEJF57HPNem3bdqXSiIo3Q
+169	Is There A Ghost	Band of Horses	Cease To Begin	LIKE	2:59	DLGlnfwxCog	MPREb_ISeBtatD8ky	UCLEJF57HPNem3bdqXSiIo3Q
+209	No One's Gonna Love You	Band of Horses	Cease To Begin	LIKE	3:37	uRtDMigk8_A	MPREb_ISeBtatD8ky	UCLEJF57HPNem3bdqXSiIo3Q
 102	River Card	Atlas Sound	Let the Blind Lead Those Who Can See But Cannot Feel	LIKE	3:20	ePna3rZfRSc	MPREb_5Sf91ZYXEsb	UCVGPtgz351AuhqwCcai74tg
 103	An Orchid	Atlas Sound	Logos	LIKE	3:06	TczTin8yFt0	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
 104	Shelia	Atlas Sound	Logos	LIKE	3:33	gyAX1S-bCBc	MPREb_Q0DxkYQo911	UCVGPtgz351AuhqwCcai74tg
@@ -253,10 +253,10 @@
 100	Unfucktheworld	Angel Olsen	Burn Your Fire For No Witness (Deluxe Edition)	LIKE	2:05	mqPTEjadIvI	MPREb_NeZLMr8BstW	UCLYqVE2kmsNw2uJFNjHv8yw
 263	Big In Japan	Ane Brun	Changing Of The Seasons	LIKE	3:10	RJYHFL9FXug	MPREb_zUDhhiTXbZw	UCT2tydkRUkgtepcnhc9QpGA
 12	Give It Away	Andrew Bird	Break It Yourself	LIKE	4:29	AHIE3YV27Q0	MPREb_8C97QrrUG9y	UCWWyLppgObl9xS8wdSpiv8Q
-22	Darkmatter	Andrew Bird	Armchair Apocrypha	LIKE	5:08	N4TWRHITTCA	MPREb_9IvaVR5D3uK	UCWWyLppgObl9xS8wdSpiv8Q
+22	Dark Matter	Andrew Bird	Armchair Apocryph	LIKE	5:08	N4TWRHITTCA	MPREb_9IvaVR5D3uK	UCWWyLppgObl9xS8wdSpiv8Q
 32	Sisyphus	Andrew Bird	My Finest Work Yet	LIKE	4:08	OsgUQrKTTtc	MPREb_vIkvSD0Z53Q	UCWWyLppgObl9xS8wdSpiv8Q
 33	Oh No	Andrew Bird	Noble Beast	LIKE	4:21	kSOKpw9Y2GY	MPREb_dMIDb6SMnV3	UCWWyLppgObl9xS8wdSpiv8Q
-34	Heretics	Andrew Bird	Armchair Apocrypha	LIKE	3:34	XG8UZz0BQXA	MPREb_9IvaVR5D3uK	UCWWyLppgObl9xS8wdSpiv8Q
+34	Heretics	Andrew Bird	Armchair Apocryph	LIKE	3:34	XG8UZz0BQXA	MPREb_9IvaVR5D3uK	UCWWyLppgObl9xS8wdSpiv8Q
 99	Tables and Chairs	Andrew Bird	The Mysterious Production of Eggs	LIKE	4:44	Hfc2tf88tJU	MPREb_PXr5TXUgQCZ	UCWWyLppgObl9xS8wdSpiv8Q
 171	Manifest	Andrew Bird	My Finest Work Yet	LIKE	5:18	P-3l0m4YCTM	MPREb_vIkvSD0Z53Q	UCWWyLppgObl9xS8wdSpiv8Q
 202	Pulaski at Night	Andrew Bird	I Want to See Pulaski at Night	LIKE	4:50	-aYk9--ymFQ	MPREb_KKfPrL92PAK	UCWWyLppgObl9xS8wdSpiv8Q

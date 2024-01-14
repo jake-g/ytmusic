@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 230	Salt	sober rob	Salt	LIKE	3:20	Fo266LcgwME	MPREb_hOiPQwyJDLR	UCSnA5ize25ue0nVf0Xn_4RA
-158	Ghost	quickly, quickly	Over Skies	LIKE	2:31	2bxJqf0fkMQ	MPREb_2phtdwM48aN	UCqgyyiuvT4j6FjrAyE8bAmA
+158	Ghost	quickly	Over Skies	LIKE	2:31	2bxJqf0fkMQ	MPREb_2phtdwM48aN	UCqgyyiuvT4j6FjrAyE8bAmA
 236	the lovely one	pluko	the lovely one	LIKE	3:17	WmZBkUfGaNg	MPREb_KqaTyolf0zn	UCe1o8WHNKPr7BUSUqUQXeEQ
 40	Cry (Dont)	glue70	After School	LIKE	1:32	SzNt62yw-4M	MPREb_9GlGyPhoS1A	UCB4JZ3z7NjEzy82AupEGWNg
 196	Dreamer	erickD	Volume One	LIKE	3:57	FuGNdOxjZVs	MPREb_bnGjVYUu10D	UCiptb_4_UDF0zypzTHcJHrQ
@@ -13,10 +13,10 @@
 54	Faded (Lido Remix)	ZHU	Faded (The Remixes)	LIKE	4:25	O9l3LStQfLo	MPREb_1mN1MFhHJtC	UCSw_oqIGG4dIo1GmnqUYdUA
 128	Slow Hours	Weird Inside	Slow Hours	LIKE	2:28	rFm4S4_Bi3s	MPREb_NnRqX8wh2wd	UCVyfzW2n6oow3rNxRllmEWw
 43	Where You Are (feat. Bella Hunter)	Vindata	Where You Are	LIKE	5:02	gqHVCZIuc0Y	MPREb_N4BUaobm5Vw	UCuBZ6xdVw4YIoU0XA4VcRyQ
-162	Takeover	Village	Takeover	LIKE	5:01	MtfZIMukTOU	MPREb_NMDcQpnShBq	UCw_kRYt9JOII_OMMrUajWIw
+162	Takeover	ViLLAGE	Takeover	LIKE	5:01	MtfZIMukTOU	MPREb_NMDcQpnShBq	UCw_kRYt9JOII_OMMrUajWIw
 161	Stop What You're Doing (James Blake Remix)	Untold	Stop What You're Doing (James Blake Remix)	LIKE	3:46	XilM-xjvFTw	MPREb_SxbZ81tnUgI	UCGgSoFyvuWBQF5i8EaOgrDQ
 139	4 Me	Tory Lanez	MEMORIES DON'T DIE	LIKE	3:49	94VoLMvWHNo	MPREb_nQPCI3fhUQP	UCYKF8xDQoRGUAFr867VQUTQ
-90	Overcome (feat. Merryn Jeann)	Tora	Thesoundyouneed, Vol. 1	LIKE	3:07	RPwAT08SCG4	MPREb_mhsR8F208XG	UCY2xSEeJNcNH0j4-FxHqfeg
+90	Overcome	Tora	TheSoundYouNeed, Vol. 1	LIKE	3:07	RPwAT08SCG4	MPREb_mhsR8F208XG	UCY2xSEeJNcNH0j4-FxHqfeg
 111	Basic Need	Tirzah	Devotion	LIKE	3:21	65Qh1yYdRVw	MPREb_uzUdf71X3ll	UCnqWaVNNo1J_I6QoIPvlz2w
 51	Georgia	Taylor Mcferrin	Broken Vibes Ep	LIKE	4:24	tBJpAyQSLkk	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIPYnJva2VuIHZpYmVzIGVwGg90YXlsb3IgbWNmZXJyaW4iA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIPdGF5bG9yIG1jZmVycmlu
 50	Higher (Flume Remix)	Ta-ku	futureclassic.com.au	LIKE	3:01	20ISyCuwSJs	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBISZnV0dXJlY2xhc3NpY2NvbWF1IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIFdGEga3U
@@ -39,8 +39,7 @@
 15	Rituals	Sekuoia	"Finest Ego | Faces 12"" Series Vol. 3"	LIKE	4:49	O-ESTepeT5s	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIhZmluZXN0IGVnbyAgZmFjZXMgMTIgc2VyaWVzIHZvbCAzGgdzZWt1b2lhIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIHc2VrdW9pYQ
 31	Rather Not	Sekuoia	"Finest Ego | Faces 12"" Series Vol. 3"	LIKE	5:04	f07aRCU4ywo	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIhZmluZXN0IGVnbyAgZmFjZXMgMTIgc2VyaWVzIHZvbCAzGgdzZWt1b2lhIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIHc2VrdW9pYQ
 234	Forest of Wonder	Saturn	Forest of Wonder	LIKE	3:30	sJ7Q1J1LbmM	MPREb_L65R1xQVWBq	UCT1o4ZwrtOYgC6Ks2rMwdmg
-102	Hiding (feat. The Nicholas)	San Holo	Cosmos EP	LIKE	4:08	7pFFzEM0WdM	MPREb_78YLIlpWrAb	UCEFIhOEN2vXu2WzlBzrwEoA
-119	lift me from the ground (feat. Sofie Winterson)	San Holo	album1	LIKE	4:20	QRwvTlsJOOk	MPREb_RzEnwHOjt4f	UCEFIhOEN2vXu2WzlBzrwEoA
+119	lift me from the ground (feat. Sofie Winterson)	San Holo featuring Sofie Winterson	album1	LIKE	4:20	QRwvTlsJOOk	MPREb_RzEnwHOjt4f	UCEFIhOEN2vXu2WzlBzrwEoA
 192	We Rise	San Holo	We Rise	LIKE	4:26	uLIseRTGzno	MPREb_7bix1qIUYWT	UCEFIhOEN2vXu2WzlBzrwEoA
 232	New Sky	San Holo	New Sky	LIKE	4:32	X5Tx-O8FnPU	MPREb_KA91KApJyqb	UCEFIhOEN2vXu2WzlBzrwEoA
 243	b song	San Holo	The Trip EP	LIKE	3:26	6-qq9t2N42Q	MPREb_6Z1usrGby6f	UCEFIhOEN2vXu2WzlBzrwEoA
@@ -53,7 +52,6 @@
 226	Burying the Sun	Ryan Hemsworth	Burying the Sun	LIKE	3:45	Q0Z6FkAh9Bs	MPREb_oEOABEimOh8	UCHccqgrWMi_JxX6bizyE7lQ
 186	Slasherr	Rustie	Triadzz / Slasherr	LIKE	3:38	aEBBDcZUoWo	MPREb_6BhJ8eY5yeC	UCzR8WJGwsPXvJ9-nFoWMp9A
 209	Oh My Darling Don't Cry	Run The Jewels	Run the Jewels 2	LIKE	3:25	bUrQ-QMImi4	MPREb_6TFIyJLFfCi	UC6b6dR8FnUK-_c_GtWv3fdQ
-49	Night Moves	Roosevelt	Roosevelt	LIKE	4:57	61PK3wPvBg0	MPREb_V76wKEtP9Lj	UC7jTDrwBF4FNMX_zzaIC5mQ
 160	So Bad	Robots Don't Sleep	Robots Don't Sleep	LIKE	4:02	Pe7wsWpJEyU	MPREb_YhMYYJ4X4Zt	UCOpy5rerf3KTg7-sgaN2V2Q
 156	No One Else (feat. The Original Cast)	Robert Barham	Archie (Deluxe Edition) [Original Cast Recording]	LIKE	3:03	xu6nmxB7K1U	MPREb_AaB9kwkhLYR	UCHr0CmODBGbaWZ9AuHBFbqg
 101	Nature Nature	Ramzoid	Nature Nature	LIKE	3:33	zNoyeR-GQfw	MPREb_Cq8aIRyvczk	UCzPtuvsqoygjE4brKQrRN5w
@@ -92,7 +90,7 @@
 177	Sketch on Glass	Mount Kimbie	Sketch on Glass	LIKE	4:20	l-p2imP1uEs	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIPc2tldGNoIG9uIGdsYXNzGgxtb3VudCBraW1iaWUiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIMbW91bnQga2ltYmll
 109	Ketones	Model Man	City Songs, Pt. I	LIKE	6:10	DMx0ssh6Vss	MPREb_xIEZHpx3fLf	UC7a6qQeBKG4diZ9h0m9Pr7w
 227	Home	Medasin	Irene	LIKE	3:15	55MCvtwvZn8	MPREb_CREs0BSkbu2	UCLFWRFzjIUfifA4VNsEvoOw
-197	What We've Got (feat. Flint Eastwood)	Manatee Commune	What We've Got (feat. Flint Eastwood)	LIKE	4:08	1DQn8AfCx5E	MPREb_Y15BgbTUTz8	UCfrRf4l9wHAfMyhlz4lvx_A
+197	What We've Got (feat. Flint Eastwood)	Manatee Commune	What We've Got	LIKE	4:08	1DQn8AfCx5E	MPREb_Y15BgbTUTz8	UCfrRf4l9wHAfMyhlz4lvx_A
 248	Wanna Be A Baller	Lil' Troy	Sittin' Fat Down South	LIKE	5:55	Gzm3KZ3Kf8k	MPREb_7c0b0BOMq5r	UCkQjZIR9KMmCljgsmIPdoqA
 117	Catharsis	Lido	Everything	LIKE	4:19	XQ_KvMruMT4	MPREb_1MWVpvnJjYy	UCUYZUYtviLInI9CPLCsNUyg
 189	I Love You	Lido	I Love You	LIKE	4:16	tiythjMoqGg	MPREb_bAsNniILHCP	UCUYZUYtviLInI9CPLCsNUyg
@@ -159,7 +157,7 @@
 159	Sintra	Flume	Flume	LIKE	2:36	Ct3zjABKrtc	MPREb_ow0yTNrGv0O	UCEdhHl4ZB0JXIinqZ367F6w
 171	Sintra	Flume	Flume	LIKE	2:35	oLNANrYlANg	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIFZmx1bWUaBWZsdW1lIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIFZmx1bWU
 195	Hi This Is Flume (Mixtape)	Flume	Hi This Is Flume (Mixtape)	LIKE	38:19	FeTTSjhE6V0	MPREb_gL1Dhckt6qN	UCEdhHl4ZB0JXIinqZ367F6w
-228	Rushing Back (Instrumental) (feat. Vera Blue)	Flume	Rushing Back (Alternate Versions)	LIKE	2:22	gyc1efNY5K4	MPREb_F11amDseemF	UCEdhHl4ZB0JXIinqZ367F6w
+228	Rushing Back [Instrumental] (feat. Vera Blue)	Flume	Rushing Back (feat. Vera Blue) [Alternate Versions]	LIKE	2:22	gyc1efNY5K4	MPREb_F11amDseemF	UCEdhHl4ZB0JXIinqZ367F6w
 122	Flight of the Flamingo	Flamingosis	Bright Moments	LIKE	3:09	oNmeDZ51rFk	MPREb_4u4utFPUe21	UCv2swbKUFrmVUeW1Xyp5vEg
 146	Still Can't Fall (feat. Nori)	Feverkin	Escape Everything	LIKE	3:27	lUjInIqYab0	MPREb_ORYSZvDKB2F	UCSnKWdorYl0Pxi8Ln8cIJ0Q
 144	Evelyn	Fantastic Mr. Fox	Evelyn	LIKE	3:28	29EHmd0z1gQ	MPREb_0vJC5HId7WI	UC1L5PvLPksgLtDw2VTE0ooA
@@ -179,8 +177,8 @@
 56	Aidys Girl's a Computer	Darkstar	North	LIKE	5:12	Qq54NvYQtLg	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
 133	Aidys Girl's a Computer	Darkstar	North	LIKE	5:12	Qq54NvYQtLg	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
 183	Aidy's Girl Is a Computer	Darkstar	North	LIKE	5:13	55g3qofBLrE	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIFbm9ydGgaCGRhcmtzdGFyIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGFya3N0YXI
-74	Night Birds	Darius, Wayne Snow	Utopia	LIKE	3:00	CHFjD0Pb96E	MPREb_unT2088WZEm	UC47pz2hObnlTy47JuZJXClQ
 73	S/ash	Darius	Romance	LIKE	4:21	u1-F8Ixq-nw	MPREb_SsXbdIOXK3p	UC47pz2hObnlTy47JuZJXClQ
+74	Night Birds	Darius	Utopia	LIKE	3:00	CHFjD0Pb96E	MPREb_unT2088WZEm	UC47pz2hObnlTy47JuZJXClQ
 75	Cyan	Darius	Utopia	LIKE	3:11	3iOSIR1DjRo	MPREb_unT2088WZEm	UC47pz2hObnlTy47JuZJXClQ
 76	Pyor	Darius	Utopia	LIKE	4:22	H6S4jV77q7M	MPREb_unT2088WZEm	UC47pz2hObnlTy47JuZJXClQ
 121	Yes, No, Maybe (feat. Tom Misch & Lorenz Rhode)	Dam Swindle	High Life	LIKE	5:33	LdP4Z8SRCwk	MPREb_WlYAzlZZ5i2	UCpryfWhx30110uDL2iMEarQ
@@ -194,11 +192,11 @@
 185	Untrust Us	Crystal Castles	Crystal Castles	LIKE	3:07	nn36ZbP8DLI	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
 45	Bones	Crayon	Flee	LIKE	3:01	so6x3iSnLBk	MPREb_LVsNQmsKej1	UCJ3IX-xpxlEd7Uq0cLql1Zw
 65	Forgetting Myself	Crayon	Flee	LIKE	2:10	g6ATba4DRYY	MPREb_LVsNQmsKej1	UCJ3IX-xpxlEd7Uq0cLql1Zw
-124	Walk With Me (feat. KUCKA)	Cosmo's Midnight	Walk With Me	LIKE	4:14	_DMTUeDtMM8	MPREb_RlS7QJTraSe	UCMxWoTwaX5LGxkF_jUxIH1A
+124	Walk With Me (feat. KUČKA)	Cosmo's Midnight	Walk With Me	LIKE	4:14	_DMTUeDtMM8	MPREb_RlS7QJTraSe	UCMxWoTwaX5LGxkF_jUxIH1A
 220	Trapped (feat. Wave Racer)	Cosmo's Midnight	Moments - EP	LIKE	3:23	U4qADsph-yY	MPREb_KQcWvWh83wl	UCMxWoTwaX5LGxkF_jUxIH1A
 205	Isostasy	Com Truise	Iteration	LIKE	4:27	LuxOAoSo5i4	MPREb_9KTJrO50khM	UC3G1cV92stSGOy4cLgXmgJQ
 106	Impossible	Clairo	Immunity	LIKE	3:51	Qz174ODNvNI	MPREb_vM4C63G93kQ	UChC2OO1dG5Vge1Kuc-1QZRg
-66	Marijuana	Chrome Sparks	Thesoundyouneed, Vol. 1	LIKE	3:02	dDX6PCa59go	MPREb_mhsR8F208XG	UCtiBBGESRZ_I-khRHqXR3aQ
+66	Marijuana	Chrome Sparks	TheSoundYouNeed, Vol. 1	LIKE	3:02	dDX6PCa59go	MPREb_mhsR8F208XG	UCtiBBGESRZ_I-khRHqXR3aQ
 126	3005	Childish Gambino	Because the Internet	LIKE	3:55	N3GYgc14mR4	MPREb_WwVk9oXt6PH	UC4hvOh5lgkeAJoVRIg40Kgg
 71	Don't Matter (feat. Darianna Everett)	Cherokee	Don't Matter	LIKE	5:09	tuG0lox86CA	MPREb_E7PEN8lxYKC	UCS73CkvwZsGyfaQywj8JRNQ
 72	Dakota	Cherokee	Teenage Fantasy	LIKE	3:49	VDKCxgIhR7o	MPREb_Pwv6vyP6fW5	UCS73CkvwZsGyfaQywj8JRNQ
@@ -238,6 +236,8 @@
 153	Madness	TOKiMONSTA	Midnight Menu	INDIFFERENT	3:57	jxbsLd-KnL8	MPREb_v1idKSV0tz5	UCg-MiMmT50XZnbSCllzhyuA
 67	Haunted (feat. Sevdaliza)	Stwo	Haunted	INDIFFERENT	3:28	Qazy7O4bZOk	MPREb_CSAP3kcuLTp	UCpuFvCUIfPGGMfCjxataNVQ
 140	+Dome	Seekae	+Dome	INDIFFERENT	4:34	Xvhphy8tYNo	MPREb_yJUKrMTuhaf	UC6YK7HPg10vrdjz-_cfCxzg
+102	Hiding (feat. The Nicholas)	San Holo	Cosmos	INDIFFERENT	4:08	rj_k-DIIna4	MPREb_gSLlNQ0nTjE	UCEFIhOEN2vXu2WzlBzrwEoA
+49	Night Moves	Roosevelt	Roosevelt	INDIFFERENT	4:57	xMUoUQhkG4Y	MPREb_V6u7bkM7JOx	UC7jTDrwBF4FNMX_zzaIC5mQ
 89	Cloud Cruise	Pomo	The Other Day	INDIFFERENT	3:42	Aa43dUoZg3I	MPREb_9BNOoXUtycl	UCNJ4hTLwy7mZddBW49teu8g
 134	Annie	Neon Indian	VEGA INTL. Night School	INDIFFERENT	4:03	3_fNfLBUFf8	MPREb_uKZzXcLGO47	UCQfjAfgbhbscEJx5AnTXNWA
 92	Smoke & Retribution (feat. Vince Staples & Kučka)	Flume	Skin	INDIFFERENT	4:02	Rin8zkYrVM8	MPREb_42aTnV80Yzf	UCEdhHl4ZB0JXIinqZ367F6w
