@@ -2,6 +2,7 @@
 225	'S Wonderful	Joao Gilberto	Amoroso	LIKE	4:10	4w9K0JIFWC0	MPREb_pFjpzyDVEtA	UCOO1sDcQ7DpldFvXVNPXMFA
 226	The Girl from Ipanema	Astrud Gilberto	Best of Brazil	LIKE	5:12	nVrub503YkY	MPREb_imbnbSOFg8O	UCHfuC6qjRi-7wQobu_WCuig
 227	The Girl From Ipanema	Antonio Carlos Jobim	The Composer Of Desafinado, Plays	LIKE	2:43	w7OHMCunm-w	MPREb_YqrUfr8amAl	UCDg8OKNNZEvWvMAYtXZMPMQ
+159	Song Bird	orange pekoe	Live2004	INDIFFERENT	5:44	GJKLiy3dzzs	MPREb_hhpJ3H6aVhA	UCF21no_XqZF4_2laoDDPrpQ
 7	ignorance is bliss	noubodii	you're dead. what now?	INDIFFERENT	3:32	PXyTcaLMx4I	MPREb_WP0nNSmvNIQ	UC3-1Mwk2l8SIY5YSd79wNhQ
 97	Clementine	grentperez	Clementine	INDIFFERENT	4:06	0GLqoQgmlWU	MPREb_2juW7euUC94	UC3CyxyxdZLGrcpHUuaZolVw
 137	Pensa Bem	daBossa	Um Dois	INDIFFERENT	2:43	5x0qNAtKBJ4	MPREb_Cznoc5mZsSr	UCJbaQEXL-g_vAwciojhG6hA
@@ -55,7 +56,7 @@
 163	Vivo Sonhando - Dreamer	Ryuichi Sakamoto	Casa	INDIFFERENT	4:31	sV6cmt33xbA	MPREb_5top8CNAgia	UCfWELfxrSN1ryuNWZtXqR3g
 142	Essa Moça Tá Diferente	Roberta Sá	Sambas & Bossas	INDIFFERENT	3:39	_46JWxZx860	MPREb_aBf182qV3xM	UCCFWlGUsM7jEnLCDicvNG-A
 178	Casa Pré Fabricada	Roberta Sá	Braseiro	INDIFFERENT	4:03	lemTqBen7Uc	MPREb_zq8KSExxRZ7	UCCFWlGUsM7jEnLCDicvNG-A
-200	Pelas Tabelas (Ao Vivo)	Roberta Sá	Pra Se Ter Alegria - Ao Vivo no Rio	INDIFFERENT	3:48	KhU9zpJYh_g	MPREb_Rdv8EDRY7GL	UCCFWlGUsM7jEnLCDicvNG-A
+200	Pelas Tabelas	Roberta Sá	Pra se Ter Alegria ao Vivo	INDIFFERENT	3:48	KhU9zpJYh_g	MPREb_Rdv8EDRY7GL	UCCFWlGUsM7jEnLCDicvNG-A
 224	Cara De Palhaco	Ramsey Lewis Trio	Maha de Carnaval	INDIFFERENT	2:25	Zk9ORFhxoVc	MPREb_HqDAEPMzEnD	UCP1BRPlB7PSbQwmG2t3GSSA
 172	A Felicidade	Quarteto Jobim-Morelenbaum	Quarteto Jobim Morelenbaum	INDIFFERENT	5:03	NRrxUUknKk8	MPREb_xQRlvbkPmz9	
 113	Make America Great Again	Pussy Riot	xxx	INDIFFERENT	3:15	Y6JRhiVnrPg	MPREb_Uurwbw0UFNJ	UCcR-cMVKTo7JFvcSeJXa31A
@@ -68,7 +69,6 @@
 2	Tema para Dois	Os Tubarões	Tema para Dois	INDIFFERENT	6:03	hpJU5fGVJRc	MPREb_xQN0UyPvANk	UCuqRURQKqvWPVtqrDJ0c0wA
 41	Ela É Carioca	Os Cariocas	The Best Of Bossa Nova	INDIFFERENT	2:35	iIxN2tNeBpo	MPREb_qd2AliOeaU7	UCfjF-uiMJ1o2RRM0OISBzUw
 115	Io so che ti amerò (Eu Sei Que Vou Te Amar)	Ornella Vanoni	Un pugno di stelle	INDIFFERENT	3:39	hHUYEMNx-Ew	MPREb_ev5cgbS1Xfo	UCXjRvvsUD8pqqeEz0JvcG0A
-159	Song Bird	Orange Pekoe	Live2004	INDIFFERENT	5:44	GJKLiy3dzzs	MPREb_hhpJ3H6aVhA	UCF21no_XqZF4_2laoDDPrpQ
 197	Volta e Meia	O Terno	Volta e Meia	INDIFFERENT	3:15	9-bnkdOiuZ0	MPREb_OEO7Au4ktNA	UCWPEM0y8JUxgfh8TuF14xGA
 21	Mistério do Planeta	Novos Baianos	Acabou Chorare	INDIFFERENT	3:38	Eb5E3TzO0bw	MPREb_UP1PmGC2STl	UCixnFkj6oC7bLyvpm1PQk9A
 23	Agua de Beber	Nova	Nova	INDIFFERENT	3:59	BMNpZwb6kD0	MPREb_Nhg5qyCYA4o	UCIvnvwIL3ywF9lI4nSAfxjg
@@ -97,11 +97,11 @@
 5	Girl From Ipanema	Marco Esu	A Soft Interpretation Of The Mind	INDIFFERENT	3:44	MuSc2PaUxpc	MPREb_AeyMfOugNcF	UCVZvDNOnwNdLnQxiooPLVog
 53	Ilha De Coral (Coral Island)	Luiz Bonfa	Composer Of Black Orpheus Plays And Sings Bossa Nova	INDIFFERENT	3:16	CH9iOZfakqU	MPREb_zCXISfXxN3j	UCkQvoiWH10p2znjXFVXeJFQ
 213	Manhã de Carnaval	Luiz Bonfa	Solo in Rio 1959	INDIFFERENT	2:27	FNK-OaWhwGU	MPREb_VQlyIM6pv5L	UCkQvoiWH10p2znjXFVXeJFQ
-189	The Way-Out	Les Hommes	Les Hommes	INDIFFERENT	8:59	TJyqUvvVqdk	MPREb_4rC0cHIwoXu	UCqd4lC-h8sH-eXJz3xIytlw
 219	Fragile	Laufey	Everything I Know About Love	INDIFFERENT	4:02	z7f3SF4lGmI	MPREb_3rosrCxxxJ6	UCJtROTPxo3qnEzww8JyDxuA
 50	Behind The Moon Shadow	Lamp	For Lovers	INDIFFERENT	5:10	hI9fjymKFlM	MPREb_SyiqF1wi4lB	UCO9Nf75KZRsRTqvk1CCncZw
 184	Brazilian Impressions	Lalo Schifrin	Jazz Meets the Symphony Collection	INDIFFERENT	5:36	4UB8BlleAYA	MPREb_VMEKppioR80	UCJ5KnH3ypqm67hiPLOcGvRQ
 143	Morir Soñando	La Lá	Mito	INDIFFERENT	4:17	KnqfgabiRIw	MPREb_8zopDbi6spj	UC23K7tHsj505d_edFFKKjdA
+189	THE WAY OUT	LES HOMMES	LES HOMMES	INDIFFERENT	8:59	TJyqUvvVqdk	MPREb_4rC0cHIwoXu	UCqd4lC-h8sH-eXJz3xIytlw
 4	Rio	Jules Day	Day Dreams	INDIFFERENT	3:40	nLAE_a-q6zQ	MPREb_O0IbDOBSRcu	UC9QlDq0qE67npW9HIlQZdfQ
 9	Bahia Com H (feat. Gilberto Gil, Caetano Veloso & Maria Bethânia)	João Gilberto	Brasil	INDIFFERENT	5:15	phs2GTDNFJc	MPREb_0JtrCKG8CRp	UCOO1sDcQ7DpldFvXVNPXMFA
 18	Chega De Saudade	João Gilberto	João Voz E Violão	INDIFFERENT	3:26	BOehLNJeHMI	MPREb_OciwQ5jKiTE	UCOO1sDcQ7DpldFvXVNPXMFA
@@ -130,7 +130,7 @@
 215	Luz da Manhã	Hooded Youth	Luz da Manhã	INDIFFERENT	3:51	xiR_u8CqG-w	MPREb_xtZdutZGsD6	UCkW0wSnrlFdto2lPF1c3x8w
 27	Bebe (feat. Doug deVries, James Macauley & Hermeto Pascoal)	Hermeto Pascoal	The Monash Sessions	INDIFFERENT	9:50	KDfnIQQdzY4	MPREb_fcxaLkYfLE0	UCXx-2CYsOF8gz7P0ce2lsQQ
 211	Tres Hermanos (feat. Dan Auerbach)	Hermanos Gutiérrez	Tres Hermanos	INDIFFERENT	3:22	hd5t3m6qoYQ	MPREb_RUhuVSVPNSS	UC80iwcArxltADbfXSS9oGCQ
-81	Tempo De Amor (feat. Céu)	Herbie Hancock	The Imagine Project	INDIFFERENT	4:44	vuavOxbfFws	MPREb_rNvCV22Jw8R	UCq_O_14tCKbx9U9uUT_LEPA
+81	Tempo de Amor	Herbie Hancock	The Imagine Project	INDIFFERENT	4:44	vuavOxbfFws	MPREb_rNvCV22Jw8R	UCq_O_14tCKbx9U9uUT_LEPA
 212	Ladyfingers	Herb Alpert & The Tijuana Brass	Whipped Cream & Other Delights	INDIFFERENT	2:45	l6U1JB7z-I8	MPREb_tKgevxsfJp0	UC3OvwOBlrbVPsf1I-vLREDw
 145	Moon River	Henry Mancini & His Orchestra	Breakfast at Tiffany's	INDIFFERENT	2:42	vKbtl2tF57c	MPREb_NrmD9NwAO5L	UCieaIKlhI5t7_gAmBA99d-g
 186	Espairecendo	Hareton Salvanini	A Virgem de Saint Tropez (Trilha Sonora Original)	INDIFFERENT	3:39	t0NiaMUt9r4	MPREb_OvEzTRvjmuW	UCe3akUp61cmaiP7Oll0TlnQ
@@ -213,13 +213,13 @@
 44	Corteguay	Antonio Carlos Jobim	Brazil | Once Upon a Time	INDIFFERENT	2:32	VIbVGrHw9_E	MPREb_yOwwFG57jBA	UCDg8OKNNZEvWvMAYtXZMPMQ
 45	Chansong	Antonio Carlos Jobim	Passarim	INDIFFERENT	3:21	DIYTKLjNmws	MPREb_bz0pSV9WZkh	UCDg8OKNNZEvWvMAYtXZMPMQ
 49	Radamés Y Pelé (Retrato No 2)	Antonio Carlos Jobim	Antonio Brasileiro	INDIFFERENT	2:49	6Da4KppDbS0	MPREb_nA2ARKJQSRY	UCDg8OKNNZEvWvMAYtXZMPMQ
-59	Sabiá	Antonio Carlos Jobim	Stone Flower (CTI Records 40th Anniversary Edition - Original recording remastered)	INDIFFERENT	3:58	fhtzTTnt1Dw	MPREb_T4Kl1E8GcMs	UCDg8OKNNZEvWvMAYtXZMPMQ
+59	Sabiá	Antonio Carlos Jobim	Stone Flower (CTI Records 40th Anniversary Edition)	INDIFFERENT	3:58	fhtzTTnt1Dw	MPREb_T4Kl1E8GcMs	UCDg8OKNNZEvWvMAYtXZMPMQ
 63	O Morro Não Tem Vez	Antonio Carlos Jobim	The Composer Of Desafinado, Plays	INDIFFERENT	3:21	WZdXkViIkVg	MPREb_YqrUfr8amAl	UCDg8OKNNZEvWvMAYtXZMPMQ
 65	Tema De Amor De Gabriela	Antonio Carlos Jobim	Passarim	INDIFFERENT	7:58	-0yZehKlJz0	MPREb_bz0pSV9WZkh	UCDg8OKNNZEvWvMAYtXZMPMQ
 67	Samba Do Soho	Antonio Carlos Jobim	Passarim	INDIFFERENT	3:01	BldhPrF77_c	MPREb_bz0pSV9WZkh	UCDg8OKNNZEvWvMAYtXZMPMQ
 82	Samba De Maria Luiza (feat. Maria Luiza Jobim)	Antonio Carlos Jobim	Antonio Brasileiro	INDIFFERENT	1:15	KduhqaBM6k8	MPREb_nA2ARKJQSRY	UCDg8OKNNZEvWvMAYtXZMPMQ
 85	Triste	Antonio Carlos Jobim	Wave	INDIFFERENT	2:10	vhTH-Fv-c-g	MPREb_27burEsvfE4	UCDg8OKNNZEvWvMAYtXZMPMQ
-88	Brazil (Alternate Take)	Antonio Carlos Jobim	Stone Flower (CTI Records 40th Anniversary Edition - Original recording remastered)	INDIFFERENT	5:26	KPKupChBtUM	MPREb_T4Kl1E8GcMs	UCDg8OKNNZEvWvMAYtXZMPMQ
+88	Brazil (Alternate Take)	Antonio Carlos Jobim	Stone Flower (CTI Records 40th Anniversary Edition)	INDIFFERENT	5:26	KPKupChBtUM	MPREb_T4Kl1E8GcMs	UCDg8OKNNZEvWvMAYtXZMPMQ
 114	Insensatez	Andy Timmons	Bossa Hits	INDIFFERENT	7:02	eEdcG73dOvU	MPREb_TC53Qp2EPxm	UCCegZBvtAWycZgyJWLhuZIg
 181	Garganta	Ana Carolina	Ana E Jorge	INDIFFERENT	4:20	3A2Ai_8A1PA	MPREb_GwQNGrdyiIU	UClaVAP13twAF0BdlceJYLIw
 204	Amor Que Acabou	Aliza Kashi	A Internacional Aliza Kashi (Regência Maestro Romeu Fossati)	INDIFFERENT	2:44	IXYyzqAGupM	MPREb_zzABCLMsglN	UCrnHQvaT37mAj35FXGYQXYA

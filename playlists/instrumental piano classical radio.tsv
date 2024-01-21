@@ -1,5 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-34	J.S. Bach: Ich ruf zu dir, Herr Jesu Christ, BWV 639 - Arranged by Wilhelm Kempff	Wilhelm Kempff	Steinway Legends: Wilhelm Kempff	INDIFFERENT	2:30	rx9Xyml3IMw	MPREb_Z0S5ktITeHp	UCpLnzf3LqHhM3avkECxIEoQ
+34	Ich ruf zu dir, Herr Jesu Christ, BWV 639 - Arranged by Wilhelm Kempff	Wilhelm Kempff	Steinway Legends: Wilhelm Kempff	INDIFFERENT	2:30	rx9Xyml3IMw	MPREb_Z0S5ktITeHp	UCpLnzf3LqHhM3avkECxIEoQ
 40	Gluck: Orfeo ed Euridice (Orphée et Eurydice) - Arranged By Wilhelm Kempff - La Plainte d'Orphée (Ballet)	Wilhelm Kempff	Bach: English Suite No.3; Capriccio BWV 922 / Transcriptions for Piano	INDIFFERENT	3:03	vmEZ7gxCDXo	MPREb_0PC0GqrSiJn	UCpLnzf3LqHhM3avkECxIEoQ
 43	Schumann: Kinderszenen, Op. 15 - No. 11 Fürchtenmachen	Wilhelm Kempff	Steinway Legends: Wilhelm Kempff	INDIFFERENT	1:59	vNirj8_dUMs	MPREb_Z0S5ktITeHp	UCpLnzf3LqHhM3avkECxIEoQ
 57	Brahms: 7 Piano Pieces, Op. 116 - No. 4 Intermezzo in E Major	Wilhelm Kempff	Brahms: Fantasias Op.116; Intermezzi Op.117; Piano Pieces Opp.118 & 119	INDIFFERENT	4:03	qNqCrVs4dO4	MPREb_eXGP8tVh0FA	UCpLnzf3LqHhM3avkECxIEoQ
@@ -19,10 +19,10 @@
 14	Satie: Gnossiennes - No. 5	Reinbert de Leeuw	Satie: Gymnopédies; Gnossiennes	INDIFFERENT	3:25	gBzb0U6fe_s	MPREb_B1BLCsuUQ9M	UCnP0rtTM6IQfynWhERKZt4Q
 52	Schumann: Kinderszenen, Op. 15 - 12. Kind im Einschlummern	Radu Lupu	Radu Lupu - Complete Decca Solo Recordings	INDIFFERENT	1:43	jgBgAJ19GwM	MPREb_iOtAXdPo6qN	UChfrxDdmHzbSCew-RSv0mZA
 61	J.S. Bach: Suite for Cello Solo No. 1 in G Major, BWV 1007 - III. Courante	Pierre Fournier	Bach, J.S.: The Cello Suites	INDIFFERENT	2:45	2nw6M816FtM	MPREb_KhflfnkyW81	UCyIRbhvMQ1RJFdrq9Q3LIIw
-23	Descriptions automatiques: II. Sur une lanterne: Lent	Philippe Entremont	Satie: Piano Works	INDIFFERENT	1:39	sEjXxzK0n2A	MPREb_Zyt5eMZMx7k	UC4lfsW1gnp1-I8jzk02d91w
-35	A la manière de . . . Borodine	Paul Crossley	Ravel: Complete Solo Piano Works Volume 2	INDIFFERENT	1:40	aEh6uk_T_mA	MPREb_lwkdXRrf8Ez	UCJt2LfbwGIEB37gEKU69vAA
-38	Le Tombeau de Couperin: Prélude: Vif	Paul Crossley	Ravel: Complete Solo Piano Works Volume 2	INDIFFERENT	3:04	RjoRwhgiYHc	MPREb_lwkdXRrf8Ez	UCJt2LfbwGIEB37gEKU69vAA
-49	Menuet sur le nom de Haydn: Mouvement de Menuet	Paul Crossley	Ravel: Complete Solo Piano Works Volume 2	INDIFFERENT	2:02	LSj3B5abXfk	MPREb_lwkdXRrf8Ez	UCJt2LfbwGIEB37gEKU69vAA
+23	Descriptions automatiques: II. Sur une lanterne: Lent	Philippe Entremont	Satie: Piano Works	INDIFFERENT	1:39	sEjXxzK0n2A	MPREb_Zyt5eMZMx7k	UCyTnUReB5s38R-ZKlb2wyVg
+35	A la manière de . . . Borodine	Paul Crossley	Ravel, Complete Solo Piano Works Volume 2	INDIFFERENT	1:40	aEh6uk_T_mA	MPREb_lwkdXRrf8Ez	UCJt2LfbwGIEB37gEKU69vAA
+38	Le Tombeau de Couperin: Prélude: Vif	Paul Crossley	Ravel, Complete Solo Piano Works Volume 2	INDIFFERENT	3:04	RjoRwhgiYHc	MPREb_lwkdXRrf8Ez	UCJt2LfbwGIEB37gEKU69vAA
+49	Menuet sur le nom de Haydn: Mouvement de Menuet	Paul Crossley	Ravel, Complete Solo Piano Works Volume 2	INDIFFERENT	2:02	LSj3B5abXfk	MPREb_lwkdXRrf8Ez	UCJt2LfbwGIEB37gEKU69vAA
 55	Ravel: Ma mère l'oye, M.60 - For Piano Duet, M.60 - 3. Laideronnette, Impératrice des Pagodes	Pascal Rogé, Denise Francoise Roge, & Maurice Ravel	The Ravel Edition	INDIFFERENT	3:00	xFD5G5y26yg	MPREb_McT0TlMeZjc	
 4	Novelette on a Theme of Manuel de Falla, FP 173	Pascal Rogé	Poulenc: Piano Works	INDIFFERENT	2:24	OwayHNCHHL8	MPREb_UO8PmoHZWEp	UC6rl-exMe0BgD0oprSCqv_w
 5	Valse, FP 17	Pascal Rogé	Poulenc: Piano Works	INDIFFERENT	1:50	tjr5n_pt4hg	MPREb_UO8PmoHZWEp	UC6rl-exMe0BgD0oprSCqv_w
@@ -34,7 +34,7 @@
 11	Schumann: 5 Stücke im Volkston, Op. 102 - 2. Langsam	Mstislav Rostropovich	Schubert: Arpeggione Sonata / Schumann: 5 Stücke in Volkston / Debussy: Cello Sonata	INDIFFERENT	3:32	4JUBXPTkZGw	MPREb_TwazVkDCWub	UCtbuSgPup32uauZ8SccqTuQ
 46	Brahms: Cello Sonata No. 2 in F Major, Op. 99 - IV. Allegro molto	Mstislav Rostropovich	Selected Recordings on Deutsche Grammophon	INDIFFERENT	4:27	jB36GkPom1w	MPREb_KyF8cqRxVNT	UCtbuSgPup32uauZ8SccqTuQ
 66	Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: VI. Menuet II	Mstislav Rostropovich	Bach: Cello Suites, BWV 1007 - 1012	INDIFFERENT	2:04	AyqMamUb7ZU	MPREb_ZMbUTbRzZ92	UCtbuSgPup32uauZ8SccqTuQ
-68	"Miroirs, No. 3 ""Une Barque Sur L'océan"""	Maurice Ravel	Classical Piano	INDIFFERENT	7:12	EkFambyDHdk	MPREb_cDqikln3rrR	UCEWr3HmyDujG9n21iAUAJYQ
+68	"Miroirs, No. 3 ""Une Barque Sur L'océan"""	Maurice Ravel Assembly	Classical Piano	INDIFFERENT	7:12	EkFambyDHdk	MPREb_cDqikln3rrR	UCEWr3HmyDujG9n21iAUAJYQ
 12	Chopin: 24 Préludes, Op. 28 - No. 21 in B-Flat Major	Martha Argerich	Chopin: Preludes; Sonata No.2	INDIFFERENT	1:34	pRfGElRk80s	MPREb_GLBOtzt6pTV	UCUBzH8qL2zTfPqkfQXG_Qng
 13	Chopin: 24 Préludes, Op. 28 - No. 6 in B Minor: Lento assai	Martha Argerich	Chopin: Preludes; Sonata No.2	INDIFFERENT	1:47	zS05yAC74p4	MPREb_GLBOtzt6pTV	UCUBzH8qL2zTfPqkfQXG_Qng
 15	Chopin: 24 Préludes, Op. 28 - No. 4 in E Minor	Martha Argerich	Chopin: Preludes; Sonata No.2	INDIFFERENT	1:52	JPTSe0daAK8	MPREb_GLBOtzt6pTV	UCUBzH8qL2zTfPqkfQXG_Qng
@@ -54,7 +54,7 @@
 44	Goldberg Variations, BWV 988: Variation 13 a 2 Clav. (1955 Version)	Glenn Gould	Bach: Goldberg Variations, BWV 988	INDIFFERENT	2:11	G4W5dlfr-j0	MPREb_xXku0JmbzBG	UCeBygjXY5882mmEa4H-os8A
 51	Goldberg Variations in G Major, BWV 988: Aria da Capo (Live)	Glenn Gould	Bach: Goldberg Variations (Live)	INDIFFERENT	2:12	4xSe_heK1wU	MPREb_bxyTAwE4Ukv	UCeBygjXY5882mmEa4H-os8A
 65	Goldberg Variations, BWV 988: Variation XIII	Glenn Gould	Bach: Piano Concerto Bwv 1052 - Goldberg Variations	INDIFFERENT	2:59	hsfy44BkQOo	MPREb_esM8kDi3Nkr	UCeBygjXY5882mmEa4H-os8A
-26	Menuet sur le nom de Haydn (feat. Francois-Joel Thiollier)	Francois-Joel Thiollier	Ravel: Piano Works, Vol.  1	INDIFFERENT	1:41	6J3-hXO93MQ	MPREb_AQGcK43VXLb	UCDJc_6ERAHI-kW_Jb5c9Udg
+26	Menuet sur le nom de Haydn	Francois-Joel Thiollier	Ravel: Piano Works, Vol.  1	INDIFFERENT	1:41	6J3-hXO93MQ	MPREb_AQGcK43VXLb	UCDJc_6ERAHI-kW_Jb5c9Udg
 37	"Waltz No. 6 in D-Flat Major, Op. 64, No. 1, ""Minute"""	Dinu Lipatti	Chopin, F.: Piano Music (Dinu Lipatti - The Chopin Recordings) (1941-1950)	INDIFFERENT	1:45	34lEVjj9r_M	MPREb_qIRMlvDTiz4	UC4hpIeh9sUCfbg9RJmd0PbA
 50	Waltz No. 11 in G-Flat Major, Op. 70, No. 1	Dinu Lipatti	Chopin, F.: Piano Music (Dinu Lipatti - The Chopin Recordings) (1941-1950)	INDIFFERENT	1:56	4uIHQbMq9UE	MPREb_qIRMlvDTiz4	UC4hpIeh9sUCfbg9RJmd0PbA
 17	Trois Gnossiennes: Première Gnossienne	Daniel Varsano	Satie: Piano Works	INDIFFERENT	3:24	EWDcgdCGnSI	MPREb_Zyt5eMZMx7k	UCqMI3MU36yxj-q1IblXtK5Q
@@ -66,7 +66,7 @@
 48	Debussy: Images - Book 1, L. 110 - I. Reflets dans l'eau	Arturo Benedetti Michelangeli	Debussy: Preludes (I); Images	INDIFFERENT	4:54	JqXSRIaOn7U	MPREb_ylEN2MQYQe0	UCe6t826pMFZW29nH0ErBDKA
 58	Debussy: Children's Corner, L. 113 - II. Jimbo's Lullaby	Arturo Benedetti Michelangeli	Debussy: Piano Works	INDIFFERENT	3:29	0Ni85lMxKas	MPREb_ncxB5rm5MWe	UCe6t826pMFZW29nH0ErBDKA
 67	Debussy: Images - Book 2, L. 111 - III. Poissons d'or	Arturo Benedetti Michelangeli	Debussy: Preludes (I); Images	INDIFFERENT	4:02	1KtoXVYz5XY	MPREb_ylEN2MQYQe0	UCe6t826pMFZW29nH0ErBDKA
-45	Schubert: 4 Impromptus, Op.90, D.899 - No.2 in E flat: Allegro	Alfred Brendel	Schubert: Impromptus D899; Impromptus D935	INDIFFERENT	4:32	zj_7gQK9kls	MPREb_f1MXIl7zLhI	UCEoe8-yD72f68GPVwBkwy1g
+45	Schubert: 4 Impromptus, Op. 90, D.899 - No. 2 in E flat: Allegro	Alfred Brendel	Schubert: Impromptus D899; Impromptus D935	INDIFFERENT	4:32	zj_7gQK9kls	MPREb_f1MXIl7zLhI	UCEoe8-yD72f68GPVwBkwy1g
 54	Schubert: 6 Moments musicaux, Op. 94, D. 780 - 1. Moderato	Alfred Brendel	Schubert: Moments Musicaux; Piano Sonata in B Flat, D.960	INDIFFERENT	5:14	rNlnIJ7iNQ8	MPREb_hMpQPxjao9H	UCEoe8-yD72f68GPVwBkwy1g
 59	Schubert: 4 Impromptus, Op. 90, D. 899 - No. 4 in A-Flat Major. Allegretto	Alfred Brendel	Schubert: Complete Impromptus, D899 & D935; 11 Ecossaises, &c	INDIFFERENT	7:47	vpWN_07EVXE	MPREb_iRmuI5ORRO6	UCEoe8-yD72f68GPVwBkwy1g
 64	Schumann: 8 Fantasiestücke, Op. 12 - 5. In der Nacht	Alfred Brendel	Schumann: Kreisleriana; Kinderszenen; Fantasiestücke	INDIFFERENT	4:07	f-iaHyXsEaQ	MPREb_F8AfoIHPA9y	UCEoe8-yD72f68GPVwBkwy1g

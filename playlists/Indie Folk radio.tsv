@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 5	Gardenhead / Leave Me Alone	Neutral Milk Hotel	On Avery Island	LIKE	3:14	ivUIXDYA6fU	MPREb_s2uBV4OYo2T	UCvMA46Xu1xApqZyXFIrnukw
+121	Bum Bum Bum	Cass McCombs	Mangy Love	LIKE	5:00	ZUf9t_MPCZw	MPREb_G5M1p07Neub	UCw65yx2lOjYjc6gp7PRezpg
 320	New Song	אוהד פילו - Ohad Pilo	New Song	INDIFFERENT	3:27	jVR0TnW5MI8	MPREb_5T4OQdPBOr5	
 464	How It Turns Out	vinnyrn	Ways Out	INDIFFERENT	2:31	KuUtU1xreTQ	MPREb_yNgn8bMCTfm	UCkf466oS2CUVNMVi6wHRvqA
 96	Dance for a While	Zach Kleisinger	Dance for a While	INDIFFERENT	2:53	5lDfiRr40Hc	MPREb_gQFz1lCiyD8	UCYfO_wNSgeL8w_5zla6kKmA
@@ -31,17 +32,17 @@
 122	Every Woman	Vagabon	Every Woman	INDIFFERENT	3:27	LymSuRGIHqI	MPREb_gLgBOg9LbgC	UCYVTs-FR7l2Td0GhLk1g35w
 459	Perfect Life	Twin Tacoma	Perfect Life	INDIFFERENT	2:26	GmLpC9O3Au0	MPREb_894Burr1PkM	UCRcIN27sZhFm0iVyNu8BAUQ
 178	Don't Make Me Beg	Tucka	"""Forever King"""	INDIFFERENT	5:06	T6SAB3oyKjg	MPREb_4Yxby2cppIA	UCCBckSIArVcNIUpth_FuTbw
+324	Wait so Long	Trampled by Turtles	Palomino	INDIFFERENT	3:27	zkoyRsRJgwc	MPREb_vIld2wBPfKk	UCTawkKEDqVN4Ef2lye8ohqA
 358	Midnight on the Interstate	Trampled by Turtles	Stars and Satellites	INDIFFERENT	3:26	F39VQrRP5xw	MPREb_pFoLCDZXKT1	UCTawkKEDqVN4Ef2lye8ohqA
+371	Gasoline	Trampled by Turtles	Palomino	INDIFFERENT	3:01	WSs3UYlZo1k	MPREb_vIld2wBPfKk	UCTawkKEDqVN4Ef2lye8ohqA
 470	Alone	Trampled by Turtles	Alone	INDIFFERENT	4:29	sWk9KjHQVtg	MPREb_JLUMybzTmRb	UCTawkKEDqVN4Ef2lye8ohqA
-324	Wait so Long	Trampled By Turtles	Palomino	INDIFFERENT	3:27	zkoyRsRJgwc	MPREb_vIld2wBPfKk	UCTawkKEDqVN4Ef2lye8ohqA
-371	Gasoline	Trampled By Turtles	Palomino	INDIFFERENT	3:01	WSs3UYlZo1k	MPREb_vIld2wBPfKk	UCTawkKEDqVN4Ef2lye8ohqA
 377	Albert Camus	Tom Rosenthal	Albert Camus	INDIFFERENT	3:21	iecCLEI7yRw	MPREb_wKf3dHszqBt	UCv4W7oFg_kWGldChEpqs3rA
 111	One Million Flowers	Tiny Ruins	Olympic Girls	INDIFFERENT	4:15	lnhGwaQPXn4	MPREb_NcQcGQHeLCD	UC957ZUYp2amrY5CSm8Yjl_Q
 155	Electronic Stars	Thorn Haze	Electronic Stars	INDIFFERENT	2:32	e6VVg5w1CsQ	MPREb_Jw16bw4RrPq	UCYxJ1HPkcwnFjw1WB63a8BA
 247	Long Fortune	Thorn Haze	Long Fortune	INDIFFERENT	3:12	SPLST72eAaM	MPREb_WJlIr2XwEOP	UCYxJ1HPkcwnFjw1WB63a8BA
 86	an artist in the rain (demo)	Thistle Street	an artist in the rain (demo)	INDIFFERENT	3:08	E7K45WFkBb4	MPREb_sEcdPk8Kpjh	UCVB-v1DStcYkyfb59goum4w
-124	Was Magician	This Is the Kit	Was Magician	INDIFFERENT	4:27	hrXmtjaOAGs	MPREb_ptDvFWlXmZt	UC_DKYQzsRRfaBfcG8Lyu1zw
 117	Moonshine Freeze	This Is The Kit	Moonshine Freeze	INDIFFERENT	3:42	BlJzE5p9cFA	MPREb_mvUQAEN16uN	UC_DKYQzsRRfaBfcG8Lyu1zw
+124	Was Magician	This Is The Kit	Was Magician	INDIFFERENT	4:27	hrXmtjaOAGs	MPREb_ptDvFWlXmZt	UC_DKYQzsRRfaBfcG8Lyu1zw
 162	Bashed Out	This Is The Kit	Bashed Out	INDIFFERENT	3:42	h66Rg5NZQoE	MPREb_msYd5JgvjNy	UC_DKYQzsRRfaBfcG8Lyu1zw
 0	Luckiest Man	The Wood Brothers	Ways Not To Lose	INDIFFERENT	3:54	LDy3rG6hQSQ	MPREb_j8ltei5i7wM	UCBnF5LMfF5gdatQL0E5ZpBg
 496	Michael Collins	The Wolfe Tones	Millennium Celebration Album	INDIFFERENT	3:59	a-1uysF5vJI	MPREb_Nm8aH3sWP0R	UCtHy50ARI1HaAQF6249P2fw
@@ -72,10 +73,10 @@
 127	Hello My Old Heart	The Oh Hellos	The Oh Hellos EP	INDIFFERENT	4:17	pcB_6VHmP64	MPREb_iedejeaZpaP	UCK4_-7LSNH865J1wlm07cCw
 169	Dear Wormwood	The Oh Hellos	Dear Wormwood	INDIFFERENT	5:17	zsGSrpdRI6A	MPREb_lrc3rjZjROY	UCK4_-7LSNH865J1wlm07cCw
 209	Lay Me Down	The Oh Hellos	The Oh Hellos EP	INDIFFERENT	3:04	3nMlEkC5SBg	MPREb_iedejeaZpaP	UCK4_-7LSNH865J1wlm07cCw
-241	Wishing Well	The Oh Hellos	Through The Deep, Dark Valley	INDIFFERENT	3:38	t_zZRIh5i-k	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
-322	In Memoriam	The Oh Hellos	Through The Deep, Dark Valley	INDIFFERENT	3:03	sBN5KbDDXE4	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
-328	Second Child, Restless Child	The Oh Hellos	Through The Deep, Dark Valley	INDIFFERENT	2:47	XSo0oqrJVIM	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
-482	Like The Dawn	The Oh Hellos	Through The Deep, Dark Valley	INDIFFERENT	5:05	S-AsV7On494	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
+241	Wishing Well	The Oh Hellos	Through the Deep, Dark Valley	INDIFFERENT	3:38	t_zZRIh5i-k	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
+322	In Memoriam	The Oh Hellos	Through the Deep, Dark Valley	INDIFFERENT	3:03	sBN5KbDDXE4	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
+328	Second Child, Restless Child	The Oh Hellos	Through the Deep, Dark Valley	INDIFFERENT	2:47	XSo0oqrJVIM	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
+482	Like the Dawn	The Oh Hellos	Through the Deep, Dark Valley	INDIFFERENT	5:05	S-AsV7On494	MPREb_63lSWyYcvMu	UCK4_-7LSNH865J1wlm07cCw
 524	Hello My Old Heart (Ten Year Anniversary)	The Oh Hellos	Hello My Old Heart (Ten Year Anniversary)	INDIFFERENT	4:29	3OLAk_iUJ5M	MPREb_I0OiCkM6KGl	UCK4_-7LSNH865J1wlm07cCw
 379	Eye To Eye - Quinn Fest Livestream	The North by South	Episteme	INDIFFERENT	3:20	gHMe0-oE5oU	MPREb_B8R3fv3Tfiz	UCmfIADdto8oaZ5oYK9aEa9Q
 375	I Should Live in Salt	The National	Trouble Will Find Me	INDIFFERENT	4:09	poidrR0ggAI	MPREb_0jhJQp1jos6	UC1bWXfKY5YoBduVCcSP8SGQ
@@ -162,7 +163,7 @@
 431	To Cure What Ails	Shakey Graves	Roll The Bones X	INDIFFERENT	4:01	50Thh_59QGU	MPREb_XRdkxzZrOZq	UCGfZUiaPQnun2epEfQn0MgA
 504	Dusty Lion	Shakey Graves	Roll The Bones X	INDIFFERENT	5:12	wWhz9wdeaPc	MPREb_XRdkxzZrOZq	UCGfZUiaPQnun2epEfQn0MgA
 508	Built To Roam	Shakey Graves	Roll The Bones X	INDIFFERENT	3:12	v7vZDUCh288	MPREb_XRdkxzZrOZq	UCGfZUiaPQnun2epEfQn0MgA
-403	Angeles	Seth Avett & Jessica Lea Mayfield	Seth Avett & Jessica Lea Mayfield Sing Elliott Smith	INDIFFERENT	3:59	9n0nw_Zzej4	MPREb_3MRQPlH6ORM	UCQm4FEeITm1moLnv-loabUw
+403	Angeles	Seth Avett	Seth Avett & Jessica Lea Mayfield Sing Elliott Smith	INDIFFERENT	3:59	9n0nw_Zzej4	MPREb_3MRQPlH6ORM	UCQm4FEeITm1moLnv-loabUw
 70	Arms	Seabear	The Ghost That Carried Us Away	INDIFFERENT	2:52	aFQETO3VBzg	MPREb_gi7WSFiIxLM	UCbWr5nZrRavDKk8dnJzzWQA
 138	Middle Distance Runner	Sea Wolf	Leaves in the River	INDIFFERENT	3:28	7itd-A0kz7Y	MPREb_8w2qw0HCpuR	UCD7SuJtkDfeNUS-dzk4Fn1g
 419	Porchlight (feat. Bill Frisell)	Sarah Siskind	Modern Appalachia	INDIFFERENT	5:09	bWMkPfKNvl4	MPREb_1b6MghUVec7	UCDmgzmzjvYHDA4hFu5FE4Fg
@@ -210,8 +211,8 @@
 106	Opaline	Novo Amor	Opaline	INDIFFERENT	3:13	NLTtye8MXnc	MPREb_3Ta68yzhRnK	UCd8ndCH-sydKKRmftsx-lzw
 498	Jesus, Jesus	Noah Gundersen	Saints & Liars	INDIFFERENT	3:42	fzRzDcLFTsA	MPREb_AyZeui0olQr	UCHTyKylSvUgnWVWeuIkKtvg
 201	Mary	Noah And The Whale	Peaceful, The World Lays Me Down	INDIFFERENT	3:27	f6VszbMKqyg	MPREb_ldL1t5mmZQi	UCpZWcPz7rvdtnwi6jQN9pHg
-212	The First Days Of Spring	Noah And The Whale	The First Days Of Spring	INDIFFERENT	6:40	ykgrmMPFQFY	MPREb_b6jtMZms5iU	UCpZWcPz7rvdtnwi6jQN9pHg
-246	Blue Skies	Noah And The Whale	The First Days Of Spring	INDIFFERENT	4:08	yPyiWlvmvBI	MPREb_b6jtMZms5iU	UCpZWcPz7rvdtnwi6jQN9pHg
+212	The First Days Of Spring	Noah And The Whale	The First Days Of Spring (Standard CD Album)	INDIFFERENT	6:40	ykgrmMPFQFY	MPREb_b6jtMZms5iU	UCpZWcPz7rvdtnwi6jQN9pHg
+246	Blue Skies	Noah And The Whale	The First Days Of Spring (Standard CD Album)	INDIFFERENT	4:08	yPyiWlvmvBI	MPREb_b6jtMZms5iU	UCpZWcPz7rvdtnwi6jQN9pHg
 491	Rise When the Rooster Crows	Nick Shoulders	Home on the Rage	INDIFFERENT	2:56	tAlp2r75zqg	MPREb_XwBmuAErOHZ	UCMTHou2ylHbi5iR66hvg-cQ
 260	Last Lion of Albion	Neko Case	Hell-On	INDIFFERENT	3:38	Nhhj7alb75Y	MPREb_VCQntN2sULY	UCFbY7q9og0h8yknIjyhka9Q
 284	I Wish I Was the Moon	Neko Case	Blacklisted	INDIFFERENT	3:35	uGYwmewN6-U	MPREb_bdsqy9nxmcd	UCFbY7q9og0h8yknIjyhka9Q
@@ -220,7 +221,7 @@
 425	Timshel	Mumford & Sons	Sigh No More	INDIFFERENT	2:54	8Vx5I1aYsKA	MPREb_1aXNn1eQePE	UCJ3Q_kExh0ZZMMT05o0FXzA
 426	Lovers' Eyes	Mumford & Sons	Babel (Deluxe Version)	INDIFFERENT	5:22	84w7_2dYz70	MPREb_71LSbL3EGLR	UCJ3Q_kExh0ZZMMT05o0FXzA
 488	Awake My Soul	Mumford & Sons	Sigh No More	INDIFFERENT	4:16	rsjhGauYTsU	MPREb_1aXNn1eQePE	UCJ3Q_kExh0ZZMMT05o0FXzA
-183	Silver Lining	Mt. Joy	Silver Lining	INDIFFERENT	3:20	tFK5jtJeJZ0	MPREb_xw7bO5tifAO	UCy0lBOzN1ujEM9mXiCHNYNA
+183	Silver Lining	Mt. Joy	Mt. Joy, Silver Lining	INDIFFERENT	3:20	tFK5jtJeJZ0	MPREb_xw7bO5tifAO	UCy0lBOzN1ujEM9mXiCHNYNA
 148	Love Without Possession (feat. Julie Doiron)	Mount Eerie	Lost Wisdom, Pt. 2	INDIFFERENT	4:32	umN8nuUBh3I	MPREb_dvcVTEQea6D	UCc55YkzjUbHKPIMkM8kNosA
 479	Ghost	Moritz Jahn	Rascals	INDIFFERENT	3:35	akpw-xRzqkk	MPREb_E1RNbS1VxkB	UC__ACRWmTIiA7SqkURh-evQ
 49	Dear God (Sincerely M.O.F.)	Monsters Of Folk	Monsters Of Folk	INDIFFERENT	5:07	3GIN7_e_N3w	MPREb_VP7MnpVtzZM	UCrhicSgwmcHsYYygJ_1x_Eg
@@ -231,9 +232,9 @@
 463	Burning Stars	Mimicking Birds	Mimicking Birds	INDIFFERENT	3:29	IEEnollY3M0	MPREb_NC2vp6QFeth	UCoiPjihTlmAaruQP_9gLHqA
 207	The Next Life	Mike West	The Next Life	INDIFFERENT	5:04	BUkkFDmbDWs	MPREb_MJfd36VRc4F	UCzeUBkekLJNP3k8mf3oAkiA
 323	How Come You Sleep	Michael Baker	How Come You Sleep	INDIFFERENT	3:06	HloqeCPVBKg	MPREb_goam5NQ1iU4	UCZuMObvbD4CzeKDvssadHIg
-367	My Blood Will Call out to You from the Ground (feat. The Musicians of the Apocalypse)	Micah P. Hinson	When I Shoot at You with Arrows, I Will Shoot to Destroy You	INDIFFERENT	3:26	h5WqGu3i6Dk	MPREb_UKxrrIQB31N	UCmAxCkRoqR0FL3aRQw0le8A
+367	My Blood Will Call out to You from the Ground	Micah P. Hinson	When I Shoot at You with Arrows, I Will Shoot to Destroy You	INDIFFERENT	3:26	h5WqGu3i6Dk	MPREb_UKxrrIQB31N	UCmAxCkRoqR0FL3aRQw0le8A
 432	Drift Off to Sleep	Micah P. Hinson	Micah P. Hinson and the Opera Circuit	INDIFFERENT	4:37	bJFnrFihjl4	MPREb_JcV59tnQQJu	UCmAxCkRoqR0FL3aRQw0le8A
-520	Fuck Your Wisdom (feat. The Musicians of the Apocalypse)	Micah P. Hinson	When I Shoot at You with Arrows, I Will Shoot to Destroy You	INDIFFERENT	5:34	leyWEDY1bkk	MPREb_UKxrrIQB31N	UCmAxCkRoqR0FL3aRQw0le8A
+520	Fuck Your Wisdom	Micah P. Hinson	When I Shoot at You with Arrows, I Will Shoot to Destroy You	INDIFFERENT	5:34	leyWEDY1bkk	MPREb_UKxrrIQB31N	UCmAxCkRoqR0FL3aRQw0le8A
 410	Canto de Iemanja	Mia Doi Todd	Cosmic Ocean Ship (Bonus Track)	INDIFFERENT	6:32	mUlLuZMRnKM	MPREb_alnbeENVr0a	UC7mjZ6b8oi6SXaFwoQ-nE_g
 128	I Will Remain	Matthew And The Atlas	To the North	INDIFFERENT	3:26	xcuYdDKPufc	MPREb_ccOmbUiQSfy	UCuhDWBo-qX6hQRuuzRtqOtQ
 171	Pale Sun Rose	Matthew And The Atlas	Other Rivers	INDIFFERENT	3:04	ifv4z5M-vWU	MPREb_mteDfFEcCiP	UCuhDWBo-qX6hQRuuzRtqOtQ
@@ -346,7 +347,7 @@
 29	Low Low Low	Heartless Bastards	Arrow (10th Anniversary Deluxe Edition)	INDIFFERENT	5:04	0mPG7Dwyd6A	MPREb_KgKttqORSqC	UC8XXOUgBXUvvv8ZE8okeUmw
 150	That Moon Song	Gregory Alan Isakov	This Empty Northern Hemisphere	INDIFFERENT	3:35	AtC-Xk47BcQ	MPREb_I4JbK2vH6UV	UCiLwv1oZ3MGbdZHVYoKYYUQ
 165	Saint Valentine	Gregory Alan Isakov	The Weatherman	INDIFFERENT	3:24	2YYBk5cTt2s	MPREb_6cPXbWeCTpG	UCiLwv1oZ3MGbdZHVYoKYYUQ
-187	San Francisco	Gregory Alan Isakov	That Sea, the Gambler	INDIFFERENT	5:41	j_JKkQ2L9UE	MPREb_rlnuVieYcLJ	UCiLwv1oZ3MGbdZHVYoKYYUQ
+187	San Francisco	Gregory Alan Isakov	That Sea, The Gambler	INDIFFERENT	5:41	j_JKkQ2L9UE	MPREb_rlnuVieYcLJ	UCiLwv1oZ3MGbdZHVYoKYYUQ
 197	San Luis	Gregory Alan Isakov	Evening Machines	INDIFFERENT	4:33	k3vVBrbZuw0	MPREb_XgKiUrJBONV	UCiLwv1oZ3MGbdZHVYoKYYUQ
 257	The Universe	Gregory Alan Isakov	The Weatherman	INDIFFERENT	4:17	dB4ZTGUsfxY	MPREb_6cPXbWeCTpG	UCiLwv1oZ3MGbdZHVYoKYYUQ
 264	She Always Takes It Black	Gregory Alan Isakov	The Weatherman	INDIFFERENT	2:51	yg7tTA1r9nw	MPREb_6cPXbWeCTpG	UCiLwv1oZ3MGbdZHVYoKYYUQ
@@ -443,7 +444,6 @@
 321	Hug All Ur Friends	Cavetown	Animal Kingdom: Jackson	INDIFFERENT	5:36	s51RHnuSXBc	MPREb_mdHGOHvH5OZ	UCzc1FjJnWChcX1CQkSC5nAA
 168	The Greatest	Cat Power	The Greatest	INDIFFERENT	3:23	gMU9m13ZTek	MPREb_XyHMBFNVzUH	UC1s55OQBwZ1Cg-k9EC7HaGA
 435	Tell Them Memphis	Castanets	Decimation Blues	INDIFFERENT	3:38	9jjR8T58c2A	MPREb_wrPitMlYVZC	UCw7BNrYVzzvJKWvjbYrmOYQ
-121	Bum Bum Bum	Cass McCombs	Mangy Love	INDIFFERENT	5:00	ZUf9t_MPCZw	MPREb_G5M1p07Neub	UCw65yx2lOjYjc6gp7PRezpg
 175	Fortune Teller	Calexico	Algiers (Deluxe Edition)	INDIFFERENT	3:58	cn0TwUbJbck	MPREb_4C5pfyBIXHG	UCjgZh_Yt5rH280x1QlKKG_g
 399	Follow the Water	Calexico	Years to Burn	INDIFFERENT	3:45	wFVv_TGs1yc	MPREb_ZXkwk1ImRIn	UCjgZh_Yt5rH280x1QlKKG_g
 327	All the Debts I Owe	Caamp	Caamp	INDIFFERENT	3:14	Iil6_sQEEtg	MPREb_XfBBGUxI9Tg	UCY2luOfzHLOgWiMp2DNXFKw
@@ -459,7 +459,7 @@
 404	Wolność	Boys	Łobuz i Drań	INDIFFERENT	3:51	GvzYwES4KSI	MPREb_8bZPNsYNYBg	UCcerG6OSUbMPMX6a_IXoghA
 221	Overcome With Light	Bowerbirds	The Clearing	INDIFFERENT	3:09	YRzA8vgfqgw	MPREb_T7O3XetHr5Y	UC6b-Z3eedky4Y8qLAdTg4HA
 147	Green Rocky Road	Bonny Light Horseman	Green/Green	INDIFFERENT	3:46	QV1EsC23Shc	MPREb_nGNvDKINmXP	UC-O2r7CNfhRuHqgBnGFk5Kg
-245	Careless Love	"Bonnie ""Prince"" Billy"	Ease Down The Road	INDIFFERENT	2:07	ykk1USy-XbE	MPREb_APLqzzWQvy9	UCrpd5ol2UBl1K-uwNQ-l-fA
+245	Careless Love	Bonnie 'Prince' Billy	Ease Down The Road	INDIFFERENT	2:07	ykk1USy-XbE	MPREb_APLqzzWQvy9	UCrpd5ol2UBl1K-uwNQ-l-fA
 315	This Is Far From Over	"Bonnie ""Prince"" Billy"	I Made A Place	INDIFFERENT	2:47	-txWSaMVjCE	MPREb_Ty6OJhLzD2h	UCrpd5ol2UBl1K-uwNQ-l-fA
 40	Michicant	Bon Iver	Bon Iver	INDIFFERENT	3:46	DwXTx3yveBg	MPREb_CV3KFsT8IdK	UCx-cwf1tCXoZr0KtnpaDwyA
 140	Calgary	Bon Iver	Bon Iver	INDIFFERENT	4:11	WwDxt-mpUC0	MPREb_CV3KFsT8IdK	UCx-cwf1tCXoZr0KtnpaDwyA
@@ -522,6 +522,6 @@
 68	The Perfect Parts (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2015)			LaJmhiqMW_E		
 76	Built To Roam (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2013)			g1w8EDUGPjo		
 113	Word Of Mouth (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2013)			QsHUjNAbL68		
-133	Temazcal	Monsters Of Folk	Monsters Of Folk			X0mmbPoJw9o		
+133	Temazcal	Monsters Of Folk	Monsters of Folk			X0mmbPoJw9o		
 58	Something (Audiotree Live Version)	Julien Baker	Julien Baker on Audiotree Live			yegz7jAjJTw		
 91	Peach Stone	Indoor Foxes	Peach Stone			A9Hextx7zDc		

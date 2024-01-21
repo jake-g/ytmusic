@@ -109,13 +109,13 @@
 302	Django	Modern Jazz Quartet	Modern Jazz Quartet Plays John Lewis Compositions	LIKE	5:45	5Dus0OiHS9Q	MPREb_qWnHge6wKw7	UCQjf61NuHvxHrm4gkdx0ZaQ
 273	The Night We Called It a Day	Milt Jackson	Heavyweight Champion: The Complete Atlantic Recordings	LIKE	4:18	CTMNZ-Jduhw	MPREb_6xPlWh2Nsjn	UCNkq23Cd3lAOth4g_OsiEhA
 296	Softly As In a Morning Sunrise	Milt Jackson	Autumn Breeze	LIKE	3:30	T5gbbEoza0E	MPREb_uoalaSR4qgP	UCNkq23Cd3lAOth4g_OsiEhA
-111	My Funny Valentine	Miles Davis Quintet	Miles Davis: Milestones	LIKE	6:03	Qplyam5e5_E	MPREb_08SMKR0VaaS	UCIev2PktTH5mI-QlGmbUkiw
 28	Bye Bye Blackbird	Miles Davis	The Essential Miles Davis	LIKE	7:54	hnV29LznOFs	MPREb_JqhnDsifJph	UCIev2PktTH5mI-QlGmbUkiw
 29	All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	11:33	xb3iCpu-JFs	MPREb_iNbKdKjDqyr	UCIev2PktTH5mI-QlGmbUkiw
 30	Stella By Starlight (feat. John Coltrane & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	4:45	PhkQRiF_bG4	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
 31	Summertime	Miles Davis	Porgy And Bess	LIKE	3:18	EPj22GjTUzw	MPREb_WrPxPSzddLs	UCIev2PktTH5mI-QlGmbUkiw
 71	'Round Midnight	Miles Davis	The Essential Miles Davis	LIKE	5:56	zB18sNTgf3U	MPREb_JqhnDsifJph	UCIev2PktTH5mI-QlGmbUkiw
 72	Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	9:27	UpwlFYvdUXY	MPREb_iNbKdKjDqyr	UCIev2PktTH5mI-QlGmbUkiw
+111	My Funny Valentine	Miles Davis	Miles Davis: Milestones	LIKE	6:03	Qplyam5e5_E	MPREb_08SMKR0VaaS	UCIev2PktTH5mI-QlGmbUkiw
 140	Duet For Saxophone & Guitar	Miles Davis	Conception	LIKE	2:38	BZxTlMr6CbE	MPREb_vi3XlnHJPyC	UCIev2PktTH5mI-QlGmbUkiw
 141	So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	9:23	9rD3zdscDRQ	MPREb_iNbKdKjDqyr	UCIev2PktTH5mI-QlGmbUkiw
 142	Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)	Miles Davis	'Round About Midnight	LIKE	7:55	CieM9gurwZ4	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
@@ -241,7 +241,7 @@
 129	Pavanne	Erroll Garner	Serenade In Blue	LIKE	3:14	t1vloISQjp4	MPREb_mNTV9Z7qnWy	UCs3BHE6jtTfaoDTd9yu2EDg
 262	I'll Remember April	Erroll Garner	The Essence Of...	LIKE	4:20	uWFu9-T_jXw	MPREb_NlwYjRICAvK	UCs3BHE6jtTfaoDTd9yu2EDg
 364	Misty	Erroll Garner	Ready Take One	LIKE	4:52	72xe_0UayYU	MPREb_rA2FTMnSpWZ	UCs3BHE6jtTfaoDTd9yu2EDg
-154	Something Sweet, Something Tender (Rudy Van Gelder 24-Bit Digital Remaster/1998)	Eric Dolphy	Out To Lunch (The Rudy Van Gelder Edition)	LIKE	6:04	rUNDPUIac4E	MPREb_YLBgFnpPFt3	UCDZbdZMMTGl_0MU2pTjatZw
+154	Something Sweet, Something Tender (Remastered 1998/Rudy Van Gelder Edition)	Eric Dolphy	Out To Lunch (The Rudy Van Gelder Edition)	LIKE	6:04	rUNDPUIac4E	MPREb_YLBgFnpPFt3	UCDZbdZMMTGl_0MU2pTjatZw
 243	Dreamsville	Eric Alexander	Eric Alexander with Strings	LIKE	5:08	cTM85sVbNCg	MPREb_DDlD9nuI4lj	UCiFr9OWmCk6ZYdvXeOg2X-A
 294	Over the Rainbow	Eddie Henderson	Shuffle and Deal	LIKE	8:12	G9BbD9LZdFk	MPREb_lcfBZX9qBb3	UCvmNX4mGXH0xW2sjfUGlT3g
 345	Poor Little Rich Girl	Dutch Jazz Orchestra	Moon Dreams - Rediscovered Music of Gil Evans and Gerry Mulligan	LIKE	3:12	qd_5cTsFiR0	MPREb_dDHVLp8qq3S	UCgk3IP_wgYyMWyu-GbK5j7A
@@ -363,7 +363,7 @@
 320	My Funny Valentine (Rudy Van Gelder Remaster 2007)	The Miles Davis Quintet	The Legendary Prestige Quintet Sessions	INDIFFERENT	6:02	0yk8eMNyS08	MPREb_0BNlbAf1xnK	UCIev2PktTH5mI-QlGmbUkiw
 310	I Want to Talk About You	John Coltrane	Jazz Master, John Coltrane	INDIFFERENT	10:58	3J1_HywLEK4	MPREb_2rZ4terajqF	UCH4T2kv7rr9qnuP0DOXLxMA
 63	The Thrill Is Gone (Vocal Version)	Chet Baker	Late Night Chet Baker	INDIFFERENT	2:50	6daHfiRUWuk	MPREb_6OMHK4s3o8Y	UCVNfRXuaWVILL9giCEg0rQg
+362	Almost Blue (Live)	Chet Baker	Chet Baker in Tokyo (The Complete Concert)	INDIFFERENT	7:56	UjOkb8PAyXs	MPREb_iLnE2YXUS4y	UCVNfRXuaWVILL9giCEg0rQg
 150	When Love Is New	Cedar Walton Trio	Manhattan Afternoon	INDIFFERENT	7:22	wuZaRAdwgMU	MPREb_AzCVfOWDudy	UCu-WQsz9922w0IidCeAcuZA
 183	Get Well	Matt Lambaise, Jack DeSalvo, Chris Forbes, Dmitry Ishenko, and Tom Cabrera	Quintrepid			UNNbhorzoew		
-362	Almost Blue (Live)	Chet Baker	Chet Baker in Tokyo (The Complete Concert) [Live]			Qgs08IEd2g4		
 355	Boplicity	Charlie Parker	Memorial			b9vf07G2lNE		
