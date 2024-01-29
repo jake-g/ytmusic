@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+80	Bizness	Tune-Yards	W H O K I L L	LIKE	4:24	AbgoT8VicNI	MPREb_rGtiHpydOFW	UCtPTLKDh21P9EHTU6oRae0g
 21	Drift Dive	The Antlers	Undersea	LIKE	4:49	GxeehX0rCJQ	MPREb_gQ6UPEYSWia	UCVgMbI755lXVZobPCQgl2rg
 201	Fred Astaire	San Cisco	San Cisco	LIKE	2:55	q22sw-Ym-cM	MPREb_lpy5z4wUFv7	UC6-C-X7PclphUFrfl3h_z9w
 450	Misfit	Elefant	Sunlight Makes Me Paranoid	LIKE	3:14	zzG1Ck8wUP0	MPREb_OElEFcXUpac	UCbpOb3G-4vn0XSWlS6CUaPQ
@@ -81,7 +82,6 @@
 693	So Sad, So Sad	VARSITY	Cult of Personality - So Sad, So Sad	INDIFFERENT	3:53	2C9Z5zO4g6c	MPREb_qbJm1wBpKtP	UC2Lh1d71B_hNrOxf1pSgfMw
 501	T.L.C. (TURNSTILE LOVE CONNECTION)	Turnstile	GLOW ON	INDIFFERENT	1:43	qpM5Qch-Gq0	MPREb_DudzVw1csBH	UCvypVcrhYs22La_RvMUntfQ
 624	1986	Turnpike Glow	Inflatable Optimism	INDIFFERENT	3:47	U0F1fU7NCro	MPREb_sTE3Dc9flWo	UCnHqI7qpqtc1wxjSTJKfMmg
-80	Bizness	Tune-Yards	W H O K I L L	INDIFFERENT	4:24	AbgoT8VicNI	MPREb_rGtiHpydOFW	UCtPTLKDh21P9EHTU6oRae0g
 576	Water Fountain	Tune-Yards	Nikki Nack	INDIFFERENT	3:04	legh82Ga-4U	MPREb_dQcVDTR4rnb	UCtPTLKDh21P9EHTU6oRae0g
 617	Young Man's Town	Tune Robbers	Best Hits for Archery	INDIFFERENT	4:27	fkd1iA368ik	MPREb_r9KUZWw41Xf	UCKNkSN26tT9T3xylqoV9M6w
 524	Blood Wears Thin	Trit95	Blood Wears Thin	INDIFFERENT	2:33	5_WYfn1AqT0	MPREb_1o666HE4VMo	UCI1VkEwv7PnepHh1UWrUKZw
@@ -148,7 +148,7 @@
 236	Blood	The Middle East	The Recordings of the Middle East	INDIFFERENT	5:27	9FxfjJa_24g	MPREb_tOa9kGfx1MQ	UCnL4ix-j0t9RMidhmUPifPw
 438	Blood	The Middle East	Accidents Happen (Original Soundtrack)	INDIFFERENT	5:23	OI85Z_DF4Mg	MPREb_DMQdbKfRcpS	UCnL4ix-j0t9RMidhmUPifPw
 374	Andrew in Drag	The Magnetic Fields	Love at the Bottom of the Sea	INDIFFERENT	2:12	c8tiuXJVkVo	MPREb_WdnjzKrvPzS	UCf9bscTdSKPtnoK4hHEDzGw
-682	Run to Your Grave	The Mae Shi	Hlllyh	INDIFFERENT	3:54	bWL7LC7-qSs	MPREb_1nNAxb1C2Xa	UCnRpGjUe_qoDSOJKz2fLu4w
+682	Run to Your Grave	The Mae Shi	HLLLYH	INDIFFERENT	3:54	bWL7LC7-qSs	MPREb_1nNAxb1C2Xa	UCnRpGjUe_qoDSOJKz2fLu4w
 277	Pelican	The Maccabees	Given To The Wild	INDIFFERENT	3:45	VLDHFrDK1IY	MPREb_F08Wf4kZFZh	UCe9cd_eUCnwYRSe7JfupKQQ
 544	Internet Killed the Video Star	The Limousines	Get Sharp	INDIFFERENT	3:53	sl0AJZpjbpA	MPREb_s1gR9hvvA3d	UCRFJ3xUIjwfuAm9pA3m8rsA
 5	Gunga Din	The Libertines	Anthems For Doomed Youth	INDIFFERENT	2:59	pucfwyC_kk0	MPREb_xvZkAnL3QV8	UCogNpfX1l0OtcXb8Khc_Gjw
