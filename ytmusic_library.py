@@ -614,6 +614,10 @@ class YTMusicPlaylists:
             # Query playlist tracks and other metadata
             p_info = self.playlist_get_info(
                 p.playlistId, playlist_limit=self.playlist_limit)
+            if 'tracks' not in p_info:
+                pl_ct['playlist_is_empty'] += 1
+                print(f'SKIPPING playlist: {p.title} No "tracks" key in playlist')
+                continue                
             if p_info['trackCount'] == 0:
                 pl_ct['playlist_is_empty'] += 1
                 print(f'SKIPPING playlist: {p.title} No tracks in playlist')
