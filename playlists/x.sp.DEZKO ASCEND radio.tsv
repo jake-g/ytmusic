@@ -1,8 +1,9 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+12	Marea (we’ve lost dancing)	Fred again..	Marea (we’ve lost dancing)	LIKE	4:46	5JScYWHBxcw	MPREb_0lY9O9dj7av	UCvA7ExlBsBUb5XQEYzJC1ww
 14	Danielle (smile on my face)	Fred again..	Actual Life 3 (January 1 - September 9 2022)	LIKE	3:22	Ho_2xO-UpFA	MPREb_tP5IEEe12bp	UCvA7ExlBsBUb5XQEYzJC1ww
 43	Delilah (pull me out of this)	Fred again..	Actual Life 3 (January 1 - September 9 2022)	LIKE	4:11	Q6MhT4n9nKI	MPREb_tP5IEEe12bp	UCvA7ExlBsBUb5XQEYzJC1ww
-28	Joy	salute	Joy	INDIFFERENT	4:42	B9FxpLNDdts	MPREb_wf06qH4HlQr	UC5pxwkEK1_gVThSIOiZuAAg
-30	Therapy	salute	Therapy	INDIFFERENT	3:55	JuexQnvyloI	MPREb_3ziZdAmo8xH	UC5pxwkEK1_gVThSIOiZuAAg
+28	Joy	salute	Joy	INDIFFERENT	4:42	B9FxpLNDdts	MPREb_wf06qH4HlQr	UC5DgGU95TLIjZpLcnY51HuA
+30	Therapy	salute	Therapy	INDIFFERENT	3:55	JuexQnvyloI	MPREb_3ziZdAmo8xH	UC5DgGU95TLIjZpLcnY51HuA
 42	Food for the Soul	it's murph	Food for the Soul	INDIFFERENT	3:31	7mehTK_ENdg	MPREb_whDaPaa30Yv	UChgKG5mgQApKpJIvEcIO_xw
 19	calling for you	devin	calling for you	INDIFFERENT	2:22	CLQS7tuYvww	MPREb_yQ453D9y9oa	UCCTxrn2XuDDjK084HgL9Erw
 64	Mwaki (feat. Sofiya Nzau)	Zerb	SURRENDER	INDIFFERENT	3:29	wr62oNJORAI	MPREb_waUmUh6MdeW	UCyDQm19rpnoANvgEhzdnRgw
@@ -24,14 +25,13 @@
 61	ALIVE	Mattilo	ALIVE	INDIFFERENT	2:51	oSlfMqEKr2s	MPREb_lHbaCQ6sjJL	UC-pPgpqR-6dcVANar5Hoa1A
 73	SET ME FREE	Mattilo	SET ME FREE	INDIFFERENT	2:59	J1fsTS3mSQk	MPREb_T75QoDatoIX	UC-pPgpqR-6dcVANar5Hoa1A
 20	RAW	ManyFew	RAW	INDIFFERENT	2:48	_HIFSc8GhUw	MPREb_B7vUyZobuId	UC85jN_KJymc4PfP_51UDx5A
-1	Human	Lavern	Human	INDIFFERENT	2:14	qzyf-YeqnCE	MPREb_ilsmkEMTmAD	UCDtY9by5DTYLfswhwcB6uqw
+1	Human	Lavern	Human	INDIFFERENT	2:14	qzyf-YeqnCE	MPREb_ilsmkEMTmAD	UCzQ4gcRHoDyVF3ghGn9gWlA
 24	Hold Me	Lavern	Hold Me	INDIFFERENT	2:20	_CzIze7oZj0	MPREb_a2QXMWNIb1L	UCzQ4gcRHoDyVF3ghGn9gWlA
 22	Want It More	Jend	Want It More	INDIFFERENT	2:05	E1Q7kEAAH0A	MPREb_0MurXsmxoef	UCzTmi5vQrhuwT5j3RAjPHDw
 10	Show My Love (Icarus Remix)	JADED	Show My Love (Icarus Remix)	INDIFFERENT	3:10	XfdPbBWO9DY	MPREb_MP5XiEFr8GL	UCkcOSZ4qqGNf8R4APF1Cwdg
 33	Right Time	Hayden James	Right Time	INDIFFERENT	2:51	CGghjaVlETw	MPREb_6jNRQ6pL91B	UC3X7KAGTP8n21hwCmRLQ0Rg
-4	Baby again..	Fred again..	USB	INDIFFERENT	5:20	FhXMsiv6TvY	MPREb_V1ijn5YtmNI	UCvA7ExlBsBUb5XQEYzJC1ww
-11	Turn On The Lights again.. (feat. Future)	Fred again..	USB	INDIFFERENT	4:28	hJ-etjHGOgo	MPREb_V1ijn5YtmNI	UCvA7ExlBsBUb5XQEYzJC1ww
-12	Marea (we’ve lost dancing)	Fred again..	Marea (we’ve lost dancing)	INDIFFERENT	4:46	5JScYWHBxcw	MPREb_0lY9O9dj7av	UCvA7ExlBsBUb5XQEYzJC1ww
+4	Baby again..	Fred again..	USB	INDIFFERENT	5:20	eSr_jCf9KK8	MPREb_33Yd2WvuYPu	UCvA7ExlBsBUb5XQEYzJC1ww
+11	Turn On The Lights again.. (feat. Future)	Fred again..	USB	INDIFFERENT	4:28	daQlJ-z0_hc	MPREb_33Yd2WvuYPu	UCvA7ExlBsBUb5XQEYzJC1ww
 27	Alive	Franky Wah	Alive	INDIFFERENT	3:54	bgitv8V7XAY	MPREb_CCtc7LX0xvA	UCpZaTa62oW5T1YGYgOyfRbQ
 59	Head In The Ocean	FoundSound	Head In The Ocean	INDIFFERENT	4:05	6KqwVY_7QNE	MPREb_bDf0rRyh4Fo	UCgTSq2DCwo18tyRuyFPCfGw
 63	Secret	FoundSound	Secret	INDIFFERENT	2:19	idjrXalHkDc	MPREb_vOXuV5HMm3a	UCgTSq2DCwo18tyRuyFPCfGw
@@ -64,7 +64,7 @@
 38	Consciousness	Anyma	Genesys	INDIFFERENT	4:35	7niEMxO8J58	MPREb_yjdbWiT38Kw	UCZdToquGS_Fiepyt7LBIX_Q
 47	Syren	Anyma	Genesys	INDIFFERENT	3:18	cbs3xHDUeLk	MPREb_yjdbWiT38Kw	UCZdToquGS_Fiepyt7LBIX_Q
 58	Welcome To The Opera	Anyma	Genesys	INDIFFERENT	4:06	SmjNegbiS9I	MPREb_yjdbWiT38Kw	UCZdToquGS_Fiepyt7LBIX_Q
-62	Higher Power	Anyma	Higher Power	INDIFFERENT	3:29	FQsVDwTQEH4	MPREb_6bv7e7qBRKU	UCZdToquGS_Fiepyt7LBIX_Q
+62	Higher Power	Anyma	New World	INDIFFERENT	3:29	KdSzq2DICz4	MPREb_1WuROp1EMgW	UCZdToquGS_Fiepyt7LBIX_Q
 68	Explore Your Future	Anyma	Genesys	INDIFFERENT	3:41	ONogOioS_T0	MPREb_yjdbWiT38Kw	UCZdToquGS_Fiepyt7LBIX_Q
 34	Cotton Candy Lemonade (Anna Lunoe Remix)	Anna Lunoe	Cotton Candy Lemonade (Anna Lunoe Remix)	INDIFFERENT	4:08	boh8M2uyDs4	MPREb_CnurbNov0Cx	UCQ6T6ewsFZ5IWsU-5zt21Nw
 6	WASTED ON ME	Angrybaby	REGULARITY	INDIFFERENT	3:03	X0ilHTfoGhw	MPREb_eAkufUdoWlZ	UCmpIv10tgbBJe4bREtWq7jA

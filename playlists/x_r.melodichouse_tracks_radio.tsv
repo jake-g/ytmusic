@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+82	Animaux	Kidnap	So Close	LIKE	3:09	UiV4xTDRwlM	MPREb_5KhI0atQWlx	UCYVTaaw5ApmMpiUKbNbbXEA
 228	Strobe (Lane 8 Remix)	deadmau5	Strobe (Remixes)	INDIFFERENT	7:18	_znHMkJaiw0	MPREb_KjNKcsLGtBw	UCL44WZGVf-BU5N0ymCXrpBg
 313	Breezeblocks (Tinlicker Extended Mix)	alt-J	Breezeblocks (Tinlicker Remix)	INDIFFERENT	6:52	Pf5GMgYGONA	MPREb_2iXESnicujT	UCyzh4EnNuEO3Jk_mlXJCIag
 389	Crazy	Zonderling		INDIFFERENT	2:34	Cmlv35QkvhY		UCFIG7shUtug7QtyoaRgiGzA
@@ -29,7 +30,6 @@
 33	Lilt (feat. Julia Vadström)	Vibralvx	Lilt (feat. Julia Vadström)	INDIFFERENT	3:25	1p8qj912DJ0	MPREb_962wq0Sr13b	UCofMb2m4lYfeh-s_y5znDZA
 44	Let You Down	Venemy	Let You Down	INDIFFERENT	2:48	UPSJM63uy2o	MPREb_ZzimeXwpqpF	UCnC4MyC5LwI_hKLQwiBiJLg
 85	Time	Venemy	Time	INDIFFERENT	2:38	0RwTRGS_c6I	MPREb_8rVyOHbRfzs	UCnC4MyC5LwI_hKLQwiBiJLg
-190	My Love For You	Various Artists - Topic	My Love For You	INDIFFERENT	3:14	oHIDGcttcWE	MPREb_9JuQbZFEKYD	UCENjy8QfqEUOBYZ4UjFZFhw
 47	Real You	Vanze & Balco	Real You	INDIFFERENT	3:15	6fnfHSIDM6g	MPREb_ivt8GLCVx6W	
 232	Super Moon (feat. MZKA)	Vanillaz	Super Moon	INDIFFERENT	2:34	ofdS30l1Nr4	MPREb_wnBou0izkK7	UCtc5fqL6lAghWXpLqwGUTeQ
 79	Faded	VOWED	Faded	INDIFFERENT	2:30	LRFV88ioYXQ	MPREb_37517us29Wh	UCj6f83v9MKOoBWhRGUNNIGA
@@ -76,6 +76,7 @@
 242	Breathe (feat. kaspara)	Syn Cole	Breathe	INDIFFERENT	2:56	2ShLwUIIaVE	MPREb_53Usn8ZIsgH	UC6xnpevb-8LwUHpdfkY2FNw
 430	Overdrive	Syn Cole	Overdrive	INDIFFERENT	2:30	Q999VKwhX7c	MPREb_XvUd6xxroSY	UC6xnpevb-8LwUHpdfkY2FNw
 420	Finally (Dayne S Deep Mix) (feat. Jalana)	Sweed	Finally (Dayne S Deep Mix)	INDIFFERENT	6:16	g3k5DlN8LWk	MPREb_nZr8t8eOaJF	UCmTCC8SXIRrvtHKziMWZmkw
+264	Almost Home (Sons Of Maria Remix) (feat. Nadia Ali & Iro)	Sultan + Shepard		INDIFFERENT	3:29	1U4PteWEFcs		UCU2d6Vg6hp0vJb8K0krR5_g
 223	Time To Move (feat. Jessica Gabrielle)	Stone van Brooken	Time To Move	INDIFFERENT	3:15	fabsfL4ruFc	MPREb_dArRGmtOhkl	UCTRaEust_xk-0cKWYjyrdSw
 301	Comfortable [Revelries Remix] (feat. Natalie Major)	Steve Void	Comfortable (Remixes, Vol. 1)	INDIFFERENT	2:51	ZSctvPOIgt8	MPREb_Sc52AZXv2q9	UCSkUl0KuMgtLYrLMDOacheA
 383	Wasted Love (PANG! Remix) (feat. Dougy)	Steve Angello	Wasted Love Remixes (feat. Dougy)	INDIFFERENT	6:25	oDCDdcetaNY	MPREb_K1A3KwtJk6a	UCBCvsgWIWVbmA-GSDXeEuvA
@@ -83,7 +84,6 @@
 10	I Hope You Care (Modeplex Remix) (feat. Matru)	Starkato	I Hope You Care	INDIFFERENT	7:16	qnBjOXHz2io	MPREb_lPHUefPC40i	UC9_an2qZENY-k2TVlKf0tGQ
 42	Holding On	Starkato	Collapsing	INDIFFERENT	7:39	iJF-apGkrPE	MPREb_Gw05UJjI5QY	UC9_an2qZENY-k2TVlKf0tGQ
 373	Utopia (Armen Miran Remix) (feat. Terry Grant)	Soul Button feat. Terry Grant	Phantom Existence: Remix Edition	INDIFFERENT	8:31	BISQDGYcfJg	MPREb_Rp5uf6R4rFu	UCT_rts8ipJSTX6UpPDdPAFQ
-291	Hold Your Kite	Sorana		INDIFFERENT	3:01	RJ-2Hn8aC78		UC3zsGP0UJ5sQHjRyOHMtM_Q
 162	A Special Place (Radio Edit) (feat. Amber Skyes)	Somn3um	A Special Place	INDIFFERENT	3:48	JMgTywSQMQE	MPREb_wRZujFwKoV8	UClv8AaDa96YjTfmSXK5e7JQ
 5	Sunlight	Soda	Sunlight	INDIFFERENT	2:46	lUfhkGrS8Yg	MPREb_E6LqMl3AbKQ	UCP6JADQ9buCGy5mCzjKjlsg
 471	Nonstop	Slider & Magnit	Nonstop	INDIFFERENT	3:21	Zf4QOnreyW0	MPREb_OteN5EyVUU2	UCdInEiOmHxHrNi6iH2c1nrg
@@ -97,7 +97,7 @@
 312	Sad in Scandinavia	Seeb	Sad in Scandinavia	INDIFFERENT	3:25	Ht_Clq4Jjzo	MPREb_r1DhY251gOA	UCKfd2lZ4vQDUErIoB4YsQZA
 76	Gold (Extended Mix) (feat. Bright Sparks)	Sebastien		INDIFFERENT	4:53	Pf0Zf3RGgms		UCLV1T8zL8DNi3XylV7rIP0A
 229	Good for Your Souls	Sebastien		INDIFFERENT	2:09	_zQoJVqTUEY		UCLV1T8zL8DNi3XylV7rIP0A
-348	Escape (Extended Mix) (feat. Satellite Empire)	Sebastien		INDIFFERENT	9:09	tGzc5Iqg_Io		UCLV1T8zL8DNi3XylV7rIP0A
+348	Escape (Extended) (feat. Satellite Empire)	Sebastien		INDIFFERENT	9:09	tGzc5Iqg_Io		UCLV1T8zL8DNi3XylV7rIP0A
 2	Inside My Heart	Scott Forshaw & JJ Beck	Inside My Heart	INDIFFERENT	3:20	7zTQK75stEY	MPREb_J5CgO5XkIQA	
 409	Sassa And Back	Satin Jackets	Hidden Treasures EP	INDIFFERENT	4:37	6wx17VzEQn0	MPREb_OdOTF4mRRpy	UC38pEVsac-8a3LMSb16qxZA
 344	Satellite (HUGEL & HEYHEY Remix)	Sara Hartman	Satellite (HUGEL & HEYHEY Remix)	INDIFFERENT	3:13	l02xLt1ybBw	MPREb_7QlML4Vz3tB	UCtEMCmmFJLRR2h4vyfyY3lA
@@ -120,7 +120,7 @@
 297	Sugar [HUGEL Remix] (feat. Francesco Yates)	Robin Schulz	Sugar (The Remixes)	INDIFFERENT	5:01	GRGUtbVZx0U	MPREb_CIq6T1ydAqL	UCIpo9tfpIGXMzNQcZVWoXVw
 359	Rather Be Alone	Robin Schulz	IIII	INDIFFERENT	2:52	nMYWLR-7Kqg	MPREb_xrdpf8GvYQL	UCIpo9tfpIGXMzNQcZVWoXVw
 163	Believe In Me	Robin Knaak	Believe In Me	INDIFFERENT	3:21	4SrhP7LOrSo	MPREb_k0VN6wICMMb	UCasfr9DKspvX65NvIBMOZBw
-442	Shadow	Robert Fest	Shadow	INDIFFERENT	3:08	bt88trbyoPs	MPREb_GU7lpOGys5F	UCEcoomcedoIL0BrMr9Q811w
+442	Shadow	Robert Fest	Shadow	INDIFFERENT	3:08	4eCbVW4LpMk	MPREb_vUQbKu53nTj	UCEcoomcedoIL0BrMr9Q811w
 259	Find You	Robert Cristian	Tell Me Why	INDIFFERENT	3:28	XFWx3nmD5Gw	MPREb_YZiEsCDwrJL	UCcJnw1VygxzVoHBrq-ZXdsw
 267	Prada	Robert Cristian	Prada	INDIFFERENT	2:24	RXb5TF0I4yk	MPREb_ZpJ4eE1kxno	UCcJnw1VygxzVoHBrq-ZXdsw
 357	Remedy	Robert Cristian	Remedy	INDIFFERENT	3:29	mKygQAb2d3U	MPREb_xt2pAzSBimm	UCcJnw1VygxzVoHBrq-ZXdsw
@@ -132,17 +132,18 @@
 388	Handle	Revelries	Handle	INDIFFERENT	3:16	wcX5qCfpmVE	MPREb_wEig8INQp7r	UCdni4p88G7vvzvL-5ulQhIA
 77	I Wish I Knew (feat. Esther van Hees)	Remy Cooper	I Wish I Knew	INDIFFERENT	2:58	3dSJ7wnzOLE	MPREb_PYiI2zt7SmT	UCe26jRZaC_muWnPbr5r4TFg
 99	Keep Running (Extended Mix)	Remy Cooper	Keep Running	INDIFFERENT	3:57	Mmg8XPW6D-A	MPREb_iwWaN81wxVC	UCe26jRZaC_muWnPbr5r4TFg
+190	My Love For You	Release - Topic	My Love For You	INDIFFERENT	3:14	oHIDGcttcWE	MPREb_9JuQbZFEKYD	UC9DUAeq5sp6p6VtQzRou17w
 103	Signals	Regard	Signals	INDIFFERENT	2:48	ZdSV19ljMwU	MPREb_v8JNGjhnc1O	UCfwd83cvG2c613A6lSmRIow
 440	No Love For You	Regard	No Love For You	INDIFFERENT	2:59	QTe7SJ9ba_g	MPREb_T4WPEWi9vjp	UCfwd83cvG2c613A6lSmRIow
 41	Dangerous	Redd Daniel	Dangerous	INDIFFERENT	2:17	HC1HYSY0oKE	MPREb_vucoqq16rz9	UCszdf2RHwu3Pr0uoBzYEtSQ
-280	Love Me	ReMan, Tabba & Zentone	Love Me	INDIFFERENT	2:39	wn3P_9xHKRs	MPREb_6LxlXEAoDqs	UC1MrfAN1EQ_t5YrHYIqa9Kg
+280	Love Me	ReMan	Love Me	INDIFFERENT	2:39	Zy07pIURr_o	MPREb_MZmi9c88vKs	UCtl9oDIADg0fEVRho2tptcQ
 54	Broken Heart	RIIA	Broken Heart	INDIFFERENT	3:20	ZJNQ7ZT94b8	MPREb_IUy5YTr3wM9	UC-4nD_gBxEXhtK0e1l1t_1A
 72	Call On Me (KREAM Remix)	RAYE	Call On Me (KREAM Remix)	INDIFFERENT	3:41	_t6Yki1c0Lc	MPREb_9H3XbLD3OfF	UCvyjk7zKlaFyNIPZ-Pyvkng
 427	Regardless	RAYE	Euphoric Sad Songs	INDIFFERENT	3:18	EBpR5Z9DgUQ	MPREb_qteOMZ4oFXP	UCvyjk7zKlaFyNIPZ-Pyvkng
 425	Family Values (Jonasu Remix)	R3HAB	Family Values (Jonasu Remix)	INDIFFERENT	2:25	x2v-J7Ayqvk	MPREb_mYUf1n9f4wt	UCjpBcfMn2g8afa3XIZmS3mw
 395	Creation of Reality	Q.U.A.K.E	Creation of Reality / Emotion	INDIFFERENT	6:44	PYdGLmXRdUg	MPREb_NMfJv3iBbpS	UCYv9RMzXp7zoxcI4baWoVBA
 467	You're All I Need	Prus Control	You're All I Need	INDIFFERENT	4:35	YDuWnXj7JD8	MPREb_RcSKM6qm0cQ	UCUWXwMrlI3A2GiiVWGYJi9A
-290	Heavens	Pitt Leffer & Robert Cristian	Heavens	INDIFFERENT	4:01	pes4OpHA2g4	MPREb_oaPskLRAi3e	UCSdU7DVMMMEBcs9DE8y87kA
+290	Heavens	Pitt Leffer & Robert Cristian	Heavens	INDIFFERENT	4:01	pes4OpHA2g4	MPREb_oaPskLRAi3e	
 139	On My Own	Phil Soda	On My Own	INDIFFERENT	2:22	bPrRqa8maz0	MPREb_c9Mi1xNhO0h	UCGxeCdCNMhXSG_t-PcC-3rw
 104	My Mind (Radio Mix)	Pete Shade	My Mind	INDIFFERENT	3:07	vdYr69VYu8w	MPREb_RB7yo3ShKNk	UCuFUTdY1OXVNC7xxfFAnbcA
 17	Go With Me	Patrick Baker	Go With Me	INDIFFERENT	3:11	IJzdJZ8AJPg	MPREb_4lUHbXpZ7kE	UCEQV5QUmKdGuugJqt6a1eIg
@@ -176,7 +177,7 @@
 11	Here I Am	NA-NO	Here I Am	INDIFFERENT	5:20	uqIglzUdZRs	MPREb_91zxrQ1gzui	UCKRfRgja0mxUwjHRMA_hvFw
 251	Ghosts	Murat Salman, Azooland	Ghosts	INDIFFERENT	3:12	CL5Ro0pRkVs	MPREb_SfraCWCuKqj	
 151	Give It To Me (feat. Ezgi Kosa)	Murat Salman	Give It To Me	INDIFFERENT	3:18	ETdfSva6jsI	MPREb_ehbL35FsGLc	UCoJ-qmx4UESLs-0i8Q2fHbw
-453	Stronger	Moxura & Dj Goja	Stronger	INDIFFERENT	3:03	x4S8TGNwSto	MPREb_HmF3JG4Brqe	
+453	Stronger	Moxura	Stronger	INDIFFERENT	3:03	QZLtuHrWMEw	MPREb_cgjys8aDjy3	UCNDwPYJ85aPZnDW0X0XY3BA
 49	Nothing 2 Lose	Moonlight	Nothing 2 Lose	INDIFFERENT	2:53	2pUu9PF0Iq8	MPREb_ZkWU6ywUzK9	UCVU786cedW--wePpP9-37yA
 315	My Time (Anthony Keyrouz Remix)	Monoir feat. Dara	My Time	INDIFFERENT	3:08	8dkkVpAXhXM	MPREb_X3BwEN9KUKj	UCX0KYcq_GdT5l5uduP5hdBw
 277	Freeze (Robert Cristian Remix Radio)	Monoir feat. Alina Eremia	Freeze	INDIFFERENT	3:41	Nx1m2wB1U9Y	MPREb_Ggk3XpGI5lS	UCX0KYcq_GdT5l5uduP5hdBw
@@ -203,10 +204,10 @@
 122	Diamonds (feat. Zapolya)	Matvey Emerson	Diamonds	INDIFFERENT	2:29	wFjgbS-JA7U	MPREb_kBXJV0sngGc	UCcNzxi-XOVBXvpzalWsGwGw
 443	Ombres	Matvey Emerson	Ombres	INDIFFERENT	2:27	zaHFZdhvtUA	MPREb_P8RZcMtHuvw	UCcNzxi-XOVBXvpzalWsGwGw
 117	Bad Ones (feat. Tegan and Sara)	Matthew Dear	Bunny	INDIFFERENT	4:33	ybm1kV7E53c	MPREb_hD9BFvG5z7X	UCwrOfciTBb4zSninHNwQ-6Q
-364	Rain (feat. Danny Losito)	Matteo Bruscagin	Rain Before Sunset	INDIFFERENT	5:19	YHZdNFamxM4	MPREb_4cEUks1mHGw	UCs6pW_4xwZYz_0gOYkKEGjQ
+364	Rain	Matteo Bruscagin	Rain Before Sunset EP	INDIFFERENT	5:19	Rywoww1tFCY	MPREb_NS5DkpywFlg	UCs6pW_4xwZYz_0gOYkKEGjQ
 250	Wonder (Extended Mix)	Matt Fax	Torn / Wonder	INDIFFERENT	5:54	eGtwL4kbbf8	MPREb_PpsFD9jMkBZ	UCftCaRtTg6BFne6L8o2XKSw
 338	Always You (Deeparture Extended Remix) (feat. LEVV)	Matt Fax	Always You (Deeparture Remix)	INDIFFERENT	6:54	bhTZl8QyxV4	MPREb_uGFzducv5Kn	UCftCaRtTg6BFne6L8o2XKSw
-157	Feel Me	Massy & Efemero	Feel Me	INDIFFERENT	2:50	0C1N_Gs0Xjs	MPREb_4QOJkkLPtKA	UCwivWEargnWYjunQgY42TMg
+157	Feel Me	Massy	Feel Me	INDIFFERENT	2:48	1Nkt0G4VShs	MPREb_uC16ybg1p5N	UCeAZpwzbt-yJR_apQuRGwhA
 374	Maserati Syndrom	Martin Waslewski	Maserati Syndrom	INDIFFERENT	6:59	ayy6xUDr-LY	MPREb_PuKxvRoOmKk	UCwZvx-y--hPpV-O7pZ4tcog
 28	Places (feat. Ina Wroldsen)	Martin Solveig	Places	INDIFFERENT	3:23	53Goox2eol4	MPREb_7serWYvdwCa	UCjpkuMyaB3JuLFm2Vc851hw
 311	Beautiful Life	Martin Roth	Beautiful Life / Make Love To Me Baby	INDIFFERENT	8:14	ZTmdZp7nUaA	MPREb_rNFMj1CzIiK	UCIr-Uihz7OnUpRAnK_c8qFw
@@ -247,13 +248,13 @@
 305	Fuck I'm Lonely	Lone Tusker	Fuck I'm Lonely	INDIFFERENT	3:03	gs0Xc5Mt0ec	MPREb_e0zXhEP4HJG	UChjCCR-seQDKuvQfXpHT2bg
 384	Don’t Need Words	Lone Tusker	Don’t Need Words	INDIFFERENT	2:45	Uqi5Lia-6tc	MPREb_WJDL0CbIhBK	UChjCCR-seQDKuvQfXpHT2bg
 433	Cimmerian (Extended Mix)	Lipless & Blue Noir	Wishing Well / Cimmerian	INDIFFERENT	4:37	nC4NLEbSkrE	MPREb_b9KdzFt4hP3	
-341	As It Seems	Lily Kershaw	Criminal Minds Collection	INDIFFERENT	3:01	FtZscloQBKE	MPREb_usTi4i35SHH	UCZwcqE82VI4_j9v3OfxYhAQ
+341	As It Seems	Lily Kershaw	Midnight In The Garden	INDIFFERENT	3:04	Vzay8UZmFYM	MPREb_p7G3NoH3q81	UCZwcqE82VI4_j9v3OfxYhAQ
 57	Brave (Extended Mix)	Light Below	Brave	INDIFFERENT	4:06	x35HVLVCIqk	MPREb_n6URvmFYINk	UCz6hnoMi4o56t20dWBtHaMA
 64	Someone You Loved (Madism Radio Mix)	Lewis Capaldi	Someone You Loved (Madism Radio Mix)	INDIFFERENT	2:38	FHPqjhxb8eQ	MPREb_tHkWNrOe9VY	UCxrxwFTBU3DTJ9Y5TKeW7KA
 158	On My Side	Lenazo	In Love	INDIFFERENT	3:23	s3LbewtyuFk	MPREb_hmCzzmSxcKk	
 296	Rarri (feat. Thomas Johnson)	Leeyou & Danceey	Rarri (feat. Thomas Johnson)	INDIFFERENT	3:36	J6bTNI-Nxb0	MPREb_dCzsgmPyf2L	UCtfudH2zYl3JvLDevDfQ_Qg
 316	Chasing Fire (Robin Schulz Remix)	Lauv	I met you when I was 18. (the extras)	INDIFFERENT	3:38	wtq7WYtDCL4	MPREb_t32rFadGcuU	UCWjoDY2SXJ5dvcdunWI6mjQ
-65	Labyrinth	Lauren Mia	Colours	INDIFFERENT	8:35	c924OU2rACc	MPREb_Ilszr8AvE0r	UCcKy_rjcMqaF_Y7m5ZlznhQ
+65	Labyrinth	Lauren Mia	Colours	INDIFFERENT	8:35	QCzp4cdS58E	MPREb_EzW1KnJqI6k	UCcKy_rjcMqaF_Y7m5ZlznhQ
 392	No Time	Lastlings	First Contact	INDIFFERENT	3:57	Nt52VG395rc	MPREb_b7B0xaYNm3T	UCbKbRL62D7ieCYxW83nF6Sw
 109	Open Ocean	Lanna	Open Ocean	INDIFFERENT	2:54	XeA7JeWuCv8	MPREb_OzhZM4Ls4Zl	UCTvH4fMpE3okMUQgH_8UsWA
 46	No Captain (Anderholm Remix) (feat. POLIÇA)	Lane 8	Little by Little Remixed	INDIFFERENT	6:18	BQG-9pX1jkU	MPREb_Ma28sHwOiYq	UCqjupXgFQVmnpYo-sJ47dHg
@@ -272,7 +273,6 @@
 130	Blanket (feat. Kayla Diamond)	Kiso	Blanket	INDIFFERENT	3:00	WbpKfgaz71g	MPREb_RVRft0fDAAp	UCxD_An9eDI7iIQPPLuOr6Kg
 175	Another Friend	Kiso	Another Friend	INDIFFERENT	2:53	oaN0Wv9ocis	MPREb_HPrbB9dCoC3	UC9nudrwfrriVTpvvGZxFS7Q
 67	Thin Lines	Kidnap	Thin Lines	INDIFFERENT	3:34	W1F1bC44MeY	MPREb_m9WB0MPHS77	UCYVTaaw5ApmMpiUKbNbbXEA
-82	Animaux	Kidnap	So Close	INDIFFERENT	3:09	UiV4xTDRwlM	MPREb_5KhI0atQWlx	UCYVTaaw5ApmMpiUKbNbbXEA
 142	Hyrde	Khaen	The Hermit	INDIFFERENT	6:42	zb6SOvPR3zc	MPREb_gVs79FApkSf	UCU-IAl3bCw-eFlSPJ7MmmHA
 397	In My Grasp (Extended Mix)	Khaen	In My Grasp	INDIFFERENT	5:40	Mw4aH8THYEM	MPREb_dTrm6zcTeLC	UCU-IAl3bCw-eFlSPJ7MmmHA
 345	Call You Home (Faul & Wad Ad Remix)	Kelvin Jones	Call You Home	INDIFFERENT	4:32	KAtzYeCR9eE	MPREb_uUsa4tvUhb5	UCTWA2XV591fHc2vQ3dbNpfw
@@ -282,6 +282,8 @@
 326	Dolce & Gabbana	Kaan Pars	Dolce & Gabbana	INDIFFERENT	2:37	BxFVdh1JgtI	MPREb_fAxQru4A48Z	UC8wOervvjzuDQQ9l2Rekr_w
 144	Alone	Kaan Kaya	Alone	INDIFFERENT	2:14	AK18a61dweA	MPREb_9xJT6C366KJ	UCF2Ns-MERdpWw0V7ytcQIDw
 286	Taped Up Heart (VIP Mix) (feat. Clara Mae)	KREAM	Taped Up Heart (VIP Mix)	INDIFFERENT	3:30	GEtjlinbzBc	MPREb_zLXzm9pdeYO	UCfeML9fTPGi0rK_MN1Xk0Cw
+59	Hide	KARAAL	Hide	INDIFFERENT	3:27	HiPtIyJdH6Q	MPREb_53aMNKDyZ3P	UCCMCpTsUI0HBuy20dI1lbVg
+275	Illusion	KARAAL	Hide	INDIFFERENT	4:09	XRxE7bDhoMM	MPREb_53aMNKDyZ3P	UCCMCpTsUI0HBuy20dI1lbVg
 88	Stay The Night	Just Kiddin	Stay The Night	INDIFFERENT	2:47	LR4gNyNpYtE	MPREb_jKgYf8y6vBp	UCgiQa9GaNm-rTrgs6J_nbZw
 140	Paloma (Bit Funk Remix)	Just Kiddin	Wildlife	INDIFFERENT	5:30	Etzi7XYdo1k	MPREb_fSCyPyQipFC	UCgiQa9GaNm-rTrgs6J_nbZw
 21	Take Me With You	Juliet Ariel	Take Me With You	INDIFFERENT	3:07	7L4eFq8SN1I	MPREb_LcqsVZqR9aM	UC81VQgNOk7DJYqgT_1wnMcQ
@@ -299,7 +301,6 @@
 239	We Are Diamonds (feat. MPH)	Jack Wins	We Are Diamonds	INDIFFERENT	2:45	DaEwOGsjmqw	MPREb_BOlbC0PRU6N	UCmhYSsTeRzY9eAPTKgf7Fgw
 1	Latin Moon	JYYE	Latin Moon	INDIFFERENT	3:42	h-xCEuPJ95U	MPREb_o2fcjQpZuIV	UCkMiE1SEOLi4OxJBcOrpvAQ
 22	White Lies (feat. Julia Temos)	JYYE	White Lies (feat. Julia Temos)	INDIFFERENT	2:54	gLZ2DJOwLus	MPREb_Ea503it0BWo	UCkMiE1SEOLi4OxJBcOrpvAQ
-264	Almost Home (Sons of Maria Remix)	Iro		INDIFFERENT	3:29	1U4PteWEFcs		UCXIApt0sH9-wAYk9-CiRe6g
 269	Need To Stay (Cyantist Remix)	In-DikA	Need To Stay	INDIFFERENT	6:59	czLAM9ueUbk	MPREb_EPl01lvuZkW	UCH8lAsNRLe1HA-vps0Ggphw
 356	Green Light	Imad, Jad Alexander & November Lights	Green Light	INDIFFERENT	2:39	BOEXitcynXc	MPREb_6kSjlOGxfeP	UCQhlH3ov0ZtG829Wk4_l6kQ
 98	Begging (LEEX Extended Remix)	Iggy	Begging	INDIFFERENT	5:02	LL_EsI3soAM	MPREb_3dCXa9CYwOf	UC5ugXUVQbGkZnfHfavlv8wg
@@ -320,6 +321,7 @@
 448	Starman (David Broaders Chilled Edit)	Gregory Esayan	Where Horizon Sparks	INDIFFERENT	4:55	4s6zyE_8NZ8	MPREb_KnDQXx6gLbC	UCdoj66-SvIPOZAgssOsPEiQ
 436	Find My Way (Mathieu Koss Edit)	Graham Candy	Find My Way (Mathieu Koss Edit)	INDIFFERENT	2:43	alIqr79QAlA	MPREb_JOAnmlpI8qN	UCbBJBnZuNAHdTcV-oJDfFWg
 92	Last Christmas (feat. Annábla)	Gorgon Breath	Last Christmas	INDIFFERENT	2:59	myweipPt4m0	MPREb_2J9Qxy44tjM	UCoN9OFjPZTi4P7tgBMsHdqA
+291	Hold Your Kite (feat. Sorana)	GoldFish		INDIFFERENT	3:01	RJ-2Hn8aC78		UCWgCoZAMSmQ4hw6lOO5J5vA
 473	Without You	Going Deeper & Noah Ayrton	Without You	INDIFFERENT	2:58	DDDODjR4AhQ	MPREb_tgtI8KMjOHh	
 327	Emergency	Going Deeper	Emergency	INDIFFERENT	2:43	MDGX7Zvpqtc	MPREb_tfI93XihLB2	UCIjB16DaZ6A6o9kOxCJLO-g
 463	Let Me Down Slowly	Going Deeper	Let Me Down Slowly	INDIFFERENT	2:29	AliMSjFEcJE	MPREb_97Uli2O9FlL	UCIjB16DaZ6A6o9kOxCJLO-g
@@ -360,11 +362,11 @@
 138	Ghost (Oliver Nelson Remix)	Ella Henderson	Ghost (Remixes)	INDIFFERENT	5:05	ZzDioFGRTRE	MPREb_pKaMXIOpRnX	UCWN8EUD00PTyo5QQ5ueRr-A
 398	Fuse (Jan Blomqvist Extended Remix)	Eli & Fur	Fuse	INDIFFERENT	5:09	KwHTD9oaX_I	MPREb_YvSuG5DCol5	UCq_W46vY3v51m-wGqKh29PQ
 20	Body	Elderbrook	Body	INDIFFERENT	2:44	G6ypHmgBBjM	MPREb_XXZ9J61zNbd	UClWkDlikoBvhfQMC0b2niUQ
-202	Summer Rain	Efemero & Massy	Summer Rain	INDIFFERENT	3:29	7-NqUsPsPps	MPREb_iZxMb2ZWZey	UCZ7kzIeCjNcEzfR8GYY7ydg
-445	Tortura	Efemero & George Dice	Tortura	INDIFFERENT	3:28	7yhFUQws-oQ	MPREb_flZFDRpR7fL	UCNDCzOxuq4t8fOFM1QynL8A
-274	Leyla	Efemero & Dj Goja	Leyla	INDIFFERENT	3:18	AXdQ-vAVdTE	MPREb_QCYQf36E4Vf	UC1MrfAN1EQ_t5YrHYIqa9Kg
 200	Maria	Efemero	Maria	INDIFFERENT	3:16	Iae_7TqGc90	MPREb_fhBmOR6vEBQ	UC1MrfAN1EQ_t5YrHYIqa9Kg
+202	Summer Rain	Efemero	Summer Rain	INDIFFERENT	3:29	82JbXEZApeg	MPREb_MJCnorSo4gp	UC1MrfAN1EQ_t5YrHYIqa9Kg
+274	Leyla	Efemero	Leyla	INDIFFERENT	3:16	Q4bOasdCmXw	MPREb_oQK8IZfqz4G	UC1MrfAN1EQ_t5YrHYIqa9Kg
 303	Dubai	Efemero	Dubai	INDIFFERENT	3:35	2VU7G6dAx18	MPREb_bL4zhNZ6EFv	UC1MrfAN1EQ_t5YrHYIqa9Kg
+445	Tortura	Efemero	Tortura	INDIFFERENT	3:29	Gg3xo1v9rrs	MPREb_IhVNvpHpXro	UC1MrfAN1EQ_t5YrHYIqa9Kg
 363	Underwater Breathtaking (Innellea Remix)	Edu Imbernon	Underwater Breathtaking (Innellea Remix)	INDIFFERENT	7:05	fTAQaHdoxz4	MPREb_lcO1mapwdpn	UChV8KZQ11J8OtNKbDeTLYKA
 36	Losing My Heart	Edmofo	Losing My Heart	INDIFFERENT	4:08	LFk9PEO7veA	MPREb_wC1LGusW9dD	UCJYrUVyeC1_4W-6-nzt5v3g
 390	Happier (Tiësto’s AFTR:HRS Remix)	Ed Sheeran	Happier (Tiësto’s AFTR:HRS Remix)	INDIFFERENT	3:36	rRn-XCT1oFc	MPREb_QhaA3O3dTQJ	UClmXPfaYhXOYsNn_QUyheWQ
@@ -378,10 +380,6 @@
 73	Higher	Dj Vianu	Higher	INDIFFERENT	4:20	sBVb3S3OT8w	MPREb_h0FE5RlQHcg	UCjWbRFTXmgAUUwl9IDVq-Eg
 396	Stuck in My Brain	Dj Vianu	Stuck in My Brain	INDIFFERENT	4:08	FNt7wtrVcac	MPREb_4FIAmSXEcLp	UCjWbRFTXmgAUUwl9IDVq-Eg
 450	Your Love	Dj Vianu	Your Love	INDIFFERENT	3:13	l5FnAUNA-wE	MPREb_G2wEVDz76lw	UCjWbRFTXmgAUUwl9IDVq-Eg
-171	Human	Dj Goja & Vanessa Campagna	Human	INDIFFERENT	3:07	hFHFt-vtLak	MPREb_NvZlDW4dSZd	UCdWyN9e-_yd5bPk1r9VRTEA
-429	Mystery Girl	Dj Goja & Triplo Max	Mystery Girl	INDIFFERENT	2:55	FdFu1SFJBkA	MPREb_GHytiOMz2MP	
-444	I Don't Need Your Love	Dj Goja & March and June	I Don't Need Your Love	INDIFFERENT	2:14	tfV4uxquxVY	MPREb_gOJnySDg0zJ	
-431	Enigma	Dj Goja & Mannequin	Enigma	INDIFFERENT	3:25	zlzApWuHoCI	MPREb_WGBRThj3Bgg	UCMVLSkKm1D0mDd0bivD30mw
 184	Vogue	DiscoVer.	Vogue	INDIFFERENT	6:31	B2btxD48rUc	MPREb_vFo7QkB3pyk	UCK1WajlpjUInQQ0LjTMhYpg
 258	48HRS (Extended)	Disciples	48HRS	INDIFFERENT	5:12	x2uiUK9zh4g	MPREb_8Mhen7VQQfC	UCTuGvNt3an5TOvYUk87K39g
 216	Falling In Love	Dennis Kruissen	Falling In Love	INDIFFERENT	2:56	H8OeleAAVjA	MPREb_toZ3QDsMPMb	UCXCZkQzf1xUKU6MnRKAvYjw
@@ -402,7 +400,11 @@
 466	In My Life	DJ JEDY	In My Life	INDIFFERENT	2:45	zbxCjcoF9_s	MPREb_1fAObTPCsES	UCGiLUqbvjmv2X4H9tIfqaNw
 86	Galaxy	DJ Goja	Galaxy	INDIFFERENT	2:23	0Tl1u8xZi30	MPREb_bLoBOFmHz3d	UClvE3HCbkSbtMCyD33DI-4A
 121	Complicated	DJ Goja	Complicated	INDIFFERENT	3:02	MH-Qs0rNYIE	MPREb_QLtOAQwbS4o	UClvE3HCbkSbtMCyD33DI-4A
+171	Human	DJ Goja	Human	INDIFFERENT	3:07	pyyjwGjCk8k	MPREb_gheRUdNPfhm	UClvE3HCbkSbtMCyD33DI-4A
 243	Siempre Me Quedara	DJ Goja	Siempre Me Quedara	INDIFFERENT	3:18	3sSn-gKQG5o	MPREb_F7mHjeu8RXb	UClvE3HCbkSbtMCyD33DI-4A
+429	Mystery Girl	DJ Goja	Mystery Girl	INDIFFERENT	2:55	O5wzX16d3B8	MPREb_EfnLUvLcGFs	UClvE3HCbkSbtMCyD33DI-4A
+431	Enigma	DJ Goja	Enigma	INDIFFERENT	3:26	A-Ih8Js0Zqc	MPREb_vsK9aaPsI9j	UClvE3HCbkSbtMCyD33DI-4A
+444	I Don't Need Your Love	DJ Goja	I Don't Need Your Love	INDIFFERENT	2:14	-qjijtDHX4Y	MPREb_LveyxxJnwKM	UClvE3HCbkSbtMCyD33DI-4A
 449	Addicted	DJ Goja	Addicted	INDIFFERENT	2:31	4wpzyzAy9MA	MPREb_owWWE5NxoBn	UClvE3HCbkSbtMCyD33DI-4A
 61	Romantic Dance (feat. Murana)	DJ DimixeR	Romantic Dance	INDIFFERENT	3:08	DXtR5TAcAPQ	MPREb_0NpIp6uAQaP	UC7HpzkPFR9ta_1-K00XfQ0w
 452	Falling	DJ Antonio	Falling	INDIFFERENT	2:18	bAakrpgwV4Y	MPREb_3PVL8BOMF4I	UCxPgABoAKSrKnLybxpByvfw
@@ -419,7 +421,7 @@
 376	Need to Know [Tep No Edit] (Tep No Edit) (feat. Toian & Tep No)	Cashae	Need to Know [Tep No Edit]	INDIFFERENT	3:05	H7AJYdcbwZ8	MPREb_52gkDUM3z3E	UCuqehPSFpnFrYFTiLwBZPAw
 115	Sunset (feat. Emre Yazgın & Dilara Ferit)	Can Sezgin	Sunset	INDIFFERENT	3:32	BtAVomLzTZQ	MPREb_xKIiDft0yi3	UCl9AIAkdmcqJ3GO2tZD3HSg
 347	How Deep Is Your Love (Disciples & Unorthodox Remix)	Calvin Harris	How Deep Is Your Love (Remixes)	INDIFFERENT	6:05	bLeLs7MxQMA	MPREb_3BHbN9iUMFk	UCZ0Aezmtk-S2l8A9Ln-2lKw
-385	Giant (Robin Schulz Remix)	Calvin Harris	Giant (Remixes)	INDIFFERENT	3:14	9_ZdccX1NXU	MPREb_uqBukWUths6	UCZ0Aezmtk-S2l8A9Ln-2lKw
+385	Giant (Robin Schulz Remix)	Calvin Harris	Giant (Remixes)	INDIFFERENT	3:14	d7uYmqDgOvQ	MPREb_hDZRSzkQhZ9	UCZ0Aezmtk-S2l8A9Ln-2lKw
 270	Pauvre Diable	CISKA	Pauvre Diable	INDIFFERENT	2:40	AAYbuVKhZJI	MPREb_CJMsEzY5TVv	UCv13nWspDL7Hr9A-8jhNn2Q
 95	Clearest Blue (Gryffin Remix)	CHVRCHES	Every Open Eye (Extended Edition)	INDIFFERENT	4:20	lilYF6DZvnY	MPREb_Im4pb6F46wP	UCvInFYiyeAJOGEjhqJnyaMA
 0	Say Goodbye (Bonzana Remix) (feat. Ojax)	CAMI	Say Goodbye (The Remixes)	INDIFFERENT	4:06	cYX0LejyNt4	MPREb_L4R6tvMB78M	UCPOUQL9Lrc-4LS0uahzFs-Q
@@ -450,7 +452,7 @@
 468	Sideways	Anthony Keyrouz	Sideways	INDIFFERENT	2:16	EjHvDp5gYCU	MPREb_X0FTwQjmYn0	UCVW-8SRsAerBoibDI6qT1jw
 424	Fallin (Giorgia Angiuli & SQU4RE Remix)	Ann Clue	Fallin	INDIFFERENT	8:54	evpPNhrurNM	MPREb_fw5thFNHUs7	UCoGLQgPTZbQvE4VrJPeMLLg
 416	Soul Insurance	Angie Stone	Mahogany Soul	INDIFFERENT	5:01	52csWZoh4G0	MPREb_4vb33yPRxrE	UCJq1NM2cDCqMl2nLoa-B-Ng
-419	Salza	Angelov	Versaro - Ep	INDIFFERENT	8:51	AW_6pCoJJMQ	MPREb_mO6MTVkRnnI	UCmW4IVaCtd9I7_U7yfjI1DQ
+419	Salza	Angelov	Versaro EP	INDIFFERENT	8:51	_9CKu7viwbs	MPREb_036agQM2vwV	UCmW4IVaCtd9I7_U7yfjI1DQ
 337	Nouveau (Eleven Fly Remix)	Andrew Benson	Colorize 100: Part 3	INDIFFERENT	6:03	AEBkHhYqMfw	MPREb_PnPFjEK20er	UC7B3cDWEnfLe5wJub0xBgIg
 403	Hey There Delilah (Madism Remix)	Andrelli	Hey There Delilah (Madism Remix)	INDIFFERENT	2:37	0N0bRKodQHE	MPREb_pU9b2CPY5qS	UCt_k-awJXdwy2E-XPqDdmUw
 281	Projections. Pt. 2 (Extended Mix)	Anden	Projections. Pt. 2	INDIFFERENT	6:10	4t7TDHglw2I	MPREb_28yGViDv8ZR	UCkyd4jBylX6N_APlN_Y0vLA
@@ -471,5 +473,3 @@
 56	Panaji	AKA AKA	Panaji	INDIFFERENT	6:21	PMIJoOZOFqA	MPREb_mWBYBdSdwnC	UCbTJdJeclVIBEisZifTi62g
 40	Snooze 4 Love	Todd Terje	Snooze 4 Love			X2ncyDOSBP4		
 472	Gone (Extended)	Pascal Junior	Gone			TxxM2uMAjPw		
-59	Hide	KARAAL	Hide			ksgVjFvGOmw		
-275	Illusion	KARAAL	Hide			05d4p0GzQKI		

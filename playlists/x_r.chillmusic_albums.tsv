@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 1	Fuji	Vanilla	Origin	LIKE	5:35	aiadDoTzK0c	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
+68	Footsteps	Vanilla	Origin	LIKE	3:38	XO3siK0mCE4	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 2	A Walk	Tycho	Dive	LIKE	5:16	SDNA934EEVk	MPREb_rObD1Zo91l6	UC6M6DgivBo3VHTYDa9BblqQ
 3	Hours	Tycho	Dive	LIKE	5:44	O5V_dsueGxU	MPREb_rObD1Zo91l6	UC6M6DgivBo3VHTYDa9BblqQ
 4	Dive	Tycho	Dive	LIKE	8:19	PAdgyqtMoJ8	MPREb_rObD1Zo91l6	UC6M6DgivBo3VHTYDa9BblqQ
@@ -15,7 +16,12 @@
 12	Liberation Front	Thievery Corporation	The Richest Man In Babylon	LIKE	5:05	d8oEr--bp4w	MPREb_exAg2pWBnRQ	UCqx8axYJOduerya_chK-8Ag
 13	The State Of The Union	Thievery Corporation	The Richest Man In Babylon	LIKE	4:29	ptXHbFn0YXc	MPREb_exAg2pWBnRQ	UCqx8axYJOduerya_chK-8Ag
 15	Resolution	Thievery Corporation	The Richest Man In Babylon	LIKE	4:47	lua3fG4TQ8I	MPREb_exAg2pWBnRQ	UCqx8axYJOduerya_chK-8Ag
-0	It Could Happen To You	Ryo Fukui	SCENERY	LIKE	4:17	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+0	It Could Happen to You	Ryo Fukui	Scenery	LIKE	4:16	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+59	I Want to Talk About You	Ryo Fukui	Scenery	LIKE	6:32	-T5jjfZtP5g	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+60	Early Summer	Ryo Fukui	Scenery	LIKE	10:44	F5EFsUU7RRA	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+61	Willow Weep for Me	Ryo Fukui	Scenery	LIKE	7:43	WiUzmWbDIFw	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+62	Autumn Leaves	Ryo Fukui	Scenery	LIKE	6:31	XaAiNL-YJIs	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+63	Scenery	Ryo Fukui	Scenery	LIKE	5:31	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 16	Feather (feat. Cise Starr & Akin)	Nujabes	Kei Nishikori meets Nujabes	LIKE	2:56	HI3YZ6-hDME	MPREb_R3ry01PadLu	UCxQQET-tQsC4cwzLow9ZsuQ
 17	reflection eternal	Nujabes	Kei Nishikori meets Nujabes	LIKE	4:21	0n7iUJL-Eiw	MPREb_R3ry01PadLu	UCxQQET-tQsC4cwzLow9ZsuQ
 18	Luv (sic.) pt3 (feat. Shing02)	Nujabes	Kei Nishikori meets Nujabes	LIKE	6:15	Rh6C_lUY42c	MPREb_R3ry01PadLu	UCxQQET-tQsC4cwzLow9ZsuQ
@@ -49,6 +55,7 @@
 143	Ghost Town	DJ Shadow	The Mountain Will Fall	LIKE	3:52	k4G9lusRI5c	MPREb_ZOtp1Svx5iX	UCtTuSKgCdeTyxBGPCD3TgxQ
 44	Klymaxx	Com Truise	In Decay	LIKE	4:23	shvTwms3Fio	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
 45	Data Kiss	Com Truise	In Decay	LIKE	4:07	nLXRnepR8GM	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
+148	Dreambender	Com Truise	In Decay	LIKE	4:19	sPV0g2R-kp8	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
 46	Twin Peaks Theme (Instrumental)	Angelo Badalamenti	Soundtrack From Twin Peaks	LIKE	5:11	Z30zg9a5M5k	MPREb_A83lOZic22r	UC7ygKpFFov9EnbZQq3SqRCA
 47	Laura Palmer's Theme (Instrumental)	Angelo Badalamenti	Soundtrack From Twin Peaks	LIKE	4:52	woUt7wPe8Ow	MPREb_A83lOZic22r	UC7ygKpFFov9EnbZQq3SqRCA
 48	The Bookhouse Boys (Instrumental)	Angelo Badalamenti	Soundtrack From Twin Peaks	LIKE	3:30	rQrVeoiebWs	MPREb_A83lOZic22r	UC7ygKpFFov9EnbZQq3SqRCA
@@ -60,7 +67,7 @@
 53	All I Need (feat. Beth Hirsch)	Air	Moon Safari	LIKE	4:29	eUCVzV5Yy0s	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
 54	Kelly Watch the Stars	Air	Moon Safari	LIKE	3:47	vEpLtDByZTQ	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
 55	Remember	Air	Moon Safari	LIKE	2:35	JqMdhEy4hG8	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
-56	"Ce matin-là (From ""L'uomo in più"")"	Air	Moon Safari	LIKE	3:41	lgbVej8ANII	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
+56	Ce matin-là	Air	Moon Safari	LIKE	3:40	lgbVej8ANII	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
 57	New Star in the Sky	Air	Moon Safari	LIKE	5:41	H7x3cbHa_Hk	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
 58	Le voyage de Pénélope	Air	Moon Safari	LIKE	3:11	e0JOSjzuX5g	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
 186	Sexy Boy	Air	Moon Safari	LIKE	4:59	HJZb15TqVjs	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
@@ -68,7 +75,6 @@
 65	Dreamcatcher	Vanilla	Origin	INDIFFERENT	4:14	2aECMeYd8RM	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 66	Arrow	Vanilla	Origin	INDIFFERENT	3:28	sXYIJnFIv7Q	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 67	Nana	Vanilla	Origin	INDIFFERENT	3:25	ev17AwO_IUE	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
-68	Footsteps	Vanilla	Origin	INDIFFERENT	3:38	XO3siK0mCE4	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 69	All in My Mind	Vanilla	Origin	INDIFFERENT	3:58	egG08q3t1qo	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 70	Golden	Vanilla	Origin	INDIFFERENT	3:51	0bGiNcKwQ4U	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 71	Summer	Vanilla	Origin	INDIFFERENT	4:41	8CDXBHpvC04	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
@@ -107,11 +113,6 @@
 88	Omid	Thievery Corporation	The Richest Man In Babylon	INDIFFERENT	3:49	L-XC3saqx-4	MPREb_exAg2pWBnRQ	UCqx8axYJOduerya_chK-8Ag
 89	Un Simple Histoire	Thievery Corporation	The Richest Man In Babylon	INDIFFERENT	3:46	LCauQutB7Us	MPREb_exAg2pWBnRQ	UCqx8axYJOduerya_chK-8Ag
 90	Exilio	Thievery Corporation	The Richest Man In Babylon	INDIFFERENT	3:03	rIjIv9lltn8	MPREb_exAg2pWBnRQ	UCqx8axYJOduerya_chK-8Ag
-59	I Want To Talk About You	Ryo Fukui	SCENERY	INDIFFERENT	6:33	-T5jjfZtP5g	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-60	Early Summer	Ryo Fukui	SCENERY	INDIFFERENT	10:45	F5EFsUU7RRA	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-61	Willow Weep For Me	Ryo Fukui	SCENERY	INDIFFERENT	7:44	WiUzmWbDIFw	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-62	Autumn Leaves	Ryo Fukui	SCENERY	INDIFFERENT	6:32	XaAiNL-YJIs	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-63	Scenery	Ryo Fukui	SCENERY	INDIFFERENT	5:32	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 91	Ordinary Joe (feat. Terry Callier)	Nujabes	Modal Soul	INDIFFERENT	5:09	pKHbgyNb9PM	MPREb_jsHyTISZ9XL	UCxQQET-tQsC4cwzLow9ZsuQ
 92	Music is Mine	Nujabes	Modal Soul	INDIFFERENT	4:21	d1TuAtxF0Lo	MPREb_jsHyTISZ9XL	UCxQQET-tQsC4cwzLow9ZsuQ
 93	The Sign (feat. Pase Rock)	Nujabes	Modal Soul	INDIFFERENT	4:50	Ra1z1FwUr4U	MPREb_jsHyTISZ9XL	UCxQQET-tQsC4cwzLow9ZsuQ
@@ -183,7 +184,6 @@
 145	Swerve (Bonus Track)	DJ Shadow	The Mountain Will Fall	INDIFFERENT	3:13	s0F95pSzsYI	MPREb_ZOtp1Svx5iX	UCtTuSKgCdeTyxBGPCD3TgxQ
 146	Open	Com Truise	In Decay	INDIFFERENT	4:11	OcBudrf5_yk	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
 147	84' Dreamin	Com Truise	In Decay	INDIFFERENT	3:39	hCv6GX5_OSY	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
-148	Dreambender	Com Truise	In Decay	INDIFFERENT	4:19	sPV0g2R-kp8	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
 149	Controlpop	Com Truise	In Decay	INDIFFERENT	5:03	2SdoaDEJVuE	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
 150	Colorvision	Com Truise	In Decay	INDIFFERENT	4:03	lFHdOIuIkaA	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ
 151	Alfa Beach	Com Truise	In Decay	INDIFFERENT	4:15	0PpxUAZsJtE	MPREb_xQiVi5QKB47	UC3G1cV92stSGOy4cLgXmgJQ

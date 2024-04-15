@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-83	Apologies to Pearly	ZZ Top	Rio Grande Mud	LIKE	2:40	yBl8XUnDdPg	MPREb_nOYpjM1PS28	UC_Us2Zqt4ovGtdXKmws60mw
 70	Glad	Traffic	John Barleycorn Must Die Deluxe Edition	LIKE	7:00	c1MVl2VWjE8	MPREb_sfxOaGwEWbM	UCFh-Yyaep1Gl5c0O1JTvEBQ
 67	Viscount Rock	The Viscounts	Harlem Nocturne	LIKE	2:30	avZOnJu-L28	MPREb_3lK1UVVX2GI	UCqH9KbZvBW5Q3555lzRkr7Q
 103	Chug a Lug	The Viscounts	Harlem Nocturne	LIKE	2:27	qDL75PIUQag	MPREb_3lK1UVVX2GI	UCqH9KbZvBW5Q3555lzRkr7Q
@@ -68,7 +67,7 @@
 9	Bron-Yr-Aur (1993 Remaster)	Led Zeppelin	Physical Graffiti (1994 Remaster)	LIKE	2:07	QKge6Ay9O4E	MPREb_xUktGYKJd95	UCYtap7ujIPaxTS2iCDoMi3g
 72	Reveille Rock (feat. Johnny Paris)	Johnny and the Hurricanes	Stormsville	LIKE	2:25	ybdYVCVAejc	MPREb_jqhZpLkqpmd	UCKUUCw_gE50oh7nXtRpUg5g
 91	Red River Rock	Johnny and the Hurricanes	Red River Rock	LIKE	2:18	gOuQXckGkrc	MPREb_SNiLd8nYFnn	UCKUUCw_gE50oh7nXtRpUg5g
-22	Bourée	Jethro Tull	Stand Up	LIKE	3:47	jNB8WxiHarM	MPREb_zTH1ZCzPPsh	UC7sFWdsZTzfR507dbonTlyQ
+22	Bourée	Jethro Tull	Stand Up	LIKE	3:46	jNB8WxiHarM	MPREb_zTH1ZCzPPsh	UC7sFWdsZTzfR507dbonTlyQ
 14	Embryonic Journey	Jefferson Airplane	Surrealistic Pillow	LIKE	1:53	VPaTOBwx1Pc	MPREb_f0d0GYeJ4EM	UCGRlR1uXGOTqvEy0b06L7jw
 12	Cause We've Ended as Lovers	Jeff Beck	Blow By Blow	LIKE	5:42	xiOPvOBd8IA	MPREb_jT1i6yytIdA	UCDPMz5gHZt_TgS8JX7lS71w
 87	Freeway Jam	Jeff Beck	Blow By Blow	LIKE	4:59	u6jHlW414sQ	MPREb_jT1i6yytIdA	UCDPMz5gHZt_TgS8JX7lS71w
@@ -88,8 +87,8 @@
 26	The Lonesome Road	Dick Dale & His Del-Tones	King of the Surf Guitar	LIKE	3:18	3-cZ68UKk6Y	MPREb_ApteBBuLLFa	UCsIBLw01R85QwRft8D_ONgQ
 36	Shake 'n' Stomp	Dick Dale & His Del-Tones	Surfer's Choice	LIKE	2:11	LKYSgVfw1dY	MPREb_T3pAYznrfZE	UCsIBLw01R85QwRft8D_ONgQ
 38	Riders In the Sky	Dick Dale & His Del-Tones	King of the Surf Guitar	LIKE	2:20	n9ZWeN5gSOE	MPREb_ApteBBuLLFa	UCsIBLw01R85QwRft8D_ONgQ
-34	Let's Go Trippin'	Dick Dale	King of the Surf Guitar	LIKE	2:02	M6mMNzUSJzc	MPREb_n6ziLeTE1bq	UCsIBLw01R85QwRft8D_ONgQ
-20	Wring That Neck	Deep Purple	The Book Of Taliesyn	LIKE	5:14	5D3TCr2dDvc	MPREb_GlJEvHgwui0	UCoPZoa-KzZQRxspnRGZTx7A
+34	Let's Go Trippin'	Dick Dale	King of the Surf Guitar	LIKE	2:13	M6mMNzUSJzc	MPREb_n6ziLeTE1bq	UCsIBLw01R85QwRft8D_ONgQ
+20	Wring That Neck (1998 Remaster)	Deep Purple	The Book of Taliesyn	LIKE	5:14	5D3TCr2dDvc	MPREb_GlJEvHgwui0	UCoPZoa-KzZQRxspnRGZTx7A
 42	Untitled Instrumental	Chuck Berry	Have Mercy - His Complete Chess Recordings 1969 - 1974	LIKE	4:48	nb7nbo_soPI	MPREb_xeP80PIweGw	UCUfKmP9mv1yUkxlE5DDX5Zg
 106	Gun	Chuck Berry	Back Home	LIKE	2:46	Oh8deUIMY58	MPREb_NsFg9vzq9Hn	UCUfKmP9mv1yUkxlE5DDX5Zg
 66	Too Much Tequila	CHAMPS	Greatest Hits	LIKE	2:12	EU1RprNuNM4	MPREb_OwFSLM6hGvo	UCc47Uy2mCfkT1GoWT-Lp-3w
@@ -108,3 +107,4 @@
 107	Bumble Boogie (Rerecorded)	B. Bumble & The Stingers	Rockin' Instrumentals	LIKE	2:15	OOCR518B2rs	MPREb_OQ4WnPU7QZa	UCU4inq-YtKepzr_bNP1YUXg
 1	Pick Up the Pieces (Single Edit)	Average White Band	Hit Singles 1958-1977	LIKE	3:06	XBWT3SjpvcA	MPREb_s55QbC5okT9	UCN-nei8O1bNhTWh9J2wnBqw
 104	Let It Slide	Aerosmith	Pandora's Box	LIKE	2:54	rVf6kgESlwg	MPREb_xdTgH5ONh6S	UCYuinPfuhK_rSlrJXvZQrng
+83	Apologies to Pearly	ZZ Top	Rio Grande Mud	INDIFFERENT	2:40	DoRByQkwSj8	MPREb_kcEc90Gtq7W	UC_Us2Zqt4ovGtdXKmws60mw

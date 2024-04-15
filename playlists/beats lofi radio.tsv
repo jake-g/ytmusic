@@ -1,26 +1,749 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-7	Leafy	illiterate	Chillhop Essentials Spring 2021	INDIFFERENT	3:06	9OxuGrGDIyQ	MPREb_jyLKj0vbOsb	UCG12s40QV1eeNf3IOjP85yg
-15	Self Affray	fantompower	infinite (i)	INDIFFERENT	3:05	6kBrVaXHtOc	MPREb_iZQpddDLelM	UCVP1F5TF-aBurJkAdPMpW6g
-10	One Reason	dryhope	White Oak	INDIFFERENT	3:02	2vJbw512vjk	MPREb_srs7X3RtCBZ	UCKO-ulVj3J4UIPojdNbzkoA
-16	Finding You	dryhope	Chillhop Essentials Winter 2019	INDIFFERENT	2:54	iI_JBEAZ6Jc	MPREb_nuIjEr0QJVj	UCKO-ulVj3J4UIPojdNbzkoA
-5	Drop Top	Toonorth	Chillhop Essentials Spring 2018	INDIFFERENT	2:06	FTyoD3GR6ok	MPREb_GUU5YfwnXQU	UCF_6iylCppB8bwhnW3HmcRw
-19	Lost Love	Toonorth	Ambedo	INDIFFERENT	3:03	LzHQunj9osw	MPREb_GlZ6fI7V89Q	UCF_6iylCppB8bwhnW3HmcRw
-18	smoke in the room	Sweeps	Terminal 14	INDIFFERENT	2:03	VCOWIWo_wY4	MPREb_tckmrIMgyJQ	UCH-HWMp3np-eWfybK03BZ8g
-4	Green Valley Trail	Ruck P	Green Valley Trail	INDIFFERENT	2:44	B8pPIB54VXk	MPREb_uKxlSyOKWJS	UCdltCBFLglVYUCuyvMEk7BA
-23	Reflection	Purrple Cat	Distant Worlds	INDIFFERENT	3:12	BswAghW4930	MPREb_eDhz77sqc8X	UClhY3ayYTw_qd9AyY1aKqaA
-6	The End (feat. Fujitsu)	Philanthrope	Clockwork	INDIFFERENT	2:16	XPW6SvrG_sE	MPREb_xdsLhWCEc2a	UCiKzz-4FjwL037dNANU8oPA
-9	Blue (feat. DRWN.)	Philanthrope	Clockwork	INDIFFERENT	2:04	l0E9q7yJql0	MPREb_xdsLhWCEc2a	UCiKzz-4FjwL037dNANU8oPA
-21	Under Leaves	Mr. Käfer	On The Rhodes	INDIFFERENT	2:17	Cf9rHQZIZ3Q	MPREb_1PXPCNErNhQ	UC6DRjtamChY_60ZK9HK4gjg
-14	Blue Dawn	Mono:Massive	Chillhop Essentials Winter 2016	INDIFFERENT	2:59	ovk9D9yAZx4	MPREb_RYbYiloRlYS	UCrXXb_AAehV3VxV1UZfwgGg
-0	Dreams	Misha	Dreams	INDIFFERENT	3:09	tMdPBVJPyxc	MPREb_HWEMwjFeEuV	UC_SB5UbFWpV4bZHvfNauLvg
-11	Feel	Misha	Feel	INDIFFERENT	2:29	C2SS2iFIU5M	MPREb_svdQiB3if97	UC_SB5UbFWpV4bZHvfNauLvg
-2	Voyage	Leavv	Mind Garden	INDIFFERENT	2:20	-iWixXkor00	MPREb_foON6SdtMS9	UC7l9fvTjR75Ul_Zexmb5z-w
-3	Driftwood	Leavv	Chillhop Essentials Summer 2019	INDIFFERENT	2:44	MUQfQiJj3MM	MPREb_9UNCTFZa4Lk	UC7l9fvTjR75Ul_Zexmb5z-w
-24	Alone	Knowmadic & Shy Guy	chillhop beat tapes: Knowmadic [Side B]	INDIFFERENT	2:48	IxVb6udqGUk	MPREb_5AX6OmSoSg8	
-1	Brazil	Jussi Halme	Brazil	INDIFFERENT	4:16	l_680aEaaQE	MPREb_q7EnTOq6B9p	UCXfm4D4PFaUnGOe-hGH2ECg
-13	Long Grain Game	G Mills	Chillhop Essentials Winter 2022	INDIFFERENT	2:28	XvxBVhpT7wk	MPREb_uqYkAtoKDKw	UCPvhXbmroqQO2s10E2DUjHA
-8	Wavey	Dontcry	Chillhop Essentials Summer 2019	INDIFFERENT	2:40	PTxDVz_lMh8	MPREb_9UNCTFZa4Lk	UCaOl5RLn-GkqBZP_tPHHnxw
-17	Palm Parallels	Deeb	Chillhop Essentials Summer 2017	INDIFFERENT	4:03	-rnJ4gmbCh4	MPREb_YATiCFlCJtq	UCEetuO7aMehJpyvgb4jgytA
-12	Digital Sex	C Y G N	BODY N SOUL	INDIFFERENT	2:48	CHkR_PDTzjY	MPREb_1nojS6tfJc5	UCRV-lDbMnvsOFoTl-Qdnbwg
-20	Tony’s Belated Breakfast	Birocratic	Chillhop Essentials Summer 2016	INDIFFERENT	3:12	_vOvRhjNj-g	MPREb_avwwEmcsb1R	UCIoFLpoVip6U00Hy_yFYRug
-22	Handsome People	Birocratic	Chillhop Essentials Spring 2018	INDIFFERENT	2:54	OhklKO0-Y50	MPREb_GUU5YfwnXQU	UCIoFLpoVip6U00Hy_yFYRug
+737	Belle Bouteille	LAUSSE THE CAT	The Girl, the Cat and the Tree	LIKE	3:52	5NVYxxPDu-w	MPREb_DEdizOr0uFr	UCuLaP8yh3w56i3YgK6lSsew
+224	Red Light District	vhsgus	Red Light District	INDIFFERENT	2:33	WXKwLB1JFLU	MPREb_9PtPVoiMiaE	UCNMqYmPbz-mu1h4h93KSGHw
+227	Miles Away	vhsgus	Miles Away	INDIFFERENT	2:03	t92KEfUg38Q	MPREb_QkQSytMFuzm	UCNMqYmPbz-mu1h4h93KSGHw
+726	Atlantic.Wav	upper class	Atlantic.Wav	INDIFFERENT	2:18	YQJXmxcWQLo	MPREb_syYESMLpqIq	UC_1XPb4cBLQftmfUAlqqpbw
+719	MAKE LOVE	twuan	MAKE LOVE	INDIFFERENT	1:59	-VMebN5DKBo	MPREb_WEfS5MILqYV	UCfvFMGKlBAeYrmejPHQHXCg
+15	vix	timbert	timbert	INDIFFERENT	2:38	GZnd1Nyeehs	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+41	how can i bring you back (again)	timbert	swamp	INDIFFERENT	2:26	zQ5nD_1qybE	MPREb_T469qR1ysHN	UCZYh37Yk3_sq95KPi_NExOg
+42	all i can do is love you	timbert	timbert	INDIFFERENT	2:13	MA2X0jxYgI4	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+43	cool aid	timbert	timbert	INDIFFERENT	1:28	jJA-arFm_F8	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+44	4WD	timbert	timbert	INDIFFERENT	1:48	sLdSTCTZhq8	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+46	i've been pwned (do it all)	timbert	timbert	INDIFFERENT	2:02	RmMXoiSkBMM	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+48	verk	timbert	swamp	INDIFFERENT	2:34	siL3vegWfhw	MPREb_T469qR1ysHN	UCZYh37Yk3_sq95KPi_NExOg
+51	sampla	timbert	timbert	INDIFFERENT	2:09	0jl5Hi92hhs	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+61	repeat.repeat.repeat	timbert	timbert	INDIFFERENT	1:51	9W7rA2dsUKE	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+69	pardon	timbert	timbert	INDIFFERENT	2:00	OmAuxDRSjRc	MPREb_6Ty9JdfF14y	UCZYh37Yk3_sq95KPi_NExOg
+373	cucumber cooler	tezpu & Blasty B	cucumber cooler	INDIFFERENT	2:04	ZRaY5aqMDZw	MPREb_iVYMvH0YRTQ	
+413	over mountains	steezy prime	our odyssey	INDIFFERENT	2:19	0QQZOVLK3lY	MPREb_iYE9jvhDAQv	UCM58uwWBcmkSYiK-nkaFreg
+444	uniquely ornate	steezy prime	our odyssey	INDIFFERENT	1:57	RY0F5J1uqlo	MPREb_iYE9jvhDAQv	UCM58uwWBcmkSYiK-nkaFreg
+530	City Lights	softy, Screen Jazzmaster, & Zmeyev	City Lights	INDIFFERENT	2:00	96K3fr3xl00	MPREb_eSmw4lt0Agj	
+245	Picnic	softy & sftspkn	Summer Wave	INDIFFERENT	2:21	vo2ZvQlka_k	MPREb_diGO5IHt0I4	
+233	Summer Breeze	softy & Mondo Loops	Summer Wave	INDIFFERENT	2:03	0eHKQk8cBs8	MPREb_diGO5IHt0I4	
+267	Summer Wave	softy & Lucid Keys	Summer Wave	INDIFFERENT	2:28	LuWzBGd-BQU	MPREb_diGO5IHt0I4	
+469	Winter's Tale	softy & Comodo	Winter's Tale	INDIFFERENT	2:21	FvQ-rvtCVvM	MPREb_kgGZ6N6zEIE	
+436	Coffee In Autumn	softy	Coffee In Autumn	INDIFFERENT	2:30	TuzzmWnjNls	MPREb_reILyb2nd9B	UCtjbjXoaBzpZhprRKI-7r7A
+482	Let It Snow	softy	Winter's Tale	INDIFFERENT	2:26	J9If-xFhne0	MPREb_kgGZ6N6zEIE	UCtjbjXoaBzpZhprRKI-7r7A
+494	Dear Jazz	softy	City Lights	INDIFFERENT	1:53	U2A8GQH6e5w	MPREb_eSmw4lt0Agj	UCtjbjXoaBzpZhprRKI-7r7A
+496	Evening Breeze	softy	Evening Breeze	INDIFFERENT	2:26	r_aCSeNHqlk	MPREb_vRNo5IXV1OU	UCtjbjXoaBzpZhprRKI-7r7A
+503	Slow Down	softy	City Lights	INDIFFERENT	2:17	GkHppnXFBR4	MPREb_eSmw4lt0Agj	UCtjbjXoaBzpZhprRKI-7r7A
+522	Winter Lights	softy	Winter's Tale	INDIFFERENT	2:15	soxaC52IP3c	MPREb_kgGZ6N6zEIE	UCtjbjXoaBzpZhprRKI-7r7A
+297	Yōna	smbdy/else	Yōna	INDIFFERENT	2:02	CA3P0TIKkn4	MPREb_8hbmyYcKIkM	UCWw1q2I-ViP8lYgmVVokZCg
+209	Intertwined	slowburn	Skyfall	INDIFFERENT	2:08	JjC3iMSBAnM	MPREb_oemAE6vak1R	UCS5cOYQwsXps-4BZs9qkNDQ
+223	Skyfall	slowburn	Skyfall	INDIFFERENT	2:14	jNDwbCsXY84	MPREb_oemAE6vak1R	UCS5cOYQwsXps-4BZs9qkNDQ
+263	Dream Isle	slowburn	Dream Isle	INDIFFERENT	2:15	7mVpEVwdO-s	MPREb_JG99kpV3Mh3	UCS5cOYQwsXps-4BZs9qkNDQ
+273	Talisman	slowburn	Talisman	INDIFFERENT	1:51	VRYeFQQkL7A	MPREb_jyM5F3Gw1Ez	UCS5cOYQwsXps-4BZs9qkNDQ
+330	More Than Before	slowburn	More Than Before	INDIFFERENT	2:08	2Bk2D0Qt2aA	MPREb_lR8fXnFjS02	UCS5cOYQwsXps-4BZs9qkNDQ
+251	Riding Waves	skyswimming	Riding Waves	INDIFFERENT	2:24	bQWnG-WyM_k	MPREb_w4FaWjvw3rI	
+202	Traffic	skrn & Zmeyev	Overnight Trip	INDIFFERENT	2:37	XFNn7TbDAVg	MPREb_oZ9X0sjevip	
+435	Laguna	sftspkn	Laguna	INDIFFERENT	2:30	fU_3TRaGGk0	MPREb_WhkjUFiBYSP	UCQ89rHrQy-RaKYOUEHwsytw
+467	Put It Together	saint rumi	Put It Together	INDIFFERENT	2:25	Ea7UJ5WOW3Q	MPREb_7lkZNU4QLDx	UC1WYw6yhVaNmXa2vBgEhIoQ
+22	hot chocolate	rosarummet	daydreams	INDIFFERENT	2:15	L323r1EaIeQ	MPREb_tYRp6oJiXF5	UCe1esolq77K8mpQDUTf4ClA
+40	you.	rosarummet	daydreams	INDIFFERENT	2:47	i7Tuhk9eOCs	MPREb_tYRp6oJiXF5	UCe1esolq77K8mpQDUTf4ClA
+58	cloudy apple	rosarummet	daydreams	INDIFFERENT	1:55	ULv5BAmpDz4	MPREb_tYRp6oJiXF5	UCe1esolq77K8mpQDUTf4ClA
+59	ambler	rosarummet	daydreams	INDIFFERENT	2:21	9umWO1wvL-c	MPREb_tYRp6oJiXF5	UCe1esolq77K8mpQDUTf4ClA
+63	blinded	rosarummet	daydreams	INDIFFERENT	2:01	UnLgBAOWUx0	MPREb_tYRp6oJiXF5	UCe1esolq77K8mpQDUTf4ClA
+70	sleep	rosarummet	daydreams	INDIFFERENT	2:23	BSMAUwesJo8	MPREb_tYRp6oJiXF5	UCe1esolq77K8mpQDUTf4ClA
+191	Midnight	reysi & Henni	Midnight	INDIFFERENT	2:18	qr-369fAVQQ	MPREb_mk0bCrkjfJs	
+683	[oops]	potsu	[oops]	INDIFFERENT	2:23	xhzi2n-aZ58	MPREb_5WEL5imUMe8	UCxBu7h_ACXyfvnpG_rQKI9w
+11	waves	owlh	waves	INDIFFERENT	2:21	FEfOE8gZG0A	MPREb_uEryFrriZHr	UCB6c1dLe2NR2lel0nm1r7rA
+17	meadow	owlh	waves	INDIFFERENT	2:48	CB_7VRwGW74	MPREb_uEryFrriZHr	UCB6c1dLe2NR2lel0nm1r7rA
+21	aurora	owlh	aurora	INDIFFERENT	2:38	TkVmGaGARXk	MPREb_Ll5CNV8IA7x	UCB6c1dLe2NR2lel0nm1r7rA
+45	facetime and chill	owlh	aurora	INDIFFERENT	2:41	1gonAX2JKFw	MPREb_Ll5CNV8IA7x	UCB6c1dLe2NR2lel0nm1r7rA
+47	restart	owlh	waves	INDIFFERENT	2:40	P60KLJ_aV7A	MPREb_uEryFrriZHr	UCB6c1dLe2NR2lel0nm1r7rA
+52	old fashioned	owlh	aurora	INDIFFERENT	2:27	1sBJ3aQBzC0	MPREb_Ll5CNV8IA7x	UCB6c1dLe2NR2lel0nm1r7rA
+60	eclipse	owlh	in the clouds	INDIFFERENT	2:45	EvqSkZMUhGU	MPREb_q15X96J1Upu	UCB6c1dLe2NR2lel0nm1r7rA
+64	fantasy	owlh	aurora	INDIFFERENT	2:35	5ic7nDCn6hg	MPREb_Ll5CNV8IA7x	UCB6c1dLe2NR2lel0nm1r7rA
+67	moonlight	owlh	in the clouds	INDIFFERENT	2:25	TNWLmoGkRxk	MPREb_q15X96J1Upu	UCB6c1dLe2NR2lel0nm1r7rA
+72	Can I Kick It?	owlh	cover to cover	INDIFFERENT	2:29	PGnFjUgdJqU	MPREb_yOVbdY0lXqO	UCB6c1dLe2NR2lel0nm1r7rA
+78	solstice	owlh	in the clouds	INDIFFERENT	3:43	k_Dpt51zAtE	MPREb_q15X96J1Upu	UCB6c1dLe2NR2lel0nm1r7rA
+94	Homecoming	owlh	cover to cover	INDIFFERENT	2:54	DGbkDAK0GhA	MPREb_yOVbdY0lXqO	UCB6c1dLe2NR2lel0nm1r7rA
+95	Strangers	owlh	undercover	INDIFFERENT	3:13	y3bEZ7Uv5UQ	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+98	INDUSTRY BABY	owlh	cover to cover	INDIFFERENT	3:23	V_JLXEvuGaY	MPREb_yOVbdY0lXqO	UCB6c1dLe2NR2lel0nm1r7rA
+99	THATS WHAT I WANT	owlh	undercover	INDIFFERENT	2:45	gScXIKlBaFg	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+101	LOVE AGAIN	owlh	undercover	INDIFFERENT	2:24	jEO9Ed8qdJY	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+102	One Dance	owlh	cover to cover	INDIFFERENT	2:39	zVvoRbp93uI	MPREb_yOVbdY0lXqO	UCB6c1dLe2NR2lel0nm1r7rA
+108	creep	owlh	take cover	INDIFFERENT	3:09	VWjnyGiifKI	MPREb_cglX82KTsjy	UCB6c1dLe2NR2lel0nm1r7rA
+114	Sweet Disposition	owlh	cover to cover	INDIFFERENT	3:37	K99XwTkFos8	MPREb_yOVbdY0lXqO	UCB6c1dLe2NR2lel0nm1r7rA
+120	July	owlh	undercover	INDIFFERENT	2:28	tbPTxDvq6j8	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+122	All Girls Are The Same	owlh	undercover	INDIFFERENT	2:44	JxiGbOvR0NM	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+125	Heaven	owlh	undercover	INDIFFERENT	2:55	XEPTWd3BjJU	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+133	Last Night	owlh	undercover	INDIFFERENT	2:41	nB5XLVhfeD0	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+134	Lose You To Love Me	owlh	undercover	INDIFFERENT	3:24	pBsO3GJpDVA	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+135	Beth/Rest	owlh	Cover Me	INDIFFERENT	5:03	wybPFkX5-v4	MPREb_UYAq02uO0cQ	UCB6c1dLe2NR2lel0nm1r7rA
+141	Forget Me	owlh	Suncovers	INDIFFERENT	3:34	7g3Y_YjcAoY	MPREb_tPftrHV0YFR	UCB6c1dLe2NR2lel0nm1r7rA
+145	One Last Time	owlh	Suncovers	INDIFFERENT	3:21	8eC2WGl465U	MPREb_tPftrHV0YFR	UCB6c1dLe2NR2lel0nm1r7rA
+149	Congratulations	owlh	Suncovers	INDIFFERENT	3:34	u0LwGXWL88I	MPREb_tPftrHV0YFR	UCB6c1dLe2NR2lel0nm1r7rA
+153	Talking Body	owlh	Cover Me	INDIFFERENT	3:26	T_yWorQveWs	MPREb_UYAq02uO0cQ	UCB6c1dLe2NR2lel0nm1r7rA
+155	you broke me first	owlh	Suncovers	INDIFFERENT	3:10	EjsRsUV-EGE	MPREb_tPftrHV0YFR	UCB6c1dLe2NR2lel0nm1r7rA
+157	Everytime We Touch	owlh	Cover Me	INDIFFERENT	3:11	CMSmMI2Ge0A	MPREb_UYAq02uO0cQ	UCB6c1dLe2NR2lel0nm1r7rA
+161	Magic	owlh	undercover	INDIFFERENT	4:09	tOtGNDRVEWw	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+162	Another Day in Paradise	owlh	Cover Me	INDIFFERENT	4:57	rrJ8rivg90o	MPREb_UYAq02uO0cQ	UCB6c1dLe2NR2lel0nm1r7rA
+163	Flowers	owlh	undercover	INDIFFERENT	3:27	9TGSFTvLNw4	MPREb_DFH9UaGInvM	UCB6c1dLe2NR2lel0nm1r7rA
+175	Under the Bridge	owlh	cover to cover	INDIFFERENT	4:05	HSXan0uSr1s	MPREb_yOVbdY0lXqO	UCB6c1dLe2NR2lel0nm1r7rA
+176	In the End	owlh	Cover Me	INDIFFERENT	3:23	jHko7j8pbIM	MPREb_UYAq02uO0cQ	UCB6c1dLe2NR2lel0nm1r7rA
+179	I'm Good (Blue)	owlh	Suncovers	INDIFFERENT	2:57	wCUwsiVIuvM	MPREb_tPftrHV0YFR	UCB6c1dLe2NR2lel0nm1r7rA
+181	otherside	owlh	take cover	INDIFFERENT	3:13	vwpX5-4jtDA	MPREb_cglX82KTsjy	UCB6c1dLe2NR2lel0nm1r7rA
+184	sunflower	owlh	aurora	INDIFFERENT	2:48	R3y41uE0Sxw	MPREb_Ll5CNV8IA7x	UCB6c1dLe2NR2lel0nm1r7rA
+210	Lay Back	ornaut	Lay Back	INDIFFERENT	2:03	_jqn4ptnqxQ	MPREb_Hl9eZqfvypF	UCikA7jHUHLVtKHw_02ek8Zg
+255	fairytales	ornaut	fairytales	INDIFFERENT	2:17	Gj9sKfWq8Kc	MPREb_nhyHgo7wYHI	UCikA7jHUHLVtKHw_02ek8Zg
+6	the pression pt.1	ocb.mp3	the pression pt.1	INDIFFERENT	2:49	5Zc2t1zVEjI	MPREb_1LsdgYd2f04	UC36SdBBRz4rZ4sGIPEvzcvg
+8	the pression pt.2	ocb.mp3	the pression pt.2	INDIFFERENT	2:18	SuOdlZGFsrc	MPREb_ex6roZ29ofo	UC36SdBBRz4rZ4sGIPEvzcvg
+9	leaving you is hurting me	ocb.mp3	i'm happy now	INDIFFERENT	2:35	-NY5DoqGFVA	MPREb_WTBe2mNnoRn	UC36SdBBRz4rZ4sGIPEvzcvg
+18	selfheartbroken	ocb.mp3	selfheartbroken	INDIFFERENT	2:05	u8Aw86Z4WCM	MPREb_JPmh9XlffTx	UC36SdBBRz4rZ4sGIPEvzcvg
+20	i forgot 2 love u	ocb.mp3	i forgot 2 love u	INDIFFERENT	1:46	o-E0AvPN8Os	MPREb_VuX3589i71k	UC36SdBBRz4rZ4sGIPEvzcvg
+343	Ghost Notes	mystery_o	Ghost Notes	INDIFFERENT	1:44	4qxbHnd5FDQ	MPREb_yAHRCqPNyv0	UCgKhVh1WO_h2dGj7vduxF9A
+698	letting go	mood.	letting go	INDIFFERENT	1:43	sLib6Jq4Rig	MPREb_2JrJNnE3s8B	UCPiIkLLtarPOAXpXV8N4p6g
+671	Gloom	mell-ø	Afloat Again	INDIFFERENT	2:12	O3nB-ld08JI	MPREb_T9lpx2AkOBS	UCb_Q9E5PvaPULJfb2t4_JAg
+226	Old Times	luv pug & Hypx	Old Times	INDIFFERENT	1:51	Xg_1rFRYg_M	MPREb_9Q2vOHpJXzb	
+430	Pensive Progress	luv pug	Pensive Stories	INDIFFERENT	2:03	GMOeXHUajqw	MPREb_akHsI65LY9Q	UCQ0saDPRx4u7d-S_83ClpxA
+463	Sandy's Stories	luv pug	Pensive Stories	INDIFFERENT	1:48	ayuOxBeaY7U	MPREb_akHsI65LY9Q	UCQ0saDPRx4u7d-S_83ClpxA
+474	palmera	lov sum	palmera	INDIFFERENT	2:06	RhV1ukQiCEI	MPREb_lfk0WA5tCVe	UCL-tGVz8_c9xIotdChTjUTw
+30	when the party's over	lokash	when the party's over	INDIFFERENT	2:50	tqb1S3IUYYM	MPREb_Af3uuOWBQAL	UCTvK7fW1BoP4_sgTVOH0GJQ
+31	EARFQUAKE	lokash	EARFQUAKE	INDIFFERENT	2:31	SxZ_yphGLTE	MPREb_GkJDK0RdMmh	UCTvK7fW1BoP4_sgTVOH0GJQ
+33	drivers license	lokash	drivers license	INDIFFERENT	3:16	FBlyagBAMHU	MPREb_hiq2hSd5NQk	UCTvK7fW1BoP4_sgTVOH0GJQ
+35	re:stacks	lokash	re:stacks	INDIFFERENT	4:49	v-fn4R7osA0	MPREb_RBrKP3l3Mqu	UCTvK7fW1BoP4_sgTVOH0GJQ
+73	Kiss Me More	lokash	001 (other people's songs)	INDIFFERENT	3:27	BWSV2BsCBwU	MPREb_NolZ9I9ztFe	UCTvK7fW1BoP4_sgTVOH0GJQ
+81	If I Ain't Got You	lokash	002 (other people's songs)	INDIFFERENT	3:18	u8XHVLmZrXE	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+93	Intro	lokash	002 (other people's songs)	INDIFFERENT	2:13	8X2tgYxqRt0	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+103	Animal	lokash	002 (other people's songs)	INDIFFERENT	3:13	L6X166OdZCM	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+106	Feel It Still	lokash	002 (other people's songs)	INDIFFERENT	2:56	oDyNtEvYHks	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+113	Thinkin Bout You	lokash	001 (other people's songs)	INDIFFERENT	2:57	9U6bVWwcRD8	MPREb_NolZ9I9ztFe	UCTvK7fW1BoP4_sgTVOH0GJQ
+121	Peaches	lokash	001 (other people's songs)	INDIFFERENT	2:51	7S4YIvGn3xo	MPREb_NolZ9I9ztFe	UCTvK7fW1BoP4_sgTVOH0GJQ
+128	Heartbeats	lokash	002 (other people's songs)	INDIFFERENT	2:26	Kyy6sPS1Yuk	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+130	Jocelyn Flores	lokash	001 (other people's songs)	INDIFFERENT	2:05	i3r-IH2mbSk	MPREb_NolZ9I9ztFe	UCTvK7fW1BoP4_sgTVOH0GJQ
+136	Sunset Lover	lokash	002 (other people's songs)	INDIFFERENT	2:59	MxwVXGtdG6Y	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+148	Your Power	lokash	002 (other people's songs)	INDIFFERENT	3:45	GgmaDiikKs8	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+152	Eyes Blue Like The Atlantic	lokash	001 (other people's songs)	INDIFFERENT	2:21	uY7vPk8H5fA	MPREb_NolZ9I9ztFe	UCTvK7fW1BoP4_sgTVOH0GJQ
+154	Trouble	lokash	002 (other people's songs)	INDIFFERENT	4:41	Lp6hcRFxTy8	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+177	The Less I Know The Better	lokash	002 (other people's songs)	INDIFFERENT	3:36	0U7NrVhzCLU	MPREb_YaWTevyXvHK	UCTvK7fW1BoP4_sgTVOH0GJQ
+741	longwayhome (feat. Alexander Spit)	lojii	lo&behold	INDIFFERENT	2:28	rsk_kt4ze3I	MPREb_CSrqoszqBKH	UCp2r_F_yfyNKzvPqMKrgKoA
+308	Turns	little blue	Backwards	INDIFFERENT	2:26	jJE9VjbNwro	MPREb_yfyJpYbEq3d	UCM6ovby9EX7r2EvKsl1HF3g
+355	Backwards	little blue	Backwards	INDIFFERENT	1:53	ducDCtboVnI	MPREb_yfyJpYbEq3d	UCM6ovby9EX7r2EvKsl1HF3g
+535	Finding Solace	little blue	Finding Solace	INDIFFERENT	2:11	MqlY9C348dk	MPREb_a0WodSUommc	UCM6ovby9EX7r2EvKsl1HF3g
+337	Moving Here	l'eupe & Noé Mina	Moving Here	INDIFFERENT	2:48	UezcaXlwGEg	MPREb_atVNhUe7mwb	
+196	Tender Hearts	l'eupe	Tender Hearts	INDIFFERENT	2:28	r6hO8vaOj2w	MPREb_4CiXO28kQGn	UCZohcmjpsGLjEQg0UqZolzg
+262	Tiny Dreams	l'eupe	Tiny Dreams	INDIFFERENT	1:51	b646G7m-ToA	MPREb_kdccIf7nO99	UCZohcmjpsGLjEQg0UqZolzg
+550	Leaving For Now	l'eupe	Leaving For Now	INDIFFERENT	2:22	2ZDShoMV_18	MPREb_2BTBuhHqFFA	UCZohcmjpsGLjEQg0UqZolzg
+487	Beachfront	kyoshi	Beachfront	INDIFFERENT	2:16	YpleGm808cs	MPREb_v4FDo86PO7y	UC64W6f2UDxM24gkebcNMnfg
+338	Uncertainty	kairos	Uncertainty	INDIFFERENT	2:27	eSgt-3Mnx2E	MPREb_IojlwtJBiVh	UCiILcjIDWY_ZJzDx_sc2gbQ
+379	Soul Seaching	kBeats & G R I Z	Soul Searching	INDIFFERENT	2:31	SYciDNoiK_4	MPREb_jSayKxA3GGl	
+462	Easy Living	jelaquest	Easy Living	INDIFFERENT	2:08	zq5duPuEhqY	MPREb_gZp6BxFC2k2	UCLlNtfThKt_nJx_PXWkwgNg
+662	i'm in love with u, sorry	j'san	i'm in love with u, sorry	INDIFFERENT	1:31	XzEwGlKR3oA	MPREb_mozORr2Vxob	UCBb82EMFywo4Byo70oGHPdA
+729	waking up in the park	j'san	waking up in the park	INDIFFERENT	1:09	x3PyGa644HU	MPREb_HQNoqdLR3QI	UCBb82EMFywo4Byo70oGHPdA
+598	Losing Interest	itssvd	Missing	INDIFFERENT	2:01	oiyeWngSIYs	MPREb_OUyhd5AezcY	UC5QjlbBAKMpeSziKpDDa5Ag
+320	Watch The Flamingos	irons	3	INDIFFERENT	2:10	QWRM1asNSa4	MPREb_9deeiPhAK3O	UCMW_b01kP2VRi4reuHDloYQ
+353	My Princesses	irons	3	INDIFFERENT	1:30	y2VY5fgu7Eg	MPREb_9deeiPhAK3O	UCMW_b01kP2VRi4reuHDloYQ
+232	Slow Drift	howling loon	Slow Drift	INDIFFERENT	2:35	wQ0dND-X8xo	MPREb_yWSdPKAE655	UCM8MdAnQ0xctJPexVaFdf3A
+714	By the Fire	goosetaf	By the Fire	INDIFFERENT	2:33	9eVWJqOFrqI	MPREb_RyNNjjfClr5	UCAbNvwkWc1OS-XV9TndZ8MQ
+370	orbit	frad	orbit	INDIFFERENT	1:48	wlBszPwT30o	MPREb_DVXf4kTqBBf	UCZ6xj4n_kTcwJ4nKP0Nqezw
+420	koi pond	frad	koi pond	INDIFFERENT	1:46	NT-u1qEQPPs	MPREb_x4punoRsqT2	UCZ6xj4n_kTcwJ4nKP0Nqezw
+709	blankets	fantompower	Chillhop Essentials Winter 2018	INDIFFERENT	2:54	E76u0_TyYfs	MPREb_DAtYyHzajvk	UCVP1F5TF-aBurJkAdPMpW6g
+706	Forever Eyes	enjo	EnjoyLife	INDIFFERENT	1:41	m42fP7hrV4Y	MPREb_z2KGkBeiBM4	UCJ-Bie6bcJQc3gNDKD0GDPA
+663	viola	eevee	unexpected	INDIFFERENT	1:27	B2giFluDVEs	MPREb_0MeVIUW6xGv	UCzu820Gt6_VpbOvZxzUq58w
+678	m i s t	eevee	ep seeds	INDIFFERENT	1:59	Jjn_dEjhK0Y	MPREb_fqpRCZ5Q2oo	UCzu820Gt6_VpbOvZxzUq58w
+643	Interstellar	drkmnd	Interstellar	INDIFFERENT	2:45	g2ML7ogbI5U	MPREb_2krXi13jqNw	UCzmDCVVVicR1fKvPWF4X5NA
+201	Altbausound	dennisivnvc	Altbausound	INDIFFERENT	2:35	cWCkYCyLHn4	MPREb_uNCXWp2qdJw	UCgv20K7p6SReWXlQsm2KMJA
+538	Supersoul	dennisivnvc	Supersoul	INDIFFERENT	2:00	drxQlT-IWx4	MPREb_A5DQRJttg1T	UCgv20K7p6SReWXlQsm2KMJA
+288	Odorless Happiness	créature sonore	Odorless Happiness	INDIFFERENT	1:59	q04em8VLW9I	MPREb_jW9eJ8T1Ffx	UCAaFlrbkvhBH_BaBh49NyjA
+675	sorry	chief.	late nights	INDIFFERENT	1:18	l7cuUDKlqCU	MPREb_BGraxVSsKD0	UCAKunDdNlXj7EQumFYAl-QA
+259	Four Stars	byJ.	Four Stars	INDIFFERENT	2:28	LUJTb0kyMcU	MPREb_3CUCSvDA3or	UC7X8Obe47wykBtZ2l1kQKsg
+668	In Clover	brillion.	Bedtime Stories Pt. 2	INDIFFERENT	2:46	SY4BsBgrK08	MPREb_Qh1Uaai4T00	UCU89hm6Lm7YwTv-QeL3tSZQ
+265	Flying High	brass.beats	Flying High	INDIFFERENT	2:12	1RtfyLTpeCI	MPREb_OwIA1G8uTVK	UCFS4pHdAf9k1iMeDUIgrdcQ
+705	the sweetest voicemail	boone	the sweetest voicemail	INDIFFERENT	1:34	DEcjRr4jv1o	MPREb_m3ViJzmBAYS	UCPLppu9dTgM90CvswuL0cdg
+560	Runaway	bedroom lofi	Runaway	INDIFFERENT	1:46	W_WaMhfhr9g	MPREb_b4cuYJOSoJ5	UCp5zbXnQkSM8jH0XNkGxKWw
+419	Flamingo Deck	azayaka	Flamingo Deck	INDIFFERENT	2:36	tqDxB22llYY	MPREb_rOvakQX9oRr	UCANsaF-tD-T1E-igzp8LLWA
+311	Twilight Tones	aunt	Twilight Tones	INDIFFERENT	2:44	aw42zZJyTcM	MPREb_d3w5OGnql7m	UCYIj7rQ-62ExC4oKJ-I1R9A
+579	rainbow bridge	a girl and a cat	lofi study 2021	INDIFFERENT	1:59	hK1ebw3rq98	MPREb_pNDb0kDCQac	UCEVQYgoZFwcCDTeRYoeckKA
+584	back home studying	a girl and a cat	lofi study 2021	INDIFFERENT	1:57	6y3w4hBDvVk	MPREb_pNDb0kDCQac	UCEVQYgoZFwcCDTeRYoeckKA
+603	how do I get my brain back	a girl and a cat	lofi study 2021	INDIFFERENT	1:52	9_1kySPKR78	MPREb_pNDb0kDCQac	UCEVQYgoZFwcCDTeRYoeckKA
+618	midnight stroll	a girl and a cat	lofi study 2021	INDIFFERENT	2:08	9-S5XxfgBew	MPREb_pNDb0kDCQac	UCEVQYgoZFwcCDTeRYoeckKA
+690	lofi rain	a girl and a cat	lofi study 2021	INDIFFERENT	1:59	tEpI7x8TIiQ	MPREb_pNDb0kDCQac	UCEVQYgoZFwcCDTeRYoeckKA
+610	Always with Me	Yumi Kimura	Spirited Away Soundtrack	INDIFFERENT	3:36	7Ia6meT4fKU	MPREb_X80BdVgk6eN	UC_mLS2XooeA1P092Ybb338w
+684	Flowing Clouds Atop the Shining Hills	Yuji Nomi	Whisper of the Heart Soundtrack	INDIFFERENT	3:24	W90Hrz9ef_w	MPREb_GKknaDRE9uY	UCq7yKUy7Vo4odAuooX5YgdQ
+471	Pine Whispers	Yestalgia	Pine Whispers	INDIFFERENT	1:58	EuwU_GRNPKY	MPREb_i9OnPFgClG8	UCr-C9r8wE0gPwC8zKr7gh8Q
+475	Enchanted Eve	Yestalgia	Enchanted Eve	INDIFFERENT	1:41	LUkSyaKZG5Y	MPREb_xHnW585bSOp	UCr-C9r8wE0gPwC8zKr7gh8Q
+491	Jingle Bliss	Yestalgia	Jingle Bliss	INDIFFERENT	2:06	otY1TtSzurQ	MPREb_4Q5vwZa6e8E	UCr-C9r8wE0gPwC8zKr7gh8Q
+1	Something Given, Something Taken	Yedai	Field Trip	INDIFFERENT	2:07	2OK5arSNROQ	MPREb_hIKd0EUxU7A	UCddVQ1qp97XaqgIsunUz1Pg
+4	Field Trip	Yedai	Field Trip	INDIFFERENT	2:18	mnwaOwp9f7A	MPREb_hIKd0EUxU7A	UCddVQ1qp97XaqgIsunUz1Pg
+5	Blankets	Yedai	Mind Fix	INDIFFERENT	2:20	Ym8wI8-VX9c	MPREb_peB7aJl4SuW	UCddVQ1qp97XaqgIsunUz1Pg
+7	The First Kiss	Yedai	About Last Night	INDIFFERENT	2:28	HuniEjBryIk	MPREb_ZVlcW2LtbXn	UCddVQ1qp97XaqgIsunUz1Pg
+10	The Smell of Coffee	Yedai	Mind Fix	INDIFFERENT	2:15	M_jBnlSQPD4	MPREb_peB7aJl4SuW	UCddVQ1qp97XaqgIsunUz1Pg
+12	Take Me Far Away	Yedai	Field Trip	INDIFFERENT	2:05	nLB1T2PeWig	MPREb_hIKd0EUxU7A	UCddVQ1qp97XaqgIsunUz1Pg
+25	DEAR APRIL	Yedai	Cover Art	INDIFFERENT	2:16	xAtjJpimovE	MPREb_cVKXna5YG1d	UCddVQ1qp97XaqgIsunUz1Pg
+38	Lemonade	Yedai	Mind Fix	INDIFFERENT	2:12	a50zN7bLL-k	MPREb_peB7aJl4SuW	UCddVQ1qp97XaqgIsunUz1Pg
+57	Ladybug	Yedai	Mind Fix	INDIFFERENT	1:41	kTL6nh6Ft6s	MPREb_peB7aJl4SuW	UCddVQ1qp97XaqgIsunUz1Pg
+75	LIKE I NEED U	Yedai	Cover Art part 2	INDIFFERENT	2:50	HvzM2H7RyZY	MPREb_xUwFkno5lOq	UCddVQ1qp97XaqgIsunUz1Pg
+79	Lonesome Town	Yedai	Cover Art (Love Classics)	INDIFFERENT	2:32	U9OPHBgoklo	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+80	GET YOU THE MOON	Yedai	Cover Art part 2	INDIFFERENT	3:13	CF2vp8tvZJg	MPREb_xUwFkno5lOq	UCddVQ1qp97XaqgIsunUz1Pg
+90	LIFE GOES ON	Yedai	Cover Art part 3	INDIFFERENT	2:47	SWIJtaZRys4	MPREb_GiObJqnp0cP	UCddVQ1qp97XaqgIsunUz1Pg
+92	If I Can Dream	Yedai	Cover Art (Love Classics)	INDIFFERENT	3:09	rNQG058CGw8	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+97	YEAH RIGHT	Yedai	Cover Art part 2	INDIFFERENT	2:57	agJ1dlB_wsA	MPREb_xUwFkno5lOq	UCddVQ1qp97XaqgIsunUz1Pg
+104	BUTTERFLY	Yedai	Cover Art part 4	INDIFFERENT	2:43	regt8zhFpYI	MPREb_zMCx0nQSX8f	UCddVQ1qp97XaqgIsunUz1Pg
+109	LIGHT	Yedai	Cover Art part 3	INDIFFERENT	3:46	XY6v9yd-V2o	MPREb_GiObJqnp0cP	UCddVQ1qp97XaqgIsunUz1Pg
+110	I Don't Wan't to Set the World on Fire	Yedai	Cover Art (Love Classics)	INDIFFERENT	2:46	KxgVSBEkp30	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+112	MAGNOLIA	Yedai	Cover Art part 4	INDIFFERENT	2:31	y4n6IYMOp54	MPREb_zMCx0nQSX8f	UCddVQ1qp97XaqgIsunUz1Pg
+123	TOUCH	Yedai	Cover Art part 5	INDIFFERENT	3:13	7xHvsNr2Gps	MPREb_N0TLxdO6lsR	UCddVQ1qp97XaqgIsunUz1Pg
+127	Earth Angel	Yedai	Cover Art (Love Classics)	INDIFFERENT	3:02	LHrSneLatFc	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+138	Stand by Me	Yedai	Cover Art (Love Classics)	INDIFFERENT	2:59	4hZqZPsstSw	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+142	TALK	Yedai	Cover Art part 5	INDIFFERENT	3:16	t811oyQsWzI	MPREb_N0TLxdO6lsR	UCddVQ1qp97XaqgIsunUz1Pg
+143	SOFIA	Yedai	Cover Art part 4	INDIFFERENT	2:53	qri0G3aabsI	MPREb_zMCx0nQSX8f	UCddVQ1qp97XaqgIsunUz1Pg
+144	La Vie en rose	Yedai	Cover Art (Love Classics)	INDIFFERENT	3:10	08y5Fh9bQEk	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+146	WHITE IVERSON	Yedai	Cover Art part 3	INDIFFERENT	4:20	DcpIE0riwXA	MPREb_GiObJqnp0cP	UCddVQ1qp97XaqgIsunUz1Pg
+150	LIGHTS OUT	Yedai	Cover Art part 5	INDIFFERENT	4:16	eGCaPXUd4ls	MPREb_N0TLxdO6lsR	UCddVQ1qp97XaqgIsunUz1Pg
+164	ANTI-HERO	Yedai	Cover Art part 5	INDIFFERENT	3:36	RApTpJq2ERY	MPREb_N0TLxdO6lsR	UCddVQ1qp97XaqgIsunUz1Pg
+169	Dream a Little Dream of Me	Yedai	Cover Art (Love Classics)	INDIFFERENT	3:05	kvGiaMleW0M	MPREb_uUQxo9mdghD	UCddVQ1qp97XaqgIsunUz1Pg
+170	REMEMBER ME	Yedai	Cover Art part 2	INDIFFERENT	3:04	dCeeFaeKoOM	MPREb_xUwFkno5lOq	UCddVQ1qp97XaqgIsunUz1Pg
+173	GLIMPSE OF US	Yedai	Cover Art part 5	INDIFFERENT	4:11	fxypJy9YGmU	MPREb_N0TLxdO6lsR	UCddVQ1qp97XaqgIsunUz1Pg
+180	HELP HERSELF	Yedai	Cover Art part 4	INDIFFERENT	3:28	2P88gyXNMLA	MPREb_zMCx0nQSX8f	UCddVQ1qp97XaqgIsunUz1Pg
+183	SLOW DANCING IN THE DARK	Yedai	Cover Art	INDIFFERENT	3:15	nwSPZ0zFq6s	MPREb_cVKXna5YG1d	UCddVQ1qp97XaqgIsunUz1Pg
+707	Captain Calvin	Yasper	Chillhop Essentials Winter 2018	INDIFFERENT	2:40	dJS3bYFkb94	MPREb_DAtYyHzajvk	UCo0JVM02GNDSKXAoE4JrUYQ
+381	Hollow Point	Wishes and Dreams	Hollow Point	INDIFFERENT	2:18	lCN4p2yYlu4	MPREb_04g94VKsEsX	UCM8f7F7YVm0O75Xpo8G8jRQ
+62	Retrograde Abstractions	Weltzer	Dream Motifs	INDIFFERENT	2:30	-YUYnSmn39w	MPREb_lBdx2bHLU0w	
+68	Picnic Nebula	Weltzer	Dream Motifs	INDIFFERENT	1:50	Rg-Pe-EOGP4	MPREb_lBdx2bHLU0w	
+656	Snowman	WYS	1 Am. Study Session	INDIFFERENT	3:16	3lUtzMrRV04	MPREb_d8mqe4d4UR0	UC5x6ZNyH0Ohcvzrex31H2VA
+291	Gently	URCHN	Gently	INDIFFERENT	2:19	aXXoqPkrmD4	MPREb_4ihMhGeuixf	UCx6PT_n8ucesQyeqMydn4og
+739	Felt	UD	Fruitless Grapevine	INDIFFERENT	4:43	i85hvG9S3ro	MPREb_jIyb0s8n6yc	UCOySr1vYpWV6hA_7uHvzAow
+743	See You Again (feat. Kali Uchis)	Tyler, The Creator	Flower Boy	INDIFFERENT	3:01	EZE62LpaqHg	MPREb_8DCHgYVRKEg	UCo1DYcm1IZ9v3UPkpiAcgtg
+292	Nightshade	TyLuv.	Nightshade	INDIFFERENT	1:55	GJf5F82gn9o	MPREb_OlHr8a8sIU4	UCEOOKNTgODv4U7_J7I9AR4w
+713	Smokey Hue	TyLuv.	In Between	INDIFFERENT	2:41	lDv3BC9KY9g	MPREb_jWEBG5wpPdF	UCEOOKNTgODv4U7_J7I9AR4w
+354	Pacific Ocean	TwoChills, kyoshi, & fnonose	Pacific Ocean	INDIFFERENT	1:37	7W3mBGlxOgc	MPREb_Fsnh46ZBmXp	
+528	Equinox	Two Scents	Equinox	INDIFFERENT	2:31	bRcVIWWed38	MPREb_w4Xr6nD5WzN	UC9-pP2rdkV7NPEM7LKB8t3g
+468	Sunny Sway	Toti Cisneros	Sunny Sway	INDIFFERENT	1:58	CJdeqboSCJw	MPREb_Za42RyDJckK	UCcZDWUJfeGaPEnNUU7ROX8A
+651	New Fields	Tom Doolie & Saib	Naoko	INDIFFERENT	2:13	0jjpYKbn8X0	MPREb_ZlxLxTbLi64	
+296	Hush	Tin. & seeyouthere	Hush	INDIFFERENT	2:09	gIoQUC9EyNo	MPREb_ty0CgGCgeqD	
+366	Senses	Tin. & seeyouthere	Fallen	INDIFFERENT	2:13	OglLWYRlJXs	MPREb_pXn4f0Yxy0U	
+394	Fallen	Tin. & seeyouthere	Fallen	INDIFFERENT	2:19	zFgQBCYceZM	MPREb_pXn4f0Yxy0U	
+502	Lawn	Tin. & DEOVI	Lakes	INDIFFERENT	2:09	LgfChM6u0gA	MPREb_HLyi5k87vxD	
+533	Footprints	Tin. & DEOVI	Lakes	INDIFFERENT	1:45	qAaWN73RNgc	MPREb_HLyi5k87vxD	
+287	Nights Alone	Tin.	Iris	INDIFFERENT	2:25	WeiCpbdAwWY	MPREb_1ckEXtBCkLs	
+314	Patio	Tin.	Iris	INDIFFERENT	2:20	vgND_a-rYoQ	MPREb_1ckEXtBCkLs	
+55	Green Love	Timo Krantz	Trust Me (I´ve Changed)	INDIFFERENT	1:57	juzgGCQDuAw	MPREb_WMfvrrW6Z06	UCfnBoSMR16iItVvmwlewLFg
+65	Slow Cry	Timo Krantz	Trust Me (I´ve Changed)	INDIFFERENT	2:20	akVfU6yVlQ8	MPREb_WMfvrrW6Z06	UCfnBoSMR16iItVvmwlewLFg
+66	Trust Me (I´ve Changed)	Timo Krantz	Trust Me (I´ve Changed)	INDIFFERENT	1:54	oyS5l1l8BUw	MPREb_WMfvrrW6Z06	UCfnBoSMR16iItVvmwlewLFg
+565	Sea Breeze	Tibeauthetraveler & Betterfly	Sea Breeze	INDIFFERENT	2:19	MI76A3bSBJY	MPREb_eCCvaGIHXzv	
+211	Flight Of A Diamond	Tibeauthetraveler	Flight Of A Diamond	INDIFFERENT	3:07	N5lLf1Q1YWM	MPREb_6kpOznZGEa8	UCSYa66WHYMPWAGwyaOMsWwA
+507	December Dreams	Tibeauthetraveler	December Dreams	INDIFFERENT	1:29	XFST75e-50I	MPREb_RfjkCLFGCk4	UCwDqeJfKz_1T5s-zOCaCvDA
+596	5:32pm	The Deli	Vibes 2	INDIFFERENT	2:17	6ustyT4Kx-g	MPREb_oFO5lrXsCOr	UCchMDjUWM6IVr6LjtnkV0vQ
+509	By The Sea	Tah.	By The Sea	INDIFFERENT	2:18	uruOBGmZz1M	MPREb_xEjsqlSoMWw	UC13rsW4MyWRXFwkFG9Nt-9A
+536	Misadventure	Tah.	Misadventure	INDIFFERENT	2:26	O4y8GoqI87k	MPREb_QwbTAnQHOGP	UC13rsW4MyWRXFwkFG9Nt-9A
+549	Far Away	Tah.	Far Away	INDIFFERENT	2:39	mX5VvDS_enw	MPREb_KVo7AFYrPZG	UC13rsW4MyWRXFwkFG9Nt-9A
+592	Unravel	TK from Ling tosite sigure	Fantastic Magic	INDIFFERENT	3:59	C0ppulkmXPw	MPREb_JVWslzfumOt	UC8Du0rASQFHx7CxziS4OuIA
+426	Curitiba	TABAL	Curitiba	INDIFFERENT	2:16	nUbBJ275C_E	MPREb_Qzz6apXCViL	UC6enAGbz_sujnP9Cmq-WlFQ
+587	Resonance	T.M.Revolution	resonance	INDIFFERENT	3:47	P61Q5tIa2BE	MPREb_KYpF35qYmjO	UCbR36UZ3-7hrv861veexZng
+329	Oblivion	Sátyr & marsquake	Collecting Memories	INDIFFERENT	2:19	V3rOPDDlfJQ	MPREb_GkthbnsEic9	
+374	Collecting Memories	Sátyr & marsquake	Collecting Memories	INDIFFERENT	2:23	TVCm6_wjx24	MPREb_GkthbnsEic9	
+657	With U	Swum	With U	INDIFFERENT	3:39	Jt1_9huj9Fc	MPREb_at0xoMdaxJn	UC2v2iSOsLCI8Mjo40WyPD6Q
+348	Poker Night	SwuM	Poker Night	INDIFFERENT	2:12	3skBgwR0pUo	MPREb_src5jiR4x6K	UCvpEgl3_JACVvo7bv6njJ-A
+484	Dusk	SwuM	Dusk	INDIFFERENT	2:29	SWKuid6WXCA	MPREb_VhuQYeZhap9	UCvpEgl3_JACVvo7bv6njJ-A
+189	Manuka Honey	Swift Arrow	Manuka Honey	INDIFFERENT	1:52	5RZJ3fL0Cts	MPREb_DsQpF7cWQ2M	UC48gOWkcy4p-dSGuG68Htfg
+454	Rising	Superglue & Anton	Rising	INDIFFERENT	2:37	5nOzk336hGc	MPREb_1d95YIRAXAv	
+735	Call It Love	Summers Sons	Uhuru	INDIFFERENT	4:11	2IjbM6JgHjE	MPREb_yUq1Tf4lCCD	UC6ZDUigOaEC_YliJmhi0gAw
+732	Chances	Subculture Sage	Chances	INDIFFERENT	4:59	vCvHP_rZHko	MPREb_oLRzZK34JlV	UCs298-Wbgz0guRLCKWrFjnQ
+403	Sorriso No Sol	Stuffed Tomato	Sorriso No Sol	INDIFFERENT	2:30	KiP-9bG6giU	MPREb_8HL1jDr1vne	UCz6cqoaBiFEjQHY7kuSGkbg
+278	Vista Del Bosque	Strehlow, Jazzinuf, & Noé Mina	Vista Del Bosque	INDIFFERENT	2:01	9qr2Wm75eOA	MPREb_dA86HRzvaxn	
+266	Mirror Souls	Steve Nguyen	Mirror Souls	INDIFFERENT	2:09	KTftx54Qc2s	MPREb_3nkoqXiP6Et	UCcMy0SXTcOfizTmiL2BMRgw
+693	Until I Found You	Stephen Sanchez	Easy On My Eyes	INDIFFERENT	2:57	znvky0Uq8qc	MPREb_vuaLInKLkoW	UCZukHZtjqY72iSEgkBF1QYA
+253	Numbers	Soulone Beats	Numbers	INDIFFERENT	2:15	5ZL4yFT2s7A	MPREb_VwvdyBhICXZ	UChBwxMQzbp7d-X0OgniDAkw
+504	Nostalgia	Soulone Beats	Nostalgia	INDIFFERENT	2:34	KdlHLO5doQs	MPREb_SsO9eozxvDQ	UChBwxMQzbp7d-X0OgniDAkw
+357	White Sand	Solar Body & Roy Swanson	Tropical Cabana	INDIFFERENT	2:47	GSJ0EoEBy4U	MPREb_vpTlnbvyVm8	
+391	Coconut Kisses	Solar Body & Roy Swanson	Tropical Cabana	INDIFFERENT	2:38	nXppUcr7PO8	MPREb_vpTlnbvyVm8	
+398	High Noon	Solar Body & Roy Swanson	Tropical Cabana	INDIFFERENT	2:26	-nFeQuAuDVM	MPREb_vpTlnbvyVm8	
+365	Onda Do Mar	So.Lo	Onda Do Mar	INDIFFERENT	2:09	LL--qMdXLsk	MPREb_J4ZVEvGSsdR	UCVI6aQ7adbqgrINjzoAxofw
+14	As It Was	Slowzy	As It Was	INDIFFERENT	1:43	TlcmUgLsISw	MPREb_0l8ecbrUTR9	UCjrfMzdSP0mWUV3cSxLmh-A
+667	Crystal Haze	Sleepy Tom	Crystal Haze	INDIFFERENT	1:23	O8Fgp37D6eU	MPREb_rGM3byVUVyF	UC_PKQvZFIwJnyPw43qhXcfA
+681	Walking On The Clouds	Sleepy Tom	Walking On The Clouds	INDIFFERENT	1:37	qKXMOrIuz50	MPREb_A1nORmETKtb	UC_PKQvZFIwJnyPw43qhXcfA
+720	Colors Fade	Sleepy Fish	Everything Fades to Blue	INDIFFERENT	2:39	SULOnMXyqrA	MPREb_brL5UcLqhJf	UCNR1Pzl2T9biZWAbOXZPUwQ
+221	Flow	Sineg	Flow	INDIFFERENT	1:54	3ZX8yudWJ_E	MPREb_XgGrUHczX8u	UCwB_710M8efSVlURED2C8qQ
+247	Night Session	Sineg	Night Session	INDIFFERENT	1:53	jsMOXZrYmGE	MPREb_7NXJLTB5xa4	UCwB_710M8efSVlURED2C8qQ
+270	Urban	Sineg	Urban	INDIFFERENT	2:02	gB4JTeHum7M	MPREb_scAfgyK6YKQ	UCwB_710M8efSVlURED2C8qQ
+392	Parallel	Sineg	Parallel	INDIFFERENT	1:31	zH7Wr0cCJhA	MPREb_EkspDJgOGr5	UCwB_710M8efSVlURED2C8qQ
+440	Close To You	Sineg	Close To You	INDIFFERENT	1:33	56w_RitdrJc	MPREb_4qiQsTxknXA	UCwB_710M8efSVlURED2C8qQ
+418	Crescent Moon	Signature D, Coby Siegel, & Indra Carpio-Pretel	Crescent Moon	INDIFFERENT	2:06	AyA9srnEU0k	MPREb_ZUnp2XV7JXN	
+186	Parkside	Signature D & Aidan Taylor	Nature's Bliss	INDIFFERENT	2:13	3s-MOmsyvjc	MPREb_Lzu72aRfGN5	
+340	Sippin' Birds	Shierro	Sippin' Birds	INDIFFERENT	2:38	Nbzj6wQ-4nw	MPREb_yLNcDyLrBxO	UCBMRfHUV0WKdjhM_ptOGopA
+443	Introverse	Shierro	Introverse	INDIFFERENT	2:27	gdaqetN73hA	MPREb_4rpCBNORaDM	UCBMRfHUV0WKdjhM_ptOGopA
+470	Beats For Breakfast	Shierro	Beats For Breakfast	INDIFFERENT	2:15	lhuUUbVhm3A	MPREb_G3eH7ePPFvR	UCBMRfHUV0WKdjhM_ptOGopA
+567	Scooby Snacks	Shierro	Scooby Snacks	INDIFFERENT	2:28	fAK4kIRsVAQ	MPREb_iyExrC3tkXj	UCBMRfHUV0WKdjhM_ptOGopA
+701	Quiet Storm	Shierro	Quiet Storm	INDIFFERENT	2:05	p_ZOjQfvhDo	MPREb_RjzNByle5iu	UCUxu9W5N2wwdLJZbnS60jXA
+511	Christmas Flurry	Sheath	Christmas Flurry	INDIFFERENT	2:14	rF7kZ8Ho6Ow	MPREb_fyK0nuTL54b	UCfSj5_32sN1tAk79GVUfQUw
+540	Sidewalk Rhythm	Second Harbor	Sidewalk Rhythm	INDIFFERENT	2:14	z9YULNPhuos	MPREb_jQpr90YgDrj	UCKgAiH10mJ1f_NjOAWwy-vw
+185	Pacific Coast	Screen Jazzmaster, Zmeyev, & Sátyr	Pacific Coast	INDIFFERENT	2:14	nXhRhuWbG1c	MPREb_aXDoSnCK0RG	
+271	With You	Screen Jazzmaster	With You	INDIFFERENT	2:11	027XG6tIIqg	MPREb_V2RpumUedg1	UCvBF_Pt_3r2BvMXjJusbtLw
+545	Easy Moments	Screen Jazzmaster	Easy Moments	INDIFFERENT	1:53	sGACsFJjplI	MPREb_m2M9w2EteB1	UCvBF_Pt_3r2BvMXjJusbtLw
+556	So Far	Screen Jazzmaster	So Far	INDIFFERENT	1:59	1h1-3W2rdz8	MPREb_oalV1sPIJMq	UCvBF_Pt_3r2BvMXjJusbtLw
+704	Glare (feat. Otesla)	Saito & Lester Nowhere	Glidin' Along	INDIFFERENT	1:43	b7dLt8-5enA	MPREb_XwA2Qa8g2i9	UCh9pjxc8-RENCgbxhQrs6LA
+653	Sleep Well	SPEECHLESS	Future Feelings	INDIFFERENT	1:37	N9VmYIcyIf4	MPREb_YXDMuWO4N0H	UCvvd446ewFg2inQA6zrVzSw
+341	Sequoia	Ruth de las Plantas & ornaut	Sequoia	INDIFFERENT	2:21	Ua6VW5mALD8	MPREb_888p5eADE5B	
+377	Napa Valley Sunsets	Rudy Raw	Cali Chapters	INDIFFERENT	2:13	7GduqYQdPhY	MPREb_gWzg4XgthVE	UC_MyXdVp3_P7pcbGh1mvskg
+400	Big Sur	Rudy Raw	Cali Chapters	INDIFFERENT	2:42	KUvoaFf41vY	MPREb_gWzg4XgthVE	UC_MyXdVp3_P7pcbGh1mvskg
+423	Chardonnay	Rudy Raw	Cali Chapters	INDIFFERENT	2:36	5FT6u01xUpg	MPREb_gWzg4XgthVE	UC_MyXdVp3_P7pcbGh1mvskg
+466	Sequoia Trees	Rudy Raw	Cali Chapters	INDIFFERENT	2:10	SijOOgPq3NA	MPREb_gWzg4XgthVE	UC_MyXdVp3_P7pcbGh1mvskg
+198	Washed Away	Rivizion	Smooth Swaying	INDIFFERENT	2:21	GxKwbAxcqfI	MPREb_SDkrsKdaixO	UCvP8gbv5PkAy050joO-jU_Q
+228	Smooth Swaying	Rivizion	Smooth Swaying	INDIFFERENT	1:44	2TQJ6u8RJes	MPREb_SDkrsKdaixO	UCvP8gbv5PkAy050joO-jU_Q
+323	Blossom	RenBoz & Elsei	Blossom	INDIFFERENT	2:23	OYMrKLXTQJA	MPREb_X3ZoGDcRaJd	
+272	Really That	Relaxstation	Really That	INDIFFERENT	1:41	HXzf4URXCdA	MPREb_D3RjKZ41Lbm	UCHXZS5on6MTZ930MWs7_vOA
+295	Something Different	RejSende	Something Different	INDIFFERENT	2:06	s0gT0BHVR1k	MPREb_ozA4SdtBGmN	UC6SY7ZymXFBoBnu2Q0Ts31w
+395	On Vacation	RejSende	On Vacation	INDIFFERENT	2:09	32Wl2MkLW4o	MPREb_pst4hUXzZvF	UC6SY7ZymXFBoBnu2Q0Ts31w
+571	Sun Glare	RejSende	Sun Glare	INDIFFERENT	2:25	7Dqj7MZDL_g	MPREb_1mawNP09eUC	UC6SY7ZymXFBoBnu2Q0Ts31w
+537	NightRider	RdBeats	NightRider	INDIFFERENT	1:36	dXZInR9ZMpI	MPREb_p9qAc2OC0yI	UC3vzVlf1wyvjpYSEO0UA_kA
+563	Midnight Jam	Raven Paradox	Midnight Jam	INDIFFERENT	2:06	Z9a65aNI6SQ	MPREb_OWhFJ6SoZFa	UCFKSlXCSyE_fASIMYmseXFw
+489	Airport	Raouf Beats	Airport	INDIFFERENT	1:54	ES3d08o0bck	MPREb_ePcL66IG66t	UCNYPmrxjsN5LVjfsZZBOqOA
+542	Flow State	Raouf Beats	Flow State	INDIFFERENT	1:37	upXlBsejL_4	MPREb_6iRAfLc55Wg	UCNYPmrxjsN5LVjfsZZBOqOA
+529	Soul Honey	Raj	Back Again	INDIFFERENT	2:09	VvaYJtATIr4	MPREb_N2UKKLGzByK	
+552	Back Again	Raj	Back Again	INDIFFERENT	1:52	4cgrpLSy7mg	MPREb_N2UKKLGzByK	
+455	SleepWalk	RMB Justize	SleepWalk	INDIFFERENT	2:01	L86spWsaJ8U	MPREb_1ara6F8Gmuk	UC_Mi1ZiDtHDHrnlQ27vskKQ
+495	Boutique	RMB Justize	Boutique	INDIFFERENT	2:50	VD2SMJR_mmM	MPREb_qGttDQTEfTt	UC_Mi1ZiDtHDHrnlQ27vskKQ
+513	Shyne	RMB Justize	Shyne	INDIFFERENT	2:31	_AmpVgBoF9I	MPREb_XTC7ckmXfkM	UC_Mi1ZiDtHDHrnlQ27vskKQ
+534	Hollywood Hills	RMB Justize	Hollywood Hills	INDIFFERENT	2:19	jMhEKH_G3nQ	MPREb_UT9EWtADfAA	UC_Mi1ZiDtHDHrnlQ27vskKQ
+412	Topsy Turvy	Project AER	Topsy Turvy	INDIFFERENT	2:26	x8m0A4jQU6E	MPREb_x9lYelH5SsQ	UClhSluO0Czpg538Exzp2HUw
+672	death bed (coffee for your head)	Powfu	poems of the past	INDIFFERENT	2:54	JApegyYlvyY	MPREb_TMQTou217Gi	UC809pdzoMWSNMvbAoSSvuHA
+589	The Day	Porno Graffitti	The Day	INDIFFERENT	4:01	N8wfYwSDTa4	MPREb_nUHlBQNUxX1	UCSp8TEAV3jhZUbpxhzFA-fQ
+0	Timber	Pitbull	Global Warming: Meltdown (Deluxe Version)	INDIFFERENT	3:25	GcYF1xnmZTI	MPREb_pTcn3fVNsLo	UC03jIQv4WXBSHdr1DlCLYDw
+410	Délice	Pierson Booth	Délice	INDIFFERENT	1:50	Zd1AVe27zn0	MPREb_fYxxZ4aNWMo	UC3ZLJaZzgWFcaop5QmAuNuQ
+501	Dropping Petals	Pierson Booth	Seaside Garden	INDIFFERENT	2:01	IjW-FRgxNvw	MPREb_WKTQHKH5HIF	UC3ZLJaZzgWFcaop5QmAuNuQ
+520	Wave Washed	Pierson Booth	Seaside Garden	INDIFFERENT	2:00	8oluIYNaouQ	MPREb_WKTQHKH5HIF	UC3ZLJaZzgWFcaop5QmAuNuQ
+551	Melt	Phlocalyst, Myríad, & Imperial Sax	Melt	INDIFFERENT	2:00	jRACeHboQVw	MPREb_pWvfqBExwpi	
+293	Like It Used To Be	Phlocalyst & M e a d o w	Nature Of Thought	INDIFFERENT	2:24	fCp4jJ7Z0kw	MPREb_C6gFoOe13PB	
+325	Flowing Like Water	Phlocalyst & M e a d o w	Nature Of Thought	INDIFFERENT	2:20	J2N38PGem_0	MPREb_C6gFoOe13PB	
+352	True Self	Phlocalyst & M e a d o w	Nature Of Thought	INDIFFERENT	2:10	yHkLs0cHW_Q	MPREb_C6gFoOe13PB	
+342	Natural Balance	Phlocalyst	Purity	INDIFFERENT	2:39	1GDYS890UeI	MPREb_Q6CG6LqZ9FG	UCwrEC4qTUsWpHPyh6mrLWEA
+368	Few Desires	Phlocalyst	Purity	INDIFFERENT	2:43	9hCz16LUrqs	MPREb_Q6CG6LqZ9FG	UCwrEC4qTUsWpHPyh6mrLWEA
+376	Behind The Corner	Phlocalyst	Purity	INDIFFERENT	2:10	l3bc99Sb5sQ	MPREb_Q6CG6LqZ9FG	UCwrEC4qTUsWpHPyh6mrLWEA
+399	Sweet Home	Phlocalyst	Portals	INDIFFERENT	2:40	TNB8tf5qyvA	MPREb_FtTNEWeNXZd	UCwrEC4qTUsWpHPyh6mrLWEA
+414	Purity	Phlocalyst	Purity	INDIFFERENT	2:04	a8yHfE71Gak	MPREb_Q6CG6LqZ9FG	UCwrEC4qTUsWpHPyh6mrLWEA
+434	Muse	Phlocalyst	Portals	INDIFFERENT	2:24	qa-dCWxJNNA	MPREb_FtTNEWeNXZd	UCwrEC4qTUsWpHPyh6mrLWEA
+453	Step By Step	Phlocalyst	Portals	INDIFFERENT	2:37	qc-L5SpZ-fA	MPREb_FtTNEWeNXZd	UCwrEC4qTUsWpHPyh6mrLWEA
+477	Falling	Phlocalyst	Portals	INDIFFERENT	2:50	1SYTJKo3WGQ	MPREb_FtTNEWeNXZd	UCwrEC4qTUsWpHPyh6mrLWEA
+238	Adagio	Phil Gori	Adagio	INDIFFERENT	2:18	DmoHF1bfU1Y	MPREb_1fJ4mcvziqF	
+498	Warm Moments	Paxkalito	Warm Moments	INDIFFERENT	1:57	8jOImA9oCno	MPREb_xNB6kYxzTYv	UC8q9TrfB8NAQU7MTzAETxQw
+647	Cuddlin	Pandrezz	1 Am. Study Session	INDIFFERENT	2:57	wRei8RgH-R8	MPREb_d8mqe4d4UR0	UCMWhZrB0x7Q_THK_xatyH1A
+727	The Lamp is High (Extended Version) (feat. Lovn!)	Pambazo Boi	The Lamp is High [Extended Version]	INDIFFERENT	4:23	lWcLJjNw2RU	MPREb_Czzti0BKTwJ	UCHg1aW-ZMoJDP7mvA2MFpTA
+532	Tender Farewell	Ouflen & Fred Paci	Tender Farewell	INDIFFERENT	2:19	7UTxC1N2mGI	MPREb_pw2LOsV4Mqx	
+276	Sweet Illusion	Ouflen	Reflections	INDIFFERENT	1:56	HO4XvRfYVLQ	MPREb_8DbIkVABUKo	UC0QIIXI9fCIWviFMEjILMew
+328	Reflections	Ouflen	Reflections	INDIFFERENT	1:44	plVRsu1UL6E	MPREb_8DbIkVABUKo	UC0QIIXI9fCIWviFMEjILMew
+677	Path of the Wind	Otaku Lullaby	Studio Ghibli Lullabies (株式会社スタジオジブリ)	INDIFFERENT	4:10	gu1KwUh2WCE	MPREb_QTfE7EXqoQB	UCp3XZyYSDGY1tKe65pT0Vbg
+695	The Girl Who Fell From the Sky	Otaku Lullaby	Studio Ghibli Lullabies (株式会社スタジオジブリ)	INDIFFERENT	2:55	ZXVGOUxJdFo	MPREb_QTfE7EXqoQB	UCp3XZyYSDGY1tKe65pT0Vbg
+576	Bloody Stream (Jojo)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:37	4RkntTILUq0	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+577	We Are (One Piece)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:44	m8YgxEP9ZDU	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+578	Jiyuu No Tsubasa (SNK)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:44	C7_Ck1P7dVI	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+580	Pokemon Theme	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:46	LYvo7bdx6yk	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+581	Bye Bye Yesterday (Assassination Classroom)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:45	w2ftJ01H2aU	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+583	Odd Future (My Hero Academia)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	2:16	jDd5uNcJXk4	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+585	Death Parade (Flyers)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:47	juiM_ASavsU	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+586	Chala Head Chala (DBZ)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:48	jDJaTNt5qUc	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+591	Colors (Code Geass)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:44	GNGoZrZyGpo	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+593	Asterisk (Bleach)	Otaku	Anime Lofi Vol. 3	INDIFFERENT	1:43	XUlpq03FEcE	MPREb_UlBCjR1OgHE	UCuGCyYvBzPh6hUvRXSVnqrw
+612	Kyoran Hey Kids!! (Noragami Aragoto)	Otaku	Kyoran Hey Kids!! (Noragami Aragoto)	INDIFFERENT	1:50	A7tCMa8lE6E	MPREb_WeNQziNSu8Z	UCuGCyYvBzPh6hUvRXSVnqrw
+614	Departure! (Hunter X Hunter)	Otaku	Departure! (Hunter X Hunter)	INDIFFERENT	1:48	e9P0tqskB6I	MPREb_har2RT87mTk	UCuGCyYvBzPh6hUvRXSVnqrw
+615	Silhouette (Naruto Shippuden)	Otaku	Silhouette (Naruto Shippuden)	INDIFFERENT	1:54	BL3l8fRZeDU	MPREb_BXDza86cZNy	UCuGCyYvBzPh6hUvRXSVnqrw
+617	Guren No Yumiya (Attack On Titan)	Otaku	Guren No Yumiya (Attack On Titan)	INDIFFERENT	1:37	VsrwUrJP1tA	MPREb_ueSbKRIVr87	UCuGCyYvBzPh6hUvRXSVnqrw
+619	Again (Full Metal)	Otaku	Again (Full Metal)	INDIFFERENT	1:54	Wqw-8HzIQ4w	MPREb_vH3qxblTtEu	UCuGCyYvBzPh6hUvRXSVnqrw
+622	Hikaru Nara (Your Lie In April)	Otaku	Hikaru Nara (Your Lie In April)	INDIFFERENT	1:58	SzrMZW-maoo	MPREb_dCzmF7TbkXM	UCuGCyYvBzPh6hUvRXSVnqrw
+625	A Cruel Angel's Thesis (Neon Genesis Evangelion)	Otaku	A Cruel Angel's Thesis (Neon Genesis Evangelion)	INDIFFERENT	2:04	h4HY7qnMBVA	MPREb_0mUDmLhYOge	UCuGCyYvBzPh6hUvRXSVnqrw
+631	The Hero (One Punch Man)	Otaku	The Hero (One Punch Man)	INDIFFERENT	1:42	1NL6kbSl21s	MPREb_Inujk7EtLG5	UCuGCyYvBzPh6hUvRXSVnqrw
+637	Blue Bird (Naruto)	Otaku	Blue Bird (Naruto)	INDIFFERENT	1:52	kMu1xjRBeZw	MPREb_uwPUgxh6eq8	UCuGCyYvBzPh6hUvRXSVnqrw
+639	Unravel (Tokyo Ghoul) (slowed + reverb)	Otaku	Unravel (Tokyo Ghoul)	INDIFFERENT	2:52	YE5MPy04KR4	MPREb_4gitwrcAImC	UCuGCyYvBzPh6hUvRXSVnqrw
+742	Do Me That Favor	Ol' Burger Beats	Do Me That Favor	INDIFFERENT	2:52	EgRMSMRnj3M	MPREb_k2ETBRwY5jg	UCdMZTMRtw1KWIkRkii7c06A
+390	Orion	Oh, My.	Orion	INDIFFERENT	2:03	pM22icxoYIk	MPREb_ymqpMdIQMsx	UC4Ic5MJBcQ8iBRVFDmr5lXQ
+417	Sweet Samba	Oatmello & azayaka	Lighthouse	INDIFFERENT	1:32	Epb-TjmObs4	MPREb_W7Z0CYrZ5Sh	
+344	Infinity Pool	Oatmello & Guavas	Lighthouse	INDIFFERENT	1:51	Maekwo8nK64	MPREb_W7Z0CYrZ5Sh	
+360	Moonlight Samba	Oatmello & Guavas	Lighthouse	INDIFFERENT	1:47	qraNB5Q3H8k	MPREb_W7Z0CYrZ5Sh	
+333	Last Grains Of Sand	Oatmello	Lighthouse	INDIFFERENT	1:43	2lVOpI0DLpA	MPREb_W7Z0CYrZ5Sh	
+655	Good Night	Oatmello	Dove	INDIFFERENT	2:38	G7_QS8KyQOw	MPREb_AB2NUNj9tP5	UCeovrSzoxAQ0R3KMIXd0f9g
+676	Always With Me	ON THE LOFI	GHIBLI LOFI	INDIFFERENT	4:00	CqOLnD-Rcm4	MPREb_Pw3JedyiZ3L	UC6biHN0orlWyXrEu94MY89Q
+2	i d n f u 2 lm (remix)	OMXS	i d n f u 2 lm (remix)	INDIFFERENT	2:23	vSJPKQS78ro	MPREb_3fX9Hg8Eo2t	UCRc29vUwK-WtwqGvKVEh18w
+13	loophole	OMXS	TBD	INDIFFERENT	1:30	kRpYvwBlCK8	MPREb_dR5jDi0mwKa	UCRc29vUwK-WtwqGvKVEh18w
+54	obertyr	OMXS	i d n f u 2 lm (remix)	INDIFFERENT	2:34	9JfcVrwZZew	MPREb_3fX9Hg8Eo2t	UCRc29vUwK-WtwqGvKVEh18w
+646	Fireworks	Nymano	Hometown	INDIFFERENT	2:18	bs-i66JK5rs	MPREb_b7H8uSxtruz	UCvkOyh7xFyypk6U6uyWqhrQ
+473	Rooftop BBQ	Novvel	Rooftop BBQ	INDIFFERENT	2:22	UVbJ6VYh7dU	MPREb_Cy8ZvYak0eO	UCfZqF9jSuzQyM5kBswhWk8w
+321	Violet	Notation	Violet	INDIFFERENT	2:00	sp8tPPl191Q	MPREb_kWD1hYwMGg1	UC87l5e1ve1TIzVwH_xcWGHg
+220	Summer Chillz	Nosuchthang	Summer Chillz	INDIFFERENT	2:29	nK7Ar1d_rzQ	MPREb_VzpKPx7Ftiz	UCdYGam9j8N5dfTc9SudiSyQ
+260	Lofi Oasis	Nosuchthang	Lofi Oasis	INDIFFERENT	2:47	BbK2MUkp32E	MPREb_FChsKCxqd2u	UCdYGam9j8N5dfTc9SudiSyQ
+362	Escape	Nosuchthang	Escape	INDIFFERENT	2:17	J45eTN7MVS0	MPREb_ou5zq01rEom	UCdYGam9j8N5dfTc9SudiSyQ
+386	Tranquility	Nosuchthang	Tranquility	INDIFFERENT	2:31	wWuNz6mQAPU	MPREb_jSu3PEQqigY	UCdYGam9j8N5dfTc9SudiSyQ
+431	Dawn	Nosuchthang	Dawn	INDIFFERENT	2:06	Kee8-C3yF1Q	MPREb_bHhnH9AniGf	UCdYGam9j8N5dfTc9SudiSyQ
+449	Bowl & Roll	Nosuchthang	Bowl & Roll	INDIFFERENT	1:59	z7KmQxRiVoQ	MPREb_VKAw0ccVBvB	UCdYGam9j8N5dfTc9SudiSyQ
+490	Winter Sun	Nosuchthang	Headspace Zen	INDIFFERENT	2:28	dzA-2CPrpdM	MPREb_f04BkFhVNdz	UCdYGam9j8N5dfTc9SudiSyQ
+518	Headspace Zen	Nosuchthang	Headspace Zen	INDIFFERENT	2:20	ljPoOSy9iRA	MPREb_f04BkFhVNdz	UCdYGam9j8N5dfTc9SudiSyQ
+666	falling down (feat. shiloh)	Nohidea	Esuna	INDIFFERENT	1:37	tO3FagKo66M	MPREb_LssR4Zbd9fJ	UCva4fX_28j9fmi-u9uHSs8Q
+302	Those Who Wait	Nogymx & Twotrees	Those Who Wait	INDIFFERENT	2:02	o8gDdYPvY5k	MPREb_e1CYmtH1LYY	
+327	Good Things	Nogymx & Twotrees	Those Who Wait	INDIFFERENT	1:39	6ftbQT-HQm4	MPREb_e1CYmtH1LYY	
+527	Slow Energy	Nobel	Slow Energy	INDIFFERENT	2:37	x_4KU8lBUh4	MPREb_H5CAUJgmWYM	UCZIo0_yCDEmMaIIo3eFKSgg
+336	Lanterns	Nineteen Essences & Strong.AL&	Lanterns	INDIFFERENT	2:28	TZL0qBJ5gwo	MPREb_5JWWSxq9xc5	
+588	if i could call on you	Ngyn	if i could call on you	INDIFFERENT	2:09	l6crSSSOY-8	MPREb_IeWV5l4eSkd	UC-MkzMur8HQSy1XwI41iUpg
+416	Smooth Ride	Neo Soul Acid Jazz Collective	Soulemetry	INDIFFERENT	4:15	xdQe6TI7A7M	MPREb_6PCqKveIiaT	UCl1kdttO8X5LRQjSGgFhemA
+213	Our Summer	Neele Harder	Our Summer	INDIFFERENT	1:58	nhDk2UXQnQk	MPREb_FtHcKg0Y98N	UCvjTgFuNFfkjejgSHIEaJYg
+715	Ueno	Nathan Kawanishi	Ueno	INDIFFERENT	2:43	NOnBVY7j6k8	MPREb_jRusOGCwndL	UCBxGzwKrBLToRcqLciJX7Kg
+595	the WORLD	NIGHTMARE	the WORLD/Alumina	INDIFFERENT	3:55	b4vc629T4b8	MPREb_RQRttvZdGbH	UCJ5xSMuX7MCHJ3pzX7fCLcw
+380	Peaceful	MyceliumBug	Minerals	INDIFFERENT	1:53	RYVKbJiLwMM	MPREb_KeXzcbYKsgu	UCNv62q12Qgd2p5xlOgPiO6w
+411	Minerals	MyceliumBug	Minerals	INDIFFERENT	2:18	bGdWDNNz9LU	MPREb_KeXzcbYKsgu	UCNv62q12Qgd2p5xlOgPiO6w
+508	Touching Grass	MyceliumBug	Touching Grass	INDIFFERENT	2:10	ylHvd63xwJc	MPREb_HYqYu7CAIi5	UCNv62q12Qgd2p5xlOgPiO6w
+574	Ricotta Cake	Mujo	Ricotta Cake	INDIFFERENT	1:27	tNO_2LG1b_c	MPREb_3mtg4FSkpXM	UCBPFTTswQPfuq479x1ylGig
+721	Fool.	Mora	Fool.	INDIFFERENT	2:45	JRIPLXF8cv0	MPREb_yIfunXitv71	UCXUTYIv41u5FJHhwcQ3um0g
+187	Waiting	Moon Ghetto	Waiting	INDIFFERENT	2:18	B7KalnMqoGM	MPREb_BxC2ouoyFGR	UCTzzWvpB2NgXCaM54wJUkHA
+239	Lowrider	Moon Ghetto	Lowrider	INDIFFERENT	1:51	rdSWB6wOkSw	MPREb_kl8MdPedvCE	UCTzzWvpB2NgXCaM54wJUkHA
+697	Can't Love Myself (feat. Mishaal)	Monty Datta	Can't Love Myself	INDIFFERENT	2:03	jq2XBNlABVA	MPREb_RIKFivVMqJy	UC9eXaAHHI70CBVvFV9nOu_w
+229	A Sparkling Day	Monocloud	A Sparkling Day	INDIFFERENT	2:09	s7FDr81Sr30	MPREb_nOA3dGJuC6O	UCIl_2LpxjJwa5Yci7fVGh8Q
+317	Far From Home	Monocloud	Infinite Travels	INDIFFERENT	2:09	m-pDp5My7rI	MPREb_8WEW9RVKiXY	UCIl_2LpxjJwa5Yci7fVGh8Q
+364	Infinite Travels	Monocloud	Infinite Travels	INDIFFERENT	2:18	TuxzCjLPwi0	MPREb_8WEW9RVKiXY	UCIl_2LpxjJwa5Yci7fVGh8Q
+407	Autumn Ride	Monocloud	Autumn Ride	INDIFFERENT	2:19	WQYT8-FxYo8	MPREb_3yOVphcFG8c	UCIl_2LpxjJwa5Yci7fVGh8Q
+346	Fragments	Mondo Loops	The Passage Of Time	INDIFFERENT	2:33	IpgpT9uFMY0	MPREb_V4aampEl8aS	UCNFKlIyDJTdmV1oeHdSZ0Xg
+388	The Passage Of Time	Mondo Loops	The Passage Of Time	INDIFFERENT	2:00	OjyyKreEPy4	MPREb_V4aampEl8aS	UCNFKlIyDJTdmV1oeHdSZ0Xg
+408	Baobei	Modokat	Baobei	INDIFFERENT	2:09	p2sXRocORy8	MPREb_6yDpWUQFNFR	UCyXqF9zqG5DHcY1TegZw8bQ
+382	Rainy Latte	Mister Decaf	Rainy Latte	INDIFFERENT	2:18	fviGb-GnAcM	MPREb_ZOa1EeQlBOd	UC7Zm55QkpkuvXeh6wzJdXEQ
+82	I Saw a Ghost	Miro Mas	Portals	INDIFFERENT	2:14	bc2Rm7wHuBU	MPREb_SnJgyUG43fE	UCDyvdzQ1mrId2IgmBS-AmAw
+84	Waiting For Love	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	3:11	gUpI5r17B8M	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+86	Apologize	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	2:37	CbfhpW_3xSs	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+88	Numb	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	2:56	_ti7q4QEsWA	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+91	Stay High	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	3:12	pzA6VsY39D0	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+105	Nora	Miro Mas	Portals	INDIFFERENT	2:18	f9lJFF0-jhw	MPREb_SnJgyUG43fE	UCDyvdzQ1mrId2IgmBS-AmAw
+115	Portals	Miro Mas	Portals	INDIFFERENT	2:42	FGC7-koV95g	MPREb_SnJgyUG43fE	UCDyvdzQ1mrId2IgmBS-AmAw
+118	Purple Rain	Miro Mas	Portals pt 2	INDIFFERENT	4:02	A-AfRIkzz7A	MPREb_uKHygTid0E6	UCDyvdzQ1mrId2IgmBS-AmAw
+129	Red Bottom Sky	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	3:33	P_FtzyTWRzk	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+131	Summertime Sadness	Miro Mas	Portals pt 2	INDIFFERENT	4:10	hNaX_mMha08	MPREb_uKHygTid0E6	UCDyvdzQ1mrId2IgmBS-AmAw
+139	My Mind & Me	Miro Mas	Portals pt 2	INDIFFERENT	2:39	y0PGFsT6-0w	MPREb_uKHygTid0E6	UCDyvdzQ1mrId2IgmBS-AmAw
+151	Faded	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	3:08	QzAZgeHamHk	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+158	Bad Habits	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	3:12	-16M6Z8EmUg	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+159	California Dreamin'	Miro Mas	Portals pt 2	INDIFFERENT	2:31	_DCQq-RET80	MPREb_uKHygTid0E6	UCDyvdzQ1mrId2IgmBS-AmAw
+174	Running Up That Hill (A Deal With God)	Miro Mas	Portals pt 2	INDIFFERENT	4:28	oOQYzYNgN4s	MPREb_uKHygTid0E6	UCDyvdzQ1mrId2IgmBS-AmAw
+178	Hotline Bling	Miro Mas	I've Seen You Somewhere Before	INDIFFERENT	3:10	wtYvIbUGAkA	MPREb_S5qz3jLhBK7	UCDyvdzQ1mrId2IgmBS-AmAw
+378	Appetizer	Mindscape	Appetizer	INDIFFERENT	2:22	1zJ7lnHzX6A	MPREb_gOHOGug9exE	UCEttTHEWOxOYTgLZl0UsPqg
+425	Vibe Check	Mindscape	Vibe Check	INDIFFERENT	2:26	4chH2tRLKBU	MPREb_MT2hczxxTG8	UCEttTHEWOxOYTgLZl0UsPqg
+570	Homecoming	Mindeliq	Homecoming	INDIFFERENT	2:13	DqGTbmQQzZY	MPREb_9sWYCRjBIAS	UCtU5fku0OY_k-nQrmnKemJg
+718	Smokeloud	Millennium Jazz Music	Made in Germany: On the Radar, Vol.2	INDIFFERENT	3:31	gfgA4A5RvZQ	MPREb_PImKAoGgyHE	UC79nD3f3XnECdKTWhG_h-jA
+712	Morning Glory	Melodiesinfonie	Chillhop Essentials Winter 2018	INDIFFERENT	3:31	bN9nt2AoHp4	MPREb_DAtYyHzajvk	UCmUU8eMgtsnSiP8stIq-maw
+747	Time	Maxo	LIL BIG MAN	INDIFFERENT	3:23	7JC7Ly3rHLg	MPREb_0LcC9fbH319	UCMqEmeB5mHMEXLr0FR5IvJw
+564	Samba Bahia	Max Merseny, Living Room, & Viktor Minsky	Samba Bahia	INDIFFERENT	2:01	pm6nBc-YdW0	MPREb_1w3fJ7TPClV	
+541	Cozy Summer	Max Merseny	Samba Bahia	INDIFFERENT	2:07	KwCoFvr9pRI	MPREb_1w3fJ7TPClV	UCMmiTkO30yNY3UduV53-fnw
+215	Étude de Jazz	Matchbox Youth	Étude de Jazz	INDIFFERENT	1:48	j7ghpx4vJcc	MPREb_EjVPVEY6JCy	UCKUWSpxvifcVObwyuFUIz3A
+252	Yak	Matchbox Youth	Yak	INDIFFERENT	1:41	Q4JMxGBGKLQ	MPREb_v7eSl5Nj2qT	UCKUWSpxvifcVObwyuFUIz3A
+438	Bluepress	Matchbox Youth	Bluepress	INDIFFERENT	1:58	bKimicBabG4	MPREb_LVdhmSKrizW	UCKUWSpxvifcVObwyuFUIz3A
+335	Ocean View	Marc Brave	Ocean View	INDIFFERENT	2:28	PwrlkqLEZKU	MPREb_qLfHfSxzOvg	UC9974SyYuNct2nta03CnMbA
+728	Faded	Mago	Faded	INDIFFERENT	2:21	E4IUpmbmCWc	MPREb_BgMTWjdvcqT	UCTnxZxJjllgTW6HK2mYMkXQ
+658	Old Roots New Trees	Made in M	Nest	INDIFFERENT	1:33	LQqWTA2cdo8	MPREb_kxmvIH2AY4e	UCyIXAvPUq_w_S-5LN9dh8WQ
+277	Obrigado	Maadrhino	Obrigado	INDIFFERENT	2:27	slTo6QJZoJk	MPREb_ktFsdUSF5XW	UC4kzeS8bLza5D_2hn_BvM8w
+497	Mansion	Maadrhino	Mansion	INDIFFERENT	2:13	4MUrJpX3tgw	MPREb_GUwVDS1ogtF	UCSxkTavwywe6ycr7yWOg6sQ
+744	Reason	Maadrhino	Reason	INDIFFERENT	3:01	FwXdsxBRQjw	MPREb_FVW1rtse1nx	UCRrNk5bCOCezYOoxWkU3NXQ
+602	Renai Circulation	MONOGATARI Series	Bakemonogatari Gekihanongakushu (Original Soundtrack)	INDIFFERENT	4:16	F8xpmTmdf6o	MPREb_tKicDJj9oIc	UCdhLVXIImQM7z6f52fapubw
+483	A Magical Day	Lucid Keys	A Magical Day	INDIFFERENT	2:18	WIpkjLfQgnk	MPREb_2RMbZmX6xAE	
+738	Damselfly (feat. Tom Misch)	Loyle Carner	Yesterday's Gone	INDIFFERENT	2:53	br78GX7O16E	MPREb_7a9maBOnyEZ	UC-pW_2ayTyOJbqVOXNWE9jw
+517	Spindle	Loyae	Presence	INDIFFERENT	2:17	HsuJg2MOcds	MPREb_qgeD90ww3Zs	
+526	Presence	Loyae	Presence	INDIFFERENT	2:10	rT2saImZEdY	MPREb_qgeD90ww3Zs	
+544	Somber	Loyae	Presence	INDIFFERENT	2:00	xi4bWCkAVjk	MPREb_qgeD90ww3Zs	
+557	Escapism	Loyae	Presence	INDIFFERENT	1:53	uLZs5ddQtYM	MPREb_qgeD90ww3Zs	
+303	Slowing Down	Lowkey	Slowing Down	INDIFFERENT	1:25	t0UKjS2NAfc	MPREb_cMyXymGH5jk	
+367	Midnight Breeze	Lowkey	Midnight Breeze	INDIFFERENT	1:48	rwCHOt61d4k	MPREb_QuO06DkBIly	
+396	Sailing	Lowkey	Midnight Breeze	INDIFFERENT	1:55	SxeFe7ZjCwQ	MPREb_QuO06DkBIly	
+688	Love Yourself	Lofi Fruits Music	Concentrate Your Mind	INDIFFERENT	1:37	_A7RUg3bC4o	MPREb_p5V3i3l3Se8	UCJ3cNdzS04IpL6p9rmN34Hw
+279	Tivoli	Loafy Building	Tivoli	INDIFFERENT	2:06	wwy-uFpfrrU	MPREb_2Z6vgcYqUJe	UCZjRExF_z-Inxe-WC2XH9wg
+334	Cyra	Loafy Building	Cyra	INDIFFERENT	2:58	YMwX-bRZB4Q	MPREb_USQNDoUY502	UCZjRExF_z-Inxe-WC2XH9wg
+499	Ha Long Bay	Loafy Building	Ha Long Bay	INDIFFERENT	2:40	CMaEEXmIP5w	MPREb_Hnfjwn3Qplm	UCZjRExF_z-Inxe-WC2XH9wg
+594	Mountain Vibes	LoFi Waiter	Time Fragments	INDIFFERENT	0:46	URfoZN51tKw	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+599	By the Sea	LoFi Waiter	Time Fragments	INDIFFERENT	0:48	2B56Nyn26qs	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+605	Crackling Beat	LoFi Waiter	Time Fragments	INDIFFERENT	0:39	-aQ1zPPgROs	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+606	Chill Afternoon	LoFi Waiter	Shibuya	INDIFFERENT	1:55	zyRQRS9MNdc	MPREb_EYVuDG6YURy	UCaPUAxJbnMvTCgySM5Zvw9g
+611	Childhood Fragments	LoFi Waiter	Time Fragments	INDIFFERENT	0:45	yyHf-bZQhKQ	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+613	Unrushed	LoFi Waiter	Time Fragments	INDIFFERENT	0:48	cATpdYs3fXc	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+616	At the Library	LoFi Waiter	Time Fragments	INDIFFERENT	0:36	pDt1hUZD0Cc	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+620	I Miss You	LoFi Waiter	Time Fragments	INDIFFERENT	0:43	ipqPLCSu4k4	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+621	Morning Dew	LoFi Waiter	Rainy Nights	INDIFFERENT	1:33	eJMmYif3nu8	MPREb_AdUjZ42hrMT	UCaPUAxJbnMvTCgySM5Zvw9g
+623	2AM Study	LoFi Waiter	Time Fragments	INDIFFERENT	0:46	UAvDIXIge8o	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+624	Falling Asleep	LoFi Waiter	Rainy Nights	INDIFFERENT	1:33	IkcemG5k3V4	MPREb_AdUjZ42hrMT	UCaPUAxJbnMvTCgySM5Zvw9g
+626	Cosy Rain	LoFi Waiter	Rainy Nights	INDIFFERENT	2:00	Ydus0w00-5I	MPREb_AdUjZ42hrMT	UCaPUAxJbnMvTCgySM5Zvw9g
+627	Rainy Morning	LoFi Waiter	Time Fragments	INDIFFERENT	0:47	SP7QZiMUer8	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+628	Reminiscence	LoFi Waiter	Time Fragments	INDIFFERENT	0:52	f8lZNrsykzY	MPREb_ooqKwnUSoZ3	UCaPUAxJbnMvTCgySM5Zvw9g
+629	Have a Nice Day	LoFi Waiter	Coffee Sunrise	INDIFFERENT	1:13	GAodqFY2wL8	MPREb_UfHjg1cbugx	UCaPUAxJbnMvTCgySM5Zvw9g
+630	Back To Me	LoFi Waiter	Coffee Sunset	INDIFFERENT	2:10	0uxK4XLS_dc	MPREb_lSOeHRnevWL	UCaPUAxJbnMvTCgySM5Zvw9g
+632	Chilling By The Window	LoFi Waiter	Rainy Nights	INDIFFERENT	1:57	hhkM-kqOPLI	MPREb_AdUjZ42hrMT	UCaPUAxJbnMvTCgySM5Zvw9g
+633	Espresso	LoFi Waiter	Coffee Sunset	INDIFFERENT	1:59	vbuUM5CchPU	MPREb_lSOeHRnevWL	UCaPUAxJbnMvTCgySM5Zvw9g
+634	Fall Vibes	LoFi Waiter	Cold Morning	INDIFFERENT	1:57	y5TE7aid4sQ	MPREb_fMYMrraWnUX	UCaPUAxJbnMvTCgySM5Zvw9g
+635	Sunset Coffee	LoFi Waiter	Coffee Sunset	INDIFFERENT	2:22	7rAJ8ZLwEwM	MPREb_lSOeHRnevWL	UCaPUAxJbnMvTCgySM5Zvw9g
+636	Night Drive	LoFi Waiter	A Night in Tokyo	INDIFFERENT	2:01	PFvmFlJyTsg	MPREb_doctt4l6KNY	UCaPUAxJbnMvTCgySM5Zvw9g
+638	Shukudai	LoFi Waiter	A Night in Tokyo	INDIFFERENT	1:58	q7MvQvzpDtc	MPREb_doctt4l6KNY	UCaPUAxJbnMvTCgySM5Zvw9g
+640	Jazzy Afternoon	LoFi Waiter	A Night in Tokyo	INDIFFERENT	1:37	XfA60UWYrkE	MPREb_doctt4l6KNY	UCaPUAxJbnMvTCgySM5Zvw9g
+641	Japanese Winter	LoFi Waiter	A Night in Tokyo	INDIFFERENT	1:49	rCYdCIFrzwY	MPREb_doctt4l6KNY	UCaPUAxJbnMvTCgySM5Zvw9g
+644	Ride in The Park	LoFi Waiter	Shibuya	INDIFFERENT	1:44	FcuecmQVcsg	MPREb_EYVuDG6YURy	UCaPUAxJbnMvTCgySM5Zvw9g
+645	Shibuya	LoFi Waiter	Shibuya	INDIFFERENT	1:45	P04FoDlkagQ	MPREb_EYVuDG6YURy	UCaPUAxJbnMvTCgySM5Zvw9g
+659	Walking in Ueno	LoFi Waiter	Coffee Sunrise	INDIFFERENT	1:32	-UDzTa5WOqw	MPREb_UfHjg1cbugx	UCaPUAxJbnMvTCgySM5Zvw9g
+660	Enter the Coffee Shop	LoFi Waiter	Coffee Sunrise	INDIFFERENT	3:07	NBOSKDpq4iE	MPREb_UfHjg1cbugx	UCaPUAxJbnMvTCgySM5Zvw9g
+682	Midnight Macchiato	LoFi Waiter	Coffee Sunrise	INDIFFERENT	2:04	JC-U8fXcKwU	MPREb_UfHjg1cbugx	UCaPUAxJbnMvTCgySM5Zvw9g
+686	Cold Morning	LoFi Waiter	Cold Morning	INDIFFERENT	2:04	oI9wTZU5LsI	MPREb_fMYMrraWnUX	UCaPUAxJbnMvTCgySM5Zvw9g
+689	Watching The Rain	LoFi Waiter	Rainy Nights	INDIFFERENT	1:37	o8IwgNWJJCA	MPREb_AdUjZ42hrMT	UCaPUAxJbnMvTCgySM5Zvw9g
+699	The Girl With the Cappuccino	LoFi Waiter	Coffee Sunrise	INDIFFERENT	1:55	8P_xkYjvZFM	MPREb_UfHjg1cbugx	UCaPUAxJbnMvTCgySM5Zvw9g
+691	Cauliflowers Fluffy	Lizzy Hardingham	Little Songs	INDIFFERENT	1:56	80zlbZTk1YU	MPREb_OHTHF0TKNUv	UCT42lvD5OMo2lWySQCa8Z-w
+506	Snowday	Linearwave	A Lofi Jazz Christmas	INDIFFERENT	2:19	HsPinTCLXxs	MPREb_z2q13uNH9yT	UCZpFPOXSFMIIcMPzCcvy3cg
+539	Gingerbread	Linearwave	Gingerbread	INDIFFERENT	2:28	dU1fhQRJeFY	MPREb_UlJpMzr9a0g	UCZpFPOXSFMIIcMPzCcvy3cg
+147	LOVEFOOL	Lil Percoskett	LOVEFOOL	INDIFFERENT	2:34	DN5_bja9qLk	MPREb_8FFSidNH6Ob	UCpqGQZPMryUH6MOz_2jSUVQ
+316	Reminiscing Life	Lil Gromit	Reminiscing Life	INDIFFERENT	1:53	jrVp-_BvTQs	MPREb_Dci8rSX6d9V	UCDSqvykL8YspUkSik47Ze3A
+604	Crossing Field	LiSA	LANDSPACE	INDIFFERENT	4:09	F9GXgPHeKfA	MPREb_QW5FPHSMsLy	UCt4rbOMLsVxeMsoaRdTfr5A
+722	Balcony (feat. ntourage)	Lester Nowhere	Groove Marauders	INDIFFERENT	2:00	CjSsqj9d2YQ	MPREb_GGZ6vrLSJwH	UCNoLIfgIv8zo2yq-lb_NXMg
+248	Illusions	Less Gravity	Illusions	INDIFFERENT	2:14	gkJ_OQr9HyA	MPREb_iWM3vmA1j8v	UCY9NluXrnMTN7EYFh8w6z1Q
+375	Haunted Castle	Lenny B	Haunted Castle	INDIFFERENT	2:27	n1_siKABoz0	MPREb_yw42vrdmBfY	UCbnORHZR1u5HRpOvsOPR1ig
+383	Trick Or Treat	Lenny B	Trick Or Treat	INDIFFERENT	2:15	Lz1PcIlhX-s	MPREb_LX4leMnGYA0	UCbnORHZR1u5HRpOvsOPR1ig
+351	Tree Of Life	Lawrence Walther, Solar Body, & Seek Shelter	Tree Of Life	INDIFFERENT	2:59	4JhAAMO4iNY	MPREb_oZdVIclrfYy	
+372	Inner Peace	Lawrence Walther, Solar Body, & Seek Shelter	Tree Of Life	INDIFFERENT	2:38	xly6-0-jXs4	MPREb_oZdVIclrfYy	
+286	Odyssey	Lawrence Walther, Jason Masoud, & plutones	Odyssey	INDIFFERENT	2:31	6uuSi3fDxuI	MPREb_XzVyCedyWXG	
+569	Ocean Glimmer	Lawrence Walther	Ocean Glimmer	INDIFFERENT	1:43	P6ezYLyz9cs	MPREb_ginmW9BbD27	UCsQLCfo1wDN63zpTRUidu1w
+205	SoulRight	Lamar Azul	SoulRight	INDIFFERENT	2:33	X-ZQw5ewrOw	MPREb_2yIxGtl6cRk	UCZVlqEeXcGvURWwZiOf1lMg
+298	NY Flavastyle	Lamar Azul	NY Flavastyle	INDIFFERENT	2:10	b0nEwNNSlas	MPREb_T2ePvZ570Yl	UCZVlqEeXcGvURWwZiOf1lMg
+322	Infinity Pools	Lamar Azul	Infinity Pools	INDIFFERENT	2:53	t-egrfCBdK8	MPREb_xglzlNIbFpf	UCZVlqEeXcGvURWwZiOf1lMg
+405	FlowRidin'	Lamar Azul	FlowRidin'	INDIFFERENT	2:06	GtseYvdNAFM	MPREb_27yFuFJK7Ku	UCZVlqEeXcGvURWwZiOf1lMg
+479	Hypnotize	Lamar Azul	Hypnotize	INDIFFERENT	2:10	acx7ZdOLwVs	MPREb_QfnHCq5jOMX	UCZVlqEeXcGvURWwZiOf1lMg
+561	Vibrations	Lamar Azul	Vibrations	INDIFFERENT	2:23	4kkDKgG17no	MPREb_CjVCmz9rExT	UCZVlqEeXcGvURWwZiOf1lMg
+572	Soulitude	Lamar Azul	Soulitude	INDIFFERENT	2:01	0xf8BQ9th6Q	MPREb_1NXjmezsWEz	UCZVlqEeXcGvURWwZiOf1lMg
+573	Costa Vermella	La Cantina	Costa Vermella	INDIFFERENT	2:25	tijwZjnmqRU	MPREb_ufWSDd4tGuD	UC_P6ZuiFNLvCPZyzI8hia5g
+3	Obsession	LAV8	Jukebox	INDIFFERENT	2:10	dsBaZSKjwUs	MPREb_IXo1tFwpHGA	UCkH34Q9Gn9VvSWyLH7PiV9w
+19	Jukebox	LAV8	Jukebox	INDIFFERENT	2:24	D5_OMbtvPXI	MPREb_IXo1tFwpHGA	UCkH34Q9Gn9VvSWyLH7PiV9w
+23	Yesterday	LAV8	Covers Collection (Vol. 2)	INDIFFERENT	2:01	co1akcL7OkY	MPREb_gmJO0sGcB12	UCkH34Q9Gn9VvSWyLH7PiV9w
+27	Yummy	LAV8	Covers Collection	INDIFFERENT	2:30	TgIaOrjDaiI	MPREb_EpVaFtWsReG	UCkH34Q9Gn9VvSWyLH7PiV9w
+29	Yellow	LAV8	Covers Collection	INDIFFERENT	2:15	1xy2VNMjSjU	MPREb_EpVaFtWsReG	UCkH34Q9Gn9VvSWyLH7PiV9w
+32	Fly Me to the Moon	LAV8	Covers Collection	INDIFFERENT	1:52	I7_t2PTDnGE	MPREb_EpVaFtWsReG	UCkH34Q9Gn9VvSWyLH7PiV9w
+34	Ain't No Sunshine	LAV8	Covers Collection (Vol. 2)	INDIFFERENT	2:35	3c3wetXe-x4	MPREb_gmJO0sGcB12	UCkH34Q9Gn9VvSWyLH7PiV9w
+53	Sunflower	LAV8	Covers Collection	INDIFFERENT	2:06	tF8QME2Ab6E	MPREb_EpVaFtWsReG	UCkH34Q9Gn9VvSWyLH7PiV9w
+83	Seven Nation Army	LAV8	Covers Collection (Vol. 3)	INDIFFERENT	3:41	TSDKmy__SzE	MPREb_MspyGutJinY	UCkH34Q9Gn9VvSWyLH7PiV9w
+87	I'm Yours	LAV8	Covers Collection (Vol. 2)	INDIFFERENT	3:10	YmQtP_284uQ	MPREb_gmJO0sGcB12	UCkH34Q9Gn9VvSWyLH7PiV9w
+89	(Sittin' On) the Dock of the Bay	LAV8	Covers Collection (Vol. 2)	INDIFFERENT	2:13	8ih67LI4lvA	MPREb_gmJO0sGcB12	UCkH34Q9Gn9VvSWyLH7PiV9w
+124	Hold On	LAV8	Covers Collection (Vol. 4)	INDIFFERENT	2:54	DWBvExS1dzU	MPREb_KJtBwAhgXFs	UCkH34Q9Gn9VvSWyLH7PiV9w
+132	Best Part	LAV8	Covers Collection (Vol. 4)	INDIFFERENT	4:04	vARGpbUqo2g	MPREb_KJtBwAhgXFs	UCkH34Q9Gn9VvSWyLH7PiV9w
+140	Feel Good Inc.	LAV8	Covers Collection (Vol. 4)	INDIFFERENT	3:50	ahQVnT5wWOI	MPREb_KJtBwAhgXFs	UCkH34Q9Gn9VvSWyLH7PiV9w
+156	Californication	LAV8	Covers Collection (Vol. 3)	INDIFFERENT	4:24	bptlsooWy24	MPREb_MspyGutJinY	UCkH34Q9Gn9VvSWyLH7PiV9w
+160	I Want It That Way	LAV8	Covers Collection (Vol. 4)	INDIFFERENT	3:35	qLxZJ27F4h8	MPREb_KJtBwAhgXFs	UCkH34Q9Gn9VvSWyLH7PiV9w
+166	Pink + White	LAV8	Covers Collection (Vol. 4)	INDIFFERENT	3:20	WGhXfjr46Hg	MPREb_KJtBwAhgXFs	UCkH34Q9Gn9VvSWyLH7PiV9w
+168	Jealous	LAV8	Covers Collection (Vol. 3)	INDIFFERENT	4:05	kMRhQenbP7Q	MPREb_MspyGutJinY	UCkH34Q9Gn9VvSWyLH7PiV9w
+182	Redbone	LAV8	Covers Collection	INDIFFERENT	2:09	k5vz-CNmpac	MPREb_EpVaFtWsReG	UCkH34Q9Gn9VvSWyLH7PiV9w
+649	Roots	Kupla	Kingdom in Blue	INDIFFERENT	2:19	yLNBcGSKrXo	MPREb_hiYYndY0HeO	UCXDXGJcbXFnzsiyh9EVD7FQ
+661	Sleepy Little One	Kupla	Kingdom in Blue	INDIFFERENT	2:34	mh8e-HTaVOQ	MPREb_hiYYndY0HeO	UCXDXGJcbXFnzsiyh9EVD7FQ
+669	Kingdom in Blue	Kupla	Kingdom in Blue	INDIFFERENT	3:22	Wi1MBqYEg6Y	MPREb_hiYYndY0HeO	UCXDXGJcbXFnzsiyh9EVD7FQ
+356	Stars In The Night	Kosibeats	Stars In The Night	INDIFFERENT	2:25	CMifRzQ1kGI	MPREb_DO38sSIMMze	UCxddMLLWiN0f44G_-85opDw
+734	Talk About Us (feat. Ady Suleiman)	Kofi Stone	Talk About Us	INDIFFERENT	3:16	Obt90Ud6BF0	MPREb_AZuMZvMMeww	UCPI0soKh5PL4r6Px4BJwXjQ
+345	A Day In The Cabin	KioKo & fosse	A Day In The Cabin	INDIFFERENT	2:07	muBmkvJ-pG8	MPREb_4YkJYgpKn4q	
+694	Can We Kiss Forever? (feat. Adriana Proenza)	Kina	Can We Kiss Forever?	INDIFFERENT	3:08	-AdptiRTx6o	MPREb_Vu9PWMMwC5M	UC-9_AbC8O5k1wi73ssytgzQ
+700	Get You The Moon (feat. Snøw)	Kina	Get You The Moon	INDIFFERENT	3:00	JtN3eRbSHEM	MPREb_h6l3YIjCzDz	UC-9_AbC8O5k1wi73ssytgzQ
+608	My War but is it okay if it's lofi?	Kijugo	My War but is it okay if it's lofi?	INDIFFERENT	1:42	nkei22ZgEtE	MPREb_0PRGeQMoD7o	UCxW-KiOyle077bsbmV2ssYA
+254	Invisible Crowd	Kid Kio	Invisible Crowd	INDIFFERENT	2:21	2yJWVWYngqg	MPREb_WLE3f9xBSyx	UCXGFExCDXoo4pHgn3CyMCWQ
+445	Oasis	Kiabits & O.Cas	Oasis	INDIFFERENT	2:23	Z7-WAqycLfM	MPREb_cy1SbcQQu8R	
+415	Transmission	Kiabits	Transmission	INDIFFERENT	2:15	armksCGieW8	MPREb_isGCLAOR3MB	UCuvLFO57WgB4B5KaIZVSE6Q
+685	Merry Go Round (Single Version) [2007 Remaster] (Single Version; 2007 Remaster)	Keith Sweat	The Best of Keith Sweat: Make You Sweat	INDIFFERENT	4:56	DJYzrGgZCOM	MPREb_bcWkFaQ3Co1	UC7v5FONZo2ZVJtm08gHbNaw
+724	First Choice	Kavv	First Choice	INDIFFERENT	1:42	QgvF64j2rkM	MPREb_msRKiCQgAPB	UCc_5Ni6CrP0SX6yDj-RlE-w
+16	Brighter Skies	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:18	oWL21PNMmWk	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+24	Droplets	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:58	OMGwYOxrvYA	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+26	After the Rain	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:40	CHvSx_AJwM8	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+28	Mori to Machi	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:30	Kl3e2aCwOx8	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+39	Comfy & Calm	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:54	yA4fCehKJfc	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+49	First Glance	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:58	1YxH2eZuggo	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+50	Moving Clouds	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:21	W3y1K0pFQ4Y	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+56	Zone Out	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:35	zw3uDstuzmQ	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+100	Ryokan Steam Machine	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:52	8vZhEMDzAKc	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+116	The Silent Train	Kamakuras	Ryokan Steam Machine	INDIFFERENT	2:38	cuMJK3QCZyw	MPREb_rHkTnudYgnk	UClcp8ObbzGJun0saU-JuMTA
+171	Mad World	Kamakuras	Mad World	INDIFFERENT	3:39	WQmyou8YB4A	MPREb_aRZFHQF0qiF	UClcp8ObbzGJun0saU-JuMTA
+237	Throwing Sticks	Kainbeats	Tradition	INDIFFERENT	1:58	p-1GTjLb1jY	MPREb_gvY5FSqOgId	UCTC2H5TTtKCRs5rG_spJDAw
+244	Tradition	Kainbeats	Tradition	INDIFFERENT	2:13	S5ku1sL9UaY	MPREb_gvY5FSqOgId	UCTC2H5TTtKCRs5rG_spJDAw
+264	Find Your Meaning	Kainbeats	Tradition	INDIFFERENT	2:15	yjxG4gdnXKw	MPREb_gvY5FSqOgId	UCTC2H5TTtKCRs5rG_spJDAw
+427	A Magical Time	Kainbeats	A Magical Time	INDIFFERENT	2:47	xPZEmztwsts	MPREb_KNR6DZRKqky	UCTC2H5TTtKCRs5rG_spJDAw
+448	Under The Glowing Star	Kainbeats	A Magical Time	INDIFFERENT	2:14	XbH9uP2MHjY	MPREb_KNR6DZRKqky	UCTC2H5TTtKCRs5rG_spJDAw
+740	Simonal (feat. Blu & Damu The Fudgemunk)	K.A.A.N.	Simonal	INDIFFERENT	3:48	nOO5qPviCmU	MPREb_PbfF9Y0Ifjm	UCw8zvf9eWMuSGBug0nx8oKg
+257	Chilliad	Just Steezy Things	Loungin'	INDIFFERENT	2:14	sYI87ru7wCo	MPREb_r6mrZXa6xg5	UCM8oQvGnlqICAq9K9yZivKA
+269	Reaching	Just Steezy Things	Loungin'	INDIFFERENT	2:07	sB8g6ZDGa0k	MPREb_r6mrZXa6xg5	UCM8oQvGnlqICAq9K9yZivKA
+195	Clarity	Julian J. Walker	Clarity	INDIFFERENT	4:20	kiUxxHqWzDA	MPREb_GSIt8lCCUav	UC0aHnAq06S4VHSSdOwFTXrA
+710	Petricor	Juan Rios	Chillhop Essentials Winter 2018	INDIFFERENT	3:09	3Axy0M4InR4	MPREb_DAtYyHzajvk	UCY9xKkpznxa7X8fnWM-s-Ng
+192	Brooklyn Hoopin'	John Lee	Brooklyn Hoopin'	INDIFFERENT	2:03	HCbZCAMjVow	MPREb_UCE3yeCpRaX	UCLmWuYur43rX1y3ctBZW_Dg
+601	One Summer Day	Joe Hisaishi	Spirited Away Soundtrack	INDIFFERENT	3:10	iOYAl37AScY	MPREb_X80BdVgk6eN	UCeoT9BqyKRktIHvQnWE8zug
+679	Nausicaä Requiem	Joe Hisaishi	Nausicaä of the Valley of the Wind Soundtrack: Towards the Faraway Land	INDIFFERENT	2:55	DmuatNYAK_s	MPREb_gpZJaaFFzL4	UCeoT9BqyKRktIHvQnWE8zug
+687	The Theme of Marco and Gina	Joe Hisaishi	Porco Rosso Image Album	INDIFFERENT	4:05	rXQrJ-zv5xQ	MPREb_eGyUfcWxKud	UCeoT9BqyKRktIHvQnWE8zug
+324	Te Quiero	Jk Beatbook	Te Quiero	INDIFFERENT	2:30	k_tk-gzYhI8	MPREb_4mrLCNLixkF	UCluhY4_L_Q5kF7mM8jJdDJA
+648	What If It All Turned out Fine	Jhove	Before You Go	INDIFFERENT	2:42	la-InE3YAPQ	MPREb_c52KjcDmVGW	UCATsYGQB_BOFh2JOWoMMC6w
+424	You & Me	Jav Cast	You & Me	INDIFFERENT	2:46	3Qwu6gEz0SY	MPREb_bCMr3AQBGDb	UC9A9-TM4IaV1MKyK-7fMDdA
+546	Tidal	Jason Masoud	Tidal	INDIFFERENT	1:40	dJ4o7FvxhSo	MPREb_x83Ky0v6qfr	UC7h92_jt-lEPNr_0cydiAyg
+456	Naptime	Jam'addict & softy	Piña Colada	INDIFFERENT	2:24	4qt6zHsT5Ns	MPREb_vhAaizqifGv	
+481	Piña Colada	Jam'addict & Viktor Minsky	Piña Colada	INDIFFERENT	2:28	rocQJ_OEnqI	MPREb_vhAaizqifGv	
+363	Into The Mist	Jam'addict	Into The Mist	INDIFFERENT	2:14	_qCmFPEIaKw	MPREb_enJDLXR3ct7	UCNqsTzvZmFnBzbfXWzxoIAw
+725	Empty Roads	Jaeden Camstra	v i d r i o	INDIFFERENT	1:24	PMVn5-qeEAY	MPREb_p4TssSIAjKY	UCItx4Ehjv4SRPC7cn6A5Obg
+553	Jazz Hands	J Fletch	Jazz Hands	INDIFFERENT	1:47	1wxWGGqNlo0	MPREb_cz8klFWCTbn	UCVJuObZzzvGZ1apYb-VRrrA
+214	Reminiscense	Intoku & Mindr	Greenhouse	INDIFFERENT	2:39	xl1wD714_-Q	MPREb_swLRU2xVpWm	
+234	Dreams	Intoku	Greenhouse	INDIFFERENT	2:23	kQGzsT9cCJA	MPREb_swLRU2xVpWm	UC-tOTUUsyi3Se0un1kUcLiQ
+708	seltzy	Ian Ewing	Chillhop Essentials Winter 2018	INDIFFERENT	3:26	DIO-2M6SuAA	MPREb_DAtYyHzajvk	UC93IJn52Fc5tVWcSA3GHbzg
+301	The Baudelaires	IONA	The Baudelaires	INDIFFERENT	2:08	n4ekcpVSXec	MPREb_y4a4odwuftF	UCXM-dY9DmXY1nBVVXp8z2Ew
+347	Pleasantville	IONA	Pleasantville	INDIFFERENT	1:52	r8aPlUHQmlo	MPREb_HO10Re98bRo	UCXM-dY9DmXY1nBVVXp8z2Ew
+428	Botanic	Hz. & Strong Maurice	Time	INDIFFERENT	1:45	-hOLXp0Lchw	MPREb_bvOjsNiWUy0	
+402	Immersed	Hz.	Time	INDIFFERENT	2:20	WASQCO8K7yI	MPREb_bvOjsNiWUy0	UC6K6yN6mxFRYYyJExf26KpQ
+441	Drawing by the Pond	Hz.	Park Day	INDIFFERENT	2:23	4Db3m1sc78I	MPREb_iwWpSFXBb2T	UC6K6yN6mxFRYYyJExf26KpQ
+485	Overcast Lullaby	Hz.	Park Day	INDIFFERENT	2:28	m8g6xipZst4	MPREb_iwWpSFXBb2T	UC6K6yN6mxFRYYyJExf26KpQ
+516	Lakebed	Hz.	Lakebed	INDIFFERENT	2:24	x-qW2Hjf45U	MPREb_ZNyxZovuSA6	UC6K6yN6mxFRYYyJExf26KpQ
+361	Stone Path	Hoogway	Stone Path	INDIFFERENT	2:53	wyAbb-IfCv4	MPREb_Vzk2hLfy7WA	UCnINeQLsnOteQbJo27L3tJA
+409	Birdwatching	Hoogway	Birdwatching	INDIFFERENT	2:49	bgMj4pN80qM	MPREb_d7OHuLJoGqp	UCnINeQLsnOteQbJo27L3tJA
+447	Late Afternoon	Hoogway	Late Afternoon	INDIFFERENT	2:31	XEJlVc1uRTM	MPREb_mSDC6tdYQST	UCnINeQLsnOteQbJo27L3tJA
+478	Neptune Road	Hoffy Beats, MAS, & Soul Food Horns	Neptune Road	INDIFFERENT	2:30	Sjz5wbuRjfw	MPREb_7FH0XiqBOv7	
+217	Misty Sunset	Hoffy Beats	Misty Sunset	INDIFFERENT	2:19	9xqbpHkJnQo	MPREb_kJYeL1JmKIR	UCkXzcApj3sWMNswlRBU07GA
+452	Paddleboat	Hoffy Beats	Paddleboat	INDIFFERENT	2:00	wYVLzxqa-f0	MPREb_wnFzH9oMhYq	UCkXzcApj3sWMNswlRBU07GA
+465	Home Soon	Hoffy Beats	Home Soon	INDIFFERENT	2:05	uN7R6Dtgiz0	MPREb_ddBYvvYfhJV	UCkXzcApj3sWMNswlRBU07GA
+525	Soul Express	Hoffy Beats	Soul Express	INDIFFERENT	2:32	djbmuUmV3vs	MPREb_KDKLBsvK1KG	UCkXzcApj3sWMNswlRBU07GA
+547	Depths Of Dreams	Hoffy Beats	Depths Of Dreams	INDIFFERENT	2:29	yI9m5nPnkP4	MPREb_KT02NXyIi4b	UCkXzcApj3sWMNswlRBU07GA
+283	Dreamcatcher	HoKø	Dreamcatcher	INDIFFERENT	2:34	8qQ-BEB11Ao	MPREb_fjXiCGY9S2g	UC6shQqCSveeXCy9QCdjEEzQ
+307	Blue Ballad	HoKø	Blue Ballad	INDIFFERENT	2:20	nS6PM77uGec	MPREb_m4V3Q5WJ9Sm	UC6shQqCSveeXCy9QCdjEEzQ
+421	Mizu	HoKø	Mizu	INDIFFERENT	2:13	1unnf0S2xxw	MPREb_aozQT7peARb	UC6shQqCSveeXCy9QCdjEEzQ
+476	Belem	HoKø	Belem	INDIFFERENT	2:38	UB0bWHJ8kbc	MPREb_2q6vPjHOI3V	UC6shQqCSveeXCy9QCdjEEzQ
+568	La Clef	HoKø	La Clef	INDIFFERENT	2:09	uFDp2CdgntI	MPREb_Ag0INuSQuCX	UC6shQqCSveeXCy9QCdjEEzQ
+730	Smoking on Starstuff	Hazy Year	No Txpxs Allowed	INDIFFERENT	1:56	8yGlgmKFtH4	MPREb_r5gz5KQrHxB	UCAR2d186EtDrYJpv5jhlH8Q
+731	Broken Out	Hanimo	Slow Down	INDIFFERENT	2:42	yK2Yh9sH6Q4	MPREb_haF86XpfjVU	UCaVaHJrfwc468tKyu0YVU4w
+371	Waterfall	Hanakoto Bang	Magic Waterfall	INDIFFERENT	1:19	VUHpaBvrDok	MPREb_W8wdSdKruDI	UCDYe3cJabbDlCiTjMvVbiMQ
+404	Super Chill Jam	Hanakoto Bang	Magic Waterfall	INDIFFERENT	1:37	MexS3xBKXfQ	MPREb_W8wdSdKruDI	UCDYe3cJabbDlCiTjMvVbiMQ
+326	Start Again	Guy Rickard & Ricardo Schneider	Start Again	INDIFFERENT	2:21	O3Z1tc6voFM	MPREb_ZsWa0I9WpBH	
+200	Afternoon In The Park	Guy Rickard & Mauricesax	Afternoon In The Park	INDIFFERENT	2:22	HUxqhQ86YEE	MPREb_bvGhMeVKc05	
+397	Changing Seasons	Guy Rickard	Changing Seasons	INDIFFERENT	2:13	qXKMa-EKBKI	MPREb_P0tORrKQdvk	UCJ7ux709o3oP_M7tRF8em5A
+702	Time to Say Goodbye	Gustixa	Time to Say Goodbye	INDIFFERENT	2:31	6xITGcUQ62w	MPREb_cEGwSUVsVxx	UCMdbG6eBWOC_6cGPovRjKiw
+290	Summer Moon	Guidolain beats	Summer Moon	INDIFFERENT	2:25	R2IuLfBihjk	MPREb_WD8Vwoky1NG	UC1tRCW5h1w4FDW4qmXC9rzQ
+331	Night On The Town	Guidolain beats	Summer Moon	INDIFFERENT	2:18	z7WtCyXzW5E	MPREb_WD8Vwoky1NG	UC1tRCW5h1w4FDW4qmXC9rzQ
+71	Save Your Tears	Granlund	My Name Is Spruce	INDIFFERENT	3:22	olFGKducmDM	MPREb_li1Z1mdm2Tp	UCZk21FngYnE10ZubcKvNceQ
+76	Killing Me Softly With His Song	Granlund	My Name Is Spruce	INDIFFERENT	4:58	u7gxhIxK1Uc	MPREb_li1Z1mdm2Tp	UCZk21FngYnE10ZubcKvNceQ
+85	sex money feelings die	Granlund	My Name Is Spruce	INDIFFERENT	2:54	5aJbBTngz8o	MPREb_li1Z1mdm2Tp	UCZk21FngYnE10ZubcKvNceQ
+107	Better Now	Granlund	My Name Is Spruce	INDIFFERENT	3:20	ufzYUjzuRyI	MPREb_li1Z1mdm2Tp	UCZk21FngYnE10ZubcKvNceQ
+235	Short Summer	Goson	Short Summer	INDIFFERENT	2:42	c3CPJIf2144	MPREb_G4nFnOUVIjC	UCT-vBSIF1cgpMaM44DyYaow
+505	Back For Christmas	Goson	Back For Christmas	INDIFFERENT	2:23	mYPPeJAmgTA	MPREb_LmOh7g8Em1t	UCT-vBSIF1cgpMaM44DyYaow
+514	Rod's Theme	Glimlip	Rod's Theme	INDIFFERENT	3:05	siQWEe97_cg	MPREb_3bKG610Cc1D	UCgnPM-0vUr4fq66V3BQ3gQA
+258	Cosmic Lounge	Gaslamp	Cosmic Lounge	INDIFFERENT	2:02	LKbAKFXY1Jk	MPREb_tK9vuKslali	UCZMpuMtGc4sOaCmAMYqbTOg
+369	Beachside Breeze	Garo, Sleeping Dove, & arkadia	Beachside Breeze	INDIFFERENT	1:49	JQ2yes9R3sU	MPREb_vaJFzSnVbhB	
+460	Coffee Shop	Gabb.	Coffee Shop	INDIFFERENT	1:49	NSw9Dix1PwI	MPREb_pjPam9c6Knk	UCNkPHxyVJ8qtL4AHvhIim3A
+652	Lush	G Mills	Tranquility	INDIFFERENT	2:16	Cgme6_30kUo	MPREb_HVGWP1nMbq8	UCPvhXbmroqQO2s10E2DUjHA
+313	Awakening	Funcc., Hz., & Devon Rea	Voyage	INDIFFERENT	2:11	svW_iEXqaMc	MPREb_xWxNKlUHlnU	
+745	Dream Factory (feat. Loyle Carner)	Frankie Stew and Harvey Gunn	Breathing Exercises (Video Album)	INDIFFERENT	4:28	tpGvuv4530E	MPREb_j3eB70yHq23	UCfnaPc9Co6TxGsMb-kG7xtw
+429	Golden Hour	Foam	Golden Hour	INDIFFERENT	2:27	Y24Z3Fu_KxE	MPREb_XjB9dKgVRKa	UC3T4O1FCOnftYWnHxG2MOsg
+673	Backpack City	Flovry	Ages Ago	INDIFFERENT	2:32	4M6BwSEkPts	MPREb_FoykwQbiwNC	UCvGPf5Lhq8awlkcqJezMZuA
+304	Panacea	Fika Beats	Panacea	INDIFFERENT	2:26	lsQmB-XosXU	MPREb_YEaOMjO7K2U	UC9Wv-OmI_BkR4_zDkS_yG2A
+274	Coffee Cup	Felt Galaxy, xander., & Loyae	Feelings	INDIFFERENT	3:00	iYTbe27rLCs	MPREb_cDNh9a4NPZI	
+204	Roses	Felt Galaxy, Youthology, No Spirit, and Philip Somber	Galaxy Skyline	INDIFFERENT	2:40	udlYnNKMTAQ	MPREb_WYdLy6bOCaj	
+294	Filling	Felt Galaxy, Philip Somber, & Cobb Webb	Feelings	INDIFFERENT	2:43	HRhBgEQ6rMs	MPREb_cDNh9a4NPZI	
+315	Sun Glaze	Felt Galaxy, Loyae, & Philip Somber	Feelings	INDIFFERENT	2:14	M3Yp1Lt5RnQ	MPREb_cDNh9a4NPZI	
+488	Mountain Light	Felt Galaxy, Cayson Renshaw, & xander.	Wide Awake	INDIFFERENT	2:33	My0SVZGNjQI	MPREb_L1buj4mZBsK	
+464	Coming Fourth	Felt Galaxy, Carrick, & Philip Somber	Wide Awake	INDIFFERENT	3:13	ZoLHcogqYeI	MPREb_L1buj4mZBsK	
+249	Schools Out	Felt Galaxy	Galaxy Skyline	INDIFFERENT	2:32	a6lRvP268L8	MPREb_WYdLy6bOCaj	UCB-L57xWNsH_tRSFc3s3SNQ
+439	Stroll Together	Felt Galaxy	Wide Awake	INDIFFERENT	2:48	g2y-iAcw6rE	MPREb_L1buj4mZBsK	UCB-L57xWNsH_tRSFc3s3SNQ
+512	Playground	Felt Galaxy	Wide Awake	INDIFFERENT	2:50	HpaqbI5kaME	MPREb_L1buj4mZBsK	UCB-L57xWNsH_tRSFc3s3SNQ
+212	Chill Forward	Farnell Newton & Toranpetto	Chill Forward	INDIFFERENT	2:38	cVv6Nj2Mx-8	MPREb_m2npQcSfasD	
+607	Sign	FLOW	MICROCOSM	INDIFFERENT	3:57	csVeFCLhmAM	MPREb_CvQTwJ5TnAu	UCJCEjx_2PIFi97rJjjfwrcQ
+716	Fever Dream	Ethan Rebel	Fever Dream	INDIFFERENT	2:22	ouP-g85XGjQ	MPREb_KlSRneQuq9G	UCmE105O7At49lpt42YPmUNQ
+459	Vibin'	Erwin Do	Vibin'	INDIFFERENT	2:08	NT69yI_k5tA	MPREb_XvFzSleJYq8	UC2EVfQSxGfrlN6B4mqfmwqg
+510	Azure Bliss	Erwin Do	Seychelles	INDIFFERENT	1:38	1XafAy6xNr0	MPREb_2mOW3Ib5wNe	UC2EVfQSxGfrlN6B4mqfmwqg
+543	Seychelles	Erwin Do	Seychelles	INDIFFERENT	1:40	LnUzYN1Na54	MPREb_2mOW3Ib5wNe	UC2EVfQSxGfrlN6B4mqfmwqg
+208	Voyage	Enoki	Voyage	INDIFFERENT	1:57	L1aGl5Dwg-o	MPREb_5AmOcx2Z3Qc	UCEGNCddAQLCxD7aT2a-vvpQ
+230	Imagine That	Enoki	Imagine That	INDIFFERENT	2:03	dzGKDeFrG2Y	MPREb_YaToUZpRevA	UCEGNCddAQLCxD7aT2a-vvpQ
+389	In Depths	Enoki	In Depths	INDIFFERENT	2:07	O8n5lE2lo4I	MPREb_YUAeTGW4I9T	UCEGNCddAQLCxD7aT2a-vvpQ
+387	tailwind	Enluv	tailwind	INDIFFERENT	2:41	gkdrpE4kCG0	MPREb_GZzcG0u7XnV	UCy0YHjCAmWYAil6gIadMkGw
+559	Windowsill	Enluv	Windowsill	INDIFFERENT	2:38	PZS5DeAVANo	MPREb_JOM2uBqzNBM	UCy0YHjCAmWYAil6gIadMkGw
+664	my new love	Elijah Who	Gentle Boy	INDIFFERENT	1:06	tnvVvSJqqHg	MPREb_id08fz0WYNE	UCuEgHvTQozucEsKS02EF8AQ
+665	this girl	Elijah Who	Gentle Boy	INDIFFERENT	2:20	EKGmnNAgr74	MPREb_id08fz0WYNE	UCuEgHvTQozucEsKS02EF8AQ
+558	Autumn Hue	ENRA	Autumn Hue	INDIFFERENT	1:33	ANZg8b3SebM	MPREb_cMjHRqYkT2l	UCZHIXji1lwLWdkjDGUjHpDg
+243	Purple Rays	Drunk Urameshi	Purple Rays	INDIFFERENT	2:22	5Bv2wi5u5JQ	MPREb_VQUi1CRBTCJ	UC3RtvWr0M_VpHjZPgd5VIXQ
+282	when it rains	Drunk Urameshi	when it rains	INDIFFERENT	2:08	E0PaBfkep_g	MPREb_fYLWp9GrKfH	UC3RtvWr0M_VpHjZPgd5VIXQ
+306	Quartz Stairs	Drunk Urameshi	Quartz Stairs	INDIFFERENT	2:10	shua4V8yt88	MPREb_UbQZpnCFFT5	UC3RtvWr0M_VpHjZPgd5VIXQ
+422	Orange Views	Drunk Urameshi	Orange Views	INDIFFERENT	2:16	Tk1l3qJL4nk	MPREb_5bnPQpAXR7s	UC3RtvWr0M_VpHjZPgd5VIXQ
+309	Once Upon A Dream	Dreamfield	Once Upon A Dream	INDIFFERENT	2:36	OQMZApxBgBo	MPREb_ejCrcGY2mVM	UCun4_W0NDw4nfxaDRUXdVSQ
+222	Illusions	Dosi	Illusions	INDIFFERENT	2:15	4kJa82XfV-U	MPREb_GG9mwz0uu7i	UCANJPI0i0uxrRGHP5aNjI5w
+268	Transmission	Dosi	Transmission	INDIFFERENT	2:34	elo9yxLMgDo	MPREb_4sODRzOXdil	UCANJPI0i0uxrRGHP5aNjI5w
+241	Old Memories	Dontcry	Old Memories	INDIFFERENT	2:00	nEufTUyZaVE	MPREb_INbyZbUCu0j	UCD3F45yAGLT3gJTgXc792Nw
+562	Over The Horizon	Dontcry	Over The Horizon	INDIFFERENT	2:12	vlr71jpY_Do	MPREb_0svmUjQ27Dk	UCD3F45yAGLT3gJTgXc792Nw
+590	Sashimi	Dontcry	Jiro Dreams	INDIFFERENT	1:37	r4RTWLwwp9U	MPREb_Y3VErtBGcqG	UCaOl5RLn-GkqBZP_tPHHnxw
+642	Maki	Dontcry	Jiro Dreams	INDIFFERENT	1:21	INeKcXMhy7M	MPREb_Y3VErtBGcqG	UCaOl5RLn-GkqBZP_tPHHnxw
+300	All Night Long	Devon Rea	All Night Long	INDIFFERENT	2:06	Wkp73kA_tms	MPREb_BOO1fVYFlid	UCLuTcMQpPa67zBcQvJfovyg
+746	Maddie	Deema	Maddie & Blame	INDIFFERENT	2:36	iqNrcflGCWs	MPREb_DmKCiZOwxqW	UCMgvZJ2--q0oyGPyuTR6KDw
+674	Further	DLJ	Night Emotions	INDIFFERENT	2:22	IBaosMuiwGk	MPREb_z28luZbHDCH	UCJjJvHi1OFfpY_krqx9mhrw
+281	Cinnamon Smoke	DJ Garlik	Cinnamon Smoke	INDIFFERENT	2:29	UCVzAk0lngs	MPREb_y2hu7tOczix	UC8TXUIxTMjc73dgieeNBs8g
+319	Winter Morning	DJ Garlik	Bamboo	INDIFFERENT	2:03	Aa0rnvrJpJA	MPREb_1gwuHQLrDRv	UC8TXUIxTMjc73dgieeNBs8g
+393	Don't Stop	CrazyJaZz	Don't Stop	INDIFFERENT	2:35	Oz7fEQeXRLc	MPREb_97JHsRWOr4w	UCgOF1NjSq0bq9M_khkDw-aw
+442	Intermission Smooth	CrazyJaZz	Don't Stop	INDIFFERENT	2:01	uh5cL6z_6Tc	MPREb_97JHsRWOr4w	UCgOF1NjSq0bq9M_khkDw-aw
+37	7 Days	Craig David	Born to Do It	INDIFFERENT	3:56	pCyNALtkgjE	MPREb_Mved5AyW04Q	UCVJi2IP5MFOdbcMO25wwYsg
+285	Soul Magic	Cosmonkey	Soul Magic	INDIFFERENT	2:31	0e8zc_DEyR0	MPREb_MwkAdCkiekM	UCObJh7sbyVkWBEBqTshDSBw
+437	It's Gonna Be Alright	Cosmonkey	It's Gonna Be Alright	INDIFFERENT	2:30	lx7Rx8NRnH8	MPREb_KfVQCbQ69ag	UCObJh7sbyVkWBEBqTshDSBw
+548	Nebula	Cosmonkey	Nebula	INDIFFERENT	1:57	g7mubiT80YE	MPREb_E5vjVCtw0kl	UCObJh7sbyVkWBEBqTshDSBw
+433	Spice Garden	Clifford	Spice Garden	INDIFFERENT	2:07	dikwfwGEKl0	MPREb_VHqQSX0xiy9	UCDksA0F83OCNxA9kmY2fMGA
+654	Lofi Rain	Chilled Cougar	Lofi Rain	INDIFFERENT	2:00	TMOqwKnG6Bw	MPREb_qfnqBHhHxQI	UCzdzg0F_VALozSmc5poMW0w
+240	Be Water	ChildNoah & Modern Lofi	Be Water	INDIFFERENT	1:41	Cpy_AYf7drU	MPREb_3Aje0oUXeRI	
+692	Ending Song - The Promise of the World - Merry-Go-Round of Life	Chieko Baisho	Howl's Moving Castle Soundtrack	INDIFFERENT	6:51	hTxKRpNcXgk	MPREb_7cBPNZrOwEN	UCbuQw_UNGL0-VrNCG60BkUQ
+582	The Girl Who Fell From The Sky from Laputa Castle in the Sky (sleep piano)	Celestial Epiphany	Ghibli Sleep Piano	INDIFFERENT	1:46	FfCBo4TBQJY	MPREb_ALIw5DXpCAj	UCCnDmLt4_jVomwvVmjNK9RA
+500	Moonmoons	Casiio & No Spirit	Hideaway	INDIFFERENT	2:20	ZoOjZLaqiVg	MPREb_lIil4qkOGOk	
+521	Hideaway	Casiio & No Spirit	Hideaway	INDIFFERENT	1:52	Kf6WWGjGgcc	MPREb_lIil4qkOGOk	
+555	Nimbostratus	Casiio & No Spirit	Hideaway	INDIFFERENT	2:10	mJz-L3W0lG4	MPREb_lIil4qkOGOk	
+401	Voices	Casiio & Leauxkey	Voices	INDIFFERENT	1:47	C3iPLlBJp84	MPREb_3EraIrRBEpj	
+280	Oaks	Casiio	Oaks	INDIFFERENT	2:01	Db6aD5B5IJk	MPREb_wAjV3DOHAWB	UCN_uKsihZMDFKN0-zNINlYw
+310	Iyra	Casiio	Oaks	INDIFFERENT	2:02	8koSG0fjNCk	MPREb_wAjV3DOHAWB	UCN_uKsihZMDFKN0-zNINlYw
+332	Biochrome	Casiio	Fable	INDIFFERENT	1:41	nPDwDRL2Jrc	MPREb_4TmJqjlrDjK	UCN_uKsihZMDFKN0-zNINlYw
+358	Fable	Casiio	Fable	INDIFFERENT	1:54	9OWaq6_ZH9w	MPREb_4TmJqjlrDjK	UCN_uKsihZMDFKN0-zNINlYw
+432	Winds	Casiio	Winds	INDIFFERENT	1:39	2C9_jlQ-EtM	MPREb_LNRP2TMBau5	UCN_uKsihZMDFKN0-zNINlYw
+472	Sofia	Casiio	Sofia	INDIFFERENT	2:14	Gg2e5UPW6BM	MPREb_Ng4WqxunrvG	UCN_uKsihZMDFKN0-zNINlYw
+197	June Gloom	CMJ	June Gloom	INDIFFERENT	1:54	-oK3YZuZuLI	MPREb_TXSPtRgPr6Z	UCYK3v-u-0u-wHHvOzNqUysg
+219	Sunkissed	CMJ	Sunkissed	INDIFFERENT	2:09	qx8ZRg1uCHc	MPREb_p1kMGB6wf6V	UCYK3v-u-0u-wHHvOzNqUysg
+446	Floater	CMJ	Floater	INDIFFERENT	2:05	-Fc9n4R3HG0	MPREb_oynaJUxrNfU	UCYK3v-u-0u-wHHvOzNqUysg
+486	Across The World	CMJ	Across The World	INDIFFERENT	2:09	T95nUPow8aQ	MPREb_K3nHLHJeBju	UCYK3v-u-0u-wHHvOzNqUysg
+515	Reflection	CMJ	Reflection	INDIFFERENT	1:58	2EgcsCEKAFo	MPREb_T53huUXc9jN	UCYK3v-u-0u-wHHvOzNqUysg
+670	L'aventure	C4C	L'aventure EP	INDIFFERENT	2:30	9oW15zLOxCM	MPREb_sIo4QLjwfeT	UCXUF2QuiUoToxP2q5eI2b4w
+194	Just The Two Of Us	BƱBBLE	Just The Two Of Us	INDIFFERENT	2:12	qyEqjl87XeI	MPREb_cNKZAEsJBJb	UC2UMyJNE1Kpuw0Uct5Ppx5w
+207	As Time Goes By	BƱBBLE	Just The Two Of Us	INDIFFERENT	1:29	PfHlVUv9bgs	MPREb_cNKZAEsJBJb	UC2UMyJNE1Kpuw0Uct5Ppx5w
+225	First Date	BƱBBLE	Just The Two Of Us	INDIFFERENT	1:46	FLSGHftctWY	MPREb_cNKZAEsJBJb	UC2UMyJNE1Kpuw0Uct5Ppx5w
+242	Summertime	BƱBBLE	Summertime	INDIFFERENT	1:52	Fw1rZPtw8yM	MPREb_61t5Fc1SznG	UC2UMyJNE1Kpuw0Uct5Ppx5w
+318	Soulful Delight	BƱBBLE	Sunshine Diary	INDIFFERENT	1:45	VR7JLzcdPtk	MPREb_kxNIurvPDh4	UC2UMyJNE1Kpuw0Uct5Ppx5w
+350	Fiesta	BƱBBLE	Sunshine Diary	INDIFFERENT	1:46	CQO2M_f5rJ0	MPREb_kxNIurvPDh4	UC2UMyJNE1Kpuw0Uct5Ppx5w
+385	Quiet Hours	BƱBBLE	Sunshine Diary	INDIFFERENT	1:41	Q5C7TcYeRMo	MPREb_kxNIurvPDh4	UC2UMyJNE1Kpuw0Uct5Ppx5w
+406	Jazz Corner	BƱBBLE	Back To School	INDIFFERENT	1:46	THlks3lKO9M	MPREb_J631T79xFCd	UC2UMyJNE1Kpuw0Uct5Ppx5w
+451	Dèjá Vu	BƱBBLE	Back To School	INDIFFERENT	1:33	gDBbLkVDkvc	MPREb_J631T79xFCd	UC2UMyJNE1Kpuw0Uct5Ppx5w
+480	Coffee Break	BƱBBLE	Back To School	INDIFFERENT	1:20	g7UihNxSGuw	MPREb_J631T79xFCd	UC2UMyJNE1Kpuw0Uct5Ppx5w
+523	Quantum Rhythms	BƱBBLE	Smooth Wit' It	INDIFFERENT	1:39	Uspj3Nzz5Aw	MPREb_HentmXPrfuf	UC2UMyJNE1Kpuw0Uct5Ppx5w
+554	Smooth Wit' It	BƱBBLE	Smooth Wit' It	INDIFFERENT	1:42	CUlG8VlloAY	MPREb_HentmXPrfuf	UC2UMyJNE1Kpuw0Uct5Ppx5w
+575	Rainy Breeze	BƱBBLE	Smooth Wit' It	INDIFFERENT	1:30	GoH43zCWp80	MPREb_HentmXPrfuf	UC2UMyJNE1Kpuw0Uct5Ppx5w
+231	Fast Lane	Board-Man	Somewhere To Chill	INDIFFERENT	1:39	SgJjKKYOl8g	MPREb_JvQOwtR4NLi	UC99CDpakxs2Pu-d8phwgGyQ
+236	Morning Melodies	Board-Man	Morning Melodies	INDIFFERENT	2:13	_scUcE9i53k	MPREb_OvqSaQigWkv	UC99CDpakxs2Pu-d8phwgGyQ
+256	Intro	Board-Man	Somewhere To Chill	INDIFFERENT	0:58	W_SMIc1SIBo	MPREb_JvQOwtR4NLi	UC99CDpakxs2Pu-d8phwgGyQ
+299	Somewhere To Chill	Board-Man	Somewhere To Chill	INDIFFERENT	1:53	43GJly7V9Fw	MPREb_JvQOwtR4NLi	UC99CDpakxs2Pu-d8phwgGyQ
+339	Evening Shift	Board-Man	Somewhere To Chill	INDIFFERENT	1:29	FS1PgV3sBfk	MPREb_JvQOwtR4NLi	UC99CDpakxs2Pu-d8phwgGyQ
+188	Landscapes	Blvd.	Seaview	INDIFFERENT	1:59	NxF7gscPG2k	MPREb_nQrVLXeTXGr	UCN9tO8nPgn_9gU3gy97k5pQ
+203	Seaview	Blvd.	Seaview	INDIFFERENT	2:08	kkAbDxpPVz8	MPREb_nQrVLXeTXGr	UCN9tO8nPgn_9gU3gy97k5pQ
+246	Alterations	Blvd.	Solitude	INDIFFERENT	1:37	rPFV9p3lAg0	MPREb_iQhONnA80Fb	UCN9tO8nPgn_9gU3gy97k5pQ
+250	Half Finished	Blvd.	Null	INDIFFERENT	1:44	te5XRUHwmZc	MPREb_apgbaKeRSox	UCN9tO8nPgn_9gU3gy97k5pQ
+275	Led By A Ghost	Blvd.	Null	INDIFFERENT	2:04	Yg9hh3doyuI	MPREb_apgbaKeRSox	UCN9tO8nPgn_9gU3gy97k5pQ
+284	Solitude	Blvd.	Solitude	INDIFFERENT	1:36	9mzpTu9hM0A	MPREb_iQhONnA80Fb	UCN9tO8nPgn_9gU3gy97k5pQ
+289	Null	Blvd.	Null	INDIFFERENT	2:08	03CS3dm03QY	MPREb_apgbaKeRSox	UCN9tO8nPgn_9gU3gy97k5pQ
+492	Occurrance	Blvd.	Paths	INDIFFERENT	1:53	c-OWL8xdyyE	MPREb_7YZ98LDLudz	UCN9tO8nPgn_9gU3gy97k5pQ
+524	Paths	Blvd.	Paths	INDIFFERENT	1:55	ow4sLE_rqLg	MPREb_7YZ98LDLudz	UCN9tO8nPgn_9gU3gy97k5pQ
+650	Under Your Skin	BluntOne	Cloud Surfing	INDIFFERENT	2:26	k8ilwjS0rjg	MPREb_gE1Cw2h9p47	UCzKLy2aEa7a92KCJcxsIolQ
+711	Middle School (feat. Magnus Klausen)	Blue Wednesday	Chillhop Essentials Winter 2018	INDIFFERENT	2:24	i_SCnW-lXdA	MPREb_DAtYyHzajvk	UCH5Ryy6Kqv89TFDBS6T4bNg
+519	Caravan	Beyond Moments	Caravan	INDIFFERENT	2:07	O60WpjYlLFk	MPREb_Ux8IWXASeXB	UC7EXdoEiXYjse7OKJDQywrg
+349	Home	Bert	Home	INDIFFERENT	2:21	nu4ACBClMU0	MPREb_Q2XdVucZN3x	UCEBjN_gMMngrsqv-1zZMcLw
+458	El Niño	Berezy	El Niño	INDIFFERENT	2:36	yUCmeFvpdRg	MPREb_Z0aUZbVj7Yy	UCedQTmhhIn68bChVvzYb2SQ
+261	Lush	Bequem	Lush	INDIFFERENT	2:09	nL1Ak4n2ruM	MPREb_ZFLP8pJocS8	UCrfrWDeWIuJn8KUrmeGboXA
+218	Takoyaki	Ben Beal	Takoyaki	INDIFFERENT	2:02	iIMsrOf958A	MPREb_JwE1hgTtvsw	UCTVCUKH_GpFp6VegHRSFJRQ
+359	Sunkissed	Bcalm	Sunkissed	INDIFFERENT	1:55	lEOF1GUzypo	MPREb_CC1eOPwJqmG	UC4jS4-BuanZV5aGL2Kw8SeA
+717	Troublous	Avocuddle	Troublous	INDIFFERENT	2:19	kl_Q3jCBj9E	MPREb_hqjEImS7Xch	UC5pS3-mSWb3O1RwVIBZ2-KQ
+703	comfortable	Aso	Chillhop Essentials Spring 2020	INDIFFERENT	2:37	nVZREMM1UjA	MPREb_tKvGxqjYwkh	UCgWzwhihlRaf6t4Bu8cRh6w
+36	Daisy	Ashnikko	Daisy	INDIFFERENT	2:27	oYXVYiEV40I	MPREb_GG89FXlnha3	UCn3fPGV_gVYAmpgb1APyQug
+733	Nobody's Perfect	Anti Lilly	It's Nice Outside	INDIFFERENT	3:21	svVfI2qxBAw	MPREb_UViUNQPK7Ob	UCrd7oFIQeEUrhVWCkJ8Jwkw
+597	"The Snow Fairy (feat. Mariatu Conteh) [From ""Fairy Tale""] (feat. Mariatu Conteh)"	Anime Kei	"The Snow Fairy (feat. Mariatu Conteh) [From ""Fairy Tale""]"	INDIFFERENT	3:34	911HQntFJto	MPREb_rr8k1id0erJ	UCnjabxwEsDbffNJbK8Lrkag
+600	"Hacking to the Gate (from ""Steins;Gate"")"	AmaLee	"Hacking to the Gate (from ""Steins;Gate"")"	INDIFFERENT	4:13	d6DZdV_bCgE	MPREb_UOiCbpe6hMo	UCyFtni-lUcQpgrcBmXSd0vA
+609	"This Game (From ""No Game No Life"")"	AmaLee	Nostalgia VII	INDIFFERENT	4:42	1-zkCcu0Kng	MPREb_14FRRFCT0tD	UCyFtni-lUcQpgrcBmXSd0vA
+680	Wakeup	Altair Blake	Floetry	INDIFFERENT	2:24	2Aer6qIZnrw	MPREb_OBTxNUnNZIr	UCBgZusPBO7yECQ08ndy4MWg
+696	Floetry	Altair Blake	Floetry	INDIFFERENT	2:17	V3SnQeSm3xY	MPREb_OBTxNUnNZIr	UCBgZusPBO7yECQ08ndy4MWg
+199	Incense	Allem Iversom	New Night	INDIFFERENT	1:45	ywxVVZBnZ7c	MPREb_J0KjvPYubA7	UCLdaumULG2hNnk414wXElYA
+457	Drifting	Allem Iversom	Drifting	INDIFFERENT	2:11	UkBvi2biKG0	MPREb_sb17RICqVxz	UCLdaumULG2hNnk414wXElYA
+216	Waves of Yesterday	Ale Fillman	Waves of Yesterday	INDIFFERENT	2:34	CLV32THi3Tw	MPREb_YHcei2AB6Ka	UC5wHTZuaTsnMrFZjFl2vhdQ
+305	Spirit Traveler	Ale Fillman	Spirit Traveler	INDIFFERENT	1:56	EqIXyh72t8o	MPREb_HeJ0GbgOvQy	UC5wHTZuaTsnMrFZjFl2vhdQ
+493	The Good Old Days	Ale Fillman	The Good Old Days	INDIFFERENT	2:04	7UqPqA4yCSE	MPREb_kSATCyjC5C3	UC5wHTZuaTsnMrFZjFl2vhdQ
+566	Breathing Space	Ajmw	Breathing Space	INDIFFERENT	2:37	lYkV00-Nx8U	MPREb_NdgB7MJouFR	UCtHr3k_Ycd7rQsM0eHfhnuQ
+190	Sway	Aiguille	Watershed	INDIFFERENT	2:13	lWltBok8s5Y	MPREb_GUx29R42rld	UCUmmBkcIqn9zRT_HOHJOctg
+206	Water Lily	Aiguille	Watershed	INDIFFERENT	2:22	qqaODO9Ty-E	MPREb_GUx29R42rld	UCUmmBkcIqn9zRT_HOHJOctg
+384	Follow	Aerow	Follow	INDIFFERENT	2:28	AGZAoXeWEZM	MPREb_PZWMtJzQnvt	UC2JfGl_nxLVB2XOW9Ht-rjQ
+723	Tobak	ARVO TO ME	Say-So	INDIFFERENT	1:29	8RW0l0oi1Ts	MPREb_UZyqsE61IXU	UCddzE_uBA41UsrWnqHHGpZA
+74	Circles	<3BEAT	Feelin' Cute	INDIFFERENT	3:03	5y5eYp58wvE	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+77	Happier Than Ever	<3BEAT	Feelin' Cute	INDIFFERENT	3:19	0CJbS6BXQi8	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+111	Don't Go Breaking My Heart	<3BEAT	Feelin' Cute	INDIFFERENT	4:16	EovxC4fWVg0	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+117	Ms. Jackson	<3BEAT	Feelin' Cute	INDIFFERENT	4:01	s4r6gGaDMBM	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+119	Can't Help Falling in Love	<3BEAT	Feelin' Cute	INDIFFERENT	3:44	giNI6d7FBwY	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+126	Love The Way You Lie	<3BEAT	Feelin' Cute	INDIFFERENT	3:49	rgGPneT-0AI	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+137	Violent Crimes	<3BEAT	Feelin' Cute	INDIFFERENT	3:19	9JqP_Ub5FSg	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+165	Music For a Sushi Restaurant	<3BEAT	Music For a Sushi Restaurant	INDIFFERENT	3:52	o5gq3By9BIM	MPREb_rr7miOVv1ib	UCO4GaI7MN4q2tItGSjbIR1A
+167	Passionfruit	<3BEAT	Feelin' Cute	INDIFFERENT	4:03	ID1OMCGmz8M	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+172	Rockstar	<3BEAT	Feelin' Cute	INDIFFERENT	3:07	gAurtTzit1Y	MPREb_7MEd4wpDmVv	UCO4GaI7MN4q2tItGSjbIR1A
+193	After Party	7&Nine	After Party	INDIFFERENT	1:53	qYXNQdSp_wU	MPREb_lDZ2ayc98jj	UC9JhGc_CbKTTmbNcgMdChEg
+312	West Coast Jazz	7&Nine	West Coast Jazz	INDIFFERENT	1:58	oWGj9mrShoE	MPREb_j1VrDNXIA5r	UC9JhGc_CbKTTmbNcgMdChEg
+736	If You Wouldn't Mind	2nd Exit	2nd Exit	INDIFFERENT	3:59	htHu6s7LCi8	MPREb_OdSpiNUnQJG	UCWoIn4jZ7E23fzoJYzKS_Pw
+450	Blissful	.Eehou	Blissful	INDIFFERENT	2:21	DgMinHZXQec	MPREb_bhQlGGkxiJb	UC70F4bvBxbDWXzSt_FWRuqw
+461	Delight	.Eehou	Blissful	INDIFFERENT	1:51	6KBfolVfp3M	MPREb_bhQlGGkxiJb	UC70F4bvBxbDWXzSt_FWRuqw
+531	Shining Light	.Eehou	Blissful	INDIFFERENT	2:16	TSW3J_Tgy1c	MPREb_bhQlGGkxiJb	UC70F4bvBxbDWXzSt_FWRuqw
+96	Better Off Alone	owlh	cover to cover			jrwHMCEXeLs		

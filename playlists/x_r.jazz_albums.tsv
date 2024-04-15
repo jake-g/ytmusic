@@ -1,7 +1,12 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 1	Blue Bolivar Blues (Take 2)	Thelonious Monk	Monk's Dream	LIKE	7:31	j01nWUfaDN8	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
 22	Blue Bolivar Blues (Take 1)	Thelonious Monk	Monk's Dream	LIKE	6:13	ZPUDixHa4-o	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
-0	It Could Happen To You	Ryo Fukui	SCENERY	LIKE	4:17	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+0	It Could Happen to You	Ryo Fukui	Scenery	LIKE	4:16	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+7	I Want to Talk About You	Ryo Fukui	Scenery	LIKE	6:32	-T5jjfZtP5g	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+8	Early Summer	Ryo Fukui	Scenery	LIKE	10:44	F5EFsUU7RRA	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+9	Willow Weep for Me	Ryo Fukui	Scenery	LIKE	7:43	WiUzmWbDIFw	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+10	Autumn Leaves	Ryo Fukui	Scenery	LIKE	6:31	XaAiNL-YJIs	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+11	Scenery	Ryo Fukui	Scenery	LIKE	5:31	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 48	Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin & Chick Corea)	Miles Davis	Bitches Brew	LIKE	27:00	Q26k14yBAnM	MPREb_6qqoZzs13CJ	UCIev2PktTH5mI-QlGmbUkiw
 49	Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin & Chick Corea)	Miles Davis	Bitches Brew	LIKE	17:33	xzegGxnTGw8	MPREb_6qqoZzs13CJ	UCIev2PktTH5mI-QlGmbUkiw
 51	Sanctuary (feat. Wayne Shorter, Bennie Maupin, John McLaughlin & Chick Corea)	Miles Davis	Bitches Brew	LIKE	10:57	kY4qQwd2XpM	MPREb_6qqoZzs13CJ	UCIev2PktTH5mI-QlGmbUkiw
@@ -31,11 +36,6 @@
 28	Bill In the Sky	Telemakus	Calantha Vol. 2	INDIFFERENT	2:09	k5WQQDL2eGQ	MPREb_Mg8Kj7Q1HUL	UCiOxcwXNfBW4ncgH6zTIkMg
 29	On A Mission	Telemakus	Calantha Vol. 2	INDIFFERENT	2:09	kZyYcTN9jN4	MPREb_Mg8Kj7Q1HUL	UCiOxcwXNfBW4ncgH6zTIkMg
 30	Leaving The Stars	Telemakus	Calantha Vol. 2	INDIFFERENT	1:05	zY575XLm_Bc	MPREb_Mg8Kj7Q1HUL	UCiOxcwXNfBW4ncgH6zTIkMg
-7	I Want To Talk About You	Ryo Fukui	SCENERY	INDIFFERENT	6:33	-T5jjfZtP5g	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-8	Early Summer	Ryo Fukui	SCENERY	INDIFFERENT	10:45	F5EFsUU7RRA	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-9	Willow Weep For Me	Ryo Fukui	SCENERY	INDIFFERENT	7:44	WiUzmWbDIFw	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-10	Autumn Leaves	Ryo Fukui	SCENERY	INDIFFERENT	6:32	XaAiNL-YJIs	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
-11	Scenery	Ryo Fukui	SCENERY	INDIFFERENT	5:32	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 31	Step One	Paper Void	Increments	INDIFFERENT	2:13	yw44r-6NSrY	MPREb_xwuV7nCuEeB	UCQ3RcuBFMSYY15WEj_hhBWw
 32	Safekeeping	Paper Void	Increments	INDIFFERENT	4:03	G0rHcRKgkiU	MPREb_xwuV7nCuEeB	UCQ3RcuBFMSYY15WEj_hhBWw
 33	Just Waiting	Paper Void	Increments	INDIFFERENT	6:07	QSG37mVmbxM	MPREb_xwuV7nCuEeB	UCQ3RcuBFMSYY15WEj_hhBWw

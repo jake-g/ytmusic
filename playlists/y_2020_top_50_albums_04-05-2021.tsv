@@ -1,8 +1,4 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-80	Gospel For A New Century	Yves Tumor	Heaven To A Tortured Mind	LIKE	3:19	VyAouUX_nq0	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-81	Medicine Burn	Yves Tumor	Heaven To A Tortured Mind	LIKE	4:05	i7yHC6pXgWI	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-86	Dream Palette	Yves Tumor	Heaven To A Tortured Mind	LIKE	2:56	0epMcUp8_SA	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-88	Folie Imposée	Yves Tumor	Heaven To A Tortured Mind	LIKE	3:06	PnXV_SVOEiY	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
 495	Valleys	Working Men's Club	Working Men's Club	LIKE	6:31	mVfcsKYvSK8	MPREb_Z3nDwEbj9Yi	UCnku5SX8dIE-AQ8S0T1kj2Q
 497	John Cooper Clarke	Working Men's Club	Working Men's Club	LIKE	5:28	ortHnqOoQB0	MPREb_Z3nDwEbj9Yi	UCnku5SX8dIE-AQ8S0T1kj2Q
 499	Outside	Working Men's Club	Working Men's Club	LIKE	2:52	0HOJ0tDRi1Q	MPREb_Z3nDwEbj9Yi	UCnku5SX8dIE-AQ8S0T1kj2Q
@@ -101,7 +97,7 @@
 483	Hands	Mac Miller	Circles	LIKE	3:20	m2tJJlSlUfk	MPREb_fUxID6Oy0EU	UC52ZqHVQz5OoGhvbWiRal6g
 484	Surf	Mac Miller	Circles	LIKE	5:31	E4E-rIjfPe0	MPREb_fUxID6Oy0EU	UC52ZqHVQz5OoGhvbWiRal6g
 504	Baby Pluto	Lil Uzi Vert	Eternal Atake	LIKE	3:31	k6bwOZW15gM	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
-509	Bigger Than Life (feat. WanMor)	Lil Uzi Vert	Eternal Atake	LIKE	3:13	BNuca5CZxe8	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
+509	Bigger Than Life	Lil Uzi Vert	Eternal Atake	LIKE	3:13	BNuca5CZxe8	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 516	P2	Lil Uzi Vert	Eternal Atake	LIKE	3:55	Wc9XOmBKpsA	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 517	Futsal Shuffle 2020 (Bonus Track)	Lil Uzi Vert	Eternal Atake	LIKE	3:19	l0aatO_0Dbk	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 316	Bittersweet	Lianne La Havas	Lianne La Havas	LIKE	4:53	W6Ak2_TJ5zs	MPREb_qInZNzoUnFR	UCvps3soFaHEZy5Yx0aatUlA
@@ -207,14 +203,18 @@
 178	zombie girl	Adrianne Lenker	songs	LIKE	2:45	4Mkj4tXsI7E	MPREb_tP4c5VBnG44	UCUk49fVKOmtT_l-nOv59QyA
 181	my angel	Adrianne Lenker	songs	LIKE	5:05	IsfxcSNg7u4	MPREb_tP4c5VBnG44	UCUk49fVKOmtT_l-nOv59QyA
 438	music for indigo	Adrianne Lenker	instrumentals	LIKE	21:13	5WeYBxFrQpo	MPREb_87XdGvGbA1Q	UCUk49fVKOmtT_l-nOv59QyA
-82	Identity Trade	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:00	XYMnyyMdxig	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-83	Kerosene!	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	5:06	ITiGLAnOXtY	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-84	Hasdallen Lights	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:08	VZjhah5udSc	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-85	Romanticist	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	1:47	3uoSKQhTsSk	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-87	Super Stars	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:06	fejk7-RItDo	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-89	Strawberry Privilege	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:53	_7GwbNX_ls0	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-90	Asteroid Blues	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:03	ldEVpNv6uHs	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
-91	A Greater Love	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:05	WdG6SLsKNzo	MPREb_EW11k5ujKg4	UC42tK0ySS5GfdaN-c6acQcA
+80	Gospel For A New Century	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:19	F1XiABcV9uc	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+81	Medicine Burn	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	4:05	KMLk3NGwmbs	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+82	Identity Trade	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:00	Qnvrp0LcPYA	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+83	Kerosene!	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	5:06	_W2fKjIfGWc	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+84	Hasdallen Lights	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:08	-zYtZ8m3ZFw	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+85	Romanticist	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	1:47	ojNlxqsgSmE	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+86	Dream Palette	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:56	BDNFFU1iVeg	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+87	Super Stars	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:06	KISbNOsb8xE	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+88	Folie Imposée	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:06	hgbrFYis8hM	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+89	Strawberry Privilege	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:53	5cQyIAT_JZI	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+90	Asteroid Blues	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	2:03	zW4JOzaC0J4	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
+91	A Greater Love	Yves Tumor	Heaven To A Tortured Mind	INDIFFERENT	3:05	HUEjMvKAsYE	MPREb_XKroFqPcbNl	UC42tK0ySS5GfdaN-c6acQcA
 496	A.A.A.A.	Working Men's Club	Working Men's Club	INDIFFERENT	3:07	7w1yWl2bgVM	MPREb_Z3nDwEbj9Yi	UCnku5SX8dIE-AQ8S0T1kj2Q
 498	White Rooms and People	Working Men's Club	Working Men's Club	INDIFFERENT	2:31	gagyh1-9zuk	MPREb_Z3nDwEbj9Yi	UCnku5SX8dIE-AQ8S0T1kj2Q
 500	Be My Guest	Working Men's Club	Working Men's Club	INDIFFERENT	3:57	Y8Qw9CuEmmc	MPREb_Z3nDwEbj9Yi	UCnku5SX8dIE-AQ8S0T1kj2Q
@@ -362,11 +362,11 @@
 505	Silly Watch	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:16	Tj9e5scOx-Q	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 506	Homecoming	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:34	mfbDkE3sh3g	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 507	I'm Sorry	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:32	ZAafyWASV6M	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
-508	Celebration Station (feat. WanMor)	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:16	KcioYEZay3I	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
+508	Celebration Station	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:16	KcioYEZay3I	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 510	Chrome Heart Tags	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:33	PX1s3Za7OTs	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 511	Bust Me	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:15	JHzU5K401Jw	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
-512	Prices (feat. WanMor)	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:54	MMPclDyPVbM	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
-513	Urgency (feat. WanMor & Syd)	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:02	hnu10axrBJI	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
+512	Prices	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:54	MMPclDyPVbM	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
+513	Urgency (feat. Syd)	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:02	hnu10axrBJI	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 514	Venetia	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:09	cFdfp16o9No	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 515	Secure The Bag	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:59	xpF0f0E3WmE	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA
 518	That Way (Bonus Track)	Lil Uzi Vert	Eternal Atake	INDIFFERENT	3:33	FCMBVBEKxhQ	MPREb_D9SOOCh4tR6	UCybEdRVR5u_WFoV-BLTEBiA

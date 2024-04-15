@@ -1,8 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-160	Migraine	twenty one pilots	Vessel	LIKE	3:59	BAlKoM0hHrE	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
-208	Screen	twenty one pilots	Vessel	LIKE	3:49	WXrohj-i5uw	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
-468	Semi-Automatic	twenty one pilots	Vessel	LIKE	4:13	v07GkdeqEi8	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
-678	Fake You Out	twenty one pilots	Vessel	LIKE	3:51	P9b1Qo5KYns	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
+160	Migraine	twenty one pilots	Vessel	LIKE	4:00	BAlKoM0hHrE	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
+208	Screen	twenty one pilots	Vessel	LIKE	3:50	WXrohj-i5uw	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
+468	Semi-Automatic	twenty one pilots	Vessel	LIKE	4:14	v07GkdeqEi8	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
+678	Fake You Out	twenty one pilots	Vessel	LIKE	3:52	P9b1Qo5KYns	MPREb_bOxpxfmMxFH	UCnX0L9QiftAcWdzeBx31xCw
 87	Elephant in the Dock	mewithoutYou	Ten Stories	LIKE	3:51	dDzvi0xIwbM	MPREb_mj8cACPqkle	UCx8oLyGqbWZnjWLFR59J8FA
 357	Grist for the Malady Mill	mewithoutYou	Ten Stories	LIKE	3:17	PhlpjHtemrE	MPREb_mj8cACPqkle	UCx8oLyGqbWZnjWLFR59J8FA
 11	October	deadmau5	> album title goes here < (Deluxe)	LIKE	7:24	PQRgz4OJYxA	MPREb_mZLkpesuMSG	UCL44WZGVf-BU5N0ymCXrpBg
@@ -83,7 +83,7 @@
 213	Angels	The xx	Coexist	LIKE	2:52	GiNR187EMd4	MPREb_WrbwUL6Qk5p	UCQ1Xqlk89CLZ9aAFyo-1THg
 380	Tides	The xx	Coexist	LIKE	3:01	ujNMj3dpi80	MPREb_WrbwUL6Qk5p	UCQ1Xqlk89CLZ9aAFyo-1THg
 470	Sunset	The xx	Coexist	LIKE	3:39	AIa7HPfyU7k	MPREb_WrbwUL6Qk5p	UCQ1Xqlk89CLZ9aAFyo-1THg
-583	Booby Brown	The Soft Pack	Strapped	LIKE	3:52	ywoL91KcO5s	MPREb_Sr5Hi5K7DNc	UCAEWO5WpDGfP5twHqIExnRg
+583	Bobby Brown	The Soft Pack	Strapped	LIKE	3:52	ywoL91KcO5s	MPREb_Sr5Hi5K7DNc	UCAEWO5WpDGfP5twHqIExnRg
 168	Apparitions (with Gonjasufi)	The Gaslamp Killer	Breakthrough	LIKE	2:51	oFYNFWDjvrk	MPREb_4YigIWLEaxn	UCuvoqnctKBbiatTnb_RUNrA
 292	Holy Mt Washington (with Computer Jay)	The Gaslamp Killer	Breakthrough	LIKE	2:27	GDdVWpqab7c	MPREb_4YigIWLEaxn	UCuvoqnctKBbiatTnb_RUNrA
 501	Veins (with Gonjasufi)	The Gaslamp Killer	Breakthrough	LIKE	1:45	gBU4Ag6H-8c	MPREb_4YigIWLEaxn	UCuvoqnctKBbiatTnb_RUNrA
@@ -125,8 +125,6 @@
 462	Motoring	TOY	Toy	LIKE	4:34	d8zv9cUhM8Y	MPREb_LnV9RyZB9PD	UCfs3uKFtAcJvDG4n2vwyQFg
 537	Dead & Gone	TOY	Toy	LIKE	7:40	HqNggLQ4hIg	MPREb_LnV9RyZB9PD	UCfs3uKFtAcJvDG4n2vwyQFg
 666	Lose My Way	TOY	Toy	LIKE	4:27	XSn9hSVX1pQ	MPREb_LnV9RyZB9PD	UCfs3uKFtAcJvDG4n2vwyQFg
-43	Goooo	TNGHT	TNGHT	LIKE	3:22	w4lHQd_jIfc	MPREb_VZWtonY6H4T	UCIzvaEjamDYR85oxnqAB0eQ
-355	Higher Ground	TNGHT	TNGHT	LIKE	3:20	hwtg_1Yf8wc	MPREb_VZWtonY6H4T	UCIzvaEjamDYR85oxnqAB0eQ
 240	The Seer Returns	Swans	The Seer	LIKE	6:18	KjaIowK16vg	MPREb_pQ4ZoTf1Wux	UCw8td8ajENm2IOhk6AkBdJA
 93	High	Sun Glitters	High	LIKE	3:44	s4j8w2zHBMc	MPREb_yfCItoTcm4t	UCRy5rsbtLq5pDdaye80oEdg
 78	Say Goodbye	Summer Heart	About A Feeling	LIKE	3:03	eiRdmlXj1qE	MPREb_sFRpV2okIsu	UCNwTPvDYWGRG_Sp2rt0-UuQ
@@ -215,11 +213,6 @@
 473	Iron Giant (Instrumental)	Pepe Deluxé	Queen of the Wave (Deluxe Edition)	LIKE	3:29	B3FbvDQnYCI	MPREb_s1oJPe2wsLC	UCjqTIpBterTc_ZOwoW4AG0g
 504	Queenswave	Pepe Deluxé	Queen of the Wave	LIKE	4:55	opGdZubkkUQ	MPREb_FaJEzyueY6l	UCjqTIpBterTc_ZOwoW4AG0g
 642	Queenswave (Instrumental)	Pepe Deluxé	Queen of the Wave (Deluxe Edition)	LIKE	5:32	Wt-mlZcWXp4	MPREb_s1oJPe2wsLC	UCjqTIpBterTc_ZOwoW4AG0g
-165	Yr No Stoner	Parquet Courts	Light Up Gold	LIKE	1:51	IbVHcRd_-7I	MPREb_ON6qECPOabh	UC9mjOu5Vl7zQo-DvNeMES_g
-451	Stoned and Starving	Parquet Courts	Light Up Gold + Tally All The Things That You Broke	LIKE	5:12	6cotBOzJ8a0	MPREb_PSPDrnn8cUg	UC9mjOu5Vl7zQo-DvNeMES_g
-557	Master Of My Craft	Parquet Courts	Light Up Gold + Tally All The Things That You Broke	LIKE	3:11	1TBlz4TyWtg	MPREb_PSPDrnn8cUg	UC9mjOu5Vl7zQo-DvNeMES_g
-619	N Dakota	Parquet Courts	Light Up Gold + Tally All The Things That You Broke	LIKE	2:20	DsGduGaSAPg	MPREb_PSPDrnn8cUg	UC9mjOu5Vl7zQo-DvNeMES_g
-695	Borrowed Time	Parquet Courts	Light Up Gold	LIKE	2:33	0Io-TQLFR9k	MPREb_ON6qECPOabh	UC9mjOu5Vl7zQo-DvNeMES_g
 124	Time	Pachanga Boys	Girlcatcher	LIKE	15:13	eSqUIEgJtvk	MPREb_6aRtc5neygt	UC_4fLQcipF8haT83OcwIqJw
 40	I Ron Man	Ondatrópica	Ondatrópica (Deluxe Version)	LIKE	2:53	5XcvhKYY-AM	MPREb_Ywy0jEf4QYB	UCG4sLhExNzV_zMNL84p4zhg
 84	Cumbia Espacial	Ondatrópica	Ondatrópica	LIKE	4:06	98TjsAKOMhY	MPREb_cOhPzYyxNA5	UCG4sLhExNzV_zMNL84p4zhg
@@ -241,7 +234,6 @@
 348	Voodoo Trust	Naomi Punk	The Feeling	LIKE	3:15	Wf5L4esZofA	MPREb_LgXfUWF4SNt	UCBX1myTU90wJFnYPXWg-maw
 559	CLS + Death Junket	Naomi Punk	The Feeling	LIKE	2:16	Z98BIBP3PO8	MPREb_LgXfUWF4SNt	UCBX1myTU90wJFnYPXWg-maw
 704	The Feeling	Naomi Punk	The Feeling	LIKE	4:11	0NHCvBNz4cQ	MPREb_LgXfUWF4SNt	UCBX1myTU90wJFnYPXWg-maw
-338	Higher Palms (Young Montana? Rmx)	My Best Fiend	Higher Palms	LIKE	5:07	6ncf_WcKWyA	MPREb_KirFSzWYSli	UCwwgq7Gzxjc_Q0QuNxvlGjQ
 126	Baba	Mux Mool	Planet High School	LIKE	5:19	2y4TNmQ45QU	MPREb_7dzRcUWKPdj	UCIcg46D-9usuLVbn2sAUHlA
 518	Palace Chalice	Mux Mool	Planet High School	LIKE	3:48	0BEKCjgTrB0	MPREb_7dzRcUWKPdj	UCIcg46D-9usuLVbn2sAUHlA
 586	Live At 7-11	Mux Mool	Planet High School	LIKE	4:53	TS0dH4p148Y	MPREb_7dzRcUWKPdj	UCIcg46D-9usuLVbn2sAUHlA
@@ -311,8 +303,6 @@
 132	Cthulhu (feat. Machinedrum)	Lone	Galaxy Garden	LIKE	4:28	XtmCQEmY9eY	MPREb_y0559RiOARj	UC7-hqDqFbdlHr0sq5jhcucw
 291	Dream Girl / Sky Surfer	Lone	Galaxy Garden	LIKE	5:23	PxDGfb-OukM	MPREb_y0559RiOARj	UC7-hqDqFbdlHr0sq5jhcucw
 522	Stands Tidal Waves	Lone	Galaxy Garden	LIKE	1:47	5bW-1m2d4cc	MPREb_y0559RiOARj	UC7-hqDqFbdlHr0sq5jhcucw
-481	Moroccan Handjob	Lilacs & Champagne	Lilacs & Champagne	LIKE	1:37	0YjvZ7sNq_o	MPREb_O9xlJvlPAxo	UCsOuL4ra8sDHIEeAzmf3Mlw
-650	Lilacs	Lilacs & Champagne	Lilacs & Champagne	LIKE	3:24	YEgdeiQEi54	MPREb_O9xlJvlPAxo	UCsOuL4ra8sDHIEeAzmf3Mlw
 361	Radiation (Lung Pollution) (feat. Supasortahuman)	Lil Ugly Mane	Mista Thug Isolation	LIKE	4:32	ukvKoheHCzs	MPREb_LpwJZLujtPv	UC-DcnGKK1hSZK_tC8wkZApA
 100	Ill Valley Prodigies	Liars	WIXIW	LIKE	2:03	XtVR0e8CxOM	MPREb_ocv5yqk8406	UCcMcYm2IAhIOEzsXavsHfuQ
 140	No.1 Against the Rush	Liars	WIXIW	LIKE	5:10	E1FZqKg3HSk	MPREb_ocv5yqk8406	UCcMcYm2IAhIOEzsXavsHfuQ
@@ -405,7 +395,7 @@
 407	Take Me With You When You Go	Jack White	Blunderbuss	LIKE	4:11	x7NNXd4bn_g	MPREb_gRf4NlMZnUt	UCL5YsYJMZ-S5SU4_RQOWEPw
 482	Missing Pieces	Jack White	Blunderbuss	LIKE	3:27	6IcecMc1lvc	MPREb_gRf4NlMZnUt	UCL5YsYJMZ-S5SU4_RQOWEPw
 569	Sixteen Saltines	Jack White	Blunderbuss	LIKE	2:36	ah_df0cPs9g	MPREb_gRf4NlMZnUt	UCL5YsYJMZ-S5SU4_RQOWEPw
-61	Country Life	JEFF the Brotherhood	Hypnotic Nights	LIKE	2:40	wuqhdm-NCJI	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
+61	Country Life	JEFF the Brotherhood	Hypnotic Nights	LIKE	2:41	wuqhdm-NCJI	MPREb_R4dVYVFL7dv	UCAaETnLcP0wpVt6C8WF_MvQ
 116	Phoenix	Hucci	Phoenix	LIKE	3:57	oIdBUtO2YRc	MPREb_Wc5gQR33ieo	UC6Q7A7abXeqQrfM3flFhSjQ
 133	Look At Where We Are	Hot Chip	In Our Heads	LIKE	4:00	QNQgDu9Ja5M	MPREb_v8LIj08CN08	UCelQU7g_ZFCyK2ylb-mcrQw
 546	Vacationation	Hooded Fang	Tosta Mista	LIKE	2:21	aAoiA97WNAs	MPREb_EAr7xGWgUXo	UCOuxV9jVqctx066dTutWpVQ
@@ -435,22 +425,18 @@
 452	Cool Party	Groundislava	Feel Me	LIKE	3:43	9Gv4pYwMgrk	MPREb_tTxeT6XCNVb	UCnPDB133a63J126svJRt5Xw
 540	After Hours	Groundislava	Feel Me	LIKE	3:26	2tkmIEcaTLo	MPREb_tTxeT6XCNVb	UCnPDB133a63J126svJRt5Xw
 662	Cider	Groundislava	Feel Me	LIKE	2:45	LlL3474RPkg	MPREb_tTxeT6XCNVb	UCnPDB133a63J126svJRt5Xw
-38	Gun-Shy (Lindstrom Remix)	Grizzly Bear	Shields: Expanded	LIKE	6:56	bH5wYNEN2U8	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
+38	Gun-Shy (Lindstrom Remix)	Grizzly Bear	Shields: B-Sides	LIKE	6:56	0GYN7SKoqg0	MPREb_ZreYmlv6f5i	UCvPx-zURGfOw1CMqWtuulnw
 141	Yet Again	Grizzly Bear	Yet Again	LIKE	5:19	6dgWQ3YwDpc	MPREb_COzThB834Jf	UCvPx-zURGfOw1CMqWtuulnw
 154	Sleeping Ute	Grizzly Bear	Shields	LIKE	4:36	j93QRP4-WMI	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
-159	A Simple Answer (Liars Remix)	Grizzly Bear	Shields: Expanded	LIKE	8:00	uhxFkEpwjOU	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
-246	Smothering Green (Bonus Track)	Grizzly Bear	Shields: Expanded	LIKE	6:31	T7LjQ50k2eg	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
 247	A Simple Answer	Grizzly Bear	Shields	LIKE	6:01	3EFAb4gFLeU	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
-266	Speak in Rounds	Grizzly Bear	Shields: Expanded	LIKE	4:25	8Qg0iBwZmrc	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
+266	Speak in Rounds	Grizzly Bear	Shields	LIKE	4:25	twlUQRqC8yk	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
 277	Sun in Your Eyes	Grizzly Bear	Shields	LIKE	7:07	0E71fEb0IH4	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
-373	Sleeping Ute	Grizzly Bear	Shields: Expanded	LIKE	4:36	5ONJQpbjMYc	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
 460	Speak in Rounds	Grizzly Bear	Shields	LIKE	4:25	twlUQRqC8yk	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
-590	Gun-Shy	Grizzly Bear	Shields: Expanded	LIKE	4:31	EfaJN7bi6DM	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
-636	A Simple Answer	Grizzly Bear	Shields: Expanded	LIKE	6:01	ZNjPrR51aHs	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
-684	Sun in Your Eyes	Grizzly Bear	Shields: Expanded	LIKE	7:07	EFNflA2M6b0	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
-688	Sleeping Ute (Nicolas Jaar Remix)	Grizzly Bear	Shields: Expanded	LIKE	7:50	aM1u2o8EReQ	MPREb_nEDmABP5QpT	UCvPx-zURGfOw1CMqWtuulnw
+590	Gun-Shy	Grizzly Bear	Shields	LIKE	4:31	FJztO2wLwZo	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
+684	Sun in Your Eyes	Grizzly Bear	Shields	LIKE	7:07	0E71fEb0IH4	MPREb_SfvFnPgOkov	UCvPx-zURGfOw1CMqWtuulnw
 658	Be a Body	Grimes	Visions	LIKE	4:21	njvISD1m3uo	MPREb_yC4awaI50HN	UCzVh-F-RZdTHGV3S1o4KBWQ
 204	China Doll (Live)	Grateful Dead	Reckoning (Live)	LIKE	5:22	DRSN2TlffH4	MPREb_7naw9YvYiOP	UC9dWluHyEwvIj5NNs7KkJ0A
+131	Skylight	Gramatik	Beatz & Pieces, Vol. 1	LIKE	3:47	n16l5Hfldww	MPREb_Y8nOjo2EoeZ	UCMQLEz37VvDFDk9cSe8WHaw
 134	Strung Like Lights At Thee Printemps Erable	Godspeed You! Black Emperor	Allelujah! Don't Bend! Ascend!	LIKE	6:31	PO9deEbn6D4	MPREb_LiFggiXjEV8	UCDhKhucVT-9sNQExgHPcabg
 161	Voices	Go Wolf	Voices EP	LIKE	4:58	ga-QyxpPkbU	MPREb_CJm3z8GQUUy	UC7q-XBKuVcKFfxWMUKzsZPg
 36	Start	Frank Ocean	channel ORANGE	LIKE	0:46	xEQ_946TO_g	MPREb_2WzVTTzzoJc	UCETYiBLjt2v-pcKSgf8pe6g
@@ -468,16 +454,6 @@
 235	Lion	Four Tet	Pink	LIKE	9:00	sIt_5Skrqko	MPREb_teKSSamg6xT	UCd6q-S_HAePombe72bczCkA
 532	Locked	Four Tet	Pink	LIKE	8:29	s2el637PUlY	MPREb_teKSSamg6xT	UCd6q-S_HAePombe72bczCkA
 584	Ocoras	Four Tet	Pink	LIKE	5:23	aImoMsgenpQ	MPREb_teKSSamg6xT	UCd6q-S_HAePombe72bczCkA
-8	Tiny Tortures	Flying Lotus	Until The Quiet Comes	LIKE	3:04	_y1BzGCeKrA	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-27	Until the Quiet Comes	Flying Lotus	Until The Quiet Comes	LIKE	2:41	GOh37d61FTo	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-66	Dream to Me	Flying Lotus	Until The Quiet Comes	LIKE	1:37	IoR0dGY-TBk	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-90	Only If You Wanna	Flying Lotus	Until The Quiet Comes	LIKE	1:43	7-_Bxgp6kpI	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-432	The Nightcaller	Flying Lotus	Until The Quiet Comes	LIKE	3:29	VozNXe0bhjI	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-458	All In	Flying Lotus	Until The Quiet Comes	LIKE	2:59	F6x7Jy95lwA	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-466	Until the Colours Come	Flying Lotus	Until The Quiet Comes	LIKE	1:08	9Z_Y_d3clW4	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-645	All the Secrets	Flying Lotus	Until The Quiet Comes	LIKE	1:57	0zzlXcjgiio	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-694	Me Yesterday / / Corded	Flying Lotus	Until The Quiet Comes	LIKE	4:40	Cnmuhn-owRo	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-713	Heave(n)	Flying Lotus	Until The Quiet Comes	LIKE	2:23	ZcGYiS2IXew	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
 86	Ezra	Flume	Flume	LIKE	3:38	OLPdiDwfUog	MPREb_ow0yTNrGv0O	UCEdhHl4ZB0JXIinqZ367F6w
 97	Star Eyes	Flume	Flume	LIKE	2:27	yDmbTUa5Neg	MPREb_ow0yTNrGv0O	UCEdhHl4ZB0JXIinqZ367F6w
 122	Holdin On	Flume	Flume	LIKE	2:36	ig4tUCyLYmg	MPREb_ow0yTNrGv0O	UCEdhHl4ZB0JXIinqZ367F6w
@@ -555,9 +531,6 @@
 685	Direct Line	Dean Blunt	The Narcissist II	LIKE	7:09	P2ogapQ0kHs	MPREb_FsrNkAnEIF6	UCd-gHFnpT3sc9vSfltp8wlQ
 1	Ye Ye	Daphni	Jiaolong	LIKE	6:06	Li0mjm_E36E	MPREb_JK7ufPOCV0d	UCfk1G9VN3pt5bfjbxFFEytQ
 319	Ahora	Daphni	Jiaolong	LIKE	5:47	L9Jw14rjY48	MPREb_JK7ufPOCV0d	UCfk1G9VN3pt5bfjbxFFEytQ
-210	Up on High	Daniel Rossen	Silent Hour / Golden Mile	LIKE	3:57	tnKszyycvNk	MPREb_ecsfikuT4ND	UCLqIxY-OjKFVdUQqz2oxAhQ
-405	Golden Mile	Daniel Rossen	Silent Hour / Golden Mile	LIKE	4:17	waTt48h9yaU	MPREb_ecsfikuT4ND	UCLqIxY-OjKFVdUQqz2oxAhQ
-418	Silent Song	Daniel Rossen	Silent Hour / Golden Mile	LIKE	4:43	q_3yqvIYbCs	MPREb_ecsfikuT4ND	UCLqIxY-OjKFVdUQqz2oxAhQ
 609	We Begin	Dan Phillipson	All in Time	LIKE	2:33	6bebm82dEqo	MPREb_DJDmt2GaXqz	UCG8gIeQ6xEVBPrt7_M5ctxQ
 638	True Thrush	Dan Deacon	America	LIKE	4:45	4iWLFiRfulI	MPREb_SpkELT3z0nR	UCsP4bZFWXJO75ECgoFnbYMA
 491	Hyped-Up Plus Tax (Outputmessage RMX)	Dabrye	One/Three	LIKE	3:34	_dr9y3eOXyM	MPREb_UCuNYtbuDgd	UC9_VKEWJ2nGL7FCd3qs-vBQ
@@ -581,7 +554,6 @@
 17	I'm the Devil	Clams Casino	Instrumental Relics	LIKE	3:41	YDAhoapHd6E	MPREb_f05lZANoCke	UCsjNUqoFEYBrvapB4G9upZw
 265	Into the Fire (Instrumental)	Clams Casino	32 Levels (Deluxe)	LIKE	3:29	tQinsYwRZBk	MPREb_o4TdyP50aFe	UCsjNUqoFEYBrvapB4G9upZw
 221	Bonsoir Cherie (Live)	Chuck Berry	Chuck Berry TV Special 1972	LIKE	1:13	Pk2wJh6JEM0	MPREb_vC5NFO4HQVf	UCUfKmP9mv1yUkxlE5DDX5Zg
-125	Still Sleeping (feat. Steffaloo)	Chrome Sparks	Zappruder Collection #1	LIKE	4:23	VYxBvy-5zxg	MPREb_ht3P2Kb3TOo	UCtiBBGESRZ_I-khRHqXR3aQ
 304	Kill For Love	Chromatics	Kill For Love	LIKE	3:58	-0z46pEE5Y0	MPREb_HrBbuxKb7jU	UC6bu-FUO1gupWDZ6_VG6ckw
 352	Into The Black	Chromatics	Kill For Love	LIKE	5:23	ukAfY8S8cPY	MPREb_HrBbuxKb7jU	UC6bu-FUO1gupWDZ6_VG6ckw
 415	The Page	Chromatics	Drumless	LIKE	3:33	lTKu_bg_kp4	MPREb_1toTFqkJ9ZD	UC6bu-FUO1gupWDZ6_VG6ckw
@@ -638,7 +610,6 @@
 477	The Keeper (Alex Banks Remix) (feat. Andreya Triana)	Bonobo	Black Sands Remixed	LIKE	6:12	oe-33sjkXy8	MPREb_eHLttahLW9z	UCWBqhkfK4YT2OI3mJRQnNXg
 527	Eyesdown (ARP 101 Remix) (feat. Andreya Triana)	Bonobo	Black Sands Remixed	LIKE	3:53	cq6XEcwgld4	MPREb_eHLttahLW9z	UCWBqhkfK4YT2OI3mJRQnNXg
 541	Eyesdown (Floating Points Remix) (feat. Andreya Triana)	Bonobo	Black Sands Remixed	LIKE	6:04	3csUiOjZpKs	MPREb_eHLttahLW9z	UCWBqhkfK4YT2OI3mJRQnNXg
-663	Roygbiv	Boards of Canada	Warp20 (Chosen)	LIKE	2:30	62Bb6Mjbf_k	MPREb_wHDWMgNrPpD	UCidyEq0ZC6rcqZmwKt_g_2g
 673	Meet You At Tower Records	Blockhead	Interludes After Midnight	LIKE	5:18	cDicbL68kNw	MPREb_KbmWIcLMbyx	UCw17TyU9Jv5ugxgijytfRMQ
 108	We Burn	Black Moth Super Rainbow	Cobra Juicy	LIKE	3:47	cDzXa-Z2XUA	MPREb_iXtZmkCSy0f	UCF_knPo2kVIV9nG3GUtie4g
 202	Dreamsicle Bomb	Black Moth Super Rainbow	Cobra Juicy	LIKE	3:22	PcS5chw568Q	MPREb_iXtZmkCSy0f	UCF_knPo2kVIV9nG3GUtie4g
@@ -669,7 +640,6 @@
 57	Wyrd Gd Theme	Aroah	Patterns	LIKE	2:36	OyjtCSd88hg	MPREb_1sAkiS9UzdT	UCT7Bip3DnjiAPxDvjDOVkxQ
 610	Fill My Coffee	Arkist	Rendezvous / Fill My Coffee	LIKE	4:50	gTAdShepiWs	MPREb_3GkjW9zN9Dx	UC_zvs3Rycn25Ck-kqwIM6kw
 613	Trying to Love You	Arca	Trying to Love You	LIKE	3:32	XraPwMbMuiE	MPREb_t7ZdLlPfZ2q	UCeSKkjc22zvicdo63zTrNzA
-313	Windowlicker	Aphex Twin	Warp20 (Chosen)	LIKE	6:06	Ypti7vXOfcA	MPREb_wHDWMgNrPpD	UCWmnkYUzoOiOztmPBhIlZjg
 608	Sittin In Hell	Antwon	End of Earth	LIKE	1:54	5I6uy0NNChE	MPREb_CMNpkkzoeB7	UCz2-XYvlJ4cD8zgj6LbJqvw
 601	Rosie Oh	Animal Collective	Centipede Hz	LIKE	2:56	8SfXp9TmPWU	MPREb_ffdFxjbk745	UC6X5Baxp63Ex9NaLZwAy7lQ
 217	Hatch the Plan	Andy Stott	Luxury Problems	LIKE	8:39	gZ7gXLRVmOs	MPREb_4PQvVQKvMdp	UCUKjzgFCEy5dmhdaTQMR72g
@@ -709,7 +679,31 @@
 587	High For This	The Weeknd	Trilogy	INDIFFERENT	4:10	Z1K11iEBfg8	MPREb_Pq7VLMb1aUy	UClYV6hHlupm_S_ObS1W-DYw
 42	The New Balearic	Teen Daze	All of Us, Together	INDIFFERENT	5:11	JFbwNQvGQ6I	MPREb_Fb06wHCyARR	UCQetB-f80a1Hsy09kpGFbTQ
 138	Hold	Teen Daze	All of Us, Together	INDIFFERENT	2:59	-pNpTmCpJf4	MPREb_Fb06wHCyARR	UCQetB-f80a1Hsy09kpGFbTQ
-131	Skylight	Gramatik	Beatz & Pieces, Vol. 1	INDIFFERENT	3:47	n16l5Hfldww	MPREb_Y8nOjo2EoeZ	UCMQLEz37VvDFDk9cSe8WHaw
+43	Goooo	TNGHT	TNGHT	INDIFFERENT	3:22	dFUSyzSyEEg	MPREb_JquSk6f3B1a	UCIzvaEjamDYR85oxnqAB0eQ
+355	Higher Ground	TNGHT	TNGHT	INDIFFERENT	3:20	b0VxW5iXzb4	MPREb_JquSk6f3B1a	UCIzvaEjamDYR85oxnqAB0eQ
+165	Yr No Stoner	Parquet Courts	Light Up Gold	INDIFFERENT	1:51	A5bU-bOnB5o	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g
+451	Stoned and Starving	Parquet Courts	Light Up Gold	INDIFFERENT	5:12	KtYQtlKDrpE	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g
+557	Master of My Craft	Parquet Courts	Light Up Gold	INDIFFERENT	3:11	qhqGImDfD00	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g
+619	N Dakota	Parquet Courts	Light Up Gold	INDIFFERENT	2:20	rhI9Ke6g4ig	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g
+695	Borrowed Time	Parquet Courts	Light Up Gold	INDIFFERENT	2:33	PDtEjOki87E	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g
+338	Higher Palms (Young Montana? RMX)	My Best Fiend	Higher Palms	INDIFFERENT	5:07	dJQ8WQVujaU	MPREb_Bw2Ls6hi9mO	UCwwgq7Gzxjc_Q0QuNxvlGjQ
+481	Moroccan Handjob	Lilacs & Champagne	Lilacs & Champagne	INDIFFERENT	1:37	wpQ7vNTd2aM	MPREb_MW7SgvLbqMO	UCsOuL4ra8sDHIEeAzmf3Mlw
+650	Lilacs	Lilacs & Champagne	Lilacs & Champagne	INDIFFERENT	3:24	ULRAipCVhMI	MPREb_MW7SgvLbqMO	UCsOuL4ra8sDHIEeAzmf3Mlw
+159	A Simple Answer (Liars Remix)	Grizzly Bear	Shields: Expanded	INDIFFERENT	8:00	3IQxu8eITzI	MPREb_sK2wxhe2Pp3	UCvPx-zURGfOw1CMqWtuulnw
+246	Smothering Green (Bonus Track)	Grizzly Bear	Shields: Expanded	INDIFFERENT	6:31	ll0IHny8HuY	MPREb_sK2wxhe2Pp3	UCvPx-zURGfOw1CMqWtuulnw
+373	Sleeping Ute	Grizzly Bear	Shields: Expanded	INDIFFERENT	4:36	C8xQXP_f5hs	MPREb_sK2wxhe2Pp3	UCvPx-zURGfOw1CMqWtuulnw
+636	A Simple Answer	Grizzly Bear	Shields: Expanded	INDIFFERENT	6:01	fOAjsHlqOLg	MPREb_sK2wxhe2Pp3	UCvPx-zURGfOw1CMqWtuulnw
+688	Sleeping Ute (Nicolas Jaar Remix)	Grizzly Bear	Shields: Expanded	INDIFFERENT	7:50	P46snezpNjk	MPREb_sK2wxhe2Pp3	UCvPx-zURGfOw1CMqWtuulnw
+8	Tiny Tortures	Flying Lotus	Until The Quiet Comes	INDIFFERENT	3:04	MB00zNSsEWA	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+27	Until The Quiet Comes	Flying Lotus	Until The Quiet Comes	INDIFFERENT	2:41	tIYoazYxOgY	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+66	Dream To Me	Flying Lotus	Until The Quiet Comes	INDIFFERENT	1:37	e97PcWaYdg0	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+90	Only If You Wanna	Flying Lotus	Until The Quiet Comes	INDIFFERENT	1:43	iBfh_M8vPV0	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+432	The Nightcaller	Flying Lotus	Until The Quiet Comes	INDIFFERENT	3:29	Mye7qlx1eoU	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+458	All In	Flying Lotus	Until The Quiet Comes	INDIFFERENT	2:59	p6E72hxi0eA	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+466	Until The Colours Come	Flying Lotus	Until The Quiet Comes	INDIFFERENT	1:08	_SZb3T6rjJk	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+645	All The Secrets	Flying Lotus	Until The Quiet Comes	INDIFFERENT	1:57	UuKt2nSs_oU	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+694	me Yesterday//Corded	Flying Lotus	Until The Quiet Comes	INDIFFERENT	4:40	ympszkEoCjg	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+713	Heave(n)	Flying Lotus	Until The Quiet Comes	INDIFFERENT	2:23	zgWGHb0FyLQ	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
 105	Star Eyes	Flume	Flume: Deluxe Edition	INDIFFERENT	2:27	S3ZU9NAICQQ	MPREb_cxKuyFeY7pG	UCEdhHl4ZB0JXIinqZ367F6w
 169	You & Me (Flume Remix) (feat. ELIZA)	Flume	Flume: Deluxe Edition	INDIFFERENT	4:43	J9rTD_mJIPw	MPREb_cxKuyFeY7pG	UCEdhHl4ZB0JXIinqZ367F6w
 200	Sleepless (feat. Jezzabell Doran)	Flume	Flume: Deluxe Edition	INDIFFERENT	3:30	pXabKwlbxvI	MPREb_cxKuyFeY7pG	UCEdhHl4ZB0JXIinqZ367F6w
@@ -722,6 +716,12 @@
 492	More Than You Thought	Flume	Flume	INDIFFERENT	4:06	TDyfBJ3aKD4	MPREb_iN0UERnGkaV	UCEdhHl4ZB0JXIinqZ367F6w
 562	Sintra	Flume	Flume	INDIFFERENT	2:36	B2k4-pMCR3U	MPREb_iN0UERnGkaV	UCEdhHl4ZB0JXIinqZ367F6w
 720	Warm Thoughts (feat. GrandeMarshall & Goldie Glo)	Flume	Flume: Deluxe Edition	INDIFFERENT	2:45	6n-quk-a-To	MPREb_cxKuyFeY7pG	UCEdhHl4ZB0JXIinqZ367F6w
-224	Dum Dum	Baauer	Dum Dum	INDIFFERENT	2:02	LV7P5mEzsS0	MPREb_AMDzkS4GFCR	UChr8sjD4NJGdKuLA-GquIAQ
+210	Up On High	Daniel Rossen	Silent Hour / Golden Mile	INDIFFERENT	3:57	0k9mGKqG-mo	MPREb_DcBIgafXGE1	UCLqIxY-OjKFVdUQqz2oxAhQ
+405	Golden Mile	Daniel Rossen	Silent Hour / Golden Mile	INDIFFERENT	4:17	8hC-yvwfWtg	MPREb_DcBIgafXGE1	UCLqIxY-OjKFVdUQqz2oxAhQ
+418	Silent Song	Daniel Rossen	Silent Hour / Golden Mile	INDIFFERENT	4:43	Leck5tWG83Q	MPREb_DcBIgafXGE1	UCLqIxY-OjKFVdUQqz2oxAhQ
+663	Roygbiv	Boards of Canada	Warp20 (Chosen)	INDIFFERENT	2:30	rMOE6cabtK8	MPREb_e9NvtHPGRXn	UCidyEq0ZC6rcqZmwKt_g_2g
+224	Dum Dum	Baauer	Dum Dum	INDIFFERENT	2:02	s6QXpv5fd8s	MPREb_JxtUzuuuX4f	UChr8sjD4NJGdKuLA-GquIAQ
+313	Windowlicker	Aphex Twin	Warp20 (Chosen)	INDIFFERENT	6:06	CXRPzm_nmD8	MPREb_e9NvtHPGRXn	UCWmnkYUzoOiOztmPBhIlZjg
 258	What You Need	The Weeknd	Trilogy			_SIS4OKg6UI		
 485	Sleepless - Flume, Twin Shadow, Jezzabell Doran	Flume	Flume: Deluxe Edition		1:51	oK-usi-lAjA		
+125	Still Sleeping	Chrome Sparks	Zappruder Collection #1			VYxBvy-5zxg		

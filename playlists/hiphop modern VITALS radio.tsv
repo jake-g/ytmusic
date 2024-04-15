@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+0	Scenery	Ryo Fukui	Scenery	LIKE	5:31	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 115	Highway Patrol (feat. Bladee)	Yung Lean	Warlord	INDIFFERENT	3:33	eYM-2paNOZU	MPREb_8He9g7ptx2S	UCKxZPmezUMRaV0rkbQnrtxA
 99	Still Brazy	YG	Still Brazy (Deluxe)	INDIFFERENT	3:23	K74vvy_2A8U	MPREb_W7oy4hKigpT	UCfmbK1auGXazD_UOiU2y1dg
 35	When I'm Down	Whethan	Whethan, Oliver Tree - When I'm Down	INDIFFERENT	2:45	7CLUzGsnSA8	MPREb_J3Mwp9RRWxw	UCtbGuiysgy23rMrhoB_Z8jA
@@ -31,19 +32,18 @@
 105	Innerbloom	RÜFÜS DU SOL	Bloom	INDIFFERENT	9:39	Gt2wnz7oTwo	MPREb_pD2RrpJkvFj	UC29fOlrXpIg8xhmrSS2phUw
 120	Say a Prayer For Me	RÜFÜS DU SOL	Bloom	INDIFFERENT	4:38	uh7Yy2pTL_s	MPREb_pD2RrpJkvFj	UC29fOlrXpIg8xhmrSS2phUw
 128	Like an Animal	RÜFÜS DU SOL	Bloom	INDIFFERENT	4:02	VFTxxlgLdJE	MPREb_pD2RrpJkvFj	UC29fOlrXpIg8xhmrSS2phUw
-0	Scenery	Ryo Fukui	SCENERY	INDIFFERENT	5:32	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 28	2100 (feat. BOOTS)	Run The Jewels	Run The Jewels 3	INDIFFERENT	4:02	iojT8yPHsuM	MPREb_3J49aAhE4WI	UC6b6dR8FnUK-_c_GtWv3fdQ
 49	I'm a Stone	River Tiber	Indigo	INDIFFERENT	3:55	dDq0MV9UknA	MPREb_2CF3a6FhFeB	UCV1eHw-IcR2b2nMX9tzeChQ
 108	Swank	Rilla Force	Swank	INDIFFERENT	2:30	0z8KNXhbd3U	MPREb_qJ2w3jrOfvw	UCX3yaRJ7SMHB6xPx_j9IPxg
 24	The Butcher	Radiohead	Supercollider / The Butcher	INDIFFERENT	4:36	dr2Wm3Ralos	MPREb_i74K8v70XB7	UCr_iyUANcn9OX_yy9piYoLw
-78	Shelter	R7cky	Shelter	INDIFFERENT	3:09	iFYox5penGY	MPREb_PkqjSUBbSkz	UCzTkBUd7QdamGqiOSAsM4_w
+78	Shelter (R7CKY FLIP) - Shelter (R7CKY FLIP) (Shelter (R7CKY FLIP))	R7CKY	Shelter (R7Cky Flip)	INDIFFERENT	3:09	OCaLkmWwTQg	MPREb_2g6KoWPbBp9	UCzTkBUd7QdamGqiOSAsM4_w
 58	dust hymn	Purity Ring	another eternity	INDIFFERENT	3:31	GhVcAfE_4sQ	MPREb_0ZuRBo2vZnM	UCu_tCVkOZmNKke8WptzHDGA
 12	Lady Killer	Priestess	Prior To The Fire	INDIFFERENT	4:07	ZJnrx1zNHok	MPREb_FHQpyDMgZVO	UCa0JomCGc6GP6x1TWLzHvDg
 17	The Way That You Like (feat. Empress Of)	Pional	When Love Hurts	INDIFFERENT	3:46	2cdKnY36nXw	MPREb_6fpIPZl2s5K	UCI2bqmeiDeYPTMVnQjrQGsA
 83	Bokeh	Panda Coast	Leisure	INDIFFERENT	5:10	Jr_w_0wiQvM	MPREb_TuBbwgaMQCx	UCvuVYxfw59cszbDt2Q0Z6ug
 110	Energy	POUYA	Underground Underdog	INDIFFERENT	3:49	Xes3PxhTYPY	MPREb_nhtmrr5agsE	UCID3Hi5GA0d01EtSSgGlRxA
 33	Fear Less	Nick Murphy	Fear Less	INDIFFERENT	4:15	LlmNaPsuSHY	MPREb_pb2AvxiaLvJ	UCx8dU29pXIWbHA4PjGHmLKA
-34	Can't Tell Me Nothing (feat. Novelist)	Nick Hook & Novelist	Relationships	INDIFFERENT	2:45	E4dKR-zaqZE	MPREb_JZrjPGjOm7U	UC7fbcLSYAS9ZJLs8KY2xAeQ
+34	Can't Tell Me Nothing (feat. Novelist)	Nick Hook	Can't Tell Me Nothing	INDIFFERENT	2:45	MwooVyONrNQ	MPREb_vQJpisY6KVa	UCSEQWxAQY3rtB5e3oZndW5Q
 4	Nights With You	MØ	Nights With You	INDIFFERENT	3:18	HYCDcNOOvPE	MPREb_VOU7pUUQZkS	UCRcnXWrpGwuy6GTatKAa97Q
 11	1 Night (feat. Charli XCX)	Mura Masa	Mura Masa	INDIFFERENT	3:28	Dd-CwD_NW9c	MPREb_odj7ak1fEuD	UCEYapch47TYc3ldsQIrC3Uw
 111	What If I Go? (feat. Bonzai)	Mura Masa	Mura Masa	INDIFFERENT	3:16	__EDZIxYpT4	MPREb_odj7ak1fEuD	UCEYapch47TYc3ldsQIrC3Uw
@@ -84,7 +84,7 @@
 8	Bittersweet Emotion (Qrion Remix) (feat. Josh Tobias)	JackLNDN & Qrion	Bittersweet Emotion (Qrion Remix) [feat. Josh Tobias]	INDIFFERENT	3:35	U50PyvjVXDs	MPREb_ubEwksqzZ8H	UCJp4MA1WJFxF3xwz5-QADuw
 31	651	J Dilla	Jay Dee a.k.a. King Dilla	INDIFFERENT	1:44	ip3a2dsv7uM	MPREb_d20jwYnZtrN	UCg6G23d_0Rdx3W5XbxC7N8A
 88	Bad 4 U	Imad Royal	Bad 4 U	INDIFFERENT	3:13	3NRMcHBzK5M	MPREb_59VB4qdnXpE	UCHLwVPgN85ayoTo0DCARSTw
-133	System	Hudson Mohawke	Lantern	INDIFFERENT	4:17	X6Jp_dLFtVo	MPREb_XllpyZypLz4	UCB9xU4WcqTheZX69u2sYWeA
+133	System	Hudson Mohawke	Lantern	INDIFFERENT	4:17	13nsHlyGB_U	MPREb_3LvBY69Io66	UCB9xU4WcqTheZX69u2sYWeA
 44	Fixed on You (feat. Violet Days)	Hotel Garuda	Fixed on You	INDIFFERENT	3:10	IrkkV-rw9Eg	MPREb_NefyjNVUgQ0	UCzlj-ClemePuW5-XosIBjmA
 68	Just A Lover (Pomo Remix)	Hayden James	Just A Lover (Remixes)	INDIFFERENT	3:59	xrbpY1k_pOI	MPREb_L4gjFoNWeqc	UC3X7KAGTP8n21hwCmRLQ0Rg
 91	Just A Lover	Hayden James	Just A Lover	INDIFFERENT	2:51	thTHMD0nP2g	MPREb_OhVOno040IS	UC3X7KAGTP8n21hwCmRLQ0Rg
@@ -130,7 +130,7 @@
 18	Always Like This	Bombay Bicycle Club	I Had The Blues But I Shook Them Loose	INDIFFERENT	4:06	jQ0DFUOw7ys	MPREb_UhWEvHPJT8q	UC8BTMkXw4NFNex42ExZUT8g
 25	ocean eyes	Billie Eilish	Ocean Eyes	INDIFFERENT	3:21	iSshSXte2XI	MPREb_RKyaI8Udim1	UCERrDZ8oN0U_n9MphMKERcg
 61	All of Me (feat. ROZES & Logic)	Big Gigantic	All of Me	INDIFFERENT	3:49	jNffno0JgbM	MPREb_v4rD65RWTDg	UC2lv0pxbGB29JGjAU6XSJwg
-117	Make Moves	Benga	Make Moves	INDIFFERENT	5:19	XHSUQoie4gQ	MPREb_BRDFUfB2SG3	UCCP_3qVEimshKY7FVroEXWw
+117	Make Moves	Benga	Make Moves	INDIFFERENT	5:20	E4S_QZ2B0SQ	MPREb_9C9KMOHBbrz	UCCP_3qVEimshKY7FVroEXWw
 100	Utopia (CRNKN Remix)	Bang La Decks	Utopia (CRNKN Remix)	INDIFFERENT	2:46	uJflCmTd_To	MPREb_KuFfFArBdUn	UCDgVF1CKOshNbq8orfTniUg
 106	Worlds to Run (feat. Milo & Anderson .Paak)	BUSDRIVER	Thumbs	INDIFFERENT	5:16	KbSqDAeXjTY	MPREb_iTrqW0Ttbxn	UCN7nJ0XqWh1XzY_mHqIzitg
 136	Watch My Back	BASECAMP	Greater Than - EP	INDIFFERENT	3:52	VZjqWaIW4m4	MPREb_jHyeHr6cDYq	UCeq-jyDJKH4wqqeAidk1V_w

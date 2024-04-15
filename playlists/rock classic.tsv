@@ -1,13 +1,4 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-20	Gimme All Your Lovin'	ZZ Top	Eliminator	LIKE	4:02	_k1VSeudgxA	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
-178	Cheap Sunglasses	ZZ Top	ZZ Top's Greatest Hits	LIKE	4:48	rpNlWI_P1gc	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
-203	Tush (2006 Remaster)	ZZ Top	Fandango! (Expanded 2006 Remaster)	LIKE	2:14	P7iPkiyG2jQ	MPREb_p0iQRPUCdcJ	UC_Us2Zqt4ovGtdXKmws60mw
-468	Legs (2008 Remaster)	ZZ Top	Eliminator	LIKE	4:34	kELhHQ4sC_Y	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
-628	Miller's Farm	ZZ Top	Chrome Smoke & BBQ: The ZZ Top Box	LIKE	2:36	cmkpfFsiMpU	MPREb_uGBHKPEXQWy	UC_Us2Zqt4ovGtdXKmws60mw
-653	La Grange (2005 Remaster)	ZZ Top	Tres Hombres (Expanded 2006 Remaster)	LIKE	3:51	vqz0wRaie2g	MPREb_IujTCHDOoVC	UC_Us2Zqt4ovGtdXKmws60mw
-671	Jesus Just Left Chicago (2006 Remaster)	ZZ Top	Tres Hombres (Expanded 2006 Remaster)	LIKE	3:31	L2UTjoVVVb4	MPREb_IujTCHDOoVC	UC_Us2Zqt4ovGtdXKmws60mw
-730	Sharp Dressed Man (2008 Remaster)	ZZ Top	Eliminator	LIKE	4:19	lyIPvm4JukQ	MPREb_dAd7tpgnjCU	UC_Us2Zqt4ovGtdXKmws60mw
-750	La Grange (1999 Remaster)	ZZ Top	ZZ Top's Greatest Hits	LIKE	3:53	s81_Zvt0C8A	MPREb_3rzgMTZqyzo	UC_Us2Zqt4ovGtdXKmws60mw
 583	Owner of a Lonely Heart	Yes	90125 (Deluxe Version)	LIKE	4:29	IG_VDj8Eh_g	MPREb_N9KiQcTZrDh	UCtwW_44fofodl7K_12nXOEg
 749	Roundabout (2003 Remaster)	Yes	Fragile (Deluxe Edition)	LIKE	8:31	DwPWGUhEtP0	MPREb_vHT2Zmnk3IB	UCtwW_44fofodl7K_12nXOEg
 109	Rockestra Theme	Wings	Wingspan	LIKE	2:37	LSm8R3iRIhY	MPREb_ioTLddsOMBg	UCyyYmEud7d9iGVOYNMG9sAA
@@ -73,9 +64,9 @@
 1000	The Boys Are Back In Town	Thin Lizzy	Jailbreak	LIKE	4:30	nN120kCiVyQ	MPREb_y5FgakpQFrz	UCc1aNHzU9wXhKyhJy0PJgQQ
 128	Darkness, Darkness	The Youngbloods	Elephant Mountain	LIKE	3:49	-ge1VLj2Vf0	MPREb_UXygQwp2zlY	UC3meSti7--o4rGcYueDQ24g
 893	Get Together	The Youngbloods	The Youngbloods	LIKE	4:40	_rxvU1wkyec	MPREb_KTyDMZOnwpL	UC3meSti7--o4rGcYueDQ24g
-158	Groovin'	The Young Rascals	Gettin' Together: Groovy Sounds from the Summer of Love	LIKE	2:30	lYTCI96ykfE	MPREb_hntPEN3MbIF	UCx-fvMVKvAAP7279ZYbX97Q
-935	How Can I Be Sure (Single Version)	The Young Rascals	Feelin' Groovy! Chilled 60's Classics	LIKE	2:56	2P3x6E35KBY	MPREb_rJsf8CwyFJ5	UCx-fvMVKvAAP7279ZYbX97Q
-939	Good Lovin' (Single Version)	The Young Rascals	1966	LIKE	2:30	bVgw78bvfNw	MPREb_VmlkYOLQTzP	UCx-fvMVKvAAP7279ZYbX97Q
+158	Groovin'	The Young Rascals	Gettin' Together: Groovy Sounds from the Summer of Love	LIKE	2:30	lYTCI96ykfE	MPREb_hntPEN3MbIF	UCTyZg74MHOVOSN2prFqiG4Q
+935	How Can I Be Sure (Single Version)	The Young Rascals	Feelin' Groovy! Chilled 60's Classics	LIKE	2:56	2P3x6E35KBY	MPREb_rJsf8CwyFJ5	UCTyZg74MHOVOSN2prFqiG4Q
+939	Good Lovin' (Single Version)	The Young Rascals	1966	LIKE	2:30	bVgw78bvfNw	MPREb_VmlkYOLQTzP	UCTyZg74MHOVOSN2prFqiG4Q
 61	For Your Love (feat. Eric Clapton) (feat. Eric Clapton)	The Yardbirds	For Your Love (feat. Eric Clapton) - Live	LIKE	2:29	fAiVlHzfC_g	MPREb_8Ict4PgWHTJ	UC--CUY9RbIaFjKM3wZkIEOA
 430	Honey in Your Hips (Demo)	The Yardbirds	The Yardbirds Story - Pt. 2 - 1964 - Early Studio & At the Marquee (Live)	LIKE	2:18	fGmlyoYlX2s	MPREb_OY3gjhlIPBR	UC--CUY9RbIaFjKM3wZkIEOA
 21	Heat Wave	The Who	A Quick One (Expanded Edition)	LIKE	1:58	-bK6gK1UGRs	MPREb_qmRYvUNMpyb	UCpxn_sVrLQWNGFK1eulpYgw
@@ -136,7 +127,6 @@
 434	Paint It, Black ((Original Single Mono Version))	The Rolling Stones	Singles 1965-1967	LIKE	3:45	b1uIM2nPocE	MPREb_tjxjvgOsPIe	UCNYhhkQqeFLUc-YEDcLpSYQ
 441	Doo Doo Doo Doo (Heartbreaker) (2005 Digital Remaster)	The Rolling Stones	Made In The Shade (2005 Digital Remaster)	LIKE	3:27	jhnn3St0i7U	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
 455	Happy (2005 Digital Remaster)	The Rolling Stones	Made In The Shade (2005 Digital Remaster)	LIKE	3:04	ML1gH6mhfak	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
-456	Can't You Hear Me Knocking (2009 Mix)	The Rolling Stones	Sticky Fingers (Deluxe)	LIKE	7:16	Gz5mI6tqm_Q	MPREb_LNV4afvPPtZ	UCNYhhkQqeFLUc-YEDcLpSYQ
 512	Wild Horses (2005 Digital Remaster)	The Rolling Stones	Made In The Shade (2005 Digital Remaster)	LIKE	5:41	nY_GgPi5eCM	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
 523	Let's Spend The Night Together	The Rolling Stones	Between The Buttons	LIKE	3:36	1k9qy-c1XXk	MPREb_WZlczF5cCQm	UCNYhhkQqeFLUc-YEDcLpSYQ
 529	Gimme Shelter	The Rolling Stones	Let It Bleed	LIKE	4:31	EJRdDhnTRoo	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
@@ -162,7 +152,6 @@
 683	Pleasant Valley Sunday (2007 Remaster)	The Monkees	Pisces, Aquarius, Capricorn & Jones Ltd. (Deluxe Edition)	LIKE	3:15	boJlejbuyw0	MPREb_DrZqu0guRE0	UCFXwbDAkk-Ef4nWOpw9vqYQ
 883	"Porpoise Song (Theme from ""Head"")"	The Monkees	Head (Deluxe Edition)	LIKE	2:41	X3yWxXi7S3Y	MPREb_HQTsMGVtf7X	UCFXwbDAkk-Ef4nWOpw9vqYQ
 914	I'm a Believer (Alternate Mix) [2006 Remaster] (Alternate Mix; 2006 Remaster)	The Monkees	More of The Monkees (Deluxe Edition)	LIKE	2:51	55V6xLwsNGo	MPREb_iCm7ET5ktfY	UCFXwbDAkk-Ef4nWOpw9vqYQ
-380	Wishin' and Hopin'	The Merseybeats	Mr. Moonlight	LIKE	2:41	34CMgXwgTZU	MPREb_v6GjpeszZcY	UCCz30g-SR4HfS9bU-ABO3QQ
 641	Daydream	The Lovin' Spoonful	Playlist: The Very Best Of The Lovin' Spoonful	LIKE	2:20	TOD5stXnUWQ	MPREb_S7IkRYw8hzQ	UCgTe55AB4dqeMMVgVZ-qQnQ
 172	Summer In The City	The Lovin Spoonful	A Gold Collection of Pop Classics	LIKE	2:46	5NmEty32Fkw	MPREb_PfMYIg9kjL4	UCgTe55AB4dqeMMVgVZ-qQnQ
 201	My Sharona	The Knack	Get the Knack	LIKE	4:56	ZR-3r5Z9kqw	MPREb_3vF5We2In5x	UC2-ZbJHsDK6qngTnkQPF5Ug
@@ -450,10 +439,10 @@
 1001	High Hopes	Pink Floyd	The Division Bell	LIKE	8:34	lku1fP-LszI	MPREb_lLVNIIEitII	UCO6LS_5W7vqG9mALDNzSFug
 1003	Mother	Pink Floyd	The Wall	LIKE	5:35	xe3NUKCnZp4	MPREb_6MwY5ApCXas	UCO6LS_5W7vqG9mALDNzSFug
 1024	Pigs On The Wing (Part One)	Pink Floyd	Animals	LIKE	1:25	dd1y-DDpASk	MPREb_KC0syME1cxK	UCO6LS_5W7vqG9mALDNzSFug
-161	Something's Happening (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	LIKE	5:42	pc5Rz-Mpu4o	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
-552	Show Me The Way (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	LIKE	4:35	UAynwzutk0A	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
-686	Wind Of Change (Live In The United States/1976)	Peter Frampton	Frampton Comes Alive!	LIKE	2:46	eJs9SKeVrx0	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
-850	Show Me The Way (Live In The United States/1976)	Peter Frampton	Greatest Hits	LIKE	4:38	SgskNKYQRi0	MPREb_Lc1oBIEo97Z	UCI5RQ0Z0J8whww9HWAYPxGg
+161	Something's Happening (Live)	Peter Frampton	Frampton Comes Alive!	LIKE	5:42	pc5Rz-Mpu4o	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
+552	Show Me The Way	Peter Frampton	Frampton Comes Alive!	LIKE	4:35	UAynwzutk0A	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
+686	Wind Of Change	Peter Frampton	Frampton Comes Alive!	LIKE	2:46	eJs9SKeVrx0	MPREb_fCHpazC34Mz	UCI5RQ0Z0J8whww9HWAYPxGg
+850	Show Me The Way (Live)	Peter Frampton	Greatest Hits	LIKE	4:38	SgskNKYQRi0	MPREb_Lc1oBIEo97Z	UCI5RQ0Z0J8whww9HWAYPxGg
 554	A World Without Love	Peter And Gordon	The Ultimate Peter And Gordon	LIKE	2:41	lFmt1YEQ8WA	MPREb_2P9ASkM1JeR	UCtsF3aggUHhStCT_Vbpxkyw
 917	Fly Away	Peter Allen	Bi-Coastal	LIKE	4:01	D4P4feL1pEw	MPREb_t66JblQtjHB	UCS3M4w-DBaTo1F5QfOUOASA
 447	Black (Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992)	Pearl Jam	Pearl Jam Twenty Original Motion Picture Soundtrack	LIKE	5:40	X_pOfDFqaA0	MPREb_otuZgnRufrp	UCI1tnOMUhNh2QiHTpMrPDbw
@@ -516,7 +505,6 @@
 379	Intro / Sweet Jane (Live [1973 Version])	Lou Reed	Rock 'n' Roll Animal (Live)	LIKE	7:49	KqpWTC-rvhQ	MPREb_VVoWoYWDi7M	UCRG5sTutjbCCru6kPN1j-Bw
 1005	Walk On the Wild Side	Lou Reed	Transformer	LIKE	4:14	Qu6F-mMAQhk	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw
 663	Nobody But You	Loggins & Messina	Sittin' In	LIKE	2:58	4as7FGQmYnQ	MPREb_4j7fy9rkn9L	UC6xL5tN9qVdjC07-CoS-Ghw
-618	Cult of Personality	Living Colour	Vivid (Expanded Edition)	LIKE	4:55	gEjlMvDsp9I	MPREb_0Pt1NGg5L6P	UCAqFudoTPzFWthg6BYzMa1g
 403	Take It Easy On Me	Little River Band	Time Exposure	LIKE	3:48	vgRyZfMjtY4	MPREb_eT9Y2JFkKrB	UCreiohNB7aQ41Dv5daGfbcA
 903	Reminiscing	Little River Band	Sleeper Catcher (Remastered 2022)	LIKE	4:18	9QYk1E8zdxU	MPREb_W0qAdsGuAgx	UCreiohNB7aQ41Dv5daGfbcA
 3	The Locomotion	Little Eva	Llllloco-Motion	LIKE	2:19	1Lej7aQDrGM	MPREb_0mCVknYXH6u	UCugjaWay_M9OGE3zPsxoYHQ
@@ -570,7 +558,7 @@
 535	Dust in the Wind	Kansas	Point Of Know Return (Expanded Edition)	LIKE	3:27	9fNrJMkTWEE	MPREb_Kw2kCNhFa2x	UC5dHcAkq1ju2Obuj17eRBOA
 649	Carry on Wayward Son	Kansas	Leftoverture (Expanded Edition)	LIKE	5:23	tz6u9suVNlY	MPREb_AokBHjtutAr	UC5dHcAkq1ju2Obuj17eRBOA
 679	New Dawn Fades (2019 Digital Master)	Joy Division	Unknown Pleasures (2019 Digital Master)	LIKE	4:49	lBykvBKMeec	MPREb_emrL3Cq1sl5	UCj9bYSgqVuUxqd3x9myLWKA
-198	Any Way You Want It (2024 Remaster)	Journey	Greatest Hits (2024 Remaster)	LIKE	3:23	kLDVTfQGDe4	MPREb_uN8bgEO1in5	UCPKnuPciHDB8qw-wyBVQo9A
+198	Any Way You Want It (2024 Remaster)	Journey	Greatest Hits (2024 Remaster)	LIKE	3:24	kLDVTfQGDe4	MPREb_uN8bgEO1in5	UCPKnuPciHDB8qw-wyBVQo9A
 267	Any Way You Want It	Journey	Departure	LIKE	3:22	fEpFf2towVU	MPREb_VT6nX9eIhSk	UCPKnuPciHDB8qw-wyBVQo9A
 453	Don't Stop Believin' (2022 Remaster)	Journey	Escape (2022 Remaster)	LIKE	4:10	mM3Vmn4pdog	MPREb_LCHjpmI2ufT	UCPKnuPciHDB8qw-wyBVQo9A
 459	Don't Stop Believin'	Journey	Time3	LIKE	4:11	PIFUWHvSixw	MPREb_qjKRkr4j7FP	UCPKnuPciHDB8qw-wyBVQo9A
@@ -714,8 +702,8 @@
 610	Dreams	Fleetwood Mac	Greatest Hits	LIKE	4:15	CM1-cJBpiWQ	MPREb_Hfj9Lazhaxa	UCCzULu3prrEaPvM2ZtkJlYQ
 907	Long Grey Mare	Fleetwood Mac	Fleetwood Mac	LIKE	2:14	3cgMaBJGovs	MPREb_A1ZTMpsIK9a	UCCzULu3prrEaPvM2ZtkJlYQ
 1021	You Make Loving Fun (2004 Remaster)	Fleetwood Mac	Rumours	LIKE	3:34	RqjXn2NflqU	MPREb_1SbgcDGdrT4	UCCzULu3prrEaPvM2ZtkJlYQ
-514	Cinderella	Firefall	Firefall	LIKE	3:36	qMzseSaPZ50	MPREb_zqJAk4XDMCU	UCUUkyYBfTybWm-UjZCtzC1A
-967	You Are the Woman	Firefall	Firefall	LIKE	2:44	lakFEx_9cT4	MPREb_zqJAk4XDMCU	UCUUkyYBfTybWm-UjZCtzC1A
+514	Cinderella	Firefall	Firefall	LIKE	3:37	qMzseSaPZ50	MPREb_zqJAk4XDMCU	UCUUkyYBfTybWm-UjZCtzC1A
+967	You Are the Woman	Firefall	Firefall	LIKE	2:45	lakFEx_9cT4	MPREb_zqJAk4XDMCU	UCUUkyYBfTybWm-UjZCtzC1A
 810	Stay with Me	Faces	A Nod Is as Good as a Wink... to a Blind Horse	LIKE	4:40	f514cAZucCg	MPREb_0Ljb02RRPSK	UCmQ1F3mlOlAR4Njn39lf9cw
 931	Stay with Me	Faces	Snakes and Ladders: The Best of Faces	LIKE	4:38	f-KypC8J0DI	MPREb_48z0qgeVgNi	UCmQ1F3mlOlAR4Njn39lf9cw
 372	Cliffs of Dover (Live)	Eric Johnson	Live From Austin, TX '88	LIKE	6:14	LQJk4pxYfpY	MPREb_QOxYd97DlKr	UC6Gj1PCXN-DHhmhWmJQ2A-A
@@ -777,7 +765,6 @@
 25	The Brand New Tennessee Waltz	Don Henley	Cass County (Deluxe)	LIKE	3:21	0KnV8eyvF5Q	MPREb_cFcL1vrAXKJ	UCnPPs9X57Sl4dNCyIgLigzQ
 258	All She Wants To Do Is Dance	Don Henley	Actual Miles: Henley's Greatest Hits	LIKE	4:31	rpFRpGOiXpo	MPREb_MXMarVy0hRD	UCnPPs9X57Sl4dNCyIgLigzQ
 238	Sultans of Swing	Dire Straits	The Best of - Private Investigations	LIKE	5:49	YyF1FwiYcoQ	MPREb_ByHqcBiIurg	UCA37MBUzQgLbUHoUQgl-p0g
-255	Sultans Of Swing (Live At Hammersmith Odeon, London/1983)	Dire Straits	Best Live Music	LIKE	10:55	8QuTGYHh9jg	MPREb_5eSuEhdDONC	UCA37MBUzQgLbUHoUQgl-p0g
 338	Telegraph Road	Dire Straits	Love Over Gold	LIKE	14:19	d8bWGGA-5HM	MPREb_7lY8Ai7DPtF	UCA37MBUzQgLbUHoUQgl-p0g
 369	Southbound Again	Dire Straits	Dire Straits	LIKE	3:00	WgY5vIN0YJA	MPREb_hvShdCVz65r	UCA37MBUzQgLbUHoUQgl-p0g
 412	Sultans Of Swing	Dire Straits	Dire Straits	LIKE	5:49	xZatdZ_bqOc	MPREb_hvShdCVz65r	UCA37MBUzQgLbUHoUQgl-p0g
@@ -792,9 +779,6 @@
 533	Bell Bottom Blues	Derek & The Dominos	Layla And Other Assorted Love Songs	LIKE	5:02	tQjxIvcGGdE	MPREb_kTStO1A5jmn	UCSM5eFvWhMNcMxd0BH52HJg
 547	Layla	Derek & The Dominos	Layla And Other Assorted Love Songs (50th Anniversary Deluxe Edition)	LIKE	7:07	tBTJ3W06Eeg	MPREb_dpDRunbWjGX	UCSM5eFvWhMNcMxd0BH52HJg
 772	Layla	Derek & The Dominos	Layla And Other Assorted Love Songs	LIKE	7:04	TngViNw2pOo	MPREb_kTStO1A5jmn	UCSM5eFvWhMNcMxd0BH52HJg
-603	Enjoy the Silence (2006 Remaster)	Depeche Mode	Violator (2006 Remaster)	LIKE	6:13	2sd7MQVofYc	MPREb_dX57vADYIBR	UC-CcyIM_seGnGL5-2Fsppow
-910	Never Let Me Down Again (2006 Remaster)	Depeche Mode	Music for the Masses (2006 Remaster)	LIKE	4:51	C8-tovTNfpg	MPREb_fclxoJCmxRK	UC-CcyIM_seGnGL5-2Fsppow
-977	Personal Jesus (2006 Remaster)	Depeche Mode	Violator (2006 Remaster)	LIKE	4:55	VisK8u-Hj0A	MPREb_dX57vADYIBR	UC-CcyIM_seGnGL5-2Fsppow
 277	Runaway	Del Shannon	Runaway	LIKE	2:21	pCBzPdygbNk	MPREb_d5Rgc0vMPdE	UCESgM5z8e3co-cwt5qjWKBw
 81	Highway Star	Deep Purple	Machine Head	LIKE	6:09	xKwPOy_nEmI	MPREb_jlJ2PR35yRK	UCoPZoa-KzZQRxspnRGZTx7A
 659	Lazy	Deep Purple	Machine Head (2016 Version)	LIKE	7:22	FtK63l541mw	MPREb_vbayZjOSAvG	UCoPZoa-KzZQRxspnRGZTx7A
@@ -816,14 +800,13 @@
 814	Suffragette City (2002 Remaster)	David Bowie	Best of Bowie	LIKE	3:28	ynYXYXYUUak	MPREb_4dbxbRJFAkB	UCvY1eVE6lTebXsdFbbXUtkQ
 881	Young Americans	David Bowie	Young Americans	LIKE	5:14	iO6OvHxD_m8	MPREb_nDQbfel55oW	UCvY1eVE6lTebXsdFbbXUtkQ
 934	Moonage Daydream	David Bowie	The Rise and Fall of Ziggy Stardust and the Spiders from Mars	LIKE	4:40	RPUAldgS7Sg	MPREb_NXCr0YMPIpQ	UCvY1eVE6lTebXsdFbbXUtkQ
-946	"""Heroes"" (Live)"	David Bowie	A Reality Tour (Live)	LIKE	6:59	TpXZVNNRlaU	MPREb_JD1Kfeo3CoI	UCvY1eVE6lTebXsdFbbXUtkQ
 259	Dance Class	Dave Samuels	Del Sol	LIKE	5:53	hgFvMUNllls	MPREb_IZJIQFOHNDM	UC6AC7p3Zp5uWbXDd7Kt8TUA
 479	Only You Know And I Know	Dave Mason	Alone Together	LIKE	4:08	Cn0tnfv0KCc	MPREb_ix9xWoVAJIZ	UCI0Xku1gzTjbYUv3G_wCpdw
 951	We Just Disagree	Dave Mason	Let It Flow	LIKE	3:01	3e8xSISlPJs	MPREb_If67Om91Gde	UCI0Xku1gzTjbYUv3G_wCpdw
+152	I Can't Go for That (No Can Do)	Daryl Hall & John Oates	Private Eyes (Expanded Edition)	LIKE	5:08	Ry04tCx4Bqw	MPREb_mQYMcGCgKFB	UC8zbYR5i0gecEZ3iPgm-i9g
 532	Maneater	Daryl Hall & John Oates	Greatest Hits--Rock 'n' Soul, Part 1	LIKE	4:33	Scd35orIrks	MPREb_bMktC0IyYLW	UC8zbYR5i0gecEZ3iPgm-i9g
 562	Kiss on My List	Daryl Hall & John Oates	Voices	LIKE	4:25	0pIHILw_ekA	MPREb_QdlWmily9V4	UC8zbYR5i0gecEZ3iPgm-i9g
 604	You Make My Dreams (Come True)	Daryl Hall & John Oates	Voices	LIKE	3:11	E4CZuj7solw	MPREb_QdlWmily9V4	UC8zbYR5i0gecEZ3iPgm-i9g
-152	I Can't Go for That (No Can Do)	Daryl Hall	Private Eyes (Expanded Edition)	LIKE	5:08	Ry04tCx4Bqw	MPREb_mQYMcGCgKFB	UC8zbYR5i0gecEZ3iPgm-i9g
 410	Mother	Danzig	Danzig	LIKE	3:25	vPzfKe_G4Ng	MPREb_pXKti3HhWsZ	UC_mZZGIrXN8NFakDKft4org
 402	Hard to Say	Dan Fogelberg	The Innocent Age	LIKE	4:00	fGMYk1A84UU	MPREb_fEtHp3ss6ux	UCLoLHtbZAOqrjjiK2RRKS1Q
 936	Leader of the Band	Dan Fogelberg	The Very Best Of Dan Fogelberg	LIKE	4:19	KwLbdPIOOkM	MPREb_ICTGT2cefGo	UCLoLHtbZAOqrjjiK2RRKS1Q
@@ -886,7 +869,7 @@
 59	On The Road Again	Canned Heat	Canned Heat/Boogie With Canned Heat	LIKE	5:01	_b9kSFADP3w	MPREb_y3o6TmoFflh	UCZY-JjjttGrdoF1vhCBgpzw
 331	Going Up The Country	Canned Heat	The Best Of Canned Heat	LIKE	2:52	La1J2Ze7vzc	MPREb_LikfScnr8sg	UCZY-JjjttGrdoF1vhCBgpzw
 662	On The Road Again (Remastered 2005)	Canned Heat	The Very Best Of Canned Heat	LIKE	4:57	5A5Xl9hPowA	MPREb_JohXXNaN8Wd	UCZY-JjjttGrdoF1vhCBgpzw
-88	Glycerine	Bush	Sixteen Stone	LIKE	4:26	VTa79aZ87Ps	MPREb_CXj5g1euIco	UCzh6E5PwoxNGhn3Nwf2rrOg
+88	Glycerine (2014 Remastered)	Bush	Sixteen Stone (2014 Remastered)	LIKE	4:27	VTa79aZ87Ps	MPREb_CXj5g1euIco	UCzh6E5PwoxNGhn3Nwf2rrOg
 27	Bluebird	Buffalo Springfield	Buffalo Springfield Again	LIKE	4:36	yKHY8MXgiz0	MPREb_790RWmzCC1v	UCH-BBvNWh1CONPAjpeocGcw
 543	For What It's Worth	Buffalo Springfield	Buffalo Springfield	LIKE	2:34	1eD-8NTwP9I	MPREb_bchHY3x2qsw	UCH-BBvNWh1CONPAjpeocGcw
 986	Peggy Sue	Buddy Holly	Buddy Holly	LIKE	2:31	1sWvwBYEzvE	MPREb_CaCi657HJqh	UCddPyO3i288bFhCe9mzJsqg
@@ -961,8 +944,8 @@
 705	Bad to Me (Mono; 1998 Remaster)	Billy J Kramer	Do You Want To Know A Secret? (The EMI Recordings 1963-1983)	LIKE	2:21	cvSL7T3TFNM	MPREb_UEB90cq1qwW	UCMdTYyiqkjHxIHD65oq8ueA
 423	Rebel Yell	Billy Idol	Rebel Yell	LIKE	4:49	seHlHzYpWBU	MPREb_N6ZDIHUi2gO	UC_R3nYWHZV0tGgbpuDoI0vA
 768	Who Is He (And What Is He to You)?	Bill Withers	Still Bill	LIKE	3:15	izDDT2otNQU	MPREb_CTvLQyUogai	UCDjpW6k2Sfg_FTr1toLvffQ
-390	Trail To Your Heart (Sailing Without A Sail)	Bill LaBounty	Rain In My Life	LIKE	3:15	pZR7Mp_YhM4	MPREb_hxjZSHa1lh9	UChkby2EGDQEm5Zv9sxqen2Q
-669	Look Who's Lonely Now	Bill LaBounty	Bill LaBounty	LIKE	3:56	Y2CBqfhPzLg	MPREb_y1HbrT1qdq4	UChkby2EGDQEm5Zv9sxqen2Q
+390	Trail To Your Heart (Sailing Without A Sail)	Bill LaBounty	Rain In My Life	LIKE	3:16	pZR7Mp_YhM4	MPREb_hxjZSHa1lh9	UChkby2EGDQEm5Zv9sxqen2Q
+669	Look Who's Lonely Now	Bill LaBounty	Bill LaBounty	LIKE	3:57	Y2CBqfhPzLg	MPREb_y1HbrT1qdq4	UChkby2EGDQEm5Zv9sxqen2Q
 499	Ball and Chain	Big Brother & The Holding Company	Cheap Thrills	LIKE	9:28	SutfpQPTM2A	MPREb_HKBTNxs7YyA	UC7_X7oXO73abqsd-mlzfMVQ
 793	Piece of My Heart	Big Brother & The Holding Company	Cheap Thrills	LIKE	4:14	ms1oXOtvfNY	MPREb_HKBTNxs7YyA	UC7_X7oXO73abqsd-mlzfMVQ
 879	Down On Me	Big Brother & The Holding Company	Big Brother & The Holding Company	LIKE	2:05	bIjagAAI-ZM	MPREb_Awa1aYq9Vcf	UC7_X7oXO73abqsd-mlzfMVQ
@@ -1018,15 +1001,32 @@
 581	What's Up?	4 Non Blondes	Bigger, Better, Faster, More !	LIKE	4:56	B6GdsRIbTSk	MPREb_p7g0FsGGCeH	UCsHRQzuRBiINdpOca3wEIJg
 57	Hold On Loosely	38 Special	Wild-Eyed Southern Boys	LIKE	4:41	g3nn6WfFQ7o	MPREb_XDcAyoeQCto	UCdShUpkYKPfRT0Vsqo4kg4w
 953	I'm Not In Love	10cc	The Original Soundtrack	LIKE	6:07	PC2HkP5gR2g	MPREb_NSVzJXL4T0Z	UCjyD_pnM14qs0xwkwvzVsTw
+20	Gimme All Your Lovin'	ZZ Top	Eliminator	INDIFFERENT	4:02	tMhZizgTnj0	MPREb_EcyTH81gWsU	UC_Us2Zqt4ovGtdXKmws60mw
+178	Cheap Sunglasses	ZZ Top	ZZ Top's Greatest Hits	INDIFFERENT	4:48	XDkOu0b-2kk	MPREb_ycof0av1SIU	UC_Us2Zqt4ovGtdXKmws60mw
+203	Tush (2006 Remaster)	ZZ Top	Fandango! (Expanded 2006 Remaster)	INDIFFERENT	2:14	WzU3iR3Wrog	MPREb_IuFBNKuhYjh	UC_Us2Zqt4ovGtdXKmws60mw
+468	Legs (2008 Remaster)	ZZ Top	Eliminator	INDIFFERENT	4:34	rM_nGN_du84	MPREb_EcyTH81gWsU	UC_Us2Zqt4ovGtdXKmws60mw
+628	Miller's Farm	ZZ Top	Chrome Smoke & BBQ: The ZZ Top Box	INDIFFERENT	2:36	JFKAdabZcq4	MPREb_VFlNVWuxA9T	UC_Us2Zqt4ovGtdXKmws60mw
+653	La Grange (2005 Remaster)	ZZ Top	Tres Hombres (Expanded 2006 Remaster)	INDIFFERENT	3:51	bSt4myecN_c	MPREb_LIT4m1rWhhF	UC_Us2Zqt4ovGtdXKmws60mw
+671	Jesus Just Left Chicago (2006 Remaster)	ZZ Top	Tres Hombres (Expanded 2006 Remaster)	INDIFFERENT	3:31	LOoPWnnl4CE	MPREb_LIT4m1rWhhF	UC_Us2Zqt4ovGtdXKmws60mw
+730	Sharp Dressed Man (2008 Remaster)	ZZ Top	Eliminator	INDIFFERENT	4:19	PAyOcwZggnA	MPREb_EcyTH81gWsU	UC_Us2Zqt4ovGtdXKmws60mw
+750	La Grange (1999 Remaster)	ZZ Top	ZZ Top's Greatest Hits	INDIFFERENT	3:53	y20JwH3rwT0	MPREb_ycof0av1SIU	UC_Us2Zqt4ovGtdXKmws60mw
 7	Tell Her No	The Zombies	The Original Studio Recordings, Vol. 1	INDIFFERENT	2:08	opUTDQsLUho	MPREb_Vv799Agh6HR	UCweKPvb6MUhb8X4X0nbObBw
 247	She's Not There (Rerecorded)	The Zombies	She's Not There / Time Of The Season	INDIFFERENT	2:26	3zaWAkJpR-8	MPREb_w5QHIO1Dfph	UCweKPvb6MUhb8X4X0nbObBw
 421	Time of the Season (Mono Version)	The Zombies	Odessey and Oracle	INDIFFERENT	3:35	U8Ie9J2Eo5Q	MPREb_7TPbLN3qf5H	UCweKPvb6MUhb8X4X0nbObBw
 497	What More Can I Do	The Zombies	Begin Here	INDIFFERENT	1:39	d38Jp4K86ro	MPREb_v1HxEiWyE21	UCweKPvb6MUhb8X4X0nbObBw
 778	Summertime	The Zombies	Begin Here	INDIFFERENT	2:18	f1OB3kPuREI	MPREb_v1HxEiWyE21	UCweKPvb6MUhb8X4X0nbObBw
 303	Sugar and Spice (Stereo Version)	The Searchers	Sugar and Spice	INDIFFERENT	2:17	Jbf0d4oBMT4	MPREb_BBKfsqnqrPi	UCDCnk3Qj_Dgexq8EErav5Sg
+456	Can't You Hear Me Knocking (2009 Mix)	The Rolling Stones	Sticky Fingers (Super Deluxe)	INDIFFERENT	7:16	hQrQuFZk_sw	MPREb_htJyqzD0D2X	UCNYhhkQqeFLUc-YEDcLpSYQ
+380	Wishin' and Hopin'	The Merseybeats	Mr. Moonlight	INDIFFERENT	2:41	n6W8hIHvp2U	MPREb_xsDVTnKYBwL	UCCz30g-SR4HfS9bU-ABO3QQ
 436	Pictures of Matchstick Men (Mono Version)	Status Quo	Status Quo At Their Best	INDIFFERENT	3:12	szin9QySD6c	MPREb_dKu7YFPe6gn	UC2oCil_CLZt9xh3FE73H8rg
+618	Cult of Personality (2023 Remaster)	Living Colour	Vivid (2023 Remaster)	INDIFFERENT	4:55	8mssfWohiig	MPREb_zhdih3ZzqP4	UCAqFudoTPzFWthg6BYzMa1g
 940	Light Of Day (Remastered 2022)	Little River Band	Sleeper Catcher (Remastered 2022)	INDIFFERENT	8:07	9zFLEYQMd3s	MPREb_W0qAdsGuAgx	UCreiohNB7aQ41Dv5daGfbcA
+255	Sultans Of Swing (Live At Hammersmith Odeon, London/1983)	Dire Straits	Best Live Performances: 1960-2000	INDIFFERENT	10:55	zAGhTI5qVpw	MPREb_Z4JBR9M7qdn	UCA37MBUzQgLbUHoUQgl-p0g
+603	Enjoy the Silence	Depeche Mode	Violator	INDIFFERENT	6:13	CaxruV_3mds	MPREb_pQv7SaRY7RQ	UC-CcyIM_seGnGL5-2Fsppow
+910	Never Let Me Down Again	Depeche Mode	Music for the Masses	INDIFFERENT	4:49	L0G2vMMViP8	MPREb_OwJWALaKIMo	UC-CcyIM_seGnGL5-2Fsppow
+977	Personal Jesus	Depeche Mode	Violator	INDIFFERENT	4:55	UTonReYvKOs	MPREb_pQv7SaRY7RQ	UC-CcyIM_seGnGL5-2Fsppow
 174	Hanging on the Telephone	The Nerves	One Way Ticket			ZiUgasXVcCY		
 859	Train To Nowhere	Savoy Brown	Discover British Blues On Decca & Deram		4:11	iRk-7ySlexw		
 115	In My Defence	Freddie Mercury	Messenger of the Gods: The Singles Collection			m1VAF3OSZFE		
 842	For My Wedding	Don Henley	Folk For Kids			P5lvsBvZVYo		
+946	Heroes (Live)	David Bowie	A Reality Tour			bbyLFM7u1MQ		

@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 448	Penetration	The Pyramids	Penetration! The Best Of The Pyramids	LIKE	2:03	qx8ADd8UeKA	MPREb_NKP1eFrf85c	UCyLJgwoeZuQBNITYsbp0GBg
+142	Let There Be Drums	Sandy Nelson	Let There Be Drums	LIKE	2:19	SukzG9R-56Y	MPREb_I4pEu5M5l7f	UC1yb9WHNcJ5zSpbhIqwL0fA
 331	Sitting In The Park	Billy Stewart	I Do Love You	LIKE	3:15	uMywkoPdA2U	MPREb_WWoOvuIEHZ7	UCATenkbGJuZeE2RBKzEwzWg
 465	Begin The Beguine	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	3:15	pBan6KoQiCY	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
 479	Brasil	Xavier Cugat y Su Gran Orquesta	Xavier Cugat. 60 Hits	INDIFFERENT	2:32	E2IGrG2ipBk	MPREb_9mGN8PzrJLM	UCCRBjTjZRWh_6qbOvTseeMw
@@ -54,7 +55,7 @@
 177	Dedicated to the One I Love	The Shirelles	Dedicated to the One I Love	INDIFFERENT	2:04	ax3jALypmYo	MPREb_tQ82DnxoK28	UC5mRtMvmUCwSGLQK4A8lSyg
 248	Baby It's You (Rerecorded)	The Shirelles	The Girl Can Sing	INDIFFERENT	2:31	V7_RK2YFuEo	MPREb_tpsfQBvhoqj	UC5mRtMvmUCwSGLQK4A8lSyg
 631	I Met Him On A Sunday (Ronde-Ronde)	The Shirelles	Teenage Heaven	INDIFFERENT	2:17	nkqQSm82IgA	MPREb_wnJNcbzJm1q	UC5mRtMvmUCwSGLQK4A8lSyg
-46	Remember (Walking in the Sand)	The Shangri-Las	20th Century Rocks: 60's Rock 'n Roll - Tossin' and Turnin'	INDIFFERENT	2:18	ySq0S5KOqgw	MPREb_Vht06hOpqrL	UCOQZHdy6mFgXNOaZhvCsceA
+46	Remember (Walking in the Sand)	The Shangri-Las	Heartbeats - 100 Romantic Sounds From The 60's	INDIFFERENT	2:18	0KftbAyqMPw	MPREb_5T2fOnzM2oF	UCOQZHdy6mFgXNOaZhvCsceA
 133	Heaven Only Knows	The Shangri-Las	The Best Of The Shangri-Las	INDIFFERENT	2:08	f5yi6Pe6EoE	MPREb_bvzVIKjSpak	UCOQZHdy6mFgXNOaZhvCsceA
 136	Out In The Streets	The Shangri-Las	The Best Of The Shangri-Las	INDIFFERENT	2:48	NrICMb-VIGc	MPREb_bvzVIKjSpak	UCOQZHdy6mFgXNOaZhvCsceA
 97	Snap Happy	The Routers	Let's Go! With The Routers	INDIFFERENT	2:11	r8iFYWiy9rc	MPREb_yfZGESzTe3I	UCgdMPSSj0k40Ow9Qsbuz01w
@@ -179,7 +180,6 @@
 501	Little Demon (Alternate Take)	Screaming Jay Hawkins	Cow Fingers And Mosquito Pie	INDIFFERENT	3:00	Cp6h1eMHP6c	MPREb_bfOELBuhx46	UCE1CuvWO1_Tn9kfS2iUdIXg
 144	I Didn't Know About You	Sarah Vaughan	Music For Lovers	INDIFFERENT	3:43	gQjC-QNQUjE	MPREb_YjlKl82BFRQ	UCVIvDAZP_e1e3bKzKFaPfig
 198	September Song	Sarah Vaughan	Volume II	INDIFFERENT	3:03	vDr9BZd06mk	MPREb_H2YM5W5TbcU	UCVIvDAZP_e1e3bKzKFaPfig
-142	Let There Be Drums	Sandy Nelson	Let There Be Drums	INDIFFERENT	2:19	SukzG9R-56Y	MPREb_I4pEu5M5l7f	UC1yb9WHNcJ5zSpbhIqwL0fA
 622	Drums Are My Beat	Sandy Nelson	Drums Are My Beat	INDIFFERENT	2:14	HnIthvGZul0	MPREb_fPgVPNXUrXQ	UC1yb9WHNcJ5zSpbhIqwL0fA
 245	Something's Gotta Give	Sammy Davis Jr.	The Decca Years	INDIFFERENT	2:06	wzgiP1N6e8M	MPREb_1seJbuz25yW	UCdMAhGDOckdk8j4W4pzicyw
 374	You're My Girl	Sammy Davis Jr.	Sings Just For Lovers	INDIFFERENT	3:30	ZoCgbZJT6IY	MPREb_3FBQKEGG9RE	UCdMAhGDOckdk8j4W4pzicyw
@@ -229,12 +229,11 @@
 0	Begin the Beguine	Pat Boone	Greatest Hits	INDIFFERENT	3:20	hv9vX1DkwB0	MPREb_HjAtJeZYoBC	UC8Ez4f5lLUgx6s8riDjVJ9w
 396	Friendly Persuasion (Thee I Love) (Single Version)	Pat Boone	Pat Boone's Greatest Hits	INDIFFERENT	2:57	fs9M0G5BgtM	MPREb_2nbAeCWxD3C	UC8Ez4f5lLUgx6s8riDjVJ9w
 575	I´ll Build a Stairway to Paradise	Pat Boone	The One I Love	INDIFFERENT	1:53	uLp2uQJ3cmQ	MPREb_3UuZbXCLm5t	UC8Ez4f5lLUgx6s8riDjVJ9w
-178	Baby Jane	Otis Clay	Funk & Soul - Rare & Classic Hits	INDIFFERENT	2:21	NZdm7LcayVA	MPREb_5V84aiei9iR	
 535	At The Hop (Rock)	Orquesta de Baile	Bailes de Salon Vol. 1	INDIFFERENT	2:40	7nVF60S5x0M	MPREb_xLNT40mAzJ0	UCzuNC_D0s5NY3Ra5HtU7x1Q
 364	Flame Twin	Norah Jones	Pick Me Up Off The Floor	INDIFFERENT	3:22	Sy_Ni43VgdE	MPREb_rDlgfbn3bTT	UCxRuL2yOu2ydTJNZuYdU0qg
 519	Date Bait Baby - Reggie Perkins	Nicholas Carras	Date Bait	INDIFFERENT	2:08	aHDoQ3kUDHA	MPREb_Lug0psRCCDz	UCn_rYwQmhUVwpg-8VVnLsBA
 450	Just Because	Nelstone's Hawaiians	American Epic: The Collection	INDIFFERENT	2:55	PUalgGksCLI	MPREb_JnqYNpXmIJj	UCtfhOhW8Nq4oUYkBmk16sSQ
-430	I Must Be Dreaming	Neil Sedaka	The Very Best	INDIFFERENT	2:15	5Aj56jvPogk	MPREb_cdCASHPIu2k	UCUGiTIfFJARlo8U6gaKP8FA
+430	I Must Be Dreaming	Neil Sedaka	The Very Best	INDIFFERENT	2:15	MkDm42sVfcI	MPREb_Uv6EJ04HvNT	UCUGiTIfFJARlo8U6gaKP8FA
 63	Love Is The Thing	Nat King Cole	Love Is The Thing	INDIFFERENT	3:05	0kAocVpuXDE	MPREb_XnXlHIvyhpU	UCirPLQsYtHWBmalEbX1LcAA
 334	Send For Me	Nat King Cole	The Nat King Cole Story	INDIFFERENT	2:31	CyEffDE1mHo	MPREb_iEDigkjLgeN	UCirPLQsYtHWBmalEbX1LcAA
 335	Something Happens To Me	Nancy Wilson	Something Wonderful	INDIFFERENT	1:59	sWg4I3Rm7ZY	MPREb_MIwKxTZe5xq	UClMBnRmETOFgf1a8EKtz3hw
@@ -285,7 +284,7 @@
 184	Ready Teddy (Rerecorded)	Little Richard	Little Richard: All-Time Greatest Hits (Rerecorded Version)	INDIFFERENT	2:10	MAJx0e2mXUI	MPREb_ZqZRFx8M2J8	UCbRn2LWnKTgXbX8HUGNQHKA
 188	Send Me Some Lovin'	Little Richard	Tutti Frutti - Best of Little Richard	INDIFFERENT	2:26	x8IgWhvXBf8	MPREb_vJTIEYhZhxz	UCbRn2LWnKTgXbX8HUGNQHKA
 338	Baby Face	Little Richard	The Greatest, Vol. 2 (The 1955-1957 Masters Complete Collection)	INDIFFERENT	2:13	6lkLgW9AtkE	MPREb_oFzLbIjlejX	UCbRn2LWnKTgXbX8HUGNQHKA
-344	Slippin’ And Slidin’	Little Richard	Greatest Hits 1956 - 1959	INDIFFERENT	2:43	w4oFBBTWwqU	MPREb_MtU9QsOGsCQ	UCbRn2LWnKTgXbX8HUGNQHKA
+344	Slippin’ And Slidin’ (Peepin’ And Hidin’)	Little Richard	Here's Little Richard (Deluxe Edition)	INDIFFERENT	2:42	DoFNorjkuKs	MPREb_aNJwFasWryq	UCbRn2LWnKTgXbX8HUGNQHKA
 360	Can't Believe You Wanna Leave (Rerecorded)	Little Richard	Little Richard: All-Time Greatest Hits (Rerecorded Version)	INDIFFERENT	2:32	taMa6iFbys8	MPREb_ZqZRFx8M2J8	UCbRn2LWnKTgXbX8HUGNQHKA
 436	Jenny Jenny	Little Richard	Tutti Frutti - Best of Little Richard	INDIFFERENT	2:05	YPE0eitppiY	MPREb_vJTIEYhZhxz	UCbRn2LWnKTgXbX8HUGNQHKA
 327	Mystery Train	Little Junior Parker	Sun Records' 70th Anniversary Compilation, Vol. 1 (Curated by Chris Isaak)	INDIFFERENT	2:25	3s1IIdrFBDo	MPREb_BXAHfppaox7	UCl9IZApK6j1ANY2UOyBWGmw
@@ -327,7 +326,7 @@
 573	The Little White Cloud That Cried	Johnnie Ray	Vintage Vocal Jazz / Swing No. 101 - EP: Walking And Crying	INDIFFERENT	2:13	rNBs3PY4Vso	MPREb_0D1ScLCEPNw	UCvZVDp8pK4T2PZPNynDPbWg
 600	Cry	Johnnie Ray	Vintage Vocal Jazz / Swing No. 101 - EP: Walking And Crying	INDIFFERENT	2:17	HkFK2ot9QZk	MPREb_0D1ScLCEPNw	UCvZVDp8pK4T2PZPNynDPbWg
 310	Peppermint Twist	Joey Dee & The Starliters	Cruisin' To The Hits Of The '50s & '60s	INDIFFERENT	2:05	IQBhjwn5MoE	MPREb_U4YfwIr7PM7	UCXXwIrwL9ncQ_qW7uBhhQqw
-559	Peppermint Twist	Joey Dee & The Starliters	Peppermint Twist	INDIFFERENT	2:06	vOH9ULo2YY8	MPREb_YMA3l700vwF	UCXXwIrwL9ncQ_qW7uBhhQqw
+559	Peppermint Twist	Joey Dee & The Starliters	Peppermint Twist	INDIFFERENT	2:06	vOH9ULo2YY8	MPREb_YMA3l700vwF	UC7nNrfCSjq0VKku-OKhOG_A
 99	Honey Hush	Joe Turner	Rock'n'Roll Party	INDIFFERENT	2:41	FlQsJJiiUrs	MPREb_961yjT6n9BO	UC2UsKt2ouD7psCvDIutpIcw
 307	St Louis Blues	Joe Turner	The Boss Of The Blues	INDIFFERENT	4:22	wBMlNshT198	MPREb_twqrq9AKE0D	UCRneEQ55dXpMn1hoEcigCEA
 488	Honey Hush	Joe Turner	Big Joe Turner: The Rhythm & Blues Years	INDIFFERENT	2:44	W_x8iXEnjRM	MPREb_sGUhWVnUejs	UCRneEQ55dXpMn1hoEcigCEA
@@ -340,11 +339,11 @@
 277	Ain't That Lovin' You Baby	Jimmy Reed	The Complete Singles As & BS 1953-61	INDIFFERENT	2:20	ga1UMt4A7cY	MPREb_nmofTrCbRt5	UCkJUdhq3rW7AElwDQ_omC3g
 434	Ain't That Loving You Baby	Jimmy Reed	Big Boss Man	INDIFFERENT	2:11	Jv14PrNY5u4	MPREb_Ui35YVFjg1a	UCkJUdhq3rW7AElwDQ_omC3g
 249	Daddy, Where You Been so Long?	Jimmie Strothers & Joe Lee	Dis Ol' Hammer	INDIFFERENT	1:06	yXfHxifh1Xw	MPREb_axazQY2YSkz	UC9eqPpefz7OL7P2dCFG_2rA
-341	Honeycomb (Single Version)	Jimmie Rodgers	Honeycomb	INDIFFERENT	2:18	H_dMLTXp7Ls	MPREb_rSOLg49dXRH	UCAvH0hOgLdnDwya_K0PPgJQ
+341	Honeycomb (Single Version)	Jimmie Rodgers	Honeycomb	INDIFFERENT	2:18	H_dMLTXp7Ls	MPREb_rSOLg49dXRH	UCkC1x4smA5TyZmJnX12y7vA
 418	He'll Have to Go	Jim Reeves	According to My Heart	INDIFFERENT	2:14	L-pT1W_s9oY	MPREb_GDJ10ovA0ZD	UCwInUv-efMfeXRyvvAkr0OQ
 569	Peg O´My Heart (feat. The Harmonicats)	Jerry Murad	Greatest Hits of a Decade. 40´s Chart Toppers	INDIFFERENT	2:08	YbR6LF3_AIw	MPREb_y0gV4JziTjE	UC-hNAdrBuCeWERWi_vHeIkA
 28	Whole Lotta Shakin' Goin' On	Jerry Lee Lewis	Jerry Lee Lewis Live	INDIFFERENT	2:35	LVFdUvjAqpk	MPREb_qLQiSrxow1b	UC3QNfxSmvwqaO_xJHe8IwSw
-30	Whole Lot of Shakin' Going On	Jerry Lee Lewis	The Essential Jerry Lee Lewis [The Sun Sessions]	INDIFFERENT	2:53	aBUluInJUDs	MPREb_y5ghkTggQGn	UC3QNfxSmvwqaO_xJHe8IwSw
+30	Whole Lot Of Shakin' Going On (Single Version)	Jerry Lee Lewis	Original Golden Hits - Volume 1 (Vol. 1)	INDIFFERENT	2:54	0UXlmwWEGAM	MPREb_DeoA9f3zkUl	UC3QNfxSmvwqaO_xJHe8IwSw
 44	Old Black Joe	Jerry Lee Lewis	Deluxe: Greatest Hits - Jerry Lee Lewis	INDIFFERENT	2:05	DZDSbVeHJi8	MPREb_dtxhAbBh8L1	UC3QNfxSmvwqaO_xJHe8IwSw
 117	Mean Woman Blues	Jerry Lee Lewis	The Return of Jerry Lee Lewis	INDIFFERENT	2:26	y6mBHfs-CsY	MPREb_81loicmrVKI	UC3QNfxSmvwqaO_xJHe8IwSw
 166	When The Saints Go Marching In	Jerry Lee Lewis	Ferriday Fireball	INDIFFERENT	2:11	Kq-cyPEC1wM	MPREb_Ez0yyL3Ox06	UC3QNfxSmvwqaO_xJHe8IwSw
@@ -495,7 +494,7 @@ Soundtracks"	INDIFFERENT	2:47	Rmt1tTY0WVs	MPREb_0Uia20YwVVv	UCc7wvKKL4EdxuPf9RYE
 259	September In The Rain	Dinah Washington	20th Century Masters: The Best Of Dinah Washington - The Millennium Collection	INDIFFERENT	2:08	6wlR-uauG6Q	MPREb_dcEYa4n5fBf	UCyJMoW5XxogEfARq3tx18fQ
 180	All the Time & Everywhere	Dickie Valentine	English Rockin' Across the Pond, Vol. 1	INDIFFERENT	3:04	wO38Uf_7l1c	MPREb_FNkHb0jbAZ8	UCKWSdrph4MA3qYG-R4MlwGQ
 213	King of the Surf Guitar	Dick Dale & His Del-Tones	King of the Surf Guitar	INDIFFERENT	2:08	Fm19n6L64hg	MPREb_ApteBBuLLFa	UCsIBLw01R85QwRft8D_ONgQ
-22	Secret Surfin' Spot	Dick Dale	King of the Surf Guitar	INDIFFERENT	2:09	x3paONsKBOw	MPREb_n6ziLeTE1bq	UCsIBLw01R85QwRft8D_ONgQ
+22	Secret Surfin' Spot	Dick Dale	King of the Surf Guitar	INDIFFERENT	2:03	x3paONsKBOw	MPREb_n6ziLeTE1bq	UCsIBLw01R85QwRft8D_ONgQ
 336	Someday We'll Be Together (Single Version)	Diana Ross & The Supremes	20th Century Masters: The Millennium Collection: Best Of Diana Ross & The Supremes	INDIFFERENT	3:30	HwysEowZjDY	MPREb_OvkNl1qYW3v	UCVR2VvYRNXGjByS4VvkOYOQ
 209	"Missing You (7"" Single Mix)"	Diana Ross	Swept Away (Expanded Edition)	INDIFFERENT	4:15	LAkFfKdtdlE	MPREb_gjofDTkuKib	UCVR2VvYRNXGjByS4VvkOYOQ
 273	I Wished On The Moon	Diana Krall	This Dream Of You	INDIFFERENT	2:38	5mzIfTif2YU	MPREb_G9dzYqFa2ZX	UCHOHY0V0VKiEW0Yw7DR4xQw
@@ -527,13 +526,13 @@ Soundtracks"	INDIFFERENT	2:47	Rmt1tTY0WVs	MPREb_0Uia20YwVVv	UCc7wvKKL4EdxuPf9RYE
 60	Oh Baby Doll	Chuck Berry	Johnny Be Goode	INDIFFERENT	2:38	jaUJkR383cY	MPREb_L0lPuY08Upt	UCUfKmP9mv1yUkxlE5DDX5Zg
 135	I'm Talking About You	Chuck Berry	New Juke Box Hits	INDIFFERENT	1:49	nbLRHpc5IKQ	MPREb_QyLSuvNcGt4	UCUfKmP9mv1yUkxlE5DDX5Zg
 251	Thirty Days	Chuck Berry	The Chess Box	INDIFFERENT	2:25	arL4QVqdZAs	MPREb_s2eiMJ29LkZ	UCUfKmP9mv1yUkxlE5DDX5Zg
-288	Almost Grown (Single Version)	Chuck Berry	From St. Louie To Frisco	INDIFFERENT	2:26	CTpHDqcVgGg	MPREb_zMVchXOJkkZ	UCUfKmP9mv1yUkxlE5DDX5Zg
+288	Almost Grown	Chuck Berry	From St. Louie To Frisco	INDIFFERENT	2:26	CTpHDqcVgGg	MPREb_zMVchXOJkkZ	UCUfKmP9mv1yUkxlE5DDX5Zg
 294	Down The Road Apiece	Chuck Berry	The Chess Box	INDIFFERENT	2:16	cymD2Jf_Fq0	MPREb_s2eiMJ29LkZ	UCUfKmP9mv1yUkxlE5DDX5Zg
 320	School Days	Chuck Berry	Rock'n'Roll & Jukebox Hits - 60 Originals From The 50s	INDIFFERENT	2:39	hLaU22VSy74	MPREb_jMGIhL1fgkM	UCUfKmP9mv1yUkxlE5DDX5Zg
 413	Sweet Little Sixteen (1967 Version)	Chuck Berry	Chuck Berry's Golden Hits	INDIFFERENT	2:14	78I5hFkR8vs	MPREb_8f1aQwgx4ct	UCUfKmP9mv1yUkxlE5DDX5Zg
-442	Carol (Single Version)	Chuck Berry	His Best, Volume 1 - The Chess 50th Anniversary Collection	INDIFFERENT	2:48	pOC9XA5PEWc	MPREb_9bGytKyxpvP	UCUfKmP9mv1yUkxlE5DDX5Zg
+442	Carol	Chuck Berry	His Best, Volume 1 - The Chess 50th Anniversary Collection	INDIFFERENT	2:48	pOC9XA5PEWc	MPREb_9bGytKyxpvP	UCUfKmP9mv1yUkxlE5DDX5Zg
 444	I Got To Find My Baby	Chuck Berry	Gold	INDIFFERENT	2:15	aa2wWq19ob8	MPREb_TL0xFnTtDDL	UCUfKmP9mv1yUkxlE5DDX5Zg
-445	Reelin' And Rockin' (Single Version)	Chuck Berry	His Best, Volume 1 - The Chess 50th Anniversary Collection	INDIFFERENT	3:16	QbMfBTDKyPU	MPREb_9bGytKyxpvP	UCUfKmP9mv1yUkxlE5DDX5Zg
+445	Reelin' And Rockin'	Chuck Berry	His Best, Volume 1 - The Chess 50th Anniversary Collection	INDIFFERENT	3:16	QbMfBTDKyPU	MPREb_9bGytKyxpvP	UCUfKmP9mv1yUkxlE5DDX5Zg
 485	Brown Eyed Handsome Man (feat. Robert Cray)	Chuck Berry	Hail! Hail! Rock 'N' Roll	INDIFFERENT	2:34	CWPfjsynYus	MPREb_gqamGcufPYA	UCUfKmP9mv1yUkxlE5DDX5Zg
 81	Pony Time	Chubby Checker	It's Pony Time/Let's Twist Again	INDIFFERENT	2:29	Vwx3K1GTeOA	MPREb_8fdMNUhasbX	UC70R-inGcZXNeZ0xyPiuqHA
 189	Dancin' Party	Chubby Checker	Songs of Chubby Checker	INDIFFERENT	2:27	adKY9pvH9-I	MPREb_tUMm55yG1kY	UC70R-inGcZXNeZ0xyPiuqHA
@@ -646,4 +645,5 @@ Soundtracks"	INDIFFERENT	2:47	Rmt1tTY0WVs	MPREb_0Uia20YwVVv	UCc7wvKKL4EdxuPf9RYE
 511	No No Baby	Al Ferrier	Rockabilly Best	INDIFFERENT	2:19	BRIZjt08pmA	MPREb_J4r4kQpH6cS	UCzwfYh_xWslPuKPpXTgPSPA
 507	Justine	Adrian & The Sunsets	Breakthrough	INDIFFERENT	2:01	aXRh8Xyel9I	MPREb_WnxW1BzcH51	UCEGMBLseXzTgXRRZd9nwF_A
 538	If It's Magic (feat. Cécile McLorin Salvant)	ARTEMIS	If It's Magic	INDIFFERENT	3:28	_C9SMA7guGc	MPREb_R3Xf2KOTkYl	UC8tLfErWj-bF18fdkEJtuZg
+178	Baby Jane	Otis Clay	Funk & Soul - Rare & Classic Hits	DISLIKE	2:21	NZdm7LcayVA	MPREb_5V84aiei9iR	
 349	Early Morning Rain (Live at The Honolulu International Center, Hawaii January 12, 1973 - Rehearsal)	Elvis Presley	Aloha from Hawaii via Satellite (Legacy Edition)			HitbGmLR7P8		

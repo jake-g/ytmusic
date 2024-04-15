@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 31	Jahova	Rusko	Babylon, Vol. 1	LIKE	5:18	BXG1yweQRFk	MPREb_uDoiDXhZ5Qi	UCrvA4qX6BUQxdG9uDPifxEA
+76	The Goose that Got Away	Objekt	Objekt EP1	LIKE	5:18	7HMuQQ9TQvc	MPREb_i8ss0SlNvId	UCUIyZmHC1m3qqo9pDYhCwRg
 478	Singularity	q100	Singularity	INDIFFERENT	4:01	mzIf91bRxFI	MPREb_BHSFFzk5O2l	UCnNzhAp_35s8nRGb8QsAFlQ
 27	I Remember (Caspa Remix)	deadmau5	I Remember	INDIFFERENT	5:36	WboBMmewFZY	MPREb_cXBPHULUHDn	UCL44WZGVf-BU5N0ymCXrpBg
 47	Digital Dread	dBridge	Fashion Dread	INDIFFERENT	5:11	hFgYohlgl4g	MPREb_RBN8E6tVXLP	UCLIhPWxigkEIAm8rTmaSpXA
@@ -168,7 +169,6 @@
 410	Apart	Only The Family	Lil Durk Presents: Loyal Bros	INDIFFERENT	2:51	OyezyB0rdpo	MPREb_KeMKNJIEHdI	UCt2uDm2dNBEKSwTLmlkxS6Q
 278	Loud (feat. Griz-O)	Oddkut	Loud	INDIFFERENT	3:18	jkAs42Eegy4	MPREb_fI2N9PwoqQX	UCqHzlztdUpt8h50-U6AF9AA
 73	Cactus	Objekt	Cactus / Porcupine	INDIFFERENT	5:56	R77KhplMH_o	MPREb_jtN3SajUrfp	UCUIyZmHC1m3qqo9pDYhCwRg
-76	The Goose that Got Away	Objekt	Objekt EP1	INDIFFERENT	5:18	7HMuQQ9TQvc	MPREb_i8ss0SlNvId	UCUIyZmHC1m3qqo9pDYhCwRg
 222	Tinderbox	Objekt	Objekt EP1	INDIFFERENT	6:36	7ghpblH9CSs	MPREb_i8ss0SlNvId	UCUIyZmHC1m3qqo9pDYhCwRg
 38	Dread	OSCO	Dread	INDIFFERENT	4:18	2tRTRhZUweM	MPREb_cwC27xptVOD	
 336	Bonafide	Nova	Bonafide EP	INDIFFERENT	4:45	EB0YvtIgF64	MPREb_8mir3CGRrTy	UCxuYa2XBWSCf6uExfAHbooA
@@ -266,7 +266,7 @@
 477	Witness	Kercha	Witness EP	INDIFFERENT	4:04	HqQl9ppgyb4	MPREb_PXrnEQHOcrt	UCR7r0putbgDS-dGksBZ_0qw
 296	It's My Nature	Kelly Dean & Strikez	Syntax Compilation	INDIFFERENT	4:13	ASId2dYmuDQ	MPREb_i5ze9m5tA51	
 317	Gallows	Katie Garfield	Gallows	INDIFFERENT	4:21	g2umHtKt5O0	MPREb_J9DXff3Ai6K	UCoRk8_Ql5Ok7DDS_IRNYr4w
-166	Terrorist	Karma	Terrorist	INDIFFERENT	5:27	EQQJtT7pC1c	MPREb_C00Rcw11h69	UCZaxaAMqKms5eXOCbCgy1mQ
+166	Terrorist	Karma	Terrorist	INDIFFERENT	5:27	EQQJtT7pC1c	MPREb_C00Rcw11h69	UCegNwLL_Z7Q4a67UjbQHvgQ
 16	Hunter (feat. Flowdan)	Kaiju	Hunter / Snagglepuss	INDIFFERENT	5:36	-uLSgQQwvqU	MPREb_t86lU8ulQgH	UCfOyvgPUbagbwI71BuYLrJA
 227	Sloth	Kaiju	Seven Sins	INDIFFERENT	4:48	BjjZl5z5_90	MPREb_hDwVHsxCRbp	UCzFHznupo6DhomlP41X0muw
 300	Counter It	Kaiju	Troll EP	INDIFFERENT	5:16	6tIF9ojMe7Y	MPREb_gWSXMpIzCzZ	UCzFHznupo6DhomlP41X0muw
@@ -309,8 +309,8 @@
 433	Quotha	Hebbe	10 Years of duploc.com album	INDIFFERENT	3:50	5Ov2GzmJAvA	MPREb_6hmOg9Sg063	UCd8Rh4yNv4SQaadeEyw98iw
 461	Waiting (Extended Mix)	Headlands	Waiting	INDIFFERENT	5:24	oiMrIb0x5Xg	MPREb_tZMTs0LRnu7	UC4wJwlBwE8ZFGCNkwLXSSeg
 460	Prototype	Headhunter	Nomad	INDIFFERENT	5:08	roLC36gxjIE	MPREb_gKV4xd2kXjC	UCouU7OrR_KENqcLKT3q05Tw
-146	Skanka	Hamdi	Skanka	INDIFFERENT	3:42	QGQHt6gdmIE	MPREb_A4ZuWqtm06m	UCGnR2C3fxTLA406BMwONYLQ
-481	Squirrel	Hamdi	Three Lanes	INDIFFERENT	4:15	RCXpeqs1ieE	MPREb_1g4NNTNWMRX	UCnULjMEMFIFWpEFDHmXjS2A
+146	Skanka	Hamdi	Skanka	INDIFFERENT	3:42	QGQHt6gdmIE	MPREb_A4ZuWqtm06m	UCLKBlf7JvN29I8No2mzk_KA
+481	Squirrel	Hamdi	Three Lanes	INDIFFERENT	4:15	RCXpeqs1ieE	MPREb_1g4NNTNWMRX	UCLKBlf7JvN29I8No2mzk_KA
 344	TRU	HIJINX	Venom / TRU / Addict	INDIFFERENT	4:39	gDe5xOHj7U0	MPREb_smGUjgRnXfh	UCZeDVOrQYd99Cf0yksvHdfw
 306	Rise	Grawinkel	Nightwave	INDIFFERENT	3:47	7zXQzNXGVvM	MPREb_LJKmfMj4kWs	UC9AeAkXr3xjgYFO9ETJGMig
 186	Sinker	Goth-Trad	Sinker / Sunbeam VIP	INDIFFERENT	5:16	EuJ4r-wWrH4	MPREb_zcoAOTL5cfO	UC9hcsIogpCq3EZ-0t0uyufw
@@ -371,7 +371,7 @@
 443	Fallen	Distance	Fallen / Taipan	INDIFFERENT	5:16	MJILgLN6yYk	MPREb_nbguUmWvKJ0	UCkYaVDP6d85TNPZfa0stKhA
 207	Going Home (Mat Tha Hat & Wom Remix)	Dionysus	Going Home	INDIFFERENT	7:14	hWIWOlzzKzU	MPREb_RYhv3w8cnRy	UCB_IHhWwy_svnJsLCy256Kw
 208	Foolish (Mat Tha Hat & Wom Remix)	Dionysus	Going Home	INDIFFERENT	4:31	ALpZQKcnRxk	MPREb_RYhv3w8cnRy	UCB_IHhWwy_svnJsLCy256Kw
-425	Potion Delight	Delta	Potion Delight	INDIFFERENT	4:14	124y5hqrG-E	MPREb_2uksOFne5h6	UCD-opOSkn-iANtBilUmHnIg
+425	Potion Delight	Delta	Potion Delight	INDIFFERENT	4:14	124y5hqrG-E	MPREb_2uksOFne5h6	UCCxp-Hf2ZQ18i1CwI6B3k6Q
 408	M/a...ximum Reespek	Darqwan	M/a...ximum Reespek	INDIFFERENT	5:41	AL6hWuq4MxY	MPREb_c4KZwD8aH5f	UCkT7EdJLx1kLP_j4JXEoP5g
 345	Boondow Bai	Dalek One	Identity Of Dubstep - Best Of	INDIFFERENT	4:08	QLNxFV46-8w	MPREb_WVODDDhpYj4	UCyG57vugG-4wkxjxEXIJFYw
 254	Weapon of Choice	DJ Madd	Soldiers	INDIFFERENT	4:40	_IHTrcikB6o	MPREb_KHAutLIBmP9	UCiePxwpg8ZzIawE_eue6h1w
@@ -425,7 +425,7 @@
 216	The Terminator	Caspa	Everybody's Talking, Nobody's Listening!	INDIFFERENT	4:20	-2eWIS2wDTM	MPREb_ZApDeQYxhcI	UCW8k4Ifc7a32yaT8F5I5FAg
 432	Louder VIP	Caspa	Louder VIP	INDIFFERENT	3:47	kEiMhex58lk	MPREb_EgQoSc9WP0V	UCxCVbSPc4uK5YPNnAI2jdMg
 418	Ricky Rosé	Cartridge & Biome	Ricky Rosé	INDIFFERENT	3:49	G75KiuB31Hw	MPREb_PBiTibWb7hv	
-217	His Majesty	Bulavira	His Majesty	INDIFFERENT	4:06	zp00WA7t8IM	MPREb_Y7OxwtAQi98	
+217	His Majesty	Bulavira	His Majesty	INDIFFERENT	4:06	zp00WA7t8IM	MPREb_Y7OxwtAQi98	UCMpyOPTxJVCn7c4PuBnyJwQ
 80	Under Control	Bukez Finezt	Under Control EP	INDIFFERENT	5:57	JFPWadg7q_g	MPREb_2Z1sWO0OIDm	UCRn3Sl1rpPXjn_IPXnlGRrw
 354	Unsound Mind	Bukez Finezt	Unsound Mind EP	INDIFFERENT	5:21	0M6_aiiPss4	MPREb_8G9N1BOuDOe	UCRn3Sl1rpPXjn_IPXnlGRrw
 356	Duck Trumpet	Bukez Finezt	Duck Trumpet	INDIFFERENT	4:17	vz5Gol1rBlo	MPREb_uzbfeBSgP7w	UCRn3Sl1rpPXjn_IPXnlGRrw

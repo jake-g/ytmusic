@@ -23,7 +23,7 @@
 352	Birdland	Weather Report	Heavy Weather	LIKE	5:57	SvhmaNlLgRM	MPREb_Abm9HUJNq1Q	UCIarlYUBEI7vNYAyrt4vRlQ
 585	Birdland	Weather Report	Forecast: Tomorrow	LIKE	5:58	OG-rFE2NkhI	MPREb_QxedWy3SK0U	UCIarlYUBEI7vNYAyrt4vRlQ
 592	Birdland	Weather Report	This Is Jazz #10	LIKE	5:59	JI1QCXIXlp8	MPREb_bvwTFLAVixL	UCIarlYUBEI7vNYAyrt4vRlQ
-144	Infant Eyes (Remastered1998/Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil	LIKE	6:55	CYg_3pQN-LU	MPREb_YdfvnV0sRce	UC3X4afoYfFCLWw1LTfeLCqA
+144	Infant Eyes (Remastered1998/Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil (The Rudy Van Gelder Edition)	LIKE	6:55	CYg_3pQN-LU	MPREb_YdfvnV0sRce	UC3X4afoYfFCLWw1LTfeLCqA
 279	Teru (Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering)	Wayne Shorter	Adam's Apple (Rudy Van Gelder Edition)	LIKE	6:13	1N6AmFNlgWU	MPREb_RqvtCvPaLQP	UC3X4afoYfFCLWw1LTfeLCqA
 813	Lady Day (Rudy Van Gelder Edition/Digital Remaster/2007)	Wayne Shorter	The Soothsayer	LIKE	5:34	HK8uA9M2zoY	MPREb_ERP09oEEkQS	UC3X4afoYfFCLWw1LTfeLCqA
 821	Virgo (Remastered 2004 / Rudy Van Gelder Edition)	Wayne Shorter	Night Dreamer	LIKE	7:07	HlIG8Ihto1I	MPREb_g38iP428MFH	UC3X4afoYfFCLWw1LTfeLCqA
@@ -52,7 +52,6 @@
 276	On Green Dolphin Street	Vince Guaraldi	In Person	LIKE	5:54	loXiFNnO5tQ	MPREb_g2QUCDhmjMk	UC_DRP-u7c3iOwytg4-ddifw
 295	Corcovado	Vince Guaraldi	The Latin Side Of Vince Guaraldi	LIKE	3:22	a_PFN0b4hYc	MPREb_eXJMWai2gRr	UC_DRP-u7c3iOwytg4-ddifw
 560	The Dead Don't Dream	Verneri Pohjola	The Dead Don't Dream	LIKE	8:03	HKlVPy4laVw	MPREb_2qeeP63eo2t	UCUwUk5VWRGJHnKjlgNUMvuw
-718	A Night In Tunisia	Various Artists - Topic	Charlie Parker And Miles Davis	LIKE	3:00	8B7ndjkYjKA	MPREb_wTIObgbbtp6	UCQ8cSXTLcq4vS2-nF-rBEqQ
 1056	For John Taylor	Universal Connection	Universal Connection	LIKE	8:03	8EyPdm_xiso	MPREb_z1ptXmDciCL	UCJiSTPZklKEjkC9x2OtPW1A
 751	Doctor Jazz	Turk Murphy	The Best Of New Orleans Jazz	LIKE	3:47	SKfFQjjhvmQ	MPREb_0GDnBpGtFwK	UCdbuUqaVfo-FOi9FV-JSjdg
 212	Peace (Instrumental)	Tommy Flanagan	Something Borrowed, Something Blue	LIKE	6:14	a-L492oAZio	MPREb_QqMVwLTDAXh	UCqU1W9XMO-9cQ6s1rvHevMg
@@ -135,6 +134,7 @@
 978	Everybody Loves The Sunshine (feat. José James)	Takuya Kuroda	Rising Son	LIKE	9:26	lZ8zu1aRYA8	MPREb_285ghILmnxz	UCB6bsre7LNzxJo7yk1iEcOg
 976	Tapestry From An Asteroid	Sun Ra	The Futuristic Sounds Of Sun Ra	LIKE	3:01	QataL0C9Qhs	MPREb_yphU8zJHEy3	UCKMsEHD5AHBU1k4ByGFHp5g
 314	Too High	Stevie Wonder	Innervisions	LIKE	4:37	UvtYEdYjkJM	MPREb_HQxE96d4Cve	UCR83RRXHzXrEQbu_ZQmPMSg
+1211	Pools	Steps Ahead	Steps Ahead	LIKE	11:15	9zyKKwloKJs	MPREb_mMpMLRAYwOD	UC1gPflUvyNsJPkM7OzLvxKA
 466	Little Sheri	Stanley Turrentine	The Best Of Stanley Turrentine	LIKE	7:51	Vm2LyrJReKw	MPREb_YpTDWxODOuf	UCeciEMrSBKfcTShhF-Xe1Lg
 672	Walk On By	Stanley Turrentine	Rough 'N Tumble	LIKE	5:58	nFgmybb9XB8	MPREb_OYd1ITkf4ly	UCeciEMrSBKfcTShhF-Xe1Lg
 819	Journey Into Melody (2007 Digital Remaster/Rudy Van Gelder Edition)	Stanley Turrentine	Look Out!	LIKE	4:56	_RWl_3xrrwM	MPREb_GPibE7eur2U	UCeciEMrSBKfcTShhF-Xe1Lg
@@ -197,7 +197,12 @@
 756	They Can't Take That Away From Me	Sarah Vaughan	Images	LIKE	2:43	fncoA8bdSAU	MPREb_YIGG5cSSBdo	UCVIvDAZP_e1e3bKzKFaPfig
 674	The Blues of Wollo (Dessye Mix)	Samuel Yirga	Guzo	LIKE	4:45	9f3kkzWr7mE	MPREb_T00DmncjDU0	UC88obN5e9jnarQDDhE87CBw
 700	Early in the Mornin' (feat. Russ Lossing, Masa Kamaguchi, Gerry Hemingway & Oliver Lake)	Samuel Blaser	Early in the Mornin'	LIKE	5:29	w1yA1ArszG8	MPREb_kx2EwqcSYWx	UCGIUpju3GlYFNxBCUcaZ-Wg
-362	It Could Happen To You	Ryo Fukui	SCENERY	LIKE	4:17	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+362	It Could Happen to You	Ryo Fukui	Scenery	LIKE	4:16	-yX4S7exMtU	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+1197	Early Summer	Ryo Fukui	Scenery	LIKE	10:44	F5EFsUU7RRA	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+1198	Autumn Leaves	Ryo Fukui	Scenery	LIKE	6:31	XaAiNL-YJIs	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+1199	Mellow Dream	Ryo Fukui	Mellow Dream	LIKE	9:51	26Bv8WsV-0g	MPREb_07IBls8hFxR	UC3v8sOyI_FGAyfDMex1VRVw
+1200	I Want to Talk About You	Ryo Fukui	Scenery	LIKE	6:32	-T5jjfZtP5g	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
+1201	Scenery	Ryo Fukui	Scenery	LIKE	5:31	sr4vIBaumiM	MPREb_OXs21wIlthC	UC3v8sOyI_FGAyfDMex1VRVw
 599	I Don't Know	Ruth Brown	Rockin' In Rhythm - The Best Of Ruth Brown	LIKE	2:54	DdzxZ4NOOQo	MPREb_x1JZfAFONg6	UCQUda9wOuv0fT6v8X8Zyr_g
 491	After Hours	Roy Haynes	We Three [RVG Remaster]	LIKE	11:19	4LrF-Lcyh5Y	MPREb_47tudHspNZO	UC75e2OvKTDCVbCjsy5ftBzg
 507	Easy To Remember	Roy Hargrove	Diamond In The Rough	LIKE	6:11	JY42Mgt71j4	MPREb_arPF53AdJAX	UC0twFFwo7-ZajQ7SxgcY6bQ
@@ -212,6 +217,7 @@
 1163	Ronnie's Bonnie	Reuben Wilson	Blue Break Beats	LIKE	9:57	g04GPQChEvY	MPREb_m488Tv7mPqX	UCHmQ54YzASQz0ksHN8CCopA
 1176	We're In Love	Reuben Wilson	Set Us Free	LIKE	3:30	GoC5DkFLgJY	MPREb_KR0ROkQh18r	UCHmQ54YzASQz0ksHN8CCopA
 1183	Bambu	Reuben Wilson	Blue Mode	LIKE	8:06	yNQzpM5zKkc	MPREb_NgJXPdiDBbe	UCHmQ54YzASQz0ksHN8CCopA
+718	A Night In Tunisia	Release - Topic	Charlie Parker And Miles Davis	LIKE	3:00	8B7ndjkYjKA	MPREb_wTIObgbbtp6	UCo96DZ-MIAyyfbA57iRwYiw
 376	I Got It Bad (And That Ain't Good)	Red Garland	Red Alone	LIKE	7:08	ThKnCExedMo	MPREb_KVrPvYmgE3W	UCGoOd5vhLg8fz5LJ98GBHBg
 784	All Alone	Red Garland	The Nearness Of You	LIKE	5:04	cujoSpDdl50	MPREb_Z9rHpTtCz6e	UCGoOd5vhLg8fz5LJ98GBHBg
 797	The Second Time Around	Red Garland	Seenin' Red	LIKE	3:16	XpCcPlvdc8A	MPREb_JUFFeuht9m0	UCGoOd5vhLg8fz5LJ98GBHBg
@@ -399,6 +405,11 @@
 1136	We'll Be Together Again	McCoy Tyner	Nights Of Ballads & Blues	LIKE	3:41	vgB9BxK70I4	MPREb_JaTxqQKi4bH	UCry80POSt0-Wwzfn1geo9_A
 566	Autumn Leaves	Maynard Ferguson	Octet	LIKE	3:21	N9VP-VKvpwY	MPREb_qsjSsB46lNL	UCDR1aF9n0ANGtl1tDHt5xIg
 267	Hope so Elmo	Max Roach	The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali	LIKE	3:53	lkl9Obae4I4	MPREb_sR732KiaNTe	UCxTSDTDzVM4MW42oD9iTPqQ
+1192	I Remember You	Masayoshi Takanaka	Takanaka	LIKE	5:28	nPOvEord2W8	MPREb_d8bV8mhvQDQ	UCh2rvH6MGKYC-UHjTA1-eIQ
+1193	Oh! Tengo Suerte	Masayoshi Takanaka	Seychelles	LIKE	4:13	UGDQVZ4caR0	MPREb_Mk7Fy7JeJMb	UCh2rvH6MGKYC-UHjTA1-eIQ
+1194	BREEZIN'	Masayoshi Takanaka	On Guiter	LIKE	5:50	M1F5_UzwiY4	MPREb_UeS2jlkeeaI	UCh2rvH6MGKYC-UHjTA1-eIQ
+1196	Brasilian Skies	Masayoshi Takanaka	Brasilian Skies	LIKE	5:54	k0ynTKJZirg	MPREb_MSdrdny0F49	UCh2rvH6MGKYC-UHjTA1-eIQ
+1207	Good (Bad?) Old Days	Masayoshi Takanaka	An Insatiable High	LIKE	5:26	hQUvY6F4q34	MPREb_P0KQb1JfkNP	UCh2rvH6MGKYC-UHjTA1-eIQ
 651	I Want You	Marvin Gaye	20th Century Masters: The Millennium Collection: The Best Of Marvin Gaye, Vol 2: The 70's	LIKE	4:37	Li1G6lnYaag	MPREb_9rHbQUvwJEj	UCpMMYJB5GJAYSJr3QpxnHEg
 532	Santa Barbara Afternoon	Martin Landström	Santa Barbara Afternoon	LIKE	3:51	0fAKPm_ggac	MPREb_l6UBXeBQ34s	UCnP3zL-GvXcnesCCnqaYA0g
 266	The Essence	Marquis Hill	Modern Flows EP, Vol. 1	LIKE	4:20	QNB-wdEXSI4	MPREb_m7akhNL4JTc	UC_BX6opGq49YU-_z1of-vbw
@@ -425,7 +436,6 @@
 658	Dream a Little Dream of Me	Louis Armstrong	Stylin' with Satchmo	LIKE	3:14	QRE8lww1NMA	MPREb_OwOaHzVIaRy	UCCDaSui4C9VFMpeRlKEOHDA
 934	Hello Dolly! (Re-Mastered)	Louis Armstrong	Ain't Misbehavin'	LIKE	2:23	KIR7ZV-5Cfk	MPREb_8nJybMMum3p	UCCDaSui4C9VFMpeRlKEOHDA
 949	Rockin' Chair	Louis Armstrong	Ken Burns Jazz-The Story Of America's Music	LIKE	3:05	iGoQm-xk1S0	MPREb_ALxELrsw9O1	UCCDaSui4C9VFMpeRlKEOHDA
-297	Autumn Nocturne	Lou Donaldson	Thanksgiving Dinner Party	LIKE	4:55	70kPyES9LDs	MPREb_Mlmfdp7nBki	UCSakqU-Bxg4YHej0uQPKtpQ
 1153	Brother Soul	Lou Donaldson	Say It Loud	LIKE	8:18	Au2BX0-iRw4	MPREb_hLL0dDAh0yK	UCSakqU-Bxg4YHej0uQPKtpQ
 1156	Ode To Billie Joe	Lou Donaldson	Mr. Shing-A-Ling	LIKE	6:34	pMGK9L1CM3I	MPREb_yTugVgqico4	UCSakqU-Bxg4YHej0uQPKtpQ
 1164	It's Your Thing	Lou Donaldson	Hot Dog	LIKE	9:00	FH6O-RdGZGk	MPREb_jeaY9a9yJUd	UCSakqU-Bxg4YHej0uQPKtpQ
@@ -487,7 +497,6 @@
 542	Blue Bash	Kenny Burrell	Blue Bash (Deluxe Edition)	LIKE	5:08	jBbyYxLalfQ	MPREb_X8wBLHdFNF4	UCxIGOyqgyrj2pKCPKZmDRYg
 776	Weaver Of Dreams	Kenny Burrell	Introducing Kenny Burrell	LIKE	4:43	tlDD2TkTrus	MPREb_heTbGuGCIO7	UCxIGOyqgyrj2pKCPKZmDRYg
 812	Soul Lament (Remastered 1999/Rudy Van Gelder Edition)	Kenny Burrell	Midnight Blue (The Rudy Van Gelder Edition)	LIKE	2:44	S_HBlzRJxaM	MPREb_Az7ym79DUwT	UCxIGOyqgyrj2pKCPKZmDRYg
-1004	Midnight Blue	Kenny Burrell	Midnight Blue	LIKE	3:55	hY8iABpsIK0	MPREb_RX3So07REwt	UCxIGOyqgyrj2pKCPKZmDRYg
 1081	A Child Is Born (Live in Pasadena)	Kenny Burrell	Tenderly: Solo Guitar Concert (Live in Pasadena)	LIKE	3:59	BqIMFBM7XMY	MPREb_mDhpBJVlYLo	UCxIGOyqgyrj2pKCPKZmDRYg
 1107	Chitlins Con Carne	Kenny Burrell	Midnight Blue (The Rudy Van Gelder Edition)	LIKE	5:31	ylGjvwXV3HA	MPREb_Az7ym79DUwT	UCxIGOyqgyrj2pKCPKZmDRYg
 971	Dawn	Kenny Barron	Sunset To Dawn	LIKE	6:01	WZxEg-AA-xI	MPREb_NRRUggdlqaE	UCMdE_DDAPlW6UPJ3NFU68Pg
@@ -578,6 +587,13 @@
 989	Recorda Me	Joe Henderson	Page One	LIKE	6:02	3c9zSAVWKEs	MPREb_AL1dT0bEGPD	UCesI76Zv2OMBh6SyN6iydfw
 847	Darn That Dream	Joe Farnsworth	Time to Swing	LIKE	7:31	tBpi8rdq0gQ	MPREb_SLNJekgE9sY	UC6cL8ZApteEyTYmTVYzmECA
 832	City of Saints	Joe Chambers	Dance Kobina	LIKE	7:32	Im-wxLEw7hM	MPREb_w2T6zu8SwKx	UCk55sUre4hrq_sSBZSnsJqQ
+1202	Painted Paradise	Jiro Inagaki and His Soul Media	Funky Stuff	LIKE	6:53	3Lyv6VPcxa8	MPREb_Sxz8rgERtJ8	UCzbk32zHUl83sSMHjN1nNTg
+1203	Breeze	Jiro Inagaki and His Soul Media	Funky Stuff	LIKE	4:38	BTn6YZIF0vg	MPREb_Sxz8rgERtJ8	UCzbk32zHUl83sSMHjN1nNTg
+1204	Gentle Wave	Jiro Inagaki and His Soul Media	Funky Stuff	LIKE	5:22	JKwDRY1GhSc	MPREb_Sxz8rgERtJ8	UCzbk32zHUl83sSMHjN1nNTg
+1205	The Raven Speaks	Jiro Inagaki and His Soul Media	In the Groove	LIKE	4:01	ck1vgydjwxs	MPREb_HVHcgOsuhbW	UCzbk32zHUl83sSMHjN1nNTg
+1206	Funky Motion	Jiro Inagaki and His Soul Media	Funky Stuff	LIKE	5:41	CbYhiJwExGE	MPREb_Sxz8rgERtJ8	UCzbk32zHUl83sSMHjN1nNTg
+1208	High Jack	Jiro Inagaki and His Soul Media	Head Rock	LIKE	4:16	MPLAkogT7zU	MPREb_fLoP8U8Lxwa	UCzbk32zHUl83sSMHjN1nNTg
+1210	Put It Where You Want It	Jiro Inagaki and His Soul Media	In the Groove	LIKE	4:26	kvKCapzKReM	MPREb_HVHcgOsuhbW	UCzbk32zHUl83sSMHjN1nNTg
 657	Evenin'	Jimmy Witherspoon	Evenin' Blues	LIKE	2:41	eeUTRyzhAK4	MPREb_IlZ7S9nX7yk	UC_-iuqE0190_DBeEoVcFNag
 407	When I Grow Too Old To Dream	Jimmy Smith	Back At The Chicken Shack	LIKE	9:55	C3Z3ny3Gg20	MPREb_e4NKpU1gb0H	UCQe7Yuc7HJi_u2X_TPv3MJA
 543	Blues After All (Remastered 1998 / Rudy Van Gelder Edition)	Jimmy Smith	House Party	LIKE	6:07	vuSLKFaPk04	MPREb_pzpJN3XXEVx	UCQe7Yuc7HJi_u2X_TPv3MJA
@@ -603,6 +619,7 @@
 744	Shreveport Stomp	Jelly Roll Morton	The Piano Rolls	LIKE	4:02	j5jRDzufAB0	MPREb_bkh8KYbgpQz	UCuI6yTUW63rPOR72F5xyaMQ
 942	Dead Man Blues	Jelly Roll Morton	The Sound of New Orleans, Vol. 1 (Original Jazz Sound)	LIKE	3:19	BgcJNjGb248	MPREb_tY5yvaaPZmQ	UCuI6yTUW63rPOR72F5xyaMQ
 964	The Rose And The Cross	Jean Jacques Perrey	Moog Indigo	LIKE	2:39	Qm9GU9Q_mOw	MPREb_0qOwhvh7Io1	UC0QheSQ0vNsN9x_jGA-meXA
+1209	Masaru Imada trio - Green Caterpillar (1975)	JazzNote'89		LIKE	11:28	vZLhVLyApNA		UCAwv4KIKzlFSlf3Uhb0pFhA
 1060	Just Let Go (feat. Shelly Berg)	Javier Nero	Freedom	LIKE	4:59	siO7OAPyhcQ	MPREb_6RSjL6StyZi	UCE4Zp0E4YoNBU3ZNTJetupw
 759	Charleston	James P. Johnson	Charleston	LIKE	1:47	NkUVW3NuolM	MPREb_rVo6bTIO5Kl	UCw2eX64araFW9wUao7cBphg
 486	Sweet Little Baby Boy (Pt. 2)	James Brown & The Famous Flames	The Singles Vol. 4: 1966-1967	LIKE	2:36	XJKz1QxwZDo	MPREb_McHSNAxeK1S	UCLSKiNGc_qBWJJ-m5y3jDEw
@@ -632,6 +649,7 @@
 709	Peace	Horace Silver	Blowin' The Blues Away	LIKE	6:03	ieaAHwvqljg	MPREb_pbLltwUORdL	UC834B7DbQ6WZzigm4UCwuKg
 1134	Calcutta Cutie (Rudy Van Gelder Edition/1999 Digital Remaster)	Horace Silver	Song For My Father	LIKE	8:32	7p78zIW0jF8	MPREb_AP7GWERbo3y	UC834B7DbQ6WZzigm4UCwuKg
 824	Oh So Blue	Horace Parlan Quintet	Speakin' My Piece	LIKE	7:39	q1o63vIBQpw	MPREb_e7yrDcRJG1c	UCpn2BU3xYJfcbj07R7lgP4Q
+1212	Shrimp Dance	Hiroshi Suzuki	Cat	LIKE	7:03	AGFeW3HOjZE	MPREb_XnAcdiXAn0l	UC3_4xTdoyha6Qy7AGk0v0rg
 167	The Lung	Hiatus Kaiyote	Choose Your Weapon	LIKE	4:54	WRHRmfY1g00	MPREb_q18JTSxWqqA	UCaX2FBQMB9NHFBOTVMF_wpQ
 168	Molasses	Hiatus Kaiyote	Choose Your Weapon	LIKE	4:50	PU0FLqcdm-o	MPREb_q18JTSxWqqA	UCaX2FBQMB9NHFBOTVMF_wpQ
 382	Nakamarra	Hiatus Kaiyote	Tawk Tomahawk	LIKE	4:35	MvB77oYXlvU	MPREb_kNQoCGTtM4n	UCaX2FBQMB9NHFBOTVMF_wpQ
@@ -648,12 +666,12 @@
 444	Cantaloupe Island (Remastered 1999/Rudy Van Gelder Edition)	Herbie Hancock	Empyrean Isles (Expanded Edition)	LIKE	5:34	otFVFLtRF_s	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
 476	Driftin'	Herbie Hancock	Watermelon Man	LIKE	6:56	CO3S93etw6g	MPREb_LWKVv4PUEFL	UCq_O_14tCKbx9U9uUT_LEPA
 522	Butterfly	Herbie Hancock	Thrust	LIKE	11:18	-_mSzscIhyg	MPREb_aPyT4wni1qJ	UCq_O_14tCKbx9U9uUT_LEPA
-539	Watermelon Man	Herbie Hancock	Takin' Off (Expanded Edition)	LIKE	7:10	_QkGAaYtXA0	MPREb_cZ4wCYhaw2Q	UCq_O_14tCKbx9U9uUT_LEPA
+539	Watermelon Man (Remastered 2007)	Herbie Hancock	Takin' Off (Expanded Edition)	LIKE	7:10	_QkGAaYtXA0	MPREb_cZ4wCYhaw2Q	UCq_O_14tCKbx9U9uUT_LEPA
 580	Alone and I	Herbie Hancock	Watermelon Man	LIKE	6:28	VP-KbUoILJ0	MPREb_LWKVv4PUEFL	UCq_O_14tCKbx9U9uUT_LEPA
 639	Maiden Voyage	Herbie Hancock	The Best Of Herbie Hancock	LIKE	7:59	oweS2PbRh_A	MPREb_hMtJsFvsx1u	UCq_O_14tCKbx9U9uUT_LEPA
 1115	Mimosa	Herbie Hancock	Inventions And Dimensions (Expanded Edition)	LIKE	8:39	EsKl3CF3KeA	MPREb_c9nAsT0Vidq	UCq_O_14tCKbx9U9uUT_LEPA
 1024	Moon River #5	Henry Mancini and His Orchestra	Breakfast At Tiffany's	LIKE	5:38	T97VO3RtpZs	MPREb_jxEgcsEGrFm	UCieaIKlhI5t7_gAmBA99d-g
-117	Two for the Road	Harvie Swartz	Steve Kuhn: Mostly Ballads	LIKE	2:52	lrNZuI2hgRs	MPREb_VnxfsyETd7X	UCFwev4E3woHuWaeGzXVO1Kg
+117	Two for the Road	Harvie Swartz	Steve Kuhn: Mostly Ballads	LIKE	2:52	lrNZuI2hgRs	MPREb_VnxfsyETd7X	UC3tSBvfpw1IImCeuSXPAP7Q
 213	Cristo Redentor	Harvey Mandel	Cristo Redentor	LIKE	3:48	NHWkIIFCRVw	MPREb_vS77fBOEL3b	UCJdUS5qGqpuJM8W_hkEQNIg
 1063	Jeg Er Havren	Hans Ulrik	The Meeting	LIKE	4:19	3b7PtmixDz0	MPREb_Dq18fwXby0X	UCH2239n5bY6cRyRUjJc5JOA
 116	I See Your Face Before Me	Hank Mobley	Dippin'	LIKE	5:30	MetWGkwlpHk	MPREb_98Alt0sXw1U	UCASAhhcTDUg2_r0Nt60mxaQ
@@ -685,6 +703,7 @@
 1181	Cantaloupe Woman	Grant Green	Visions	LIKE	5:36	GygQ2OC_GvI	MPREb_qoDVDGdOnti	UC0bbAAPQu2YK6Sw-FrKAKQw
 1184	Upshot	Grant Green	Carryin' On	LIKE	10:05	J908cC08uFs	MPREb_fDRCXekyt9S	UC0bbAAPQu2YK6Sw-FrKAKQw
 846	Promenade	Gonzalo Rubalcaba	Inner Voyage	LIKE	7:45	Z6sd2wf3UZM	MPREb_Hv7AzqiNp6B	UCyb0dwvERrd0VvkA101oCJw
+1195	Loretta	Ginger Root	City Slicker	LIKE	3:11	w7KAWKitxeo	MPREb_P4vvEqXxOZa	UC6sTMDwF1CYXE132EMgQtPw
 642	The Bottle	Gil Scott-Heron	Aint Really A Life	LIKE	9:01	l63yRwqJYWg	MPREb_OQeFjlZ4MkA	UCO78NEi7Y7J3HKFuPke0LoA
 162	Moon And Sand	Gil Evans	Verve Jazz Masters 23: Gil Evans	LIKE	4:15	nPIlIKvYjlU	MPREb_orfFG07kCRq	UCWCdag3kN0BwyKL5NRajFdA
 775	Dinah	Gerry Mulligan with Chet Baker	The Top 50 Jazztunes	LIKE	2:59	S9wnVYfPHm8	MPREb_YvFfXL8Kubh	UC7aJZwPljwluquEXN1j3p4w
@@ -730,9 +749,6 @@
 558	Listen To The Dawn	Frank Morgan	Listen To The Dawn	LIKE	7:54	RvQ0vnNw0RM	MPREb_6QOIyPdIY1X	UCWcA4fI1PRvOG1h5txKfKaw
 571	Lullaby	Frank Morgan	Mood Indigo	LIKE	1:32	zesYXo2f--Q	MPREb_ivNtTXqOUBA	UCWcA4fI1PRvOG1h5txKfKaw
 1049	My Old Flame	Frank Morgan	Frank Morgan	LIKE	4:46	YV5RWI1ho6A	MPREb_ma8adBgZvok	UCWcA4fI1PRvOG1h5txKfKaw
-158	The Nightcaller	Flying Lotus	Until The Quiet Comes	LIKE	3:29	VozNXe0bhjI	MPREb_hVUp5KW3YlQ	UCJvOvKwxPEL-4RtSvu_nWhQ
-159	Turtles	Flying Lotus	You're Dead! (Deluxe Edition)	LIKE	2:07	zwVuqMuse4U	MPREb_TD9nvef40jD	UCJvOvKwxPEL-4RtSvu_nWhQ
-160	Your Potential / / The Beyond (feat. Niki Randa)	Flying Lotus	You're Dead! (Deluxe Edition)	LIKE	1:46	sSyf5uHQrEs	MPREb_TD9nvef40jD	UCJvOvKwxPEL-4RtSvu_nWhQ
 974	O	Felicia Atkinson	Comme Un Seul Narcisse	LIKE	3:39	Q3L4sBnbBrw	MPREb_g7O3NivLbQo	UCwPH2b9blIf9v2m9YM6W-yA
 39	Expensive Shit	Fela Kuti	The Best of the Black President 2	LIKE	13:12	cJh8XarVSh4	MPREb_7IN1u6h5fbL	UCoFUl09hePTptc4UOSISC9Q
 40	Water No Get Enemy	Fela Kuti	Expensive Shit	LIKE	11:01	_Dk8gKA0FGU	MPREb_sImtCgnpIgw	UCoFUl09hePTptc4UOSISC9Q
@@ -822,7 +838,6 @@
 383	I'll See You In My Dreams	Django Reinhardt	Django Reinhardt from A to Z, Vol.3	LIKE	2:31	ig7Su2uHxRo	MPREb_6hsOyK1BPhq	UCDvzmvEF-ReWkWb8B_jL-qQ
 471	Topsy	Django Reinhardt	Best of Django Reinhardt	LIKE	3:03	S-ojPGxsMv0	MPREb_lMPBjRq57eT	UCDvzmvEF-ReWkWb8B_jL-qQ
 606	Minor Swing	Django Reinhardt	Djangologie Vol18 / 1949 - 1950	LIKE	2:26	ew0qsyV4Tk4	MPREb_KHHFemVaPEM	UCDvzmvEF-ReWkWb8B_jL-qQ
-741	My Blue Heaven	Django Project	My Blue Heaven	LIKE	3:00	exF3PQitBu8	MPREb_4KErlTjGGpl	UCnkNVbe2JGk_y_NXHNxFQCQ
 961	Groovin' High	Dizzy Gillespie Sextet	Ken Burns Jazz: The Definitive Dizzy Gillespie	LIKE	2:44	J2IPyGv_sx8	MPREb_orMnyjeUiLK	UCw_wrXoRl-ionafhIWtcRMA
 948	Manteca (Remastered 2002)	"Dizzy Gillespie & his Orchestra & Luciano ""Chano"" Pozo"	Bebop Professor (Bluebird's Best Series)	LIKE	3:05	oh2kEzNZeTQ	MPREb_feLMwu1jkXo	
 359	On The Sunny Side Of The Street	Dizzy Gillespie	Sonny Side Up	LIKE	5:41	LSHevGXSKuk	MPREb_YKOWsQjySvJ	UCw_wrXoRl-ionafhIWtcRMA
@@ -883,7 +898,7 @@
 722	Body and Soul	Coleman Hawkins & His Orchestra	Body & Soul	LIKE	3:03	LuNrVHCBSjE	MPREb_j6vCqJEiCVS	UCaqOj5uQl-733nBtBpEEGBw
 110	Don't Take Your Love From Me	Coleman Hawkins	Night Hawk	LIKE	8:37	nUjCa7EY19s	MPREb_doybfzurPAJ	UCaqOj5uQl-733nBtBpEEGBw
 588	Body and Soul	Coleman Hawkins	Jazz Giants	LIKE	3:02	lBSLGX4bWS8	MPREb_2HNityWg21x	UCaqOj5uQl-733nBtBpEEGBw
-663	Cocktails For Two	Coleman Hawkins	Coleman Hawkins And His Confreres	LIKE	2:43	4tuB3JF633w	MPREb_L1qcyhIW3eP	UCaqOj5uQl-733nBtBpEEGBw
+663	Cocktails For Two	Coleman Hawkins	Coleman Hawkins And Confrères	LIKE	2:43	4tuB3JF633w	MPREb_L1qcyhIW3eP	UCaqOj5uQl-733nBtBpEEGBw
 785	Angel Face	Coleman Hawkins	You Rascal, You	LIKE	3:13	FwG0UaBdWOA	MPREb_h8aoI3RC6A3	UCaqOj5uQl-733nBtBpEEGBw
 109	Stardust	Clifford Brown	Clifford Brown With Strings	LIKE	3:23	tzr5yTHLE5g	MPREb_eZXEzW3ekkx	UCQFCMVgOtWDn5Vd3Nt1SRfQ
 152	Easy Living	Clifford Brown	Brownie Speaks: The Complete Blue Note Recordings	LIKE	3:44	snlimN8KEF4	MPREb_XuxcYT8nkl8	UCQFCMVgOtWDn5Vd3Nt1SRfQ
@@ -917,7 +932,6 @@
 723	Line For Lyons	Chet Baker	Chet Baker In Milan	LIKE	7:45	TtiGD3BALKE	MPREb_hXNahYGIdQy	UCVNfRXuaWVILL9giCEg0rQg
 737	The Fuzz	Chet Baker	Pacific Jazz	LIKE	2:56	gDWln_rhmok	MPREb_nNjHC3Yyt3D	UCVNfRXuaWVILL9giCEg0rQg
 880	My Funny Valentine	Chet Baker	Sings Again	LIKE	7:15	6hwgra-0F-A	MPREb_aJaZ9PlCb7j	UCVNfRXuaWVILL9giCEg0rQg
-900	Indian Summer	Chet Baker	Fair Weather	LIKE	5:13	SOvsbP8iusU	MPREb_k3rorDF6gMI	UCVNfRXuaWVILL9giCEg0rQg
 911	Everytime We Say Goodbye	Chet Baker	Diane	LIKE	7:54	NLCHFU_EPxY	MPREb_gQhUBrbLyRR	UCVNfRXuaWVILL9giCEg0rQg
 921	Autumn Leaves	Chet Baker	She Was Too Good To Me	LIKE	7:03	AFTC1Fg9cXQ	MPREb_rfesaooSTRu	UCVNfRXuaWVILL9giCEg0rQg
 981	Autumn in New York	Chet Baker	Chet in Paris: Everything Happens to Me (The Complete Barclay Recording, Vol. 2)	LIKE	7:05	8_jf_xQOVWY	MPREb_EO6AWVpKKxf	UCVNfRXuaWVILL9giCEg0rQg
@@ -986,7 +1000,7 @@
 460	Clouds (Single Version/24-Bit Mastering)	Cannonball Adderley	Cannonball's Bossa Nova	LIKE	2:43	sVwjg7_qFpo	MPREb_W3cg94Sz0c9	UCRQLvDfTNOFUgst4GpnyDvA
 461	Clouds (feat. Sergio Mendes)	Cannonball Adderley	Cannonball Adderley With Sergio Mendes - From The Archives (Digitally Remastered)	LIKE	4:48	FyEW5chH5k0	MPREb_YAt2EJ1wsjE	UCRQLvDfTNOFUgst4GpnyDvA
 481	Know What I Mean	Cannonball Adderley	Know What I Mean	LIKE	4:56	OBWyDIEI_W8	MPREb_uv503nsjSen	UCRQLvDfTNOFUgst4GpnyDvA
-551	Elsa	Cannonball Adderley	Know What I Mean? [Original Jazz Classics Remasters]	LIKE	5:53	CN4pzCVql9M	MPREb_eURxEloCkJW	UCRQLvDfTNOFUgst4GpnyDvA
+551	Elsa	Cannonball Adderley	Know What I Mean?	LIKE	5:51	-yKOH4IBAuw	MPREb_6Ykqy6AILEt	UCRQLvDfTNOFUgst4GpnyDvA
 608	Dancing In The Dark	Cannonball Adderley	Ballads	LIKE	4:08	QNt6G53yyjQ	MPREb_tPAwiLtaMWY	UCRQLvDfTNOFUgst4GpnyDvA
 631	Elsa	Cannonball Adderley	Know What I Mean	LIKE	5:52	mSYJzY0Rxds	MPREb_uv503nsjSen	UCRQLvDfTNOFUgst4GpnyDvA
 906	Mercy, Mercy, Mercy	Cannonball Adderley	The Best Of Capitol Years	LIKE	5:09	y7FFLYXEOqA	MPREb_Z1uArCh2HA3	UCRQLvDfTNOFUgst4GpnyDvA
@@ -1029,7 +1043,6 @@
 750	Jazz Me Blues	Bix Beiderbecke	The Best of Bix Beiderbecke	LIKE	3:11	suhNSD63fLo	MPREb_WHzQu1z4mmM	UCvnMTBhjrNr4YLwrgy-8muw
 738	Wouldn't It Be Loverly (Music Keeps Us Young)	Billy Taylor	Wouldn't It Be Loverly (Music Keeps Us Young)	LIKE	5:49	3NBXlvaw6oY	MPREb_inl7c7R4Esr	UCzRSJENfsohTtblK9-1abHA
 1062	It Never Entered My Mind	Billy Childs	Acceptance	LIKE	5:13	2xsb7MfPQDQ	MPREb_UiZYBQRqmMY	UCrqmPcBWFwkj9E7_gbxGuhQ
-647	Strange Fruit	Billie Holliday	Masters of Jazz: Billie Holiday & the Tony Scott Orchestra	LIKE	3:03	hLrqjX75GQE	MPREb_6WCk3vNR1i3	UCW-raws5Iq2xLADkLcEoVaA
 770	Without Your Love (Take 1)	Billie Holiday & Her Orchestra	Ken Burns Jazz-The Story Of America's Music	LIKE	2:52	FhMuNmcZiec	MPREb_ALxELrsw9O1	UCW-raws5Iq2xLADkLcEoVaA
 365	Summertime	Billie Holiday	The Legendary Billie Holiday	LIKE	3:02	lzKl49arf7s	MPREb_lR7WepV7aoH	UCW-raws5Iq2xLADkLcEoVaA
 442	All of Me	Billie Holiday	The Best of Billie Holiday, Vol.1	LIKE	3:04	4GFtdoglgvA	MPREb_DetH4JpBkpF	UCW-raws5Iq2xLADkLcEoVaA
@@ -1087,7 +1100,7 @@
 755	King Porter Stomp	Benny Goodman and His Orchestra	Greatest Hits	LIKE	3:08	6_oij2nRArA	MPREb_y9RSSQ4rY8C	UCJhmf1IP1bXfPB3XTQcJJmw
 721	After You've Gone (1996 Remastered - Take 1)	Benny Goodman Trio	The Essential Benny Goodman	LIKE	2:47	Mk8kVtViBQI	MPREb_eK5HYzGQaxi	UCJhmf1IP1bXfPB3XTQcJJmw
 223	Moonglow (Take 1)	Benny Goodman Quartet	The Legendary Small Groups (Bluebird's Best Series)	LIKE	3:24	yy2X-3R-qQs	MPREb_RWxZpyuvsYq	UCJhmf1IP1bXfPB3XTQcJJmw
-857	Sweet Sue - Just You (1996 Remastered - Take 1)	Benny Goodman Quartet	The Legendary Small Groups (Bluebird's Best Series)	LIKE	3:18	SgxyinzE3Bs	MPREb_RWxZpyuvsYq	UCJhmf1IP1bXfPB3XTQcJJmw
+857	Sweet Sue - Just You (Take 1)	Benny Goodman Quartet	The Legendary Small Groups (Bluebird's Best Series)	LIKE	3:18	SgxyinzE3Bs	MPREb_RWxZpyuvsYq	UCJhmf1IP1bXfPB3XTQcJJmw
 1132	Runnin' Wild	Benny Goodman Quartet	The Legendary Small Groups (Bluebird's Best Series)	LIKE	2:38	TthaqzfrqI4	MPREb_RWxZpyuvsYq	UCJhmf1IP1bXfPB3XTQcJJmw
 929	Sing, Sing, Sing (With a Swing)	Benny Goodman And His Orchestra	Ken Burns Jazz-The Story Of America's Music	LIKE	8:38	8xOEtJJs0ZA	MPREb_ALxELrsw9O1	UCJhmf1IP1bXfPB3XTQcJJmw
 757	Rose Room	Benny Goodman	The Complete Benny Goodman (1935-1939)	LIKE	2:47	pA1mRsJe_mo	MPREb_qTuzDJiuMox	UCJhmf1IP1bXfPB3XTQcJJmw
@@ -1183,11 +1196,19 @@
 218	Dorsem	Aaron Diehl Trio	Live At The Players	LIKE	5:37	rkbB_kQRZrs	MPREb_HYsCAOkIIEk	UC_R1P0JftSj9cgSYFYf_Rhg
 991	My Funny Valentine (Rudy Van Gelder Remaster 2007)	The Miles Davis Quintet	The Legendary Prestige Quintet Sessions	INDIFFERENT	6:02	0yk8eMNyS08	MPREb_0BNlbAf1xnK	UCIev2PktTH5mI-QlGmbUkiw
 191	You're My Everything	Miles Davis	100 Masterpieces	INDIFFERENT	4:45	4VI9QuBnhmU	MPREb_nCM3aKw5I6h	UCIev2PktTH5mI-QlGmbUkiw
+297	Autumn Nocturne	Lou Donaldson	Noche Jazz	INDIFFERENT	4:55	CghIzrGt7yU	MPREb_dUip5SVrRtL	UCSakqU-Bxg4YHej0uQPKtpQ
 728	Sister Kate (Live) (feat. Kid Ory's Creole Jazzband)	Kid Ory's Creole Jazzband	Live at the Beverly Cavern 1949	INDIFFERENT	4:16	dkFtFmZPxTs	MPREb_lY09bdcN3Z7	UC3Je7AkvnkoINZufWdBgelA
-1044	I Want to Talk About You	John Coltrane	Jazz Master, John Coltrane	INDIFFERENT	10:58	3J1_HywLEK4	MPREb_2rZ4terajqF	UCH4T2kv7rr9qnuP0DOXLxMA
-151	The Thrill Is Gone (Vocal Version)	Chet Baker	Late Night Chet Baker	INDIFFERENT	2:50	6daHfiRUWuk	MPREb_6OMHK4s3o8Y	UCVNfRXuaWVILL9giCEg0rQg
+1004	Midnight Blue	Kenny Burrell	The Artist Selects	INDIFFERENT	4:01	BzgR2jpj34g	MPREb_8YDvWWZ9V58	UCxIGOyqgyrj2pKCPKZmDRYg
+1044	I Want to Talk About You	John Coltrane	The Best of the Best - 57 Takes	INDIFFERENT	10:53	3TsupU6oFCw	MPREb_IbfRNMrkvYY	UCH4T2kv7rr9qnuP0DOXLxMA
+158	The Nightcaller	Flying Lotus	Until The Quiet Comes	INDIFFERENT	3:29	Mye7qlx1eoU	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
+159	Turtles	Flying Lotus	You're Dead!	INDIFFERENT	2:07	-EgwsooE-F8	MPREb_cOsZQabOShF	UCJvOvKwxPEL-4RtSvu_nWhQ
+160	Your Potential//The Beyond (feat. Niki Randa)	Flying Lotus	You're Dead!	INDIFFERENT	1:46	232tfKrDxOE	MPREb_cOsZQabOShF	UCJvOvKwxPEL-4RtSvu_nWhQ
+741	My Blue Heaven	Django Project	My Blue Heaven	INDIFFERENT	3:00	xu_2_NC9GKk	MPREb_haKb2Wz6gSm	UCnkNVbe2JGk_y_NXHNxFQCQ
+151	The Thrill Is Gone (Vocal Version)	Chet Baker	Sounds of the City	INDIFFERENT	2:50	4KcF5TMRbYk	MPREb_Tq416fgi2qu	UCVNfRXuaWVILL9giCEg0rQg
 318	Almost Blue (Live)	Chet Baker	Chet Baker in Tokyo (The Complete Concert)	INDIFFERENT	7:56	UjOkb8PAyXs	MPREb_iLnE2YXUS4y	UCVNfRXuaWVILL9giCEg0rQg
+900	Indian Summer	Chet Baker	Sextet & Quartet	INDIFFERENT	5:18	1zrPkPvL7Ho	MPREb_4u2ByWGG0YX	UCVNfRXuaWVILL9giCEg0rQg
 937	Ko Ko	Charlie Parker	The History Of Jazz Vol. 4	INDIFFERENT	2:59	9aZ0OJAo0Ds	MPREb_8RziRN5vb91	UCPFmyRluI7yvEdbHCrecUng
 227	When Love Is New	Cedar Walton Trio	Manhattan Afternoon	INDIFFERENT	7:22	wuZaRAdwgMU	MPREb_AzCVfOWDudy	UCu-WQsz9922w0IidCeAcuZA
 307	Get Well	Matt Lambaise, Jack DeSalvo, Chris Forbes, Dmitry Ishenko, and Tom Cabrera	Quintrepid			UNNbhorzoew		
 501	Boplicity	Charlie Parker	Memorial			b9vf07G2lNE		
+647	Strange Fruit	Billie Holliday & The Tony Scott Orchestra	Masters of Jazz: Billie Holiday & the Tony Scott Orchestra		3:03	hLrqjX75GQE		

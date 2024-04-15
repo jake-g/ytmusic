@@ -1,11 +1,11 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+90	Gateway	Tessela	Nancy's Pantry	LIKE	4:31	wwT9DA-xVTI	MPREb_3ifwiav61C4	UCAUTK5AsxCCaqAMnWhwZzqw
 389	Gallium	swesdo	Gallium	INDIFFERENT	5:08	rjqxjoMX_pA	MPREb_3Q3qYT8sUN2	UCzGxmKsm-FoBvoq2VmW_pUw
 25	God and I Worked Things Out	shamana	God and I Worked Things Out	INDIFFERENT	3:40	an3jL_H-I8w	MPREb_WVdJUKNveu9	UCxkMB9O-sF67DLzDkyJ6FJA
 245	polyriddim	phonon	polyriddim	INDIFFERENT	3:47	uE0YFvInlSY	MPREb_AW1xC3EwoaW	UC0BdtS2xfW6L3_txwsxHfeQ
 112	show me	pantsoph	pansophic	INDIFFERENT	2:00	6BAJZnRH8Go	MPREb_kONXnvTGgqI	UCOuR3TbRzNdy_ra0YRUIRAA
 205	feel your heartbeat close to me	pantsoph	pansophic	INDIFFERENT	2:05	UZiKFRJ1G9U	MPREb_kONXnvTGgqI	UCOuR3TbRzNdy_ra0YRUIRAA
 283	i get the bag	pantsoph	pansophic	INDIFFERENT	2:46	RRyfwzL2HCU	MPREb_kONXnvTGgqI	UCOuR3TbRzNdy_ra0YRUIRAA
-189	HIT DA DIRT (feat. kushface & Roland Jones)	outlawfiendz	PLAYERS TITLE	INDIFFERENT	3:21	bIyTBROu9Aw	MPREb_tkUgOkYdLut	UCm21Wb-dUw8FuHpTbQ8sIFw
 217	ALL IN DA CLUB	jamieJ	ALL IN DA CLUB	INDIFFERENT	2:57	FyARnFnLe4g	MPREb_DLe3z9lbnk2	UCs0WD1JtJgd7TWBl_n5lKJA
 282	DRIVER	jamieJ	Driver Mixtape, Vol. 1	INDIFFERENT	2:26	CJtonbdT2kg	MPREb_8yN13ZSL862	UCs0WD1JtJgd7TWBl_n5lKJA
 400	Eros Dosco Bossa	islandman	Godless Ceremony	INDIFFERENT	5:23	Ozz02eDMOSo	MPREb_2jS2Bq4iyZ1	UCWHLOfgditgMDTztXzIV_lw
@@ -19,6 +19,7 @@
 284	One Day	erickD	Volume Two	INDIFFERENT	2:36	LClWw90ovB4	MPREb_zG0AuBQSQMS	UCiptb_4_UDF0zypzTHcJHrQ
 31	Weightless	astral planes	Weightless	INDIFFERENT	3:53	aSR0Wx2E19o	MPREb_337n6td0s1R	UCabCJpUY4qpZxrtEskb1VFQ
 109	Again	anmbeat	Again	INDIFFERENT	2:58	U9nxuXbuqco	MPREb_5SuwToUTSoZ	
+243	World War	aaddict.	Mother Earth of Dishonesty	INDIFFERENT	2:17	2T4VkvmxGaA	MPREb_rjOfQ9VfVJ1	
 238	Stick with It	Zuper	Blend	INDIFFERENT	1:57	87BvRMQLEaI	MPREb_Pqq91fjjPeF	UCbrwZyEyPiMMK_dSQJgVOQA
 415	Kernkraft 400 (DJ Gius Mix)	Zombie Nation	Kernkraft 400	INDIFFERENT	6:06	hjexeNExXKU	MPREb_t25DJjP2BYP	UCT20BSshbEoFo_4pP_0PagQ
 60	Sweet Ophelia (Gold Fields Remix)	Zella Day	Sweet Ophelia (Gold Fields Remix)	INDIFFERENT	5:08	YAwvIwWc0J0	MPREb_7OI0B4cN13t	UCO2KEHgiHiRm_RXyasQhi0g
@@ -68,7 +69,6 @@
 1	Don't Let Me Down (feat. Daya)	The Chainsmokers	Collage	INDIFFERENT	3:29	CpTr4USXjQw	MPREb_4jnVJ5IIw9h	UCQgUHOPJJrmzCjExg-ISupA
 226	Skeng (feat. Flowdan & Killa P)	The Bug	London Zoo	INDIFFERENT	4:40	5-GjCXWCtkg	MPREb_0T5xs4Vaf0a	UCpFDrI9UAMp6cpwtZwzUg-g
 232	Smoking on Some Weed (Demo) (feat. JMK)	Thabosster21	It's Time(Demos)	INDIFFERENT	2:26	o3jGMfJ6zsg	MPREb_a4YWKZk9uiK	UC-kEUcnzBL8w67Y5QT0L2dw
-90	Gateway	Tessela	Nancy's Pantry	INDIFFERENT	4:31	wwT9DA-xVTI	MPREb_3ifwiav61C4	UCAUTK5AsxCCaqAMnWhwZzqw
 299	Closer (Until the Ribbon Breaks Remix)	Tegan and Sara	Closer Remixed	INDIFFERENT	4:55	pnaAm0v2EJA	MPREb_pCkPJaVK2wi	UCJA0n7-wuC7suj5I9MHD2qQ
 223	EPOD (feat. JL)	Tech N9ne	FEAR EXODUS	INDIFFERENT	2:44	gr8CEtVNv1k	MPREb_lKGdHN9N3DQ	UCLwidgAHfe33RbVKAaFUtMA
 88	We Were In Love	Ta-ku	Songs To Break Up To	INDIFFERENT	3:50	dWt94s-6HUQ	MPREb_gXY3gvFX1pb	UCoEatCmNiM2XV-OVxle0RpQ
@@ -222,7 +222,7 @@
 191	More Than A Number	LifeLine94	The Living Dead	INDIFFERENT	2:46	XpQkQL-oPro	MPREb_tlXRs3AlrJI	UCz7kofIw5laTvdwAMEHf71g
 410	Chitty Bang	Leikeli47	Chitty Bang	INDIFFERENT	2:27	YsXktbPhPLs	MPREb_gkzfoVWrB4A	UCUQwzfWS7oT4Yn-lXGfYELA
 70	I Don't Want Her (feat. Eric Bellinger & Problem)	League Of Starz	LOS.FM - Deluxe Edition	INDIFFERENT	3:15	YWJN1orHW9U	MPREb_bPOPFrr69Cw	UC2-M_zp5XQJG81T_aQXa4DQ
-21	West Coast (Solomun Remix)	Lana Del Rey	Solomun (Selected Remixes 2009-2015)	INDIFFERENT	8:08	azgdH5F7Ffs	MPREb_7B7Fm5IvtFR	UCyqq-aiu3vEHuf5NhwmOJcw
+21	West Coast (Solomun Remix)	Lana Del Rey	Solomun - Selected Remixes 2009-2015	INDIFFERENT	8:08	v7QUWubHHdY	MPREb_gal25J6bCCt	UCyqq-aiu3vEHuf5NhwmOJcw
 24	Summer Bummer (feat. A$AP Rocky & Playboi Carti)	Lana Del Rey	Lust For Life	INDIFFERENT	4:21	ufujhThSpzI	MPREb_MvKp5ic0oqt	UCyqq-aiu3vEHuf5NhwmOJcw
 295	Red (Chasing Shadows Remix)	Laid Blak	Red (Chasing Shadows Remix) / Odyssey	INDIFFERENT	5:42	ID9i8qXVUXc	MPREb_Y3imzb2cqd8	UC-YZ_L2mWRZytoNoepOk_VA
 311	Badman	Kryptic Minds	Badman / Distant (2020 Remaster)	INDIFFERENT	5:44	m25f9HxwYso	MPREb_uReaRNE6EPp	UCUD17YEKOYYX1wEaS1Er8qw
@@ -272,7 +272,7 @@
 37	Space Ghost Coast To Coast	Glass Animals	Dreamland	INDIFFERENT	3:08	ejirGSd3Hws	MPREb_8nfkkpxSV9M	UCfeJiV0Xu-C4z4DApRcznig
 406	Exxus	Glass Animals	Glass Animals	INDIFFERENT	4:17	-nq6dXGYbkQ	MPREb_1KiD6w4znfn	UCfeJiV0Xu-C4z4DApRcznig
 351	The Night and the Skyline ft. Mimi Page (feat. Mimi Page)	Gladkill	Beta	INDIFFERENT	4:44	Sq5lN0G_wow	MPREb_5BWD4rX6PGG	UCVgJ8-AJa1AxyYB88H3YiUw
-64	Hate or Glory	Gesaffelstein	Aleph	INDIFFERENT	4:48	FdJ_SGof2GI	MPREb_w94nI1QINW6	UCq7VAQmXDurV-9VN2bSFXvw
+64	Hate or Glory	Gesaffelstein	Aleph	INDIFFERENT	4:49	FdJ_SGof2GI	MPREb_w94nI1QINW6	UCq7VAQmXDurV-9VN2bSFXvw
 335	Bollyhood	Gameface	Traplife	INDIFFERENT	3:49	iuwRuCznmRM	MPREb_0IqDSpoWQjH	UCSWXRYm0kQyvOVVwXXDd7VQ
 305	Jeff Gandhi (feat. Know Matter)	Gaddy	Foodtruck Fugitive	INDIFFERENT	4:26	3XMoOkKKPmA	MPREb_b46crYmQIg3	UCwEWz6dMAO7BJXF1XLeWgPQ
 388	Foodtruck Fugitive	Gaddy	Foodtruck Fugitive	INDIFFERENT	4:23	HWkkI-mcLs0	MPREb_b46crYmQIg3	UCwEWz6dMAO7BJXF1XLeWgPQ
@@ -283,7 +283,7 @@
 68	Holdin On (feat. Freddie Gibbs)	Flume	Flume: Deluxe Edition	INDIFFERENT	2:48	KPqB4a2mm9g	MPREb_cxKuyFeY7pG	UCEdhHl4ZB0JXIinqZ367F6w
 139	Ether	Flockaboi	Eternal Tales	INDIFFERENT	1:43	ZOtpIn4WV1I	MPREb_HoPAdqh6qq7	UCTK4drxTjGGVHvd2x2zljXA
 206	RICH ASS JUNKIE	Flawle$$ Vibe & Freddy Konfeddy	RICH ASS JUNKIE	INDIFFERENT	2:35	lozO5F5s7J8	MPREb_Ga1sSxxStKD	
-307	One Click Headshot	Feed Me	Feed Me's Escape from Electric Mountain	INDIFFERENT	4:48	AEvajGJH_6I	MPREb_00EG6DzQ1Me	UC9UlsJH0D1uZ3hA1LNKEV0w
+307	One Click Headshot	Feed Me	Feed Me's Escape From Electric Mountain	INDIFFERENT	4:48	8THKJcG2BDI	MPREb_20m6bM3VmD8	UC9UlsJH0D1uZ3hA1LNKEV0w
 365	600 Years	Far Too Loud	Firestorm EP	INDIFFERENT	4:00	cb31qKsXE7k	MPREb_G6AonHXXI93	UCvvkjA91Wb7UqOyQJ1ZVwDQ
 398	Chakra	Fakear	All Glows	INDIFFERENT	4:09	4BQqLFO5Pzw	MPREb_tS2TRU8qNMq	UCSgO44QUssXF0dxOpeAqnww
 348	X Rated	Excision	X Rated	INDIFFERENT	4:26	D47CD35sZlU	MPREb_Hx9rHl7OECR	UCBFD23Z-C1L6Faou_HOkNMw
@@ -309,7 +309,6 @@
 82	Swoop	ETC! ETC!	Jeffree's Volume 5	INDIFFERENT	3:41	u6NnMyzaEwU	MPREb_8xofuoL5eqF	UCCaxrzJp334G_qZ5JyzoFvw
 96	ALiVE (feat. Sloth Syndrome)	ELEVATE	ALiVE	INDIFFERENT	1:53	Z_EUBVR5mQ0	MPREb_BBhh4Eqno6B	UCmpcTMfXBD-UyUW3Eo5hZPg
 118	DEAD HEAD	ELEVATD	DEAD HEAD	INDIFFERENT	3:22	T4XpiJnhUcs	MPREb_2WPxIiMfJnw	UC5m0ki3VGNND3fRRkNFN7aA
-318	They Point (feat. Juicy J & 2 Chainz)	E-40	The Block Brochure: Welcome To The Soil 1	INDIFFERENT	4:14	Umek8iTIfcQ	MPREb_B3j6Y3Frvky	UCKlkhvMKkJdaz48cpscL7eg
 366	Hooligans (VIP Mix)	Don Diablo	Won't Go Quietly	INDIFFERENT	3:38	PeqRIuXNL7Q	MPREb_CnRv6HjSfgg	UC0vxB2K-ylVmODXINPOSZQw
 367	"Night Vision (Skream's ""So Nasty"" Version)"	Distance	"Night Vision (Skream's ""So Nasty"" Version)"	INDIFFERENT	5:33	E0sOcf15ewE	MPREb_E2ePjvvlfrE	UCkYaVDP6d85TNPZfa0stKhA
 164	Scars (feat. Devin Santi)	Direct	Wanna Know You	INDIFFERENT	3:37	oh1zV0wX9wU	MPREb_H5KFogrcNvm	UCbHaM87nLnI_neIKI_sMvAg
@@ -374,12 +373,11 @@
 227	Voodoo (Beats Antique Remix)	Bassnectar	Divergent Spectrum Remix EP	INDIFFERENT	5:14	I12owD6og0U	MPREb_S04Phj2m1C7	UC0M8v9ptbip5yt3CNt-uHpg
 303	Cozza Frenzy (Mega-Bass Remix)	Bassnectar	Cozza Frenzy	INDIFFERENT	6:40	EnRvLgZbcmc	MPREb_6bb2kkvOQXJ	UC0M8v9ptbip5yt3CNt-uHpg
 376	Magical World (Bassnectar Remix) (feat. Nelly Furtado)	Bassnectar		INDIFFERENT	5:09	eNmPfd6AQBY		UC0M8v9ptbip5yt3CNt-uHpg
-56	READY TO GO (feat. Danny Brown)	Baauer	READY TO GO	INDIFFERENT	1:55	w-agdIqzvzE	MPREb_eeQiJ7iDxov	UChr8sjD4NJGdKuLA-GquIAQ
+56	READY TO GO (feat. Danny Brown)	Baauer	READY TO GO	INDIFFERENT	1:55	MyYTbm906ns	MPREb_0ZhVcBidTLK	UChr8sjD4NJGdKuLA-GquIAQ
 333	HeadBand (feat. 2 Chainz)	B.o.B	HeadBand	INDIFFERENT	3:40	Rr5JvDNQsCA	MPREb_OfewUHSv6yh	UCU1JusGzZe0Msn79JB3g46w
-243	World War	Avddxct	Mother Earth of Dishonesty	INDIFFERENT	2:17	2T4VkvmxGaA	MPREb_rjOfQ9VfVJ1	UCjSH7tla3Bbbi338Oh-JW-A
 229	New World Disorder (23's Orchestra Dubstyle Extravaganza)	Arkasia	New World Disorder Remixes	INDIFFERENT	5:55	0CUvP_m2FS0	MPREb_srpDEIkTXAU	UCH8FAG8n4rs4DbY8KGs1bhA
 331	Hall of the Mountain King	Apocalyptica	Cult	INDIFFERENT	3:30	KgVh8j5_PW4	MPREb_jqwj0RJIkXO	UCpqq5sZCFH6vkIrO9PZc8bA
-80	Gwely Mernans	Aphex Twin	Drukqs	INDIFFERENT	5:09	e91z7Po_w2E	MPREb_dtnEDOphZmE	UCWmnkYUzoOiOztmPBhIlZjg
+80	Gwely Mernans	Aphex Twin	Drukqs	INDIFFERENT	5:09	gwqFjxMD7i0	MPREb_lgoA12szhnF	UCWmnkYUzoOiOztmPBhIlZjg
 347	Poppin Bottles	Apex Rise	The Neurotrap EP	INDIFFERENT	2:24	gsove-vj-NU	MPREb_He9GGJJZOOz	UCB3BnOqUWGRgwV8Gd2Q66yQ
 54	Artificial Intelligence	Ankou	Artificial Intelligence	INDIFFERENT	3:48	5n5rZ5wR3FE	MPREb_5VymcXo0XhM	UCS8tEGoWt0ZViVf0TR-IPXA
 114	Act Right	Ankhs	Act Right	INDIFFERENT	3:06	nvTh1gJ4QCg	MPREb_hZgrb6OWF0t	UCdf8C9NLaXFqihv6TZ4joJg
@@ -402,6 +400,7 @@
 108	Netflix (feat. Fergie)	2 Chainz	B.O.A.T.S. II #METIME (Deluxe)	INDIFFERENT	3:56	SypkFlahA00	MPREb_RzJue2LpSGK	UCvNe1IHe_tf5g-J-jZF0ERQ
 257	From Broke 2 Stackz	1ony	Digital Healing, Vol. 2	INDIFFERENT	2:18	CfIR3TDtWkM	MPREb_Sb72FPd239J	UCcSU2pJrmkeAKWJfvVCeW6g
 201	Ice On My Wrist, Pt. 2	120SEVEN	Forever Pimpin'	INDIFFERENT	3:01	iKjHwi_Nm50	MPREb_qoYTsTK2uhv	UCSzBD2v589FTppKwT5pXd0Q
+189	HIT DA DIRT	outlawfiendz	PLAYERS TITLE			bIyTBROu9Aw		
 394	FTSU	Wreckno, jordnmoody, & Ujuu	FTSU			W4JXVzn1bvc		
 197	Boh!	Winterman	Boh!			jfoq2rw88yU		
 212	Intro (Gtfa 4rom Me H03)	Weerdoh	Death Awaits			fVACqhQRQCk		
@@ -412,6 +411,7 @@
 202	Nebula	Fireplex	Nebula			9lM4FYlAdiU		
 298	Deviance	Excision & Datsik & Datsik	X Rated			BxnuYu0E9xE		
 286	COOKIE IN THE HOTBOX	EUST4CHE	Hidden Laboratory			2p-Is_PvBw0		
+318	They Point	E-40	The Block Brochure: Welcome To The Soil 1			Umek8iTIfcQ		
 362	Tasty	Drapht & Ta-Ku	Tasty			nPQx68Wiu5g		
 192	Ghost Ride (432hz)	Dope Soul Beats	Ghost Ride (432hz)			EFJY2Jpoq-o		
 224	Amnesia (432+528hz)	Dope Soul Beats	Amnesia (432+528hz)			n6An0XFEnqU		
