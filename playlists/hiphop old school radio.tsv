@@ -1,9 +1,13 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 820	West Up! (feat. Mack 10 & Ice Cube)	WC & The Maad Circle	Curb Servin'	LIKE	4:45	9eWmCvFlWAk	MPREb_YbnnMpLKRKD	UCg6F6FL-bK-g-UIG3ZFYzTQ
 818	Magic	Suff Daddy	Magic	LIKE	6:37	9rkmVLR0Z_0	MPREb_Gb9ppS53avc	UCkafGF69NZJVWkY1nYnWxSg
+236	Higher	Q-Tip	Amplified	LIKE	3:30	-1hXIdArTog	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
+593	Go Hard	Q-Tip	Amplified	LIKE	3:03	sVdMhat47Ss	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 166	Say	Method Man	4:21...The Day After	LIKE	3:50	Ol8FEugOMoc	MPREb_6WKL6VCl0nb	UCc1r7FILg1s6rXuE4quij5Q
 433	Dear Summer (feat. JAY-Z)	Memphis Bleek	534	LIKE	2:54	LBOmocitDfA	MPREb_Iid6XxyIM11	UCaT130ZHSbYN3Zd4qnqkz9w
 826	I'm Real (Murder Remix) (feat. Ja Rule)	Jennifer Lopez	J.Lo	LIKE	4:23	-SCULWJg16Q	MPREb_1LfDAKpGcf5	UCXDcGa1H1axtr1wkxOR3hZQ
+297	I Like It (I Wanna Be Where You Are)	Grand Puba	2000	LIKE	4:24	o1Z9BZbaiTY	MPREb_2BfGUHIzrZB	UCC8cr_AwXtuQ7G-KMLDJwJQ
+577	Cold Blooded (feat. Rahzel & Roy Hargrove)	Common	Like Water For Chocolate	LIKE	4:59	Yex2DVOfMPk	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw
 201	Crazy Rap (Colt 45 & 2 Zig Zags)	Afroman	The Good Times	LIKE	5:29	0rQ8AVwXMzg	MPREb_RetQnSD7N6f	UCCmXLFP8Hvdu2Gjhfg2589g
 742	Happiness	dead prez	Let's Get Free	INDIFFERENT	3:49	pFRk_cQIq2k	MPREb_iKUhvOJbuUA	UCtTL8izoraajUAufCZQJrAQ
 157	Leave You Alone (feat. Ne-Yo)	Young Jeezy	TM:103 Hustlerz Ambition	INDIFFERENT	5:29	NkXVYoioiqI	MPREb_JgKPN6uPQtk	UCpo3AnV4YNbdNhbbscuB46w
@@ -171,12 +175,10 @@
 137	Moving With U	Q-Tip	Amplified	INDIFFERENT	3:23	q279AEX8pmg	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 151	Shaka	Q-Tip	The Renaissance	INDIFFERENT	3:33	lnVHKU2amNw	MPREb_HMPlwWJpF5S	UCe0gK3BlE7ZD1fekT0LxBiA
 176	Breathe And Stop	Q-Tip	Amplified	INDIFFERENT	4:04	q50mOuWQE04	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
-236	Higher	Q-Tip	Amplified	INDIFFERENT	3:30	-1hXIdArTog	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 275	Wait Up	Q-Tip	Amplified	INDIFFERENT	3:43	QYFKE98tohE	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 332	All In	Q-Tip	Amplified	INDIFFERENT	3:10	fJHh48TQ-7Y	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 338	Things We Do	Q-Tip	Amplified	INDIFFERENT	4:06	9i56z_ciIyw	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 378	End Of Time (feat. Korn)	Q-Tip	Amplified	INDIFFERENT	3:33	J7oBJefi2Qs	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
-593	Go Hard	Q-Tip	Amplified	INDIFFERENT	3:03	sVdMhat47Ss	MPREb_WwdANDmhD90	UCe0gK3BlE7ZD1fekT0LxBiA
 17	Been Around the World (feat. Notorious B.I.G. & Mase)	Puff Daddy & The Family	No Way Out	INDIFFERENT	5:26	lbUgUJXEGGk	MPREb_8zxZTbTnq3n	UCa7UEhon5aHfncjkOWgwRDA
 37	Victory (feat. The Notorious B.I.G. & Busta Rhymes)	Puff Daddy	No Way Out	INDIFFERENT	4:57	ChNBMA-soXA	MPREb_8zxZTbTnq3n	UCa7UEhon5aHfncjkOWgwRDA
 178	Brothers Gonna Work It Out	Public Enemy	Fear Of A Black Planet	INDIFFERENT	5:08	rXdczisrtWc	MPREb_WFTPLRacLRs	UCWnh1TnJ-3_6XAFIXqYsVIg
@@ -486,7 +488,6 @@
 141	Nowhere to Run, Nowhere to Hide	Gravediggaz	6 Feet Deep	INDIFFERENT	3:31	n0uL1Lu77mo	MPREb_yYVKBHzVTBn	UCdLIxZhaItKn3t3WiVhUTAA
 643	Blood Selloutz	Gravediggaz	Blood Selloutz	INDIFFERENT	3:41	7elTMptN-_A	MPREb_Leyk2S6moYZ	UCdLIxZhaItKn3t3WiVhUTAA
 267	A Little Of This	Grand Puba	2000	INDIFFERENT	3:41	RaN8puMW8K0	MPREb_2BfGUHIzrZB	UCC8cr_AwXtuQ7G-KMLDJwJQ
-297	I Like It (I Wanna Be Where You Are)	Grand Puba	2000	INDIFFERENT	4:24	o1Z9BZbaiTY	MPREb_2BfGUHIzrZB	UCC8cr_AwXtuQ7G-KMLDJwJQ
 301	Amazing	Grand Puba	2000	INDIFFERENT	4:03	n3i224h5rpI	MPREb_2BfGUHIzrZB	UCC8cr_AwXtuQ7G-KMLDJwJQ
 263	Goodie Bag	Goodie Mob	Soul Food	INDIFFERENT	4:26	5LxUC6n5k4Y	MPREb_J6Uc1gIKj0w	UCweVqDsiovvEo4SWiK2JiJA
 4	Camay (feat. Raekwon & Cappadonna)	Ghostface Killah	Ironman	INDIFFERENT	4:32	-9WGTvOXuJY	MPREb_HoMur50JXYD	UC9BR9FK85Ez13EZ34Z5yZnw
@@ -658,7 +659,6 @@
 339	In My Own World (Check The Method)	Common	Resurrection	INDIFFERENT	3:33	ZwikdIepwQw	MPREb_jW6UAnQ5rFh	UCHGKcYq0mKucntOv9-qBRJw
 457	Start The Show (feat. Kanye West)	Common	Finding Forever	INDIFFERENT	3:15	H7W57-Jrgp4	MPREb_MZr36oP8cuI	UCHGKcYq0mKucntOv9-qBRJw
 461	Chi-City	Common	Be	INDIFFERENT	3:27	4fpHqQWlDiA	MPREb_7AbPzpV7YDk	UCHGKcYq0mKucntOv9-qBRJw
-577	Cold Blooded (feat. Rahzel & Roy Hargrove)	Common	Like Water For Chocolate	INDIFFERENT	4:59	Yex2DVOfMPk	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw
 632	Time Travelin' Reprise	Common	Like Water For Chocolate	INDIFFERENT	1:34	gmH5j_90UgE	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw
 710	Love is...	Common	Be	INDIFFERENT	4:11	qpGT_h5SKDI	MPREb_7AbPzpV7YDk	UCHGKcYq0mKucntOv9-qBRJw
 756	Payback Is A Grandmother (feat. Slum Village)	Common	Like Water For Chocolate	INDIFFERENT	4:31	6VU6wILj500	MPREb_7ev2dI3Qj3I	UCHGKcYq0mKucntOv9-qBRJw

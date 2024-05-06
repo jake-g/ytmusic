@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+415	Kernkraft 400 (DJ Gius Mix)	Zombie Nation	Kernkraft 400	LIKE	6:06	hjexeNExXKU	MPREb_t25DJjP2BYP	UCT20BSshbEoFo_4pP_0PagQ
 90	Gateway	Tessela	Nancy's Pantry	LIKE	4:31	wwT9DA-xVTI	MPREb_3ifwiav61C4	UCAUTK5AsxCCaqAMnWhwZzqw
 389	Gallium	swesdo	Gallium	INDIFFERENT	5:08	rjqxjoMX_pA	MPREb_3Q3qYT8sUN2	UCzGxmKsm-FoBvoq2VmW_pUw
 25	God and I Worked Things Out	shamana	God and I Worked Things Out	INDIFFERENT	3:40	an3jL_H-I8w	MPREb_WVdJUKNveu9	UCxkMB9O-sF67DLzDkyJ6FJA
@@ -21,7 +22,6 @@
 109	Again	anmbeat	Again	INDIFFERENT	2:58	U9nxuXbuqco	MPREb_5SuwToUTSoZ	
 243	World War	aaddict.	Mother Earth of Dishonesty	INDIFFERENT	2:17	2T4VkvmxGaA	MPREb_rjOfQ9VfVJ1	
 238	Stick with It	Zuper	Blend	INDIFFERENT	1:57	87BvRMQLEaI	MPREb_Pqq91fjjPeF	UCbrwZyEyPiMMK_dSQJgVOQA
-415	Kernkraft 400 (DJ Gius Mix)	Zombie Nation	Kernkraft 400	INDIFFERENT	6:06	hjexeNExXKU	MPREb_t25DJjP2BYP	UCT20BSshbEoFo_4pP_0PagQ
 60	Sweet Ophelia (Gold Fields Remix)	Zella Day	Sweet Ophelia (Gold Fields Remix)	INDIFFERENT	5:08	YAwvIwWc0J0	MPREb_7OI0B4cN13t	UCO2KEHgiHiRm_RXyasQhi0g
 334	Hypnotic (Vanic Remix)	Zella Day	Hypnotic (Vanic Remix)	INDIFFERENT	4:42	Hz1aBtNPf6s	MPREb_rTlmvJvuWUX	UCO2KEHgiHiRm_RXyasQhi0g
 378	Stache	Zedd	Clarity	INDIFFERENT	4:05	QXu19NcqFBs	MPREb_KRDbvxor1uN	UCGVGIqHPzwLhZg8KQNVaRbA
@@ -305,17 +305,18 @@
 320	Fabrication	Emalkay	Fabrication / Massive	INDIFFERENT	4:50	kRiJf7aDmf8	MPREb_aZHRDSIHUxC	UCDmeVUYRM-8kHZdgt1iqyQQ
 397	Hit The Wall	Edgar Alvis & Blush Wilson	Hit The Wall	INDIFFERENT	2:17	wdUzRScEd7I	MPREb_zNakWGuMudK	
 196	NO LIMIT (feat. Everyst)	ETERNAL CLIQUE	Eternal Clique, Vol. 1	INDIFFERENT	4:23	1wlJBu6BsRE	MPREb_5JPtYfp7SBD	UChtOscvvmA6_LVKlKrNMrow
-352	She's the Bass Drum	ETC!ETC!, Jay Jacob & Sazon Booya	Moombahton Classics - Session Two	INDIFFERENT	4:42	hRY5yWg7JKU	MPREb_257lTslFKwp	
+352	She's the Bass Drum	ETC!ETC! & Jay Jacob	Moombahton Classics - Session Two	INDIFFERENT	4:42	hRY5yWg7JKU	MPREb_257lTslFKwp	
 82	Swoop	ETC! ETC!	Jeffree's Volume 5	INDIFFERENT	3:41	u6NnMyzaEwU	MPREb_8xofuoL5eqF	UCCaxrzJp334G_qZ5JyzoFvw
 96	ALiVE (feat. Sloth Syndrome)	ELEVATE	ALiVE	INDIFFERENT	1:53	Z_EUBVR5mQ0	MPREb_BBhh4Eqno6B	UCmpcTMfXBD-UyUW3Eo5hZPg
 118	DEAD HEAD	ELEVATD	DEAD HEAD	INDIFFERENT	3:22	T4XpiJnhUcs	MPREb_2WPxIiMfJnw	UC5m0ki3VGNND3fRRkNFN7aA
+318	They Point (feat. Juicy J & 2 Chainz)	E-40	The Block Brochure: Welcome To The Soil 1	INDIFFERENT	4:14	Umek8iTIfcQ	MPREb_B3j6Y3Frvky	UCKlkhvMKkJdaz48cpscL7eg
 366	Hooligans (VIP Mix)	Don Diablo	Won't Go Quietly	INDIFFERENT	3:38	PeqRIuXNL7Q	MPREb_CnRv6HjSfgg	UC0vxB2K-ylVmODXINPOSZQw
 367	"Night Vision (Skream's ""So Nasty"" Version)"	Distance	"Night Vision (Skream's ""So Nasty"" Version)"	INDIFFERENT	5:33	E0sOcf15ewE	MPREb_E2ePjvvlfrE	UCkYaVDP6d85TNPZfa0stKhA
 164	Scars (feat. Devin Santi)	Direct	Wanna Know You	INDIFFERENT	3:37	oh1zV0wX9wU	MPREb_H5KFogrcNvm	UCbHaM87nLnI_neIKI_sMvAg
 265	Boy Oh Boy	Diplo	Random White Dude Be Everywhere	INDIFFERENT	2:55	HBE42UoUOVs	MPREb_PL2CuXiwHDD	UCXAX3AtRPPdesKYSS8FKayg
 323	Way More	Diplo	Florida	INDIFFERENT	5:57	tA9EvyBmbtA	MPREb_FCKP9RTwvPP	UCXAX3AtRPPdesKYSS8FKayg
 360	Set It Off (TheFatRat Remix) (feat. Lazerdisk Party Sex)	Diplo	Express Yourself (Remixes)	INDIFFERENT	3:32	ycBOdSzTNik	MPREb_vNunWVkZ1rz	UCXAX3AtRPPdesKYSS8FKayg
-79	Stampede	Dimitri Vegas	Stampede	INDIFFERENT	4:17	ChuOfgc-lqw	MPREb_3eAOf3Jbbih	UCeNAGMwB7p3gxizQPsU9Cpw
+79	Stampede	Dimitri Vegas & Like Mike	Stampede	INDIFFERENT	4:18	ChuOfgc-lqw	MPREb_3eAOf3Jbbih	UCeNAGMwB7p3gxizQPsU9Cpw
 185	Without You (The Rebirth) (feat. Totally Enormous Extinct Dinosaurs)	Dillon Francis	Without You (Remixes)	INDIFFERENT	4:27	zaQPy0ghmRU	MPREb_aQ8bIunmLHv	UCKm78y6KGUHBtvne8iWyHvg
 106	Heavy Water	De̊ǰa	Infinite Ecstatic	INDIFFERENT	4:37	pMqb_cOpE1w	MPREb_kgINfypUUdr	UCL-GDF3yyZ7TWnV_Ibfc5kQ
 336	Albino Ass Slap	Des McMahon	Ginger Problems	INDIFFERENT	4:53	h0sq1ozhTKY	MPREb_onDm98cvqzS	UClVVNH35M5aDXxX0BTvu-5w
@@ -411,7 +412,6 @@
 202	Nebula	Fireplex	Nebula			9lM4FYlAdiU		
 298	Deviance	Excision & Datsik & Datsik	X Rated			BxnuYu0E9xE		
 286	COOKIE IN THE HOTBOX	EUST4CHE	Hidden Laboratory			2p-Is_PvBw0		
-318	They Point	E-40	The Block Brochure: Welcome To The Soil 1			Umek8iTIfcQ		
 362	Tasty	Drapht & Ta-Ku	Tasty			nPQx68Wiu5g		
 192	Ghost Ride (432hz)	Dope Soul Beats	Ghost Ride (432hz)			EFJY2Jpoq-o		
 224	Amnesia (432+528hz)	Dope Soul Beats	Amnesia (432+528hz)			n6An0XFEnqU		

@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 14	This Will Pass	Home	Falling into Place	LIKE	3:22	CcVBUe1p75c	MPREb_ZKrn1OIw2oi	UCfWnoT0YX8RfjFaXmg2Eq5g
+148	Division	Forhill	Division	LIKE	3:36	W4kZ26DlW2g	MPREb_0YlZL3l2DtS	UCs7gqdcOcOf0cSybpfT--8g
 15	Flightwave	Com Truise	Galactic Melt	LIKE	5:04	yRF2LTbMDfU	MPREb_QXiyPdFjJFm	UC3G1cV92stSGOy4cLgXmgJQ
 151	Compress—Fuse	Com Truise	In Decay, Too	LIKE	3:24	K5iVnEnc4lQ	MPREb_ABOiPJX5x4K	UC3G1cV92stSGOy4cLgXmgJQ
 300	Sun	憂鬱	Sun	INDIFFERENT	5:24	RakcYpzOI8A	MPREb_lmWFnR4g3sc	UC9ewHpYXBGtYJVKPvKtHW8Q
@@ -376,13 +377,11 @@
 349	Melt	Geist Overdrive	Geist Overdrive	INDIFFERENT	2:54	qWe4KqhP_RA	MPREb_4S9OJfLDe2M	UClbXmVF34Mq1SPTePyvC0xw
 510	Infinite Freeway	Ganymede	Infinite Freeway	INDIFFERENT	5:16	MxkIgv9nYu0	MPREb_pkmrxTuoWk6	UCBIXVESkAbbt_k5l1WB0pDw
 173	Gienah	Gamma Corvi	DAWN	INDIFFERENT	3:12	jOmkjDBH0Ho	MPREb_DncfMwECAcW	UC8ODA-pq11Nc2jaHhGtVvWg
-521	Lumière Rouge	Galatée	Théoule-Sur-Mer [single]	INDIFFERENT	4:12	j9jIIlUTdro	MPREb_MXh4NbsasnX	UCznVkigD9jUyUOcbq7JxJpg
 34	The Mountain	GUNSHIP	The Mountain	INDIFFERENT	4:24	2j4KxkweEf8	MPREb_CL1jTJWjVCU	UCQr3Q0ixJWZB3s3K-Y1fgRw
 71	When You Grow up, Your Heart Dies	GUNSHIP	When You Grow up, Your Heart Dies	INDIFFERENT	5:49	Wk9mMbOpAaA	MPREb_iN6L5pM9rRC	UCQr3Q0ixJWZB3s3K-Y1fgRw
 130	Dark All Day (feat. Tim Cappello & Indiana)	GUNSHIP	Dark All Day	INDIFFERENT	5:27	ZLVwPZOW4iA	MPREb_LjRaOwLpncG	UCQr3Q0ixJWZB3s3K-Y1fgRw
 211	The Drone Racing League	GUNSHIP	Dark All Day	INDIFFERENT	4:42	UvzcN5yv7rQ	MPREb_88G6BW3P0LU	UCQr3Q0ixJWZB3s3K-Y1fgRw
 227	Tech Noir (Carpenter Brut Remix)	GUNSHIP	GUNSHIP	INDIFFERENT	3:30	vDjNTeynUPY	MPREb_aOP3G8k50TC	UCQr3Q0ixJWZB3s3K-Y1fgRw
-148	Division	Forhill	Division	INDIFFERENT	3:36	W4kZ26DlW2g	MPREb_0YlZL3l2DtS	UCs7gqdcOcOf0cSybpfT--8g
 533	Nightwalker	Forhill	Nightwalker	INDIFFERENT	2:27	g-wDG-zfwEI	MPREb_zwdsLlXIqaM	UCs7gqdcOcOf0cSybpfT--8g
 315	Hard Rain	Fluid Ghost	Homeclubbing / Photophobia	INDIFFERENT	4:15	Ztvpp7ifhP4	MPREb_Rr8Y1RIbHjm	UCKqbwUCEUFxhehdAJpmdsXA
 449	Touch	Felix Marc	Touch	INDIFFERENT	3:27	pd9mFOYN8ZU	MPREb_kXr5Z8JGnpF	UCfVw59WqNBjXsheyrPKU9hQ
@@ -546,5 +545,6 @@
 154	Neon Night Sight	Young Tango	Small Steps			ZGaxFEeKcmY		
 351	Lyra	Vokon	Lyra			R7pjkqohfLI		
 164	Addiction	The Verbal Shock	Addiction EP			LVXRzPfCUM8		
+521	Lumière Rouge	Galatée	Théoule-Sur-Mer [single]			j9jIIlUTdro		
 46	Panorama Drive	First Impressions	Modern Thrills			u-XI-E5iPDo		
 365	Lightlines	A-Reis	Phosphene			q3546wmsZTw		
