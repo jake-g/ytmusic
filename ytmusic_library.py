@@ -8,7 +8,7 @@ from ytmusicapi import YTMusic
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
-SKIP_PLAYLIST_BACKUP = False
+SKIP_PLAYLIST_BACKUP = True
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
@@ -435,7 +435,7 @@ class YTMusicPlaylists:
         time.sleep(sleep_time)
         self.yt.delete_playlist(pl_info["id"])
         time.sleep(sleep_time)
-        print(f'Created sorted pl: {pl_id}, and ',
+        print(f'Created sorted pl: {pl_str} {pl_id}, and ',
               f'deleted original pl: {pl_info["id"]}')
         return pc
 
