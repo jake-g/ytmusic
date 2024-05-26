@@ -8,7 +8,7 @@ from ytmusicapi import YTMusic
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
-SKIP_PLAYLIST_BACKUP = True
+SKIP_PLAYLIST_BACKUP = False
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
