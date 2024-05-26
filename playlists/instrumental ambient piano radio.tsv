@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+88	Consolation No. 3 in D-Flat Major, S. 172/3	Vladimir Horowitz	Horowitz Plays Liszt	LIKE	4:33	GGDJZgQPK8E	MPREb_Po2wHFdawcG	UC0KLBRZ2OVUpgv7tBfwj16A
 104	ekki hugsa (amsterdam) (live)	Ólafur Arnalds	re:visions (live)	INDIFFERENT	4:40	A1nKZ6kqaX8	MPREb_g1CES5KuhVo	UCDQlvsMEM5j0k5cqmfHBzVA
 34	"Schubert: String Quartet No. 14 in D Minor, D. 810, ""Death and the Maiden"": II. Theme -"	vision string quartet	memento	INDIFFERENT	2:17	4xLFXblJQLo	MPREb_KhvjJchCo1M	UCuaRhW8rip2avGV4MJ26IHQ
 29	Kiss the Rain	Yiruma	The Best - Reminiscent 10th Anniversary	INDIFFERENT	5:01	I0et_hDtfxY	MPREb_22hpxbUx3SM	UCcweg-swJlth9a_0pEzvdxw
@@ -8,7 +9,6 @@
 120	Ana Luisa	William Goldstein	Ana Luisa	INDIFFERENT	3:52	btZlKF_-ogk	MPREb_XvxUlahw8ch	UC4XIKd1hRY_rXgwKm3VlcaA
 92	Les tendres plaintes	Víkingur Ólafsson	Rameau: Les tendres plaintes	INDIFFERENT	2:37	j-Thn2uRnLk	MPREb_ycpMsQRir9Y	UCz8sbSQbr-49xtmGsc1uYMg
 21	Nocturne in E Minor, Op. 72, No. 1	Vladimir Horowitz	Horowitz Plays Chopin: Volume 3	INDIFFERENT	4:05	m5KR8N-B8Kk	MPREb_A4SYmnHWL04	UC0KLBRZ2OVUpgv7tBfwj16A
-88	Consolation No. 3 in D-Flat Major, S. 172/3	Vladimir Horowitz	Horowitz Plays Liszt	INDIFFERENT	4:33	GGDJZgQPK8E	MPREb_Po2wHFdawcG	UC0KLBRZ2OVUpgv7tBfwj16A
 96	Come Back to Us	Thomas Newman	1917 (Original Motion Picture Soundtrack)	INDIFFERENT	5:40	UOSEq1n8bYg	MPREb_5I2YrjG7SHA	UCTW2KlvlqoOpQQLB78RKzuQ
 35	String Quartet No. 13 in B-Flat Major, Op. 130 (1825 Version): V. Cavatina. Adagio molto espressivo	Tetzlaff Quartett	Beethoven: String Quartets, Opp. 132, 130 & 133	INDIFFERENT	5:32	MC3jGWL9IF0	MPREb_XtV4dsYB8Tj	UCEhXsy3eX-KnSxIPLZNSXeg
 20	Haydn: Piano Sonata in B Flat, Hob.XVI: 2 - 2. Largo	Sviatoslav Richter	Haydn: Piano Sonatas	INDIFFERENT	4:51	KpfZx5os1oo	MPREb_bI7VGOIUlAi	UCWQtVTm5seT6flYDJU4pETw
@@ -25,7 +25,7 @@
 86	Spectre	Rob Simonsen	Spectre	INDIFFERENT	3:12	5P4dliyRaEk	MPREb_BhtP52f4cWG	UCwlTBdUwqAptW4-j_d25mRQ
 56	Bliss	Rob Costlow	Sophomore Jinx	INDIFFERENT	7:55	EyZW97-ciZ4	MPREb_Y4cuiL8aNd8	UC3ANfvWrt_mZ3buuoi-lhlQ
 118	Being	Roary	VI	INDIFFERENT	4:57	xBAtfJIbYY8	MPREb_upURGAb1I4i	UCvLKis52WOCbta2iunkfW5Q
-5	Satie: Gnossiennes - No. 5	Reinbert de Leeuw & Erik Satie	Satie: The Early Piano Works	INDIFFERENT	3:26	BYMB--gtUiU	MPREb_Ogmc0uOfq30	
+5	Satie: Gnossiennes - No. 5	Reinbert de Leeuw	Satie: The Early Piano Works	INDIFFERENT	3:26	BYMB--gtUiU	MPREb_Ogmc0uOfq30	UCnP0rtTM6IQfynWhERKZt4Q
 65	Ukiyo	RIOPY	Tree of Light	INDIFFERENT	3:56	dJYwbWITjmg	MPREb_LPAarJjxUdH	UCVdCcfLP7F4gKU1Md6DTniw
 57	"Violin Sonata No. 9, Op. 47 ""Kreutzer"": I. Adagio sostenuto - Presto (Arr. for quintet and 2 cellos)"	Quatuor Zaïde, Bruno Delepelaire, & Ludwig van Beethoven	Ludwig	INDIFFERENT	13:36	tVu0-lF9xC0	MPREb_FgHQuoH2n7i	
 106	Debussy	Prof. Lacasse	Piano Evocations	INDIFFERENT	2:19	Uadh3ROuYSE	MPREb_QE3ZUkomfeF	UCg9lop-bGmIXDfO8q-_NplQ
@@ -96,11 +96,11 @@
 97	Hair	Devonté Hynes	Hair / Kissed All Your Scars (from Queen & Slim: Original Motion Picture Score)	INDIFFERENT	2:09	HuVynmlIzRI	MPREb_zyGRrC23Uia	UCwItHQ6AZ1ZH4SVNUCrpSPw
 12	Piano Sonata No. 39 in D Major, Hob. XVI:24: II. Adagio	Denis Kozhukhin	Haydn: Piano Sonatas	INDIFFERENT	3:17	ucqeEfRJrsA	MPREb_cMkzweJuq2X	UCRiVXB0YnLNzpDz_T-lUToQ
 51	Piano Concerto in A Minor, Op. 16: II. Adagio	Denis Kozhukhin	Tchaikovsky & Grieg Piano Concertos	INDIFFERENT	6:15	PeetefYvzpw	MPREb_KiUsfJ9t0gI	UCRiVXB0YnLNzpDz_T-lUToQ
-107	12 Etudes, Op. 25: No. 7 in C-Sharp Minor. Lento (Arr. for Cello and Piano by Alexander Glazunov)	Dejan Lazić	Chopin: Waltzes, Preludes & Mazurkas (Cello Waltzes, Vol. 1)	INDIFFERENT	4:47	F_vjKQ5A0Kg	MPREb_Y5w3F6jNP3w	UCgi54t73hV_CIi0s4oKCW_g
+107	12 Etudes, Op. 25: No. 7 in C-Sharp Minor. Lento (Arr. for Cello and Piano by Alexander Glazunov)	Dejan Lazić, Pieter Wispelwey, Alexander Glazunov, and Frédéric Chopin	Chopin: Waltzes, Preludes & Mazurkas (Cello Waltzes, Vol. 1)	INDIFFERENT	4:47	F_vjKQ5A0Kg	MPREb_Y5w3F6jNP3w	
 130	Viola Concerto, Sz. 120, BB 128: II. Adagio religioso	David Zinman	The New York Album ()	INDIFFERENT	4:31	BiZaLHJEBco	MPREb_XTOEM9mFfZM	UC_Y2MpzJ3OizdfhKF-WeIrw
 68	Prisma	Dardust	Prisma	INDIFFERENT	4:08	ZFmttXpmfcY	MPREb_vh0669M1Hiz	UCpy-_LQmPv3iSsKt-euzOzA
 100	S.A.D.	Dardust	S.A.D. Storm and Drugs	INDIFFERENT	3:22	RUYH8T8lfwk	MPREb_Z5j6e6cGgK3	UCpy-_LQmPv3iSsKt-euzOzA
-108	Rachmaninoff: Piano Concerto No. 1 in F-Sharp Minor, Op. 1 - II. Andante	Daniil Trifonov, The Philadelphia Orchestra, Yannick Nézet-Séguin, and Sergei Rachmaninoff	Destination Rachmaninoff: Arrival	INDIFFERENT	7:20	qhvrbXNTvPk	MPREb_1JX1qApcz7x	
+108	Rachmaninoff: Piano Concerto No. 1 in F-Sharp Minor, Op. 1 - II. Andante	Daniil Trifonov	Destination Rachmaninoff: Arrival	INDIFFERENT	7:20	qhvrbXNTvPk	MPREb_1JX1qApcz7x	UCwPEvcNpy2b4qxn34wKKBnA
 77	Vila Rica	Corciolli	Vila Rica	INDIFFERENT	4:25	8NEKfYjd5O0	MPREb_1WrohOVtljx	UCEf0-5fRTTt9xI94UT8ZMKg
 131	3 Preludes: No. 2 in C-Sharp Minor. Andante con moto e poco rubato	Claudio Constantini	America	INDIFFERENT	4:17	MepSYPegPAY	MPREb_KeEed9JCMFD	UC41yz5pwGYTQGjqCW0L0BFQ
 32	Liszt: 10 Harmonies poétiques et religieuses, S.173 - 3.Bénédiction de Dieu dans la solitude - Andante -	Claudio Arrau	Liszt: Piano Concerto No.1; Piano Sonata in B	INDIFFERENT	2:19	MIxNEawcNpM	MPREb_ixy5fZqzCoZ	UC1W5uWrqB0AkQmiq5Lmc6FA
