@@ -699,9 +699,11 @@ class YTMusicPlaylists:
         pl_ct = pd.DataFrame.from_dict(dict(pl_ct), orient='index')
         pl_ct.columns = ['count']
         print(f'Final Playlist Cleanup Counters:\n{pl_ct}')
+        
 
-        like_results = pd.DataFrame(like_results).T.sort_values(
-            'track_rated', ascending=False)
+        like_results = pd.DataFrame(like_results).T
+        if 'track_rated'in like_results.columns:
+            like_results = like_results.sort_values('track_rated', ascending=False)
 
         radio_results = pd.DataFrame(radio_results).T.sort_values('moved_like')
         radio_results['total_changes'] = radio_results.sum(axis=1)
