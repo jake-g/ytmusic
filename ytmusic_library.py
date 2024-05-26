@@ -705,7 +705,9 @@ class YTMusicPlaylists:
         if 'track_rated'in like_results.columns:
             like_results = like_results.sort_values('track_rated', ascending=False)
 
-        radio_results = pd.DataFrame(radio_results).T.sort_values('moved_like')
+        radio_results = pd.DataFrame(radio_results).T
+        if 'moved_like'in like_results.columns:
+            radio_results = radio_results.sort_values('moved_like')
         radio_results['total_changes'] = radio_results.sum(axis=1)
         radio_results = radio_results.sort_values(
             'total_changes', ascending=False)
