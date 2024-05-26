@@ -2,15 +2,15 @@
 playlists_processed	511
 playlist_kind_is_yt_generated	5
 playlist_kind_in_playlist_skip_list	77
-playlist_kind_is_like	270
-track_processed	128743
-track_rating_exists	127616
-track_rating_is_none	1127
-playlist_kind_is_indifferent	151
+playlist_kind_is_like	271
+track_processed	128047
+track_rating_exists	126928
+track_rating_is_none	1119
+playlist_kind_is_indifferent	150
 playlist_privacy_is_unlisted	36
 playlist_kind_not_inferred	13
 playlist_is_public	1
 playlist_kind_is_album	62
-playlist_removed_duplicates	12
+playlist_removed_duplicates	2
 playlist_skip_starts_with_zz not like	2
 playlist_kind_is_skip	10
