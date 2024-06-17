@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 631	San Francisco Knights	People Under The Stairs	The Cat	LIKE	4:33	zsoCxNXRZwg	MPREb_gMFzTeMjhcE	UC2iOJ6K_0ug4lNxMrgns5ww
 1597	Gorilla	Little Simz	NO THANK YOU	LIKE	4:06	xdJ6mP1lS28	MPREb_nQMUzbq4i6z	UCWMArai9zjUOTgtAF0oyoIA
+603	Dominant Species	Immortal Technique	Revolutionary, Vol. 1 (Bonus Edition)	LIKE	3:48	SP7TNzYuAEM	MPREb_yaJvE9vqrj1	UCYWdn8GKtpvhc0DmcTQjG_w
 27	Luck of Lucien	A Tribe Called Quest	The Anthology	LIKE	4:34	7T2lja6Agbk	MPREb_L84iMEzN7Be	UCiOPPAw9e2Fj-i2uMNpoRNQ
 1073	떡 Life 44	드렁큰 타이거 Drunken Tiger	Drunken Tiger X : Rebirth Of Tiger JK	INDIFFERENT	3:28	fieKv3Y9qMw	MPREb_Lu6NglYAanI	UCuiRLdxTb2O_vZzLVUrbO8Q
 266	Blind	yU	The Earn	INDIFFERENT	4:26	5XrE2xQMZBY	MPREb_86qWXOe56Fj	UCPgG4dLhPi-EMER-ZYzmLhQ
@@ -221,9 +222,9 @@
 969	Dysfunctional	Tech N9ne Collabos	Sickology 101	INDIFFERENT	4:01	El_ZJPMBKPU	MPREb_tYO3MpwiM9O	UCLwidgAHfe33RbVKAaFUtMA
 936	Am I A Psycho	Tech N9ne	All 6's And 7's	INDIFFERENT	4:05	cDUaRsRVDXA	MPREb_I277TivTv1U	UCLwidgAHfe33RbVKAaFUtMA
 1476	Like Yeah	Tech N9ne	Killer	INDIFFERENT	4:19	2pHkqfg5ywg	MPREb_KICxq9Dq01c	UCLwidgAHfe33RbVKAaFUtMA
+1485	Suicide Letters	Tech N9ne	Anghellic	INDIFFERENT	4:07	nKJ9-ofu2LI	MPREb_Ah0Er7jWio5	UCLwidgAHfe33RbVKAaFUtMA
 1577	Speedom (Wwc2) (feat. Eminem & Krizz Kaliko)	Tech N9ne	Special Effects	INDIFFERENT	4:56	yR6dmbHnFBo	MPREb_hYQ22g3xQ5t	UCLwidgAHfe33RbVKAaFUtMA
 1596	Demons	Tech N9ne	K.O.D.	INDIFFERENT	5:22	xrMTO3CerS0	MPREb_EG8EQgbwwee	UCLwidgAHfe33RbVKAaFUtMA
-1485	Suicide Letters	Tech N9NE	Anghellic	INDIFFERENT	4:07	yx8IbmkZGl4	MPREb_fcggaV722ex	UCLwidgAHfe33RbVKAaFUtMA
 1501	Put You on Game (feat. Pizzle)	Tayyib Ali	Keystone State of Mind 3	INDIFFERENT	3:58	0XEjto4yeJk	MPREb_l0jsbbnzmHj	UC3pqp30QERqEVjIrHSHNFUw
 259	Get By Side B (Remix) (feat. Jay Z, Snoop Dogg & Busta Rhymes)	Talib Kweli	Get By (Remix)	INDIFFERENT	4:49	TfsA3raLpQE	MPREb_vXFSu6KB8tg	UCLo1sb-d-otnCX8sIwaDSlg
 660	Ms. Hill	Talib Kweli	Right About Now	INDIFFERENT	3:45	T2Wr8VxBhCE	MPREb_G4IhMgLqPgn	UCLo1sb-d-otnCX8sIwaDSlg
@@ -413,7 +414,7 @@
 68	Knuckleheadz (feat. Ghostface Killah & U-God)	Raekwon	Only Built 4 Cuban Linx...	INDIFFERENT	4:04	VXuwljCWZMU	MPREb_Z2U9PujcM92	UC5xA-S_yp5X9nRWM8d-Iheg
 691	Rainy Dayz (feat. Ghostface Killah & Blue Raspberry)	Raekwon	Only Built 4 Cuban Linx...	INDIFFERENT	6:03	J-INKGFuKas	MPREb_Z2U9PujcM92	UC5xA-S_yp5X9nRWM8d-Iheg
 225	Tragedy	RZA	Wu-Chronicles	INDIFFERENT	3:49	ipfK3GnqVP0	MPREb_Q8JRDvY62OL	UCS9E7hCpXnbB-UFlLXgGC6g
-1231	Bounce To This	RBL Posse	Ruthless By Law	INDIFFERENT	5:14	t7W5u-14HOM	MPREb_5FHRLJclDwb	UCcN-uJbqmXf1E0NljTO2RmQ
+1231	Bounce To This	RBL Posse	Ruthless By Law	INDIFFERENT	5:13	8bfL-PzVw-o	MPREb_5FHRLJclDwb	UCcN-uJbqmXf1E0NljTO2RmQ
 798	One Man	R.Kelly	R.	INDIFFERENT	4:57	hHiqhxLkEZ4	MPREb_M31wOdfH3HY	UCNRcoQxfabvUAULNbIy7qPg
 156	Posse Cut	R.A. The Rugged Man	Legendary Classics, Vol. 1	INDIFFERENT	3:45	Z3Efx2kGGC4	MPREb_nnrgaQm1Gq5	UCaLZevFQ5eVCAxoXDH99KoQ
 186	Learn Truth	R.A. The Rugged Man	Legends Never Die	INDIFFERENT	3:17	ADtqTRoyvHM	MPREb_hWOVzxZaEYt	UCaLZevFQ5eVCAxoXDH99KoQ
@@ -746,7 +747,6 @@
 680	FRIENDS	LAUNDRY DAY	HOMESICK	INDIFFERENT	4:27	LWe8DuLPuTc	MPREb_sExIyD7gVsL	UCZQn8N_kGgCxwNG5KWKraNw
 1401	"The Hanging Tree (From ""The Hungergames: Mockingjay Pt. 1"")"	L'Orchestra Cinematique	Lights, Camera, Action - Sounds of the Best Movie Trailers of 2015, Vol.1	INDIFFERENT	3:40	h3De-rfGztQ	MPREb_vhSfFHCNJp4	UCcPMBtHAH2sdknWzpegq82w
 1149	Higher Power	Kyle Bent	Dreams of a God	INDIFFERENT	3:52	kdKwqa5bCiw	MPREb_5pe0tmem1ro	UC-f_Dk0EMAIxfdU7mB455Pw
-1156	Gods & Goddesses	Kyle Bent	I Am Possibility	INDIFFERENT	3:20	QwLRD124RQ4	MPREb_unWXsKQXpbR	UC-f_Dk0EMAIxfdU7mB455Pw
 1334	The Hardest Mutha F**as (feat. Nate Dogg, MC Ren & Xzibit)	Kurupt, Jason Schweitzer, Sean Cruse, and Fredwreck Nassar	Space Boogie: Smoke Oddessey (Clean Version) [Digitally Remastered]	INDIFFERENT	4:32	Z_unireVYME	MPREb_gkQSiqmUu0u	
 1398	On Da Grind (feat. Daz Dillinger)	Kurupt	Space Boogie: Smoke Oddessey (Digitally Remastered)	INDIFFERENT	3:41	MNj_l_UtLy8	MPREb_VYVYI5M75Af	UCTfM0xgkmOoEuYGnF7VZtrg
 1324	Jump	Kris Kross	Totally Krossed Out	INDIFFERENT	3:16	MS9qGfK3Z30	MPREb_h1PYYa0SJ0v	UCfwHdXXgvtTR6YCLlUIT8Lw
@@ -962,7 +962,6 @@
 1609	Bye Storm	Injury Reserve	By the Time I Get to Phoenix	INDIFFERENT	3:41	CB3lPJcV_qo	MPREb_zHVKbWtu7oO	UCLkVL4AEzj8c9lHBjuW5v8w
 937	Here Comes the Hotstepper (Heartical Mix)	Ini Kamoze	Here Comes The Hotstepper	INDIFFERENT	4:11	KP3sd-Fyw0s	MPREb_vIubGcPxJPf	UCxrEwvylUGOk_3pvGZrAiyA
 519	Positive Balance (feat. BigZoo)	Immortal Technique	Revolutionary, Vol. 1	INDIFFERENT	3:18	SgVP0X3YUrc	MPREb_FDs9I0wCkha	UCYWdn8GKtpvhc0DmcTQjG_w
-603	Dominant Species	Immortal Technique	Revolutionary, Vol. 1 (Bonus Edition)	INDIFFERENT	3:48	SP7TNzYuAEM	MPREb_yaJvE9vqrj1	UCYWdn8GKtpvhc0DmcTQjG_w
 740	Peruvian Cocaine (feat. Tonedeff, Pumpkinhead, Poison Pen & Loucipher)	Immortal Technique	Revolutionary Vol. 2	INDIFFERENT	4:49	ZPncMw5oWZs	MPREb_Xu7lfyyzNN4	UCYWdn8GKtpvhc0DmcTQjG_w
 408	I Don’t Know Why	Imagine Dragons	Evolve	INDIFFERENT	3:11	TGXlWQQthFg	MPREb_q16Gzaa1WK8	UC0aXrjVxG5pZr99v77wZdPQ
 1429	God Bless Your Life	Ill Biskits	Chronicle Of Two Losers	INDIFFERENT	4:23	gDjY4EHHhJY	MPREb_qA646M3Javj	UCr1Lt_BJlkK2aRQ2DwN6pPw
@@ -1632,6 +1631,7 @@
 972	Gang Stories	South Central Cartel	'N Gatz We Truss		4:49	rtWfTyfOGLw		
 1146	No Big Ting	Skinnyman	Council Estate Of Mind		4:14	0hOX6IdAoQQ		
 993	4 Horsemen (192 n' It)	Phife Dawg	Ventilation: Da LP		4:22	Ri5t33RqNUY		
+1156	Gods & Goddesses	Kyle Bent	I Am Possibility		3:20	QwLRD124RQ4		
 484	Cartoon	Kendrick Lamar	Mo Thugs Records Presents: West Coast Bangers, Vol. 2		6:39	a2x6POG3myo		
 1566	Guud Joke (Post Faith Dialogues)	Joshua Virtue	Post Faith Dialogues		3:12	tpdHqW6SUVE		
 1244	Innovations	2Rude	2Rude (Rudimental 2K Remastered)		4:50	pxlbANcqYaQ		
