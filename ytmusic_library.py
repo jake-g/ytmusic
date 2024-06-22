@@ -167,8 +167,8 @@ class YTMusicPlaylists:
         if len(res) == 0:
             print(f'No playlist with {col}: {value}')
         elif len(res) > 1:
-            print(f'Multiple matches for: {value},',
-                  f'choosing first result of:\n {res}')
+            print(f'Multiple matches for: {value}, choosing',
+                  f'first result of:\n {res[['title','count']]}')
         return res.iloc[0]
 
     def get_playlists_by_privacy(self, privacy='PUBLIC',
@@ -246,7 +246,7 @@ class YTMusicPlaylists:
         like_impacted_playlists = []
         new_likes = set()
         skip_not_like = set()
-        print('Processing LIKE tracks (takes ~4 minutes)')
+        print('Processing LIKE tracks (takes ~8 minutes)')
         for fuzzy_track_id in like_fuzzy_ids:
             matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
             if not len(matches):
@@ -269,7 +269,7 @@ class YTMusicPlaylists:
         not_like_impacted_playlists = []
         new_not_likes = set()
         skip_is_like = set()
-        print('\nProcessing NOT LIKE tracks (takes ~1 minute)')
+        print('\nProcessing NOT LIKE tracks (takes ~3 minutes)')
         for fuzzy_track_id in not_like_fuzzy_ids:
             matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
             if not len(matches):
