@@ -1,6 +1,8 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 285	(They Found Me On The Back Of) The Galaxy	The Intelligence	Everybody's Got It Easy But Me	LIKE	2:40	JoslfS6t5cw	MPREb_KOK1YgwKyHr	UCKCzvjSNp3Z6AZJzjqv7Y2w
+160	The Flop	The Black Angels	Clear Lake Forest	LIKE	3:00	uMj3KOT81VE	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 298	Bailando Con Lobos	Natural Child	Dancin' With Wolves	LIKE	2:24	Fmv3YWxJW2Q	MPREb_BGrK5uSClFZ	UCt5rALPKongoXyF78YyVatA
+236	Go Ahead	Gap Dream	Gap Dream	LIKE	2:23	3M__g6EYWv4	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
 25	Make Myself True	together PANGEA	Badillac	INDIFFERENT	2:14	9tVJcTCFY_Y	MPREb_9X95prCu7qx	UC2Q2RKH9tZTlbay8K5tW6NQ
 178	Bills	grandson	Bills	INDIFFERENT	2:43	kqNx1EaUdt8	MPREb_JdiTrlA3bGd	UCvVLbhrgq8TS_Yw3gkFIZUg
 148	Holing Out	Yuck	Yuck	INDIFFERENT	4:11	hYJz-Z2FRyM	MPREb_gagsFmY1Nwa	UCqSWMyPkaN3g7vnZ6YMhoJA
@@ -105,7 +107,6 @@
 191	Summer of Love	The Fresh & Onlys	Play It Strange	INDIFFERENT	3:22	fP5vhQAQ87A	MPREb_MWSBBqGCdNf	UCKScTnwz0EnVjp1JIdWqAFw
 313	Crimson Telephone	The Coathangers	The Devil You Know	INDIFFERENT	3:10	D21lhuZEU9Q	MPREb_pA9qBUv0fD7	UCtBrl9KG4JF-nCYSuSjFAsg
 90	Tired Eyes	The Black Angels	Clear Lake Forest	INDIFFERENT	3:31	3fuo9HBKVbo	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
-160	The Flop	The Black Angels	Clear Lake Forest	INDIFFERENT	3:00	uMj3KOT81VE	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 183	The Executioner	The Black Angels	Clear Lake Forest	INDIFFERENT	3:36	iMUZyKiWW9o	MPREb_FjKz9DCVnjt	UCdMCMtXUYb-9gvK1srSECuQ
 237	I'd Kill for Her	The Black Angels	I'd Kill for Her	INDIFFERENT	3:38	XAxRatQ6aYk	MPREb_hn6M2x72KQm	UCdMCMtXUYb-9gvK1srSECuQ
 72	All Things Come to Pass	The Babies	The Babies	INDIFFERENT	2:26	tJFzXBIUhII	MPREb_iek903tKmwJ	UCWgO0ZFCjfc3Zu2dF3Evutw
@@ -228,7 +229,6 @@
 99	Feast of the First Morning	Gap Dream	Gap Dream	INDIFFERENT	3:36	jUUAw2mtDy4	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
 106	Heart	Gap Dream	Gap Dream	INDIFFERENT	3:26	7x9UwGe0jvo	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
 132	My Other Man	Gap Dream	Gap Dream	INDIFFERENT	4:42	SCJohVFtbTs	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
-236	Go Ahead	Gap Dream	Gap Dream	INDIFFERENT	2:23	3M__g6EYWv4	MPREb_igKtImIXXuJ	UCq6zO6Ov4G390wqvchRFoew
 5	New Flesh	Fuzz	II	INDIFFERENT	2:32	twrwwZG_cR8	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
 10	Red Flag	Fuzz	II	INDIFFERENT	1:49	Ne5zmacID2A	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
 110	Time Collapse II / The 7th Terror	Fuzz	II	INDIFFERENT	7:06	l_LXWZv9Fho	MPREb_YXLuTrpvifM	UCZ5wcF_rfHH6bgLejJjqFMw
@@ -302,7 +302,7 @@
 288	Dirty Hands	Black Lips	Let It Bloom	INDIFFERENT	2:06	YqoEQCup4BY	MPREb_Ddx6z64VPjv	UClAClLwMYeeJS28cid9HkSw
 290	Dog Years	Black Lips	Underneath the Rainbow	INDIFFERENT	3:17	H0IMBV2kAuU	MPREb_l92cy7IENsE	UClAClLwMYeeJS28cid9HkSw
 294	Bad Kids	Black Lips	Good Bad Not Evil	INDIFFERENT	2:09	hG-_cZ2fN5o	MPREb_5dwfK34OuV6	UClAClLwMYeeJS28cid9HkSw
-300	Meltdown	Black Lips	200 Million Thousand	INDIFFERENT	7:42	Mx2GAq1Ftlo	MPREb_Jim8qyQ2WKh	UClAClLwMYeeJS28cid9HkSw
+300	Meltdown	Black Lips	200 Million Thousand	INDIFFERENT	4:23	Mx2GAq1Ftlo	MPREb_Jim8qyQ2WKh	UClAClLwMYeeJS28cid9HkSw
 302	Can't Dance	Black Lips	Let It Bloom	INDIFFERENT	1:53	4SURzUNXfE4	MPREb_Ddx6z64VPjv	UClAClLwMYeeJS28cid9HkSw
 303	Can't Hold On	Black Lips	Satan's Graffiti or God's Art?	INDIFFERENT	4:53	tEg1HalDMyI	MPREb_u4tHiLvSx4X	UClAClLwMYeeJS28cid9HkSw
 307	Make You Mine	Black Lips	Underneath the Rainbow	INDIFFERENT	2:20	e3qurbksdNY	MPREb_l92cy7IENsE	UClAClLwMYeeJS28cid9HkSw
