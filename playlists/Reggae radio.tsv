@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
 1168	Reggae Shark	The Key of Awesome	The Key of Awesome	LIKE	2:25	hx8KBlYXNeA	MPREb_QKItIvJfM48	UCkbrNTDwV8ZvFIaAQpXatAw
+475	Drum Song Dub	Scientist	Scientific Dub	LIKE	3:43	Egt-V3MOCb8	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
+89	Cry Blood Africa (2002 Remastered Version)	Burning Spear	Hail H.I.M	LIKE	5:02	wZSaTiGr_MM	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
 222	Christmas Rainbow	king brillo	One Love Christmas	INDIFFERENT	4:43	3jMmV6AIYs8	MPREb_eU41rrWsNuH	UCc8Ve2gAF3we5avWZxRZ9AA
 260	Dreadlocks Santa	king brillo	One Love Christmas	INDIFFERENT	3:01	uZ58GZyJURA	MPREb_eU41rrWsNuH	UCc8Ve2gAF3we5avWZxRZ9AA
 337	Comfort And Joy	king brillo	One Love Christmas	INDIFFERENT	3:00	59AHyaApiAE	MPREb_eU41rrWsNuH	UCc8Ve2gAF3we5avWZxRZ9AA
@@ -38,7 +40,7 @@
 218	Armagideon Time	Willie Williams	Armagideon Time	INDIFFERENT	5:08	JMj1FSF9Rqg	MPREb_7jibHW8EjEk	UCX0hJYgH4qOGTkxb4CysCVQ
 957	Waterfall	Willie K	The Uncle In Me Volume 1	INDIFFERENT	5:39	RDqmQP5ELlI	MPREb_7FEg3ZqopbE	UCQFxRIoatCqB-pzyUaDdgeQ
 1001	Boasty (feat. Idris Elba)	Wiley	Boasty	INDIFFERENT	2:58	pgO3lfceb3o	MPREb_XdUDwQeZPe2	UCbqpQaop91HIa08tTGzhOjQ
-1000	Mama (Wicked Dub Division Meets North East Ska Jazz Orchestra)	Wicked Dub Division	Mama (Wicked Dub Division Meets North East Ska Jazz Orchestra)	INDIFFERENT	6:13	4rMFqNVoI6A	MPREb_9o83KA4M3z6	UCQYxHCnW4l9Pi3FdJwW5P5Q
+1000	Mama (Wicked Dub Division Meets North East Ska Jazz Orchestra)	Wicked Dub Division	Mama (Wicked Dub Division Meets North East Ska Jazz Orchestra)	INDIFFERENT	6:13	4rMFqNVoI6A	MPREb_9o83KA4M3z6	UCiZQRcSgEgbc3pmPlzJrQSg
 403	Brimstone & Fire	Wayne Jarrett	Showcase, Vol. 1	INDIFFERENT	5:46	F7nOHGaB9RA	MPREb_5c1Vu242ecL	UCcSGfEEoMRL25g9VL3Ay91Q
 904	Rough Road	Warrior King	Virtuous Woman	INDIFFERENT	4:15	CzMsi5K611I	MPREb_4LoWBDPXGVR	UCCRqFfO-PndB11WccUi0b9w
 16	Very Well	Wailing Souls	Wild Suspense	INDIFFERENT	5:49	0DEJVZ4cVB4	MPREb_sglvH5DEEdG	UC8VbJdCv-Mj4YCtgfIjqLUw
@@ -190,8 +192,8 @@
 303	Lightning & Thunder	The Aggrolites	The Aggrolites	INDIFFERENT	3:40	B_C6dFiOxGc	MPREb_lm9xcLklcDT	UCplEMNdOvU2De0GHT6NM1vA
 454	Love Isn't Love	The Aggrolites	The Aggrolites	INDIFFERENT	3:50	ARkuWHZhvpc	MPREb_lm9xcLklcDT	UCplEMNdOvU2De0GHT6NM1vA
 652	Dirty Reggae	The Aggrolites	Dirty Reggae	INDIFFERENT	12:36	oHf-yETfKlk	MPREb_t09xR4omosp	UCplEMNdOvU2De0GHT6NM1vA
-967	Countryman Fiddle (Live)	The Aggrolites	Unleashed Live Vol. 1	INDIFFERENT	3:43	-E_X-QYCf3g	MPREb_4YxixVZ4MHR	UCplEMNdOvU2De0GHT6NM1vA
-976	Pop the Trunk (Live)	The Aggrolites	Unleashed Live Vol. 1	INDIFFERENT	3:24	n_uZVVvQU1c	MPREb_4YxixVZ4MHR	UCplEMNdOvU2De0GHT6NM1vA
+967	Countryman Fiddle [Live]	The Aggrolites	Unleashed Live Vol.1	INDIFFERENT	3:43	-E_X-QYCf3g	MPREb_4YxixVZ4MHR	UCplEMNdOvU2De0GHT6NM1vA
+976	Pop the Trunk [Live]	The Aggrolites	Unleashed Live Vol.1	INDIFFERENT	3:24	n_uZVVvQU1c	MPREb_4YxixVZ4MHR	UCplEMNdOvU2De0GHT6NM1vA
 1	I And I	The Abyssinians	Satta Massagana	INDIFFERENT	3:35	gZYyaBjGt0w	MPREb_L6zylNz4I3t	UCGN6v0VRG467JpG4Sv4d_ow
 60	African Race (Original Jamaican Mix)	The Abyssinians	Satta Massagana (Original Jamaican Mixes) [Deluxe Edition]	INDIFFERENT	2:59	DQZzfkL5oLE	MPREb_AYAiqDoKRAs	UCGN6v0VRG467JpG4Sv4d_ow
 256	There Is No End	The Abyssinians	Satta Massagana	INDIFFERENT	3:24	MluiLvXfoLA	MPREb_L6zylNz4I3t	UCGN6v0VRG467JpG4Sv4d_ow
@@ -281,7 +283,6 @@
 39	Satta Dread Dub	Scientist	Scientific Dub	INDIFFERENT	2:30	ugu_64TJ2go	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
 40	Every Dub Shall Scrub	Scientist	Scientific Dub	INDIFFERENT	3:42	IsIbxpXkOls	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
 219	Taxi to Baltimore Dub	Scientist	Scientific Dub	INDIFFERENT	4:02	JbVVNoM5DH0	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
-475	Drum Song Dub	Scientist	Scientific Dub	INDIFFERENT	3:43	Egt-V3MOCb8	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
 963	Sell My Old Clothes, I'm off to Heaven	Saves the Day	Ups & Downs: Early Recordings and B-Sides	INDIFFERENT	3:25	j9avnZVfv_I	MPREb_4ol93auiogy	UCT5AcCrJwHP8Z-8XRakP85g
 882	Really Like You (feat. Protoje)	Sara Lugo	Hit Me with Music	INDIFFERENT	3:47	-XgT2kjW8Bo	MPREb_pIiF8QBfEEQ	UCgnOV2qes3srZA__gwv637Q
 546	Heartbroken (feat. Chidoo)	Sanmi Thomas	Heartbroken	INDIFFERENT	3:29	NelYgG8VzNA	MPREb_oNXubP3ssHr	UCd4vshqaOT03kgQbuHRLLnw
@@ -326,7 +327,6 @@
 416	Feeling Alright (Live)	Rebelution	Live at Red Rocks	INDIFFERENT	8:20	a47_8cIdzns	MPREb_GMI2MbsOMBf	UCl2v9Z8injn08xrHZHQJ_hw
 473	Fire Night (Digitally Remastered)	Ravi Shankar	The Ravi Shankar Collection: Improvisations	INDIFFERENT	4:38	yv7uLg-NpBk	MPREb_NynrT4anh4h	UC881MyRqXqQIsRdMKTTp2PQ
 940	Zion Town (feat. Queen Sparrow)	Ras Sparrow	Zion Town	INDIFFERENT	5:11	GSA_kQzqHP0	MPREb_6etH5vZ6pmt	UClFowPTgx4QZMUugKINSowg
-21	Rebel	Raging Fyah	Rebel	INDIFFERENT	3:45	eziLR-e7JW8	MPREb_ULWYSQo8tWE	UCkTlhxNtNVCFDtza_t8YZ0Q
 108	Judgement Day	Raging Fyah	Judgement Day	INDIFFERENT	4:44	E-Q2Ghw_lz0	MPREb_6NsRV7llMow	UCkTlhxNtNVCFDtza_t8YZ0Q
 594	Rebel	Raging Fyah	Strictly The Best Vol. 58	INDIFFERENT	3:39	r0dNbE5NvCA	MPREb_86LoQ2fp0Ti	UCkTlhxNtNVCFDtza_t8YZ0Q
 1163	System Is the Vampire	Rafael Cardoso Reggae Revolution	System Is the Vampire	INDIFFERENT	5:59	T4ye4DwuZro	MPREb_aq6BeCyOAEy	UCCovSCsM6GdFQqmWLZd135A
@@ -741,6 +741,7 @@
 667	Slings and Arrows	Fat Freddy's Drop	Slings and Arrows	INDIFFERENT	4:35	7QU8K5gGEuE	MPREb_nFLIFI2CwNS	UCTWSECCIbBTB8TuJw2YzhLQ
 958	10 Feet Tall	Fat Freddy's Drop	BAYS	INDIFFERENT	5:26	HDrgzfbQlj0	MPREb_k9bUWEvqsY1	UCTWSECCIbBTB8TuJw2YzhLQ
 838	Rasta Got Soul	Fantan Mojah	Rasta Got Soul	INDIFFERENT	4:30	ZoOqL2_MoyY	MPREb_MsM97jZGfvz	UCVvG5TQhtEfglY_GqsK7e_g
+21	Rebel	F.Y.A.H.	Rebel	INDIFFERENT	3:45	eziLR-e7JW8	MPREb_ULWYSQo8tWE	UC6Fv86vPM0MPBKDh3g_lmKg
 530	Siren	Exco Levi	Siren	INDIFFERENT	3:25	oOTQ3hCEvbU	MPREb_FqvQ0SOHoAm	UCaF775cctRGRPGe6VbOhotw
 596	Strive	Exco Levi	Silly Walks Discotheque Presents Honey Pot Riddim	INDIFFERENT	3:56	PciUmZalq-U	MPREb_md7kJlewQKH	UCaF775cctRGRPGe6VbOhotw
 1090	Turn up Di Sound	Etana	Pamoja	INDIFFERENT	3:59	7-6R5aHbCHM	MPREb_WQTL7Ufu0bF	UCI_vBdI7dtiy55d1Ol5548Q
@@ -962,7 +963,6 @@
 1122	Blaze It (feat. Tony Curtis)	Burro Banton feat. Tony Curtis	Design Riddim Selection	INDIFFERENT	3:28	QULXg56WRAI	MPREb_mD2N2sOYCEJ	UCV2XyYSioMXE7vATeqCJUGQ
 38	Hail H.I.M (2002 Remastered Version)	Burning Spear	Hail H.I.M	INDIFFERENT	4:16	EUdCweRtqi8	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
 62	African Teacher (2002 Remastered Version)	Burning Spear	Hail H.I.M	INDIFFERENT	4:01	AFky4_XpB6c	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
-89	Cry Blood Africa (2002 Remastered Version)	Burning Spear	Hail H.I.M	INDIFFERENT	5:02	wZSaTiGr_MM	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
 114	Road Foggy (2002 Remastered Version)	Burning Spear	Hail H.I.M	INDIFFERENT	3:34	qGM2QaGPDhI	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
 382	Jah Is My Driver (2002 Remaster)	Burning Spear	Farover	INDIFFERENT	4:51	byVMVY1iLsE	MPREb_FOERD4MZ3bF	UCj6BL0eP3zmnQbbTI7GQ1NA
 464	Columbus (2002 Remastered Version)	Burning Spear	Hail H.I.M	INDIFFERENT	3:38	CZyTqj-vRrM	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
