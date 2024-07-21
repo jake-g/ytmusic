@@ -1,4 +1,6 @@
 	title	artist	album	likeStatus	duration	videoId	albumId	artistId
+1204	We Share Our Mothers' Health	The Knife	We Share Our Mothers' Health (Remixes)	LIKE	4:14	EtN95J2xiGo	MPREb_qJxeMm4GLHI	UCis1bLqVozucj8JQo1bLHHg
+1489	Silent Shout	The Knife	Silent Shout	LIKE	4:54	vVPf5_V5BVw	MPREb_9xpODuWzaUa	UCis1bLqVozucj8JQo1bLHHg
 57	Busy Child	The Crystal Method	Vegas	LIKE	7:25	U2TBfh5I0CE	MPREb_J9t7gPJWekN	UCvnLTMY2XQzMeD5wTgVGNhw
 943	Dark Planet	Groundislava	Endless Voyage	LIKE	3:19	SfkD5cADSzg	MPREb_srOGPgf61Sx	UCnPDB133a63J126svJRt5Xw
 295	Time Eater	Gold Panda	Good Luck and Do Your Best	LIKE	4:53	seApKW39vWk	MPREb_vwlAbrHkg66	UC68yNj_3xz9ppq6zAG_wESQ
@@ -206,8 +208,6 @@
 357	The Captain	The Knife	Silent Shout	INDIFFERENT	6:09	2eBvL3fYZRI	MPREb_9xpODuWzaUa	UCis1bLqVozucj8JQo1bLHHg
 731	A Tooth for an Eye	The Knife	Shaking the Habitual	INDIFFERENT	6:05	kRoWh8V4ARI	MPREb_TigHAOei6eY	UCis1bLqVozucj8JQo1bLHHg
 1029	Heartbeats	The Knife	Deep Cuts	INDIFFERENT	3:52	wo3s_tHVm2c	MPREb_evfREkHuWmA	UCis1bLqVozucj8JQo1bLHHg
-1204	We Share Our Mothers' Health	The Knife	We Share Our Mothers' Health (Remixes)	INDIFFERENT	4:14	EtN95J2xiGo	MPREb_qJxeMm4GLHI	UCis1bLqVozucj8JQo1bLHHg
-1489	Silent Shout	The Knife	Silent Shout	INDIFFERENT	4:54	vVPf5_V5BVw	MPREb_9xpODuWzaUa	UCis1bLqVozucj8JQo1bLHHg
 635	Aquatic Ambiance	The Greatest Bits	Donkey Kong Country	INDIFFERENT	4:27	SuSn_m9fuvA	MPREb_FQrj187BLU8	UCPo2bVAfTyhJuDWOd1zQ3jA
 801	Who Goes There	The Field	Who Goes There	INDIFFERENT	8:52	ueYa9zFfP6A	MPREb_HSLlC3rnSJo	UCkdZ71hG0wJUJdvRDBeBiwg
 1004	A Paw In My Face	The Field	From Here We Go Sublime	INDIFFERENT	5:25	QdJot7ibqk8	MPREb_Di9k9nEOkMp	UCkdZ71hG0wJUJdvRDBeBiwg
@@ -705,7 +705,7 @@
 278	Egoísta	Marvin & Guy	Egoísta	INDIFFERENT	7:09	MAk5uqDrOQ4	MPREb_o7sfOUNh7Jr	UC3J47zuTHcVXtwrr4mZ410g
 411	Glassbeadgames (8 Hours at Fabric Dub)	Martyn	Forgiveness EP (Beatport Exclusive Version)	INDIFFERENT	8:02	6_bamRGhTog	MPREb_NNfg3LqSvLT	UC_9lHaZ2EWGwPKXXV7LMPlQ
 1541	Body Music	Martyn	Angels EP	INDIFFERENT	5:51	GTyWuTE_CZE	MPREb_y0t0lLUjbU9	UCA3M1qlmm8k1VCPG3h_4dsA
-282	Mushrooms (Justin Martin Remix)	Marshall Jefferson vs. Noosa Heads	Tapes	INDIFFERENT	8:20	jMShaNKgKtg	MPREb_w5KT4QiX1Uy	UCySxET-YrlPNtYiWAnweMuA
+282	Mushrooms (Justin Martin Remix)	Marshall Jefferson vs. Noosa Heads	Tapes	INDIFFERENT	8:20	jMShaNKgKtg	MPREb_w5KT4QiX1Uy	UC8mYjsI9ZjkVjp5rmfSOqIQ
 66	Cedars	Marley Carroll	Sings	INDIFFERENT	5:13	JzWOcg82GwM	MPREb_rSrRqOPnvAX	UCJ1lXZMfjP0VeMyJ8n_PS6Q
 148	Woodwork	Marley Carroll	Sings	INDIFFERENT	4:26	kWq9x8FSyX4	MPREb_rSrRqOPnvAX	UCJ1lXZMfjP0VeMyJ8n_PS6Q
 479	Ice Cavern	Marley Carroll	Ice Cavern / Water Temple	INDIFFERENT	4:08	6MTAcqAp9ts	MPREb_OYjIYlwATOF	UCDUz7vAwuDB74CLIe2JPWqA
@@ -897,7 +897,7 @@
 14	Closed Circuit	Kaitlyn Aurelia Smith	Closed Circuit	INDIFFERENT	5:25	4hDGZY0_wTE	MPREb_H3EmVgaa4A4	UCgBYrIICTQWy3e731ZOdW6Q
 154	Have You Felt Lately?	Kaitlyn Aurelia Smith	Let's Turn It Into Sound	INDIFFERENT	3:55	WENODHwgcmM	MPREb_lPqnLL1X2pS	UCgBYrIICTQWy3e731ZOdW6Q
 1225	Is it Me or is it You?	Kaitlyn Aurelia Smith	Let's Turn It Into Sound	INDIFFERENT	6:27	nqvXpl3lPzo	MPREb_lPqnLL1X2pS	UCgBYrIICTQWy3e731ZOdW6Q
-131	Shallow	KRANE	Debris	INDIFFERENT	3:50	HnMKAKX33cc	MPREb_3vcwW9fgKeA	UCzxD3QmtPz2JHFcI1iWnyWg
+131	Shallow	KRANE	Debris	INDIFFERENT	3:50	yDkpIg-C5aY	MPREb_dWcDg5vyp5o	UCzxD3QmtPz2JHFcI1iWnyWg
 1351	Heart Breaker (Hood Joplin Dream Girl Edit) (feat. Hood Joplin)	KOREA TOWN ACID	Heart Breaker (Hood Joplin Dream Girl Edit)	INDIFFERENT	3:38	-jmM-HtRHng	MPREb_m2Mk79ScJZX	UCQFgRO_VsqeA-l68RSD7ULw
 1393	Trippy Staircase To Portal Wonderland	KOREA TOWN ACID	Trippy Staircase To Portal Wonderland	INDIFFERENT	5:18	5n8B1VdUUvk	MPREb_mBq7EPCdc6Y	UCQFgRO_VsqeA-l68RSD7ULw
 573	Looking at Your Pager	KH	Looking at Your Pager	INDIFFERENT	2:55	QuISX619On4	MPREb_0HA1Xbhfvd4	UCLNtq_dQmFbboSBxcTSQdag
@@ -1069,8 +1069,8 @@
 559	Viol	Gesaffelstein	Conspiracy Pt.2	INDIFFERENT	5:44	qYG0tKyz0lo	MPREb_tvaFZTQzBAl	UCq7VAQmXDurV-9VN2bSFXvw
 837	Destinations	Gesaffelstein	Aleph	INDIFFERENT	3:37	uGGcLJBkqHM	MPREb_w94nI1QINW6	UCq7VAQmXDurV-9VN2bSFXvw
 1061	Obsession	Gesaffelstein	Aleph	INDIFFERENT	4:10	g-3D9LQu8BQ	MPREb_w94nI1QINW6	UCq7VAQmXDurV-9VN2bSFXvw
-1289	Nav	Geotic	Abysma	INDIFFERENT	5:30	_Jad5LoTl98	MPREb_ZdZhnUix4ee	UCbRHwJMDFCPMZZ2wEbUgc5w
-1420	Actually Smiling	Geotic	Abysma	INDIFFERENT	4:55	PSmW9SQlwqw	MPREb_ZdZhnUix4ee	UCbRHwJMDFCPMZZ2wEbUgc5w
+1289	Nav	Geotic	Abysma	INDIFFERENT	5:30	_Jad5LoTl98	MPREb_ZdZhnUix4ee	UC9tsNLAp0wZgYzkrbxowBNQ
+1420	Actually Smiling	Geotic	Abysma	INDIFFERENT	4:55	PSmW9SQlwqw	MPREb_ZdZhnUix4ee	UC9tsNLAp0wZgYzkrbxowBNQ
 818	Bleed	George Clanton	100% Electronica	INDIFFERENT	5:06	NDccW28rI_0	MPREb_ELeHb1EmvW1	UCjZzBve8Jjk6tt9zlMDE_6g
 684	Bust the Way You Were (feat. Unravel)	Gangplans	Alca	INDIFFERENT	4:14	MTa7kHAjHls	MPREb_jLoGeDNoeoZ	UCa7_nAQ3593H426DB-aiexQ
 111	Midi Drift	Games	That We Can Play	INDIFFERENT	3:12	n1e4A-w0gMI	MPREb_7S6tqhL8YgP	UC3YZWi-7gY8rxu650aZPvsg
@@ -1479,8 +1479,8 @@
 334	Don't	Batu	Marius	INDIFFERENT	3:31	wuMASRXSnDU	MPREb_GXrG0qtZL2n	
 1441	False Reeds	Batu	False Reeds	INDIFFERENT	5:36	UZEOTfxPiU8	MPREb_hgQKt3yNabb	UCi4eLA0lKiInMFxqs0pOqZw
 913	Supernal	Baton	Supernal	INDIFFERENT	5:14	vbKiS3p76EI	MPREb_tygzGACaZ6e	UC8qn1OZk1wGpZxAvVg9FboQ
-835	Yeoman	Baths	Romaplasm	INDIFFERENT	4:29	XHgBOkBlijs	MPREb_jiPuZdmKOH0	UCoU3IHb9X8LSVlWnqV5SU7g
-1569	Worsening	Baths	Obsidian	INDIFFERENT	4:26	8GMP0_qo34A	MPREb_WLlBKWiM7EU	UCoU3IHb9X8LSVlWnqV5SU7g
+835	Yeoman	Baths	Romaplasm	INDIFFERENT	4:29	XHgBOkBlijs	MPREb_jiPuZdmKOH0	UC9tsNLAp0wZgYzkrbxowBNQ
+1569	Worsening	Baths	Obsidian	INDIFFERENT	4:26	8GMP0_qo34A	MPREb_WLlBKWiM7EU	UC9tsNLAp0wZgYzkrbxowBNQ
 629	Heirloom	Basenji	Heirloom	INDIFFERENT	3:29	YAXco7FQMf0	MPREb_lLYWy8YOEhX	UC4E_vAD7CBK7_N4yN0-s6zQ
 666	Sonder	Barry Can’t Swim	More Content	INDIFFERENT	3:02	8zyIoo5rKfA	MPREb_Ul7C091zvPJ	UCoIevyBHb_rq-bf16vbnd5A
 1012	Fiorucci Made Me Hardcore	Barry Can’t Swim	Fiorucci Made Me Hardcore	INDIFFERENT	3:52	8CYNUdJ1wXo	MPREb_v0M62GO9GRM	UCoIevyBHb_rq-bf16vbnd5A

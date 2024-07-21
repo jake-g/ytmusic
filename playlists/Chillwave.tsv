@@ -81,6 +81,7 @@
 359	Millennium (feat. The Mattson 2)	Toro y Moi	MAHAL	LIKE	3:02	Fg2hF8LtBiA	MPREb_E7OcSdUc56L	UCJikOjbf3VffCdLXTsbxfxg
 362	Rose Quartz	Toro y Moi	Anything in Return	LIKE	4:14	TOd_r4hBZJI	MPREb_Ws8ystnFNy4	UCJikOjbf3VffCdLXTsbxfxg
 334	Saudade	Thievery Corporation	Saudade	LIKE	2:09	GjyFhmj8eNA	MPREb_CODe4OFEXqz	UCqx8axYJOduerya_chK-8Ag
+270	Sweet Disposition	The Temper Trap	Conditions	LIKE	3:57	jh3UbW9Ik5c	MPREb_dGV6IrW0r4L	UCV_2v5GO67qe4l9Nr9OWkSQ
 249	The Guns of Brixton	The Clash	London Calling (Expanded Edition)	LIKE	3:10	G-n3YlWwhRU	MPREb_gGKGeAy3HOc	UCf-a_3DiA07vhQmoEaczDhw
 322	All I Wanna Do (Remastered 2009)	The Beach Boys	Sunflower	LIKE	2:37	aVis0FbvJsU	MPREb_8ihFAVDHeka	UCrnD8aXhy4oQMS0ITw471tA
 117	Spin Around, Go Ahead	Teen Daze	Four More Years	LIKE	5:16	O0QB7UtigxE	MPREb_fotgPg0Uagn	UCQetB-f80a1Hsy09kpGFbTQ
@@ -154,7 +155,6 @@
 361	Take Pills	Panda Bear	Person Pitch	LIKE	5:24	ggKdy2n_DXA	MPREb_MX339LXZ16a	UCB2qO9T8dkxOhIvZVqVkVcg
 207	Water Hymn	Painted Palms	Canopy	LIKE	3:47	kTacoC3RkkM	MPREb_WYnLbYfkdLX	UCJBqNIeHjHDNzVBvufdaCxg
 342	Sunset Club	POWER FAILURE	Sunset Club	LIKE	3:37	EDNRoofzNmY	MPREb_xgAhH59cDcJ	UC2_qaN5RZzaTxzBUhxGxFeQ
-236	Tuytus	ODESZA	Summer's Gone	LIKE	3:17	VuJXVHWv2ek	MPREb_DCpJbzZiBPd	UCqbIVM8TSSWcYmImtAltzlQ
 273	Try (feat. Toro Y Moi)	Nosaj Thing	Home	LIKE	4:03	zb2OQSuy0NE	MPREb_rNmu9osxi6a	UCg-Tm8zz9_VME3VvV9mVN0Q
 157	Ghost In My Head	Niva	Feverish Dreams	LIKE	2:31	lYfA-3gsk6I	MPREb_eHY1TzjOrEE	UCYOLNPEqcMjMDXUi12qzzZg
 132	Audity	Nitemoves	Themes	LIKE	2:58	eEnJvxD2yIw	MPREb_Lvg3Pha4zVG	UCc_nlDn_HsgZDVsOli5lgEw
@@ -352,9 +352,9 @@
 238	Lazuli	Beach House	Bloom	LIKE	5:02	9WVyA-D2aso	MPREb_OU2bcsbAHZH	UC785fnTclD2P2WQXRAt2BVg
 24	Fall Right In	Beach Fossils	What a Pleasure	LIKE	2:34	bG29qHi-Skg	MPREb_i34ExB9quy0	UCa3Tz2g-TF1oumK2paiC9yg
 25	Face It	Beach Fossils	What a Pleasure	LIKE	3:35	MKQvro4wb-4	MPREb_i34ExB9quy0	UCa3Tz2g-TF1oumK2paiC9yg
-23	Aminals	Baths	Cerulean	LIKE	3:19	DOe_MDaoLPc	MPREb_GHkuwn9Hryo	UCoU3IHb9X8LSVlWnqV5SU7g
-217	Lovely Bloodflow	Baths	Cerulean	LIKE	3:36	BLY6a43LXMQ	MPREb_GHkuwn9Hryo	UCoU3IHb9X8LSVlWnqV5SU7g
-365	Miasma Sky	Baths	Obsidian	LIKE	4:34	aICmHAAzW4I	MPREb_WLlBKWiM7EU	UCoU3IHb9X8LSVlWnqV5SU7g
+23	Aminals	Baths	Cerulean	LIKE	3:19	DOe_MDaoLPc	MPREb_GHkuwn9Hryo	UC9tsNLAp0wZgYzkrbxowBNQ
+217	Lovely Bloodflow	Baths	Cerulean	LIKE	3:36	BLY6a43LXMQ	MPREb_GHkuwn9Hryo	UC9tsNLAp0wZgYzkrbxowBNQ
+365	Miasma Sky	Baths	Obsidian	LIKE	4:34	aICmHAAzW4I	MPREb_WLlBKWiM7EU	UC9tsNLAp0wZgYzkrbxowBNQ
 312	Love Me Back, Clairo	Banzai Florist	Love Me Back, Clairo	LIKE	3:17	fS-W6Qe1Xe8	MPREb_SU2Gw9GPrwJ	UCastREuQxoh_b85sIuRFxhA
 75	Dream Out	Balam Acab	See Birds	LIKE	3:52	X_4MJeCKSdA	MPREb_zGxDCypVzPl	UCSLpYkbD5gUZavivFAJPYBA
 228	See Birds (Moon)	Balam Acab	See Birds	LIKE	3:49	PVNHdUFYQ-M	MPREb_zGxDCypVzPl	UCSLpYkbD5gUZavivFAJPYBA
@@ -362,7 +362,7 @@
 259	Big Boy	Balam Acab	See Birds	LIKE	4:32	UBfZXk8mzSg	MPREb_zGxDCypVzPl	UCSLpYkbD5gUZavivFAJPYBA
 276	La femme d'argent	Air	Moon Safari	LIKE	7:07	wLmfNFVDa_U	MPREb_n2c7cMLeLVP	UCH_Q3OLUXLZNF0qmnY3bCXg
 357	I need to paint my walls	A L E X	Chillhop Essentials Winter 2018	LIKE	2:44	fZCzsG1I9Ak	MPREb_DAtYyHzajvk	UCxKz9U1KX4hFCALANoPncVA
-270	Sweet Disposition	The Temper Trap	Conditions	INDIFFERENT	3:57	jh3UbW9Ik5c	MPREb_dGV6IrW0r4L	UCV_2v5GO67qe4l9Nr9OWkSQ
+236	Tuytus	ODESZA	Summer's Gone (10 Year Anniversary Edition)	INDIFFERENT	3:16	XyjOc7KA9So	MPREb_N0A51qQVxBt	UCqbIVM8TSSWcYmImtAltzlQ
 300	Young & Fun	Unnderstated	Young & Fun		3:21	QAJ6MpoCxm0		
 319	Emotionless	J'san	Nostalgic 3		2:48	-3XD-5x3UP4		
 81	Still Sleeping	Chrome Sparks	Zappruder Collection #1		4:24	VYxBvy-5zxg		
