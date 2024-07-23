@@ -186,6 +186,22 @@ class YTMusicPlaylists:
                 out_playlists.append(p)
                 print(f'Found {privacy.lower()} playlist named: {p["title"]}')
         return pd.concat(out_playlists)
+    
+    def rename_playlist(self, playlist_id, new_name):
+        """Renames a playlist on YouTube Music given its ID."""
+        try:
+            self.yt.edit_playlist(playlistId=playlist_id, title=new_name)
+            print(f"Renamed playlist with ID '{playlist_id}' to '{new_name}'")
+        except Exception as e:
+            print(f"Error renaming playlist with ID '{playlist_id}': {e}")
+            
+    def find_playlists_with_special_chars(self, special_chars=["_", "/", ".", ":", ","]):
+        """Prints playlists containing any of the specified special characters."""
+        for i, row in self.playlists.iterrows():
+            playlist_name = row['title']
+            if any(char in playlist_name for char in special_chars):
+                print(f"Playlist: {playlist_name} has a",
+                      f"special character in {special_chars}.")
 
     def get_playlist_counts(self, verbose=False, filter_title=None):
         count_df_cols = ['title', 'track_count',
