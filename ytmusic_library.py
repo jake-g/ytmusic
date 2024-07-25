@@ -45,7 +45,7 @@ PLAYLIST_METADATA_TSV_COLS = [
 LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
 
 # LIKE subset
-LIKE_TOKS = ['thumbs_up', ' like', '_like', ' likes', ' top']
+LIKE_TOKS = ['thumbs up', ' like', '_like', ' likes', ' top']
 LIKE_TRACKS_TSV_FILE = '_liked_tracks.tsv'
 
 # NOT LIKE subset
@@ -57,7 +57,7 @@ RADIO_TOKS = [' radio', '_radio', '_indifferent']
 RADIO_TO_LIKE_MAP_FILE = '_ytmusic_radio_to_like_pl_map.tsv'
 # Other subsets
 SKIP_STARTS_WITH_TOKS = ['zz']
-ALBUM_TOKS = ['_albums', '  album']
+ALBUM_TOKS = ['_albums', '  album', 'albums']
 
 # For get_like_not_like_tracks_to_review()
 MANUALLY_RATED_TSV_FILE = '_ytmusic_new_like_and_not_like_manual_rated.tsv'
@@ -168,7 +168,7 @@ class YTMusicPlaylists:
             print(f'No playlist with {col}: {value}')
         elif len(res) > 1:
             print(f'Multiple matches for: {value}, choosing',
-                  f'first result of:\n {res[['title','count']]}')
+                  f'first result of:\n {res[['title', 'count']]}')
         return res.iloc[0]
 
     def get_playlists_by_privacy(self, privacy='PUBLIC',
@@ -186,7 +186,7 @@ class YTMusicPlaylists:
                 out_playlists.append(p)
                 print(f'Found {privacy.lower()} playlist named: {p["title"]}')
         return pd.concat(out_playlists)
-    
+
     def rename_playlist(self, playlist_id, new_name):
         """Renames a playlist on YouTube Music given its ID."""
         try:
@@ -194,7 +194,7 @@ class YTMusicPlaylists:
             print(f"Renamed playlist with ID '{playlist_id}' to '{new_name}'")
         except Exception as e:
             print(f"Error renaming playlist with ID '{playlist_id}': {e}")
-            
+
     def find_playlists_with_special_chars(self, special_chars=["_", "/", ".", ":", ","]):
         """Prints playlists containing any of the specified special characters."""
         for i, row in self.playlists.iterrows():
@@ -426,7 +426,7 @@ class YTMusicPlaylists:
             if verbose:
                 print(f'Loaded {self._playcount_map["lastfm_playcount"].sum()}',
                       f'playounts from {len(self._playcount_map)} tracks')
-        pl_str =  f'{pl_info["title"]} [{DATE}]'
+        pl_str = f'{pl_info["title"]} [{DATE}]'
         tracks = pd.DataFrame(pl_info.get('tracks', None))
         tracks = tracks.set_index('videoId', drop=True)
         desc = f'generated sorting by lastfm playcount for {pl_str}'
@@ -630,10 +630,15 @@ class YTMusicPlaylists:
             # Query playlist tracks and other metadata
             p_info = self.playlist_get_info(
                 p.playlistId, playlist_limit=self.playlist_limit)
-            if 'tracks' not in p_info:
-                pl_ct['playlist_is_empty'] += 1
-                print(f'SKIPPING playlist: {p.title} No "tracks" key in playlist')
-                continue                
+            if 'tracks' not in p_info:  # try without cache
+                p_info = self.playlist_get_info(
+                    p.playlistId, playlist_limit=self.playlist_limit, use_cache=False)
+                if 'tracks' not in p_info:
+                    pl_ct['playlist_is_empty'] += 1
+                    print(f'SKIPPING playlist: {
+                          p.title} No "tracks" key in playlist')
+
+                continue
             if p_info['trackCount'] == 0:
                 pl_ct['playlist_is_empty'] += 1
                 print(f'SKIPPING playlist: {p.title} No tracks in playlist')
@@ -676,10 +681,11 @@ class YTMusicPlaylists:
                                              radio_playlist_max_like_pct):
                 pl_ct['playlist_kind_not_ok'] += 1
                 print(f'WARNING NOT OK playlist: {p.title} of kind {pl_kind}',
-                      f'({like_percent}% liked) has: {len(ratings["LIKE"])} likes,',
-                      f'{len(ratings["DISLIKE"])} dislikes,',
-                      f'{len(ratings["INDIFFERENT"])} indifferent,',
-                      f'{len(ratings["NONE"])} none')
+                      f'({like_percent}% liked) has: {
+                    len(ratings["LIKE"])} likes,',
+                    f'{len(ratings["DISLIKE"])} dislikes,',
+                    f'{len(ratings["INDIFFERENT"])} indifferent,',
+                    f'{len(ratings["NONE"])} none')
 
             # Potentially alter playlist, or generate new playlists
             if do_dry_run:
@@ -715,14 +721,14 @@ class YTMusicPlaylists:
         pl_ct = pd.DataFrame.from_dict(dict(pl_ct), orient='index')
         pl_ct.columns = ['count']
         print(f'Final Playlist Cleanup Counters:\n{pl_ct}')
-        
 
         like_results = pd.DataFrame(like_results).T
-        if 'track_rated'in like_results.columns:
-            like_results = like_results.sort_values('track_rated', ascending=False)
+        if 'track_rated' in like_results.columns:
+            like_results = like_results.sort_values(
+                'track_rated', ascending=False)
 
         radio_results = pd.DataFrame(radio_results).T
-        if 'moved_like'in like_results.columns:
+        if 'moved_like' in like_results.columns:
             radio_results = radio_results.sort_values('moved_like')
         radio_results['total_changes'] = radio_results.sum(axis=1)
         radio_results = radio_results.sort_values(
@@ -827,6 +833,8 @@ class YTMusicPlaylists:
     def _playlist_is_like(self, name, like_toks=LIKE_TOKS):
         name = name.lower()
         if name.startswith('_'):
+            return False
+        if name.endswith('albums'):
             return False
         if self._playlist_is_not_like(name):
             return False
@@ -1031,6 +1039,8 @@ class YTMusicPlaylists:
             tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
             like_tracks.append(tracks_db_liked)
             liked_percent = 100 * len(tracks_db_liked) / len(track_df)
+            if liked_percent < 80:
+                print('\nWARNING: Low Like Percentage!')
             print(f'{pl}\t{liked_percent:0.1f}% currently liked '
                   f'(of {len(track_df)} total tracks)')
         like_tracks = pd.concat(
