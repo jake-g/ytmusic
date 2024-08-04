@@ -1,17 +1,17 @@
-	title	artist	album	likeStatus	duration	videoId	albumId	artistId
-13	A Message to You Rudy (2002 Remaster)	The Specials	The Specials (2002 Remaster)	LIKE	2:53	I9U-tXagwRQ	MPREb_HpbyjWAyTLR	UC2_ZQJKkRF9GapgwTMd_LMw
-7	Bad Habit	The Offspring	Smash	LIKE	3:44	U43XOSiKfqM	MPREb_87HJirZa1Nw	UCQVUXQu8RpxhihAMla6ke5A
-3	Punk Rock Girl	The Dead Milkmen	Beelzebubba	LIKE	2:39	R_dXMrssU_o	MPREb_QHEv8K4MWO2	UCOYipWzmTbD4tdLATYO4c4A
-5	Should I Stay or Should I Go	The Clash	Combat Rock	LIKE	3:09	wjZMcWaniA4	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
-6	Spanish Bombs	The Clash	London Calling	LIKE	3:19	KuKtSzqx9i8	MPREb_yeJ9gspPXeL	UCf-a_3DiA07vhQmoEaczDhw
-9	Straight to Hell	The Clash	Combat Rock	LIKE	5:31	nC-qw4BkDwI	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
-10	The Guns of Brixton	The Clash	London Calling	LIKE	3:13	kyfxGusQPjE	MPREb_yeJ9gspPXeL	UCf-a_3DiA07vhQmoEaczDhw
-11	Police & Thieves	The Clash	The Clash	LIKE	6:04	0KVFn2uSAjk	MPREb_jhrJcXFREuw	UCf-a_3DiA07vhQmoEaczDhw
-4	I Wanna Be Sedated (2002 Remaster)	Ramones	Road to Ruin (Expanded 2005 Remaster)	LIKE	2:30	8O9P5Us_eVo	MPREb_y2MFa9SrHGm	UCXYTNaRC13Mc0muUaYDrT9g
-14	Beat on the Brat	Ramones	Mania	LIKE	2:33	_S2Cr2qJEko	MPREb_zyzkAF64C9P	UCXYTNaRC13Mc0muUaYDrT9g
-15	I Wanna Be Sedated	Ramones	Mania	LIKE	2:31	l0usV_kf-Zc	MPREb_zyzkAF64C9P	UCXYTNaRC13Mc0muUaYDrT9g
-0	Last Caress	Misfits	Collection 2	LIKE	2:00	UuzA4U1njO8	MPREb_wZTuNDKzbzV	UCUAa1fv7JsIFuBUWtH0ZaOA
-1	The Ocean (Remaster)	Led Zeppelin	Houses of the Holy (Deluxe Edition)	LIKE	4:32	H8bVaTW6UCU	MPREb_DY6DlruwzRd	UCYtap7ujIPaxTS2iCDoMi3g
-8	The Wait (2005 Digital Remaster)	Killing Joke	Killing Joke	LIKE	3:42	zfO3waEOU2o	MPREb_rYT2qj0sGL3	UCpeXRNHIht_B4pCfCcxSW3A
-12	Waiting Room	Fugazi	13 Songs	LIKE	2:54	C3LXkdpHNOQ	MPREb_W9EVYTHez1o	UC2cjwtJB5rzpMetjDlnjGHg
-2	Politicians In My Eyes	Death	…For The Whole World To See	LIKE	5:51	KLN7JQZB_kE	MPREb_rj94FlIFMd6	UCvtq4GkuRfYc8IUwmJ4bv_Q
+	title	artist	album	likeStatus	videoId	albumId	artistId
+13	A Message to You Rudy (2002 Remaster)	The Specials	The Specials (2002 Remaster)	LIKE	I9U-tXagwRQ	MPREb_HpbyjWAyTLR	UC2_ZQJKkRF9GapgwTMd_LMw
+7	Bad Habit	The Offspring	Smash	LIKE	U43XOSiKfqM	MPREb_87HJirZa1Nw	UCQVUXQu8RpxhihAMla6ke5A
+3	Punk Rock Girl	The Dead Milkmen	Beelzebubba	LIKE	R_dXMrssU_o	MPREb_QHEv8K4MWO2	UCOYipWzmTbD4tdLATYO4c4A
+5	Should I Stay or Should I Go	The Clash	Combat Rock	LIKE	wjZMcWaniA4	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
+6	Spanish Bombs	The Clash	London Calling	LIKE	KuKtSzqx9i8	MPREb_yeJ9gspPXeL	UCf-a_3DiA07vhQmoEaczDhw
+9	Straight to Hell	The Clash	Combat Rock	LIKE	nC-qw4BkDwI	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
+10	The Guns of Brixton	The Clash	London Calling	LIKE	kyfxGusQPjE	MPREb_yeJ9gspPXeL	UCf-a_3DiA07vhQmoEaczDhw
+11	Police & Thieves	The Clash	The Clash	LIKE	0KVFn2uSAjk	MPREb_jhrJcXFREuw	UCf-a_3DiA07vhQmoEaczDhw
+4	I Wanna Be Sedated (2002 Remaster)	Ramones	Road to Ruin (Expanded 2005 Remaster)	LIKE	8O9P5Us_eVo	MPREb_y2MFa9SrHGm	UCXYTNaRC13Mc0muUaYDrT9g
+14	Beat on the Brat	Ramones	Mania	LIKE	_S2Cr2qJEko	MPREb_zyzkAF64C9P	UCXYTNaRC13Mc0muUaYDrT9g
+15	I Wanna Be Sedated	Ramones	Mania	LIKE	l0usV_kf-Zc	MPREb_zyzkAF64C9P	UCXYTNaRC13Mc0muUaYDrT9g
+0	Last Caress	Misfits	Collection 2	LIKE	UuzA4U1njO8	MPREb_wZTuNDKzbzV	UCUAa1fv7JsIFuBUWtH0ZaOA
+1	The Ocean (Remaster)	Led Zeppelin	Houses of the Holy (Deluxe Edition)	LIKE	H8bVaTW6UCU	MPREb_DY6DlruwzRd	UCYtap7ujIPaxTS2iCDoMi3g
+8	The Wait (2005 Digital Remaster)	Killing Joke	Killing Joke	LIKE	zfO3waEOU2o	MPREb_rYT2qj0sGL3	UCpeXRNHIht_B4pCfCcxSW3A
+12	Waiting Room	Fugazi	13 Songs	LIKE	C3LXkdpHNOQ	MPREb_W9EVYTHez1o	UC2cjwtJB5rzpMetjDlnjGHg
+2	Politicians In My Eyes	Death	…For The Whole World To See	LIKE	KLN7JQZB_kE	MPREb_rj94FlIFMd6	UCvtq4GkuRfYc8IUwmJ4bv_Q
