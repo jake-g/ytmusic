@@ -38,10 +38,10 @@ TRACK_DB_FILE = '_tracks_db.tsv'
 TRACKS_NO_META_FILE = '_tracks_no_meta.tsv'
 LASTFM_PLAYCOUNT_FILE = '_ytmusic_lastfm_match_id_map.tsv'
 TRACK_TSV_COLS = ['title', 'artist', 'album', 'likeStatus',
-                  'duration', 'videoId', 'albumId', 'artistId']
+                  'videoId', 'albumId', 'artistId']  # 'duration',
 TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
 PLAYLIST_METADATA_TSV_COLS = [
-    'title', 'trackCount', 'duration', 'privacy', 'id']
+    'title', 'trackCount', 'privacy', 'id']  # 'duration',
 LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
 
 # LIKE subset
@@ -204,8 +204,8 @@ class YTMusicPlaylists:
                       f"special character in {special_chars}.")
 
     def get_playlist_counts(self, verbose=False, filter_title=None):
-        count_df_cols = ['title', 'track_count',
-                         'duration_hours', 'privacy', 'playlist_id']
+        count_df_cols = ['title', 'track_count', 'privacy', 'playlist_id']
+        # 'duration_hours',
         playlists = []
         print('Getting playlist track count for playlists (takes ~5 minutes)')
         if filter_title:
@@ -222,7 +222,7 @@ class YTMusicPlaylists:
                 'playlist_id': row['playlistId'],
                 'track_count': len(playlist_info.get('tracks', [])),
                 'privacy': playlist_info.get('privacy', ''),
-                'duration_hours': round(float(playlist_info.get('duration_seconds', 1)) / 3600)
+                # 'duration_hours': round(float(playlist_info.get('duration_seconds', 1)) / 3600)
             })
             if verbose:
                 print(f'{i}: {playlists[-1]}')
@@ -1084,7 +1084,7 @@ class YTMusicPlaylists:
     # Functions for dealing with track db tsv
     def _track_db_get_track_info(self, row):
         copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
-        copy_album_cols = ['type', 'trackCount', 'duration', 'year']
+        copy_album_cols = ['type', 'trackCount', 'year']  # 'duration',
         track_str = f"{row['artist']} - {row['album']} - {row['title']}"
         if type(row['artistId']) != str:
             print(f'\nERROR: row["artistId"] not a str for row: {track_str}')
@@ -1182,8 +1182,8 @@ class YTMusicPlaylists:
 
         # Remove duplicates for rows, ignoring specific columns
         _length = len(track_db)
-        ignore_cols = ['playlists',  'inLibrary',
-                       'duration', 'artistId', 'albumId']
+        ignore_cols = ['playlists',  'inLibrary',  'artistId', 'albumId']
+        # 'duration',
         track_db = track_db.drop_duplicates(
             subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
         print(f"Removed {_length - len(track_db)} row duplicates",
