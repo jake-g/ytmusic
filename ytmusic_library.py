@@ -262,7 +262,7 @@ class YTMusicPlaylists:
         like_impacted_playlists = []
         new_likes = set()
         skip_not_like = set()
-        print('Processing LIKE tracks (takes ~8 minutes)')
+        print('Processing LIKE tracks (takes ~10 minutes)')
         for fuzzy_track_id in like_fuzzy_ids:
             matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
             if not len(matches):
@@ -1170,7 +1170,7 @@ class YTMusicPlaylists:
         track_db = self._track_db_dedupe(track_db, keep='last')
         track_db = track_db.sort_values(['artist', 'album'])
         elapsed_t = (time.time() - t0) / 60
-        print(f'Finished in {elapsed_t} minutes')
+        print(f'Finished in {elapsed_t:0.1f} minutes')
         print(f'Track database now has {len(track_db)} tracks')
         return track_db
 
