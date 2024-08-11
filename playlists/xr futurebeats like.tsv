@@ -29,6 +29,7 @@
 362	Epoch	Tycho	Epoch	LIKE	8EYja8ukG_w	MPREb_wnQ3HWTzITq	UC6M6DgivBo3VHTYDa9BblqQ
 245	What You Know	Two Door Cinema Club	Tourist History	LIKE	VsOR4Z87dNw	MPREb_TRqgotcKMkx	UCNaAQtk0jVa2OXAEY0zF5zw
 123	Embarcadero	Toro y Moi	Boo Boo	LIKE	2b2CzFsBynw	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
+320	Rose Quartz	Toro y Moi	Anything in Return	LIKE	TOd_r4hBZJI	MPREb_Ws8ystnFNy4	UCJikOjbf3VffCdLXTsbxfxg
 137	Show You The Way (feat. Kenny Loggins & Michael McDonald)	Thundercat	Drunk	LIKE	1rBYb84sfvw	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
 168	King Of The Hill	Thundercat	It Is What It Is	LIKE	VOVi-INLRWI	MPREb_HHmVxwQYip3	UCUl7CLMqbyYVb62zJ7nbLfA
 176	Them Changes	Thundercat	The Beyond / Where the Giants Roam	LIKE	35-MnoI1drY	MPREb_FWpZtAwAhKr	UCUl7CLMqbyYVb62zJ7nbLfA
@@ -187,12 +188,12 @@
 194	Avatar Beach	Jacques Greene	music to drive at night	LIKE	dfjYswcC4UM	MPREb_cACz2BDS00T	UCe8iUza1vwtLe2IsT2sfXlQ
 296	Feel Infinite	Jacques Greene	Feel Infinite	LIKE	vsdYe4xRtDQ	MPREb_iHrOhCuzHz7	UCe8iUza1vwtLe2IsT2sfXlQ
 321	Otis (feat. Otis Redding)	JAY Z	Watch The Throne	LIKE	UgKguykIX9M	MPREb_q6UQ3uJuSJX	UCbJG1HvzgzaMe_15xfiUyWw
-91	Time: The Donut Of The Heart	J Dilla	Donuts	LIKE	0vmhgotEByc	MPREb_SdbQ7yLI5AO	UCSIn3FnGoucrfi9N1PvoApQ
-108	People	J Dilla	Donuts	LIKE	P4VYoPcIIn0	MPREb_SdbQ7yLI5AO	UCSIn3FnGoucrfi9N1PvoApQ
-109	Mash	J Dilla	Donuts	LIKE	KqVHNs4ahmQ	MPREb_SdbQ7yLI5AO	UCSIn3FnGoucrfi9N1PvoApQ
+91	Time: The Donut Of The Heart	J Dilla	Donuts	LIKE	0vmhgotEByc	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
+108	People	J Dilla	Donuts	LIKE	P4VYoPcIIn0	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
+109	Mash	J Dilla	Donuts	LIKE	KqVHNs4ahmQ	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
 110	Lightworks	J Dilla	Our Vinyl Weighs A Ton - This Is Stones Throw Records	LIKE	Am3NuFK48jQ	MPREb_NTlme5HtwcO	UCg6G23d_0Rdx3W5XbxC7N8A
-111	Don't Cry	J Dilla	Donuts	LIKE	x-23FpWsTKk	MPREb_SdbQ7yLI5AO	UCSIn3FnGoucrfi9N1PvoApQ
-285	Stop	J Dilla	Donuts	LIKE	zg1vKijo1p4	MPREb_SdbQ7yLI5AO	UCSIn3FnGoucrfi9N1PvoApQ
+111	Don't Cry	J Dilla	Donuts	LIKE	x-23FpWsTKk	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
+285	Stop	J Dilla	Donuts	LIKE	zg1vKijo1p4	MPREb_SdbQ7yLI5AO	UCg6G23d_0Rdx3W5XbxC7N8A
 86	Clear Tamei	Iglooghost	Clear Tamei	LIKE	c6jzxHoy85Q	MPREb_HJXaO2NUvvz	UC1N5c5QRQxR2qCSw7ZFKdnQ
 363	This Will Pass	Home	Falling into Place	LIKE	CcVBUe1p75c	MPREb_ZKrn1OIw2oi	UCfWnoT0YX8RfjFaXmg2Eq5g
 163	Tom Tom	Holy Fuck	Congrats	LIKE	F4XYeRzF3dk	MPREb_f1B0EmKbGqO	UC-L5Oyxd0aCk27RU1gGouWg
@@ -364,7 +365,6 @@
 308	This Old House Is All I Have	Against All Logic	2012 - 2017	LIKE	hG5JXxOLrbw	MPREb_iMtdJXWPoua	UCM2MeXVuQH9lJQWDPE9Ik_Q
 93	Rings	Aesop Rock	The Impossible Kid	LIKE	3AYYCqH9sjw	MPREb_DlKDacGlmM1	UCy7EBgGtHw6fHlAfc5bPAHA
 175	Electric Relaxation	A Tribe Called Quest	The Anthology	LIKE	HbPf6G1DJlY	MPREb_L84iMEzN7Be	UCiOPPAw9e2Fj-i2uMNpoRNQ
-320	Rose Quartz	Toro y Moi	Anything in Return	INDIFFERENT	FZiWVdZw6WU	MPREb_ULTgt3x3jqu	UCJikOjbf3VffCdLXTsbxfxg
 59	Wishery	Pogo	Wishery		p49ErjoUvEk		
 125	Cold Stares (feat. Chance The Rapper & Maceo Haymes)	Nosaj Thing	Fated		tUNpmdLxJH8		
 112	Cobalt	KOAN Sound	Polychrome		_-0N3cU_3QM		
