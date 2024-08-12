@@ -6,11 +6,5 @@ playlist_skip_starts_with_zz not like	2
 playlist_kind_is_skip	2
 playlist_kind_is_album	48
 playlist_kind_is_like	264
-track_processed	129336
-track_rating_exists	128050
-track_rating_is_none	1286
 playlist_kind_not_inferred	10
 playlist_kind_is_indifferent	144
-playlist_privacy_is_unlisted	34
-playlist_removed_duplicates	8
-playlist_is_public	2
