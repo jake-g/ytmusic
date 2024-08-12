@@ -278,7 +278,7 @@ class YTMusicPlaylists:
                     like_impacted_playlists.append(match.playlists)
         print(f' Found {len(new_likes)} new tracks to LIKE')
         print(f' Found {len(skip_not_like)} tracks to LIKE',
-              f'but already in NOT LIKE')
+              f'but already in NOT LIKE', flush=True)
 
         # NOT_LIKE
         not_like_fuzzy_ids = frozenset(not_like_df['fuzzy_track_id'])
@@ -302,7 +302,7 @@ class YTMusicPlaylists:
 
         print(f' Found {len(new_not_likes)} new tracks to NOT LIKE')
         print(f' Found {len(skip_is_like)} tracks to NOT LIKE',
-              f'but they are already in LIKE')
+              f'but they are already in LIKE', flush=True)
 
         # optional extra info
         def display_top_impacted_playlist_df(impacted_playlists, top_n=10):
@@ -593,7 +593,7 @@ class YTMusicPlaylists:
         print(f'Attempting to clean {n_playlists} playlists')
         for i, p in self.playlists.iterrows():
             if (i+1) % 100 == 0:
-                print(f'{i+1} of {n_playlists} playlists processed')
+                print(f'{i+1} of {n_playlists} playlists processed', flush=True)
             pl_ct['playlists_processed'] += 1
             for skip_str in playlist_skip_starts_with:
                 if p.title.startswith(skip_str):
@@ -931,7 +931,8 @@ class YTMusicPlaylists:
             radio_results.to_csv(self.radio_cleanup_file, sep='\t')
             pl_counters.to_csv(self.cleanup_counters_file, sep='\t')
 
-        print(f'Completed in {(time.time() - start_time) / 60:.1f} minutes')
+        print(f'Completed in {(time.time() - start_time) / 60:.1f}', 
+              'minutes', flush=True)
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
                           remove_disliked=False, yt_user='Jake G'):
@@ -972,7 +973,8 @@ class YTMusicPlaylists:
         for i, row in self.playlists.iterrows():
             try:
                 pl_title = self._decode(row['title'])
-                print(f'\n\n({i+1}/{len(self.playlists)})\t{pl_title}')
+                print(
+                    f'\n\n({i+1}/{len(self.playlists)})\t{pl_title}', flush=True)
                 playlist_info = self.playlist_get_info(
                     row['playlistId'], playlist_limit=song_lim, use_cache=True)
                 if playlist_info['trackCount'] == 0:
@@ -1057,7 +1059,7 @@ class YTMusicPlaylists:
             like_tracks.index) - frozenset(like_tracks.index)]
         all_like_tracks = pd.concat([like_tracks, new_like_tracks])
         print(f'Updated liked tracks with {len(new_like_tracks)} new entries '
-              f'(from {len(like_tracks)} to {len(all_like_tracks)}).')
+              f'(from {len(like_tracks)} to {len(all_like_tracks)}).', flush=True)
         return like_tracks
 
     def collect_all_not_like_tracks_from_tsvs(self, tsv_header=LIKE_TRACKS_HEADER):
@@ -1065,7 +1067,7 @@ class YTMusicPlaylists:
         not_like_playlists = [pl for pl in playlist_files
                               if self._playlist_is_not_like(pl.replace('.tsv', ''))]
         print(f'Found {len(not_like_playlists)} not like playlists',
-              f'out of the {len(playlist_files)} total')
+              f'out of the {len(playlist_files)} total', flush=True)
         not_like_tracks = []
         for pl in not_like_playlists:
             tracks_db_not_liked = pd.read_csv(os.path.join(
@@ -1078,7 +1080,7 @@ class YTMusicPlaylists:
         not_like_tracks = not_like_tracks.loc[~not_like_tracks.index.duplicated(
             keep='first'), tsv_header]
         print(f'Updated not liked tracks, contains',
-              f'{len(not_like_tracks)} entries.')
+              f'{len(not_like_tracks)} entries.', flush=True)
         return not_like_tracks
 
     # Functions for dealing with track db tsv
