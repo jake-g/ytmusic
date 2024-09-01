@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 58	The Gardener	The Tallest Man On Earth	Shallow Grave	LIKE	mYjPgvD3ClY	MPREb_zFpRAu981dj	UCL2-Z80Bwi8W73F7ijvxHzg
 90	Frankie's Gun!	The Felice Brothers	The Felice Brothers	LIKE	XwSdt130RTY	MPREb_ln3yRpiUa98	UCwqMtg0DYrfFKEerphjuXZQ
+166	Summer's End	John Prine	The Tree of Forgiveness	LIKE	AHfA93OgxBA	MPREb_HWozBpwWJPL	UClIcMOmbAI3puJ0jb37UbHw
 182	Shady Grove	Jerry Garcia	Shady Grove	LIKE	6G5__H-FOA4	MPREb_4zQLf3pzF37	UCGZ-ePa-J8bm_TfglDQYWkg
 111	I Want to Be Alone (Dialogue) (2001 Remaster)	Jackson C. Frank	Jackson C. Frank (2001 - Remaster)	LIKE	2jd2Vl5k1VY	MPREb_ENKfM6TCGbr	UC_Mzy5_LC9E2U7safjYfowA
 201	Nothing Special	Zach Kleisinger	Their Symposium	INDIFFERENT	e_Z49whsZWU	MPREb_4HZ2AbSC65r	UCYfO_wNSgeL8w_5zla6kKmA
@@ -302,7 +303,6 @@
 258	Bottom of the Sea Blues	Johnny Flynn	Country Mile	INDIFFERENT	BY7GNhMiEhw	MPREb_ycVXm1P2pAH	UCEc162usE38oe18FcgbjGxA
 478	The L&N Don't Stop Here Anymore	Johnny Cash	Silver	INDIFFERENT	leARiyb_sgk	MPREb_u63RAiGA49Q	UCiGs21G3KeE2tpbbMPzn9Qg
 510	The Ballad of Ira Hayes	Johnny Cash	Bitter Tears: Johnny Cash Sings Ballads Of The American Indian	INDIFFERENT	tvUi5yGjJbY	MPREb_QIcWmSLITjx	UCiGs21G3KeE2tpbbMPzn9Qg
-166	Summer's End	John Prine	The Tree of Forgiveness	INDIFFERENT	AHfA93OgxBA	MPREb_HWozBpwWJPL	UClIcMOmbAI3puJ0jb37UbHw
 187	All the Best	John Prine	The Missing Years	INDIFFERENT	4SxgSSA2izg	MPREb_aWJT2e4Auok	UClIcMOmbAI3puJ0jb37UbHw
 211	Clay Pigeons	John Prine	Fair and Square	INDIFFERENT	20Rucu7uNwc	MPREb_3JIdNrw4nS7	UClIcMOmbAI3puJ0jb37UbHw
 233	That's the Way the World Goes Round	John Prine	Bruised Orange	INDIFFERENT	ZogciFl-udY	MPREb_7pzF5GkZxzl	UClIcMOmbAI3puJ0jb37UbHw
@@ -323,7 +323,7 @@
 526	Rocky Mountain High (Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974)	John Denver	An Evening With John Denver	INDIFFERENT	vMjWQ-0OCHY	MPREb_2hYLCqBe6EA	UCV8ZtASJ8X9ZwX3r1Dsei0w
 497	Ak'a Tamaani	John Angaiak	I'm Lost in the City	INDIFFERENT	oSH1SZOi1Ns	MPREb_rnFpsvBAKqr	UCy9yITANsWoMtffC8FTSd3A
 326	Hymn #101	Joe Pug	Nation of Heat EP	INDIFFERENT	HxG17ZHK7xk	MPREb_oalmiLya26B	UCal_2xQJhHiIS8S_utLX4_Q
-366	February Prorated Rent	Joe Kaplow	Sending Money And Stems	INDIFFERENT	x0zfPV6rpG4	MPREb_JdQyL6K8Zvt	UCcrFqq5jOawnZuwScmhGOSQ
+366	February Prorated Rent	Joe Kaplow	Sending Money And Stems	INDIFFERENT	0yr64veFSaE	MPREb_WPsn8LXQUj8	UCcrFqq5jOawnZuwScmhGOSQ
 29	Silver Dagger	Joan Baez	The Best Of Joan Baez	INDIFFERENT	DLQ0YTTsPuo	MPREb_VwbxNIOmSv7	UCS1qmMQEO8KBurXzQCjlbrA
 120	Fare Thee Well	Joan Baez	Joan Baez	INDIFFERENT	3h4M27wtDCs	MPREb_eUNMTD4Ipst	UCS1qmMQEO8KBurXzQCjlbrA
 272	Copper Kettle	Joan Baez	A Debut in Concert	INDIFFERENT	NiNmJmsVgpk	MPREb_g5XyKKrFZUe	UCS1qmMQEO8KBurXzQCjlbrA
@@ -527,7 +527,7 @@
 468	Scarborough Fair [Traditional English Ballad] (feat. Alison Medini)	Alban Fuam	From Galway to Dublin (10 Most Popular Irish and Celtic Folk Traditional Tunes)	INDIFFERENT	w6p2jrwzLIo	MPREb_gVMJg0PKeiJ	UCjN1gOurCKWxfZz8ry-1kkg
 443	You Always Hurt The One You Love	Al Martino	Great Gentlemen Of Song / Spotlight On Al Martino	INDIFFERENT	Tm9l5KbQLJY	MPREb_fnIWH93gXev	UCn2mTzJz9G7A6FDKKvEhJWg
 14	symbol	Adrianne Lenker	abysskiss	INDIFFERENT	_E09eewG_7A	MPREb_C00YevC7i8x	UCUk49fVKOmtT_l-nOv59QyA
-45	Bully's Lament (Audiotree Live Version)	Shakey Graves	4:43		us4dllTEq1I		
-63	Word Of Mouth (Audiotree Live Version)	Shakey Graves	6:16		QsHUjNAbL68		
-193	Temazcal	Monsters Of Folk	3:50		X0mmbPoJw9o		
-520	I Wish That They'd Sack Me	Chumbawamba	4:11		2sFtvi7lntQ		
+45	Bully's Lament (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2013)		us4dllTEq1I		
+63	Word Of Mouth (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2013)		QsHUjNAbL68		
+193	Temazcal	Monsters Of Folk	Monsters of Folk		X0mmbPoJw9o		
+520	I Wish That They'd Sack Me	Chumbawamba	The Boy Bands Have Won		2sFtvi7lntQ		
