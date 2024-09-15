@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-203	Fine	yU	Before Taxes	LIKE	oN9RjSPXYuo	MPREb_giZ2KiLocrt	UCPgG4dLhPi-EMER-ZYzmLhQ
 5	Falcon	sir Was	Digging a Tunnel	LIKE	H0SjQjCEdcM	MPREb_VuldNfN3v9a	UCy1ULqvzHgeORPlgAj5fJwA
 25	Bomping	sir Was	Digging a Tunnel	LIKE	cvLam4VK4l0	MPREb_VuldNfN3v9a	UCy1ULqvzHgeORPlgAj5fJwA
 61	In the Midst	sir Was	Digging a Tunnel	LIKE	HNIEsiY2F0U	MPREb_VuldNfN3v9a	UCy1ULqvzHgeORPlgAj5fJwA
@@ -96,10 +95,6 @@
 250	Open Season	Orgone	Bacano	LIKE	xO1AKZScgzk	MPREb_pbAfINIHUOM	UCu5oslYw4y81kM4Ssp8SZ-Q
 253	Soul Strut	Orgone	Orgone	LIKE	mqtysc2vdaw	MPREb_lU78K4ZMyOR	UCu5oslYw4y81kM4Ssp8SZ-Q
 256	Be Thankful For What You've Got (Live)	Orgone	Raw & Direct	LIKE	m-BEAKGllM0	MPREb_GRnlykyqOVw	UCu5oslYw4y81kM4Ssp8SZ-Q
-171	When Everything Changed	Oddisee	Mental Liberation	LIKE	EF4_Ok9RHhU	MPREb_3cBlNP16es9	UC8saRlWqYkWEVtwgNH12ZeA
-173	Mattered Much	Oddisee	Rock Creek Park	LIKE	idJFgD52eMM	MPREb_g27wqx3emZq	UC8saRlWqYkWEVtwgNH12ZeA
-195	Skipping Rocks	Oddisee	Rock Creek Park	LIKE	N2xvWLXGmuE	MPREb_g27wqx3emZq	UC8saRlWqYkWEVtwgNH12ZeA
-217	No Rules for Kings	Oddisee	The Beauty in All	LIKE	7wsvokn8cCg	MPREb_itGhBh4yRHI	UC8saRlWqYkWEVtwgNH12ZeA
 7	Bet She Looks Like You	Nick Hakim	Green Twins	LIKE	PefOfXjGylY	MPREb_8TgKJHsgzWU	UCGJ1mUIImZ528gG_M1ZF_Dg
 73	Green Twins	Nick Hakim	Green Twins	LIKE	DSYfhTY7lEw	MPREb_8TgKJHsgzWU	UCGJ1mUIImZ528gG_M1ZF_Dg
 117	TYAF	Nick Hakim	Green Twins	LIKE	RQcy0GRuyv0	MPREb_8TgKJHsgzWU	UCGJ1mUIImZ528gG_M1ZF_Dg
@@ -163,7 +158,6 @@
 154	Gentle Thoughts	Herbie Hancock	Secrets	LIKE	E7-eYsjAp20	MPREb_heefY1tJYcy	UCq_O_14tCKbx9U9uUT_LEPA
 179	Ain't No Sunshine	Harlem Underground Band	Death Mix: the Best of Paul Winley Records	LIKE	_dKURdXpt34	MPREb_3Q0s7X2kZFq	UCBMNRr5anqaA44FBwBJBq1Q
 225	Didn’t I? (Guts Re-Edit)	Guts	Brand New Revolution - EP	LIKE	MizTXmTOOh0	MPREb_SPGTSV18JD8	UC09LsmkOdhB4tMimiqcZIpw
-156	Brokenfolks	Georgia Anne Muldrow	VWETO II	LIKE	oJabLChQ8Bs	MPREb_zqxTjothig0	UCBProw_utwiRAa0wPtVnYeg
 241	Next to You	Gene Washington	Next to You	LIKE	V0s2FdeQk6s	MPREb_QfdmiXaWFHy	UCvWeF8iL5auL0b8KRTpD9Aw
 22	The Underdog	GUM	The Underdog	LIKE	Gos_whR2iuU	MPREb_KUctUeHnEmN	UC4FKlRxemR7reIi_vmmPjhw
 64	Couldn't See Past My Ego	GUM	The Underdog	LIKE	a6HMkuS3-VE	MPREb_KUctUeHnEmN	UC4FKlRxemR7reIi_vmmPjhw
@@ -254,6 +248,12 @@
 20	Johny Says Stay Cool	Babe Rainbow	Johny Says Stay Cool	LIKE	BSVKyjlVgfQ	MPREb_D1HZnt3nI2z	UCnmNJQ_W2ra79BAsOD6KAtA
 106	Losing Something	Babe Rainbow	Losing Something	LIKE	geBTM8aq8jk	MPREb_LQvd7bRFbEZ	UCnmNJQ_W2ra79BAsOD6KAtA
 151	Reachin' 2 Much (Instrumental)	Anderson .Paak	Ventura (Instrumentals)	LIKE	U4gfL4qVwY8	MPREb_AP36dXERD4q	UCLdqZBVvWa174TnYyLC-IAg
+203	Fine	yU	Before Taxes	INDIFFERENT	smBIe12z2_U	MPREb_sgyUkwHM8mv	UC5eG2oC1oPHviSfdtbjRH9Q
+171	When Everything Changed	Oddisee	Mental Liberation	INDIFFERENT	5WoIo-0szBc	MPREb_H97UmB13ZZY	UC8saRlWqYkWEVtwgNH12ZeA
+173	Mattered Much	Oddisee	Rock Creek Park	INDIFFERENT	27pZNm_B8mo	MPREb_cAQ8kbXjxlM	UC8saRlWqYkWEVtwgNH12ZeA
+195	Skipping Rocks	Oddisee	Rock Creek Park	INDIFFERENT	pRkdqrae-J0	MPREb_cAQ8kbXjxlM	UC8saRlWqYkWEVtwgNH12ZeA
+217	No Rules For Kings	Oddisee	The Beauty In All	INDIFFERENT	6Xc8NuFY9es	MPREb_ktx5rOQsxdd	UC8saRlWqYkWEVtwgNH12ZeA
+156	Brokenfolks	Georgia Anne Muldrow	VWETO II	INDIFFERENT	kEyKDyyQUAU	MPREb_65ThWuvPI4i	UCBProw_utwiRAa0wPtVnYeg
 65	Fall in Love	The Babe Rainbow (AUS)	The Babe Rainbow (AUS)		d72_pBGBi4M		
 41	Fool	Fat Night	Fool		vsTTkPY1Go4		
 58	Someday	Fat Night	Someday		rECXDPBvU4A		
