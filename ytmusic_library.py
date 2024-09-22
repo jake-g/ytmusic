@@ -36,7 +36,7 @@ PLAYLIST_TSV_DIR = './playlists/'
 # Track DB Files
 TRACK_DB_FILE = '_tracks_db.tsv'
 TRACKS_NO_META_FILE = '_tracks_no_meta.tsv'
-LASTFM_PLAYCOUNT_FILE = '_ytmusic_lastfm_match_id_map.tsv'
+LASTFM_PLAYCOUNT_FILE = '_ytmusic_lastfm_playcount.tsv'
 TRACK_TSV_COLS = ['title', 'artist', 'album', 'likeStatus',
                   'videoId', 'albumId', 'artistId']  # 'duration',
 TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
