@@ -1,6 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 97	Ain't Talkin' 'Bout Love	Van Halen	Van Halen	LIKE	qtwBFz6lfrY	MPREb_cDMW2GCTyBK	UCPi7wU0ppI6ad7EEpHs7lHg
-12	Rock and Roll, Hoochie Koo	Johnny Winter	Johnny Winter: A Rock N' Roll Collection	LIKE	ieSShLoVyfk	MPREb_jRJUa84kpIg	UCdGP0Bisu7WfRtZdfuCqQdQ
 89	Angel of the Highway	Zior	Before My Eyes Go Blind: The Complete Recordings	INDIFFERENT	FFZFtLx25sk	MPREb_opuxUElNkez	UC2l9Fy_zGg91gn-K5MJkK6Q
 57	Aries	Writing on the Wall	Power of the Picts	INDIFFERENT	5gfztFGb3ZY	MPREb_dSLvrUBt2A3	UCmXL7neJaoFK0dahJpAJq8A
 83	Queen Of Torture	Wishbone Ash	First Light	INDIFFERENT	DAinV50bi54	MPREb_aLrN0rT0JoV	UC8xwMolGNH6dREF2qfUlNoQ
@@ -26,7 +25,6 @@
 92	Did You See Her Eyes	The Illusion	Psychedelic Essentials	INDIFFERENT	TRd4lUj0Olo	MPREb_sqQfydNNyCp	UCzI5n82Ppk_MGWxoRDCXp7w
 14	Bury My Body	The Animals	Animal Tracks	INDIFFERENT	plAXS23eRyE	MPREb_JahRqDazeay	UCcFlzgDVSL9dMUo66cEyWJQ
 70	Pony Express	Ted Nugent And The Amboy Dukes	Call Of The Wild	INDIFFERENT	_13tw3NNuM0	MPREb_4Gt2U3kDkMQ	UCNF_aW6W36lVoVV_hRdjq2g
-7	Hey Baby	Ted Nugent	Ted Nugent	INDIFFERENT	_njskNMpoQE	MPREb_VtqVG351xTf	UCNF_aW6W36lVoVV_hRdjq2g
 78	Same Old Story	Taste	Taste	INDIFFERENT	UMUQkoVs-cw	MPREb_T35iPxv2N6i	UCurnJxJ_WoaO8iJF4uGf06A
 61	Taken All the Good Things	Stray	Stray (Expanded Edition)	INDIFFERENT	TYDea2Gf6Rg	MPREb_rOMzo5AVGDj	UCO6IaTYiWhBCecr9WgU8Diw
 31	Caroline	Status Quo	Ten Best	INDIFFERENT	KhFn9Ys2qBA	MPREb_zRGlaIbRior	UC2oCil_CLZt9xh3FE73H8rg
@@ -35,7 +33,6 @@
 28	Kingdom Come	Sir Lord Baltimore	Kingdom Come	INDIFFERENT	5mAEH7yo5ak	MPREb_LR6NAJGhtSI	UCb-IttEuYEqiuH2rn0k8Tbw
 32	Lady Of Fire	Sir Lord Baltimore	Kingdom Come	INDIFFERENT	v-QNKQYcQ0M	MPREb_LR6NAJGhtSI	UCb-IttEuYEqiuH2rn0k8Tbw
 98	Woman Tamer	Sir Lord Baltimore	Sir Lord Baltimore	INDIFFERENT	zFva5Txpx2M	MPREb_5ECbWbK4cPj	UCb-IttEuYEqiuH2rn0k8Tbw
-87	Anthem	Rush	Fly By Night	INDIFFERENT	xBdUSueSh9s	MPREb_LIkIXP2ytT6	UCDCgtKZG6r7C9n87FMxR5ow
 18	Nice Boys	Rose Tattoo	Rose Tattoo	INDIFFERENT	3WSqVYrGEM4	MPREb_KuyCE65blqe	UC2ysUa3j142whGLoN2dkPiQ
 77	Bridge of Sighs (2007 Remaster)	Robin Trower	Bridge Of Sighs (2007 Remaster)	INDIFFERENT	gZ3eJxaRZXU	MPREb_dGTqws7nHSC	UCISGGSdSHof-yfZvOvHzUZA
 49	The Electronic Insides of Dr. Krieg	Riders Of The Mark	100 '60s Garage Rock Hits	INDIFFERENT	NtUkou2PTWM	MPREb_zwM8smzPShp	UCR4fd38nioQDP3QUO4wVXEg
@@ -59,6 +56,7 @@
 79	Better by You, Better Than Me	Judas Priest	Stained Class	INDIFFERENT	I3UOkxdsh-8	MPREb_ANAYRyRIInJ	UCy6-RHgm74I8CCCvMu4NPJQ
 86	Diamonds and Rust	Judas Priest	Sin After Sin	INDIFFERENT	CgDtk1Kbi5A	MPREb_SAuHi0K720c	UCy6-RHgm74I8CCCvMu4NPJQ
 82	I Saw A Killin'	Josefus	Josefus	INDIFFERENT	rAvlQAqjBh4	MPREb_3u7MYzFKRZv	UC3ftwB5G3WmOT8CH1rU8h_A
+12	Rock and Roll, Hoochie Koo	Johnny Winter	Johnny Winter And	INDIFFERENT	4rN8raAgkMo	MPREb_i4bx7Dp9o9E	UCdGP0Bisu7WfRtZdfuCqQdQ
 33	Titan's Sirens	JPT Scare Band	Past Is Prologue	INDIFFERENT	4u2dre98gSo	MPREb_edqIA7R6kYK	UCPjRVAemU_kXB7DRNVScYzA
 5	In-A-Gadda-Da-Vida (Single Version)	Iron Butterfly	Light and Heavy/The Best of...	INDIFFERENT	XugIsZbTFy0	MPREb_3lHpKyLkeaj	UCn_jx84j5_rx1uwSx4t-nTw
 40	Bang?	Humble Pie	Town And Country	INDIFFERENT	O1NMev-K1kM	MPREb_JjojpjD42dX	UCVX50Jz4OedqWmHtolqweLw
@@ -97,4 +95,6 @@
 84	If You Want Blood (You've Got It)	AC/DC	Highway to Hell	INDIFFERENT	aFCPrHmLo2c	MPREb_D5nYt9190Tm	UCVm4YdI3hobkwsHTTOMVJKg
 72	Evil Woman	Yesterday's Children	Yesterday's Children		dzbxwUNMAow		
 4	It Swallowed The Sun	The Flow	Psychedelic Essentials		o8WdoynvyMQ		
+7	Hey Baby	Ted Nugent	Discover Ted Nugent		H1p-lP-5TPQ		
+87	Anthem	Rush	Chronicles		9PUOn5wxgO8		
 15	Lord of Light (1996 Remaster)	Hawkwind	Doremi Fasol Latido		5-ASz7Vf5Ug		

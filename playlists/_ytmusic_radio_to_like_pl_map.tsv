@@ -1,24 +1,33 @@
 radio_playlist	like_playlist
-ambient radio	ambient
+ambient grouper radio	ambient grouper
 ambient Indie Synths radio	ambient Indie Synths
-ambient lynchian radio	ambient lynchian like
-ambient modern radio	ambient modern like
-ambient piano radio	ambient piano like
-Beats Lofi radio	Beats Lofi
+ambient lynchian radio	ambient lynchian
+ambient modern radio	ambient modern
+ambient piano radio	ambient piano
+ambient radio	ambient
 Beats indie Chill radio	Beats indie Chill
+Beats Lofi radio	Beats Lofi
 beats radio	beats
 Bossa Nova radio	Bossa Nova
-brass radio	brass like
+brass radio	brass
 electronic big beats radio	electronic big beats
+electronic chills adventure radio	electronic chills adventure
 electronic Dance radio	electronic Dance
 electronic deep house radio	electronic deep house
 electronic Deep Minimum radio	electronic
+electronic film scores radio	electronic film scores
 electronic Focus radio	electronic Focus
 electronic frequencies radio	electronic
+electronic Garage Bass House radio	electronic Garage Bass House
 electronic House Special radio	electronic House Special
 electronic Innerwaves radio	electronic Innerwaves
+electronic New Wave old and new radio	electronic New Wave old and new
+electronic post dub radio	electronic post dub
 electronic radio	electronic
+electronic Sine Language radio	electronic Sine Language
 electronic soft pad radio	electronic soft pad
+electronic Underjord radio	electronic Underjord
+folk country americana radio	folk country americana
 Folk radio	Folk
 future beats radio	future beats
 garage rock radio	garage rock
@@ -39,6 +48,8 @@ Indie Folk radio	indie folk
 Indie Hazy Summer radio	Indie Mellow
 indie loose live chill radio	indie loose
 Indie radio	indie
+Instrumentals Acoustic radio	Instrumentals Acoustic
+Japanese City Pop 70s 80s radio	Japanese City Pop 70s 80s
 jazz cool radio	jazz cool
 jazz essential radio	jazz
 Jazz Feels the Blues radio	jazz
@@ -54,6 +65,7 @@ nudisco radio	nudisco
 oldies 1950s radio	oldies 1950s
 oldies 1960s radio	oldies 1960s
 oldies doo wop radio	oldies doo wop
+oldies fallout 40s radio	oldies fallout 40s
 oldies Jukebox Vintage Party radio	oldies Jukebox Vintage Party
 Oldies radio	Oldies
 post rock slow core radio	post rock slow core
@@ -61,6 +73,7 @@ Post-Punk 1970s-1980s radio	Post-Punk 1970s-1980s
 Produced by Dilla radio	Produced By Dilla
 Produced by DJ Premier radio	Produced by DJ Premier
 Produced by kanye radio	Produced by kanye
+psych ish rock modern radio	psych ish rock modern
 psychedelic classic rock radio	psychedelic classic rock
 punk 1970s radio	punk 1970s
 Reggae 1970 roots radio	reggae classic
@@ -70,44 +83,101 @@ rock 1950s roots radio	rock 1950s roots
 rock 1967 Monterey Pop Festival radio	rock 1967 Monterey Pop Festival
 Rock 1980s New Wave radio	Rock 1980s Pop New Wave
 rock 1990s radio	rock 1990s
+rock garage radio	rock garage
 rock instrumentals classic vintage radio	rock instrumentals classic vintage
 rock proto metal radio	rock proto metal
 rock stoner sludge dank radio	rock stoner sludge dank
+rock underground radio	rock underground
 Shoegaze Nu radio	Shoegaze
 Shoegaze radio	Shoegaze
 soul 1960s radio	soul 1960s
-soul radio	soul funk
 Soul Classic Sunshine radio	Soul Classic Sunshine
 Soul Food Kitchen radio	soul funk
+soul instrumental grooves radio	soul instrumental grooves
+soul kings and queens radio	soul kings and queens
 soul motown radio	soul motown
+soul radio	soul funk
+synth trip radio	synth trip
+trip hop & Ambien® radio	trip hop & Ambien®
 trip hop radio	trip hop
 triphop bristol sound radio	triphop bristol sound
+xr 2000smusic radio	xr 2000smusic
+xr 2010smusic radio	xr 2010smusic
+xr 50sMusic radio	xr 50sMusic
+xr 60sMusic radio	xr 60sMusic
+xr 70sMusic radio	xr 70sMusic
+xr 80sHipHop radio	xr 80sHipHop
+xr 80sMusic radio	xr 80sMusic
+xr 90sAlternative radio	xr 90sAlternative
 xr 90shiphop radio	Hip Hop 1990s
+xr 90sMusic radio	xr 90sMusic
+xr 90sPunk radio	xr 90sPunk
+xr 90sRock radio	xr 90sRock
+xr AfricanMusic radio	xr AfricanMusic
 xr ambientmusic radio	ambient
+xr bassheavy radio	xr bassheavy
+xr bluegrass radio	xr bluegrass
 xr blues radio	blues
+xr bluesrock radio	xr bluesrock
+xr chillmusic radio	xr chillmusic
+xr chillwave radio	xr chillwave
+xr dancepunk radio	xr dancepunk
+xr deepcuts radio	xr deepcuts
 xr deephouse radio	electronic deep house
+xr disco radio	xr disco
+xr DreamPop radio	xr DreamPop
 xr dub radio	Reggae Dub
 xr ElectronicMusic radio	electronic
+xr Elephant6 radio	xr Elephant6
 xr folk radio	Folk
 xr frenchhouse radio	electronic house french touch
 xr funkhouse radio	electronic house funk
 xr futurebass radio	future bass
+xr futurebeats radio	xr futurebeats
+xr futurefunkairlines radio	xr futurefunkairlines
+xr futuregarage radio	xr futuregarage
+xr futuresynth radio	xr futuresynth
 xr GypsyJazz radio	jazz gypsy
+xr HeadNodders radio	xr HeadNodders
 xr hiphop radio	hiphop
 xr hiphopheadsnorthwest radio	hiphop
+xr house radio	xr house
+xr idm radio	xr idm
 xr indie radio	indie
 xr IndieFolk radio	indie folk
+xr indierock radio	xr indierock
 xr jazz radio	jazz
-xr jazzyhiphop radio	hiphop jazzy
 xr jazznoir radio	jazz noir
+xr jazzyhiphop radio	hiphop jazzy
 xr krautrock radio	rock krautrock
+xr MelancholyMusic radio	xr MelancholyMusic
+xr minimal radio	xr minimal
+xr MusicToSleepTo radio	xr MusicToSleepTo
 xr NewWave radio	Rock 1980s Pop New Wave
 xr nudisco radio	nudisco
 xr OldiesMusic radio	Oldies
+xr OldskoolRave radio	xr OldskoolRave
+xr OutlawCountry radio	xr OutlawCountry
 xr PostRock radio	post rock slow core
+xr PsychedelicRock radio	xr PsychedelicRock
+xr PunkRock radio	xr PunkRock
+xr rainymood radio	xr rainymood
+xr realdubstep radio	xr realdubstep
 xr reggae radio	Reggae
+xr Rock radio	xr Rock
+xr SoundsVintage radio	xr SoundsVintage
+xr stonerrock radio	xr stonerrock
+xr SurfPunk radio	xr SurfPunk
+xr synthrock radio	xr synthrock
+xr theOverload radio	xr theOverload
+xr trapmuzik radio	xr trapmuzik
+xr treemusic radio	xr treemusic
 xr triphop radio	trip hop
+xr VintageObscura radio	xr VintageObscura
 xr witch-house radio	electronic witch house
 xr witchHouse radio	electronic witch house
-zp kanye radio	zp kanye
+xr WorldMusic radio	xr WorldMusic
+xs hiphop modern radio	xs hiphop modern
+xs Solar Chillout radio	xs Solar Chillout
 zp DJ Premier radio	zp DJ Premier
+zp kanye radio	zp kanye

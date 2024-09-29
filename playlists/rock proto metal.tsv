@@ -1,6 +1,4 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-23	The Boys Are Back In Town	Thin Lizzy	The Boys Are Back In Town / Jailbreak	LIKE	DGSfAuxtkGA	MPREb_cfKDxMGYz6y	UCc1aNHzU9wXhKyhJy0PJgQQ
-27	Jailbreak	Thin Lizzy	The Boys Are Back In Town / Jailbreak	LIKE	xLWhgLraMts	MPREb_cfKDxMGYz6y	UCc1aNHzU9wXhKyhJy0PJgQQ
 20	My Generation (Stereo Version)	The Who	My Generation (Stereo Version)	LIKE	MgJ9K7cPRKk	MPREb_9OsFOAprFUz	UCpxn_sVrLQWNGFK1eulpYgw
 13	I Wanna Be Your Dog	The Stooges	The Stooges	LIKE	3gsWt7ey6bo	MPREb_s7sYIXFk5nO	UCCT8KMU8ReissgaPl7pvo9g
 18	You Really Got Me	The Kinks	Kinks (Deluxe Edition)	LIKE	bZ4uGV6Goy0	MPREb_gaTyP1B7tMR	UCsQHS0_Fw1vIXm3TEbPokvA
@@ -20,7 +18,6 @@
 15	We're An American Band (Remastered 2002)	Grand Funk Railroad	We're An American Band (Expanded Edition / Remastered 2002)	LIKE	QxNXFNCTr2I	MPREb_aUeefekf7U0	UCXqDhA0ovs5DdhKPC20Z0Yg
 1	Sunshine Of Your Love	Cream	Disraeli Gears (Deluxe Edition)	LIKE	y_u1eu6Lpds	MPREb_5h81Nq8u7Y9	UC_oKib7DXJ7JE5erWrFUbEQ
 11	White Room	Cream	Wheels Of Fire	LIKE	V5BF1V1pbTs	MPREb_YGfXoHVdCwJ	UC_oKib7DXJ7JE5erWrFUbEQ
-24	Watchin' You	Brainticket	Psychonaut - Deluxe Edition	LIKE	j8MBeb_NuYE	MPREb_lcBYHMhUx6P	UCb_xaYP7BY0SMY_Lnv9pq8A
 2	(Don't Fear) The Reaper	Blue Oyster Cult	Agents Of Fortune	LIKE	FS8p_F0Stog	MPREb_YNS7J1sn3Rs	UCKnUGg15_Whg8GfPtI0jLBQ
 7	Cities On Flame with Rock and Roll	Blue Oyster Cult	Blue Oyster Cult	LIKE	z0efJeGsvlc	MPREb_l0wITHA8sbK	UCKnUGg15_Whg8GfPtI0jLBQ
 9	Black Sabbath	Black Sabbath	Black Sabbath	LIKE	bkD_0G8zQGI	MPREb_MutWFQf9MFe	UCLCELUuoHbkUxZ9EMHTYebg
@@ -28,3 +25,6 @@
 21	The Wizard	Black Sabbath	Black Sabbath	LIKE	xWeRNU4mqjw	MPREb_MutWFQf9MFe	UCLCELUuoHbkUxZ9EMHTYebg
 25	Hand of Doom	Black Sabbath	Paranoid	LIKE	CNIgt6yKgDM	MPREb_Nav8bphwijs	UCLCELUuoHbkUxZ9EMHTYebg
 22	School's Out (2002 Remaster)	Alice Cooper	Mascara & Monsters: The Best of Alice Cooper	LIKE	j8A9zFAArJQ	MPREb_79EPuQPLSqh	UCSjn-oQV136VoKk7FXxxZ0w
+23	The Boys Are Back In Town	Thin Lizzy	Jailbreak		56b4TTT609c		
+27	Jailbreak	Thin Lizzy	Whiskey In The Jar		0nhXgx8H6oI		
+24	Watchin' You	Brainticket	Psychonaut		SFQ66PCdXB8		

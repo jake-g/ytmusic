@@ -500,15 +500,15 @@ class YTMusicPlaylists:
                 self._radio_to_like_map['radio_playlist'] == pl_info["title"]].dropna()
             if len(like_pl_matches):  # Nan or mapping
                 like_pl = like_pl_matches.iloc[0]['like_playlist']
-            elif pl_info["title"].replace('radio', 'like') in self.playlist_titles:
-                like_pl = pl_info["title"].replace('radio', 'like')
+            elif pl_info["title"].replace(' radio', '') in self.playlist_titles:
+                like_pl = pl_info["title"].replace(' radio', '')
             if like_pl == None:
                 if create_like_playlist:
                     pl_str = f'{pl_info["title"]} [{DATE}]'
-                    like_pl = pl_info["title"].replace('radio', 'like')
+                    like_pl = pl_info["title"].replace(' radio', '')
                     like_pl_id = self.yt.create_playlist(
-                        title=like_pl,
-                        description=f'Created for dumping likes from {pl_str}',
+                        title=like_pl.strip(),
+                        description=f'Favorite tracks from {pl_str}',
                         privacy_status='PRIVATE', video_ids=like_vids)
                     if verbose:
                         print(f'Created LIKE playlist for '

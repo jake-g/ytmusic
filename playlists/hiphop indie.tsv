@@ -1,6 +1,4 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-17	Vaudeville Villain	Viktor Vaughn	Vaudeville Villain	LIKE	pCRjJxYSPRc	MPREb_qbMAIGJh1Vv	UCooTDYkIERWBwDC1JKyoElQ
-18	Raedawn	Viktor Vaughn	Vaudeville Villain	LIKE	y6GXOD1I6iY	MPREb_qbMAIGJh1Vv	UCooTDYkIERWBwDC1JKyoElQ
 21	Everything's Alright	Ugly Duckling	Fresh Mode	LIKE	TIVEO0CCUsQ	MPREb_qmmrEavLv2s	UCYGUxtLK1SibnJkkwB2kIKQ
 30	Everybody C'mon	Ugly Duckling	Fresh Mode	LIKE	PdUmClCCRnQ	MPREb_qmmrEavLv2s	UCYGUxtLK1SibnJkkwB2kIKQ
 4	Blast (feat. Vinia Mojica)	Reflection Eternal	Train Of Thought	LIKE	-n3GM5TIUPk	MPREb_oT5gTZBOIFR	UCtOspRaNpoVE5gOY5vbLSjw
@@ -26,7 +24,9 @@
 1	Respiration (feat. Common)	Black Star	Mos Def & Talib Kweli Are Black Star	LIKE	VP4KgPYNo-4	MPREb_3QjdoXDm7zN	UCLoxpfIqUunN-duWi6VXCMA
 7	Definition	Black Star	Mos Def & Talib Kweli Are Black Star	LIKE	uwXqXxDtFYg	MPREb_3QjdoXDm7zN	UCLoxpfIqUunN-duWi6VXCMA
 10	Re:Definition	Black Star	Mos Def & Talib Kweli Are Black Star	LIKE	yt2lLWxxV9w	MPREb_3QjdoXDm7zN	UCLoxpfIqUunN-duWi6VXCMA
-3	Daylight	Aesop Rock	Daylight	LIKE	4HLV7TrYT04	MPREb_d8WKHjHKUAM	UCy7EBgGtHw6fHlAfc5bPAHA
-8	9-5ers Anthem	Aesop Rock	Labor Days	LIKE	raBCdJ3k3LM	MPREb_3N8k7Np43ZX	UCy7EBgGtHw6fHlAfc5bPAHA
-11	Labor	Aesop Rock	Labor Days	LIKE	merKjCcpxVY	MPREb_3N8k7Np43ZX	UCy7EBgGtHw6fHlAfc5bPAHA
-13	Bazooka Tooth	Aesop Rock	Bazooka Tooth	LIKE	Gym2Qm1eny8	MPREb_H1MGJvjIcBJ	UCy7EBgGtHw6fHlAfc5bPAHA
+17	Vaudeville Villain	Viktor Vaughn	Vaudeville Villain		pCRjJxYSPRc		
+18	Raedawn	Viktor Vaughn	Vaudeville Villain		y6GXOD1I6iY		
+3	Daylight	Aesop Rock	Labor Days		JUsTYXtv2oo		
+8	9-5ers Anthem	Aesop Rock	Labor Days		raBCdJ3k3LM		
+11	Labor	Aesop Rock	Labor Days		merKjCcpxVY		
+13	Bazooka Tooth	Aesop Rock	Bazooka Tooth		Gym2Qm1eny8		
