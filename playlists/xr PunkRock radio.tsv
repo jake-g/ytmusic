@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 289	Mr Suit (2006 Remastered Version)	Wire	Pink Flag (2006 Remastered Version)	LIKE	LPU8tS1uHl0	MPREb_0uByMaayRnq	UCJOW5ijQ4MFnvZxhdCHha6Q
+5	Androgynous	The Replacements	Let It Be	LIKE	E3dFmNolsPA	MPREb_Xto0rGrM4rP	UCXwcsxJcdxfvsFiVtrOgy4Q
 285	We're Comin' Out	The Replacements	Let It Be	LIKE	HKV8ltdel6Y	MPREb_Xto0rGrM4rP	UCXwcsxJcdxfvsFiVtrOgy4Q
 287	Ghost Rider (2019 - Remaster)	Suicide	Suicide (2019 - Remaster)	LIKE	XrSxAL85Qdw	MPREb_Q8GJ3jACL0c	UClik8_as2YuWXWLk4jbhOkw
 286	That's When I Reach for My Revolver	Mission Of Burma	Signals, Calls and Marches	LIKE	PpTKcv-SmR0	MPREb_qzpT7eM7wiy	UCxanCeDJEFmI9EJ-CWf7q1w
@@ -35,7 +36,6 @@
 75	Break The Glass	The Suicide Machines	The Least Worst Of The Suicide Machine	INDIFFERENT	NxTN7Z-M1oQ	MPREb_PAQpCqL9eYC	UCWhSo-jpbx2FT9xHRZZm3Ew
 90	I Got A Right (Remastered Studio)	The Stooges	Heavy Liquid 'The Album'	INDIFFERENT	fNph7um3OCk	MPREb_Mh3DqcsaeD4	UCCT8KMU8ReissgaPl7pvo9g
 179	The Oregon Trail	The Riot Before	Rebellion	INDIFFERENT	bsabK5-lxso	MPREb_drLNwVwzCvN	UCkXEBTYu4EbNsjZMIAmkciQ
-5	Androgynous	The Replacements	Let It Be	INDIFFERENT	E3dFmNolsPA	MPREb_Xto0rGrM4rP	UCXwcsxJcdxfvsFiVtrOgy4Q
 10	Firestarter	The Prodigy	PAY CLOSE ATTENTION: XL Recordings	INDIFFERENT	rQMIRe4S9DQ	MPREb_YwwQl6bn6ME	UCOEO40PfRXSKhslXNgS0H8Q
 331	Crazy Horses	The Osmonds	Crazy Horses	INDIFFERENT	28iHA3501MY	MPREb_D5DbtUTD6pZ	UCQYFqisy9saFG6tZKkij0Bw
 18	Cool To Hate	The Offspring	Ixnay On The Hombre	INDIFFERENT	WUJki1WBdEk	MPREb_XXrsRthA4SY	UCQVUXQu8RpxhihAMla6ke5A
@@ -48,6 +48,7 @@
 142	No Ticket	The Menzingers	A Lesson In The Abuse Of Information Technology	INDIFFERENT	DOR6AeFZM6I	MPREb_64q0s9TP3l2	UC6ep4PQAm4ZAN3GG2fphyJQ
 166	Nice Things	The Menzingers	On The Impossible Past	INDIFFERENT	vhUBR4BLYLA	MPREb_RZsKmPOPvto	UC6ep4PQAm4ZAN3GG2fphyJQ
 278	Irish Goodbyes	The Menzingers	Mixed Signals	INDIFFERENT	2u-xbs9cJQU	MPREb_Ojlq82zYlgv	UC6ep4PQAm4ZAN3GG2fphyJQ
+99	The Bridge	The Loved Ones	Build & Burn	INDIFFERENT	osCoztGgVIk	MPREb_y5wdMEtlHsf	UCOmWglKMlRKVny8QV35tEEQ
 92	Monsters	The Lockdowns	S / T	INDIFFERENT	shgT5hAGZzg	MPREb_3Zw7YHu1mx7	UCf0HWKIcWCeFZ5PeLI6kytA
 58	You Are Here	The Lawrence Arms	Metropole (Deluxe Edition)	INDIFFERENT	X9RQilz-Qfo	MPREb_UogLvoktrC3	UCzoak_-ailV1e4oUO7GE65w
 146	Seventeener (17th and 37th)	The Lawrence Arms	Metropole (Deluxe Edition)	INDIFFERENT	amjT3xrBzlg	MPREb_UogLvoktrC3	UCzoak_-ailV1e4oUO7GE65w
@@ -115,6 +116,7 @@
 362	My Genome	Stickman	My Genome	INDIFFERENT	2zMRXh7I-EE	MPREb_g3C92ECkteL	UCVBk2y2-2AYDxag_fsGA-qg
 157	Mommy's Little Monster (Live)	Social Distortion	Live At The Roxy	INDIFFERENT	kry8aBmiJYU	MPREb_aiio44EYV7M	UCQM2DZqCIOZStXx0VcIvm-w
 291	Cold Feelings	Social Distortion	Somewhere Between Heaven And Hell	INDIFFERENT	xvNYlm49cV4	MPREb_OUoEi9ZjH1J	UCQM2DZqCIOZStXx0VcIvm-w
+218	Abolish Government/Superficial Love	Slayer	Undisputed Attitude	INDIFFERENT	DdD-00xLRd8	MPREb_yrKLMJsCA0b	UC9S7S6SFgBenThCZC6qbMoQ
 125	Super Group	Shonen Knife	ALIVE! in Osaka	INDIFFERENT	1Owg6YfbhC4	MPREb_2Kuyt2JfFGD	UCy4i4IpULU_KfKl_WHZCkLQ
 158	Top Of The World	Shonen Knife	If I Were A Carpenter	INDIFFERENT	dKAQPvFG23s	MPREb_phJSHXPZIsb	UCy4i4IpULU_KfKl_WHZCkLQ
 349	Ah, Singapore	Shonen Knife	Pretty Little Baka Guy	INDIFFERENT	A9dDA-bWWWo	MPREb_o0UULQk562l	UCy4i4IpULU_KfKl_WHZCkLQ
@@ -137,6 +139,7 @@
 272	Six Ways 'Til Sunday	Rise Against	The Unraveling (Re-Issue)	INDIFFERENT	ukRB9zYW6rg	MPREb_AukGVjD1fNf	UCNEOs26SV8KlC9XxqdR7jew
 116	Dead Friends Don't Pay Debts	Red City Radio	To the Sons & Daughters of Woody Guthrie	INDIFFERENT	M6MJtQbqrjM	MPREb_A8VqWtFXRij	UCrn0xr59xBiY0ifZaLhUK4A
 30	No Class	Reagan Youth	A Collection of Pop Classics	INDIFFERENT	ohpR1R-iKs8	MPREb_xTO0nTV5vYa	UCuGQ7RSE9iSfNcKqt2xNViw
+126	U.S.A.	Reagan Youth	Punk Rock New York	INDIFFERENT	LCdSkgqYl68	MPREb_BGOTASrZhXy	UCuGQ7RSE9iSfNcKqt2xNViw
 318	She Talks To Rainbows (1999 Remaster)	Ramones	Weird Tales of The Ramones (1976 - 1996)	INDIFFERENT	zWk9yjGwyu8	MPREb_OCJANK5ffvI	UCXYTNaRC13Mc0muUaYDrT9g
 135	Goodbye Song	RUMKICKS	Brutality	INDIFFERENT	JhLp-6gXM8o	MPREb_1KWn4CFD4W3	UC5MY9SS0tmZbKEvcozaiVKA
 53	DVP	Pup	The Dream Is Over	INDIFFERENT	L4qimDlQgN4	MPREb_kXcTIX7s16f	UC0IFTAQBOS3VMwD1QKRDLJQ
@@ -219,9 +222,13 @@
 313	The Girl Who Lives On Heaven Hill	Hüsker Dü	New Day Rising	INDIFFERENT	82t4cSBDx6g	MPREb_HH5dNS69giI	UCJcxvmLleUKDR5xFMnD_qDA
 180	Normaali?	Huora	Hukutaan paskaan	INDIFFERENT	A9Ma0o0q8mU	MPREb_NMWkBLrHfc1	UCwdqhQciMpqlc34NhCvma1Q
 181	Pyörällä baariin (taksilla himaan)	Huora	Pyörällä baariin (taksilla himaan)	INDIFFERENT	4eU0kYKkjYY	MPREb_QKN0hSb0qfX	UCwdqhQciMpqlc34NhCvma1Q
+44	State of Grace	Hot Water Music	Exister	INDIFFERENT	wZmlIf4Xxo4	MPREb_N9BD6n7L5Vn	UCsQjxYRnLxELEJN7TJGu9Tw
+47	Remedy	Hot Water Music	Caution	INDIFFERENT	PgHdIXZsTKI	MPREb_9P4ZslIY5g8	UCsQjxYRnLxELEJN7TJGu9Tw
+69	Trusty Chords	Hot Water Music	Caution	INDIFFERENT	vtDQa8xsv3I	MPREb_YiUClNfgTZa	UCsQjxYRnLxELEJN7TJGu9Tw
 323	Noid Flanders	Handlr	Invader	INDIFFERENT	b-Mqvu5HjlI	MPREb_hfdvgLVK8pR	UCPH8eWdBhOApeaZoTegrKiw
 342	Invader Ace	Guitar Wolf	Ookami Wakusei	INDIFFERENT	KfH9PB1Uces	MPREb_hViJwc3TM1J	UCtAcy3kk_9eCRi9vKxTWKDQ
 329	NYAATURAL SELECTION	Greens on Toast	NYAATURAL SELECTION	INDIFFERENT	XH2dQKoD-gs	MPREb_4mV2ytXeVXd	UCVRpExURY3Tym4zzYaiGdBA
+89	American Idiot	Green Day	American Idiot	INDIFFERENT	VyV54YwPAkk	MPREb_jnYA50rlu4H	UC4JNeITH4P7G51C1hJoG6vQ
 210	Burn No Bridges	Gray Matter	Take It Back	INDIFFERENT	HKGovH4Ge2M	MPREb_h1YtWvQUR8v	UC84wgzq4U0DSWagF5Xzgiaw
 282	Start Wearing Purple	Gogol Bordello	Gypsy Punks: Underdog World Strike	INDIFFERENT	VJZwzoQQw8U	MPREb_ethLK3iEctq	UCvjY5F-rju0hQaYcYfGgbrw
 226	こいのうた - Koi No Uta	Go!Go!7188	Dasoku Hoko	INDIFFERENT	KhfLT3Pxivo	MPREb_uNDhP7w3zbP	UCTJ1o0nz1W4M6OL4-qndjXg
@@ -254,6 +261,7 @@
 172	Satan Says	Direct Hit!	Domesplitter	INDIFFERENT	LQurVZq27vQ	MPREb_AMdvkqnWoCX	UC3DnBRhoE5oaC3JK6TjMXRQ
 141	Maximum Piss & Vinegar	Dillinger Four	Versus God	INDIFFERENT	EJFmTn-tmvg	MPREb_obqj8k8xdhw	UCt8fBS3VeJgbl9m21XcUm1A
 283	"File Under ""Adult Urban Contemporary"""	Dillinger Four	Situationist Comedy	INDIFFERENT	nZMumbP2rC0	MPREb_pEplPFPhbro	UCt8fBS3VeJgbl9m21XcUm1A
+36	Hope	Descendents	Milo Goes to College	INDIFFERENT	qOHEfVQFs2Q	MPREb_xeEpzbxTQpw	UCtYmdaLiu0Nk_jdO_I7ZDSQ
 39	I Don't Want to Grow Up	Descendents	I Don't Want to Grow Up	INDIFFERENT	lfBu9xKXR8U	MPREb_arfqvycqVWK	UCtYmdaLiu0Nk_jdO_I7ZDSQ
 59	I Like Food	Descendents	Bonus Fat	INDIFFERENT	TeMILysgJ9I	MPREb_G9IqXNVK7Jc	UCtYmdaLiu0Nk_jdO_I7ZDSQ
 68	'Merican	Descendents	'Merican	INDIFFERENT	Ykcsn-A1-mI	MPREb_ieBwrrHaWEu	UCtYmdaLiu0Nk_jdO_I7ZDSQ
@@ -349,18 +357,10 @@
 195	5HITS	7-11 Jesus	5HITS	INDIFFERENT	xf0fWwHF0y8	MPREb_u9IBYavBmje	UCkqlR4__WUv4AIMpKW1F1uQ
 320	Memento Mori	12roots	Memento Mori	INDIFFERENT	vlyp7hBwELc	MPREb_1oIUDCMXQqI	UCmCGDlWlAA7Nb4X8OZaNQIg
 355	The View From Inside These Walls	WE ARE THE REVENANT	The View From Inside These Walls		1uYr_r1h89w		
-99	The Bridge	The Loved Ones	Build & Burn		osCoztGgVIk		
-218	Abolish Government/Superficial Love	Slayer	Undisputed Attitude		XtWP-Tg_K9s		
 107	I Wanna Be A Homosexual	Screeching Weasel	I Wanna Be A Homosexual b/w She's Giving Me The Creeps		7PrB2X7bLCQ		
-126	U.S.A.	Reagan Youth	Punk Rock New York		LCdSkgqYl68		
 57	Maxwell Murder	Rancid	...And Out Come The Wolves		hz8iCk2fXz8		
 63	Olympia, WA	Rancid	...And Out Come The Wolves (20th Anniversary Re-Issue)		appxb4n-KKs		
 328	Don't Look In My Basement	Panic Defense	Don't Look In My Basement		gBZWWbqWquA		
 217	Fuck The Fast Food	Nancy Boi!	40's and Burgers		gg3UPi1bogM		
 197	Please Mom	Like a Rug	Shipping Off		nPUb1Z_W3wI		
-44	State of Grace	Hot Water Music	Exister		wZmlIf4Xxo4		
-47	Remedy	Hot Water Music	Caution		B43QYho_iGs		
-69	Trusty Chords	Hot Water Music	Caution		wHwiVJoBCFA		
-89	American Idiot	Green Day	American Idiot (Deluxe)		K_pblxCEXw8		
 17	I Love Living in the City	Fear	The Record		6KzYOBUzAH0		
-36	Hope	Descendents	Milo Goes to College		qOHEfVQFs2Q		

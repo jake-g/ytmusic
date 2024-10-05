@@ -1,6 +1,9 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+111	Tessellate	alt-J	An Awesome Wave	LIKE	lCeYBfZiDTY	MPREb_VsvPkrdaKvh	UCyzh4EnNuEO3Jk_mlXJCIag
+9	Hobo's Lullaby	Woody Guthrie	This Land is Your Land: The Asch Recordings, Vol. 1	LIKE	KViE_-QOz3E	MPREb_TFcxd6qtcQq	UCgbCJIqwRQbo8xuVWvQFqYg
 12	This Land Is Your Land	Woody Guthrie	Patriotic Songs & Marches	LIKE	kRA6N3hCUWA	MPREb_8Tq0MLCXTlA	UCgbCJIqwRQbo8xuVWvQFqYg
 211	Pastures Of Plenty	Woody Guthrie	Columbia River Collection	LIKE	_gM9pEMHLqI	MPREb_yDFDRaL4yxY	UCgbCJIqwRQbo8xuVWvQFqYg
+245	This Land is Your Land	Woody Guthrie	This Land is Your Land: The Asch Recordings, Vol. 1	LIKE	AePCvFrggZM	MPREb_TFcxd6qtcQq	UCgbCJIqwRQbo8xuVWvQFqYg
 210	Diamond Day	Vashti Bunyan	Just Another Diamond Day	LIKE	7-HDcMplduA	MPREb_TiMAL7sFDOs	UCAsYIm0d6ISVF_AUF_kfRig
 33	Waiting Around to Die	Townes Van Zandt	Townes Van Zandt	LIKE	NqX6FE0xIJg	MPREb_9jiO7CIjG9T	UC0nXgIL3q7dp3-QRNDYkdFg
 66	For the Sake of the Song	Townes Van Zandt	Townes Van Zandt	LIKE	5DZstZzbBn0	MPREb_9jiO7CIjG9T	UC0nXgIL3q7dp3-QRNDYkdFg
@@ -13,6 +16,7 @@
 173	Sunlight	The Youngbloods	Elephant Mountain	LIKE	8jgttWaKBbQ	MPREb_UXygQwp2zlY	UC3meSti7--o4rGcYueDQ24g
 10	Kisses Sweeter Than Wine (feat. Leo Diamond & His Orchestra)	The Weavers	The Best Of The Decca Years	LIKE	wPgRIPRLKwE	MPREb_F8leZYdlpJe	UCrcJ20gQCT-z9GZqXWpFbwQ
 165	You Baby (Mono)	The Turtles	You Baby / Let Me Be	LIKE	PC1ZPbqQuYI	MPREb_LvbzY9CuDzK	UCyaLZJOfKI9L4MQRfy65Psg
+172	It Ain't Me Babe (Mono)	The Turtles	It Ain't Me Babe	LIKE	GqImgYuRlY0	MPREb_30jNqH3zoiN	UCyaLZJOfKI9L4MQRfy65Psg
 57	Where Do My Bluebird Fly	The Tallest Man On Earth	Shallow Grave	LIKE	8Hbmdrn5xbo	MPREb_zFpRAu981dj	UCL2-Z80Bwi8W73F7ijvxHzg
 61	Burden of Tomorrow	The Tallest Man On Earth	The Wild Hunt	LIKE	kjsrnRmnPzE	MPREb_pQ0nkgnpMjt	UCL2-Z80Bwi8W73F7ijvxHzg
 235	Rivers	The Tallest Man On Earth	Rivers	LIKE	vV40UKVNSuk	MPREb_V7M4IBhOQ5A	UCL2-Z80Bwi8W73F7ijvxHzg
@@ -31,13 +35,19 @@
 63	Old Number Seven	The Devil Makes Three	The Devil Makes Three	LIKE	1tp4Vyltijw	MPREb_fG7nJn6tuAB	UCnn1sMDX4eg4CcH8LhuAzrg
 236	Down By The Water	The Decemberists	The King Is Dead	LIKE	5CmcR7URnMQ	MPREb_XjZHruqXtSl	UChXpxUt8xbeBBP1gUb2JD1g
 43	In Hell I'll Be in Good Company	The Dead South	Good Company	LIKE	4MSufMK1lvs	MPREb_2ocnaSjH49i	UCdjP-gQY5u002PhCJroUxfQ
+145	Mr. Tambourine Man	The Byrds	Mr. Tambourine Man	LIKE	ncSl9ljLsYs	MPREb_L9L05TSnMZf	UCWgHSjTVKbR3z-MKow8OydA
+159	My Back Pages	The Byrds	Younger Than Yesterday	LIKE	OADlrLHfYW4	MPREb_TjsnRiFirvO	UCWgHSjTVKbR3z-MKow8OydA
 189	Draft Morning	The Byrds	The Byrds	LIKE	ogOpaSlmHYw	MPREb_QLvPXBgwZvJ	UCWgHSjTVKbR3z-MKow8OydA
+226	You Ain't Goin' Nowhere	The Byrds	Sweetheart Of The Rodeo (Legacy Edition)	LIKE	wGMbR2rrw0U	MPREb_nLkfZelgrdQ	UCWgHSjTVKbR3z-MKow8OydA
 188	Sad Little Girl	The Beau Brummels	From The Vaults	LIKE	SZWb7GbwRjQ	MPREb_dourbPXLB24	UCx5XuXV61li0FsvI8LJ6qaA
 190	Just A Little (Original Artist re-recording)	The Beau Brummels	1960s Happy Days	LIKE	mUl6gm6-mg8	MPREb_9RPNKlCzLT8	UCx5XuXV61li0FsvI8LJ6qaA
 38	Blackbird (Remastered 2009)	The Beatles	The Beatles	LIKE	Man4Xw8Xypo	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
 241	Let It Be (Remastered 2009)	The Beatles	Let It Be	LIKE	QDYfEBY9NM4	MPREb_Z7UaZFpBuZe	UC2XdaAVUannpujzv32jcouQ
 69	The Night They Drove Old Dixie Down (Remastered 2000)	The Band	Greatest Hits	LIKE	QC-eDtV5O0Q	MPREb_yzA7M130QbE	UCFczEeze7e0Lghy3eXtl38Q
+137	The Weight (Remastered 2000)	The Band	Music From Big Pink	LIKE	QWu-f7HFFJE	MPREb_YFkjxlhScEE	UCFczEeze7e0Lghy3eXtl38Q
 150	The Night They Drove Old Dixie Down	The Band	The Band	LIKE	X1JGWFcvAwU	MPREb_eJnU3mXGV4H	UCFczEeze7e0Lghy3eXtl38Q
+158	I Shall Be Released (Remastered 2000)	The Band	Music From Big Pink	LIKE	9WJ7ugZZtDo	MPREb_YFkjxlhScEE	UCFczEeze7e0Lghy3eXtl38Q
+96	I And Love And You	The Avett Brothers	I And Love And You	LIKE	fT3ABR-CYnQ	MPREb_1CGsL8WvfvQ	UC4gVpVxWJmpR3dNZxzyKkrA
 108	Epilogue	The Antlers	Hospice	LIKE	5nNT8vCQUjg	MPREb_DRfo0lAf0xW	UCVgMbI755lXVZobPCQgl2rg
 127	Kettering	The Antlers	Hospice	LIKE	M3ImEzr-Fkg	MPREb_DRfo0lAf0xW	UCVgMbI755lXVZobPCQgl2rg
 203	Where Have All the Flowers Gone	THE KINGSTON TRIO	Greatest Folk Songs of All	LIKE	dNtQENT-qqQ	MPREb_I8W1io30eZ5	UC-hN1E13BXX05U7Z3ReN54g
@@ -67,8 +77,7 @@
 237	Light Flight	Pentangle	Basket of Light	LIKE	OsMm0wxpaRc	MPREb_1Wz62cP9iNH	UCI1e9vrQfXV2Cz2vnjv2i8g
 102	Good For You	Peej	Darling	LIKE	0eMkUrBfvoo	MPREb_hiQr5aZcEsQ	UC_fbUYzIWCe0Q-qr9vMy9zw
 206	Many A Mile	Patrick Sky	Patrick Sky	LIKE	GlSEUDtTZh8	MPREb_t3XU5KbS1sb	UCkKJNPJSwHitdeKJQBK8xDQ
-59	Take 'em Away	Old Crow Medicine Show	Best Of	LIKE	4vSqNh0kB6M	MPREb_l1FFU5F1ioc	UCi0-F2GVc-2gMkuRpV6opiw
-65	Methamphetamine	Old Crow Medicine Show	Tennessee Pusher	LIKE	fwDIWM-VsBM	MPREb_mokJsKN7sLV	UCi0-F2GVc-2gMkuRpV6opiw
+59	Take 'Em Away	Old Crow Medicine Show	O.C.M.S.	LIKE	wfqm-rP_kFY	MPREb_esBVD4LRWgV	UCi0-F2GVc-2gMkuRpV6opiw
 26	These Days	Nico	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	jhr2MlQd7i0	MPREb_OjjaAKPXuWQ	UCjk87eFr83Lr7ioGcHgx0Cg
 179	I'm Not Sayin'	Nico	Slip Crop	LIKE	Y1LkJxJjd-M	MPREb_wkyY2JuM2NC	UCjk87eFr83Lr7ioGcHgx0Cg
 2	Time Has Told Me	Nick Drake	Five Leaves Left	LIKE	G8SmkwS82u4	MPREb_lhT6zoo6CGC	UCiryJZISyBldwm9ocAE-QfQ
@@ -113,10 +122,10 @@
 209	Both Sides Now	Joni Mitchell	Clouds	LIKE	7m_t3_1vbX8	MPREb_RYZU76d8tCt	UCvlAqrv-_NlUzyFFhhep7PQ
 212	Both Sides Now	Joni Mitchell	Both Sides Now	LIKE	7cBf0olE9Yc	MPREb_sox86cMb8NJ	UCvlAqrv-_NlUzyFFhhep7PQ
 221	The Circle Game	Joni Mitchell	Travelogue	LIKE	hFSV6YNV26Q	MPREb_d11y9ys9CDe	UCvlAqrv-_NlUzyFFhhep7PQ
-215	Angel from Montgomery	John Prine	Souvenirs	LIKE	NPuIpqdvjhc	MPREb_xOZ1diQYNyX	UClIcMOmbAI3puJ0jb37UbHw
-222	Sam Stone (Live)	John Prine	John Prine (Live)	LIKE	yZ4t1heqocA	MPREb_PrFP1zSMm6a	UClIcMOmbAI3puJ0jb37UbHw
 62	Take Me Home, Country Roads	John Denver	Poems, Prayers and Promises	LIKE	c0dvabcWVo0	MPREb_yNMpBuxz2g9	UCV8ZtASJ8X9ZwX3r1Dsei0w
 100	Ocean	John Butler	Ocean	LIKE	bzQ2--s84uo	MPREb_UlToAbpMmZB	UCtwbkbQ5t8fQ3YRZAxBK_Xw
+195	Love Is Just A Four-Letter Word	Joan Baez	Any Day Now	LIKE	aRGogxXGxsM	MPREb_x3NnylrVQdP	UCS1qmMQEO8KBurXzQCjlbrA
+238	Love Is Just A Four-Letter Word	Joan Baez	The First 10 Years	LIKE	SX4QLrrqhNI	MPREb_UTY2Y3eZ8qN	UCS1qmMQEO8KBurXzQCjlbrA
 45	Operator (That's Not the Way It Feels)	Jim Croce	Photographs & Memories: His Greatest Hits	LIKE	Bb85NvjbBm8	MPREb_LB9r3lwHaXq	UCgHHxoD5eBpYkAVVQ_R-TrA
 171	Come Up the Years	Jefferson Airplane	Jefferson Airplane Takes Off	LIKE	gRw3iFGN3rA	MPREb_pkYNxKeU52i	UCGRlR1uXGOTqvEy0b06L7jw
 197	Today	Jefferson Airplane	Jefferson Airplane Loves You	LIKE	uFYpm0XLJNI	MPREb_ZFxZK05fYSO	UCGRlR1uXGOTqvEy0b06L7jw
@@ -178,6 +187,7 @@
 213	He Was A Friend Of Mine	Dave Van Ronk	Inside Dave Van Ronk	LIKE	_JPPXyxszuY	MPREb_Q6ExXVJGcuX	UCCg341pNKqwul6fDzBIbhqw
 109	Sheets	Damien Jurado	Caught In The Trees	LIKE	jEGiSLL0B8E	MPREb_FtOKqRpeeEy	UCDNJcazG0tu91CS6uFwVQoA
 14	Suite: Judy Blue Eyes (2005 Remaster)	Crosby, Stills & Nash	Crosby, Stills & Nash	LIKE	OvGfQCsfzUo	MPREb_G1ooTJBrVn4	UC25j4DwEaTkGHCUpQo2mZPQ
+141	Wooden Ships (2005 Remaster)	Crosby, Stills & Nash	Crosby, Stills & Nash	LIKE	AdiuqQ7xm30	MPREb_G1ooTJBrVn4	UC25j4DwEaTkGHCUpQo2mZPQ
 149	Long Time Gone (2005 Remaster)	Crosby, Stills & Nash	Crosby, Stills & Nash	LIKE	nS3l_TwPNRY	MPREb_G1ooTJBrVn4	UC25j4DwEaTkGHCUpQo2mZPQ
 168	Suite: Judy Blue Eyes	Crosby, Stills & Nash	Suite: Judy Blue Eyes / Long Time Gone	LIKE	gNxdSkLm0pk	MPREb_O6c921HfBSr	UC25j4DwEaTkGHCUpQo2mZPQ
 161	I Feel Like I'm Fixin to Die Rag	Country Joe McDonald	Vietnam Experience	LIKE	9w_TmB3ggc4	MPREb_les9fLUwhk8	UCuZWV8I1rttB4KdbUCnJwWg
@@ -197,6 +207,26 @@
 132	Skinny Love	Bon Iver	For Emma, Forever Ago	LIKE	95FyXUHv8hk	MPREb_72kyFnlqpDM	UCx-cwf1tCXoZr0KtnpaDwyA
 167	If I Were a Carpenter	Bobby Darin	If I Were a Carpenter	LIKE	RCzLrT_kPuc	MPREb_Tf4YlhgN6Fo	UCj_otreRPRMynq2_gZj9s3w
 178	Simple Song Of Freedom (Alternate Mix)	Bobby Darin	Darin 1936-1973 (Expanded Edition)	LIKE	UBO0fydIaUA	MPREb_MLfbX915UR8	UCj_otreRPRMynq2_gZj9s3w
+1	The Times They Are A-Changin'	Bob Dylan	The Times They Are A-Changin'	LIKE	9ywYohqoM60	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+4	Blowin' in the Wind	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	KJBbX0jzM2c	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+6	Don't Think Twice, It's All Right	Bob Dylan	Bob Dylan's Greatest Hits Volume II	LIKE	mOCTQKW7CwE	MPREb_AGjA1sVA0pJ	UCBqkojCXby4zGkWX86FEY7Q
+8	Masters of War	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	xMxm8lRm4Cc	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+15	Don't Think Twice, It's All Right	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	Kv7K9ghgcgA	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+16	Just Like a Woman	Bob Dylan	Blonde On Blonde	LIKE	FZ5fdGNVVlQ	MPREb_c2eDFcvffWD	UCBqkojCXby4zGkWX86FEY7Q
+18	House of the Risin' Sun	Bob Dylan	Bob Dylan	LIKE	mrYw3nKwwEY	MPREb_hKyBho3xDrD	UCBqkojCXby4zGkWX86FEY7Q
+19	Song to Woody	Bob Dylan	Bob Dylan	LIKE	NEmxshYM6Zk	MPREb_hKyBho3xDrD	UCBqkojCXby4zGkWX86FEY7Q
+23	Girl from the North Country	Bob Dylan	Nashville Skyline	LIKE	-PfDSQSWuGI	MPREb_9FB4U3qMeWL	UCBqkojCXby4zGkWX86FEY7Q
+36	Sad-Eyed Lady of the Lowlands	Bob Dylan	Blonde On Blonde	LIKE	IW_qMLnbRJw	MPREb_c2eDFcvffWD	UCBqkojCXby4zGkWX86FEY7Q
+46	Hurricane	Bob Dylan	Desire	LIKE	WvBnI34wZ7c	MPREb_OE5xFBzoLs2	UCBqkojCXby4zGkWX86FEY7Q
+75	When the Ship Comes In	Bob Dylan	The Times They Are A-Changin'	LIKE	c7KKFejS58s	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+76	Desolation Row	Bob Dylan	Highway 61 Revisited	LIKE	AL1HUsJJCzU	MPREb_T7tsGX2wtUn	UCBqkojCXby4zGkWX86FEY7Q
+88	It's Alright, Ma (I'm Only Bleeding)	Bob Dylan	Bringing It All Back Home	LIKE	yYgRwefr-JU	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+146	Mr. Tambourine Man	Bob Dylan	Bringing It All Back Home	LIKE	m8tN2HgPH6I	MPREb_79FAaLDMirB	UCBqkojCXby4zGkWX86FEY7Q
+155	It Ain't Me Babe	Bob Dylan	Another Side Of Bob Dylan	LIKE	oXg6kNs0NUo	MPREb_w2U2e98cAjd	UCBqkojCXby4zGkWX86FEY7Q
+183	If You Gotta Go, Go Now (Or Else You Got to Stay All Night) (Live at Philharmonic Hall, New York, NY - October 1964)	Bob Dylan	The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall	LIKE	ucBU30tb87Y	MPREb_oI8YBZzzcBS	UCBqkojCXby4zGkWX86FEY7Q
+204	Girl from the North Country	Bob Dylan	The Freewheelin' Bob Dylan	LIKE	JncbFS5ek74	MPREb_sVmt9zpelHq	UCBqkojCXby4zGkWX86FEY7Q
+217	Boots of Spanish Leather	Bob Dylan	The Times They Are A-Changin'	LIKE	0_-56W5t-nY	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
+248	The Lonesome Death of Hattie Carroll	Bob Dylan	The Times They Are A-Changin'	LIKE	-a4Qhrzq6yo	MPREb_NZLAuM6dfVL	UCBqkojCXby4zGkWX86FEY7Q
 42	Black River Killer	Blitzen Trapper	Furr (10th Anniversary Deluxe Edition)	LIKE	AiIB3uYHn6Y	MPREb_1GJx7la2GRV	UCCUIVN2YBw2pnkMLoeKvfPQ
 97	Go on, Say It	Blind Pilot	3 Rounds and a Sound	LIKE	J8agg65G-hQ	MPREb_iO2O3yTzkb4	UCCoCyEztEqzooOfnqSknjOA
 11	Angie	Bert Jansch	Bert Jansch	LIKE	4a5J7hAbKcA	MPREb_wTrmsjlzB4r	UC6xUwdmOnnBYiEG410Nj0GQ
@@ -214,37 +244,7 @@
 243	Pints of Guinness Make You Strong	Against Me!	Reinventing Axl Rose	LIKE	vaHZ-fUv1UQ	MPREb_dXUbUQURAQK	UCRwwD9ZIZsJfYzkp40ohgxw
 103	zombie girl	Adrianne Lenker	songs	LIKE	4Mkj4tXsI7E	MPREb_tP4c5VBnG44	UCUk49fVKOmtT_l-nOv59QyA
 175	Splash 1 (Stereo LP Version)	13th Floor Elevators	The Psychedelic Sounds of the 13th Floor Elevators	LIKE	Odm5xwz2xEs	MPREb_O3RQ39zseFi	UCCxO66yIzeD8pjy-FvmLcLw
-9	Hobo's Lullaby	Woody Guthrie	The Asch Recordings, Vol. 1-4	INDIFFERENT	2LACazOBcVk	MPREb_diI0vK1PBgT	UCgbCJIqwRQbo8xuVWvQFqYg
-245	This Land Is Your Land (Alternate Version)	Woody Guthrie	Woody at 100: The Woody Guthrie Centennial Collection	INDIFFERENT	63NJBR-BIPM	MPREb_TMwepJmjZzZ	UCgbCJIqwRQbo8xuVWvQFqYg
-146	Mr. Tambourine Man	Bob Dylan	Biograph	INDIFFERENT	NSQXP8M7Hss	MPREb_DRdFwzrIQV1	UCBqkojCXby4zGkWX86FEY7Q
-111	Tessellate	alt-J	An Awesome Wave		lCeYBfZiDTY		
-172	It Ain't Me Babe (Mono)	The Turtles	It Ain't Me Babe (Deluxe Version)		U3kBFBqiTfM		
-145	Mr. Tambourine Man	The Byrds	The Byrds Play Dylan		2lmplAq3oyQ		
-159	My Back Pages	The Byrds	There Is A Season		IK_fUeo5mT0		
-226	You Ain't Goin' Nowhere	The Byrds	Sweetheart Of The Rodeo		VWwSh9jSpHg		
-137	The Weight (Remastered 2000)	The Band	A Musical History		3arrFF5mOc8		
-158	I Shall Be Released (Remastered 2000)	The Band	The Best Of The Box- A Musical History		-C36POJgBjY		
-96	I And Love And You	The Avett Brothers	I And Love And You		fT3ABR-CYnQ		
+65	Methamphetamine	Old Crow Medicine Show	Tennessee Pusher	INDIFFERENT	jn7JAAeht1E	MPREb_4CjgZKPsIx3	UCi0-F2GVc-2gMkuRpV6opiw
+215	Angel from Montgomery (2000 Re-Record)	John Prine	Souvenirs	INDIFFERENT	AWMp7C-xRxk	MPREb_DOe70Nw249d	UClIcMOmbAI3puJ0jb37UbHw
+222	Sam Stone (Live)	John Prine	John Prine (Live)	INDIFFERENT	7Oq0u-qGPYM	MPREb_GzArVFpdGkr	UClIcMOmbAI3puJ0jb37UbHw
 72	Roll The Bones (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2013)		LJsSZ_YaD_A		
-195	Love Is Just A Four-Letter Word	Joan Baez	Vanguard Visionaries		85F-0P9RZZg		
-238	Love Is Just A Four-Letter Word	Joan Baez	Vanguard Visionaries		85F-0P9RZZg		
-141	Wooden Ships (2005 Remaster)	Crosby, Stills & Nash	Crosby, Stills & Nash		AvARafblu1Q		
-23	Girl from the North Country	Bob Dylan & Johnny Cash	Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]		27FXdB8TQhQ		
-1	The Times They Are A-Changin'	Bob Dylan	Mixing Up The Medicine / A Retrospective		plBl5Z4R6Rc		
-4	Blowin' in the Wind	Bob Dylan	Bob Dylan's Greatest Hits		GjmG0tsvff0		
-6	Don't Think Twice, It's All Right	Bob Dylan	The Essential Bob Dylan		4a0Yb2fKrYM		
-8	Masters of War	Bob Dylan	Biograph		897ZCM0qEps		
-15	Don't Think Twice, It's All Right	Bob Dylan	The Essential Bob Dylan		4a0Yb2fKrYM		
-16	Just Like a Woman	Bob Dylan	The Essential Bob Dylan		uLoVOYeYVLY		
-18	House of the Risin' Sun	Bob Dylan	Stick The Kettle On		a6EKc-XbhxU		
-19	Song to Woody	Bob Dylan	No Direction Home: Bootleg Volume 7 (Movie Soundtrack)		d_4ZsdAsRkw		
-36	Sad-Eyed Lady of the Lowlands	Bob Dylan	Blonde On Blonde		IW_qMLnbRJw		
-46	Hurricane	Bob Dylan	Greatest Hits Volume 3		dDEbsd7s-ZQ		
-75	When the Ship Comes In	Bob Dylan	The Times They Are A-Changin'		c7KKFejS58s		
-76	Desolation Row	Bob Dylan	Highway 61 Revisited		AL1HUsJJCzU		
-88	It's Alright, Ma (I'm Only Bleeding)	Bob Dylan	Bringing It All Back Home		yYgRwefr-JU		
-155	It Ain't Me Babe	Bob Dylan	The Essential Bob Dylan		47GEOYF812A		
-183	If You Gotta Go, Go Now (Or Else You Got to Stay All Night) (Live at Philharmonic Hall, New York, NY - October 1964)	Bob Dylan	The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall		ucBU30tb87Y		
-204	Girl from the North Country	Bob Dylan	The Freewheelin' Bob Dylan		JncbFS5ek74		
-217	Boots of Spanish Leather	Bob Dylan	The Times They Are A-Changin'		0_-56W5t-nY		
-248	Lonesome Death of Hattie Carroll	Bob Dylan	Biograph		l-ZHF3N0Acg		

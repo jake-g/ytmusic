@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 14	This Will Pass	Home	Falling into Place	LIKE	CcVBUe1p75c	MPREb_ZKrn1OIw2oi	UCfWnoT0YX8RfjFaXmg2Eq5g
 142	Division	Forhill	Division	LIKE	W4kZ26DlW2g	MPREb_0YlZL3l2DtS	UCs7gqdcOcOf0cSybpfT--8g
+121	"TRON Legacy (End Titles) (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	G6tuvKE6_lA	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
 15	Flightwave	Com Truise	Galactic Melt	LIKE	yRF2LTbMDfU	MPREb_QXiyPdFjJFm	UC3G1cV92stSGOy4cLgXmgJQ
 145	Compress—Fuse	Com Truise	In Decay, Too	LIKE	K5iVnEnc4lQ	MPREb_ABOiPJX5x4K	UC3G1cV92stSGOy4cLgXmgJQ
 294	Sun	憂鬱	Sun	INDIFFERENT	RakcYpzOI8A	MPREb_lmWFnR4g3sc	UCJ-UfxhyKasO3y-mo_Gb-_w
@@ -29,7 +30,7 @@
 311	Cherry Coke	Vulkari64	Gas Station Breeze	INDIFFERENT	Sr_f0-0xv-g	MPREb_NRiYC5Kq5se	UCPPLKouVSVcc53nGznQKIFQ
 218	It Gets Funkier Ⅱ	Vulfpeck	Vollmilch	INDIFFERENT	2qyoXbSQ1TE	MPREb_Eg7Nc7yo2iO	UCWuBpAte4YHm_oELpzoM2qg
 348	Sequence	Voyage	Sequence	INDIFFERENT	x3RfsYn2v1E	MPREb_MNB2IUqVxqH	UC3riVd2BBvUFKwhkp1kl-zw
-331	This Means War (feat. Sylvain Coudret)	Volkor X	This Means War	INDIFFERENT	uz5H9jmNmAw	MPREb_n3RxpTwWQaW	UCpzx9dNS8B0y18dM4aqYxTg
+331	This Means War (feat. Sylvain Coudret)	Volkor X	This Means War	INDIFFERENT	2of9fvmpReo	MPREb_EW1WLErQCH9	UCpzx9dNS8B0y18dM4aqYxTg
 181	Shamanic Trance 20XX AD	Void Stare	Dream/Decay	INDIFFERENT	bVY5fk8h42I	MPREb_zG8tcH0VzPa	UCmIaBp9ljMahxqkwIO07jjg
 66	Second Lives (Lifelike Remix)	Vitalic	Second Lives	INDIFFERENT	EmHl_K6O_ZI	MPREb_V9Bt3P5KAyL	UC3FJZVVqKpdQ6fyoz_hGXkg
 67	Poison Lips	Vitalic	Flashmob	INDIFFERENT	Hqp6rFZWg6Q	MPREb_vkafJlRXymH	UC3FJZVVqKpdQ6fyoz_hGXkg
@@ -144,6 +145,7 @@
 508	Can't Let Go	Roman Kyn	High In The Sun	INDIFFERENT	FXDjzs9KSv0	MPREb_0vr7jTUNqyh	UCzOdIrS522Hd4VV3VVUIYcg
 339	'85 Again (feat. Miss K)	Robert Parker	Crystal City	INDIFFERENT	I99ikoo_CgM	MPREb_ZbNJpxI5XAO	UCa1xU8hVaCScU2R0M8AU8aw
 160	Midnight Online	Rezgrave	Bytegeist	INDIFFERENT	_GcDDHicOWs	MPREb_qR4zMTHwhtV	UCEe_Sl7IsyKYRMCLj4ZXf9w
+349	Promise Of Tomorrow	Revive	Chorus Of The Saints	INDIFFERENT	9n2lUC1w7b0	MPREb_LkDXp0SZ8x2	UCbxx0fMkO9cLBs8-WTmn_Ag
 260	Ride the Lightning (8 Bit Version)	Release - Topic	Heavy Bits	INDIFFERENT	BkyToBeeP-4	MPREb_1vRcFIoK8pk	UCYug3UPai1YMiSEZZN_jRGA
 429	Kill Sight	Re_ii	Kill Sight	INDIFFERENT	ag2GCGasWco	MPREb_VWdEJ4jiZTj	UCn6JxRllLawmG5oaLuQVJmA
 352	Not in Love (feat. Lisa Marie Perkins)	Rayne Reznor	Not in Love	INDIFFERENT	G0OtMUgH_WY	MPREb_LmhbhUME0QV	UCFQSOpFOD-w4yo2BMAvzMDg
@@ -253,7 +255,11 @@
 453	Cruz Control	Matthew Giblin	Cruz Control	INDIFFERENT	Knz05t-I9Jk	MPREb_K9CAReJMfOG	UCwohT388F-r13mx5uv43ShQ
 385	Fever Shakes	Mari Kattman	Fever Shakes	INDIFFERENT	BX2PY9igqSc	MPREb_QxlVys625ko	UCtTN1NfHSAGxmpd6QIYZIag
 64	Lady Of Light	Magic Sword	Lady Of Light	INDIFFERENT	5LGsRvjgbHY	MPREb_vHmINWQCV5g	UCnl2TnNDgp2rUepf5VnXJ1g
+246	Legend Of The Keeper	Magic Sword	Legend	INDIFFERENT	lJGDDi8Zq00	MPREb_y0zu32A2Kea	UCnl2TnNDgp2rUepf5VnXJ1g
+249	Journey's End	Magic Sword	Volume 1	INDIFFERENT	1ca-BownyE4	MPREb_MafTZM4ylbM	UCnl2TnNDgp2rUepf5VnXJ1g
 256	Invincible	Magic Sword	Endless	INDIFFERENT	RZuOeqULIjk	MPREb_yECqaJa7u54	UCnl2TnNDgp2rUepf5VnXJ1g
+262	In The Face Of Evil	Magic Sword	Volume 1	INDIFFERENT	ZyHfUqs17WI	MPREb_MafTZM4ylbM	UCnl2TnNDgp2rUepf5VnXJ1g
+270	Uprising	Magic Sword	Legend	INDIFFERENT	g4sXTIUMrkk	MPREb_y0zu32A2Kea	UCnl2TnNDgp2rUepf5VnXJ1g
 47	Work On You (Radio Edit)	MSTRKRFT	Work On You	INDIFFERENT	XG3S3GOmmZA	MPREb_chCIL318ln5	UCMvZDBCY6WaRCX_f3Ak-gPw
 430	Coming for You (NICOLAAS Remix)	MOTHERMARY	After Dark 4	INDIFFERENT	fQbACTmYDB4	MPREb_MkI9Vl1GQDx	UCN3EmWCiAEAt7YgRdS-Gz_A
 532	rck vs ocn	MOONBEAN	MOONTUNES	INDIFFERENT	ATTohbiyja4	MPREb_KjJUz5knyon	UCi4aCFQ3WqqiyP3n4mW1xKg
@@ -276,6 +282,7 @@
 395	Italo Disco	Lifelike	Italo Disco	INDIFFERENT	JBpqq4Wwpx0	MPREb_ZOqxhwsoXDo	UCYwLnNHnVF6TRQ8O0Gg653g
 314	Regentropfen (Synthwave Remix)	Lichtfall	Regentropfen (Synthwave Remix)	INDIFFERENT	aTisknfT2pw	MPREb_jd8brOtcTWp	UCSybPqUVImgc3a2zgTdyjRQ
 535	Hangin' On (Instrumental)	LeBrock	Fuse (Instrumentals)	INDIFFERENT	YkKO2C13-Fo	MPREb_xndc0Lq2cLX	UCXHJh6uDzM0czUtx-Wu3kcA
+36	Cold Summer (feat. Computer Magic)	Le Matos	Cold Summer	INDIFFERENT	UxJcOMaErAc	MPREb_ocM5CWUzfDR	UCXZCHYrpileAbkqZ97e3CIw
 232	King's Filth	Le Matos	Join Us	INDIFFERENT	olfge2qudqY	MPREb_S6rGmysFl7v	UCXZCHYrpileAbkqZ97e3CIw
 240	Radio	Le Cassette	Left to Our Own Devices	INDIFFERENT	V6a-o-aBdIc	MPREb_M4GE5SG8Wov	UCC292heob34UMmOAw56rlKA
 320	Tonight	Le Cassette	Left to Our Own Devices	INDIFFERENT	JA97FcitUco	MPREb_M4GE5SG8Wov	UCC292heob34UMmOAw56rlKA
@@ -311,6 +318,7 @@
 6	Recursion	Johnatron	Recursion	INDIFFERENT	FXK2jrGcpLQ	MPREb_WpVlc2Q7lej	UC4TRzrjf3misss7oMS_y66Q
 97	Love On Hold	John Mint	Love On Hold	INDIFFERENT	jUI-hnr85sI	MPREb_AY9g1fLN004	UCJDBJ7d1sapvbePROwHNYIA
 178	Between the Spreadsheets	John Mint	Business Logic	INDIFFERENT	6YcPoYIa06M	MPREb_hgSzXZGmRZ9	UCJDBJ7d1sapvbePROwHNYIA
+127	Night	John Carpenter	Lost Themes	INDIFFERENT	c9TNOF2fc50	MPREb_wCYclTcrclK	UCI525SG53_5lnwJM6QvZhwQ
 291	Chew Bubble Gum and Kick Ass (Bonus Track)	John Carpenter	They Live - Expanded Original Motion Picture Soundtrack 20th Anniversary Edition	INDIFFERENT	dtIGZUrXxww	MPREb_08PxGg05hze	UCI525SG53_5lnwJM6QvZhwQ
 325	Christine	John Carpenter	Christine	INDIFFERENT	QgzR8QJwpvY	MPREb_3rtIMFIMugh	UCI525SG53_5lnwJM6QvZhwQ
 93	Midnight Ride	Joe Hythe	Midnight Ride	INDIFFERENT	p-guTmLothk	MPREb_V7VPDaEQi63	UC-D5xr8t41ED0HZybtxrVJQ
@@ -341,6 +349,7 @@
 371	Disturbio	Hypermond.	D.	INDIFFERENT	gN73FLpTaPg	MPREb_hpUg4MUT9KG	UCoK7NcBktcz3JiERhIeQ8pw
 399	So Clear	Hyd	CLEARING	INDIFFERENT	0P1enkEndbk	MPREb_L4bQPQ7uJsQ	UCtB9puXAcVQGvH5dx4wkSlA
 374	le Rodeur (SPES INVICTA Remix) (feat. SPES INVICTA)	Hubrid	SLASHERWAVE	INDIFFERENT	fq9NNz-yqA4	MPREb_FCfhRfkxnlH	UCFwhTjyByb8RDc6trUBdhMw
+22	Atlas	Home	Hold	INDIFFERENT	EcEb6tzjfso	MPREb_FwVYp5BQRID	UCfWnoT0YX8RfjFaXmg2Eq5g
 140	Native	Home	Odyssey	INDIFFERENT	GpPVcX7HRtk	MPREb_9LzW7UKkjtD	UCfWnoT0YX8RfjFaXmg2Eq5g
 191	You Can Run (feat. Necroez)	Holy Mob	Holy Mob, Vol. 10	INDIFFERENT	6P7dcK06REo	MPREb_bjPg9sq6i7j	UC57mK4XZ-HYlmbDaepnY8Tg
 392	Drowning In the Night	Holistic	Drowning In the Night	INDIFFERENT	nLfukfnkzdU	MPREb_0nF86ERyJax	UCu5DKRd9QDq74h7UM7jvXEA
@@ -395,6 +404,7 @@
 476	BloodGod (feat. Dav Dralleon)	Draven	Abyssal Arcana	INDIFFERENT	ADdJSpTWOPc	MPREb_wChSOOVd3os	UC2EVtP-6KXgwI4dgXP0IcVw
 161	My Life in a Window	Downtown Space	My Life in a Window	INDIFFERENT	tnChEJ2lMvA	MPREb_f77uHvnExFQ	UCO1UZdopCM4AXn5azTyWRWQ
 162	Midnight Close	Downtown Space	Coordinate X	INDIFFERENT	eV_Uu3zVyug	MPREb_F3QJoLoA6vs	UCO1UZdopCM4AXn5azTyWRWQ
+43	Virtual Diva	Don Omar	Virtual Diva	INDIFFERENT	SJCkQGsmpfE	MPREb_K7gZDGo7ssV	UCTrIOPtBeAN2E0R-sgU9JxA
 513	Highway Cruisin	Don Dellpiero	Ocean Breeze	INDIFFERENT	6I-Dl03Hv7Y	MPREb_IwDJGSdO3CP	UCh1Niiw-Gnf4kQchlj3klrw
 403	Corner of My Eye (feat. Landon Sears)	Dizzy Spins	Corner of My Eye	INDIFFERENT	zi9r7SV3MSs	MPREb_T9rRCQRE2Rn	UCkSkmnOrySNyxT0DezQbrZg
 434	Sideways (feat. Matthew Chen)	Dizzy Spins	False Permanence	INDIFFERENT	kpWiiH8JGV8	MPREb_THduOnl5RWq	UCkSkmnOrySNyxT0DezQbrZg
@@ -416,6 +426,7 @@
 502	Life Is Good	Daniel Benjamin	Life Is Good	INDIFFERENT	iUbR2b9Pkgs	MPREb_6YDqMxtHN6G	UCr6_2YHrxZZcbOfUJN8s_yQ
 79	1789 Records	Danger	太鼓	INDIFFERENT	MsjMyVLPdzw	MPREb_KIIa0z0EEzl	UCz67mOU0PKoIvLiTtkufmoQ
 316	6.24	Danger	Furi (Original Game Soundtrack)	INDIFFERENT	UvDTBSDlY0g	MPREb_4aYGUnIulRf	UCz67mOU0PKoIvLiTtkufmoQ
+69	Surrender	Dance with the Dead	B-Sides: Vol. 1	INDIFFERENT	agIj43d4WT8	MPREb_kDeOLPdpz4g	UCyI2oTznwT0uHYYceVWcJVQ
 264	The Man Who Made a Monster	Dance with the Dead	B-Sides: Vol. 1	INDIFFERENT	zsfrNx5sYHg	MPREb_kDeOLPdpz4g	UCyI2oTznwT0uHYYceVWcJVQ
 0	The Deep	Dance With the Dead	Out of Body	INDIFFERENT	RiH7TDtYODY	MPREb_v87nrzZat3A	UCyI2oTznwT0uHYYceVWcJVQ
 32	Zombie Night	Dance With the Dead	Out of Body	INDIFFERENT	mpSPt6hLFQg	MPREb_v87nrzZat3A	UCyI2oTznwT0uHYYceVWcJVQ
@@ -423,7 +434,6 @@
 3	The Wrath of Code (feat. Perturbator)	Dan Terminus	The Wrath of Code	INDIFFERENT	VUQxsBTqh1s	MPREb_ZNASWHVlE7i	UCh1Tmt8U2nDXDZad033KL1A
 511	All Nighter	Dan + Shay	Obsessed	INDIFFERENT	c4K99a6ycSI	MPREb_TNB8jlPZpXc	UCB07DeQpv7GdeaVs-6tyn_A
 119	Around the World (Radio Edit)	Daft Punk	Around the World	INDIFFERENT	ARfJ55bUAw0	MPREb_ePmUY37w4pZ	UCRr1xG_2WIDs18a6cIiCxeA
-121	"TRON Legacy (End Titles) (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	INDIFFERENT	G6tuvKE6_lA	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
 110	Tokyo Elf	D-Noise	Tokyo Elf	INDIFFERENT	5o6Xqmm3Ov4	MPREb_wZbapoPlBth	UC4AKbZK_lpXDTbbcGSSFkOA
 446	Awakening of the Mind	Cyberwalker	Awakening of the Mind	INDIFFERENT	qJb3On_1KUU	MPREb_GYLSrkyZ752	UC2crYfmvzMUrLdMaM6pns2Q
 192	Relaxing Retro Ambient Music	Cyberpunk Music	Cyberpunk Music: 80's Vibes, Relaxing Retro Ambient Music	INDIFFERENT	3UZnheWQKRo	MPREb_MkOCWqOLi20	
@@ -527,17 +537,7 @@
 148	Neon Night Sight	Young Tango	Small Steps		ZGaxFEeKcmY		
 344	Lyra	Vokon	Lyra		R7pjkqohfLI		
 158	Addiction	The Verbal Shock	Addiction EP		LVXRzPfCUM8		
-349	Promise Of Tomorrow	Revive	Chorus Of The Saints		v02gXLHPImg		
 153	Nightcrawl	Neon Lipstick	Neon Lipstick		FvPX0zN9ovE		
-246	Legend of the Keeper	Magic Sword	Legend EP		6E1DL-QlAVE		
-249	Journey's End	Magic Sword	Volume 1 (Deluxe Edition)		s-Gcz5_YuIo		
-262	In The Face Of Evil	Magic Sword	Volume 1 (Deluxe Edition)		Z1_5SmeoSLo		
-270	Uprising	Magic Sword	Legend EP		bFpgzM_mjcw		
-36	Cold Summer	Le Matos	Summer of '84		mvpeCXRdEfc		
-127	Night	John Carpenter	Bacurau (Original Motion Picture Soundtrack)		0mA9wKcUcxA		
-22	Atlas	Home	Hold		3hNF_jdhhY8		
 103	Panorama Drive	First Impressions	Modern Thrills		u-XI-E5iPDo		
 157	Doomed to the Pyre	Dune Hunter	Doomed to the Pyre		AvO18wNM-LM		
-43	Virtual Diva	Don Omar	iDon		bDrC1imaZXs		
-69	Surrender	Dance with the Dead	B-Sides: Vol. 1		agIj43d4WT8		
 364	Protoblood	666hurtz	Protoblood		q-gUJC0GaOs		

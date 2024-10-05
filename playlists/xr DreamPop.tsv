@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 112	we fell in love in october	girl in red	we fell in love in october / forget her	LIKE	FJX0JPXD2nM	MPREb_xqqsLAkNmAY	UCmNtyqQl03eWyvikCMbO3fA
+159	Cannons	Youth Lagoon	The Year of Hibernation	LIKE	nbHCM3dUcQo	MPREb_suvkzQIGnuB	UCi_nCAELoYM2E1jsQ29XZog
 65	Midnight Song	Wild Nothing	Nocturne	LIKE	6N6f-9r0ydE	MPREb_vNAFrC5HS2I	UCbaJZUVqfEZPtwaUzGgdZ8A
 78	Only Heather	Wild Nothing	Nocturne	LIKE	F9Hn-mIY6YY	MPREb_vNAFrC5HS2I	UCbaJZUVqfEZPtwaUzGgdZ8A
 94	A Dancing Shell	Wild Nothing	A Dancing Shell	LIKE	GFyJku_5kJ4	MPREb_KToF5mfjKRt	UCbaJZUVqfEZPtwaUzGgdZ8A
@@ -17,6 +18,7 @@
 115	Metamodernity	Vansire	Metamodernity	LIKE	PiLc3m59qIw	MPREb_Sl6kNgTVzLB	UCXnU9Wc2jnOuSo1jzFhAA9g
 120	Halcyon Age	Vansire	Angel Youth	LIKE	vM_XfwNTeCY	MPREb_Bvh68M3RMMx	UCXnU9Wc2jnOuSo1jzFhAA9g
 103	RUNNING OUT OF TIME	Tyler, The Creator	IGOR	LIKE	Uyf_lImpdRw	MPREb_TDKJNChbDy4	UCo1DYcm1IZ9v3UPkpiAcgtg
+137	Slow	Twin Shadow	Forget	LIKE	HRecCz8lVBM	MPREb_TYANazM92ek	UCMUB52aO4CqrUXmLwbfRWYA
 140	Mirage	Toro y Moi	Boo Boo	LIKE	OogtUQWYHck	MPREb_iskeONxPDbY	UCJikOjbf3VffCdLXTsbxfxg
 25	Thinking of a Place	The War On Drugs	A Deeper Understanding	LIKE	NVKbnXRXQog	MPREb_hHa4zrbcnHn	UCnAZ69DaeHv6RR63qdp1U8g
 54	Sunday Morning	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	kSC_IoD-Bxw	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
@@ -49,15 +51,19 @@
 46	I Didn't Know	Skinshape	Filoxiny	LIKE	mCgorrefSDA	MPREb_GYNubkM2YyW	UCil1XLYzKqVoM_2C_4tyOLA
 36	Three Seed	Silversun Pickups	Carnavas	LIKE	0kdH3JuK_Po	MPREb_BEV46g18wUR	UCJlu3bHpzWc2fKG_GbBIk8Q
 152	Isabella of Castile	STRFKR	Starfucker	LIKE	G00TC1R_Rv8	MPREb_zIijQD0k6VB	UCL6qpCZZBTfp1MtI3bmL7jw
+47	Pope Is a Rockstar	SALES	SALES LP	LIKE	jRFpmA4IIAo	MPREb_S9FiZOQdBIq	UCBMWt1VFr9su8Cx4TjSXklQ
 29	Imagine Hearts	Ringo Deathstarr	Colour Trip	LIKE	IQJb1Hd25TM	MPREb_V1gXgYnNHAF	UCqd_7H-DNz47gMCsGB3eKXA
 18	Dreams Burn Down (2001 Remaster)	Ride	Nowhere (Expanded)	LIKE	uPbuRd2SDsM	MPREb_NVrtAYqRUvJ	UC1agXNA0qr9yCDX6gYOcKAg
 107	Vapour Trail	Ride	OX4: The Best Of	LIKE	TukykwouUW0	MPREb_nFL2fonlJIF	UC1agXNA0qr9yCDX6gYOcKAg
 121	Lannoy Point	Ride	Weather Diaries	LIKE	u4-8L7ilOsk	MPREb_IgDkpI0NPIJ	UC1agXNA0qr9yCDX6gYOcKAg
 122	Sennen (2001 Remaster)	Ride	Nowhere (Expanded)	LIKE	FCMwmVLWKLA	MPREb_NVrtAYqRUvJ	UC1agXNA0qr9yCDX6gYOcKAg
+8	Talking Backwards	Real Estate	Atlas	LIKE	WuXu-_sXJRQ	MPREb_zgMy5D3yEQS	UCTGjXChUUJcFlj_MotDrg1w
+17	Had To Hear	Real Estate	Atlas	LIKE	FkmbcxzpWKA	MPREb_zgMy5D3yEQS	UCTGjXChUUJcFlj_MotDrg1w
 128	El Pico	Ratatat	Ratatat	LIKE	IchOgSt_I3I	MPREb_7ZJqMXYBWlX	UCbqBqmG-EXTUsp2v4SHGDRg
 139	Ghostwriter	RJD2	Deadringer: Deluxe	LIKE	hY08FkhpPjk	MPREb_F2JjMWcK2CZ	UCi4oHqkqejwf7RWmHKaKKkA
 149	Finally Moving	Pretty Lights	Taking up Your Precious Time	LIKE	rSW-L4kXun8	MPREb_kkj7Wdo18Ou	UCuHE6eYVXY4r9ojLNyqvuOw
 133	Roads	Portishead	Dummy	LIKE	7nxWP9BhI7w	MPREb_G6JQUdInW98	UCweAx0TIRdAylp6G1nviqbQ
+71	Car	Porches	Pool	LIKE	L8aWT8IqLvQ	MPREb_za5XJfZjeZH	UC77Q0vvwpnfa6rybo4IJyrQ
 126	Backwords	Porcelain Raft	Strange Weekend	LIKE	3l8i2uj3nAw	MPREb_2GzO04NommI	UCRBsvrQSXklXo2P4AYGAz1g
 76	Being so Normal	Peach Pit	Being So Normal	LIKE	3jxiD3Up3mw	MPREb_4oCdpw2xHfx	UC8bfKXJLaQn-Nsg60VoMrUQ
 146	Aquarium	Nosaj Thing	Views/Octopus EP	LIKE	UPNfbpsGsrs	MPREb_h4Hb1Gc8mSj	UCg-Tm8zz9_VME3VvV9mVN0Q
@@ -93,6 +99,7 @@
 129	I Guess I Should Go To Sleep	Jack White	Blunderbuss	LIKE	_Oc7ZTfJ8Sk	MPREb_gRf4NlMZnUt	UCL5YsYJMZ-S5SU4_RQOWEPw
 138	FUSE	Hudson Mohawke	Butter	LIKE	DamtMmO_NCo	MPREb_qGzLwWf3dqp	UCB9xU4WcqTheZX69u2sYWeA
 90	Escapism	Holy Wave	Interloper	LIKE	5mCv7dwYjHA	MPREb_OMQVNpvG8zD	UC2qO7aL5hhhsS5v326P7eEw
+3	Above Us	Hibou	Hibou	LIKE	VZi81KgXKtc	MPREb_GQopmqDF849	UC-aJ8BmeegNcUpGmnx9UCiQ
 28	What Once Was	Her's	What Once Was	LIKE	l-rjYVI3OMo	MPREb_UQqxBaYwkwY	UCBPnTvZWrgPwSMiPP8b5ZvA
 45	Headache	Grouper	Paradise Valley	LIKE	3322M2ugWp8	MPREb_WCceth5DMJ1	UCxdqU4_Mit1HOXesHvs3g3Q
 50	Heavy Water/I'd Rather Be Sleeping	Grouper	Dragging a Dead Deer Up a Hill	LIKE	OLR9oEnYLxs	MPREb_EAydIVPSKWH	UCxdqU4_Mit1HOXesHvs3g3Q
@@ -100,11 +107,17 @@
 74	Realiti (Demo)	Grimes	Realiti (Demo)	LIKE	Yji6m9R75jQ	MPREb_j9bPPOLd5k4	UCzVh-F-RZdTHGV3S1o4KBWQ
 114	Genesis	Grimes	Visions	LIKE	K8B_XDKozvA	MPREb_yC4awaI50HN	UCzVh-F-RZdTHGV3S1o4KBWQ
 20	Warned You	Good Morning	Shawcross	LIKE	iNGfYnyv9BU	MPREb_fNQvqmA77Za	UCUWBedYLbCpXOS13_RSWAsA
+151	You	Gold Panda	Lucky Shiner	LIKE	YexwvQx1ukg	MPREb_kJtJor6vVFz	UC68yNj_3xz9ppq6zAG_wESQ
 101	Gold Dust	Duster	Stratosphere	LIKE	ghVC-ZXCxt0	MPREb_B1sOajhmNH5	UCZkINlw1KmC1GiOqyx3tBPA
 123	What's On Your Mind	Drug Store Romeos	What’s On Your Mind	LIKE	UgzaBPuoqmY	MPREb_cLQ648SsSmj	UCG25vPXWznUSCuvHWpuYI9w
 106	Great Mass of Color	Deafheaven	Infinite Granite	LIKE	CwaJenN_so8	MPREb_cs6iVzcJOXM	UCpJAUou7A5TOpQEoYSVP_zQ
 61	Follow	DIIV	Oshin	LIKE	neb8CALnsMg	MPREb_JvZ6JTPE0Sa	UCWumh0WXTLCjbZlEOLWtQLQ
 92	Under the Sun	DIIV	Under the Sun	LIKE	xQXHDDPgchg	MPREb_WRgOzOmkHU0	UCWumh0WXTLCjbZlEOLWtQLQ
+44	Always Forever	Cults	Static	LIKE	TlMgAsAmQKE	MPREb_yVYLg4wUIxV	UCeedwBSloWKEP_HNT5HDGWQ
+162	Go Outside	Cults	Go Outside	LIKE	lMrpVZtQHLU	MPREb_BiuHDn9D989	UCeedwBSloWKEP_HNT5HDGWQ
+13	Our Park By Night	Craft Spells	Our Park By Night	LIKE	dYM9440qtF0	MPREb_nyjwltRY4tI	UCEmVys_KDTs39jRTqU-tXdA
+37	Twirl	Craft Spells	Nausea	LIKE	GX2E3LWNZQU	MPREb_m0x8U2eFdEZ	UCEmVys_KDTs39jRTqU-tXdA
+125	After the Moment	Craft Spells	Idle Labor	LIKE	xuHgn5D95GE	MPREb_PftZoqWErQf	UCEmVys_KDTs39jRTqU-tXdA
 5	Carolyn's Fingers	Cocteau Twins	Blue Bell Knoll	LIKE	9869DezEfzI	MPREb_3xyXzK53a77	UCle3lHYlHgugefCCr78N1Gw
 6	Cherry-coloured Funk	Cocteau Twins	Heaven or Las Vegas	LIKE	PbbUeLkZt74	MPREb_iY3KmrGPlGD	UCle3lHYlHgugefCCr78N1Gw
 43	Lorelei	Cocteau Twins	Treasure	LIKE	o7tcFKakZTA	MPREb_KQPAb2UjRmN	UCle3lHYlHgugefCCr78N1Gw
@@ -145,25 +158,12 @@
 150	You Came to Me	Beach House	Devotion	LIKE	m8n5YXzeoyU	MPREb_KSVwToxA71U	UC785fnTclD2P2WQXRAt2BVg
 157	Wildflower	Beach House	Depression Cherry	LIKE	PcmgB-LjUoI	MPREb_6Ui257pBxny	UC785fnTclD2P2WQXRAt2BVg
 163	The Traveller	Beach House	Thank Your Lucky Stars	LIKE	Q1Ogfd4YEL0	MPREb_jOldWlzykHu	UC785fnTclD2P2WQXRAt2BVg
+158	This Year	Beach Fossils	Somersault	LIKE	cwk2_CDeDnw	MPREb_RDSuaAkpAGm	UCa3Tz2g-TF1oumK2paiC9yg
 26	Still Lovely	Banes World	Drowsy	LIKE	0-jj4A0W3Vs	MPREb_N0rQk7Dqowz	UCgYjSC02vQlw71GayT0BHEQ
 51	In Undertow	Alvvays	Antisocialites	LIKE	IGHTjD3MsMU	MPREb_lUaoR0Ji2Rg	UCijE8N5dNSqbRkhOcmsxWKw
 68	Dreams Tonite	Alvvays	Antisocialites	LIKE	7riZgMO8QSU	MPREb_lUaoR0Ji2Rg	UCijE8N5dNSqbRkhOcmsxWKw
 99	Not My Baby	Alvvays	Antisocialites	LIKE	ecrCsEMdnQM	MPREb_lUaoR0Ji2Rg	UCijE8N5dNSqbRkhOcmsxWKw
 109	Pharmacist	Alvvays	Blue Rev	LIKE	a15Cw8ZOXIA	MPREb_fZIqMQ576xj	UCijE8N5dNSqbRkhOcmsxWKw
 167	Airtight Angels	Airiel	Winks & Kisses: Crackled	LIKE	E0YsHRXEA6c	MPREb_n5yQvM3HmGC	UCts4WdGUmD9Zuu2w8AllDIQ
-159	Cannons	Youth Lagoon	The Year of Hibernation		nbHCM3dUcQo		
-137	Slow	Twin Shadow	Forget		HRecCz8lVBM		
-47	Pope Is a Rockstar	Sales	Sales		vmNdmlMkK28		
-8	Talking Backwards	Real Estate	Talking Backwards		hnOl601gYBQ		
-17	Had To Hear	Real Estate	Had To Hear		SdX4pSpkhtQ		
-71	Car	Porches	Car		24UMVIQkvao		
-3	Above Us	Hibou	Hibou		VZi81KgXKtc		
-151	You	Gold Panda	Lucky Shiner (Deluxe Edition)		bpuMdL0Xsss		
+153	Hanging On	Active Child	You Are All I See (Deluxe Version)	LIKE	PpZWUJCp8D4	MPREb_NKZ2JSNICHM	UCuGmKFcmQDIGqUUyz7eulIQ
 98	Ontario Gothic	Foxes In Fiction	Ontario Gothic		CvBbMZb9SbU		
-44	Always Forever	Cults	Static (10th Anniversary Edition)		2INF6ASqgiQ		
-162	Go Outside	Cults	Go Outside		cZiMA5Lu_MA		
-13	Our Park By Night	Craft Spells	All Back To: Tycho		D4C44y_TCrw		
-37	Twirl	Craft Spells	Nausea		GX2E3LWNZQU		
-125	After the Moment	Craft Spells	After the Moment		010Y7prdNY0		
-158	This Year	Beach Fossils	Somersault		cwk2_CDeDnw		
-153	Hanging On	Active Child	You Are All I See (Deluxe Version)		PpZWUJCp8D4		

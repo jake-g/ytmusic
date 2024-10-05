@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 12	Mi Cosa (Take 1)	Wes Montgomery Trio	Guitar On The Go	LIKE	AbnjhNfLeCI	MPREb_FIMnDhFKwvg	UCYs8ep9Xe3RQc3Oy4BWKNAw
+24	'Round Midnight	Wes Montgomery Trio	The Wes Montgomery Trio (Expanded Edition)	LIKE	nA___-b3Fn4	MPREb_5vZA13y0CQ3	UCYs8ep9Xe3RQc3Oy4BWKNAw
+9	A Day In The Life	Wes Montgomery	A Day In The Life	LIKE	psvs4axQ10A	MPREb_V5BjZ0IR6IQ	UCYs8ep9Xe3RQc3Oy4BWKNAw
 23	Greensleeves	Wes Montgomery	Road Song	LIKE	OT7ctovBtJI	MPREb_Z5W6Q9jntoR	UCYs8ep9Xe3RQc3Oy4BWKNAw
 53	While We're Young	Wes Montgomery	So Much Guitar!	LIKE	_ajWF-8XTCw	MPREb_MmqwfqnChK9	UCYs8ep9Xe3RQc3Oy4BWKNAw
 66	I Wish I Knew	Wes Montgomery	So Much Guitar!	LIKE	OEqNewy3VVc	MPREb_MmqwfqnChK9	UCYs8ep9Xe3RQc3Oy4BWKNAw
@@ -50,10 +52,12 @@
 15	I Could Have Told You	Johnny Smith	Johnny Smith Plays Jimmy Van Heusen	LIKE	Ie-0-RiaVWY	MPREb_G849Ym1nbjr	UCOQ5iX2y8S1mVAM-oVDvc8Q
 47	Macho's Lullaby	Johnny Smith	Legends: Solo Guitar Performances	LIKE	KOniJtg2XSk	MPREb_bBvniW4XXFe	UCOQ5iX2y8S1mVAM-oVDvc8Q
 61	Golden Earrings	Johnny Smith	Legends: Solo Guitar Performances	LIKE	2xJFJO8ayyc	MPREb_bBvniW4XXFe	UCOQ5iX2y8S1mVAM-oVDvc8Q
+68	'Round Midnight	Johnny Smith	Legends: Solo Guitar Performances	LIKE	fjfoxojpta8	MPREb_bBvniW4XXFe	UCOQ5iX2y8S1mVAM-oVDvc8Q
 67	Prelude To A Kiss	John Stowell	Resonance	LIKE	Cy8RDr-cE7Y	MPREb_SZ5mzbfA5UL	UCZ5IjD_xWit4TC8e7OzGYpg
 57	Hearts and Flowers	John Mclaughlin	My Goal's Beyond	LIKE	4gN-AiOB3v8	MPREb_C346sGyTAVJ	UCUKXzt2lcaDIvxkMCRewp5g
 13	How High The Moon	Joe Pass	Virtuoso (OJC Remaster)	LIKE	8vzHC6neACk	MPREb_GckerSOMNRy	UCUfeynRCKYDZookRWnEPfIQ
 19	My Old Flame	Joe Pass	Virtuoso	LIKE	4Z0gG8Qr0jA	MPREb_0k5S8AEC1jQ	UCUfeynRCKYDZookRWnEPfIQ
+32	'Round Midnight	Joe Pass	Virtuoso (OJC Remaster)	LIKE	nrcCJ_r_Ak8	MPREb_GckerSOMNRy	UCUfeynRCKYDZookRWnEPfIQ
 37	Sweet Lorraine	Joe Pass	Virtuoso (OJC Remaster)	LIKE	op-jbBl6TcQ	MPREb_GckerSOMNRy	UCUfeynRCKYDZookRWnEPfIQ
 31	Moonlight In Vermont	Jimmy Bruno	Burnin'	LIKE	bpzXhMQ-Fjg	MPREb_tPorJoudPAi	UC9MTkLzrUKHrwbocHquM2QQ
 40	Misty (feat. Jimmy Bruno)	Jimmy Bruno	Solo	LIKE	H-p6hy67G-U	MPREb_S3WCovthKN0	UC9MTkLzrUKHrwbocHquM2QQ
@@ -66,7 +70,9 @@
 74	It Could Happen To You	Herb Ellis	Ellis In Wonderland	LIKE	bLZpn6bfVNs	MPREb_lUH9RI1a81X	UCMGEDFjSOOh7q2iuhpfQT8Q
 89	Oh, Lady Be Good	Herb Ellis	Guitar / Guitar	LIKE	i0_RW6XnMWA	MPREb_VEVxe1fiVRA	UCMGEDFjSOOh7q2iuhpfQT8Q
 59	Come Sunrise	Grant Green	Blue Guitar	LIKE	BA5Fo4_y01k	MPREb_4yz2iMtxajD	UC0bbAAPQu2YK6Sw-FrKAKQw
+29	Tangerine	George Van Eps	Legends: Solo Guitar Performances	LIKE	Jqp_32O6iE8	MPREb_bBvniW4XXFe	UCuoSgn9eHffUS4dhxhOQOyg
 48	Rome Montage	Gene Bertoncini	Jobim/someone To Light Up My	LIKE	ki0k37Mr73w	MPREb_oX3oqjwWOOm	UCfu6eln3iCHtJiPfix1W4zw
+34	Angel Eyes	Frank Vignola	Blues For A Gypsy	LIKE	eDKKE4jxxGk	MPREb_ARSrKP9Nn0G	UCg6riEu1hcc6rXvZyl9FsXQ
 86	Laura	Frank Vignola	Blues For A Gypsy	LIKE	m1gsMWw1pBI	MPREb_ARSrKP9Nn0G	UCg6riEu1hcc6rXvZyl9FsXQ
 3	The Summer Knows	Earl Klugh	Naked Guitar	LIKE	Sq_Y8KVDmwQ	MPREb_Z02NRmbHE9c	UCo41UuA1EakxiUtwjgQZ06A
 6	Moon River	Earl Klugh	Naked Guitar	LIKE	7JJ93nWke20	MPREb_Z02NRmbHE9c	UCo41UuA1EakxiUtwjgQZ06A
@@ -85,10 +91,4 @@
 25	Liable to Wyble	Ant Law	Liable to Wyble	LIKE	kfeU0pONsgk	MPREb_vXDdAbtqA3G	UCBKSkfX44gfA47ajil4lLqQ
 51	Love Letters	Andy Brown	Trio and Solo	LIKE	fL5YWQIVLBM	MPREb_KTjXFqmgEQC	UCfWbb-f_yuZTses7TiJeuHA
 80	Don't Blame Me	Al Viola	Solo Guitar	LIKE	49Fv297oIKM	MPREb_PbnJH9LKS40	UC2Bp9f4CSMqpxhDMgi5TiUQ
-24	'Round Midnight	Wes Montgomery Trio	Pretty Blue [2-fer]		JLaeJ27Lbsg		
-9	A Day In The Life	Wes Montgomery	Day Tripper: Jazz Greats Meet The Beatles Volume 1		PaRtuRaTQCo		
 22	Body And Soul	Philip Catherine, Hein Van de Geyn, & Aldo Romano	September Sky		duuiF-EVTZ8		
-68	'Round Midnight	Johnny Smith	Legends: Solo Guitar Performances		fjfoxojpta8		
-32	'Round Midnight	Joe Pass	Virtuoso		lrO8gd--WPc		
-29	Tangerine	George Van Eps	Legends: Solo Guitar Performances		Jqp_32O6iE8		
-34	Angel Eyes	Frank Vignola	Blues For A Gypsy		eDKKE4jxxGk		

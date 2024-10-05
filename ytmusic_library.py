@@ -1,6 +1,7 @@
 import os
 import time
 import datetime
+import unicodedata
 import pandas as pd
 from collections import defaultdict
 from ytmusicapi import YTMusic
@@ -12,7 +13,7 @@ SKIP_PLAYLIST_BACKUP = False
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
-PLAYLIST_LIMIT = 6000
+PLAYLIST_LIMIT = 5000
 
 # Settings for automated radio playlist like dislike not like cleanup.
 SKIP_PLAYLIST_CLEAN = False
@@ -378,24 +379,65 @@ class YTMusicPlaylists:
             self._info_cache[playlistId] = info
         return info
 
-    def playlist_from_tsv(self, tsv_path, sort_by_index=True, ignore_banned=False):
+    def playlist_from_yt_vids(self, vids, pl_name=None, sleep=3, public='PRIVATE', desc='',
+                              dry=False, set_rating=None, remove_dupes=False, verbose=False):
+
+        vids = frozenset(vids)
+        print(f'\nGenerating {pl_name} ytmusic playlist for {
+              len(vids)} tracks')
+        pl_str = f'{len(vids)} tracks from {pl_name} [{DATE}]'
+        if dry:
+            print('DRY:', end=' ')
+        pl_id = None
+        if pl_name in self.playlists['title'].unique():
+            # Update existing
+            pl_id = self.query_by_title(pl_name).playlistId
+            if not dry:
+              _ = self.yt.add_playlist_items(
+                  playlistId=pl_id, videoIds=vids, duplicates=False)
+            print(f'Updated {pl_name} playlist with {len(vids)} tracks, playlist id:',
+                  f'{pl_id}...waiting {sleep} seconds...')
+        else:  # Create new
+          if not dry:
+            pl_id = self.yt.create_playlist(
+                title=pl_name, description=desc,
+                privacy_status=public, video_ids=list(vids)
+            )
+          print(f'Saved {pl_name} playlist with {len(vids)} tracks and playlist id:',
+                f'{pl_id}, waiting {sleep} seconds...')
+        time.sleep(sleep)
+
+        if dry:
+          print(f'Set rating to: {set_rating},', 
+                f'remove duplicates: {remove_dupes}')
+        else:
+          pl_info = self.playlist_get_info(pl_id)
+          if remove_dupes:
+            self.playlist_remove_duplicates(
+                pl_info, duplicate_threshold=DUPLICATE_THRESHOLD,
+                verbose=verbose, sleep_time=sleep)
+          if set_rating:
+            _ = self.playlist_rate_all_songs(
+                pl_info, rating=set_rating, skip_if_dislike=True,
+                verbose=verbose, sleep_time=sleep)           
+        return pl_id
+      
+    def playlist_from_tsv(self, tsv_path, sort_by_index=True,
+                          ignore_banned=False, pl_name=None, sleep=3,
+                          public='PRIVATE', dry=False):
         assert tsv_path.endswith('.tsv')
         df = pd.read_csv(tsv_path, sep='\t', index_col=0)
-        pl_name = os.path.basename(tsv_path).split('.tsv')[0]
-        print(f'\nGenerating {pl_name} ytmusic playlist for {len(df)} tracks')
+        if not pl_name:
+          pl_name = os.path.basename(tsv_path).split('.tsv')[0]
         if sort_by_index:
             df = df.sort_index()
         if ignore_banned:
             vids = df.videoId
         else:
             vids = frozenset(df.videoId.unique()) - self.banned_vid_set
-        pl_str = f'{len(vids)} tracks from {pl_name} [{DATE}]'
-        pl_id = self.yt.create_playlist(
-            title=pl_name,
-            description=f'Matched local tsv playlist: {pl_str}',
-            privacy_status='PRIVATE', video_ids=list(vids)
-        )
-        print(f'Saved {len(vids)} {pl_name} tracks playlist with id: {pl_id}')
+        desc = f'Matched local tsv playlist: {pl_name}'
+        self.playlist_from_yt_vids(vids, pl_name, sleep, public, desc, dry)
+
 
     def parse_tracks(self, track_list):
         tracks = pd.DataFrame(track_list)
@@ -765,7 +807,7 @@ class YTMusicPlaylists:
                                    duplicate_threshold=DUPLICATE_THRESHOLD,
                                    sleep_time=0.5, verbose=False):
         if verbose:
-            print(f'Playlist {pl_info["title"]}: Found {pl_info["tracks"]}',
+            print(f'Playlist {pl_info["title"]}: Found {len(pl_info["tracks"])}',
                   'tracks to check for duplicates')
         track_ids = [t['videoId'] for t in pl_info['tracks']]
         tracks_unique = frozenset(track_ids) - self.banned_vid_set
@@ -905,8 +947,8 @@ class YTMusicPlaylists:
         radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
 
         # General automated task playlist todos
-        # TODO add playlist to super playliusts if exist see pdf
-        # TODO auto generate some date based like playlsiysd
+        # TODO add playlist to super playlists if exist see pdf
+        # TODO auto generate some date based like playlists
         # TODO move based on playcount (if not LIKE infer NOT_LIKE based on large playcount)
 
         # Clean radio playlists, move like, dislike, not_like.
@@ -935,23 +977,26 @@ class YTMusicPlaylists:
               'minutes', flush=True)
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
-                          remove_disliked=False, yt_user='Jake G'):
+                          remove_disliked=False):
         tracks, metadata = self.parse_playlist(pl_info, verbose=True)
         tracks['playlists'] = pl_info['title']
         if remove_disliked:
             tracks_disliked = tracks.loc[tracks['likeStatus'] == 'DISLIKE']
-            if (len(tracks_disliked) and
-                    metadata['author']['name'] == yt_user):
-                print(f'Removing {len(tracks_disliked)}',
-                      f'tracks:\n{tracks_disliked["title"]}')
-                self.yt.remove_playlist_items(
-                    metadata['id'], tracks_disliked.to_dict('records'))
-                tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
-        if len(tracks):
-            tracks = tracks.sort_values(  # Sort tsv by like, then artist
+            # metadata['author']['name'] == 'Jake G' # author storage changed in yt?
+            if len(tracks_disliked):
+                try:
+                  print(f'Removing {len(tracks_disliked)}',
+                        f'tracks:\n{tracks_disliked["title"]}')
+                  self.yt.remove_playlist_items(
+                      metadata['id'], tracks_disliked.to_dict('records'))
+                  tracks = tracks.loc[tracks['likeStatus'] != 'DISLIKE']
+                except Exception as e:
+                  print(f"Failed to remove dislike, error:\n{e}")
+        if len(tracks):  # Sort tsv by like, then artist
+            tracks = tracks.sort_values(
                 ['likeStatus', 'artist'], ascending=False)
-            fname = os.path.join(
-                self.playlist_tsv_dir, f"{pl_info['title']}.tsv")
+            fname = os.path.join(self.playlist_tsv_dir, f"{
+                                 pl_info['title']}.tsv")
             tracks[track_cols].to_csv(fname, sep='\t', header=True)
         return tracks, metadata
 
@@ -1088,6 +1133,8 @@ class YTMusicPlaylists:
         copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
         copy_album_cols = ['type', 'trackCount', 'year']  # 'duration',
         track_str = f"{row['artist']} - {row['album']} - {row['title']}"
+        track_str = unicodedata.normalize('NFKD', track_str).encode('ascii', 'ignore').decode('ascii')
+
         if type(row['artistId']) != str:
             print(f'\nERROR: row["artistId"] not a str for row: {track_str}')
             return row
