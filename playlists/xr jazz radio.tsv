@@ -1,9 +1,11 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 220	Lotus 72 D (Fast Version)	Zé Roberto	Lotus 72 D	LIKE	8XCAGBc7X2Y	MPREb_lSfUfGpQ3IS	UCF9F0lWMK-N9RaGepstMlGA
 160	Four On Six (feat. Tommy Flanagan, Percy Heath & Albert Heath)	Wes Montgomery	The Incredible Jazz Guitar (Keepnews Collection)	LIKE	9PD2Q7TXmvU	MPREb_ExKlvjP0Cm7	UCYs8ep9Xe3RQc3Oy4BWKNAw
+105	Take Five (Live)	The Dave Brubeck Quartet	At Carnegie Hall	LIKE	sy77iur-4_s	MPREb_oqvNo5GeVi7	UCMBevFAp40kVlvIcOvzv5Bw
 95	Don't You Worry 'Bout A Thing	Stevie Wonder	Innervisions	LIKE	RxsBc5p-dPU	MPREb_HQxE96d4Cve	UCR83RRXHzXrEQbu_ZQmPMSg
 19	Is It a Crime	Sade	Promise	LIKE	uScPm9AQYjw	MPREb_TUbd1UJ765x	UCgxBu-PnULL4WRG7HcNpRvg
 152	On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue (Legacy Edition)	LIKE	DR_SnnWhlrM	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
+67	Suit & Tie (feat. Jay-Z)	Justin Timberlake	The 20/20 Experience (Deluxe Version)	LIKE	L8Jj2LeZNDo	MPREb_TRM5fgcLz94	UC6VwktUsQQDCkHG1h6YftAQ
 128	Giant Steps	John Coltrane	Giant Steps (Mono)	LIKE	g8QnKWPYRCs	MPREb_BJKgP7wXKcO	UCH4T2kv7rr9qnuP0DOXLxMA
 141	Portrait of Tracy	Jaco Pastorius	Jaco Pastorius	LIKE	WPsiuGcUniQ	MPREb_MPwPsljX6n0	UCMqkrvIKlZTAv2zTYXy1YjA
 212	Dream A Little Dream Of Me	Ella Fitzgerald	Sings - Back Through The Years/A Centennial Celebration	LIKE	cnnmLtP-wtM	MPREb_zSnSHqCnwxa	UCuMHq8jMRZXpUxSGLBuCa9g
@@ -29,7 +31,6 @@
 6	Crazy Race	The RH Factor	Distractions	INDIFFERENT	v201PxvQ4qM	MPREb_uApi00L2RGH	UCN0WzCspjoK3LT7dM7hnHBQ
 199	Juicy (feat. Renee Neufville & Karl Denson)	The RH Factor	Hard Groove	INDIFFERENT	xQR-bDbrz3c	MPREb_QhsQzV3ZhTi	UCN0WzCspjoK3LT7dM7hnHBQ
 8	Caravan (Live At The Apollo/2001) (feat. The J.B. Dancers)	The James Brown Band	Live At The Apollo, Vol. II (Deluxe Edition)	INDIFFERENT	satd-w9X9HA	MPREb_2mMAD1aFKZw	UCLSKiNGc_qBWJJ-m5y3jDEw
-105	Take Five (Live)	The Dave Brubeck Quartet	At Carnegie Hall	INDIFFERENT	sy77iur-4_s	MPREb_oqvNo5GeVi7	UCMBevFAp40kVlvIcOvzv5Bw
 210	"The Imperial March (Darth Vader's Theme) [From ""The Empire Strikes Back""]"	The Andrew Allen Trio	Live! from the Cantina: A Star Wars Jazz Tribute	INDIFFERENT	ihIfomgYZCE	MPREb_dkR8wK5hIA9	UCCbpLl0C4vJnSWnTXbS0y6g
 196	Crayola	Terri Lyne Carrington	The Mosaic Project	INDIFFERENT	ex_wo9DelUE	MPREb_7L0G25XsBne	UC4mC0JTLeV66VrmOhghc7dQ
 211	Unconditional Love	Terri Lyne Carrington	The Mosaic Project	INDIFFERENT	RncPYbAjBms	MPREb_7L0G25XsBne	UC4mC0JTLeV66VrmOhghc7dQ
@@ -106,7 +107,6 @@
 197	Diatom Ribbons (feat. JD Allen & Tony Malaby)	Kris Davis	Diatom Ribbons	INDIFFERENT	DlxopIukVPA	MPREb_eUJSPTxbrTv	UCyDwsO5DP02SllIe5GjIDmA
 149	The Magnificent 7	Kamasi Washington	The Epic	INDIFFERENT	hO48l0JISrg	MPREb_BZTtO2ccc3M	UC0G-IaG6Q0eawu8N_6OAZxw
 27	Hey (Extended Mix)	KING	We Are KING	INDIFFERENT	-3q1G9Nu-Mw	MPREb_2cMC3JSJ8NV	UCuhv1CDrfQly1Faj5hxT9WA
-67	Suit & Tie (feat. Jay-Z)	Justin Timberlake	The 20/20 Experience (Deluxe Version)	INDIFFERENT	L8Jj2LeZNDo	MPREb_TRM5fgcLz94	UC6VwktUsQQDCkHG1h6YftAQ
 125	Lovely Day (feat. Lalah Hathaway)	José James	Lean On Me	INDIFFERENT	UdLQKjDC65g	MPREb_OZ9kiGkHEZ7	UCqbEjbr75QR8InAFtF_Lt3w
 228	Goodbye Pork Pie Hat (Live)	Joni Mitchell	Shadows and Light	INDIFFERENT	33eHTJI1iKg	MPREb_W4bS3Fc3awQ	UCvlAqrv-_NlUzyFFhhep7PQ
 198	I Can't Play Piano, Pt. 1	Jon Benjamin - Jazz Daredevil	Well, I Should Have…*	INDIFFERENT	DTQEVXLAfc4	MPREb_4t4CnprUsz4	UCnlHtbD_iR-dk_f6dQZqsng
@@ -120,7 +120,7 @@
 227	Jobimiola (feat. Kenny Barron, Rufus Reid & Victor Lewis)	Joel Frahm	We Used To Dance	INDIFFERENT	4Xo2k3otjvs	MPREb_zvPT2tCuVlB	UCim6GB_CqdvUr51Fpn34PwQ
 117	Carinhoso	Joan Chamorro	Joan Chamorro Presenta Rita Payés	INDIFFERENT	yVZqotE7Vb4	MPREb_UlVUvfj0WYV	UCwHaVyDT__LGBh_Wk4OhwlA
 133	After You´ve Gone (feat. Magalí Datzira, Rita Payés, Andrea Motis & Eva Fernández)	Joan Chamorro	Joan Chamorro Presenta La Màgia De La Veu	INDIFFERENT	WOEZRJ2s730	MPREb_P2nIWeMf1Bl	UCwHaVyDT__LGBh_Wk4OhwlA
-224	Blue Yodel #9	Jimmie Rodgers	Southern Style: Old Country, Vol. 2	INDIFFERENT	KAqiBcLNIws	MPREb_ZoVlUV7AfYD	UCDPF9Qcvvj_U1pibZIlxa8g
+224	Blue Yodel #9	Jimmie Rodgers	Southern Style: Old Country, Vol. 2	INDIFFERENT	KAqiBcLNIws	MPREb_ZoVlUV7AfYD	UCJmaWwBmU7wHA0TGnrrLO5Q
 20	So In Love (feat. Anthony Hamilton)	Jill Scott	The Light Of The Sun	INDIFFERENT	HfmKR4mus08	MPREb_cUlNTwzw71k	UCYAoAgoEY3HPmybt1JxsT9Q
 135	Night in Tunisia	Jesus Molina	Night in Tunisia	INDIFFERENT	0PLQPrllD7c	MPREb_PHOEo0xvTVT	UCCChxKSz8UoL-7wBFSETX3Q
 29	Cantaloupe Island (Live)	Jeff Goldblum & The Mildred Snitzer Orchestra	Cantaloupe Island (Live)	INDIFFERENT	GRV5LXJHmSQ	MPREb_0Xx5SbkouOi	UCmFvyRhqW_UtVs2aJX7rnkg

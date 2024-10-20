@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+21	Articulate Silences, Pt. 2	Stars of the Lid	And Their Refinement of the Decline	LIKE	xyQTPSSNL3g	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 147	AQUA	喜多郎	OASIS[Remaster]	INDIFFERENT	snEV4zAS9yY	MPREb_a0M3tu1fmpz	UCmT7boRTz-trisk5E1xi2VA
 154	日の出	冨田勲	PLANET ZERO Freedommune＜zero＞session with Dawn Chorus	INDIFFERENT	rnsa5pWAsQY	MPREb_ctB8dK3IGCv	UCsL9kETPSESvw3YPSJvOKPw
 130	834.194	sakanaction	834.194	INDIFFERENT	0pId-CkeR28	MPREb_b2ZkPKDNbSz	UCtHYsFMAI733Qy6Es3wDU6g
@@ -58,7 +59,6 @@
 91	The Edge of Forever	Stellardrone	Invent the Universe	INDIFFERENT	KB5IfpRszp0	MPREb_47CTAoFKoZB	UCLudkhjWHjTE95LWYZGDPMQ
 54	Love on a Real Train	State Azure	Dreams	INDIFFERENT	FIY5aCDvdNM	MPREb_QwCuq61ftsG	UC-6hZ28hOv7epr6zUFE84pA
 9	I Will Surround You	Stars of the Lid	Avec Laudenum	INDIFFERENT	bxrhra2_MZ8	MPREb_NAGjhDC9BS2	UCkMYV7hVzSgOako9Vo584-Q
-21	Articulate Silences, Pt. 2	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	xyQTPSSNL3g	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 167	Crashing Sphere	Starkey	Orbits	INDIFFERENT	D0oBkTzcAjM	MPREb_eYxUJvgnBAE	UCFUI5Lywz18XdtFYR59dGuw
 96	Meteor	Sphäre Sechs	Transient Lunar Phenomenon	INDIFFERENT	I0t7byXFU6M	MPREb_eFvLgW4YizK	UClg1QF9J5vbi1hebhFXjK1A
 90	Soul Dreamer	Spectrum Vision, Unusual Cosmic Process	Soul Dreamer	INDIFFERENT	07TRyhaqMZg	MPREb_YURNGGTWAoF	UC_YhBsKlwpq1dy1vS-UP2og
@@ -185,8 +185,6 @@
 75	Eventually	Innesti	In Letters	INDIFFERENT	3oznuEpAIr0	MPREb_BMddT1lOXJ8	UCS86Tn3qzGLHXKAeDfVnU9w
 164	Wimbledon 1980	Indian Wells	Night Drops	INDIFFERENT	-6Juch0VAHM	MPREb_fQKoKDXxDO4	UCwS7HkdqBKOPoBgDnyzs-5A
 183	Astral Airways	Imploded View	Picnics With Pylons	INDIFFERENT	48Xu7PcYCHs	MPREb_c7lQgosUsXM	UCYwPlRhaJ9u_gr5CNsEiEeg
-88	Follow You	INDRAGERSN	Dive	INDIFFERENT	nWNsfE2U5qU	MPREb_5Jw46HLo6M3	UCbh73hqgefePRMlUBa9VuFg
-104	Safe Me	INDRAGERSN	Dive	INDIFFERENT	j8ge4qFkrvk	MPREb_5Jw46HLo6M3	UCbh73hqgefePRMlUBa9VuFg
 25	Nothing It Can	Helios	Moiety	INDIFFERENT	IV2hy2FQ_h8	MPREb_h71zDvOAmGM	UCUbg0pSvhe8dqSaZLmbluvw
 98	Bless This Morning Year	Helios	Eingya	INDIFFERENT	UgYpqdDsXGs	MPREb_EK34EkokzZt	UCUbg0pSvhe8dqSaZLmbluvw
 186	The Obeisant Vine	Helios	Ayres	INDIFFERENT	gVLONwDjIR8	MPREb_ChEFg1wM9mg	UCUbg0pSvhe8dqSaZLmbluvw
@@ -286,3 +284,5 @@
 68	Opalin	AES Dana	Memory Shell	INDIFFERENT	p1oGMZKEzZs	MPREb_scJdtUCpPE2	UC3ttCtTEWb9FXLAvewwWqNQ
 227	London	A Shoreline Dream	3...2...1... A Rocket Girl Compilation	INDIFFERENT	Cw3cy2YgVLM	MPREb_SIx24lnmxzy	UCjc4n3hUwYl7OEZTEjWH1MQ
 245	Saturday Morning	A Shoreline Dream	Avoiding the Consequences	INDIFFERENT	HXBuoferEEg	MPREb_zWMuvDRRtaA	UCjc4n3hUwYl7OEZTEjWH1MQ
+88	Follow You	INDRAGERSN	Dive		nWNsfE2U5qU		
+104	Safe Me	INDRAGERSN	Dive		j8ge4qFkrvk		

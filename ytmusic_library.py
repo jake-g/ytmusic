@@ -2,6 +2,7 @@ import os
 import time
 import datetime
 import unicodedata
+import random
 import pandas as pd
 from collections import defaultdict
 from ytmusicapi import YTMusic
@@ -16,10 +17,10 @@ DUPLICATE_THRESHOLD = 3
 PLAYLIST_LIMIT = 5000
 
 # Settings for automated radio playlist like dislike not like cleanup.
-SKIP_PLAYLIST_CLEAN = False
-PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
-PLAYLIST_CLEAN_MOVE_LIKE = True
-PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST = True
+SKIP_PLAYLIST_CLEAN = True #####################
+PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE = False #####################
+PLAYLIST_CLEAN_MOVE_LIKE =False #####################
+PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST = False #####################
 PLAYLIST_CLEAN_DRY_RUN = False
 PLAYLIST_CLEAN_SKIP_IF_DISLIKE = True
 PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT = 10
@@ -380,12 +381,13 @@ class YTMusicPlaylists:
         return info
 
     def playlist_from_yt_vids(self, vids, pl_name=None, sleep=3, public='PRIVATE', desc='',
-                              dry=False, set_rating=None, remove_dupes=False, verbose=False):
+                              dry=False, set_rating=None, remove_dupes=False, verbose=False,
+                              sort_by=None):
 
-        vids = frozenset(vids)
         print(f'\nGenerating {pl_name} ytmusic playlist for {
               len(vids)} tracks')
-        pl_str = f'{len(vids)} tracks from {pl_name} [{DATE}]'
+        if desc == '':
+          desc = f'{len(vids)} tracks from {pl_name} [{DATE}]'
         if dry:
             print('DRY:', end=' ')
         pl_id = None
@@ -393,35 +395,39 @@ class YTMusicPlaylists:
             # Update existing
             pl_id = self.query_by_title(pl_name).playlistId
             if not dry:
-              _ = self.yt.add_playlist_items(
-                  playlistId=pl_id, videoIds=vids, duplicates=False)
+                _ = self.yt.add_playlist_items(
+                    playlistId=pl_id, videoIds=vids, duplicates=False)
             print(f'Updated {pl_name} playlist with {len(vids)} tracks, playlist id:',
                   f'{pl_id}...waiting {sleep} seconds...')
         else:  # Create new
-          if not dry:
-            pl_id = self.yt.create_playlist(
-                title=pl_name, description=desc,
-                privacy_status=public, video_ids=list(vids)
-            )
-          print(f'Saved {pl_name} playlist with {len(vids)} tracks and playlist id:',
-                f'{pl_id}, waiting {sleep} seconds...')
+            if not dry:
+                pl_id = self.yt.create_playlist(
+                    title=pl_name, description=desc,
+                    privacy_status=public, video_ids=vids
+                )
+            print(f'Saved {pl_name} playlist with {len(vids)} tracks and playlist id:',
+                  f'{pl_id}, waiting {sleep} seconds...')
         time.sleep(sleep)
 
         if dry:
-          print(f'Set rating to: {set_rating},', 
-                f'remove duplicates: {remove_dupes}')
+            print(f'Set rating to: {set_rating},',
+                  f'remove duplicates: {remove_dupes},',
+                  f'sort by: {sort_by}')
         else:
-          pl_info = self.playlist_get_info(pl_id)
-          if remove_dupes:
-            self.playlist_remove_duplicates(
-                pl_info, duplicate_threshold=DUPLICATE_THRESHOLD,
-                verbose=verbose, sleep_time=sleep)
-          if set_rating:
-            _ = self.playlist_rate_all_songs(
-                pl_info, rating=set_rating, skip_if_dislike=True,
-                verbose=verbose, sleep_time=sleep)           
+            pl_info = self.playlist_get_info(pl_id, use_cache=False)
+            if remove_dupes:
+                self.playlist_remove_duplicates(
+                    pl_info, duplicate_threshold=DUPLICATE_THRESHOLD,
+                    verbose=verbose, sleep_time=sleep)
+            if set_rating:
+                _ = self.playlist_rate_all_songs(
+                    pl_info, rating=set_rating, skip_if_dislike=True,
+                    verbose=verbose, sleep_time=sleep)
+            if sort_by:
+                self.sort_playlist(pl_id, sort_by=sort_by)
+
         return pl_id
-      
+
     def playlist_from_tsv(self, tsv_path, sort_by_index=True,
                           ignore_banned=False, pl_name=None, sleep=3,
                           public='PRIVATE', dry=False):
@@ -437,7 +443,6 @@ class YTMusicPlaylists:
             vids = frozenset(df.videoId.unique()) - self.banned_vid_set
         desc = f'Matched local tsv playlist: {pl_name}'
         self.playlist_from_yt_vids(vids, pl_name, sleep, public, desc, dry)
-
 
     def parse_tracks(self, track_list):
         tracks = pd.DataFrame(track_list)
@@ -805,26 +810,89 @@ class YTMusicPlaylists:
 
     def playlist_remove_duplicates(self, pl_info,
                                    duplicate_threshold=DUPLICATE_THRESHOLD,
-                                   sleep_time=0.5, verbose=False):
+                                   sleep_time=0.5, verbose=False, shuffle=False):
         if verbose:
             print(f'Playlist {pl_info["title"]}: Found {len(pl_info["tracks"])}',
                   'tracks to check for duplicates')
-        track_ids = [t['videoId'] for t in pl_info['tracks']]
-        tracks_unique = frozenset(track_ids) - self.banned_vid_set
-        n_dupes = len(track_ids)-len(tracks_unique)
+        track_ids = [(t['videoId'], t['setVideoId'])
+                     for t in pl_info['tracks']]
+
+        if shuffle:
+            tracks_unique = list(
+                frozenset([t[0] for t in track_ids]) - self.banned_vid_set)
+            # Need to map back to original setVideoIds after shuffle, might lose order here
+            set_video_id_map = {t[0]: t[1] for t in track_ids}
+            tracks_to_keep = [{'videoId': vid, 'setVideoId': set_video_id_map.get(
+                vid)} for vid in tracks_unique]
+        else:
+            seen = set()
+            tracks_to_keep = [
+              x for x in pl_info['tracks'] if x['videoId'] not in seen and not seen.add(
+              x['videoId']) and x['videoId'] not in self.banned_vid_set
+            ]
+
+        tracks_to_remove = [
+            track for track in pl_info['tracks'] if track not in tracks_to_keep]
+        n_dupes = len(tracks_to_remove)
+
         if n_dupes >= duplicate_threshold:
-            new_id = self.yt.create_playlist(
-                title=str(pl_info['title']),
-                description=f"Dedupe [{DATE}] {str(pl_info['description'])}",
-                video_ids=list(tracks_unique)
-            )
-            time.sleep(sleep_time)
-            self.yt.delete_playlist(playlistId=pl_info['id'])
+            self.yt.remove_playlist_items(
+                playlistId=pl_info['id'], videos=tracks_to_remove)
             time.sleep(sleep_time)
             print(f'Playlist {pl_info["title"]}: {n_dupes} duplicate tracks',
-                  f'removed ({len(tracks_unique)} of {len(track_ids)} unique)')
-            return new_id
+                  f'removed ({len(tracks_to_keep)} of {len(pl_info["tracks"])} unique)')
         return pl_info['id']
+
+    def sort_playlist(self, playlist_id, sort_by="artist", reverse=False):
+        """Sorts a playlist by artist, album, like status, or randomly."""
+        playlist = self.yt.get_playlist(playlistId=playlist_id)
+        if not playlist or "tracks" not in playlist:
+            print(
+                f"Error: Could not retrieve playlist or playlist is empty {playlist_id}."
+            )
+            return None
+
+        if sort_by == "artist":
+            playlist["tracks"].sort(
+                key=lambda track: (
+                    track["artists"][0]["name"].lower() if track.get("artists") else "",
+                    track["album"]["name"].lower() if track.get("album") else "",
+                ),
+                reverse=reverse,
+            )
+        elif sort_by == "album":
+            playlist["tracks"].sort(
+                key=lambda track: track["album"]["name"].lower()
+                if track.get("album")
+                else "",
+                reverse=reverse,
+            )
+        elif sort_by == "likeStatus":
+            playlist["tracks"].sort(
+                key=lambda track: track.get("likeStatus", ""), reverse=reverse
+            )
+        elif sort_by == "random":
+            random.shuffle(playlist["tracks"])
+        else:
+            print(f"Error: Invalid sort_by value: {sort_by}")
+            return None
+
+        # Remove all items and re-add in sorted order
+        tracks_to_remove = playlist["tracks"]
+        self.yt.remove_playlist_items(playlistId=playlist_id, videos=tracks_to_remove)
+
+        # Adjust sleep time based on number of tracks and API limits
+        sleep_time_adjusted = 0.5 + (len(playlist["tracks"]) // 100) * 0.5
+        time.sleep(sleep_time_adjusted)
+
+        video_ids_sorted = [track["videoId"] for track in playlist["tracks"]]
+        self.yt.add_playlist_items(playlistId=playlist_id, videoIds=video_ids_sorted)
+
+        print(
+            f"Playlist {playlist_id} sorted by {sort_by} "
+            f"{'(reversed)' if reverse else ''}."
+        )
+        return playlist_id
 
     def playlist_get_all_like_playlists(self):
         like_playlists_ids = {}
@@ -973,7 +1041,7 @@ class YTMusicPlaylists:
             radio_results.to_csv(self.radio_cleanup_file, sep='\t')
             pl_counters.to_csv(self.cleanup_counters_file, sep='\t')
 
-        print(f'Completed in {(time.time() - start_time) / 60:.1f}', 
+        print(f'Completed in {(time.time() - start_time) / 60:.1f}',
               'minutes', flush=True)
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
@@ -1133,7 +1201,8 @@ class YTMusicPlaylists:
         copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
         copy_album_cols = ['type', 'trackCount', 'year']  # 'duration',
         track_str = f"{row['artist']} - {row['album']} - {row['title']}"
-        track_str = unicodedata.normalize('NFKD', track_str).encode('ascii', 'ignore').decode('ascii')
+        track_str = unicodedata.normalize(
+          'NFKD', track_str).encode('ascii', 'ignore').decode('ascii')
 
         if type(row['artistId']) != str:
             print(f'\nERROR: row["artistId"] not a str for row: {track_str}')
