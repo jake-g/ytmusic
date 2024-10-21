@@ -14,7 +14,7 @@ SKIP_PLAYLIST_BACKUP = False
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
-PLAYLIST_LIMIT = 5000
+PLAYLIST_LIMIT = 4000
 
 # Settings for automated radio playlist like dislike not like cleanup.
 SKIP_PLAYLIST_CLEAN = False
