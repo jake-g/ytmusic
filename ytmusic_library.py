@@ -22,6 +22,8 @@ PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
 PLAYLIST_CLEAN_MOVE_LIKE = True
 PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST = True
 PLAYLIST_CLEAN_DRY_RUN = False
+PLAYLIST_SLEEP = 5
+PLAYLIST_START_INDEX = 0
 PLAYLIST_CLEAN_SKIP_IF_DISLIKE = True
 PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT = 10
 PLAYLIST_CLEAN_LIKE_MIN_LIKE_PCT = 80
@@ -827,8 +829,8 @@ class YTMusicPlaylists:
         else:
             seen = set()
             tracks_to_keep = [
-              x for x in pl_info['tracks'] if x['videoId'] not in seen and not seen.add(
-              x['videoId']) and x['videoId'] not in self.banned_vid_set
+                x for x in pl_info['tracks'] if x['videoId'] not in seen and not seen.add(
+                    x['videoId']) and x['videoId'] not in self.banned_vid_set
             ]
 
         tracks_to_remove = [
@@ -848,15 +850,18 @@ class YTMusicPlaylists:
         playlist = self.yt.get_playlist(playlistId=playlist_id)
         if not playlist or "tracks" not in playlist:
             print(
-                f"Error: Could not retrieve playlist or playlist is empty {playlist_id}."
+                f"Error: Could not retrieve playlist or playlist is empty {
+                    playlist_id}."
             )
             return None
 
         if sort_by == "artist":
             playlist["tracks"].sort(
                 key=lambda track: (
-                    track["artists"][0]["name"].lower() if track.get("artists") else "",
-                    track["album"]["name"].lower() if track.get("album") else "",
+                    track["artists"][0]["name"].lower(
+                    ) if track.get("artists") else "",
+                    track["album"]["name"].lower(
+                    ) if track.get("album") else "",
                 ),
                 reverse=reverse,
             )
@@ -879,14 +884,16 @@ class YTMusicPlaylists:
 
         # Remove all items and re-add in sorted order
         tracks_to_remove = playlist["tracks"]
-        self.yt.remove_playlist_items(playlistId=playlist_id, videos=tracks_to_remove)
+        self.yt.remove_playlist_items(
+            playlistId=playlist_id, videos=tracks_to_remove)
 
         # Adjust sleep time based on number of tracks and API limits
         sleep_time_adjusted = 0.5 + (len(playlist["tracks"]) // 100) * 0.5
         time.sleep(sleep_time_adjusted)
 
         video_ids_sorted = [track["videoId"] for track in playlist["tracks"]]
-        self.yt.add_playlist_items(playlistId=playlist_id, videoIds=video_ids_sorted)
+        self.yt.add_playlist_items(
+            playlistId=playlist_id, videoIds=video_ids_sorted)
 
         print(
             f"Playlist {playlist_id} sorted by {sort_by} "
@@ -1022,7 +1029,7 @@ class YTMusicPlaylists:
         # Clean radio playlists, move like, dislike, not_like.
         if not SKIP_PLAYLIST_CLEAN:
             like_results, radio_results, pl_counters = self.clean_playlists(
-                verbose=False, sleep=1,
+                verbose=False, sleep=PLAYLIST_SLEEP,
                 do_dry_run=PLAYLIST_CLEAN_DRY_RUN,
                 move_like=PLAYLIST_CLEAN_MOVE_LIKE,
                 min_num_like=PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT,
@@ -1086,8 +1093,11 @@ class YTMusicPlaylists:
         for i, row in self.playlists.iterrows():
             try:
                 pl_title = self._decode(row['title'])
-                print(
-                    f'\n\n({i+1}/{len(self.playlists)})\t{pl_title}', flush=True)
+                print(f'\n\n({i+1}/{len(self.playlists)})\t'
+                      f'{pl_title}', flush=True)
+                if i < PLAYLIST_START_INDEX:
+                  print(f'Skipping {i}: {pl_title}...')
+                  continue
                 playlist_info = self.playlist_get_info(
                     row['playlistId'], playlist_limit=song_lim, use_cache=True)
                 if playlist_info['trackCount'] == 0:
@@ -1097,6 +1107,9 @@ class YTMusicPlaylists:
                     playlist_info, remove_disliked=remove_disliked)
                 all_playlist_info.append(metadata)
                 all_tracks.append(tracks)
+                if PLAYLIST_SLEEP:
+                  print(f'Sleeping {PLAYLIST_SLEEP} seconds')
+                  time.sleep(PLAYLIST_SLEEP)
                 print(90*'-')
             except Exception as e:
                 print(f'Error in playlist {i}: {e}')
@@ -1202,7 +1215,7 @@ class YTMusicPlaylists:
         copy_album_cols = ['type', 'trackCount', 'year']  # 'duration',
         track_str = f"{row['artist']} - {row['album']} - {row['title']}"
         track_str = unicodedata.normalize(
-          'NFKD', track_str).encode('ascii', 'ignore').decode('ascii')
+            'NFKD', track_str).encode('ascii', 'ignore').decode('ascii')
 
         if type(row['artistId']) != str:
             print(f'\nERROR: row["artistId"] not a str for row: {track_str}')
