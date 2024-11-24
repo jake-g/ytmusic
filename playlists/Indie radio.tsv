@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 157	Staring at the Sun	TV on the Radio	Young Liars	LIKE	qHX-FKTV8Rk	MPREb_eUmj8S9yQZ4	UCyRprZQCBFlc-lMRR2uQq-Q
+189	Strange Mercy	St. Vincent	Strange Mercy	LIKE	vDGmAJ4-J_I	MPREb_mOk9xrbPrQB	UCGjbexoF9La7TxGeFP64m8A
 153	Poison Arrow	yeule	Poison Arrow	INDIFFERENT	l1X_NeIV96g	MPREb_UsTMPev0yfm	UCINnTJcNT6MQaU-jYNoXhbA
 81	king	slenderbodies	soraya	INDIFFERENT	8EVE3eWyVHA	MPREb_5k8OncDDBLD	UC4CG_fvRrMeB3T79fIVjL1g
 135	mirror	slenderbodies	are we?	INDIFFERENT	IVL75w2GKcc	MPREb_6XcHCVlmONW	UC4CG_fvRrMeB3T79fIVjL1g
@@ -79,7 +80,6 @@
 103	Sunny In The Making	Steady Holiday	Take The Corners Gently	INDIFFERENT	X22Y39M58fM	MPREb_c7Cpajekuwo	UCIYpiqy2fNViPsNVTGal_6Q
 80	Your Ex-Lover Is Dead	Stars	The O.C. Mix 5	INDIFFERENT	RhxGeL7TR5k	MPREb_A7sxHHmiM74	UCavGq4u3ZaiGLQ6cLrm9FDw
 56	Can I Come Over?	Starchild & The New Romantic	Can I Come Over?	INDIFFERENT	bTJh4Qx_rRA	MPREb_fz4fPxuZEmc	UCFZD1zLmsdEInu6qHm4zIVA
-189	Strange Mercy	St. Vincent	Strange Mercy	INDIFFERENT	vDGmAJ4-J_I	MPREb_mOk9xrbPrQB	UCGjbexoF9La7TxGeFP64m8A
 237	Fast Slow Disco	St. Vincent	Fast Slow Disco	INDIFFERENT	k2UReACEn2w	MPREb_QuI7wRhJhuT	UCGjbexoF9La7TxGeFP64m8A
 206	Dancing On Glass	St. Lucia	Matter	INDIFFERENT	FzVzT7JcHms	MPREb_KsvdfKlD7Sp	UCEOyxIsH43TgcvSFAtd7m8A
 212	Strength To Strength	Softer Still	Strength To Strength	INDIFFERENT	2wimXl_y6Hw	MPREb_EV7vXtZSzS9	UC50k_dGingcE9WD8zSdQJAA
@@ -102,7 +102,7 @@
 257	Rainbounce	Reptar	Oblangle Fizz Y'all	INDIFFERENT	kqV2Jqzeft0	MPREb_Gjq4YSFhxVq	UCZSwzu_vb0BU1Gjw2vYdJ8w
 131	Give Me Your Love	Reptaliens	Give Me Your Love	INDIFFERENT	spg86kj-1bs	MPREb_dBb07qa9G7a	UCbyLzN_piELGUT6FOBAUUfg
 120	Spectre	Radiohead	Spectre	INDIFFERENT	CLiDemXYSLc	MPREb_Wmd9SFxhj4c	UCr_iyUANcn9OX_yy9piYoLw
-173	Always Gold	Radical Face	The Family Tree: The Roots	INDIFFERENT	n7keVBuuOA8	MPREb_lqImFo5t9Qo	UCq4mJcl-ac030u3kbn9RP-A
+173	Always Gold	Radical Face	The Family Tree: The Roots	INDIFFERENT	ZN1CuYNM7v0	MPREb_PmzYceIUp10	UCq4mJcl-ac030u3kbn9RP-A
 175	Better Off Alone	Purity Ring	Better Off Alone	INDIFFERENT	C-dwVnShT0k	MPREb_zb18TlXGa6S	UCu_tCVkOZmNKke8WptzHDGA
 145	Something Silver	Pure Bathing Culture	Something Silver	INDIFFERENT	_KOLGOhZTG8	MPREb_PAjylJG2wNt	UCqjF4839Pg9fzu9WhO22kWA
 276	A$AP Rocky Type Beat	Proper.	A$AP Rocky Type Beat	INDIFFERENT	1FqfRacOnpA	MPREb_pjYRGPqYq8C	UCtiOcXS_SEsB0Ns3_fKlDXw
@@ -249,6 +249,7 @@
 79	So Hot You're Hurting My Feelings	Caroline Polachek	Pang	INDIFFERENT	MR8Sozpt95c	MPREb_OX29mdmEgnj	UCW4rB5Nfy2mWmwoibRUT15Q
 164	Bodys	Car Seat Headrest	Twin Fantasy	INDIFFERENT	fpJLmnKVGj8	MPREb_uHqhqEkLRa4	UC97xosBrQZ7jdWVFInndIDg
 69	Miracle	CHVRCHES	Love Is Dead	INDIFFERENT	iRoi6n35ITk	MPREb_bNPZyBLERbJ	UCvInFYiyeAJOGEjhqJnyaMA
+236	Leave a Trace	CHVRCHES	Every Open Eye (Special Edition)	INDIFFERENT	KXJlBWj9w2k	MPREb_1bPiBByM9Qv	UCvInFYiyeAJOGEjhqJnyaMA
 278	The Mother We Share (2023 Remastered)	CHVRCHES	The Bones of What You Believe (10 Year Anniversary Special Edition)	INDIFFERENT	KifJlLZ30Yw	MPREb_PzbEGWiEPM4	UCvInFYiyeAJOGEjhqJnyaMA
 4	Plastic Love	CHAI	Plastic Love	INDIFFERENT	pTcInNju610	MPREb_VDsZwBwpQeo	UCvvmXmIVYQmlzj8ntRMZKWg
 16	Ominous Cloud	Broadcast	Haha Sound	INDIFFERENT	ukISu5PmloI	MPREb_ZIT3iGJCDr5	UCDggJrcSehoG8n7qepc9LCA
@@ -277,11 +278,10 @@
 101	Crown of Love	Arcade Fire	Funeral	INDIFFERENT	MGxy5qSZOJM	MPREb_X7jiu0wnwSt	UCXvAK640Ko85SLbI-zA0ZCg
 46	Kinda Bonkers	Animal Collective	The Painters	INDIFFERENT	8VLb3gu4-QI	MPREb_W55bySL3T41	UC6X5Baxp63Ex9NaLZwAy7lQ
 27	Change	Anika	Change	INDIFFERENT	lOgu2HEeuQs	MPREb_Y9xT91MphPR	UCqlqGaYYWT6kt29dgkSauhQ
-19	Tenuousness	Andrew Bird	Noble Beast	INDIFFERENT	0nSbR0hG6nc	MPREb_dMIDb6SMnV3	UCWWyLppgObl9xS8wdSpiv8Q
+19	Tenuousness	Andrew Bird	Noble Beast	INDIFFERENT	-S3JHjCBS2E	MPREb_j4ePTRF5IDC	UCWWyLppgObl9xS8wdSpiv8Q
 142	Piledriver waltz	Alex Turner	Submarine - Original Songs From The Film By Alex Turner	INDIFFERENT	GmOxB-gXhs4	MPREb_2F0rkavqlzl	UCjNrI-NzRfbb7OHYI6LAY-g
 110	hold your hand	Adison Maxwell	Jack	INDIFFERENT	TyiHbnH9udw	MPREb_F2oLux6KJXs	UClpNRfXrFehCeHxvss34K0A
 224	People II: The Reckoning	AJJ	People Who Eat People Are The Luckiest People In The World	INDIFFERENT	ezmMaLI0BGA	MPREb_zLGSWE8Iq15	UCmitgDYrviggbSxrrVIjXOQ
 214	It's Always Sunny in Philadelphia (feat. Mike Nappi)	A.Rob	21	INDIFFERENT	dxpBiHAMnGI	MPREb_ShJxhB1otWT	UCHIqE0t4nDxweRt34PlfnGg
 54	Word Of Mouth (Audiotree Live Version)	Shakey Graves	Shakey Graves on Audiotree Live (2013)		QsHUjNAbL68		
 26	Murder in the Dark	Gia Ford	Murder in the Dark		Zv-3D8b6F6w		
-236	Leave a Trace	CHVRCHES	Every Open Eye (Special Edition)		D6ukFAReSqY		
