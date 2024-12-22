@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 73	Love Is to Die	Warpaint	Warpaint	LIKE	hdaEEAx9Hj8	MPREb_g8n0NPHmS0V	UCvQT_XAgFdh-6wYEKxKGcGw
+6	Summer	Vanilla	Origin	LIKE	8CDXBHpvC04	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 349	If You're Never Gonna Move	Jessie Ware	Devotion	LIKE	Kad9oLPJJI0	MPREb_Chv4QMMQuG4	UC53XOR2hYpVcmGmkhukIihA
 69	Passing By	Flamingosis	Bright Moments	LIKE	hPO0rmKuJ1w	MPREb_4X4vtRZlMh2	UCv2swbKUFrmVUeW1Xyp5vEg
 1082	This Love Pt. 1 & 2 (Bonus Track)	Bobby Oroza	This Love	LIKE	klhx0dKHafE	MPREb_bmKmgM2SQA8	UCySPYlHRp_I_4vSFxNeHLIQ
@@ -53,7 +54,6 @@
 283	lie to me	Veronica Fusaro	lie to me	INDIFFERENT	mVBklklIzPQ	MPREb_HKoCxUmLsLh	UCSVkHU2T8Oia8mcCfwLcZ8Q
 680	Helele	Velile	Greatest Hits	INDIFFERENT	nyRcYvxiJnE	MPREb_ffTCL12RIXr	UCeO6D6FQc32RlkL_NUYvUog
 910	Tell Me Who (feat. Eneli)	Vanotek	No Sleep	INDIFFERENT	nVxONGdeqWo	MPREb_jNDdMJ4mjan	UCly0a2XvzjuFrNDJKwbXpeg
-6	Summer	Vanilla	Origin	INDIFFERENT	8CDXBHpvC04	MPREb_X3HGW0FxfHS	UCk016mS_vJoj1sWvbFU2JYw
 338	Riptide	Vance Joy	Dream Your Life Away (Deluxe Edition)	INDIFFERENT	En_6WWOWh8E	MPREb_umGTIcPNlIt	UCwNoBkSn4w8l4olCKDCTplQ
 198	Diane Young	Vampire Weekend	Diane Young	INDIFFERENT	j74peWXbWwU	MPREb_HbZnZreKG9B	UCWy-MPuAh_GH8YwXxtq3gcA
 314	Lick It	Valentino Khan	Lick It	INDIFFERENT	G2cujhzT9jA	MPREb_LbIgzAL8ufj	UCFm_NGMAYD05IPv5Rf7DhQA
@@ -74,7 +74,6 @@
 956	Good For You (feat. JUSCOVA)	Two Friends	Good For You	INDIFFERENT	kLegoVBBgU8	MPREb_veSRDwt5t26	UCMablE9EvsH9UC-PVIxQa0g
 1064	Moustache	Twin Twin	Vive la vie (Edition spéciale)	INDIFFERENT	AqLzUdtir_s	MPREb_z8WQpdfOJee	UC9PRWips_xfa9h4OFWQLdFA
 354	2nd Time Around	Tuxedo	Tuxedo II	INDIFFERENT	mLRWizz6CwY	MPREb_2OD0QFChOLN	UCQyCT4-ziPMCj-8mQ3lfMYQ
-1074	By Dusk They Were In The City	Tunng	...And Then We Saw Land	INDIFFERENT	qy0IR6FCiWw	MPREb_USwLp1AmiaJ	UCBTiHXv4orN34zitZ45TDcQ
 57	Gangsta	Tune-Yards	W H O K I L L	INDIFFERENT	BgJlILjMpDo	MPREb_rGtiHpydOFW	UCtPTLKDh21P9EHTU6oRae0g
 980	Can't Stay Here	Tucker Beathard	KING	INDIFFERENT	p76jnsQoBZI	MPREb_8Y6z3Oml9iS	UCdhTXQj_oFfHk05EdonvLMA
 1093	Dreaming In Black And White	Trust Company	Dreaming In Black And White	INDIFFERENT	9aqpM_zyNnI	MPREb_GNI3AwF9YZy	UCb2jxWzqQ8k5rMdyTv32G1A
@@ -192,7 +191,7 @@
 83	Blank Space	Taylor Swift	1989	INDIFFERENT	6hCqRb8Dtvo	MPREb_K9GL6DCDUCq	UCPC0L1d253x-KuMNwa05TpA
 431	We Are Never Ever Getting Back Together	Taylor Swift	Red	INDIFFERENT	65Q7EdWnjqM	MPREb_6FbAboRIFSX	UCPC0L1d253x-KuMNwa05TpA
 1021	Back To December	Taylor Swift	Speak Now (Big Machine Radio Release Special)	INDIFFERENT	oGkSmRlDoGQ	MPREb_WPj4YRlDlkT	UCPC0L1d253x-KuMNwa05TpA
-1075	I Need a Miracle (Vanillaz Remix)	Tara Mcdonald	I Need a Miracle (Vanillaz Remix)	INDIFFERENT	fF5kFF_XrOs	MPREb_G2Z91cn97id	UCs6vjL8aguDD8ncvYzH8pFw
+1075	I Need a Miracle (Vanillaz Remix, Radio Edit)	Tara Mcdonald	I Need a Miracle (Vanillaz Remix, Radio Edit)	INDIFFERENT	fF5kFF_XrOs	MPREb_G2Z91cn97id	UCs6vjL8aguDD8ncvYzH8pFw
 804	We Are Diamonds	Tania Zygar	Sick EP	INDIFFERENT	xjkP8fB1Y1s	MPREb_GbqcvR4bU5C	UCUPmGAfyFt5ZUNCXnUqQoDQ
 1018	These Days	Take That	III (2015 Edition)	INDIFFERENT	k6e0Ejnt97c	MPREb_jUAFMYAt0Pn	UCTK1maAvqrDlD2agZDGZzjw
 199	Hangover (feat. Flo Rida)	Taio Cruz	TY.O (International Version)	INDIFFERENT	5ydnBckk_yM	MPREb_oOKpTngCCZ9	UC59s2CAhIuHrBUa7YsVJdDA
@@ -856,8 +855,6 @@
 237	Honey	DMNDS	Honey	INDIFFERENT	RRBp1Kx0Gng	MPREb_0H2TGnNRHPX	UCMCUlc8HGZoRi7qOAUhLVPg
 955	Quicksand (Instrumental)	DJB	Quicksand (Instrumental)	INDIFFERENT	Xy-PAisBoDY	MPREb_eJMM7BTQYA3	UCJoVkvhvTNxSwy3CwJe81kA
 587	Future Pt 2	DJ Snake	Encore	INDIFFERENT	k_-iOrI-etg	MPREb_fVJvDIqLyXm	UC0c4bK_92XYr0YtASqqWOJg
-863	Moving in a Liquid	DJ Koze feat. Eddie Fummler	Knock Knock	INDIFFERENT	4DZJgzjiBlE	MPREb_OVkjV44ngxn	
-834	"Pick Up (12"" Extended Disco Version)"	DJ Koze	Pick Up	INDIFFERENT	0L3M9rqWaaU	MPREb_UeHE3TvkC2m	UCcJs9PU4Y1dS9bfD1YByqBQ
 952	Riverboats	DJ Grumble	Freestyle Tools Special Edition	INDIFFERENT	RTM1oADY0zs	MPREb_GnNdY5IU8Ec	UCRKT7VpJHAwzPwLQ_XPTbqA
 216	Superstar	DJ BoBo	Superstar	INDIFFERENT	gPHY1XoNLQM	MPREb_KCe261aSqCh	UCbbDyAOlrp2LznfQJj1eI-Q
 662	Everybody's Gonna Dance	DJ BoBo	Everybody's Gonna Dance	INDIFFERENT	A-LWpewf_ls	MPREb_RjoF4P3ShdE	UCbbDyAOlrp2LznfQJj1eI-Q
@@ -1064,7 +1061,7 @@
 670	I Should've Followed You Home (feat. Gary Barlow)	Agnetha Fältskog	A	INDIFFERENT	6DYdpDl3FO8	MPREb_2ogF5jlY6XI	UCs3fwxQoUJKD1ArpRDah0mQ
 130	The Curse (Live)	Agnes Obel	Aventine (Deluxe Version)	INDIFFERENT	dLmklMPtuYw	MPREb_ggzqG42aqqP	UCaHeZtCBP3Jh8v1cSq6siNw
 340	Outsiders	Against The Current	Outsiders	INDIFFERENT	1c9jx55TSJQ	MPREb_sQ28SiEUp4G	UC3u6Cup1AEtYoSu8lv9iMSQ
-435	Fuckmylife666	Against Me!	Transgender Dysphoria Blues	INDIFFERENT	KUuWY1ptzqc	MPREb_w65Fbg2bnLq	UCRwwD9ZIZsJfYzkp40ohgxw
+435	Fuckmylife666	Against Me!	Transgender Dysphoria Blues	INDIFFERENT	AogYs9E9HAE	MPREb_3LIjYn3ttwf	UCRwwD9ZIZsJfYzkp40ohgxw
 24	When We Were Young	Adele	25	INDIFFERENT	Xpc8mAJ_2nM	MPREb_5HsqbBKw813	UCRw0x9_EfawqmgDI2IgQLLg
 111	Skyfall	Adele	Skyfall	INDIFFERENT	LJzp_mDxaT0	MPREb_iO6eynkmwmk	UCRw0x9_EfawqmgDI2IgQLLg
 116	Set Fire to the Rain	Adele	21	INDIFFERENT	uJdu4Lfy8aI	MPREb_QXhvVewyH8p	UCRw0x9_EfawqmgDI2IgQLLg
@@ -1086,6 +1083,7 @@
 817	My Own Eyes	"""Weird Al"" Yankovic"	Mandatory Fun	INDIFFERENT	8PMvU6knXKQ	MPREb_GyV4Oh3dCuP	UCa4LILjjT1YCeo5Xg9rQTMQ
 974	First World Problems	"""Weird Al"" Yankovic"	Mandatory Fun	INDIFFERENT	F4gzi0Z9lqM	MPREb_GyV4Oh3dCuP	UCa4LILjjT1YCeo5Xg9rQTMQ
 561	Borrowed Time	Wyclef Jean	Carnival III: The Fall and Rise of a Refugee		SDiQuqhsN8E		
+1074	By Dusk They Were In The City	Tunng	...And Then We Saw Land		kDzKQMRFTus		
 592	Apollo Throwdown	The Go! Team	Apollo Throwdown - EP		uVvtUk_xGQY		
 365	You Take Me	Korey Wade	You Take Me		LxGrooCZgc0		
 39	A House on the Moon	Jacco Gardner	A House on the Moon		r6MSu1DzDcU		
@@ -1095,5 +1093,7 @@
 511	Hang On	Furns	Furns		PnqKgJXJp58		
 916	Big Bad Wolf	Duck Sauce	5 Years of Big Beat		w682G0etBYA		
 492	Ederlezi	Dj Dark, MD DJ, & Dikanda	Ederlezi		dSVXSyZbNE0		
+863	Moving in a Liquid	DJ Koze feat. Eddie Fummler	Knock Knock		4DZJgzjiBlE		
+834	"Pick Up (12"" Extended Disco Version)"	DJ Koze	Pick Up		0L3M9rqWaaU		
 580	Bluffs	Channeling	Bluffs		cOvYbdn88DM		
 413	Gypsy Letters	Angel Haze	Reservation		h_R9ncbW5bU		

@@ -2,8 +2,6 @@
 257	Tango N'Vectif	µ-Ziq	Tango N'Vectif	LIKE	BDu6nBNTy9U	MPREb_Z9iu9tLCUiJ	UC7IoxqTlXj7Kky2eW3Hnvpg
 788	µ-Ziq Theme	µ-Ziq	Tango N'Vectif	LIKE	D3BIprGyK0A	MPREb_Z9iu9tLCUiJ	UC7IoxqTlXj7Kky2eW3Hnvpg
 195	Mute	loscil	Submers	LIKE	brcJBLO836s	MPREb_2KPZeQbArJb	UC9EE9HaPwLsC7F6C9Po0HVg
-426	Ampere	loscil	Triple Point	LIKE	uUG2kYL7kk0	MPREb_uyFFP7sq3Qv	UC9EE9HaPwLsC7F6C9Po0HVg
-569	Discrete Entropy	loscil	Triple Point	LIKE	PnVDEEgINik	MPREb_uyFFP7sq3Qv	UC9EE9HaPwLsC7F6C9Po0HVg
 293	Out Of Town	Zero 7	Simple Things	LIKE	GOg9fRSTdpE	MPREb_q4hrh9IVUYE	UCEIRECr4BQQ6blwSi9ogZvA
 241	Sealed	Yoshio Ojima	Oto No Wa: Selected Sounds of Japan 1988-2018	LIKE	2fj4mEqO7C8	MPREb_kEz3nnoQrf2	UCSzG_WYpPdqm4eW_HeP_VKA
 368	Glass Chattering	Yoshio Ojima	Japanese Ambient, Environmental & New Age Music 1980-1990	LIKE	gTmmNk85MZI	MPREb_D4y55GgVqte	UCSzG_WYpPdqm4eW_HeP_VKA
@@ -578,9 +576,9 @@
 513	Cold Feet	Clams Casino	Instrumentals 3	LIKE	SGrlazwhFl0	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIPaW5zdHJ1bWVudGFscyAzGgxjbGFtcyBjYXNpbm8iA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIMY2xhbXMgY2FzaW5v
 548	Tick of the Clock	Chromatics	Drive	LIKE	BcSxe8IilJg	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIFZHJpdmUaDmNsaWZmIG1hcnRpbmV6IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIKY2hyb21hdGljcw
 648	Gogol	Chilly Gonzales	Solo Piano	LIKE	aQ_n3TC859U	MPREb_UwQDPUYeXkS	UC1PdnEfLOJfqTCIe1l2aOJA
-103	door to the cosmos	Chihei Hatakeyama	Void XIV	LIKE	ZgCjWE9IqWU	MPREb_8zw9s5L73wl	UCzoC42_-s18BxHUp9LLTebQ
-655	Voice is far	Chihei Hatakeyama	Autumn Breeze	LIKE	o7WhYmbhkn8	MPREb_uTl1Tj5Q28N	UCzoC42_-s18BxHUp9LLTebQ
-810	Freeze II	Chihei Hatakeyama	Ghost Woods	LIKE	HZbDjgksVSA	MPREb_Qj4ywtL4k7D	UCzoC42_-s18BxHUp9LLTebQ
+103	door to the cosmos	Chihei Hatakeyama	Void XIV	LIKE	ZgCjWE9IqWU	MPREb_8zw9s5L73wl	UCnW1zAfxQb2fuJQx3rCK1bw
+655	Voice is far	Chihei Hatakeyama	Autumn Breeze	LIKE	o7WhYmbhkn8	MPREb_uTl1Tj5Q28N	UCnW1zAfxQb2fuJQx3rCK1bw
+810	Freeze II	Chihei Hatakeyama	Ghost Woods	LIKE	HZbDjgksVSA	MPREb_Qj4ywtL4k7D	UCnW1zAfxQb2fuJQx3rCK1bw
 266	Peace (SOL:741Hz:The 5th Chakra)	Chigusa Fukushima	Cocoon	LIKE	FT8LVPv4UVk	MPREb_UjWwLiic57a	UCWWd7Vy_rfcm6TGliDWOr2A
 229	Cordialatron	Caustic Window	Compilation	LIKE	DlZZUW9jff8	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBILY29tcGlsYXRpb24aDmNhdXN0aWMgd2luZG93IgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIOY2F1c3RpYyB3aW5kb3c
 14	Dielectric Saints	Casino Versus Japan	Go Hawaii	LIKE	lZmTVvJ66RU	MPREb_m4bPJ4I3qup	UCCGDgUZK6iMCoSUnR9XwcsQ
@@ -826,6 +824,8 @@
 511	Hangable Auto Bulb	AFX	Hangable Auto Bulb	LIKE	S8FdFOrvVLw	MPREb_BfksabuElvq	UCabdVJ3p3taM8aTqJLnYNrg
 71	Pools Of Light	A.M. Architect	Pattern Language	LIKE	GlDO3k_mpn0	MPREb_KRl36M6DWyS	UCG46bSKTCaIIVGryWOfwKCA
 642	Circus	A.M. Architect	Pattern Language	LIKE	4FLaJnheuLY	MPREb_KRl36M6DWyS	UCG46bSKTCaIIVGryWOfwKCA
+426	Ampere	loscil	Triple Point	INDIFFERENT	Ac5yt0keKjM	MPREb_FIHu6PXr5bV	UC9EE9HaPwLsC7F6C9Po0HVg
+569	Discrete Entropy	loscil	Triple Point	INDIFFERENT	IS12oEmuo4Q	MPREb_FIHu6PXr5bV	UC9EE9HaPwLsC7F6C9Po0HVg
 439	The Suburbs	Mr Little Jeans	Pocketknife (10th Anniversary Edition)	INDIFFERENT	pIq4uyWjz68	MPREb_rTlASU5iNmw	UCrraEiqdGDe7QmUcHFL1rMQ
 250	Radiance	Constance Demby	Sacred Space Music	INDIFFERENT	ylJzgRaBkZs	MPREb_89of8BtPGyA	UCSVcIcaAnPL1H5rat6F3sgA
 274	Pleen 1930's	Clark	Clarence Park	INDIFFERENT	F5rafxlgw-k	MPREb_lfMIpJMxpnN	UCnjAJRW6TGaa09fxQgP9y5w

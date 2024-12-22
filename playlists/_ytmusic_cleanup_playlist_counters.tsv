@@ -2,9 +2,14 @@
 playlists_processed	489
 playlist_kind_is_yt_generated	5
 playlist_kind_in_playlist_skip_list	64
+playlist_kind_is_like	275
+playlist_is_public	100
 playlist_skip_starts_with_zz not like	2
 playlist_kind_is_skip	2
 playlist_kind_not_inferred	9
-playlist_kind_is_like	275
 playlist_kind_is_indifferent	141
+track_processed	10387
+track_rating_exists	10243
+track_rating_is_none	144
+playlist_has_>4000_limit	2
 playlist_kind_is_album	57
