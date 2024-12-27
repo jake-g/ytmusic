@@ -1,7 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 292	WHERE WE ARE	The Lumineers	BRIGHTSIDE	LIKE	HEdPgnKmPRk	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
 294	BIG SHOT	The Lumineers	BRIGHTSIDE	LIKE	FTCV4KyEjvs	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-234	The River	The Black Angels	Wilderness of Mirrors	LIKE	rWLgO2uhego	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
 67	Silent Chord	Soichi Terada	Asakusa Light	LIKE	W9BbIBEXOqY	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
 70	Diving into Minds	Soichi Terada	Asakusa Light	LIKE	Pq6oblWddm0	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
 71	Marimbau	Soichi Terada	Asakusa Light	LIKE	v52IM-Hmqe0	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
@@ -95,20 +94,21 @@
 296	ROLLERCOASTER	The Lumineers	BRIGHTSIDE	INDIFFERENT	xdLXWhmuyfE	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
 297	REMINGTON	The Lumineers	BRIGHTSIDE	INDIFFERENT	tjqMcs8bMQI	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
 298	REPRISE	The Lumineers	BRIGHTSIDE	INDIFFERENT	1lqriN2Df04	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-227	Without a Trace	The Black Angels	Without a Trace	INDIFFERENT	mXpF_nOuses	MPREb_imnEB38EXGu	UCdMCMtXUYb-9gvK1srSECuQ
-228	History of the Future	The Black Angels	Wilderness of Mirrors	INDIFFERENT	Qvg7Q92DiJk	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-229	Empires Falling	The Black Angels	Empires Falling	INDIFFERENT	E5MNh24kFvo	MPREb_40j6IPObjAt	UCdMCMtXUYb-9gvK1srSECuQ
-230	El Jardín	The Black Angels	El Jardín	INDIFFERENT	eAUJ5vS4rJ8	MPREb_es4KFHpEw34	UCdMCMtXUYb-9gvK1srSECuQ
-231	La Pared (Govt. Wall Blues)	The Black Angels	Wilderness of Mirrors	INDIFFERENT	9ot5tDUyqsY	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-232	Firefly	The Black Angels	Firefly	INDIFFERENT	itHZAPH-fDg	MPREb_jvWOSLlW2YP	UCdMCMtXUYb-9gvK1srSECuQ
-233	Make It Known	The Black Angels	Wilderness of Mirrors	INDIFFERENT	uKuyHCEJzAM	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-235	Wilderness of Mirrors	The Black Angels	Wilderness of Mirrors	INDIFFERENT	iWaBckf0jjk	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-236	Here & Now	The Black Angels	Wilderness of Mirrors	INDIFFERENT	VrZvbt4UPuQ	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-237	100 Flowers of Paracusia	The Black Angels	Wilderness of Mirrors	INDIFFERENT	Y7vqIagD5Io	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-238	A Walk on the Outside	The Black Angels	Wilderness of Mirrors	INDIFFERENT	SyS_-lIUcag	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-239	Vermillion Eyes	The Black Angels	Wilderness of Mirrors	INDIFFERENT	h0clgNRjSoc	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-240	Icon	The Black Angels	Wilderness of Mirrors	INDIFFERENT	5rtn34IdHeg	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
-241	Suffocation	The Black Angels	Wilderness of Mirrors	INDIFFERENT	2QgpsrlX-FU	MPREb_UUtfvq7Ucbo	UCdMCMtXUYb-9gvK1srSECuQ
+227	Without a Trace	The Black Angels	Wilderness of Mirrors	INDIFFERENT	1nqfhyJVNOo	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+228	History of the Future	The Black Angels	Wilderness of Mirrors	INDIFFERENT	2kTOLP3mmSw	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+229	Empires Falling	The Black Angels	Wilderness of Mirrors	INDIFFERENT	DDKQ-CuYOQs	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+230	El Jardín	The Black Angels	Wilderness of Mirrors	INDIFFERENT	MkEYWHlO53E	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+231	La Pared (Govt. Wall Blues)	The Black Angels	Wilderness of Mirrors	INDIFFERENT	gl0Gh6wkwJ4	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+232	Firefly	The Black Angels	Wilderness of Mirrors	INDIFFERENT	Qefx1p7TcLg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+233	Make It Known	The Black Angels	Wilderness of Mirrors	INDIFFERENT	W3O7sAWehlA	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+234	The River	The Black Angels	Wilderness of Mirrors	INDIFFERENT	bm8OGsMfWOg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+235	Wilderness of Mirrors	The Black Angels	Wilderness of Mirrors	INDIFFERENT	OOtqME5DnTE	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+236	Here & Now	The Black Angels	Wilderness of Mirrors	INDIFFERENT	b6yFmWwYPd4	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+237	100 Flowers of Paracusia	The Black Angels	Wilderness of Mirrors	INDIFFERENT	P-ImQQ_7Aik	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+238	A Walk on the Outside	The Black Angels	Wilderness of Mirrors	INDIFFERENT	OE7dGUrYbao	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+239	Vermillion Eyes	The Black Angels	Wilderness of Mirrors	INDIFFERENT	a9ft7p3wCgM	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+240	Icon	The Black Angels	Wilderness of Mirrors	INDIFFERENT	fZvUQIxvEZg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
+241	Suffocation	The Black Angels	Wilderness of Mirrors	INDIFFERENT	kkuJQpK3BBw	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 43	Expert In A Dying Field	The Beths	Expert In A Dying Field	INDIFFERENT	le1rBouN3rk	MPREb_LeOKMa0cJkN	UCLFyXW9u1q-QINz7u7rxlFg
 44	Knees Deep	The Beths	Expert In A Dying Field	INDIFFERENT	gvhnhrGs9b4	MPREb_LeOKMa0cJkN	UCLFyXW9u1q-QINz7u7rxlFg
 45	Silence Is Golden	The Beths	Expert In A Dying Field	INDIFFERENT	NcSYJh8hDak	MPREb_LeOKMa0cJkN	UCLFyXW9u1q-QINz7u7rxlFg
@@ -288,7 +288,14 @@
 220	My Elixir	Phoenix	Alpha Zulu	INDIFFERENT	1r5oFhS_I9w	MPREb_F1tW2260NKV	UCAoGVyUtK3AHYwjJ0xDFbFw
 221	Identical	Phoenix	Alpha Zulu	INDIFFERENT	0_uFq3BEK3Q	MPREb_F1tW2260NKV	UCAoGVyUtK3AHYwjJ0xDFbFw
 611	Scraps	Petrol Girls	Baby	INDIFFERENT	T9tGCOaCUwY	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+612	Preachers	Petrol Girls	Baby	INDIFFERENT	bPJ84LSpPlI	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+613	Feed My Fire	Petrol Girls	Baby	INDIFFERENT	vTM3cArNvvI	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
 614	Baby, I Had an Abortion	Petrol Girls	Baby	INDIFFERENT	PNaYghP4shE	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+615	Clowns	Petrol Girls	Baby	INDIFFERENT	VGyJ2ylq7Qk	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+616	Unsettle	Petrol Girls	Baby	INDIFFERENT	k70dugPvCWo	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+617	Fight for Our Lives (feat. Janey Starling)	Petrol Girls	Baby	INDIFFERENT	ToCg4pZIh_Q	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+618	Violent by Design (feat. Janey Starling)	Petrol Girls	Baby	INDIFFERENT	dQsXbZmhxMA	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
+619	One or the Other	Petrol Girls	Baby	INDIFFERENT	Lg9dRoIHo2Y	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
 620	Sick & Tired	Petrol Girls	Baby	INDIFFERENT	NaEYX8cyIBk	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
 621	Bones	Petrol Girls	Baby	INDIFFERENT	I1PQEG6OYfo	MPREb_9jdxG1xaFtG	UCmkuF-W4NPGKHFzLUfXTPiw
 668	Man With The Magic Soap	Persher	Man With The Magic Soap	INDIFFERENT	zt6VyAxVtq0	MPREb_nisS9MI7xSV	UC2-4hpCMn_g5yDrmPXUHlyQ
@@ -899,10 +906,3 @@
 850	Visitors YT15 – Krupp Steel Condition Pivot	Alabaster DePlume	GOLD	INDIFFERENT	vnqAcxHp-Aw	MPREb_nP9hvK9jcWt	UC4cYnpGo1QwOi-E7VFQPNfg
 851	Broken Like	Alabaster DePlume	GOLD	INDIFFERENT	qYT8a7A4JKY	MPREb_nP9hvK9jcWt	UC4cYnpGo1QwOi-E7VFQPNfg
 852	Now (Pink Triangle, Blue Valley)	Alabaster DePlume	GOLD	INDIFFERENT	_dA0OKI_RVI	MPREb_nP9hvK9jcWt	UC4cYnpGo1QwOi-E7VFQPNfg
-612	Preachers	Petrol Girls	Baby		3psdMyuR7Vc		
-613	Feed My Fire	Petrol Girls	Baby		SJkxRP-qX64		
-615	Clowns	Petrol Girls	Baby		MyIXVl_-3t4		
-616	Unsettle	Petrol Girls	Baby		DlmE6nW9zK4		
-617	Fight for Our Lives	Petrol Girls	Baby		JOF40lGlwAY		
-618	Violent by Design	Petrol Girls	Baby		cluMNo8rPmM		
-619	One or the Other	Petrol Girls	Baby		BCsWv6HSg5s		
