@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 47	How Soon Is Now? (2008 Remaster)	The Smiths	The Sound of the Smiths (Deluxe; 2008 Remaster)	LIKE	4PIi1LWkfDE	MPREb_BuHnnKK6MXq	UCklWLf-5N7mE8S06rj2OrQw
+441	Dirty Old Town	The Pogues	Rum Sodomy & The Lash (Expanded Edition)	LIKE	5G6sAOVhG6M	MPREb_z4DWk1dfnXa	UCOsSpwjHD70rvTrKG0FKUsQ
 146	Losing My Religion (Live)	R.E.M.	Automatic For The People (25th Anniversary Edition)	LIKE	zfZzvWSW5WQ	MPREb_dKVo1Vx1kRp	UCZQMYjqm_j5mBVTfPcCy3FA
 600	Flip Ya Lid	Nightmares On Wax	In A Space Outta Sound	LIKE	LhOkdYtqUVQ	MPREb_4z553sKipRd	UCJLq1MIt-h8rOoBdT-9UeGA
 443	Marijuana	Kid Cudi	Man On The Moon II: The Legend Of Mr. Rager	LIKE	zx40kMDZaL0	MPREb_0eIbWLP7Oc5	UCo2-dPLJcpbZK84FIt0vD-w
@@ -82,7 +83,6 @@
 237	Jacking the Ball	The Sea and Cake	The Sea and Cake	INDIFFERENT	puWQ6lLjW_A	MPREb_D6FS8V9OUbN	UCMpZPYBJFyLpm4OFIP-254A
 505	Rocking Dub	The Revolutionaries	At Channel 1: Dub Plate Specials	INDIFFERENT	ziSTt4_QyaQ	MPREb_k28IPDTVPBv	UCgVomE5fUCJUY9mh4AzKXrg
 40	Stranger	The Presidents Of The United States Of America	The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition	INDIFFERENT	W7KrC0juefc	MPREb_akAmj5N2UPX	UCIxX6XqHxLY2lrMFKiFDICQ
-441	Dirty Old Town	The Pogues	Rum Sodomy & The Lash (Expanded Edition)	INDIFFERENT	5G6sAOVhG6M	MPREb_z4DWk1dfnXa	UCOsSpwjHD70rvTrKG0FKUsQ
 450	Ghost Party	The Piano Says	Ghost Party	INDIFFERENT	ue6GldwwE0s	MPREb_Zj0lIJo2Ich	UCT_PsFLmykbYIMhiwLgMtFw
 167	Ubiquity	The Orb	Orblivion	INDIFFERENT	z15cMEE_kAo	MPREb_NZSC3t7CBWE	UCpoyFBLTLfbT2Z1D1AnlvLg
 218	You're Gonna Go Far, Kid	The Offspring	Rise And Fall, Rage And Grace	INDIFFERENT	weqK155M_4o	MPREb_YQUhhmMbR62	UCQVUXQu8RpxhihAMla6ke5A
@@ -503,7 +503,7 @@
 187	Stars Come Out	Calvin Harris	Ready For The Weekend	INDIFFERENT	tqeosgNSNgo	MPREb_fw3Zary0Vpk	UCZ0Aezmtk-S2l8A9Ln-2lKw
 401	Wonderland	Cal Scruby	Wonderland	INDIFFERENT	rcxa-F98xu0	MPREb_9TrSacv95zt	UCH1dmTrJFkI-P4IAQNWQcKg
 565	Some People	Cal Scruby	Some People	INDIFFERENT	5pt3uoeAXk8	MPREb_C1WeWIVM7WX	UCH1dmTrJFkI-P4IAQNWQcKg
-352	Percolator (Remastered Original Mix)	Cajmere	Only 4 U: The Sound Of Cajmere & Cajual Records 1992-2012	INDIFFERENT	ak_xXIG8Kgs	MPREb_SGYsfxLFfpo	UCnUN3-m7yTenBly1vqWT5Ow
+352	Percolator (Remastered Original Mix)	Cajmere	Only 4 U: The Sound Of Cajmere & Cajual Records 1992-2012	INDIFFERENT	ak_xXIG8Kgs	MPREb_SGYsfxLFfpo	UC8rS-KW2Fnyd9Vccrz9dO1Q
 389	Tropicália (Remastered 2006)	Caetano Veloso	Caetano Veloso	INDIFFERENT	1Z1qNsm-NUk	MPREb_S3ZZ7E9o1kf	UCo7VN5w1PpeBOapTqtal75Q
 567	Cucurrucucu Paloma (Live 1995)	Caetano Veloso	The Best of Caetano Veloso	INDIFFERENT	7tbnZnxQacQ	MPREb_sxkeSfob4Ol	UCo7VN5w1PpeBOapTqtal75Q
 232	Phone Light Up	COTIS	WAIT!	INDIFFERENT	Az01hpkk9Sw	MPREb_W5IkSOVnuta	UCStwxAKdyn5a-0CE2xCXbEg
