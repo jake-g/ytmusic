@@ -176,21 +176,29 @@ class YTMusicPlaylists:
         return res.iloc[0]
 
     def get_playlists_by_privacy(self, privacy='PUBLIC',
-                                 skip_if_contains=('z_', 'zz_',
-                                                   'zzz_', 'yyz_')):
-        out_playlists = []
+                                  skip_if_contains=(
+                                    'zz not', 'zzz ', 'yyz ',
+                                    'Episodes for ', 'Liked Music')):
+        out_playlists = {}
         for i, p in self.playlists.iterrows():
             if len(p) == self.playlist_limit:
                 continue  # skip giant playlist
+            skip =False
             for sk in skip_if_contains:
-                if sk in p:
-                    continue
+                if sk in p.title.lower():
+                    skip= True
+            if skip:
+              continue
+
             metadata = self.playlist_get_info(p["playlistId"])
             if metadata['privacy'] == privacy:
-                out_playlists.append(p)
-                print(f'Found {privacy.lower()} playlist named: {p["title"]}')
-        return pd.concat(out_playlists)
-
+                pl_dict = p.to_dict()
+                pl_dict['metadata'] = metadata
+                out_playlists[p.title] = pl_dict
+                print(f'Found {privacy.lower()} playlist named: {p["title"]},', 
+                      f'description: {p["description"]}')
+        return out_playlists
+  
     def rename_playlist(self, playlist_id, new_name):
         """Renames a playlist on YouTube Music given its ID."""
         try:
