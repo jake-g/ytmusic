@@ -1,7 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 62	Church Street Blues	Tony Rice	Church Street Blues	LIKE	UHYkvDo2rXc	MPREb_B2csak8Oj4g	UCEkbN8kSWpXuC1bfVYUDTlg
 18	Runnin' Down A Dream	Tom Petty	Full Moon Fever	LIKE	8MUg8mpnhvQ	MPREb_DYgLTIGWoaC	UC6hGusDLTI8bW-P4pMYdIqA
-24	Mountain Dew	The Stanley Brothers	Stanley Brothers Best, Vol. 4	LIKE	gacvjtmLzf4	MPREb_E21ptkRzdfa	UCVF-aYND_nbvZ54oO12ioqA
 118	Steam Powered Aereo Plane	John Hartford	Aereo-Plain	LIKE	JtTmx30HNrk	MPREb_Jv8djwDmdrk	UChrkgc4pe3yQKLpLsk9DgpA
 87	Evil On My Mind	the .357 String band	Ghost Town	INDIFFERENT	polwT5swPQY	MPREb_DFM2HhIY6zL	UCLpgWG9TdzkVO008IXKPwfQ
 131	March 31, 2018	similarobjects	quiet mode (Nocturnal emissions / phygi monou pros monon)	INDIFFERENT	DM2zjpEOZ-M	MPREb_K97qYCh4Omw	UCooOFchMXTCYDL5LFXOLKPg
@@ -26,7 +25,8 @@
 30	Loser	The Travelin' McCourys	The Travelin' Mccourys	INDIFFERENT	nY2GDDlWJVM	MPREb_yTri4biUfwu	UCaVwrFsWplKM_3J4Ye4n1mg
 158	Standing In the Need of Prayer	The Tennessee Gospel Society	Gospel Highlights - Amazing Grace !	INDIFFERENT	u72gLOGr_Jk	MPREb_bqj23vjmwuD	UCB-zU-PTa5Of182qCLtZ_kg
 70	Blue Side Of The Mountain	The SteelDrivers	The SteelDrivers	INDIFFERENT	yGapWlREj0c	MPREb_orSIW1aZ6tf	UCG0wl9rN6U9BDj4hV_uIYxg
-37	In the Pines	The Stanley Brothers	True Life Blues, Vol. 1	INDIFFERENT	Z1vBhB-xpnA	MPREb_RW17Rbr15Rs	UCVF-aYND_nbvZ54oO12ioqA
+24	Mountain Dew	The Stanley Brothers	Sing Everybody's Country Favorites	INDIFFERENT	HToIlzyjm7Q	MPREb_XZp2TCfmWF9	UCVF-aYND_nbvZ54oO12ioqA
+37	In the Pines	The Stanley Brothers	A Little Talk With Jesus	INDIFFERENT	3ziL3x2vHTw	MPREb_WRXd8xk4207	UCVF-aYND_nbvZ54oO12ioqA
 84	Meet Me by the Moonlight	The Stanley Brothers	High Lonesome: The Story of Bluegrass Music	INDIFFERENT	T16YqCgY5FA	MPREb_AqpMy9YyENO	UCVF-aYND_nbvZ54oO12ioqA
 2	Are You Afraid to Die?	The Rochesters	Brighter Day	INDIFFERENT	toxJnnSH4f8	MPREb_WRlu7vbBIFM	UC04X9tdWTv_yFafZ4rojGLQ
 15	Soldier's Joy	The Rice Brothers	The Rice Brothers	INDIFFERENT	X0I64ehwELg	MPREb_3PXKPzAbQPj	UCkchoprqyDwUDfJmRwNKF-w
@@ -138,7 +138,7 @@
 184	Foggy Mountain Breakdown	Flatt & Scruggs	16 Biggest Hits	INDIFFERENT	L-obJtiv0LE	MPREb_cxy1elGAYRT	UCJzZSwFlZa2syUOxCaswbJA
 64	Gold Watch and Chain	Emmylou Harris	The 80's Studio Album Collection	INDIFFERENT	sUOM4Q0VL0s	MPREb_6AdEjSqaa8k	UCVq1-9pb-o24ri5P2ZicJlA
 83	Salty Dog Blues	Earl Scruggs & Morris Brothers	Earl Scruggs Performing With His Family And Friends	INDIFFERENT	_TdeA2YF394	MPREb_HrebbLhxyyt	
-107	Foggy Mountain Breakdown (2001 Earl Scruggs & Friends Version) (feat. Earl Scruggs & Glenn Duncan)	Earl Scruggs	Earl Scruggs And Friends	INDIFFERENT	cKw38eqVyNI	MPREb_pGQnWnwAQ0S	UCkmoWYG4JKabFKGuqvLZ70Q
+107	Foggy Mountain Breakdown (feat. Vince Gill, Steve Martin, Albert Lee & Glen Duncan)	Earl Scruggs	Earl Scruggs And Friends	INDIFFERENT	cKw38eqVyNI	MPREb_pGQnWnwAQ0S	UCkmoWYG4JKabFKGuqvLZ70Q
 174	I'm Gonna Sleep With One Eye Open	Dolly Parton	The Grass Is Blue	INDIFFERENT	b8SA9mvB0NM	MPREb_6qWq5mmMJHP	UCXJscayh5BT8m2ZVFQSdeVw
 164	Beaumont Rag	Doc Watson Family	Treasures Untold	INDIFFERENT	q7tbR5r2hl4	MPREb_I5TdXbRjw9N	UCoSK0UR9t70chzDva7jCQhw
 52	Walk On Boy	Doc Watson	Southbound	INDIFFERENT	I9A8hgWuDnw	MPREb_N3rMNlF55f8	UCoSK0UR9t70chzDva7jCQhw
