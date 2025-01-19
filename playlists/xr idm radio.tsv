@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+13	Hasty Boom Alert	U-Ziq	Lunatic Harness	LIKE	3c_E09gib-Y	MPREb_suLHdTyws8L	UC7IoxqTlXj7Kky2eW3Hnvpg
 11	Montreal	Autechre	Amber	LIKE	-dRHPGyF614	MPREb_d6Dp9B4mR8S	UCBUAlfIrcw1f0c4qGrYn3xA
 4	Don't Tell Me (It's Ending)	µ-Ziq	Don't Tell Me (It's Ending)	INDIFFERENT	Zhvg66NHSHI	MPREb_kXU6az4HYRD	UC7IoxqTlXj7Kky2eW3Hnvpg
 119	It Drips	upsammy	It Drips	INDIFFERENT	4JrdgEktr8o	MPREb_5I24aB10nr7	UCUPsJTCYCmKO6Syu1rGvQZA
@@ -42,7 +43,6 @@
 267	Like A Good Old Friend	Vegyn	Like A Good Old Friend	INDIFFERENT	Yfoq0iwu40U	MPREb_PSnKQtPSeLT	UCgD_Trf6V7QaZXsXYJKanUA
 174	Libres	Vega	Circular	INDIFFERENT	Dxt8ROq235g	MPREb_PG8NXBOw6He	UCMs1cPst_Ji5ksPXXv8gVww
 73	The Murder Cycles	VHS Head	Trademark Ribbons of Gold	INDIFFERENT	pDIuD6i_XoQ	MPREb_ZEA8TsxGizL	UCiPGoIicGrAU32LR987iD9g
-13	Hasty Boom Alert	U-Ziq	Lunatic Harness	INDIFFERENT	3c_E09gib-Y	MPREb_suLHdTyws8L	UC7IoxqTlXj7Kky2eW3Hnvpg
 1	Soft Core	Two Shell	SoulCity EP	INDIFFERENT	dk_UUphyT-w	MPREb_y7vbbW7Qg74	UC1IzXeaJw3SpeKF0Q8OEwWA
 69	As Worldly Pleasures Wave Goodbye….	Two Lone Swordsmen	Stay Down	INDIFFERENT	hEQeWntnsTk	MPREb_dObSeLdKbPr	UCuJRAIwAKRX6XWJYqE89_sQ
 148	Akwalek	Two Lone Swordsmen	Tiny Reminders	INDIFFERENT	1oWrgek6LcA	MPREb_lUN4fbnMaQR	UCuJRAIwAKRX6XWJYqE89_sQ
@@ -189,8 +189,8 @@
 332	...Just Another Kool Kat Out Looking For A Kitty	Kid606	GQ On The EQ	INDIFFERENT	ICzyANrM9sQ	MPREb_Tp55tuRv9gy	UCxGvWFlnBHt_4MHdVbQx_7A
 130	Trike	Kid Spatula	Meast	INDIFFERENT	yVoBJByAc2c	MPREb_e2b7q7HtAcZ	UCeffc56yuqof13D3a8AFqYg
 299	Hard Love	Kid Spatula	Full Sunken Breaks	INDIFFERENT	iLn_GvZO2_E	MPREb_za8BHfy7qDD	UCeffc56yuqof13D3a8AFqYg
-178	And Unrequited as Well	Kettel	Whisper Me Wishes	INDIFFERENT	NoszBDxz8j8	MPREb_t0RnPpPKAhg	UCoPEpL8M6ToumaqNhW-L2ig
-214	Poblesec	Kettel	Wingtip	INDIFFERENT	SZpM3DcJrBM	MPREb_62H1sx2PnZZ	UCDVCsDVdkKJ8kylBDrd-cJw
+178	And Unrequited as Well	Kettel	Whisper Me Wishes	INDIFFERENT	NoszBDxz8j8	MPREb_t0RnPpPKAhg	UC0LU16RY5kpSEa__m_7elug
+214	Poblesec	Kettel	Wingtip	INDIFFERENT	SZpM3DcJrBM	MPREb_62H1sx2PnZZ	UC0LU16RY5kpSEa__m_7elug
 85	Petrified	Kelpe	Sea Inside Body	INDIFFERENT	rJFBP5yq-KY	MPREb_x1OQEVzepLz	UC2bUich8FvjMBIRBjoTMRPw
 184	When You Think It's Over	Katatonic Silentio	Tabula Rasa	INDIFFERENT	Fh72GRAEfxE	MPREb_5PpcI4pHJmJ	UCuzJSXHx-OT-fvqYZWYrB1A
 117	Borg Acid (Nyborg Mix)	Karsten Pflum	Love Canticles	INDIFFERENT	1-YfxOCrK5g	MPREb_bxmRzQ05vUy	UCkgkO_RP9QY6CZmrbrVn0NA
@@ -219,6 +219,7 @@
 271	A Track Title That Ends In The Word Acid	Ionian Spheres	Acid Jams, Vol. 1	INDIFFERENT	YJvMhFf71E8	MPREb_Y1TmYwyFEG4	UC62OuJqpECfmPzR-UP593Gw
 172	Strayed in Comparison (Andre Bratten Thousand Mix)	Hidden Element	Comparisons	INDIFFERENT	BSeZFu2LuXY	MPREb_Suc2YOiRjQU	UCNKErvi3ItRLT2KmA0hVj4g
 258	All the Best Memories Are Hers	Hans Zimmer	Blade Runner 2049 (Original Motion Picture Soundtrack)	INDIFFERENT	2QCecWuOC18	MPREb_0POX3qhl2pr	UCfCNL5oajlQBAlyjWv1ChVw
+200	Peels	Hamatsuki	Sleepwalking [Mind Controlled Rectifier]	INDIFFERENT	T-WNt-jy19M	MPREb_zI0x0TGddnF	UCnouFuqsFAyiLcLZ-ErYQdw
 269	Hibernation Bell	Halicon	Vello Rinse	INDIFFERENT	ptHr5FsXhBw	MPREb_5PBypDf72Yb	UCufXFrKsip8BnigaU73g0EA
 52	Song Of The Sea	Hainbach	The Heat	INDIFFERENT	N9CqVykJN3k	MPREb_iK1nEnmRmBv	UCxPVUjkrl_9sP2wAz8j5Rjg
 266	Schwebungssummer	Hainbach	Schwebungssummer	INDIFFERENT	e35KUQHY1Mw	MPREb_rhkruNYmqbz	UCxPVUjkrl_9sP2wAz8j5Rjg
@@ -364,6 +365,5 @@
 305	Claustrophobic Sympathy	1456	God, Lust and Vanity	INDIFFERENT	_JNwRXZvzFk	MPREb_sgVGZXRHi4w	UCkvBynDiXEyr9UrJ-7414eg
 341	Provocative Teeth	1456	God, Lust and Vanity	INDIFFERENT	oN1RQYyD52s	MPREb_sgVGZXRHi4w	UCkvBynDiXEyr9UrJ-7414eg
 225	My Red Hot Car (Girl)	Squarepusher	My Red Hot Car		UHtAMumN3lU		
-200	Peels	Hamatsuki	Sleepwalking [Mind Controlled Rectifier]		T-WNt-jy19M		
 309	magnangam	Clocolan	magnangam		DYXfDldH7hM		
 161	Trapped in Tivoli	Arkist	Trapped in Tivoli – Single		DK7nSIjp88I		
