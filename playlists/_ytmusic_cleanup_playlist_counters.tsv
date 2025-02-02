@@ -1,10 +1,10 @@
 	count
-playlists_processed	530
-playlist_kind_is_yt_generated	5
-playlist_kind_in_playlist_skip_list	73
-playlist_kind_not_inferred	23
-playlist_kind_is_like	274
-playlist_kind_is_indifferent	160
-playlist_kind_is_album	65
+playlists_processed	503
+playlist_kind_is_yt_generated	6
+playlist_kind_in_playlist_skip_list	55
+playlist_kind_is_like	288
 playlist_skip_starts_with_zz not like	3
 playlist_kind_is_skip	3
+playlist_kind_is_album	46
+playlist_kind_is_indifferent	154
+playlist_kind_not_inferred	6

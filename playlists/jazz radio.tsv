@@ -1,938 +1,101 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-464	Moonlight In Vermont	Ella Fitzgerald	Ella and Louis	LIKE	WJCw-lvuS-c	MPREb_7mxQOIPVwsz	UCuMHq8jMRZXpUxSGLBuCa9g
-444	something will happen	berlioz	something will happen	INDIFFERENT	6jgBcsRCqI8	MPREb_pGGamnWfiqw	UCysz8Xc-wW_S7Nka9_AEX_g
-247	Remembrance	Yussef Kamaal	Black Focus	INDIFFERENT	0ek9EOpnavk	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
-120	Ching Miau (Remastered 2023)	Yusef Lateef	On Prestige	INDIFFERENT	KtZIZ7tlmpk	MPREb_PkvGrhQHSBZ	UCTzvT7cM3lVEnarspxywomQ
-573	Lover Man	Yusef Lateef	The Last Savoy Sessions	INDIFFERENT	IeIDuDXQUO8	MPREb_bqvaY9VpCbT	UCTzvT7cM3lVEnarspxywomQ
-846	Love Theme From Spartacus (Rudy Van Gelder Remaster / 2006)	Yusef Lateef	Some Relaxing Jazz	INDIFFERENT	BrEZTxPeI48	MPREb_lPzusZf2kaQ	UCTzvT7cM3lVEnarspxywomQ
 78	Dada (feat. Vitor Gonçalves & Daniel Dor)	Yotam Silberstein	Dada	INDIFFERENT	6qeSaM4lh3E	MPREb_bUlOIuh5dDH	UCNIXsHVLslQco7dKoEivmlQ
-130	Spring Will Be A Little Late This Year	Wynton Marsalis	The Midnight Blues Standard Time Vol. 5	INDIFFERENT	LsYAg0uDGNE	MPREb_yCDTal7hf6Q	UCzWGLXcvQlN_VMWJes9VYyw
-302	The Majesty Of The Blues (The Puheeman Strut)	Wynton Marsalis	The Majesty Of The Blues	INDIFFERENT	D1FZLD35vpg	MPREb_m5e3aRP8yxn	UCzWGLXcvQlN_VMWJes9VYyw
-455	Foggy Day (album version)	Wynton Marsalis	Marsalis Standard Time - Volume I	INDIFFERENT	7R6yRXLVOdQ	MPREb_Xaltq65xrHU	UCzWGLXcvQlN_VMWJes9VYyw
-607	Where or When	Wynton Marsalis	Standard Time Vol. 3: The Resolution Of Romance	INDIFFERENT	9hKnP1WfsjE	MPREb_HXeUv3xLH2P	UCzWGLXcvQlN_VMWJes9VYyw
-836	Keen And Peachy	Woody Herman and His Orchestra	Early Autumn	INDIFFERENT	Q44qaQfx3Fc	MPREb_3zR1CdOlORl	UCwXcw8ySG0ChpvgC8CJL0RQ
-823	Early Autumn	Woody Herman And His Orchestra	Early Autumn	INDIFFERENT	GRlehhQI4ug	MPREb_R14J9kgdIgU	UCwXcw8ySG0ChpvgC8CJL0RQ
-366	The Good Earth	Woody Herman	The Thundering Herds (1946-1947)	INDIFFERENT	vCbisyUS5-s	MPREb_uRS0hNr66Lq	UCwXcw8ySG0ChpvgC8CJL0RQ
-436	Caldonia (Alternate Version)	Woody Herman	The Very Best Of	INDIFFERENT	OEciyIiDu4U	MPREb_aRMUFb8a9TC	UCwXcw8ySG0ChpvgC8CJL0RQ
-840	Lemon Moon (feat. Mark Soskin, Jay Anderson & Adam Nussbaum)	Wolfgang Lackerschmid	Summer Changes (feat. Mark Soskin, Jay Anderson & Adam Nussbaum)	INDIFFERENT	hr-H1cd1d58	MPREb_9caiauA1bwv	UCfAGq6WzBj4BYUB6NG7-iRA
 63	The Sneakaway (Piano Solo)	"Willie ""The Lion"" Smith"	"Willie ""The Lion"" Smith and His Jazz Cubs"	INDIFFERENT	wL8KMpmqxBQ	MPREb_TVxapcttlzb	UC741dJ0zMc3jWhPJC-mts7g
-839	Glacier Come Alive	William Claeson	Glacier Come Alive	INDIFFERENT	DOzXzKBpthw	MPREb_prSWxNG0aNb	UCd5XBYoLPyc0iZFNeiEcNLw
-404	The Goddess	Will Donato	The Goddess	INDIFFERENT	JLOJpvfOmAo	MPREb_jUlP7KtcPtw	UCsS9_0y8Dk5jiSS8eYwpwHA
-204	S.K.J. (Instrumental)	Wes Montgomery	Bags Meets Wes	INDIFFERENT	jVCeZmOVhDM	MPREb_EAVZT3QE9aq	UCYs8ep9Xe3RQc3Oy4BWKNAw
-224	I've Grown Accustomed To Her Face (Live)	Wes Montgomery	Full House	INDIFFERENT	bCxYkyVvzH0	MPREb_3d4NZwRgqwl	UCYs8ep9Xe3RQc3Oy4BWKNAw
-281	Mister Walker	Wes Montgomery	Essential Jazz Masters	INDIFFERENT	cndWw2fdRFA	MPREb_tMgFZEsbzsV	UCYs8ep9Xe3RQc3Oy4BWKNAw
-525	Airegin	Wes Montgomery	Incredible Jazz Guitar	INDIFFERENT	vQXz2MTGhug	MPREb_oMiOZI9U46P	UCYs8ep9Xe3RQc3Oy4BWKNAw
-542	Whisper Not	Wes Montgomery	Essential Jazz Masters	INDIFFERENT	fCTLAOvFPh4	MPREb_tMgFZEsbzsV	UCYs8ep9Xe3RQc3Oy4BWKNAw
-848	Tune Up (Take 5)	Wes Montgomery	Pretty Blue [2-fer]	INDIFFERENT	povCW5d6izY	MPREb_Y1q6fjWr6nn	UCYs8ep9Xe3RQc3Oy4BWKNAw
 41	Sightseeing	Weather Report	Weather Report Recordings Of Wayne Shorter Compositions 2	INDIFFERENT	fXvglKXlDNY	MPREb_FjV4GlVr4ld	UCIarlYUBEI7vNYAyrt4vRlQ
-321	The Moors	Weather Report	I Sing The Body Electric	INDIFFERENT	S9nGrC8R8a4	MPREb_MfQR1OIpQ2l	UCIarlYUBEI7vNYAyrt4vRlQ
-495	When It Was Now	Weather Report	Weather Report	INDIFFERENT	SO0Yss2ZiyU	MPREb_EgusyYVD9T3	UCIarlYUBEI7vNYAyrt4vRlQ
-593	Elegant People	Weather Report	The Essential Wayne Shorter	INDIFFERENT	RbX7gPFctwA	MPREb_pI33Tg72kzh	UCIarlYUBEI7vNYAyrt4vRlQ
-762	Eurydice	Weather Report	Weather Report	INDIFFERENT	WBPvoLf4v1I	MPREb_JOsHaJE2NL5	UCIarlYUBEI7vNYAyrt4vRlQ
-801	Mysterious Traveler	Weather Report	Mysterious Traveller	INDIFFERENT	dVFmQDsRCFQ	MPREb_nQauvv7Dijr	UCIarlYUBEI7vNYAyrt4vRlQ
 59	Port Of Entry (Live)	Wayne Shorter	This Is Jazz #19	INDIFFERENT	UQko-k7_ELM	MPREb_2qjhnoRxOpy	UC3X4afoYfFCLWw1LTfeLCqA
-104	Tom Thumb (feat. Curtis Fuller, James Spaulding, Herbie Hancock & Ron Carter)	Wayne Shorter	Blue 'N' Groovy: Blue Note Connects With The Good Vibes	INDIFFERENT	F7C5tPmd_H0	MPREb_iGkJlrU9chX	UC3X4afoYfFCLWw1LTfeLCqA
-146	Speak No Evil	Wayne Shorter	The Classic Blue Note Recordings	INDIFFERENT	jU41kC83BOc	MPREb_lARKqhASAde	UC3X4afoYfFCLWw1LTfeLCqA
-177	Endangered Species	Wayne Shorter	Atlantis	INDIFFERENT	qUDRRCQj0TE	MPREb_OoBvuvFTitt	UC3X4afoYfFCLWw1LTfeLCqA
-296	Speak No Evil	Wayne Shorter	The Classic Blue Note Recordings: Wayne Shorter	INDIFFERENT	evBFBFLLfj0	MPREb_8Gni2xv2Fg8	UC3X4afoYfFCLWw1LTfeLCqA
-446	Witch Hunt (Remastered1998/Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil (The Rudy Van Gelder Edition)	INDIFFERENT	oJoSrQ6iP0c	MPREb_YdfvnV0sRce	UC3X4afoYfFCLWw1LTfeLCqA
-508	Fee-Fi-Fo-Fum (Remastered1998/Rudy Van Gelder Edition)	Wayne Shorter	Speak No Evil (The Rudy Van Gelder Edition)	INDIFFERENT	5bE0CZi-O8c	MPREb_YdfvnV0sRce	UC3X4afoYfFCLWw1LTfeLCqA
-552	Footprints	Wayne Shorter	Blue Note Perfect Takes	INDIFFERENT	gGtvjy3f9OY	MPREb_d5dclvOPpBa	UC3X4afoYfFCLWw1LTfeLCqA
-579	Penelope (feat. Herbie Hancock, Cecil McBee & Joe Chambers)	Wayne Shorter	Etcetera	INDIFFERENT	xe7l9Kt4TG0	MPREb_9aPxCMBz31w	UC3X4afoYfFCLWw1LTfeLCqA
-594	Speak No Evil	Wayne Shorter	Blue Note 101: A Jazz Introduction	INDIFFERENT	V6sE2hcYZHE	MPREb_gr3qsqHPbPC	UC3X4afoYfFCLWw1LTfeLCqA
-727	Hale-Bopp, Hip-Hop	Wayne Shorter	1+1	INDIFFERENT	7FidVltQ2gw	MPREb_znVZjTnCriE	UC3X4afoYfFCLWw1LTfeLCqA
-844	Aung San Suu Kyi	Wayne Shorter	1+1	INDIFFERENT	C1pyeoSZizg	MPREb_znVZjTnCriE	UC3X4afoYfFCLWw1LTfeLCqA
-636	So Danco Samba (Jazz 'N' Samba) (1996 Remastered)	Wanda De Sah	Ultra-Lounge: Bossa Novaville	INDIFFERENT	tifteNUzilQ	MPREb_WY7k1MIjxnD	
-498	Incantation	Walt Weiskopf	European Quartet: Diamonds and Other Jewels	INDIFFERENT	FuNlpL0W1oY	MPREb_Cn1wVHoU771	UCijr6I6I_5oDVedXZrAL4fg
 14	Happiness Is	Vince Guaraldi Trio	Bottle Rocket Short Film Soundtrack	INDIFFERENT	plctPcl6Ht8	MPREb_6a9qxLGnezw	UC_DRP-u7c3iOwytg4-ddifw
-544	Skating	Vince Guaraldi Trio	A Charlie Brown Christmas [2012 Remastered & Expanded Edition] (Remastered & Expanded Edition)	INDIFFERENT	CSnfgs6NJ8o	MPREb_EepHRfjfbPd	UC_DRP-u7c3iOwytg4-ddifw
-674	Charlie Brown Theme	Vince Guaraldi Trio	Peanuts Greatest Hits (Music From The TV Specials)	INDIFFERENT	TJtYof44PtM	MPREb_qQcijN8Q3aY	UC_DRP-u7c3iOwytg4-ddifw
-628	Whirlpool	Vince Guaraldi	The Latin Side Of Vince Guaraldi	INDIFFERENT	9bgOI9uOYvQ	MPREb_eXJMWai2gRr	UC_DRP-u7c3iOwytg4-ddifw
-291	Infant Eyes	Victor Gould	In Our Time	INDIFFERENT	lmFbXgDwfpg	MPREb_MuUelXQAwem	UCBQBCvw2DSRghpPywYsMSsw
-669	Nobody's Sweetheart	Various Artists	Anthology of  British Vintage Jazz, Volume 1	INDIFFERENT	_lTqj692W64	MPREb_0KFyNIJkkw7	UCtlWslkUmD1cRYquDr3_OJA
-114	Spring In Manhattan	Tony Bennett	The Many Moods Of Tony	INDIFFERENT	RKMrkMwLD28	MPREb_Oo39XBAp8ty	UCQgu2j5deAy_cJfByew18qg
 26	Relaxin' at Camarillo	Tommy Flanagan Trio	Vintage 50's Swedish Jazz 1949-1961	INDIFFERENT	yEVWFd7c4dI	MPREb_KnEywVxqHC4	UCqU1W9XMO-9cQ6s1rvHevMg
-157	They Say It's Spring	Tommy Flanagan	Ballads & Blues	INDIFFERENT	7P9zY707W6Q	MPREb_OeyvNP4wacu	UCqU1W9XMO-9cQ6s1rvHevMg
-565	Speak Low (Take 1)	Tommy Flanagan	The Magnificent Tommy Flanagan	INDIFFERENT	Is78lD9jtZU	MPREb_Fww6FZUcv0R	UCqU1W9XMO-9cQ6s1rvHevMg
-786	West Coast Blues (Instrumental)	Tommy Flanagan	Something Borrowed, Something Blue	INDIFFERENT	wBPVfzRipGo	MPREb_QqMVwLTDAXh	UCqU1W9XMO-9cQ6s1rvHevMg
-880	Verdandi	Tommy Flanagan	Beats up in Stockholm! Tommy Flanagan, August 1957	INDIFFERENT	PvGvW9Td5C8	MPREb_WpvAz2rDac7	UCqU1W9XMO-9cQ6s1rvHevMg
-726	Opus One (1991 Remastered)	Tommy Dorsey & His Orchestra	Greatest Hits	INDIFFERENT	5RxKJztoGfk	MPREb_n6ylLVVr1ci	UCxDQrM2JMfe1aVujAnaNlbw
-480	Trailblazers (feat. Jonas Brinckmann & Kasperi Sarikoski)	Tobias Hoffmann Jazz Orchestra	Trailblazers	INDIFFERENT	fBq0eOiWSI4	MPREb_UeXp3ng0dEp	UCyJk6uaGZiwHh33z-JLtiVw
-297	Back To The Tracks	Tina Brooks	Back To The Tracks	INDIFFERENT	uRghTChBlmM	MPREb_n7K6HRgvuqc	UCPIzgcrJgQHU7997zYBB88Q
-199	I Loves You Porgy	Till Brönner	The Good Life	INDIFFERENT	ZhHzw7fXmyM	MPREb_ZUKRHvDt1um	UCDcbM5chFZEKOIrOAv23VlQ
-265	She Was Too Good To Me	Till Brönner	Chattin' With Chet	INDIFFERENT	yYkebQQXFlc	MPREb_kxAehB1Oouz	UCDcbM5chFZEKOIrOAv23VlQ
 21	Where The Giants Roam / Field of the Nephilim	Thundercat	The Beyond / Where the Giants Roam	INDIFFERENT	CFKNJ_r0kRQ	MPREb_FWpZtAwAhKr	UCUl7CLMqbyYVb62zJ7nbLfA
-111	Uh Uh	Thundercat	Drunk	INDIFFERENT	wawFGZQSqYk	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
-690	Lava Lamp	Thundercat	Drunk	INDIFFERENT	ppHQa2h2qiI	MPREb_I94MDPlN4AC	UCUl7CLMqbyYVb62zJ7nbLfA
-238	Wanting Your Love	Theo Croker	AfroPhysicist	INDIFFERENT	z89SN2usS4k	MPREb_MTqJLjV53iL	UCe3S6JNz5ezBmrTxp5iDiWQ
-826	The Right Time	Theo Croker	Escape Velocity	INDIFFERENT	1vuPYBoe6LU	MPREb_cHDPVOeebuO	UCe3S6JNz5ezBmrTxp5iDiWQ
-649	Epistrophy	Thelonious Monk Quintet	The Best Of Thelonious Monk	INDIFFERENT	FumiYEakTuI	MPREb_ZgcFaYCHzop	UCyCL_gVNVoWZTjkw-KnuIDg
-151	Misterioso	Thelonious Monk Quartet	Misterioso [Original Jazz Classics Remasters]	INDIFFERENT	3oHjXTZO33g	MPREb_ULQB7g5TzqK	UCyCL_gVNVoWZTjkw-KnuIDg
-181	Let's Cool One	Thelonious Monk Quartet	Misterioso [Original Jazz Classics Remasters]	INDIFFERENT	Sp6QEgtAj_A	MPREb_ULQB7g5TzqK	UCyCL_gVNVoWZTjkw-KnuIDg
-501	Blues Five Spot	Thelonious Monk Quartet	Misterioso [Original Jazz Classics Remasters]	INDIFFERENT	v7JH3TCHCR8	MPREb_ULQB7g5TzqK	UCyCL_gVNVoWZTjkw-KnuIDg
-105	Very Near Blue	Thelonious Monk	In Orbit	INDIFFERENT	6bK1FZ4uJCU	MPREb_L97ORQnXygz	UCyCL_gVNVoWZTjkw-KnuIDg
-159	Monk's Mood (Rudy Van Gelder 24-Bit Mastering / 2001 Digital Remaster)	Thelonious Monk	Genius Of Modern Music (Vol.1, Expanded Edition)	INDIFFERENT	iMwFKPRsgUQ	MPREb_tSGaCpiYtC1	UCyCL_gVNVoWZTjkw-KnuIDg
-171	Crepuscule with Nellie	Thelonious Monk	The Songbook	INDIFFERENT	PCVQ2q4mxRc	MPREb_qTUdgGCi03R	UCyCL_gVNVoWZTjkw-KnuIDg
-195	Memories Of You	Thelonious Monk	It's Monk's Time	INDIFFERENT	HhxIIhA_JVk	MPREb_NyncFS9WsZ6	UCyCL_gVNVoWZTjkw-KnuIDg
-256	Evidence (Remastered 2001/Rudy Van Gelder Edition)	Thelonious Monk	Wizard Of The Vibes	INDIFFERENT	CBaCSs5EceM	MPREb_jjEEKEp4Pub	UCyCL_gVNVoWZTjkw-KnuIDg
-266	Bye-Ya	Thelonious Monk	Monk's Dream	INDIFFERENT	pVkPWUsFIe0	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
-317	Ask Me Now (Remastered 1998)	Thelonious Monk	Genius Of Modern Music (Vol.2, Expanded Edition)	INDIFFERENT	k1X9B6QmGy8	MPREb_wgs5X6kGL8R	UCyCL_gVNVoWZTjkw-KnuIDg
-347	Monk's Dream (Take 8)	Thelonious Monk	Monk's Dream	INDIFFERENT	mgqYJa5hMQY	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
-383	Blue Monk (Monk’s Mood)	Thelonious Monk	Roads of Jazz	INDIFFERENT	BKamGwepaQY	MPREb_JtDdlM5YMOR	UCyCL_gVNVoWZTjkw-KnuIDg
-456	Mood Indigo	Thelonious Monk	Plays Duke Ellington	INDIFFERENT	6utQzLF9Ea8	MPREb_0JEuHZXoVtJ	UCyCL_gVNVoWZTjkw-KnuIDg
-460	'Round Midnight	Thelonious Monk	The Best Of Thelonious Monk	INDIFFERENT	S1VDW2xnMOM	MPREb_ZgcFaYCHzop	UCyCL_gVNVoWZTjkw-KnuIDg
-531	Bright Mississippi (Take 1)	Thelonious Monk	Monk's Dream	INDIFFERENT	ViysgEr3rZQ	MPREb_iQB5djm9UYc	UCyCL_gVNVoWZTjkw-KnuIDg
-538	"Well, You Needn't (Live at the ""It"" Club, Los Angeles, CA - Oct/Nov 1964)"	Thelonious Monk	"Live At The ""It"" Club - Complete"	INDIFFERENT	j9KwmL313z8	MPREb_GvcFgIyqAIM	UCyCL_gVNVoWZTjkw-KnuIDg
-555	Trinkle, Tinkle (feat. John Coltrane)	Thelonious Monk	Thelonious Monk with John Coltrane (OJC Remaster)	INDIFFERENT	d6DfukLXxIk	MPREb_JFeS3pWYCdL	UCyCL_gVNVoWZTjkw-KnuIDg
-657	Straight No Chaser	Thelonious Monk	The Best Of Thelonious Monk	INDIFFERENT	uJs2eCqhTN0	MPREb_ZgcFaYCHzop	UCyCL_gVNVoWZTjkw-KnuIDg
-749	Darn That Dream	Thelonious Monk	Solo Monk (Expanded Edition)	INDIFFERENT	CwoYwn6KWAM	MPREb_C59U3ufrREb	UCyCL_gVNVoWZTjkw-KnuIDg
-831	On Green Dolphin Street	The Wynton Kelly Trio	Kelly Blue	INDIFFERENT	FzZ562-20iw	MPREb_X1nC9LQzU74	UCknUxDrhh5RhVbnAthYi7qg
-435	Billie's Bounce (RVG Remaster) (feat. John Coltrane)	The Red Garland Quintet	The Definitive John Coltrane On Prestige And Riverside	INDIFFERENT	XqMOBVJM3lI	MPREb_OGjJ6kJoGen	UCGoOd5vhLg8fz5LJ98GBHBg
-168	Crazy Race	The RH Factor	Distractions	INDIFFERENT	v201PxvQ4qM	MPREb_uApi00L2RGH	UCN0WzCspjoK3LT7dM7hnHBQ
 25	Georgia On My Mind	The Oscar Peterson Trio	Volare	INDIFFERENT	vOBWDucWKLU	MPREb_6vpfgcNhhPa	UCGO2MrCyB3dLCID5wLE0JUw
-418	Alice in Wonderland (Live)	The Oscar Peterson Trio	Exclusively for My Friends (Live)	INDIFFERENT	AMSjzdPR_Io	MPREb_37oLVM3fg4Z	UCGO2MrCyB3dLCID5wLE0JUw
-563	Noreen's Nocturne (Live)	The Oscar Peterson Trio	Exclusively for My Friends (Live)	INDIFFERENT	sRLqfnKIlWw	MPREb_37oLVM3fg4Z	UCGO2MrCyB3dLCID5wLE0JUw
-629	C-Jam Blues	The Oscar Peterson Trio	Volare	INDIFFERENT	-uOigiDWFxw	MPREb_6vpfgcNhhPa	UCGO2MrCyB3dLCID5wLE0JUw
-632	Sandy's Blues (Live)	The Oscar Peterson Trio	Exclusively for My Friends: The Way I Really Play, Vol. III (Live)	INDIFFERENT	HgH8ZnlwFes	MPREb_Ro6OErArYXK	UCGO2MrCyB3dLCID5wLE0JUw
-102	Concorde	The Modern Jazz Quartet	Concorde	INDIFFERENT	7z3J9tbOM7A	MPREb_kCA23Ii0ZfW	UCQjf61NuHvxHrm4gkdx0ZaQ
-322	One Bass Hit	The Modern Jazz Quartet	Best Of The Early Years	INDIFFERENT	7lTOLJpK8WM	MPREb_taAsXbmjwO1	UCQjf61NuHvxHrm4gkdx0ZaQ
-827	Django	The Modern Jazz Quartet	The Best of the Modern Jazz Quartet	INDIFFERENT	gj4_t_yfxQc	MPREb_kmkdMlqyAmy	UCQjf61NuHvxHrm4gkdx0ZaQ
-408	I Could Write A Book	The Miles Davis Quintet	Relaxin' With The Miles Davis Quintet	INDIFFERENT	V-aaTglstZo	MPREb_1zSiBYRk6JS	UCIev2PktTH5mI-QlGmbUkiw
-569	Blues By Five (Rudy Van Gelder Remaster)	The Miles Davis Quintet	Chronicles - The Complete Prestige Recordings 1951-1956	INDIFFERENT	icA1lxcaykw	MPREb_LxJKyWuxodr	UCIev2PktTH5mI-QlGmbUkiw
-676	My Funny Valentine (Rudy Van Gelder Remaster 2007)	The Miles Davis Quintet	Cookin' With The Miles Davis Quintet	INDIFFERENT	gaw4cGO5H-k	MPREb_TTCfpP1SP3u	UCIev2PktTH5mI-QlGmbUkiw
-811	Nature Boy	The Miles Davis Quintet	Blue Moods	INDIFFERENT	gubBgDb5maw	MPREb_radS94auKKc	UCIev2PktTH5mI-QlGmbUkiw
-511	Happy House	The Jazz Seekers	Divine Beasts	INDIFFERENT	6sZ1vK8qTkM	MPREb_sYbY5psDGGh	UCFSnsE2cm8BSAq-d-m0A0EA
-477	How High The Moon	The Dave Brubeck Trio	24 Classic Original Recordings	INDIFFERENT	HK5P7wTTbgQ	MPREb_a1Vob3mjreY	UCMBevFAp40kVlvIcOvzv5Bw
 91	Blue Shadows in the Street	The Dave Brubeck Quartet	Time Further Out	INDIFFERENT	cAERtL7S6w4	MPREb_sVkzqJ4J1H4	UCMBevFAp40kVlvIcOvzv5Bw
-196	Blue Rondo à la Turk	The Dave Brubeck Quartet	Time Out	INDIFFERENT	FqPC-BkylxA	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
-324	Everybody's Jumpin'	The Dave Brubeck Quartet	Time Out	INDIFFERENT	zxGNx2hBqlc	MPREb_3wnWlcId2hc	UCMBevFAp40kVlvIcOvzv5Bw
-354	I Never Knew (I Could Love Anyone Like I'm Loving You)	The Dave Brubeck Quartet	Brubeck And Rushing	INDIFFERENT	poGP7qxwv9Q	MPREb_8DZUmSZ4kV3	UCMBevFAp40kVlvIcOvzv5Bw
-733	What Is This Thing Called Love?	The Dave Brubeck Quartet	Anything Goes!	INDIFFERENT	U2CutFiLGS0	MPREb_Y1Lclws9d26	UCMBevFAp40kVlvIcOvzv5Bw
-799	Le Souk (Live)	The Dave Brubeck Quartet	Jazz Goes To College	INDIFFERENT	4BiMcUTy6Do	MPREb_vj6OI06AEIC	UCMBevFAp40kVlvIcOvzv5Bw
-863	The Trolley Song	The Dave Brubeck Quartet	Bossa Nova U.S.A	INDIFFERENT	Va1MuBfGJsU	MPREb_29h9OyWlxmO	UCMBevFAp40kVlvIcOvzv5Bw
-879	Far More Blue	The Dave Brubeck Quartet	Time Further Out	INDIFFERENT	hItKYxjJkwM	MPREb_sVkzqJ4J1H4	UCMBevFAp40kVlvIcOvzv5Bw
-346	Don't Worry 'Bout Me (Live)	The Dave Brubeck ...	Jazz Goes To College	INDIFFERENT	T94AOXRqn6Q	MPREb_vj6OI06AEIC	UCMBevFAp40kVlvIcOvzv5Bw
-763	Balcony Rock (Live)	The Dave Brubeck ...	Jazz Goes To College	INDIFFERENT	XmYrbJ8w76o	MPREb_vj6OI06AEIC	UCMBevFAp40kVlvIcOvzv5Bw
 37	In A Mellow Tone	The Count Basie Orchestra	Basie Is Back	INDIFFERENT	7TJMiyD_Hmc	MPREb_O8js5kfYOKq	UC2C5LKX_qE6BzyMehXA0ClA
 44	Have A Good Time	The Brand New Heavies	Brother Sister	INDIFFERENT	McPwRNvz630	MPREb_XgkeZkyuEpy	UCE2oJwcZWHxwbZWuVY4LARw
-377	Undecided	The Benny Goodman Sextet	Benny Goodman Sextet	INDIFFERENT	vuL5Y7PpNV4	MPREb_TP9YLyjGh83	UCJhmf1IP1bXfPB3XTQcJJmw
-590	Seven Minute Mind	The Bad Plus	Made Possible	INDIFFERENT	pThcRb6xo88	MPREb_v3KXamVHPQR	UCffLfyriw4jRU-y-TzABZgQ
-299	Flamingo	The Adderley Brothers	The Summer Of '55	INDIFFERENT	WsUeyvzMNWA	MPREb_colf5dpAYri	UCSgB7n2L6r7fXPsAtUqGVlQ
-861	The Groove Merchant (Live) [1994 Remaster]	Thad Jones	Central Park North	INDIFFERENT	Oi4eAdwv_Io	MPREb_4Jc8duEoiIT	UCRi6259eD0JB8zvJU490Hyw
-132	When Riku Saw The Colors Dancing, Pt. 1	Teus Nobel	Human First	INDIFFERENT	yStvjYLeDv0	MPREb_EWq72HAMJRs	UCA0j6NI3Kzko87CO0zx7gtA
-431	Velvet Portraits	Terrace Martin	Velvet Portraits	INDIFFERENT	YT-MjjKH7aQ	MPREb_XZ8IuZByR6Y	UCN5vXTdu4G2NyDoWS5MnRSA
-623	Decisions (feat. Emily King)	Taylor McFerrin	Early Riser	INDIFFERENT	VYwW2T-DIWc	MPREb_5b1nEzQfOWI	UC3n51lqqveGPytJEkI4Ty1Q
-125	Piri Piri	Takuya Kuroda	Rising Son	INDIFFERENT	bLog8jMf-hM	MPREb_285ghILmnxz	UCB6bsre7LNzxJo7yk1iEcOg
-686	Mala	Takuya Kuroda	Rising Son	INDIFFERENT	xhhwlKwMdyM	MPREb_285ghILmnxz	UCB6bsre7LNzxJo7yk1iEcOg
-175	Mating Call (feat. John Coltrane)	Tadd Dameron	Mating Call [RVG Remaster]	INDIFFERENT	35zvU4pc-_A	MPREb_8f8LnIcCnRH	UCeIG5ZPShCuoE_3dHC7MCrg
-748	"Nostalgia in Times Square (from Wise Eyes of the Elders) (feat. Jeff ""Tain"" Watts & Lonnie Plaxico)"	T.K. Blue	Nostalgia in Times Square (from Wise Eyes of the Elders)	INDIFFERENT	WMuPN3SEgdo	MPREb_F4tce8oeFLy	UCNBNnxOA6uFk0E6kz9nZ19g
 98	Consolacao	Sérgio Mendes Trio	Pure Bossa Nova	INDIFFERENT	bjl0Lv6raS8	MPREb_x3DhGhSaItM	UCyre9YliZG7iFAD7-t3Zibg
-222	Softly As In A Morning Sunrise	Steven Feifke	The Role of the Rhythm Section	INDIFFERENT	h2hNN7BKHv4	MPREb_KkiheMpyM2l	UCIocED42X-WL3GtuTLEp2cQ
-659	Smoke Gets in Your Eyes	Steve Turre	Generations	INDIFFERENT	t8orrJsbabY	MPREb_mnPyuGftdXG	UC6fFJWTsmYrtfEli7vXEWHg
-441	Pres Delight (Flying Jumbo) (Remastered 2007)	Stanley Turrentine	Return Of The Prodigal Son (Remastered 2007)	INDIFFERENT	ESrMXFKwhDQ	MPREb_lik1q370lhy	UCeciEMrSBKfcTShhF-Xe1Lg
-675	Blues For Mary Jane	Stan Getz Quartet	The Steamer (Expanded Edition)	INDIFFERENT	JBHdntLb40w	MPREb_NxCM9ZSUWHe	UCITWDrIiWv0Y-zj8xrvoY-Q
 33	E Preciso Perdoar (feat. João Gilberto)	Stan Getz	The Best Of Two Worlds	INDIFFERENT	4LH0WcOQLEc	MPREb_F9E3oCLHOTa	UCITWDrIiWv0Y-zj8xrvoY-Q
-165	Samba Dees Days	Stan Getz	The Girl From Ipanema - The Bossa Nova Years	INDIFFERENT	35DJHi9FQlU	MPREb_4I9kHC5NByq	UCITWDrIiWv0Y-zj8xrvoY-Q
-197	Love Is Here To Stay	Stan Getz	West Coast Jazz (Expanded Edition)	INDIFFERENT	E4LduizA9fI	MPREb_8ECGkuYZwkK	UCITWDrIiWv0Y-zj8xrvoY-Q
-208	Body And Soul	Stan Getz	Quiet Now: Body And Soul	INDIFFERENT	X9T6LoQ6Vlk	MPREb_gqgSF2FXdkt	UCITWDrIiWv0Y-zj8xrvoY-Q
-274	Indian Summer	Stan Getz	Stan Getz Quartets	INDIFFERENT	o7ShMFCCY1c	MPREb_tCdXZrhBgNy	UCITWDrIiWv0Y-zj8xrvoY-Q
-284	Stan's Blues (Live At Carnegie Hall/1964)	Stan Getz	Getz/Gilberto #2	INDIFFERENT	3vIVdGEYZUM	MPREb_7mLOYksE3mj	UCITWDrIiWv0Y-zj8xrvoY-Q
-344	Rustic Hop	Stan Getz	Stan Getz And The Cool Sounds	INDIFFERENT	Zn2iMKBW3bw	MPREb_a0LhRvLjleP	UCITWDrIiWv0Y-zj8xrvoY-Q
-401	Retrato Em Branco e Preto	Stan Getz	The Best Of Two Worlds	INDIFFERENT	KTbbRpDtz-U	MPREb_F9E3oCLHOTa	UCITWDrIiWv0Y-zj8xrvoY-Q
-410	Só Danço Samba (feat. Antonio Carlos Jobim)	Stan Getz	Stan Getz: The Bossa Nova Albums	INDIFFERENT	JP4FflKLubk	MPREb_6VPJPuJYKiN	UCITWDrIiWv0Y-zj8xrvoY-Q
-426	Para Machuchar Meu Coracao	Stan Getz	Quiet Now: Nights Of Quiet Stars	INDIFFERENT	IetJbwgfW8E	MPREb_AlTxUQa8SOc	UCITWDrIiWv0Y-zj8xrvoY-Q
-429	Night And Day (Master Take)	Stan Getz	The Complete Bill Evans On Verve	INDIFFERENT	xJfBEtX219I	MPREb_hCVVX72pbRA	UCITWDrIiWv0Y-zj8xrvoY-Q
-478	You Go to My Head	Stan Getz	Complete Roost Recordings	INDIFFERENT	3HJnlBhmDEc	MPREb_PnYRxcx01sF	UCITWDrIiWv0Y-zj8xrvoY-Q
-485	There's A Small Hotel	Stan Getz	Stan Getz Quartets	INDIFFERENT	0pY3RpDDRJA	MPREb_tCdXZrhBgNy	UCITWDrIiWv0Y-zj8xrvoY-Q
-527	E Luxo So	Stan Getz	Jazz Samba	INDIFFERENT	JA_ZAe0yK6M	MPREb_mdC5ReqnTyJ	UCITWDrIiWv0Y-zj8xrvoY-Q
-625	I've Got You Under My Skin	Stan Getz	I've Got You Under My Skin	INDIFFERENT	1uMkLyqYZHE	MPREb_2MCAtPX1Olq	UCITWDrIiWv0Y-zj8xrvoY-Q
-656	I've Grown Accustomed to Her Face	Stan Getz	Greatest Hits	INDIFFERENT	tByPN6RgFVQ	MPREb_mnLGv3yvyHG	UCITWDrIiWv0Y-zj8xrvoY-Q
-680	Time on My Hands	Stan Getz	Time on My Hands	INDIFFERENT	ilBELkxzSno	MPREb_bqSuzdorIn0	UCITWDrIiWv0Y-zj8xrvoY-Q
-714	It Might as Well Be Spring	Stan Getz	Complete Roost Recordings	INDIFFERENT	a1A2KXBvEd8	MPREb_PnYRxcx01sF	UCITWDrIiWv0Y-zj8xrvoY-Q
-740	The Alamo	Stan Getz	Complete Roost Recordings	INDIFFERENT	875KqqD1kV8	MPREb_PnYRxcx01sF	UCITWDrIiWv0Y-zj8xrvoY-Q
-767	Thanks For The Memory	Stan Getz	Stan Getz: Hits & Rarities	INDIFFERENT	12xn1M0YZUQ	MPREb_vCFpl3e0kiT	UCITWDrIiWv0Y-zj8xrvoY-Q
-794	Thanks For The Memory	Stan Getz	Greatest Sessions	INDIFFERENT	xHZDh7O3SN8	MPREb_ByetL6U8eWE	UCITWDrIiWv0Y-zj8xrvoY-Q
-797	Ligia (feat. João Gilberto)	Stan Getz	The Best Of Two Worlds	INDIFFERENT	_eJf9iYwFKY	MPREb_F9E3oCLHOTa	UCITWDrIiWv0Y-zj8xrvoY-Q
-876	I'm Glad There Is You	Stan Getz	Getz For Lovers	INDIFFERENT	53a-rc-JbEU	MPREb_mUyxwm7pBSl	UCITWDrIiWv0Y-zj8xrvoY-Q
 29	Sonny's Tune	Sonny Stitt	New York Jazz	INDIFFERENT	SmL9-TeNEXA	MPREb_7ozrKgJjHZW	UCB3J5quVDC8D4nfFSWTzFnQ
-370	I Can't Give You Anything But Love	Sonny Stitt	Sonny Stitt Sits In With The Oscar Peterson Trio	INDIFFERENT	_Spi1ClH4cI	MPREb_CK7XKfdJv2Z	UCB3J5quVDC8D4nfFSWTzFnQ
-751	Deuces Wild	Sonny Stitt	Deuces Wild	INDIFFERENT	rsYIAicGe5k	MPREb_XPGDV2J2IG8	UCB3J5quVDC8D4nfFSWTzFnQ
-899	Alone Together	Sonny Stitt	New York Jazz	INDIFFERENT	zsFxun4tvnc	MPREb_7ozrKgJjHZW	UCB3J5quVDC8D4nfFSWTzFnQ
-907	Body And Soul	Sonny Stitt	New York Jazz	INDIFFERENT	QViLvDY1d-U	MPREb_7ozrKgJjHZW	UCB3J5quVDC8D4nfFSWTzFnQ
-932	Just Friends	Sonny Stitt	Verve Jazz Masters 50: Sonny Stitt	INDIFFERENT	EBi1TtvsWmg	MPREb_gj6tqXQG6L4	UCB3J5quVDC8D4nfFSWTzFnQ
-451	Tenor Madness (Rudy Van Gelder Remastered 2006 / Shared ISRC) (feat. John Coltrane)	Sonny Rollins Quartet	Tenor Madness	INDIFFERENT	EMhnvXgdGGs	MPREb_tAHNURfFMyd	UCqwmTSEZTKX_BmxlmDSOzGQ
-509	Paul's Pal (Rudy Van Gelder Remastered 2006 / Shared ISRC)	Sonny Rollins Quartet	Tenor Madness	INDIFFERENT	f8L53Pm2lrs	MPREb_tAHNURfFMyd	UCqwmTSEZTKX_BmxlmDSOzGQ
-736	Tenor Madness (Rudy Van Gelder Remastered 2006 / Shared ISRC) (feat. John Coltrane)	Sonny Rollins Quartet	Tenor Madness	INDIFFERENT	JuwChwcXjcw	MPREb_1uCjZCZMRwC	UCqwmTSEZTKX_BmxlmDSOzGQ
-887	Tenor Madness (Rudy Van Gelder Remastered 2006 / Shared ISRC) (feat. John Coltrane)	Sonny Rollins Quartet	Tenor Madness	INDIFFERENT	EMhnvXgdGGs	MPREb_tAHNURfFMyd	UCqwmTSEZTKX_BmxlmDSOzGQ
 18	Softly As In A Morning Sunrise (Live At The Village Vanguard/1957 - Evening Take)	Sonny Rollins	A Night At The Village Vanguard (Live)	INDIFFERENT	47ah5umK0dA	MPREb_ACVbcz3vpc5	UCqwmTSEZTKX_BmxlmDSOzGQ
-358	It Could Happen to You	Sonny Rollins	The Standard Sonny Rollins	INDIFFERENT	pzKrZP4nt6M	MPREb_92KdhhJ62oP	UCqwmTSEZTKX_BmxlmDSOzGQ
-398	You Do Something to Me	Sonny Rollins	The Bridge	INDIFFERENT	cWmwXok3L9E	MPREb_ZZuJ3lwN7xe	UCqwmTSEZTKX_BmxlmDSOzGQ
-449	Count Your Blessings (Instead Of Sheep) (feat. Max Roach, Richie Powell & George Morrow)	Sonny Rollins	Plus Four [Rudy Van Gelder edition]	INDIFFERENT	MYV2JCKFAPI	MPREb_ei6Zc3UEy2C	UCqwmTSEZTKX_BmxlmDSOzGQ
-474	In a Sentimental Mood	Sonny Rollins	St-Thomas	INDIFFERENT	fMtrqyI27KA	MPREb_N61SiYrjKCQ	UCqwmTSEZTKX_BmxlmDSOzGQ
-510	I Know	Sonny Rollins	Sonny Rollins With The Modern Jazz Quartet	INDIFFERENT	Q6V_hLhPy10	MPREb_VMyjlCFhy2G	UCqwmTSEZTKX_BmxlmDSOzGQ
-640	Way Out West	Sonny Rollins	Way Out West (OJC Remaster)	INDIFFERENT	2F7K73Oceug	MPREb_IbERIWLGJdH	UCqwmTSEZTKX_BmxlmDSOzGQ
-665	Where Are You	Sonny Rollins	The Bridge	INDIFFERENT	lZBq6h-ufLE	MPREb_ZZuJ3lwN7xe	UCqwmTSEZTKX_BmxlmDSOzGQ
-691	Alone Together	Sonny Rollins	Sonny Rollins And The Contemporary Leaders	INDIFFERENT	8mI7sFllwr0	MPREb_kB9tIVwdd1J	UCqwmTSEZTKX_BmxlmDSOzGQ
-706	In A Sentimental Mood	Sonny Rollins	The Very Best Of Sonny Rollins	INDIFFERENT	IIw1_R9-2Z8	MPREb_ahXQ0VPeHDh	UCqwmTSEZTKX_BmxlmDSOzGQ
-747	Bluesnote (Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering)	Sonny Rollins	Sonny Rollins	INDIFFERENT	3aWQKO1sMDY	MPREb_swD7UQcnlcz	UCqwmTSEZTKX_BmxlmDSOzGQ
-802	Sonnymoon For Two (Evening) (Live At The Village Vanguard/1957 / Remastered 1999/Rudy Van Gelder Edition)	Sonny Rollins	A Night At The Village Vanguard (Remastered 1999/Rudy Van Gelder Edition)	INDIFFERENT	Cl4LKaS1nLI	MPREb_1ZXTes9eAby	UCqwmTSEZTKX_BmxlmDSOzGQ
-806	On A Slow Boat To China	Sonny Rollins	Sonny Rollins With The Modern Jazz Quartet	INDIFFERENT	G_GGqVHIDcc	MPREb_VMyjlCFhy2G	UCqwmTSEZTKX_BmxlmDSOzGQ
-818	Moritat (feat. Tommy Flanagan, Doug Watkins & Max Roach)	Sonny Rollins	Saxophone Colossus	INDIFFERENT	lhzJTgyh93M	MPREb_u2b2Lg3bGNJ	UCqwmTSEZTKX_BmxlmDSOzGQ
-855	I've Got You Under My Skin (Live At The Village Vanguard/1957 - Afternoon Take)	Sonny Rollins	A Night At The Village Vanguard (Live)	INDIFFERENT	58zINMduvt0	MPREb_ACVbcz3vpc5	UCqwmTSEZTKX_BmxlmDSOzGQ
-901	Pent-Up House (feat. Clifford Brown, Max Roach, Richie Powell & George Morrow)	Sonny Rollins	Plus Four [Rudy Van Gelder edition]	INDIFFERENT	v_gF-y_-3iw	MPREb_ei6Zc3UEy2C	UCqwmTSEZTKX_BmxlmDSOzGQ
-283	I Didn't Know What Time It Was (Remastered 2001/Rudy Van Gelder Edition)	Sonny Clark Trio	Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)	INDIFFERENT	_1QVU56RmKY	MPREb_EAOIUVsq5Om	UCIiVcT1b6WKkw_Rfs9U09hg
-601	Royal Flush	Sonny Clark	Sonny Clark Quintets	INDIFFERENT	3GoALRAcl_E	MPREb_45sefjPGAi1	UCIiVcT1b6WKkw_Rfs9U09hg
-922	Sippin' At Bells (Rudy Van Gelder Edition/1998 Remaster)	Sonny Clark	Cool Struttin' (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	QURWKEMpdWI	MPREb_Y0DYuyHHG98	UCIiVcT1b6WKkw_Rfs9U09hg
-286	My Christmas Baby	Smokey Hogg	100 Christmas Blues - Songs to Get You Through the Cold	INDIFFERENT	nWEBe0tZijo	MPREb_SIHrQdnsrn0	UCwmGSE1Jjuk7C21mh7PbLAw
-386	Moon Flower (feat. Fredrik Lundin)	Simon Spang-Hanssen	Moon Flower	INDIFFERENT	WEGe-JYzKaw	MPREb_r2f2rlv2LaH	UCjtJ3FZHebBAIKZ1si8XnpQ
-562	Moving Sands	Simon Spang-Hanssen	Moving Sands	INDIFFERENT	sF-GBI6xXtU	MPREb_hbPLcb7UOV1	UCjtJ3FZHebBAIKZ1si8XnpQ
-741	I've Found a New Baby	Sidney Bechet & His New Orleans Feetwarmers	The Essential Sidney Bechet	INDIFFERENT	t5riJcBbruI	MPREb_tEPLv2nrBq4	UCJdP0RSsGpcdI8S_aH5Y7yQ
-588	Upa Neguinho	Sergio Mendes & Brasil '66	Fool On The Hill	INDIFFERENT	mtv1KhAzWtc	MPREb_MPdvY1hU8fZ	UCyre9YliZG7iFAD7-t3Zibg
-282	Second Genesis	Second Genesis	"Wayne Shorter ""Best Of"", Vol. 1"	INDIFFERENT	E2SYJS8EJHU	MPREb_lVlOlo8CVJX	UCmSQYn79LNtu3HdU8jKs_qw
-275	Girlfriend with Magical Ears	Sebastian Gahler	Girlfriend with Magical Ears	INDIFFERENT	EO9DtS7a77I	MPREb_LT89Ivuc12Q	UCsw4qaspbSaTyAy8F2UI71g
-388	Night Spot (feat. Hans Backenroth, Kristian Leth & Jan Lundgren)	Scott Hamilton	Night Spot	INDIFFERENT	la_QkldnjjQ	MPREb_t5DiMYsUKtU	UCx-dQxTSgDKscad9qdVxAEg
-543	Two Eighteen	Scott Hamilton	Scott Hamilton Plays Ballads	INDIFFERENT	iFpeeV3Oq4U	MPREb_hSvSSp74JdP	UCx-dQxTSgDKscad9qdVxAEg
-519	Nice Work If You Can Get It	Sarah Vaughan	Sarah Vaughan In Hi-Fi	INDIFFERENT	YeaaHtisOJQ	MPREb_cWfa937LG4S	UCVIvDAZP_e1e3bKzKFaPfig
-934	Mental Phrasing	Roy Hargrove Quintet	With The Tenors Of Our Time	INDIFFERENT	aeN9dreCF64	MPREb_nRQi7bwO2zF	UC0twFFwo7-ZajQ7SxgcY6bQ
-307	Strasbourg / St. Denis	Roy Hargrove	Earfood	INDIFFERENT	XM83V4BD1Bw	MPREb_iZqPNYT9uSB	UC0twFFwo7-ZajQ7SxgcY6bQ
-338	Essa é Pro João	Rosa Passos	Amorosa	INDIFFERENT	7C9jic5ob2c	MPREb_hbru3koJrQW	UClU8URb5B1r4-8K3uwjuGhg
-821	Voce Vai Ver	Rosa Passos	Amorosa	INDIFFERENT	JzF61sNgOTA	MPREb_hbru3koJrQW	UClU8URb5B1r4-8K3uwjuGhg
-345	When The Sun Comes Out (Alternate Take 2)	Roland Kirk	Domino (Expanded Edition)	INDIFFERENT	Upzrv_A5UrE	MPREb_USDPzOpVOoX	UCXJxd-dYG-iYF8VM_qYIilA
-343	Influência Do Jazz	Roberto Menescal E Seu Conjunto	The Bossa Nova Wave - Digital	INDIFFERENT	oAsmhAFTD6U	MPREb_H9HEEqWcCsT	UCJGlFoytwlGnElxpdw2iNLw
-603	This Is Not Fear	Robert Glasper Experiment	ArtScience	INDIFFERENT	HYSG3ieNIBg	MPREb_6G2A2PDKPhx	UCLFHVgbSwvTgM1PcsOCvHjw
-163	De Tor Ahead	Rob van Bavel	Time for Ballads - The Maene Sessions	INDIFFERENT	WTF3sEk9I28	MPREb_DsaYrbktSb3	UCCj1ckXpvKSGsf8BI0UNZMg
-150	My Romance	Richie Beirach	Testaments	INDIFFERENT	-d6gFQJsvag	MPREb_Zpo2q0OXYFB	UCaU2zjWcTy4VQoEj8ObEjag
 45	Back Room Romp	Rex Stewart & His Fifty-Second Street Stompers	Ken Burns Jazz-Duke Ellington	INDIFFERENT	mlw4gq9D5TM	MPREb_2S9lZpACGKz	UCIo-G_MpjXfoizQzAXjvQgQ
-849	Crazy Rhythm (Instrumental)	Red Garland Quintet	Dig It!	INDIFFERENT	z14SE2pE93k	MPREb_voVbxER2s8g	UCGoOd5vhLg8fz5LJ98GBHBg
-658	Hey Now	Red Garland	Red Garland Revisited!	INDIFFERENT	10aXuu-1hAM	MPREb_ZRX5QqiEu7o	UCGoOd5vhLg8fz5LJ98GBHBg
-559	My Cherie Amour	Ramsey Lewis	Another Voyage	INDIFFERENT	UvPrm4ZOBPg	MPREb_tDapLBlXpUu	UCP1BRPlB7PSbQwmG2t3GSSA
-892	Falling in Love with Love	Quincy Jones, Clifford Brown, Art Farmer with Swedish All Stars	Quincy's Home Again	INDIFFERENT	2kyjB7xPOcI	MPREb_ruxDJi9W2zQ	UCaBIjouEo87YhSGmPjuXDoA
 57	The Land Of Freedom	Quasimode	The Land Of Freedom	INDIFFERENT	WZP6jUmN8_8	MPREb_avqFBSAihbi	UCbIXU8qBIgBRc5ExZT05-MA
-394	Back at Sweetspot	Per Thornberg	Back at Sweetspot	INDIFFERENT	-lGIRUs4C30	MPREb_mmHTCMBOQSk	UCTEwbti1II5wQvV6MVobLTA
-822	The Open Door	Per Thornberg	The Open Door	INDIFFERENT	3-ofWr3uvwI	MPREb_4QyhK3llmzB	UCTEwbti1II5wQvV6MVobLTA
 6	Baubles, Bangles and Beads	Pepper Adams Quintet	Pepper Adams Quintet	INDIFFERENT	hIcn6z4yEjQ	MPREb_3zCodz6viAR	UC2a_AfN-Md4oRPPNaYT8cRg
-757	Volta ao Catopê	Pedro Gomes	Volta Ao Catopê	INDIFFERENT	3U8JnTxU974	MPREb_MIasuiEYqg3	UCrQJEFfJoQMdLHcRICBMpkg
-851	Mentiras	Paula Morelenbaum	Água	INDIFFERENT	NIVSgJ4wGHc	MPREb_9aMQxRFQ1Q6	UC3HTRygz6aGCzuoMEz974zA
-210	Alligator Crawl	Paul Posnak	Waller: 16 Great Piano Solos, 1929-1941, Transcribed by Paul Posnak	INDIFFERENT	ZgvonqZpO_E	MPREb_GRkJTCihyz8	UCD4RBrnT2SgU-AVzXMAopPg
 56	Greensleeves	Paul Desmond	First Place Again	INDIFFERENT	NGlmcwjFbuQ	MPREb_kqEk8v5RRGM	UCnEtwvQYjKy9Px5lg9TO8sQ
 80	Line for Lyons	Paul Desmond	Improvised Counterpoints	INDIFFERENT	B-24o0aN1VY	MPREb_DhekvrbsW2D	UCnEtwvQYjKy9Px5lg9TO8sQ
-217	For All We Know	Paul Desmond	First Place Again	INDIFFERENT	fDqRBlJmwA0	MPREb_kqEk8v5RRGM	UCnEtwvQYjKy9Px5lg9TO8sQ
-231	Blight of the Fumble Bee	Paul Desmond	Two Of A Mind	INDIFFERENT	3RZbByVdiBI	MPREb_QGtKrafRd4e	UCnEtwvQYjKy9Px5lg9TO8sQ
-329	Desmond Blue ((Live))	Paul Desmond	Desmond Blue	INDIFFERENT	1sG0Q_R4xKk	MPREb_5n7C9NkPnp3	UCnEtwvQYjKy9Px5lg9TO8sQ
-479	Samba With Some Barbecue	Paul Desmond	Summertime	INDIFFERENT	CvrmipOCw50	MPREb_ZIYSUsVJzww	UCnEtwvQYjKy9Px5lg9TO8sQ
-500	Imagination	Paul Desmond	Late Lament	INDIFFERENT	bO410TcGNFI	MPREb_AsxSGGWAQpw	UCnEtwvQYjKy9Px5lg9TO8sQ
-618	Untitled Blues Waltz	Paul Desmond	Two Of A Mind	INDIFFERENT	1tiL7sOOeVY	MPREb_QGtKrafRd4e	UCnEtwvQYjKy9Px5lg9TO8sQ
-434	Chasin' The Bird	Paul Chambers	The Capitol Vaults Jazz Series	INDIFFERENT	DXAf5vWngO0	MPREb_sXrQFyOMd5f	UC2A2pebdrl3W6sS0zetDMFw
-459	Melody	Paul Chambers	1st Bassman	INDIFFERENT	N6EAe1aL73c	MPREb_tlRRrBZKbCU	UC2A2pebdrl3W6sS0zetDMFw
-389	Minuano	Pat Metheny Group	Festival Internationale De Jazz De Montreal - July 1989	INDIFFERENT	z14UXqFk1t8	MPREb_sNZKitSgCFB	UCFFpzGzXK2Zw8fPher2JObA
-638	Ring of Life	Pat Metheny	Metheny Mehldau	INDIFFERENT	bHZpDKjoKAU	MPREb_npV3clI8yhX	UCFFpzGzXK2Zw8fPher2JObA
-476	Softly, as in a Morning Sunrise	Pat Coil	Softly, as in a Morning Sunrise	INDIFFERENT	qNl4Lp0y3J0	MPREb_kKYGuT5iJAW	UCFTjLT75BC2o_7MWzmcDs6A
-835	Merry Christmas, Baby (Take 1)	Otis Redding	Christmas In Soulsville	INDIFFERENT	B-_tgtlkX30	MPREb_lLAGJ47X4I5	UCqgDLm2XV81s2IdoF4Skgbg
-387	The Way (Truth & Life)	Otis Brown III	The Thought Of You	INDIFFERENT	kzfFsXGQlJg	MPREb_lAgAfkHO52S	UCpIRK2ke9I45sHlkC0HHmXg
-608	The Thought Of You - Part I (feat. Bilal)	Otis Brown III	The Thought Of You	INDIFFERENT	WTAZzj-QRzE	MPREb_lAgAfkHO52S	UCpIRK2ke9I45sHlkC0HHmXg
-716	You’re Still The One (feat. Gretchen Parlato)	Otis Brown III	The Thought Of You	INDIFFERENT	8LTnnBQEFbs	MPREb_lAgAfkHO52S	UCpIRK2ke9I45sHlkC0HHmXg
-363	Georgia On My Mind	Oscar Peterson Trio	Standards (Great Songs/Great Performances)	INDIFFERENT	530awLVxTgM	MPREb_AOEOxhK8VTB	UCGO2MrCyB3dLCID5wLE0JUw
-671	Roundalay	Oscar Peterson Trio	Oscar Peterson Trio Plus One	INDIFFERENT	AbbzAPXvNZ8	MPREb_Q04ngziZ4tR	UCGO2MrCyB3dLCID5wLE0JUw
-725	Somebody Loves Me (Remastered 2002)	Oscar Peterson Trio	This Is Oscar Peterson	INDIFFERENT	yqrXFy5NvnQ	MPREb_5auH754bqBx	UCGO2MrCyB3dLCID5wLE0JUw
-883	Squeaky's Blues	Oscar Peterson Trio	Oscar Peterson Trio Plus One	INDIFFERENT	ubcWIOK0e1Q	MPREb_Q04ngziZ4tR	UCGO2MrCyB3dLCID5wLE0JUw
-187	Here's That Rainy Day	Oscar Peterson	Oscar And Benny	INDIFFERENT	DDy5nifjbJ0	MPREb_Nps8oQu38ru	UCGO2MrCyB3dLCID5wLE0JUw
-272	Night And Day	Oscar Peterson	Oscar Peterson Plays The Cole Porter Songbook	INDIFFERENT	yQMDut_ya9c	MPREb_u5wFoYKPNCT	UCGO2MrCyB3dLCID5wLE0JUw
-330	Dream On A Summer Night	Oscar Peterson	Soft Sands	INDIFFERENT	EGKPo5ZgRGU	MPREb_42cCe2QuJ9u	UCGO2MrCyB3dLCID5wLE0JUw
-491	Mas Que Nada	Oscar Peterson	Soul Español	INDIFFERENT	3SBoLT7fb-I	MPREb_1MXMB9OFwi9	UCGO2MrCyB3dLCID5wLE0JUw
-626	I Love Paris	Oscar Peterson	Oscar Peterson Plays The Cole Porter Songbook	INDIFFERENT	rDMqEd-48yA	MPREb_u5wFoYKPNCT	UCGO2MrCyB3dLCID5wLE0JUw
-768	I Love Paris	Oscar Peterson	I Love Paris	INDIFFERENT	uMld8QR2Vvk	MPREb_50oywnhCLDd	UCGO2MrCyB3dLCID5wLE0JUw
-803	Love For Sale	Oscar Peterson	Oscar Peterson Plays The Cole Porter Songbook	INDIFFERENT	rwLzgz0FtAE	MPREb_u5wFoYKPNCT	UCGO2MrCyB3dLCID5wLE0JUw
 67	The Blessing	Ornette Coleman	Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)	INDIFFERENT	Pg4mgs9eTac	MPREb_svqzDQM0X3z	UCMD_nRrrkezVzMumc1hBuwQ
 69	Lonely Woman	Ornette Coleman	Beauty Is A Rare Thing- The Complete Atlantic Recordings	INDIFFERENT	bqrLqD0VEKY	MPREb_UWDA1zRHTeZ	UCMD_nRrrkezVzMumc1hBuwQ
-202	Peace	Ornette Coleman	The Shape Of Jazz To Come	INDIFFERENT	p52kPMpAu_I	MPREb_RtvtMzsRgZE	UCMD_nRrrkezVzMumc1hBuwQ
-411	Free Jazz (Pts. 1 & 2)	Ornette Coleman	Beauty Is A Rare Thing- The Complete Atlantic Recordings	INDIFFERENT	daGDPwz_deo	MPREb_UWDA1zRHTeZ	UCMD_nRrrkezVzMumc1hBuwQ
-249	Livery Stable Blues	Original Dixieland Jazz Band	80 Years of Jazz	INDIFFERENT	LCcSCXVuHE8	MPREb_7VIaWfnpBiz	UC5xpN0kVYBy30cptkpd9pwQ
-139	Spring Can Really Hang You Up The Most (Demo)	Norah Jones	Come Away With Me (Super Deluxe Edition)	INDIFFERENT	rLVxj4wPQVU	MPREb_EHT4BNWUQQZ	UCxRuL2yOu2ydTJNZuYdU0qg
 10	Another Spring	Nina Simone	Nina Simone & Piano (Expanded Edition)	INDIFFERENT	4-wc1p193Tw	MPREb_puRQ6jTLwmP	UCqj1HtTq76Bo6rBXNwrF5Uw
-368	Retold	Nate Smith	KINFOLK: Postcards from Everywhere	INDIFFERENT	VSL4CAqGHlY	MPREb_OWInQYQjEw3	UC3Y-seX-ayMcpwjPgIFXlQg
-678	From Here: Interlude	Nate Smith	KINFOLK: Postcards from Everywhere	INDIFFERENT	wAUpDUvkb-c	MPREb_OWInQYQjEw3	UC3Y-seX-ayMcpwjPgIFXlQg
-612	There Is No Greater Love	Nat King Cole	The Very Thought Of You (Expanded Edition)	INDIFFERENT	GzYkHvrK2OQ	MPREb_NlomSFB79qi	UCirPLQsYtHWBmalEbX1LcAA
-298	Whipitup (Instrumental)	Nat Adderley	A Little New York Midtown Music	INDIFFERENT	QtVmE4Suknw	MPREb_0DQyXYqrjFG	UCszVvlFfdbs3-JLFFM5sr8A
-400	Atoll	Nai Palm	Needle Paw	INDIFFERENT	QYMS8ROjUeU	MPREb_1EHq2TVjHTa	UC2qLwPv7-pVfHYhorXMuo6A
-734	When the Knife	Nai Palm	Needle Paw	INDIFFERENT	IYf3CVAEhvE	MPREb_1EHq2TVjHTa	UC2qLwPv7-pVfHYhorXMuo6A
-622	Delirio	NMR Digital	Jazz Sampler Collection	INDIFFERENT	ieVXRuOoOU4	MPREb_AfyC1l3eIib	UCSqVNYYav-QVYApV4q6Z5_g
-396	Africa	NEXT Collective	Cover Art	INDIFFERENT	JLcgBKGyhUo	MPREb_OqD69LmODZ7	UCCeHoTWzZwWKkRNaXmd015w
-403	Ada's Song	Mulo Francel	Crossing Life Lines	INDIFFERENT	j5QNAR8WxO0	MPREb_PqWcF3LQsLY	UCXKjMcJW1XJx3353tPqL8tA
-560	Baby Please Don't Go	Muddy Waters	The Life Of The Party	INDIFFERENT	3Rt3j2A7rRQ	MPREb_nQpzU5wsBJX	UCZ5YpKcmxGptLgRRW8ujxHA
 38	Make Out in My Car	Moses Sumney	Aromanticism	INDIFFERENT	0WFlp0UOTWs	MPREb_tiJsEyAIBqN	UCqz3husWGRPGPNopn5jQrKg
-461	Self-Help Tape	Moses Sumney	Aromanticism	INDIFFERENT	Y62lY7WvBYc	MPREb_tiJsEyAIBqN	UCqz3husWGRPGPNopn5jQrKg
-752	Indulge Me	Moses Sumney	Aromanticism	INDIFFERENT	c2uuVcFmv5E	MPREb_tiJsEyAIBqN	UCqz3husWGRPGPNopn5jQrKg
-334	Back to Me	Moonchild	Be Free	INDIFFERENT	g7P1K1lGwVM	MPREb_uoa6RNG1dai	UCvuuCWOqlcju9NGZDu30RHA
-865	Just a Minute	Moonchild	Cafè Bar Background Music: The Finest Soul Club Selection	INDIFFERENT	nLErLQ4Axpw	MPREb_7rVxEHjH1UE	UCvuuCWOqlcju9NGZDu30RHA
-582	Collision In Black	Monk Higgins	Extra Soul Perception	INDIFFERENT	_4HJ2RaGb1E	MPREb_IJhz89OHve6	UCONN4bmkqGLXGz-fKFa_RzA
-380	Rose of the Rio Grande	Modern Jazz Quartet	Jazz for a Lazy Day	INDIFFERENT	BFT5GuTHi0I	MPREb_cn07iWKPhdz	UCQjf61NuHvxHrm4gkdx0ZaQ
-448	But Not for Me	Modern Jazz Quartet	Django	INDIFFERENT	JSMuNG5k9ho	MPREb_hrgJThv1ctC	UCQjf61NuHvxHrm4gkdx0ZaQ
-692	Moanin'	Mingus Big Band	Nostalgia in Times Square	INDIFFERENT	T2WTqjC-vPs	MPREb_XLaRAEaNNwu	UCSwB6eIz7W1Riu-q4HKYU2Q
-214	Bags & Trane	Milt Jackson	Bags & Trane	INDIFFERENT	MXzUISNxrFI	MPREb_7OpdYYg5LZw	UCNkq23Cd3lAOth4g_OsiEhA
-348	D And E	Milt Jackson	The Birth Of The MJQ	INDIFFERENT	W61rGAAMhbE	MPREb_HzZcoaKIsmy	UCNkq23Cd3lAOth4g_OsiEhA
-732	Three Little Words	Milt Jackson	Bags & Trane	INDIFFERENT	zsC1H1YtlCU	MPREb_7OpdYYg5LZw	UCNkq23Cd3lAOth4g_OsiEhA
-798	Stairway to the Stars (Alternate Take)	Milt Jackson	Bags & Trane	INDIFFERENT	Z1b6s-9knNM	MPREb_EAcY99WUZGw	UCNkq23Cd3lAOth4g_OsiEhA
 9	Walkin'	Miles Davis Sextet	Miles Davis And The Jazz Giants	INDIFFERENT	fIdMLWWJmDk	MPREb_lZ6OCBQG7Eh	UCIev2PktTH5mI-QlGmbUkiw
-910	Walkin'	Miles Davis Sextet	Walkin'	INDIFFERENT	UMEfTXpklIM	MPREb_OerM8str0V3	UCIev2PktTH5mI-QlGmbUkiw
-174	How Am I To Know (Miles Davis And His Quintet)	Miles Davis And His Quintet	Miles And His Quintet (Miles Davis And His Quintet)	INDIFFERENT	QzmbS7CGqq4	MPREb_NMwgrwgAcR1	UCIev2PktTH5mI-QlGmbUkiw
-505	Budo	Miles Davis & John Coltrane	La La JazzLand	INDIFFERENT	LipGLi_hBxs	MPREb_NY6Qn9FYEcy	UCIev2PktTH5mI-QlGmbUkiw
 15	Riot (2023 Remaster)	Miles Davis	Nefertiti (2023 Remaster)	INDIFFERENT	YR_1CAWnSik	MPREb_Qb8xttP80tp	UCIev2PktTH5mI-QlGmbUkiw
 55	Moon Dreams	Miles Davis	Music & The Moon Vol. 2	INDIFFERENT	kgOzAqFI2fU	MPREb_nqyftt4KHRK	UCIev2PktTH5mI-QlGmbUkiw
-192	Right Off (take 10)	Miles Davis	The Complete Jack Johnson Sessions	INDIFFERENT	qo4ek9Txgbc	MPREb_4D49KnlsqCi	UCIev2PktTH5mI-QlGmbUkiw
-227	Blues For Pablo (Take 1)	Miles Davis	Miles Ahead (Expanded Edition)	INDIFFERENT	wXeKTl2-B0g	MPREb_ROX8t0aVBCZ	UCIev2PktTH5mI-QlGmbUkiw
-288	Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)	Miles Davis	Kind Of Blue (Legacy Edition)	INDIFFERENT	ESHfzQqahr8	MPREb_fwDjGvDWI7U	UCIev2PktTH5mI-QlGmbUkiw
-316	Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)	Miles Davis	Kind Of Blue	INDIFFERENT	F-SuJ3bLkLI	MPREb_iNbKdKjDqyr	UCIev2PktTH5mI-QlGmbUkiw
-320	Venus de milo	Miles Davis	From be bop to cool	INDIFFERENT	6BtJ_m945kw	MPREb_WLt68nP1FiI	UCIev2PktTH5mI-QlGmbUkiw
-342	Doxy (Remastered 2009) (feat. Sonny Rollins, Horace Silver, Kenny Clarke & Percy Heath)	Miles Davis	Bags' Groove (Rudy Van Gelder Remaster)	INDIFFERENT	f-OzHkKpaos	MPREb_MPTQ6PAC33e	UCIev2PktTH5mI-QlGmbUkiw
-349	I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)	Miles Davis	Someday My Prince Will Come	INDIFFERENT	gOnqdc5wLfo	MPREb_nlu5qAvCq2b	UCIev2PktTH5mI-QlGmbUkiw
-360	Teo	Miles Davis	Sketches Of Spain 50th Anniversary (Legacy Edition)	INDIFFERENT	dY1MBYApgOY	MPREb_Nio23tUXh4Z	UCIev2PktTH5mI-QlGmbUkiw
-438	Tadd's Delight	Miles Davis	'Round About Midnight - Miles Davis	INDIFFERENT	9HTtcO-JPJk	MPREb_0tdNeSufZqm	UCIev2PktTH5mI-QlGmbUkiw
-443	When I Fall In Love	Miles Davis	It's Me Again	INDIFFERENT	YZFxYjibAvQ	MPREb_9OHX9of0jgw	UCIev2PktTH5mI-QlGmbUkiw
-536	Moon Dreams	Miles Davis	Godchild	INDIFFERENT	ZFyJgi6XWOI	MPREb_wq2Xld5GNQP	UCIev2PktTH5mI-QlGmbUkiw
-576	Donna	Miles Davis	Take Off	INDIFFERENT	sfdwRp06IS0	MPREb_UzCMJHvOP0k	UCIev2PktTH5mI-QlGmbUkiw
-592	Honky Tonk	Miles Davis	Get Up With It	INDIFFERENT	LAO0twHT0H0	MPREb_33RPkrcA4j7	UCIev2PktTH5mI-QlGmbUkiw
-596	Pinocchio	Miles Davis	Nefertiti (Expanded Edition)	INDIFFERENT	Mn3sq6rteVM	MPREb_mW0BOXv7939	UCIev2PktTH5mI-QlGmbUkiw
-610	Pharaoh's Dance	Miles Davis	The Complete Bitches Brew Sessions	INDIFFERENT	WtORTuLJw7o	MPREb_Ap9mq8pSocK	UCIev2PktTH5mI-QlGmbUkiw
-613	Circle	Miles Davis	Miles Smiles	INDIFFERENT	BY3hTwc7cls	MPREb_Eof6gfEzHyN	UCIev2PktTH5mI-QlGmbUkiw
-647	Ah-Leu-Cha (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)	Miles Davis	'Round About Midnight	INDIFFERENT	RG8wJjF9QWQ	MPREb_iPVvVWSyKHY	UCIev2PktTH5mI-QlGmbUkiw
-650	How Am I to Know	Miles Davis	The Giants Miles Davis & John Coltrane	INDIFFERENT	zYRI0vKKF5Y	MPREb_CfKaRZLCzLq	UCIev2PktTH5mI-QlGmbUkiw
-693	Bess, You Is My Woman Now (Mono Version)	Miles Davis	Porgy and Bess (Mono Version)	INDIFFERENT	UykXBICMuY8	MPREb_RzDN7NRfjis	UCIev2PktTH5mI-QlGmbUkiw
-743	The Theme (Take 1)	Miles Davis	Golden Star Collection	INDIFFERENT	CVuXGORBnzk	MPREb_wrE1ZB7V6jG	UCIev2PktTH5mI-QlGmbUkiw
-774	Miles Ahead	Miles Davis	Miles Ahead (Expanded Edition)	INDIFFERENT	_GXE_XXty_c	MPREb_ROX8t0aVBCZ	UCIev2PktTH5mI-QlGmbUkiw
-777	How Deep Is The Ocean	Miles Davis	Blue Berlin	INDIFFERENT	4ICzP85ATVw	MPREb_XgvJj5y9Kcp	UCIev2PktTH5mI-QlGmbUkiw
-787	Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland & Paul Chambers)	Miles Davis	Milestones	INDIFFERENT	HJKW7IOjDQQ	MPREb_D4qWHSb24e7	UCIev2PktTH5mI-QlGmbUkiw
-828	Springsville	Miles Davis	Miles Ahead (Expanded Edition)	INDIFFERENT	dfjCAb0WsbY	MPREb_ROX8t0aVBCZ	UCIev2PktTH5mI-QlGmbUkiw
-856	C.T.A.	Miles Davis	Miles Ahead	INDIFFERENT	5aQSqjEnrZ4	MPREb_N7fWiKOcWlw	UCIev2PktTH5mI-QlGmbUkiw
-875	Dear Old Stockholm	Miles Davis	Miles Davis: Milestones	INDIFFERENT	_pYJhL6m_ts	MPREb_08SMKR0VaaS	UCIev2PktTH5mI-QlGmbUkiw
-885	But Not For Me (Take 2)	Miles Davis	The Complete Prestige Recordings	INDIFFERENT	X3manhphVQU	MPREb_JwmJm9hIdmz	UCIev2PktTH5mI-QlGmbUkiw
-900	Dig (Album - Remastered)	Miles Davis	Dig [Original Jazz Classics Remasters] (OJC Remaster)	INDIFFERENT	dAcY2stYioA	MPREb_5KDpzQSN6vj	UCIev2PktTH5mI-QlGmbUkiw
-904	But Not For Me (Take 1)	Miles Davis	Chronicles - The Complete Prestige Recordings 1951-1956	INDIFFERENT	nYwQE33ALeQ	MPREb_LxJKyWuxodr	UCIev2PktTH5mI-QlGmbUkiw
-905	Bags' Groove (Take 1)	Miles Davis	Miles Davis And The Jazz Giants	INDIFFERENT	kMR6ewNuNxI	MPREb_lZ6OCBQG7Eh	UCIev2PktTH5mI-QlGmbUkiw
-908	Oleo (Remastered 2024)	Miles Davis	Miles '54: The Prestige Recordings (Remastered 2024)	INDIFFERENT	0_uSITdDOSM	MPREb_N4qQVprKFFR	UCIev2PktTH5mI-QlGmbUkiw
-911	Airegin (Remastered 2009)	Miles Davis	The Classic Prestige Sessions, 1951-1956 (Digital eBooklet)	INDIFFERENT	4_TVMTtLeck	MPREb_9rAeh7dKQOy	UCIev2PktTH5mI-QlGmbUkiw
-919	Little Willie Leaps (First Take 1/Alt. Take 2)	Miles Davis	First Miles	INDIFFERENT	lT4dr_nForA	MPREb_wee2EDWuyTa	UCIev2PktTH5mI-QlGmbUkiw
-920	Freedom Jazz Dance (Evolution of the Groove)	Miles Davis	Miles Smiles	INDIFFERENT	i2cZf4g_jgo	MPREb_Eof6gfEzHyN	UCIev2PktTH5mI-QlGmbUkiw
-923	Gingerbread Boy	Miles Davis	Miles Smiles	INDIFFERENT	fVndRGAF8Gg	MPREb_Eof6gfEzHyN	UCIev2PktTH5mI-QlGmbUkiw
-756	Juncture	Mikkel Villingshøj Quartet	At This Juncture	INDIFFERENT	NrweM4MUohM	MPREb_MEtjEUuOliD	UCa5kvVGlg_5YNbM30zvWp3g
-755	Silverdust (feat. Kenny Washington, Peter Washington & Vincent Herring)	Mike LeDonne	Silverdust	INDIFFERENT	FNTVdbhIC9M	MPREb_FVsPXbW1gH7	UCrvsWQV2zt0DOsUt-VQ8nkg
 76	The Night Has A Thousand Eyes (feat. Stanley Clarke & Al Foster)	McCoy Tyner	McCoy Tyner With Stanley Clarke And Al Foster	INDIFFERENT	KwPg6tyz3Xk	MPREb_MGMkhMuatJA	UCry80POSt0-Wwzfn1geo9_A
-228	Groove Waltz	McCoy Tyner	Nights Of Ballads & Blues	INDIFFERENT	meqIfUgrTHk	MPREb_JaTxqQKi4bH	UCry80POSt0-Wwzfn1geo9_A
-328	Three Flowers	McCoy Tyner	Today And Tomorrow	INDIFFERENT	4P6cVQSqTfM	MPREb_I4xhBTPlaLe	UCry80POSt0-Wwzfn1geo9_A
-737	T 'N' A Blues	McCoy Tyner	Today And Tomorrow	INDIFFERENT	npua0l6KRtU	MPREb_I4xhBTPlaLe	UCry80POSt0-Wwzfn1geo9_A
-812	Will You Still Be Mine (feat. Stanley Clarke & Al Foster)	McCoy Tyner	McCoy Tyner With Stanley Clarke And Al Foster	INDIFFERENT	-wcRbdFpZnQ	MPREb_MGMkhMuatJA	UCry80POSt0-Wwzfn1geo9_A
-868	Some Day	McCoy Tyner	Song Of The New World	INDIFFERENT	P90pSS-x5t8	MPREb_8cmHIS78mcM	UCry80POSt0-Wwzfn1geo9_A
-116	Ezz-Thetic	Max Roach Quintet	Max Roach Plus Four	INDIFFERENT	t-eyORnB5b4	MPREb_1seVT7G6wPv	UCxTSDTDzVM4MW42oD9iTPqQ
 61	Mr. X	Max Roach	Max Roach plays Max Roach	INDIFFERENT	cCD7ENNfMD0	MPREb_bdJJ2sUcQou	UCxTSDTDzVM4MW42oD9iTPqQ
-119	Blues Waltz	Max Roach	Max Roach plays Max Roach	INDIFFERENT	BsXZVT-lmHc	MPREb_bdJJ2sUcQou	UCxTSDTDzVM4MW42oD9iTPqQ
-850	Little Folks	Max Roach	Jazz In 3/4 Time	INDIFFERENT	8rmANvYRp3k	MPREb_3HfCFrQQCoD	UCxTSDTDzVM4MW42oD9iTPqQ
-789	Vinci	Matthias Bublath	Orange Sea	INDIFFERENT	_1HbmLgTkdc	MPREb_74PXEFOuMeD	UCrnVVgPWRA6KmXA_NnLWbjA
-609	First Light	Matt Slocum	With Love And Sadness	INDIFFERENT	GweeCGlDY_M	MPREb_b4E3uhbV1aP	UCUPVrZ2O29yHB4uBxSKTibQ
-719	Mike's Mudra	Mathieu Soucy	Mike's Mudra	INDIFFERENT	NCZk2HiRaYc	MPREb_KZHd03FGGTU	UCRhFZby7jXLjY1M433gNDUg
 19	Cheek to Cheek (From the English Patient)	Massimo Faraò	Greatest Hits & Soundtracks, 70 Songs ...On Piano	INDIFFERENT	3Xvg-4Yzldk	MPREb_mZrkROcpnit	UCNUPyKmJIpZOVzx2T_s0Q-g
-374	My Old Kentucky Home	Mason Embry Trio	My Old Kentucky Home	INDIFFERENT	pfcgH-6Fky4	MPREb_unwopZporja	UCrs4rtDZ5uEB-FJQqsCXN5A
-730	Clean Pickin'	Mary Lou Williams Trio	The Mary Lou Williams Collection 1927-59	INDIFFERENT	vaOuUDiM0uk	MPREb_hQrikxC97RV	UCha4zVvYM9Tv8Hx0Q9lN_jQ
-243	They Can't Take That Away From Me	Mary Lou Williams	First Lady of the Piano	INDIFFERENT	h_DIMcQ4dlg	MPREb_XpREDT6d14R	UCha4zVvYM9Tv8Hx0Q9lN_jQ
-225	I Remember Summer	Marquis Hill	Modern Flows EP, Vol. 1	INDIFFERENT	YstAf2gvA5Q	MPREb_m7akhNL4JTc	UC_BX6opGq49YU-_z1of-vbw
-520	Spring In Manhattan	Mark Whitfield	7th Ave. Stroll	INDIFFERENT	hpFdGogGqA4	MPREb_wTacX7IXQx8	UC_sI8VmeEvuGD-cFftcLoMQ
-294	Insensatez	Maria Creuza	Voce Abusou	INDIFFERENT	B3Fdpa9n4w0	MPREb_j42tSieEKH9	UCjMZtWu6AGYgrT2fSuIqCLw
 64	Resolution	Marek Konarski, Adam Zagorski, & Artur Tuźnik	Konarski & Standards	INDIFFERENT	U7rzRaY_BGQ	MPREb_5iB7qwBvR4i	
-635	Eronel	Marek Konarski	Konarski & Standards	INDIFFERENT	dZljjkVhIos	MPREb_5iB7qwBvR4i	UC3NHHEMjlANQaH94cWQRMjg
-729	'lectronic	Marcus Strickland	Triumph of the Heavy, Vol. 1	INDIFFERENT	pB5IGNdAiss	MPREb_GAzMdA3MHdG	UC6BtVAeiy8keUtuwu0ZrUPw
-793	Shapes	Marcus Strickland	Triumph of the Heavy, Vol. 1	INDIFFERENT	bDXn0rZ2hes	MPREb_GAzMdA3MHdG	UC6BtVAeiy8keUtuwu0ZrUPw
 86	Beehive	Marc Cary	Rhodes Ahead Vol. 2	INDIFFERENT	5R3ciN4U8IY	MPREb_N1FC3Ob8ULC	UCG3mSpYWaacXn4kFUYPJF_w
-718	Below the Equator	Marc Cary	Rhodes Ahead Vol. 2	INDIFFERENT	6-ETRekflXg	MPREb_N1FC3Ob8ULC	UCG3mSpYWaacXn4kFUYPJF_w
-869	Riddles	Mandy	Riddles	INDIFFERENT	Cpk2aImQWaU	MPREb_j4hFr5WZZQ4	UCkP3_TGBUIQAY__R0MytKtA
-212	Butterscotch	Makaya McCraven	In the Moment (Deluxe Edition)	INDIFFERENT	G9IsgGj_0Zk	MPREb_XA9Gj4xtjwq	UChRhO68u51ffO4eCqOZXMRA
-816	Just Stay Right There	Makaya McCraven	In the Moment (Deluxe Edition)	INDIFFERENT	Z_BMEjvs7Gc	MPREb_XA9Gj4xtjwq	UChRhO68u51ffO4eCqOZXMRA
 30	The Noonward Race	Mahavishnu Orchestra	The Inner Mounting Flame	INDIFFERENT	oYz0E2qY100	MPREb_o7GuhMt2c3Q	UCSY3q7GsOWCjwlHB0CFs9Kw
-577	Musikstycket	MUSICMUSICMUSIC	Good Look	INDIFFERENT	YGNDFwh51RE	MPREb_IrNuqsm0nY5	UCltiXwXg0MYW3WWrZsNXCeA
-295	Silencio Do Amor (The Silence Of Love) (feat. Lalo Schifrin & Oscar Castro-Neves)	Luiz Bonfá	Luiz Bonfá Plays And Sings Bossa Nova	INDIFFERENT	xhuBKGekMXY	MPREb_zCXISfXxN3j	UCkQvoiWH10p2znjXFVXeJFQ
-308	Chorinho Pra Ele	Luciana Souza	Duos II	INDIFFERENT	gShk0wT_Aq4	MPREb_Bv2O3YLYMfK	UCXaxDydL2SrUxq1g5efPDfg
 20	Val's Blues (Remastered 2007 / Rudy Van Gelder Edition)	Louis Smith	Here Comes Louis Smith	INDIFFERENT	fPyZd0CSR4s	MPREb_SCYBWJrp4ln	UC-YCzwPlnXB04bRdcyfpt4A
-185	I Need You	Louis Hayes	Louis Hayes	INDIFFERENT	AYBdxRKiVsM	MPREb_4EW8AAP0fBM	UCl0eo8W-Tc3bBBTsBcUL9Pg
 54	This Train (feat. Sy Oliver Choir)	Louis Armstrong And The All-Stars	Louis And The Good Book (Expanded Edition)	INDIFFERENT	_8KYXs-Xh4Y	MPREb_p76auj7WmKJ	UCCDaSui4C9VFMpeRlKEOHDA
-250	When You're Smiling (The Whole World Smiles With You)	Louis Armstrong And The All-Stars	King Louis	INDIFFERENT	IfMSuEVrgtk	MPREb_iuHePt8r17R	UCCDaSui4C9VFMpeRlKEOHDA
-233	Struttin' with Some Barbecue (78 rpm Version)	Louis Armstrong And His Hot Five	The Hot Fives And Hot Sevens, Volume Iii	INDIFFERENT	BI34uCL0fdk	MPREb_2VHv9SbZc4Y	UCCDaSui4C9VFMpeRlKEOHDA
-667	Heebie Jeebies	Louis Armstrong & His Hot Five	The Essential Louis Armstrong	INDIFFERENT	LrvCxkL6Ims	MPREb_jI9AHpiAhaT	UCCDaSui4C9VFMpeRlKEOHDA
 92	That Old Feeling	Louis Armstrong	That Old Feeling (Music From The Motion Picture)	INDIFFERENT	W2LuyCnqbuY	MPREb_FIgsg2frT2w	UCCDaSui4C9VFMpeRlKEOHDA
-574	A Kiss To Build A Dream On (Single Version)	Louis Armstrong	Satchmo Serenades	INDIFFERENT	rAJMTd6OO78	MPREb_8mSaGNkwydb	UCCDaSui4C9VFMpeRlKEOHDA
-698	Washington and Lee Swing	Louis Armstrong	Memorial	INDIFFERENT	xk_Y5iaN0G4	MPREb_iIDhqzIIoFf	UCCDaSui4C9VFMpeRlKEOHDA
 82	Groovin' High	Lou Donaldson	Night Tide	INDIFFERENT	-Lb-cahDUvg	MPREb_Xgr0w4ZXYFg	UCSakqU-Bxg4YHej0uQPKtpQ
-776	Directly from My Heart	Little Richard	All Time Greatest Hits, Vol. 2	INDIFFERENT	rs3hITl7SsY	MPREb_IzycTqzLmhU	UCbRn2LWnKTgXbX8HUGNQHKA
 46	These Foolish Things	Lester Young	Lester Young With The Oscar Peterson Trio	INDIFFERENT	-y3wHoodfS4	MPREb_NcCCi0DqCQm	UCsItMF6_fP754ihIsSRLk5A
-553	I Can't Get Started	Lester Young	Sleep Jazz	INDIFFERENT	BxzAbCAGARw	MPREb_8Z5MWbTMJRg	UCsItMF6_fP754ihIsSRLk5A
-624	Love Me Or Leave Me	Lester Young	Pres and Teddy	INDIFFERENT	CYp4uwrAyMU	MPREb_DIQ4msXLPLX	UCsItMF6_fP754ihIsSRLk5A
-651	Star Dust (feat. Oscar Peterson)	Lester Young	Star Dust (25 Versions Performed By)	INDIFFERENT	ndCnANAJDbg	MPREb_TLFmpZ3aP34	UCsItMF6_fP754ihIsSRLk5A
-653	Blue Lester	Lester Young	The Art of Jazz Saxophone: The Masters	INDIFFERENT	QVsDOsuTxPE	MPREb_KuiVcnzDql3	UCsItMF6_fP754ihIsSRLk5A
 60	This For Doug	Les McCann	The Capitol Vaults Jazz Series	INDIFFERENT	XfkeHFClUXE	MPREb_Y19WkhgYUrp	UCitVt4bBlK-iWV9PzPsI_hg
 7	Totem Pole (Remastered 1999/Rudy Van Gelder Edition)	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	kIF3TkssZfk	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
 49	Fire	Lee Morgan	Expoobident	INDIFFERENT	_LvK10u_SUA	MPREb_DvcB0zK7KEI	UCw-ObIVVFPxf6McrsKHQT0A
 52	The Sidewinder	Lee Morgan	Top 200 Jazz	INDIFFERENT	FI49eYxZ-OE	MPREb_wT0nwOI91R7	UCw-ObIVVFPxf6McrsKHQT0A
-198	The Gigolo (Alternate Take / Remastered)	Lee Morgan	The Gigolo	INDIFFERENT	MwskRIIRR0k	MPREb_zGgtnuhFYA4	UCw-ObIVVFPxf6McrsKHQT0A
-369	Take Twelve	Lee Morgan	Take Twelve	INDIFFERENT	cePX4dW74x4	MPREb_gl95P4FHiHA	UCw-ObIVVFPxf6McrsKHQT0A
-384	Gary's Notebook (Remastered 1999/Rudy Van Gelder Edition)	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	F2jCyTR1nOk	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
-450	Since I Fell For You	Lee Morgan	The Very Best	INDIFFERENT	s7Wt5pIaHAI	MPREb_P0sAnhyd02y	UCw-ObIVVFPxf6McrsKHQT0A
-494	I Remember Clifford	Lee Morgan	Late Night Lee Morgan	INDIFFERENT	JKvpEBKIiDQ	MPREb_KPJVQhby1ao	UCw-ObIVVFPxf6McrsKHQT0A
-537	The Sidewinder (Remastered 1999/Rudy Van Gelder Edition)	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	NHN6-yWFKPc	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
-584	The Sidewinder	Lee Morgan	Finest In Jazz	INDIFFERENT	sCWA0UufvtU	MPREb_PyvF7JptcbX	UCw-ObIVVFPxf6McrsKHQT0A
-791	Most Like Lee	Lee Morgan	Cornbread	INDIFFERENT	lWZ0k8u2CHs	MPREb_8EXsOr6CCiy	UCw-ObIVVFPxf6McrsKHQT0A
-874	Boy, What A Night (Remastered 1999/Rudy Van Gelder Edition)	Lee Morgan	The Sidewinder (The Rudy Van Gelder Edition)	INDIFFERENT	qusTbkgRKtQ	MPREb_LiONjc5Ehgy	UCw-ObIVVFPxf6McrsKHQT0A
-184	I Didn't Know About You	Lee Konitz	Palo Alto 1949-1960	INDIFFERENT	3d-LOl8YEwo	MPREb_wMWtJKtkHxp	UCr5SYAnLH5Mc2OARzNkFfAg
-681	Ronnies Line	Lee Konitz	Lee Konitz with Warne Marsh	INDIFFERENT	Ns6V8qYCZPw	MPREb_HdkRbI1iVgh	UCr5SYAnLH5Mc2OARzNkFfAg
-351	The Color Of Her Hair (Digitally Remastered)	Laurindo Almeida	Brazilliance (Vol. 2)	INDIFFERENT	aBVXN8GXWUE	MPREb_mYMt4i6yjTE	UCPnfqmHKzjlA0jZKCLwo1cQ
-421	Froggie Moore	King Oliver's Creole Jazz Band	Louis Armstrong And King Oliver	INDIFFERENT	LMKw4st62HI	MPREb_iHA8wVdHsgP	UCUoTbxMfR8GEm8L92d0jlXw
-504	Dipper Mouth Blues (Version 1)	King Oliver's Creole Jazz Band	Ultimate Collection	INDIFFERENT	qS8Te6uB_hU	MPREb_KANPutOCopc	UCUoTbxMfR8GEm8L92d0jlXw
-194	Philly Twist (Rudy Van Gelder Edition; 1999 Digital Remaster)	Kenny Dorham	Whistle Stop (The Rudy Van Gelder Edition)	INDIFFERENT	D0wHJ8rNaJQ	MPREb_YmAupaVHdjw	UC_Ce7qu1JxsmB8Rd8BBFA2g
-886	I Had The Craziest Dream	Kenny Dorham	Quiet Kenny	INDIFFERENT	7Z766Tdl3Zw	MPREb_WcogMXAo1oT	UC_Ce7qu1JxsmB8Rd8BBFA2g
 84	Freight Trane	Kenny Burrell	Kenny Burrell & John Coltrane	INDIFFERENT	OlfWcvJKvNo	MPREb_GI3USaLMutt	UCxIGOyqgyrj2pKCPKZmDRYg
-117	Twelve Days Of Christmas	Kenny Burrell	Have Yourself a Soulful Little Christmas	INDIFFERENT	O_7SMECcuVI	MPREb_5mxZ8PodoKT	UCxIGOyqgyrj2pKCPKZmDRYg
-341	I'm Just A Lucky So And So	Kenny Burrell	Soul Call	INDIFFERENT	lmdMXSU4Crk	MPREb_lo1HtKuCft6	UCxIGOyqgyrj2pKCPKZmDRYg
-440	Kenny's Sound (Take 10)	Kenny Burrell	Midnight Blue (The Rudy Van Gelder Edition)	INDIFFERENT	ivuiYVKX__4	MPREb_Az7ym79DUwT	UCxIGOyqgyrj2pKCPKZmDRYg
-634	Why Was I Born? (Rudy Van Gelder Remaster 1958)	Kenny Burrell	DownBeat Magazine 5-Star Jazz Classics	INDIFFERENT	CXXvw1ZJxHs	MPREb_tjgaa0SL3m3	UCxIGOyqgyrj2pKCPKZmDRYg
-833	I Thought About You (Instrumental)	Kenny Burrell	Bluesy Burrell	INDIFFERENT	RgWS60EqJig	MPREb_xdJgwLkkXlX	UCxIGOyqgyrj2pKCPKZmDRYg
-413	Synchrony	Kendrick Scott Oracle	We Are The Drum	INDIFFERENT	dsZAfMBMQbU	MPREb_EHBkRRpng2e	UCUnwWUoeY5pXvajVUWxNL2g
 0	Blame It On My Youth / Meditation	Keith Jarrett	The Melody At Night, With You	INDIFFERENT	2bAkawoTrF4	MPREb_UIDVHm2zWV2	UCm3Mj3cmimqk3qMPK_UJHvw
-141	No Moon At All	Keith Jarrett	Jasmine	INDIFFERENT	Hq_Gs3ZUPg0	MPREb_Nrw8sNyEbWc	UCm3Mj3cmimqk3qMPK_UJHvw
-416	Something To Remember You By	Keith Jarrett	The Melody At Night, With You	INDIFFERENT	sC7DPFHVKwE	MPREb_UIDVHm2zWV2	UCm3Mj3cmimqk3qMPK_UJHvw
-481	Don't Ever Leave Me	Keith Jarrett	Jasmine	INDIFFERENT	ts82tmJRD-o	MPREb_Nrw8sNyEbWc	UCm3Mj3cmimqk3qMPK_UJHvw
-561	Lisbon Stomp	Keith Jarrett	Life Between The Exit Signs (Digital Version)	INDIFFERENT	VImgyhBEH58	MPREb_ifLQH8SriJO	UCm3Mj3cmimqk3qMPK_UJHvw
-572	I Loves You Porgy	Keith Jarrett	The Melody At Night, With You	INDIFFERENT	KfMnCCtA_Ww	MPREb_UIDVHm2zWV2	UCm3Mj3cmimqk3qMPK_UJHvw
-721	Moon And Sand	Keith Jarrett	Setting Standards - The New York Sessions	INDIFFERENT	pwn7gJ67OWk	MPREb_Uu6C2ZqiCQe	UCm3Mj3cmimqk3qMPK_UJHvw
 8	Desire	Kamasi Washington	Harmony of Difference	INDIFFERENT	XKLAhmPZHe8	MPREb_eq1G8KYdwAm	UC0G-IaG6Q0eawu8N_6OAZxw
-166	Integrity	Kamasi Washington	Harmony of Difference	INDIFFERENT	JXxvUtYc7ys	MPREb_eq1G8KYdwAm	UC0G-IaG6Q0eawu8N_6OAZxw
-619	Knowledge	Kamasi Washington	Harmony of Difference	INDIFFERENT	uwHTwENVtD4	MPREb_eq1G8KYdwAm	UC0G-IaG6Q0eawu8N_6OAZxw
-722	At That Moment	Joonas Tuuri Quartet	Dimensions	INDIFFERENT	VGVH6EUoFKI	MPREb_NGxwFq4aV0c	UCPj20DtBVeZqnUhASv39pwQ
-621	Tired Socks (78rpm Version)	Johnny Hodges & his Orchestra	The Essential Duke Ellington	INDIFFERENT	qQMadfoQ37c	MPREb_aQpEMH5mu5S	UCcQc-cBJhYq08uHGKEUHd2w
-795	I Remember You (2006 Digital Remaster)	Johnny Griffin	The Congregation (Expanded Edition)	INDIFFERENT	Y97QUeO4tw4	MPREb_mpH2L7WMk6O	UCDPOrfZYYSARBZEkBHMVqdw
-564	September Song	John Lewis	Improvised Meditations & Excursions	INDIFFERENT	Kjy8jwSaUqg	MPREb_Z6W8jg0Y5Kl	UCfEOR5t-UAR0e87dKi-QXfw
-713	I Remember Clifford	John Lewis	The Wonderful World Of Jazz	INDIFFERENT	qFhRj-y2Ns8	MPREb_fQqZlk8JcnG	UCfEOR5t-UAR0e87dKi-QXfw
-439	Loren's Theme (feat. Justin Morell)	John Daversa	All Without Words: Variations Inspired by Loren	INDIFFERENT	4qckZbF1sjc	MPREb_LfvCoN2WArf	UCXYnC8scHSYb0dRL-dbeyMA
-276	All Or Nothing At All	John Coltrane Quartet	Ballads	INDIFFERENT	7YV5JUpVFB0	MPREb_mcmW8Au6sPa	UCH4T2kv7rr9qnuP0DOXLxMA
-337	Nancy (With The Laughing Face)	John Coltrane Quartet	Ballads (Deluxe Edition - Rudy Van Gelder Remaster)	INDIFFERENT	W-QPfDk2GPg	MPREb_QfgutEhBc0P	UCH4T2kv7rr9qnuP0DOXLxMA
-830	Lonnie's Lament	John Coltrane Quartet	Crescent	INDIFFERENT	japCux4wals	MPREb_H3QoWFOEa2D	UCH4T2kv7rr9qnuP0DOXLxMA
 13	Cousin Mary	John Coltrane	Giant Steps (Mono)	INDIFFERENT	aAf8YyFtVDA	MPREb_BJKgP7wXKcO	UCH4T2kv7rr9qnuP0DOXLxMA
 97	Lazy Bird (Remastered 2003/Rudy Van Gelder Edition)	John Coltrane	Blue Train (Expanded Edition)	INDIFFERENT	7Nm_c5Vb6kY	MPREb_rFKLCbFI9Te	UCH4T2kv7rr9qnuP0DOXLxMA
-112	Equinox (2009 Remaster)	John Coltrane	Hommage à Nesuhi	INDIFFERENT	9SUjMUE7b8k	MPREb_iDh8vSPvqnH	UCH4T2kv7rr9qnuP0DOXLxMA
-131	Tippin' (2014 - Remaster)	John Coltrane	The Bethlehem Years (2014 - Remaster)	INDIFFERENT	PHiH_vRK_lA	MPREb_fS9t0FYvAia	UCH4T2kv7rr9qnuP0DOXLxMA
-169	Cousin Mary	John Coltrane	Giant Steps	INDIFFERENT	cAjv9j9X-_I	MPREb_AhnSQis5zq6	UCH4T2kv7rr9qnuP0DOXLxMA
-201	Blue Train (Alternate Take 8)	John Coltrane	Blue Train: The Complete Masters	INDIFFERENT	pTyHXEQAyTM	MPREb_vyoFMHJgJWe	UCH4T2kv7rr9qnuP0DOXLxMA
-241	CTA	John Coltrane	Dakar	INDIFFERENT	7g3ajehNyAc	MPREb_a41wOLwSxXu	UCH4T2kv7rr9qnuP0DOXLxMA
-270	My Favorite Things (Stereo) [2022 Remaster]	John Coltrane	My Favorite Things (2022 Remaster)	INDIFFERENT	JQvc-Gkwhow	MPREb_XVvpJ4JN78Y	UCH4T2kv7rr9qnuP0DOXLxMA
-397	Aisha	John Coltrane	Olé Coltrane (Deluxe Edition)	INDIFFERENT	wi7X-7QDyfE	MPREb_MyUC4fHMxl1	UCH4T2kv7rr9qnuP0DOXLxMA
-402	Giant Steps (Alternate Version, Take 1, Incomplete)	John Coltrane	Giant Steps (Deluxe Edition)	INDIFFERENT	vLMESJmguSs	MPREb_ruVjr8RTIlw	UCH4T2kv7rr9qnuP0DOXLxMA
-425	One Up, One Down (Take 1)	John Coltrane	Both Directions At Once: The Lost Album (Deluxe Version)	INDIFFERENT	gx92UGMVYDg	MPREb_1OYN9LBWLEi	UCH4T2kv7rr9qnuP0DOXLxMA
-530	I Want To Talk About You	John Coltrane	Soultrane	INDIFFERENT	5Gr3EcLhGRk	MPREb_QhrlgeQw5VD	UCH4T2kv7rr9qnuP0DOXLxMA
-580	Giant Steps	John Coltrane	Giant Steps	INDIFFERENT	LFrudyzKK7U	MPREb_AhnSQis5zq6	UCH4T2kv7rr9qnuP0DOXLxMA
-605	Violets For Your Furs (Rudy Van Gelder Remaster)	John Coltrane	Coltrane [Rudy Van Gelder Remaster]	INDIFFERENT	KD_EKQopPq4	MPREb_WMaO4lFrpIh	UCH4T2kv7rr9qnuP0DOXLxMA
-611	Mr. P.C. (2020 Remaster)	John Coltrane	Giant Steps (2020 Remaster)	INDIFFERENT	PttNMqbNMOI	MPREb_pzt0aDfhHKn	UCH4T2kv7rr9qnuP0DOXLxMA
-645	Bemsha Swing	John Coltrane	The Avant-Garde	INDIFFERENT	Xd5E-ckmO4U	MPREb_9NU57yjVrKy	UCH4T2kv7rr9qnuP0DOXLxMA
-654	I Hear A Rhapsody	John Coltrane	Lush Life	INDIFFERENT	0Ybca_Zj9So	MPREb_kCthO3SyA8y	UCH4T2kv7rr9qnuP0DOXLxMA
-660	Selflesness	John Coltrane	Selflessness Featuring My Favorite Things	INDIFFERENT	6A6yW089aoE	MPREb_M5GMDVAT1ZW	UCH4T2kv7rr9qnuP0DOXLxMA
-702	A Love Supreme, Pt. IV - Psalm (Live)	John Coltrane	A Love Supreme, Pt. IV - Psalm (Live In Seattle)	INDIFFERENT	_45Uu2gh6VU	MPREb_y2wBiNLi5fy	UCH4T2kv7rr9qnuP0DOXLxMA
-754	26-2	John Coltrane	Heavyweight Champion: The Complete Atlantic Recordings	INDIFFERENT	YRpSFx23sKQ	MPREb_6xPlWh2Nsjn	UCH4T2kv7rr9qnuP0DOXLxMA
-772	While My Lady Sleeps (Rudy Van Gelder Remaster)	John Coltrane	Coltrane [Rudy Van Gelder Remaster]	INDIFFERENT	hq2ynQbYAJw	MPREb_WMaO4lFrpIh	UCH4T2kv7rr9qnuP0DOXLxMA
-814	Like Someone In Love	John Coltrane	Lush Life	INDIFFERENT	0x_GC01P_Ig	MPREb_kCthO3SyA8y	UCH4T2kv7rr9qnuP0DOXLxMA
-837	A Love Supreme, Pt. II - Resolution	John Coltrane	A Love Supreme (Deluxe Edition)	INDIFFERENT	hIZFqMR1cuM	MPREb_hyFoyR9KdiL	UCH4T2kv7rr9qnuP0DOXLxMA
-866	Countdown	John Coltrane	Giant Steps	INDIFFERENT	pu_YEDRD41I	MPREb_AhnSQis5zq6	UCH4T2kv7rr9qnuP0DOXLxMA
-206	Sahara Sunrise	John Cameron	Kpm 1000 Series: Afro Rock	INDIFFERENT	By351GRl1Pc	MPREb_p4ieu6AhPTH	UC1Qlavle1rMsihj76ty-c_Q
-121	Giant Steps	Joey Alexander	My Favorite Things	INDIFFERENT	fdPHCeudjrM	MPREb_zigTPNZXrVc	UCCI1GU-HeUPLgxB-uE6jhMw
-350	Stringin' the Blues	Joe Venuti	Four String Joe	INDIFFERENT	Q--hWCktupo	MPREb_FknLxwvR7qc	UCNrrh3XsGtIzh5D3S2mRA8A
-589	Chelsea Bridge	Joe Henderson Sextet	The Kicker	INDIFFERENT	4mL-KEK_aY8	MPREb_NNmWe7SZX8d	UCesI76Zv2OMBh6SyN6iydfw
 83	Johnny Come Lately	Joe Henderson	Lush Life: The Music of Billy Strayhorn	INDIFFERENT	ozyztXo-MW0	MPREb_KXWslvJ8mKw	UCesI76Zv2OMBh6SyN6iydfw
-333	Black Narcissus	Joe Henderson	Power To The People [Keepnews Collection]	INDIFFERENT	WSQA61ENeRc	MPREb_uVtMEyOKQN0	UCesI76Zv2OMBh6SyN6iydfw
-240	Never Let Me Go	Joe Chambers	Samba de Maracatu	INDIFFERENT	gxXGyyVzVhw	MPREb_JHsuoyWK7aN	UCk55sUre4hrq_sSBZSnsJqQ
-515	Samba de Maracatu	Joe Chambers	Samba de Maracatu	INDIFFERENT	4tBmH7dfI4g	MPREb_JHsuoyWK7aN	UCk55sUre4hrq_sSBZSnsJqQ
-423	I Hate to See Xmas Come Around (Christmas Blues)	Jimmy Witherspoon	50 Shades of Christmas	INDIFFERENT	rq5jeOddJck	MPREb_5ulwaQqLb39	UC_-iuqE0190_DBeEoVcFNag
-392	On The Sunny Side Of The Street (2007 Digital Remaster)	Jimmy Smith	Back At The Chicken Shack (Rudy Van Gelder Edition)	INDIFFERENT	a5AFNZ2CD6c	MPREb_Sy0ZctIE5eL	UCQe7Yuc7HJi_u2X_TPv3MJA
-591	On The Sunny Side Of The Street (Bonus Track)	Jimmy Smith	Back At The Chicken Shack	INDIFFERENT	CTq-BoCbLwM	MPREb_e4NKpU1gb0H	UCQe7Yuc7HJi_u2X_TPv3MJA
-804	Midnight Special (Remastered 2007/Rudy Van Gelder Edition)	Jimmy Smith	Midnight Special	INDIFFERENT	D15zfLfbqHo	MPREb_WKM555LncM7	UCQe7Yuc7HJi_u2X_TPv3MJA
-556	Organ Grinder's Swing	Jimmy Lunceford	Harlem Shout (Disc 1/2)	INDIFFERENT	MrMkRFEDTak	MPREb_VS3C3aiGFMr	UCKAo1FtW5LKk9ckXR-fzj9g
-745	Witchi Tia To	Jim Pepper	The Path	INDIFFERENT	XkXcTh89u4Y	MPREb_XTyycKusd8l	UCsslIY9PyuSRZeWkhDhj8dw
 65	Autumn Leaves (Live)	Jim Hall	Alone Together	INDIFFERENT	mQVe4nCzCQw	MPREb_JOaudeSwjbH	UCVJnjY32m24nF2WHvE9BW1g
-661	The Girl from East 9th Street	Jim Hall	Wonder Boy	INDIFFERENT	9Yet4OQcDmo	MPREb_9YlL25uRpsG	UCVJnjY32m24nF2WHvE9BW1g
 68	Sidewalk Blues	Jelly Roll Morton's Red Hot Peppers	Jazz - The Essential Collection, Vol. 2	INDIFFERENT	pvNTlbx89Dw	MPREb_WzKYst0GdDE	UC5qDQ3--Q9RLfML6zAMuSTQ
-285	Black Bottom Stomp (2002 Remastered)	Jelly Roll Morton	Jazz King Of New Orleans	INDIFFERENT	x0f5dcOWsNU	MPREb_m6MQxCKirqR	UCuI6yTUW63rPOR72F5xyaMQ
 1	Confessin' the Blues	Jay McShann	Kansas City	INDIFFERENT	arfiKbJ0O6A	MPREb_gJyEoaSgzmj	UCpNccuXLpiLoAXyC8dGpOUQ
-528	Woodwind	Jan Harbeck Quartet	Woodwind	INDIFFERENT	2f804oyYlJE	MPREb_e0RYqp5xX0v	UC6KUVj9kb51iDaHtdcyyxsQ
-546	Carolina Shout	James P. Johnson	Snowy Morning Blues	INDIFFERENT	UPnMNtYfexw	MPREb_SUlLD2ddfaP	UCw2eX64araFW9wUao7cBphg
-541	Somewhere in Between	Jacob LaVallee	Somewhere in Between	INDIFFERENT	z_IjnF4lu-g	MPREb_fsBi4JPJydZ	UCJh_-eiHPMD0ZLBr4g61hRw
-744	Alto Madness	Jackie McLean	Prestige Profiles: Jackie McLean	INDIFFERENT	oOevBllz9MM	MPREb_4DxCiTq2PBl	UCoyhDuOmAW7PpH25RO-pm1g
-226	Chasin' the Bird	J.J. Johnson	J.J. Johnson: First Place / J Is For Jazz	INDIFFERENT	z1FDLRaZ7H8	MPREb_iftPPnD09k5	UCHot0-297suuSV6m0jePJGA
-339	Filthy McNasty (Live At Village Gate Club, New York, 1961 / Remastered 2006 / Rudy Van Gelder Edition)	Horace Silver Quintet	Doin' The Thing: The Horace Silver Quintet At The Village Gate (Remastered 2006/Rudy Van Gelder Edition)	INDIFFERENT	79mkzKEVjr0	MPREb_oCpKas5qgnU	UC834B7DbQ6WZzigm4UCwuKg
-489	Enchantment (Remastered 1998/Rudy Van Gelder Edition)	Horace Silver Quintet	Six Pieces Of Silver	INDIFFERENT	1GDb3ezK5kU	MPREb_lW2MSJB8RpR	UC834B7DbQ6WZzigm4UCwuKg
 50	The St. Vitus Dance	Horace Silver	Blowin' The Blues Away - Horace Silver	INDIFFERENT	uSIyhUeI2q0	MPREb_fTrVjpzdQ3d	UC834B7DbQ6WZzigm4UCwuKg
-583	The Natives Are Restless Tonight (Rudy Van Gelder Edition/1999 Digital Remaster)	Horace Silver	Song For My Father	INDIFFERENT	dk2NiTEoeXc	MPREb_AP7GWERbo3y	UC834B7DbQ6WZzigm4UCwuKg
-742	Break City (Remastered 1999/Rudy Van Gelder Edition)	Horace Silver	Blowin' The Blues Away	INDIFFERENT	tIKBMpzA4QA	MPREb_pbLltwUORdL	UC834B7DbQ6WZzigm4UCwuKg
-770	I Want You	Horace Silver	The Hardbop Grandpop	INDIFFERENT	2LYwWoV63Uc	MPREb_KlngR3W7Ovu	UC834B7DbQ6WZzigm4UCwuKg
-878	Home Cookin' (Remastered 1999/Rudy Van Gelder Edition)	Horace Silver	The Stylings Of Silver (The Rudy Van Gelder Edition)	INDIFFERENT	g8QkrctuqSc	MPREb_BGreiRAnRZE	UC834B7DbQ6WZzigm4UCwuKg
-921	Cookin' At The Continental	Horace Silver	Joe's Choice (Blue Note Selections by Joe Jackson)	INDIFFERENT	DixUSjdAr8o	MPREb_vYo3QzSPpKN	UC834B7DbQ6WZzigm4UCwuKg
-928	Opus De Funk	Horace Silver	Horace Silver Trio	INDIFFERENT	y65oozhW8FU	MPREb_B1ZGahjSy4q	UC834B7DbQ6WZzigm4UCwuKg
-548	Sunday Stroll	Herbie Nichols Trio	The Complete Blue Note Recordings Of Herbie Nichols	INDIFFERENT	e8R4KnHnQVk	MPREb_2hs6PD9zuBW	UCi02z-AxjFsJkfM71VBxP3Q
-176	Double Exposure	Herbie Nichols	The Prophetic Herbie Nichols Vol. 1 (Audio)	INDIFFERENT	lBS7tL-0N-E	MPREb_nLhHvnwuR2M	UCsIkcQX-jAfHZq2Ykbw5p0A
 17	Manhattan Island	Herbie Hancock	The Piano	INDIFFERENT	1OqPC0oxa7o	MPREb_Xq5QbI1HB9k	UCq_O_14tCKbx9U9uUT_LEPA
 22	Rockit	Herbie Hancock	Future Shock	INDIFFERENT	qglh-WA-5hM	MPREb_1jBiLQ5Cmgv	UCq_O_14tCKbx9U9uUT_LEPA
 31	Jammin' With Herbie	Herbie Hancock	Voyager	INDIFFERENT	Z02Wz3VbLH8	MPREb_UR5DFDEBb71	UCq_O_14tCKbx9U9uUT_LEPA
 96	One Finger Snap (Alternate Take / Remastered)	Herbie Hancock	Empyrean Isles (Expanded Edition)	INDIFFERENT	4vp0A5WnXh4	MPREb_sL66fj8bHBD	UCq_O_14tCKbx9U9uUT_LEPA
-162	Blind Man, Blind Man	Herbie Hancock	My Point Of View (Expanded Edition)	INDIFFERENT	5ERBkTeTeQ4	MPREb_N1KJcWdaVPE	UCq_O_14tCKbx9U9uUT_LEPA
-190	The Man I Love	Herbie Hancock	Gershwin's World	INDIFFERENT	hng-V6zwaIE	MPREb_Z4KxOKLkwRM	UCq_O_14tCKbx9U9uUT_LEPA
-300	The Eye Of The Hurricane	Herbie Hancock	Maiden Voyage	INDIFFERENT	ZdtwMOAKpKA	MPREb_tLg7C5mECaU	UCq_O_14tCKbx9U9uUT_LEPA
-484	Oh! Oh! Here He Comes	Herbie Hancock	Fat Albert Rotunda	INDIFFERENT	aklfOR_nYWY	MPREb_S2Y8mGkR02D	UCq_O_14tCKbx9U9uUT_LEPA
-493	Riot (Alternate Take1 / Remastered)	Herbie Hancock	The Complete Blue Note Sixties Sessions	INDIFFERENT	zzHE7VNnSkU	MPREb_jtikzQwTehf	UCq_O_14tCKbx9U9uUT_LEPA
-805	One Finger Snap	Herbie Hancock	The Best Of Herbie Hancock	INDIFFERENT	m6PMyUJqeYc	MPREb_hMtJsFvsx1u	UCq_O_14tCKbx9U9uUT_LEPA
-896	Slick (feat. Jeff Lorber)	Herb Alpert	Slick	INDIFFERENT	8Hnzsglr7Xo	MPREb_FRvEahyBFqq	UC3OvwOBlrbVPsf1I-vLREDw
-731	Café Negro	Henry Franklin	Henry Franklin JID014	INDIFFERENT	6feGgHvlzy0	MPREb_GjwwGnnhBG3	UCNG5FOuqixISNONaAbdA1Bw
-424	Joy Spring	Harold Land	West Coast Suite	INDIFFERENT	t3RD616XRn0	MPREb_fJBnQ5qYDQg	UCawpfIQ0JLouTnBHUvRAl5A
-245	The Dip	Hank Mobley	Dippin'	INDIFFERENT	TbdLmvoMNcM	MPREb_98Alt0sXw1U	UCASAhhcTDUg2_r0Nt60mxaQ
-257	Mobleymania (feat. Donald Byrd & Lee Morgan)	Hank Mobley	Hank Mobley With Donald Byrd And Lee Morgan	INDIFFERENT	QKbBbW-SnBQ	MPREb_SpwhgwzNkjC	UCASAhhcTDUg2_r0Nt60mxaQ
-261	A Caddy For Daddy	Hank Mobley	A Caddy For Daddy	INDIFFERENT	8_OTOL4hWBg	MPREb_IR3HJiIqhSD	UCASAhhcTDUg2_r0Nt60mxaQ
-279	Carolyn (Alternate Take / Remastered 2000 / Rudy Van Gelder Edition)	Hank Mobley	No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)	INDIFFERENT	_bGSkQpV6cM	MPREb_sTTn2WnmvkK	UCASAhhcTDUg2_r0Nt60mxaQ
-326	A Baptist Beat (Rudy Van Gelder Edition)	Hank Mobley	Roll Call	INDIFFERENT	rEMhnPLnRCQ	MPREb_84xPp6N2XPM	UCASAhhcTDUg2_r0Nt60mxaQ
-364	Soul Station (Remastered 1999/Rudy Van Gelder Edition)	Hank Mobley	Soul Station	INDIFFERENT	UfUIzb4IFgA	MPREb_uq3QfqV3PT7	UCASAhhcTDUg2_r0Nt60mxaQ
-365	Reach Out (I'll Be There)	Hank Mobley	Reach Out!	INDIFFERENT	OrrSNyOOJAk	MPREb_Oqvdw8g4sgA	UCASAhhcTDUg2_r0Nt60mxaQ
-381	Split Feelin's (Remastered 1999/Rudy Van Gelder Edition)	Hank Mobley	Soul Station	INDIFFERENT	Ry5Js0TXjyg	MPREb_uq3QfqV3PT7	UCASAhhcTDUg2_r0Nt60mxaQ
-780	Hank's Other Soul (Remastered 2006)	Hank Mobley	Another Workout	INDIFFERENT	k3noQ6dfw3E	MPREb_s45g0hk87nF	UCASAhhcTDUg2_r0Nt60mxaQ
-834	Poppin'	Hank Mobley	Poppin'	INDIFFERENT	6y6xrd4YDPQ	MPREb_qTy4eBvrcfK	UCASAhhcTDUg2_r0Nt60mxaQ
-115	Dear Mister Santa Claus	Hank Jones	Here's Love	INDIFFERENT	nYHQy6SPy9Y	MPREb_xa1fYCUcTQm	UC-tSbjVIbVeV86yJvEmFMoA
-445	In a Sentimental Mood	Hank Jones	Satin Doll: A Tribute to Duke Ellington	INDIFFERENT	I6hTrEH5HTY	MPREb_7oFzzR0fVlK	UC-tSbjVIbVeV86yJvEmFMoA
-841	Ruby My Dear	Hank Jones	The Songbook	INDIFFERENT	ysIAl4p6M2g	MPREb_qTUdgGCi03R	UC-tSbjVIbVeV86yJvEmFMoA
-547	Little Spain	Grant Stewart	Little Spain	INDIFFERENT	3dVWkKnZCiY	MPREb_fiAE5awFnnN	UCLJ62yvHm5ggsr2TUJRt8Uw
-824	God Bless The Child	Grant Green	Ballads	INDIFFERENT	yJhn8M5VvK0	MPREb_xPlvULJ3vIK	UC0bbAAPQu2YK6Sw-FrKAKQw
-263	Adios	Graham Forbes And The Trio	The Martini Set	INDIFFERENT	nArOcqH1F5g	MPREb_oSzQLdPST2c	UCDJsnzr0LXRxVQukPfoS4vw
-430	Bistro Europa	Global Genius	This World Over, Vol. 2	INDIFFERENT	GxKplQfexcU	MPREb_86tEqkYgj16	UCTN1GFTR2n1L5WMOEf9XpAQ
-655	Falling Leaves	Glenn Miller & His Orchestra	The Complete Glenn Miller and His Orchestra	INDIFFERENT	WG1sujHNrvw	MPREb_DdjEbS6l56y	UCxpM9a8DevaN-Qi-NsgGgig
-813	Nights At The Turntable	Gerry Mulligan Quartet	Best Of Gerry Mulligan & Chet Baker	INDIFFERENT	3Z_rBFUlFTY	MPREb_6mTkIqf0dNe	UC7aJZwPljwluquEXN1j3p4w
 85	Bernie's Tune (1998 Digital Remaster)	Gerry Mulligan	The Original Quartet With Chet Baker	INDIFFERENT	RRdkYkQWDDc	MPREb_bjbluiMZ2fq	UC7aJZwPljwluquEXN1j3p4w
-127	Jeru	Gerry Mulligan	LRC Jazz Legacy Anthology (Volume 5): Time Remembered	INDIFFERENT	3KYb9YI9exA	MPREb_qxfafRTf5XU	UC7aJZwPljwluquEXN1j3p4w
-179	Festive Minor	Gerry Mulligan	What Is There To Say?	INDIFFERENT	lRRJ2LIFZv4	MPREb_pfGe1Pzu8QE	UC7aJZwPljwluquEXN1j3p4w
-219	Bernie's Tune	Gerry Mulligan	Jazz Masters Deluxe Collection: Gerry Mulligan	INDIFFERENT	j_2KLnJCmGs	MPREb_Yy7DwTfLuO7	UC7aJZwPljwluquEXN1j3p4w
-293	Get Out of Town	Gerry Mulligan	Jeru	INDIFFERENT	_gsh0G2cjPA	MPREb_9YBd6Q95W5h	UC7aJZwPljwluquEXN1j3p4w
-356	Makin' Whoopee (1998 Digital Remaster)	Gerry Mulligan	The Original Quartet With Chet Baker	INDIFFERENT	PaTmstRBJco	MPREb_bjbluiMZ2fq	UC7aJZwPljwluquEXN1j3p4w
-507	Aren't You Glad You're You (1998 Digital Remaster)	Gerry Mulligan	The Original Quartet With Chet Baker	INDIFFERENT	JOU5CXOG4Gk	MPREb_bjbluiMZ2fq	UC7aJZwPljwluquEXN1j3p4w
-642	Walking Shoes	Gerry Mulligan	Play That Jazz Jukebox	INDIFFERENT	BlYXunK0gLs	MPREb_5eJUXL1oadh	UC7aJZwPljwluquEXN1j3p4w
-684	The Lady Is a Tramp	Gerry Mulligan	Irresistible You	INDIFFERENT	1rUz2KWReTo	MPREb_2qURQIy32rO	UC7aJZwPljwluquEXN1j3p4w
-705	Nights At The Turnstable (1998 Digital Remaster)	Gerry Mulligan	The Original Quartet With Chet Baker	INDIFFERENT	R8leEvLHpx0	MPREb_bjbluiMZ2fq	UC7aJZwPljwluquEXN1j3p4w
-712	Walking Shoes	Gerry Mulligan	Jazz for a Lazy Day	INDIFFERENT	LK4qHLfVMxg	MPREb_Xr1o2LNOmNF	UC7aJZwPljwluquEXN1j3p4w
-427	What Is This Thing Called Love	George Shearing	Jazz Moments	INDIFFERENT	9HHh_j7lvXs	MPREb_iM61oFAj2QR	UCsE6564eCU6jfjJo5FEkTUA
-627	It Never Entered My Mind	George Shearing	The Shearing Piano	INDIFFERENT	Zms0zI9wXwk	MPREb_Je9qiit3nRl	UCsE6564eCU6jfjJo5FEkTUA
-223	"The Duke Theme (from ""The Duke"")"	George Fenton	"The Duke Theme (from ""The Duke"")"	INDIFFERENT	ujkgoHftoS4	MPREb_rX2GiIMb2v9	UC4RyJXVby5mANPV2sLmdJYw
-819	Blue Ammons	Gene Ammons	Blue Ammons	INDIFFERENT	nK5Pojrcbsc	MPREb_XzDnzxcYZHY	UCCWroBhfPt4QY11QleJ0-Yg
-417	Says Who?	Gabriel Latchin Trio	Says Who?	INDIFFERENT	lq-iwado0ck	MPREb_98NFxoRfa98	UCTXkGWe5dbohgra1YLnV8PA
-746	Stock Yards Strut	Freddie Keppard	The Complete Set - 1923-1926	INDIFFERENT	UtWwDUhJ5vU	MPREb_9xmB9bJog8X	UCg3FT0JcopXXMD_LTkGhHSg
-107	Sky Dive	Freddie Hubbard	Sky Dive	INDIFFERENT	G2zJnSOWS20	MPREb_YhlqOFhu0LT	UCK-G8P50pf0b1t6dd1ZiCFg
-135	Marie Antoinette (Alternate Take / Remastered 2004/Rudy Van Gelder Edition)	Freddie Hubbard	Ready For Freddie (Rudy Van Gelder Remaster Edition)	INDIFFERENT	ztlUwmm50hU	MPREb_ihIVJhQ9pnt	UCK-G8P50pf0b1t6dd1ZiCFg
-145	Dedicated To You	Freddie Hubbard	Grandes Temazos: Jazz	INDIFFERENT	LDZ9aRmFZho	MPREb_wuYhuvsLKWV	UCK-G8P50pf0b1t6dd1ZiCFg
-335	Open Sesame (Remastered 2002/Rudy Van Gelder Edition)	Freddie Hubbard	Open Sesame (The Rudy Van Gelder Edition)	INDIFFERENT	_slYh4DYVJ4	MPREb_GX53hHsdBMp	UCK-G8P50pf0b1t6dd1ZiCFg
-466	The Intrepid Fox	Freddie Hubbard	Red Clay	INDIFFERENT	_vmsRKrEU1Y	MPREb_Xa7KuGfWMgJ	UCK-G8P50pf0b1t6dd1ZiCFg
-472	Crisis	Freddie Hubbard	Ready For Freddie (Rudy Van Gelder Remaster Edition)	INDIFFERENT	28DvmK-i6Wc	MPREb_ihIVJhQ9pnt	UCK-G8P50pf0b1t6dd1ZiCFg
-597	You're My Everything (Remastered 1999/Rudy Van Gelder Edition/Alternate Take)	Freddie Hubbard	Hub-Tones	INDIFFERENT	Uk3WEGiooEQ	MPREb_ZHyX7XSWtCe	UCK-G8P50pf0b1t6dd1ZiCFg
-753	Marie Antoinette	Freddie Hubbard	The Classic Blue Note Recordings: Wayne Shorter	INDIFFERENT	JdjOsUW3Rs0	MPREb_8Gni2xv2Fg8	UCK-G8P50pf0b1t6dd1ZiCFg
-773	Happy Times	Freddie Hubbard	Priceless Jazz 30: Freddie Hubbard	INDIFFERENT	X_Ve1TwNAMw	MPREb_ccQazvEtkZm	UCK-G8P50pf0b1t6dd1ZiCFg
-109	The Curse Of An Aching Heart	Frank Sinatra	Swing Along With Me	INDIFFERENT	L_z6u1qJloU	MPREb_x5rhVZ4M0ud	UC1zsfp3OD8qWQ0HfLbz2TXg
-832	That's Life	Frank Sinatra	That's Life	INDIFFERENT	XvfImv9NseY	MPREb_a2Bxws0h4ZK	UC1zsfp3OD8qWQ0HfLbz2TXg
-852	All or Nothing at All	Frank Sinatra	Strangers In The Night (Expanded Edition)	INDIFFERENT	IAN_jLnD_Q8	MPREb_tfCwapSgLur	UC1zsfp3OD8qWQ0HfLbz2TXg
-399	Up Jumped Spring	Frank Morgan	Mood Indigo	INDIFFERENT	qYIx0T1O6-c	MPREb_ivNtTXqOUBA	UCWcA4fI1PRvOG1h5txKfKaw
-428	Sugar Foot Stomp	Fletcher Henderson And His Orchestra	The Fletcher Henderson Story	INDIFFERENT	cLFpGlz1jao	MPREb_qn6jdZZ1SIR	UCXemqs0yHEEoKxSsnuLFJpg
-677	New King Porter Stomp	Fletcher Henderson	Treasures Big Band Classics, Vol. 2: Fletcher Henderson	INDIFFERENT	2gyuR4nPWh8	MPREb_JMX1iRUewxO	UCXemqs0yHEEoKxSsnuLFJpg
-739	Highly Smooth Tone (Edit) (feat. Julio Rigal & Equilibrium)	Felipe Gordon	Highly Smooth Tone (Edit)	INDIFFERENT	gDA3BX9QADA	MPREb_SCuay0jtPRf	UC4DRCmHa9QxAjnTsrDALw5w
-207	Viper's Drag	Fats Waller	‎Waller on the Ivories	INDIFFERENT	02f9phVy92g	MPREb_KnHjr1874y0	UCJGz_bsubsuAdOQHI_RcyJQ
-689	Dinah	Fats Waller	Fats Waller - Thru the 30's Volume 1	INDIFFERENT	Z03Kzti4_60	MPREb_4CSTCIhDVGp	UCJGz_bsubsuAdOQHI_RcyJQ
-292	Hey! Henry	Etta James	R&B Dynamite	INDIFFERENT	kzWFwK8e258	MPREb_7nly81bFL5C	UCieyolnCbsWzyEt6wsd7lgQ
-359	I Know You Know	Esperanza Spalding	Esperanza	INDIFFERENT	0NfQmoouvTY	MPREb_xNcQUdicz1A	UCHI5oe34qE5XHR6-Asywspg
-385	Judas	Esperanza Spalding	Emily’s D+Evolution (Deluxe Edition)	INDIFFERENT	c2XkC8goUKM	MPREb_hVywwS8fVx2	UCHI5oe34qE5XHR6-Asywspg
-467	Unconditional Love	Esperanza Spalding	Emily’s D+Evolution (Deluxe Edition)	INDIFFERENT	5Z-uIR_GZVI	MPREb_hVywwS8fVx2	UCHI5oe34qE5XHR6-Asywspg
 32	Misty	Erroll Garner	Gemini (Octave Remastered Series)	INDIFFERENT	mUIKh-VXoFg	MPREb_TDIUczxNtzA	UCs3BHE6jtTfaoDTd9yu2EDg
 35	You Are My Sunshine	Erroll Garner	Contrasts	INDIFFERENT	8SvRVAImYa4	MPREb_bc3bcCYAaq6	UCs3BHE6jtTfaoDTd9yu2EDg
-331	I've Got To Be A Rugcutter	Erroll Garner	Contrasts	INDIFFERENT	Wmtj4-XVvsw	MPREb_bc3bcCYAaq6	UCs3BHE6jtTfaoDTd9yu2EDg
-585	It's Alright With Me	Erroll Garner	The Essence Of...	INDIFFERENT	JgbpcTn0GkA	MPREb_NlwYjRICAvK	UCs3BHE6jtTfaoDTd9yu2EDg
-720	Where or When (Original Edited Concert - Live at Sunset School, Carmel-by-the-Sea, CA, September 1955)	Erroll Garner	The Complete Concert by the Sea (Expanded)	INDIFFERENT	R6nwFh0LmZc	MPREb_4UDvhLCCG0d	UCs3BHE6jtTfaoDTd9yu2EDg
-779	The Loving Touch	Erroll Garner	Feeling is Believing (Octave Remastered Series)	INDIFFERENT	ZVNNI5T-zuA	MPREb_d9dSCzX5qp8	UCs3BHE6jtTfaoDTd9yu2EDg
 27	Majesty of the Minute	Eric Pan	Travel Poems . Chapter 1 . Secret Towns	INDIFFERENT	ncE24qY6uCI	MPREb_Wv5d43p8AVS	UCxneYxale85tyrUL_nZF6pQ
-100	Out To Lunch (Remastered 1998/Rudy Van Gelder Edition)	Eric Dolphy	Out To Lunch (The Rudy Van Gelder Edition)	INDIFFERENT	gzBpK1GcwdQ	MPREb_YLBgFnpPFt3	UCDZbdZMMTGl_0MU2pTjatZw
-191	Straight Up And Down (Remastered 1998/Rudy Van Gelder Edition)	Eric Dolphy	Out To Lunch (The Rudy Van Gelder Edition)	INDIFFERENT	9c_nGESsXT0	MPREb_YLBgFnpPFt3	UCDZbdZMMTGl_0MU2pTjatZw
 24	Mille Lire Al Mese	Enzo Orefice trio	Mille Lire Al Mese	INDIFFERENT	Pqi9c27D6vQ	MPREb_2N2jfhy0wC2	UCDLbKhmIsf48arsxDcP0LaA
-409	Il Pinguino Innamorato	Enzo Orefice trio	Talking About Jazz, Pt. 7 - Italian Classics	INDIFFERENT	qqLwsaVBogw	MPREb_cQJLRKn4qqU	UCDLbKhmIsf48arsxDcP0LaA
-666	La Canzone di Marinella	Enzo Orefice trio	La Canzone di Marinella	INDIFFERENT	hzkAXMrs2ck	MPREb_rhp4t9GFqvG	UCDLbKhmIsf48arsxDcP0LaA
-685	Ma Le Gambe	Enzo Orefice trio	Ma Le Gambe	INDIFFERENT	79TAyvMXDSs	MPREb_OmvVlGqNGvN	UCDLbKhmIsf48arsxDcP0LaA
-551	Wave of Interest	Enrico Pieranunzi	Wave of Interest	INDIFFERENT	A4GuH0dwnw8	MPREb_ChfGw1gzIy8	UCHfZERPZ3xUcavpWgApci4Q
-138	Village Greene	Elvin Jones	Puttin' It Together	INDIFFERENT	7QCJCmY6dtc	MPREb_mslayEz9IwZ	UCUKbF7JCZ1D2kManXriHxkg
-216	Can't We Be Friends?	Ella Fitzgerald & Louis Armstrong	Goody, Goody	INDIFFERENT	2xe5rZ5Pq7I	MPREb_2mzeMv0GJuz	UCuMHq8jMRZXpUxSGLBuCa9g
-186	Isn't This A Lovely Day? (feat. Paul Weston & His Orchestra)	Ella Fitzgerald	Ella Fitzgerald Sings The Irving Berlin Song Book	INDIFFERENT	tINbLDbDJ9s	MPREb_6LZp0f1Dq1R	UCuMHq8jMRZXpUxSGLBuCa9g
-432	Misty	Ella Fitzgerald	Pure Ella	INDIFFERENT	jy5x7bDYd4o	MPREb_nO3zMNrx7mN	UCuMHq8jMRZXpUxSGLBuCa9g
-468	Got the Spring Fever Blues	Ella Fitzgerald	Ella Fitzgerald First Lady of Song, Vol. 1	INDIFFERENT	SkwAKLC0-0E	MPREb_s2luOAMolm9	UCuMHq8jMRZXpUxSGLBuCa9g
-587	Dream A Little Dream Of Me	Ella Fitzgerald	Ella & Friends	INDIFFERENT	6IQqlJ4YRRQ	MPREb_SyUPS0J3hro	UCuMHq8jMRZXpUxSGLBuCa9g
-838	Honeysuckle Rose	Ella Fitzgerald	Ella And Basie	INDIFFERENT	uBi4BOC2nLU	MPREb_zYqrQrx1F1G	UCuMHq8jMRZXpUxSGLBuCa9g
-595	A Vizinha Do Lado (The Next Door Neighbor)	Eliane Elias	Around The City	INDIFFERENT	WJDOpPXUXDE	MPREb_SdzSnIvjoOU	UCiYxpnxcKPUbnUtrtSBTPew
-134	Baião Malandro	Egberto Gismonti	Alma	INDIFFERENT	oSxAiguY4n0	MPREb_H4arQpebyxs	UCf2a7s6MIPTgS_45JCrMsIg
 95	Boom	Eddie Henderson	Shuffle and Deal	INDIFFERENT	JRo2PY8I0ss	MPREb_lcfBZX9qBb3	UCvmNX4mGXH0xW2sjfUGlT3g
-220	It Might as Well Be Spring	Eddie Henderson	Shuffle and Deal	INDIFFERENT	WifNBIQXsA0	MPREb_lcfBZX9qBb3	UCvmNX4mGXH0xW2sjfUGlT3g
-817	Save Your Love for Me	Eddie 'Lockjaw' Davis	Lock, the Fox	INDIFFERENT	Y1btzCL2xtE	MPREb_0LVZPTeg8Sh	UC_C8yIII34udvS9IdI49eHQ
-454	Grand Terrace Shuffle	"Earl ""Fatha"" Hines"	The Ultimate Jazz Archive 20 - Piano Men (1 Of 4)	INDIFFERENT	1vBcuxXmC4E	MPREb_Vfr0rUSMPoa	UCBeBkWYRI18waVif35oF77g
-522	Straight Up And Down	Duke Pearson	Introducing Duke Pearson's Big Band	INDIFFERENT	hROBVwaWslc	MPREb_Q8dG7AtL0aJ	UCdmkGxodNl6ohgcd8IeJWww
-775	Saddest Tale	Duke Ellington and His Orchestra	1934 - 1936	INDIFFERENT	1Nota3wGS0Q	MPREb_b2pZ7TcNIn7	UCvwUPRgFawNNBdQg497gHJw
-422	Harlem Air-Shaft	Duke Ellington and His Famous Orchestra	Never No Lament: The Blanton-Webster Band	INDIFFERENT	aJYU_zNkbmQ	MPREb_QQnZ1Kva1oi	UCvwUPRgFawNNBdQg497gHJw
 71	Sophisticated Lady	Duke Ellington & His Orchestra	The Popular Duke Ellington	INDIFFERENT	BM96UpUuxss	MPREb_U9nhHoSuOPB	UCvwUPRgFawNNBdQg497gHJw
 74	I Got It Bad and That Ain't Good	Duke Ellington & His Orchestra	The Dance Band Days	INDIFFERENT	NEFkeQ8AtF8	MPREb_aBg3s0Fnxm7	UCvwUPRgFawNNBdQg497gHJw
-118	The Single Petal Of A Rose (The Queen's Suite)	Duke Ellington & His Orchestra	The Ellington Suites	INDIFFERENT	qxNdgCGc7Bw	MPREb_a1gXX6jkF8w	UCvwUPRgFawNNBdQg497gHJw
-567	Sunset And The Mocking Bird (The Queen's Suite)	Duke Ellington & His Orchestra	The Ellington Suites	INDIFFERENT	4IKEEFksif4	MPREb_a1gXX6jkF8w	UCvwUPRgFawNNBdQg497gHJw
 53	Melancholia	Duke Ellington	Duke Ellington Plays Piano	INDIFFERENT	qUKlNnKxUcg	MPREb_fZhssxKOMob	UCvwUPRgFawNNBdQg497gHJw
-161	C-Jam Blues	Duke Ellington	Swings	INDIFFERENT	qkILeRnsEVU	MPREb_xqKXTGYem8t	UCvwUPRgFawNNBdQg497gHJw
-164	Self Portrait (Of The Bean)	Duke Ellington	Duke Ellington's Finest Hour	INDIFFERENT	e1w5_PXx3NQ	MPREb_Hbh1CF4Q55M	UCvwUPRgFawNNBdQg497gHJw
-178	Corner Pocket (aka Until I Met You)	Duke Ellington	First Time! The Count Meets The Duke	INDIFFERENT	9YRdDeoSu74	MPREb_ninhFqMjInp	UCvwUPRgFawNNBdQg497gHJw
-188	Jumpin' at the Woodside (Alternate Take)	Duke Ellington	First Time! The Count Meets The Duke	INDIFFERENT	6JVVMaorqqw	MPREb_ninhFqMjInp	UCvwUPRgFawNNBdQg497gHJw
-378	My Little Brown Book	Duke Ellington	Deep Soft Jazz	INDIFFERENT	566P7PhXvrE	MPREb_j7aovqlqLNd	UCvwUPRgFawNNBdQg497gHJw
-420	Black Beauty	Duke Ellington	Boardwalk Empire Era: The Roaring '20s	INDIFFERENT	DQiGz5fLFRQ	MPREb_1AjGclR3pRr	UCvwUPRgFawNNBdQg497gHJw
-483	The Swinger's Jump (Alternate Take)	Duke Ellington	Blues In Orbit	INDIFFERENT	LPr5v6vzcKg	MPREb_oUOp2SgObne	UCvwUPRgFawNNBdQg497gHJw
-615	The Jeep Is Jumpin'	Duke Ellington	Jazz For Driving	INDIFFERENT	GWejMdAA5C0	MPREb_funNJDy9esE	UCvwUPRgFawNNBdQg497gHJw
-637	"Take the ""A"" Train"	Duke Ellington	Piano In The Background (Expanded Edition)	INDIFFERENT	MQ_vOm-mAys	MPREb_BtfHTS9NAmS	UCvwUPRgFawNNBdQg497gHJw
-664	All of Me (feat. Johnny Hodges)	Duke Ellington	Jazz Party	INDIFFERENT	BWVmmrMhqIw	MPREb_V0UwWoRCi53	UCvwUPRgFawNNBdQg497gHJw
-708	Solitude	Duke Ellington	Duke Ellington Plays Piano	INDIFFERENT	VMefkNYYbQw	MPREb_fZhssxKOMob	UCvwUPRgFawNNBdQg497gHJw
-723	Prelude to a Kiss	Duke Ellington	Duke Ellington Plays Piano	INDIFFERENT	V_hSLwyXhY0	MPREb_fZhssxKOMob	UCvwUPRgFawNNBdQg497gHJw
-792	All The Things You Are (Take 1)	Duke Ellington	Piano In the Foreground	INDIFFERENT	Ym6Xb6PM4uI	MPREb_ZkphbMI2GBC	UCvwUPRgFawNNBdQg497gHJw
-858	C Jam Blues	Duke Ellington	Blues In Orbit	INDIFFERENT	dLrC-BZiFuA	MPREb_oUOp2SgObne	UCvwUPRgFawNNBdQg497gHJw
-234	Too Damn Hot (Live)	Dr. Lonnie Smith	Breathe	INDIFFERENT	7qg0Jp8hCtw	MPREb_92qrK0p5KXO	UCis-douipczmxp-G2OmSNgg
-287	Bright Eyes (Live)	Dr. Lonnie Smith	Bright Eyes (Live)	INDIFFERENT	1K1PhM92kDs	MPREb_S5kSwnXjasp	UCis-douipczmxp-G2OmSNgg
-578	Indian Lady	Don Ellis	Electric Bath	INDIFFERENT	F4cOG1G1wmw	MPREb_5cMdRGWUcID	UC37x3qGmgJTKMHeS3sLj7vA
-414	Wedding Dance	Don Byron	Plays The Music Of Mickey Katz	INDIFFERENT	MsjEwOGwtmo	MPREb_RYIDia6yzOP	UCOBRhY4QRqNe-w2A0l3ZqHQ
-264	The End of a Bug Affair (feat. Max Ionata)	Dominik Schürmann trio	The End of a Bug Affair	INDIFFERENT	jHUe_yAG7Yc	MPREb_s855jTpF1Fe	UChNStD4Onhom03Jl1MBxnaw
-488	All The Things You Are	Dizzy Gillespie Sextet	Groovin' High	INDIFFERENT	nuUvw0IIb_Y	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
 94	Sweet Stuff	Dizzy Gillespie	Sweet Soul	INDIFFERENT	S9nIKTGsgfc	MPREb_4UpczdBUjEk	UCw_wrXoRl-ionafhIWtcRMA
-110	There Is No Greater Love	Dizzy Gillespie	A Night Out With Verve	INDIFFERENT	u6D3y4KU0FE	MPREb_byKLPRZTyia	UCw_wrXoRl-ionafhIWtcRMA
-170	Groovin' High	Dizzy Gillespie	Groovin' High	INDIFFERENT	K5yTYt-XqBA	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
-229	I Know That You Know (feat. Sonny Stitt & Sonny Rollins)	Dizzy Gillespie	Sonny Side Up	INDIFFERENT	WZek6JRFXg8	MPREb_YKOWsQjySvJ	UCw_wrXoRl-ionafhIWtcRMA
-361	Anthropology (Take 1)	Dizzy Gillespie	Greatest Hits	INDIFFERENT	xgRm1-fxfbg	MPREb_CdELT0GwTRF	UCw_wrXoRl-ionafhIWtcRMA
-379	Salt Peanuts	Dizzy Gillespie	Groovin' High	INDIFFERENT	QnF0YyPgJTE	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
-406	Ray's Idea	Dizzy Gillespie	Groovin' High	INDIFFERENT	O2B1EwYUykw	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
-782	The Eternal Triangle	Dizzy Gillespie	Sonny Side Up	INDIFFERENT	4aqUVtl3g8s	MPREb_YKOWsQjySvJ	UCw_wrXoRl-ionafhIWtcRMA
-867	Hot House	Dizzy Gillespie	Groovin' High	INDIFFERENT	0PDjh9zgULM	MPREb_Bly4WFUDqn5	UCw_wrXoRl-ionafhIWtcRMA
-933	I Know That You Know (feat. Sonny Stitt & Sonny Rollins)	Dizzy Gillespie	Sonny Side Up	INDIFFERENT	WZek6JRFXg8	MPREb_YKOWsQjySvJ	UCw_wrXoRl-ionafhIWtcRMA
-278	Park Avenue Dining	Dick Walter	Small Group Jazz	INDIFFERENT	dl3evGJXJbQ	MPREb_kIm14uZmzE4	UCGhkgjpfSsG7HF2zLbhlBgA
-133	Wetland	Dick De Graaf	Festive	INDIFFERENT	A6F_QrmKb6s	MPREb_MuhaQxBKs5c	UCCMhRSrLG3D04z8vMSRf1fw
-606	Love Letters	Diana Krall	The Look Of Love	INDIFFERENT	gY6XvshkSwk	MPREb_ha5l8ZKc5eP	UCHOHY0V0VKiEW0Yw7DR4xQw
-182	Cheese Cake	Dexter Gordon	BLUE NOTE MEETS UNIQLO	INDIFFERENT	2iaUrjOJefA	MPREb_ekSt5ws9kFQ	UCnH1LrQs42YLOQnpdoUYvdA
-211	Three O'Clock In The Morning	Dexter Gordon	Where Are You	INDIFFERENT	Vt3je0VU5eU	MPREb_E4pOuEOOjDH	UCnH1LrQs42YLOQnpdoUYvdA
-236	Landslide (Rudy Van Gelder Edition/2004 Remaster)	Dexter Gordon	Dexter Calling (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	C6LhuZFP9L8	MPREb_QEGjtka3Xxz	UCnH1LrQs42YLOQnpdoUYvdA
-260	Willow Weep For Me (Rudy Van Gelder Edition / 2003 Remaster)	Dexter Gordon	Our Man In Paris (Rudy Van Gelder Edition)	INDIFFERENT	Fh9CyimkKWc	MPREb_tHUnFfEcW0n	UCnH1LrQs42YLOQnpdoUYvdA
-305	Polka Dots And Moonbeams (live)	Dexter Gordon	The Chase!	INDIFFERENT	m8zYM_J58uM	MPREb_rSqa7iQcnI8	UCnH1LrQs42YLOQnpdoUYvdA
-458	Second Balcony Jump	Dexter Gordon	Where Are You	INDIFFERENT	BannX4_QaBM	MPREb_E4pOuEOOjDH	UCnH1LrQs42YLOQnpdoUYvdA
-486	You've Changed	Dexter Gordon	Ballads	INDIFFERENT	aAfFegiC4IA	MPREb_jcTsqxig16r	UCnH1LrQs42YLOQnpdoUYvdA
-496	Hanky Panky	Dexter Gordon	Clubhouse	INDIFFERENT	DFCWnsYPkKw	MPREb_iLPGX5Fbfdq	UCnH1LrQs42YLOQnpdoUYvdA
-545	Days Of Wine And Roses (Instrumental)	Dexter Gordon	Tangerine	INDIFFERENT	Ydfgc7Cligw	MPREb_NU93QRTA9W5	UCnH1LrQs42YLOQnpdoUYvdA
-571	Smile (Rudy Van Gelder Edition/2004 Remaster)	Dexter Gordon	Dexter Calling (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	HultWHkIaX8	MPREb_QEGjtka3Xxz	UCnH1LrQs42YLOQnpdoUYvdA
-696	Soul Sister (Rudy Van Gelder Edition/2004 Remaster)	Dexter Gordon	Dexter Calling (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	hi69YppOnZI	MPREb_QEGjtka3Xxz	UCnH1LrQs42YLOQnpdoUYvdA
-785	Love For Sale (Rudy Van Gelder Edition / Remastered 1999)	Dexter Gordon	Go! (The Rudy Van Gelder Edition)	INDIFFERENT	XVQdghW8FFU	MPREb_Yji5CkNA2Q8	UCnH1LrQs42YLOQnpdoUYvdA
-857	Very Saxily Yours	Dexter Gordon	Gettin' Around	INDIFFERENT	iPTXQLr3RiA	MPREb_HN2XV5FjkwV	UCnH1LrQs42YLOQnpdoUYvdA
 99	Quiet Now	Denny Zeitlin	Homecoming	INDIFFERENT	JV9BoUM0Ujs	MPREb_pktUgqU3jAI	UCwSeLDwNlpgsputGWjGi8jQ
-631	If I Should Lose You	David Hazeltine	If I Should Lose You	INDIFFERENT	3LCMt97-usE	MPREb_owYRY2bN180	UCds586mSWhbXE04JOB1jruQ
 51	Stablemates	David Finck	Stablemates	INDIFFERENT	nWSbZzbgFbQ	MPREb_IpvwmOWh27K	UCZ7WDvrUIhlaGn6lAhKXrQQ
-558	Shakabu	"David ""Fathead"" Newman"	Song for the New Man	INDIFFERENT	6m78s-TEOkI	MPREb_D8ASCrlXI7w	UCGOw4MMTYahKBdiOe7GE4AA
-895	A Fine Romance	Dave Brubeck Octet	Take Five	INDIFFERENT	inKvNjJZMSM	MPREb_qiTsm42lvw0	UCMBevFAp40kVlvIcOvzv5Bw
 16	Softly, William, Softly	Dave Brubeck	Time In	INDIFFERENT	zLE0Kv7saro	MPREb_ciWtN4GPfhY	UCMBevFAp40kVlvIcOvzv5Bw
-153	How High The Moon	Dave Brubeck	The Dave Brubeck Trio	INDIFFERENT	2QumIL7qxJw	MPREb_B1KvLYbQmUe	UCMBevFAp40kVlvIcOvzv5Bw
-306	Back Home again in Indiana	Dave Brubeck	Masters Of The Last Century: Best of Dave Brubeck	INDIFFERENT	rboPLEOs6nU	MPREb_EAHrp2PvZBu	UCMBevFAp40kVlvIcOvzv5Bw
-357	Undecided	Dave Brubeck	The Dave Brubeck Trio	INDIFFERENT	_0qMQZ9dvJE	MPREb_B1KvLYbQmUe	UCMBevFAp40kVlvIcOvzv5Bw
-700	You Go to My Head	Dave Brubeck	Time Out	INDIFFERENT	_4bzBqLiWoI	MPREb_Gr0oi0q2BWb	UCMBevFAp40kVlvIcOvzv5Bw
-807	Indian Summer	Dave Brubeck	Indian Summer	INDIFFERENT	DvKcHP2ljwA	MPREb_lJJd8q8OLbo	UCMBevFAp40kVlvIcOvzv5Bw
-280	Working Out Just Fine	Cyrus Chestnut	My Father's Hands	INDIFFERENT	-8OZJxlpP1s	MPREb_C0aDSkqX9h4	UCRwWI3iHiMQAX4ihN_NBYiA
-433	Proverbial Lament	Cyrus Chestnut	Revelation	INDIFFERENT	o1WTTS_TQ18	MPREb_J1uBp0uIoQx	UCRwWI3iHiMQAX4ihN_NBYiA
-648	Woody'n You	Curtis Counce	The Very Best Of	INDIFFERENT	s_jKgApogUw	MPREb_e28cvZ8Bc1E	UC4IN56lIiPesRRC_4zFoDMQ
-620	One 'O Clock Jump (Live)	Count Basie Orchestra	Live At Birdland	INDIFFERENT	nLEW0U5v3V4	MPREb_b17sv3VNoFu	UC2C5LKX_qE6BzyMehXA0ClA
 39	Midgets	Count Basie And His Orchestra	April In Paris (Expanded Edition)	INDIFFERENT	58uHFxUTkw0	MPREb_bSag1N5kJ1m	UC2C5LKX_qE6BzyMehXA0ClA
 48	Jive At Five	Count Basie And His Orchestra	The Best Of Early Basie	INDIFFERENT	Lb--DC8MshE	MPREb_yzlCJvsXO2o	UC2C5LKX_qE6BzyMehXA0ClA
-124	April In Paris	Count Basie And His Orchestra	April In Paris (Expanded Edition)	INDIFFERENT	O3-jTzSgU38	MPREb_bSag1N5kJ1m	UC2C5LKX_qE6BzyMehXA0ClA
-781	Whirly Bird (1994 Remaster)	Count Basie And His Orchestra	The Complete Atomic Basie	INDIFFERENT	_HJOD1_KfWU	MPREb_AHldyTIuFSS	UC2C5LKX_qE6BzyMehXA0ClA
 72	Baby, Don't Tell on Me	Count Basie & His Orchestra	The Essential Count Basie	INDIFFERENT	qWk5k18qQ2Y	MPREb_Acpoy9Aa3EI	UC2C5LKX_qE6BzyMehXA0ClA
-695	Lester Leaps In (feat. Lester Young)	Count Basie & His Orchestra	The Essential Count Basie, Volume Ii	INDIFFERENT	FmbHVdmFJjE	MPREb_WWMN9EzIwzl	UC2C5LKX_qE6BzyMehXA0ClA
-769	Easy Go	Count Basie	In Disco Order	INDIFFERENT	yVOepMLvVEU	MPREb_sHIay0Doabe	UC2C5LKX_qE6BzyMehXA0ClA
 2	Just Coolin’	Cory Weeds	Just Coolin’	INDIFFERENT	U_4cixY8-ZU	MPREb_YbGOh4NqfwJ	UCDicTmKxKEzCtC6fsC79HMg
-407	Blues de Troye	Cory Weeds	Blues De Troye	INDIFFERENT	Lrtk0xEjGP8	MPREb_0Gt78WoJDd2	UCDicTmKxKEzCtC6fsC79HMg
-882	Bouncing With Bean (1996 Remastered)	Coleman Hawkins' All Star Octet	Body & Soul	INDIFFERENT	9gpdI2c0fi4	MPREb_j6vCqJEiCVS	UCaqOj5uQl-733nBtBpEEGBw
 4	Bean a Re Bop	Coleman Hawkins	A trumpet vs. darkness (The leader & The side man)	INDIFFERENT	yoykA5XFA-E	MPREb_A5R8D9h41B0	UCaqOj5uQl-733nBtBpEEGBw
-258	Feedin' the Bean	Coleman Hawkins	Jazz Giants	INDIFFERENT	NrbeDwAa_bM	MPREb_2HNityWg21x	UCaqOj5uQl-733nBtBpEEGBw
-442	I Remember You	Coleman Hawkins	Desafinado	INDIFFERENT	C0beVmAhg2w	MPREb_AFDSqtXXM48	UCaqOj5uQl-733nBtBpEEGBw
-639	When Lights Are Low (1995 Remastered - Take 1)	Coleman Hawkins	Greatest Hits	INDIFFERENT	82tWZZXRigQ	MPREb_R1vX6T9VxUA	UCaqOj5uQl-733nBtBpEEGBw
-643	Un Abraco No Bonfa (An Embrace To Bonfa)	Coleman Hawkins	Desafinado	INDIFFERENT	8DmXh2QuZZY	MPREb_AFDSqtXXM48	UCaqOj5uQl-733nBtBpEEGBw
-764	My Ideal	Coleman Hawkins	Tenor Giants	INDIFFERENT	hxr6PMqYBAc	MPREb_gTTt5WImVAI	UCaqOj5uQl-733nBtBpEEGBw
-783	Stumpy Bossa Nova	Coleman Hawkins	Desafinado	INDIFFERENT	7pn9jKEH0e8	MPREb_AFDSqtXXM48	UCaqOj5uQl-733nBtBpEEGBw
-687	Midnight Sun	Cobblestone Jazz	Future Sounds Of Jazz, Vol. 14	INDIFFERENT	2M9QbMKDo2k	MPREb_ZgZFFF9rEO5	UC9IMtdAzY-ScPAQOtdSB1Qw
-670	Blue Lights (Rudy Van Gelder 24Bit Mastering)	Clifford Jordan	Blowing In From Chicago	INDIFFERENT	hi2HL3fsLzo	MPREb_iDzKCtqPH8r	UC9dsWXPxvNHXLX5x2H3uqRA
-106	Smoke Gets In Your Eyes	Clifford Brown	Clifford Brown With Strings	INDIFFERENT	kPKMa1YUdM4	MPREb_eZXEzW3ekkx	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-303	Delilah	Clifford Brown	Clifford Brown And Max Roach	INDIFFERENT	X4-m9D9kw8Y	MPREb_IlsQNGSmB8l	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-309	Sandu	Clifford Brown	Study In Brown	INDIFFERENT	0wpcrWCutFQ	MPREb_eDX0wgyO0ef	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-312	Night In Tunisia	Clifford Brown	The Beginning And The End	INDIFFERENT	U_SxclrGZ2w	MPREb_1dkVow7ea2g	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-405	Strictly Romantic	Clifford Brown	Happy Valentine's Day (My chérie amour)	INDIFFERENT	fo5wHS9r08I	MPREb_mzvUcTZitx9	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-475	Swingin'	Clifford Brown	Study In Brown	INDIFFERENT	wEy5uTFOMvI	MPREb_eDX0wgyO0ef	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-617	Smoke Gets In Your Eyes	Clifford Brown	Brass Classics	INDIFFERENT	6AcwrtUQOQc	MPREb_sAJGisUjz8J	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-796	Cherokee	Clifford Brown	Alone Together: The Best Of The Mercury Years	INDIFFERENT	-47ZpiLcyVs	MPREb_KrzjtlANekV	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-825	Wail Bait	Clifford Brown	Jazz for a Lazy Day	INDIFFERENT	jBnoKbLBhKw	MPREb_1bBnV2VOCTm	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-902	Cookin'	Clifford Brown	Memorial Album (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	IXvKYm2-bT0	MPREb_g9XdfY2cLp4	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-924	Jordu	Clifford Brown	Clifford Brown And Max Roach	INDIFFERENT	mcx6eyDGhp4	MPREb_IlsQNGSmB8l	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-925	Parisian Thoroughfare	Clifford Brown	Clifford Brown And Max Roach	INDIFFERENT	-IsiaqU27Q8	MPREb_IlsQNGSmB8l	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-927	Joy Spring	Clifford Brown	Relaxing Jazz to Study To	INDIFFERENT	C41zvbrgdHw	MPREb_owSmnV77cDn	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-935	The Blues Walk (Alternate Take)	Clifford Brown	Clifford Brown And Max Roach	INDIFFERENT	9i3ZLvFSFqE	MPREb_IlsQNGSmB8l	UCQFCMVgOtWDn5Vd3Nt1SRfQ
-242	Guadeloupe (Paulo Moura)	Cliff Korman	Brasilified	INDIFFERENT	AZoWUhf4QEY	MPREb_VF4i2uiCgHE	UCMWR8wqY7Ve72dJyVoQQh3A
-391	Brasilified	Cliff Korman	Brasilified	INDIFFERENT	Z5BEgNfqz6M	MPREb_VF4i2uiCgHE	UCMWR8wqY7Ve72dJyVoQQh3A
 23	Jazz Conversations	Clark Terry	The Happy Horns Of Clark Terry	INDIFFERENT	i301oyWQfRw	MPREb_ioNgByVJYj0	UC4GXSp_mtcTNBbbIOpymNxQ
-652	Co Op	Clark Terry	Clark Terry	INDIFFERENT	XW8y84yHzTA	MPREb_ebqH86uCzGQ	UC4GXSp_mtcTNBbbIOpymNxQ
-888	Wild Cat Blues (feat. Sidney Bechet)	Clarence Williams' Blue Five	Ken Burns Jazz-The Story Of America's Music	INDIFFERENT	uWBNi10wneY	MPREb_ALxELrsw9O1	UCRzK8xIBFeMX3dZsFb6PzBg
-314	The Last Chieftain (feat. Matthew Stevens)	Chief Adjuah	Stretch Music	INDIFFERENT	E_xyWKYwOkk	MPREb_nmZTrLeB1T3	UCzj6JEW8af-3FrHUn7IdHEQ
-315	Perspectives	Chief Adjuah	Stretch Music	INDIFFERENT	opF14Cq4eDQ	MPREb_nmZTrLeB1T3	UCzj6JEW8af-3FrHUn7IdHEQ
-336	Twin	Chief Adjuah	Stretch Music	INDIFFERENT	I3OFVamQxic	MPREb_nmZTrLeB1T3	UCzj6JEW8af-3FrHUn7IdHEQ
-393	Liberation over Gangsterism (feat. Elena Pinderhughes)	Chief Adjuah	Stretch Music	INDIFFERENT	_y3lY1hV4EI	MPREb_nmZTrLeB1T3	UCzj6JEW8af-3FrHUn7IdHEQ
-717	The Corner (feat. Braxton Cook)	Chief Adjuah	Stretch Music	INDIFFERENT	huL9LWOeZwo	MPREb_nmZTrLeB1T3	UCzj6JEW8af-3FrHUn7IdHEQ
-101	Maiden Voyage (Live 1988 Edit Version)	Chick Corea	An Evening With Chick Corea & Herbie Hancock	INDIFFERENT	Avm9wL1yiHY	MPREb_NeF4jM8x2Yv	UC7Syqiz3THx07IfHPlgroRA
-513	Spain (Composite Alternative Take)	Chick Corea	Light As A Feather (Deluxe Edition)	INDIFFERENT	2oHPrdizBuk	MPREb_OrS1VRA4Y74	UC7Syqiz3THx07IfHPlgroRA
-842	Matrix	Chick Corea	The Best Of Chick Corea	INDIFFERENT	-x8cDCEzhEs	MPREb_rRtCudRSvaM	UC7Syqiz3THx07IfHPlgroRA
-936	Bud Powell	Chick Corea	The Definitive Chick Corea on Stretch and Concord	INDIFFERENT	uEl5uWO7CG0	MPREb_CXh9xPxn9Sp	UC7Syqiz3THx07IfHPlgroRA
-884	I've Found a New Baby	Chicago Rhythm Kings	The Mezz Mezzrow Collection 1928-55	INDIFFERENT	Nv3kt_08hhI	MPREb_Urla3YWXol3	UCjNpbd4YVm1B5kY5qtM0yrA
-372	Moonlight In Vermont	Chet Baker Quintet	Lady Bird	INDIFFERENT	JAe3eIBu0A0	MPREb_WN2K9No22j8	UCVNfRXuaWVILL9giCEg0rQg
-557	Happy Little Sunbeam (Alternate Take) (feat. Russ Freeman)	Chet Baker Quartet	Chet Baker Quartet Featuring Russ Freeman (Expanded Edition)	INDIFFERENT	--xp_WaV2uA	MPREb_Rd7DLptXuqB	UCVNfRXuaWVILL9giCEg0rQg
 77	I Get Along Without You Very Well	Chet Baker	Chet Baker from A to Z (Vol. 3)	INDIFFERENT	15rJxIvkkos	MPREb_lGwHAHNeyqY	UCVNfRXuaWVILL9giCEg0rQg
 79	Alone Together	Chet Baker	Chet (Keepnews Collection)	INDIFFERENT	p0zIbYCu7Yc	MPREb_E1rqgE7VF4P	UCVNfRXuaWVILL9giCEg0rQg
 87	I waited for you	Chet Baker	The Incredible Chet Baker Plays & Sings	INDIFFERENT	1BrFKWjXOF8	MPREb_aJ5ELt7Jo9K	UCVNfRXuaWVILL9giCEg0rQg
-108	Tenderly	Chet Baker	Chet Baker Big Band	INDIFFERENT	aF6N3oM-TZ0	MPREb_VofzZbJKXSx	UCVNfRXuaWVILL9giCEg0rQg
-126	I've Never Been In Love Before (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	aawiJ74rHRc	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
-152	Have You Met Miss Jones?	Chet Baker	Lonely Star	INDIFFERENT	O6JyYasCjFI	MPREb_hVKZbRJNaVd	UCVNfRXuaWVILL9giCEg0rQg
-189	Moon Love	Chet Baker	My Funny Valentine	INDIFFERENT	Xz6IlNUv7Vw	MPREb_vGLw2KiGH5Y	UCVNfRXuaWVILL9giCEg0rQg
-200	Indian Summer (Instrumental)	Chet Baker	Chet Baker In Milan	INDIFFERENT	w5WD_SKG7qM	MPREb_hXNahYGIdQy	UCVNfRXuaWVILL9giCEg0rQg
-221	Tangerine	Chet Baker	This Is Jazz #2	INDIFFERENT	9L6wJNecCnU	MPREb_JS0FdbPYobp	UCVNfRXuaWVILL9giCEg0rQg
-237	Little Man You've Had A Busy Day (Remaster/2004)	Chet Baker	Chet Baker Sextet	INDIFFERENT	zSkZrsMJtVM	MPREb_tx47p7BGXfz	UCVNfRXuaWVILL9giCEg0rQg
-269	Tis Autumn	Chet Baker	100 Jazz Masterpieces, Vol. 3	INDIFFERENT	Lmxq_E21XjU	MPREb_7LhmUvisueK	UCVNfRXuaWVILL9giCEg0rQg
-277	Look for the Silver Lining	Chet Baker	Chet Baker from A to Z, Vol. 4	INDIFFERENT	ZFNGVLZooZI	MPREb_nIliI3BQPAJ	UCVNfRXuaWVILL9giCEg0rQg
-310	But Not For Me (Vocal Version)	Chet Baker	Let's Get Lost: The Best Of Chet Baker Sings	INDIFFERENT	QwAwtMt8t4s	MPREb_GlE7j7CzDoI	UCVNfRXuaWVILL9giCEg0rQg
-362	Like Someone In Love (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	6WWRMqC1ONM	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
-376	The Route	Chet Baker	The Route	INDIFFERENT	fd0-KoEJ-Bo	MPREb_fd5V3pm5aTG	UCVNfRXuaWVILL9giCEg0rQg
-465	You Can't Go Home Again	Chet Baker	You Can't Go Home Again	INDIFFERENT	AIJ75X_hYEY	MPREb_m8Jb21Ek5Pg	UCVNfRXuaWVILL9giCEg0rQg
-490	There Will Never Be Another You (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	ytHMBYLwgVU	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
-512	Happy Little Sunbeam	Chet Baker	Chet Baker from A to Z, Vol. 4	INDIFFERENT	l2n8Mn3pClA	MPREb_nIliI3BQPAJ	UCVNfRXuaWVILL9giCEg0rQg
-517	Festive Minor	Chet Baker	Jazz for a Lazy Day	INDIFFERENT	XCRT2AprNLw	MPREb_cJ9ow1K6g0T	UCVNfRXuaWVILL9giCEg0rQg
-535	Everything Happens To Me (Complete Take 2)	Chet Baker	You Go To My Head	INDIFFERENT	3PPFnmCc3VQ	MPREb_TX55LAPZKuY	UCVNfRXuaWVILL9giCEg0rQg
-540	Just Friends	Chet Baker	Let's Get Lost: The Best Of Chet Baker Sings	INDIFFERENT	mWQc_1b3sNg	MPREb_GlE7j7CzDoI	UCVNfRXuaWVILL9giCEg0rQg
-616	In Your Own Sweet Way	Chet Baker	My Favourite Songs - The Last Great Concert	INDIFFERENT	1ZT_Vb8izeE	MPREb_wZf9y5hTBfx	UCVNfRXuaWVILL9giCEg0rQg
-673	A Little Duet for Zoot And Chet	Chet Baker	Chet Baker & Strings	INDIFFERENT	Ptwx2U_yw5s	MPREb_2xskka4ZtA0	UCVNfRXuaWVILL9giCEg0rQg
-704	Let's Get Lost	Chet Baker	Chet Baker Sings And Plays (Remastered 2004)	INDIFFERENT	2coQYvn72cA	MPREb_zriR23A47OR	UCVNfRXuaWVILL9giCEg0rQg
-735	How High The Moon	Chet Baker	The Best Of Chet Baker	INDIFFERENT	DKzHm3KtXGY	MPREb_Hc6FnbuOcIx	UCVNfRXuaWVILL9giCEg0rQg
-760	Lady Bird	Chet Baker	Chet Baker In Milan	INDIFFERENT	51bT0xYFg9M	MPREb_hXNahYGIdQy	UCVNfRXuaWVILL9giCEg0rQg
-845	Everything Happens To Me (Complete Take 2)	Chet Baker	Chet For Lovers	INDIFFERENT	WjeH1NSGuoc	MPREb_UkofM4iFB8y	UCVNfRXuaWVILL9giCEg0rQg
-847	I Get Along Without You Very Well (Except Sometimes) (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	hqRtTjQD0RE	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
-890	It's Always You (Vocal Version)	Chet Baker	Chet Baker Sings	INDIFFERENT	QVyqwPW6VYw	MPREb_mohTpRuEgf7	UCVNfRXuaWVILL9giCEg0rQg
 75	Drifting On A Reed	Charlie Parker	Charlie Parker on Dial: The Complete Sessions	INDIFFERENT	lTgSF2hAWn8	MPREb_1vmIhJGMW62	UCPFmyRluI7yvEdbHCrecUng
-160	Bloomdido	Charlie Parker	Bird And Diz (Expanded Edition)	INDIFFERENT	lGxajV75VvM	MPREb_M6rmsvqv5OA	UCPFmyRluI7yvEdbHCrecUng
-172	How Deep Is The Ocean	Charlie Parker	Supermusic - Blues&Soul y Jazz	INDIFFERENT	G2k9hIOuRvY	MPREb_rDvbVe7CPpv	UCPFmyRluI7yvEdbHCrecUng
-340	Donna Lee	Charlie Parker	Koko	INDIFFERENT	60FidZqkMxI	MPREb_I7DZw2PfRzy	UCPFmyRluI7yvEdbHCrecUng
-382	Begin The Beguine (remastered edition)	Charlie Parker	P as in PARKER, Charlie (volume 2)	INDIFFERENT	4EBEO3jFvP8	MPREb_ZXxasKZaaUn	UCPFmyRluI7yvEdbHCrecUng
-453	My Melancholy Baby	Charlie Parker	Bird And Diz (Expanded Edition)	INDIFFERENT	o2NAYxH2OBE	MPREb_M6rmsvqv5OA	UCPFmyRluI7yvEdbHCrecUng
-598	I Love Paris	Charlie Parker	Bird: The Complete Charlie Parker On Verve	INDIFFERENT	GkjS1OcQHTQ	MPREb_0OgRDpdSuk7	UCPFmyRluI7yvEdbHCrecUng
-630	Bloomdido	Charlie Parker	Talkin' Bird	INDIFFERENT	CeRaOo7_cXs	MPREb_XyFuai4mfdX	UCPFmyRluI7yvEdbHCrecUng
-663	What Is This Thing Called Love?	Charlie Parker	Bird: The Complete Charlie Parker On Verve	INDIFFERENT	BZE3P_YGLnA	MPREb_0OgRDpdSuk7	UCPFmyRluI7yvEdbHCrecUng
-694	Ko Ko	Charlie Parker	Bird - Original Motion Picture Soundtrack	INDIFFERENT	Am4_Dh_-G8g	MPREb_33CT6HsQf1e	UCPFmyRluI7yvEdbHCrecUng
-771	I've Got You Under My Skin	Charlie Parker	Bird 100	INDIFFERENT	AV3EvVbz8ao	MPREb_FkXjGGZx8x5	UCPFmyRluI7yvEdbHCrecUng
-870	I'm In The Mood For Love	Charlie Parker	Black Beauty Jazz - Stardust	INDIFFERENT	vw3ImM_wtGc	MPREb_ice1SeGFcPW	UCPFmyRluI7yvEdbHCrecUng
-877	Billie's Bounce (Original Take 5)	Charlie Parker	The Charlie Parker Story	INDIFFERENT	ChMEL38sc0w	MPREb_cJBy3Y7AlbA	UCPFmyRluI7yvEdbHCrecUng
-898	My Old Flame	Charlie Parker	Jazz for a Lazy Day	INDIFFERENT	O-o3jzvKpkA	MPREb_76P8FKVk7iW	UCPFmyRluI7yvEdbHCrecUng
-913	Donna Lee	Charlie Parker	The Very Best Of The Dial Years	INDIFFERENT	IoosxMJEy60	MPREb_XYvkHyF4O50	UCPFmyRluI7yvEdbHCrecUng
-914	Confirmation	Charlie Parker	Charlie Parker	INDIFFERENT	L2JNFHzRzzs	MPREb_PBt1RJZavJh	UCPFmyRluI7yvEdbHCrecUng
-930	Cherokee	Charlie Parker	Cherokee (19 Versions Performed By:)	INDIFFERENT	52-b0WLELyw	MPREb_duDUEsSYpwC	UCPFmyRluI7yvEdbHCrecUng
 5	It Came Upon The Midnight Clear	Charlie Haden	Come Sunday	INDIFFERENT	iGfoqKMu2Gk	MPREb_8xshtJGpDMK	UCphZOvc25w5fJGZ-HqnUggA
-419	Rose Room	Charlie Christian	The Jazz Masters - 27 Classic Performances From The Columbia Masterpieces Series	INDIFFERENT	9LAjnvySFuA	MPREb_edQNHwfRri3	UC-iERZ8XmVc3NWRE1oQEHgQ
-183	Meditation	Charlie Byrd	Plays Jobim	INDIFFERENT	BYHbjBLVedM	MPREb_AkjCLNyuj30	UCPWF84oej4PJgMCMCDtGVEQ
-765	One Note Samba	Charlie Byrd	The Best of Charlie Byrd	INDIFFERENT	stH1oNYQ-Jc	MPREb_W9ZDFWDFIVQ	UCPWF84oej4PJgMCMCDtGVEQ
-909	Barbados	"Charlie ""Bird"" Parker"	The Complete Savoy & Dial Master Takes	INDIFFERENT	lX3H81GqYOU	MPREb_xaXQk3CfQBK	UCPFmyRluI7yvEdbHCrecUng
 90	Self-Portrait in Three Colors	Charles Mingus	Mingus Ah Um	INDIFFERENT	dHV4Ej7-Kpk	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
-137	Old Portrait	Charles Mingus	Mingus Plays Piano	INDIFFERENT	yxS3kyx-ZUw	MPREb_sj3sVNKoiNi	UCXSaOCck3oVxhB4W_4Ca3MQ
-290	Jump Monk	Charles Mingus	Charles Mingus' Finest Hour	INDIFFERENT	bjdDCSAA6x4	MPREb_VVub4DoLlmG	UCXSaOCck3oVxhB4W_4Ca3MQ
-415	A.T.F.W. (Art Tatum Fats Waller)	Charles Mingus	The Great Concert of Charles Mingus	INDIFFERENT	Njo0Kff5-eU	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIfZ3JlYXQgY29uY2VydCBvZiBjaGFybGVzIG1pbmd1cxoOY2hhcmxlcyBtaW5ndXMiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIOY2hhcmxlcyBtaW5ndXM
-473	What Is This Thing Called Love	Charles Mingus	The Ultimate Jazz Archive 31 - Intrusions (4 Of 4)	INDIFFERENT	Y5UuKHrQRe0	MPREb_bQ7lh1HNYa5	UCXSaOCck3oVxhB4W_4Ca3MQ
-502	Self-Portrait In Three Colours	Charles Mingus	Mingus Ah Um	INDIFFERENT	e_DRPEHrMtI	MPREb_IeCi4HMV1Kb	UCXSaOCck3oVxhB4W_4Ca3MQ
-533	I X Love (Long Version)	Charles Mingus	Mingus Mingus Mingus Mingus Mingus	INDIFFERENT	3KMAzqSjkvs	MPREb_Spv3LayGdDi	UCXSaOCck3oVxhB4W_4Ca3MQ
-534	The Sound of Love	Charles Mingus	The Angry Man of Jazz: Charles Mingus	INDIFFERENT	sV2CFlPRjxk	MPREb_YFtdPcYFTwK	UCXSaOCck3oVxhB4W_4Ca3MQ
-570	Opus 3	Charles Mingus	Mingus Moves	INDIFFERENT	OMKy-g7orR0	MPREb_jnUbNwN9mgv	UCXSaOCck3oVxhB4W_4Ca3MQ
-641	Girl Of My Dreams	Charles Mingus	Mingus Ah Um	INDIFFERENT	7KAGIbTj1pY	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
-646	East Coasting	Charles Mingus	East Coasting	INDIFFERENT	D-gQZ0gbmzQ	MPREb_Oa7d9TfWJEo	UCXSaOCck3oVxhB4W_4Ca3MQ
-710	I've Got You Under My Skin	Charles Mingus	Jazz for a Lazy Day	INDIFFERENT	L9EuA6B22C0	MPREb_IfgAEdMWqr9	UCXSaOCck3oVxhB4W_4Ca3MQ
-872	Open Letter To Duke	Charles Mingus	Mingus Ah Um	INDIFFERENT	nyBBmoC-8s4	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
-873	Profile of Jackie	Charles Mingus	The Very Best Of Charles Mingus	INDIFFERENT	hEtNsCiIV2c	MPREb_XsZjdNW98I8	UCXSaOCck3oVxhB4W_4Ca3MQ
-205	How Can I Tell You?	Charles Lloyd Quartet	Discovery!	INDIFFERENT	wFAofzpsz7g	MPREb_rsLKHmCAPEE	UCJHWF7HhOoMQ2cpGOMUL7cw
-524	Song Of Her	Charles Lloyd	The Water Is Wide	INDIFFERENT	SP995PYFn6w	MPREb_eR8912EOGTf	UCJHWF7HhOoMQ2cpGOMUL7cw
-860	Mack the Knife	Chad Lefkowitz-Brown	Mack the Knife	INDIFFERENT	zoN0Ij0UqEw	MPREb_tftHj6IfDXu	UC_gomT0txPNWw8MU8y6fsgg
-180	Conquistador (2003 Remastered)	Cecil Taylor	Conquistador!	INDIFFERENT	-lq7liyDznk	MPREb_wB1ttDMYE8w	UClCb8AEFN2jUv9WkqB6JAug
-854	Love Letter	Cavendish Music	Swing	INDIFFERENT	LFmQOlwANaY	MPREb_TrLzexMcLd6	UCKFex_SCt1XrgAsYXtUobkA
 34	At The Swing Cats Ball	Catherine Russell	At The Swing Cats Ball	INDIFFERENT	J22lBCSIfQU	MPREb_4PjGTVrQk3p	UCuOm_RSmruH5oG5FWTaDrqA
-715	Nada Como Ter Amor	Carlos Lyra	Brazilian Bossa Nova Classics	INDIFFERENT	tEYeSwyEG40	MPREb_2OE0b5P3p52	UCm2GAr0lGZyvDLjO12VKCZw
-506	Misty	Carl Winther Trio	Relaxin'	INDIFFERENT	6k_awKMLPN8	MPREb_xBdw1XSwPry	UCNA8pRxY4D5gjZ-EDHvcLeg
-144	To Mr K.K.	Carl Bagge	Visitor	INDIFFERENT	1IlHUInnr9U	MPREb_tfrqwaudvNz	UCXWE6D23cqgAfapTXcOonMw
-156	Grand Central	Cannonball Adderley Quintet	Cannonball Adderley Quintet In Chicago	INDIFFERENT	KBbO5q074Fc	MPREb_RDa0WsOB6m6	UCRQLvDfTNOFUgst4GpnyDvA
-469	Dat Dere	Cannonball Adderley Quintet	Them Dirty Blues	INDIFFERENT	6e-jphhx8xA	MPREb_6HCyROHBqih	UCRQLvDfTNOFUgst4GpnyDvA
-503	Mercy, Mercy, Mercy (Live)	Cannonball Adderley Quintet	Mercy, Mercy, Mercy (Live)	INDIFFERENT	W9mYN0Tkoik	MPREb_Q3FBhKgBRco	UCRQLvDfTNOFUgst4GpnyDvA
-586	Limehouse Blues	Cannonball Adderley Quintet	The Greatest Jazz Duets	INDIFFERENT	yXIaL6hPM-c	MPREb_kmnMmHgves1	UCRQLvDfTNOFUgst4GpnyDvA
-699	Wabash	Cannonball Adderley Quintet	Cannonball Adderley Quintet In Chicago	INDIFFERENT	4WJs17NZsgU	MPREb_M1NFIxrK1gU	UCRQLvDfTNOFUgst4GpnyDvA
-862	Easy Living	Cannonball Adderley Quintet	Them Dirty Blues	INDIFFERENT	Jbvbh2lhtDw	MPREb_6HCyROHBqih	UCRQLvDfTNOFUgst4GpnyDvA
-738	Serenata	Cannonball Adderley Quartet	Cannonball Takes Charge	INDIFFERENT	ccl4W_BHZR0	MPREb_EtoTSxouSXO	UCRQLvDfTNOFUgst4GpnyDvA
 28	Sticks (Live)	Cannonball Adderley	Swingin' in Seattle Live at the Penthouse 1966-1967	INDIFFERENT	DvXGss0b-IQ	MPREb_MoC0KPEy7k4	UCRQLvDfTNOFUgst4GpnyDvA
-128	You'd Be So Nice To Come Home To	Cannonball Adderley	"Julian ""Cannonball"" Adderley"	INDIFFERENT	z4z6igAhhOI	MPREb_i7fx3QMeYch	UCRQLvDfTNOFUgst4GpnyDvA
-136	Venice	Cannonball Adderley	Know What I Mean	INDIFFERENT	oaKFu7SL9cw	MPREb_uv503nsjSen	UCRQLvDfTNOFUgst4GpnyDvA
-158	Purple Shades	Cannonball Adderley	"Julian ""Cannonball"" Adderley"	INDIFFERENT	Hna-DAxw_Oc	MPREb_i7fx3QMeYch	UCRQLvDfTNOFUgst4GpnyDvA
-244	Minha Saudades (24-Bit Mastering)	Cannonball Adderley	Cannonball's Bossa Nova	INDIFFERENT	7FiaThbmaWM	MPREb_W3cg94Sz0c9	UCRQLvDfTNOFUgst4GpnyDvA
-252	Work Song	Cannonball Adderley	Soul Motion	INDIFFERENT	3vdLlfnBrjo	MPREb_CTfqIjIjAvZ	UCRQLvDfTNOFUgst4GpnyDvA
-355	Love For Sale	Cannonball Adderley	Somethin' Else (Rudy Van Gelder Edition)	INDIFFERENT	Z3TTnMY9ptg	MPREb_7VEcMqni2Rt	UCRQLvDfTNOFUgst4GpnyDvA
-412	Somethin' Else	Cannonball Adderley	Somethin' Else (Rudy Van Gelder Edition)	INDIFFERENT	yOtqq3E0JNg	MPREb_7VEcMqni2Rt	UCRQLvDfTNOFUgst4GpnyDvA
-568	Straight No Chaser	Cannonball Adderley	Jazz Masters 31	INDIFFERENT	BUuZILlYGV0	MPREb_i5juUraVgI9	UCRQLvDfTNOFUgst4GpnyDvA
-761	Who Cares?	Cannonball Adderley	Know What I Mean? [Original Jazz Classics Remasters]	INDIFFERENT	QOagsBY1V3o	MPREb_kIsoG1sKO2B	UCRQLvDfTNOFUgst4GpnyDvA
-810	Cynthia's In Love	Cannonball Adderley	"Julian ""Cannonball"" Adderley"	INDIFFERENT	0FJEYstdUR4	MPREb_i7fx3QMeYch	UCRQLvDfTNOFUgst4GpnyDvA
-246	Samba de Orfeu	Cal Tjader	Soul Bird: Whiffenpoof	INDIFFERENT	KVf8_z145us	MPREb_dVO0UhuHdKT	UCGK9ztq15GjRu542EUMJ-Vw
-167	MINNIE THE MOOCHER	CAB CALLOWAY	Super Tracks & Great Bands Vol. 6	INDIFFERENT	l5fK_XOrR-g	MPREb_uflhWxp4xKi	UCEWm42gRfEzTK6hZAtJujGQ
-304	Over the Rainbow	Bud Shank	West Coast Suite 1	INDIFFERENT	kl31RUy9mwg	MPREb_nvXlURGZvjE	UCUsbdgI8UrgydSYjl_9IeIQ
-889	A Night In Tunisia (Alternate Take/ / Remastered 1998/Rudy Van Gelder Edition)	Bud Powell Trio	The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)	INDIFFERENT	crA0Pl2A5v0	MPREb_mwFJY2xHXVw	UCsyeGJfR7t0QBrNUl7c36gw
 12	Cherokee	Bud Powell	Jazz Giant	INDIFFERENT	2Aptzringhk	MPREb_5GYoN54rDC5	UCsyeGJfR7t0QBrNUl7c36gw
 42	Bouncin' With Bud	Bud Powell	The Amazing Bud Powell	INDIFFERENT	5jP1PhmCDTM	MPREb_HY7Szy0MA6h	UCsyeGJfR7t0QBrNUl7c36gw
 47	Glass Enclosure	Bud Powell	The Best Of Bud Powell	INDIFFERENT	SsMB98LpA38	MPREb_DDzJQUhOYEc	UCsyeGJfR7t0QBrNUl7c36gw
-253	Strictly Confidential	Bud Powell	Jazz Giant	INDIFFERENT	4x9e30CQ9Ps	MPREb_x6nGK18u1ci	UCsyeGJfR7t0QBrNUl7c36gw
-273	Spring Is Here	Bud Powell	Bud Powell's Moods	INDIFFERENT	9lEi_Tt14FA	MPREb_LpePGsLt7dU	UCsyeGJfR7t0QBrNUl7c36gw
-352	Ornithology (Remastered 1998/Rudy Van Gelder Edition)	Bud Powell	The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)	INDIFFERENT	D2gf6ps0ksM	MPREb_mwFJY2xHXVw	UCsyeGJfR7t0QBrNUl7c36gw
-457	Blues In The Closet	Bud Powell	Blues In The Closet	INDIFFERENT	k_y1RZDdGWU	MPREb_eT89HTApTDK	UCsyeGJfR7t0QBrNUl7c36gw
-470	Bouncin' With Bud	Bud Powell	The Complete Blue Note and Capitol Recordings	INDIFFERENT	DB7pj2zQ4g0	MPREb_65H7qwge9DM	UCsyeGJfR7t0QBrNUl7c36gw
-550	Tempus Fugit	Bud Powell	Jazz Giant	INDIFFERENT	_zTokThNmPg	MPREb_x6nGK18u1ci	UCsyeGJfR7t0QBrNUl7c36gw
-575	Blue Pearl (Rudy Van Gelder/24Bit Mastering/1999 Digital Remaster)	Bud Powell	The Amazing Bud Powell, Vol. 3: Bud!	INDIFFERENT	FjFw5pbN528	MPREb_xA0RjYCx8Mm	UCsyeGJfR7t0QBrNUl7c36gw
-897	Un Poco Loco (Remastered 1998/Rudy Van Gelder Edition)	Bud Powell	The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)	INDIFFERENT	4QL2umE4_TI	MPREb_mwFJY2xHXVw	UCsyeGJfR7t0QBrNUl7c36gw
-482	Morning Walk	Brian Culbertson	Winter Stories	INDIFFERENT	ABvKXA_HV0k	MPREb_yb0TGhFrzu7	UCAcFLGUYc-rsvrzaMbgmjFw
-514	Jackpot	Brian Charette	Jackpot	INDIFFERENT	0kUOWUXtLcU	MPREb_W6cqkJDtCK7	UCCZPQQZuTqYV2mIEQbAvahw
-644	Hallelujah, I Love Him So	Brenda Lee	Greatest Hits of Brenda Lee	INDIFFERENT	gFnp2kd8LYc	MPREb_dXq0JzQsh7a	UCxXg9tA-QbEVcnInADf7pZw
-311	I Can't	Braxton Cook	I Can't	INDIFFERENT	gE5zbbE3pYk	MPREb_xNpfizucOZJ	UCu7ukU092xxFdUksCk9jlCQ
-254	Deck The Halls	Bobby Timmons	Holiday Soul	INDIFFERENT	TLju5TPs9O8	MPREb_8bwb3Z33EWk	UCdQcAiYa2qTNLvbXZGG8JGg
-173	Love Is Here To Stay	Blossom Dearie	Once Upon A Summertime	INDIFFERENT	1yxQZvGI1Y0	MPREb_aed62AEmI5r	UCuhe4n6FkB6uBa0dqEgPlQg
 70	Singin' The Blues	Bix Beiderbecke	Bix Beiderbecke, Volume I: Singin' The Blues	INDIFFERENT	r9GxhyxV8DI	MPREb_uqXTz0sabmh	UCvnMTBhjrNr4YLwrgy-8muw
-255	I'm Comin Virginia	Bix Beiderbecke	Bixology	INDIFFERENT	io_BAjTp8xk	MPREb_jGXiUaHbMcO	UCvnMTBhjrNr4YLwrgy-8muw
-259	Mississippi Mud	Bix Beiderbecke	Bix Beiderbecke 20 Classic Tracks	INDIFFERENT	5gLZ-lcGAQA	MPREb_RZNmlUgDXKZ	UCvnMTBhjrNr4YLwrgy-8muw
-820	Singin' the Blues	Bix Beiderbecke	A Jazz Hour With Bix Beiderbecke: Jazz Me Blues	INDIFFERENT	LRX8QtNEogI	MPREb_1QjDH2OXwnJ	UCvnMTBhjrNr4YLwrgy-8muw
-143	Joy Spring	Billy Taylor	Joy Spring	INDIFFERENT	oiB29EX0fZk	MPREb_6z8y10emDT5	UCzRSJENfsohTtblK9-1abHA
-859	One for the Woofer (Music Keeps Us Young)	Billy Taylor	Music Keeps Us Young	INDIFFERENT	s1cQHH_b6zQ	MPREb_rNKEktV21yS	UCzRSJENfsohTtblK9-1abHA
-215	Me, Myself and I (Take 1)	Billie Holiday & Her Orchestra	Lady Day: The Complete Billie Holiday On Columbia (1933-1944)	INDIFFERENT	Z1bpO-1CllE	MPREb_lmmqhcJKZzs	UCW-raws5Iq2xLADkLcEoVaA
-891	If Dreams Come True	Billie Holiday	Things Are Looking Up	INDIFFERENT	njIyH6nc6gU	MPREb_2uTNRkGPyyf	UCW-raws5Iq2xLADkLcEoVaA
-447	Live to Tell	Bill Frisell	Have a Little Faith	INDIFFERENT	mbwVhNvkhw0	MPREb_TKSptxWWeh2	UCAK5ztsfvlDanqFo9hpMn8g
 58	Detour Ahead (Live / Take 2)	Bill Evans Trio	The Complete Village Vanguard Recordings, 1961	INDIFFERENT	KqXUGY_tSyI	MPREb_n9rvmlN2C2T	UCriB97bZopXsBHVYOQEIIZg
 62	Detour Ahead (Take 2 / Live At The Village Vanguard / 1961)	Bill Evans Trio	Waltz For Debby (Live At The Village Vanguard / 1961)	INDIFFERENT	10XGbiiYR1U	MPREb_0xKc7jcxUsf	UCriB97bZopXsBHVYOQEIIZg
 66	Gloria's Step (Live At The Village Vanguard, 1961 / Take 2)	Bill Evans Trio	The Complete Riverside Recordings (Remastered 1987)	INDIFFERENT	2tqxIhHmHng	MPREb_JKayh8P3BnD	UCriB97bZopXsBHVYOQEIIZg
-313	See-Saw (Live)	Bill Evans Trio	But Beautiful	INDIFFERENT	J-EhUKFuXak	MPREb_wzQtWe4eNQW	UCriB97bZopXsBHVYOQEIIZg
-395	A House Is Not A Home	Bill Evans Trio	I Will Say Goodbye	INDIFFERENT	X7N91CrXqLM	MPREb_b3rPrYW6lkn	UCriB97bZopXsBHVYOQEIIZg
-526	Nardis	Bill Evans Trio	Explorations	INDIFFERENT	AF4jzt4p_ug	MPREb_zPb9yMfXype	UCriB97bZopXsBHVYOQEIIZg
-554	My Romance (Take 1 / Live At The Village Vanguard / 1961)	Bill Evans Trio	Waltz For Debby (Live At The Village Vanguard / 1961)	INDIFFERENT	QBpXNd6BDIo	MPREb_0xKc7jcxUsf	UCriB97bZopXsBHVYOQEIIZg
-604	Jade Visions (Live At The Village Vanguard, 1961 / Take 1)	Bill Evans Trio	The Complete Village Vanguard Recordings, 1961	INDIFFERENT	QAUXvhPltf8	MPREb_n9rvmlN2C2T	UCriB97bZopXsBHVYOQEIIZg
-682	Jade Visions (Take 1 / Live At The Village Vanguard, NYC; 6/25/1961)	Bill Evans Trio	Sunday At The Village Vanguard [Keepnews Collection]	INDIFFERENT	3Y89iR7_Efg	MPREb_aIGjs8n3fQ6	UCriB97bZopXsBHVYOQEIIZg
-766	It Might As Well Be Spring	Bill Evans Trio	Moon Beams [Original Jazz Classics Remasters]	INDIFFERENT	rKsHJR8qIWM	MPREb_Jq8DBte6TKL	UCriB97bZopXsBHVYOQEIIZg
-784	Alice In Wonderland (Live At The Village Vanguard, 1961 / Take 2)	Bill Evans Trio	The Complete Village Vanguard Recordings, 1961	INDIFFERENT	Fe7KRCrIgdo	MPREb_n9rvmlN2C2T	UCriB97bZopXsBHVYOQEIIZg
-815	Haunted Heart	Bill Evans Trio	Explorations [Original Jazz Classics Remasters]	INDIFFERENT	T8bH7mKflj8	MPREb_rUjWd3NowBX	UCriB97bZopXsBHVYOQEIIZg
-829	Autumn Leaves (Album Version - (Take 1))	Bill Evans Trio	Portrait In Jazz	INDIFFERENT	by4Cr3kPNPg	MPREb_0BvSioqpzK5	UCriB97bZopXsBHVYOQEIIZg
 88	Blue In Green (Take 3)	Bill Evans	Portrait In Jazz [Keepnews Collection]	INDIFFERENT	kSXeZrjWrs8	MPREb_qstOIKc5y7B	UCriB97bZopXsBHVYOQEIIZg
-230	Like Someone In Love	Bill Evans	The Complete Riverside Recordings (Remastered 1987)	INDIFFERENT	gw-o0uTkp_k	MPREb_JKayh8P3BnD	UCriB97bZopXsBHVYOQEIIZg
-267	Midnight Mood	Bill Evans	Alone (Expanded Edition)	INDIFFERENT	Hn5w8-G-EL8	MPREb_4zHWZHXdklR	UCriB97bZopXsBHVYOQEIIZg
-323	Martina (feat. Harold Land, Kenny Burrell, Ray Brown & Philly Joe Jones)	Bill Evans	The Complete Fantasy Recordings	INDIFFERENT	XCPU5Wwx89Y	MPREb_Ds78Z8cNayM	UCriB97bZopXsBHVYOQEIIZg
-327	Young And Foolish	Bill Evans	Everybody Digs Bill Evans	INDIFFERENT	njxNuNF8FF4	MPREb_KvrZ01ihdHz	UCriB97bZopXsBHVYOQEIIZg
-471	All Of You	Bill Evans	You Must Believe In Spring (Remastered Version)	INDIFFERENT	G30xi-yrWuA	MPREb_dSTjEt3hOEv	UCriB97bZopXsBHVYOQEIIZg
-672	How Deep Is the Ocean (Live at Oil Can Harry's 1975)	Bill Evans	How Deep Is the Ocean (Live at Oil Can Harry's 1975)	INDIFFERENT	HztGUkIKmSo	MPREb_JH6EN8iGPgm	UCriB97bZopXsBHVYOQEIIZg
-728	Some Day My Prince Will Come	Bill Evans	Bill Evans & Scott LaFaro 2	INDIFFERENT	V9Cygev61u0	MPREb_3pz4HZLz5F7	UCriB97bZopXsBHVYOQEIIZg
-759	Here's That Rainy Day	Bill Evans	Alone	INDIFFERENT	epU4ILA0EDA	MPREb_TqvktctOId0	UCriB97bZopXsBHVYOQEIIZg
-864	Autumn Leaves	Bill Evans	Portrait In Jazz [Keepnews Collection]	INDIFFERENT	C1mMsz2I1c8	MPREb_qstOIKc5y7B	UCriB97bZopXsBHVYOQEIIZg
-881	Without A Song	Bill Evans	You Must Believe In Spring (Remastered Version)	INDIFFERENT	vT-t7tpzlak	MPREb_dSTjEt3hOEv	UCriB97bZopXsBHVYOQEIIZg
-893	On Green Dolphin Street (feat. Philly Joe Jones & Paul Chambers)	Bill Evans	The Complete Riverside Recordings (Remastered 1987)	INDIFFERENT	k6Q8vW_mqTE	MPREb_JKayh8P3BnD	UCriB97bZopXsBHVYOQEIIZg
-271	Out Of Nowhere	Bill Charlap Trio	Street Of Dreams	INDIFFERENT	bQBHysHTAa8	MPREb_09oDy31hX1m	UCq3_a46fd8ci-pAEVlReiIg
-808	Christmas Man Blues	"Bertha ""Chippie"" Hill"	"Bertha ""Chippie"" Hill 1925-1929"	INDIFFERENT	ztrIumtzAfQ	MPREb_P6glKyRmdZ7	UCoyH9kyPfutebuQdROraV5w
 36	Sing, Sing, Sing (With a Swing)	Benny Goodman and His Orchestra	My Best Jazz	INDIFFERENT	G-gy_ljZMf4	MPREb_f74YUAXH0dc	UCJhmf1IP1bXfPB3XTQcJJmw
-894	Sing Sing Sing	Benny Goodman	Mambo-Swing y Beguine	INDIFFERENT	G7fARRnhWSg	MPREb_XLhqyihznF9	UCJhmf1IP1bXfPB3XTQcJJmw
-149	Afternoon In Paris	Benny Golson	Benny Golson And The Philadelphians	INDIFFERENT	BiaTpTNoPa0	MPREb_FugCnqrez0z	UCwbCgjhQzrTls4oGWdqPF5w
-318	KILLER JOE (Many Moods of Benny Golson) (feat. Geoff Keezer, Dwayne Burno & Joe Farnsworth)	Benny Golson	KILLER JOE (feat. Geoff Keezer, Dwayne Burno & Joe Farnsworth) (Many Moods of Benny Golson)	INDIFFERENT	I-1oapu4VXc	MPREb_7sNLP9xH2LE	UCwbCgjhQzrTls4oGWdqPF5w
-332	Lester Leaps In (feat. Geoff Keezer, Dwayne Burno & Joe Farnsworth)	Benny Golson	Lester Leaps In (feat. Geoff Keezer, Dwayne Burno & Joe Farnsworth)	INDIFFERENT	ZVWk08wN8OI	MPREb_lBxzr3aDEsn	UCwbCgjhQzrTls4oGWdqPF5w
-235	Moten Swing	Bennie Moten's Kansas City Orchestra	The Hot Lips Page Collection 1929-53	INDIFFERENT	67Sde2i7yOg	MPREb_wFbWPgGypTe	UCX9yWu2oIw0g39cy3AYyHYQ
-147	Midnight Blue	Ben Webster	See You At The Fair	INDIFFERENT	W1mPz5Q-cgY	MPREb_BxjXf6iNwiK	UCANynQMnWY6tEaDl4eWwm1Q
-154	Don´t Get Around Much Any More	Ben Webster	Jazz Sax Masterworks	INDIFFERENT	8PQOAQ1HgeY	MPREb_9OsgdeKQu8z	UCANynQMnWY6tEaDl4eWwm1Q
-529	How Deep Is The Ocean (How High Is The Sky)	Ben Webster	Compact Jazz - The Verve Years	INDIFFERENT	ADJPg_zdv3s	MPREb_Aqqc6ZnkM5h	UCANynQMnWY6tEaDl4eWwm1Q
-248	Sippin' At Bells (feat. Marco Fratini & Giovanni Paolo Liguori)	Battista Lena	La Notte	INDIFFERENT	LrsdfBusnFk	MPREb_bPlrSMNVYbb	UCosEwH1dcN1vGzhg0HuW-Yw
-707	Brazil (Instrumental)	Barney Kessel	Solo	INDIFFERENT	3JIbjnCupMw	MPREb_pXBZ5cUqxVn	UC8n0tfmW9Hxnl0SBbrTv9kQ
-209	Tempo Feliz	Baden Powell	Tempo Feliz	INDIFFERENT	ReGhsBbR2no	MPREb_L2VUqgvxInN	UC3wsl-MT-3zBC-PSy7jT5Gw
-499	Lamento	Baden Powell	Personalidade: Baden Powell	INDIFFERENT	73zfY03gBMw	MPREb_uG8X6gbVGpb	UC3wsl-MT-3zBC-PSy7jT5Gw
-463	If You Were Mine	BILLIE HOLIDAY	Song Parade - Music Mix	INDIFFERENT	a8k1ZlyH9QE	MPREb_CqPqy1min40	UCW-raws5Iq2xLADkLcEoVaA
-487	We Will Meet Again (For Harry) (Remastered Version)	BILL EVANS	Les incontournables du jazz - Bill Evans	INDIFFERENT	7FQpb6yhRQg	MPREb_IteMEcKirNX	UCriB97bZopXsBHVYOQEIIZg
 81	"Take The ""A"" Train"	BBC Big Band Orchestra	20 Best of Big Bands	INDIFFERENT	DF--QTbHD0I	MPREb_IjiesR7wW8a	UCX1zuIkSZimJR1IbCPUjwuw
-140	Nuggets of Wisdom	BADBADNOTGOOD	Sour Soul	INDIFFERENT	u-qDHETE65M	MPREb_rYmDpSJ4TDA	UCeLdRRQwPb-KP8Qj7j3P5dw
-319	Ponteio	Astrud Gilberto	Astrud Gilberto W/ Stanley Turrentine	INDIFFERENT	1wP7vOs2-Kg	MPREb_LcblICvAQsK	UCHfuC6qjRi-7wQobu_WCuig
-437	Let Go (Canta De Ossanha)	Astrud Gilberto	September 17, 1969	INDIFFERENT	LaHudvno_i4	MPREb_TlufN4NmF8d	UCHfuC6qjRi-7wQobu_WCuig
-679	O Morro (Não Tem Vez)	Astrud Gilberto	The Astrud Gilberto Album	INDIFFERENT	D-p_QKTU1ho	MPREb_sLOWff69czl	UCHfuC6qjRi-7wQobu_WCuig
-239	Diga, Diga Doo	Artie Shaw & His Orchestra	Wicked Swing	INDIFFERENT	EMWkHtUZu4s	MPREb_VHXZR6VELAp	UCYSVpl3FRQsikR7ZEdSQRqQ
-602	Nothin' from Nothin'	Artie Shaw	Dance Program	INDIFFERENT	_B-pdRNE8q0	MPREb_8CV5GvAwsmV	UCYSVpl3FRQsikR7ZEdSQRqQ
-122	I Know That You Know	Art Tatum	Live 1944-52 Vol. 9	INDIFFERENT	Bbhxqb1E8ks	MPREb_XvXEMqzXJPt	UCLu5CbK0HVRcgX3jRZxWQsA
-155	Tiger Rag	Art Tatum	The 20 Best Collection: Jazz Golden Times, Vol. 2	INDIFFERENT	EBefLQ5JC4k	MPREb_pgKidoPucAw	UCLu5CbK0HVRcgX3jRZxWQsA
-142	The Breeze And I	Art Pepper	The Capitol Vaults Jazz Series	INDIFFERENT	4jNnL36BpQU	MPREb_CQOaKiXYYRk	UCQ6s8dxxZYIRCeuFtB3Zdxw
-375	You'd Be So Nice to Come Home To	Art Pepper	Art Pepper Meets The Rhythm Section (OJC Remaster)	INDIFFERENT	FcG6ZHaH5RY	MPREb_yT6zkyxfv2l	UCQ6s8dxxZYIRCeuFtB3Zdxw
-532	Jazz Me Blues	Art Pepper	Art Pepper Meets The Rhythm Section	INDIFFERENT	kSqIgIHsNSM	MPREb_izp1HmJ0GcL	UCQ6s8dxxZYIRCeuFtB3Zdxw
-633	Waltz Me Blues	Art Pepper	Art Pepper Meets The Rhythm Section (OJC Remaster)	INDIFFERENT	sNmkHuClQlQ	MPREb_yT6zkyxfv2l	UCQ6s8dxxZYIRCeuFtB3Zdxw
-662	Angel Wings	Art Pepper	The Return Of Art Pepper	INDIFFERENT	tQFevk27Ink	MPREb_oQZ8CsQ6rXs	UCQ6s8dxxZYIRCeuFtB3Zdxw
-688	Star Eyes	Art Pepper	Art Pepper Meets The Rhythm Section (OJC Remaster)	INDIFFERENT	5NFREMBVHfw	MPREb_yT6zkyxfv2l	UCQ6s8dxxZYIRCeuFtB3Zdxw
-758	You'd Be So Nice to Come Home to	Art Pepper	Original Jazz Sound: Art Pepper Meets the Rhythm Section	INDIFFERENT	MRdRZExFh-c	MPREb_YNXMve2s2BM	UCQ6s8dxxZYIRCeuFtB3Zdxw
-790	Birk's Works	Art Pepper	Art Pepper Meets The Rhythm Section (OJC Remaster)	INDIFFERENT	5ThUdEXc1gU	MPREb_yT6zkyxfv2l	UCQ6s8dxxZYIRCeuFtB3Zdxw
-843	Killer Joe	Art Farmer-Benny Golson Jazztet	The Complete Argo Mercury Sessions	INDIFFERENT	BNBcZaB2uEQ	MPREb_qABej45KyOt	UCcxEwxKM5GEAGWTrVEoyEAw
-778	A Jackson in Your House	Art Ensemble of Chicago	A Jackson In Your House	INDIFFERENT	xXUVbbWvTz0	MPREb_kcxmmxFXiqi	UCXyX-Uue97CWyt9OLHVAVNg
-701	I Remember Clifford (Live)	Art Blakey's Jazz Messengers	This is Jazz # 28	INDIFFERENT	Si6XNAi8UEA	MPREb_YtqCIFOmDuR	UCMki-b0zfAQiMQ0nbsrIuBQ
-929	Mayreh (Live At Birdland, New York, 1954)	Art Blakey Quintet	A Night At Birdland (Volume 1/Live)	INDIFFERENT	QHoEZT0N6E4	MPREb_KsU8D1MthR0	UCMki-b0zfAQiMQ0nbsrIuBQ
-724	Sunday	Art Blakey Quartet	A Jazz Message	INDIFFERENT	rqn8dvMUujY	MPREb_4EwWplMVaNO	UCMki-b0zfAQiMQ0nbsrIuBQ
-871	Free For All	Art Blakey And The Jazz Messengers	Round About Midnight (Vol. 2)	INDIFFERENT	0lvgofkl5Dw	MPREb_EsPBpLEku6J	UCMki-b0zfAQiMQ0nbsrIuBQ
 11	Alone Together (Live) (Live At Cafe Bohemia, NY/1955 / Rudy Van Gelder Edition/2001)	Art Blakey & The Jazz Messengers	At The Cafe Bohemia (Vol. 1/The Rudy Van Gelder Edition)	INDIFFERENT	n92V1UaS6pI	MPREb_5QsfwmFLalI	UCMki-b0zfAQiMQ0nbsrIuBQ
 40	Close Your Eyes	Art Blakey & The Jazz Messengers	Just Coolin'	INDIFFERENT	etoyHkoJPBs	MPREb_gVZF0JmU1lj	UCMki-b0zfAQiMQ0nbsrIuBQ
-123	Gee Baby, Ain't I Good To You	Art Blakey & The Jazz Messengers	Art Blakey & The Jazz Messengers	INDIFFERENT	gbyxQ0sXB1I	MPREb_u5RbvOCtACt	UCMki-b0zfAQiMQ0nbsrIuBQ
-129	Along Came Betty	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	INDIFFERENT	6lJeothOwCU	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
-148	Free For All (2004 Remaster/Rudy Van Gelder Edition)	Art Blakey & The Jazz Messengers	Free For All (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	GJBLA39spc4	MPREb_xbhfPDBAt3Q	UCMki-b0zfAQiMQ0nbsrIuBQ
-251	Backstage Sally (Remastered 2003/Rudy Van Gelder Edition)	Art Blakey & The Jazz Messengers	Buhaina's Delight (Rudy Van Gelder Edition / Remastered)	INDIFFERENT	XwdYNUTE0xA	MPREb_k5f0ccWu8OI	UCMki-b0zfAQiMQ0nbsrIuBQ
-373	Lester Left Town (Remastered 2005)	Art Blakey & The Jazz Messengers	The Big Beat (The Rudy Van Gelder Edition)	INDIFFERENT	eih7gn35cM4	MPREb_hcCM7vjLybK	UCMki-b0zfAQiMQ0nbsrIuBQ
-462	Hipsippy Blues	Art Blakey & The Jazz Messengers	Just Coolin'	INDIFFERENT	sATE9iA7-B0	MPREb_gVZF0JmU1lj	UCMki-b0zfAQiMQ0nbsrIuBQ
-668	Hank's Symphony	Art Blakey & The Jazz Messengers	The Jazz Messengers	INDIFFERENT	PTuNkSYX81M	MPREb_TyI4FOACZMC	UCMki-b0zfAQiMQ0nbsrIuBQ
-750	Are You Real	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	INDIFFERENT	lL0bcaTPDAc	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
-931	The Core	Art Blakey & The Jazz Messengers	Free For All (Remastered / Rudy Van Gelder Edition)	INDIFFERENT	58RJSmpmQdc	MPREb_xbhfPDBAt3Q	UCMki-b0zfAQiMQ0nbsrIuBQ
-113	Free for All	Art Blakey	Jazz - The Best, Vol. 2	INDIFFERENT	8qMfbbn7DME	MPREb_WQXOKkoVU4U	UCMki-b0zfAQiMQ0nbsrIuBQ
-218	Come Rain or Come Shine	Art Blakey	17 Original Jazz Standards	INDIFFERENT	vW7z1QUERU8	MPREb_YH2hNY2ZOlq	UCMki-b0zfAQiMQ0nbsrIuBQ
 73	Don't Get Around Much Anymore (feat. Mulgrew Miller, Buster Williams & Carl Allen)	Arkadia Jazz All-Stars	Thank You, Duke! - Our Tribute to Duke Ellington	INDIFFERENT	ebeWN45LjGo	MPREb_65jhjf6KcUg	UCZIf7ox-o_8k5RJw0hkspdg
-262	If You Went Away	Antônio Carlos Jobim	Love, Strings And Jobim	INDIFFERENT	XU_a0h2uRUM	MPREb_MhWdX2M5nOJ	UCDg8OKNNZEvWvMAYtXZMPMQ
-809	Pretty World	Antonio Adolfo	Octet and Originals	INDIFFERENT	8jJ2HZi2Q2c	MPREb_LBJmQ7PHZ2M	UC8WYBkWWXcm5IuvENS4lLdQ
-268	Walkin' and Swingin'	Andy Kirk And His Twelve Clouds Of Joy	The Mary Lou Williams Collection 1927-59	INDIFFERENT	ZzN2B4CfP18	MPREb_hQrikxC97RV	UCABFa5o1H-ZaTjnYyo3N7ug
 3	2223 (feat. Felix Moseholm, Calle Brickman & Andreas Svendsen)	Andreas Toftemark	2223	INDIFFERENT	C-SmliXCcDA	MPREb_SFzkZyTjsZC	UCUeKda4VDvXhkrOAIiSWo9A
-390	That's The Way It Is	Anders Mogensen	Brazilian Moods	INDIFFERENT	8Xve5TRjNdw	MPREb_Adud8HIWfPw	UCe0ajBCBdoP3JBfLT7TN7vg
-703	Pulpo	Anders Mogensen	Brazilian Moods	INDIFFERENT	bPXfR-wA7Wc	MPREb_Adud8HIWfPw	UCe0ajBCBdoP3JBfLT7TN7vg
 43	アシタカせっ記 - Ashitaka Sekki	All That Jazz	Haru Jazz	INDIFFERENT	ZUVtkj383f4	MPREb_bvv9eEsrcRm	UCRrWm-vfVfPlUdMYlW6X81w
-492	Brian	Alfa Mist	Antiphon	INDIFFERENT	DjYZ0enekbQ	MPREb_H1mjUQdz9P6	UCdkcalEgGoQdAQAPSUxiZYw
-518	The Wizard	Albert Ayler Trio	Spiritual Unity	INDIFFERENT	YsdEHrqikeU	MPREb_ItlRrjRpqUo	UCImWOZdYl8_qJ2OGJuTy9gg
-711	Adeus	Albare	Freedom	INDIFFERENT	eLjvh-hn914	MPREb_fsBRe3eA0wG	UCgJ-om5_bTa2QkloCSCkPXg
-213	Dedicated To You	Alan Pasqua	Dedicated To You	INDIFFERENT	Sn5mYoBxbzw	MPREb_IPZXTrnekLU	UCtwqvy1DtiZTKJUkOtzKlhA
-232	Pent Up House	Al Foster	Hank Jones Trio With Mads Vinding & Al Foster	INDIFFERENT	obZLV1ojA3U	MPREb_ex82HDyjc3e	UCjfbBj4wJ_7N79PmovmS65Q
-193	Squatty Roo (Live At The Spotlite Club, Washington, D.C./1958)	Ahmad Jamal Trio	Ahmad's Blues	INDIFFERENT	4VSSIktHWzI	MPREb_rHkwUG35wGs	UCpcKheNnsy7ojAqJMKDlfUQ
-516	On Green Dolphin Street	Ahmad Jamal Trio	Count 'Em 88	INDIFFERENT	vTkWYiiYHck	MPREb_0nBKMwNj35M	UCpcKheNnsy7ojAqJMKDlfUQ
-549	There Is No Greater Love (Live At The Pershing Lounge)	Ahmad Jamal Trio	The Complete Ahmad Jamal Trio Argo Sessions 1956-62	INDIFFERENT	59JDIkG-C9k	MPREb_jIbo2KEFwA3	UCpcKheNnsy7ojAqJMKDlfUQ
-614	Stompin' At The Savoy (Live At The Spotlite Club, Washington, D.C./1958)	Ahmad Jamal Trio	Ahmad's Blues	INDIFFERENT	2qKpNw8swSI	MPREb_rHkwUG35wGs	UCpcKheNnsy7ojAqJMKDlfUQ
-853	Secret Love (Live At The Spotlite Club, Washington, D.C./1958)	Ahmad Jamal Trio	Ahmad's Blues	INDIFFERENT	sB4YnzGWQ5Q	MPREb_rHkwUG35wGs	UCpcKheNnsy7ojAqJMKDlfUQ
-367	Valentina	Ahmad Jamal Quintet	Listen To The Ahmad Jamal Quintet	INDIFFERENT	rpZJ5T27Xto	MPREb_Nt4escwfkVN	UCpcKheNnsy7ojAqJMKDlfUQ
 89	Old Devil Moon	Ahmad Jamal	Poinciana	INDIFFERENT	I9OdS0eO71c	MPREb_7MnAwXyT2Az	UCpcKheNnsy7ojAqJMKDlfUQ
 93	On Green Dolphin Street	Ahmad Jamal	Tangerine	INDIFFERENT	VUAbqDaHbdY	MPREb_hFgNODjlAzs	UCpcKheNnsy7ojAqJMKDlfUQ
-203	Snowfall (Live At The Alhambra/1961)	Ahmad Jamal	Ahmad Jamal's Alhambra (Live)	INDIFFERENT	TGaCXkfd0gY	MPREb_ApeABVhsCUJ	UCpcKheNnsy7ojAqJMKDlfUQ
-301	Moonlight in Vermont	Ahmad Jamal	Autumn in New York	INDIFFERENT	3m69W0m5c_o	MPREb_ScGxDycflK6	UCpcKheNnsy7ojAqJMKDlfUQ
-523	I Get A Kick Out Of You	Ahmad Jamal	Chamber Music Of The New Jazz	INDIFFERENT	IkdnnJf7Y1Q	MPREb_sCi7OdV4A8F	UCpcKheNnsy7ojAqJMKDlfUQ
-581	The Party's Over	Ahmad Jamal	Tale Of Two Cities, 1961: Chicago & San Francisco	INDIFFERENT	Q2tzgrDlftk	MPREb_EchcVJ0z3Mn	UCpcKheNnsy7ojAqJMKDlfUQ
-599	New Rhumba	Ahmad Jamal	Chamber Music Of The New Jazz	INDIFFERENT	4ISgJNKBqcc	MPREb_sCi7OdV4A8F	UCpcKheNnsy7ojAqJMKDlfUQ
-788	Muisc, Music, Music (Put Another Nikel In)	Ahmad Jamal	Moonlight In Vermont	INDIFFERENT	VMG-zu4YKOA	MPREb_tWUZi37Q7zx	UCpcKheNnsy7ojAqJMKDlfUQ
-800	What's New (Live)	Ahmad Jamal	Highlights of Ahmad Jamal	INDIFFERENT	BMCVu-ImePs	MPREb_tWrnlOGa7nV	UCpcKheNnsy7ojAqJMKDlfUQ
-353	If It's Magic (feat. Cécile McLorin Salvant)	ARTEMIS	If It's Magic	INDIFFERENT	_C9SMA7guGc	MPREb_R3Xf2KOTkYl	UC8tLfErWj-bF18fdkEJtuZg
-697	Raisins Under The Sun (Desert Version (Live))	Yussef Dayes	The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)		8Nd2Zx4Ddjc		
-325	In the Mood 2	The Glenn Miller Orchestra	The Glenn Miller Orchestra - The Essential Hits		7GytP9WjzVA		
-906	Blue 7	Sonny Rollins	Count Your Blessings		gQhdeb2Syjg		
-683	Here's That Rainy Day	Paul Desmond	Easy Living		1V88bYnezyE		
-926	Tricotism	Oscar Peterson Trio	At the London House: Complete Master Takes (Chicago, July 27 - August 6, 1961)		c7fnkXiIBzA		
-371	All the Joy	Moonchild	Please Rewind		W5uDPQSGs9s		
-539	Yesterdays	Milt Jackson & The MJQ	Milt Jackson, The MJQ & Sonny Stitt		wN-fGVjR_wY		
-521	In Your Own Sweet Way	Miles Davis, John Coltrane, Red Garland, Paul Chambers, and Philly Joe Jones	Four! The Complete Miles Davis Quintet 1955-1956 Recordings, Vol. 2 (Hd Remastered Edition)		fTwyGcvMeXk		
-103	Rollin' and Blowin'	Miles Davis	Bye Bye Blackbird		RNm-QLPJmqw		
-452	Fran-Dance	Miles Davis	Ascenseur pour l'echafaud		qmqR5KTLGtg		
-497	Bye, Bye Blackbird (Part 1)	Miles Davis	30 Selected Songs, Miles Davis		Y0WyKPmUVnw		
-903	There Will Never Be Another You	"Lee Morgan, Curtis Fuller, Hank Mobley, Billy Root, Ray Bryant, Tommy Bryant, and ""Specs"" Wright"	Monday Nights At Birdland		_zNAMuKL1jI		
-709	Zambia	Gabriel Latchin Trio	The Moon and I		bs-IWFyIdjs		
-566	Blue Ecstacy	Erroll Garner	I Was Coming Home To You		wZichDKnwB0		
-289	Take The Coltrane	Duke Ellington & John Coltrane	Duke Ellington & John Coltrane		m6HltqebkT8		
-912	Groovin' High	Dizzy Gillespie & Charlie Parker	Dizzy Gillespie & Charlie Parker Vol. 4 (1947-50)		TCQ6RIqZ4y0		
-916	All the Things You Are	Charlie Parker Quintet	Originators of Modern Jazz		fnNRPHj8bAE		
-915	A Night In Tunisia	Charlie Parker & Dizzy Gillespie	The Legendary Town Hall Concert New York 1945		gcaG1IycrJ4		
-917	Anthropology	Charlie Parker & Dizzy Gillespie	Bird & Diz		87F7Os81tV8		
-918	Ornithology	Charlie Parker	Smooth Jazz Sounds Volume 5		9cRFRcDMRNY		
-600	Some Other Spring	Art Tatum, Benny Carter, Loule Bellson, Roy Eldrige, Buddy De Franco, and Ben Webster	The Complete Pablo Group Masterpieces (Hd Remastered Edition, Doxy Collection)		YC_GlhI7Ayk		
