@@ -1,5 +1,6 @@
 import os
 import time
+import json
 import datetime
 import unicodedata
 import random
@@ -7,6 +8,7 @@ import pandas as pd
 from collections import defaultdict
 from ytmusicapi import YTMusic
 
+from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
@@ -35,6 +37,7 @@ PLAYLIST_CLEAN_SKIP_KINDS = ('SKIP', 'ALBUM', 'YT_GENERATED')
 
 # Files
 HEADER_FILE = 'oauth.json'
+CLIENT_FILE = 'client_auth.json'
 PLAYLIST_TSV_DIR = './playlists/'
 
 # Track DB Files
@@ -88,7 +91,7 @@ DATE = time.strftime('%m-%d-%Y')
 
 class YTMusicPlaylists:
 
-    def __init__(self, header=HEADER_FILE,
+    def __init__(self, header=HEADER_FILE, client=CLIENT_FILE,
                  playlist_tsv_dir=PLAYLIST_TSV_DIR,
                  lastfm_playcount_file=LASTFM_PLAYCOUNT_FILE,
                  track_db_file=TRACK_DB_FILE,
@@ -127,7 +130,7 @@ class YTMusicPlaylists:
         self.playlist_limit = playlist_limit
         self.radio_like_map_file = jn(playlist_tsv_dir, radio_to_like_map_file)
         self._info_cache = {}
-        self.yt = self.init_ytmusic_api(header)
+        self.yt = self.init_ytmusic_api(header, client)
         # Load small files right away
         self._like_playlist_titles = pd.read_csv(self.like_playlist_file, sep='\t')[
             'title'].str.lower().tolist()
@@ -142,9 +145,15 @@ class YTMusicPlaylists:
             self.yt.get_library_playlists(limit=playlist_limit))
         self.playlist_titles = frozenset(self.playlists['title'])
 
-    def init_ytmusic_api(self, header):
+    def init_ytmusic_api(self, header, client):
+        # To renew see: get_oauth.bat
+        # https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html
+        # https://console.cloud.google.com/apis/credentials?project=graceful-alpha-154201
         print(f'Using header file: {header}')
-        return YTMusic(header)
+        print(f'Parsing client auth file: {client}')
+        oauth_creds = self._get_client_credentials_from_json(client)
+        # print(f"Credentials: {oauth_creds.__dict__}") ###########
+        return YTMusic(header, oauth_credentials=oauth_creds)
 
     def test_ytmusic_api(self, verbose=True):
         t0 = time.time()
@@ -158,6 +167,13 @@ class YTMusicPlaylists:
             print(f'Test Passed in {(time.time() - t0):0.2f} seconds')
             import ytmusicapi as ytmusicapi
             print(f'Using ytmusicapi version: {ytmusicapi.__version__}')
+
+    def _get_client_credentials_from_json(self, file_path: str) -> OAuthCredentials:
+        """
+        Parses a JSON file and creates a GoogleCredentials object from the 'installed' section."""
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+        return OAuthCredentials(client_id=data["installed"]["client_id"], client_secret=data["installed"]["client_secret"])
 
     # Playlist related Functions
     def query_by_title(self, title):
