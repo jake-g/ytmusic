@@ -1,6 +1,29 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 7	Brain Stew	Green Day	Insomniac	LIKE	IPeJ7iM55hc	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 31	Bab's Uvula Who?	Green Day	Insomniac	LIKE	XfaEa9WLHOc	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
+165	Geek Stink Breath	Green Day	Insomniac	LIKE	yu2111Wfpss	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
+220	Reflection	Vinez	Afterthought	INDIFFERENT	QsGM-m8b740	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+222	Dwelling	Vinez	Afterthought	INDIFFERENT	XG5ID9h2KPY	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+224	Cave of Ice	Vinez	Afterthought	INDIFFERENT	RMf6_-7a_po	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+225	Maze	Vinez	Afterthought	INDIFFERENT	Y7b1tLrEdg8	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+227	Waiting To Die	Vinez	Afterthought	INDIFFERENT	Y7BG_k60-Ls	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+229	Shadows	Vinez	Afterthought	INDIFFERENT	ySdCAglK9Ik	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+230	Stay Here	Vinez	Afterthought	INDIFFERENT	w6Ji1ZmpzwM	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+232	Reset	Vinez	Afterthought	INDIFFERENT	Z-StoB3WQxw	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+233	Skatomic	Vinez	Afterthought	INDIFFERENT	g-Eij2BsQ_k	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+234	Inconvenience	Vinez	Afterthought	INDIFFERENT	E4bKxx75YbU	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+235	Candy	Vinez	Afterthought	INDIFFERENT	qAKTxDxitZg	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+236	Malleable	Vinez	Afterthought	INDIFFERENT	MEdAvfViqTs	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+237	Madness	Vinez	Afterthought	INDIFFERENT	7SuzpwCP6Ik	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+238	Clone	Vinez	Afterthought	INDIFFERENT	MJwSGE6f_6Q	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+240	Liberating	Vinez	Afterthought	INDIFFERENT	xHSaCbyXP64	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+241	Insanity	Vinez	Afterthought	INDIFFERENT	5zKBzAZKNwk	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+242	Awaken	Vinez	Afterthought	INDIFFERENT	Mc3KDxcYDbg	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+244	Smoke	Vinez	Afterthought	INDIFFERENT	c46dD5A1TU8	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+245	Dead End	Vinez	Afterthought	INDIFFERENT	ToQ_wUf9m5g	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+247	Chaotic	Vinez	Afterthought	INDIFFERENT	ReGIqp7uGrk	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+248	Radiation	Vinez	Afterthought	INDIFFERENT	RBwipmyq3Gs	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
+250	Entombed	Vinez	Afterthought	INDIFFERENT	WbiiacSt4RY	MPREb_w9IfVYgoEeM	UCgLfeH-I_SMe_gV79VwKiqQ
 11	El Diablo	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	41nyxH3-0_8	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
 15	In This Together	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	nEHu2lMVNRM	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
 25	Headlights On A Hand Grenade	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	9-Yw25liaXk	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
@@ -8,6 +31,21 @@
 88	Say It If You Mean It	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	u7YYCZHFYd8	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
 94	20 Going On...	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	xnWErXFnrHw	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
 95	Take The Reigns	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	tcWqFaPIWNk	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
+102	Russian Roulette	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	IlVGD_NC8GE	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
+110	Swimming Through Molasses	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	Xjwls_GkPoY	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
+123	Top 40 Hit	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	HhZWbpm5omQ	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
+171	Roundabout	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	M-vJngaHtGU	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
+174	The Simple Truth	Tsunami Bomb	The Ultimate Escape	INDIFFERENT	sDT5DHP44lU	MPREb_lvva5F3LDDP	UCFKsLkNrK8VhiNGoKtIKIDw
+219	You're Black and Blue	The Exploding Hearts	Guitar Romantic	INDIFFERENT	RO63UlITAx0	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+221	I'm a Pretender	The Exploding Hearts	Guitar Romantic	INDIFFERENT	xmpqx4KUloQ	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+223	Rumours In Town	The Exploding Hearts	Guitar Romantic	INDIFFERENT	dJrCncOrGZY	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+226	Sleeping Aides and Razor Blades	The Exploding Hearts	Guitar Romantic	INDIFFERENT	L4fC-tyta5E	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+228	Still Crazy	The Exploding Hearts	Guitar Romantic	INDIFFERENT	af4llr47-yM	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+231	Boulevard Trash	The Exploding Hearts	Guitar Romantic	INDIFFERENT	Sk4sxnwybFI	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+239	Throwaway Style	The Exploding Hearts	Guitar Romantic	INDIFFERENT	wxr1TEyz80I	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+243	Modern Kicks	The Exploding Hearts	Guitar Romantic	INDIFFERENT	4nVEAlkStpM	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+246	Thorns In Roses	The Exploding Hearts	Guitar Romantic	INDIFFERENT	S3hqcAvc9XI	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
+249	Jailbird	The Exploding Hearts	Guitar Romantic	INDIFFERENT	m0Gw8_8iS6o	MPREb_FyDFtF6VFTc	UC6Wq6ogWr6iXBeQrmj-ZeLQ
 24	Maverick	Teenage Bottlerocket	Freak Out!	INDIFFERENT	w2iDftdjcIc	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
 27	Punk House of Horror	Teenage Bottlerocket	Freak Out!	INDIFFERENT	9YAI3GfhaYg	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
 29	Never Gonna Tell You	Teenage Bottlerocket	Freak Out!	INDIFFERENT	lRdN1mKDrK4	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
@@ -16,8 +54,20 @@
 53	Who Killed Sensei?	Teenage Bottlerocket	Freak Out!	INDIFFERENT	P6EKBxEVUlk	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
 54	Done with Love	Teenage Bottlerocket	Freak Out!	INDIFFERENT	GA0JYg_C_mU	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
 58	In the Pit	Teenage Bottlerocket	Freak Out!	INDIFFERENT	-pA397wbnk4	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
+100	Summertime	Teenage Bottlerocket	Freak Out!	INDIFFERENT	qsb592QYJ20	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
+120	Necrocomicon	Teenage Bottlerocket	Freak Out!	INDIFFERENT	L3MBn0hCNH8	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
+131	Freak Out!	Teenage Bottlerocket	Freak Out!	INDIFFERENT	R6IQbhl-ow8	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
+146	Cruising for Chicks	Teenage Bottlerocket	Freak Out!	INDIFFERENT	aE72Agbq2NI	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
+185	Radical	Teenage Bottlerocket	Freak Out!	INDIFFERENT	nCd8FFz6yzg	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
+186	Headbanger	Teenage Bottlerocket	Freak Out!	INDIFFERENT	37nP4XeyiR4	MPREb_bSYR0Q6GnPW	UC8qzZkVM_LS6ngSN7uBZM6A
 18	Community Lie	Saccharine Trust	Paganicons	INDIFFERENT	Vo_fHeeFoEI	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
 49	A Human Certainty	Saccharine Trust	Paganicons	INDIFFERENT	VK5z8qH-3OM	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
+115	Mad at the Co.	Saccharine Trust	Paganicons	INDIFFERENT	sAswFO-9rz4	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
+124	Effort to Waste	Saccharine Trust	Paganicons	INDIFFERENT	4T1ES-oLI4c	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
+125	We Don't Need Freedom	Saccharine Trust	Paganicons	INDIFFERENT	NODB2pvU3Vo	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
+128	I Am Right	Saccharine Trust	Paganicons	INDIFFERENT	wrLft4nhReo	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
+150	I Have...	Saccharine Trust	Paganicons	INDIFFERENT	tRAubF80W_s	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
+178	Success and Failure	Saccharine Trust	Paganicons	INDIFFERENT	nvR_RHlmKEs	MPREb_oxhLmSa16R0	UCUdYufSVYs1QCbUsNQkESAA
 2	Big Brother	Reset	No Worries No Limits	INDIFFERENT	rQoDcluL7Ag	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
 22	Friend	Reset	No Worries No Limits	INDIFFERENT	vuUIF33zLbk	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
 28	I'm A Man	Reset	No Worries No Limits	INDIFFERENT	dwHLYmjro00	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
@@ -29,12 +79,31 @@
 66	Stolen Land	Reset	No Worries No Limits	INDIFFERENT	qRJlEJQJT-M	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
 68	The End	Reset	No Worries No Limits	INDIFFERENT	Kza8VcbY314	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
 73	Right Or Wrong	Reset	No Worries No Limits	INDIFFERENT	x9XNZrR95Bw	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+101	I Know	Reset	No Worries No Limits	INDIFFERENT	GCdTCEnGw9w	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+127	Wide Open	Reset	No Worries No Limits	INDIFFERENT	GPao0ugKgl4	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+129	A Matter of Rights	Reset	No Worries No Limits	INDIFFERENT	WskfyvfpGMY	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+135	United We Stand Tall	Reset	No Worries No Limits	INDIFFERENT	2iiEgL2f6wA	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+139	Pollution	Reset	No Worries No Limits	INDIFFERENT	cFeA3vBxZqA	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+141	Hope	Reset	No Worries No Limits	INDIFFERENT	ZFK2LsmyEwI	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+148	Let Me Go	Reset	No Worries No Limits	INDIFFERENT	b9cqDu-lzZ8	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+151	Why	Reset	No Worries No Limits	INDIFFERENT	dmYzaFVSRek	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+155	Double Cross	Reset	No Worries No Limits	INDIFFERENT	DHvZte8eBGY	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+161	Blew It Off	Reset	No Worries No Limits	INDIFFERENT	IFlHMgL-njQ	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+166	T.K.O.	Reset	No Worries No Limits	INDIFFERENT	7gwin_oBiUM	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+187	Pressure	Reset	No Worries No Limits	INDIFFERENT	B_sRDtaxtTM	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+188	What Now?	Reset	No Worries No Limits	INDIFFERENT	D4iFdXb0pBk	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
+189	My Dream And I	Reset	No Worries No Limits	INDIFFERENT	FBrzOuGPiMs	MPREb_Rx8Y3XJ5sqj	UCC1YrI7Pyxgde7hGMWHfSxw
 3	Binging, Purging	One Eyed Moon	Building A File	INDIFFERENT	IJjarNEMfGM	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
 12	Republican Jesus	One Eyed Moon	Building A File	INDIFFERENT	02KRYjQbZUg	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
 17	Guantanamerica	One Eyed Moon	Building A File	INDIFFERENT	Vv7Gs55hlBc	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
 21	Recoil	One Eyed Moon	Building A File	INDIFFERENT	pkrw3IgcHZI	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
 57	Three Sheets	One Eyed Moon	Building A File	INDIFFERENT	NQu0T-mpLTM	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
 96	Buggin' Out	One Eyed Moon	Building A File	INDIFFERENT	cC2rDf3pqJI	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
+121	Bustin' Loose	One Eyed Moon	Building A File	INDIFFERENT	bh-6qtT-X6c	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
+145	Freak Show	One Eyed Moon	Building A File	INDIFFERENT	c9sz2gFdn58	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
+153	Can't Be Waiting Around	One Eyed Moon	Building A File	INDIFFERENT	KH98X2QZKs8	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
+170	New Left vs. Alt Right	One Eyed Moon	Building A File	INDIFFERENT	Tf-D0Jn71ZA	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
+183	Humble Pie	One Eyed Moon	Building A File	INDIFFERENT	tHbT1tk2sbQ	MPREb_0hqlxIZXqKM	UCr0h5cUm3xUlKJQ5YVJjJSA
 0	Ditch Effort	NOFX	First Ditch Effort	INDIFFERENT	vjW7HXeSPpE	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
 16	It Ain't Lonely at the Bottom	NOFX	First Ditch Effort	INDIFFERENT	yojD8q4_fYc	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
 76	California Drought	NOFX	First Ditch Effort	INDIFFERENT	JxLAhOkABNs	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
@@ -43,6 +112,11 @@
 84	Dead Beat Mom	NOFX	First Ditch Effort	INDIFFERENT	WLsE9GG8py4	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
 85	Six Years on Dope	NOFX	First Ditch Effort	INDIFFERENT	8d3d9feEzgs	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
 92	I'm a Transvest-Lite	NOFX	First Ditch Effort	INDIFFERENT	BC5sDXKf-8s	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
+103	I'm so Sorry Tony	NOFX	First Ditch Effort	INDIFFERENT	_0gLmkLOsaU	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
+111	Sid and Nancy	NOFX	First Ditch Effort	INDIFFERENT	GEm9Q4XE838	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
+126	Happy Father's Day	NOFX	First Ditch Effort	INDIFFERENT	aLJpAwhltAE	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
+140	I Don't Like Me Anymore	NOFX	First Ditch Effort	INDIFFERENT	AFtgmTrxoTY	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
+162	Oxy Moronic	NOFX	First Ditch Effort	INDIFFERENT	IVSait6b4iA	MPREb_26lJ15cFC9l	UC5-MatmZOvX-ORzhTuO0ZiQ
 1	Ich hör dir nicht zu	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	1nkhrXl-j7k	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
 5	Fickensaufenschalkeoi!	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	nO3tlf06flo	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
 10	Dein Testament	Knochenfabrik	Ameisenstaat	INDIFFERENT	Qcado6vVu-w	MPREb_6jAWsyvwOTa	UCaUlVhGjfvjQaDV1MQrNzOA
@@ -57,6 +131,15 @@
 81	Nie im Leben	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	EppqNEsXVl0	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
 89	Der neugierige Nachbar	Knochenfabrik	Ameisenstaat	INDIFFERENT	CKuilkAoNm0	MPREb_6jAWsyvwOTa	UCaUlVhGjfvjQaDV1MQrNzOA
 99	Glücklich	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	DctSyeYd8KM	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
+104	Grüne Haare	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	e7tnuaJvVXc	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
+117	Was ist bloß passiert?	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	6MSj07gq8l0	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
+132	Die the Mick Joggers	Knochenfabrik	Ameisenstaat	INDIFFERENT	PcEE-ioBoYE	MPREb_6jAWsyvwOTa	UCaUlVhGjfvjQaDV1MQrNzOA
+156	Es ist schade	Knochenfabrik	Ameisenstaat	INDIFFERENT	zDv4ezrv1TI	MPREb_6jAWsyvwOTa	UCaUlVhGjfvjQaDV1MQrNzOA
+163	Obdachlos & trotzdem sexy	Knochenfabrik	Ameisenstaat	INDIFFERENT	kLOCOwmFSHA	MPREb_6jAWsyvwOTa	UCaUlVhGjfvjQaDV1MQrNzOA
+173	Im Fadenkreuz	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	Bxp0WSDaUwo	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
+175	Kleingeld	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	A-rfQQExcTQ	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
+180	Bring dich um	Knochenfabrik	Ameisenstaat (2023 kernsaniert)	INDIFFERENT	WJaqWM8fBQY	MPREb_GGX8Ibi54fq	UCaUlVhGjfvjQaDV1MQrNzOA
+184	Ameisenstaat	Knochenfabrik	Ameisenstaat	INDIFFERENT	cvh72AIvdWM	MPREb_6jAWsyvwOTa	UCaUlVhGjfvjQaDV1MQrNzOA
 23	Tight Wad Hill	Green Day	Insomniac	INDIFFERENT	fYEL2D3tg0U	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 44	Westbound Sign	Green Day	Insomniac	INDIFFERENT	f8YYBtLSLM0	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 47	No Pride	Green Day	Insomniac	INDIFFERENT	BiEnyqHLrWk	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
@@ -65,12 +148,35 @@
 65	Stuck with Me	Green Day	Insomniac	INDIFFERENT	U-I_OelUxd0	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 80	Jaded	Green Day	Insomniac	INDIFFERENT	BLZ4ZBYR9Fo	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 97	Walking Contradiction	Green Day	Insomniac	INDIFFERENT	s9qIzC6gxJg	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
+106	Brat	Green Day	Insomniac	INDIFFERENT	4G8dxJpZvdo	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
+136	86	Green Day	Insomniac	INDIFFERENT	VMCK-uumC2w	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
+157	Armatage Shanks	Green Day	Insomniac	INDIFFERENT	YnHtIUY7WZ0	MPREb_lfdL8ppic5h	UC4JNeITH4P7G51C1hJoG6vQ
 4	Shame, Rights & Privilege	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	KTSpHxHbUW8	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
 33	Made to Be Broken	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	XINAq1qtGcs	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
 35	Paean to the Enlightenment	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	Rk-UH-pHS7w	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
 39	Black Bag Confidential	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	wC26FQ1ahMw	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
 64	The Dubious Glow of Excess	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	-9YZslOTKwA	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
 72	Saccharine	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	iatExZ97bL8	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+105	Up the Affiliates	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	gPzcu206k-M	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+118	Dylan	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	vX-ZrYmL5X8	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+119	Bobby Baun	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	CbR3ZsXEp3w	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+144	Boxing Day	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	H4bWZdbzstc	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+147	The Process	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	FCNoz8gvRNE	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+158	Remember Me	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	iUDECXEYv2g	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+172	More Depalma, Less Fellini	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	KsbBpSJKdmc	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+179	"There's No ""I"" In Team"	Good Riddance	Bound by Ties of Blood and Affection	INDIFFERENT	7MSm5fcTzoQ	MPREb_a8VQXnHTaUQ	UCbdkp56m6kCWzXznuDNpZHg
+191	This Is No Life	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	c-q03EywhvU	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+194	Apologize	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	2RXqQpbsJ9o	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+195	About Time	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	XqZE844iYqs	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+198	Headphones On	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	U6pI7EcncpY	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+200	As Long as You Believe	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	ti8_QBlY_Uc	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+203	Predators of Greed	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	RgenI7xXSPs	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+204	Highway to Disaster	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	_cmLXGBTyc4	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+207	Running Out of Time	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	AtxM0vMTn9w	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+208	From Now On	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	ZyGIsG30sz0	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+214	ITY	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	bRvMnc6NijA	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+216	Eternity	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	XEur-57Sqwg	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
+218	Gone Forever	Forgetaboutit	Sometimes It Just Means Forgetaboutit	INDIFFERENT	2eROb8Y8k7A	MPREb_5eIrpKMe4cz	UCDkKs8_Qr8r51MCkP7O2yMQ
 8	Dont Mess with Us	Evil Conduct	Working Class Anthems	INDIFFERENT	Bh_KrY7BCl8	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
 30	Stuck in Berlin	Evil Conduct	Working Class Anthems	INDIFFERENT	Cz2GENFq3HQ	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
 52	Toe the Line	Evil Conduct	Working Class Anthems	INDIFFERENT	8hm0EfeQCkk	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
@@ -78,12 +184,40 @@
 86	Self Respected	Evil Conduct	Working Class Anthems	INDIFFERENT	7oOWf1ijSzE	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
 91	Across the Nation	Evil Conduct	Working Class Anthems	INDIFFERENT	ntBVAbNyKjg	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
 98	One Last Drop	Evil Conduct	Working Class Anthems	INDIFFERENT	Zl3xQn0QBEg	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
+133	Working Class Heroes	Evil Conduct	Working Class Anthems	INDIFFERENT	asHKoQU8z9g	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
+138	Days of Glory	Evil Conduct	Working Class Anthems	INDIFFERENT	k7oq-61-lbk	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
+160	One Last Drink	Evil Conduct	Working Class Anthems	INDIFFERENT	zlBlCisZV98	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
+169	Enjoy Yourself	Evil Conduct	Working Class Anthems	INDIFFERENT	IESJeSr5-zc	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
+190	Writing on the Wall	Evil Conduct	Working Class Anthems	INDIFFERENT	LZVPAfJLIwA	MPREb_bwkXft5h9P1	UCqrA5kKnl-KLIqVoNOFxyPw
+192	Inspiration	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	pxOTuekzV08	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+193	Second Generation Junkies	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	L6t1AUCMc9o	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+196	Sleep, What's That?	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	MpMffZ2Z05Y	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+197	Tomorrow	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	FBFDdCWdUQg	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+199	Easy Answers	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	p2rZugVe0v4	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+201	Sanctuary	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	n_N8pETXr3k	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+202	In My Mind	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	BxpfTga2BgY	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+205	Situation	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	CMUxZKcdjc0	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+206	My Friend	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	I8Su9p6yS7I	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+209	Bricks	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	2it-b6RqvfU	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+210	Rearranged	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	dX70hwh5no0	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+211	The Tour	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	SEm0Z0t7BP0	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+212	MSFMB	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	Vl22gi3m2os	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+213	Butterflies	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	Q9z5orOcwgw	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+215	The Direction of Things to Come....	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	JrkQhblo41g	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
+217	Another Day	Crimpshrine	The Sound of a New World Being Born	INDIFFERENT	wD-RAYRSIHM	MPREb_kyO0EEqX2EG	UC3PudAJIxjobxBrNJMaWMMA
 9	Fucked Reality	Choking Victim	No Gods / No Managers	INDIFFERENT	NfvwtbIuB2E	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
 19	Suicide	Choking Victim	No Gods / No Managers	INDIFFERENT	_mIFUQdqxrY	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
 46	Hate Yer State	Choking Victim	No Gods / No Managers	INDIFFERENT	1Rhr6jNka7M	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
 67	500 Channels	Choking Victim	No Gods / No Managers	INDIFFERENT	hmxdNIyE4qI	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
 69	5 Finger Discount	Choking Victim	No Gods / No Managers	INDIFFERENT	1DfND0ux8lw	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
 79	In My Grave	Choking Victim	No Gods / No Managers	INDIFFERENT	xu6L_ySrpio	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+112	In Hell	Choking Victim	No Gods / No Managers	INDIFFERENT	sfFe5pDT7QI	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+116	War Story	Choking Victim	No Gods / No Managers	INDIFFERENT	V6bkfE3-FnE	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+142	Living The Laws	Choking Victim	No Gods / No Managers	INDIFFERENT	sfPss2DoG0M	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+152	Praise The Sinners	Choking Victim	No Gods / No Managers	INDIFFERENT	ZcWFLnHXeEk	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+167	Crack Rock Steady	Choking Victim	No Gods / No Managers	INDIFFERENT	QQDZm0uW9wA	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+168	Fuck America	Choking Victim	No Gods / No Managers	INDIFFERENT	HIbx8dJ4E5U	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
+182	Money	Choking Victim	No Gods / No Managers	INDIFFERENT	45dXJUBeVcI	MPREb_PY9JHIFMAaK	UC5YKiPQC0bUigzkhwSNC94w
 6	The Island	Bad Religion	True North	INDIFFERENT	cWNckVeC9DE	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
 26	Vanity	Bad Religion	True North	INDIFFERENT	IwEVLMVnv1Q	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
 56	Land of Endless Greed	Bad Religion	True North	INDIFFERENT	8IuLGlqJoXQ	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
@@ -91,6 +225,15 @@
 83	Dept. of False Hope	Bad Religion	True North	INDIFFERENT	iCTbspQrUBc	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
 87	Crisis Time	Bad Religion	True North	INDIFFERENT	ePCMKaDCDg8	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
 93	True North	Bad Religion	True North	INDIFFERENT	KsOh3HIslUo	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+108	Past is Dead	Bad Religion	True North	INDIFFERENT	o_WM8rnko6Q	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+113	Changing Tide	Bad Religion	True North	INDIFFERENT	KM1N_ZdfkdU	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+134	Fuck You	Bad Religion	True North	INDIFFERENT	HCj0C-9ApC4	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+137	My Head is Full of Ghosts	Bad Religion	True North	INDIFFERENT	NMO-egOdUwg	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+149	Hello Cruel World	Bad Religion	True North	INDIFFERENT	xbzQwlaB_ao	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+154	In Their Hearts is Right	Bad Religion	True North	INDIFFERENT	Vnc18aQZQmg	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+176	Nothing To Dismay	Bad Religion	True North	INDIFFERENT	p8vZVM7oJpo	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+177	Dharma and the Bomb	Bad Religion	True North	INDIFFERENT	owMHSIMg7Jg	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
+181	Robin Hood in Reverse	Bad Religion	True North	INDIFFERENT	3r48g0kJfh4	MPREb_eOTrSTpStdt	UCLjT3GCC1Q-p39MWp85KKFA
 14	Newspaper	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	QR4JZUXtb1M	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
 32	Selfish Means	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	c3MX44yZEAA	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
 38	Joyboy	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	N2AFw-TR7M4	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
@@ -99,3 +242,11 @@
 71	Summer Photos	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	Ax5UMsztcCU	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
 75	Admission	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	gFz0W16782o	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
 90	Two-Faced Bastard	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	k7RNw0AMNr0	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+107	Worst Man Won	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	oEJPucVuAdo	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+109	Another Love Song	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	ZiWltbnbWoU	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+114	Elmer's	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	-LtGmdi7TV8	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+122	Drunk & Ugly	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	V6taOeiC-mQ	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+130	State	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	rmn9VqxABVg	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+143	Well Done	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	HAfKvhXFOS0	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+159	FVK “Fearless Vampire Killers”	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	-KfuFnpe-k8	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg
+164	Tomorrow Starts Today	88 Fingers Louie	Back On The Streets (Remixed and Remastered)	INDIFFERENT	inCYhakQkvk	MPREb_1ZaxTQvNWWJ	UCNCEi9j-tnjn6pOxkbIChrg

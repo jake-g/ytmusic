@@ -1,10 +1,19 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 21	Whiskey River	Willie Nelson	Shotgun Willie	LIKE	Yhbe3ueCLPw	MPREb_LLb75mreknT	UCPmpbAuktEPbIVpwGrY_c4g
+139	McAlpine's Fusiliers	Young Dubliners	With All Due Respect: The Irish Sessions	INDIFFERENT	_DtAq00eil8	MPREb_EEe8Kmt2XWt	UCHrn9iJK5tEcg_rTNScjAWw
+231	Bloody Mary Morning	Yonder Mountain String Band	Mountain Tracks, Vol. 3	INDIFFERENT	-SzjQZPDeOE	MPREb_WoMJupGDI7d	UC1lThjQ_2mG3cvUridGy_jw
+195	Lovin' Machine	Wynonie Harris	Greatest Hits	INDIFFERENT	r1elZo-8DFA	MPREb_HWZqW11JD4Z	UCOvqTAdam4RvQyHhJ1d3gnw
+237	Mexico (Live)	Wood & Wire	Live at the Historic Scoot Inn	INDIFFERENT	PQQbBdeCIzE	MPREb_PZEuClVGS68	UCl58lfbTEo2PFAFnnebm7ZQ
+241	Eliza	Wood & Wire	North of Despair	INDIFFERENT	H-KguQzMyfc	MPREb_VHIMVTwuMWo	UCl58lfbTEo2PFAFnnebm7ZQ
 12	Seven Spanish Angels	Willie Nelson and Ray Charles	Country's Greatest Hits	INDIFFERENT	pVY1Im39nD0	MPREb_e5v3eYaAyhg	UCPmpbAuktEPbIVpwGrY_c4g
 18	Bloody Mary Morning	Willie Nelson	Phases And Stages	INDIFFERENT	NbrB4B5FoBQ	MPREb_DnvPSeOnjCC	UCPmpbAuktEPbIVpwGrY_c4g
 32	Milk Cow Blues [Live] (feat. Shelby Lynne)	Willie Nelson	Live From Austin, TX	INDIFFERENT	vokLtFcjb0g	MPREb_pP1iqxh2rQh	UCPmpbAuktEPbIVpwGrY_c4g
 57	It's All Going to Pot	Willie Nelson	Django and Jimmie	INDIFFERENT	S-sBlrClJc0	MPREb_xHWyy9aFtw0	UCPmpbAuktEPbIVpwGrY_c4g
 78	Down Yonder (Live from Austin City Limits)	Willie Nelson	Red Headed Stranger (Live From Austin City Limits, 1976)	INDIFFERENT	8k2phiOXIuU	MPREb_MUBZZjVgzgK	UCPmpbAuktEPbIVpwGrY_c4g
+105	Red Headed Stranger	Willie Nelson	Red Headed Stranger	INDIFFERENT	Rh-V6n6AU0Q	MPREb_jjR1POVMzoc	UCPmpbAuktEPbIVpwGrY_c4g
+119	Pretend I Never Happened	Willie Nelson	Phases And Stages	INDIFFERENT	CiIFN6KorKI	MPREb_DnvPSeOnjCC	UCPmpbAuktEPbIVpwGrY_c4g
+120	Just Breathe	Willie Nelson	Heroes	INDIFFERENT	sFb5Z4Ukzyk	MPREb_yRWjmeL0PFp	UCPmpbAuktEPbIVpwGrY_c4g
+143	On the Road Again	Willie Nelson	Forrest Gump - The Soundtrack	INDIFFERENT	2xCU-KpbyEc	MPREb_cPVUghTSdE1	UCPmpbAuktEPbIVpwGrY_c4g
 11	I Ain't Drunk	Whitey Morgan and the 78's	Whitey Morgan and the 78's	INDIFFERENT	UgI3IQ6G8rQ	MPREb_HvLjpl0WkTO	UC1EIThZPzP4TdIfRReDQHCA
 19	Just Got Paid	Whitey Morgan and the 78's	Just Got Paid	INDIFFERENT	L0W0dAS2T1g	MPREb_l5S8mtoRwzE	UC1EIThZPzP4TdIfRReDQHCA
 31	Where Do Ya Want It?	Whitey Morgan and the 78's	Whitey Morgan and the 78's	INDIFFERENT	sJAb9bvuEko	MPREb_HvLjpl0WkTO	UC1EIThZPzP4TdIfRReDQHCA
@@ -23,52 +32,166 @@
 83	Ain't No God In Mexico	Waylon Jennings	Honky Tonk Heroes	INDIFFERENT	OETmFf_9Zjk	MPREb_65qubIW323u	UCOayq7etITYmC6TlZReZSrw
 88	A Couple More Years	Waylon Jennings	Are You Ready For The Country	INDIFFERENT	IhzTojRG-tE	MPREb_KS4qTQKfKBX	UCOayq7etITYmC6TlZReZSrw
 95	I'm a Ramblin' Man	Waylon Jennings	The Ramblin' Man	INDIFFERENT	_WO1PGuN6bE	MPREb_EDZBp033nb5	UCOayq7etITYmC6TlZReZSrw
+103	Good Hearted Woman	Waylon Jennings	Ultimate Waylon Jennings	INDIFFERENT	DNI74-_cWeE	MPREb_QU2Sqhzbdkv	UCOayq7etITYmC6TlZReZSrw
+106	(Sittin' On) The Dock of the Bay	Waylon Jennings	WWII	INDIFFERENT	6SJgv3neAKc	MPREb_UnTgN3HGzDG	UCOayq7etITYmC6TlZReZSrw
+108	This Time	Waylon Jennings	This Time	INDIFFERENT	bRer5-7tBHU	MPREb_ekn3o6sJFmt	UCOayq7etITYmC6TlZReZSrw
+128	Are You Sure Hank Done It This Way	Waylon Jennings	Dreaming My Dreams	INDIFFERENT	ax3D70GXjzI	MPREb_6Hef6ZrW3FC	UCOayq7etITYmC6TlZReZSrw
+173	You Can Have Her	Waylon Jennings	Lonesome, On'ry & Mean (Expanded Edition)	INDIFFERENT	l8hJvVkDuGo	MPREb_9dPKzhzyLsK	UCOayq7etITYmC6TlZReZSrw
+172	Lawyers, Guns and Money	Warren Zevon	Excitable Boy	INDIFFERENT	F2HH7J-Sx80	MPREb_TNptpDKdduK	UChDuOKD_xJJqrHcwGtfch8g
+163	Keep The Wolves Away	Uncle Lucius	And You Are Me	INDIFFERENT	-bATjVI0gNM	MPREb_8FHbq0W7Ezw	UCzgbSht6J7KCVXg8689CI2g
 7	Creeker	Tyler Childers	Country Squire	INDIFFERENT	RdyJKq8Fxro	MPREb_HkphBbsBwg0	UC0LVj2FAfHF_HyVRlXPU8Qg
 27	Country Squire	Tyler Childers	Country Squire	INDIFFERENT	KYIav77fPsA	MPREb_HkphBbsBwg0	UC0LVj2FAfHF_HyVRlXPU8Qg
 38	Whitehouse Road	Tyler Childers	Whitehouse Road	INDIFFERENT	bJJxVI0_D4w	MPREb_0iOhTMwsTqD	UC0LVj2FAfHF_HyVRlXPU8Qg
+256	Rock Salt and Nails (Live)	Tyler Childers	Live on Red Barn Radio I & II	INDIFFERENT	XJP1zBdjePY	MPREb_6583aWmgEI8	UC0LVj2FAfHF_HyVRlXPU8Qg
+270	Burlesque Desert Window	Trampled By Turtles	Burlesque Desert Window	INDIFFERENT	qXnlTbH3fwk	MPREb_NtKjVZvrxYy	UCTawkKEDqVN4Ef2lye8ohqA
+122	If I Needed You	Townes Van Zandt	Crazy Heart: Original Motion Picture Soundtrack	INDIFFERENT	YbpX1wDOuT8	MPREb_cfbd6wM1nxU	UC0nXgIL3q7dp3-QRNDYkdFg
+223	John Wilkes Booth	Tony Rice	Native American	INDIFFERENT	w1q5J_jHFBY	MPREb_X6f8PvIxKW6	UCEkbN8kSWpXuC1bfVYUDTlg
+134	Faster Horses (The Cowboy And The Poet)	Tom T. Hall	Tom T. Hall - Storyteller, Poet, Philosopher	INDIFFERENT	UD8ytadaNI8	MPREb_4epYIp3pTQw	UCQwYkUUDM-BggDazuXZE5uA
+205	He's Got The Whole World In His Hands	The Tennessee Gospel Society	Gospel Highlights - Glory Halleluia !	INDIFFERENT	YZ0crxOVEEQ	MPREb_RfPkuXvLaTm	UCB-zU-PTa5Of182qCLtZ_kg
+244	Standing In the Need of Prayer	The Tennessee Gospel Society	Gospel Highlights - Amazing Grace !	INDIFFERENT	u72gLOGr_Jk	MPREb_bqj23vjmwuD	UCB-zU-PTa5Of182qCLtZ_kg
+184	Beep Beep	The Playmates	Right Said Fred: A Barrel Of Laughs	INDIFFERENT	9pz52y6N4cE	MPREb_AiBqGaQ9zPt	UCytLGZz9evpY8mJTzZpaJVA
+249	The Baptism Of Jesse Taylor (Live)	The Oak Ridge Boys	A Gospel Journey	INDIFFERENT	SQCHd1bAQ3s	MPREb_VXWKXm7ZApU	UCQBV-J8x1rhe7WQLL_dt57Q
+248	Kentucky Darlin'	The Kody Norris Show	Kentucky Darlin'	INDIFFERENT	HROPUTicL8A	MPREb_zAbpAqruUP3	UCyZXdlCDlIrL2mPzzIvTMcA
+242	Wake Up Susan (Live)	The Johnson Mountain Boys	At The Old Schoolhouse (Live)	INDIFFERENT	YnasjP29j_8	MPREb_L6OP3OXvVhJ	UCoOQngAq4UQN1-FNjb1O7qg
+243	Maury River Blues	The Johnson Mountain Boys	Let the Whole World Talk	INDIFFERENT	d-okdQt_JB8	MPREb_UjeDb6z2gLe	UCoOQngAq4UQN1-FNjb1O7qg
 1	Trouble Man (Live at Nassau Coliseum, Uniondale, NY - March 1990)	The Highwaymen	Live - American Outlaws	INDIFFERENT	VyZrwhG2f48	MPREb_QSGK7cKGmI1	UCuDH2oxmERsYDlEzoj6NJdQ
+102	Highwayman	The Highwaymen	Outlaws Super Hits	INDIFFERENT	6IeIsPbWhGE	MPREb_J68mLbxEsaM	UCuDH2oxmERsYDlEzoj6NJdQ
+216	26 Miles	The Four Preps	Down By the Station	INDIFFERENT	jYzw4sv83NI	MPREb_358Om29tzfO	UC9J0TACPReX2IRCFPgDStZw
 97	Broken Cowboy	The Dead South	Sugar & Joy	INDIFFERENT	bqTZFqScPDs	MPREb_s2Ty0mmNTAK	UCdjP-gQY5u002PhCJroUxfQ
+190	Rock´n´Roll Mr. Oriole	The Cues	Greatest '50s Hits	INDIFFERENT	NOzyAYT3KEw	MPREb_QH0FF64dLM1	UCza6a35qFbTFxzlOJLRK4Kw
+250	Matterhorn (Live)	The Country Gentlemen	Live In Japan	INDIFFERENT	3B73OEyBNLg	MPREb_R6c5GuQR37T	UCW7tFSnu_LPmC-VQACm6Vaw
+233	I'm Gonna Be (500 Miles)	The Cleverlys	Blue	INDIFFERENT	_rn2VHFziFc	MPREb_e8QIDvcyM9M	UCLwnT8SHEsVuFKSp9R-45wQ
+145	The Foggy Dew	The Chieftains	The Long Black Veil	INDIFFERENT	jrrO4I-E8oY	MPREb_EOROe1sKhOD	UCyR9U9Qp4YOJcGVPzDt4ENA
 98	Long Haired Country Boy	The Charlie Daniels Band	A Decade Of Hits	INDIFFERENT	oMKOXZiEhqg	MPREb_curvDW10fpE	UCB369gFsHDu2WVsIqnIsfhw
+214	Rock and Ree-Ah-Zole (The Teen-Age Talk)	The Bobbettes	Mr. Lee: The Best of the Bobbettes	INDIFFERENT	hpLFeINcOoA	MPREb_SHCcKtcWjXD	UCt7QcYN1o3bHwtyQzS21VQw
+254	We Can't Be Darlings Anymore	The Bluegrass Album Band	The Bluegrass Album	INDIFFERENT	oHbnWivFxDI	MPREb_aF9ITsS8De3	UClZzAZUUorvCvLBkbGF-S7g
 3	Call to Arms	Sturgill Simpson	A Sailor's Guide to Earth	INDIFFERENT	VuiR4AtH1fc	MPREb_ywMHY6eaDWm	UCzjqoh1AgMqICw3JKaAj6sw
 15	Sitting Here Without You	Sturgill Simpson	High Top Mountain	INDIFFERENT	Y6yp8dO2PAE	MPREb_k8aXPrh58ch	UCzjqoh1AgMqICw3JKaAj6sw
 30	Long White Line	Sturgill Simpson	Metamodern Sounds in Country Music	INDIFFERENT	qrZ0E0B7vd0	MPREb_KFnFbDbzHAV	UCzjqoh1AgMqICw3JKaAj6sw
+251	Slopes	Strength In Numbers	Telluride Sessions	INDIFFERENT	4BxBwjt7vmY	MPREb_klBZ6SJCAKo	UCXI92CURcNGTfEe3mGvTOLw
 29	Feel Alright	Steve Earle	I Feel Alright	INDIFFERENT	3sKGDyla9kY	MPREb_sfFKbtEWXGv	UCOFb6pfPUawqjZmIim-ykZQ
 55	The Devil's Right Hand	Steve Earle	Copperhead Road	INDIFFERENT	em2apC3u6hc	MPREb_WY9O8ZFnM59	UCOFb6pfPUawqjZmIim-ykZQ
 75	Johnny Come Lately	Steve Earle	Copperhead Road (Deluxe Edition)	INDIFFERENT	ii7nyflWOs0	MPREb_fsWS5msAUNA	UCOFb6pfPUawqjZmIim-ykZQ
 76	Even When I'm Blue	Steve Earle	Copperhead Road (Deluxe Edition)	INDIFFERENT	1ocg1nJwyxc	MPREb_fsWS5msAUNA	UCOFb6pfPUawqjZmIim-ykZQ
 77	Snake Oil	Steve Earle	Copperhead Road (Deluxe Edition)	INDIFFERENT	zryQQZPWL8s	MPREb_fsWS5msAUNA	UCOFb6pfPUawqjZmIim-ykZQ
+133	The Galway Girl	Steve Earle	Transcendental Blues	INDIFFERENT	IeW9F4sGzf0	MPREb_mh4fvIk74qh	UCOFb6pfPUawqjZmIim-ykZQ
+264	Piece of Your Heart	Steve 'n' Seagulls	Another Miracle	INDIFFERENT	SLHzVsIuX0Y	MPREb_ngIuQDSdduS	UCDCtBzkTCvxUbYOzEAQTOgQ
+192	The Three Little Bops	Shorty Rogers	Essential Jazz Masters	INDIFFERENT	qyz69ulDWgo	MPREb_j5oYvdO64kE	UCUNO4YlJ7esqE0HwRqIagdw
+196	Rock House (Alternate / Remastered 2022)	Roy Orbison	The Original Sound (Sun Records 70th / Remastered 2022)	INDIFFERENT	pirfAymI_58	MPREb_GWLUzY2qvTj	UCjMI6Jhz6i608_B2pvYNrfg
+211	(Every Time I Hear) That Mellow Saxophone	Roy Montrell	Mardi Gras Blues	INDIFFERENT	achYlxkFFwc	MPREb_g1C6SpyizIS	UCru4SeF9Oww2Hioh9mVvF6g
 2	Dang Me (Re-Recorded In Stereo)	Roger Miller	Best Of Roger Miller	INDIFFERENT	j387VxG6XJ0	MPREb_r8R0o6SWRcc	UCQ4Kw_B7EbJiW3kptX49__Q
 92	King of the Road (Re-recorded)	Roger Miller	Greatest Hits - Finest Performances	INDIFFERENT	vJZJ2D9oKvc	MPREb_000DI1BP2OG	UCQ4Kw_B7EbJiW3kptX49__Q
 79	If Your Gonna Be Dumb, You Gotta Be Tough	Roger Alan Wade	All Likkered Up	INDIFFERENT	-a7HT9Qe0js	MPREb_1TfIgiM194Q	UCcAsLxnUAmskeMEyjD6z3JA
+266	Turkey In The Straw	Riley Shepard	Homer and Jethro	INDIFFERENT	kCnt4-XTFr0	MPREb_IfwOGnrsO5i	UCCtTO9_J1OUg-leLND4WgQw
 47	Bad Man Highway Patrol	Red Simpson	The Man Behind The Badge	INDIFFERENT	JgGfXjvwSl0	MPREb_iBCqvf7yHM9	UCbnhMYgNPocXdfAAB4Oj4Ag
+258	Clinch Mountain Backstep	Ralph Stanley	Great High Mountain	INDIFFERENT	yAXitngs3pw	MPREb_M8dK2RRzkWd	UCUCg80A4o9AM6t4EcCqjkWw
+268	I've Always Been A Rambler	Ralph Stanley	Short Life Of Trouble	INDIFFERENT	X-eFX6gnmNA	MPREb_d6J7S8vv5BQ	UCUCg80A4o9AM6t4EcCqjkWw
+203	In the Night	Professor Longhair	The Louisiana Sound of Professor Longhair	INDIFFERENT	kFALojOJ2BQ	MPREb_we0a3vH3kYZ	UCJUfrsDf8r6T42--fciMucw
 28	If We Make It Through December	Phoebe Bridgers	So Much Wine	INDIFFERENT	NbKQKP3NWWk	MPREb_iuY5wHDBYKS	UCprIJgC2-qqSHNVztFjRFmw
+180	The Country's in the Very Best of Hands	Peter Palmer	Li'l Abner (Original Broadway Cast Recording)	INDIFFERENT	dq-4f9tjLmM	MPREb_jIlOHVJ82g4	UCWARIRKsZ5ep1JJTGXux_kw
+183	Lonely Boy	Paul Anka	Paul Anka Sings His Big 15	INDIFFERENT	3yn1OvXND-o	MPREb_I6lnop2zURC	UCEuZeapObLSPFWmPIK6kxag
+252	Ruby, Are You Mad At Your Man? (Edit)	Osborne Brothers	Country Bluegrass	INDIFFERENT	DRtNXfwIn3Y	MPREb_MVNfF5JcthZ	UC0KVy83ay3FMSahMbVH98Qw
+150	Rich Men North of Richmond	Oliver Anthony Music	Rich Men North of Richmond	INDIFFERENT	98FoEuBGOIU	MPREb_LoeErj5sPxh	UCUZOTBSIs-DELEx-fzHWK_g
 89	Sweet Amarillo	Old Crow Medicine Show	Remedy	INDIFFERENT	Xy5Q2nAm1QM	MPREb_BhqcWXSp2RX	UCi0-F2GVc-2gMkuRpV6opiw
+228	Randall Collins/Done Gone	Norman Blake	Old Ties	INDIFFERENT	DyCOWzWUkP8	MPREb_MWSps59iFqD	UCjo54A_XdjbDPPq7OkuEDow
+257	Randall Collins	Norman Blake	Back Home In Sulphur Springs	INDIFFERENT	MVB1kQHFqps	MPREb_HUALt6QOJsW	UCjo54A_XdjbDPPq7OkuEDow
+263	Cuckoo's Nest	Nickel Creek	Nickel Creek	INDIFFERENT	TGCk-L-HoUo	MPREb_KbPhXs4nEnW	UCd5GojqjGtXny427UiCTSPA
+146	S.O.B.	Nathaniel Rateliff & The Night Sweats	Nathaniel Rateliff & The Night Sweats	INDIFFERENT	OhEWoKttcEI	MPREb_yb6GGIfdSAF	UCKcwinf8yqtT1eZlqOI2ubA
+234	Dooley's Farm [Live at the Station Inn] (feat. Jerry Douglas)	Molly Tuttle	Crooked Tree (Deluxe Edition)	INDIFFERENT	-qtalGz9ZOo	MPREb_DGqEKlN22LZ	UClesF4c2ZsAN1_sSJ_S7KoA
+255	Nashville Mess Around	Molly Tuttle	Crooked Tree	INDIFFERENT	PI16OAKkyZA	MPREb_OLltd7s5TsN	UClesF4c2ZsAN1_sSJ_S7KoA
 43	Tie My Pecker to My Leg	Mojo Nixon	Whereabouts Unknown	INDIFFERENT	n-rLHYsQHgc	MPREb_1xuQPlKC581	UCxlSCrHWzdmGrtesqPyMA-Q
 37	The Legend Of Bonnie And Clyde	Merle Haggard & The Strangers	Down Every Road 1962-1994	INDIFFERENT	Bfp4jxRuizM	MPREb_4jAdE4KOalZ	UCNSsv8Hq1Jz5Lg18ImaPbnw
 48	Sing Me Back Home	Merle Haggard & The Strangers	Down Every Road 1962-1994	INDIFFERENT	W-ofzciulJU	MPREb_4jAdE4KOalZ	UCNSsv8Hq1Jz5Lg18ImaPbnw
 93	I'm A Lonesome Fugitive	Merle Haggard & The Strangers	I'm A Lonesome Fugitive	INDIFFERENT	CiNiXiNpmgI	MPREb_TlbGhgXxVR7	UCNSsv8Hq1Jz5Lg18ImaPbnw
 94	The Bottle Let Me Down	Merle Haggard & The Strangers	Swinging Doors	INDIFFERENT	SLbOucSlX7M	MPREb_XZyfYue0vYg	UCNSsv8Hq1Jz5Lg18ImaPbnw
+110	I Can't Hold Myself In Line	Merle Haggard & The Strangers	Down Every Road 1962-1994	INDIFFERENT	OxevNhP7Yd0	MPREb_4jAdE4KOalZ	UCNSsv8Hq1Jz5Lg18ImaPbnw
+116	I'll Always Know	Merle Haggard & The Strangers	Mama Tried	INDIFFERENT	NLRGlIqjV98	MPREb_tOQDGIR6oe3	UCNSsv8Hq1Jz5Lg18ImaPbnw
 59	No More Trains To Ride	Merle Haggard	My Love Affair With Trains	INDIFFERENT	tfjEWo3pcrk	MPREb_TaTOad7zEum	UCNSsv8Hq1Jz5Lg18ImaPbnw
 62	I Don't Want To Sober Up Tonight	Merle Haggard	Back To The Barrooms	INDIFFERENT	HsylTRSu0cg	MPREb_4xtKQxW3q1t	UCNSsv8Hq1Jz5Lg18ImaPbnw
+115	I'm Bringin' Home Good News (2005 Remaster)	Merle Haggard	Mama Tried/ Pride In What I Am	INDIFFERENT	MlsXl4QNwAE	MPREb_e7XT4kw31bD	UCNSsv8Hq1Jz5Lg18ImaPbnw
+118	The Day The Rains Came (2005 Remaster)	Merle Haggard	Mama Tried/ Pride In What I Am	INDIFFERENT	K2gfrS-jJBU	MPREb_e7XT4kw31bD	UCNSsv8Hq1Jz5Lg18ImaPbnw
+124	Sing Me Back Home	Merle Haggard	Willie, Merle & Ray: Big Hits Live From The Last Of The Breed Tour	INDIFFERENT	QIA8TWyLpYI	MPREb_7ajdGxWvoR0	UCNSsv8Hq1Jz5Lg18ImaPbnw
+154	Somewhere South of Macon	Marshall Chapman	Me, I'm Feelin' Free	INDIFFERENT	cdlbP_FRooU	MPREb_0hhLdTKejvG	UCLWzTcgKhPBfxqcu5y2Vgjw
+193	Luck Be A Lady (Remastered 2000)	Marlon Brando	Guys & Dolls (Bonus Track Version/Remastered 2000)	INDIFFERENT	jeL2McwWXcw	MPREb_rFiNF3PgJf6	UC80lB844Z-5sPDb-UloZnwA
+262	Two Rounds	Mandolin Manny	EP	INDIFFERENT	3nlYTWjNlQk	MPREb_cvKpcOQDbxS	UCxuNBbgoP1WkhhW3k4VNbdA
+179	Can't Let Go	Lucinda Williams	Car Wheels On A Gravel Road	INDIFFERENT	75mWmB5HDxE	MPREb_EZGHn835pD0	UCGoF7aZZdqGLusNy9zEOkog
+200	Quiet Village	Les Baxter	The Exotic Moods Of Les Baxter	INDIFFERENT	v5UpnOKIRQY	MPREb_CYECHGCkVSX	UCy-y52p-_i9yFHklZC1JkNg
 84	Are You Sure (Hidden Track) (feat. Willie Nelson)	Kacey Musgraves	Pageant Material	INDIFFERENT	TTkSR95ERAk	MPREb_E4uX9lXN6lH	UC87QNTF9qgTwe8KKN1V8NGw
+204	Mercury Blues	K.C. Douglas	Mercury Blues	INDIFFERENT	X_jMfuRQsuI	MPREb_2MZTqVShF6B	UC8P7eHzx0gCtJHy36do-3Vg
+125	Lone Pine Hill	Justin Townes Earle	The Good Life	INDIFFERENT	XA84Y2Dg9NM	MPREb_uf2SaP8j6ca	UCS6tiDljgqYd9Lo9LErw07g
+227	Barlow's Jig	Justin Holmes	Vowel Sounds	INDIFFERENT	Ck8AZA11oYQ	MPREb_fjgRSfFi6YR	UCTChKdfXwLEmYCFZHqfFatA
+100	Freeborn Man	Junior Brown	12 Shades Of Brown	INDIFFERENT	hDQRtvu2sXc	MPREb_HScjIBp0w5r	UCDgTDGCzNVddh3Ih1xDXlXA
+207	Give Me The Simple Life	June Christy	Gone For The Day	INDIFFERENT	Wm0aXvWoU-4	MPREb_3K2hRo26ShL	UCCmKRhGv7E_uE4jtV3R7KLA
 45	Interview	Johnny Paycheck	Live at the Palomino	INDIFFERENT	WiLCX3Ia7mg	MPREb_r0eA5FwxHCI	UCEBg-pKbMZ6FFdq8NciPz-A
 50	I'm the Only Hell (Mama Ever Raised)	Johnny Paycheck	Slide off Your Satin Sheets	INDIFFERENT	PpEEmLjRZ5Y	MPREb_xHqS9cNQ8Be	UCEBg-pKbMZ6FFdq8NciPz-A
+109	Can't Quit Drinking	Johnny Paycheck	Survivor	INDIFFERENT	t7Vua5bPKC0	MPREb_9HjKgUqKT7S	UCEBg-pKbMZ6FFdq8NciPz-A
+117	The Old Violin	Johnny Paycheck	Difference in Me	INDIFFERENT	NrvY6Lkgu_I	MPREb_B1gJNBhrkT5	UCEBg-pKbMZ6FFdq8NciPz-A
+127	Slide off of Your Satin Sheets	Johnny Paycheck	Super Hits	INDIFFERENT	0UI2ir6RwPo	MPREb_pgcUBFz775R	UCEBg-pKbMZ6FFdq8NciPz-A
+174	Barstool Mountain	Johnny Paycheck	The Soul & The Edge: The Best Of Johnny Paycheck	INDIFFERENT	KNGVB3dnKd8	MPREb_x15AFkt83fd	UCEBg-pKbMZ6FFdq8NciPz-A
+187	Misty	Johnny Mathis	Heavenly	INDIFFERENT	Ytb_T7eTAKI	MPREb_hkVs5Ffn8Qh	UCeiIptSgXN8lMHHrEKDy48g
+114	One Piece at a Time	Johnny Cash & Tennessee Three	One Piece At A Time	INDIFFERENT	pmeVwYojB-s	MPREb_xNGp1CLjj8o	
 39	The General Lee	Johnny Cash	The Dukes Of Hazzard	INDIFFERENT	tMzQ_d1XLcY	MPREb_oHkO4fSJ9ZA	UCiGs21G3KeE2tpbbMPzn9Qg
 87	There Ain't No Good Chain Gang	Johnny Cash	The Legend	INDIFFERENT	A2z6i54d7m4	MPREb_V95sLwsxqnn	UCiGs21G3KeE2tpbbMPzn9Qg
+159	Redemption Day	Johnny Cash	American VI:  Ain't No Grave	INDIFFERENT	uU4W8944o_k	MPREb_zMnKxzkXvRH	UCiGs21G3KeE2tpbbMPzn9Qg
+162	I've Been Everywhere	Johnny Cash	American II: Unchained	INDIFFERENT	mNj6spCtUE0	MPREb_D7pKDs0S6q8	UCiGs21G3KeE2tpbbMPzn9Qg
+168	The Man Comes Around	Johnny Cash	American IV: The Man Comes Around	INDIFFERENT	jiMXK9eDrMY	MPREb_sSyNfTFzl8u	UCiGs21G3KeE2tpbbMPzn9Qg
+213	Jackson	Johnny Cash	Carryin' On With Johnny Cash And June Carter	INDIFFERENT	AVzooGQNaO8	MPREb_mbFMGLxWind	UCiGs21G3KeE2tpbbMPzn9Qg
+121	Long Monday	John Prine	Fair and Square	INDIFFERENT	mHiW8BMzZ78	MPREb_k0InIiLEk18	UClIcMOmbAI3puJ0jb37UbHw
+126	Speed of the Sound of Loneliness	John Prine	German Afternoons	INDIFFERENT	2gTCbKwpe54	MPREb_gRR6C8tnPfO	UClIcMOmbAI3puJ0jb37UbHw
+135	Some Humans Ain't Human	John Prine	Fair and Square	INDIFFERENT	OLZHWVZHokY	MPREb_k0InIiLEk18	UClIcMOmbAI3puJ0jb37UbHw
+140	Only Love	John Prine	Aimless Love	INDIFFERENT	Id0uWzSj7tY	MPREb_7D9quAd2H1x	UClIcMOmbAI3puJ0jb37UbHw
+142	Unwed Fathers (Live)	John Prine	In Person & On Stage (Live)	INDIFFERENT	VNuy2OdHLQU	MPREb_8VdncaqW99j	UClIcMOmbAI3puJ0jb37UbHw
+147	Killing the Blues	John Prine	Pink Cadillac	INDIFFERENT	LZOS2MEV4kw	MPREb_q4adX4kZkht	UClIcMOmbAI3puJ0jb37UbHw
+148	That's How Every Empire Falls	John Prine	Fair and Square (EP)	INDIFFERENT	l8GgdL2xBYY	MPREb_yFhfvqAxIFz	UClIcMOmbAI3puJ0jb37UbHw
+152	Saigon	John Prine	Pink Cadillac	INDIFFERENT	4F4m-VTan-4	MPREb_q4adX4kZkht	UClIcMOmbAI3puJ0jb37UbHw
+153	Donald and Lydia	John Prine	John Prine	INDIFFERENT	kceegCl9Ki8	MPREb_mIL8AouLBZl	UClIcMOmbAI3puJ0jb37UbHw
+157	Come Back to Us Barbara Lewis Hare Krishna Beauregard	John Prine	Common Sense	INDIFFERENT	Z_tyLo95lzc	MPREb_WBevJY5YCOs	UClIcMOmbAI3puJ0jb37UbHw
+161	Sabu Visits the Twin Cities Alone	John Prine	Bruised Orange	INDIFFERENT	0MlwTvNESLs	MPREb_7pzF5GkZxzl	UClIcMOmbAI3puJ0jb37UbHw
+164	Crazy As a Loon	John Prine	Fair and Square	INDIFFERENT	MTV5i9W9Doo	MPREb_k0InIiLEk18	UClIcMOmbAI3puJ0jb37UbHw
+167	Same Thing Happened to Me	John Prine	Lost Dogs + Mixed Blessings	INDIFFERENT	jfV3I4_0vwU	MPREb_fUUCrAhMz18	UClIcMOmbAI3puJ0jb37UbHw
+169	You Got Gold	John Prine	The Missing Years	INDIFFERENT	rgiYjSQ3EWU	MPREb_7IKZdzd38JC	UClIcMOmbAI3puJ0jb37UbHw
+170	Ain't Hurtin' Nobody	John Prine	Lost Dogs + Mixed Blessings	INDIFFERENT	rbItvi0ztD8	MPREb_fUUCrAhMz18	UClIcMOmbAI3puJ0jb37UbHw
+175	Fish and Whistle	John Prine	Souvenirs	INDIFFERENT	--4zN0Oe9TQ	MPREb_DOe70Nw249d	UClIcMOmbAI3puJ0jb37UbHw
+178	I Just Want to Dance with You	John Prine	German Afternoons	INDIFFERENT	xEgxbvochTQ	MPREb_gRR6C8tnPfO	UClIcMOmbAI3puJ0jb37UbHw
+245	Granny Wontcha Smoke Some Marijuana	John Hartford	Nobody Knows What You Do	INDIFFERENT	mufbOqlRjmA	MPREb_bVpHqkVxSCH	UChrkgc4pe3yQKLpLsk9DgpA
+246	Skippin' In The Mississippi Dew	John Hartford	Good'le Days: Essential Recordings	INDIFFERENT	bTULZ94Kyok	MPREb_yErOz76uqlx	UChrkgc4pe3yQKLpLsk9DgpA
+259	Way Down the River Road	John Hartford	Gum Tree Canoe	INDIFFERENT	2auG59DeuSI	MPREb_JQgTOBn9kBz	UChrkgc4pe3yQKLpLsk9DgpA
 24	Me And Billy The Kid (Live At Antone's, Austin, TX / January 22 & 23, 1999)	Joe Ely	Live At Antone's	INDIFFERENT	JerDdw5fVtc	MPREb_QUtSdetctKc	UCxrWKGb3NFa_Nz-l1Arormg
+218	Fire of Love	Jody Reynolds	Presenting Jody Reynolds	INDIFFERENT	AEQNRf9vGgY	MPREb_xwM9mom2dVZ	UCwugUasSUl9VVeRDNEkcW5g
+160	The Night They Drove Old Dixie Down	Joan Baez	Blessed Are...	INDIFFERENT	IueqU0JMkdI	MPREb_8WOEqEwygiG	UCS1qmMQEO8KBurXzQCjlbrA
+189	Shrimp Boats	Jo Stafford	Das Ganze Haus Ist Schief	INDIFFERENT	1sRL_OBNl-A	MPREb_B9XfhEJ9JuS	UC_qRN-eOtFlQ50XlwMZQUpw
+210	I Can't Give You Anything but Love, Baby	Jimmy McHugh	American Music (Carousel Of) - The Fabled 24 September 1940 San Francisco Concerts Featuring Cohan, Berlin, Kern, Romberg, Kalmar	INDIFFERENT	vum9U-i_4y0	MPREb_nYhO7gLpGFn	UCUbZsPpsBhPZLtLufeIm38Q
+235	Walkin' Shoes	Jimmy Martin	Tribute To The King Of Bluegrass - Volume 1	INDIFFERENT	xelN4tMbZn8	MPREb_Ml6dnEB9BOH	UCzkPx0pYhAfOk6wjvPnHYJw
+182	Ink A Dink A Do	Jimmy Durante	The Very Best Of Song	INDIFFERENT	jnJdkEIpaWg	MPREb_8hKXjoxQZS6	UCoxl4wKi5jlQdh5Fv_QXAbA
 23	The Promise Land	Jim sowers	The Promise Land	INDIFFERENT	lIY3nHRq_p4	MPREb_1WsxhcYoNXR	UCXBtB6x0geY6IPLyli9U_lg
 85	Would You Walk With Me (To The Lilies)	Jessi Colter	Jessi	INDIFFERENT	QVjdPFYpCkk	MPREb_yPF9ehRzI1z	UCk-K3Q7nqIgpr7FZ8o67n1A
+208	Pretend You Don't See Her	Jerry Vale	17 Most Requested Songs	INDIFFERENT	nXMd4L3UksE	MPREb_c0LngOOAGrg	UCT2CFZ12aF8P7ARMcoQOJog
 35	The Bandit	Jerry Reed	Smokey And The Bandit (Original Motion Picture Soundtrack)	INDIFFERENT	0Bz1dXQKSqw	MPREb_lAO2RAeEtqY	UC16q7SRg5jbLq7NXD-oZf7g
 81	Amos Moses	Jerry Reed	Georgia Sunshine	INDIFFERENT	PbXFHSa4YmQ	MPREb_ZO1aM3LUt4M	UC16q7SRg5jbLq7NXD-oZf7g
 14	39 and Holding (Live)	Jerry Lee Lewis	Live From Austin, TX	INDIFFERENT	Cu4JU8b7Yyo	MPREb_kHIRZbt6Z1Z	UC3QNfxSmvwqaO_xJHe8IwSw
 20	Sangria Wine	Jerry Jeff Walker	Viva Terlingua	INDIFFERENT	kPnNqBeH1LU	MPREb_nAdPbOdEOE0	UCQBoRr29WiajIo-MhEL28RA
+260	Ride The Wild Turkey	Jerry Douglas	Slide Rule	INDIFFERENT	lEKKnxJ47xE	MPREb_5rawkFZAtZh	UCwdr-4A4uIbw5I4o2Oh2rFQ
 51	Let's Go Burn Ole Nashville Down	Jello Biafra	Prairie Home Invasion	INDIFFERENT	nPXUctvVks8	MPREb_R8sECvGJqWC	UC9VuFiDg7hksEXFFnTfK2Qw
+155	If It Takes a Lifetime	Jason Isbell	Something More Than Free	INDIFFERENT	lmVNswlLDgc	MPREb_W8fFxisy0Cn	UCC382Qu-K5nKUFsbBzbjyMg
+171	Cover Me Up	Jason Isbell	Southeastern	INDIFFERENT	S-s3vuXopS4	MPREb_5rh7nG2Z7bU	UCC382Qu-K5nKUFsbBzbjyMg
 90	Can't Cash My Checks	Jamey Johnson	The Guitar Song	INDIFFERENT	7xuygH2juGM	MPREb_tyhi1XYJWfv	UCoKXsJa7jRleuGMulu6d12w
+138	In Color	Jamey Johnson	That Lonesome Song	INDIFFERENT	qk3CgVIJxcY	MPREb_Dz7HJyIEfvx	UCoKXsJa7jRleuGMulu6d12w
+271	Katie Did Holler	Jackson Grimm	Sober Again	INDIFFERENT	CqFHovgsL58	MPREb_3q0i71eMVYc	UCAF5oe-meJFKa6YQEndRfFw
+230	Sweet Appalachia	Jackson Dean	On The Back Of My Dreams	INDIFFERENT	f5NKopj7hVk	MPREb_DAuXKYgFlhY	UC5OSm0HX6pulTJpbDFFLcWg
+229	Ninety Nine Years (And One Dark Day)	Hot Rize	Hot Rize	INDIFFERENT	vomEVktCRZ8	MPREb_rCqiPdtedT9	UCECsBW1ZaI69z6AIM6pAf0w
+232	You Were on My Mind This Morning	Hot Rize	When I'm Free	INDIFFERENT	HP6BdP95BoQ	MPREb_fc5S55XMnaF	UCECsBW1ZaI69z6AIM6pAf0w
 9	Beaumont	Hayes Carll	Trouble In Mind	INDIFFERENT	lgyb2CaO8g4	MPREb_XdcvyMra4FW	UC7dMJwf1te5QB-4MtW02h1w
+107	Wish I Hadn't Stayed So Long	Hayes Carll	Little Rock	INDIFFERENT	5asqHOAI140	MPREb_kzVfdc71Iqf	UC7dMJwf1te5QB-4MtW02h1w
+156	Sake of the Song	Hayes Carll	Lovers and Leavers	INDIFFERENT	lrCJ1AeUqYc	MPREb_f0ySvIKOM6B	UC7dMJwf1te5QB-4MtW02h1w
+181	Mama Look a Boo Boo (Live)	Harry Belafonte	Belafonte: At Carnegie Hall	INDIFFERENT	6DVsmTl9njk	MPREb_YUqUQ7ivHyt	UCWmcGTCEbVYljjf7XKg8znQ
 5	The Conversation	Hank Williams, Jr.	Whiskey Bent And Hell Bound	INDIFFERENT	K5JCa7otQFY	MPREb_OQ22a9t13BW	UC5xFh3x16B3fdDKApXoFEXQ
 40	Country State Of Mind	Hank Williams, Jr.	Montana Café	INDIFFERENT	X58_SS1PkPU	MPREb_uLnV1ZltY8A	UC5xFh3x16B3fdDKApXoFEXQ
 44	All My Rowdy Friends (Have Settled Down)	Hank Williams, Jr.	The Pressure Is On	INDIFFERENT	6h9rhxnVD4U	MPREb_eVK1EKrNRJD	UC5xFh3x16B3fdDKApXoFEXQ
 49	If Heaven Ain't A Lot Like Dixie	Hank Williams, Jr.	High Notes	INDIFFERENT	GAwlj9wqFnI	MPREb_WDDn9RqOD5K	UC5xFh3x16B3fdDKApXoFEXQ
+129	Family Tradition	Hank Williams, Jr.	Family Tradition	INDIFFERENT	KP1-ItXU-bU	MPREb_WSM4XXcfMku	UC5xFh3x16B3fdDKApXoFEXQ
+131	A Country Boy Can Survive (25th Anniversary Remix)	Hank Williams, Jr.	A Country Boy Can Survive (Box Set)	INDIFFERENT	rKWbe6tMD-Q	MPREb_DDP5ccAq8Te	UC5xFh3x16B3fdDKApXoFEXQ
+176	O.D.'d In Denver	Hank Williams, Jr.	Whiskey Bent And Hell Bound	INDIFFERENT	lch1Qur-0k8	MPREb_OQ22a9t13BW	UC5xFh3x16B3fdDKApXoFEXQ
+130	Stoned At The Jukebox	Hank Williams Jr.	Hank Williams, Jr. & Friends	INDIFFERENT	Hrri09Vo44o	MPREb_usjfwRQEJmm	UC5xFh3x16B3fdDKApXoFEXQ
 13	Straight To Hell / Satan Is Real (Medley)	Hank Williams III	Straight To Hell	INDIFFERENT	kQP8DTmuIhE	MPREb_prLhT5oM6NJ	UC0YPAb4zDpZRTH2cNja1RbA
 42	Candidate For Suicide	Hank Williams III	Damn Right, Rebel Proud	INDIFFERENT	P_thAqTNG7A	MPREb_6DoIhlelHE5	UC0YPAb4zDpZRTH2cNja1RbA
 58	Low Down	Hank Williams III	Straight To Hell (Clean Version)	INDIFFERENT	wM0Q__hBauk	MPREb_IdKMFP7yikk	UC0YPAb4zDpZRTH2cNja1RbA
@@ -85,17 +208,58 @@
 73	D Ray White	Hank Williams III	Straight To Hell (Clean Version)	INDIFFERENT	HoHcuVIYYus	MPREb_IdKMFP7yikk	UC0YPAb4zDpZRTH2cNja1RbA
 74	Not Everybody Likes Us	Hank Williams III	Straight To Hell	INDIFFERENT	2TkCllFYY3E	MPREb_prLhT5oM6NJ	UC0YPAb4zDpZRTH2cNja1RbA
 80	Trashville	Hank Williams III	Lovesick, Broke, & Driftin'	INDIFFERENT	E9RNyB145tg	MPREb_uc4vY9xox0J	UC0YPAb4zDpZRTH2cNja1RbA
+104	Gettin' Drunk and Fallin' Down	Hank Williams III	Rebel Within	INDIFFERENT	c2mv2zxFEOo	MPREb_12cOAGyjqve	UC0YPAb4zDpZRTH2cNja1RbA
+201	Rockin' In The Congo	Hank Thompson	Most Of All	INDIFFERENT	K-2UI17ZAO8	MPREb_qQ01xZCt1jx	UCAg6pljqOhbpYx72BzrhVAw
 16	Gutter Town	Hank 3	Ghost to a Ghost/Gutter Town	INDIFFERENT	1tLT4lVrN2Q	MPREb_evjAXInm5Xg	UC0YPAb4zDpZRTH2cNja1RbA
 34	Desperados Waiting For A Train	Guy Clark	The Essential Guy Clark	INDIFFERENT	0bIeJUxl_RE	MPREb_tdTRwTdOCw4	UCj173OYs0WDR57-N0CYRPpQ
+123	Black Diamond Strings	Guy Clark	Dublin Blues	INDIFFERENT	ulYGH8d_u4Q	MPREb_mprgYAN2kaK	UCj173OYs0WDR57-N0CYRPpQ
+212	"Oh, What A Beautiful Mornin' (From ""Oklahoma!"" Soundtrack)"	Gordon MacRae	Oklahoma! (Expanded Edition/Original Motion Picture Soundtrack)	INDIFFERENT	ew40GYVWopY	MPREb_Qu4ayRiIljq	UCj-eVUM6WnfOVmc6LAnIpOg
+177	Look at Miss Ohio	Gillian Welch	Soul Journey	INDIFFERENT	CahrAmlb3Ww	MPREb_POqbKAYlaKP	UCNjtIV6r0npGavRLS2u77UA
 17	I'm Ragged But I'm Right	George Jones	You've Still Got a Place In My Heart	INDIFFERENT	fI-tMiBn3c0	MPREb_xhzdcL4t6Jt	UCE3td1b0TOoo4UwYomwZWow
 54	The King Is Gone (So Are You)	George Jones	George Jones - 16 Biggest Hits	INDIFFERENT	XUNvct5e-RA	MPREb_xP7f9r3jnfO	UCE3td1b0TOoo4UwYomwZWow
+141	She's Actin' Single (I'm Drinkin' Doubles)	Gary Stewart	Out Of Hand	INDIFFERENT	W0uUovq-mjA	MPREb_VH16VmpVC6S	UC9KVbQ_BwLaurogP_lPK62g
+222	Get in Line Brother	Flatt & Scruggs	The Essential Earl Scruggs	INDIFFERENT	GqZiddIfCqc	MPREb_vjBkAsoEDnB	UCJzZSwFlZa2syUOxCaswbJA
+224	You Can Feel It in Your Soul	Flatt & Scruggs	Foggy Mountain Gospel	INDIFFERENT	Br8zTkTqbXw	MPREb_7zRnuZji045	UCJzZSwFlZa2syUOxCaswbJA
+226	Foggy Mountain Breakdown	Flatt & Scruggs	16 Biggest Hits	INDIFFERENT	L-obJtiv0LE	MPREb_cxy1elGAYRT	UCJzZSwFlZa2syUOxCaswbJA
+221	Don't Ever Let Nobody Drag Your Spirit Down	Eric Bibb	Transatlantic Sessions - Series 5: Volume Two	INDIFFERENT	H6StlYYl198	MPREb_2tDmo6ypjhf	UCOfS_5ttkzVuHO-4nRajdYg
+158	Pancho & Lefty	Emmylou Harris	Luxury Liner (Expanded & Remastered)	INDIFFERENT	exidLnAtOJc	MPREb_EGAJtaJKV0c	UCVq1-9pb-o24ri5P2ZicJlA
+166	Leaving Louisiana in the Broad Daylight (2003 Remaster)	Emmylou Harris	Quarter Moon in a Ten Cent Town (Expanded & Remastered)	INDIFFERENT	K28hQ3o3VcQ	MPREb_DvhyYVGujgo	UCVq1-9pb-o24ri5P2ZicJlA
+149	Amanda	Don Williams	I Believe In You	INDIFFERENT	YJh1D-RY5yM	MPREb_pcECi3qKOgc	UCfQMwZ7rdKDkrQ5_7vaOQxQ
+253	I'm Gonna Sleep With One Eye Open	Dolly Parton	The Grass Is Blue	INDIFFERENT	b8SA9mvB0NM	MPREb_6qWq5mmMJHP	UCXJscayh5BT8m2ZVFQSdeVw
+217	My Rifle, My Pony And Me	Dean Martin	At The Movies	INDIFFERENT	xyg3VUrevbA	MPREb_LuMp6zdmPjs	UCWbQ2D5aaB4tpqIE4TzTAAA
 8	This Bottle (In My Hand)	David Allan Coe	My Very Special Guests (Legacy Edition)	INDIFFERENT	6CDRE-qY6ZI	MPREb_Ap4h4wSCILx	UCdob7sdKV1U0Stvs0uNNzsw
 99	Jack Daniel's, If You Please	David Allan Coe	Human Emotions	INDIFFERENT	WHs8a-zMpgE	MPREb_NRdTvLoDd3x	UCdob7sdKV1U0Stvs0uNNzsw
+101	The Ride	David Allan Coe	David Allan Coe - 16 Biggest Hits	INDIFFERENT	Jy5XiRFCosM	MPREb_JvlJLJujgv8	UCdob7sdKV1U0Stvs0uNNzsw
+198	Anywhere I Wander	Danny Kaye	My Best	INDIFFERENT	Kx0dQaonXeE	MPREb_fqS5Yn0NdTV	UCBZ-KXWyYyI9yD1OfEGmPQg
+238	Whiskey Drinking Man (Live)	Dan Tyminski	Dan Tyminski: Live From The Ryman	INDIFFERENT	hrg7UwAWphE	MPREb_YMvF39RKNPG	UCvZifvtbWF8wRzm_3g8BCFA
 96	Hair Of The Dog	Dale Watson	I Hate These Songs	INDIFFERENT	w3xEVJtIkUM	MPREb_gi8iozLXgUd	UCsy7tJvpOyCtqOm5uHD9o7g
+225	Auld Lang Syne	Country Gentlemen	High Lonesome: Complete Starday Recordings	INDIFFERENT	Ygl_9wk3Bfw	MPREb_AowCyL1qTAU	UCGTrfYPKLR5MJjU3rHNiq8w
 60	Pour 'Em Kinda Strong	Corb Lund	Cabin Fever (Bonus Track Version)	INDIFFERENT	G1fxIDMpLfs	MPREb_Zz7EI2cRAnu	UCnzPASrxSsaibhXNxmomHog
+191	Rocket 69	Connie Allen	Ultimate Rock N' Roll Drinkers & Sinners	INDIFFERENT	BQ_mf932fII	MPREb_ulee9EWeZ4v	UCRlx-1_ubmOJ8P4Kr4jldAw
 0	Sleeping on the Blacktop	Colter Wall	Imaginary Appalachia	INDIFFERENT	r7uiVktlD1U	MPREb_XFQcT4hjfrT	UCDv9wpsEskQ7jVXbTLxkT1Q
 25	The Devil Wears a Suit and Tie	Colter Wall	Imaginary Appalachia	INDIFFERENT	tIN_H58jVu4	MPREb_XFQcT4hjfrT	UCDv9wpsEskQ7jVXbTLxkT1Q
 41	Mamma Song (Unplugged)	Cody Jinks	Adobe Sessions (Unplugged)	INDIFFERENT	shnZqbuVd28	MPREb_71WE11V5EGD	UCp6uXqd-vA1wPstg-6JtZSQ
+112	Somewhere Between I Love You and I'm Leavin'	Cody Jinks	Lifers	INDIFFERENT	pacT4KT7omI	MPREb_u0x6ByZ8kQ9	UCp6uXqd-vA1wPstg-6JtZSQ
+113	Cast No Stones (Unplugged)	Cody Jinks	Adobe Sessions (Unplugged)	INDIFFERENT	kIJkYTtlI6E	MPREb_71WE11V5EGD	UCp6uXqd-vA1wPstg-6JtZSQ
+247	The Place that I Call Home	Circus No. 9	The Place that I Call Home	INDIFFERENT	OWxajeAjSlY	MPREb_R5wxp44XslU	UCu7Qat6C5WKOUXUVxon59cg
+269	Raining At Sunset	Chris Thile	Not All Who Wander Are Lost	INDIFFERENT	HlO1FMb8stY	MPREb_u7iqQACATB9	UC7SUGG7t877GmVVkZbL_uZA
 33	Midnight Train To Memphis	Chris Stapleton	From A Room: Volume 2	INDIFFERENT	t3ojsgfHL7c	MPREb_WgbUv6VfcaC	UCEBTD8bc2J7wG7Fqhss7Jow
+206	Yerbero Moderno	Celia Cruz	Celia Cruz Eterna	INDIFFERENT	5dVkwG7uJuU	MPREb_vSRMNkZgNev	UCuDaqwAmogKMCUVn_z3wDTA
+186	Yipsee-I-O	Carmen Miranda	Nancy Goes to Rio (Film Score 1950)	INDIFFERENT	HI0z_UxbYKo	MPREb_wdYjBKHBkOi	UC-GSnhgjfVEkOCGTGnQxrWg
+236	Feel the Same	Cahaba Roots	Cahaba Roots	INDIFFERENT	MJv-7l-FvFE	MPREb_CZ6KltlF7Qh	UC_jomxlJZ9DkJSDMMtuHBWg
+215	Trombon Criollo	Cachao	"Cuban Jam Sessions In Miniature ""Descargas"""	INDIFFERENT	g2oCMydHgKU	MPREb_U28SjQ7hTvr	UCXIcuwfQvAi257qKRoTfwvw
+209	The Calloway Boogie	Cab Calloway & His Orchestra	Hi De Ho Man	INDIFFERENT	uuWRWOqqRhs	MPREb_oxlJedCWaVj	UCEWm42gRfEzTK6hZAtJujGQ
+267	See the World	Caamp	Caamp	INDIFFERENT	fBsaK0l5Kbo	MPREb_XfBBGUxI9Tg	UCY2luOfzHLOgWiMp2DNXFKw
+239	Strider (feat. Sierra Hull & Molly Tuttle)	Béla Fleck	My Bluegrass Heart	INDIFFERENT	8V5t4YA-Tz4	MPREb_wqzwvXxj2Hy	UCMGaDk8IP3a8q0Gq1tBXjDg
+194	The Eddystone Light	Burl Ives	I Know an Old Lady - Songs and Ballads Sung by Burl Ives	INDIFFERENT	jqKfv1jqhj8	MPREb_50izlfp5lte	UCl2j2shAiHLlGu0JSm-4dCQ
+151	For What It's Worth	Buffalo Springfield	Buffalo Springfield	INDIFFERENT	kL3KuEQaQVw	MPREb_YgTQY7VMN83	UCH-BBvNWh1CONPAjpeocGcw
+188	Mack the Knife	Bobby Darin	3D Rock n Roll, vol. 5	INDIFFERENT	-Tdi6echwzE	MPREb_E8NzDDJKJzx	UCj_otreRPRMynq2_gZj9s3w
+165	Forever Young (Slow Version)	Bob Dylan	Planet Waves	INDIFFERENT	dLU4jlR18UQ	MPREb_RMuyFi925tW	UCBqkojCXby4zGkWX86FEY7Q
+197	Dancing Girl	Bo Diddley	I'm a Man	INDIFFERENT	JqWz9dvdeP4	MPREb_0AyoiOgInvA	UCTXP0wPPSDAaOS6mXeM4tgg
 86	One Horse Town	Blackberry Smoke	The Whippoorwill	INDIFFERENT	SM6NfXiY9zc	MPREb_Jdfe81XaqIQ	UC4u2lVI1dy9TLT-CHui3mOw
 36	Georgia On A Fast Train	Billy Joe Shaver	Tramp On Your Street	INDIFFERENT	kgzJTrcJUKQ	MPREb_EH0u5Bwu23A	UC4AJr6PBz8s-VTGd-3UTdLA
+240	Christmas Time's A-Comin'	Bill Monroe	Christmas Fun Songs About Reindeers, Santa & More Ho! Ho! Ho!	INDIFFERENT	XnK4LcCUB1s	MPREb_CyXWcnfUBQd	UCSQfKMMyCi-2auTyOYn-IdQ
+261	Cryin' Holy Unto The Lord	Bill Monroe	Cryin' Holy Unto The Lord	INDIFFERENT	tehRAMCFXm8	MPREb_IXwIBSPHtrm	UCSQfKMMyCi-2auTyOYn-IdQ
+199	Boogie Woogie Country Girl	Big Joe Turner & accompanied by Piano Man' Walls Orchestra	The Boss Of The Blues	INDIFFERENT	FQsQ01cffLM	MPREb_twqrq9AKE0D	
+202	The Most Happy Fella: Joey, Joey, Joey	Art Lund	The Most Happy Fella	INDIFFERENT	8eVvUSmSGs4	MPREb_1PJKP9eITZO	UCABnAY9ocWYjhJcENmsIf0w
+111	Country Boy	Alan Jackson	Good Time	INDIFFERENT	NsAESKASF74	MPREb_rOqOEAddm6u	UC9KL_2sn3_nuCB0l0w8jV5A
