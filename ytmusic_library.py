@@ -468,7 +468,7 @@ class YTMusicPlaylists:
         else:
             vids = frozenset(df.videoId.unique()) - self.banned_vid_set
         desc = f'Matched local tsv playlist: {pl_name}'
-        self.playlist_from_yt_vids(vids, pl_name, sleep, public, desc, dry)
+        self.playlist_from_yt_vids(list(vids), pl_name, sleep, public, desc, dry)
 
     def parse_tracks(self, track_list):
         tracks = pd.DataFrame(track_list)
