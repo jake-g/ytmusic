@@ -8,7 +8,7 @@
 127	Ruby, My Dear	Thelonious Monk	Thelonious Alone In San Francisco	LIKE	OPRU3XSyqeo	MPREb_0IrqcLz4kKW	UCyCL_gVNVoWZTjkw-KnuIDg
 128	Pannonica	Thelonious Monk	Thelonious Alone In San Francisco	LIKE	kWEfQo6hECY	MPREb_0IrqcLz4kKW	UCyCL_gVNVoWZTjkw-KnuIDg
 120	Django	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	LIKE	wXnkD7_5vqM	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
-121	ワン・ベース・ヒット - One Bass Hit	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	LIKE	zPNTcE9j-Go	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
+121	One Bass Hit	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	LIKE	zPNTcE9j-Go	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
 122	Milano	The Modern Jazz Quartet	Django (Rudy Van Gelder Remaster)	LIKE	XwxwGROwbI8	MPREb_m0c353GbSEs	UCQjf61NuHvxHrm4gkdx0ZaQ
 113	Southern Scene (Live)	The Dave Brubeck Quartet	At Carnegie Hall	LIKE	cVrVVvO9AH0	MPREb_oqvNo5GeVi7	UCMBevFAp40kVlvIcOvzv5Bw
 114	Three To Get Ready (Live)	The Dave Brubeck Quartet	At Carnegie Hall	LIKE	k4GgnzbgmMI	MPREb_oqvNo5GeVi7	UCMBevFAp40kVlvIcOvzv5Bw
@@ -47,7 +47,7 @@
 88	Lonesome Town (2001 Remastered / Alternate Version)	Ricky Nelson	Ricky Sings Again (Expanded Edition / Remastered)	LIKE	4JmXeqTawnQ	MPREb_7vLhCHJkMKm	UCTMqfqcEMQalFFcuzoQe6Ew
 89	Gloomy Sunday	Ricky Nelson	Ricky Sings Again (Expanded Edition / Remastered)	LIKE	J9S958Y2K_w	MPREb_7vLhCHJkMKm	UCTMqfqcEMQalFFcuzoQe6Ew
 82	Please Send Me Someone To Love (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	jrCHw9J6__0	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
-83	ザ・ヴェリー・ソート・オブ・ユー - The Very Thought Of You (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	-aaUB8Rx2KA	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
+83	The Very Thought Of You (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	-aaUB8Rx2KA	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
 84	If I Were A Bell (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	h_4r-i_yzQ0	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
 85	I Can't Give You Anything But Love (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	CLlY2eENQg8	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
 73	Let the Good Times Roll	Ray Charles	The Genius Of Ray Charles	LIKE	v_tcBVXnCU4	MPREb_VdbXJv2WEpG	UClapQBGYNOoLYmCct6e3B5Q
@@ -108,6 +108,7 @@
 21	Cry Me A River	Julie London	Julie Is Her Name	LIKE	gCGNYJOrebA	MPREb_DwbmVawtpDT	UC8VFWn9s0SJck0NE_iKkuWw
 22	I'm In The Mood For Love	Julie London	Julie Is Her Name	LIKE	-Oulb9k6lmw	MPREb_DwbmVawtpDT	UC8VFWn9s0SJck0NE_iKkuWw
 23	I'm Glad There Is You	Julie London	Julie Is Her Name	LIKE	qcwHFY_6PyE	MPREb_DwbmVawtpDT	UC8VFWn9s0SJck0NE_iKkuWw
+10	Boom Boom (Mono)	John Lee Hooker	Boom Boom (Mono And Stereo Mixes)	LIKE	0M9oeFJrnns	MPREb_u8MyQuc4uV3	UCcWk0Z6iOwjUeycdoh7mIMQ
 2	Blue Train	John Coltrane	Blue Train	LIKE	-81BzBWGXZM	MPREb_kygeooTK4kG	UCH4T2kv7rr9qnuP0DOXLxMA
 3	Moment's Notice	John Coltrane	Blue Train	LIKE	iosNQMGMVwY	MPREb_kygeooTK4kG	UCH4T2kv7rr9qnuP0DOXLxMA
 4	Locomotion	John Coltrane	Blue Train	LIKE	hkxI2jKlSvM	MPREb_kygeooTK4kG	UCH4T2kv7rr9qnuP0DOXLxMA
@@ -293,6 +294,8 @@
 159	Solitude	Billie Holiday	Solitude	LIKE	cUuD8BUmvvU	MPREb_6DQQ6HQSDc5	UCW-raws5Iq2xLADkLcEoVaA
 160	Moonglow	Billie Holiday	Solitude	LIKE	t4erQj1io0g	MPREb_6DQQ6HQSDc5	UCW-raws5Iq2xLADkLcEoVaA
 161	Tenderly	Billie Holiday	Solitude	LIKE	eZ7ndbhKo00	MPREb_6DQQ6HQSDc5	UCW-raws5Iq2xLADkLcEoVaA
+163	For Heaven's Sake	Billie Holiday	Lady In Satin	LIKE	SJri4TCugqo	MPREb_ah5uV3xNt3V	UCW-raws5Iq2xLADkLcEoVaA
+165	Violets for Your Furs	Billie Holiday	Lady In Satin	LIKE	2acrF6PLHRc	MPREb_ah5uV3xNt3V	UCW-raws5Iq2xLADkLcEoVaA
 152	(We're Gonna) Rock Around The Clock	Bill Haley & His Comets	Rock Around The Clock	LIKE	hzYBEJgKjv0	MPREb_mJD1CWdc2Dp	UCPDGv4ylKUJkLuEi1iJAq5Q
 153	Shake, Rattle And Roll	Bill Haley & His Comets	Rock Around The Clock	LIKE	N9lGMHCgiAM	MPREb_mJD1CWdc2Dp	UCPDGv4ylKUJkLuEi1iJAq5Q
 148	When I Fall In Love	Bill Evans Trio	Portrait In Jazz	LIKE	NHJ5Up2yLng	MPREb_GAsm2u6FQbL	UCriB97bZopXsBHVYOQEIIZg
@@ -311,25 +314,22 @@
 141	Straight Life	Art Pepper	The Return Of Art Pepper	LIKE	fU1UE-D-9ec	MPREb_oQZ8CsQ6rXs	UCQ6s8dxxZYIRCeuFtB3Zdxw
 134	Moanin'	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	fsJ3JjpZyoA	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
 135	Blues March	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	Rld0xn9tBkM	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
-136	カム・レイン・オア・カム・シャイン - Come Rain Or Come Shine	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	1EwY6efZRPo	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
+136	Come Rain Or Come Shine	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	1EwY6efZRPo	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
 137	Moanin' (Alternate Take)	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	rE2OqHv_iHc	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
 44	Hesitating Blues	Louis Armstrong	2 Hours With	INDIFFERENT	-s8hlSoDUtc	MPREb_YDuhygHbSXy	UCCDaSui4C9VFMpeRlKEOHDA
 45	Hesitating Blues (Rehearsal Take)	Louis Armstrong	After You’ve Gone	INDIFFERENT	WsM20EKFU-M	MPREb_qIwCdrrTrSB	UCCDaSui4C9VFMpeRlKEOHDA
 46	St. Louis Blues	Louis Armstrong	Now You Has Jazz	INDIFFERENT	LNJ0oM1wUAU	MPREb_gJEYxi1ObCB	UCCDaSui4C9VFMpeRlKEOHDA
-10	Boom Boom (Mono)	John Lee Hooker	Boom Boom (Mono And Stereo Mixes)	INDIFFERENT	0M9oeFJrnns	MPREb_u8MyQuc4uV3	UCcWk0Z6iOwjUeycdoh7mIMQ
 11	Good Rockin' Mama	John Lee Hooker	The Real Blues	INDIFFERENT	8Oa4z4t3kSU	MPREb_vwP09RaSxDa	UCcWk0Z6iOwjUeycdoh7mIMQ
 12	Let's Make It (Mono)	John Lee Hooker	Burnin' (Expanded)	INDIFFERENT	5uEDTfcZfAs	MPREb_eorlQxCd2ca	UCcWk0Z6iOwjUeycdoh7mIMQ
 13	Keep Your Hands To Yourself	John Lee Hooker	The Early Years (Volume Two)	INDIFFERENT	wOPK0SP7v_I	MPREb_ZSU8vxLbzNz	UCcWk0Z6iOwjUeycdoh7mIMQ
 14	No Shoes	John Lee Hooker	This is Hip – the Best of John Lee Hooker	INDIFFERENT	2xUONPGBHNw	MPREb_oFSTigOjhZJ	UCcWk0Z6iOwjUeycdoh7mIMQ
-15	Bottle Up And Go	John Lee Hooker	On Campus	INDIFFERENT	_FlN5wzpkmI	MPREb_drsr6BanWnp	UCcWk0Z6iOwjUeycdoh7mIMQ
-16	Hard-Headed Woman	John Lee Hooker	The Folk Lore Of John Lee Hooker	INDIFFERENT	Yy5TyHsp23I	MPREb_8WAnzO7Gu0n	UCcWk0Z6iOwjUeycdoh7mIMQ
+15	Bottle Up And Go	John Lee Hooker	The Vee-Jay Sessions	INDIFFERENT	YtmOfFaSfSk	MPREb_BW1u6s9zQFW	UCcWk0Z6iOwjUeycdoh7mIMQ
+16	Hard-Headed Woman	John Lee Hooker	The Vee-Jay Sessions	INDIFFERENT	42JSMqD2VNQ	MPREb_BW1u6s9zQFW	UCcWk0Z6iOwjUeycdoh7mIMQ
 17	You Ain't No Big Thing	John Lee Hooker	Boom Boom	INDIFFERENT	Wek_8GJarfo	MPREb_pxpMGxIYITX	UCcWk0Z6iOwjUeycdoh7mIMQ
 18	Baby Lee	John Lee Hooker	The Real Blues	INDIFFERENT	ASnZbkR4r5Q	MPREb_vwP09RaSxDa	UCcWk0Z6iOwjUeycdoh7mIMQ
 19	Big Legs Tight Skirts	John Lee Hooker	Boom Boom	INDIFFERENT	IlkzEZNr5mo	MPREb_pxpMGxIYITX	UCcWk0Z6iOwjUeycdoh7mIMQ
 20	Time Is Marching	John Lee Hooker	Time Is Marching	INDIFFERENT	9n7r2-VahZk	MPREb_RmLdTZ20FBe	UCcWk0Z6iOwjUeycdoh7mIMQ
 273	Let's Call the Whole Thing Off	Ella Fitzgerald	Original Jazz Sound: 20 Masterpieces	INDIFFERENT	XPc7rWsxkZY	MPREb_yhxtYvkYpOe	UCuMHq8jMRZXpUxSGLBuCa9g
 162	Come Rain or Come Shine	Billie Holiday	Our Favourites	INDIFFERENT	74rxpN386gU	MPREb_i38DOf3v0I5	UCW-raws5Iq2xLADkLcEoVaA
-163	For Heaven's Sake	Billie Holiday	Lady In Satin	INDIFFERENT	SJri4TCugqo	MPREb_ah5uV3xNt3V	UCW-raws5Iq2xLADkLcEoVaA
 164	You Don't Know What Love Is	Billie Holiday	Lady In Satin: The Centennial Edition	INDIFFERENT	S02Vs0RpFwE	MPREb_GUXBrCcSBPm	UCW-raws5Iq2xLADkLcEoVaA
-165	Violets for Your Furs	Billie Holiday	Lady In Satin	INDIFFERENT	2acrF6PLHRc	MPREb_ah5uV3xNt3V	UCW-raws5Iq2xLADkLcEoVaA
 43	I'm Crazy 'Bout My Baby	Louis Armstrong	Louis Armstrong Plays Fats Waller & W.C. Handy		dA0WRdfw65c		

@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 292	WHERE WE ARE	The Lumineers	BRIGHTSIDE	LIKE	HEdPgnKmPRk	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
 294	BIG SHOT	The Lumineers	BRIGHTSIDE	LIKE	FTCV4KyEjvs	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
+234	The River	The Black Angels	Wilderness of Mirrors	LIKE	bm8OGsMfWOg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 67	Silent Chord	Soichi Terada	Asakusa Light	LIKE	W9BbIBEXOqY	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
 70	Diving into Minds	Soichi Terada	Asakusa Light	LIKE	Pq6oblWddm0	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
 71	Marimbau	Soichi Terada	Asakusa Light	LIKE	v52IM-Hmqe0	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
@@ -101,7 +102,6 @@
 231	La Pared (Govt. Wall Blues)	The Black Angels	Wilderness of Mirrors	INDIFFERENT	gl0Gh6wkwJ4	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 232	Firefly	The Black Angels	Wilderness of Mirrors	INDIFFERENT	Qefx1p7TcLg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 233	Make It Known	The Black Angels	Wilderness of Mirrors	INDIFFERENT	W3O7sAWehlA	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
-234	The River	The Black Angels	Wilderness of Mirrors	INDIFFERENT	bm8OGsMfWOg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 235	Wilderness of Mirrors	The Black Angels	Wilderness of Mirrors	INDIFFERENT	OOtqME5DnTE	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 236	Here & Now	The Black Angels	Wilderness of Mirrors	INDIFFERENT	b6yFmWwYPd4	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 237	100 Flowers of Paracusia	The Black Angels	Wilderness of Mirrors	INDIFFERENT	P-ImQQ_7Aik	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
@@ -332,24 +332,24 @@
 806	Restlessly Towards	Park Jiha	The Gleam	INDIFFERENT	9YG1Zvqogx4	MPREb_0z12zBrMFSu	UCm9ZuMgoDyYFhALcBYdKAmw
 807	Nightfall Dancer	Park Jiha	The Gleam	INDIFFERENT	sifD8K14zZA	MPREb_0z12zBrMFSu	UCm9ZuMgoDyYFhALcBYdKAmw
 808	Temporary Inertia	Park Jiha	The Gleam	INDIFFERENT	D2ckvGxnfcY	MPREb_0z12zBrMFSu	UCm9ZuMgoDyYFhALcBYdKAmw
-675	アイドンビリーブマイ母性 - I am not maternal	Otoboke Beaver	Super Champon	INDIFFERENT	y3DX7oMzqXY	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-676	ヤキトリ - YAKITORI	Otoboke Beaver	Super Champon	INDIFFERENT	mdnKP_49TS8	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-677	サラダ取り分けませんことよ - I won't dish out salads	Otoboke Beaver	Super Champon	INDIFFERENT	5krQVJ7av_c	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-678	パードゥン? - PARDON?	Otoboke Beaver	Super Champon	INDIFFERENT	K_2_zWqT0ag	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-679	穴兄弟で鍋パーティー - Nabe party with pocket brothers	Otoboke Beaver	Super Champon	INDIFFERENT	e01Zo_Odefo	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-680	リーブミーアローンやっぱさっきのなしでステイウィズミ - Leave me alone! No, stay with me!	Otoboke Beaver	Super Champon	INDIFFERENT	aDbk3Kjyer0	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-681	携帯みてしまいました - I checked your cellphone	Otoboke Beaver	Super Champon	INDIFFERENT	G8uG3uriccc	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-682	あなたとの恋、歌にしてJASRAC - I put my love to you in a song JASRAC	Otoboke Beaver	Super Champon	INDIFFERENT	7_7c32TaUEU	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-683	呼ばんといて喪女 - Don't call me mojo	Otoboke Beaver	Super Champon	INDIFFERENT	IF2UkzCfa5c	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-684	あらあんたえらいええ時計してそれどこで買いはったん - Where did you buy such a nice watch you are wearing now	Otoboke Beaver	Super Champon	INDIFFERENT	Ae-dPv4J87g	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-685	ジョージ&ジャニス - George & Janice	Otoboke Beaver	Super Champon	INDIFFERENT	tRVyCRyMPZ0	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-686	一級品の間男 - First-class side-guy	Otoboke Beaver	Super Champon	INDIFFERENT	FmqLMNTV510	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-687	ヤリチン武勇伝ちゃう口を慎め - You’re no hero shut up f*ck you man-whore	Otoboke Beaver	Super Champon	INDIFFERENT	KSngAZemCC0	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-688	孤独死こわい - I don't want to die alone	Otoboke Beaver	Super Champon	INDIFFERENT	FjWOxA6QvuY	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-689	ジジイ is waiting for my reaction - Dirty old fart is waiting for my reaction	Otoboke Beaver	Super Champon	INDIFFERENT	wZWJpY4Bc7o	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-690	DM送ってやろうか - Do you want me to send a DM	Otoboke Beaver	Super Champon	INDIFFERENT	OWyyxNP_JEw	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-691	DM送ってやろうか Pt. 2 - Do you want me to send a DM Pt. 2	Otoboke Beaver	Super Champon	INDIFFERENT	O9XsZycQygE	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
-692	レッツショッピングアフターショー - Let's shopping after show	Otoboke Beaver	Super Champon	INDIFFERENT	8pnJgQpsGzM	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+675	I am not maternal	Otoboke Beaver	Super Champon	INDIFFERENT	y3DX7oMzqXY	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+676	YAKITORI	Otoboke Beaver	Super Champon	INDIFFERENT	mdnKP_49TS8	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+677	I won't dish out salads	Otoboke Beaver	Super Champon	INDIFFERENT	5krQVJ7av_c	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+678	PARDON?	Otoboke Beaver	Super Champon	INDIFFERENT	K_2_zWqT0ag	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+679	Nabe party with pocket brothers	Otoboke Beaver	Super Champon	INDIFFERENT	e01Zo_Odefo	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+680	Leave me alone! No, stay with me!	Otoboke Beaver	Super Champon	INDIFFERENT	aDbk3Kjyer0	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+681	I checked your cellphone	Otoboke Beaver	Super Champon	INDIFFERENT	G8uG3uriccc	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+682	I put my love to you in a song JASRAC	Otoboke Beaver	Super Champon	INDIFFERENT	7_7c32TaUEU	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+683	Don't call me mojo	Otoboke Beaver	Super Champon	INDIFFERENT	IF2UkzCfa5c	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+684	Where did you buy such a nice watch you are wearing now	Otoboke Beaver	Super Champon	INDIFFERENT	Ae-dPv4J87g	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+685	George & Janice	Otoboke Beaver	Super Champon	INDIFFERENT	tRVyCRyMPZ0	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+686	First-class side-guy	Otoboke Beaver	Super Champon	INDIFFERENT	FmqLMNTV510	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+687	You’re no hero shut up f*ck you man-whore	Otoboke Beaver	Super Champon	INDIFFERENT	KSngAZemCC0	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+688	I don't want to die alone	Otoboke Beaver	Super Champon	INDIFFERENT	FjWOxA6QvuY	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+689	Dirty old fart is waiting for my reaction	Otoboke Beaver	Super Champon	INDIFFERENT	wZWJpY4Bc7o	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+690	Do you want me to send a DM	Otoboke Beaver	Super Champon	INDIFFERENT	OWyyxNP_JEw	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+691	Do you want me to send a DM Pt. 2	Otoboke Beaver	Super Champon	INDIFFERENT	O9XsZycQygE	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
+692	Let's shopping after show	Otoboke Beaver	Super Champon	INDIFFERENT	8pnJgQpsGzM	MPREb_ouy5VGXRbKR	UCG3QtNqkjQ_CYXUOZ1i8jgQ
 113	Daytona Sand	Orville Peck	Bronco	INDIFFERENT	myU6kcQz4os	MPREb_B79UPCKWwtS	UCURpg3RtJ9S6_KT-6iFg_Qw
 114	The Curse of the Blackened Eye	Orville Peck	Bronco	INDIFFERENT	9fe43qdo5j8	MPREb_B79UPCKWwtS	UCURpg3RtJ9S6_KT-6iFg_Qw
 115	Outta Time	Orville Peck	Bronco	INDIFFERENT	C-LnV5fA3ck	MPREb_B79UPCKWwtS	UCURpg3RtJ9S6_KT-6iFg_Qw

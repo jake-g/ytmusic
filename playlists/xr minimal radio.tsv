@@ -1,9 +1,11 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 1	World Is Yours	VNZO	Diamante Records 4	LIKE	BpnQ9k-IfXs	MPREb_E7ISWhAQlpA	
 121	Ping Pong	Plastikman	Closer	LIKE	yZOKHGzTv0s	MPREb_OuOFdjz4bbu	UC8GpGuM_mxH6dukEiepsJBg
+324	A.I.	Nick Beringer	Various Artists	LIKE	XKXo4qSQl6k	MPREb_8D9TldJbdLT	UCKYiZQvm5xBMznTfNpmVO2w
 398	Tendency	Jan Jelinek	Loop-Finding-Jazz-Records	LIKE	MGuFHcC76Hk	MPREb_p5mFhEXZ2KD	UClr-pNjL6WfGRdLd_VblKzg
 312	Lush Life	Fred P	A Tribute To Klang Club, Vol. 2	LIKE	M6N83JxDomw	MPREb_zMwznjRtxUh	UCLTJHGqxQs0xQRBRFTGXXTA
 16	Zu Fuss	Extrawelt	Soopertrack	LIKE	rDDihJBENcg	MPREb_mGLOdaEwSfe	UC_fkya3ogeefj4G8eWio8sw
+175	Noch ein Bass im Ärmel	Dominik Eulberg	Backslash	LIKE	ha4VJoqSSys	MPREb_6Q8RwHN8Kmi	UCmHFONxjmLurj_zTW4bq50g
 369	Expecting	Andy Stott	Luxury Problems	LIKE	f8cdjPyA8Lo	MPREb_4PQvVQKvMdp	UCUKjzgFCEy5dmhdaTQMR72g
 375	Lost and Found	Andy Stott	Luxury Problems	LIKE	DeMkw1-Qbvw	MPREb_4PQvVQKvMdp	UCUKjzgFCEy5dmhdaTQMR72g
 387	Luxury Problems	Andy Stott	Luxury Problems	LIKE	5j5tdFcBUxY	MPREb_4PQvVQKvMdp	UCUKjzgFCEy5dmhdaTQMR72g
@@ -141,7 +143,6 @@
 232	I'm Week	Nina Kraviz	I'm Week	INDIFFERENT	fLAwn6gN6IE	MPREb_IYEsKDL3LAP	UCF6lav85ybIK3Umon9oI-dw
 162	The Scene (Mathäus Remix)	Nik Ros	The Scene EP	INDIFFERENT	xSrNKtZ_-ok	MPREb_Gizy8fmz3V4	UC4j0mDLi_iJkOM5U1_Wpo8g
 307	Come On (Mixed)	Niels van Veen	Stereophonic Summer Edition 2022	INDIFFERENT	8oJOw7Ep4qw	MPREb_ivWCAFaCxip	UCYz17yhGyxdB8G7T1N7R82w
-324	A.I.	Nick Beringer	Various Artists	INDIFFERENT	XKXo4qSQl6k	MPREb_8D9TldJbdLT	UCKYiZQvm5xBMznTfNpmVO2w
 4	Easy (Sidney Charles Remix)	Neverdogs	Easy EP	INDIFFERENT	yU5e04xm4Yg	MPREb_4bgFA4CsLfN	UC2n6z-EiRKF7CnZdjhjF5aQ
 118	Gossip	Nctrnm	NOVA	INDIFFERENT	9Sd2fE36Nlg	MPREb_RkphxyaeQyD	UCapPoCNn8Yf6UNzo375egqA
 14	HoursDaysMonthsSeasons	Nathan Fake	Providence	INDIFFERENT	TyDm6YyuvYc	MPREb_JQNJwGzYnds	UCerofcW3r2o74HjKZLQKhRw
@@ -310,7 +311,6 @@
 86	Der Tanz Der Gluehwuermchen	Dominik Eulberg	Diorama	INDIFFERENT	mzwhwCStxjU	MPREb_iJZB5yO1YJ9	UCmHFONxjmLurj_zTW4bq50g
 100	Bienenstich	Dominik Eulberg	Bionik	INDIFFERENT	F4DVQb8e8EE	MPREb_en7sEtfhJjF	UCmHFONxjmLurj_zTW4bq50g
 108	Hühnergott	Dominik Eulberg	Spülsaum	INDIFFERENT	21OmwVHRYpg	MPREb_83BH7Vtrzg0	UCmHFONxjmLurj_zTW4bq50g
-175	Noch ein Bass im Ärmel	Dominik Eulberg	Backslash	INDIFFERENT	ha4VJoqSSys	MPREb_6Q8RwHN8Kmi	UCmHFONxjmLurj_zTW4bq50g
 212	Die Strandmieze Von St. Peter-Ording	Dominik Eulberg	Tour De Traum IV Mixed by Riley Reinhold	INDIFFERENT	IinrTonBb0s	MPREb_fnJkgNSw6p1	UCmHFONxjmLurj_zTW4bq50g
 222	Die 3 Millionen Musketiere (Extrawelt Remix)	Dominik Eulberg	Diorama Remixes, Pt. 2	INDIFFERENT	GQOFx7XHDLE	MPREb_HtuCGs48Ea7	UCmHFONxjmLurj_zTW4bq50g
 364	Die Grünschenkel Im Blauen Priel	Dominik Eulberg	Limikolen	INDIFFERENT	yZpQ4CTz6oA	MPREb_iZd2mYOR432	UCmHFONxjmLurj_zTW4bq50g
@@ -391,7 +391,7 @@
 200	Scala	Agoria	Scala EP	INDIFFERENT	bn7aCswE3I4	MPREb_GyKTYozvNd8	UCzit27uFs81Xp5knz6fizig
 75	Soul Valley	Adriatique	Soul Valley EP	INDIFFERENT	0Oy8i-NDHkQ	MPREb_UnIDS4s21kZ	UCoZCjNhOLwifuaklHYsRIRA
 241	Silverlake Pills (Gui Boratto Remix)	Adam Freeland	Collect: Global Underground Remixed	INDIFFERENT	VkBUo6tmkRE	MPREb_JAB5OPIJnDm	UCnuYPMenJiXzby7dpf6GV4Q
-94	Nancy	Acid Pauli	Nancy / I Love You	INDIFFERENT	2RLVWTGWliQ	MPREb_JKte2wErYrs	UC97v2sCFHIWX8aWxmIFB4Og
+94	Nancy	Acid Pauli	Nancy / I Love You	INDIFFERENT	21ja6Gdwl5Q	MPREb_9c9YbXyQ1Eb	UC97v2sCFHIWX8aWxmIFB4Og
 102	Skidoos	AKUFEN	Click Shower	INDIFFERENT	RfM-KTjnWRk	MPREb_UjBapls4FUx	UCSiRe_840o24EPKI3NGfHpw
 260	Springtide	AKA AKA, Thalstroem	Varieté	INDIFFERENT	W4dVOE1XP_s	MPREb_5vyUg4kG2CL	UCbTJdJeclVIBEisZifTi62g
 141	Woody Woodpecker	AKA AKA	Voegeln	INDIFFERENT	WlFDWK3Mx-c	MPREb_qzVWOj3AnsX	UCbTJdJeclVIBEisZifTi62g

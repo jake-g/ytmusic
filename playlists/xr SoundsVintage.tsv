@@ -1,4 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+237	death by cop	waggonways	death by cop	LIKE	WsJUPEDo0H8	MPREb_RexsoRhLUXs	UCqiPYoD_WjXjaKjP9fNLVfQ
+242	when you want nothing	waggonways	when you want nothing	LIKE	2R8ISV-loqk	MPREb_rE35fKKgmuQ	UCqiPYoD_WjXjaKjP9fNLVfQ
 172	The Least That We Can Do	Young Valley	Young Valley	LIKE	_SEvz180-XQ	MPREb_luGJ7LqwsjS	UCb9ds66gxufV5UrTrX-NoqA
 71	Civilian	Wye Oak	Civilian	LIKE	_L_c6lyrKTg	MPREb_HyCON6I8Coh	UCCAwop11PkIpVk9IGU3rJew
 168	Cotton Strands	Wolf People	Woolly Jumpers	LIKE	jQxKLSMWlJo	MPREb_H28DbcZJFuC	UCPo1kw7F7OSPWK7KhqYM7rw
@@ -20,8 +22,6 @@
 115	Invitation	Triptides	Invitation	LIKE	xyYOg19hkQc	MPREb_PB13Eprbcdv	UCQ5xTkkfZrSzmP73eG_K3kw
 136	Colors	Triptides	Colors	LIKE	0ZMddnT0gbc	MPREb_90U8yLKhcbw	UCHTMrVek30P7UKkligfBzog
 193	Sugar Me Timbers	Trevor and The Joneses	Get It!	LIKE	DWbVycKpnMc	MPREb_mdk48Mko5h9	UCvI4nlHNDslMFF4R6H9dafA
-163	Gravedweller	The Wytches	Annabel Dream Reader	LIKE	rR_Cs8r8X2o	MPREb_zNPlrzALC5k	UC0513O_8TFQvw6VXrVC3XEg
-50	Canadian Girl	The Walkmen	You & Me	LIKE	CfK9hn9RLXc	MPREb_1BUKFyDImwQ	UCnaedb1G9lOh40XYkqjC1Zg
 153	Paint My Heart	The Teskey Brothers	Run Home Slow	LIKE	3MhB9EZ9wuo	MPREb_XxID3BC5o3X	UCopUYMKHIQMGhCmXNzcrbnA
 100	The Gardener	The Tallest Man On Earth	Shallow Grave	LIKE	mYjPgvD3ClY	MPREb_zFpRAu981dj	UCL2-Z80Bwi8W73F7ijvxHzg
 233	Cecilia Ann	The Surftones	It Came from the Beach: Surf, Drag & Rockin' Instros from Downey Records	LIKE	eXLQiEmHpZE	MPREb_h6UCyWRZfmY	UCGz5fb4gCLi04QTMXB4Vm3A
@@ -35,8 +35,12 @@
 20	Excuses	The Morning Benders	Big Echo	LIKE	b7_ZU9_5DPA	MPREb_ylzf3hiTBvC	UC5t3cPIIxIH0-DsFU2OnsBA
 220	Dance of the Dandelion	The Lost Noise Figure	Alive	LIKE	XXZ-zSUQ6W0	MPREb_T0JA2K1jpLw	UCxrmpafRuVUNZJdnec3SsFQ
 224	Alive	The Lost Noise Figure	Alive	LIKE	znfFxcGnGpk	MPREb_T0JA2K1jpLw	UCxrmpafRuVUNZJdnec3SsFQ
+235	When I Love You	The Lost Noise Figure	When I Love You	LIKE	L4mjkPgqPRE	MPREb_i7R0XPKiaUl	UCxrmpafRuVUNZJdnec3SsFQ
+236	Love	The Lost Noise Figure	Get It On	LIKE	hAEbOPfRhyQ	MPREb_H8Rc6H8gEHV	UCxrmpafRuVUNZJdnec3SsFQ
+239	Dying by Your Side	The Lost Noise Figure	When I Love You	LIKE	EZyKzOeyqSY	MPREb_i7R0XPKiaUl	UCxrmpafRuVUNZJdnec3SsFQ
 91	Maybe, My Dear	The Livelies	Solatic	LIKE	euR_LT-VU4U	MPREb_bJxiOeGCKBi	UCXplHjIV6RB5aF8nfKjk3aw
 75	Wishing He Was Dead	The Like	Wishing He Was Dead (UK Version)	LIKE	JiiGuA2w0XA	MPREb_E7enD3qMo8y	UCJ9zxNqxawUOHP7W9PjSUwQ
+238	How Can I Love Her More?	The Lemon Twigs	A Dream Is All We Know	LIKE	dzkka3O4vI0	MPREb_xhpSrFgeWhe	UC-kQ5nT06yHT5PmCLgE6c7A
 234	Where Have All The Flowers Gone?	The Kingston Trio	The Capitol Collector's Series	LIKE	LkTXcwc3zvk	MPREb_R1FbtgFP02v	UC-hN1E13BXX05U7Z3ReN54g
 78	Anala	The King Khan & BBQ Show	Invisible Girl	LIKE	vC8knHms19E	MPREb_YcIn1gJi0ol	UCRq4R0Kpaizm6qyKXc-5FoA
 134	B.A.	The Jive Turkeys	B.A.	LIKE	n1ac_lnsoiw	MPREb_8jEP8cmwFo6	UCV-UbUUGmRd65pa0E9OQRqg
@@ -69,6 +73,7 @@
 98	Poor Side Of Town	The 5th Dimension	Up, Up And Away	LIKE	P0yx3TaH6hM	MPREb_9W25Fj9MbTK	UC2frP9pgMdxvA1qMzrbsFhw
 18	Origins	Tennis	Young & Old	LIKE	DNd5TExv8Aw	MPREb_yWfNMCOxi06	UCEv91IRGs8ETIcUOEI8UOIA
 37	Shelter Song	Temples	Sun Structures	LIKE	-gKwQyHycYY	MPREb_ot8bokp92ca	UCAwEVNrw_7At5j2ccsDc_wQ
+241	Eggs in one Basket	Tele Novella	Eggs in one Basket	LIKE	zhP_7Rzuyf8	MPREb_zsoyQBroDQN	UCPjazZr51UmJwWET0LR4zQg
 86	Tonight You Might feat. Lady Wray (feat. Lady Wray)	Synthia	Tonight You Might feat. Lady Wray	LIKE	HwWu-6N-bCs	MPREb_LY5Q9qwRk98	UCoYfzfZAm-PzJbXRmqM9mQA
 185	Trading Shells	Superfluous Motor	Euphonious Smorgasbord	LIKE	yKWqrdxvvYU	MPREb_MeDHbk7ZN2u	UCmAt2aJ7kQNjt0RvzCNWqXA
 203	Frankie and Me	Suitcase Sam	Goodnight Riverdale Park	LIKE	yoCtVB7HU_I	MPREb_X2k7i6XE8Hi	UCwcMUr3W1PzXkDNN_6WlVCA
@@ -95,6 +100,9 @@
 215	Drinkin' Whiskey Tonight	Pokey LaFarge	Middle of Everywhere	LIKE	GWqjF81M5h4	MPREb_dgvv2C2nL3d	UC1jlX-z7k9vhtFepkjlBqVQ
 22	Where Is My Mind?	Pixies	Death to the Pixies	LIKE	49FB9hhoO6c	MPREb_FphDKHWtHqG	UCRt5ckI8kNVMFr-jyj1IIVg
 139	Need 2	Pinegrove	Everything So Far	LIKE	wkUVO6frGqE	MPREb_CVgR4690Y9y	UCgUdA6SdS2CDa_ERoDxo0-Q
+240	spaces	Phantom Parts	spaces	LIKE	3GJ0c7kYevk	MPREb_p88IJkmGo5m	UClnunU0hGd3LOpYgUtoGpbw
+243	too big to fail	Phantom Parts	too big to fail	LIKE	4gzYWVluxYI	MPREb_w8K7PeFrIPf	UClnunU0hGd3LOpYgUtoGpbw
+244	this is the life	Phantom Parts	this is the life	LIKE	qeAY_JQDlYA	MPREb_Md9TxpDOrgl	UClnunU0hGd3LOpYgUtoGpbw
 216	Lovely	Original Artyfacts	Lovely	LIKE	ToQdLTcyvQE	MPREb_lDyljqH1mty	UCvC065sY1ZA1c3Vr_7EgdBg
 151	Do What You Came to Do	Orgone	Do What You Came to Do	LIKE	VHcvYpqlm4s	MPREb_11DX9jrEzbr	UCu5oslYw4y81kM4Ssp8SZ-Q
 184	Nasty Hats	Orgone	Bacano	LIKE	qPYPr5og22g	MPREb_pbAfINIHUOM	UCu5oslYw4y81kM4Ssp8SZ-Q
@@ -180,7 +188,6 @@
 62	Broken Heart	Dr. Dog	B-Room (Deluxe Edition)	LIKE	5p0Fv1KR2GQ	MPREb_DMLNWJSRN1z	UC-JBTXpS5x83eafG3HQMClA
 99	The Truth	Dr. Dog	B-Room (Deluxe Edition)	LIKE	g3yGmhJ608E	MPREb_DMLNWJSRN1z	UC-JBTXpS5x83eafG3HQMClA
 45	True Blue	Dirty Beaches	Badlands	LIKE	fkeFrg_vLF8	MPREb_3DmLlaAI58M	UCB86bFCMgOOip7fw6ezw7TQ
-7	Shabop Shalom	Devendra Banhart	Smokey Rolls Down Thunder Canyon	LIKE	qmtVBSRI4ZQ	MPREb_h7mHLPM3moB	UCOWhG8hIkXbA9f_yMDPtQhg
 165	Shave Your Beard	Dengue Fever	Dengue Fever (Deluxe Version)	LIKE	pm1BuabeObY	MPREb_kAfFy0gl5wz	UCFinvhAmv2VjlHORPDbgtFQ
 54	Tomorrow	Delicate Steve	This Is Steve	LIKE	lduGKXlheX0	MPREb_x3MC0p9z5Li	UCumf2lmDdpFF6dheLF8RRJA
 204	That Western Skyline	Dawes	North Hills	LIKE	-EdDy3Or3dg	MPREb_bbEEIpF5wRk	UCMClLcNNAstOzMpNIbNvUUg
@@ -228,9 +235,12 @@
 51	Gimme All Your Love	Alabama Shakes	Sound & Color	LIKE	3TotIeYatDE	MPREb_2UQsNFTvFWR	UCtgFWXl1mpHy_zeHcnbB8Iw
 198	Den minsta av segrar	1900	1900	LIKE	HuIwQZKIGXU	MPREb_LVBNf7Zl1ZV	UC8NOdMPsQpsLH42ctJs7XAA
 230	Dwellers	...The World According to Billy Marvin	Dwellers	LIKE	zHoiF-8BWUU	MPREb_cGhEeDTLBm3	UCFec0hJUHfcSicWB3dEfrfA
+163	Gravedweller	The Wytches	Annabel Dream Reader	INDIFFERENT	SWGkfg396yo	MPREb_5B3JkIE9tPk	UC0513O_8TFQvw6VXrVC3XEg
 64	Mademoiselle	The Underground Youth	Mademoiselle	INDIFFERENT	TTTGoL5ZXdM	MPREb_RcsRGgW58SP	UCYWirsC6yMdhtC-qiXFwM9Q
 87	Bang Bang (My Baby Shot Me Down)	Nancy Sinatra	How Does That Grab You? (2024 Reissue)	INDIFFERENT	bQD-mcJUbR4	MPREb_DtxaGprmijH	UCc7PoVuPYUBao6v6mCVIzdg
 138	Shiny Magazine	Jet	Shine On (Deluxe Edition)	INDIFFERENT	GXhcPSFbstU	MPREb_amKTVRx6fEI	UCDY3bjtG-e456ADVpfDZ4Tw
 27	Only for You	Heartless Bastards	Arrow (10th Anniversary Deluxe Edition)	INDIFFERENT	9ewlqAMDJao	MPREb_rJQTS8oLuav	UC8XXOUgBXUvvv8ZE8okeUmw
+7	Shabop Shalom	Devendra Banhart	Smokey Rolls Down Thunder Canyon	INDIFFERENT	o1vua2Wl5Aw	MPREb_tOztJrWtf0i	UCOWhG8hIkXbA9f_yMDPtQhg
+50	Canadian Girl	The Walkmen	You & Me		CfK9hn9RLXc		
 200	I Me You I'm Your	Jim Noir	Tower Of Love		Zh5Iiqq2cyA		
 38	When It Comes To You	Dead Ghosts	S/T		d6GN_Nj-0IQ		

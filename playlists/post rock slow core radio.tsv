@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 98	A Three-Legged Workhorse	This Will Destroy You	S/T	LIKE	a8E-cLMiBWM	MPREb_9on8zw4f7N1	UCkQijoKtzS4B9IsXJUCcQow
 342	Have You Passed Through This Night?	Explosions in the Sky	Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever (Anniversary Edition)	LIKE	fPdcWom3DXU	MPREb_yOdLqH5JpiW	UCIVIcUSH-dwFSEn9fNC6n1g
+163	Sunbather	Deafheaven	Sunbather	LIKE	3iBPBYuh4zk	MPREb_cMJPhOQSjU9	UCpJAUou7A5TOpQEoYSVP_zQ
 371	100 Years of Choke 百年の窒息	world's end girlfriend	Hurtbreak Wonderland	INDIFFERENT	IEFsBYlXI3A	MPREb_RFzxhW8DOhK	UCyJhOCoMalsFK8vnNnPGuiA
 295	We Sing The Body Electric	sleepmakeswaves	sleepmakeswaves (USA)	INDIFFERENT	UnUlrfntYxY	MPREb_bC0JDHB8J3s	UCLKzxq_8siAwIdMua_MXwoQ
 165	Shelter	pg.lost	Shelter	INDIFFERENT	4TIvs5qe0rM	MPREb_5M5gXoGuCRV	UCUSCX4h_63onUaqUiM7RVZA
@@ -191,7 +192,7 @@
 87	I'm Jim Morrison, I'm Dead	Mogwai	The Hawk Is Howling	INDIFFERENT	85blcsevfvI	MPREb_wWmKeP7hVrT	UCSx5h9nKekcNNzOSPbHJx2Q
 102	Auto Rock	Mogwai	Mr. Beast	INDIFFERENT	9hMw9AavXqU	MPREb_KUn26km1fHd	UCSx5h9nKekcNNzOSPbHJx2Q
 120	Scotland's Shame	Mogwai	The Hawk Is Howling	INDIFFERENT	STddRiFmqFI	MPREb_wWmKeP7hVrT	UCSx5h9nKekcNNzOSPbHJx2Q
-140	Two Rights Make One Wrong	Mogwai	Rock Action	INDIFFERENT	zg7REZbQ-A0	MPREb_irDOSVSRDD0	UCSx5h9nKekcNNzOSPbHJx2Q
+140	2 Rights Make 1 Wrong	Mogwai	Rock Action	INDIFFERENT	zg7REZbQ-A0	MPREb_irDOSVSRDD0	UCSx5h9nKekcNNzOSPbHJx2Q
 144	Golden Porsche	Mogwai	Happy Songs for Happy People	INDIFFERENT	HfrslazwToY	MPREb_VWigHS4mSwz	UCSx5h9nKekcNNzOSPbHJx2Q
 149	Tracy	Mogwai	Young Team	INDIFFERENT	hw98XaFL0EU	MPREb_ZfNeGZZDVHS	UCSx5h9nKekcNNzOSPbHJx2Q
 170	Party in the Dark	Mogwai	Every Country's Sun	INDIFFERENT	la3I0H5JT3Y	MPREb_OgvV1cV6d07	UCSx5h9nKekcNNzOSPbHJx2Q
@@ -344,7 +345,6 @@
 301	At the Mercy of the Mustang	Dianogah	Battle Champions	INDIFFERENT	fst-dBeeyAQ	MPREb_ZBsfNhlGU5L	UCq3E7ni6zCym2pSfBrAjvXg
 51	20th Century Towers	Death Cab for Cutie	The Stability EP	INDIFFERENT	QvRcZDpq5tQ	MPREb_IhRw4kCUCnM	UCQyYgbGkyvK3v3X1XzGDQ2Q
 104	Vertigo	Deafheaven	Sunbather	INDIFFERENT	4Jq1FcuD6n0	MPREb_cMJPhOQSjU9	UCpJAUou7A5TOpQEoYSVP_zQ
-163	Sunbather	Deafheaven	Sunbather	INDIFFERENT	3iBPBYuh4zk	MPREb_cMJPhOQSjU9	UCpJAUou7A5TOpQEoYSVP_zQ
 313	Comes Back In Another Form	Daxma	Unmarked Boxes	INDIFFERENT	kVxN8crpEEA	MPREb_gdUIijwh5to	UC6Xwv_vYKeDON1rHyKNDuKg
 337	Mantra	Dave Grohl	Sound City - Real to Reel	INDIFFERENT	SnaF5U6AmlU	MPREb_lYNNqcaFySU	UCHbh0Oa2Dcj9fRAVwEQbiEQ
 90	Youth	Daughter	Wild Youth	INDIFFERENT	MKJB-L2gW9o	MPREb_6g5wWmlnHDh	UCBlrV-yC9iu2tQvrCAd4opA
@@ -361,9 +361,9 @@
 84	Explore, Be Curious	Cloudkicker	Let Yourself Be Huge	INDIFFERENT	eCazafgauPY	MPREb_CkqNNnCAQkm	UC2Dvye4zYgEwrUzXfnA_4kw
 422	We're Goin' in, We're Going Down. (live studio recording)	Cloudkicker	Live with Intronaut	INDIFFERENT	0T0apIpJ5oQ	MPREb_P0qEjEvtBtF	UC2Dvye4zYgEwrUzXfnA_4kw
 86	Death Is the Road to Awe (feat. Kronos Quartet)	Clint Mansell	The Fountain OST	INDIFFERENT	Whuf6C_T8tc	MPREb_Jqwf09GdPcL	UCCsmpP0cJ7euj0Cxlo20UbA
-121	K.	Cigarettes After Sex	Cigarettes After Sex	INDIFFERENT	bYh28VkDeVM	MPREb_XTvtN2WnDiB	UCIMuwfTAzgZ5Dg84TmYxYkA
-146	Affection	Cigarettes After Sex	Affection	INDIFFERENT	k1GsKHHwAik	MPREb_NWGuLsHz2qS	UCIMuwfTAzgZ5Dg84TmYxYkA
-152	Each Time You Fall in Love	Cigarettes After Sex	Cigarettes After Sex	INDIFFERENT	xJyeV9oUGJk	MPREb_XTvtN2WnDiB	UCIMuwfTAzgZ5Dg84TmYxYkA
+121	K.	Cigarettes After Sex	Cigarettes After Sex	INDIFFERENT	26Uo_l5Iipo	MPREb_XTvtN2WnDiB	UCIMuwfTAzgZ5Dg84TmYxYkA
+146	Affection	Cigarettes After Sex	Affection	INDIFFERENT	DxHm8S219sI	MPREb_NWGuLsHz2qS	UCIMuwfTAzgZ5Dg84TmYxYkA
+152	Each Time You Fall in Love	Cigarettes After Sex	Cigarettes After Sex	INDIFFERENT	U10hkvisIsI	MPREb_XTvtN2WnDiB	UCIMuwfTAzgZ5Dg84TmYxYkA
 395	Fail, Grasp, Restore	Chalk Hands	Fail, Grasp, Restore	INDIFFERENT	_b-y1Rx-ZS0	MPREb_PRTeHGuVcuC	UCR36x70WHkX3qyV2iX7QxHA
 55	Water & Air	Cat Power	What Would the Community Think	INDIFFERENT	yGr63z91Cdg	MPREb_yqsQf0yZO6y	UC1s55OQBwZ1Cg-k9EC7HaGA
 166	Metal Heart	Cat Power	Moon Pix	INDIFFERENT	xqLn3Fz2q68	MPREb_1SqIZFpXwVJ	UC1s55OQBwZ1Cg-k9EC7HaGA

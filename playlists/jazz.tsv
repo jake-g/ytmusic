@@ -1,6 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 387	SPACE LION	シートベルツ	COWBOY BEBOP	LIKE	t7w3m2Bhtb8	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIMY293Ym95IGJlYm9wGhLjgrfjg7zjg4jjg5njg6vjg4QiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIS44K344O844OI44OZ44Or44OE
-1248	山を担いで海を汲む - Yama wo Katsuide Umi wo Kumu	various sighhorns	sighs from 2013 to 2019	LIKE	3vYtLJaTT9Y	MPREb_9Oahrrm2Zof	UCXyET-BM8_ubral2_o9OelA
+1248	Yama wo Katsuide Umi wo Kumu	various sighhorns	sighs from 2013 to 2019	LIKE	3vYtLJaTT9Y	MPREb_9Oahrrm2Zof	UCXyET-BM8_ubral2_o9OelA
 1282	Lotus 72 D (Fast Version)	Zé Roberto	Lotus 72 D	LIKE	8XCAGBc7X2Y	MPREb_lSfUfGpQ3IS	UCF9F0lWMK-N9RaGepstMlGA
 530	Yo Chavez	Yussef Kamaal	Black Focus	LIKE	YMJIIppgZ7o	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
 727	Black Focus	Yussef Kamaal	Black Focus	LIKE	DwZiRMoOM0M	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
@@ -242,7 +242,7 @@
 614	The Second Time Around	Red Garland	Seenin' Red	LIKE	XpCcPlvdc8A	MPREb_JUFFeuht9m0	UCGoOd5vhLg8fz5LJ98GBHBg
 667	I Left My Heart In San Fransisco (Live) (feat. Leo Wright)	Red Garland	I Left My Heart... (Live)	LIKE	NGWd38I9BH8	MPREb_NKCWQ911iOM	UCGoOd5vhLg8fz5LJ98GBHBg
 885	Please Send Me Someone To Love (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	jrCHw9J6__0	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
-887	ザ・ヴェリー・ソート・オブ・ユー - The Very Thought Of You (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	-aaUB8Rx2KA	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
+887	The Very Thought Of You (feat. Paul Chambers & Art Taylor)	Red Garland	Red Garland's Piano	LIKE	-aaUB8Rx2KA	MPREb_3dswZeUuvSm	UCGoOd5vhLg8fz5LJ98GBHBg
 1103	I Got It Bad (And That Ain't Good)	Red Garland	Red Alone	LIKE	ThKnCExedMo	MPREb_KVrPvYmgE3W	UCGoOd5vhLg8fz5LJ98GBHBg
 1184	All Alone	Red Garland	The Nearness Of You	LIKE	cujoSpDdl50	MPREb_Z9rHpTtCz6e	UCGoOd5vhLg8fz5LJ98GBHBg
 945	Fai Yen	Ream Daranoi	Sound of Siam, Vol. 1 - Leftfield Luk Thung, Jazz & Molam in Thailand 1964-1975	LIKE	ZV2-inun1ZU	MPREb_U5DfnIce4Kg	
@@ -307,7 +307,7 @@
 1045	Glad to Be Unhappy	Paul Desmond	Glad To Be Unhappy	LIKE	546Xr62-kjE	MPREb_xFH4qpcVHVD	UCnEtwvQYjKy9Px5lg9TO8sQ
 1236	A Taste of Honey	Paul Desmond	Glad To Be Unhappy	LIKE	0gOX4W2PNGM	MPREb_xFH4qpcVHVD	UCnEtwvQYjKy9Px5lg9TO8sQ
 1286	Easy Living	Paul Desmond	Easy Living	LIKE	CQkjqZ12ie4	MPREb_DWS579mh34h	UCnEtwvQYjKy9Px5lg9TO8sQ
-724	Nita (feat. John Coltrane)	Paul Chambers	The Capitol Vaults Jazz Series	LIKE	B3dBcnsgY70	MPREb_sXrQFyOMd5f	UC2A2pebdrl3W6sS0zetDMFw
+724	Nita (Remastered 2003) (feat. John Coltrane)	Paul Chambers	The Capitol Vaults Jazz Series	LIKE	B3dBcnsgY70	MPREb_sXrQFyOMd5f	UC2A2pebdrl3W6sS0zetDMFw
 790	The Lady of Chet	Paul Bley	Solo Piano	LIKE	5BWPNW7dOQY	MPREb_tYjhhISjUeI	UCZtdiE1RJVqx-TCRlntNOZA
 195	Both Sides Now	Pat Martino	Cream	LIKE	Y7jmUWe0_nw	MPREb_9OP64p1f8rF	UCUB31jF3RaFkHG-Ty55vaIQ
 377	Excerpt from Piano Concerto #4 (feat. Nelson Veras)	Pablo Held	Ascent	LIKE	Ds6Q3okuwZ0	MPREb_BK4wqgE8Iip	UCWZZwb8aVdjlz8NKb7eqldA
@@ -398,6 +398,7 @@
 708	All of You (Mono Version) (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)	Miles Davis	'Round About Midnight (Mono Version)	LIKE	YpMpkvzi9eY	MPREb_mei8L9G5BGJ	UCIev2PktTH5mI-QlGmbUkiw
 723	Autumn Leaves	Miles Davis	Absolute Miles Davis	LIKE	NGqjNwu4FOo	MPREb_IBZPEA2U0nt	UCIev2PktTH5mI-QlGmbUkiw
 810	Boplicity	Miles Davis	The Complete Birth Of The Cool	LIKE	yD1vqbKTBrM	MPREb_irvT6VQhWcx	UCIev2PktTH5mI-QlGmbUkiw
+827	So What	Miles Davis	Kind of Blue	LIKE	-09mgJdqLKg	MPREb_nFGSZ1l2fQs	UCIev2PktTH5mI-QlGmbUkiw
 869	Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)	Miles Davis	Kind Of Blue	LIKE	UpwlFYvdUXY	MPREb_iNbKdKjDqyr	UCIev2PktTH5mI-QlGmbUkiw
 937	Spanish Key (single)	Miles Davis	Bitches Brew (Legacy Edition)	LIKE	cHqwPoPFQ0I	MPREb_2OQ7oaNSBJh	UCIev2PktTH5mI-QlGmbUkiw
 961	Freddie Freeloader	Miles Davis	They Don't Know	LIKE	9Jjtw8vNXPg	MPREb_EXmaHTzNSxg	UCIev2PktTH5mI-QlGmbUkiw
@@ -678,7 +679,7 @@
 119	Que Pasa (Rudy Van Gelder Edition/1999 Digital Remaster)	Horace Silver	Song For My Father	LIKE	OOjnA33p-pk	MPREb_AP7GWERbo3y	UC834B7DbQ6WZzigm4UCwuKg
 128	Senor Blues	Horace Silver	The Very Best	LIKE	jIBNV_RYQx0	MPREb_c68Dw3TsY8M	UC834B7DbQ6WZzigm4UCwuKg
 284	Peace (Rudy Van Gelder 24Bit Mastering / 2004 Digital Remaster)	Horace Silver	Music For Lovers	LIKE	9EmGM-fWX2c	MPREb_4b3TUco3n0B	UC834B7DbQ6WZzigm4UCwuKg
-303	Señor Blues (Live At Newport Jazz Festival)	Horace Silver	Live At Newport '58 (Live)	LIKE	QK1egVXHmK8	MPREb_GRTBmtSYWW3	UC834B7DbQ6WZzigm4UCwuKg
+303	Señor Blues (Live At Newport Jazz Festival)	Horace Silver	Live At Newport '58	LIKE	QK1egVXHmK8	MPREb_GRTBmtSYWW3	UC834B7DbQ6WZzigm4UCwuKg
 355	Que Pasa (Remastered 1999/Rudy Van Gelder Edition)	Horace Silver	Song For My Father	LIKE	JK9vX7Ki5CQ	MPREb_AP7GWERbo3y	UC834B7DbQ6WZzigm4UCwuKg
 868	Lonely Woman (Remastered 1999/Rudy Van Gelder Edition)	Horace Silver	Song For My Father	LIKE	fJyq_F0g3KE	MPREb_AP7GWERbo3y	UC834B7DbQ6WZzigm4UCwuKg
 1011	Song For My Father	Horace Silver	Song For My Father	LIKE	mKf1x3CALAE	MPREb_AP7GWERbo3y	UC834B7DbQ6WZzigm4UCwuKg
@@ -795,7 +796,6 @@
 300	Listen To The Dawn	Frank Morgan	Listen To The Dawn	LIKE	RvQ0vnNw0RM	MPREb_6QOIyPdIY1X	UCWcA4fI1PRvOG1h5txKfKaw
 978	Lullaby	Frank Morgan	Mood Indigo	LIKE	zesYXo2f--Q	MPREb_ivNtTXqOUBA	UCWcA4fI1PRvOG1h5txKfKaw
 1033	My Old Flame	Frank Morgan	Frank Morgan	LIKE	YV5RWI1ho6A	MPREb_ma8adBgZvok	UCWcA4fI1PRvOG1h5txKfKaw
-1270	Sadness Theme	Franco Micalizzi	Stridulum [The Visitor] (Original Motion Picture Soundtrack)	LIKE	Eib5ZdpxsrE	MPREb_SmuCjCk3RpL	UCgjxe5mi-VWB5ddfiLw1L6g
 478	Your Potential//The Beyond (feat. Niki Randa)	Flying Lotus	You're Dead!	LIKE	232tfKrDxOE	MPREb_cOsZQabOShF	UCJvOvKwxPEL-4RtSvu_nWhQ
 1072	Turtles	Flying Lotus	You're Dead!	LIKE	-EgwsooE-F8	MPREb_cOsZQabOShF	UCJvOvKwxPEL-4RtSvu_nWhQ
 1190	The Nightcaller	Flying Lotus	Until The Quiet Comes	LIKE	Mye7qlx1eoU	MPREb_hs0ez4UsN20	UCJvOvKwxPEL-4RtSvu_nWhQ
@@ -1234,7 +1234,7 @@
 871	Sakeena's Vision (Remastered 2005)	Art Blakey & The Jazz Messengers	The Big Beat (The Rudy Van Gelder Edition)	LIKE	0vkjlfZHY5M	MPREb_hcCM7vjLybK	UCMki-b0zfAQiMQ0nbsrIuBQ
 962	A Night In Tunisia (Remastered 2005)	Art Blakey & The Jazz Messengers	The Best Of Art Blakey	LIKE	S4ylZmsR8AM	MPREb_RS7QzZs1fTw	UCMki-b0zfAQiMQ0nbsrIuBQ
 997	Dat Dere	Art Blakey & The Jazz Messengers	The Best Of Art Blakey	LIKE	-4263Gx_Z4Q	MPREb_RS7QzZs1fTw	UCMki-b0zfAQiMQ0nbsrIuBQ
-1073	カム・レイン・オア・カム・シャイン - Come Rain Or Come Shine	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	1EwY6efZRPo	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
+1073	Come Rain Or Come Shine	Art Blakey & The Jazz Messengers	Moanin' (Expanded Edition)	LIKE	1EwY6efZRPo	MPREb_QiZzoIEz3ab	UCMki-b0zfAQiMQ0nbsrIuBQ
 963	Blue Monk	Art Blakey & Jazz Messengers	Art Blakey's Jazz Messengers With Thelonious Monk (Deluxe Edition)	LIKE	L3kEnoXaYYo	MPREb_44G0FaBOSjt	UCMki-b0zfAQiMQ0nbsrIuBQ
 243	Blakey's Blues	Art Blakey	Drums Around The Corner	LIKE	gt8RA0ZDYks	MPREb_e1BxW7eKheL	UCMki-b0zfAQiMQ0nbsrIuBQ
 417	One By One (Live)	Art Blakey	Ugetsu	LIKE	XrUkk9cqj54	MPREb_1JOMnh9Za3y	UCMki-b0zfAQiMQ0nbsrIuBQ
@@ -1266,15 +1266,15 @@
 1001	C'est la vie	Sarah Vaughan	Greatest American Hits	INDIFFERENT	n26IafJZrJg	MPREb_T9JIad0FiwV	UCVIvDAZP_e1e3bKzKFaPfig
 351	Stormy Weather	Oscar Peterson	Grandes Temazos: Jazz	INDIFFERENT	7wxUTqmIZmk	MPREb_wuYhuvsLKWV	UCGO2MrCyB3dLCID5wLE0JUw
 801	In Your Own Sweet Way	Miles Davis	Miles Ahead	INDIFFERENT	-CivuYPuQ2g	MPREb_c7t0wpJ4r7F	UCIev2PktTH5mI-QlGmbUkiw
-827	So What	Miles Davis	Kind of Blue	INDIFFERENT	-09mgJdqLKg	MPREb_nFGSZ1l2fQs	UCIev2PktTH5mI-QlGmbUkiw
 1060	Well You Needn't	Miles Davis	The Best Of Miles Davis	INDIFFERENT	5JC1iqeoNQg	MPREb_RYd0F9nHZlP	UCIev2PktTH5mI-QlGmbUkiw
 626	Dream a Little Dream of Me	Louis Armstrong	Cheek to Cheek	INDIFFERENT	527GIo2EQDc	MPREb_ZvrjuVPG4Nl	UCCDaSui4C9VFMpeRlKEOHDA
 747	Hesitating Blues	Louis Armstrong	2 Hours With	INDIFFERENT	-s8hlSoDUtc	MPREb_YDuhygHbSXy	UCCDaSui4C9VFMpeRlKEOHDA
 856	St. Louis Blues	Louis Armstrong	Now You Has Jazz	INDIFFERENT	LNJ0oM1wUAU	MPREb_gJEYxi1ObCB	UCCDaSui4C9VFMpeRlKEOHDA
 1054	Hello, Dolly!	Louis Armstrong	Oh Didn't He Ramble	INDIFFERENT	8_6hJtzNIrc	MPREb_kBvgsqwfaBx	UCCDaSui4C9VFMpeRlKEOHDA
 330	Finus	Jacob Gurevitsch	Yellow Spaceship	INDIFFERENT	QoMG942JuSA	MPREb_MZYS5w4N8G3	UC15xlaYafqBUmVhEM4hhquQ
+1270	Sadness Theme	Franco Micalizzi	Stridulum [The Visitor] (Original Motion Picture Soundtrack)	INDIFFERENT	f5oHolZcGAw	MPREb_2GQUTe8xExv	UCgjxe5mi-VWB5ddfiLw1L6g
 317	O	Felicia Atkinson	Comme Un Seul Narcisse	INDIFFERENT	om3X9yn012s	MPREb_33hQoB3C2iU	UCwPH2b9blIf9v2m9YM6W-yA
-14	Expensive Shit	Fela Kuti	Expensive Shit (Edit)	INDIFFERENT	fb79JaIgdYo	MPREb_t1F6RMW1dwE	UCoFUl09hePTptc4UOSISC9Q
+14	Expensive Shit	Fela Kuti	Expensive Shit (Edit)	INDIFFERENT	sjbNSVgD9wY	MPREb_t1F6RMW1dwE	UCoFUl09hePTptc4UOSISC9Q
 854	He Miss Road	Fela Kuti	He Miss Road	INDIFFERENT	9FMU7dDdEeg	MPREb_o34mmdPjsyS	UCoFUl09hePTptc4UOSISC9Q
 904	Water No Get Enemy	Fela Kuti	Expensive Shit	INDIFFERENT	RHR0tKRxiyY	MPREb_sImtCgnpIgw	UCoFUl09hePTptc4UOSISC9Q
 384	Prelude to a Kiss (Version by Duke Ellington - 1957)	Duke Ellingtone	Prelude to a Kiss	INDIFFERENT	_-tWVXmX6ZI	MPREb_HuGQxOJXgrT	UCvwUPRgFawNNBdQg497gHJw
