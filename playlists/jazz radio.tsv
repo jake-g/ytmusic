@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+846	Love Theme From Spartacus (Rudy Van Gelder Remaster / 2006)	Yusef Lateef	Some Relaxing Jazz	LIKE	BrEZTxPeI48	MPREb_lPzusZf2kaQ	UCTzvT7cM3lVEnarspxywomQ
 270	My Favorite Things (Stereo) [2022 Remaster]	John Coltrane	My Favorite Things (2022 Remaster)	LIKE	JQvc-Gkwhow	MPREb_XVvpJ4JN78Y	UCH4T2kv7rr9qnuP0DOXLxMA
 402	Giant Steps (Alternate Version, Take 1, Incomplete)	John Coltrane	Giant Steps (Deluxe Edition)	LIKE	vLMESJmguSs	MPREb_ruVjr8RTIlw	UCH4T2kv7rr9qnuP0DOXLxMA
 580	Giant Steps	John Coltrane	Giant Steps	LIKE	LFrudyzKK7U	MPREb_AhnSQis5zq6	UCH4T2kv7rr9qnuP0DOXLxMA
@@ -10,7 +11,6 @@
 247	Remembrance	Yussef Kamaal	Black Focus	INDIFFERENT	0ek9EOpnavk	MPREb_M7QWEt3hckg	UCCNsAuss6vs3IdLChZ3Bo9g
 120	Ching Miau (Remastered 2023)	Yusef Lateef	On Prestige	INDIFFERENT	KtZIZ7tlmpk	MPREb_PkvGrhQHSBZ	UCTzvT7cM3lVEnarspxywomQ
 573	Lover Man	Yusef Lateef	The Last Savoy Sessions	INDIFFERENT	IeIDuDXQUO8	MPREb_bqvaY9VpCbT	UCTzvT7cM3lVEnarspxywomQ
-846	Love Theme From Spartacus (Rudy Van Gelder Remaster / 2006)	Yusef Lateef	Some Relaxing Jazz	INDIFFERENT	BrEZTxPeI48	MPREb_lPzusZf2kaQ	UCTzvT7cM3lVEnarspxywomQ
 78	Dada (feat. Vitor Gonçalves & Daniel Dor)	Yotam Silberstein	Dada	INDIFFERENT	6qeSaM4lh3E	MPREb_bUlOIuh5dDH	UCNIXsHVLslQco7dKoEivmlQ
 130	Spring Will Be A Little Late This Year	Wynton Marsalis	The Midnight Blues Standard Time Vol. 5	INDIFFERENT	LsYAg0uDGNE	MPREb_yCDTal7hf6Q	UCzWGLXcvQlN_VMWJes9VYyw
 302	The Majesty Of The Blues (The Puheeman Strut)	Wynton Marsalis	The Majesty Of The Blues	INDIFFERENT	D1FZLD35vpg	MPREb_m5e3aRP8yxn	UCzWGLXcvQlN_VMWJes9VYyw
@@ -271,7 +271,7 @@
 334	Back to Me	Moonchild	Be Free	INDIFFERENT	g7P1K1lGwVM	MPREb_uoa6RNG1dai	UCvuuCWOqlcju9NGZDu30RHA
 865	Just a Minute	Moonchild	Cafè Bar Background Music: The Finest Soul Club Selection	INDIFFERENT	nLErLQ4Axpw	MPREb_7rVxEHjH1UE	UCvuuCWOqlcju9NGZDu30RHA
 582	Collision In Black	Monk Higgins	Extra Soul Perception	INDIFFERENT	_4HJ2RaGb1E	MPREb_IJhz89OHve6	UCONN4bmkqGLXGz-fKFa_RzA
-380	Rose of the Rio Grande	Modern Jazz Quartet	Jazz for a Lazy Day	INDIFFERENT	BFT5GuTHi0I	MPREb_cn07iWKPhdz	UCQjf61NuHvxHrm4gkdx0ZaQ
+380	Rose of the Rio Grande	Modern Jazz Quartet	Bluesology	INDIFFERENT	ihiLemMcgcs	MPREb_mYXXKUHQa25	UCQjf61NuHvxHrm4gkdx0ZaQ
 448	But Not for Me	Modern Jazz Quartet	Django	INDIFFERENT	JSMuNG5k9ho	MPREb_hrgJThv1ctC	UCQjf61NuHvxHrm4gkdx0ZaQ
 692	Moanin'	Mingus Big Band	Nostalgia in Times Square	INDIFFERENT	T2WTqjC-vPs	MPREb_XLaRAEaNNwu	UCSwB6eIz7W1Riu-q4HKYU2Q
 214	Bags & Trane	Milt Jackson	Bags & Trane	INDIFFERENT	MXzUISNxrFI	MPREb_7OpdYYg5LZw	UCNkq23Cd3lAOth4g_OsiEhA
@@ -568,6 +568,7 @@
 817	Save Your Love for Me	Eddie 'Lockjaw' Davis	Lock, the Fox	INDIFFERENT	Y1btzCL2xtE	MPREb_0LVZPTeg8Sh	UC_C8yIII34udvS9IdI49eHQ
 454	Grand Terrace Shuffle	"Earl ""Fatha"" Hines"	The Ultimate Jazz Archive 20 - Piano Men (1 Of 4)	INDIFFERENT	1vBcuxXmC4E	MPREb_Vfr0rUSMPoa	UCBeBkWYRI18waVif35oF77g
 522	Straight Up And Down	Duke Pearson	Introducing Duke Pearson's Big Band	INDIFFERENT	hROBVwaWslc	MPREb_Q8dG7AtL0aJ	UCdmkGxodNl6ohgcd8IeJWww
+420	Black Beauty	Duke Ellington and His Orchestra	1928	INDIFFERENT	sd9TXBlRhVs	MPREb_DNgzi99QCdh	UCvwUPRgFawNNBdQg497gHJw
 775	Saddest Tale	Duke Ellington and His Orchestra	1934 - 1936	INDIFFERENT	1Nota3wGS0Q	MPREb_b2pZ7TcNIn7	UCvwUPRgFawNNBdQg497gHJw
 422	Harlem Air-Shaft	Duke Ellington and His Famous Orchestra	Never No Lament: The Blanton-Webster Band	INDIFFERENT	aJYU_zNkbmQ	MPREb_QQnZ1Kva1oi	UCvwUPRgFawNNBdQg497gHJw
 71	Sophisticated Lady	Duke Ellington & His Orchestra	The Popular Duke Ellington	INDIFFERENT	BM96UpUuxss	MPREb_U9nhHoSuOPB	UCvwUPRgFawNNBdQg497gHJw
@@ -580,7 +581,6 @@
 178	Corner Pocket (aka Until I Met You)	Duke Ellington	First Time! The Count Meets The Duke	INDIFFERENT	9YRdDeoSu74	MPREb_ninhFqMjInp	UCvwUPRgFawNNBdQg497gHJw
 188	Jumpin' at the Woodside (Alternate Take)	Duke Ellington	First Time! The Count Meets The Duke	INDIFFERENT	6JVVMaorqqw	MPREb_ninhFqMjInp	UCvwUPRgFawNNBdQg497gHJw
 378	My Little Brown Book	Duke Ellington	Deep Soft Jazz	INDIFFERENT	566P7PhXvrE	MPREb_j7aovqlqLNd	UCvwUPRgFawNNBdQg497gHJw
-420	Black Beauty	Duke Ellington	Jazz Cocktail	INDIFFERENT	EijrjndyYLA	MPREb_qzBBPtVTTXQ	UCvwUPRgFawNNBdQg497gHJw
 483	The Swinger's Jump (Alternate Take)	Duke Ellington	Blues In Orbit	INDIFFERENT	LPr5v6vzcKg	MPREb_oUOp2SgObne	UCvwUPRgFawNNBdQg497gHJw
 615	The Jeep Is Jumpin'	Duke Ellington	Jazz For Driving	INDIFFERENT	GWejMdAA5C0	MPREb_funNJDy9esE	UCvwUPRgFawNNBdQg497gHJw
 637	"Take the ""A"" Train"	Duke Ellington	Piano In The Background (Expanded Edition)	INDIFFERENT	MQ_vOm-mAys	MPREb_BtfHTS9NAmS	UCvwUPRgFawNNBdQg497gHJw
@@ -728,7 +728,6 @@
 771	I've Got You Under My Skin	Charlie Parker	Bird 100	INDIFFERENT	AV3EvVbz8ao	MPREb_FkXjGGZx8x5	UCPFmyRluI7yvEdbHCrecUng
 870	I'm In The Mood For Love	Charlie Parker	Black Beauty Jazz - Stardust	INDIFFERENT	vw3ImM_wtGc	MPREb_ice1SeGFcPW	UCPFmyRluI7yvEdbHCrecUng
 877	Billie's Bounce (Original Take 5)	Charlie Parker	The Charlie Parker Story	INDIFFERENT	ChMEL38sc0w	MPREb_cJBy3Y7AlbA	UCPFmyRluI7yvEdbHCrecUng
-898	My Old Flame	Charlie Parker	Jazz for a Lazy Day	INDIFFERENT	O-o3jzvKpkA	MPREb_76P8FKVk7iW	UCPFmyRluI7yvEdbHCrecUng
 913	Donna Lee	Charlie Parker	The Very Best Of The Dial Years	INDIFFERENT	IoosxMJEy60	MPREb_XYvkHyF4O50	UCPFmyRluI7yvEdbHCrecUng
 914	Confirmation	Charlie Parker	Charlie Parker	INDIFFERENT	L2JNFHzRzzs	MPREb_PBt1RJZavJh	UCPFmyRluI7yvEdbHCrecUng
 930	Cherokee	Charlie Parker	Cherokee (19 Versions Performed By:)	INDIFFERENT	52-b0WLELyw	MPREb_duDUEsSYpwC	UCPFmyRluI7yvEdbHCrecUng
@@ -748,7 +747,6 @@
 570	Opus 3	Charles Mingus	Mingus Moves	INDIFFERENT	OMKy-g7orR0	MPREb_jnUbNwN9mgv	UCXSaOCck3oVxhB4W_4Ca3MQ
 641	Girl Of My Dreams	Charles Mingus	Mingus Ah Um	INDIFFERENT	7KAGIbTj1pY	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
 646	East Coasting	Charles Mingus	East Coasting	INDIFFERENT	D-gQZ0gbmzQ	MPREb_Oa7d9TfWJEo	UCXSaOCck3oVxhB4W_4Ca3MQ
-710	I've Got You Under My Skin	Charles Mingus	Jazz for a Lazy Day	INDIFFERENT	L9EuA6B22C0	MPREb_IfgAEdMWqr9	UCXSaOCck3oVxhB4W_4Ca3MQ
 872	Open Letter To Duke	Charles Mingus	Mingus Ah Um	INDIFFERENT	nyBBmoC-8s4	MPREb_YBmh8581kkE	UCXSaOCck3oVxhB4W_4Ca3MQ
 873	Profile of Jackie	Charles Mingus	The Very Best Of Charles Mingus	INDIFFERENT	hEtNsCiIV2c	MPREb_XsZjdNW98I8	UCXSaOCck3oVxhB4W_4Ca3MQ
 205	How Can I Tell You?	Charles Lloyd Quartet	Discovery!	INDIFFERENT	wFAofzpsz7g	MPREb_rsLKHmCAPEE	UCJHWF7HhOoMQ2cpGOMUL7cw
@@ -849,7 +847,7 @@
 209	Tempo Feliz	Baden Powell	Tempo Feliz	INDIFFERENT	ReGhsBbR2no	MPREb_L2VUqgvxInN	UC3wsl-MT-3zBC-PSy7jT5Gw
 499	Lamento	Baden Powell	Personalidade: Baden Powell	INDIFFERENT	73zfY03gBMw	MPREb_uG8X6gbVGpb	UC3wsl-MT-3zBC-PSy7jT5Gw
 463	If You Were Mine	BILLIE HOLIDAY	Song Parade - Music Mix	INDIFFERENT	a8k1ZlyH9QE	MPREb_CqPqy1min40	UCW-raws5Iq2xLADkLcEoVaA
-487	We Will Meet Again (For Harry) (Remastered Version)	BILL EVANS	Les incontournables du jazz - Bill Evans	INDIFFERENT	7FQpb6yhRQg	MPREb_IteMEcKirNX	UCriB97bZopXsBHVYOQEIIZg
+487	We Will Meet Again (For Harry) [Remastered Version]	BILL EVANS	Les incontournables du jazz - Bill Evans	INDIFFERENT	7FQpb6yhRQg	MPREb_IteMEcKirNX	UCriB97bZopXsBHVYOQEIIZg
 81	"Take the ""A"" Train (Rerecorded)"	BBC Big Band Orchestra	Big Band Favorites	INDIFFERENT	2ymqjjYX5X0	MPREb_7IPT0ydrF0T	UCX1zuIkSZimJR1IbCPUjwuw
 140	Nuggets of Wisdom	BADBADNOTGOOD	Sour Soul	INDIFFERENT	u-qDHETE65M	MPREb_rYmDpSJ4TDA	UCeLdRRQwPb-KP8Qj7j3P5dw
 319	Ponteio	Astrud Gilberto	Astrud Gilberto W/ Stanley Turrentine	INDIFFERENT	1wP7vOs2-Kg	MPREb_LcblICvAQsK	UCHfuC6qjRi-7wQobu_WCuig
@@ -934,5 +932,7 @@
 916	All the Things You Are	Charlie Parker Quintet	Originators of Modern Jazz		fnNRPHj8bAE		
 915	A Night In Tunisia	Charlie Parker & Dizzy Gillespie	The Legendary Town Hall Concert New York 1945		gcaG1IycrJ4		
 917	Anthropology	Charlie Parker & Dizzy Gillespie	Bird & Diz		87F7Os81tV8		
+898	My Old Flame	Charlie Parker	Jazz for a Lazy Day		O-o3jzvKpkA		
 918	Ornithology	Charlie Parker	Smooth Jazz Sounds Volume 5		9cRFRcDMRNY		
+710	I've Got You Under My Skin	Charles Mingus	Jazz for a Lazy Day		L9EuA6B22C0		
 600	Some Other Spring	Art Tatum, Benny Carter, Loule Bellson, Roy Eldrige, Buddy De Franco, and Ben Webster	The Complete Pablo Group Masterpieces (Hd Remastered Edition, Doxy Collection)		YC_GlhI7Ayk		
