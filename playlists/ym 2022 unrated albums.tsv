@@ -1,6 +1,4 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-292	WHERE WE ARE	The Lumineers	BRIGHTSIDE	LIKE	HEdPgnKmPRk	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-294	BIG SHOT	The Lumineers	BRIGHTSIDE	LIKE	FTCV4KyEjvs	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
 234	The River	The Black Angels	Wilderness of Mirrors	LIKE	bm8OGsMfWOg	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 67	Silent Chord	Soichi Terada	Asakusa Light	LIKE	W9BbIBEXOqY	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
 70	Diving into Minds	Soichi Terada	Asakusa Light	LIKE	Pq6oblWddm0	MPREb_2bnDQw9Ain1	UCihTrOdF9aRCgYnqCYqYzvw
@@ -88,13 +86,15 @@
 101	Need More Bandages	The Mountain Goats	Bleed Out	INDIFFERENT	DQPZp0SpThc	MPREb_jRIrYaYdLnj	UCZxwihQYwXEogN-DGfngwcw
 102	Incandescent Ruins	The Mountain Goats	Bleed Out	INDIFFERENT	tUcxsf_kbBE	MPREb_jRIrYaYdLnj	UCZxwihQYwXEogN-DGfngwcw
 103	Bleed Out	The Mountain Goats	Bleed Out	INDIFFERENT	pB9MsCzN7ik	MPREb_jRIrYaYdLnj	UCZxwihQYwXEogN-DGfngwcw
-290	BRIGHTSIDE	The Lumineers	BRIGHTSIDE	INDIFFERENT	1cmvB906kFM	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-291	A.M. RADIO	The Lumineers	BRIGHTSIDE	INDIFFERENT	uu6l4PZO9Jw	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-293	BIRTHDAY	The Lumineers	BRIGHTSIDE	INDIFFERENT	i6snMr8lb6w	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-295	NEVER REALLY MINE	The Lumineers	BRIGHTSIDE	INDIFFERENT	qZYkg46e1yk	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-296	ROLLERCOASTER	The Lumineers	BRIGHTSIDE	INDIFFERENT	xdLXWhmuyfE	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-297	REMINGTON	The Lumineers	BRIGHTSIDE	INDIFFERENT	tjqMcs8bMQI	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
-298	REPRISE	The Lumineers	BRIGHTSIDE	INDIFFERENT	1lqriN2Df04	MPREb_TqLgtNd67Z4	UCMcghb8JhNIYntWea9QKFGA
+290	BRIGHTSIDE	The Lumineers	BRIGHTSIDE	INDIFFERENT	VZOBNSb-gVo	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+291	A.M. RADIO	The Lumineers	BRIGHTSIDE	INDIFFERENT	v8UeqoewEaI	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+292	WHERE WE ARE	The Lumineers	BRIGHTSIDE	INDIFFERENT	GTyWh8kTnSk	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+293	BIRTHDAY	The Lumineers	BRIGHTSIDE	INDIFFERENT	WDTk7kY6K1I	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+294	BIG SHOT	The Lumineers	BRIGHTSIDE	INDIFFERENT	UBi2CW5ADuo	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+295	NEVER REALLY MINE	The Lumineers	BRIGHTSIDE	INDIFFERENT	zbCHeaD169c	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+296	ROLLERCOASTER	The Lumineers	BRIGHTSIDE	INDIFFERENT	0fuapYaZ6bk	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+297	REMINGTON	The Lumineers	BRIGHTSIDE	INDIFFERENT	H6nYa-s5DXk	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
+298	REPRISE	The Lumineers	BRIGHTSIDE	INDIFFERENT	HiOg1I3Gc3s	MPREb_vmJAvmNaSDC	UCMcghb8JhNIYntWea9QKFGA
 227	Without a Trace	The Black Angels	Wilderness of Mirrors	INDIFFERENT	1nqfhyJVNOo	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 228	History of the Future	The Black Angels	Wilderness of Mirrors	INDIFFERENT	2kTOLP3mmSw	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
 229	Empires Falling	The Black Angels	Wilderness of Mirrors	INDIFFERENT	DDKQ-CuYOQs	MPREb_2n6V5NdygkD	UCdMCMtXUYb-9gvK1srSECuQ
@@ -713,16 +713,16 @@
 608	15 SEKUNDEN	DIE NERVEN	DIE NERVEN	INDIFFERENT	kNT-1fA-T1w	MPREb_gz7dhg2ti2E	UCTDNZWBDoYZSWSUkuV2P4_w
 609	EIN TAG	DIE NERVEN	DIE NERVEN	INDIFFERENT	CgIwEbv7aHc	MPREb_gz7dhg2ti2E	UCTDNZWBDoYZSWSUkuV2P4_w
 610	180°	DIE NERVEN	DIE NERVEN	INDIFFERENT	it3FwLFoubE	MPREb_gz7dhg2ti2E	UCTDNZWBDoYZSWSUkuV2P4_w
-456	Takeover	Cypress Hill	Back in Black	INDIFFERENT	azYrOX6pdd8	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-457	Open Ya Mind	Cypress Hill	Back in Black	INDIFFERENT	CqqSDZUhlQk	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-458	Certified (feat. Demrick)	Cypress Hill	Back in Black	INDIFFERENT	hitW-5LSoSk	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-459	Bye Bye (feat. Dizzy Wright)	Cypress Hill	Back in Black	INDIFFERENT	_krmOc9zOP8	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-460	Come With Me	Cypress Hill	Back in Black	INDIFFERENT	HCCLi3dClDc	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-461	The Original	Cypress Hill	Back in Black	INDIFFERENT	2iqpn0TL_8U	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-462	Hit Em'	Cypress Hill	Back in Black	INDIFFERENT	xnJTXPjB9I8	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-463	Break of Dawn	Cypress Hill	Back in Black	INDIFFERENT	E9qK1UeWHBw	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-464	Champion Sound	Cypress Hill	Back in Black	INDIFFERENT	GnCTTCiYJzE	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
-465	The Ride	Cypress Hill	Back in Black	INDIFFERENT	pP4X7tgoH3U	MPREb_fZGqrxUJZtj	UCcxp6abw1T9DmxzFIWLAz4g
+456	Takeover	Cypress Hill	Back in Black	INDIFFERENT	MsKrF8JyKrQ	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+457	Open Ya Mind	Cypress Hill	Back in Black	INDIFFERENT	b6qfrAiMXNU	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+458	Certified (feat. Demrick)	Cypress Hill	Back in Black	INDIFFERENT	jPEu7Q0xnek	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+459	Bye Bye (feat. Dizzy Wright)	Cypress Hill	Back in Black	INDIFFERENT	kfDLjtyMUpg	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+460	Come With Me	Cypress Hill	Back in Black	INDIFFERENT	E-hMZ7h8b8E	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+461	The Original	Cypress Hill	Back in Black	INDIFFERENT	ZhVo16zMrR4	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+462	Hit Em'	Cypress Hill	Back in Black	INDIFFERENT	Q12Hxm-sXfo	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+463	Break of Dawn	Cypress Hill	Back in Black	INDIFFERENT	68oN1gciBZU	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+464	Champion Sound	Cypress Hill	Back in Black	INDIFFERENT	v_hl9gXzSEk	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
+465	The Ride	Cypress Hill	Back in Black	INDIFFERENT	fKEoQrPgu-U	MPREb_7fbjVI93rja	UCcxp6abw1T9DmxzFIWLAz4g
 199	Bel DEEWEE	Charlotte Adigéry	Topical Dancer	INDIFFERENT	O5Wc4i9AgNI	MPREb_EV252gQoM7q	UCnImc0hhpDBFV8-vY0G8kKQ
 200	Esperanto	Charlotte Adigéry	Topical Dancer	INDIFFERENT	7kl4GOOEpNg	MPREb_EV252gQoM7q	UCnImc0hhpDBFV8-vY0G8kKQ
 201	Blenda	Charlotte Adigéry	Topical Dancer	INDIFFERENT	nhDkME3qvwk	MPREb_EV252gQoM7q	UCnImc0hhpDBFV8-vY0G8kKQ

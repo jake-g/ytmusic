@@ -97,7 +97,7 @@
 563	Down The Road Apiece	The Rolling Stones	The Rolling Stones, Now!	LIKE	HOpjhvCSDTM	MPREb_mFD0YBbYyii	UCNYhhkQqeFLUc-YEDcLpSYQ
 606	Just My Imagination (Running Away With Me)	The Rolling Stones	Some Girls	LIKE	_FDlZPOLn0M	MPREb_or65rLBCsPI	UCNYhhkQqeFLUc-YEDcLpSYQ
 616	Country Honk	The Rolling Stones	Let It Bleed	LIKE	LHiaxet1y0U	MPREb_kha2P1MrZxA	UCNYhhkQqeFLUc-YEDcLpSYQ
-643	(I Can't Get No) Satisfaction (Mono Version)	The Rolling Stones	Out Of Our Heads	LIKE	eUpb-ALfUzc	MPREb_Qwq4LVKn4lC	UCNYhhkQqeFLUc-YEDcLpSYQ
+643	(I Can't Get No) Satisfaction (Mono)	The Rolling Stones	Out Of Our Heads	LIKE	eUpb-ALfUzc	MPREb_Qwq4LVKn4lC	UCNYhhkQqeFLUc-YEDcLpSYQ
 646	Wild Horses (2005 Digital Remaster)	The Rolling Stones	Made In The Shade (2005 Digital Remaster)	LIKE	nY_GgPi5eCM	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
 686	Get Off Of My Cloud (Mono Version)	The Rolling Stones	December’s Children (And Everybody’s)	LIKE	gZYjeKyONjY	MPREb_nLe4nJayzl0	UCNYhhkQqeFLUc-YEDcLpSYQ
 691	Doo Doo Doo Doo (Heartbreaker) (2005 Digital Remaster)	The Rolling Stones	Made In The Shade (2005 Digital Remaster)	LIKE	jhnn3St0i7U	MPREb_08TfHoGdOdG	UCNYhhkQqeFLUc-YEDcLpSYQ
@@ -172,7 +172,6 @@
 940	Jesus Is Just Alright with Me (2006 Remaster Single Version)	The Doobie Brothers	The Very Best Of	LIKE	zJTd2PoytiE	MPREb_PIAnNY8JaJB	UCu_glVzsM9pvbSyXi2zzuVA
 29	Should I Stay or Should I Go	The Clash	Combat Rock	LIKE	wjZMcWaniA4	MPREb_zDsyQq5Wq65	UCf-a_3DiA07vhQmoEaczDhw
 786	One Fine Day	The Chiffons	Buenos Días Con Música Vol. 1	LIKE	-CIASxYVFqs	MPREb_lV9eIQ93p0n	UCrrXKjbhymi4ucJCPsoM1Vg
-974	He's so Fine	The Chiffons	The Laurie Records Story, Vol. 1	LIKE	-s6HZpkdwhc	MPREb_QrpyyBG7niA	UCrrXKjbhymi4ucJCPsoM1Vg
 311	Moving in Stereo	The Cars	The Cars	LIKE	y5oPZFDci80	MPREb_wZVikglLr7Z	UCu_gFD6YgmN85WjTSIotYcA
 447	Good Times Roll	The Cars	The Cars	LIKE	Ki6xHnDAwHw	MPREb_wZVikglLr7Z	UCu_gFD6YgmN85WjTSIotYcA
 60	5D (Fifth Dimension)	The Byrds	The Essential Byrds	LIKE	TVhuetyjmxE	MPREb_gAOs1PnjNS1	UCWgHSjTVKbR3z-MKow8OydA
@@ -444,10 +443,6 @@
 368	I Keep Forgettin' (Every Time You're Near)	Michael McDonald	If That's What It Takes	LIKE	L0qBulm0hbg	MPREb_A0WRgyCJWPy	UC4CEZYmbUU_8RuzllOM2scg
 358	St. Elmo's Fire	Michael Franks	The Art Of Tea	LIKE	hQ0XexvYSyM	MPREb_DKXSbfH85i3	UCe1H6pPq_H79ZldTBHl2dFA
 247	Whenever I Call You Friend	Melissa Manchester	Platinum & Gold Collection	LIKE	qfYbEry3iws	MPREb_CeDaPLp531V	UC6aYMK9vFN26QOm3fP0PXQw
-430	Searchin' for a Rainbow	Marshall Tucker Band	Greatest Hits	LIKE	1hkqZdruFoY	MPREb_atD13DLunCc	UCtkFGqxsQ1ykX0Sw-wtBEeQ
-542	Can't You See	Marshall Tucker Band	Greatest Hits	LIKE	Ruyb5wi1CGs	MPREb_atD13DLunCc	UCtkFGqxsQ1ykX0Sw-wtBEeQ
-581	Heard It in a Love Song	Marshall Tucker Band	Love Songs	LIKE	wnGXFWCWamg	MPREb_UugcoWDhizS	UCtkFGqxsQ1ykX0Sw-wtBEeQ
-862	Can't You See	Marshall Tucker Band	Love Songs	LIKE	kiLX2WYjws4	MPREb_UugcoWDhizS	UCtkFGqxsQ1ykX0Sw-wtBEeQ
 787	Blinded By The Light (Single edit)	Manfred Mann's Earth Band	The Roaring Silence	LIKE	V6TtGuyrX5A	MPREb_idvDHpZNvoy	UC98Lw7GVRYt8MYblCNkM_tw
 926	Kick Out the Jams	MC5	60s Rock Party	LIKE	CX7iksjo7O0	MPREb_nnZQUiU647b	UCys4Uqf53x_6zI0Jgyvq1BA
 84	What's Your Name	Lynyrd Skynyrd	Best Of	LIKE	HWdAB7NNqxU	MPREb_AiCRFkvIWV6	UCk-bnZ8hrdOrKYGJ4JGcVzQ
@@ -987,6 +982,11 @@
 297	For Those About to Rock (We Salute You)	AC/DC	For Those About to Rock (We Salute You)	LIKE	qsaTFcXVCNU	MPREb_OQL07QPipUl	UCVm4YdI3hobkwsHTTOMVJKg
 417	Hold On Loosely	38 Special	Flashback	LIKE	ikHvz4zfZrw	MPREb_bnyB0uPJZ0w	UCdShUpkYKPfRT0Vsqo4kg4w
 474	I'm Not In Love	10cc	The Original Soundtrack	LIKE	PC2HkP5gR2g	MPREb_NSVzJXL4T0Z	UCjyD_pnM14qs0xwkwvzVsTw
+430	Searchin' for a Rainbow	The Marshall Tucker Band	Greatest Hits	INDIFFERENT	SYwGeHvjR_s	MPREb_G4XWFKe0Tor	UCtkFGqxsQ1ykX0Sw-wtBEeQ
+542	Can't You See	The Marshall Tucker Band	Love Songs	INDIFFERENT	SRbvpd7rBjA	MPREb_sNv6LxOtpok	UCtkFGqxsQ1ykX0Sw-wtBEeQ
+581	Heard It in a Love Song	The Marshall Tucker Band	Love Songs	INDIFFERENT	lUrkVsrFTGg	MPREb_sNv6LxOtpok	UCtkFGqxsQ1ykX0Sw-wtBEeQ
+862	Can't You See	The Marshall Tucker Band	Love Songs	INDIFFERENT	SRbvpd7rBjA	MPREb_sNv6LxOtpok	UCtkFGqxsQ1ykX0Sw-wtBEeQ
+974	He's So Fine (Remastered 2000)	The Chiffons	60s Best of by uDiscover	INDIFFERENT	Dg6IcdGB2y0	MPREb_kICfsr1OgJ1	UCrrXKjbhymi4ucJCPsoM1Vg
 416	Achilles Last Stand (1990 Remaster)	Led Zeppelin	Presence (1994 Remaster)		nlRjjGc6pJA		
 647	In My Defence	Freddie Mercury	Messenger of the Gods: The Singles Collection		m1VAF3OSZFE		
 289	Tears in Heaven (Acoustic) [Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992] (Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster)	Eric Clapton	Unplugged		wr8ZUWEgesQ		

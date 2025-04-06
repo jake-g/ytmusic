@@ -1,8 +1,8 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-809	Some Chords	deadmau5	4x4=12	LIKE	qGg9b-FPj8Y	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
-810	Animal Rights	deadmau5	4x4=12	LIKE	iO1Tr9itZUc	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
-811	I Said (Michael Woods Remix)	deadmau5	4x4=12	LIKE	TKcPdlywUOs	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
-812	Everything Before	deadmau5	4x4=12	LIKE	G0FYOvidxAA	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
+808	Some Chords	deadmau5	4x4=12	LIKE	qGg9b-FPj8Y	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
+809	Animal Rights	deadmau5	4x4=12	LIKE	iO1Tr9itZUc	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
+810	I Said (Michael Woods Remix)	deadmau5	4x4=12	LIKE	TKcPdlywUOs	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
+811	Everything Before	deadmau5	4x4=12	LIKE	G0FYOvidxAA	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
 613	Sacré Cool	Young Montana?	Limerence	LIKE	JWfYdW6l4Lg	MPREb_VmHSIId2c5q	
 614	Midnight Snacks	Young Montana?	Limerence	LIKE	gLygDmDjRG4	MPREb_VmHSIId2c5q	
 615	Connct	Young Montana?	Limerence	LIKE	ikIymAHS5mc	MPREb_VmHSIId2c5q	
@@ -608,45 +608,32 @@
 5	Fountain Stairs	Deerhunter	Halcyon Digest	LIKE	S_5bez7aqJE	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
 6	Coronado	Deerhunter	Halcyon Digest	LIKE	7HIYBo4K6MY	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
 7	He Would Have Laughed	Deerhunter	Halcyon Digest	LIKE	LF0_YS5oDkI	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
-813	Earthquake	Deerhunter	Halcyon Digest	LIKE	mzqboCim3ds	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
-814	Don't Cry	Deerhunter	Halcyon Digest	LIKE	r5_RMSfTzBI	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
-815	Revival	Deerhunter	Halcyon Digest	LIKE	bTNHpxb8bBE	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
-802	When It Comes to You	Dead Ghosts	Dead Ghosts	LIKE	C3us19SHkJ4	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-803	She Likes It	Dead Ghosts	Dead Ghosts	LIKE	HoYSROUQr0M	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-804	Girl Across the Street	Dead Ghosts	Dead Ghosts	LIKE	R6Bj0O29euo	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-805	Dead Ghosts	Dead Ghosts	Dead Ghosts	LIKE	cTT7I7lsrks	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-806	How the West Was Fun	Dead Ghosts	Dead Ghosts	LIKE	HoemRbCJ1sA	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-807	What to Do	Dead Ghosts	Dead Ghosts	LIKE	zD8_oK2_XDM	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-808	I Want Your Love	Dead Ghosts	Dead Ghosts	LIKE	UjWbsSY3zNc	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
-796	Gold	Darkstar	North	LIKE	_h9CsESPFlU	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-797	Deadness	Darkstar	North	LIKE	_1bpXi3ZyNI	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-798	Aidys Girl's a Computer	Darkstar	North	LIKE	Qq54NvYQtLg	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-799	North	Darkstar	North	LIKE	jooNQxu-Eb4	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-800	Dear Heartbeat	Darkstar	North	LIKE	8PVeNDAAV8A	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-801	When It's Gone	Darkstar	North	LIKE	jzqGlywbml4	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
-790	"The Son of Flynn (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	mqgEYRtWMJU	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
-791	"Adagio For TRON (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	-gKrIBR83b8	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
-792	"Nocturne (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	yFnKYQR_tjY	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
-793	"End of Line (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	NOMa56y_Was	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
-794	"Solar Sailer (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	f9cKyVJuV2Y	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
-795	"TRON Legacy (End Titles) (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	G6tuvKE6_lA	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
-788	Order of the Golden Dawn	Daedelus	Righteous Fists of Harmony	LIKE	VVl8jYC3OzY	MPREb_ifPh07xXn9V	UCip_SyCPAcNxdrh3q0_97_g
-789	Fin De Siécle	Daedelus	Righteous Fists of Harmony	LIKE	W1T3pAAOAmI	MPREb_ifPh07xXn9V	UCip_SyCPAcNxdrh3q0_97_g
-786	Champion Sound	Crystal Fighters	Star of Love (Deluxe Edition)	LIKE	uqMGNAQa0SY	MPREb_bO1IiIbd2q9	UCnF7eZIlr3ktaXPAu2ejNPQ
-787	I Love London	Crystal Fighters	Star of Love (Deluxe Edition)	LIKE	RU9k94x6CXQ	MPREb_bO1IiIbd2q9	UCnF7eZIlr3ktaXPAu2ejNPQ
-773	Untrust Us	Crystal Castles	Crystal Castles	LIKE	nn36ZbP8DLI	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-774	Alice Practice	Crystal Castles	Crystal Castles	LIKE	SCxn0uXSchQ	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-775	Crimewave	Crystal Castles	Crystal Castles	LIKE	91CgneMIe_A	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-776	Magic Spells	Crystal Castles	Crystal Castles	LIKE	HH6e6GeIDfo	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-777	Air War	Crystal Castles	Crystal Castles	LIKE	pQGorGyheL8	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-778	Courtship Dating	Crystal Castles	Crystal Castles	LIKE	2JIKczdqCOI	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-779	Good Time	Crystal Castles	Crystal Castles	LIKE	hzsZopWSpAI	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-780	1991	Crystal Castles	Crystal Castles	LIKE	_lTRq2I3_P4	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-781	Vanished	Crystal Castles	Crystal Castles	LIKE	8BCXvyYmDW4	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-782	Reckless	Crystal Castles	Crystal Castles	LIKE	fyrmM_SYC0Q	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-783	Black Panther	Crystal Castles	Crystal Castles	LIKE	cpXmBZmJsT0	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-784	Tell Me What To Swallow	Crystal Castles	Crystal Castles	LIKE	GgHwlEvHNpI	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
-785	Air War (David Wolf Remix)	Crystal Castles	Crystal Castles	LIKE	Ozoq6pqm5gk	MPREb_KInRL8MoAec	UCWXtOmLntYej6FJH8Co7j6w
+812	Earthquake	Deerhunter	Halcyon Digest	LIKE	mzqboCim3ds	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
+813	Don't Cry	Deerhunter	Halcyon Digest	LIKE	r5_RMSfTzBI	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
+814	Revival	Deerhunter	Halcyon Digest	LIKE	bTNHpxb8bBE	MPREb_xCq8EH5YEYK	UCYvqcYNDW5Ebw6nnq-mYN4Q
+801	When It Comes to You	Dead Ghosts	Dead Ghosts	LIKE	C3us19SHkJ4	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+802	She Likes It	Dead Ghosts	Dead Ghosts	LIKE	HoYSROUQr0M	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+803	Girl Across the Street	Dead Ghosts	Dead Ghosts	LIKE	R6Bj0O29euo	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+804	Dead Ghosts	Dead Ghosts	Dead Ghosts	LIKE	cTT7I7lsrks	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+805	How the West Was Fun	Dead Ghosts	Dead Ghosts	LIKE	HoemRbCJ1sA	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+806	What to Do	Dead Ghosts	Dead Ghosts	LIKE	zD8_oK2_XDM	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+807	I Want Your Love	Dead Ghosts	Dead Ghosts	LIKE	UjWbsSY3zNc	MPREb_T9gNmF2qx1n	UC4GaG0Z8KQ7fToZElC_OuoQ
+795	Gold	Darkstar	North	LIKE	_h9CsESPFlU	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
+796	Deadness	Darkstar	North	LIKE	_1bpXi3ZyNI	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
+797	Aidys Girl's a Computer	Darkstar	North	LIKE	Qq54NvYQtLg	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
+798	North	Darkstar	North	LIKE	jooNQxu-Eb4	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
+799	Dear Heartbeat	Darkstar	North	LIKE	8PVeNDAAV8A	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
+800	When It's Gone	Darkstar	North	LIKE	jzqGlywbml4	MPREb_k6lLCzQEoD3	UCRAlMv7W0hJeULsSNnX56sA
+789	"The Son of Flynn (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	mqgEYRtWMJU	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
+790	"Adagio For TRON (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	-gKrIBR83b8	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
+791	"Nocturne (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	yFnKYQR_tjY	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
+792	"End of Line (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	NOMa56y_Was	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
+793	"Solar Sailer (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	f9cKyVJuV2Y	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
+794	"TRON Legacy (End Titles) (From ""TRON: Legacy""/Score)"	Daft Punk	TRON: Legacy	LIKE	G6tuvKE6_lA	MPREb_BQHrCwSBM37	UCRr1xG_2WIDs18a6cIiCxeA
+787	Order of the Golden Dawn	Daedelus	Righteous Fists of Harmony	LIKE	VVl8jYC3OzY	MPREb_ifPh07xXn9V	UCip_SyCPAcNxdrh3q0_97_g
+788	Fin De Siécle	Daedelus	Righteous Fists of Harmony	LIKE	W1T3pAAOAmI	MPREb_ifPh07xXn9V	UCip_SyCPAcNxdrh3q0_97_g
+785	Champion Sound	Crystal Fighters	Star of Love (Deluxe Edition)	LIKE	uqMGNAQa0SY	MPREb_bO1IiIbd2q9	UCnF7eZIlr3ktaXPAu2ejNPQ
+786	I Love London	Crystal Fighters	Star of Love (Deluxe Edition)	LIKE	RU9k94x6CXQ	MPREb_bO1IiIbd2q9	UCnF7eZIlr3ktaXPAu2ejNPQ
 769	Cyanide Sisters	Com Truise	Cyanide Sisters EP	LIKE	1Xxe3S-CYiI	MPREb_dCLvUCzQWjs	UC3G1cV92stSGOy4cLgXmgJQ
 770	Sundriped	Com Truise	Cyanide Sisters EP	LIKE	OXNFFeI6M3c	MPREb_dCLvUCzQWjs	UC3G1cV92stSGOy4cLgXmgJQ
 771	Slow Peels	Com Truise	Cyanide Sisters EP	LIKE	ynkRY8Vt3OQ	MPREb_dCLvUCzQWjs	UC3G1cV92stSGOy4cLgXmgJQ
@@ -815,3 +802,15 @@
 569	Bees	Ty Segall	Melted	INDIFFERENT	ojxB2o9-wv4	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw
 570	Mrs.	Ty Segall	Melted	INDIFFERENT	ZUMJiz5PHzc	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw
 571	Alone	Ty Segall	Melted	INDIFFERENT	mQu2FVMVjxs	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw
+773	Untrust Us	Crystal Castles	Crystal Castles	INDIFFERENT	TQXHruZzLQM	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+774	Alice Practice	Crystal Castles	Crystal Castles	INDIFFERENT	u1W3kJ4Rza4	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+775	Magic Spells	Crystal Castles	Crystal Castles	INDIFFERENT	L-a1KzgW058	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+776	Air War	Crystal Castles	Crystal Castles	INDIFFERENT	m0bpB4I8Y5Q	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+777	Courtship Dating	Crystal Castles	Crystal Castles	INDIFFERENT	zZ9gMvRJBy4	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+778	Good Time	Crystal Castles	Crystal Castles	INDIFFERENT	wImE3UZlQvo	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+779	1991	Crystal Castles	Crystal Castles	INDIFFERENT	M-6YHHSsOlE	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+780	Vanished	Crystal Castles	Crystal Castles	INDIFFERENT	m_ZeOmmE_ec	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+781	Reckless	Crystal Castles	Crystal Castles	INDIFFERENT	JeGvZ6UFx7c	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+782	Black Panther	Crystal Castles	Crystal Castles	INDIFFERENT	MXBlEq9J0Vc	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+783	Tell Me What To Swallow	Crystal Castles	Crystal Castles	INDIFFERENT	fvGtmx3Hyx4	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w
+784	Air War (David Wolf Remix)	Crystal Castles	Crystal Castles	INDIFFERENT	qDjnSP7Acb4	MPREb_rshkVgUDyUe	UCWXtOmLntYej6FJH8Co7j6w

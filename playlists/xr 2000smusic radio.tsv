@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 551	Gives You Hell	The All-American Rejects	When The World Comes Down	LIKE	r0xX02BMwic	MPREb_pWi8kuPgCTs	UCIo16EqSZ0A4HXA-kf5rSuQ
 329	Tribute	Tenacious D	Tenacious D	LIKE	Vdq3BtWDRq8	MPREb_6xOcwH8wtDd	UChThjXuCoIJlougReIFCV1Q
+711	Hey There Delilah	Plain White T's	All That We Needed	LIKE	oEeet9t--tI	MPREb_UqsFHwLwCOX	UCy4q3Mhtp7l1e06PvtT1j2g
 411	Every Day Is Exactly The Same	Nine Inch Nails	With Teeth	LIKE	BXqblYbUAeI	MPREb_pA4L4WvzGTd	UC8txE2ZyN2Sh8XxH5OkHLSw
 108	In the End	Linkin Park	Hybrid Theory (Bonus Edition)	LIKE	BLZWkjBXfN8	MPREb_m10OjDmOhfv	UCxgN32UVVztKAQd2HkXzBtw
 139	In the End	Linkin Park	Hybrid Theory	LIKE	Un8Uv1psMOI	MPREb_bivSECiIj20	UCxgN32UVVztKAQd2HkXzBtw
@@ -282,7 +283,6 @@
 750	Your Body	Pretty Ricky	Bluestars	INDIFFERENT	7fwo5jE8frE	MPREb_6YSlIa9Arss	UCm8o858RP29fWl3TOMlRysA
 675	Bombshell	Powerman 5000	Anyone For Doomsday?	INDIFFERENT	AxaQWzHJl6E	MPREb_t6F98e4WwBV	UCi3PoIy4iZZIYLLu9sBUW6w
 855	Chase the Sun	Planet Funk	Non Zero Sumness Plus One	INDIFFERENT	GMFCLfqGldQ	MPREb_96CXiI4iEw1	UCzKJq8-t6r9AT5zdTs6J7pw
-711	Hey There Delilah	Plain White T's	All That We Needed	INDIFFERENT	oEeet9t--tI	MPREb_UqsFHwLwCOX	UCy4q3Mhtp7l1e06PvtT1j2g
 727	Take Me Away	Plain White T's	All That We Needed	INDIFFERENT	tVYrCwGimUc	MPREb_UqsFHwLwCOX	UCy4q3Mhtp7l1e06PvtT1j2g
 230	California (Tchad Blake Mix)	Phantom Planet	The Guest (Expanded Edition)	INDIFFERENT	EbEzT8j-gF8	MPREb_85jRNI2gtrj	UC8Y9FYkzPFCRANEyPkzrhyw
 705	Mutter aller Parties	PeterLicht	Vierzehn Lieder	INDIFFERENT	fqmzMtp6CFI	MPREb_u4OK5qICrXF	UCAuV9n_xloLsdtgwHCcyhpQ
@@ -380,7 +380,7 @@
 909	All That You Are	Mudvayne	Lost and Found	INDIFFERENT	9nDBYC23xq4	MPREb_z2C7d97lmnG	UCxrKKd7SOgsrFYA-qgiLFcg
 238	Kalimba	Mr. Scruff	Kalimba	INDIFFERENT	yzDNVwKHF1I	MPREb_OKAzAeyTjhk	UCNB6EsiB-856BnyJluCIRGQ
 577	Lights, Camera, Action!	Mr. Cheeks	FB Entertainment Presents: The Good Life	INDIFFERENT	aZyeY6syjkc	MPREb_zwFmgspvGgN	UCkVDNc0e-pY2SLkUOCfbu6w
-351	The Pit	Mouse Rat	The Pit	INDIFFERENT	gd_HsyT6Q3s	MPREb_9SX1vHSeQvF	UCxNas2cfJtl7WaFa_Ff57Aw
+351	The Pit	Mouse Rat	The Pit	INDIFFERENT	E5GfxPBimss	MPREb_t1qa8nGOBEB	UCxNas2cfJtl7WaFa_Ff57Aw
 217	Blue Black Jack	Mos Def	The New Danger	INDIFFERENT	H8U1sfa7f2I	MPREb_gt6sz5hrvfn	UChAY_qKqbGyqau8q1gXkzww
 444	Chillin'	Modjo	Modjo	INDIFFERENT	hYeqlUgZuwQ	MPREb_9fDdKXDcKep	UCAbayp4OwUPyogIg330TM-Q
 271	Lift Me Up (2006 Remastered Version)	Moby	Go - The Very Best of Moby	INDIFFERENT	ErrRQDh0-Rg	MPREb_suThC81YXxx	UC35GdXKfexT9GAZv3SJq0uA
@@ -505,7 +505,7 @@
 10	Politics	Korn	See You On the Other Side	INDIFFERENT	RJO_1BhBIDA	MPREb_oDHD6fqBlEy	UCdSgOgQ0WtelXBMKF3tDsqg
 160	Evolution	Korn	Untitled	INDIFFERENT	vlp1CEA7EN0	MPREb_9wW2L36hdNm	UCdSgOgQ0WtelXBMKF3tDsqg
 536	Y'all Want a Single	Korn	Take A Look In The Mirror	INDIFFERENT	its72hjpWS8	MPREb_lvV0vcf64my	UCdSgOgQ0WtelXBMKF3tDsqg
-702	Freak on a Leash (Live At MTV Studio, NYC, 2006) (feat. Amy Lee)	Korn	MTV Unplugged (Live)	INDIFFERENT	eawsfqfl0Ug	MPREb_gXKWjr7ROE8	UCdSgOgQ0WtelXBMKF3tDsqg
+702	Freak on a Leash [Live At MTV Studio, NYC, 2006] (feat. Amy Lee)	Korn	MTV Unplugged (Live)	INDIFFERENT	eawsfqfl0Ug	MPREb_gXKWjr7ROE8	UCdSgOgQ0WtelXBMKF3tDsqg
 719	Here to Stay	Korn	Untouchables	INDIFFERENT	BaFJpIFKjmE	MPREb_P7a0PfF1KKW	UCdSgOgQ0WtelXBMKF3tDsqg
 174	The Beginning of the End	Klergy & Valerie Broussard	The Beginning of the End	INDIFFERENT	4No4j3doUxQ	MPREb_I3MiTz7jW6g	UCpAO438RDMZgqNq3Gm0i4FQ
 198	Use Somebody	Kings Of Leon	Only By The Night	INDIFFERENT	5xppdO2b2rc	MPREb_zPtbdm0qu8W	UCHqD2OBWbcWGmCve99uw47A
