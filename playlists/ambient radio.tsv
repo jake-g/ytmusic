@@ -1,10 +1,12 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+4	Charlie	loscil	Plume	LIKE	lm9BbFaFXPk	MPREb_Ng1iG2NwySQ	UC9EE9HaPwLsC7F6C9Po0HVg
 274	Ballad	Vangelis	Spiral	LIKE	q8oij_QFkZY	MPREb_w9nzLmj1xIL	UCNms80n59AltHVQuPgGrKkg
 276	Freefall	Vangelis	Albedo 0.39	LIKE	OlaFjfoxqks	MPREb_TsyZQyjpMyP	UCNms80n59AltHVQuPgGrKkg
 278	Boreal Kiss Pt. 1	Tim Hecker	Haunt Me	LIKE	ngneYPFkkTQ	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 21	Articulate Silences, Pt. 2	Stars of the Lid	And Their Refinement of the Decline	LIKE	xyQTPSSNL3g	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
-272	In Den Gärten Pharaos	Popol Vuh	In The Gardens Of Pharao	LIKE	VbnjEsZ8sjo	MPREb_sT7kuhrZcpb	UCkcrV0j00h0-I77wxL8T_bw
 20	A Warm Place	Nine Inch Nails	The Downward Spiral	LIKE	8fkx2hrLU1s	MPREb_meSRZ5P9CD1	UC8txE2ZyN2Sh8XxH5OkHLSw
+15	Says	Nils Frahm	Spaces	LIKE	luXZuPTJ3f8	MPREb_00DnPWqG6G4	UCHUlZT-VoVWIID4xcJZ5s6g
+179	Thrown	Kiasmos	Kiasmos	LIKE	NGBD-K-Behk	MPREb_YhdtKLW1LUJ	UCXWADwj6t4af0WJkP8LAIZw
 275	Night Rain	Deuter	Ecstasy	LIKE	0nVqTRwa7uo	MPREb_mg4BY8vVZjX	UCmKx7PP_bBsNpNsHAhx_a3A
 273	Little Spacey	Cocteau Twins	Victorialand	LIKE	_20iQfXCBBo	MPREb_rLqulYdDfyn	UCle3lHYlHgugefCCr78N1Gw
 23	Bonfire On the Field	Chihei Hatakeyama	Minima Moralia	LIKE	wRtGgQbZAxY	MPREb_5z5ZAP9PV8i	UCnW1zAfxQb2fuJQx3rCK1bw
@@ -13,7 +15,6 @@
 130	834.194	sakanaction	834.194	INDIFFERENT	0pId-CkeR28	MPREb_b2ZkPKDNbSz	UCtHYsFMAI733Qy6Es3wDU6g
 131	owari no kisetsu	rei harakami	[lust]	INDIFFERENT	wC1z9sNSaXo	MPREb_Ik2Lb4utbC8	UCC0p0O2MehP53JKPoXc3wdQ
 3	Mistral	loscil	Plume	INDIFFERENT	2rzkn_74crs	MPREb_Ng1iG2NwySQ	UC9EE9HaPwLsC7F6C9Po0HVg
-4	Charlie	loscil	Plume	INDIFFERENT	lm9BbFaFXPk	MPREb_Ng1iG2NwySQ	UC9EE9HaPwLsC7F6C9Po0HVg
 132	Fuha フハ (e o) - Fuha (e o)	cero	e o	INDIFFERENT	4ruCdNKpcAE	MPREb_1HH7zlIGzB5	UCP5S2nBzNRtJNiqGAYsA_Nw
 85	Zero Gravity	Zacy	Zero Gravity	INDIFFERENT	qqFAUe-h98w	MPREb_Nqrzw658pVI	UC3M1s1muYPOJgLa0XHwGCOA
 16	17	Youth Lagoon	The Year of Hibernation	INDIFFERENT	M-VYPmp5koY	MPREb_suvkzQIGnuB	UCi_nCAELoYM2E1jsQ29XZog
@@ -105,6 +106,7 @@
 86	Fully Activated 12 Strands DNA (852hz)	Powerthoughts Meditation Club	All 9 Solfeggio Frequencies: Raise Positive Vibrations (Cleansing, Healing and Grounding)	INDIFFERENT	9WRimMvJORU	MPREb_U32Mj8klKx0	UCoHYEdmn1-6b3h7nJlK_83g
 116	Those Who Have Forgotten They Are Light (852hz)	Powerthoughts Meditation Club	All 9 Solfeggio Frequencies: Emotional & Physical Healing - Miracle Tones	INDIFFERENT	CdWVfjQDO1w	MPREb_5merFvsFZVq	UCoHYEdmn1-6b3h7nJlK_83g
 217	If You Have A Wish	Porcelain Raft	Strange Weekend	INDIFFERENT	NdBiX_5KMbI	MPREb_2GzO04NommI	UCRBsvrQSXklXo2P4AYGAz1g
+272	In den gärten pharaos	Popol Vuh	In Den Gärten Pharaos	INDIFFERENT	BkzmKC-M7_4	MPREb_nP1CXQbGvPV	UCkcrV0j00h0-I77wxL8T_bw
 214	Saved (feat. Lester Brown)	Police Academy 6	Police Academy 6	INDIFFERENT	EOU5SaCYUj8	MPREb_QddCJwffIkb	UCETOMfZHESvv7p8OynlUaMQ
 78	Heart of Space	Peter Mergener	New Horizons	INDIFFERENT	RKPxK5SYQag	MPREb_Xgq8XkLUGZv	UCy5sNYjXq74MFJJ-gwOgavQ
 64	Deep in the Forest	Peder B. Helland	Deep in the Forest	INDIFFERENT	baSEW7nmi7g	MPREb_kGyrBP05xop	UC6bkN0ZmA1e_f9K2KgRGEmw
@@ -128,7 +130,6 @@
 269	Missing	Nuages	Missing	INDIFFERENT	N3ZD8VPTtmQ	MPREb_WheMx1ABwjW	UCdSe0ATv1KmqnHZVmTnp20w
 142	Drop	Nobuhiro Okahashi	Re:	INDIFFERENT	o8eYP0T0IzE	MPREb_WvSU23Hb7dL	UCkk90GmRC2596pU-wHenoEg
 144	so...	Nobuhiro Okahashi	Per Capita 2	INDIFFERENT	mhdcjbNOrwY	MPREb_O90rd7reQdF	UCkk90GmRC2596pU-wHenoEg
-15	Says	Nils Frahm	Spaces	INDIFFERENT	luXZuPTJ3f8	MPREb_00DnPWqG6G4	UCHUlZT-VoVWIID4xcJZ5s6g
 264	Some	Nils Frahm	Solo Remains	INDIFFERENT	jKBP-2egVf8	MPREb_HGamLzQCwt4	UCHUlZT-VoVWIID4xcJZ5s6g
 27	The House is Quiet	Neighborhood Libraries	Postcards for the Backyard, Pt. 2	INDIFFERENT	0aYg8Z7g_eM	MPREb_rq63DTLu72V	UC_nEIvMyjUiJ6DmRKFnFsXw
 0	The Sky Was Pink	Nathan Fake	Drowning In A Sea Of Love	INDIFFERENT	YKkO1qqQHow	MPREb_R2flUD4t4cf	UCerofcW3r2o74HjKZLQKhRw
@@ -174,7 +175,6 @@
 76	Magic of the Senses (The Secret Garden Mix)	Le Voyage	Winter Chillout Lounge 2016	INDIFFERENT	YT5q1y021yY	MPREb_ocuuEnLv2q7	UC1QIHaCI9YTvSYprgi4H82g
 87	Vandringen Original Mix	Lauge	Tupilak - Compiled By: Descroix	INDIFFERENT	D3jZATiXtGU	MPREb_eFvNNDFQtw7	UCwpFadxTiWHgFsNlGuB1x7A
 170	Sky Flowers	Koen Holtkamp	Field Rituals	INDIFFERENT	wDeSF0zN9OA	MPREb_MynJtGhX6LK	UCcCRRxOB_Mx8voNO67l5Ssg
-179	Thrown	Kiasmos	Kiasmos	INDIFFERENT	NGBD-K-Behk	MPREb_YhdtKLW1LUJ	UCXWADwj6t4af0WJkP8LAIZw
 31	Chillstep | Krisu - Leaving Without Saying Goodbye (iClassic Remix)	KRiSU		INDIFFERENT	tZa1g6s8_TU		UCDOoZZx6cDRfAgnmyN3EVSA
 135	Perpetual (Movement)	Jun Fukamachi	Quark	INDIFFERENT	8QD0ZW9iKgE	MPREb_szNDDUZqONE	UCzL7CgtKPmt_xeMDLjwlP8g
 44	The Far River	Jonn Serrie	And the Stars Go with You	INDIFFERENT	tk2VAB3CdT4	MPREb_fYW8Wp1zq69	UCb25kLFosbZbeh8QxYBvuLw
@@ -207,11 +207,11 @@
 165	Sanctuary	Halls	Fragile EP	INDIFFERENT	US0bVNI-lb0	MPREb_DgvYvwnZlo7	UCZdyl3qFohWmgZjarAGm9tw
 218	Lifeblood	Halls	Fragile EP	INDIFFERENT	jkmTEChM-SQ	MPREb_DgvYvwnZlo7	UCZdyl3qFohWmgZjarAGm9tw
 197	Secondhand Sunlight	Hakobune	Shadow On the Lawn	INDIFFERENT	NA6usGE7o_g	MPREb_Th7QzIWImmn	UCF4XmvAsX5MsBzc9PRT9_2g
-49	Orientations, Pt. 2 (Ephemeride 15.43°)	H.U.V.A. Network	Ephemeris	INDIFFERENT	0KSUqfOxFiE	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
-83	Something Heavens	H.U.V.A. Network	Ephemeris	INDIFFERENT	rERTkeODSaw	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
-101	Dissolving Time	H.U.V.A. Network	Ephemeris	INDIFFERENT	yWpagpLOU5c	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
-113	Cobalt	H.U.V.A. Network	Ephemeris	INDIFFERENT	Qp5tng4kunI	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
-123	Blank	H.U.V.A. Network	Ephemeris	INDIFFERENT	nppge-9s_Rk	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
+49	Orientations part 2 (Ephemeride 15.43°)	H.U.V.A. NETWORK	Ephemeris	INDIFFERENT	C9DBVWdfz-g	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
+83	Something Heavens	H.U.V.A. NETWORK	Ephemeris	INDIFFERENT	iIy5Om9FcLg	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
+101	Dissolving Time	H.U.V.A. NETWORK	Ephemeris	INDIFFERENT	L2ybpN8Rs9A	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
+113	Cobalt	H.U.V.A. NETWORK	Ephemeris	INDIFFERENT	hfSNrlb-7VE	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
+123	.Blank	H.U.V.A. NETWORK	Ephemeris	INDIFFERENT	MeyvQsE66E4	MPREb_xzSntnlgs2D	UCWFtKJv0tiPvDWhg-_QzYQw
 152	Spring	H Takahashi	Sea Meditation	INDIFFERENT	X3adLfWWQ3w	MPREb_KAx1SWqhKhL	UC_IwS6VoTGs6LsVvLCuN0WQ
 255	All Is Violent, All Is Bright	God Is An Astronaut	All Is Violent, All Is Bright (2011 Remastered Edition)	INDIFFERENT	ZmWYCIZhBgk	MPREb_7ViwGO3HLX4	UC74nbcHMAKPd5k3OnkoGdOA
 199	2	Giuseppe Ielasi	August	INDIFFERENT	FjBFAeBbGQQ	MPREb_oNhhkldikeU	UCg1D-5RYf2NcZNEDrPs3w1Q
@@ -247,8 +247,8 @@
 7	How Long Have You Known	DIIV	Oshin	INDIFFERENT	6XgGuTMM4GE	MPREb_JvZ6JTPE0Sa	UCWumh0WXTLCjbZlEOLWtQLQ
 284	Chronologie 3	Crouch End Festival Chorus	The Symphonic Jean Michel Jarre	INDIFFERENT	9PAy-Z_J3lw	MPREb_C2LgaGfg6rA	UCJecFV73vGkZpDSxubzWeIQ
 282	Radiance	Constance Demby	Sacred Space Music	INDIFFERENT	ylJzgRaBkZs	MPREb_89of8BtPGyA	UCSVcIcaAnPL1H5rat6F3sgA
-22	Snow Park	Connect.Ohm	9980	INDIFFERENT	OvMynHTnz5Q	MPREb_njmOXqL5QOV	UC8lSxUdhss67I7z0WDCiBLA
-108	Mol	Connect.Ohm	9980	INDIFFERENT	wVsd5-EkWWs	MPREb_njmOXqL5QOV	UC8lSxUdhss67I7z0WDCiBLA
+22	Snow Park (2018 Remastered)	Connect.Ohm	9980 (2018 Remastered)	INDIFFERENT	EYs29FWFc8Q	MPREb_njmOXqL5QOV	UC8lSxUdhss67I7z0WDCiBLA
+108	Mol (2018 Remastered)	Connect.Ohm	9980 (2018 Remastered)	INDIFFERENT	Kha1GjS0Ypo	MPREb_njmOXqL5QOV	UC8lSxUdhss67I7z0WDCiBLA
 139	Warm Rain in June II	Chihei Hatakeyama	Black Swallow	INDIFFERENT	ECsM5BSBw-g	MPREb_uY97u6W2Clf	UCnW1zAfxQb2fuJQx3rCK1bw
 219	In Wavelengths	Carter Miller, Bella Cuminato, Nelleke Dagher, Matthew Fields, Micah Kroeker, and Esther Ruth Teel	Gem Club: Breakers	INDIFFERENT	4BFMdwaWGF0	MPREb_fncLUct6Jq2	
 50	Frog	Carbon Based Lifeforms	Interloper	INDIFFERENT	gzhDuJTeiN8	MPREb_1rH37yEV4Zg	UCu8ii0rMmMqxUse8pxMMKJg
@@ -270,7 +270,7 @@
 5	Poa Alpina	Biosphere	Substrata 2	INDIFFERENT	B0R14OCTuUc	MPREb_5Jp78yxZgwI	UCOyKam6uHENlcV3I9eR_n6w
 162	Híbakúsja	Ben Frost	BY THE THROAT	INDIFFERENT	RGE22DWsazQ	MPREb_o8Uxsb0ftkS	UCkVpdmj34DNhG5PfEZ6KDRA
 71	Moonlight	Azaleh	Florescence	INDIFFERENT	tY4ctdFKxTw	MPREb_5Fp3ol2cReI	UC6QeV4M4mR4L-7DbwTSgIHQ
-34	Sunfruits Avenue	Aural Planet	Fahrenheit Project, Pt. 5	INDIFFERENT	J5qcrqW3VqI	MPREb_hngUO0Z25uI	
+34	Sunfruits Avenue	Aural Planet	Fahrenheit Project, Pt. 5	INDIFFERENT	8lHZwj07H48	MPREb_ffUELazkI3I	UC_B2VB8hdivIvlFu6ZYTv_A
 281	Horizon	Augenstern	Tangerine Ambience a Tribute to Tangerine Dream	INDIFFERENT	jtC_ls4TRRA	MPREb_tFNDk4IeuCk	UCs5zaEmFcDUqGZvG2m7iajw
 220	Because the Night	Au Palais	Tender Mercy EP	INDIFFERENT	0IwBtVrAUBQ	MPREb_oY0IPwLvNCO	UCXb9KSw3kSQ6Zv4mqzmu7Lg
 158	44 (Noise Version)	Apparat	Krieg und Frieden (Music for Theatre)	INDIFFERENT	4FPy8czt5J8	MPREb_brycFaIRD8v	UCCcw3knHXYtjMLrJ0V_KHKA
@@ -281,7 +281,7 @@
 80	Josh Leake - Chapters	Ambient		INDIFFERENT	wNzJeAwnLr4		UCm3-xqAh3Z-CwBniG1u_1vw
 210	Evening Star	All India Radio	Film Musik	INDIFFERENT	TFkWB1f0EHE	MPREb_ItDV1coKKSf	UCHf8YuNs6mO6qFaBhHW7a_A
 51	The Lemurian Frequency	Alana Fairchild	White Light Frequencies	INDIFFERENT	hjth_SucRHo	MPREb_cC8hn65fhSa	UCFSob5i09buB3nT2mAVIfqA
-68	Opalin	AES Dana	Memory Shell	INDIFFERENT	p1oGMZKEzZs	MPREb_scJdtUCpPE2	UC3ttCtTEWb9FXLAvewwWqNQ
+68	Opalin	AES Dana	Memory Shell	INDIFFERENT	LW87dLaCSP0	MPREb_scJdtUCpPE2	UC3ttCtTEWb9FXLAvewwWqNQ
 227	London	A Shoreline Dream	3...2...1... A Rocket Girl Compilation	INDIFFERENT	Cw3cy2YgVLM	MPREb_SIx24lnmxzy	UCjc4n3hUwYl7OEZTEjWH1MQ
 245	Saturday Morning	A Shoreline Dream	Avoiding the Consequences	INDIFFERENT	HXBuoferEEg	MPREb_zWMuvDRRtaA	UCjc4n3hUwYl7OEZTEjWH1MQ
 88	Follow You	INDRAGERSN	Dive		nWNsfE2U5qU		

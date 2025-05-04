@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 348	Pusher Man	Uncle Acid & The Deadbeats	Pusher Man	LIKE	7OL7Zb8pFaQ	MPREb_pG61KOBSH4p	UCoAgEXzeQBZf56Ra-Ct_3Ng
+106	Prehistoric Dog	Red Fang	Red Fang	LIKE	CjUaoxpJ3UY	MPREb_QrlMNXCzRd7	UChb04c1oiOco3K6lX3bk2fw
 163	Regular John	Queens of the Stone Age	Queens of the Stone Age	LIKE	lU2rUiQmJKM	MPREb_tTziBK49hyZ	UCcYgNw9ne8v1cxcAD_sIOWQ
 333	A History of Bad Men	Melvins	A Senile Animal	LIKE	7hx9In2XWWY	MPREb_IGaXXPlh7pY	UCIiCAKBmdf7ef6w4ums3dtQ
 237	Adrift in the Ocean (2011 Mix)	Yob	Atma (Deluxe Edition)	INDIFFERENT	qCYrQJnTEKE	MPREb_VO1SDd3uP8C	UCsEbjClLo57ZV18bGgobi7w
@@ -56,7 +57,7 @@
 18	Cloak Of Feathers	The Sword	Apocryphon	INDIFFERENT	AlCJ1BsfMWc	MPREb_Sgu4TGezusN	UCTLDFfoaS5oG3ckBh0DT6zA
 39	Maiden, Mother & Crone (2023 Remastered Version)	The Sword	Gods of the Earth (15th Anniversary Edition)	INDIFFERENT	Def8lwbhv1c	MPREb_zD1BJPpWxcp	UCTLDFfoaS5oG3ckBh0DT6zA
 122	Lawless Lands	The Sword	Warp Riders	INDIFFERENT	CN67bK5HR7M	MPREb_ngCqEWoaj30	UCTLDFfoaS5oG3ckBh0DT6zA
-150	Arrows in the Dark	The Sword	Warp Riders	INDIFFERENT	SrJshvp1D_4	MPREb_ngCqEWoaj30	UCTLDFfoaS5oG3ckBh0DT6zA
+150	Arrows in the Dark (15th Anniversary Edition)	The Sword	Warp Riders (15th Anniversary Edition)	INDIFFERENT	1lJydjzPzEA	MPREb_9LilpWm0Bdv	UCTLDFfoaS5oG3ckBh0DT6zA
 219	How Heavy This Axe (2023 Remastered Version)	The Sword	Gods of the Earth (15th Anniversary Edition)	INDIFFERENT	-5nHQdKTqYg	MPREb_zD1BJPpWxcp	UCTLDFfoaS5oG3ckBh0DT6zA
 311	Freya	The Sword	Age of Winters	INDIFFERENT	HVhX9QmD0Vo	MPREb_fIdtXOILcDY	UCTLDFfoaS5oG3ckBh0DT6zA
 351	She	The Sword	She	INDIFFERENT	LQI5w_Cgw0Q	MPREb_y6qjBsy7sNi	UCTLDFfoaS5oG3ckBh0DT6zA
@@ -113,7 +114,6 @@
 88	Shrug of the Year	Ruff Majik	The Devil's Cattle	INDIFFERENT	kkM2sPvWb9s	MPREb_9Ik5MxNM2dC	UCp1FbFXU_xK_dIJ-_9oc6rg
 372	Volcano Bleeds	Robot God	Silver Buddha Dreaming	INDIFFERENT	sN-447UgwpA	MPREb_2Xyn4wAYzKJ	UC5cbkBiIllOEewHMrZEcurA
 37	Arrows	Red Fang	Arrows	INDIFFERENT	d6YBTVKoUys	MPREb_HGErPwFCkml	UChb04c1oiOco3K6lX3bk2fw
-106	Prehistoric Dog	Red Fang	Red Fang	INDIFFERENT	CjUaoxpJ3UY	MPREb_QrlMNXCzRd7	UChb04c1oiOco3K6lX3bk2fw
 148	Shadows	Red Fang	Shadows	INDIFFERENT	Bpa8GTCjw9E	MPREb_tiEyWn2glwb	UChb04c1oiOco3K6lX3bk2fw
 223	Hank is Dead	Red Fang	Murder the Mountains	INDIFFERENT	vtsV_GJfToI	MPREb_jtfJYwHL2WQ	UChb04c1oiOco3K6lX3bk2fw
 252	Why	Red Fang	Arrows	INDIFFERENT	8Umbky9wtDo	MPREb_HGErPwFCkml	UChb04c1oiOco3K6lX3bk2fw
@@ -133,6 +133,7 @@
 201	The Great Liar	Planet of Zeus	Faith in Physics	INDIFFERENT	DCYymWHYVfI	MPREb_8zi4HlIPQ5B	UCTiD-R3UFE6Gtcq-4TJdpXw
 197	Alien Slut Mum	Pike vs The Automaton	Alien Slut Mum	INDIFFERENT	LBusPFE4p3Y	MPREb_1YVASdpHAPf	UCkDtJ8lrSLYOjsMtoVjMGbA
 36	Post-Crucifixion	Pescado Rabioso	Lo Mejor de Pescado Rabioso	INDIFFERENT	VPlOxPXY9qY	MPREb_ylWBl5NfLei	UCcEq-e0V2bnsXZixW-Tk_ZQ
+126	Beneath Broken Earth	Paradise Lost	The Plague Within	INDIFFERENT	Z4VTq3UfBXY	MPREb_h2fY3Db8Nrg	UCWZ2Qw9bIIR-H2RXz297zBQ
 73	An Offering Of Grief	Pallbearer	Sorrow and Extinction	INDIFFERENT	NkAcBVaTZKM	MPREb_zRcyRUD6CAr	UCrqmckkYNHFPqbPpQSqFNbQ
 118	Vengeance & Ruination	Pallbearer	Forgotten Days	INDIFFERENT	P55xOuqBRqU	MPREb_NrEutSutp5u	UCrqmckkYNHFPqbPpQSqFNbQ
 226	Foreigner	Pallbearer	Sorrow and Extinction	INDIFFERENT	z5wtOlqydDM	MPREb_zRcyRUD6CAr	UCrqmckkYNHFPqbPpQSqFNbQ
@@ -383,5 +384,4 @@
 204	Super Van Vacation	1000mods	Super Van Vacation	INDIFFERENT	o_JDw9t5y0I	MPREb_bVhez1SYi3H	UCVVGJw2X6B_zx32dJEcg6qQ
 305	Electric Carve	1000mods	Repeated Exposure To...	INDIFFERENT	vdkHr1rbKJs	MPREb_AOShcEwlUD6	UCVVGJw2X6B_zx32dJEcg6qQ
 20	Evocation II	Sun Mammuth	Cosmo		is9zGU0PEtg		
-126	Beneath Broken Earth	Paradise Lost	The Plague Within		r8oMDWM6fDs		
 292	Stoned to the Grave	Acid Witch	Stoned		0ZpoaIF8xTo		

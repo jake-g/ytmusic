@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 43	Pusher Man	Uncle Acid & The Deadbeats	Pusher Man	LIKE	7OL7Zb8pFaQ	MPREb_pG61KOBSH4p	UCoAgEXzeQBZf56Ra-Ct_3Ng
+264	Prehistoric Dog	Red Fang	Red Fang	LIKE	CjUaoxpJ3UY	MPREb_QrlMNXCzRd7	UChb04c1oiOco3K6lX3bk2fw
 87	Regular John	Queens of the Stone Age	Queens of the Stone Age	LIKE	lU2rUiQmJKM	MPREb_tTziBK49hyZ	UCcYgNw9ne8v1cxcAD_sIOWQ
 88	A History of Bad Men	Melvins	A Senile Animal	LIKE	7hx9In2XWWY	MPREb_IGaXXPlh7pY	UCIiCAKBmdf7ef6w4ums3dtQ
 33	3-5-7	All Them Witches	Sleeping Through the War	LIKE	QmWiz4TTrgA	MPREb_ERXcfII15p6	UCyYGtzX--CaSWjM8SC9t1qQ
@@ -46,7 +47,7 @@
 1	High Country 	The Sword	High Country	INDIFFERENT	stXyiI6qnyU	MPREb_A3YxgmN3LG9	UCTLDFfoaS5oG3ckBh0DT6zA
 54	Freya	The Sword	Age of Winters	INDIFFERENT	HVhX9QmD0Vo	MPREb_fIdtXOILcDY	UCTLDFfoaS5oG3ckBh0DT6zA
 58	Maiden, Mother & Crone (2023 Remastered Version)	The Sword	Gods of the Earth (15th Anniversary Edition)	INDIFFERENT	Def8lwbhv1c	MPREb_zD1BJPpWxcp	UCTLDFfoaS5oG3ckBh0DT6zA
-92	Arrows in the Dark	The Sword	Warp Riders	INDIFFERENT	SrJshvp1D_4	MPREb_ngCqEWoaj30	UCTLDFfoaS5oG3ckBh0DT6zA
+92	Arrows in the Dark (15th Anniversary Edition)	The Sword	Warp Riders (15th Anniversary Edition)	INDIFFERENT	1lJydjzPzEA	MPREb_9LilpWm0Bdv	UCTLDFfoaS5oG3ckBh0DT6zA
 93	The Warp Riders	The Sword	Warp Riders	INDIFFERENT	L3oBLzDQjCU	MPREb_ngCqEWoaj30	UCTLDFfoaS5oG3ckBh0DT6zA
 256	How Heavy This Axe (2023 Remastered Version)	The Sword	Gods of the Earth (15th Anniversary Edition)	INDIFFERENT	-5nHQdKTqYg	MPREb_zD1BJPpWxcp	UCTLDFfoaS5oG3ckBh0DT6zA
 269	Cloak Of Feathers	The Sword	Apocryphon	INDIFFERENT	AlCJ1BsfMWc	MPREb_Sgu4TGezusN	UCTLDFfoaS5oG3ckBh0DT6zA
@@ -92,7 +93,6 @@
 21	Hank is Dead	Red Fang	Murder the Mountains	INDIFFERENT	vtsV_GJfToI	MPREb_jtfJYwHL2WQ	UChb04c1oiOco3K6lX3bk2fw
 108	Shadows	Red Fang	Shadows	INDIFFERENT	Bpa8GTCjw9E	MPREb_tiEyWn2glwb	UChb04c1oiOco3K6lX3bk2fw
 238	Why	Red Fang	Arrows	INDIFFERENT	8Umbky9wtDo	MPREb_HGErPwFCkml	UChb04c1oiOco3K6lX3bk2fw
-264	Prehistoric Dog	Red Fang	Red Fang	INDIFFERENT	CjUaoxpJ3UY	MPREb_QrlMNXCzRd7	UChb04c1oiOco3K6lX3bk2fw
 213	Dead Man's Tracks	Red Desert	Damned by Fate	INDIFFERENT	ID0y54ngEWc	MPREb_bWXxjfr38PH	UCTSx5TP8sZcXeZRjPbpSnDQ
 175	Sonic Demon	Rainbows Are Free	Waves Ahead of the Ocean	INDIFFERENT	21SFpDoYuE8	MPREb_hVH8nAAb5Kr	UCqo8DEdrJcdG3z8OhGg8Zdg
 124	Optic Echo	REZN	Chaotic Divine	INDIFFERENT	T3_lMfW4l_c	MPREb_2w7CsE3wHvW	UC7N7yv-wPLPCLX23TBUtFYA
@@ -258,7 +258,6 @@
 161	Visions of Summer	Causa Sui	Summer Sessions, Vol. 1	INDIFFERENT	DLcvavzslaQ	MPREb_6NSeMVrMtFz	UCArunmZmYQk9fT3otxeH_RA
 187	Mondo Buzzo	Causa Sui	Return to Sky	INDIFFERENT	v1PmuClwFBk	MPREb_E9V7X5yGxOZ	UCArunmZmYQk9fT3otxeH_RA
 85	Evil (Single Version)	Cactus	"Cactology ""The Cactus Collection"""	INDIFFERENT	Wo-WSQo6kB4	MPREb_eeN2CW8Chlo	UClc-yxJB98a2AB-6k8BZx3w
-288	This is Why I Murder	Burgerface and the Bathsalts	This is Why I Murder	INDIFFERENT	d-iMemp66CM	MPREb_E9KngCOhhQP	UC41focugDLZbAv4OSqfQCvg
 174	Too Young To Die	Buffalo Fuzz	Vol. II	INDIFFERENT	9JqRXdtRYPQ	MPREb_nwg0NFH5vXe	UC0_FvfbgMxUs7pkKJVWMwFA
 280	Breadfan	Budgie	70s Rock	INDIFFERENT	4aTASJIMSJI	MPREb_uQuVRMf0elv	
 309	Homicidal Suicidal	Budgie	Budgie (2013 remaster)	INDIFFERENT	FC3OqwB5z7E	MPREb_MdZvzc9Nn8p	UCmmFDgLjr16ooJsUeNIcceQ
@@ -313,3 +312,4 @@
 243	Warped	1000mods	Youth of Dissent	INDIFFERENT	3cr4qBMTFLc	MPREb_Dp1jqwfv5ha	UCVVGJw2X6B_zx32dJEcg6qQ
 163	Evocation II	Sun Mammuth	Cosmo		is9zGU0PEtg		
 273	Frost Hammer	High On Fire	Snakes For The Divine		Bvs6k58Qu7c		
+288	This is Why I Murder	Burgerface and the Bathsalts	This is Why I Murder		d-iMemp66CM		

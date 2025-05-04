@@ -30,8 +30,8 @@
 5	Everybody Have Fun Tonight	Wang Chung	Mosaic	INDIFFERENT	5c3g7a85400	MPREb_UfzVD9DHlqF	UCgcNUmH9rqiSKaMBe-TsSlQ
 310	Dance Hall Days	Wang Chung	20th Century Masters: The Millennium Collection: Best Of Wang Chung	INDIFFERENT	vxEDNYCx4yI	MPREb_jEzSm61E8fj	UCgcNUmH9rqiSKaMBe-TsSlQ
 205	The Hearse	Wampire	Curiosity	INDIFFERENT	xiL8M0aZ5X8	MPREb_ZQL1BXRf27u	UC-XPGiKD-50Lw35kqjun28Q
-80	Fade To Grey	Visage	Fade To Grey: The Best Of Visage	INDIFFERENT	vOdjX4h8xwo	MPREb_LwjTrMrX0P8	UCxzisN94DdD8JZ035s86O1w
-81	Visage	Visage	Fade To Grey: The Best Of Visage	INDIFFERENT	s_UfQGf-5x8	MPREb_LwjTrMrX0P8	UCxzisN94DdD8JZ035s86O1w
+80	Fade To Grey	Visage	Fade To Grey:  The Best Of Visage	INDIFFERENT	vOdjX4h8xwo	MPREb_LwjTrMrX0P8	UCxzisN94DdD8JZ035s86O1w
+81	Visage	Visage	Fade To Grey:  The Best Of Visage	INDIFFERENT	s_UfQGf-5x8	MPREb_LwjTrMrX0P8	UCxzisN94DdD8JZ035s86O1w
 322	Some Kind Of Dream	Villa Nah	Origin	INDIFFERENT	e0B5tu-3qGM	MPREb_v6UjL8Ri5Yl	UCvAyqRnx3qmZnsfjbszADWQ
 327	Emerald Hills	Villa Nah	Origin	INDIFFERENT	UMetbCdsVqc	MPREb_v6UjL8Ri5Yl	UCvAyqRnx3qmZnsfjbszADWQ
 77	Cccan't You See (French Extended Mix)	Vicious Pink	Vicious Pink (Expanded Edition)	INDIFFERENT	fLCXCyZKujo	MPREb_Qie3tsj9hNb	UCH2OjxBm-no3-ixDJUI09_w
@@ -60,7 +60,7 @@
 14	Hand Of Love	The Sound	Thunder Up	INDIFFERENT	9qGcFilUMHE	MPREb_IsksX0RVlTf	UCVenxdjfY0pKLGWvMskNfqA
 228	There Is a Light That Never Goes Out (2017 Master)	The Smiths	The Queen Is Dead (Deluxe Edition)	INDIFFERENT	Wy5HTaOZ6EA	MPREb_rA6cOBlj9Bh	UCklWLf-5N7mE8S06rj2OrQw
 241	Bigmouth Strikes Again (2008 Remaster)	The Smiths	The Sound of the Smiths (Deluxe; 2008 Remaster)	INDIFFERENT	8njhrLq8-8k	MPREb_BuHnnKK6MXq	UCklWLf-5N7mE8S06rj2OrQw
-149	Swingin Party (2008 Remaster)	The Replacements	Tim [Expanded Edition]	INDIFFERENT	r8ikJiKWubY	MPREb_GjlLBgTlBpA	UCXwcsxJcdxfvsFiVtrOgy4Q
+149	Swingin Party (2008 Remaster)	The Replacements	Tim (Expanded)	INDIFFERENT	r8ikJiKWubY	MPREb_GjlLBgTlBpA	UCXwcsxJcdxfvsFiVtrOgy4Q
 283	Pulling Our Weight	The Radio Dept.	Pulling Our Weight	INDIFFERENT	RTP10JwHjSw	MPREb_vbsb56XEN8n	UClO2BunQnwWLpfovalbf5MA
 114	Here Come Cowboys	The Psychedelic Furs	Mirror Moves	INDIFFERENT	s_nSrQffPZA	MPREb_7qER8NdfukO	UC8v6gbGXQq-yRkg6Nu6zyMw
 275	Heaven	The Psychedelic Furs	Collections	INDIFFERENT	QJmFbRH3cPg	MPREb_9AAwrudfgAA	UC8v6gbGXQq-yRkg6Nu6zyMw
@@ -75,7 +75,7 @@
 311	Save It for Later	The English Beat	Keep The Beat: The Very Best Of The English Beat	INDIFFERENT	_tFheG2mAos	MPREb_grH70K36jIK	UC2T_4pL_QDvVdfugRtaxfsA
 242	A Forest	The Cure	Greatest Hits	INDIFFERENT	ouqt7tJiCbc	MPREb_oZxsYS9w0pe	UCKuG9-MGolUuWbEcoz5qijw
 245	Pictures of You	The Cure	Disintegration	INDIFFERENT	Rel8ZWkNNlM	MPREb_BBV3hJMs0YP	UCKuG9-MGolUuWbEcoz5qijw
-383	Just Like Heaven (45 Version)	The Cure	Just Like Heaven / Breathe [Digital 45]	INDIFFERENT	MuXSmjiwGGk	MPREb_JLYuB83vZgm	UCKuG9-MGolUuWbEcoz5qijw
+383	Just like Heaven (45 Version)	The Cure	Just like Heaven / Breathe	INDIFFERENT	MuXSmjiwGGk	MPREb_JLYuB83vZgm	UCKuG9-MGolUuWbEcoz5qijw
 124	When You're Gone	The Cranberries	To The Faithful Departed	INDIFFERENT	xkbVRGxsd8E	MPREb_lSvBCp1dMCF	UCE5eDJ9T05bGzDvJ5QYsdJQ
 376	Double Life	The Cars	Candy-O	INDIFFERENT	iW08Vy3nc8Q	MPREb_KRlji0YJij8	UCu_gFD6YgmN85WjTSIotYcA
 202	I Love This Life	The Blue Nile	A Walk Across the Rooftops (Deluxe Version)	INDIFFERENT	C1zzYljlqfw	MPREb_8Qnf3Dv0RwJ	UC0-JecDw-4cb_dgiB3oxqvQ
@@ -89,8 +89,6 @@
 285	She's So Bad	TOPS	Tender Opposites	INDIFFERENT	hf4bSZ1XM1s	MPREb_StFOQAwBntw	UC2SSi_lvW8HQt8akZon_VVQ
 289	Change Of Heart	TOPS	Change Of Heart / Sleeptalker	INDIFFERENT	mURTySjos-c	MPREb_3pjNNcIKSbr	UC2SSi_lvW8HQt8akZon_VVQ
 344	VII Babies	TOPS	Tender Opposites	INDIFFERENT	7f4xTcKKLjA	MPREb_StFOQAwBntw	UC2SSi_lvW8HQt8akZon_VVQ
-2	Automatic Sighs	Strange Advance	Worlds Away	INDIFFERENT	7z9tfXOcszw	MPREb_a9sPYITfSEk	UCLsrUgqUij-XrDSQgww1FNw
-54	We Run	Strange Advance	2WO	INDIFFERENT	deBuapohYx4	MPREb_Qa1s3mMNIB6	UCLsrUgqUij-XrDSQgww1FNw
 360	Beatcity	Still Corners	Strange Pleasures	INDIFFERENT	_JjN3fD1VRM	MPREb_CZTlngiiOXN	UCbLt7pataRom2AHyWfBFuVQ
 362	Berlin Lovers	Still Corners	Strange Pleasures	INDIFFERENT	RfmriBYO1vo	MPREb_CZTlngiiOXN	UCbLt7pataRom2AHyWfBFuVQ
 381	Fireflies	Still Corners	Strange Pleasures	INDIFFERENT	1Z0GVi6npyw	MPREb_CZTlngiiOXN	UCbLt7pataRom2AHyWfBFuVQ
@@ -355,7 +353,7 @@
 213	The Natural World	CYMBALS	The Age of Fracture	INDIFFERENT	qoTABnApyCQ	MPREb_obiPipZSxKV	UCruqpjvo_FpnzoWmT6FZVdg
 237	Recover (2023 Remastered)	CHVRCHES	The Bones of What You Believe (10 Year Anniversary Special Edition)	INDIFFERENT	5qoDrceQz9E	MPREb_PzbEGWiEPM4	UCvInFYiyeAJOGEjhqJnyaMA
 279	Gun	CHVRCHES	The Bones of What You Believe	INDIFFERENT	0X-jp7-Azi8	MPREb_a2anxF9oMQD	UCvInFYiyeAJOGEjhqJnyaMA
-268	Raining Patterns	CFCF	Continent	INDIFFERENT	Z1UfsExczVg	MPREb_37BEInaf9Yv	UC0d789iQUeLjE-3bxinnzDw
+268	Raining Patterns	CFCF	Continent	INDIFFERENT	iaHWc14Jkp8	MPREb_PD9RncrH48n	UC0d789iQUeLjE-3bxinnzDw
 17	Sensation	Bryan Ferry	Boys And Girls	INDIFFERENT	l99jhCfRQbY	MPREb_XZWXDSGTM98	UCAgsHTUDQbseazVnDmkQk3g
 69	Vacation (The Go-Go's Cover)	Brett	Vacation / Dance Hall Days	INDIFFERENT	lryo-VVgsPk	MPREb_KUuNqVrRTrV	UCwB-MrgsNOjG7hedAT2SlUA
 250	Glass Hearts	Brett	Brett	INDIFFERENT	GtO5oevbUD4	MPREb_m0j1YGQB321	UCwB-MrgsNOjG7hedAT2SlUA
@@ -395,4 +393,6 @@
 392	High Priestess	Active Child	You Are All I See (Deluxe Version)	INDIFFERENT	QjGMLG-pNHE	MPREb_NKZ2JSNICHM	UCuGmKFcmQDIGqUUyz7eulIQ
 329	Wishing (If I Had a Photograph of You)	A Flock Of Seagulls	Listen	INDIFFERENT	aFPvO0xM7pk	MPREb_KIjT4eT4AEQ	UC9NopS2VbJmwDNU6bl4C0rw
 338	Space Age Love Song	A Flock Of Seagulls	A Flock Of Seagulls	INDIFFERENT	jYnpisHe0X0	MPREb_EL7g3aOTDNR	UC9NopS2VbJmwDNU6bl4C0rw
+2	Automatic Sighs	Strange Advance	Worlds Away		1q9CAU_DAvk		
+54	We Run	Strange Advance	2WO		syiON6IlSU0		
 356	Bloody Mouth (Watchtower Version)	Moons	Bloody Mouth (Watchtower Version)		DnDX27pmXNE		

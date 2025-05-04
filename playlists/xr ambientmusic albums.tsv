@@ -1,7 +1,9 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 35	Borderlands	Tim Hecker	An Imaginary Country	LIKE	LIJEmC91inA	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
+72	Ghost Writing Pt. 1	Tim Hecker	Haunt Me	LIKE	dhxddO2qly4	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 82	Boreal Kiss Pt. 1	Tim Hecker	Haunt Me	LIKE	ngneYPFkkTQ	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 257	Boreal Kiss Pt. 3	Tim Hecker	Haunt Me	LIKE	hOlJf6C2_gQ	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
+270	Paragon Point	Tim Hecker	An Imaginary Country	LIKE	S6zYoxZ9V28	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 286	Aegina Airlines	The Dead Texan	The Dead Texan	LIKE	rV7Lv63qWKI	MPREb_ZihVmOxcDfW	UCpWkhpA0wvb03oYcwSJh2LQ
 1	Secret Currents	Stuart Dempster	Underground Overlays From The Cistern Chapel	LIKE	tGxqDGo9uDk	MPREb_vOVz5hM4sjM	UCVVoVYPFECIW0cZn3kTnvaQ
 149	Melodic Communion	Stuart Dempster	Underground Overlays From The Cistern Chapel	LIKE	yOAUCFoGs-0	MPREb_vOVz5hM4sjM	UCVVoVYPFECIW0cZn3kTnvaQ
@@ -10,6 +12,7 @@
 121	Even (Out) +	Stars of the Lid	And Their Refinement of the Decline	LIKE	jVioWbrisr8	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 131	Tippy's Demise	Stars of the Lid	And Their Refinement of the Decline	LIKE	rfq8kEfKTmU	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 159	Articulate Silences, Pt. 1	Stars of the Lid	And Their Refinement of the Decline	LIKE	LUYvhXkj1QA	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
+166	Don't Bother They're Here	Stars of the Lid	And Their Refinement of the Decline	LIKE	_DsYk-WM5Rk	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 198	Even If You're Never Awake	Stars of the Lid	And Their Refinement of the Decline	LIKE	7Oc7-vlTP08	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 209	That Finger On Your Temple Is the Barrel of My Raygun	Stars of the Lid	And Their Refinement of the Decline	LIKE	zYTRZW2n-tI	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 210	Articulate Silences, Pt. 2	Stars of the Lid	And Their Refinement of the Decline	LIKE	xyQTPSSNL3g	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
@@ -31,13 +34,9 @@
 353	East River Dawn	Laurie Spiegel	The Expanding Universe	LIKE	mdnJK6LkdVE	MPREb_uyBkcgneK1n	UC1l3z3h_zuuvJvLwGWrkA7w
 354	Pentachrome	Laurie Spiegel	The Expanding Universe	LIKE	W7hhbZsk-3E	MPREb_uyBkcgneK1n	UC1l3z3h_zuuvJvLwGWrkA7w
 49	Fifth Worship II	Kali Malone	The Sacrificial Code	LIKE	WYEagQF286U	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
-83	Hagakyrka Bells	Kali Malone	The Sacrificial Code	LIKE	pch5jh7jaNY	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
-110	Rose Wreath Crown (for CW)	Kali Malone	The Sacrificial Code	LIKE	vYQYi_Z3hH0	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
 112	Prelude (live in Hagakyrka)	Kali Malone	The Sacrificial Code	LIKE	Pkm-l58JDNA	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
-158	Spectacle Of Ritual 	Kali Malone	The Sacrificial Code	LIKE	hePL7pwgaCE	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
 176	Litanic Cloth Wrung	Kali Malone	The Sacrificial Code	LIKE	iI13QgB-lHs	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
 259	Sacrificial Code	Kali Malone	The Sacrificial Code	LIKE	UDb2bkl1nkU	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
-301	Sacrificial Code (live in Hagakyrka)	Kali Malone	The Sacrificial Code	LIKE	t908yXrfkkk	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
 34	Vow	Julianna Barwick	The Magic Place	LIKE	CFQvzPztzTo	MPREb_vHmK5tgWkfc	UCfcrJsde3NHlZEYpFN9FXjA
 97	The Magic Place	Julianna Barwick	The Magic Place	LIKE	iG3EbUVFHhw	MPREb_vHmK5tgWkfc	UCfcrJsde3NHlZEYpFN9FXjA
 247	Cloak	Julianna Barwick	The Magic Place	LIKE	Pwj3wxwvAzQ	MPREb_vHmK5tgWkfc	UCfcrJsde3NHlZEYpFN9FXjA
@@ -52,6 +51,7 @@
 199	Soto Wa Ame - Rain out of Window	Hiroshi Yoshimura	Music for Nine Post Cards	LIKE	UfbfKhzUy4Q	MPREb_SSomvr3z7Cv	UC8Ro3L-aoh_kWNt0luePpPQ
 222	Blink	Hiroshi Yoshimura	Music for Nine Post Cards	LIKE	07CpKqYiZtM	MPREb_SSomvr3z7Cv	UC8Ro3L-aoh_kWNt0luePpPQ
 282	View from My Window	Hiroshi Yoshimura	Music for Nine Post Cards	LIKE	Q_XOuCNwtwU	MPREb_3hVnwiCQ8yU	UC8Ro3L-aoh_kWNt0luePpPQ
+106	Three Faces West (Billy Al Bengston's)	Harold Budd	Avalon Sutra	LIKE	U1VwN4t_fFQ	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 114	Arabesque 3	Harold Budd	Avalon Sutra	LIKE	etJLgznkuyw	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 293	Rue Casimir Delavigne (For Daniel Lentz)	Harold Budd	Avalon Sutra	LIKE	dRz9906di4o	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 103	No Other	Grouper	A I A: Dream Loss	LIKE	q1h83QClPzY	MPREb_TI6a2mQeOK5	UCxdqU4_Mit1HOXesHvs3g3Q
@@ -78,14 +78,12 @@
 311	Opt Out	Yellow Swans	Going Places	INDIFFERENT	Jz6twpIpd9o	MPREb_jHEK5WWBEsx	UCKQpFRPtdFOv92inf24IfCg
 312	Sovereign	Yellow Swans	Going Places	INDIFFERENT	uDr3-hG1ltU	MPREb_jHEK5WWBEsx	UCKQpFRPtdFOv92inf24IfCg
 316	Limited Space	Yellow Swans	Going Places	INDIFFERENT	RYg4SEtbZtY	MPREb_jHEK5WWBEsx	UCKQpFRPtdFOv92inf24IfCg
-317	Foiled	Yellow Swans	Going Places	INDIFFERENT	GAxn_V5hSI0	MPREb_jHEK5WWBEsx	UCKQpFRPtdFOv92inf24IfCg
 319	Going Places	Yellow Swans	Going Places	INDIFFERENT	-Fa-vLkj1Fo	MPREb_jHEK5WWBEsx	UCKQpFRPtdFOv92inf24IfCg
 6	Ghost Writing Pt. 2	Tim Hecker	Haunt Me	INDIFFERENT	H4eiuWiWbFc	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 8	Music for Tundra Pt. 1	Tim Hecker	Haunt Me	INDIFFERENT	2gJ9DUja2Ug	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 17	Sea of Pulses	Tim Hecker	An Imaginary Country	INDIFFERENT	qU14r2HGSes	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 51	The Inner Shore	Tim Hecker	An Imaginary Country	INDIFFERENT	Uc0ea6SqJ9Y	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 71	Music for Tundra Pt. 2	Tim Hecker	Haunt Me	INDIFFERENT	XwegdZDuD00	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
-72	Ghost Writing Pt. 1	Tim Hecker	Haunt Me	INDIFFERENT	dhxddO2qly4	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 73	Currents of Electrostasy	Tim Hecker	An Imaginary Country	INDIFFERENT	47Tvc2y7_ro	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 78	Where Shadows Make Shadows	Tim Hecker	An Imaginary Country	INDIFFERENT	2NgkbOUl-5I	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 86	Pond Life	Tim Hecker	An Imaginary Country	INDIFFERENT	LLhH4TFbnWA	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
@@ -104,7 +102,6 @@
 244	200 Years Ago	Tim Hecker	An Imaginary Country	INDIFFERENT	BqUElHLjEPw	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 260	Boreal Kiss Pt. 2	Tim Hecker	Haunt Me	INDIFFERENT	XjwoYJMpg74	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 268	Arctic Lover's Rock Pt. 1	Tim Hecker	Haunt Me	INDIFFERENT	8DVLbKkMo3Y	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
-270	Paragon Point	Tim Hecker	An Imaginary Country	INDIFFERENT	S6zYoxZ9V28	MPREb_pOU8SAyKlvO	UC-PVsgu8UpfcER8RfJqUgyQ
 275	October Pt. 1	Tim Hecker	Haunt Me	INDIFFERENT	0ge_gcTmEL4	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 283	City in Flames (In 3 Parts) Pt. 1	Tim Hecker	Haunt Me	INDIFFERENT	zqjf025OyEI	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
 284	Border Lines Pt. 2	Tim Hecker	Haunt Me	INDIFFERENT	hTBdY3IOhJk	MPREb_UtaXM3qwA0X	UC-PVsgu8UpfcER8RfJqUgyQ
@@ -129,7 +126,6 @@
 84	Another Ballad for Heavy Lids	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	pyQktsJocq0	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 142	Hiberner Toujours	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	8EPt3-2LLN8	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 152	Apreludes (In C Sharp Major)	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	2PfcvfUgXEk	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
-166	Don't Bother They're Here	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	_DsYk-WM5Rk	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 206	The Daughters of Quiet Minds	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	GwHg9bboq78	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 250	December Hunting for Vegetarian Fuckface	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	5fRk1PgBbR0	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
 263	The Evil That Never Arrived	Stars of the Lid	And Their Refinement of the Decline	INDIFFERENT	rlC1I2EAFEk	MPREb_MuYPqTSGEVB	UCkMYV7hVzSgOako9Vo584-Q
@@ -196,8 +192,12 @@
 350	Clockworks	Laurie Spiegel	The Expanding Universe	INDIFFERENT	rAhpuL004_Y	MPREb_uyBkcgneK1n	UC1l3z3h_zuuvJvLwGWrkA7w
 352	Appalachian Grove I	Laurie Spiegel	The Expanding Universe	INDIFFERENT	55S9d3gdZok	MPREb_uyBkcgneK1n	UC1l3z3h_zuuvJvLwGWrkA7w
 127	Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049)	Lauren Daigle	Blade Runner 2049 (Original Motion Picture Soundtrack)	INDIFFERENT	0CH8_gA4E_k	MPREb_0POX3qhl2pr	UCYxcuspkcCZj8ApIlm1y4Bw
+83	Hagakyrka Bells	Kali Malone	The Sacrificial Code	INDIFFERENT	f2vJ2nAziik	MPREb_hTgyKKHpEFq	UCLUd4f3czk0DZxm2ih-AYAw
+110	Rose Wreath Crown (for CW)	Kali Malone	The Sacrificial Code	INDIFFERENT	1BN4KBHJA8c	MPREb_hTgyKKHpEFq	UCLUd4f3czk0DZxm2ih-AYAw
 157	Glory Canon III (live in Hagakyrka)	Kali Malone	The Sacrificial Code	INDIFFERENT	DoT84s-KBLU	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
+158	Spectacle Of Ritual 	Kali Malone	The Sacrificial Code	INDIFFERENT	Nbdgl2TYKno	MPREb_hTgyKKHpEFq	UCLUd4f3czk0DZxm2ih-AYAw
 197	Sacer Profanare	Kali Malone	The Sacrificial Code	INDIFFERENT	HdYkvJggj3A	MPREb_o5XaY3UuVGW	UCLUd4f3czk0DZxm2ih-AYAw
+301	Sacrificial Code II	Kali Malone	The Sacrificial Code	INDIFFERENT	Go6lm99yKhg	MPREb_hTgyKKHpEFq	UCLUd4f3czk0DZxm2ih-AYAw
 42	Prizewinning	Julianna Barwick	The Magic Place	INDIFFERENT	7HSifVbthNM	MPREb_vHmK5tgWkfc	UCfcrJsde3NHlZEYpFN9FXjA
 54	White Flag	Julianna Barwick	The Magic Place	INDIFFERENT	rwTucNF_LuE	MPREb_vHmK5tgWkfc	UCfcrJsde3NHlZEYpFN9FXjA
 178	Flown	Julianna Barwick	The Magic Place	INDIFFERENT	FyjneHezqds	MPREb_vHmK5tgWkfc	UCfcrJsde3NHlZEYpFN9FXjA
@@ -225,7 +225,6 @@
 30	L'enfant Perdu	Harold Budd	Avalon Sutra	INDIFFERENT	MQF8rCqjdg8	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 43	A Walk in the Park with Nancy (In Memory)	Harold Budd	Avalon Sutra	INDIFFERENT	lBZwmfP3Q-k	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 95	It's Steeper Near the Roses (For David Sylvian)	Harold Budd	Avalon Sutra	INDIFFERENT	pgGQylgHd_U	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
-106	Three Faces West (Billy Al Bengston's)	Harold Budd	Avalon Sutra	INDIFFERENT	U1VwN4t_fFQ	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 108	As Long as I Can Hold My Breath	Harold Budd	Avalon Sutra	INDIFFERENT	xHvCdxOqXTE	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 134	Arabesque 2	Harold Budd	Avalon Sutra	INDIFFERENT	GVfHHw7Ccs4	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
 135	How Vacantly You Stare at Me	Harold Budd	Avalon Sutra	INDIFFERENT	nAEToPlI8Xw	MPREb_jkIyjV41CHL	UCD_irSJt5hBidim8LYmC3EQ
