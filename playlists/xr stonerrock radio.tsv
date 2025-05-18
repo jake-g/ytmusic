@@ -1,6 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 43	Pusher Man	Uncle Acid & The Deadbeats	Pusher Man	LIKE	7OL7Zb8pFaQ	MPREb_pG61KOBSH4p	UCoAgEXzeQBZf56Ra-Ct_3Ng
-264	Prehistoric Dog	Red Fang	Red Fang	LIKE	CjUaoxpJ3UY	MPREb_QrlMNXCzRd7	UChb04c1oiOco3K6lX3bk2fw
 87	Regular John	Queens of the Stone Age	Queens of the Stone Age	LIKE	lU2rUiQmJKM	MPREb_tTziBK49hyZ	UCcYgNw9ne8v1cxcAD_sIOWQ
 88	A History of Bad Men	Melvins	A Senile Animal	LIKE	7hx9In2XWWY	MPREb_IGaXXPlh7pY	UCIiCAKBmdf7ef6w4ums3dtQ
 33	3-5-7	All Them Witches	Sleeping Through the War	LIKE	QmWiz4TTrgA	MPREb_ERXcfII15p6	UCyYGtzX--CaSWjM8SC9t1qQ
@@ -93,6 +92,7 @@
 21	Hank is Dead	Red Fang	Murder the Mountains	INDIFFERENT	vtsV_GJfToI	MPREb_jtfJYwHL2WQ	UChb04c1oiOco3K6lX3bk2fw
 108	Shadows	Red Fang	Shadows	INDIFFERENT	Bpa8GTCjw9E	MPREb_tiEyWn2glwb	UChb04c1oiOco3K6lX3bk2fw
 238	Why	Red Fang	Arrows	INDIFFERENT	8Umbky9wtDo	MPREb_HGErPwFCkml	UChb04c1oiOco3K6lX3bk2fw
+264	Prehistoric Dog	Red Fang	Red Fang	INDIFFERENT	es__nsfSZIk	MPREb_Av6XrUk8ze9	UChb04c1oiOco3K6lX3bk2fw
 213	Dead Man's Tracks	Red Desert	Damned by Fate	INDIFFERENT	ID0y54ngEWc	MPREb_bWXxjfr38PH	UCTSx5TP8sZcXeZRjPbpSnDQ
 175	Sonic Demon	Rainbows Are Free	Waves Ahead of the Ocean	INDIFFERENT	21SFpDoYuE8	MPREb_hVH8nAAb5Kr	UCqo8DEdrJcdG3z8OhGg8Zdg
 124	Optic Echo	REZN	Chaotic Divine	INDIFFERENT	T3_lMfW4l_c	MPREb_2w7CsE3wHvW	UC7N7yv-wPLPCLX23TBUtFYA
@@ -203,7 +203,7 @@
 217	Floating Away..., Pt. 1	Free Whenever	Floating Away...	INDIFFERENT	IfHv2YDuiBs	MPREb_FZeSIHf5bII	UCVCH0W5KQltNdnyzaInk9vg
 234	Floating Away..., Pt. 3	Free Whenever	Floating Away...	INDIFFERENT	2Pg-xjqDg10	MPREb_FZeSIHf5bII	UCVCH0W5KQltNdnyzaInk9vg
 155	Bored Stiff	Fatso Jetson	Power of Three	INDIFFERENT	D_TSkV7j6cc	MPREb_b661F1tPCEa	UCwcNERB4p1OeSsePNhuvMgw
-146	Light Song	Emma Ruth Rundle	On Dark Horses	INDIFFERENT	iucrFbKtUlw	MPREb_Ff4rk6m7RAl	UCXqoHeiHh7wX-ZGoknAsnDA
+146	Light Song	Emma Ruth Rundle	On Dark Horses	INDIFFERENT	BbmFpzxvzxI	MPREb_2oAJ1LtXcIg	UCXqoHeiHh7wX-ZGoknAsnDA
 156	Attack of the Altaica (Live)	Elephant Tree	Day of Doom (Live)	INDIFFERENT	BLk04dCBh3w	MPREb_9EQX09ojPro	UCFGC552eps3sGHIVXW3xPdA
 101	Weird Tales / Electric Frost / Golgotha / Altar of Melektaus	Electric Wizard	Dopethrone	INDIFFERENT	zab8tEWH57I	MPREb_cu7Ta1VkxUE	UCXR9ad7S16yVvT5oV07JXOw
 65	Halcyon	Elder	Omens	INDIFFERENT	5pgHqPoI4rw	MPREb_s3dgUyxahRE	UCMZUhx9HFUY_OjhcMvJ4pOQ

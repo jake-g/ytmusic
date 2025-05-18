@@ -1,5 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 4	Why Can't We Be Friends	War	The Best of WAR and More, Vol. 1	LIKE	smhza6R0wio	MPREb_Tz1FIAVQfNS	UCY9rJimufdb8imofVY8taNw
+58	Do It Again	Steely Dan	A Decade Of Steely Dan	LIKE	yCgHTmv4YU8	MPREb_9azyCkDn4ij	UCvnGL-FVjYVe_0YJKxLlwqA
+56	Margaritaville	Jimmy Buffett	Changes In Latitudes, Changes In Attitudes	LIKE	ohDqjRGqpIU	MPREb_8mAFfXlYIBq	UCnCXWrwamQh3NAD3g-odPKg
 121	The Night the Lights Went out in Georgia	Vicki Lawrence	The Night the Lights Went out in Georgia (Deluxe Edition)	INDIFFERENT	K-qK7oVXVRQ	MPREb_WIKhMA3jL0P	UCEIqDyRC4-7oVsT-gkDxaGw
 0	I Do The Rock	Tim Curry	Fearless	INDIFFERENT	9BPnR8otSx4	MPREb_5P1G8FjFI8u	UCZvZ7dPLKQBL_VxZ_y1qH0Q
 36	Joy To The World	Three Dog Night	Naturally	INDIFFERENT	EVcpKjXYa5c	MPREb_P4NCipRQCAb	UChdJeqxlsCTZml6HzCuZ60A
@@ -22,7 +24,6 @@
 55	Romeo's Tune	Steve Forbert	Jack Rabbit Slim	INDIFFERENT	vYMu2qgOiJs	MPREb_0GpnSdp7w8M	UC-El5phbU0L5DpdflsAGTJg
 22	Monkey In Your Soul	Steely Dan	Pretzel Logic	INDIFFERENT	v6gAN-HRt9Y	MPREb_qPCYGGmQwKO	UCvnGL-FVjYVe_0YJKxLlwqA
 46	Sign In Stranger	Steely Dan	The Royal Scam	INDIFFERENT	RRgHbtLZO4w	MPREb_MeS6OeMPJzF	UCvnGL-FVjYVe_0YJKxLlwqA
-58	Do It Again	Steely Dan	A Decade Of Steely Dan	INDIFFERENT	yCgHTmv4YU8	MPREb_9azyCkDn4ij	UCvnGL-FVjYVe_0YJKxLlwqA
 3	She's Gone	Steelheart	Steelheart	INDIFFERENT	jzz16mRP2V8	MPREb_8qnvEgduNvo	UCAuRSJXTeN2msoranUbfHyg
 117	Afternoon Delight	Starland Vocal Band	Starland Vocal Band	INDIFFERENT	T2Pz_PCiNJk	MPREb_lWgddIsiSkz	UCZ5KrfQo_O225xqeIjliXpg
 109	ON FIRE	Snow Wife	QUEEN DEGENERATE	INDIFFERENT	LDR1XCepoKk	MPREb_RcTHOW2uuPt	UCtt8_Xq6G5_9yx7ciq8Vh1A
@@ -60,7 +61,6 @@
 98	Rockin' Pneumonia And The Boogie Woogie Flu	Johnny Rivers	L.A. Reggae	INDIFFERENT	5Ra1DEd1ueA	MPREb_FuvQWrKmMfQ	UChpRIj-J7cp9AcEq8a0xyog
 96	Calypso	John Denver	Windsong	INDIFFERENT	vwr2GZv7BwU	MPREb_5gjkl9QWJcu	UCV8ZtASJ8X9ZwX3r1Dsei0w
 63	Games People Play (Remastered 2002)	Joe South	Classic Masters	INDIFFERENT	vDeVonv3kY0	MPREb_5C2GzlIuAHu	UCpEpbTwJR4ELjZneJ5QoadQ
-56	Margaritaville	Jimmy Buffett	Changes In Latitudes, Changes In Attitudes	INDIFFERENT	ohDqjRGqpIU	MPREb_8mAFfXlYIBq	UCnCXWrwamQh3NAD3g-odPKg
 10	Time in a Bottle	Jim Croce	The Very Best of Jim Croce	INDIFFERENT	wNBiH-H5kTw	MPREb_ks8WTDTxGlb	UCgHHxoD5eBpYkAVVQ_R-TrA
 40	One Less Set of Footsteps	Jim Croce	Life & Times	INDIFFERENT	EwQNnPoq6EY	MPREb_TbFZfphODvB	UCgHHxoD5eBpYkAVVQ_R-TrA
 60	Sky High	Jigsaw	Anthology	INDIFFERENT	k4FMNPFy6Fw	MPREb_WMYLE7WYfP6	UC5VlTre00VAhpTfCYfmbRKw
@@ -100,7 +100,6 @@
 27	(I've Been) Searchin' So Long [2002 Remaster]	Chicago	The Very Best of Chicago: Only the Beginning	INDIFFERENT	gAIkWMDgtWo	MPREb_cjesXFOknTq	UC8vVfqDySe2dz-wCNcy6jew
 115	Earache My Eye	Cheech And Chong & Alice Bowie	Wedding Album	INDIFFERENT	XqyegIAGlmk	MPREb_1q18GDmnGNm	
 45	I Won't Last A Day Without You	Carpenters	Gold - Greatest Hits	INDIFFERENT	5VcbZ-fKsWE	MPREb_wDOsnJFzlAe	UCahR3Ejd3QSqcq9a5gA_DyA
-85	We’ve Only Just Begun	Carpenters	Carpenters With The Royal Philharmonic Orchestra	INDIFFERENT	cl_-F4t8pCw	MPREb_kmm9gKxRMea	UCahR3Ejd3QSqcq9a5gA_DyA
 20	Muskrat Love	Captain & Tennille	Song Of Joy	INDIFFERENT	N2BuP-NcJ5Q	MPREb_18NQqoascXb	UCvNYfONVC94OZW1MyOavztQ
 33	Let Your Love Go	Bread	The Best of Bread	INDIFFERENT	sp9B1FodnkI	MPREb_796ICsJtd1J	UCDWabQKkUME20Ib1JtzfI4w
 38	Something About You	Boston	Boston	INDIFFERENT	osG16m9lphY	MPREb_b9VxOy5CQuI	UCwU_WvSAvmLZnvqRF0lg7Iw
