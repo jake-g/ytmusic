@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+202	There's Always Something There to Remind Me	Sandie Shaw	There's Always Something There to Remind Me	LIKE	hp-FnGb4wbY	MPREb_MQvDL3ynMTJ	UCiVfV10yZAZSYKbuxuwnlGg
 90	You'll Never Walk Alone	Gerry & The Pacemakers	The Very Best Of Gerry & Pacemakers	LIKE	Hn2PXb0YxPw	MPREb_cR0ULU3lF2T	UC15pzUI6BKKj7G1Zt1KO_mg
 51	I'll Be With You In Apple Blossom Time	Wayne Newton	Capitol Collectors Series	INDIFFERENT	K0VWOSCmjNo	MPREb_NO3siAQYT9d	UCCaQ2OaruIocI5Ey-cyH-cQ
 155	Red Roses For A Blue Lady	Wayne Newton	Capitol Collectors Series	INDIFFERENT	fZw-uNTeRSQ	MPREb_NO3siAQYT9d	UCCaQ2OaruIocI5Ey-cyH-cQ
@@ -98,7 +99,6 @@
 260	A Dear John Letter	Skeeter Davis	Tunes for Two	INDIFFERENT	d_FBx01SCKc	MPREb_rqb1U5FVMzu	UCpvg7DpGRI7Ef6-3cZgfC0Q
 278	Moon River	Shirley Bassey	Sings the Standards	INDIFFERENT	VDsq1kjTQTk	MPREb_RqCIV7KG8VT	UC_Ab-oQobPd9SEFRUsiR4FQ
 432	San Francisco (Be Sure to Wear Flowers in Your Hair) (Single Version)	Scott McKenzie	Rock Artifacts, Vol. III - from the Vaults of Columbia and Epic Records	INDIFFERENT	wuEqAVa3n9k	MPREb_TdE01AUFeT3	UCtCmGRLFL9jBpxuv7AfGg5A
-202	There's Always Something There to Remind Me	Sandie Shaw	There's Always Something There to Remind Me	INDIFFERENT	hp-FnGb4wbY	MPREb_MQvDL3ynMTJ	UCiVfV10yZAZSYKbuxuwnlGg
 83	Our Day Will Come	Ruby And The Romantics	Our Day Will Come	INDIFFERENT	i6FpsXojEoQ	MPREb_JIyx7WBvpeC	UCIiHLykj3IzJbyyuco6-Q-Q
 44	I Can't Stop Loving You	Roy Orbison	Sings Lonely and Blue	INDIFFERENT	-dZh9FxxgOo	MPREb_ukIdsyrZUyR	UCjMI6Jhz6i608_B2pvYNrfg
 50	Falling	Roy Orbison	The Essential Roy Orbison	INDIFFERENT	U3E18QXWX3s	MPREb_QMzH2yNKIPN	UCjMI6Jhz6i608_B2pvYNrfg
@@ -340,24 +340,23 @@
 175	Jambalaya (On the Bayou)	Connie Stevens	The Hank Williams Songbook	INDIFFERENT	CMUiLWnT_ro	MPREb_NhJmGAxW2lC	UC47NOSY71-YeMX9u9zkXRhw
 298	Sixteen Reasons	Connie Stevens	"As Cricket In ""Hawaiian Eye"""	INDIFFERENT	gATwzVx1lCs	MPREb_ThyQsPwE8aM	UC47NOSY71-YeMX9u9zkXRhw
 324	Why'd You Wanna Make Me Cry	Connie Stevens	Hot 100 Hits of the 60s	INDIFFERENT	mO82V52U6R0	MPREb_T0RyxXVZk9l	UC47NOSY71-YeMX9u9zkXRhw
-169	Blue Winter	Connie Francis	The Very Best Of Connie Francis Vol.2	INDIFFERENT	U7umeWGkNEU	MPREb_UlWxnRB7aDv	UC9G_OaXEjvl90Nt6FlV61OA
-183	Don't Ever Leave Me	Connie Francis	Rocksides (1957-64)	INDIFFERENT	WoyU8qV0KGU	MPREb_mXyaETW3AQy	UC9G_OaXEjvl90Nt6FlV61OA
-193	Hollywood	Connie Francis	Rocksides (1957-64)	INDIFFERENT	XFO3OjjxA-8	MPREb_mXyaETW3AQy	UC9G_OaXEjvl90Nt6FlV61OA
-238	Pretty Little Baby (Sjunger På Svenska) (Swedish Version)	Connie Francis	Pretty Little Baby (International Versions)	INDIFFERENT	7Hg21dnwE7w	MPREb_K7KJ5Mjp6Si	UC9G_OaXEjvl90Nt6FlV61OA
-250	Many Tears Ago	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	KjLLyBxFGdU	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-258	Among My Souvenirs	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	4bVzn6yqkVs	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-264	Second Hand Love	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	G5C6fV6tsB4	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-294	Fascination	Connie Francis	Connie Francis Sings American Fantasies	INDIFFERENT	8nRGuer1qdE	MPREb_M8b97G7MMGL	UC9G_OaXEjvl90Nt6FlV61OA
-295	Teddy	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	AfFqXG5VNKE	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-321	Don't Break The Heart That Loves You	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	2ewJSoqFZFw	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-347	Where The Boys Are	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	3wKP7akgJxM	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-348	Follow The Boys	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	go6a-4a28as	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-350	Breakin' In A Brand New Broken Heart	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	WXymosqS8NA	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
-359	Someone Else's Boy	Connie Francis	Rocksides (1957-64)	INDIFFERENT	hsfY8iAFQCQ	MPREb_mXyaETW3AQy	UC9G_OaXEjvl90Nt6FlV61OA
-364	Valentino	Connie Francis	Siboney	INDIFFERENT	Of2CuKMik9Y	MPREb_cnk3cChEofQ	UC9G_OaXEjvl90Nt6FlV61OA
-379	Gonna Get That Man	Connie Francis	Rocksides (1957-64)	INDIFFERENT	eVZNEJec13w	MPREb_mXyaETW3AQy	UC9G_OaXEjvl90Nt6FlV61OA
-397	Bye, Bye Love	Connie Francis	Sing Great Country Favorites (Expanded Edition)	INDIFFERENT	U3RLcYHkjeo	MPREb_VVBlxXmqAB1	UC9G_OaXEjvl90Nt6FlV61OA
-406	I'm Gonna Be Warm This Winter	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	cmYGpdfL8-4	MPREb_nqgwfXv3XJZ	UC9G_OaXEjvl90Nt6FlV61OA
+169	Blue Winter	Connie Francis	The Very Best Of Connie Francis Vol.2	INDIFFERENT	U7umeWGkNEU	MPREb_UlWxnRB7aDv	UCRyg_qdmY5GjrwzSCnpCQ9w
+183	Don't Ever Leave Me	Connie Francis	Rocksides (1957-64)	INDIFFERENT	WoyU8qV0KGU	MPREb_mXyaETW3AQy	UCRyg_qdmY5GjrwzSCnpCQ9w
+193	Hollywood	Connie Francis	Rocksides (1957-64)	INDIFFERENT	XFO3OjjxA-8	MPREb_mXyaETW3AQy	UCRyg_qdmY5GjrwzSCnpCQ9w
+250	Many Tears Ago	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	KjLLyBxFGdU	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+258	Among My Souvenirs	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	4bVzn6yqkVs	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+264	Second Hand Love	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	G5C6fV6tsB4	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+294	Fascination	Connie Francis	Connie Francis Sings American Fantasies	INDIFFERENT	8nRGuer1qdE	MPREb_M8b97G7MMGL	UCRyg_qdmY5GjrwzSCnpCQ9w
+295	Teddy	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	AfFqXG5VNKE	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+321	Don't Break The Heart That Loves You	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	2ewJSoqFZFw	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+347	Where The Boys Are	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	3wKP7akgJxM	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+348	Follow The Boys	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	go6a-4a28as	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+350	Breakin' In A Brand New Broken Heart	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	WXymosqS8NA	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
+359	Someone Else's Boy	Connie Francis	Rocksides (1957-64)	INDIFFERENT	hsfY8iAFQCQ	MPREb_mXyaETW3AQy	UCRyg_qdmY5GjrwzSCnpCQ9w
+364	Valentino	Connie Francis	Siboney	INDIFFERENT	Of2CuKMik9Y	MPREb_cnk3cChEofQ	UCRyg_qdmY5GjrwzSCnpCQ9w
+379	Gonna Get That Man	Connie Francis	Rocksides (1957-64)	INDIFFERENT	eVZNEJec13w	MPREb_mXyaETW3AQy	UCRyg_qdmY5GjrwzSCnpCQ9w
+397	Bye, Bye Love	Connie Francis	Sing Great Country Favorites (Expanded Edition)	INDIFFERENT	U3RLcYHkjeo	MPREb_VVBlxXmqAB1	UCRyg_qdmY5GjrwzSCnpCQ9w
+406	I'm Gonna Be Warm This Winter	Connie Francis	The Very Best Of Connie Francis - Connie's 21 Biggest Hits	INDIFFERENT	cmYGpdfL8-4	MPREb_nqgwfXv3XJZ	UCRyg_qdmY5GjrwzSCnpCQ9w
 101	Lover Please	Clyde McPhatter	Best of 60's	INDIFFERENT	FxrD1wbB8XU	MPREb_C26BW4XKEB9	UCyMOY3Mt8EEHYyQokSasauw
 257	Little Bitty Pretty One (Single Version)	Clyde McPhatter	Lover Please/The Complete MGM & Mercury Singles	INDIFFERENT	-bU-rkTgLq8	MPREb_wfrCrzMieFB	UCyMOY3Mt8EEHYyQokSasauw
 196	Party Lights	Claudine Clark	Party Lights	INDIFFERENT	NiZDFE_7NkM	MPREb_TB8uQYYccY0	UCSu90ce7gsoi32IyWbceVxA
@@ -460,6 +459,7 @@
 261	Young and in Love	Dick & Dee Dee	Popular and Loved Hits, Vol. 1		GvqlWU1hleQ		
 322	S'wonderful	Della Reese	More Jukebox & Doo Wop Hits, Vol. 2		kU-kkOKoj2A		
 117	Stop And Think It Over	Dale & Grace	60's Jukebox Hits - Vol. 3		HbuqHpx4lyQ		
+238	Pretty Little Baby (Sjunger På Svenska) (Swedish Version)	Connie Francis	Pretty Little Baby (International Versions)		7Hg21dnwE7w		
 157	Patches	Clarence Carter	Doo Wop Comeback, Vol. 3		negh54hUpEQ		
 391	Revenge - Re-Recording (by Original Artist)	Brook Benton	Brook Benton Selected Hits Vol. 3		RetdntasKEs		
 427	Let's Stomp	Bobby Comstock	Tell Him No		-JWwmlt4CLI		
