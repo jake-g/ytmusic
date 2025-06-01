@@ -1,6 +1,8 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 1	Morning Song	Starslinger	Solstice in Detroit	LIKE	F4gRP8qGK_M	MPREb_eYvxb5jkjEq	UCFN3BG81ZbwQs9KjVEQAZlg
+26	Fallout	Neon Indian	Era Extraña	LIKE	xPCDZlTV60E	MPREb_Adl3N7N811V	UCQfjAfgbhbscEJx5AnTXNWA
 0	Osaka Loop Line	Discovery	LP (Deluxe Edition)	LIKE	ZShmsKcAHFc	MPREb_tpQWCqiMEHC	UCCKZhtCefeL_TcYn3a8JW3w
+58	When Your Love Is Safe	Active Child	Curtis Lane	LIKE	-1ypKZTIvhk	MPREb_DQCzISrAB8x	UCuGmKFcmQDIGqUUyz7eulIQ
 265	yeorie	wavetearz	yeorie	INDIFFERENT	oY2i8U4leVg	MPREb_chZm1PF9lrh	UCclS3eCSoQ7qSprch23G6tA
 6	Summer Holidays	tiiiza	Youth	INDIFFERENT	kCg9qWK97AI	MPREb_SjxXKRP1W0E	UCxDzwbrPgh-ZJJXvcVJyUlg
 699	1998	tiiiza	Youth	INDIFFERENT	A8JfbU2mmis	MPREb_SjxXKRP1W0E	UCxDzwbrPgh-ZJJXvcVJyUlg
@@ -329,7 +331,6 @@
 190	On The Run	Nightlife	Radio - EP	INDIFFERENT	bGraG50CIFU	MPREb_bouxSA2l8Oa	UC7Bjm6Wq1f9tDPF-Y01PXzw
 628	Trips	Night Bloom	Moment to Dawn	INDIFFERENT	tGeM41MFd0I	MPREb_hNnztP8gcP7	UCpahQsq8WfNRh9RXlu6hmaQ
 757	Leviathan	Neon VCR	False Messiah	INDIFFERENT	mFVJQiKInmE	MPREb_dytzlSrRDgd	UCbcX7158uzppfs6YhKLExRA
-26	Fallout	Neon Indian	Era Extraña	INDIFFERENT	xPCDZlTV60E	MPREb_Adl3N7N811V	UCQfjAfgbhbscEJx5AnTXNWA
 123	Triangle	Neon Cloud	Knit	INDIFFERENT	X8HtOeorISw	MPREb_N9t8KPIx6Ca	UC54OxS-aaz9zUBlIjXbHfhw
 124	Triangle (Sun Glitters Remix)	Neon Cloud	Knit	INDIFFERENT	QnY7R2-wPh8	MPREb_N9t8KPIx6Ca	UC54OxS-aaz9zUBlIjXbHfhw
 391	Reflection	Nctrnm	ORBIT	INDIFFERENT	qT8uJ829j4Q	MPREb_xYpvAhQgguQ	UCapPoCNn8Yf6UNzo375egqA
@@ -492,9 +493,6 @@
 586	kissing girls	Grady	a place we can always go.	INDIFFERENT	9g_LI9Ypphw	MPREb_bcXjKgZCiNw	UCSDQd6lqxc7VrpLRYPEJraQ
 314	Casita	Goth Babe	Casita	INDIFFERENT	AViW-JOK894	MPREb_8207vPsXvh6	UCRYLLf5FNYqphqp2BtkA0pQ
 487	Bioluminescence	Goth Babe	Bioluminescence	INDIFFERENT	5DRqA7J4q74	MPREb_qfr2IQ4VQ2p	UCRYLLf5FNYqphqp2BtkA0pQ
-210	Refuel	Gordonomics	Refuel	INDIFFERENT	kQPGoiZMhaI	MPREb_5oOWqGznV1u	UCOOUhg_Sqr_HgxTcamZ9VwA
-554	Evening Cruise	Gordonomics	Voyager	INDIFFERENT	BQ66uGj3Exg	MPREb_8mMhQIquD5R	UCOOUhg_Sqr_HgxTcamZ9VwA
-653	GOOD MORNING APOCALYPSE	Gordonomics	GOOD MORNING APOCALYPSE	INDIFFERENT	3FFNR3wXPLc	MPREb_zvpEKeAZVp8	UCOOUhg_Sqr_HgxTcamZ9VwA
 194	Threnody	Goldmund	The Malady Of Elegance	INDIFFERENT	u1hq9W-d_z8	MPREb_6qQp3McLHq0	UCeMhZbWtGvULvXgEspzzfKA
 54	Marriage (Baths Remix)	Gold Panda	Marriage	INDIFFERENT	lTHoPjjdG3M	MPREb_dYziLJj2a91	UC68yNj_3xz9ppq6zAG_wESQ
 117	Mountain	Gold Panda	Mountain / Financial District	INDIFFERENT	sW_Goh_oVPs	MPREb_PvdTudQegSE	UC68yNj_3xz9ppq6zAG_wESQ
@@ -743,7 +741,6 @@
 380	Maya Stealing	After Eating	Maya Stealing	INDIFFERENT	Zd9AYnJ1sjM	MPREb_bLhmyjeZPoX	
 273	confidence	Aevum Music	confidence	INDIFFERENT	3l_sOq-hEUc	MPREb_kfA5jLhiTMK	UCyiQ3RHoWil-nZZ5WYXc3Kg
 243	Atlantic Drift	Admo	Atlantic Drift	INDIFFERENT	Wm1mwoaTxdU	MPREb_RwBh5b2nwjT	UCAvVHIxw1-kCfCVHj9dU87w
-58	When Your Love Is Safe	Active Child	Curtis Lane	INDIFFERENT	-1ypKZTIvhk	MPREb_DQCzISrAB8x	UCuGmKFcmQDIGqUUyz7eulIQ
 87	She Was a Vision	Active Child	Curtis Lane	INDIFFERENT	o6YyRX5TIYc	MPREb_DQCzISrAB8x	UCuGmKFcmQDIGqUUyz7eulIQ
 98	Playing House	Active Child	You Are All I See (Deluxe Version)	INDIFFERENT	d8zmRqyGTwU	MPREb_NKZ2JSNICHM	UCuGmKFcmQDIGqUUyz7eulIQ
 142	Evening Ceremony	Active Child	Rapor	INDIFFERENT	pTUypY84N_I	MPREb_r29rr6Xvs1l	UCuGmKFcmQDIGqUUyz7eulIQ
@@ -786,6 +783,9 @@
 623	Skywards	Limited Past	Wild Woodlands		xTmnRK8Hz8Y		
 334	Tonight (Demo)	KAMICOM SOUND SYSTEM	Tonight (Demo)		1EYpCHn_mtY		
 335	Who Want the Smoke?	JML	Demons in the Closet		CBqphza0guY		
+210	Refuel	Gordonomics	Voyager		x7G1Zn8Fg-Y		
+554	Evening Cruise	Gordonomics	Voyager		BQ66uGj3Exg		
+653	GOOD MORNING APOCALYPSE	Gordonomics	GOOD MORNING APOCALYPSE		3FFNR3wXPLc		
 405	Your Love	Furns	Only Through Your Eyes		I7LcIewWKQ4		
 584	I MISS YALL	Friendzone	COLLECTION I		LwA232R_IYI		
 537	1 Hour Lofi Study Music Chill Hip Hop Beats, Vol. 3	Dumb Jazzy Stick	1 Hour Lofi Study Music Chill Hip Hop Beats, Vol. 3		ebL-R4T_W3g		

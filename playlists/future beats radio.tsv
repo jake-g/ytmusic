@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 171	Without Your Love	oOoOO	Without Your Love	LIKE	TFg7KzlTk0k	MPREb_PXnntrHpbcY	UCdTMMegAh48Awz6QuL-T1HA
 479	Hasty Boom Alert	U-Ziq	Lunatic Harness	LIKE	3c_E09gib-Y	MPREb_suLHdTyws8L	UC7IoxqTlXj7Kky2eW3Hnvpg
+1222	Delorean Dynamite	Todd Terje	It's Album Time	LIKE	KLyNVBSsWq8	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 19	Morning Song	Starslinger	Solstice in Detroit	LIKE	F4gRP8qGK_M	MPREb_eYvxb5jkjEq	UCFN3BG81ZbwQs9KjVEQAZlg
 1363	My Red Hot Car	Squarepusher	Go Plastic	LIKE	9zwisWaiVzQ	MPREb_NQl0CtuT0XI	UCpwax2-MvnILOcR68QWOZ1g
 350	I Need A Forest Fire (feat. Bon Iver)	James Blake	The Colour In Anything	LIKE	LGPNEsr0MtI	MPREb_4LBkxEG6W1T	UCx90L12QXzc18AGYFRof-EA
@@ -153,7 +154,6 @@
 1509	Wander With Me (feat. Carmody)	Tom Misch	Beat Tape 2	INDIFFERENT	JtILgoMnCEs	MPREb_nDR3wpUyRdg	UCCCWJwLEvpPAs4r_nJiKe2Q
 1368	Prana	Tom Middleton	Lifetracks	INDIFFERENT	J42exD9Te3c	MPREb_iGVYoaOd0Pg	UCDYTsn3NX6smb55gKcg8UMA
 1389	Alive	Tokimonsta	LA Series 8	INDIFFERENT	56X6Vzx-kx4	MPREb_9f8zSqOlIxY	UCg-MiMmT50XZnbSCllzhyuA
-1222	Delorean Dynamite	Todd Terje	It's Album Time	INDIFFERENT	KLyNVBSsWq8	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 1537	The Lonely	Toby Keith	Blue Moon	INDIFFERENT	wfEPoOVDaCc	MPREb_AoypPDLIJRw	UCz4FwgEhzZAGqTVCWqqtLEw
 160	Illabye	Tipper	Surrounded	INDIFFERENT	9INEv5uZ1QQ	MPREb_kPJU9PrJck5	UCHAsFegpJfVNWPop6bJZ5FQ
 478	Tear Strips Off	Tipper	Surrounded	INDIFFERENT	AdZxbPJNvvg	MPREb_kPJU9PrJck5	UCHAsFegpJfVNWPop6bJZ5FQ
@@ -565,7 +565,6 @@
 637	Neoteric (Redo) (feat. Gylzey)	Oshi	Oshi	INDIFFERENT	C0wvL1ufbKk	MPREb_GQK92mFnlCF	UCi4ac-AZZTFHRlB1B82WFnQ
 684	Heal You (feat. Courtney Bennett)	Oshi	Heal You	INDIFFERENT	Bb3czT8LoB8	MPREb_uCxhzib0jy2	UCp0RTtwjDu1pSO3GuVOotRg
 824	Found	Oshi	Found	INDIFFERENT	62iOz_1sIIc	MPREb_Clrwl8m5A3l	UCp0RTtwjDu1pSO3GuVOotRg
-1214	Whispers (feat. Avonlea)	Oshi	Whispers	INDIFFERENT	9rNS1NcZAU0	MPREb_OC60KzAF3w6	UCuNbE4Rj7IVva7amMZcooRA
 1524	I <3 U	Oshi	Oshi	INDIFFERENT	EZOpsfxmTJc	MPREb_GQK92mFnlCF	UCi4ac-AZZTFHRlB1B82WFnQ
 414	Dafty	Oshan	Most at Home	INDIFFERENT	VdVwVr2dxmI	MPREb_nMxeWkT9dwy	UCAag58RaVEXIQ6HN8ZrjIvQ
 14	Falling	Opia	Faded	INDIFFERENT	iu3n4gOcdIc	MPREb_uRnuHe0Snvz	UCHLwfaXN_fc5Zj4ClS6jdhw
@@ -1166,6 +1165,7 @@
 1002	Some Jazz Shit	FaltyDL	In The Wild	INDIFFERENT	_jhwnitPfqo	MPREb_LbLGxHzZKNp	UC-9fetHADtmYiwy-5MgDq6Q
 921	Three Button Hand Me Down	Faces	Black Night - 1970 Rock	INDIFFERENT	926Dnhe5Bks	MPREb_t63zSOmNkBM	UCmQ1F3mlOlAR4Njn39lf9cw
 471	Perfect Timing	FKJ & Col3trane	Perfect Timing	INDIFFERENT	wcrSN2eTd7E	MPREb_UYQfogXOCuq	UCxcGxv-per5g7A9be800tQA
+68	Open The Door	FKJ	Trax 9 Future beats	INDIFFERENT	fwpE0vdbkLE	MPREb_8OPM8ejtEeB	UCxcGxv-per5g7A9be800tQA
 775	Learn to Fly (feat. Jordan Rakei)	FKJ	Take Off	INDIFFERENT	F5bvMtj5wkw	MPREb_kQazbY2uv2T	UCxcGxv-per5g7A9be800tQA
 1516	Better Give U Up	FKJ	French Kiwi Juice	INDIFFERENT	0_0k4Dv2VL8	MPREb_20GBfLUWMGS	UCxcGxv-per5g7A9be800tQA
 11	In Time	FKA twigs	M3LL155X	INDIFFERENT	0La8Cusqo1w	MPREb_FpL7YWmlJL9	UC_iqdQXYWYi_zCcd8q2G0rQ
@@ -1543,6 +1543,7 @@
 597	C2	Rain Dog	Finest Ego | Faces Series, Vol. 3		GSSfZoryVcY		
 752	Kadinchey	Pogo	Kadinchey		UoQlFSp1ZBU		
 1117	Demons	Oshi	Demons		29LFFyMqFSg		
+1214	Whispers	Oshi	Whispers		9rNS1NcZAU0		
 805	Dokuganryu	Ninjato	Chronicles of the 6 Samurai		LwGuES-fTkQ		
 1282	Wherever	Myamo	Slow Down		mfTlNFQfJX0		
 979	Venus & Mars (Freddie Joachim Remix)	Muneshine	In Transit		rFmu3oXtTgc		
@@ -1560,7 +1561,6 @@
 1223	Stupido	Fulgeance	Cubes		1LJ2afPU6Lc		
 477	Aesthetic Fashion	FrankJavCee	FrankJavCee Collection, Vol. 1, Pt. II		A7fX5C4KryU		
 511	Drops	FKJ & Tom Bailey	TheSoundYouNeed, Vol. 2		amreyjT9-L0		
-68	Open The Door	FKJ	Trax 9 Future beats		fwpE0vdbkLE		
 1304	Feelin (feat. DJ Spinn & Taso)	DJ Rashad	Double Cup		dQMzesKnu2Q		
 375	Intuition	Cambio Sun	Retisent		rLXY2HE__Fc		
 270	Moebius' Travels (Julien Mier Remix)	Arts The Beatdoctor	Lazy Thunder Remixes		PvxbdDL-EyY		

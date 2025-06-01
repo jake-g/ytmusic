@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+32	Delorean Dynamite	Todd Terje	It's Album Time	LIKE	KLyNVBSsWq8	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 620	Need You Tonight (Ben Liebrand Mix)	INXS	Kick (30th Deluxe Edition)	LIKE	3KoyzDhDCdY	MPREb_3qtUduLmjft	UCVHfuJpwPb1AWBLWOwA0McQ
 756	Steam	spring gang	Mister Magical	INDIFFERENT	tVkV0tPlkAs	MPREb_Dukgy1y9laa	UCkGoVUWkbVZ8E7aRs1IZIqA
 616	Cloud Room	aran	APERTURE SYNTHESIS	INDIFFERENT	bgAj4BvOE9w	MPREb_yohvng67CWd	UCsTbHOanwkfwE8qqPGJPyqQ
@@ -56,7 +57,6 @@
 629	Tonight (Birdee Remix)	Tommy Glasses	Tonight	INDIFFERENT	jlTWjzEaN8Q	MPREb_IsFFiSLgkYL	UC-LSPGxHm4LPrqqsDpCC6Ow
 117	Disco Yes	Tom Misch & Poppy Ajudha	Geography	INDIFFERENT	Ot2LYgmanR0	MPREb_IsxQYkEQWGR	
 683	No Disco (feat. Phaun)	Tokyo Wanderer	No Disco	INDIFFERENT	EKXTDpKkg1M	MPREb_BbCNNOG1Mpi	UCKKQ3S1QJc3VOZzsdG7wYOw
-32	Delorean Dynamite	Todd Terje	It's Album Time	INDIFFERENT	KLyNVBSsWq8	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 124	Maskindans (Radio Edit) (feat. Det Gylne Triangel)	Todd Terje	Maskindans	INDIFFERENT	B8_bEfC8Bcw	MPREb_gvrgtmxCAuZ	UC0IiRfiEDA0GLLMufhUUOng
 125	Strandbar	Todd Terje	It's Album Time	INDIFFERENT	cZVd-nD89YA	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
 400	Alfonso Muskedunder	Todd Terje	It's Album Time	INDIFFERENT	1LzTK7FAoH4	MPREb_sURXIhBIwhl	UC0IiRfiEDA0GLLMufhUUOng
@@ -644,6 +644,7 @@
 184	Brain Machine	Fideles	Brain Machine	INDIFFERENT	i6pBeTlHMI0	MPREb_QaWr0TbvX4R	
 664	Sleepy Crusader (Dub Mix)	Falqo	Sleepy Crusader	INDIFFERENT	6s_YV2I-tiM	MPREb_Fh5UyzChQRD	UCJto9xRBusyCB4cRTaNZkMw
 688	I Think I Like It	Fake Blood	Fix Your Accent	INDIFFERENT	tev_wTNMYnk	MPREb_K2nZJRn9Vrj	UCNDT8Qa5pspqTPo0lmprAyw
+121	Open The Door	FKJ	Trax 9 Future beats	INDIFFERENT	fwpE0vdbkLE	MPREb_8OPM8ejtEeB	UCxcGxv-per5g7A9be800tQA
 598	810	FIBRE	810	INDIFFERENT	HGh0Ek-fIzQ	MPREb_WX4pFNDhPFq	UCxd2cFkE3d6mlRFfCrZPgKQ
 477	Nightmare	FHE	Nightmare	INDIFFERENT	q-pOT_-Rxz8	MPREb_YJckgM00rqA	UCvJP4vGfE3EsOlIaBTPWE-w
 615	Tilt Mode (feat. Gibbz)	Exmag	Tilt Mode	INDIFFERENT	ACktaRUrYuE	MPREb_AsAYhBUgOEX	UCLtP4wrdXEAXBSddQO4rWOA
@@ -704,7 +705,7 @@
 410	Waxing Moon (feat. Sebastian Adé)	DJ Pasta	Waxing Moon	INDIFFERENT	c4bnYh2gee4	MPREb_wBliMaj9pD2	UCLErfEheASUDu0xpkcq2kCw
 587	Outer Space is only 62 miles away	DJ Pasta	Outer Space is only 62 miles away	INDIFFERENT	qeOLU3R5aOA	MPREb_aTxSHzyxQSt	UCpHqsDdI7Tv-RitpXcmngJw
 182	Make the World Go Round (feat. R.Kelly)	DJ Cassidy	Make the World Go Round	INDIFFERENT	mo1IfLeXR_M	MPREb_eJleIsEfVyW	UCEsId29vExtng42y10Pw-iQ
-171	Hearts On Fire	Cut Copy	In Ghost Colours (UK Version Delux)	INDIFFERENT	Tf7NFG7xD2c	MPREb_jMAMePtIvqm	UClL93XdC3tpplPnpwhL0cfQ
+171	Hearts On Fire	Cut Copy	In Ghost Colours (Deluxe)	INDIFFERENT	Tf7NFG7xD2c	MPREb_jMAMePtIvqm	UClL93XdC3tpplPnpwhL0cfQ
 272	No Sleep (Louis La Roche Remix)	Crooked Colours	No Sleep (Louis La Roche Remix)	INDIFFERENT	s33QZPVlwPQ	MPREb_vaDM4S1MTuj	UCkNCyh911t8fdrC7jiHMTMQ
 403	SOS	Crazy P	SOS	INDIFFERENT	0_lz8nQ_05c	MPREb_VpV2YNStfi5	UCnYmkH9d7FWdvfUK5-jUWrg
 556	Like A Fool	Crazy P	Walk Dance Talk Sing	INDIFFERENT	ORoPx2UCMt8	MPREb_Ebo58VSH7WJ	UCnYmkH9d7FWdvfUK5-jUWrg
@@ -866,7 +867,7 @@
 318	Masquerade	A-P Connection & Howard Johnson	Wide Vision	INDIFFERENT	1qct4IzdSQU	MPREb_o0TvtNt3ndj	
 862	Coming to my Summer Madness	7DD9	Coming to my Summer Madness	INDIFFERENT	dZGLi8FpxRs	MPREb_Qm0ULPbOaNB	UCQnzxImXD27HR2M-p4dmneg
 819	Planets (The Revenge Lost Groove) (Mixed)	6th Burough Project	DJ-KiCKS (Juan MacLean) (DJ Mix)	INDIFFERENT	SiqpEudDDj4	MPREb_i5FA9GfqskV	
-878	Catching Eyes	49th & Main	Catching Eyes	INDIFFERENT	sVw2p7TeWXc	MPREb_a2ukcRPWz50	UCANGh4NFqg1Ppx8hlBJGAlQ
+878	Catching Eyes	49th & Main	Catching Eyes	INDIFFERENT	6hxsSsZbDCY	MPREb_3e5eLl9kgkc	UCANGh4NFqg1Ppx8hlBJGAlQ
 808	Fin août début septembre	3615 Nuits Blanches	Fin Août Début Septembre	INDIFFERENT	KoCOKNFwnxo	MPREb_n4k43LO8ThS	UCCSXWiJZHh97rsi1z5OFsmw
 365	Disco Demolition Night	miami slice	Disco Demolition Night		1bR5xOXKh6I		
 655	Fountain of Grooves	miami slice	Disco Demolition Night		IOLjpS7rV_s		
@@ -881,7 +882,6 @@
 241	Lifeline	Jamiroquai	Rock Dust Light Star		N65gPPvsMCE		
 692	Future Disco - Downtown Express Continuous Mix	Future Disco	Future Disco, Vol. 5 - Downtown Express		duNXOjGYP6A		
 785	Super Disco Galaxy	Flying Orion	Cosmic Bliss Adventure		Ytfcv0xuv1E		
-121	Open The Door	FKJ	Trax 9 Future beats		fwpE0vdbkLE		
 279	Charlie Chazz & Rappin Ralph	Duck Sauce	Quack		eK_yOfFdMiA		
 706	The Music's Got Me (Juloboy Short Edit)	DiscoVer. & Mart	The Music's Got Me		TFauN_N5KPI		
 763	Pick Up (12'' Extended Disco Version) [Mixed] (12'' Extended Disco Version [Mixed])	DJ Koze	Defected Radio Episode 132 (hosted by Sam Divine)		IAvps_Qws7A		
