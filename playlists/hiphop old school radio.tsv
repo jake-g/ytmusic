@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 144	Wu-Tang: 7th Chamber	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	4mGfB5lbK-w	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
+337	One More Chance (2005 Remaster)	The Notorious B.I.G.	Ready to Die (The Remaster)	LIKE	Ky3S7jdoiUI	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
 260	Meth Vs. Chef (feat. Raekwon)	Method Man	Tical	LIKE	YsL4LklccNk	MPREb_ciHGw3R5mJo	UCc1r7FILg1s6rXuE4quij5Q
 436	Flavor Of The Month	Black Sheep	A Wolf In Sheep's Clothing	LIKE	Hfn_3FcyjVQ	MPREb_JOIg8XpogyB	UCJVmVTYCEaiMLCdVohRx9gg
 292	Happiness	dead prez	Let's Get Free	INDIFFERENT	pFRk_cQIq2k	MPREb_iKUhvOJbuUA	UCtTL8izoraajUAufCZQJrAQ
@@ -73,7 +74,6 @@
 243	Things Done Changed (2005 Remaster)	The Notorious B.I.G.	Ready to Die (The Remaster)	INDIFFERENT	yy5m_9HXp6A	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
 275	I Got a Story to Tell (2005 Remaster)	The Notorious B.I.G.	Hypnotize	INDIFFERENT	Jh0pJRyma2M	MPREb_RzWuhBDXyrM	UCczXQ2ehGOS2U2UnR8rY3Hg
 305	1970 Somethin' (feat. Faith Evans & The Game)	The Notorious B.I.G.	Duets: The Final Chapter	INDIFFERENT	bgBAypXLkIc	MPREb_iucFM5iR0MY	UCczXQ2ehGOS2U2UnR8rY3Hg
-337	One More Chance (2005 Remaster)	The Notorious B.I.G.	Ready to Die (The Remaster)	INDIFFERENT	Ky3S7jdoiUI	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
 379	Dead Wrong [2007 Remaster] (feat. Eminem)	The Notorious B.I.G.	Greatest Hits	INDIFFERENT	Z380jNJbFO8	MPREb_cqZ2zKgFDWg	UCczXQ2ehGOS2U2UnR8rY3Hg
 458	Respect (2005 Remaster)	The Notorious B.I.G.	Ready to Die (The Remaster)	INDIFFERENT	WbLTCpEIJUo	MPREb_iF0uEXwERPq	UCczXQ2ehGOS2U2UnR8rY3Hg
 556	Nasty Girl [2005 Remaster] (feat. Avery Storm, Diddy, Jagged Edge & Nelly)	The Notorious B.I.G.	Duets: The Final Chapter	INDIFFERENT	XmYknE1YDRQ	MPREb_iucFM5iR0MY	UCczXQ2ehGOS2U2UnR8rY3Hg
@@ -108,7 +108,6 @@
 106	Kill Niggaz	Slick Rick	The Art Of Storytelling	INDIFFERENT	NAaqOd7wtTA	MPREb_1TBTl21gkFI	UCib_EXltOfVOg-mk0-naNEA
 698	Asylum (feat. Eminem)	Slaughterhouse	welcome to: OUR HOUSE (Deluxe)	INDIFFERENT	JhyxZjg3X-E	MPREb_amXdxLOOtkS	UCWcs6zwy2g9LYheojze-n_Q
 252	Shutdown	Skepta	Konnichiwa	INDIFFERENT	d8nPHTKwQbU	MPREb_wGzUnmkal68	UCc4WH_3xPXq64TXnEmgePgQ
-699	Let's Talk About AIDS (PSA)	Salt-N-Pepa	Very Necessary (30th Anniversary Edition)	INDIFFERENT	75ROeSnwp9o	MPREb_qmdNPMotCGh	UChG4UYfQHHCXbKHA4XAhiew
 591	Can't Loose	Rza As Bobby Digital	Digital Bullet	INDIFFERENT	tQ_joPCHiyo	MPREb_E5q6ZGKn9mj	UCS9E7hCpXnbB-UFlLXgGC6g
 617	Summer On Lock (feat. Pusha T, Jadakiss, Fabolous & Agent Sasco (feat. Pusha T, Agent Sasco, Fabolous & Jadakiss)	"Royce da 5'9"""	Book of Ryan (Bonus Track Edition)	INDIFFERENT	OhEf90rg5Pk	MPREb_At9NEvRmgBG	UCztmP5OtijziqOMYuCixISQ
 662	Hot (feat. Pusha T & Clipse)	Rosco P. Coldchain	The Neptunes Present... Clones	INDIFFERENT	crEp-Nnq9qc	MPREb_cFhd3MNR5Hz	UCAEsHafKGNdZP3eqiznRrUA
@@ -708,6 +707,7 @@
 514	Only God Can Judge Me (feat. Rappin' 4-Tay)	2Pac	All Eyez On Me	INDIFFERENT	zykN1Vfcajs	MPREb_78cZiOmrPmB	UC5RrGzC-JXglhFW5NhT4r6w
 578	Wonda Why They Call U Bytch	2Pac	All Eyez On Me	INDIFFERENT	I5VL2sgjPjM	MPREb_78cZiOmrPmB	UC5RrGzC-JXglhFW5NhT4r6w
 323	Only You [Bad Boy Remix] (feat. The Notorious B.I.G. & Ma$e)	112	112	INDIFFERENT	Sg_nz1n2zeU	MPREb_ukGavoHKNxq	UCouQztNVI51U1I_urVmuHXw
+699	Let's Talk About AIDS (PSA)	Salt-N-Pepa	Very Necessary (30th Anniversary Edition)		75ROeSnwp9o		
 168	Flawless	Phife Dawg	Ventilation: Da LP		RrO-khBubB0		
 602	Melody Adonis	Phife Dawg	Ventilation: Da LP		lIPwfTxiGvg		
 645	Miscellaneous (Radio) (DJ Hi-Tek Luv Boat Mix)	Phife Dawg	Miscellaneous (Remix)		mAkV5BlSSCY		
