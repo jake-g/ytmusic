@@ -62,7 +62,7 @@
 359	"""Voodoo Child (Slight Return)"" (Jimi Hendrix Cover)"	The Main Squeeze	Squeeze House	INDIFFERENT	Lcgo36Hn6Jc	MPREb_9sCjvXODjke	UCgHtnJBHOorvwwKbcLUWj4w
 470	Red House (Live at the Los Angeles Forum, Inglewood, CA - April 26, 1969)	The Jimi Hendrix Experience	Los Angeles Forum - April 26, 1969 (Live)	INDIFFERENT	u7DkSWiQL5w	MPREb_V6SryECCRCU	UC5NwXf8hOgZgInaYiOCZmUg
 421	It's Hard to Trust Your Baby	The Hooten Hallers	Chillicothe Fireball	INDIFFERENT	FY2yrw6hwD0	MPREb_wXIJkoyTUwW	UC8CP2MupQnCbDQBs3Xhj3Og
-509	Feel	The Heavy Heavy	Feel	INDIFFERENT	HLrANtov3M8	MPREb_ZGQ4iD2PgW1	UCN_qila3t45ZCpZ8dRlHoKA
+509	Feel	The Heavy Heavy	One Of A Kind	INDIFFERENT	4Z787fPscPA	MPREb_FGoIIdPX3aF	UCN_qila3t45ZCpZ8dRlHoKA
 21	Roll With The Punches	The Harpoonist & The Axe Murderer	Checkered Past	INDIFFERENT	_beUn3p8ctM	MPREb_UlxntAc3EIQ	UC97r0uBiqGmjR0yZFSTSwyg
 385	Come And Go Blues	The Gregg Allman Band	Playin' Up A Storm	INDIFFERENT	2t4EOp22W8c	MPREb_pwuDtVMDqXN	UCi0Sp5G_Y0nyA3_rcVA25bA
 399	Eyes Wide Black	The Greasy Slicks	Fool Me Twice	INDIFFERENT	g_QZ8DZ-084	MPREb_vvUivEjb1ke	UC-j9yRJOAscgXBgyDfb8sTg
@@ -211,7 +211,6 @@
 108	Buena	Morphine	Cure for Pain (Deluxe Edition)	INDIFFERENT	Hr11Y1RKYR4	MPREb_VmSEhwMSKcd	UCSaZ0fxvVzTGxmtAQut1tVw
 221	Tall Boogie	Moreland & Arbuckle	7 Cities	INDIFFERENT	AsEftqnYkCw	MPREb_uUlVTlY36PB	UCTZrdyuhwJdZrQaB718fpyw
 107	Break Your Lock and Key	Mini Vandals	Break Your Lock and Key	INDIFFERENT	vyLPoIPvKAE	MPREb_4R2bQNABDLv	UCF96UuYumUY92mumgFpvmFA
-372	Devil's Bride	Mike Stevens	Piggyback	INDIFFERENT	qOEXVNRdxCo	MPREb_EAkzTVnNoI3	UCvIt-IxDHi-7uJrrtzvyxdw
 292	Blues Will Never Die (feat. The Unknown Blues Band)	Mike Griffin	Gimmie What I Got Comin'	INDIFFERENT	gSeY3RjKGLI	MPREb_PYGGuuEPrTE	UCYJ611FdtZxGnubGLEuV4LA
 163	Time Has Come Today	Mike E. Clark	Time Has Come Today Single	INDIFFERENT	CUUFfD_1bfQ	MPREb_ruby94YMccl	UCxzEZqHDXNX5Ev75Lblej9Q
 60	Southern Land	Mighty Sam McClain	A Diamond in the Rough	INDIFFERENT	BSS_4WiGiCQ	MPREb_lK5jyWJEGD8	UCkQGh6L0VxA6Jt3w--WGfvw
@@ -220,7 +219,8 @@
 313	Be Your Fool	Mickey Blue	Be Your Fool	INDIFFERENT	oiXWvm58oBk	MPREb_StINyVvVpqx	UCWScepUSOcKOEykbjm0qbFQ
 257	It's a Bloody Life	Michael Powers	Prodigal Son	INDIFFERENT	bVOKDUKvis4	MPREb_ulNKJSXikDQ	UCCZy1S1Bfn3q4id6VSP6Irw
 303	It Makes Me Scream (Live)	Meena Cryle	In Concert	INDIFFERENT	h_TOgEhRe1k	MPREb_lnif2LzvrCk	UC4mKDIFP3pBpnyQuVR0DLlQ
-118	Ain't No Sunshine	Matt Andersen	Second Time Around	INDIFFERENT	rLaYOIxH8G4	MPREb_YaFNHUENe8p	UCmC8TUQEAZoePibl0d39uZQ
+118	Ain't No Sunshine	Matt Andersen	Second Time Around	INDIFFERENT	mKotj5Upibw	MPREb_N2VGedalZhl	UCmC8TUQEAZoePibl0d39uZQ
+372	Devil's Bride	Matt Andersen	Piggyback	INDIFFERENT	MhBYrnzmf1s	MPREb_izlEjd0QmLI	UCmC8TUQEAZoePibl0d39uZQ
 320	Free World	Martin Sexton	Wonder Bar	INDIFFERENT	_vjlriqQAp0	MPREb_3detxxyVU6U	UClNsi2qNpCMxf0YRzJQkgdA
 255	Locomotive Breath (Live)	Martin Barre	Live At The Wildey	INDIFFERENT	nU4VYMkSIFs	MPREb_bLaVWKSHHSO	UC6lG8EjRw-33Xy7wVPIuy1w
 321	In the Cluster Blues	Mark O'Connor	Jam Session	INDIFFERENT	gPmR7unKp78	MPREb_f9gGHg5lGzQ	UC2Ah0WZQGvEwNXZJYiHE_AQ
@@ -391,12 +391,11 @@
 441	Forewarned and Failing	Doug Henthorn	Forewarned and Failing	INDIFFERENT	HsGnnZJy610	MPREb_3efKn1gFRkY	UCpq6jP7-rHbg6Sn21z15yLQ
 452	Romare	Dirtwire	Blaze	INDIFFERENT	Uts4TK--l3Q	MPREb_mOxhGgIF8Tz	UCrYE6Stal3Z3rl2N79D6ECg
 356	I Wanna Make It Wit Chu	Desert Sessions	The Desert Sessions Volume 9 & 10	INDIFFERENT	-e6UjfBecSM	MPREb_9x5PWXI5b1P	UCqOTn_Ti2x2-7V5ZWke90LQ
-20	Matchbox	Derek And The Dominos	Dylan, Cash, and the Nashville Cats: A New Music City	INDIFFERENT	nRhgwS9BOk8	MPREb_a1cnyU52uzG	UCSM5eFvWhMNcMxd0BH52HJg
+20	Matchbox (feat. Johnny Cash & Carl Perkins)	Derek And The Dominos	Dylan, Cash, and the Nashville Cats: A New Music City	INDIFFERENT	nRhgwS9BOk8	MPREb_a1cnyU52uzG	UCSM5eFvWhMNcMxd0BH52HJg
 75	Snake Lake Blues	Derek & The Dominos	Layla And Other Assorted Love Songs (50th Anniversary Deluxe Edition)	INDIFFERENT	Kl5HM6uqGWc	MPREb_dpDRunbWjGX	UCSM5eFvWhMNcMxd0BH52HJg
 149	Mistreated (Live)	Delta Deep	East Coast Live	INDIFFERENT	2kcWXlh0_R8	MPREb_xHKSv3cRYK5	UCYmGm1B6Ad6ZqyFPrqilqEw
 307	Poor Elijah - Tribute to Johnson (Medley)	Delaney & Bonnie & Friends	On Tour With Eric Clapton	INDIFFERENT	5grxXcT-PWA	MPREb_vhsEEXscij5	UChBO9k7vNlo2qvMvSy3S2Ew
 164	Burn (2002 Remaster)	Deep Purple	Burn (Expanded 2005 Remaster)	INDIFFERENT	ZQGstnfTmAk	MPREb_zDt1jXHTkXu	UCoPZoa-KzZQRxspnRGZTx7A
-500	Smoke on the Water (Live in Bremen 1974)	Deep Purple	Live Archive 1974 Vol. 2	INDIFFERENT	q_sHCwVV36k	MPREb_CDiFAlwtQFA	UCoPZoa-KzZQRxspnRGZTx7A
 335	Smile More	Deap Vally	Femejism	INDIFFERENT	0L2AJNVfPLc	MPREb_vPmoUsmnIe6	UC9M9z-6LntYVQZxitgysAag
 355	Baby I Call Hell	Deap Vally	Sistrionix	INDIFFERENT	t-aIFLVs0vo	MPREb_1kAlOLyZkcC	UC9M9z-6LntYVQZxitgysAag
 398	Walk Of Shame	Deap Vally	Sistrionix	INDIFFERENT	CMjYhKGslrA	MPREb_1kAlOLyZkcC	UC9M9z-6LntYVQZxitgysAag
@@ -507,5 +506,6 @@
 263	Lazy	Jimmy Barnes	Re-Machined (A Tribute To Deep Purple's Machine Head)		9Bw1baWZEbo		
 345	To Be Sad Is A Mad Way To Be (Live 1969)	Jethro Tull	Nights of Winter		bi-CDKL3coI		
 87	Mama Said (Audiotree Live Version)	Hannah Wicklund	Hannah Wicklund on Audiotree Live		E5x8tjtq1_s		
+500	Smoke on the Water (Live in Bremen 1974)	Deep Purple	Live Archive 1974 Vol. 2		q_sHCwVV36k		
 471	Stand by Me	Darrell Mansfield Band	People Get Ready		baEO5TAXAwk		
 460	Tobacco Road	Buddy Miles	Blues Berries (feat. Rocky Athas)		m1DlhQomAuE		
