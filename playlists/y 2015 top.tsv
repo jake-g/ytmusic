@@ -462,10 +462,10 @@
 250	Hachiko	Mac DeMarco	Some Other Ones	LIKE	zmEKxniZJU0	MPREb_QXjgC2K1qFs	UCs95LJSHhdVhYQLvqsZqp_A
 251	Hoso Boyo	Mac DeMarco	Some Other Ones	LIKE	DwsZ-QI_7b0	MPREb_QXjgC2K1qFs	UCs95LJSHhdVhYQLvqsZqp_A
 878	Feelin U	Maarius	Restart from the Bottom	LIKE	btpI1oo8TJw	MPREb_DftoH63b22x	UCR_wANZACzp6jzahOYJ3mSg
-1003	Zatar	MF DOOM	Metal Fingers Presents: Special Herbs, Vol. 1 & 2	LIKE	L-9N9kNGxv4	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
-1006	Saffron	MF DOOM	Metal Fingers Presents: Special Herbs, Vol. 1 & 2	LIKE	tzGXVefQvS8	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
-1010	Charnsuka	MF DOOM	Metal Fingers Presents: Special Herbs, Vol. 1 & 2	LIKE	ef5lRkqTUew	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
-1020	Sumac Berries	MF DOOM	Metal Fingers Presents: Special Herbs, Vol. 1 & 2	LIKE	dfhCMtWAtAU	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
+1003	Za’atar	MF DOOM	Metal Fingers Presents: Special Herbs Vol. 1 & 2	LIKE	L-9N9kNGxv4	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
+1006	Saffron	MF DOOM	Metal Fingers Presents: Special Herbs Vol. 1 & 2	LIKE	tzGXVefQvS8	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
+1010	Charnsuka	MF DOOM	Metal Fingers Presents: Special Herbs Vol. 1 & 2	LIKE	ef5lRkqTUew	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
+1020	Sumac Berries	MF DOOM	Metal Fingers Presents: Special Herbs Vol. 1 & 2	LIKE	dfhCMtWAtAU	MPREb_YIe72HiFNj3	UCooTDYkIERWBwDC1JKyoElQ
 821	Still Slummin'	Lute	Revenge Of The Dreamers II	LIKE	HeNOokM8tVM	MPREb_fjHlicRtpaz	UCnB_K2RCJA2W-dX0__P0OqQ
 241	Mural	Lupe Fiasco	Tetsuo & Youth	LIKE	vkHrPyoEtSI	MPREb_gLn0KQCCNSy	UCe872mgP4deADPnXtkbS-Cg
 242	Little Death (feat. Nikki Jean)	Lupe Fiasco	Tetsuo & Youth	LIKE	RkS2s-G2ZQk	MPREb_gLn0KQCCNSy	UCe872mgP4deADPnXtkbS-Cg
@@ -725,11 +725,6 @@
 39	Nothing Baby	Froth	Bleak	LIKE	o9ku_zgUgWU	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
 40	Richard Likes Grey Sky/Untitled (Feedback)	Froth	Bleak	LIKE	feY6JT-pRcM	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
 41	Saccharine Sunshine	Froth	Bleak	LIKE	fPrVgPvieh0	MPREb_5MJZtWEiHWH	UC07KISmM9WHrT6pwPZHOvow
-34	Pronto	Freddie Gibbs	Shadow of a Doubt	LIKE	k8qnh6h1dxU	MPREb_ZhRTLD4PtTf	UCTwMinUabRPEhNiMP9wgXAA
-35	Fuckin' up the Count	Freddie Gibbs	Shadow of a Doubt	LIKE	LQ9PERtqXoA	MPREb_ZhRTLD4PtTf	UCTwMinUabRPEhNiMP9wgXAA
-36	Packages (feat. Manman Savage)	Freddie Gibbs	Shadow of a Doubt	LIKE	aEdJ7I41g4o	MPREb_ZhRTLD4PtTf	UCTwMinUabRPEhNiMP9wgXAA
-37	Insecurities	Freddie Gibbs	Shadow of a Doubt	LIKE	h36tQdUPtOw	MPREb_ZhRTLD4PtTf	UCTwMinUabRPEhNiMP9wgXAA
-38	10 Chickens (Bonus Track)	Freddie Gibbs	Shadow of a Doubt	LIKE	LJd8571_pUw	MPREb_ZhRTLD4PtTf	UCTwMinUabRPEhNiMP9wgXAA
 31	New Wave	Fort Romeau	Insides	LIKE	D2MjxX3nmXQ	MPREb_zYexjV9LSCo	UCz7q5D7TGbeWJ4NnVHgsQ3Q
 32	Folle	Fort Romeau	Insides	LIKE	J1FrtVkedS0	MPREb_zYexjV9LSCo	UCz7q5D7TGbeWJ4NnVHgsQ3Q
 33	Insides	Fort Romeau	Insides	LIKE	ZBGApt4yqHs	MPREb_zYexjV9LSCo	UCz7q5D7TGbeWJ4NnVHgsQ3Q
@@ -1037,6 +1032,8 @@
 1004	Work This Out	Litany	Work This Out	INDIFFERENT	tkDEf8yc9dk	MPREb_djmzGxV5YCW	UCavoULmaoVxJTUnf5fZryHQ
 108	Hesitation	Hot Flash Heat Wave	Neapolitan	INDIFFERENT	E6tq5ZOqxiw	MPREb_XBk2fivHyuV	UCfBYtzPnNodVPPUBwFfvphw
 109	Bathroom Song	Hot Flash Heat Wave	Neapolitan	INDIFFERENT	hndx_vqyiqg	MPREb_XBk2fivHyuV	UCfBYtzPnNodVPPUBwFfvphw
+34	Pronto	Freddie Gibbs	Shadow of a Doubt	INDIFFERENT	mMq9Xl6uNxQ	MPREb_bcnaiMsJO2x	UCTwMinUabRPEhNiMP9wgXAA
+35	Fuckin' Up the Count	Freddie Gibbs	Fuckin' Up the Count	INDIFFERENT	rGabsftzpXg	MPREb_OiBQqo2Rspp	UCTwMinUabRPEhNiMP9wgXAA
 743	York	Christian Löffler	York	INDIFFERENT	hWG_XlkIiiQ	MPREb_TQ1EXngHXSd	UCB9fKgDkX_mOleBtdKXXQ_w
 834	Dot Com	Battles	Dot Com	INDIFFERENT	Ic3m0nsoV04	MPREb_HzumCEkCFLi	UC3euYYHIO5EuHHcY4S5Z_HA
 925	FF Bada	Battles	FF Bada	INDIFFERENT	LoVXMwgOqVo	MPREb_qTDFohI4cQQ	UC3euYYHIO5EuHHcY4S5Z_HA
@@ -1050,3 +1047,6 @@
 554	Wishing Away	Travis Bretzer	Waxing Romantic		T8ZootqG2JQ		
 555	Good Times	Travis Bretzer	Waxing Romantic		ZhvM4XHhw4o		
 880	Impala	Louis Futon	Terrorhythm Elements - Amber		5ExdrJlbNoA		
+36	Packages	Freddie Gibbs	Shadow of a Doubt		aEdJ7I41g4o		
+37	Insecurities	Freddie Gibbs	Shadow of a Doubt		h36tQdUPtOw		
+38	10 Chickens (Bonus Track)	Freddie Gibbs	Shadow of a Doubt		LJd8571_pUw		
