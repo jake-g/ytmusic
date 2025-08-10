@@ -1,7 +1,9 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 21	Whiskey River	Willie Nelson	Shotgun Willie	LIKE	Yhbe3ueCLPw	MPREb_LLb75mreknT	UCPmpbAuktEPbIVpwGrY_c4g
+82	Honky Tonk Heroes	Waylon Jennings	Honky Tonk Heroes	LIKE	SRJhsYf-jok	MPREb_65qubIW323u	UCOayq7etITYmC6TlZReZSrw
 504	Take This Heart of Gold	Watchhouse	Blindfaller	LIKE	cr3VlL0uBPU	MPREb_Fgg61JNN8T0	UCd4NrUykA5kYw2H4BR68Ejg
 495	tokyo sounds	Vern Matz	tokyo sounds	LIKE	HMUAx9qjZ9w	MPREb_kXCdPHcYI0g	UCLGzKZvXmcqJe1YyH2CATRw
+1257	King of the Surf	The Trashmen	Surfin' Bird	LIKE	M86w63_q7pM	MPREb_js9OYo0l8Eu	UCKA351cmhCe3QBKk73X1xMw
 500	Trouble	The Satellite Station	Trouble	LIKE	roevQpRAfGw	MPREb_xkukxoTlEM6	UCmcpSHqEdhu0utUETvDRaMQ
 30	Long White Line	Sturgill Simpson	Metamodern Sounds in Country Music	LIKE	qrZ0E0B7vd0	MPREb_KFnFbDbzHAV	UCzjqoh1AgMqICw3JKaAj6sw
 400	The Dance of Maya	Mahavishnu Orchestra	The Inner Mounting Flame	LIKE	QidptMVgO6k	MPREb_o7GuhMt2c3Q	UCSY3q7GsOWCjwlHB0CFs9Kw
@@ -86,7 +88,6 @@
 53	Waymore's Blues	Waylon Jennings	Dreaming My Dreams	INDIFFERENT	-8CnfFbHoPA	MPREb_6Hef6ZrW3FC	UCOayq7etITYmC6TlZReZSrw
 56	Slow Rollin' Low	Waylon Jennings	Nashville Rebel	INDIFFERENT	YLjhODX6Wm8	MPREb_GicADWDa21g	UCOayq7etITYmC6TlZReZSrw
 61	Lonesome, On'ry And Mean (Live in Texas - September 1974)	Waylon Jennings	Waylon Live (Expanded Edition)	INDIFFERENT	fs2vcz9yQ0E	MPREb_p3vzOmye0wV	UCOayq7etITYmC6TlZReZSrw
-82	Honky Tonk Heroes	Waylon Jennings	Honky Tonk Heroes	INDIFFERENT	SRJhsYf-jok	MPREb_65qubIW323u	UCOayq7etITYmC6TlZReZSrw
 83	Ain't No God In Mexico	Waylon Jennings	Honky Tonk Heroes	INDIFFERENT	OETmFf_9Zjk	MPREb_65qubIW323u	UCOayq7etITYmC6TlZReZSrw
 88	A Couple More Years	Waylon Jennings	Are You Ready For The Country	INDIFFERENT	IhzTojRG-tE	MPREb_KS4qTQKfKBX	UCOayq7etITYmC6TlZReZSrw
 95	I'm a Ramblin' Man	Waylon Jennings	The Ramblin' Man	INDIFFERENT	_WO1PGuN6bE	MPREb_EDZBp033nb5	UCOayq7etITYmC6TlZReZSrw
@@ -193,7 +194,6 @@
 961	One To Grow On	The UMC's	WIld Pitch Classics	INDIFFERENT	WWFtqjJSW-4	MPREb_D9td11LfvbU	
 1529	Turning It Up For The Sunshine (Louis La Roche Remix)	The Tribe Of Good	Turning It Up For The Sunshine (Remixes)	INDIFFERENT	AvDXcVUxUrQ	MPREb_KkYs2CmYkMf	UCJuTVs78szljQ3qgY6lGiKQ
 1325	Cool Jerk	The Tremeloes	Here Comes My Baby : The Ultimate Collection	INDIFFERENT	r9BsJ6m2Hgg	MPREb_OYr3OLld5Dv	UCWIjj2R1CqChRfUEhxyvJCA
-1257	King of the Surf	The Trashmen	Surfin' Bird	INDIFFERENT	M86w63_q7pM	MPREb_js9OYo0l8Eu	UCKA351cmhCe3QBKk73X1xMw
 1261	Tube City	The Trashmen	Surfin' Bird	INDIFFERENT	Yl0WpZzZ_aY	MPREb_js9OYo0l8Eu	UCKA351cmhCe3QBKk73X1xMw
 1473	That's Not My Name	The Ting Tings	We Started Nothing	INDIFFERENT	LJqPkOifAMU	MPREb_qlytFViAUX0	UC1SOqMIERpLgFlNyW-7kxnQ
 200	He's Got The Whole World In His Hands	The Tennessee Gospel Society	Gospel Highlights - Glory Halleluia !	INDIFFERENT	YZ0crxOVEEQ	MPREb_RfPkuXvLaTm	UCB-zU-PTa5Of182qCLtZ_kg
@@ -324,7 +324,6 @@
 1260	Banzai Washout	The Challengers	Go Sidewalk Surfing!	INDIFFERENT	fqKFmMxhdkE	MPREb_J3QSDQAlc4Y	UCaYa8NqtNHwKvSB02VRgaOQ
 1256	Comanche	The Centurians	Surfers' Pajama Party	INDIFFERENT	zTfs8nQ3fy4	MPREb_9dfjzQ3wYso	UCvuh_bv7zcbxTp7O488Qwng
 1258	Body Surfin'	The Centurians	Surfers' Pajama Party	INDIFFERENT	CXX6bvnPqrM	MPREb_9dfjzQ3wYso	UCvuh_bv7zcbxTp7O488Qwng
-1571	There's Someone Awaiting for Me	The Carter Family	When the Springtime Comes Again	INDIFFERENT	yE7QrSEBGu8	MPREb_angAjSdWeCJ	UCv_9IkaKaqx0JiGT4AhUc7Q
 1183	Hey Baby (They're Playing Our Song)	The Buckinghams	Portraits	INDIFFERENT	Ic2N-Gb6J3E	MPREb_cCUL2yCnsFN	UChYLLD4VuF89c39x-cden_A
 1208	Kind of a Drag	The Buckinghams	Mercy, Mercy, Mercy (A Collection)	INDIFFERENT	387Jb560xqA	MPREb_t8IkthzCIMq	UChYLLD4VuF89c39x-cden_A
 749	You Make Me Shake	The Boys	Titan: It's All Pop!	INDIFFERENT	pyuYctKzQb8	MPREb_NsH2CCybHdK	UCInrOYPtbaLEhmvJ3vCmiTA
@@ -739,7 +738,7 @@
 1537	Your Love	Mercer	Nothing But... Funky House Selections, Vol. 07	INDIFFERENT	Cr4aBPweOuA	MPREb_vlUNWXCWsHX	UCZ292bgpdHfffcNxKcN1ucg
 775	Black Cat Blues (Take 2)	Memphis Minnie	Memphis Minnie Vol. 2 (1935-1936)	INDIFFERENT	JxV8L0nW9y0	MPREb_L0cwL1tS9Y2	UCEDvzPLo0OO7feD5kRv8wpg
 860	Kissin' In The Dark	Memphis Minnie	The Blues Came From Memphis	INDIFFERENT	gloomzM9rKo	MPREb_kTKdL97uUfe	UCEDvzPLo0OO7feD5kRv8wpg
-442	Paradise by the Dashboard Light	Meat Loaf	The Essential Meat Loaf	INDIFFERENT	P2UeE6HrxgM	MPREb_6jYIbZhPnrR	UCrtkfiEQpGC0FJBzElAR0WQ
+442	Paradise by the Dashboard Light (feat. Ellen Foley)	Meat Loaf	The Essential Meat Loaf	INDIFFERENT	P2UeE6HrxgM	MPREb_6jYIbZhPnrR	UCrtkfiEQpGC0FJBzElAR0WQ
 333	Search for a Boyfriend	Meanlife	Up from the Dead	INDIFFERENT	vjZV3-p9CN8	MPREb_2MzQyCU1PM7	
 1285	Journey	Matt Van Schie	Opus Label One	INDIFFERENT	tVbGt0giMW0	MPREb_f7d1X6Cgaqt	UCtq0MXhD5jWGW2VRCfd0MRQ
 791	Me and the Boys	Matt Minglewood	Me and The Boys	INDIFFERENT	zTGxrndNI0s	MPREb_z1u3r2NEtIy	UC91rVu3YvkuoMiuSAd-fBaA
@@ -826,10 +825,10 @@
 1092	Zombie Jamboree (Back To Back)	Leo Addeo	Calypso And Other Island Favourites	INDIFFERENT	bSJKP8gAB34	MPREb_pAgVlyKqguB	UCXNEDRji2CMHeZkWCRKGbvg
 469	So You Know	Lekan	So You Know	INDIFFERENT	6lC0tQ0JSbk	MPREb_1Sdw2QLSYxE	UCdGNbKUPPpVSBBX-v_0zclQ
 1156	Ya Ya	Lee Dorsey	Ya! Ya!	INDIFFERENT	R7T23hxWf1I	MPREb_ZMgbggvEvsP	UCeBSAEt0E9dsMGdHDemuS0w
-1505	Corn Bread Rough	Leadbelly	Leadbelly	INDIFFERENT	SQtROU06sb0	MPREb_R2RrE40dAAb	UC7jiqF1wzNVeZhZmJ4EKprA
 819	The Grey Goose	Lead Belly	Where Did You Sleep Last Night, Vol 1	INDIFFERENT	kwqe12aaYAE	MPREb_GdwkBJhPPed	UC7jiqF1wzNVeZhZmJ4EKprA
+1505	Corn Bread Rough	Lead Belly	Leadbelly Sings Folk Songs	INDIFFERENT	XoI1EW3a3Gk	MPREb_HRhgxEVfNMg	UC7jiqF1wzNVeZhZmJ4EKprA
 1569	Les Amants Du Saint-Laurent	Le Vent du Nord	Les Amants du Saint-Laurent	INDIFFERENT	2SIsegaJ5z0	MPREb_CCmhizoqp3x	UCtU5XmcygakbA1QVWHzyQ3A
-620	I'm a Lover Not a Fighter	Lazy Lester	Golden Blues	INDIFFERENT	15BM89raCIg	MPREb_9MxpEvLDJ0W	UCC_F-1mIwA1iF06w93-1VxQ
+620	I'm a Lover Not a Fighter	Lazy Lester	Southern Bred, Vol. 15 - Louisiana and New Orleans R&B Rockers - I Hate to See You Go	INDIFFERENT	e9IubtHJQAk	MPREb_x5JAL3rBhfK	UCC_F-1mIwA1iF06w93-1VxQ
 897	Lost Ones	Lauryn Hill	The Miseducation of Lauryn Hill	INDIFFERENT	Yq_3A_8C7Ag	MPREb_qYhF5ZzV2ws	UC3j9UpJkGNY9GDm3EdbEiVA
 1145	Rip Off	Laura Lee	Invictus' Greatest Hits...plus + Hot Wax Greatest Hits ...plus	INDIFFERENT	ht6N3F3-9Mk	MPREb_Zgo9WX7xdsb	UC6EgcCa3utnkGYqEd619y7Q
 1490	Just One Step	Latimore	Latimore III	INDIFFERENT	D95CIg6GPH8	MPREb_zF19o3ADwhB	UCAVEkl-4H8Uz0EjCDA7v8vw
@@ -892,7 +891,7 @@
 100	Freeborn Man	Junior Brown	12 Shades Of Brown	INDIFFERENT	hDQRtvu2sXc	MPREb_HScjIBp0w5r	UCDgTDGCzNVddh3Ih1xDXlXA
 202	Give Me The Simple Life	June Christy	Gone For The Day	INDIFFERENT	Wm0aXvWoU-4	MPREb_3K2hRo26ShL	UCCmKRhGv7E_uE4jtV3R7KLA
 1518	Tokyo	Julien Baker	Tokyo	INDIFFERENT	Ae9WpDmTFvQ	MPREb_wlXUThQtSS3	UC93QsTG5LEfU3zpP87XvQSA
-1386	Desafinado (Slightly out of Tune)	Julie London	Desafinado (Slightly out of Tune)	INDIFFERENT	mr2KhLgbXec	MPREb_36UnmcgVQth	UC8VFWn9s0SJck0NE_iKkuWw
+1386	Slightly Out Of Tune (Desafinado)	Julie London	The Liberty Years	INDIFFERENT	0m7kn1iMe78	MPREb_xL7AixYHGC8	UC8VFWn9s0SJck0NE_iKkuWw
 422	Crown of Horns	Judas Priest	Invincible Shield (Deluxe Edition)	INDIFFERENT	7w6e8xtzdIw	MPREb_qdFwkdzaIOF	UCy6-RHgm74I8CCCvMu4NPJQ
 439	Invincible Shield	Judas Priest	Invincible Shield (Deluxe Edition)	INDIFFERENT	RIwm3C0x-1s	MPREb_qdFwkdzaIOF	UCy6-RHgm74I8CCCvMu4NPJQ
 448	The Serpent and the King	Judas Priest	Invincible Shield (Deluxe Edition)	INDIFFERENT	VKXFVkcr8k0	MPREb_qdFwkdzaIOF	UCy6-RHgm74I8CCCvMu4NPJQ
@@ -1161,7 +1160,6 @@
 1024	Hannah	Freelance Whales	Weathervanes	INDIFFERENT	ojFzbKCnjPs	MPREb_iNsFyiHDJt0	UCbP63l3SuuiJjL02PKFoEIQ
 1137	Wasted Days And Wasted Nights	Freddy Fender	Before The Next Teardrop Falls	INDIFFERENT	g9lkeoxJRxA	MPREb_5q64bZTCPHn	UCoA2kzs8opeBQ7Jo12paoBw
 768	Big Legged Woman	Freddie King	The Best Of Freddie King: The Shelter Years	INDIFFERENT	RoUk7u40eSg	MPREb_bLKISiNcMTl	UCj1uIBa_uRRMR9GQ6wviIMw
-547	Funk For Your Ass (feat. Jab'o Starks, Clyde Stubblefield & Bootsy Collins)	Fred Wesley	Funk For Your Ass	INDIFFERENT	_VYGyHZjlio	MPREb_KdBdTXnx5sc	UCv6yOvGBJg9x6fkKZ3xhHtw
 1233	Tous les garçons et les filles	Françoise Hardy	Françoise Hardy	INDIFFERENT	1dNEdjbnU9s	MPREb_5q5lRxILlto	UCrDkUu5IeYEw-6aCh7p-5MQ
 1297	Sorrow	Frankie Rose	Herein Wild	INDIFFERENT	QKdYgvszheI	MPREb_MUhvmkjHna0	UCOimY3azxWa_V9XiQ1SzzkA
 1395	Strange Echoes	Frank Hunter & His Orchestra	Erotic Exotic Island Music	INDIFFERENT	cbUZDw1MnTQ	MPREb_JaFN8a3TYEe	UCkHJVkVF2HUaWXisk-3Wx9g
@@ -1338,7 +1336,6 @@
 689	Moon Race	Citations	Private Beach	INDIFFERENT	xHntlDTHa5I	MPREb_nEImkcVXowd	UCtCWfyokcAUqAS9ftY1PTRA
 240	The Place that I Call Home	Circus No. 9	The Place that I Call Home	INDIFFERENT	OWxajeAjSlY	MPREb_R5wxp44XslU	UCu7Qat6C5WKOUXUVxon59cg
 744	Burn Witch Burn	Circus Nebula	The Second Coming	INDIFFERENT	vySjP9v7I-8	MPREb_tDjWhYYZgMp	UCm7yPbqBa9fEToZT2kQKO0w
-1563	Bubble Tea	Chrylo	Bubble Tea	INDIFFERENT	JSMYPAL4Sng	MPREb_s1MiG3paHq0	UCKpc3F8eBX5tid0UiJQR_0w
 713	Night by Night	Chromeo	Business Casual	INDIFFERENT	GnNMt0YjZK0	MPREb_hOEdBHqFlGi	UC1ctBJpXnWNRmDNrfIvRH4A
 628	Black Silk Stocking	Chrisma	Chinese Restaurant	INDIFFERENT	Qm52mH1cQUQ	MPREb_gYe2z6jJwwT	UCpi73c0lk9ZgWTbZfRp2Oiw
 261	Raining At Sunset	Chris Thile	Not All Who Wander Are Lost	INDIFFERENT	HlO1FMb8stY	MPREb_u7iqQACATB9	UC7SUGG7t877GmVVkZbL_uZA
@@ -1422,7 +1419,7 @@
 1329	Almost Like Being In Love	Bob Thompson & His Orchestra	The Best Of	INDIFFERENT	F97ywhk0WMw	MPREb_0FUIeG5EMWE	UCdF1kx9HWrKE5_644vnzqPA
 650	Kiss My Eyes (Daddy's Groove Rework)	Bob Sinclar	Kiss My Eyes (Daddy's Groove Rework)	INDIFFERENT	jiRLRAWa8FQ	MPREb_B6R7fIwC5d3	UCTX702H0Fi2v-ukpTSYdhRA
 161	Forever Young (Slow Version)	Bob Dylan	Planet Waves	INDIFFERENT	dLU4jlR18UQ	MPREb_RMuyFi925tW	UCBqkojCXby4zGkWX86FEY7Q
-192	Dancing Girl	Bo Diddley	I'm a Man	INDIFFERENT	JqWz9dvdeP4	MPREb_0AyoiOgInvA	UCTXP0wPPSDAaOS6mXeM4tgg
+192	Dancing Girl	Bo Diddley	Bo Diddley - Golden Star Edition	INDIFFERENT	4ffo71RoWfw	MPREb_O0fdyMVNB6t	UCTXP0wPPSDAaOS6mXeM4tgg
 729	Girl Inside My Head	Blues Traveler	Bridge	INDIFFERENT	dR-Rgc-wmKU	MPREb_BLxlCIc2f7T	UCCztH8sCstXnVpe5Gqq_v8Q
 1147	Ride Captain Ride	Blues Image	Open (US Internet Release)	INDIFFERENT	vOKaSr3B_II	MPREb_MmfqqVUetVY	UCckX4dzOLNCuIm0Y1vRGiNw
 1076	Your Love Is On My Mind	Blue Moonshine	Distilled	INDIFFERENT	WnWamqjuOMU	MPREb_1WoNJseYER2	UC0mOeSkofYkE0akNa9W1yZg
@@ -1578,6 +1575,7 @@
 896	The Gas Face (feat. Zev Love)	3rd Bass	The Cactus Album	INDIFFERENT	X6wC9C3uSvs	MPREb_88L6PAA8lvA	UCubp-etxLK57ZjudQhFGpmA
 627	My Hearse...(is Double Parked)	1313 Mockingbird Lane	Have Hearse Will Travel	INDIFFERENT	A9TVDevtL5g	MPREb_PRZngiWS08Y	UCUPSa70zURzlt07uhY5zljg
 752	Blues	The Cheifs	Holly-West Crisis		isAaTZYiSIE		
+1571	There's Someone Awaiting for Me	The Carter Family	Lonesome Valley		EUTB7v1H8kw		
 394	REAL SLOW	Sternn & Marmusa	REAL SLOW		8I9MZXvFhvk		
 464	shortfall	Phantom Parts	shortfall		wEySAUEAeBY		
 468	leave them where they are	Phantom Parts	leave them where they are		hvD3HxoTUEI		
@@ -1585,6 +1583,8 @@
 472	honest man	Phantom Parts	honest man		OY6HZzGCEW4		
 364	The Apogee	NSD	The Apogee		VUCsTXVTEkI		
 924	Fakin' the Funk (Bonus Track) (2017 Remastered Version)	Main Source	Breaking Atoms (2017 Remastered)		HryCgs9066M		
+547	Funk For Your Ass	Fred Wesley	Funk For Your Ass		_VYGyHZjlio		
 298	Wildfire Part 8 (Faex Optim Remix)	Cinder	Wildfire Spreads		MhrBZWCBCn0		
+1563	Bubble Tea	Chrylo	Bubble Tea		JSMYPAL4Sng		
 488	SLITYAWRIST	Cameronazi	SLITYAWRIST		5NvzDgUACxY		
 926	Pop That Coochie	2 Live Crew	Goes To the Movies: Decade of Hits (clean)		0qKGKoJEo8E		
