@@ -1,8 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-7	Animal Rights	deadmau5	4x4=12	LIKE	R-pQWNr_zVo	MPREb_JHcFY6IVUPM	UCL44WZGVf-BU5N0ymCXrpBg
-9	Moar Ghosts 'n' Stuff	deadmau5	For Lack of a Better Name	LIKE	2r2rPJAxBhU	MPREb_NPkAfJzbXK1	UCL44WZGVf-BU5N0ymCXrpBg
-14	Fn Pig	deadmau5	> album title goes here <	LIKE	3ZEO7O0bTH0	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
-15	There Might Be Coffee	deadmau5	> album title goes here <	LIKE	2LG9kluclnQ	MPREb_It5cvyn9dKN	UCL44WZGVf-BU5N0ymCXrpBg
+7	Animal Rights	deadmau5	4x4=12	LIKE	iO1Tr9itZUc	MPREb_CFILIEcDQfI	UCL44WZGVf-BU5N0ymCXrpBg
 24	Moar Ghosts n' Stuff	deadmau5	For Lack of a Better Name	LIKE	WO0PfgeJwRA	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIZZm9yIGxhY2sgb2YgYSBiZXR0ZXIgbmFtZRoIZGVhZG1hdTUiA2dwbQ	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBIIZGVhZG1hdTU
 8	LA Ride	Tiësto	Kaleidoscope	LIKE	a-HR4tSZGI0	MPREb_6vEKQojw3WW	UC8VSaPhuiHkjobAgNpRqLIA
 11	Maximal Crazy	Tiësto	Club Life, Volume 2: Miami	LIKE	e3KXexO1mmc	MPREb_Zzn4X8ISwGI	UC8VSaPhuiHkjobAgNpRqLIA
@@ -25,4 +22,7 @@
 19	Shapes	Billboard	Shapes	LIKE	V4jxlAi4YcI	MPREb_oqTrPMs2hd8	UCuZHyXrZHS_nkWG0-zP8-Mg
 18	Satisfaction	Benny Benassi	Hypnotica	LIKE	ikX06rifHMg	MPREb_TnJiZDN33MK	UC0rp__Z5Xi4nZ4DEmCyCZTg
 26	Satisfaction	Benny Benassi	Hypnotica	LIKE	3pHs3srSGiM	FEmusic_library_privately_owned_release_detailb_po_CKCA4sLKgvb7CBIJaHlwbm90aWNhIgNncG0	FEmusic_library_privately_owned_artist_detaila_po_CKCA4sLKgvb7CBINYmVubnkgYmVuYXNzaQ
+9	Moar Ghosts 'n' Stuff	deadmau5	For Lack of a Better Name	INDIFFERENT	KkEtakaQoS4	MPREb_Fxpk2gUv2rl	UCL44WZGVf-BU5N0ymCXrpBg
+14	Fn Pig	deadmau5	> album title goes here <	INDIFFERENT	9HVwnU3vg4c	MPREb_utU6gdPGTTa	UCL44WZGVf-BU5N0ymCXrpBg
+15	There Might Be Coffee	deadmau5	> album title goes here >	INDIFFERENT	_Pb1neEPUx0	MPREb_pjIyWcTkcme	UCL44WZGVf-BU5N0ymCXrpBg
 0	Get Down (Vip)	Jack Beats	The Big Bundle		NtmKMPIQBFE		
