@@ -1,4 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
+14	Transient	Synkro	Transient EP	LIKE	fp7x3UWZDzs	MPREb_mN87SQPwBAV	UCftWY9HJZtBEBd0Y9ftDPxQ
 338	sirius xm will not stop mailing me	spd.	sirius xm will not stop mailing me	INDIFFERENT	kH2fiZMFBCs	MPREb_6YSgj6AWcyX	UCq0zXfFtNqWa5vLeSzFduUQ
 334	modern ambient jungle mix (intelligent dnb) [1]	jorj1357	assorted sounds 9	INDIFFERENT	_ufk3xHSUhM	MPREb_8lm4Ls1BXgs	UCHZ8ood8dF_tdF55LdonNqw
 28	Moments	eyess	Moments	INDIFFERENT	R73tTyp2pz8	MPREb_w0c1PKFCpwK	UC99fO9f_4xFOMhvnRS5LHlw
@@ -35,7 +36,6 @@
 255	The Harp Tune	Technicolour	50	INDIFFERENT	r0q6pGHnO8E	MPREb_p0GfyOGnHL7	UCFE-77nAOlXIYcnZKei6qJA
 83	Spellbound (mixed)	Tango	DJ-Kicks	INDIFFERENT	N5F4Lc_83C4	MPREb_FxcW5pVQvMQ	UClSqhuFg0y45psT74kEXwoQ
 296	Wash over Me	TEEKS	The Grapefruit Skies	INDIFFERENT	Z6mIr1j-QCY	MPREb_n56ZJ9jEAKy	UC8z39mjI_nlvNGovLRRB9nQ
-14	Transient	Synkro	Transient EP	INDIFFERENT	fp7x3UWZDzs	MPREb_mN87SQPwBAV	UCftWY9HJZtBEBd0Y9ftDPxQ
 148	Nights of Pleasure	Synkro	Lost Here EP	INDIFFERENT	_GohhefvOKQ	MPREb_WWF7hrtjOyp	UCftWY9HJZtBEBd0Y9ftDPxQ
 212	Fading Lights	Synkro	Lost Here EP	INDIFFERENT	MQhGNHCgxWg	MPREb_WWF7hrtjOyp	UCftWY9HJZtBEBd0Y9ftDPxQ
 254	Knowledge	Synkro	Broken Promise EP	INDIFFERENT	QyRrtK_fALw	MPREb_NCaruZG2mru	UCftWY9HJZtBEBd0Y9ftDPxQ
@@ -288,8 +288,6 @@
 45	Unfolding Perspective	Bay B Kane	Let Me Go / Unfolding Perspective	INDIFFERENT	1Yo5kNm31OQ	MPREb_qpXhfWqWzaE	UCHzWH5HU4Y24YE57RXWYaMg
 234	Jah No Dead	Bachelors Of Science	Spanish Sun	INDIFFERENT	CleTl75B7ME	MPREb_M79tZq65eUI	UC2gGUAP0Wh0vZ7hnMMwIRaA
 116	Euphony (Instrumental Mix)	Axis	Logical Progression Level 1	INDIFFERENT	dezlbJrnayc	MPREb_HuG90PY5O4a	UCNXe0sojyRHBrx2p3uidAbA
-257	Perfect Sense (PHD & Fernando Remix)	Aural Imbalance	Perfect Pressure	INDIFFERENT	cDoUIJT_GcM	MPREb_LnNOKEIsBIR	UCu_3KATf6TguXqII2vnTGsg
-332	Icefields of Proxima	Aural Imbalance	Legacy	INDIFFERENT	yidpvbKr4XE	MPREb_p5ggBXgF0CH	UCu_3KATf6TguXqII2vnTGsg
 275	Cosmetic Odyssey	Audio Lotion	Your Sonic Beauty Case	INDIFFERENT	1YA1M9sBIPY	MPREb_foNHQpdLoEH	UCDA90qjdqTFyUCEG4TJJXxg
 106	Silver Dawn	Artemis	Earth, Vol. 2	INDIFFERENT	rQVNiFD3yUA	MPREb_1nAAPaWNb4P	UCPEJIjbBqqn29XcZsF6ypEA
 321	Opus 4 (PFM Remix)	Art Of Noise	The Drum and Bass Collection	INDIFFERENT	oWvUmZB_vu8	MPREb_YzpSzPiS48D	UClyaVdvS3c1V5SHTJgkXzVg
@@ -335,6 +333,8 @@
 138	Components	Future Engineers	Atmospheric DnB (Good Looking Times)		tG8K4j8p3Co		
 268	Soul Beat Runna	Boymerang	Atmospheric DnB (Good Looking Times)		1S1RIiUZUzY		
 197	Astral Forest	Aural Imbalance	Atmospheric DNB (Good Looking times) Pt2		6m1axIfySTw		
+257	Perfect Sense (PHD & Fernando Remix)	Aural Imbalance	Perfect Pressure		cDoUIJT_GcM		
+332	Icefields of Proxima	Aural Imbalance	Legacy		yidpvbKr4XE		
 32	Windchime (Remix)	ASC	Windchime (Remix) / IDEM		SLy5AW_DhPo		
 79	The Rain	ASC	Sci-Files - Volume One		y-QlQUlbHw8		
 91	Lightyears	ASC	The Astral Traveller LP		aa1DkWeMmZo		
