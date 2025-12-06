@@ -36,8 +36,8 @@ PLAYLIST_SKIP_STARTS_WITH = ['zz not like']
 PLAYLIST_CLEAN_SKIP_KINDS = ('SKIP', 'ALBUM', 'YT_GENERATED')
 
 # Files
-HEADER_FILE = 'oauth.json'
-CLIENT_FILE = 'client_auth.json'
+HEADER_FILE = 'browser.json'  # Updated to use browser auth
+CLIENT_FILE = 'client_auth.json' # legacy as of 2026
 PLAYLIST_TSV_DIR = './playlists/'
 
 # Track DB Files
@@ -145,16 +145,32 @@ class YTMusicPlaylists:
             self.yt.get_library_playlists(limit=playlist_limit))
         self.playlist_titles = frozenset(self.playlists['title'])
 
-    def init_ytmusic_api(self, header, client):
-        # To renew see: get_oauth.bat
-        # https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html
-        # https://console.cloud.google.com/apis/credentials?project=graceful-alpha-154201
-        print(f'Using header file: {header}')
-        print(f'Parsing client auth file: {client}')
-        oauth_creds = self._get_client_credentials_from_json(client)
-        # print(f"Credentials: {oauth_creds.__dict__}") ###########
-        return YTMusic(header, oauth_credentials=oauth_creds)
 
+    def init_ytmusic_api(self, header, client):
+        # Browser oauth: http://ytmusicapi.readthedocs.io/en/stable/setup/browser.html
+        # Old tv client oauth: https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html
+        #    https://console.cloud.google.com/apis/credentials?project=graceful-alpha-154201        
+        filename = os.path.basename(header).lower()
+
+        if filename == 'browser.json':
+            print(f'Using header file: {header}')
+            print('-> Method: Browser Authentication (cookies). Skipping OAuth client init.')
+            return YTMusic(header)
+
+        elif filename == 'oauth.json':
+            print(f'Using header file: {header}')
+            print('-> Method: OAuth Authentication.')
+            print(f'Parsing client auth file: {client} (Requires client_secret)')
+            oauth_creds = self._get_client_credentials_from_json(client)
+            return YTMusic(header, oauth_credentials=oauth_creds)
+
+        else:
+            raise ValueError(
+                f"Unknown header filename: '{header}'. "
+                f"The script expects strictly 'browser.json' (for browser auth) "
+                f"or 'oauth.json' (for OAuth)."
+            )
+            
     def test_ytmusic_api(self, verbose=True):
         t0 = time.time()
         assert (self.yt)
