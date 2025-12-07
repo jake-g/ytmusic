@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 47	a) STRA (Illusions Of My Childhood-Part One) b)You Keep Me Hanging On c) WBER (Illusions Of My Childhood-Part Two)	Vanilla Fudge	Vanilla Fudge	LIKE	vaiTEQc_y4o	MPREb_ou6uq1qBHJh	UCs-4rjvj8nig39RXMZ_cQ5w
 67	Bang Bang	Vanilla Fudge	Vanilla Fudge	LIKE	UmWqalcmx1A	MPREb_ou6uq1qBHJh	UCs-4rjvj8nig39RXMZ_cQ5w
+10	Brown Eyed Girl	Van Morrison	Blowin' Your Mind!	LIKE	nEQmbFWnQeE	MPREb_BDmlgGD3Ix1	UCCiTDgyKWFNs6GXxMVR2ZbQ
 20	Dear Mr. Fantasy	Traffic	Mr. Fantasy	LIKE	sS_eHdqcrM8	MPREb_pEzFtyHuF1q	UCFh-Yyaep1Gl5c0O1JTvEBQ
 137	Feelin' Alright?	Traffic	Traffic	LIKE	xYXxbtkGtW0	MPREb_dqxZs9cBREZ	UCFh-Yyaep1Gl5c0O1JTvEBQ
 152	Paper Sun	Traffic	The Best Of Traffic	LIKE	80_UAuBEDlQ	MPREb_gRSLzux6D4j	UCFh-Yyaep1Gl5c0O1JTvEBQ
@@ -75,8 +76,8 @@
 25	Strawberry Fields Forever (Stereo Mix 2015)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)	LIKE	wwrTkhD_zm8	MPREb_t8PwSmfjuhs	UC2XdaAVUannpujzv32jcouQ
 29	Revolution (Remastered 2009)	The Beatles	The Beatles 1967 - 1970	LIKE	6MbqzDm1uCo	MPREb_LAgCGKzQToD	UC2XdaAVUannpujzv32jcouQ
 37	Sgt Pepper's Lonely Hearts Club Band	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)	LIKE	xwwABrNLvFs	MPREb_t8PwSmfjuhs	UC2XdaAVUannpujzv32jcouQ
-42	Lucy In The Sky With Diamonds	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)	LIKE	juilt43avXY	MPREb_t8PwSmfjuhs	UC2XdaAVUannpujzv32jcouQ
-46	A Day In The Life	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)	LIKE	aXNY4NddrLo	MPREb_t8PwSmfjuhs	UC2XdaAVUannpujzv32jcouQ
+42	Lucy In The Sky With Diamonds (2017 Mix)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)	LIKE	juilt43avXY	MPREb_t8PwSmfjuhs	UC2XdaAVUannpujzv32jcouQ
+46	A Day In The Life (2017 Mix)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)	LIKE	aXNY4NddrLo	MPREb_t8PwSmfjuhs	UC2XdaAVUannpujzv32jcouQ
 101	With A Little Help From My Friends (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	0C58ttB2-Qg	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
 105	A Day In The Life (Remastered 2009)	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	LIKE	UYeV7jLBXvA	MPREb_MlGHASFrLIn	UC2XdaAVUannpujzv32jcouQ
 108	The Fool On The Hill (Remastered 2009)	The Beatles	Magical Mystery Tour	LIKE	wsRatIMUSu8	MPREb_2wJ4mzPvKwD	UC2XdaAVUannpujzv32jcouQ
@@ -104,6 +105,7 @@
 178	Soul Sacrifice	Santana	The San Mateo Sessions 1969	LIKE	WlFcGxLHUkc	MPREb_G4fRUgXsNYt	UCX0rR7x8-nLew2t8UH-n2aw
 148	Who Do You Love (Pt. 1)	Quicksilver Messenger Service	Happy Trails	LIKE	SHxwNxXBEYo	MPREb_jzyDBtrauT6	UCIgltW78E_-ZKPqFqWSDs-Q
 164	Pride Of Man (Rare Session)	Quicksilver Messenger Service	Fresh Air - Greatest Hits	LIKE	FkYGrOn59Po	MPREb_1iEyg9iND48	UCIgltW78E_-ZKPqFqWSDs-Q
+104	Astronomy Domine	Pink Floyd	The Piper at the Gates of Dawn	LIKE	NNa1RcqeRcM	MPREb_Ka0GKzYWA9a	UCO6LS_5W7vqG9mALDNzSFug
 167	These Days	Nico	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	jhr2MlQd7i0	MPREb_OjjaAKPXuWQ	UCjk87eFr83Lr7ioGcHgx0Cg
 64	Albert's Shuffle	Michael Bloomfield	Super Session	LIKE	RDCC5NsjP1g	MPREb_PFgohMzV9fY	UCodlvSNYX6lQI53D6kOE2VA
 165	Kick out the Jams	MC5	Forever Changing: The Golden Age Of Elektra Records 1963-1973	LIKE	r_xKj1bF2ZY	MPREb_tUEq8t4d861	UCys4Uqf53x_6zI0Jgyvq1BA
@@ -187,11 +189,9 @@
 195	Go Your Way My Love	Bert Jansch	Pentangling	LIKE	T73KZVqIGhs	MPREb_1huYxcQhv1B	UC6xUwdmOnnBYiEG410Nj0GQ
 179	Every Christian Lion Hearted Man Will Show You	Bee Gees	Bee Gees' 1st	LIKE	E1YbYXXKWbs	MPREb_03hyOtgKick	UC4GVf3NpBzQiuNVf5EYsI5A
 83	Baby Please Don't Go	Amboy Dukes Featuring Ted Nugent	Amboy Dukes	LIKE	6BMSj48jWN0	MPREb_fUdEVqO52ne	UChY6FuFplw4PREezvATP5Jw
-141	You Keep Me Hangin' On (Alternate Version)	Vanilla Fudge	Play 60s Music	INDIFFERENT	78R3STD9weE	MPREb_c9r5AagZrwZ	UCs-4rjvj8nig39RXMZ_cQ5w
-10	Brown Eyed Girl	Van Morrison	Blowin' Your Mind!	INDIFFERENT	nEQmbFWnQeE	MPREb_BDmlgGD3Ix1	UCCiTDgyKWFNs6GXxMVR2ZbQ
+141	You Keep Me Hangin' On (Alternate Version)	Vanilla Fudge	60s Rock Hits	INDIFFERENT	f29Be-MgdmM	MPREb_gJnuStCLoQ9	UCs-4rjvj8nig39RXMZ_cQ5w
 74	Jingo	Santana	The Very Best of Santana	INDIFFERENT	cRZopAPA7Ns	MPREb_7hrE8EGCpRb	UCX0rR7x8-nLew2t8UH-n2aw
 95	See Emily Play (2016 Remastered Version)	Pink Floyd	1965-67 Cambridge St/ation	INDIFFERENT	7QcXfBB-JmA	MPREb_nVZOy5Fd2DR	UCO6LS_5W7vqG9mALDNzSFug
-104	Astronomy Domine	Pink Floyd	The Piper at the Gates of Dawn	INDIFFERENT	NNa1RcqeRcM	MPREb_Ka0GKzYWA9a	UCO6LS_5W7vqG9mALDNzSFug
 107	Lucifer Sam	Pink Floyd	The Piper at the Gates of Dawn	INDIFFERENT	-TJrey_7u3Y	MPREb_Ka0GKzYWA9a	UCO6LS_5W7vqG9mALDNzSFug
 111	Matilda Mother	Pink Floyd	The Piper at the Gates of Dawn	INDIFFERENT	EpbrfEgx16o	MPREb_Ka0GKzYWA9a	UCO6LS_5W7vqG9mALDNzSFug
 113	Chapter 24	Pink Floyd	The Piper at the Gates of Dawn	INDIFFERENT	zKN9fwU9BUc	MPREb_Ka0GKzYWA9a	UCO6LS_5W7vqG9mALDNzSFug

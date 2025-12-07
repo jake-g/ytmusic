@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-692	Reggae Shark	The Key of Awesome	The Key of Awesome	LIKE	hx8KBlYXNeA	MPREb_QKItIvJfM48	UCkbrNTDwV8ZvFIaAQpXatAw
 61	Drum Song Dub	Scientist	Scientific Dub	LIKE	Egt-V3MOCb8	MPREb_e3qZNF0C63X	UCyfqbpHwrH68qmeLatv1NmA
 48	Cry Blood Africa (2002 Remastered Version)	Burning Spear	Hail H.I.M	LIKE	wZSaTiGr_MM	MPREb_5xDVp1Ol1PW	UCj6BL0eP3zmnQbbTI7GQ1NA
 433	Looking My Love Dub	Barrington Levy	In Dub	LIKE	IAlXpKyYSao	MPREb_47LZPXHd4CM	UCwbJQdLZcDj8UADN49nc5OQ
@@ -52,8 +51,8 @@
 162	Red Eyes	Vivian Jones	Red Eyes	INDIFFERENT	Z3JtOIwvSd8	MPREb_vN3XbJdjlvT	UCYmTP0BE-xDvWZ8yvUfbgrw
 802	In the Ghetto	Victor Addis	Shaka All Stars - Message from Africa	INDIFFERENT	8ZQsBEqDkTo	MPREb_SXfIySA7V53	UC-SdFfgXpmFG0LBGnakMdhQ
 1059	Cccan't You See (French Extended Mix)	Vicious Pink	Vicious Pink (Expanded Edition)	INDIFFERENT	fLCXCyZKujo	MPREb_Qie3tsj9hNb	UCH2OjxBm-no3-ixDJUI09_w
-1038	Energy Up	Venjent	Another Monday	INDIFFERENT	qEikScqF_bU	MPREb_wymcKbpRr4S	UCG1u2AjQi7QtTfumzyoWMrw
-341	Mahuika (feat. Alyssa Webster, Ngarangi Tumoana) (feat. Alyssa Webster & Ngarangi Tumoana)	Uru Whetu	Mahuika (feat. Alyssa Webster, Ngarangi Tumoana)	INDIFFERENT	lkVVAvC2aEk	MPREb_ZyYerntcQgR	UCDXDzbiUQj9plLWEKSmh8Nw
+1038	Energy Up	Venjent	Another Monday	INDIFFERENT	acEU0HxN4uc	MPREb_tClynFJmMnm	UCG1u2AjQi7QtTfumzyoWMrw
+341	Mahuika (feat. Alyssa Webster & Ngarangi Tumoana)	Uru Whetu	Mahuika	INDIFFERENT	AmK6_-JU6y0	MPREb_8geoS5TDCYg	UCDXDzbiUQj9plLWEKSmh8Nw
 667	The Truth	Unified Highway	The Truth	INDIFFERENT	bmf-uakCnc8	MPREb_zdG2s7f7a9i	UCHclxbcy4a8igXrZA66RQ1g
 751	Energy Dub (feat. Runkus)	Umberto Echo	Oneness in Dub	INDIFFERENT	keIPOMygC1k	MPREb_fC77FVzyMQB	UCI758szLnhtXjidL6Qjcd7Q
 34	Baby	UB40	Labour Of Love II	INDIFFERENT	uyeii-vz8vE	MPREb_JW8Fb0lPUhQ	UCtx8buz3a1fSA4D3acd2gcg
@@ -61,10 +60,9 @@
 720	You Could Meet Somebody	UB40	Rat In The Kitchen	INDIFFERENT	4ntmKmzmKtY	MPREb_ZVDayq7Pza1	UCtx8buz3a1fSA4D3acd2gcg
 172	Chalice In The Palace (1990 Digital Remaster)	U-Roy	Dread In A Babylon	INDIFFERENT	rcnI79rvaPY	MPREb_rjGm5m4gKiH	UCknTmG4et7MMK2oY9-oKspg
 35	Can I Change My Mind	Tyrone Davis	The Ultimate Tyrone Davis	INDIFFERENT	KBEaDbMNiLE	MPREb_SPcZiMUWv61	UCWEUYuUNNiaVDg6chn3x74Q
-221	Country Boy	Tyra B	Country Boy	INDIFFERENT	6vWSPeHTSo0	MPREb_DTz3whrdM76	UC8_K0rl_1YlLBxqAp2d0Y2g
+221	Country Boy	Tyra B	Country Boy	INDIFFERENT	svzAISt9fS8	MPREb_WrCulgg2MHX	UC8_K0rl_1YlLBxqAp2d0Y2g
 764	Joker Smoker	Triston Palmer	Rootikal in the Vaults at Midnight Rock	INDIFFERENT	jDGDBOJYPgE	MPREb_SvYrDAyFiAI	UCHPUmqkU-Plcb-E3LPR2daw
 63	All I Want for Christmas (feat. Yes)	Trinity	Sax for Christmas	INDIFFERENT	XkY5f6iLqds	MPREb_2rMbXV9M7BX	UC4eckoupVj4x4OhPPgWX34g
-1129	Santa Clause (Do You Ever Come To The Ghetto)	Trinity	Yard Style Christmas	INDIFFERENT	vR-WOYqVqww	MPREb_jKMfcbdmarw	UCx5kFfx4QhZO7bHeoGSzz4w
 31	Representing	Tribal Seeds	Representing	INDIFFERENT	tncAWJmcl3I	MPREb_gu7gB2uTJtK	UCKmxnVQwTEAPr0M3NK9zcCw
 38	Moonlight	Tribal Seeds	Representing	INDIFFERENT	SsFh6x1GCSg	MPREb_gu7gB2uTJtK	UCKmxnVQwTEAPr0M3NK9zcCw
 41	Blood Clot	Tribal Seeds	Representing	INDIFFERENT	tC3496l5pyU	MPREb_gu7gB2uTJtK	UCKmxnVQwTEAPr0M3NK9zcCw
@@ -127,14 +125,11 @@
 448	Armageddon (feat. Runkus)	The Skints	Armageddon	INDIFFERENT	nfBXo_v49RI	MPREb_UqzQNhZpD78	UCI7WTVnXK0RrmJlePkMtYbQ
 808	Restless (Riddim Punks Dub Remix) (feat. Protoje)	The Skints	Restless: The Riddim Punks Remixes	INDIFFERENT	v4r8mxrk2U8	MPREb_w3vWO23Zzq9	UCI7WTVnXK0RrmJlePkMtYbQ
 328	Some Dub	The Scientist	The Scientist  Roots Radics Conection	INDIFFERENT	coqvgZwp6Ww	MPREb_rHL1qvfCrRI	UCyfqbpHwrH68qmeLatv1NmA
-386	Lazer Beaming	The Scientist	The Scientist Dub Landing	INDIFFERENT	TOcw0Npc2-s	MPREb_lJ6EYlyYN1n	UCyfqbpHwrH68qmeLatv1NmA
-501	The Voodoo Curse	The Scientist	The Scientist Rids the World of the Evil Curse of The Intergalactic Vampire	INDIFFERENT	_a2hM3vvnN4	MPREb_fkPwJSfuePj	UCyfqbpHwrH68qmeLatv1NmA
 1053	I Useta Lover	The Saw Doctors	If This Is Rock and Roll, I Want My Old Job Back	INDIFFERENT	5dD2GwpODmE	MPREb_kZl7juSFcP1	UCKNj0H8o6A3p8YSrUu2rcXA
 1127	Wastha Na Gara	The Root-less	Wastha Na Gara	INDIFFERENT	ePLeL3KB0m4	MPREb_t4NqHMOuSP1	UCeU1V7F9ZBqtckLbzm-hhhg
 629	Eagle Song	The Red Shadow Singers	Ghost Dance Songs	INDIFFERENT	KbP0bh5n8ek	MPREb_GE6K2EchgG9	UCjv0qSaFqwZwGy0GynooW-Q
 760	This Yah Musik	The Rastafarians	Orthodox	INDIFFERENT	GB9MvpvbLEw	MPREb_CCxZMdf97J8	UC8EgdvZ6gbJ0O7oNGD3ItvQ
 264	It Gets Better	The Preatures	Blue Planet Eyes	INDIFFERENT	OpjAaEQh7l0	MPREb_RqB17tMdWqm	UCC9O7DK78DWe1A4hV6p_ieA
-1120	Babylonian	The Officials	Stand and Give Praise: Roots Reggae	INDIFFERENT	BREtuFOKHEA	MPREb_eRE0X3rpOoz	UCqjxfPXdsovf-fQve9_hbGw
 134	Smoke	The Movement	Golden	INDIFFERENT	7admjFOXims	MPREb_JoBGT4b2jla	UCClGpWLhUlO0hcVKWb-r4uQ
 163	Echo (Acoustic)	The Movement	Beneath The Palms	INDIFFERENT	xEeoZVWSvDU	MPREb_K43LdKkzobu	UCClGpWLhUlO0hcVKWb-r4uQ
 246	Habit	The Movement	Set Sail	INDIFFERENT	yy1OM505vhQ	MPREb_3Uuscxiq3pn	UCClGpWLhUlO0hcVKWb-r4uQ
@@ -145,6 +140,7 @@
 901	Driving Me Crazy	The Mana'o Company	A 20 Year Collection of the Mana'o Company	INDIFFERENT	yyLY2R1grnc	MPREb_yAt81I2D40m	UCMPUHO7m_Q0TFaxbh6rvEYQ
 728	Bloody Mary	The Magnetics	Cocktails & Fairytales, Vol. 1	INDIFFERENT	PsxCzw8geSg	MPREb_qJROPwmLlVu	UCim3NpkSIKChZEK40rQ9ZtA
 487	Ras Trent	The Lonely Island	Incredibad	INDIFFERENT	YQTb5gBZSNM	MPREb_peWtNJcSMYv	UC4LMYsZmbRZOpHV8B-trVvQ
+692	Reggae Shark	The Key of Awesome	The Key of Awesome	INDIFFERENT	pLjThb3yOQU	MPREb_B7chGtTSwdb	UCkbrNTDwV8ZvFIaAQpXatAw
 1075	Oh Little Town Of Bethlehem (feat. Horace Andy)	The Joe Gibbs Family Of Artists	Joe Gibbs Reggae Christmas	INDIFFERENT	zb0BVY6A4rU	MPREb_9OMusKakXgP	UC9OYvKi3Zlc_QkMUpiXTRQA
 1166	Winter Wonderland (feat. Beres Hammond)	The Joe Gibbs Family Of Artists	Joe Gibbs Reggae Christmas	INDIFFERENT	pgYP8XR16yI	MPREb_9OMusKakXgP	UC9OYvKi3Zlc_QkMUpiXTRQA
 318	Love Uprising	The Jamaicans	The Best of the Jamaicans	INDIFFERENT	84ghVd7UEaA	MPREb_xPZ48icQzsb	UCmyKVI7Rd8_dNcqhxZOv3ng
@@ -324,10 +320,10 @@
 470	Heart Like a Lion	Rebelution	Courage to Grow	INDIFFERENT	lq_f3KgAllQ	MPREb_Z4YO7chUkSt	UCl2v9Z8injn08xrHZHQJ_hw
 468	Fire Night (Digitally Remastered)	Ravi Shankar	The Ravi Shankar Collection: Improvisations	INDIFFERENT	yv7uLg-NpBk	MPREb_NynrT4anh4h	UCdjqqTS7Ixlrn98jSa9dtkQ
 986	Zion Town (feat. Queen Sparrow)	Ras Sparrow	Zion Town	INDIFFERENT	GSA_kQzqHP0	MPREb_6etH5vZ6pmt	UClFowPTgx4QZMUugKINSowg
+832	NONE OF JAH JAH CHILDREN NO CRY	Ras Michael & The Sons Of Negus	Jah Shaka Presents The Positive Message	INDIFFERENT	rE8Wqz298xM	MPREb_gnMNB8dMdQC	UC0tIZCi_jM3lGvrcZ4rIDXg
 138	Judgement Day	Raging Fyah	Judgement Day	INDIFFERENT	vou-q-YUmA0	MPREb_ENtnu4i7Leb	UCkTlhxNtNVCFDtza_t8YZ0Q
 535	Rebel	Raging Fyah	Rebel	INDIFFERENT	eziLR-e7JW8	MPREb_ULWYSQo8tWE	UCkTlhxNtNVCFDtza_t8YZ0Q
 1170	System Is the Vampire	Rafael Cardoso Reggae Revolution	System Is the Vampire	INDIFFERENT	T4ye4DwuZro	MPREb_aq6BeCyOAEy	UCCovSCsM6GdFQqmWLZd135A
-832	NONE OF JAH JAH CHILDREN NO CRY	RAS MICHAEL & THE SONS OF NEGUS	Jah Shaka Presents The Positive Message	INDIFFERENT	rE8Wqz298xM	MPREb_gnMNB8dMdQC	UC0tIZCi_jM3lGvrcZ4rIDXg
 58	Not Another Word (feat. Agent Sasco)	Protoje	Not Another Word	INDIFFERENT	ctFAZlcETlg	MPREb_voRlJuN0aXy	UCLtku34UTqBcKGCj7S8_bKQ
 413	Who Knows	Protoje	Ancient Future	INDIFFERENT	mzwqT-gNORs	MPREb_V10MIG2fa65	UCLtku34UTqBcKGCj7S8_bKQ
 417	Stylin'	Protoje	Ancient Future	INDIFFERENT	HH7KAvTzkk0	MPREb_V10MIG2fa65	UCLtku34UTqBcKGCj7S8_bKQ
@@ -442,7 +438,7 @@
 1010	Gates Of Zion	Mighty Diamonds	Reggae Anthology: Mighty Diamonds - Pass The Knowledge	INDIFFERENT	Caz2udJV1y4	MPREb_cH8lTlvIWxj	UCvHSJ7vpYF-pVWtd-uLf-Vw
 1056	Love the life you live (Live Dec 1998) (feat. Joseph Straws Jr.)	Midnite Ride	Love the life you live [Live Dec 1998]	INDIFFERENT	yqi_Nc5y46U	MPREb_QGidCyyFGSI	UCbPzlG3oCrinLv0VYNaIbFg
 511	Envision	Midnite	Free Indeed	INDIFFERENT	X6ytPL1pfNg	MPREb_7VMapRZO63G	UCzVYPvtfWW349M7KyHmVmtA
-790	Bobby Was a Gangster	Midnight Riders	Midnight Riders Meets Naram Rhythm Section	INDIFFERENT	vAA6amE46dY	MPREb_4ThN0clAYd8	UCo4XKwoZ_RpASL_gMp0t0oA
+790	Bobby Was a Gangster	Midnight Riders	Midnight Riders Meets Naram Rhythm Section	INDIFFERENT	2a9mkYQs9oc	MPREb_kek59HNtV1z	UCo4XKwoZ_RpASL_gMp0t0oA
 850	The System	Michigan	Sugar Daddy	INDIFFERENT	hQWbX48laNg	MPREb_kpIQLHv34nY	UCnH4FcasmsR2rN2jXR3BQgw
 759	Stepping Out Of Babylon	Michael Rose	African Roots	INDIFFERENT	0XGpcX4GbIY	MPREb_Fm99BglmAFH	UCX-szzPyTxli66JREFDpZMw
 271	You Are A No Good	Michael Prophet	Righteous Are The Conquer	INDIFFERENT	xcJn60tipgk	MPREb_uGdApEUsPiW	UCxBPpP3cIxdrVq8U3oLFduA
@@ -452,7 +448,7 @@
 402	Light up Ya Light	Michael Franti & Spearhead	Yell Fire!	INDIFFERENT	F4cFJRcCQHA	MPREb_QIVH0kWnNpQ	UCGKtk_GJGty1dqvSmsa-KDg
 745	Original Dread	Micah Shemaiah	Original Dread	INDIFFERENT	ydJuYqxttXk	MPREb_HC7pZbaFDeo	UC_247dEZNjOgqcH_M_-JECg
 1	Dark Knight	Mexican Stepper	Dark Knight	INDIFFERENT	o3JlO8ea5L8	MPREb_fXW7rVdtMe4	UCKsmXnDYrtIKbqpEHzS2uig
-1131	Beloved Africa (feat. Damien Marley)	Meta and the Cornerstones	Ancient Power (Extended Edition)	INDIFFERENT	ovosNizEqec	MPREb_bVNNpre87Tg	UCPyYfizpZLhvnIzNP7j_y6g
+1131	"Beloved Africa (feat. Damian ""Jr. Gong"" Marley)"	Meta and the Cornerstones	Ancient Power (Extended Edition)	INDIFFERENT	ovosNizEqec	MPREb_bVNNpre87Tg	UCPyYfizpZLhvnIzNP7j_y6g
 661	Tomorrow	Mercy Holding	Tomorrow	INDIFFERENT	DidlSSoskRw	MPREb_XcXNj4QNSB6	UCy6XACXpHwItv3tkhcd0BAw
 633	Dance Inna Babylon	Mellow Mood	Move!	INDIFFERENT	_wHNKvgpv6I	MPREb_yHh7m2ys7eB	UCuxg5AwtEBYxAlIDuNpWpkA
 123	Hey Hey (feat. Giant Panda Guerilla Dub Squad)	Mellodose	Hey Hey	INDIFFERENT	wCcyURyyCyQ	MPREb_hEFgOEmMFN1	UCqfXbvdoStCfobwncmFco_w
@@ -626,7 +622,7 @@
 1191	Loving You	Jackie Mittoo and The Soul Vendors	Evening Time	INDIFFERENT	tSSjbJ4mqnE	MPREb_LGXma1lEIuM	UCdVhZ1jcTCeQSpgHZUbj-xw
 1100	Wall Street	Jackie Mittoo	The Keyboard King at Studio One	INDIFFERENT	ztq6O1IhuUk	MPREb_n5ewSt0roH6	UCr3uXJoPjiNx0EiX7RgelBg
 118	Let's Do It Again	J Boog	J Boog - EP	INDIFFERENT	oybrDxgdJsk	MPREb_RCbENiUil8j	UCQjvnxu6dmA1mVRReSsUUWA
-145	Sunshine Girl (feat. Peetah Morgan)	J Boog	Backyard Boogie	INDIFFERENT	Iiv3c4659rA	MPREb_YZ09or8luqc	UCQjvnxu6dmA1mVRReSsUUWA
+145	Sunshine Girl (feat. Peetah)	J Boog	Sunshine Girl	INDIFFERENT	CXzyuGvzre4	MPREb_807TRe47Dvp	UCQjvnxu6dmA1mVRReSsUUWA
 727	Good Cry (feat. Chaka Demus)	J Boog	Rose Petals	INDIFFERENT	W5qKf7vcKCY	MPREb_XK5G8dPHAW3	UCQjvnxu6dmA1mVRReSsUUWA
 150	Marching On (feat. Jesse Royal)	Iya Terra	Marching On	INDIFFERENT	SIHsgL_gDqA	MPREb_mtc4b4IDuZS	UCAcTyuMK-EoIp0KSyDpsvmw
 151	Stars	Iya Terra	Stars	INDIFFERENT	jaJWKF-Cef0	MPREb_xIXn5We3Ijm	UCAcTyuMK-EoIp0KSyDpsvmw
@@ -654,14 +650,14 @@
 915	F.O.H.	Infant Sorrow	Get Him To The Greek	INDIFFERENT	LS8eHdky6Gg	MPREb_lQy33YeP2kp	UCv8aSSe5epBiwJrzttD17eA
 914	Seventh Generation	Indubious	Wake The Lion	INDIFFERENT	IUPwz6AtCog	MPREb_GDi2F3BZcWu	UCSUjdjUO333X9Mg36FErmXA
 1046	Into the Unknown	Idina Menzel	Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)	INDIFFERENT	2qPlX1FMJXI	MPREb_MCjrisEbdZM	UC2kPe8FB39lojsUDtyKcqOQ
-467	Living In Love	I Wayne	Lava Ground	INDIFFERENT	M1F3Cs2MBgI	MPREb_Ag88680lxbF	UCrTQM49FPrQR3KhyI6qZ_bQ
+467	Living In Love	I-Wayne	Lava Ground	INDIFFERENT	M1F3Cs2MBgI	MPREb_Ag88680lxbF	UCrTQM49FPrQR3KhyI6qZ_bQ
 755	Mystic Collie Version	I David	Organic Roots Vol. 1	INDIFFERENT	auQDFUQKTzw	MPREb_QvyWUmtyY6n	UChgyd4xCpxqt3gI3QXXCrLg
 820	Rasta Have The Handle	Hugh Mundell	Junjo Presents: Wins The World Cup	INDIFFERENT	yP5BfyjNrIo	MPREb_0TbHebvHwXC	UCO3g-QJL79lECl5NjEEug0Q
 541	To Be Alone	Hozier	Hozier (Expanded Edition)	INDIFFERENT	GnF-dZvXwWE	MPREb_jwJuEsB8Nu8	UCA3Zs9A2IeetfGT3Omi9ivw
 565	Jah Love	House of Shem	Jah Love	INDIFFERENT	akXZURJjE4I	MPREb_l2YuYvirQPW	UCmO2yQal6qC4nYpX7I6rsvw
 4	Ain't No Sunshine	Horace Andy	Horace Andy Sings Studio 1 & More	INDIFFERENT	zYWGUYR1_l8	MPREb_529IXjfJPYF	UC6FtczJEj05c3bLscIiyjKA
 276	Ain't No Sunshine	Horace Andy	Mr. Bassie	INDIFFERENT	Ls_-KLLxFX8	MPREb_tbppu17Ruqv	UC6FtczJEj05c3bLscIiyjKA
-287	Rockers Almighty Dub	Horace Andy	Horace Andy Deluxe Edition	INDIFFERENT	U04gWqWwP5I	MPREb_zaXyzbRylxx	UC6FtczJEj05c3bLscIiyjKA
+287	Rockers Almighty Dub	Horace Andy	Horace Andy Deluxe Edition	INDIFFERENT	vHhjx5Roj_c	MPREb_EQycndRmHTc	UC6FtczJEj05c3bLscIiyjKA
 312	Mr. Bassie	Horace Andy	Mr. Bassie	INDIFFERENT	HT-qc9b76QY	MPREb_tbppu17Ruqv	UC6FtczJEj05c3bLscIiyjKA
 435	Where Do the Children Play	Horace Andy	Skylarking	INDIFFERENT	GzfHPIG2OKc	MPREb_CA0H8dD5sen	UC6FtczJEj05c3bLscIiyjKA
 539	Something On My Mind	Horace Andy	EP Vol 9	INDIFFERENT	18uEWugspqQ	MPREb_2wML8wC0ogV	UC6FtczJEj05c3bLscIiyjKA
@@ -698,7 +694,7 @@
 1108	The Ruler	Gregory Isaacs	King Tubbys Presents Soundclash Dubplate Style	INDIFFERENT	aSz4zj7CEUQ	MPREb_DAgKR2rtDsu	UCrWrf0Dyue7UNulBwPhbI2A
 305	Tear Up	Granville Williams Orchestra	Essential Ska Masters	INDIFFERENT	-e1AhaNn8b8	MPREb_8BscXlJrCSa	UCRnW-aPLBwA91Mp9IWZUfVQ
 912	The Veil	Grant Wood Company	The Veil / Childs, Minnesota	INDIFFERENT	c7iLJXBd-bQ	MPREb_H9NYTfYZscB	UC28c6b9p1nICYUhbXhIHCzA
-223	I Need Your Love	Golden Harvest	Golden Harvest	INDIFFERENT	Pcz4ahTDLT4	MPREb_25OWgRfsN0a	UCDv_Z0bMLdMGimVi3-Y7e6w
+223	I Need Your Love	Golden Harvest	Golden Harvest	INDIFFERENT	GfxQfERryZ4	MPREb_RYj3sfDIRYK	UCDv_Z0bMLdMGimVi3-Y7e6w
 911	Global Warming	Gojira	From Mars to Sirius	INDIFFERENT	VB5QY8aW4PI	MPREb_Ac6Nlzb0zXy	UCPdbkw3S_0ZSHAqlnxo9E_g
 1118	A Novidade (Ao Vivo)	Gilberto Gil	Unplugged (Ao Vivo)	INDIFFERENT	E5YuJEEXDlM	MPREb_xk6nPVPGFqS	UCZwEO8vAcFyT43zmNm_PCGQ
 581	Steady	Giant Panda Guerilla Dub Squad	Steady	INDIFFERENT	9om4TaDkVe4	MPREb_3JSMuu0JKkh	UCTYHk4_mzZkTPAFCGPlhm3Q
@@ -713,14 +709,14 @@
 1125	Maad Sick	Gappy Ranks	Maad Sick	INDIFFERENT	QR7yAJgF9rY	MPREb_lFmfq0IpAPJ	UCBL36mxCP8DvuMMkQ7ju86w
 665	Promised Land (feat. Mikky Ekko)	Future Utopia	12 Questions	INDIFFERENT	IFwwVtdXAu4	MPREb_yVapwBisYh0	UCyx7mSW0h3NU2En6LIeQuqg
 202	It's Good To Be In Love	Frou Frou	Details	INDIFFERENT	2PSEAAaJm_s	MPREb_43Xl1Je0CGE	UCdg2di8XrYG2cDSL_jr9kwg
-322	Roots Man Skanking	Freddie Mcgregor	Big Ship	INDIFFERENT	LWyvoPKpbQI	MPREb_tQsTeagXYL5	UCaNUfKT0gYz4e4a_1ur2xrA
 300	Just Don't Want To Be Lonely	Freddie McGregor	Songs For Reggae Lovers 2	INDIFFERENT	3uwSp66Pabg	MPREb_KXCAoxDGsAg	UCaNUfKT0gYz4e4a_1ur2xrA
+322	Roots Man Skanking	Freddie McGregor	Big Ship	INDIFFERENT	LWyvoPKpbQI	MPREb_tQsTeagXYL5	UCaNUfKT0gYz4e4a_1ur2xrA
 410	Pass The Tu-Sheng-Peng	Frankie Paul	Pass The Tu-Sheng-Peng / Tidal Wave	INDIFFERENT	qXJ-WCf7pUw	MPREb_DnNGWX0NZPN	UCSkp9jy-vliJDX9nypaySWw
 1189	Pass The Dub Plate	Frankie Paul	Reggae Legends - Frankie Paul	INDIFFERENT	OXxsny-etBQ	MPREb_FR70Zt94jVg	UCSkp9jy-vliJDX9nypaySWw
-203	Burn One	Fortunate Youth	Sugarshack Sessions	INDIFFERENT	C0jW639Ryek	MPREb_Rnnoxoz0tLh	UCashcWUiNRYEtMri7awnQgw
-355	Farmer (feat. Juan Rios)	Fortunate Youth	Irie State of Mind	INDIFFERENT	3i_xxuqIzRU	MPREb_JdfElGEXUSd	UCashcWUiNRYEtMri7awnQgw
-479	Trippin	Fortunate Youth	Irie State of Mind	INDIFFERENT	DC2YiJdld-E	MPREb_JdfElGEXUSd	UCashcWUiNRYEtMri7awnQgw
-669	Sweet Sensi (feat. Josh Heinrichs, Steven Jacobo & Steffano Lasso)	Fortunate Youth	It's All a Jam	INDIFFERENT	jxfEl3X0JU4	MPREb_8Qthe6Ifa1I	UCashcWUiNRYEtMri7awnQgw
+203	Burn One	Fortunate Youth	Sugarshack Sessions	INDIFFERENT	7xW-VZP66a0	MPREb_JXycW8zMLJ3	UCashcWUiNRYEtMri7awnQgw
+355	Farmer (feat. Juan Rios)	Fortunate Youth	Irie State of Mind	INDIFFERENT	ggALRRQIL5I	MPREb_J3NPR9XCeW4	UCashcWUiNRYEtMri7awnQgw
+479	Trippin	Fortunate Youth	Irie State of Mind	INDIFFERENT	Z6RJ_081EQI	MPREb_J3NPR9XCeW4	UCashcWUiNRYEtMri7awnQgw
+669	Sweet Sensi (feat. Josh Heinrichs, Steven Jacobo & Steffano Lasso)	Fortunate Youth	It's All a Jam	INDIFFERENT	JuCn1I3BduI	MPREb_4EK4uIPcJUq	UCashcWUiNRYEtMri7awnQgw
 165	Rarest Flower	For Peace Band	Rarest Flower	INDIFFERENT	terbxzm085A	MPREb_3OzcF7j6XNx	UCGJA01PL-Tx8juOYCkTsOlw
 909	Save It For Somebody Else	Fink	Perfect Darkness	INDIFFERENT	dI657i7dF-s	MPREb_uOCAwjgOUue	UCtLPNVgupwHTf6f-5h0Kz1Q
 910	Warm Shadow	Fink	Perfect Darkness	INDIFFERENT	huDL5XekWSA	MPREb_uOCAwjgOUue	UCtLPNVgupwHTf6f-5h0Kz1Q
@@ -735,7 +731,7 @@
 525	Siren	Exco Levi	Siren	INDIFFERENT	oOTQ3hCEvbU	MPREb_FqvQ0SOHoAm	UCaF775cctRGRPGe6VbOhotw
 733	Strive	Exco Levi	Silly Walks Discotheque Presents Honey Pot Riddim	INDIFFERENT	PciUmZalq-U	MPREb_md7kJlewQKH	UCaF775cctRGRPGe6VbOhotw
 1111	Turn up Di Sound	Etana	Pamoja	INDIFFERENT	7-6R5aHbCHM	MPREb_WQTL7Ufu0bF	UCI_vBdI7dtiy55d1Ol5548Q
-650	Congo Dread	Errol Holt	Congo Dread	INDIFFERENT	c2b4QVndOsE	MPREb_RfdVgmknzfN	UC2CrQWlsx58Q4pRSHzJa6gw
+907	The Song of the Golden Dragon	Estas Tonne	Strings and Stories of a Troubadour (Live in Odeon, Vienna 2011)	INDIFFERENT	53Q_3_Fc3_s	MPREb_o5ZCNMv7yFV	UCIY4SdqiIuk6m79V_IC5p8A
 354	Mind Block (with Eric Rachmany)	Eric Rachmany & Stick Figure	Set in Stone	INDIFFERENT	8Hr8aaU2FJA	MPREb_D5Sy1LAohma	UCIalnVRZhjCv99U3Keq35gg
 519	Cherry Oh Baby	Eric Donaldson	Lovers Reggae, Vol. 1	INDIFFERENT	98jCAvIAyao	MPREb_ptbcThae5N0	UCZoQ6LyH35SQrTvD99OoqhA
 1122	Freedom Street	Eric Donaldson	Eric Donaldson Sings 20 Jamaica Classics	INDIFFERENT	-2F-Rj_yYXI	MPREb_Kqte8mCQlSO	UCZoQ6LyH35SQrTvD99OoqhA
@@ -764,6 +760,7 @@
 1087	Mighty	Dubcraft	Mighty	INDIFFERENT	MeL8XI5hqIM	MPREb_Mogz9QBVwPe	UCHcqJo0JmoPntGBkfEeRXFQ
 1204	Pounding System	Dub Syndicate	The Pounding System	INDIFFERENT	HI1Pgbf2Zl4	MPREb_7R3yCRAPGc1	UCp23qUGSOLq4PdoOsgo0Hhg
 321	Diversité	Dub Inc	Diversité	INDIFFERENT	adbU_S4eAYk	MPREb_pFt72oAeHX3	UC1ELp9y1rScef1zUocJq_gw
+556	Fire Every Day (feat. Mr Woodnote)	Dub FX	Roots	INDIFFERENT	7DDEV9ZNZIc	MPREb_dUS7O7c9EgW	UCcnFHF0BTaLsNL7lw7M5UCw
 1006	August Town	Duane Stephenson	From August Town	INDIFFERENT	LAKJiBVC-Uc	MPREb_sxrMimwtehU	UCenQZbhdNIJSTPWMEXRcf2g
 423	Atom [Dub Massacre 2] (Single Version)	Dual Tone	Dub Radiation	INDIFFERENT	zcsMTa27xMY	MPREb_OmaNlVvo0aK	UCpvWZxhNF8sE-01wTXpYbnA
 750	Ainda Lembro	DuBrazilis	DuBrazilis - Vol. 1	INDIFFERENT	WnyIGRzN8HI	MPREb_gJ0Zk8sr74A	UCtIPiEAjzwNyeLTkkTo8eIA
@@ -827,7 +824,6 @@
 627	Speak Life	"Damian ""Jr. Gong"" Marley"	Stony Hill	INDIFFERENT	RI8ynS4Sx6U	MPREb_E6GuVORpGOd	UCu1as47vTAurke8pciuGcMw
 670	Love and Inity	"Damian ""Jr. Gong"" Marley"	Mr. Marley	INDIFFERENT	Pev_xGtdBgo	MPREb_PBIzo5ZAiyB	UCu1as47vTAurke8pciuGcMw
 73	Blessings	Damage Musiq	Conquest Paradise Riddim	INDIFFERENT	8ygp4565Viw	MPREb_YjexbA0YtDW	UCzcBUC5PKTG65mPMUkYyvwA
-556	Fire Every Day (feat. Mr Woodnote)	DUB FX	Roots	INDIFFERENT	JPiPKRKHfQg	MPREb_ycfNhqq7pZZ	UCcnFHF0BTaLsNL7lw7M5UCw
 7	Rude Boy (feat. Lion D, Raphael & Syross)	DJ Vadim	Médoc Summer Mix	INDIFFERENT	2xoF7Y8TDJM	MPREb_yr94Jrv630O	UCRdWLezKaFvUmCMzCa7ujig
 294	Ganja Bus (Explicit Album Version) (feat. Damian Marley)	Cypress Hill	Till Death Do Us Part	INDIFFERENT	cOvgDHpLcz4	MPREb_zzw9rto2iZW	UCcxp6abw1T9DmxzFIWLAz4g
 159	Payday	Culture	Chanting On	INDIFFERENT	xV1Nas0uNo8	MPREb_RTHEFZ0ipLj	UCWiPaX330yz8JCgfuwj7T-A
@@ -842,6 +838,7 @@
 475	Natty Dread Taking Over	Culture	Two Sevens Clash	INDIFFERENT	rOjp3sAnJQs	MPREb_wHfBhOOkqWZ	UCWiPaX330yz8JCgfuwj7T-A
 513	Rally Around Jahoviah's Throne (2001 Digital Remaster)	Culture	International Herb	INDIFFERENT	JcJDM1xhp_Q	MPREb_g6H7PJWGlRw	UCWiPaX330yz8JCgfuwj7T-A
 897	Jah Alone A Christian	Culture	Lion Rock	INDIFFERENT	UCVy4Xh4xXI	MPREb_gnCqmJlRY4F	UCWiPaX330yz8JCgfuwj7T-A
+898	Peace Love & Harmony	Culture	Nuff Crisis	INDIFFERENT	AFjrAlOyNJU	MPREb_jrroLEH96uw	UCWiPaX330yz8JCgfuwj7T-A
 1068	Why Worry About Them	Culture	Wings Of A Dove	INDIFFERENT	slh7f7a64sY	MPREb_gEVfVEC2qFZ	UCWiPaX330yz8JCgfuwj7T-A
 738	World of Illusion	Cultural Roots	Drift Away from Evil	INDIFFERENT	2T8TNkMEEyU	MPREb_7eA0o2eSC5j	UC3YzxVaBRPCgWAD_57a9D5A
 756	Every Man Has A Right	Cultural Roots	Hell a go pop	INDIFFERENT	xdTZUDmzk2U	MPREb_LG2m2Kk4XnE	UC3YzxVaBRPCgWAD_57a9D5A
@@ -901,7 +898,7 @@
 1141	Access Granted	Chronixx	Digital Love Riddim	INDIFFERENT	Yzjq0Lh5V_c	MPREb_6M5OyqmRZCz	UCYZj7mrKRhTwrFJNL2j5GrQ
 1174	Ain't Know Giving In	Chronixx	Tropical Escape Riddim	INDIFFERENT	VV9TqFUjj08	MPREb_MnjnlGdIARl	UCYZj7mrKRhTwrFJNL2j5GrQ
 654	Better Than The Stars	Christopher Martin	Big Deal	INDIFFERENT	zCGpE0Lp30Y	MPREb_WuM7rbyHTa2	UCHDYGMX01M7lWYUVcMxb4dQ
-877	Now You're a Home (feat. Ruuth)	Christian Reindl	Finding Home	INDIFFERENT	VQsmnBJZR-A	MPREb_dTmUKieMCtt	UCmoK2xD_Y68nKf6lNOJZZxw
+877	Now You're a Home	Christian Reindl	Finding Home	INDIFFERENT	VQsmnBJZR-A	MPREb_dTmUKieMCtt	UCmoK2xD_Y68nKf6lNOJZZxw
 371	Stronger	Chezidek	Stronger	INDIFFERENT	6G4X7c4lBsY	MPREb_VacBYTLmzek	UCNTiuR4UFDIgGlOsi2HRCFw
 876	All My Life	Chezidek	The Order of Melchezedik	INDIFFERENT	7Opd4paiCKw	MPREb_lQHwFriqr2a	UCNTiuR4UFDIgGlOsi2HRCFw
 1009	Ganja Tree	Chezidek	Judgement Time	INDIFFERENT	UnFUncQ-wvU	MPREb_BIvbT3BtLI2	UCNTiuR4UFDIgGlOsi2HRCFw
@@ -912,6 +909,7 @@
 618	Bright Christmas-Medley	Carlene Davis	Christmas Reggae Rock	INDIFFERENT	jlfQ0kXrMJ0	MPREb_Wh50hwgGqIW	UCgKBdNL6H1VkUQ363RTBkyg
 619	Virgin Mary	Carlene Davis	Christmas Reggae Rock	INDIFFERENT	eWuQTQgaXWY	MPREb_Wh50hwgGqIW	UCgKBdNL6H1VkUQ363RTBkyg
 656	Silent Night	Carlene Davis	Christmas Reggae Rock	INDIFFERENT	N5gqYQo5piY	MPREb_Wh50hwgGqIW	UCgKBdNL6H1VkUQ363RTBkyg
+1129	Santa Clause (Do You Ever Come To The Ghetto)	Carlene Davis	Yard Style Christmas	INDIFFERENT	vR-WOYqVqww	MPREb_jKMfcbdmarw	UCgKBdNL6H1VkUQ363RTBkyg
 200	Free	Capleton	Free	INDIFFERENT	DXrviUHKQ7o	MPREb_gPYAeJJ1lr9	UCL9Lh6X1RU74mjTRTO8VtTg
 393	Raggy Road	Capleton	Reggae Hits, Vol. 23	INDIFFERENT	rtkQ7bvrc6g	MPREb_QNCkcljrTXj	UCL9Lh6X1RU74mjTRTO8VtTg
 576	Jah Jah City	Capleton	The Very Best of Capleton Gold	INDIFFERENT	-uQ--ieyL-4	MPREb_718aQKZYh3L	UCL9Lh6X1RU74mjTRTO8VtTg
@@ -1009,7 +1007,7 @@
 365	Jump Nyabinghi	Bob Marley & The Wailers	Confrontation	INDIFFERENT	ZUyd4kKeA3g	MPREb_GgrH18TMFFE	UCBfv87kvVXyNi88URZ1zvCA
 408	"Punky Reggae Party (Jamaican 12"" Version)"	Bob Marley & The Wailers	Bob Marley Legacy: Punky Reggae Party	INDIFFERENT	MgLLtVcuOjY	MPREb_mhojDokxlc2	UCBfv87kvVXyNi88URZ1zvCA
 526	Stir It Up (Live At Leeds Polytechnic, 1973)	Bob Marley & The Wailers	Burnin' (Deluxe Edition)	INDIFFERENT	txfsV8qbyv8	MPREb_CJzuUTJxbT5	UCBfv87kvVXyNi88URZ1zvCA
-551	Hallelujah Time	Bob Marley & The Wailers	Best of  Reggae	INDIFFERENT	_AKmsarTkpE	MPREb_yWBkGG7crio	UCBfv87kvVXyNi88URZ1zvCA
+551	Hallelujah Time	Bob Marley & The Wailers	Reggae Chill Vibes	INDIFFERENT	kZv0i4j9UHk	MPREb_TD1ldMcfQGx	UCBfv87kvVXyNi88URZ1zvCA
 33	Zion Train	Bob Marley	Uprising	INDIFFERENT	SfKJKn8srCY	MPREb_krKAcadeolp	UCBfv87kvVXyNi88URZ1zvCA
 183	Bad Card	Bob Marley	Uprising	INDIFFERENT	5mLssX_I914	MPREb_krKAcadeolp	UCBfv87kvVXyNi88URZ1zvCA
 205	Corner Stone	Bob Marley	Trench Town Rock	INDIFFERENT	6J7c1cW17zs	MPREb_WxbDhVDzuGi	UCBfv87kvVXyNi88URZ1zvCA
@@ -1035,7 +1033,7 @@
 493	Walk Away From Love	Bitty McLean	On Bond Street	INDIFFERENT	RVKybVTCg1A	MPREb_cuWXUu5dIs5	UCRk1Rw-V5J5pGULOwiIpyKQ
 532	Golden Locks	Bim Sherman	Across The Red Sea	INDIFFERENT	QBILBjkCcYs	MPREb_HSj7qag3oVR	UCHGmKJH4NRNREk1IikzrLPg
 1066	Under The Christmas Tree	Billy Paul Williams	Christmas Ragga Stylee	INDIFFERENT	9jpeY_Wvzdk	MPREb_sIK9VfPveOa	UCU69fmX3Zm8zLrCU1_UgeQA
-1070	It Looks a Lot Like Christmas (Produced By Billy Paul Williams)	Billy Paul Williams	A Dance Hall Christmas	INDIFFERENT	_qCclUHMpro	MPREb_LGAgBIrUgEy	UCU69fmX3Zm8zLrCU1_UgeQA
+1070	Looks A Lot Like Christmas	Billy Paul Williams	Christmas Ragga Stylee	INDIFFERENT	BCtD7McjjZM	MPREb_sIK9VfPveOa	UCU69fmX3Zm8zLrCU1_UgeQA
 278	Let Me Down Easy	Billy Currington	Enjoy Yourself	INDIFFERENT	4fYyiUaWgBU	MPREb_Oa1Mb77C0pn	UCSBAXwBUNiGTG4uQZSTq1kQ
 185	Natty Dread She Want	Big Youth	Big Youth Special	INDIFFERENT	2wocP7C8jVU	MPREb_N8yxXfio6gw	UCY0sA5mCKYzvHYAsBHX_Iew
 485	Marcus Garvey	Big Youth	Big Youth Special	INDIFFERENT	aP92By0-rRg	MPREb_N8yxXfio6gw	UCY0sA5mCKYzvHYAsBHX_Iew
@@ -1054,7 +1052,7 @@
 309	Murderer (feat. Barrington Levy)	Beenie Man	Best Of (collector's Edition)	INDIFFERENT	s1r9WQwFxwQ	MPREb_oV0rV6P3Ntv	UCAZEA0sI-lNN28_czmRI7Ig
 860	Bird	Bedouine	Bird Songs of a Killjoy	INDIFFERENT	NfYr0qOPgKY	MPREb_vuzSOywXFdv	UCqQTpy5DPOFnWMPQb5HVOow
 466	Politician	Barry Brown	Barry Brown's Step It Up Youthman	INDIFFERENT	RyijOLVHUYs	MPREb_UW0LgxgRKG6	UCbj_JZ1DNSiyLp7fNQIigYw
-703	We Just Can't Live	Barry Brown	The Reggae Artist Gallery	INDIFFERENT	oIS0jkYxPbE	MPREb_zU1LSi3esSh	UCbj_JZ1DNSiyLp7fNQIigYw
+703	We Just Can't Live	Barry Brown	The Reggae Artist Gallery	INDIFFERENT	6krJaoWPIe4	MPREb_PJY6NckAkrT	UCbj_JZ1DNSiyLp7fNQIigYw
 859	Jukes and Watch	Barry Brown	Right Now	INDIFFERENT	375efq7iFE4	MPREb_xnlBzHq6BaL	UCbj_JZ1DNSiyLp7fNQIigYw
 999	So Jah Say	Barry Brown	So Jah Say	INDIFFERENT	TNU9ueJiPbQ	MPREb_OTkAlBgh0dM	UCbj_JZ1DNSiyLp7fNQIigYw
 1158	Give Hanks And Praise	Barry Brown	Roots People Music	INDIFFERENT	Oyat2jfnTQM	MPREb_zfLKfM2UZm7	UCbj_JZ1DNSiyLp7fNQIigYw
@@ -1097,7 +1095,6 @@
 857	Rootsman Town (feat. Capleton)	Arise Roots	Rootsman Town	INDIFFERENT	y164LJAA0Rs	MPREb_qOHQ3gGCIJO	UCFMWE-H1ihQD54MVFZRJKzQ
 856	Tempo	Anthony Red Rose	Red Rose Will Make You Dance	INDIFFERENT	eEp_sJZ85hU	MPREb_Qq5nRQJQ1uU	UC7aQp24La9_2y03mZcX9pZw
 478	Zion (feat. Keith Drumond)	Anthony Pure Silk Brightly (Sir George Lovers Rock)	Now and Then	INDIFFERENT	LBVwDO3j4xg	MPREb_yQS8kzb4InT	UCL-37zsLN_WoVPM51xZcVgw
-609	Amigo	Anthony Pure Silk Brightly (Sir George Lovers Rock)	Amigo	INDIFFERENT	nTgiEFpK-xA	MPREb_ZpbnMEif4Mi	UCL-37zsLN_WoVPM51xZcVgw
 990	Rasta Reggae Dub	Anthony Pure Silk Brightly (Sir George Lovers Rock)	Six Plus One	INDIFFERENT	kqdtOQwoH6k	MPREb_vmiw3reSUQy	UCL-37zsLN_WoVPM51xZcVgw
 206	I'm Coming Home	Anthony Johnson	Reggae Feelings	INDIFFERENT	rJQ-ZVE3-Z0	MPREb_Bf4Am52ZXPE	UCzfs52-7pEBfM4kDjlVrNqA
 606	Natty Dread Come In A Dance	Anthony Johnson	Reggae Feelings	INDIFFERENT	Yb0RZa9UH6E	MPREb_Bf4Am52ZXPE	UCzfs52-7pEBfM4kDjlVrNqA
@@ -1181,6 +1178,9 @@
 142	Zungguzungguguzunguzeng	Yellowman	Johnny Was Motion Picture Soundtrack, Vol. 2. (Reggae from the Film)		x419huvCKwA		
 598	Youths of Today	White Mice	True Love		_90IwvlQ4Xw		
 458	Stop Red Eye	Wailing Souls	On The Rocks		I1BDifMYQuM		
+386	Lazer Beaming	The Scientist	The Scientist Dub Landing		TOcw0Npc2-s		
+501	The Voodoo Curse	The Scientist	The Scientist Rids the World of the Evil Curse of The Intergalactic Vampire		_a2hM3vvnN4		
+1120	Babylonian	The Officials	Stand and Give Praise: Roots Reggae		hsxym1kopzg		
 1103	I Love You for All Seasons	The Fuzz	Sisters of Soul; the Sweeter Voices of Soul		13dmV62OHgE		
 743	Dark Clouds	Taj Weekes	Deidem		DiJ9nxsUpCM		
 824	Sunny	Skarra Mucci	The One Love Family		rJxj5cIkPeI		
@@ -1197,13 +1197,13 @@
 782	Tenement Yard (News Carrying Dread) (2015 Remix)	Inner Circle	Tenement Yard (News Carrying Dread) [feat. Chronixx, Jacob Miller]		6fMc9I983WU		
 813	Up Riddim Medley	Heavy Roots	Up Riddim		Pr6g51Wzalk		
 686	Nothing Can Stop Us	General Roots	Showcase		-lgtMQqzFfA		
-907	The Song of the Golden Dragon - Estas Tonne	Empty Artist	Empty Album		AUDU-C5KrBk		
+650	Congo Dread	Errol Holt	Congo Dread		c2b4QVndOsE		
 175	Playgirl	Dennis Brown	The Best of Dennis Brown, Parts 1 & 2		9AnMqImHZ7o		
-898	Peace, Love & Harmony	Culture	Nuff Crisis!		gk4ysvuTr_w		
 875	Rebirth	Cedric Im Brooks & the Light of Saba	The Magical Light of Saba		P1rhJdY-iDM		
 977	Sabebe	Cedric Im Brooks & the Light of Saba	The Magical Light of Saba		UoSegVOm_F4		
 1031	Words of Wisdom	Cedric Im Brooks & the Light of Saba	The Magical Light of Saba		VKMSDLW-nyM		
 315	Don’t Rock My Boat (Alternate Mix)	Bob Marley & The Wailers	"The Complete Lee ""Scratch"" Perry Sessions"		IzxKIHlcPBQ		
 1092	It Keeps Raining (Tears from My Eyes) [Live at Wembley]	Bitty McLean	Dancehall Generation		A7xhtSNHOcI		
 193	Girl I Love You	Barrington Levy	Original Songs, Vol.4 (Spécial)		L4mKXdnMGIE		
+609	Amigo	Anthony Pure Silk Brightly (Sir George Lovers Rock)	Amigo		nTgiEFpK-xA		
 658	Babylon	Al Campbell	Universal Love		QcYo3GbKuAg		
