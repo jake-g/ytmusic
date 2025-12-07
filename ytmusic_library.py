@@ -1189,8 +1189,9 @@ class YTMusicPlaylists:
             if 'playlists' in group:
                 _row['playlists'] = list(group['playlists'].values)
             return _row
+        # Updated to fix FutureWarning: added include_groups=False and removed .set_index('videoId')
         unique_tracks = pd.concat(all_tracks).groupby(
-            'videoId').apply(_merge_duplicates).set_index('videoId')
+            'videoId', include_groups=False).apply(_merge_duplicates)
         unique_tracks = unique_tracks.drop(track_remove_cols, axis=1)
         unique_tracks = unique_tracks.sort_values(
             ['likeStatus', 'artist'], ascending=False)
