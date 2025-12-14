@@ -420,6 +420,7 @@
 751	Leave Her Alone	Junior Kimbrough	Most Things Haven't Worked Out	LIKE	hADD2La6_fU	MPREb_Wmdln1ss0jl	UCMR1vd-SvlnAm-ZDeBYnomg
 755	I Cried Last Night	Junior Kimbrough	God Knows I Tried	LIKE	oZaEaTwgID4	MPREb_4LUSfQC8TBz	UCMR1vd-SvlnAm-ZDeBYnomg
 800	You Better Run	Junior Kimbrough	All Night Long	LIKE	6P7DxaaasxM	MPREb_BKhdWhE1LUf	UCMR1vd-SvlnAm-ZDeBYnomg
+813	Motherless Children	Josh White	Careless Love	LIKE	Zs16busArgc	MPREb_fK0ZRibElo5	UCASjaGfJBlxs2e_AneHqz9w
 737	Saint James Infirmary Blues	Jon Batiste	Hollywood Africans	LIKE	fCtpnw7tncs	MPREb_6EHdkOG7Fjb	UCfmY3B6qo4H_kj-bnCCZzLg
 545	Stealin'	Johnny Young	Chicago Blues	LIKE	-fOLPlSVKxE	MPREb_1slUEykvh0v	UCRBX7DuwOfFBoO7Zwnj1I_g
 467	Dallas	Johnny Winter	Johnny Winter	LIKE	bQj-NEXys_w	MPREb_JlwgBtiGMh1	UCdGP0Bisu7WfRtZdfuCqQdQ
@@ -709,7 +710,6 @@
 142	You Know I Love You	B.B. King	Singin' The Blues	LIKE	rFisqNhAf1I	MPREb_KxDH1hfwFll	UCqKrqzF3eX7R17m_MIMte4w
 170	To Know You Is To Love You	B.B. King	To Know You Is To Love You	LIKE	-9VQXP-vNl0	MPREb_ePdcZaQtzMI	UCqKrqzF3eX7R17m_MIMte4w
 195	Blues Man	B.B. King	Blues On The Bayou	LIKE	eDuKJhnF2oU	MPREb_YHXYHTaBFMS	UCqKrqzF3eX7R17m_MIMte4w
-201	The Thrill Is Gone	B.B. King	B.B. King Greatest Hits	LIKE	-p7F0f3Y0_w	MPREb_BseldnKt0uN	UCqKrqzF3eX7R17m_MIMte4w
 327	Catfish Blues	B.B. King	My Kind Of Blues	LIKE	m7JhW9gHe1M	MPREb_gA2KvYxwFWT	UCqKrqzF3eX7R17m_MIMte4w
 363	Blues Boys Tune	B.B. King	Blues On The Bayou	LIKE	29wMp2nnx_0	MPREb_YHXYHTaBFMS	UCqKrqzF3eX7R17m_MIMte4w
 515	How Blue Can You Get?	B.B. King	Live At The Regal	LIKE	5LSd1KO8a68	MPREb_gFzz85CI4I5	UCqKrqzF3eX7R17m_MIMte4w
@@ -781,7 +781,6 @@
 400	I Be's Troubled	Muddy Waters & Friends	Greatest Blues	INDIFFERENT	7OtpBeoNnAw	MPREb_YbnCWzxKFQC	UCZ5YpKcmxGptLgRRW8ujxHA
 47	You Gonna Miss Me When I'm Gone	Muddy Waters	Makin' the Grade	INDIFFERENT	ugs7Hy9s9-w	MPREb_5YqkD935mnQ	UCZ5YpKcmxGptLgRRW8ujxHA
 115	Rollin' Stone	Muddy Waters	Anthology	INDIFFERENT	1dUHX_TwPrk	MPREb_iTucbRVW0r1	UCZ5YpKcmxGptLgRRW8ujxHA
-246	Rock Me	Muddy Waters	Ready for the Blues	INDIFFERENT	u-tR9P252N8	MPREb_1r24DJojJUD	UCZ5YpKcmxGptLgRRW8ujxHA
 249	Empty Room Blues	Memphis Slim	The Ultimate Jazz Archive 14 1940 - 41 (1 Of 4)	INDIFFERENT	6MnL3QnR_14	MPREb_dzkFeixZYCe	UCppI7uxgMiE-9gntBeF67oA
 390	Mother Earth	Memphis Slim	The Best Of The Blues Vol. 1	INDIFFERENT	0wnzhf7yQow	MPREb_cBT6ze7b3Qq	UCppI7uxgMiE-9gntBeF67oA
 647	Key to the Highway	Little Walter and the Jukes	The Complete Checker Singles As & BS 1952-60	INDIFFERENT	rSMqqp5WHf4	MPREb_pbNT7RnkSIx	UCbqLmbib9h4U6y6ND1ZPSaw
@@ -801,6 +800,7 @@
 334	Junker Blues	Champion Jack Dupree	The Definitive R&B Series – 1941	INDIFFERENT	0IpvmGwiEEg	MPREb_SNkSxupO1Rq	UCjRMvVN_0wK2KFmIK9XCcVA
 486	Summertime	Billy Strings	Rock Of Ages	INDIFFERENT	YYz_Zw0RiQE	MPREb_q7GQo5XBxmx	UCgswh903MyFOXFEMA9lVUBg
 725	Strange Fruit	Billie Holiday & Her Orchestra	Billy Remembers Billie	INDIFFERENT	1YK1wjgkUgk	MPREb_dTQgUFEcwgb	UCW-raws5Iq2xLADkLcEoVaA
+201	The Thrill Is Gone	B.B. King and His Orchestra	Luminescence, Disc 2	INDIFFERENT	ArbNsIBQIR0	MPREb_yMD0dbP14IV	UCqKrqzF3eX7R17m_MIMte4w
 563	Rock Me Baby	B.B. King	Sweet Home Blues	INDIFFERENT	ZB5_ky9mXzE	MPREb_5t1Su0Ou2IK	UCqKrqzF3eX7R17m_MIMte4w
 708	Bad Luck Blues	Albert King	Murder In The First Degree	INDIFFERENT	4OL2ROV3eeY	MPREb_9oMvxb82df2	UC9XFvJIqt0duVgnlvkXBeKA
 714	Bitchin' Camaro	The Dead Milkmen	Big Lizard In My Back Yard		sDMSZVLbbwY		
@@ -808,6 +808,7 @@
 103	Hardtime Killing Floor Blues	Skip James	The Complete Greatest Of The Delta Blues Singers Recordings (Hd Remastered, Restored Edition, Doxy Collection)		Wp1hKpIKzNE		
 721	I've Got My Mojo Workin'	Muddy Waters & Little Walter	Muddy Waters Sings Delta Blues		EgpZrHbaRNQ		
 191	Got To Move	Mississippi Fred McDowell	Mississippi Fred McDowell		1FFg_iaV_I4		
+246	Rock Me	James Cotton & Muddy Waters	Mississippi Blues		lq6vNz5LYfs		
 164	Tell Me Man Blues	Henry Sims	Beautiful Blues Memories, Vol. 1		vQClDmtYBys		
 579	Maggot Brain (Bmg Dub)	Funkadelic	Reworked by Detroiters		ClmEPtClCDA		
 303	Soul Sauce	Danny Gatton	Danny Gatton Live in 1977 - The Humbler Stakes His Claim		L8VjAPbNSZg		
