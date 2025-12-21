@@ -40,12 +40,12 @@ Hip hop It Was a Good Day radio	Hip hop It Was a Good Day
 hiphop modern radio	hiphop modern
 hiphop old school radio	hiphop old school
 hiphop soul good vibe radio	hiphop soul good vibe
-Hiphop southeast Ride Around Shining radio	hiphop 2000s southern
+Hiphop southeast Ride Around Shining radio	Hip Hop 2000s southern
 Indie 1990s Rock radio	Indie 1990s Rock
 Indie 2000s radio	Indie 2000s
 Indie dark side radio	indie
 Indie Folk radio	indie folk
-Indie Hazy Summer radio	Indie Mellow
+Indie Hazy Summer radio	indie loose
 indie loose live chill radio	indie loose
 Indie radio	indie
 Instrumentals Acoustic radio	Instrumentals Acoustic
@@ -70,9 +70,9 @@ oldies Jukebox Vintage Party radio	oldies Jukebox Vintage Party
 Oldies radio	Oldies
 post rock slow core radio	post rock slow core
 Post-Punk 1970s-1980s radio	Post-Punk 1970s-1980s
-Produced by Dilla radio	Produced By Dilla
-Produced by DJ Premier radio	Produced by DJ Premier
-Produced by kanye radio	Produced by kanye
+Produced by Dilla radio	zp Dilla
+Produced by DJ Premier radio	zp DJ Premier
+Produced by kanye radio	zp kanye
 psych ish rock modern radio	psych ish rock modern
 psychedelic classic rock radio	psychedelic classic rock
 punk 1970s radio	punk 1970s
@@ -103,6 +103,7 @@ trip hop radio	trip hop
 triphop bristol sound radio	triphop bristol sound
 xr 2000smusic radio	xr 2000smusic
 xr 2010smusic radio	xr 2010smusic
+xr 2020smusic radio	xr 2020smusic
 xr 50sMusic radio	xr 50sMusic
 xr 60sMusic radio	xr 60sMusic
 xr 70sMusic radio	xr 70sMusic
@@ -112,15 +113,18 @@ xr 90sAlternative radio	xr 90sAlternative
 xr 90shiphop radio	Hip Hop 1990s
 xr 90sMusic radio	xr 90sMusic
 xr 90sPunk radio	xr 90sPunk
-xr 90sRock radio	xr 90sRock
+xr 90sRock radio	rock 1990s
+xr acidhouse radio	xr acidhouse
 xr AfricanMusic radio	xr AfricanMusic
 xr ambientmusic radio	ambient
+xr AtmosphericDnB radio	xr AtmosphericDnB
 xr bassheavy radio	xr bassheavy
 xr bluegrass radio	xr bluegrass
 xr blues radio	blues
 xr bluesrock radio	xr bluesrock
 xr chillmusic radio	xr chillmusic
 xr chillwave radio	xr chillwave
+xr ClassicRock radio	rock classic
 xr dancepunk radio	xr dancepunk
 xr deepcuts radio	xr deepcuts
 xr deephouse radio	electronic deep house
@@ -151,20 +155,25 @@ xr jazznoir radio	jazz noir
 xr jazzyhiphop radio	hiphop jazzy
 xr krautrock radio	rock krautrock
 xr MelancholyMusic radio	xr MelancholyMusic
+xr metal radio	xr metal
 xr minimal radio	xr minimal
-xr MusicToSleepTo radio	xr MusicToSleepTo
+xr MusicToSleepTo radio	ambient
 xr NewWave radio	Rock 1980s Pop New Wave
 xr nudisco radio	nudisco
 xr OldiesMusic radio	Oldies
 xr OldskoolRave radio	xr OldskoolRave
 xr OutlawCountry radio	xr OutlawCountry
+xr popheads radio	xr xr popheads
 xr PostRock radio	post rock slow core
+xr postpunk radio	Post-Punk 1970s-1980s
 xr PsychedelicRock radio	xr PsychedelicRock
 xr PunkRock radio	xr PunkRock
-xr rainymood radio	xr rainymood
+xr rainymood radio	ambient modern
 xr realdubstep radio	xr realdubstep
 xr reggae radio	Reggae
 xr Rock radio	xr Rock
+xr runningmusic radio	electronic Focus
+xr shoegaze radio	Shoegaze
 xr SoundsVintage radio	xr SoundsVintage
 xr stonerrock radio	xr stonerrock
 xr SurfPunk radio	xr SurfPunk
