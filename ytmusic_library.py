@@ -488,15 +488,21 @@ class YTMusicPlaylists:
 
     def parse_tracks(self, track_list):
         tracks = pd.DataFrame(track_list)
-        tracks['artistId'] = tracks['artists'].dropna().apply(
-            lambda x: x[0]['id'])  # TODO handle > 1 artist
-        tracks['artist'] = tracks['artists'].dropna().apply(
-            lambda x: x[0]['name'])
-        tracks['albumId'] = tracks['album'].dropna().apply(lambda x: x['id'])
-        tracks['album'] = tracks['album'].dropna().apply(lambda x: x['name'])
-        tracks = tracks.drop('thumbnails', axis=1)
-        tracks = tracks.drop('artists', axis=1)
-        return tracks
+        # Helper to handle missing objects (returns None if x is empty/None)
+        try:
+            # tracks['artist'] = tracks['artists'].apply(  # concat All artist 
+            #     lambda x: " & ".join([a['name'] for a in x]) if x else "")
+            tracks['artist'] = tracks['artists'].apply(  # get first artist 
+                lambda x: x[0].get('name') if x else None)  
+            tracks['artistId'] = tracks['artists'].apply(
+                lambda x: x[0].get('id') if x else None)
+            tracks['albumId'] = tracks['album'].apply(
+                lambda x: x.get('id') if x else None)
+            tracks['album'] = tracks['album'].apply(
+                lambda x: x.get('name') if x else "")
+        except Exception as e:
+            print(f"Metadata Parse Error: {e}")
+        return tracks.drop(columns=['thumbnails', 'artists'], errors='ignore')
 
     def parse_playlist(self, playlist_meta, verbose=False):
         playlist_meta.pop('thumbnails', None)
@@ -1155,8 +1161,9 @@ class YTMusicPlaylists:
                 all_playlist_info.append(metadata)
                 all_tracks.append(tracks)
                 if PLAYLIST_SLEEP:
-                  print(f'Sleeping {PLAYLIST_SLEEP} seconds')
-                  time.sleep(PLAYLIST_SLEEP)
+                  actual_sleep = PLAYLIST_SLEEP + random.uniform(-PLAYLIST_SLEEP, PLAYLIST_SLEEP) / 2
+                  print(f'Sleeping {actual_sleep:.1f} seconds.')
+                  time.sleep(actual_sleep)
                 print(90*'-')
             except Exception as e:
                 print(f'Error in playlist {i}: {e}')
@@ -1189,9 +1196,8 @@ class YTMusicPlaylists:
             if 'playlists' in group:
                 _row['playlists'] = list(group['playlists'].values)
             return _row
-        # Updated to fix FutureWarning: added include_groups=False and removed .set_index('videoId')
         unique_tracks = pd.concat(all_tracks).groupby(
-            'videoId', include_groups=False).apply(_merge_duplicates)
+            'videoId').apply(_merge_duplicates).set_index('videoId')
         unique_tracks = unique_tracks.drop(track_remove_cols, axis=1)
         unique_tracks = unique_tracks.sort_values(
             ['likeStatus', 'artist'], ascending=False)
@@ -1287,10 +1293,14 @@ class YTMusicPlaylists:
                 print(f'ERROR running: get_album(albumID)\n',
                       f'{e} for row: {track_str}')
                 return row
-            if len(album['artists']):
-                row['albumArtist'] = album['artists'][0]['name']
-            elif len(album['tracks']) and len(album['tracks'][0]['artists']):
-                row['albumArtist'] = album['tracks'][0]['artists'][0]['name']
+                      
+            # Get values or default to empty list if they are None
+            album_artists = album.get('artists') or []
+            album_tracks = album.get('tracks') or []
+            if len(album_artists):
+                row['albumArtist'] = album_artists[0]['name']
+            elif len(album_tracks) and len(album_tracks[0].get('artists') or []):
+                row['albumArtist'] = album_tracks[0]['artists'][0]['name']
             else:
                 print(f'\nERROR Failed: len(album["artists"])',
                       f'for album:  {track_str}')
@@ -1395,6 +1405,11 @@ class YTMusicPlaylists:
 
 if __name__ == "__main__":
     print('Running main ytmusic library backup task')
+    import ytmusicapi as yt
+    print("Pandas Version:", pd.__version__)
+    print("YTMusic Version:", yt.__version__)
+    print("Date:", DATE)
+           
     # TODO track each run in a log and perhaps have a run monthly that runs if 30 days haave past
     Y = YTMusicPlaylists(header=HEADER_FILE, playlist_tsv_dir=PLAYLIST_TSV_DIR)
     Y.run_backup(skip_playlist_tsv_backup=SKIP_PLAYLIST_BACKUP)
