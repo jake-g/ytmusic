@@ -1,0 +1,1580 @@
+C:\Users\jake\AppData\Local\Temp\ipykernel_10988\2754468531.py:22: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  passing_tracks['normalized_sub'] = passing_tracks['reddit_sub'].str.lower()
+Group '2000smusic' contains an already completed sub. Skipping.
+Group '2010smusic' contains an already completed sub. Skipping.
+Group '2020smusic' contains an already completed sub. Skipping.
+
+Processing 583 tracks for playlist: xr 50sMusic radio
+Updated 583 tracks in existing playlist with id: PLWptjpDqazOyfS8v9Aq1GUrzFYV6xhx2y
+Waiting 18 seconds...
+Radio playlist xr 50sMusic radio counters: {'removed_dislike': 22, 'moved_like': 4, 'removed_not_like': 41}
+Removed 63 NOT_LIKE entries from xr 50sMusic radio
+Group '50smusic' processing complete. Updated 'completed' list.
+
+Processing 808 tracks for playlist: xr 60sMusic radio
+Updated 808 tracks in existing playlist with id: PLWptjpDqazOwdPAucX6joHh2PlD8XIJom
+Waiting 19 seconds...
+Radio playlist xr 60sMusic radio counters: {'removed_dislike': 24, 'removed_not_like': 16}
+Removed 40 NOT_LIKE entries from xr 60sMusic radio
+Group '60smusic' processing complete. Updated 'completed' list.
+
+Processing 201 tracks for playlist: xr 70s radio
+Updated 201 tracks in existing playlist with id: PLWptjpDqazOzXgA3_FjuhVcLnYNpQEv93
+Waiting 22 seconds...
+Radio playlist xr 70s radio counters: {}
+Group '70s' processing complete. Updated 'completed' list.
+
+Processing 873 tracks for playlist: xr 70sMusic radio
+Updated 873 tracks in existing playlist with id: PLWptjpDqazOzBY8ZXXdtCf4qBJPrw6gzU
+Waiting 17 seconds...
+Radio playlist xr 70sMusic radio counters: {'removed_dislike': 18, 'removed_not_like': 16}
+Removed 34 NOT_LIKE entries from xr 70sMusic radio
+Group '70smusic' processing complete. Updated 'completed' list.
+
+Processing 379 tracks for playlist: xr 80sHipHop radio
+Updated 379 tracks in existing playlist with id: PLWptjpDqazOyKAKXdPbM_3VIngh4EN4Vx
+Waiting 16 seconds...
+Radio playlist xr 80sHipHop radio counters: {'moved_like': 4, 'removed_not_like': 3}
+Removed 3 NOT_LIKE entries from xr 80sHipHop radio
+Group '80shiphop' processing complete. Updated 'completed' list.
+
+Processing 682 tracks for playlist: xr 80sMusic radio
+Updated 682 tracks in existing playlist with id: PLWptjpDqazOyQojTD7kd02eUVoYEHKGew
+Waiting 22 seconds...
+Radio playlist xr 80sMusic radio counters: {'moved_like': 2, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr 80sMusic radio
+Group '80smusic' processing complete. Updated 'completed' list.
+
+Processing 998 tracks for playlist: xr 90sAlternative radio
+Updated 998 tracks in existing playlist with id: PLWptjpDqazOzLqT6_7y3lVte3MeYLFptb
+Waiting 25 seconds...
+Radio playlist xr 90sAlternative radio counters: {'moved_like': 2, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr 90sAlternative radio
+Group '90salternative' processing complete. Updated 'completed' list.
+
+Processing 80 tracks for playlist: xr 90shiphop radio
+Created new playlist with 80 tracks and id: PLWptjpDqazOyT-GX6YVNu8B3KvxmvAosO
+Waiting 18 seconds...
+Radio playlist xr 90shiphop radio counters: {'removed_dislike': 4, 'moved_like': 63, 'removed_not_like': 1}
+Moved 63 LIKE entries from xr 90shiphop radio to PLWptjpDqazOzHJ68aXZjPD7NWQUyz8MSs
+Removed 5 NOT_LIKE entries from xr 90shiphop radio
+Group '90shiphop' processing complete. Updated 'completed' list.
+
+Processing 873 tracks for playlist: xr 90sMusic radio
+Updated 873 tracks in existing playlist with id: PLWptjpDqazOxSkjANK2Sw-lpiK1TgEaWN
+Waiting 23 seconds...
+Radio playlist xr 90sMusic radio counters: {'moved_like': 6, 'removed_not_like': 4}
+Removed 4 NOT_LIKE entries from xr 90sMusic radio
+Group '90smusic' processing complete. Updated 'completed' list.
+
+Processing 495 tracks for playlist: xr 90sPunk radio
+Updated 495 tracks in existing playlist with id: PLWptjpDqazOw9jR4vJ4hxYjWSRcfKXDw2
+Waiting 18 seconds...
+Radio playlist xr 90sPunk radio counters: {}
+Group '90spunk' processing complete. Updated 'completed' list.
+
+Processing 353 tracks for playlist: xr 90sRock radio
+Created new playlist with 353 tracks and id: PLWptjpDqazOzV3olCSjGfe9Rg0nPNsQCn
+Waiting 18 seconds...
+Radio playlist xr 90sRock radio counters: {'removed_dislike': 14, 'moved_like': 270, 'removed_not_like': 13, 'like_and_not_like': 1}
+Moved 270 LIKE entries from xr 90sRock radio to PLWptjpDqazOxGLrsXrjSkxjLjbXSLOYyo
+Removed 27 NOT_LIKE entries from xr 90sRock radio
+Group '90srock' processing complete. Updated 'completed' list.
+
+Processing 61 tracks for playlist: xr acidhouse radio
+Created new playlist with 61 tracks and id: PLWptjpDqazOyX_1AnSpksWGwI9B5bNn7c
+Waiting 20 seconds...
+Radio playlist xr acidhouse radio counters: {'removed_dislike': 5, 'moved_like': 19, 'removed_not_like': 3}
+Moved 19 LIKE entries from xr acidhouse radio to PLWptjpDqazOxMwX0OKw8q1P9qp5GOXOhQ
+Removed 8 NOT_LIKE entries from xr acidhouse radio
+Group 'acidhouse' processing complete. Updated 'completed' list.
+
+Processing 448 tracks for playlist: xr AfricanMusic radio
+Updated 448 tracks in existing playlist with id: PLWptjpDqazOzcxA9MVJ0Q4N2E3cCn7yAq
+Waiting 21 seconds...
+Radio playlist xr AfricanMusic radio counters: {'moved_like': 2, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr AfricanMusic radio
+Group 'africanmusic' processing complete. Updated 'completed' list.
+
+Processing 129 tracks for playlist: xr afrobeat radio
+Created new playlist with 129 tracks and id: PLWptjpDqazOyLNlaElW4AI36alsyfCfDp
+Waiting 24 seconds...
+Radio playlist xr afrobeat radio counters: {'moved_like': 10}
+Group 'afrobeat' processing complete. Updated 'completed' list.
+
+Processing 78 tracks for playlist: xr afropop radio
+Created new playlist with 78 tracks and id: PLWptjpDqazOxLTMTlz7_ZY1Sfkp6HqnSR
+Waiting 24 seconds...
+Radio playlist xr afropop radio counters: {}
+Group 'afropop' processing complete. Updated 'completed' list.
+
+Processing 16 tracks for playlist: xr aggrotech radio
+Created new playlist with 16 tracks and id: PLWptjpDqazOzKDyuvh9pjhl77ay2JuUmp
+Waiting 24 seconds...
+Radio playlist xr aggrotech radio counters: {}
+Group 'aggrotech' processing complete. Updated 'completed' list.
+
+Processing 337 tracks for playlist: xr altcountry radio
+Updated 337 tracks in existing playlist with id: PLWptjpDqazOxxnGNkBOPGoOwvfjma2xQ2
+Waiting 23 seconds...
+Radio playlist xr altcountry radio counters: {'moved_like': 13, 'removed_not_like': 7}
+Moved 13 LIKE entries from xr altcountry radio to PLWptjpDqazOzPFboSMDGDiilsvT6-BDFH
+Removed 7 NOT_LIKE entries from xr altcountry radio
+Group 'altcountry' processing complete. Updated 'completed' list.
+
+Processing 20 tracks for playlist: xr alternativerock radio
+Created new playlist with 20 tracks and id: PLWptjpDqazOyhFbF74xwac_cS1a5zZ9D2
+Waiting 20 seconds...
+Radio playlist xr alternativerock radio counters: {'moved_like': 3}
+Group 'alternativerock' processing complete. Updated 'completed' list.
+
+Processing 390 tracks for playlist: xr ambientmusic radio
+Updated 390 tracks in existing playlist with id: PLWptjpDqazOzr_Rzrf_YuoCJ6gSUo8XMl
+Waiting 18 seconds...
+Radio playlist xr ambientmusic radio counters: {}
+Group 'ambientmusic' processing complete. Updated 'completed' list.
+
+Processing 12 tracks for playlist: xr americana radio
+Created new playlist with 12 tracks and id: PLWptjpDqazOyX4-j5mmrXcu63j-p9oU7p
+Waiting 21 seconds...
+Radio playlist xr americana radio counters: {'moved_like': 1}
+Group 'americana' processing complete. Updated 'completed' list.
+
+Processing 376 tracks for playlist: xr animemusic radio
+Updated 376 tracks in existing playlist with id: PLWptjpDqazOwZNNekJbgJ-HqyqpQQoUho
+Waiting 22 seconds...
+Radio playlist xr animemusic radio counters: {'moved_like': 2}
+Group 'animemusic' processing complete. Updated 'completed' list.
+
+Processing 9 tracks for playlist: xr artpop radio
+Created new playlist with 9 tracks and id: PLWptjpDqazOyhOSc_hx008pYOYMPlnZ-b
+Waiting 18 seconds...
+Radio playlist xr artpop radio counters: {'moved_like': 2}
+Group 'artpop' processing complete. Updated 'completed' list.
+
+Processing 468 tracks for playlist: xr AtmosphericDnB radio
+Updated 468 tracks in existing playlist with id: PLWptjpDqazOynq1A8bHt4b6hulIR5G9i0
+Waiting 23 seconds...
+Radio playlist xr AtmosphericDnB radio counters: {'moved_like': 1}
+Group 'atmosphericdnb' processing complete. Updated 'completed' list.
+
+Processing 186 tracks for playlist: xr baroque radio
+Updated 186 tracks in existing playlist with id: PLWptjpDqazOxAFEft4QAXkSrxiEiYLyIl
+Waiting 20 seconds...
+Radio playlist xr baroque radio counters: {}
+Group 'baroque' processing complete. Updated 'completed' list.
+
+Processing 507 tracks for playlist: xr bassheavy radio
+Updated 507 tracks in existing playlist with id: PLWptjpDqazOwS3jhWJTgultPAxFuZ7V5G
+Waiting 23 seconds...
+Radio playlist xr bassheavy radio counters: {'moved_like': 5, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr bassheavy radio
+Group 'bassheavy' processing complete. Updated 'completed' list.
+
+Processing 34 tracks for playlist: xr bedroompop radio
+Created new playlist with 34 tracks and id: PLWptjpDqazOwbOYQE597z_Rn7JfZVIZjS
+Waiting 21 seconds...
+Radio playlist xr bedroompop radio counters: {}
+Group 'bedroompop' processing complete. Updated 'completed' list.
+
+Processing 65 tracks for playlist: xr bigband radio
+Created new playlist with 65 tracks and id: PLWptjpDqazOzEYqU0VkA-ofcWZ8jpO9bX
+Waiting 22 seconds...
+Radio playlist xr bigband radio counters: {'moved_like': 7}
+Group 'bigband' processing complete. Updated 'completed' list.
+
+Processing 9 tracks for playlist: xr bigbeat radio
+Created new playlist with 9 tracks and id: PLWptjpDqazOzaEFWDxpiCUdCQqDcPK2s5
+Waiting 22 seconds...
+Radio playlist xr bigbeat radio counters: {}
+Group 'bigbeat' processing complete. Updated 'completed' list.
+
+Processing 31 tracks for playlist: xr BinauralMusic radio
+Created new playlist with 31 tracks and id: PLWptjpDqazOwg0uL9JgZpUWJK58HlV7_E
+Waiting 24 seconds...
+Radio playlist xr BinauralMusic radio counters: {'moved_like': 6}
+Group 'binauralmusic' processing complete. Updated 'completed' list.
+
+Processing 60 tracks for playlist: xr blackmetal radio
+Created new playlist with 60 tracks and id: PLWptjpDqazOw8Qib1HCNrnKY3RFigy9qK
+Waiting 19 seconds...
+Radio playlist xr blackmetal radio counters: {'moved_like': 1}
+Group 'blackmetal' processing complete. Updated 'completed' list.
+
+Processing 214 tracks for playlist: xr bluegrass radio
+Created new playlist with 214 tracks and id: PLWptjpDqazOwtRi1RNDc1LXZf0yJVsGHV
+Waiting 18 seconds...
+Radio playlist xr bluegrass radio counters: {'removed_dislike': 2, 'moved_like': 87, 'removed_not_like': 6}
+Moved 87 LIKE entries from xr bluegrass radio to PLWptjpDqazOzBK51Cor30APg41mvf5CqM
+Removed 8 NOT_LIKE entries from xr bluegrass radio
+Group 'bluegrass' processing complete. Updated 'completed' list.
+
+Processing 190 tracks for playlist: xr blues radio
+Created new playlist with 190 tracks and id: PLWptjpDqazOz_1V_OOQ4j2rtWomWsQuYM
+Waiting 25 seconds...
+Radio playlist xr blues radio counters: {'removed_dislike': 5, 'moved_like': 109, 'removed_not_like': 2}
+Moved 109 LIKE entries from xr blues radio to PLWptjpDqazOywwzZn-tkczbidWrMVG8_o
+Removed 7 NOT_LIKE entries from xr blues radio
+Group 'blues' processing complete. Updated 'completed' list.
+
+Processing 821 tracks for playlist: xr bluesrock radio
+Updated 821 tracks in existing playlist with id: PLWptjpDqazOwnAYyq67dIxm3lf7q1vCux
+Waiting 25 seconds...
+Radio playlist xr bluesrock radio counters: {'moved_like': 27, 'removed_not_like': 5}
+Moved 27 LIKE entries from xr bluesrock radio to PLWptjpDqazOyRAC1qj8EyV15i1AtcCRIa
+Removed 5 NOT_LIKE entries from xr bluesrock radio
+Group 'bluesrock' processing complete. Updated 'completed' list.
+
+Processing 312 tracks for playlist: xr bossanova radio
+Updated 312 tracks in existing playlist with id: PLWptjpDqazOxe2mF-p9pVygevJQ_JmYZ2
+Waiting 17 seconds...
+Radio playlist xr bossanova radio counters: {}
+Group 'bossanova' processing complete. Updated 'completed' list.
+
+Processing 24 tracks for playlist: xr boybands radio
+Created new playlist with 24 tracks and id: PLWptjpDqazOxbogve2HizBRvTjN-2Qaj5
+Waiting 21 seconds...
+Radio playlist xr boybands radio counters: {'moved_like': 2}
+Group 'boybands' processing complete. Updated 'completed' list.
+
+Processing 123 tracks for playlist: xr brazilianmusic radio
+Created new playlist with 123 tracks and id: PLWptjpDqazOyhEW7o45qjxJG1HzAs-HF_
+Waiting 16 seconds...
+Radio playlist xr brazilianmusic radio counters: {'moved_like': 6}
+Group 'brazilianmusic' processing complete. Updated 'completed' list.
+
+Processing 22 tracks for playlist: xr breakbeat radio
+Created new playlist with 22 tracks and id: PLWptjpDqazOyDB5GF9KLGblOTWQhe5MLK
+Waiting 16 seconds...
+Radio playlist xr breakbeat radio counters: {'moved_like': 2}
+Group 'breakbeat' processing complete. Updated 'completed' list.
+
+Processing 16 tracks for playlist: xr britpop radio
+Created new playlist with 16 tracks and id: PLWptjpDqazOzUKQ4CA6KhXjZc-hzUSLcG
+Waiting 17 seconds...
+Radio playlist xr britpop radio counters: {'moved_like': 4}
+Group 'britpop' processing complete. Updated 'completed' list.
+
+Processing 92 tracks for playlist: xr brostep radio
+Created new playlist with 92 tracks and id: PLWptjpDqazOyaaJ3At2iIxpwAKpHjo8pd
+Waiting 25 seconds...
+Radio playlist xr brostep radio counters: {}
+Group 'brostep' processing complete. Updated 'completed' list.
+
+Processing 1 tracks for playlist: xr burial radio
+Created new playlist with 1 tracks and id: PLWptjpDqazOywU5W3G4j9X6SAtkHennzK
+Waiting 20 seconds...
+Radio playlist xr burial radio counters: {}
+Group 'burial' processing complete. Updated 'completed' list.
+
+Processing 69 tracks for playlist: xr celticpunk radio
+Created new playlist with 69 tracks and id: PLWptjpDqazOwrY-pP5Qd68LHhcq91qC-e
+Waiting 20 seconds...
+Radio playlist xr celticpunk radio counters: {}
+Group 'celticpunk' processing complete. Updated 'completed' list.
+
+Processing 47 tracks for playlist: xr chicagohouse radio
+Updated 47 tracks in existing playlist with id: PLWptjpDqazOzwOd5TBZvCFqkwH5hcuMbu
+Waiting 16 seconds...
+Radio playlist xr chicagohouse radio counters: {'moved_like': 10}
+Group 'chicagohouse' processing complete. Updated 'completed' list.
+
+Processing 256 tracks for playlist: xr chillmusic radio
+Updated 256 tracks in existing playlist with id: PLWptjpDqazOxNK0_Dt9ijVP9RJZMM_Gd9
+Waiting 23 seconds...
+Radio playlist xr chillmusic radio counters: {'moved_like': 5}
+Group 'chillmusic' processing complete. Updated 'completed' list.
+
+Processing 166 tracks for playlist: xr chillwave radio
+Updated 166 tracks in existing playlist with id: PLWptjpDqazOyJaaVBBVPVQvfnzOpFFYd9
+Waiting 17 seconds...
+Radio playlist xr chillwave radio counters: {'moved_like': 2}
+Group 'chillwave' processing complete. Updated 'completed' list.
+
+Processing 44 tracks for playlist: xr choralmusic radio
+Created new playlist with 44 tracks and id: PLWptjpDqazOzHJTYUkpPkF3WMX0n-8sj7
+Waiting 23 seconds...
+Radio playlist xr choralmusic radio counters: {'moved_like': 1}
+Group 'choralmusic' processing complete. Updated 'completed' list.
+
+Processing 177 tracks for playlist: xr ClassicRock radio
+Created new playlist with 177 tracks and id: PLWptjpDqazOw7btkOOFRfUcv7Xjgrx_vI
+Waiting 21 seconds...
+Radio playlist xr ClassicRock radio counters: {'removed_dislike': 2, 'moved_like': 156, 'removed_not_like': 3}
+Created LIKE playlist for xr ClassicRock radio: xr ClassicRock
+Moved 156 LIKE entries from xr ClassicRock radio to PLWptjpDqazOzGXjpIIRHiKvS-ZYSuNThE
+Removed 5 NOT_LIKE entries from xr ClassicRock radio
+Group 'classicrock' processing complete. Updated 'completed' list.
+
+Processing 7 tracks for playlist: xr codingmusic radio
+Created new playlist with 7 tracks and id: PLWptjpDqazOx4-rYM5vKY0TPcct9ICbhi
+Waiting 25 seconds...
+Radio playlist xr codingmusic radio counters: {}
+Group 'codingmusic' processing complete. Updated 'completed' list.
+
+Processing 5 tracks for playlist: xr coldwave radio
+Created new playlist with 5 tracks and id: PLWptjpDqazOyT8qVNXCMfik0bLX54y2iF
+Waiting 18 seconds...
+Radio playlist xr coldwave radio counters: {'moved_like': 1}
+Group 'coldwave' processing complete. Updated 'completed' list.
+
+Processing 80 tracks for playlist: xr complextro radio
+Created new playlist with 80 tracks and id: PLWptjpDqazOwfxHwRllkhiBGi_dwpTZQe
+Waiting 19 seconds...
+Radio playlist xr complextro radio counters: {'removed_dislike': 1}
+Removed 1 DISLIKE entries from xr complextro radio
+Group 'complextro' processing complete. Updated 'completed' list.
+
+Processing 71 tracks for playlist: xr contemporary radio
+Created new playlist with 71 tracks and id: PLWptjpDqazOxN9FUWDfbC3wbRLcqyeEW4
+Waiting 20 seconds...
+Radio playlist xr contemporary radio counters: {}
+Group 'contemporary' processing complete. Updated 'completed' list.
+
+Processing 5 tracks for playlist: xr cpop radio
+Created new playlist with 5 tracks and id: PLWptjpDqazOyClsiETeDg7ducoOiBeZzp
+Waiting 24 seconds...
+Radio playlist xr cpop radio counters: {}
+Group 'cpop' processing complete. Updated 'completed' list.
+
+Processing 97 tracks for playlist: xr cyberpunk-music radio
+Created new playlist with 97 tracks and id: PLWptjpDqazOxQjgbalVEjSNchjOGMYZbB
+Waiting 20 seconds...
+Radio playlist xr cyberpunk-music radio counters: {'removed_dislike': 1, 'moved_like': 8}
+Removed 1 DISLIKE entries from xr cyberpunk-music radio
+Group 'cyberpunk-music' processing complete. Updated 'completed' list.
+
+Processing 14 tracks for playlist: xr dancehall radio
+Created new playlist with 14 tracks and id: PLWptjpDqazOz8hPZDgxteztplgMZQN85R
+Waiting 24 seconds...
+Radio playlist xr dancehall radio counters: {'moved_like': 1}
+Group 'dancehall' processing complete. Updated 'completed' list.
+
+Processing 60 tracks for playlist: xr dancepunk radio
+Created new playlist with 60 tracks and id: PLWptjpDqazOwyUnjFFZXy8Hqb8xUe9aLj
+Waiting 22 seconds...
+Radio playlist xr dancepunk radio counters: {'removed_dislike': 10, 'moved_like': 31, 'removed_not_like': 11}
+Moved 31 LIKE entries from xr dancepunk radio to PLWptjpDqazOzGvfDplNzfUaqG18n7NqjD
+Removed 21 NOT_LIKE entries from xr dancepunk radio
+Group 'dancepunk' processing complete. Updated 'completed' list.
+
+Processing 64 tracks for playlist: xr darkjazz radio
+Created new playlist with 64 tracks and id: PLWptjpDqazOwswjQ8WLlW2a5LXTzkZPZ4
+Waiting 22 seconds...
+Radio playlist xr darkjazz radio counters: {'moved_like': 17}
+Created LIKE playlist for xr darkjazz radio: xr darkjazz
+Moved 17 LIKE entries from xr darkjazz radio to PLWptjpDqazOz4VTtfyBkzXZ049EIDAc2c
+Group 'darkjazz' processing complete. Updated 'completed' list.
+
+Processing 24 tracks for playlist: xr darkwave radio
+Created new playlist with 24 tracks and id: PLWptjpDqazOzOh8hE-Df9_oH6RIK7utEk
+Waiting 20 seconds...
+Radio playlist xr darkwave radio counters: {'moved_like': 2}
+Group 'darkwave' processing complete. Updated 'completed' list.
+
+Processing 11 tracks for playlist: xr deathcore radio
+Created new playlist with 11 tracks and id: PLWptjpDqazOzRGpmlwq7256beFxssFQQm
+Waiting 25 seconds...
+Radio playlist xr deathcore radio counters: {}
+Group 'deathcore' processing complete. Updated 'completed' list.
+
+Processing 120 tracks for playlist: xr deathmetal radio
+Created new playlist with 120 tracks and id: PLWptjpDqazOwO_Zo0i_4WVyrvNt9RijLa
+Waiting 20 seconds...
+Radio playlist xr deathmetal radio counters: {}
+Group 'deathmetal' processing complete. Updated 'completed' list.
+
+Processing 242 tracks for playlist: xr deepcuts radio
+Created new playlist with 242 tracks and id: PLWptjpDqazOzLeFOtVyv7xkiiqbBTQyII
+Waiting 19 seconds...
+Radio playlist xr deepcuts radio counters: {'removed_dislike': 2, 'moved_like': 123}
+Moved 123 LIKE entries from xr deepcuts radio to PLWptjpDqazOznA53pIVMHv9rWDerijlgt
+Removed 2 DISLIKE entries from xr deepcuts radio
+Group 'deepcuts' processing complete. Updated 'completed' list.
+
+Processing 1352 tracks for playlist: xr deephouse radio
+Updated 1352 tracks in existing playlist with id: PLWptjpDqazOzYSVHOH6103EV9A-xp9PaJ
+Waiting 21 seconds...
+Radio playlist xr deephouse radio counters: {'moved_like': 5, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr deephouse radio
+Group 'deephouse' processing complete. Updated 'completed' list.
+
+Processing 29 tracks for playlist: xr desertblues radio
+Created new playlist with 29 tracks and id: PLWptjpDqazOy3aLPuNQIKGfJtqCOZuCJy
+Waiting 24 seconds...
+Radio playlist xr desertblues radio counters: {'moved_like': 1}
+Group 'desertblues' processing complete. Updated 'completed' list.
+
+Processing 987 tracks for playlist: xr disco radio
+Updated 987 tracks in existing playlist with id: PLWptjpDqazOy5cXW_SA9k-INzanG6N8JG
+Waiting 21 seconds...
+Radio playlist xr disco radio counters: {'moved_like': 12, 'removed_not_like': 1}
+Moved 12 LIKE entries from xr disco radio to PLWptjpDqazOzD0k8DzLvbR3s5dGVAzSoO
+Removed 1 NOT_LIKE entries from xr disco radio
+Group 'disco' processing complete. Updated 'completed' list.
+
+Processing 2 tracks for playlist: xr djent radio
+Created new playlist with 2 tracks and id: PLWptjpDqazOzifK3Qag9su6cCZO0JMaFq
+Waiting 25 seconds...
+Radio playlist xr djent radio counters: {}
+Group 'djent' processing complete. Updated 'completed' list.
+
+Processing 3 tracks for playlist: xr dnb radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOzz_nu0ZkBLhZs_lw9k5IyE
+Waiting 20 seconds...
+Radio playlist xr dnb radio counters: {}
+Group 'dnb' processing complete. Updated 'completed' list.
+
+Processing 90 tracks for playlist: xr DoomMetal radio
+Updated 90 tracks in existing playlist with id: PLWptjpDqazOwCR-iB-2uRFyYAefCGwwA8
+Waiting 25 seconds...
+Radio playlist xr DoomMetal radio counters: {'moved_like': 9}
+Group 'doommetal' processing complete. Updated 'completed' list.
+
+Processing 131 tracks for playlist: xr downtempo radio
+Created new playlist with 131 tracks and id: PLWptjpDqazOyCoplKHb3_uIKqXWnDNSZ0
+Waiting 16 seconds...
+Radio playlist xr downtempo radio counters: {'moved_like': 9}
+Group 'downtempo' processing complete. Updated 'completed' list.
+
+Processing 1002 tracks for playlist: xr DreamPop radio
+Updated 1002 tracks in existing playlist with id: PLWptjpDqazOzTmTFu__bQXSk77MGqE4jE
+Waiting 22 seconds...
+Radio playlist xr DreamPop radio counters: {'moved_like': 7, 'removed_not_like': 3}
+Removed 3 NOT_LIKE entries from xr DreamPop radio
+Group 'dreampop' processing complete. Updated 'completed' list.
+
+Processing 490 tracks for playlist: xr dub radio
+Updated 490 tracks in existing playlist with id: PLWptjpDqazOwYsCElIZjB0xDNISxWV0Uo
+Waiting 23 seconds...
+Radio playlist xr dub radio counters: {'moved_like': 2}
+Group 'dub' processing complete. Updated 'completed' list.
+
+Processing 13 tracks for playlist: xr dubstep radio
+Created new playlist with 13 tracks and id: PLWptjpDqazOyDwn0EVMKZv3tnfTWRcAhi
+Waiting 16 seconds...
+Radio playlist xr dubstep radio counters: {}
+Group 'dubstep' processing complete. Updated 'completed' list.
+
+Processing 25 tracks for playlist: xr dubtechno radio
+Created new playlist with 25 tracks and id: PLWptjpDqazOxlekzaH0s1kBmoDYwfd_to
+Waiting 17 seconds...
+Radio playlist xr dubtechno radio counters: {'moved_like': 1}
+Group 'dubtechno' processing complete. Updated 'completed' list.
+
+Processing 115 tracks for playlist: xr earlymusic radio
+Created new playlist with 115 tracks and id: PLWptjpDqazOxKIR0H7XI2WJX93ETUK19B
+Waiting 21 seconds...
+Radio playlist xr earlymusic radio counters: {}
+Group 'earlymusic' processing complete. Updated 'completed' list.
+
+Processing 57 tracks for playlist: xr ebm radio
+Created new playlist with 57 tracks and id: PLWptjpDqazOwpHlxWPJr_L2AA2AZJMBZL
+Waiting 25 seconds...
+Radio playlist xr ebm radio counters: {}
+Group 'ebm' processing complete. Updated 'completed' list.
+
+Processing 836 tracks for playlist: xr ElectronicMusic radio
+Updated 836 tracks in existing playlist with id: PLWptjpDqazOwE5TEpQXQW66bD8p-yUaAu
+Waiting 21 seconds...
+Radio playlist xr ElectronicMusic radio counters: {'moved_like': 8, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr ElectronicMusic radio
+Group 'electronicmusic' processing complete. Updated 'completed' list.
+
+Processing 40 tracks for playlist: xr electroswing radio
+Created new playlist with 40 tracks and id: PLWptjpDqazOx_93U_FXSJ9KiRZ7PfVtxk
+Waiting 16 seconds...
+Radio playlist xr electroswing radio counters: {}
+Group 'electroswing' processing complete. Updated 'completed' list.
+
+Processing 79 tracks for playlist: xr Elephant6 radio
+Created new playlist with 79 tracks and id: PLWptjpDqazOyddeiqM76mQJPMC57rRPH9
+Waiting 19 seconds...
+Radio playlist xr Elephant6 radio counters: {'removed_dislike': 2, 'moved_like': 36}
+Moved 36 LIKE entries from xr Elephant6 radio to PLWptjpDqazOyL3pzna7RXkF5mvWXudVJL
+Removed 2 DISLIKE entries from xr Elephant6 radio
+Group 'elephant6' processing complete. Updated 'completed' list.
+
+Processing 188 tracks for playlist: xr elitistclassical radio
+Created new playlist with 188 tracks and id: PLWptjpDqazOyetngsnZ2VzowlZXxukoND
+Waiting 20 seconds...
+Radio playlist xr elitistclassical radio counters: {'moved_like': 1}
+Group 'elitistclassical' processing complete. Updated 'completed' list.
+
+Processing 205 tracks for playlist: xr Exotica radio
+Updated 205 tracks in existing playlist with id: PLWptjpDqazOysI2Dp5IgFhSX_gizA5Oi1
+Waiting 22 seconds...
+Radio playlist xr Exotica radio counters: {}
+Group 'exotica' processing complete. Updated 'completed' list.
+
+Processing 109 tracks for playlist: xr Flamenco radio
+Updated 109 tracks in existing playlist with id: PLWptjpDqazOyJkJt8JG3n_P0RvOszNdwN
+Waiting 17 seconds...
+Radio playlist xr Flamenco radio counters: {}
+Group 'flamenco' processing complete. Updated 'completed' list.
+
+Processing 899 tracks for playlist: xr folk radio
+Updated 899 tracks in existing playlist with id: PLWptjpDqazOwcPKRIg6bEaleqfh5UtDJ1
+Waiting 23 seconds...
+Radio playlist xr folk radio counters: {'moved_like': 4, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr folk radio
+Group 'folk' processing complete. Updated 'completed' list.
+
+Processing 63 tracks for playlist: xr folkmetal radio
+Created new playlist with 63 tracks and id: PLWptjpDqazOx4F25KUaLQpN831fIBXlrW
+Waiting 20 seconds...
+Radio playlist xr folkmetal radio counters: {}
+Group 'folkmetal' processing complete. Updated 'completed' list.
+
+Processing 34 tracks for playlist: xr freejazz radio
+Created new playlist with 34 tracks and id: PLWptjpDqazOw28BZJvbzlS4gzw5e1xBSL
+Waiting 25 seconds...
+Radio playlist xr freejazz radio counters: {'moved_like': 1}
+Group 'freejazz' processing complete. Updated 'completed' list.
+
+Processing 450 tracks for playlist: xr frenchhouse radio
+Updated 450 tracks in existing playlist with id: PLWptjpDqazOzRXIss04WGoSLyXx5kKVsh
+Waiting 17 seconds...
+Radio playlist xr frenchhouse radio counters: {'moved_like': 8, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr frenchhouse radio
+Group 'frenchhouse' processing complete. Updated 'completed' list.
+
+Processing 22 tracks for playlist: xr frenchrap radio
+Created new playlist with 22 tracks and id: PLWptjpDqazOxtcczaOm8neZjy2RfyFWfl
+Waiting 20 seconds...
+Radio playlist xr frenchrap radio counters: {}
+Group 'frenchrap' processing complete. Updated 'completed' list.
+
+Processing 44 tracks for playlist: xr frisson radio
+Created new playlist with 44 tracks and id: PLWptjpDqazOzZWeXU9wroauyqrzaP5Os4
+Waiting 23 seconds...
+Radio playlist xr frisson radio counters: {'removed_dislike': 1, 'moved_like': 3}
+Removed 1 DISLIKE entries from xr frisson radio
+Group 'frisson' processing complete. Updated 'completed' list.
+
+Processing 249 tracks for playlist: xr funkhouse radio
+Updated 249 tracks in existing playlist with id: PLWptjpDqazOyXxRd9Glpqo3_iuuqc_PiA
+Waiting 25 seconds...
+Radio playlist xr funkhouse radio counters: {}
+Group 'funkhouse' processing complete. Updated 'completed' list.
+
+Processing 142 tracks for playlist: xr FunkSouMusic radio
+Created new playlist with 142 tracks and id: PLWptjpDqazOxm6QYCB-kJUtPXxFyKwZJz
+Waiting 23 seconds...
+Radio playlist xr FunkSouMusic radio counters: {'removed_dislike': 8, 'moved_like': 84, 'removed_not_like': 21, 'like_and_not_like': 1}
+Created LIKE playlist for xr FunkSouMusic radio: xr FunkSouMusic
+Moved 84 LIKE entries from xr FunkSouMusic radio to PLWptjpDqazOx0QSdQoDbUnsaSmBnd6i8u
+Removed 29 NOT_LIKE entries from xr FunkSouMusic radio
+Group 'funksoumusic' processing complete. Updated 'completed' list.
+
+Processing 208 tracks for playlist: xr futurebass radio
+Updated 208 tracks in existing playlist with id: PLWptjpDqazOwAcQrN21RqGh0qU6Brcs5P
+Waiting 20 seconds...
+Radio playlist xr futurebass radio counters: {'moved_like': 9, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr futurebass radio
+Group 'futurebass' processing complete. Updated 'completed' list.
+
+Processing 504 tracks for playlist: xr futurebeats radio
+Updated 504 tracks in existing playlist with id: PLWptjpDqazOwsugDsy6eUD8f1O4TzEle5
+Waiting 18 seconds...
+Radio playlist xr futurebeats radio counters: {'moved_like': 7, 'removed_not_like': 5}
+Removed 5 NOT_LIKE entries from xr futurebeats radio
+Group 'futurebeats' processing complete. Updated 'completed' list.
+
+Processing 213 tracks for playlist: xr futuregarage radio
+Updated 213 tracks in existing playlist with id: PLWptjpDqazOzVgfG-osD5Bnf2tXNOlA_j
+Waiting 22 seconds...
+Radio playlist xr futuregarage radio counters: {'moved_like': 9, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr futuregarage radio
+Group 'futuregarage' processing complete. Updated 'completed' list.
+
+Processing 820 tracks for playlist: xr futuresynth radio
+Updated 820 tracks in existing playlist with id: PLWptjpDqazOwmyH_k1wyP2jrAqndbv4El
+Waiting 16 seconds...
+Radio playlist xr futuresynth radio counters: {'moved_like': 1, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr futuresynth radio
+Group 'futuresynth' processing complete. Updated 'completed' list.
+
+Processing 27 tracks for playlist: xr gamemusic radio
+Created new playlist with 27 tracks and id: PLWptjpDqazOyYqtWSh1_cyv_IDFvs8KS7
+Waiting 19 seconds...
+Radio playlist xr gamemusic radio counters: {}
+Group 'gamemusic' processing complete. Updated 'completed' list.
+
+Processing 56 tracks for playlist: xr garagepunk radio
+Created new playlist with 56 tracks and id: PLWptjpDqazOwn3gIXxATXcdT0CGQIRF34
+Waiting 19 seconds...
+Radio playlist xr garagepunk radio counters: {'moved_like': 12}
+Created LIKE playlist for xr garagepunk radio: xr garagepunk
+Moved 12 LIKE entries from xr garagepunk radio to PLWptjpDqazOwVcxxprjm1rKbttzSn8lMv
+Group 'garagepunk' processing complete. Updated 'completed' list.
+
+Processing 26 tracks for playlist: xr garagerock radio
+Created new playlist with 26 tracks and id: PLWptjpDqazOz5-GVwJdilWean2SCTNdNa
+Waiting 24 seconds...
+Radio playlist xr garagerock radio counters: {'moved_like': 5}
+Group 'garagerock' processing complete. Updated 'completed' list.
+
+Processing 3 tracks for playlist: xr germanrap radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOxT71PZ4LuukoOG7aroS-3a
+Waiting 20 seconds...
+Radio playlist xr germanrap radio counters: {}
+Group 'germanrap' processing complete. Updated 'completed' list.
+
+Processing 30 tracks for playlist: xr Gfunk radio
+Created new playlist with 30 tracks and id: PLWptjpDqazOwTcxIYfy8ZStYOCQ6VMqu5
+Waiting 16 seconds...
+Radio playlist xr Gfunk radio counters: {'removed_dislike': 1, 'moved_like': 21, 'removed_not_like': 1}
+Created LIKE playlist for xr Gfunk radio: xr Gfunk
+Moved 21 LIKE entries from xr Gfunk radio to PLWptjpDqazOyJwU9Kist2w-m0dZFY5GFf
+Removed 2 NOT_LIKE entries from xr Gfunk radio
+Group 'gfunk' processing complete. Updated 'completed' list.
+
+Processing 61 tracks for playlist: xr glitchhop radio
+Created new playlist with 61 tracks and id: PLWptjpDqazOxVLm2YSC81rbrzdhIfiG0w
+Waiting 24 seconds...
+Radio playlist xr glitchhop radio counters: {'moved_like': 1}
+Group 'glitchhop' processing complete. Updated 'completed' list.
+
+Processing 2 tracks for playlist: xr grime radio
+Created new playlist with 2 tracks and id: PLWptjpDqazOwTcmsCIi4q74lMnbcayC6L
+Waiting 16 seconds...
+Radio playlist xr grime radio counters: {}
+Group 'grime' processing complete. Updated 'completed' list.
+
+Processing 3 tracks for playlist: xr grindcore radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOyN56IeH9BGlU6RmFpJGcBH
+Waiting 19 seconds...
+Radio playlist xr grindcore radio counters: {}
+Group 'grindcore' processing complete. Updated 'completed' list.
+
+Processing 122 tracks for playlist: xr guiltypleasuremusic radio
+Created new playlist with 122 tracks and id: PLWptjpDqazOyybCMtZb5AmVHSngGeHDFz
+Waiting 19 seconds...
+Radio playlist xr guiltypleasuremusic radio counters: {'removed_dislike': 3, 'moved_like': 27}
+Created LIKE playlist for xr guiltypleasuremusic radio: xr guiltypleasuremusic
+Moved 27 LIKE entries from xr guiltypleasuremusic radio to PLWptjpDqazOxEk1gJCpm8Cyqm2gHHu5ZW
+Removed 3 DISLIKE entries from xr guiltypleasuremusic radio
+Group 'guiltypleasuremusic' processing complete. Updated 'completed' list.
+
+Processing 118 tracks for playlist: xr GypsyJazz radio
+Created new playlist with 118 tracks and id: PLWptjpDqazOx_aDtCHfgLIo0att6y0xCb
+Waiting 24 seconds...
+Radio playlist xr GypsyJazz radio counters: {'removed_dislike': 3, 'moved_like': 70, 'removed_not_like': 5}
+Moved 70 LIKE entries from xr GypsyJazz radio to PLWptjpDqazOyTqRfttR3nwCZBz05ayJSU
+Removed 8 NOT_LIKE entries from xr GypsyJazz radio
+Group 'gypsyjazz' processing complete. Updated 'completed' list.
+
+Processing 166 tracks for playlist: xr HeadNodders radio
+Updated 166 tracks in existing playlist with id: PLWptjpDqazOyqVztZW7UcBYG43OGjTyVE
+Waiting 19 seconds...
+Radio playlist xr HeadNodders radio counters: {'moved_like': 7, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr HeadNodders radio
+Group 'headnodders' processing complete. Updated 'completed' list.
+
+Processing 5 tracks for playlist: xr heavymetal radio
+Created new playlist with 5 tracks and id: PLWptjpDqazOyIZ08gg08p2QtUk-RwP7bY
+Waiting 19 seconds...
+Radio playlist xr heavymetal radio counters: {}
+Group 'heavymetal' processing complete. Updated 'completed' list.
+
+Processing 728 tracks for playlist: xr hiphop radio
+Updated 728 tracks in existing playlist with id: PLWptjpDqazOw-O2-VUe6DCyI9C28aGtCc
+Waiting 17 seconds...
+Radio playlist xr hiphop radio counters: {'moved_like': 7}
+Group 'hiphop' processing complete. Updated 'completed' list.
+
+Processing 140 tracks for playlist: xr hiphopheads radio
+Created new playlist with 140 tracks and id: PLWptjpDqazOy0zavi0UtFWkKqcvf-exUM
+Waiting 23 seconds...
+Radio playlist xr hiphopheads radio counters: {'moved_like': 33, 'removed_not_like': 1}
+Created LIKE playlist for xr hiphopheads radio: xr hiphopheads
+Moved 33 LIKE entries from xr hiphopheads radio to PLWptjpDqazOx8cjEN2jd2ceRZT9coEuD7
+Removed 1 NOT_LIKE entries from xr hiphopheads radio
+Group 'hiphopheads' processing complete. Updated 'completed' list.
+
+Processing 188 tracks for playlist: xr hiphopheadsnorthwest radio
+Updated 188 tracks in existing playlist with id: PLWptjpDqazOzmGhPoyQ-7ZiscEskrwXxi
+Waiting 20 seconds...
+Radio playlist xr hiphopheadsnorthwest radio counters: {}
+Group 'hiphopheadsnorthwest' processing complete. Updated 'completed' list.
+
+Processing 1101 tracks for playlist: xr house radio
+Updated 1101 tracks in existing playlist with id: PLWptjpDqazOxXZyiOdV-MzahaFRqJv-Kz
+Waiting 19 seconds...
+Radio playlist xr house radio counters: {'moved_like': 7, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr house radio
+Group 'house' processing complete. Updated 'completed' list.
+
+Processing 4 tracks for playlist: xr hyperpop radio
+Created new playlist with 4 tracks and id: PLWptjpDqazOxWXaYNvQH48_e3qa1dgz4i
+Waiting 24 seconds...
+Radio playlist xr hyperpop radio counters: {}
+Group 'hyperpop' processing complete. Updated 'completed' list.
+
+Processing 30 tracks for playlist: xr icm radio
+Created new playlist with 30 tracks and id: PLWptjpDqazOwIeSpwFTzviniXIDxo7tIL
+Waiting 17 seconds...
+Radio playlist xr icm radio counters: {'moved_like': 1}
+Group 'icm' processing complete. Updated 'completed' list.
+
+Processing 722 tracks for playlist: xr idm radio
+Updated 722 tracks in existing playlist with id: PLWptjpDqazOyPfmECKIsKdsSvD9HXlU1S
+Waiting 17 seconds...
+Radio playlist xr idm radio counters: {'moved_like': 20, 'removed_not_like': 8}
+Moved 20 LIKE entries from xr idm radio to PLWptjpDqazOxPsX3sISNYc91Yezhwb107
+Removed 8 NOT_LIKE entries from xr idm radio
+Group 'idm' processing complete. Updated 'completed' list.
+
+Processing 31 tracks for playlist: xr indianindie radio
+Created new playlist with 31 tracks and id: PLWptjpDqazOw1k2fn0MORB0zNQEn30ChZ
+Waiting 22 seconds...
+Radio playlist xr indianindie radio counters: {}
+Group 'indianindie' processing complete. Updated 'completed' list.
+
+Processing 129 tracks for playlist: xr indie radio
+Updated 129 tracks in existing playlist with id: PLWptjpDqazOxxmgqFRqG8nDL3DPy_ohM6
+Waiting 24 seconds...
+Radio playlist xr indie radio counters: {'moved_like': 5, 'removed_not_like': 47}
+Removed 47 NOT_LIKE entries from xr indie radio
+Group 'indie' processing complete. Updated 'completed' list.
+
+Processing 822 tracks for playlist: xr IndieFolk radio
+Updated 822 tracks in existing playlist with id: PLWptjpDqazOy8CX1mKkxFLvCUsRmhZsKh
+Waiting 20 seconds...
+Radio playlist xr IndieFolk radio counters: {'moved_like': 18, 'removed_not_like': 20}
+Moved 18 LIKE entries from xr IndieFolk radio to PLWptjpDqazOzUx53oyA5Z7HEPhf3tH8Us
+Removed 20 NOT_LIKE entries from xr IndieFolk radio
+Group 'indiefolk' processing complete. Updated 'completed' list.
+
+Processing 85 tracks for playlist: xr indieheads radio
+Created new playlist with 85 tracks and id: PLWptjpDqazOzVY1j4558TNt-bnpLLQ6Sx
+Waiting 22 seconds...
+Radio playlist xr indieheads radio counters: {'moved_like': 24, 'removed_not_like': 1, 'like_and_not_like': 1}
+Created LIKE playlist for xr indieheads radio: xr indieheads
+Moved 24 LIKE entries from xr indieheads radio to PLWptjpDqazOzH8GvkqNaAoTXF4Lu9njaM
+Removed 1 NOT_LIKE entries from xr indieheads radio
+Group 'indieheads' processing complete. Updated 'completed' list.
+
+Processing 113 tracks for playlist: xr indierock radio
+Updated 113 tracks in existing playlist with id: PLWptjpDqazOz1O30shOGXN-12NfDx5CnL
+Waiting 18 seconds...
+Radio playlist xr indierock radio counters: {}
+Group 'indierock' processing complete. Updated 'completed' list.
+
+Processing 20 tracks for playlist: xr industrialmetal radio
+Created new playlist with 20 tracks and id: PLWptjpDqazOy4aCAt2nuDxpbRJoNFn_6g
+Waiting 18 seconds...
+Radio playlist xr industrialmetal radio counters: {}
+Group 'industrialmetal' processing complete. Updated 'completed' list.
+
+Processing 92 tracks for playlist: xr industrialmusic radio
+Updated 92 tracks in existing playlist with id: PLWptjpDqazOw3o7yoGdny-qsEuGfudU6Y
+Waiting 21 seconds...
+Radio playlist xr industrialmusic radio counters: {'moved_like': 2}
+Group 'industrialmusic' processing complete. Updated 'completed' list.
+
+Processing 151 tracks for playlist: xr Instrumentals radio
+Updated 151 tracks in existing playlist with id: PLWptjpDqazOxJEL4nOTL5VufEHStGi_D5
+Waiting 22 seconds...
+Radio playlist xr Instrumentals radio counters: {'moved_like': 10, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr Instrumentals radio
+Group 'instrumentals' processing complete. Updated 'completed' list.
+
+Processing 151 tracks for playlist: xr italianmusic radio
+Created new playlist with 151 tracks and id: PLWptjpDqazOwGjArrw3aqbu9s0-8dlLGw
+Waiting 16 seconds...
+Radio playlist xr italianmusic radio counters: {}
+Group 'italianmusic' processing complete. Updated 'completed' list.
+
+Processing 6 tracks for playlist: xr japanesemusic radio
+Created new playlist with 6 tracks and id: PLWptjpDqazOxP1tgsKcL55CHWP5l9GtTd
+Waiting 25 seconds...
+Radio playlist xr japanesemusic radio counters: {}
+Group 'japanesemusic' processing complete. Updated 'completed' list.
+
+Processing 32 tracks for playlist: xr jazz radio
+Updated 32 tracks in existing playlist with id: PLWptjpDqazOxffV1JJ1dS-KX5Tmtau7s4
+Waiting 21 seconds...
+Radio playlist xr jazz radio counters: {'moved_like': 5, 'removed_not_like': 3}
+Removed 3 NOT_LIKE entries from xr jazz radio
+Group 'jazz' processing complete. Updated 'completed' list.
+
+Processing 24 tracks for playlist: xr jazzfusion radio
+Created new playlist with 24 tracks and id: PLWptjpDqazOwVXhDH87vROCYEb462Xxw8
+Waiting 24 seconds...
+Radio playlist xr jazzfusion radio counters: {}
+Group 'jazzfusion' processing complete. Updated 'completed' list.
+
+Processing 111 tracks for playlist: xr jazznoir radio
+Created new playlist with 111 tracks and id: PLWptjpDqazOy53eCqN5QhZCqjtrR8sYq3
+Waiting 20 seconds...
+Radio playlist xr jazznoir radio counters: {'removed_dislike': 2, 'moved_like': 36, 'removed_not_like': 1}
+Moved 36 LIKE entries from xr jazznoir radio to PLWptjpDqazOzXgez9315UJUUmAE_FZ2mO
+Removed 3 NOT_LIKE entries from xr jazznoir radio
+Group 'jazznoir' processing complete. Updated 'completed' list.
+
+Processing 121 tracks for playlist: xr jazzyhiphop radio
+Updated 121 tracks in existing playlist with id: PLWptjpDqazOxx5YhvuuvWMP_bLbYlXfQg
+Waiting 17 seconds...
+Radio playlist xr jazzyhiphop radio counters: {'moved_like': 9, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr jazzyhiphop radio
+Group 'jazzyhiphop' processing complete. Updated 'completed' list.
+
+Processing 11 tracks for playlist: xr jpop radio
+Created new playlist with 11 tracks and id: PLWptjpDqazOy7ZgDljscwWgn7qfZuVrHs
+Waiting 22 seconds...
+Radio playlist xr jpop radio counters: {}
+Group 'jpop' processing complete. Updated 'completed' list.
+
+Processing 3 tracks for playlist: xr jungle radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOwl9sGbn2ygJ7lImm_bCgKA
+Waiting 17 seconds...
+Radio playlist xr jungle radio counters: {}
+Group 'jungle' processing complete. Updated 'completed' list.
+
+Processing 89 tracks for playlist: xr kindie radio
+Created new playlist with 89 tracks and id: PLWptjpDqazOxo2scXsUOB9ovyAsuam6JK
+Waiting 20 seconds...
+Radio playlist xr kindie radio counters: {'moved_like': 2}
+Group 'kindie' processing complete. Updated 'completed' list.
+
+Processing 76 tracks for playlist: xr koreanrock radio
+Created new playlist with 76 tracks and id: PLWptjpDqazOy9wWUI2pi5c1NwNcQvK4dM
+Waiting 19 seconds...
+Radio playlist xr koreanrock radio counters: {'moved_like': 1}
+Group 'koreanrock' processing complete. Updated 'completed' list.
+
+Processing 55 tracks for playlist: xr kpop radio
+Created new playlist with 55 tracks and id: PLWptjpDqazOwhqVRNULdkhfnD4zVmr7kc
+Waiting 18 seconds...
+Radio playlist xr kpop radio counters: {'moved_like': 1}
+Group 'kpop' processing complete. Updated 'completed' list.
+
+Processing 271 tracks for playlist: xr krautrock radio
+Created new playlist with 271 tracks and id: PLWptjpDqazOx0vFwS--0O3EshhDABrt54
+Waiting 23 seconds...
+Radio playlist xr krautrock radio counters: {'removed_dislike': 7, 'moved_like': 133, 'removed_not_like': 6}
+Moved 133 LIKE entries from xr krautrock radio to PLWptjpDqazOzX3Vl0sTRvYdRhwWKo2L4Z
+Removed 13 NOT_LIKE entries from xr krautrock radio
+Group 'krautrock' processing complete. Updated 'completed' list.
+
+Processing 3 tracks for playlist: xr latinpopheads radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOwA_2uwhjy_Kcno5cet_rZC
+Waiting 25 seconds...
+Radio playlist xr latinpopheads radio counters: {}
+Group 'latinpopheads' processing complete. Updated 'completed' list.
+
+Processing 55 tracks for playlist: xr liftingmusic radio
+Created new playlist with 55 tracks and id: PLWptjpDqazOwRVPONTkoaD4yp5lYYwwI4
+Waiting 21 seconds...
+Radio playlist xr liftingmusic radio counters: {'removed_dislike': 1, 'moved_like': 10}
+Removed 1 DISLIKE entries from xr liftingmusic radio
+Group 'liftingmusic' processing complete. Updated 'completed' list.
+
+Processing 1 tracks for playlist: xr lofihiphop radio
+Created new playlist with 1 tracks and id: PLWptjpDqazOzDrpaVwDOZGVlfrYFDcEfA
+Waiting 20 seconds...
+Radio playlist xr lofihiphop radio counters: {'moved_like': 1}
+Group 'lofihiphop' processing complete. Updated 'completed' list.
+
+Processing 3 tracks for playlist: xr lostwave radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOyT6gKInM3I39Y2NULLy-wS
+Waiting 19 seconds...
+Radio playlist xr lostwave radio counters: {}
+Group 'lostwave' processing complete. Updated 'completed' list.
+
+Processing 23 tracks for playlist: xr mathcore radio
+Created new playlist with 23 tracks and id: PLWptjpDqazOypDtKVDTJGhLfUu3pucv-U
+Waiting 24 seconds...
+Radio playlist xr mathcore radio counters: {}
+Group 'mathcore' processing complete. Updated 'completed' list.
+
+Processing 10 tracks for playlist: xr mathrock radio
+Created new playlist with 10 tracks and id: PLWptjpDqazOyv-huxWY4bv4aEVSKGFtld
+Waiting 23 seconds...
+Radio playlist xr mathrock radio counters: {}
+Group 'mathrock' processing complete. Updated 'completed' list.
+
+Processing 344 tracks for playlist: xr MelancholyMusic radio
+Updated 344 tracks in existing playlist with id: PLWptjpDqazOxEqxeykeLml61kBg61EDxe
+Waiting 24 seconds...
+Radio playlist xr MelancholyMusic radio counters: {'moved_like': 7, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr MelancholyMusic radio
+Group 'melancholymusic' processing complete. Updated 'completed' list.
+
+Processing 611 tracks for playlist: xr melodichouse radio
+Updated 611 tracks in existing playlist with id: PLWptjpDqazOzbxKtxFzWFSFcii2csibRm
+Waiting 18 seconds...
+Radio playlist xr melodichouse radio counters: {'moved_like': 5, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr melodichouse radio
+Group 'melodichouse' processing complete. Updated 'completed' list.
+
+Processing 59 tracks for playlist: xr metal radio
+Created new playlist with 59 tracks and id: PLWptjpDqazOyEwlYkrAH9UoAL1zI9aMRF
+Waiting 17 seconds...
+Radio playlist xr metal radio counters: {}
+Group 'metal' processing complete. Updated 'completed' list.
+
+Processing 39 tracks for playlist: xr metalcore radio
+Created new playlist with 39 tracks and id: PLWptjpDqazOzbtz8VXaTgxNCuWaEoDGXl
+Waiting 25 seconds...
+Radio playlist xr metalcore radio counters: {}
+Group 'metalcore' processing complete. Updated 'completed' list.
+
+Processing 414 tracks for playlist: xr minimal radio
+Updated 414 tracks in existing playlist with id: PLWptjpDqazOyMbuWAhkwyABuSvt2tnfXP
+Waiting 21 seconds...
+Radio playlist xr minimal radio counters: {'moved_like': 1}
+Group 'minimal' processing complete. Updated 'completed' list.
+
+Processing 61 tracks for playlist: xr modernjazz radio
+Created new playlist with 61 tracks and id: PLWptjpDqazOwnf2YSboCoEuKn4WHOqC0e
+Waiting 16 seconds...
+Radio playlist xr modernjazz radio counters: {'moved_like': 4}
+Group 'modernjazz' processing complete. Updated 'completed' list.
+
+Processing 358 tracks for playlist: xr ModernRockMusic radio
+Updated 358 tracks in existing playlist with id: PLWptjpDqazOyqRm_Sz8aRGLwoHJ-eQw-x
+Waiting 18 seconds...
+Radio playlist xr ModernRockMusic radio counters: {'moved_like': 3}
+Group 'modernrockmusic' processing complete. Updated 'completed' list.
+
+Processing 497 tracks for playlist: xr monsterfuzz radio
+Updated 497 tracks in existing playlist with id: PLWptjpDqazOxxGkqTJtKxAGDyolKBlbOx
+Waiting 24 seconds...
+Radio playlist xr monsterfuzz radio counters: {'moved_like': 3}
+Group 'monsterfuzz' processing complete. Updated 'completed' list.
+
+Processing 4 tracks for playlist: xr motown radio
+Created new playlist with 4 tracks and id: PLWptjpDqazOyO4LJmo78ELxeVNKx7GHYZ
+Waiting 17 seconds...
+Radio playlist xr motown radio counters: {'moved_like': 1}
+Group 'motown' processing complete. Updated 'completed' list.
+
+Processing 47 tracks for playlist: xr musicforconcentration radio
+Created new playlist with 47 tracks and id: PLWptjpDqazOxdm_BfaWh987f4eNzf_dg8
+Waiting 21 seconds...
+Radio playlist xr musicforconcentration radio counters: {'moved_like': 6}
+Group 'musicforconcentration' processing complete. Updated 'completed' list.
+
+Processing 47 tracks for playlist: xr MusicToSleepTo radio
+Updated 47 tracks in existing playlist with id: PLWptjpDqazOzfumkZJ8sZi_fKVxXLZOfI
+Waiting 23 seconds...
+Radio playlist xr MusicToSleepTo radio counters: {'moved_like': 1}
+Group 'musictosleepto' processing complete. Updated 'completed' list.
+
+Processing 227 tracks for playlist: xr neopsychedelia radio
+Updated 227 tracks in existing playlist with id: PLWptjpDqazOyVtFXQ4tvszJAxJ4CkPl9t
+Waiting 23 seconds...
+Radio playlist xr neopsychedelia radio counters: {}
+Group 'neopsychedelia' processing complete. Updated 'completed' list.
+
+Processing 19 tracks for playlist: xr neosoul radio
+Created new playlist with 19 tracks and id: PLWptjpDqazOyRXscC1SqxhccOYBC-mkEp
+Waiting 25 seconds...
+Radio playlist xr neosoul radio counters: {'moved_like': 3}
+Group 'neosoul' processing complete. Updated 'completed' list.
+
+Processing 101 tracks for playlist: xr newmusic radio
+Created new playlist with 101 tracks and id: PLWptjpDqazOwvnFlO798QI1vNs0aO_-WI
+Waiting 17 seconds...
+Radio playlist xr newmusic radio counters: {'moved_like': 4}
+Group 'newmusic' processing complete. Updated 'completed' list.
+
+Processing 68 tracks for playlist: xr newretrowave radio
+Created new playlist with 68 tracks and id: PLWptjpDqazOwVZX3I4pft5THL6GouVrHQ
+Waiting 23 seconds...
+Radio playlist xr newretrowave radio counters: {'removed_dislike': 1, 'moved_like': 3}
+Removed 1 DISLIKE entries from xr newretrowave radio
+Group 'newretrowave' processing complete. Updated 'completed' list.
+
+Processing 1257 tracks for playlist: xr NewWave radio
+Updated 1257 tracks in existing playlist with id: PLWptjpDqazOy38xmoBVxvh3UwL7NlFeX1
+Waiting 20 seconds...
+Radio playlist xr NewWave radio counters: {'moved_like': 9, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr NewWave radio
+Group 'newwave' processing complete. Updated 'completed' list.
+
+Processing 23 tracks for playlist: xr noiserock radio
+Created new playlist with 23 tracks and id: PLWptjpDqazOyMAwOn33EeQI4dNvUSQ9_k
+Waiting 21 seconds...
+Radio playlist xr noiserock radio counters: {'moved_like': 2}
+Group 'noiserock' processing complete. Updated 'completed' list.
+
+Processing 20 tracks for playlist: xr nowave radio
+Created new playlist with 20 tracks and id: PLWptjpDqazOym94SoURd7Fpvd0FoCjE8H
+Waiting 23 seconds...
+Radio playlist xr nowave radio counters: {}
+Group 'nowave' processing complete. Updated 'completed' list.
+
+Processing 330 tracks for playlist: xr nudisco radio
+Updated 330 tracks in existing playlist with id: PLWptjpDqazOzPNUgUnZdhutUhASLXBuSC
+Waiting 16 seconds...
+Radio playlist xr nudisco radio counters: {}
+Group 'nudisco' processing complete. Updated 'completed' list.
+
+Processing 28 tracks for playlist: xr nujazz radio
+Created new playlist with 28 tracks and id: PLWptjpDqazOxprR4nYa4mWylluFi7Qpvw
+Waiting 17 seconds...
+Radio playlist xr nujazz radio counters: {'moved_like': 6}
+Group 'nujazz' processing complete. Updated 'completed' list.
+
+Processing 806 tracks for playlist: xr OldElectronicMusic radio
+Updated 806 tracks in existing playlist with id: PLWptjpDqazOwKNKAmGaCj-H3g8pOOYSuA
+Waiting 16 seconds...
+Radio playlist xr OldElectronicMusic radio counters: {'moved_like': 1, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr OldElectronicMusic radio
+Group 'oldelectronicmusic' processing complete. Updated 'completed' list.
+
+Processing 950 tracks for playlist: xr OldiesMusic radio
+Updated 950 tracks in existing playlist with id: PLWptjpDqazOyqF8UVO6sqniyY-4BlFSnJ
+Waiting 19 seconds...
+Radio playlist xr OldiesMusic radio counters: {'moved_like': 4, 'removed_not_like': 8}
+Removed 8 NOT_LIKE entries from xr OldiesMusic radio
+Group 'oldiesmusic' processing complete. Updated 'completed' list.
+
+Processing 679 tracks for playlist: xr OldskoolRave radio
+Updated 679 tracks in existing playlist with id: PLWptjpDqazOw0SVUCMnfmTrx5PTtMONgi
+Waiting 24 seconds...
+Radio playlist xr OldskoolRave radio counters: {'moved_like': 3, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr OldskoolRave radio
+Group 'oldskoolrave' processing complete. Updated 'completed' list.
+
+Processing 115 tracks for playlist: xr OutlawCountry radio
+Created new playlist with 115 tracks and id: PLWptjpDqazOz1BXZsaqNh7B7iZ4JlzwgL
+Waiting 18 seconds...
+Radio playlist xr OutlawCountry radio counters: {'removed_dislike': 7, 'moved_like': 86, 'removed_not_like': 2}
+Moved 86 LIKE entries from xr OutlawCountry radio to PLWptjpDqazOyuagMuSDaPHqWMQN9eMwzw
+Removed 9 NOT_LIKE entries from xr OutlawCountry radio
+Group 'outlawcountry' processing complete. Updated 'completed' list.
+
+Processing 11 tracks for playlist: xr popheads radio
+Created new playlist with 11 tracks and id: PLWptjpDqazOxBsAswwg0398UHfOKy7gle
+Waiting 21 seconds...
+Radio playlist xr popheads radio counters: {}
+Group 'popheads' processing complete. Updated 'completed' list.
+
+Processing 33 tracks for playlist: xr posthardcore radio
+Created new playlist with 33 tracks and id: PLWptjpDqazOxS7D0NDeAbsy4EETGREcJU
+Waiting 18 seconds...
+Radio playlist xr posthardcore radio counters: {}
+Group 'posthardcore' processing complete. Updated 'completed' list.
+
+Processing 32 tracks for playlist: xr postmetal radio
+Created new playlist with 32 tracks and id: PLWptjpDqazOyNoAmSH-JtknGSwzTBmHkc
+Waiting 23 seconds...
+Radio playlist xr postmetal radio counters: {}
+Group 'postmetal' processing complete. Updated 'completed' list.
+
+Processing 43 tracks for playlist: xr postpunk radio
+Created new playlist with 43 tracks and id: PLWptjpDqazOz0txoqq9IIDvpoUbKYFAW1
+Waiting 24 seconds...
+Radio playlist xr postpunk radio counters: {'moved_like': 20}
+Created LIKE playlist for xr postpunk radio: xr postpunk
+Moved 20 LIKE entries from xr postpunk radio to PLWptjpDqazOwBjS5Mk8aMFdh2HIT88SL8
+Group 'postpunk' processing complete. Updated 'completed' list.
+
+Processing 582 tracks for playlist: xr PostRock radio
+Updated 582 tracks in existing playlist with id: PLWptjpDqazOxU9ZC6-aHWeq4ZNnEzCbYR
+Waiting 21 seconds...
+Radio playlist xr PostRock radio counters: {'moved_like': 4}
+Group 'postrock' processing complete. Updated 'completed' list.
+
+Processing 39 tracks for playlist: xr powermetal radio
+Created new playlist with 39 tracks and id: PLWptjpDqazOz-bjM-3sNsCcnXwO7FIgpY
+Waiting 18 seconds...
+Radio playlist xr powermetal radio counters: {}
+Group 'powermetal' processing complete. Updated 'completed' list.
+
+Processing 91 tracks for playlist: xr progmetal radio
+Created new playlist with 91 tracks and id: PLWptjpDqazOypAgE1fvd04A3KsETkHoni
+Waiting 25 seconds...
+Radio playlist xr progmetal radio counters: {'removed_dislike': 1, 'moved_like': 3}
+Removed 1 DISLIKE entries from xr progmetal radio
+Group 'progmetal' processing complete. Updated 'completed' list.
+
+Processing 92 tracks for playlist: xr psybient radio
+Created new playlist with 92 tracks and id: PLWptjpDqazOw10uGcepQB-hQNO_AWRr-9
+Waiting 17 seconds...
+Radio playlist xr psybient radio counters: {'moved_like': 2}
+Group 'psybient' processing complete. Updated 'completed' list.
+
+Processing 466 tracks for playlist: xr PsychedelicRock radio
+Created new playlist with 466 tracks and id: PLWptjpDqazOxmS9YI_S_YwbHljMInAyxE
+Waiting 16 seconds...
+Radio playlist xr PsychedelicRock radio counters: {'removed_dislike': 10, 'moved_like': 362, 'removed_not_like': 17, 'like_and_not_like': 1}
+
+
+Group '2000smusic' contains an already completed sub. Skipping.
+Group '2010smusic' contains an already completed sub. Skipping.
+Group '2020smusic' contains an already completed sub. Skipping.
+Group '50smusic' contains an already completed sub. Skipping.
+Group '60smusic' contains an already completed sub. Skipping.
+Group '70s' contains an already completed sub. Skipping.
+Group '70smusic' contains an already completed sub. Skipping.
+Group '80shiphop' contains an already completed sub. Skipping.
+Group '80smusic' contains an already completed sub. Skipping.
+Group '90salternative' contains an already completed sub. Skipping.
+Group '90shiphop' contains an already completed sub. Skipping.
+Group '90smusic' contains an already completed sub. Skipping.
+Group '90spunk' contains an already completed sub. Skipping.
+Group '90srock' contains an already completed sub. Skipping.
+Group 'acidhouse' contains an already completed sub. Skipping.
+Group 'africanmusic' contains an already completed sub. Skipping.
+Group 'afrobeat' contains an already completed sub. Skipping.
+Group 'afropop' contains an already completed sub. Skipping.
+Group 'aggrotech' contains an already completed sub. Skipping.
+Group 'altcountry' contains an already completed sub. Skipping.
+Group 'alternativerock' contains an already completed sub. Skipping.
+Group 'ambientmusic' contains an already completed sub. Skipping.
+Group 'americana' contains an already completed sub. Skipping.
+Group 'animemusic' contains an already completed sub. Skipping.
+Group 'artpop' contains an already completed sub. Skipping.
+Group 'atmosphericdnb' contains an already completed sub. Skipping.
+Group 'baroque' contains an already completed sub. Skipping.
+Group 'bassheavy' contains an already completed sub. Skipping.
+Group 'bedroompop' contains an already completed sub. Skipping.
+Group 'bigband' contains an already completed sub. Skipping.
+Group 'bigbeat' contains an already completed sub. Skipping.
+Group 'binauralmusic' contains an already completed sub. Skipping.
+Group 'blackmetal' contains an already completed sub. Skipping.
+Group 'bluegrass' contains an already completed sub. Skipping.
+Group 'blues' contains an already completed sub. Skipping.
+Group 'bluesrock' contains an already completed sub. Skipping.
+Group 'bossanova' contains an already completed sub. Skipping.
+Group 'boybands' contains an already completed sub. Skipping.
+Group 'brazilianmusic' contains an already completed sub. Skipping.
+Group 'breakbeat' contains an already completed sub. Skipping.
+Group 'britpop' contains an already completed sub. Skipping.
+Group 'brostep' contains an already completed sub. Skipping.
+Group 'burial' contains an already completed sub. Skipping.
+Group 'celticpunk' contains an already completed sub. Skipping.
+Group 'chicagohouse' contains an already completed sub. Skipping.
+Group 'chillmusic' contains an already completed sub. Skipping.
+Group 'chillwave' contains an already completed sub. Skipping.
+Group 'choralmusic' contains an already completed sub. Skipping.
+Group 'classicrock' contains an already completed sub. Skipping.
+Group 'codingmusic' contains an already completed sub. Skipping.
+Group 'coldwave' contains an already completed sub. Skipping.
+Group 'complextro' contains an already completed sub. Skipping.
+Group 'contemporary' contains an already completed sub. Skipping.
+Group 'cpop' contains an already completed sub. Skipping.
+Group 'cyberpunk-music' contains an already completed sub. Skipping.
+Group 'dancehall' contains an already completed sub. Skipping.
+Group 'dancepunk' contains an already completed sub. Skipping.
+Group 'darkjazz' contains an already completed sub. Skipping.
+Group 'darkwave' contains an already completed sub. Skipping.
+Group 'deathcore' contains an already completed sub. Skipping.
+Group 'deathmetal' contains an already completed sub. Skipping.
+Group 'deepcuts' contains an already completed sub. Skipping.
+Group 'deephouse' contains an already completed sub. Skipping.
+Group 'desertblues' contains an already completed sub. Skipping.
+Group 'disco' contains an already completed sub. Skipping.
+Group 'djent' contains an already completed sub. Skipping.
+Group 'dnb' contains an already completed sub. Skipping.
+Group 'doommetal' contains an already completed sub. Skipping.
+Group 'downtempo' contains an already completed sub. Skipping.
+Group 'dreampop' contains an already completed sub. Skipping.
+Group 'dub' contains an already completed sub. Skipping.
+Group 'dubstep' contains an already completed sub. Skipping.
+Group 'dubtechno' contains an already completed sub. Skipping.
+Group 'earlymusic' contains an already completed sub. Skipping.
+Group 'ebm' contains an already completed sub. Skipping.
+Group 'electronicmusic' contains an already completed sub. Skipping.
+Group 'electroswing' contains an already completed sub. Skipping.
+Group 'elephant6' contains an already completed sub. Skipping.
+Group 'elitistclassical' contains an already completed sub. Skipping.
+Group 'exotica' contains an already completed sub. Skipping.
+Group 'flamenco' contains an already completed sub. Skipping.
+Group 'folk' contains an already completed sub. Skipping.
+Group 'folkmetal' contains an already completed sub. Skipping.
+Group 'freejazz' contains an already completed sub. Skipping.
+Group 'frenchhouse' contains an already completed sub. Skipping.
+Group 'frenchrap' contains an already completed sub. Skipping.
+Group 'frisson' contains an already completed sub. Skipping.
+Group 'funkhouse' contains an already completed sub. Skipping.
+Group 'funksoumusic' contains an already completed sub. Skipping.
+Group 'futurebass' contains an already completed sub. Skipping.
+Group 'futurebeats' contains an already completed sub. Skipping.
+Group 'futuregarage' contains an already completed sub. Skipping.
+Group 'futuresynth' contains an already completed sub. Skipping.
+Group 'gamemusic' contains an already completed sub. Skipping.
+Group 'garagepunk' contains an already completed sub. Skipping.
+Group 'garagerock' contains an already completed sub. Skipping.
+Group 'germanrap' contains an already completed sub. Skipping.
+Group 'gfunk' contains an already completed sub. Skipping.
+Group 'glitchhop' contains an already completed sub. Skipping.
+Group 'grime' contains an already completed sub. Skipping.
+Group 'grindcore' contains an already completed sub. Skipping.
+Group 'guiltypleasuremusic' contains an already completed sub. Skipping.
+Group 'gypsyjazz' contains an already completed sub. Skipping.
+Group 'headnodders' contains an already completed sub. Skipping.
+Group 'heavymetal' contains an already completed sub. Skipping.
+Group 'hiphop' contains an already completed sub. Skipping.
+Group 'hiphopheads' contains an already completed sub. Skipping.
+Group 'hiphopheadsnorthwest' contains an already completed sub. Skipping.
+Group 'house' contains an already completed sub. Skipping.
+Group 'hyperpop' contains an already completed sub. Skipping.
+Group 'icm' contains an already completed sub. Skipping.
+Group 'idm' contains an already completed sub. Skipping.
+Group 'indianindie' contains an already completed sub. Skipping.
+Group 'indie' contains an already completed sub. Skipping.
+Group 'indiefolk' contains an already completed sub. Skipping.
+Group 'indieheads' contains an already completed sub. Skipping.
+Group 'indierock' contains an already completed sub. Skipping.
+Group 'industrialmetal' contains an already completed sub. Skipping.
+Group 'industrialmusic' contains an already completed sub. Skipping.
+Group 'instrumentals' contains an already completed sub. Skipping.
+Group 'italianmusic' contains an already completed sub. Skipping.
+Group 'japanesemusic' contains an already completed sub. Skipping.
+Group 'jazz' contains an already completed sub. Skipping.
+Group 'jazzfusion' contains an already completed sub. Skipping.
+Group 'jazznoir' contains an already completed sub. Skipping.
+Group 'jazzyhiphop' contains an already completed sub. Skipping.
+Group 'jpop' contains an already completed sub. Skipping.
+Group 'jungle' contains an already completed sub. Skipping.
+Group 'kindie' contains an already completed sub. Skipping.
+Group 'koreanrock' contains an already completed sub. Skipping.
+Group 'kpop' contains an already completed sub. Skipping.
+Group 'krautrock' contains an already completed sub. Skipping.
+Group 'latinpopheads' contains an already completed sub. Skipping.
+Group 'liftingmusic' contains an already completed sub. Skipping.
+Group 'lofihiphop' contains an already completed sub. Skipping.
+Group 'lostwave' contains an already completed sub. Skipping.
+Group 'mathcore' contains an already completed sub. Skipping.
+Group 'mathrock' contains an already completed sub. Skipping.
+Group 'melancholymusic' contains an already completed sub. Skipping.
+Group 'melodichouse' contains an already completed sub. Skipping.
+Group 'metal' contains an already completed sub. Skipping.
+Group 'metalcore' contains an already completed sub. Skipping.
+Group 'minimal' contains an already completed sub. Skipping.
+Group 'modernjazz' contains an already completed sub. Skipping.
+Group 'modernrockmusic' contains an already completed sub. Skipping.
+Group 'monsterfuzz' contains an already completed sub. Skipping.
+Group 'motown' contains an already completed sub. Skipping.
+Group 'musicforconcentration' contains an already completed sub. Skipping.
+Group 'musictosleepto' contains an already completed sub. Skipping.
+Group 'neopsychedelia' contains an already completed sub. Skipping.
+Group 'neosoul' contains an already completed sub. Skipping.
+Group 'newmusic' contains an already completed sub. Skipping.
+Group 'newretrowave' contains an already completed sub. Skipping.
+Group 'newwave' contains an already completed sub. Skipping.
+Group 'noiserock' contains an already completed sub. Skipping.
+Group 'nowave' contains an already completed sub. Skipping.
+Group 'nudisco' contains an already completed sub. Skipping.
+Group 'nujazz' contains an already completed sub. Skipping.
+Group 'oldelectronicmusic' contains an already completed sub. Skipping.
+Group 'oldiesmusic' contains an already completed sub. Skipping.
+Group 'oldskoolrave' contains an already completed sub. Skipping.
+Group 'outlawcountry' contains an already completed sub. Skipping.
+Group 'popheads' contains an already completed sub. Skipping.
+Group 'posthardcore' contains an already completed sub. Skipping.
+Group 'postmetal' contains an already completed sub. Skipping.
+Group 'postpunk' contains an already completed sub. Skipping.
+Group 'postrock' contains an already completed sub. Skipping.
+Group 'powermetal' contains an already completed sub. Skipping.
+Group 'progmetal' contains an already completed sub. Skipping.
+Group 'psybient' contains an already completed sub. Skipping.
+Group 'psychedelicrock' contains an already completed sub. Skipping.
+
+(172/216) Processing 223 tracks for playlist: xr Punk-Rock radio
+Created new playlist with 223 tracks and id: PLWptjpDqazOzUo8x9t1nvQzuXt89PbY32
+Waiting 21 seconds...
+Radio playlist xr Punk-Rock radio counters: {'removed_dislike': 2, 'moved_like': 10}
+Removed 2 DISLIKE entries from xr Punk-Rock radio
+Group 'punk-rock' processing complete. Updated 'completed' list.
+
+(173/216) Processing 307 tracks for playlist: xr PunkRock radio
+Updated 307 tracks in existing playlist with id: PLWptjpDqazOxddnjiYJuy7sQLOwZntMTr
+Waiting 21 seconds...
+Radio playlist xr PunkRock radio counters: {'moved_like': 9}
+Group 'punkrock' processing complete. Updated 'completed' list.
+
+(174/216) Processing 244 tracks for playlist: xr rainymood radio
+Updated 244 tracks in existing playlist with id: PLWptjpDqazOwxNHN97V27z-uhfA8RpDCZ
+Waiting 25 seconds...
+Radio playlist xr rainymood radio counters: {'moved_like': 13}
+Moved 13 LIKE entries from xr rainymood radio to PLWptjpDqazOwV1QjufzELY_X5xmIxlmP4
+Group 'rainymood' processing complete. Updated 'completed' list.
+
+(175/216) Processing 5 tracks for playlist: xr rap radio
+Created new playlist with 5 tracks and id: PLWptjpDqazOw1frJ_g1w3Hv5dJENlGWnz
+Waiting 25 seconds...
+Radio playlist xr rap radio counters: {'moved_like': 2}
+Group 'rap' processing complete. Updated 'completed' list.
+
+(176/216) Processing 345 tracks for playlist: xr realdubstep radio
+Updated 345 tracks in existing playlist with id: PLWptjpDqazOya9NAdrfgnU8FQ8xfzBjy0
+Waiting 22 seconds...
+Radio playlist xr realdubstep radio counters: {'moved_like': 2}
+Group 'realdubstep' processing complete. Updated 'completed' list.
+
+(177/216) Processing 402 tracks for playlist: xr reggae radio
+Updated 402 tracks in existing playlist with id: PLWptjpDqazOyGKCma-Izb_r3cYobJJctY
+Waiting 20 seconds...
+Radio playlist xr reggae radio counters: {'moved_like': 4, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr reggae radio
+Group 'reggae' processing complete. Updated 'completed' list.
+
+(178/216) Processing 365 tracks for playlist: xr Rock radio
+Created new playlist with 365 tracks and id: PLWptjpDqazOwRNIAcghUKROUYbinEuX0K
+Waiting 20 seconds...
+Radio playlist xr Rock radio counters: {'removed_dislike': 4, 'moved_like': 290, 'removed_not_like': 11}
+Moved 290 LIKE entries from xr Rock radio to PLWptjpDqazOwNTc9f3s_J5m0T68-g5eVl
+Removed 15 NOT_LIKE entries from xr Rock radio
+Group 'rock' processing complete. Updated 'completed' list.
+
+(179/216) Processing 131 tracks for playlist: xr RootsMusic radio
+Created new playlist with 131 tracks and id: PLWptjpDqazOyL0V1DaNP8pnM6mrGD1Edk
+Waiting 20 seconds...
+Radio playlist xr RootsMusic radio counters: {'removed_dislike': 14, 'moved_like': 84, 'removed_not_like': 5}
+Moved 84 LIKE entries from xr RootsMusic radio to PLWptjpDqazOzLoVTY4_ghLS-LXZGY4TEE
+Removed 19 NOT_LIKE entries from xr RootsMusic radio
+Group 'rootsmusic' processing complete. Updated 'completed' list.
+
+(180/216) Processing 73 tracks for playlist: xr runningmusic radio
+Created new playlist with 73 tracks and id: PLWptjpDqazOzKJ1uesJfI-Gt4LdTiPnQ_
+Waiting 25 seconds...
+Radio playlist xr runningmusic radio counters: {'removed_dislike': 1, 'moved_like': 19}
+Created LIKE playlist for xr runningmusic radio: xr runningmusic
+Moved 19 LIKE entries from xr runningmusic radio to PLWptjpDqazOz9WcTjHCKNlDwVzXcHWj9K
+Removed 1 DISLIKE entries from xr runningmusic radio
+Group 'runningmusic' processing complete. Updated 'completed' list.
+
+(181/216) Processing 31 tracks for playlist: xr Samplehunters radio
+Created new playlist with 31 tracks and id: PLWptjpDqazOwxUqgcJItuO9jNl3Jcg_fL
+Waiting 24 seconds...
+Radio playlist xr Samplehunters radio counters: {'removed_dislike': 5, 'moved_like': 10, 'removed_not_like': 3}
+Removed 8 NOT_LIKE entries from xr Samplehunters radio
+Group 'samplehunters' processing complete. Updated 'completed' list.
+
+(182/216) Processing 7 tracks for playlist: xr screamo radio
+Created new playlist with 7 tracks and id: PLWptjpDqazOz2mYJCfD6L5U_ra6dbucHw
+Waiting 24 seconds...
+Radio playlist xr screamo radio counters: {}
+Group 'screamo' processing complete. Updated 'completed' list.
+
+(183/216) Processing 42 tracks for playlist: xr shoegaze radio
+Created new playlist with 42 tracks and id: PLWptjpDqazOympmNJOUuu8EoXbLQ7GnJW
+Waiting 22 seconds...
+Radio playlist xr shoegaze radio counters: {'removed_dislike': 2, 'moved_like': 31, 'removed_not_like': 2}
+Created LIKE playlist for xr shoegaze radio: xr shoegaze
+Moved 31 LIKE entries from xr shoegaze radio to PLWptjpDqazOyW54P57gbcqdTEMn0fKtnT
+Removed 4 NOT_LIKE entries from xr shoegaze radio
+Group 'shoegaze' processing complete. Updated 'completed' list.
+
+(184/216) Processing 4 tracks for playlist: xr ska radio
+Created new playlist with 4 tracks and id: PLWptjpDqazOwKSFK_SfPLTCsxjphntOgy
+Waiting 24 seconds...
+Radio playlist xr ska radio counters: {'moved_like': 1}
+Group 'ska' processing complete. Updated 'completed' list.
+
+(185/216) Processing 30 tracks for playlist: xr skapunk radio
+Created new playlist with 30 tracks and id: PLWptjpDqazOzG4XBbMs_XV5vxM0u056XE
+Waiting 22 seconds...
+Radio playlist xr skapunk radio counters: {}
+Group 'skapunk' processing complete. Updated 'completed' list.
+
+(186/216) Processing 4 tracks for playlist: xr slowcore radio
+Created new playlist with 4 tracks and id: PLWptjpDqazOxv0nTCvbuAeFc9i_uMPsE9
+Waiting 18 seconds...
+Radio playlist xr slowcore radio counters: {'moved_like': 1}
+Group 'slowcore' processing complete. Updated 'completed' list.
+
+(187/216) Processing 3 tracks for playlist: xr sludge radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOwJSBcuFY0kny_GFdNzmquV
+Waiting 20 seconds...
+Radio playlist xr sludge radio counters: {'moved_like': 1}
+Group 'sludge' processing complete. Updated 'completed' list.
+
+(188/216) Processing 49 tracks for playlist: xr soca radio
+Created new playlist with 49 tracks and id: PLWptjpDqazOzEa1OnXz5rfEisTfaqyBTJ
+Waiting 16 seconds...
+Radio playlist xr soca radio counters: {}
+Group 'soca' processing complete. Updated 'completed' list.
+
+(189/216) Processing 315 tracks for playlist: xr SoundsVintage radio
+Created new playlist with 315 tracks and id: PLWptjpDqazOwIBICDxom1a2PfS_bL8YEN
+Waiting 22 seconds...
+Radio playlist xr SoundsVintage radio counters: {'removed_dislike': 6, 'moved_like': 222, 'removed_not_like': 31}
+Moved 222 LIKE entries from xr SoundsVintage radio to PLWptjpDqazOzg-qvO-vEu8cxa6YXXv9fG
+Removed 37 NOT_LIKE entries from xr SoundsVintage radio
+Group 'soundsvintage' processing complete. Updated 'completed' list.
+
+(190/216) Processing 2 tracks for playlist: xr spacebass radio
+Created new playlist with 2 tracks and id: PLWptjpDqazOzLyCYC8_e2osOW1jFNZzER
+Waiting 18 seconds...
+Radio playlist xr spacebass radio counters: {}
+Group 'spacebass' processing complete. Updated 'completed' list.
+
+(191/216) Processing 380 tracks for playlist: xr SpaceMusic radio
+Updated 380 tracks in existing playlist with id: PLWptjpDqazOxGj_rV9vIPsASmecw_1G9Q
+Waiting 23 seconds...
+Radio playlist xr SpaceMusic radio counters: {}
+Group 'spacemusic' processing complete. Updated 'completed' list.
+
+(192/216) Processing 8 tracks for playlist: xr speedmetal radio
+Created new playlist with 8 tracks and id: PLWptjpDqazOxteCfrKS_a-wySsKCEL2bm
+Waiting 16 seconds...
+Radio playlist xr speedmetal radio counters: {}
+Group 'speedmetal' processing complete. Updated 'completed' list.
+
+(193/216) Processing 478 tracks for playlist: xr stonerrock radio
+Updated 478 tracks in existing playlist with id: PLWptjpDqazOxrxYpLV3oRgvvamTVG9hDF
+Waiting 23 seconds...
+Radio playlist xr stonerrock radio counters: {'moved_like': 7, 'removed_not_like': 2, 'like_and_not_like': 1}
+Removed 2 NOT_LIKE entries from xr stonerrock radio
+Group 'stonerrock' processing complete. Updated 'completed' list.
+
+(194/216) Processing 205 tracks for playlist: xr SurfPunk radio
+Updated 205 tracks in existing playlist with id: PLWptjpDqazOwwrBZDCszlk-IXu0p22njg
+Waiting 19 seconds...
+Radio playlist xr SurfPunk radio counters: {'moved_like': 2}
+Group 'surfpunk' processing complete. Updated 'completed' list.
+
+(195/216) Processing 22 tracks for playlist: xr surfrock radio
+Created new playlist with 22 tracks and id: PLWptjpDqazOyxNmma83c_D2uDdmQeGPSy
+Waiting 22 seconds...
+Radio playlist xr surfrock radio counters: {'moved_like': 3}
+Group 'surfrock' processing complete. Updated 'completed' list.
+
+(196/216) Processing 107 tracks for playlist: xr symphonicmetal radio
+Created new playlist with 107 tracks and id: PLWptjpDqazOyV016X6Ah8nv5sMKZo_diA
+Waiting 16 seconds...
+Radio playlist xr symphonicmetal radio counters: {'moved_like': 1}
+Group 'symphonicmetal' processing complete. Updated 'completed' list.
+
+(197/216) Processing 173 tracks for playlist: xr synthrock radio
+Updated 173 tracks in existing playlist with id: PLWptjpDqazOzcINgMg5ZVLoDMcZr1Qklj
+Waiting 17 seconds...
+Radio playlist xr synthrock radio counters: {'moved_like': 3, 'removed_not_like': 3}
+Removed 3 NOT_LIKE entries from xr synthrock radio
+Group 'synthrock' processing complete. Updated 'completed' list.
+
+(198/216) Processing 185 tracks for playlist: xr synthwave radio
+Created new playlist with 185 tracks and id: PLWptjpDqazOxG_dRC1bMvt4EWde0ksdlb
+Waiting 21 seconds...
+Radio playlist xr synthwave radio counters: {'moved_like': 2}
+Group 'synthwave' processing complete. Updated 'completed' list.
+
+(199/216) Processing 16 tracks for playlist: xr tech-house radio
+Created new playlist with 16 tracks and id: PLWptjpDqazOwT6QmlFCNVPF_hFAH9USXD
+Waiting 18 seconds...
+Radio playlist xr tech-house radio counters: {}
+Group 'tech-house' processing complete. Updated 'completed' list.
+
+(200/216) Processing 461 tracks for playlist: xr Techno radio
+Updated 461 tracks in existing playlist with id: PLWptjpDqazOziGGNoJ469KdbabQIgJbOA
+Waiting 20 seconds...
+Radio playlist xr Techno radio counters: {'moved_like': 9, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr Techno radio
+Group 'techno' processing complete. Updated 'completed' list.
+
+(201/216) Processing 1111 tracks for playlist: xr theOverload radio
+Updated 1111 tracks in existing playlist with id: PLWptjpDqazOxVLSCNU83811Bq72NQt0qX
+Waiting 23 seconds...
+Radio playlist xr theOverload radio counters: {'moved_like': 3, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr theOverload radio
+Group 'theoverload' processing complete. Updated 'completed' list.
+
+(202/216) Processing 44 tracks for playlist: xr thrashmetal radio
+Created new playlist with 44 tracks and id: PLWptjpDqazOxm6_2IkUZmgRBbjgDO5n65
+Waiting 24 seconds...
+Radio playlist xr thrashmetal radio counters: {}
+Group 'thrashmetal' processing complete. Updated 'completed' list.
+
+(203/216) Processing 1 tracks for playlist: xr trap radio
+Created new playlist with 1 tracks and id: PLWptjpDqazOzO8S8LBoPhh_OJziJWBEAa
+Waiting 22 seconds...
+Radio playlist xr trap radio counters: {}
+Group 'trap' processing complete. Updated 'completed' list.
+
+(204/216) Processing 768 tracks for playlist: xr trapmuzik radio
+Updated 768 tracks in existing playlist with id: PLWptjpDqazOzg0Sij0byD3T_q3Nl3Ekx6
+Waiting 16 seconds...
+Radio playlist xr trapmuzik radio counters: {'moved_like': 4, 'removed_not_like': 3}
+Removed 3 NOT_LIKE entries from xr trapmuzik radio
+Group 'trapmuzik' processing complete. Updated 'completed' list.
+
+(205/216) Processing 622 tracks for playlist: xr treemusic radio
+Updated 622 tracks in existing playlist with id: PLWptjpDqazOzfdKbBOjGYuSDUNud22pyd
+Waiting 18 seconds...
+Radio playlist xr treemusic radio counters: {}
+Group 'treemusic' processing complete. Updated 'completed' list.
+
+(206/216) Processing 556 tracks for playlist: xr triphop radio
+Updated 556 tracks in existing playlist with id: PLWptjpDqazOwntqx6q9keFgQZOD45u-Ts
+Waiting 19 seconds...
+Radio playlist xr triphop radio counters: {'moved_like': 3, 'removed_not_like': 2}
+Removed 2 NOT_LIKE entries from xr triphop radio
+Group 'triphop' processing complete. Updated 'completed' list.
+
+(207/216) Processing 260 tracks for playlist: xr TropicalHouse radio
+Updated 260 tracks in existing playlist with id: PLWptjpDqazOwRG4110bOm95i_dgHL8su-
+Waiting 16 seconds...
+Radio playlist xr TropicalHouse radio counters: {'moved_like': 4, 'removed_not_like': 1}
+Removed 1 NOT_LIKE entries from xr TropicalHouse radio
+Group 'tropicalhouse' processing complete. Updated 'completed' list.
+
+(208/216) Processing 1 tracks for playlist: xr ukgarage radio
+Created new playlist with 1 tracks and id: PLWptjpDqazOw89Ym_fIZt1g5khOma-0pR
+Waiting 23 seconds...
+Radio playlist xr ukgarage radio counters: {}
+Group 'ukgarage' processing complete. Updated 'completed' list.
+
+(209/216) Processing 4 tracks for playlist: xr undergroundmusic radio
+Created new playlist with 4 tracks and id: PLWptjpDqazOxtHi0WxMf0GP6xI_tkSpea
+Waiting 25 seconds...
+Radio playlist xr undergroundmusic radio counters: {}
+Group 'undergroundmusic' processing complete. Updated 'completed' list.
+
+(210/216) Processing 88 tracks for playlist: xr unheardof radio
+Created new playlist with 88 tracks and id: PLWptjpDqazOz0xEKs3VeRV3Cu45QcdsEK
+Waiting 18 seconds...
+Radio playlist xr unheardof radio counters: {'moved_like': 2}
+Group 'unheardof' processing complete. Updated 'completed' list.
+
+(211/216) Processing 3 tracks for playlist: xr vaporwave radio
+Created new playlist with 3 tracks and id: PLWptjpDqazOyMjQiskXeoh8MaYjBqo_LM
+Waiting 25 seconds...
+Radio playlist xr vaporwave radio counters: {}
+Group 'vaporwave' processing complete. Updated 'completed' list.
+
+(212/216) Processing 31 tracks for playlist: xr vikingmetal radio
+Created new playlist with 31 tracks and id: PLWptjpDqazOw1JF2DRbHX_EVSqfSyanxf
+Waiting 20 seconds...
+Radio playlist xr vikingmetal radio counters: {}
+Group 'vikingmetal' processing complete. Updated 'completed' list.
+
+(213/216) Processing 925 tracks for playlist: xr VintageObscura radio
+Created new playlist with 925 tracks and id: PLWptjpDqazOzpAonxhsXHOVR6KJtrt1Jb
+Waiting 19 seconds...
+Radio playlist xr VintageObscura radio counters: {'removed_dislike': 22, 'moved_like': 224, 'removed_not_like': 24}
+Moved 224 LIKE entries from xr VintageObscura radio to PLWptjpDqazOxCRv-BI5cEXMTtT8wm21KG
+Removed 46 NOT_LIKE entries from xr VintageObscura radio
+Group 'vintageobscura' processing complete. Updated 'completed' list.
+
+(214/216) Processing 357 tracks for playlist: xr witch-house radio
+Created new playlist with 357 tracks and id: PLWptjpDqazOzdQoivYJGVD2Om9LK5Gfls
+Waiting 16 seconds...
+Radio playlist xr witch-house radio counters: {'removed_dislike': 1, 'moved_like': 11}
+Moved 11 LIKE entries from xr witch-house radio to PLWptjpDqazOw2eb6yfMo3GR1cthi6o_fV
+Removed 1 DISLIKE entries from xr witch-house radio
+Group 'witch-house' processing complete. Updated 'completed' list.
+
+(215/216) Processing 230 tracks for playlist: xr witchHouse radio
+Updated 230 tracks in existing playlist with id: PLWptjpDqazOyPmkvMWH5NOThhkZl0wa67
+Waiting 20 seconds...
+Radio playlist xr witchHouse radio counters: {'moved_like': 2}
+Group 'witchhouse' processing complete. Updated 'completed' list.
+
+(216/216) Processing 582 tracks for playlist: xr WorldMusic radio
+Updated 582 tracks in existing playlist with id: PLWptjpDqazOwtTaEe3zBm7UYpZETotuTN
+Waiting 24 seconds...
+Radio playlist xr WorldMusic radio counters: {}
+Group 'worldmusic' processing complete. Updated 'completed' list.
