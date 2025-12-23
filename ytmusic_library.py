@@ -201,12 +201,13 @@ class YTMusicPlaylists:
     def _playlist_loc_first(self, col, value):
         res = self.playlists.loc[self.playlists[col] == value]
         if len(res) == 0:
-            print(f'No playlist with {col}: {value}')
+            print(f'WARNING: No playlist with {col}: {value}')
+            return None # Return None instead of crashing
         elif len(res) > 1:
             print(f'Multiple matches for: {value}, choosing',
-                  f'first result of:\n {res[['title', 'count']]}')
+                  f'first result of:\n {res[["title", "count"]]}')
         return res.iloc[0]
-
+      
     def get_playlists_by_privacy(self, privacy='PUBLIC',
                                   skip_if_contains=(
                                     'zz not', 'zzz ', 'yyz ',
@@ -610,7 +611,10 @@ class YTMusicPlaylists:
                               f'{pl_info["title"]}: {like_pl}')
                     time.sleep(2*sleep)
             else:
-                like_pl_id = self.query_by_title(like_pl).playlistId
+                like_pl_id = None
+                res = self.query_by_title(like_pl)
+                if res is not None:
+                    like_pl_id = res.playlistId
                 like_orig_vids = frozenset([t['videoId'] for t in
                                             self.playlist_get_info(
                                                 like_pl_id, use_cache=True).get('tracks', [])
