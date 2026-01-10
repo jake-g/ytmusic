@@ -579,29 +579,35 @@ class YTMusicPlaylists:
                 remove_not_like_tracks.append(track)
         if verbose:
             _counters = {k: v for k, v in pl_counters.items() if v > 0}
-            print(f"Radio playlist {pl_info['title']} counters: {_counters}")
+            print(f"Playlist {pl_info['title']} counters: {_counters}")
 
         # Take action
-        # Handle flagged tracks
-        if 'radio' not in pl_info["title"]:
+        # Handle flagged tracks - Updated to support 'albums'
+        if 'radio' not in pl_info["title"] and 'albums' not in pl_info["title"]:
             print(f'Skipping {pl_info["title"]} modifications,',
-                  f'only playlists with "radio" in name supported')
+                  f'only playlists with "radio" or "albums" in name supported')
             return pl_counters
+            
         if move_like and len(move_like_tracks) > min_num_like:
             # Create like playlist and add from 'move_like_tracks'
             like_pl_id = None
             like_vids = [t['videoId'] for t in move_like_tracks]
             like_pl = None
+            
+            # Identify source type for replacement
+            suffix = ' radio' if ' radio' in pl_info["title"] else ' albums'
             like_pl_matches = self._radio_to_like_map.loc[
                 self._radio_to_like_map['radio_playlist'] == pl_info["title"]].dropna()
+                
             if len(like_pl_matches):  # Nan or mapping
                 like_pl = like_pl_matches.iloc[0]['like_playlist']
-            elif pl_info["title"].replace(' radio', '') in self.playlist_titles:
-                like_pl = pl_info["title"].replace(' radio', '')
+            elif pl_info["title"].replace(suffix, '') in self.playlist_titles:
+                like_pl = pl_info["title"].replace(suffix, '')
+                
             if like_pl == None:
                 if create_like_playlist:
                     pl_str = f'{pl_info["title"]} [{DATE}]'
-                    like_pl = pl_info["title"].replace(' radio', '')
+                    like_pl = pl_info["title"].replace(suffix, '')
                     like_pl_id = self.yt.create_playlist(
                         title=like_pl.strip(),
                         description=f'Favorite tracks from {pl_str}',
