@@ -1,5 +1,5 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-101	Black Orchid	Cal Tjader	Breeze From The East	LIKE	4PjKjMhU6S0	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+100	Black Orchid	Cal Tjader	Breeze From The East	LIKE	4PjKjMhU6S0	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
 0	Taniec polinezyjski	Zespół Instrumentalny Marka Sewena	Księżyc na Tahiti	INDIFFERENT	gzxICaxhC9o	MPREb_Td9wivrXUpU	UCJ2qeuL2dErPcTNw9aLVZGw
 3	Chuncho	Yma Sumac	Inca Taqui	INDIFFERENT	JgoA12ytiko	MPREb_4SaO6YWCE26	UCN8eW97N-nItc3OUf4CPnqw
 38	El Choclo	Walter Ríos Quinteto	Tangos Clásicos (Para Bailar)	INDIFFERENT	2XCqg9JXsSY	MPREb_16FSVlHI8Iy	UCy1NdIxDkAaShlsOYsRfEqQ
@@ -19,15 +19,14 @@
 57	Hindara	Robert Drasnin	Voodoo!	INDIFFERENT	_GUWwPmtaVY	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
 58	Warm Night Wind	Robert Drasnin	Voodoo!	INDIFFERENT	hH3xxuTJCfY	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
 67	You	Robert Drasnin	Voodoo!	INDIFFERENT	eRKg4uqIRok	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-68	Chant Of The Moon	Robert Drasnin	Voodoo!	INDIFFERENT	B2cM1AL9J6w	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-81	Enchantment	Robert Drasnin	Voodoo!	INDIFFERENT	dGI_8NybwNc	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-87	Orinoco	Robert Drasnin	Voodoo!	INDIFFERENT	UgIiIb3eo4k	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-92	Voodoo	Robert Drasnin	Voodoo!	INDIFFERENT	rN9HyY0ez3E	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-99	Desiree	Robert Drasnin	Voodoo!	INDIFFERENT	xZOP1eyGrMc	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-100	Jardin De La Noche	Robert Drasnin	Voodoo!	INDIFFERENT	eZeWZRRgxNM	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-104	Mirage	Robert Drasnin	Voodoo!	INDIFFERENT	Wz6F0QHS1Nk	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-107	Tambuku	Robert Drasnin	Voodoo!	INDIFFERENT	cjVRfbl3Dhg	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
-109	Paradise	Robert Drasnin	Voodoo!	INDIFFERENT	V5JdUXJADCk	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+80	Enchantment	Robert Drasnin	Voodoo!	INDIFFERENT	dGI_8NybwNc	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+86	Orinoco	Robert Drasnin	Voodoo!	INDIFFERENT	UgIiIb3eo4k	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+91	Voodoo	Robert Drasnin	Voodoo!	INDIFFERENT	rN9HyY0ez3E	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+98	Desiree	Robert Drasnin	Voodoo!	INDIFFERENT	xZOP1eyGrMc	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+99	Jardin De La Noche	Robert Drasnin	Voodoo!	INDIFFERENT	eZeWZRRgxNM	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+103	Mirage	Robert Drasnin	Voodoo!	INDIFFERENT	Wz6F0QHS1Nk	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+106	Tambuku	Robert Drasnin	Voodoo!	INDIFFERENT	cjVRfbl3Dhg	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
+108	Paradise	Robert Drasnin	Voodoo!	INDIFFERENT	V5JdUXJADCk	MPREb_UTacOgtS8E6	UCESL9GPF1wrXTaf9wyK4W9g
 35	I Left Her on the Beach at Honolulu	Public Domain Music	Thomas Edison Records: Hawaiian Music 2 (1920s Songs, Vol.9)	INDIFFERENT	ZIXhQ5hpwfQ	MPREb_O6EoLnMGIaT	UCYijy46h1VWkfPU2PNaoqsA
 30	Song of India	Percussion All Stars	Predominant Percussion	INDIFFERENT	dBDUvAScVGM	MPREb_ZMBsfOwpTYf	UC4hdbjuIDiCDe2tmPsFajmg
 33	Oreknock	Patrick Vian	Bruits Et Temps Analogues	INDIFFERENT	GcsXFTEl63A	MPREb_SqruqOFoKph	UCpfOgQMOO0zLWYcGqkaMINw
@@ -39,16 +38,16 @@
 49	The Trouble With Harry (inspired by the film)	Les Baxter, His Chorus & Orchestra	Music From The Films of Alfred Hitchcok Vol. 1	INDIFFERENT	5R6VYZljnXs	MPREb_uHEiLuLjyZo	
 51	Nightingale	Les Baxter	Caribbean Moonlight	INDIFFERENT	aIjozsVlUAg	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
 62	Sway	Les Baxter	Caribbean Moonlight	INDIFFERENT	hy8SxDWy20U	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-72	The Breeze And I	Les Baxter	Caribbean Moonlight	INDIFFERENT	bUDwxJRlNEA	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-75	Adios	Les Baxter	Caribbean Moonlight	INDIFFERENT	HPt131YnKFc	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-76	Taboo	Les Baxter	Caribbean Moonlight	INDIFFERENT	IKKnBLFjHqk	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-77	Green Eyes	Les Baxter	Caribbean Moonlight	INDIFFERENT	wAvAAHsUPM0	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-78	Poinciana (Song Of The Tree)	Les Baxter	Caribbean Moonlight	INDIFFERENT	jl3sVlXoQXc	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-85	Temptation	Les Baxter	Caribbean Moonlight	INDIFFERENT	2ES54NgXfu0	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-91	I Ay Ay	Les Baxter	Caribbean Moonlight	INDIFFERENT	swqdI292d0U	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-96	Out Of This World	Les Baxter	Caribbean Moonlight	INDIFFERENT	8x61Ow601UU	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-97	Deep Night	Les Baxter	Caribbean Moonlight	INDIFFERENT	BrunQ8KCqb0	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
-98	Carnival	Les Baxter	Caribbean Moonlight	INDIFFERENT	QH6ZrIP5DNw	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+71	The Breeze And I	Les Baxter	Caribbean Moonlight	INDIFFERENT	bUDwxJRlNEA	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+74	Adios	Les Baxter	Caribbean Moonlight	INDIFFERENT	HPt131YnKFc	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+75	Taboo	Les Baxter	Caribbean Moonlight	INDIFFERENT	IKKnBLFjHqk	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+76	Green Eyes	Les Baxter	Caribbean Moonlight	INDIFFERENT	wAvAAHsUPM0	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+77	Poinciana (Song Of The Tree)	Les Baxter	Caribbean Moonlight	INDIFFERENT	jl3sVlXoQXc	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+84	Temptation	Les Baxter	Caribbean Moonlight	INDIFFERENT	2ES54NgXfu0	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+90	I Ay Ay	Les Baxter	Caribbean Moonlight	INDIFFERENT	swqdI292d0U	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+95	Out Of This World	Les Baxter	Caribbean Moonlight	INDIFFERENT	8x61Ow601UU	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+96	Deep Night	Les Baxter	Caribbean Moonlight	INDIFFERENT	BrunQ8KCqb0	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
+97	Carnival	Les Baxter	Caribbean Moonlight	INDIFFERENT	QH6ZrIP5DNw	MPREb_gxQyFltjgzC	UCy-y52p-_i9yFHklZC1JkNg
 14	To You, Sweetheart, Aloha	Leo Addeo	Hawaii Luau	INDIFFERENT	_9y6vEPyNEQ	MPREb_35UHIfyoXsk	UCXNEDRji2CMHeZkWCRKGbvg
 20	Bangkok Cock Fight	Lee Hazlewood	Cruisin' for Surf Bunnies	INDIFFERENT	h4hFQJC6nyQ	MPREb_890Y6juXC4P	UCkX30lEVz-z-TMz9WcSiaNA
 8	Turkish Dance	Korla Pandit	Genie Of The Keys: The Best Of Korla Pandit	INDIFFERENT	oXGeTiKieuQ	MPREb_nEeCbeWTWsy	UCXLbhgAlmwiOzoYO2YkA9mQ
@@ -70,14 +69,14 @@
 59	Fuji	Cal Tjader	Breeze From The East	INDIFFERENT	hN6V5NeA6gg	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
 60	East Of The Sun (And West Of The Moon)	Cal Tjader	Breeze From The East	INDIFFERENT	e2tseYKXMYo	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
 65	Poinciana	Cal Tjader	Breeze From The East	INDIFFERENT	Ciap0srNiiU	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-69	Leyte	Cal Tjader	Breeze From The East	INDIFFERENT	o1CJhvBgmek	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-70	Cha (Master Take)	Cal Tjader	Breeze From The East	INDIFFERENT	YrkYaFdlNmA	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-82	Theme From Burke's Law	Cal Tjader	Breeze From The East	INDIFFERENT	J40MQpACWJg	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-88	Shoji	Cal Tjader	Breeze From The East	INDIFFERENT	nR39HIK9rzg	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-102	Star Dust (Alternative Take)	Cal Tjader	Breeze From The East	INDIFFERENT	ULk_t23Er4U	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-105	Sake And Greens	Cal Tjader	Breeze From The East	INDIFFERENT	ll5lR6lTtQc	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-108	China Nights (Shina No Yoru) (2nd Take)	Cal Tjader	Breeze From The East	INDIFFERENT	PQ3wW5URBsw	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
-111	Cha (Alternative Take)	Cal Tjader	Breeze From The East	INDIFFERENT	2MM4FsDzotc	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+68	Leyte	Cal Tjader	Breeze From The East	INDIFFERENT	o1CJhvBgmek	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+69	Cha (Master Take)	Cal Tjader	Breeze From The East	INDIFFERENT	YrkYaFdlNmA	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+81	Theme From Burke's Law	Cal Tjader	Breeze From The East	INDIFFERENT	J40MQpACWJg	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+87	Shoji	Cal Tjader	Breeze From The East	INDIFFERENT	nR39HIK9rzg	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+101	Star Dust (Alternative Take)	Cal Tjader	Breeze From The East	INDIFFERENT	ULk_t23Er4U	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+104	Sake And Greens	Cal Tjader	Breeze From The East	INDIFFERENT	ll5lR6lTtQc	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+107	China Nights (Shina No Yoru) (2nd Take)	Cal Tjader	Breeze From The East	INDIFFERENT	PQ3wW5URBsw	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
+110	Cha (Alternative Take)	Cal Tjader	Breeze From The East	INDIFFERENT	2MM4FsDzotc	MPREb_fuK0XOEPRs0	UCGK9ztq15GjRu542EUMJ-Vw
 19	Kon-Tiki	Bobby Montez	Latin Lounge Essentials	INDIFFERENT	0_m0hVt00Po	MPREb_F5juke4wb0q	UCwBWAVnStCeoroNzdOa0eNA
 42	On A Little Street In Singapore	Bert Kaempfert	The Magic Music Of Far Away Places (Expanded Edition)	INDIFFERENT	IUkBdw0WxQw	MPREb_HzUytvEgAb9	UCHVOGhb9reRS8vr5xnrC5qQ
 28	"The Moon of Manakoora (From ""The Hurricane"")"	Axel Stordahl & His Orchestra	The Golden Age of Light Music: Light and Latin	INDIFFERENT	2ArVn_e3cZg	MPREb_nK63rcTQOsf	UCp5DwpzVMMQdhhM8Djox3SA
@@ -91,22 +90,22 @@
 63	Waltzing Matilda	Arthur Lyman	Polynesia	INDIFFERENT	D8aJBjDlzJs	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
 64	Vera Cruz	Arthur Lyman	Bwana A	INDIFFERENT	SqV5i4buGbI	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
 66	Colonel Bogey March	Arthur Lyman	Bwana A	INDIFFERENT	DYYtIbw8OM4	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-71	Drifting Sampan	Arthur Lyman	Polynesia	INDIFFERENT	0virXKQWAb8	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-73	Malaguena	Arthur Lyman	Bwana A	INDIFFERENT	ZD63TYcPWGU	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-74	Moon over a Ruined Castle	Arthur Lyman	Bwana A	INDIFFERENT	jCHtJO5jQOM	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-79	Pua Carnation	Arthur Lyman	Bwana A	INDIFFERENT	3hvlcXeltoU	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-80	Canton Rose	Arthur Lyman	Bwana A	INDIFFERENT	PVWH4YMR0Lk	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-83	Kamakani Kaili Aloha	Arthur Lyman	Polynesia	INDIFFERENT	fK7_zo2ZlMM	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-84	More	Arthur Lyman	Polynesia	INDIFFERENT	SJ6a0LUUuUQ	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-86	Bwana À	Arthur Lyman	Bwana A	INDIFFERENT	goyoYG0J-zg	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-89	Bauna Toshi	Arthur Lyman	Polynesia	INDIFFERENT	hxIh0PDa8Lg	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-90	Don't Rain on My Parade	Arthur Lyman	Polynesia	INDIFFERENT	nfe3VLEmRW8	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-93	Malaguena Salerosa	Arthur Lyman	Polynesia	INDIFFERENT	UVONs7bUs6c	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-94	La Paloma	Arthur Lyman	Bwana A	INDIFFERENT	ss7Mb7DN3Ig	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-95	Afro Blues	Arthur Lyman	Polynesia	INDIFFERENT	H7IkHyDRIIY	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
-103	Blue Sands	Arthur Lyman	Bwana A	INDIFFERENT	ey0pwTgZmrY	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-106	South Pacific Moonlight	Arthur Lyman	Bwana A	INDIFFERENT	exbj3o0lZ0M	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
-110	Hawaii Tattoo	Arthur Lyman	Polynesia	INDIFFERENT	hc8Rk8n5S1U	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+70	Drifting Sampan	Arthur Lyman	Polynesia	INDIFFERENT	0virXKQWAb8	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+72	Malaguena	Arthur Lyman	Bwana A	INDIFFERENT	ZD63TYcPWGU	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+73	Moon over a Ruined Castle	Arthur Lyman	Bwana A	INDIFFERENT	jCHtJO5jQOM	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+78	Pua Carnation	Arthur Lyman	Bwana A	INDIFFERENT	3hvlcXeltoU	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+79	Canton Rose	Arthur Lyman	Bwana A	INDIFFERENT	PVWH4YMR0Lk	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+82	Kamakani Kaili Aloha	Arthur Lyman	Polynesia	INDIFFERENT	fK7_zo2ZlMM	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+83	More	Arthur Lyman	Polynesia	INDIFFERENT	SJ6a0LUUuUQ	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+85	Bwana À	Arthur Lyman	Bwana A	INDIFFERENT	goyoYG0J-zg	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+88	Bauna Toshi	Arthur Lyman	Polynesia	INDIFFERENT	hxIh0PDa8Lg	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+89	Don't Rain on My Parade	Arthur Lyman	Polynesia	INDIFFERENT	nfe3VLEmRW8	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+92	Malaguena Salerosa	Arthur Lyman	Polynesia	INDIFFERENT	UVONs7bUs6c	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+93	La Paloma	Arthur Lyman	Bwana A	INDIFFERENT	ss7Mb7DN3Ig	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+94	Afro Blues	Arthur Lyman	Polynesia	INDIFFERENT	H7IkHyDRIIY	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
+102	Blue Sands	Arthur Lyman	Bwana A	INDIFFERENT	ey0pwTgZmrY	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+105	South Pacific Moonlight	Arthur Lyman	Bwana A	INDIFFERENT	exbj3o0lZ0M	MPREb_bL13L257YYS	UCaqVRybxkSOU0gfhaSewQMA
+109	Hawaii Tattoo	Arthur Lyman	Polynesia	INDIFFERENT	hc8Rk8n5S1U	MPREb_JNZCRU4XpPY	UCaqVRybxkSOU0gfhaSewQMA
 45	Lonely Nights In Hawaii	Annette Hanshaw	Volume 5 1928-29	INDIFFERENT	7RefGydgZ0g	MPREb_6FpB6y3CGM7	UCvZa7ebeOOR_-SGZAHLfxzw
 22	Mielisaurus	Alamaailman Vasarat	Huuro Kolkko	INDIFFERENT	IfQRlENZwZo	MPREb_bneHgVOvquY	UCwjvazCoflcASP6jykdUpbg
 24	Tellow bird	Lord Creator	Jamaica Time		0EYMYFIK1dY		
