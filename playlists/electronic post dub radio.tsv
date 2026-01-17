@@ -1,5 +1,4 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
-4	Popup Cinema	Tropics	Popup Cinema	LIKE	N1p9uxRRj0A	MPREb_2lpF3r2iPHB	UCw4djGlXVzymWjkcX-oHC6g
 2	Worst Enemy	Toddla T	Worst Enemy	LIKE	VaQ5vmRn8pM	MPREb_EwZWRcnHtFu	UCdXA52-v9VkS5cfrg5D9DdQ
 98	EFX (feat. Kelela)	Teengirl Fantasy	EFX	LIKE	8SlHDKljHz4	MPREb_86ezHwAbQFu	UCXshFAZOr3vcY2Whd0gT8GQ
 7	Everything You Say (Sekuoia Remix) (feat. Sekuoia)	Soosh	SoFar	LIKE	QKM7o6jdQtk	MPREb_AOMtDVyJsz9	UCKuoycGwE0-jvyEBZXS_Nwg
@@ -34,8 +33,9 @@
 73	Things I Didn't Mean	Urulu	Things I Didn't Mean EP	INDIFFERENT	Yusq1jX3-j8	MPREb_OIkfZb6K66R	UCGF2IarayzU4KoQttZ0Ld7Q
 63	Smalltalk (Four Tet Remix)	Ultraísta	Ultraísta (Deluxe)	INDIFFERENT	REH_5p_8twY	MPREb_dRz2fIuy3NZ	UCdKVMaDTa7BEAFKNqDBb1Tg
 28	Razorback	Two Fingers	Sweden B/W Razorback	INDIFFERENT	niMxqzL5F8Y	MPREb_mN33E8N640S	UCtX24pnL3UOAzapPKg1Uqgg
-156	Sleep With Stars	Tuesday Born	Sleep With Stars	INDIFFERENT	l52vNy7cZ9w	MPREb_nNRdJzK0KFk	UCGbmxix2D3ZdeUTjYbXRVNw
+156	Sleep With Stars	Tuesday Born	Sleep With Stars	INDIFFERENT	i4nok0xt7-Y	MPREb_7zY7oJjXebC	UCGbmxix2D3ZdeUTjYbXRVNw
 48	Buggin' (Radio Edit) (feat. Dane Bowers)	True Steppers	True Stepping	INDIFFERENT	r5_YaqsL4m0	MPREb_6xJyTdJ7Wr4	UCYVxXi0vjU7UQ4K_PNFFkVg
+4	Popup Cinema	Tropics	Popup Cinema	INDIFFERENT	sCo_8leuzmw	MPREb_ZZTH1DtpudS	UCw4djGlXVzymWjkcX-oHC6g
 100	Angelene	Thomas Azier	Hylas 002	INDIFFERENT	A4i4AjhXz8g	MPREb_3p7NV7eyBmD	UCFNYFEM8QftiVKpRVc-tMmQ
 119	D.D.	The Weeknd	Trilogy	INDIFFERENT	iMIFaA6aEFk	MPREb_Pq7VLMb1aUy	UClYV6hHlupm_S_ObS1W-DYw
 120	Talk (feat. Giorgio Tuma)	The Townhouses	Diaspora	INDIFFERENT	_5UqnVt6w3E	MPREb_aigTrIrqSAa	UCS1mpGa8sx2mYW6t7sv0c0A
@@ -73,7 +73,7 @@
 149	Yearner	ReSketch	Voltaik 6.0	INDIFFERENT	d6y9mTHaQ3Q	MPREb_x37wvT4MuRN	UCnrF37KqViRq4t5caYVXHfg
 172	This Foundry	Raime	Raime EP	INDIFFERENT	-IlOdQHmbqI	MPREb_d8fr65fBfgF	UCrmFXJ1lTPR3IkQ0HE-VFIw
 179	Build Me Up	Raffertie	Build Me Up	INDIFFERENT	SuZoqZ72PQI	MPREb_LuXSW5LgnHY	UCyNf9PtGu_TrYENEQmljIyg
-54	Kiwi Dream (Kastle Remix)	Pixelord	Puzzles	INDIFFERENT	SfGUJwCs3TI	MPREb_OuaSS5f0weI	UC-OcvBLU0TJGNoj1scoRXvg
+54	Kiwi Dream (Kastle Remix)	Pixelord	Puzzles	INDIFFERENT	EDZp9I0duB4	MPREb_eqbz6flULdR	UC-OcvBLU0TJGNoj1scoRXvg
 144	I Don't Need This	Pixelord	Moosebumps	INDIFFERENT	9hf_pGssRgw	MPREb_TWJ2Ej8bcRV	UC-OcvBLU0TJGNoj1scoRXvg
 189	Have To Say Goodbye	Phil Gerus	Have To Say Goodbye	INDIFFERENT	IGZRIDPBil0	MPREb_wHRaxlQ7GCs	UCPbYukyZw5Ke3l_-QdgsHQg
 131	Orpheus	Pariah	Detroit Falls	INDIFFERENT	jwNZrLcTFqo	MPREb_iV21KqvLjXD	UCmp28hAe4r246nHL3LdiJ0g
@@ -112,12 +112,12 @@
 64	Gógó (Lulu Rouge Remix)	Kúra	Multicolor	INDIFFERENT	B56fy87eWOE	MPREb_ieSRTuQ72gw	UCdcF12vUa4rTqr84qPGS7qg
 115	Give In (For The Fame) (Ryan Hemsworth Remix)	Kuhrye-oo	Give in (For the Fame) (Remixes)	INDIFFERENT	7TNluxPa1TM	MPREb_6p8fpbD1sy5	UCajWAg0kUFDHbEZuf7XU08A
 173	See Through You	Komplexity	See Through You	INDIFFERENT	MthqsjmDi4o	MPREb_OcpqntSaDbz	UCC2Ufl5gMuB-k9PK5SLpoeA
-55	Don't You Know (Pixelord Remix)	Koloah	XXX	INDIFFERENT	f2L1lHOV13A	MPREb_LBlPModc9na	UCweMAnYETCIdlCd7Dsjjn5g
-133	Don't You Know	Koloah	XXX	INDIFFERENT	t7tdVBzD4rc	MPREb_LBlPModc9na	UCweMAnYETCIdlCd7Dsjjn5g
+55	Don't You Know (Pixelord Remix)	Koloah	XXX	INDIFFERENT	BnxlKLDjAPM	MPREb_cz84miHDBNn	UCweMAnYETCIdlCd7Dsjjn5g
+133	Don't You Know	Koloah	XXX	INDIFFERENT	6BRdGeakkFE	MPREb_cz84miHDBNn	UCweMAnYETCIdlCd7Dsjjn5g
 15	Make You Stay (feat. JMSN)	Kastle	Kastle	INDIFFERENT	6ABVIH80u50	MPREb_oRjg1QkrJnO	UCobJPpEzu3-5VMS_iIoOnjA
 110	Red Light (feat. Ayah Marar)	Kastle	Red Light	INDIFFERENT	sbcqqMLvtts	MPREb_fgRg2zeuU4j	UCobJPpEzu3-5VMS_iIoOnjA
 126	Somebody	Kastle	Don't Believe	INDIFFERENT	e4vmTzLs02o	MPREb_N3ngq1Zzkxc	UCobJPpEzu3-5VMS_iIoOnjA
-155	I Know	Kastle	I Know	INDIFFERENT	oe6PYekPIOk	MPREb_jHcfJgNloZr	UCobJPpEzu3-5VMS_iIoOnjA
+155	I Know	Kastle	I Know	INDIFFERENT	V4M1Pa4OEp0	MPREb_jfsVeQd0LL8	UCobJPpEzu3-5VMS_iIoOnjA
 23	Hands	Karma Kid	10 Years of Eton Messy	INDIFFERENT	outFKDKEUIU	MPREb_LV94zuD0P5f	UCCPpegvROfCDCfdaXpfo1nQ
 195	See The Light	Karma Kid	See The Light	INDIFFERENT	X7AYMiRimH0	MPREb_LnmeSQNOF8d	UCMfmaS8JzBZqjWYK_XjIpAQ
 157	Angeles (Superisk Remix)	Kahn	Soul Motive Rewinds	INDIFFERENT	9CzG0xLnxVs	MPREb_1JWLCq3FxBN	UCXug89m4YxcaL31-WdTrq1w
@@ -159,11 +159,11 @@
 104	Exposure	Elo Method	Exposure EP	INDIFFERENT	JEq5DBnISKY	MPREb_d3wL6NzcTwe	UCTyuBtdrKvmmtmy1oJDGa8Q
 22	Hevvie	Eats Everything	Early Bites EP	INDIFFERENT	L_Gwz8DfjvA	MPREb_0iF9Bo7BWhK	UCbk40r7ycSQ6ZAZtoNqHhIA
 162	Henry 85	Dusky	Henry 85	INDIFFERENT	wSa4iT_eRWI	MPREb_2VUVf3Rxoro	UC8lA9PbQS2YkOEuvpcsfR5Q
-43	High Road	Dusk + Blackdown	Dasaflex	INDIFFERENT	mvrB7PCkhFA	MPREb_FCs8Uuh1tWq	UC58aWoYfNBtMDsxiWktMs6Q
+43	High Road	Dusk + Blackdown	Dasaflex	INDIFFERENT	ZC5VtMAkol0	MPREb_wmsqJ5hTr5B	UC58aWoYfNBtMDsxiWktMs6Q
 82	I Can't Take It	Detboi	I Can't Take It	INDIFFERENT	gA7toANtUdo	MPREb_qYvOeqTmAxC	UCEjyJOfzH8w1AER5ViwpANw
 168	Life After Defo	Deptford Goth	Life After Defo	INDIFFERENT	tiAVvdf-ORk	MPREb_bkiZwGpPSrf	UCmIxUpvEFzVEpNnzkiIO0ow
 174	Youth II	Deptford Goth	Youth II	INDIFFERENT	jnUSNuIBBNM	MPREb_RdoYRzIiLkA	UCmIxUpvEFzVEpNnzkiIO0ow
-89	Crown Point	Deft	Masquerade EP	INDIFFERENT	TQ4ItuaMRss	MPREb_MMXvuXCUuP1	UCkes3S7w9n91_hGogkJxRhg
+89	Crown Point	Deft	Masquerade	INDIFFERENT	qIaplq7YRlk	MPREb_gXYeIVWcTa6	UCkes3S7w9n91_hGogkJxRhg
 45	F Technology	Dark Sky	Black Rainbows	INDIFFERENT	_F5QBP4CZj8	MPREb_ddlqKDsqs8d	UCLAMNUzB2O3IbLNnBZJ474Q
 101	Ghost Ship	Clueless	Elevater Action: Ghost Ship	INDIFFERENT	Gcu9CWxazUY	MPREb_otvEnyJ8z7Y	
 42	A Laugh With Hills	Clark	Clarence Park	INDIFFERENT	s386veNo0cs	MPREb_lfMIpJMxpnN	UCnjAJRW6TGaa09fxQgP9y5w
@@ -198,7 +198,7 @@
 97	Prayer	Zhou	Zhou - EP		Xk3zKxNXPPw		
 58	The Glow	Seams	Sleeper		GpyKfbl5lPM		
 193	Sweet Kisses	Peter Smoke	Wonderful Tonight		zjR4SPcdIRU		
-61	El Dorado	Metrika	Panorama 03		p9Jhlxbi5G4		
+61	El Dorado	Metrika	We Love Listening		IW82jRGW1Ps		
 164	Perc!	GRAVEYARDD	Perc!		67diwKxbS3c		
 138	NYC	Brolin	NYC		m6Lrn7nwGE4		
 10	Please Don't Turn Me On (feat. Lifford)	Artful Dodger	It's All About The Stragglers		-qBfSTrtCQg		
