@@ -1,13 +1,14 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 738	Cantelowes	Toumani Diabaté	The Mandé Variations	LIKE	Gf3ghnHUtuQ	MPREb_BUFMPgY5nLm	UCFY7zTFetDMBdsdFI5duJEg
+345	Kel Tinawen	Tinariwen	Amadjar	LIKE	eUXvHNLyR2w	MPREb_6SILxSHkGlh	UC8s6TihH6f3Ry2dcTcZAXyw
 749	Sumran Dontri Klong	The Prasit Thawon Ensemble	Thai Classical Music	LIKE	TFGgS7XbkAM	MPREb_OgyLloQpnqt	UC5bqeyhEnEbA8CIYq5Xb2dw
 751	Within You Without You	Sanpin	Handmade Instruments Duo	LIKE	Sa19tGAlcoQ	MPREb_Z5EC2u04RMQ	UCvj6x45VhMwmnUu_pYHDDlQ
 741	Raga Mishra Piloo (Live at Carnegie Hall, 1982)	Ravi Shankar	Raga Mishra Piloo (Live at Carnegie Hall, 1982)	LIKE	dc7X790r_sI	MPREb_THb2HmPRURg	UCdjqqTS7Ixlrn98jSa9dtkQ
 750	Coumba	Orchestra Baobab	Pirates Choice	LIKE	P70MItt7cp4	MPREb_cj2kP3l9GAM	UCwMs7c2K497kuIL0dbZP8CA
 748	Ndima Ndapedza	Oliver Mtukudzi	Tuku Music	LIKE	R2H46iMlVVM	MPREb_buFzC7qxtjs	UCVoeijjk8ewIn3CZag6MCiQ
-734	Brasil Pandeiro	Novos Baianos	Acabou Chorare	LIKE	zYsTvGKyT1Q	MPREb_UP1PmGC2STl	UCixnFkj6oC7bLyvpm1PQk9A
 735	Yèkèrmo Sèw	Mulatu Astatke	New York - Addis - London: The Story of Ethio Jazz 1965-1975	LIKE	jwdBRqIsVUY	MPREb_yby3D2Eb6lj	UCzEIYuYX27ZmTBTASkIjKZA
 745	Tezeta (Nostalgia)	Mulatu Astatke	Ethiopiques, Vol. 4: Ethio Jazz 1969-1974	LIKE	dgmiYFLbn6U	MPREb_nyYdjRoQrBO	UCzEIYuYX27ZmTBTASkIjKZA
+17	Tahoultine	Mdou Moctar	Akounak Tedalat Taha Tazoughai (Original Motion Picture Soundtrack)	LIKE	m0PgCOq9zF8	MPREb_7iTbhK15Hsn	UCVDCKpE3CwCUz2-ilaBMhOQ
 732	Syrian Dreams	Maya Youssef	Syrian Dreams (Bonus Track Version)	LIKE	ITv1SWW6iGI	MPREb_PfEIo3F4p0Z	UCy1OD4PsP0h21T2qVrg-mGg
 737	Telilit	Les Filles de Illighadad	Les Filles de Illighadad	LIKE	bq5oxtaNjzU	MPREb_ECvj50OsU88	UCB12RU-5pDWyL_QeLla3osg
 736	Chackim	Khun Narin	II	LIKE	9fqEZ3nmSuE	MPREb_jdE7OM2Cdbf	UCInFVBmwRhbotlSPOxYY9DA
@@ -99,7 +100,6 @@
 120	Ténéré Tàqqàl	Tinariwen	Elwan	INDIFFERENT	snRR3kqlzpw	MPREb_lYhhNdYRGhY	UC8s6TihH6f3Ry2dcTcZAXyw
 121	Nànnuflày	Tinariwen	Elwan	INDIFFERENT	f_MlL2uDBZ8	MPREb_lYhhNdYRGhY	UC8s6TihH6f3Ry2dcTcZAXyw
 305	Lulla	Tinariwen	Imidiwan: Companions	INDIFFERENT	RZeqANXWm2g	MPREb_WIo9ul0ASbn	UC8s6TihH6f3Ry2dcTcZAXyw
-345	Kel Tinawen	Tinariwen	Amadjar	INDIFFERENT	eUXvHNLyR2w	MPREb_6SILxSHkGlh	UC8s6TihH6f3Ry2dcTcZAXyw
 503	Caucasian Dance	Thomas de Hartmann	The Music of Gurdjieff / De Hartmann	INDIFFERENT	qcsT3b7NuSg	MPREb_ANvfH2JZ36f	UCDc5iE97BNff52o7F-p-Neg
 488	Bebey	Theophilus London	Bebey	INDIFFERENT	iyC7YPTnjZI	MPREb_OUhyY85oeZh	UCKZSGvLnRJxVqWvabRC3IIQ
 347	Karobushka	Theodore Bikel	Songs of A Russian Gypsy	INDIFFERENT	4N9ETZWVVDk	MPREb_xhszP2yPqSJ	UCKvXG7KSTpQOgIuVjZV5t8w
@@ -214,7 +214,7 @@
 502	Behag Jhala	Prof.Enayet Khan	Prof.Enayet Khan	INDIFFERENT	_gL3n5gVTcs	MPREb_TiB5wC7tBIK	UCpEj3MWOACLZwecS2QAfeYw
 702	"Shayad (Aaj Kal) (From ""Love Aaj Kal"")"	Pritam	"Shayad (Aaj Kal) (From ""Love Aaj Kal"")"	INDIFFERENT	XZbNCiCEavg	MPREb_RlozkV8P6ah	UCCTN01plFzn4npREHKT2_9Q
 433	Jaag Dard - E - Ishq Jaag - Version (Anarkali)	Pratima Banerjee	Hindi Non - Film Hitz Vol - 16	INDIFFERENT	rgG5pth6PM8	MPREb_PRWeKPjmkZY	UCZsiIPv0DC6qisGt6W7BOJw
-612	Io e te	Pooh	Ascolta	INDIFFERENT	oYEeO26JjXs	MPREb_P7F0DZfnAGa	UCTC1FGxOIuwPw3Rp_rG4drw
+612	Io e te	Pooh	Ascolta	INDIFFERENT	UUB1QsWXeQs	MPREb_HawpK7EloqS	UCTC1FGxOIuwPw3Rp_rG4drw
 329	Tambulaya	Pongo	Baia	INDIFFERENT	iny2yZ95NSM	MPREb_UTY3GMXK5HH	UCe9dfejKUpDL1-vKh_Gb-5A
 605	Tosti: Preghiera (Orch. Mercurio)	Plácido Domingo	Plácido Domingo - Sacred Songs	INDIFFERENT	wBvaCjhDJx4	MPREb_K2WqBnfFdG0	UCJ7IXg5jH8d3Um-Ov674UCQ
 325	Raggle Taggle Gypsy - Tabhair Dom Do Lamh	Planxty	Planxty	INDIFFERENT	xB07-Cuh4Fo	MPREb_zEDpeDpBRvS	UC3Qrq1virQfQoWsrku3tkgQ
@@ -267,6 +267,7 @@
 307	Allah, Mohammed, Char, Yaar	Nusrat Fateh Ali Khan	Shahen-Shah (Real World Gold)	INDIFFERENT	mMmlSKXYSDI	MPREb_Pw7QMSz77MS	UCAf1OyXA-KNvekQAkkln5kg
 398	Ali Maula Ali Maula Ali Dam Dam	Nusrat Fateh Ali Khan	Qawwali King	INDIFFERENT	avMQQAazK_g	MPREb_N3TPj0Dbvps	UCAf1OyXA-KNvekQAkkln5kg
 9	Brasil Pandeiro	Novos Baianos	The Brazilian Music Compilation	INDIFFERENT	kNQ0SP7iufA	MPREb_5PVBa33ZJ9e	UCixnFkj6oC7bLyvpm1PQk9A
+734	Brasil Pandeiro	Novos Baianos	Acabou Chorare	INDIFFERENT	ifpvLOHCdAk	MPREb_3SD75IDuBzE	UCixnFkj6oC7bLyvpm1PQk9A
 259	With Pride	North Korean Archives	Moranbong Band	INDIFFERENT	lNTrc8-0CZ4	MPREb_0A8InrBaeH3	UC6PAK90bxVErBvSIW3fMQYw
 52	Sosin	Niyaz	Sumud	INDIFFERENT	drOm6S9VjQ4	MPREb_S9wqs0Sw8L3	UCuU7FOZ9p2MW__zVohOAZ4w
 377	Allahi Allah	Niyaz	Niyaz	INDIFFERENT	nPtCNP5w5MQ	MPREb_hN5dBCGlpzt	UCuU7FOZ9p2MW__zVohOAZ4w
@@ -313,7 +314,6 @@
 76	Dingolay	Mical Teja	Dingolay	INDIFFERENT	IR7OKuOSYPs	MPREb_DWjaFUVxCxw	UCbavxHdbUcp2u3z3rrs1FJw
 207	Gracias A La Vida (En Directo)	Mercedes Sosa	Mercedes Sosa En Argentina (En Directo)	INDIFFERENT	newYJLQGU9g	MPREb_UnP60quFdsZ	UC5XhmU1zjQ6CaQkP6DD0KSQ
 146	Marg-e Ghoo(Mehrpouya)	Mehrpooya	50 Songs of 50 Years Vol 1	INDIFFERENT	sbh7h_gzpZw	MPREb_jissFtFMPPa	UCXMX38fVO--moJyIkTTNLDQ
-17	Tahoultine	Mdou Moctar	Akounak Tedalat Taha Tazoughai (Original Motion Picture Soundtrack)	INDIFFERENT	m0PgCOq9zF8	MPREb_7iTbhK15Hsn	UCVDCKpE3CwCUz2-ilaBMhOQ
 89	Afrique Victime (Live)	Mdou Moctar	Niger EP Vol. 1	INDIFFERENT	2huXWN16ovQ	MPREb_vKu7o8YfieE	UCVDCKpE3CwCUz2-ilaBMhOQ
 45	Os Tincoas deixa a gira gira (Mazette Edit)	Mazette	Ailleurs	INDIFFERENT	qg1lSndEADg	MPREb_oFzeWAUslHz	UC77PF6e1HWjgCeotYrufQmA
 85	Ascending from the Fog (feat. Yuichi Onoue)	Max Devereaux	Tears on a Lotus	INDIFFERENT	LP50ieF4Dr0	MPREb_znDSVvg1B3v	UCzJMINNnURLTgFVJUUHfbCA
@@ -587,7 +587,7 @@
 627	Scintille (Radio mix)	Dalì	Scintille (Radio mix)	INDIFFERENT	K94P6rJxTPU	MPREb_zkyeFQi8zoi	UCDVzWltvlLzMsgVvTEbC2aw
 391	Sukhyi Dub	DakhaBrakha	Light	INDIFFERENT	3VF42gkhcXw	MPREb_5MuhvoybPX6	UCKN1mhR2jqeS9fpH85pJeaw
 352	Ya Rayah	Dahmane El Harrachi	Le Chaâbi, Vol. 2	INDIFFERENT	arZ8PG427sA	MPREb_vNEKoxvkiOO	UCOkY1m2TjJTVyoZC4V8cVuA
-365	Perfume do Invisível	Céu	Tropix	INDIFFERENT	zUMu7ZpcYRQ	MPREb_ixmP0cTl4VG	UChw8YehA1g8Q5oCUxsa1YYA
+365	Perfume do Invisível	Céu	Tropix	INDIFFERENT	UsqEdE4Srj0	MPREb_44dvAu1QxG7	UChw8YehA1g8Q5oCUxsa1YYA
 584	Dove potremmo volare	Cristian Nevola	Amaroamore	INDIFFERENT	SbJnTpX5I3c	MPREb_4GdSPU9fSqw	
 606	Ci sarai	Cristian Nevola	Sfumature	INDIFFERENT	vZf-FDV3QE8	MPREb_9iH3eBRDUQy	UCoTz2vu5cA2hZJvnEO6bApQ
 642	Mia cara	Cristian Nevola	Amaroamore	INDIFFERENT	R2lzmZnN8mc	MPREb_4GdSPU9fSqw	
@@ -732,11 +732,13 @@
 91	Hetq / Հետք	ARUS	Hetq / Հետք	INDIFFERENT	3a8V2XhFWFo	MPREb_Zd08SYTCXc8	UCxX-AotLSyUABdShgvj_N1A
 516	Fashion	ANTCONSTANTINO & Bruno Kroz	Fashion	INDIFFERENT	HB-XYKHWZ7g	MPREb_5KYNnnUM0sH	
 2	Of Monsters and Shadows	&Tilly & Timberly	Of Monsters and Shadows	INDIFFERENT	NDxRVEk9VCg	MPREb_S3vV0kSOUud	
+0	We Three Kings	&Tilly	We Three Kings	INDIFFERENT	fS9K60gp3dg	MPREb_WQySuEbMNN8	UCWT9uzUile1fiOWzl3PQ1Lw
 13	Higher Than Earth	&Tilly	Higher Than Earth	INDIFFERENT	_Yg5wOHrn6U	MPREb_MqmtfuAb3gu	UCWT9uzUile1fiOWzl3PQ1Lw
 19	I Cannot Rain	&Tilly	I Cannot Rain	INDIFFERENT	FnnNomQW57g	MPREb_jzdXoG7pTxo	UCWT9uzUile1fiOWzl3PQ1Lw
 20	Paper Planes	&Tilly	Paper Planes	INDIFFERENT	npzRH9zG7IM	MPREb_ciTR2SEsADF	UCWT9uzUile1fiOWzl3PQ1Lw
 95	Thieves	&Tilly	Thieves	INDIFFERENT	vM9kqo9arV0	MPREb_7OEFzZBs9A5	UCWT9uzUile1fiOWzl3PQ1Lw
 97	Hurt	&Tilly	Hurt	INDIFFERENT	gSMReAqLng4	MPREb_uISdvceRoF4	UCWT9uzUile1fiOWzl3PQ1Lw
+98	Silencing	&Tilly	Silencing	INDIFFERENT	AuS5TDr20NQ	MPREb_oYonwkBbZtZ	UCWT9uzUile1fiOWzl3PQ1Lw
 99	Sleeping With Ghosts	&Tilly	Sleeping With Ghosts	INDIFFERENT	xCg7LOgYd_4	MPREb_azA6GjUlkgE	UCWT9uzUile1fiOWzl3PQ1Lw
 100	Leaving	&Tilly	Leaving	INDIFFERENT	VnmGpFjbYDU	MPREb_24KRULioLyq	UCWT9uzUile1fiOWzl3PQ1Lw
 536	Hľadám	&Tilly	Hľadám	INDIFFERENT	bgQOnW9A4OM	MPREb_btt2E653WXU	UCWT9uzUile1fiOWzl3PQ1Lw
@@ -762,5 +764,3 @@
 266	O Segundo Sol	Cássia Eller	Rainhas do Rock		lNPIUM6olZE		
 423	Flow Like The Water | Relaxing Meditation Beats Beta	Chilling Buddha	Relaxing Meditations Beats Beta		G-gzTqWJPfQ		
 355	Longa 79	Al Massrieen	Modern Music (Habibi Funk 006)		qywS6LUfXb8		
-98	Silencing	&Tilly & BlauDisS	Silencing		eAnuY-d9RIs		
-0	We Three Kings	&Tilly	We Three Kings		Bh8ktCs4BoQ		
