@@ -207,31 +207,36 @@ class YTMusicPlaylists:
             print(f'Multiple matches for: {value}, choosing',
                   f'first result of:\n {res[["title", "count"]]}')
         return res.iloc[0]
-      
-    def get_playlists_by_privacy(self, privacy='PUBLIC',
-                                  skip_if_contains=(
-                                    'zz not', 'zzz ', 'yyz ',
-                                    'Episodes for ', 'Liked Music')):
-        out_playlists = {}
+
+    def get_playlists_by_privacy(
+            self, privacy='PUBLIC',
+            skip_if_contains=('zz not', 'zzz ', 'yyz ', 'Episodes for ', 'Liked Music', 'Podcast Queue')):
+        rows = []
         for i, p in self.playlists.iterrows():
             if len(p) == self.playlist_limit:
-                continue  # skip giant playlist
-            skip =False
-            for sk in skip_if_contains:
-                if sk in p.title.lower():
-                    skip= True
-            if skip:
-              continue
+                continue
+            if any(sk.lower() in p.title.lower() for sk in skip_if_contains):
+                continue
+            m = self.playlist_get_info(p["playlistId"])
+            if m['privacy'] == privacy:
+                # Log
+                stats = f"{m.get('trackCount')} tracks, {m.get('views')} views, {m.get('duration')}"
+                desc = str(m.get('description', '')).replace('\n', ' ')[:40]
+                print(f"Found {privacy.lower()}: '{p['title']}', Stats: {stats},",
+                      f"Description: {desc}... | [{p['playlistId']}]")
 
-            metadata = self.playlist_get_info(p["playlistId"])
-            if metadata['privacy'] == privacy:
-                pl_dict = p.to_dict()
-                pl_dict['metadata'] = metadata
-                out_playlists[p.title] = pl_dict
-                print(f'Found {privacy.lower()} playlist named: {p["title"]},', 
-                      f'description: {p["description"]}')
-        return out_playlists
-  
+                # Build row: Merge original data + Flattened Meta + Raw Meta
+                row = p.to_dict()
+                row.update({
+                    'views': int(m.get('views') or 0),  # Handle None for sort
+                    'trackCount': m.get('trackCount'),
+                    'duration': m.get('duration'),
+                    'author': m.get('author', {}).get('name'),
+                    'metadata': m
+                })
+                rows.append(row)
+        return pd.DataFrame(rows).sort_values('views', ascending=False)
+
     def rename_playlist(self, playlist_id, new_name):
         """Renames a playlist on YouTube Music given its ID."""
         try:
