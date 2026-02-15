@@ -1,6 +1,7 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 124	Glower	Throwing Snow	Glower	LIKE	FnXFYcJ5oeM	MPREb_aBQjCn8Rbr6	UCA4-_IvCNYKlFzQMPy1EUFw
 164	Heartbeats	The Knife	Deep Cuts	LIKE	wo3s_tHVm2c	MPREb_evfREkHuWmA	UCis1bLqVozucj8JQo1bLHHg
+1330	Come to Mine	Sly-One	Nasty Rips and Shifting Peaks, Vol. 2	LIKE	tkfYz2GqZcs	MPREb_CsZVGqkcs77	UCryFdfet4nYl60g4LC6HVlQ
 355	Recovery	Rival Consoles	Sonne	LIKE	6vF7pEFsa3g	MPREb_ZxgPakkoYNY	UC2WctdCmq8m617GDyuynG0w
 74	Blue Clouds	Modeselektor	Monkeytown	LIKE	RZiVA6n2tXc	MPREb_wOCtu5cB8wH	UCOinH_vPmoy7pXYMdkRMMAQ
 94	This	Modeselektor	Monkeytown	LIKE	OWqLr5Zy_vA	MPREb_wOCtu5cB8wH	UCOinH_vPmoy7pXYMdkRMMAQ
@@ -12,6 +13,7 @@
 466	Us	Haring	Nowadays	LIKE	ozvYH99t1qo	MPREb_XGU06XxqlKA	UC5CbB_HVGHoS41wNrfXMV4A
 244	Always	Hackman	The Always EP	LIKE	u8_rLnfLSqM	MPREb_QkZjZ7mWyDP	UC8h9xoJcFrUJdCTPVbmSmng
 72	Tremel (Jamie xx Remix)	Glasser	Tremel	LIKE	4FJDvjFtv3w	MPREb_FTddCFxfzxy	UCi540SXaODhDUtvmRdrWbHQ
+295	Even Though (feat. XXYYXX)	Giraffage	Kitsuné America (Deluxe Edition)	LIKE	X56BYbaCHpY	MPREb_YDQN0E08I7i	UCEDmdb7Uy87zJp7Tizt8aiQ
 126	Heal	Dark0	Oceana	LIKE	qzJ3gJ4u-bk	MPREb_UL3l3yyXc6q	UCzJNcvDx2_noPQs8oyXJ3fA
 28	Park (Jerome LOL Remix)	D33J	Tide Songs	LIKE	-VNxiwBtQoU	MPREb_ODlptUKfewc	UCrWBZF8-ni_bTSvlvE7BFDw
 66	Green Ray	Blank Banshee	Gaia	LIKE	LtQEdvacg-s	MPREb_Xq4hG9chCuu	UCghOA7wg_9EqVX41L6zOgAA
@@ -326,7 +328,6 @@
 1153	The Call	Snow in Mexico	Juno Beach	INDIFFERENT	QIWwWY8oS-k	MPREb_sypOY5GCxR4	UCmkemN4oVHCodxJIChFzK4w
 1195	Because	Smerz	Okey	INDIFFERENT	hvdUlYNDbn4	MPREb_stNMhefb3y9	UCY_JStXXYXXQAvKulRaAYlQ
 723	Eye	Smashing Pumpkins	(Rotten Apples) The Smashing Pumpkins Greatest Hits	INDIFFERENT	h8lSdoySTrk	MPREb_4107Aip9ATB	UCZM3bF24BS-qDMe0OigpeZw
-1330	Come to Mine	Sly-One	Nasty Rips and Shifting Peaks, Vol. 2	INDIFFERENT	tkfYz2GqZcs	MPREb_CsZVGqkcs77	UCryFdfet4nYl60g4LC6HVlQ
 62	Closer	Slow Magic	How To Run Away	INDIFFERENT	czUwwmywGGE	MPREb_CV5pZWbLBHD	UCmUORL97OeG5TxWhVAsB40Q
 127	Drum (Ian Chang Remix)	Slow Magic	Drum (Ian Chang Remix)	INDIFFERENT	NrOTBZb1rw4	MPREb_nFlj22EajwE	UCmUORL97OeG5TxWhVAsB40Q
 241	Sun	Slow Magic	Away	INDIFFERENT	97eNovjV6aw	MPREb_01e5RiTH3S9	UCmUORL97OeG5TxWhVAsB40Q
@@ -1030,7 +1031,6 @@
 1157	Keam Theme	Glasser	Interiors	INDIFFERENT	IAav6Yc0vKA	MPREb_8GgxZ6grmqR	UCi540SXaODhDUtvmRdrWbHQ
 1124	Life After Sundown	Glass Candy	B/E/A/T/B/O/X	INDIFFERENT	uc9I8Y9VWXg	MPREb_D2FhzTE9lAV	UC3QszaoQ5Mni-qIew6gkoFg
 316	Queen B	Girl Unit	Queen B	INDIFFERENT	lWIKTRbpKwE	MPREb_xg3cfCONQu9	UCtrItbhwr8AABb9KpH6U7ww
-295	Even Though (feat. XXYYXX)	Giraffage	Kitsuné America (Deluxe Edition)	INDIFFERENT	X56BYbaCHpY	MPREb_YDQN0E08I7i	UCEDmdb7Uy87zJp7Tizt8aiQ
 506	Earth	Giraffage	Too Real	INDIFFERENT	JBnb_wFBk_8	MPREb_MU9VpBQSxK3	UCEDmdb7Uy87zJp7Tizt8aiQ
 1316	Embrace Me Now	Giorgia Angiuli	Embrace Me Now	INDIFFERENT	G22f1PcRoY4	MPREb_1iI41SJqQDE	UCf_ODW5Fe2k67AB7OnvHv3Q
 121	Fauna, Pt II	Gidge	Autumn Bells	INDIFFERENT	XjBuYXb_pRM	MPREb_nD73oQQeLD0	UCx8EjB10TJvwgaXRLQNnJDQ
@@ -1107,8 +1107,8 @@
 271	Combustion	Eskmo	SOL	INDIFFERENT	zY-lTtGlchY	MPREb_AoyY2IPgQtw	UCCu_bk4x0KOg4NnCKoerDaw
 1302	Relics	Errors	New Relics	INDIFFERENT	3shdr1JTJDw	MPREb_tOmeu62h3hj	UCnXxojDI_oS7JS3xSX90Pkw
 1187	Syvv	Erosion Flow	Spectrums, Vol. 2	INDIFFERENT	IyRJJsct5wA	MPREb_4cQcmcDu4SV	UCel9KXmXIZY8Mq7-fjEF3SQ
-332	Wizard Island (Bonus Track)	Eprom	Halflife	INDIFFERENT	ph8ssIsPIUw	MPREb_MeyXLzvfP8g	UCfU-7RVRIQ_ioap1iI1AQTg
-491	Lost Levels	Eprom	Halflife	INDIFFERENT	pySbVUYh4vE	MPREb_MeyXLzvfP8g	UCfU-7RVRIQ_ioap1iI1AQTg
+332	Wizard Island (Bonus Track)	Eprom	Halflife	INDIFFERENT	F9ok5zjXuJo	MPREb_cMzRWKu4cqv	UCfU-7RVRIQ_ioap1iI1AQTg
+491	Lost Levels	Eprom	Halflife	INDIFFERENT	7DDBeLk6P9g	MPREb_cMzRWKu4cqv	UCfU-7RVRIQ_ioap1iI1AQTg
 988	Pineapple	Eprom	Pineapple	INDIFFERENT	QBX3f0gCJks	MPREb_n5AujgAgRuI	UCY9_tjUfXcWdBu4WyL_Ae7A
 990	Super FX	Eprom	Halflife	INDIFFERENT	5m6RlDFh_q0	MPREb_MeyXLzvfP8g	UCfU-7RVRIQ_ioap1iI1AQTg
 1306	Regis Chillbin	Eprom	Metahuman	INDIFFERENT	uhwZZTAqfbA	MPREb_YQIDGP10KBk	UCfU-7RVRIQ_ioap1iI1AQTg
