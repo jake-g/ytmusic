@@ -1,5 +1,6 @@
 	title	artist	album	likeStatus	videoId	albumId	artistId
 128	Birdland	Weather Report	Heavy Weather	LIKE	SvhmaNlLgRM	MPREb_Abm9HUJNq1Q	UCIarlYUBEI7vNYAyrt4vRlQ
+89	What's Going On? (feat. Valerie Simpson)	Quincy Jones	Smackwater Jack	LIKE	m5cFxG1pm6k	MPREb_FlRI5Gd12Lf	UCaBIjouEo87YhSGmPjuXDoA
 115	Casiopea - Swear!	slapbass1982		INDIFFERENT	NWbDaqMGc3g		UCGFc2fh15U3-cn8RfLyXMiA
 130	indigo jam unit - Sepia	seventhSky		INDIFFERENT	sLLdI94W_TI		UCIQVgJci7Rj5danRBCQPxyA
 134	Casiopea - Midnight Rendezvous (1979)	moriyaMO		INDIFFERENT	oMiw0f-qVPk		UCrXPFxNqtddZm-118LjWZgQ
@@ -38,7 +39,6 @@
 5	Ab Yeh Kya? (feat. Max Clouth, Varijashree Venugopal & Kabuki)	Ragawerk	Ab Yeh Kya?	INDIFFERENT	qK0b4YULeUI	MPREb_dvvsXAInqcR	UCPr0uOv2tLBu6hrGpKfU8ig
 41	Superstition	Quincy Jones	You've Got It Bad Girl	INDIFFERENT	OV99u3f2GY0	MPREb_BFI0zXCk2lr	UCaBIjouEo87YhSGmPjuXDoA
 85	Mellow Madness (feat. Paulette McWilliams)	Quincy Jones	Mellow Madness	INDIFFERENT	ZX4WUzQL1J8	MPREb_lsrXNN6tGSO	UCaBIjouEo87YhSGmPjuXDoA
-89	What's Going On? (feat. Valerie Simpson)	Quincy Jones	Smackwater Jack	INDIFFERENT	m5cFxG1pm6k	MPREb_FlRI5Gd12Lf	UCaBIjouEo87YhSGmPjuXDoA
 104	Tell Me A Bedtime Story	Quincy Jones	Sounds... And Stuff Like That!	INDIFFERENT	5r1jSPV3Rrg	MPREb_GDkQg3E4PZI	UCaBIjouEo87YhSGmPjuXDoA
 106	Northern Lights	Puccio Roelens	Northern Lights	INDIFFERENT	Rba5j2BMo4g	MPREb_9gGvnAdiNMM	UCOY3GS2UBx5Kd99pltKtyBA
 95	Daulton Lee	Pat Metheny Group	Falcon & The Snowman	INDIFFERENT	359VJXw7Tzk	MPREb_sFqKbtkOwkz	UCFFpzGzXK2Zw8fPher2JObA
@@ -129,7 +129,7 @@
 69	"Mambo At The ""M"""	Cal Tjader	Black Orchid	INDIFFERENT	cUtrlnyWJWE	MPREb_j01HvJT6C0S	UCGK9ztq15GjRu542EUMJ-Vw
 70	Soul Sauce	Cal Tjader	Verve Jazz Masters 39: Cal Tjader	INDIFFERENT	dEOjjeYEiRs	MPREb_X0DdVseYHTX	UCGK9ztq15GjRu542EUMJ-Vw
 116	Looking Up	CASIOPEA	PHOTOGRAPHS	INDIFFERENT	s5z_QmegP1U	MPREb_FInZDd21dmm	UCVc0F74TcYIT_g7n0_G_tmQ
-117	Midnight Rendezvous (Live at Chuo Kaikan Hall, Tokyo, Feb. 1982)	CASIOPEA	MINT JAMS(Live)	INDIFFERENT	Wj1eUsw3VFA	MPREb_PuFp02yb1nm	UCVc0F74TcYIT_g7n0_G_tmQ
+117	ミッドナイト・ランデブー (Live at Chuo Kaikan Hall, Tokyo, Feb. 1982) - Midnight Rendezvous (Live at Chuo Kaikan Hall, Tokyo, Feb. 1982)	CASIOPEA	MINT JAMS(Live)	INDIFFERENT	Wj1eUsw3VFA	MPREb_PuFp02yb1nm	UCVc0F74TcYIT_g7n0_G_tmQ
 118	Road Rhythm	CASIOPEA	DOWN UPBEAT	INDIFFERENT	7evCecU_-5g	MPREb_NI7935X5hho	UCVc0F74TcYIT_g7n0_G_tmQ
 119	After School	CASIOPEA	HALLE	INDIFFERENT	ew2DcRoLggw	MPREb_cdPt58jwhG3	UCVc0F74TcYIT_g7n0_G_tmQ
 120	Space Road	CASIOPEA	CASIOPEA	INDIFFERENT	AHU74oGbXzU	MPREb_7QvxSupV954	UCVc0F74TcYIT_g7n0_G_tmQ
@@ -139,7 +139,7 @@
 144	Swallow	CASIOPEA	CASIOPEA	INDIFFERENT	Qe5BmH_-TFA	MPREb_7QvxSupV954	UCVc0F74TcYIT_g7n0_G_tmQ
 147	Twinkle Wing	CASIOPEA	LIVING ON A FEELING - CASIOPEA night selection	INDIFFERENT	jHAyKFkMNII	MPREb_miEaRoTidV4	UCVc0F74TcYIT_g7n0_G_tmQ
 149	Smile Again	CASIOPEA	CROSS POINT	INDIFFERENT	tjXjXqfh_jA	MPREb_lCXlAU8RPZk	UCVc0F74TcYIT_g7n0_G_tmQ
-150	Galactic Funk (Live at The Ryogoku Kokugikan Tokyo, April 1985)	CASIOPEA	CASIOPEA LIVE	INDIFFERENT	jRv0jEdbqzs	MPREb_oOE3qCITVYD	UCVc0F74TcYIT_g7n0_G_tmQ
+150	ギャラクティック・ファンク (Live at The Ryogoku Kokugikan Tokyo, April 1985) - Galactic Funk (Live at The Ryogoku Kokugikan Tokyo, April 1985)	CASIOPEA	CASIOPEA LIVE	INDIFFERENT	jRv0jEdbqzs	MPREb_oOE3qCITVYD	UCVc0F74TcYIT_g7n0_G_tmQ
 7	May Day	Brian Melvin	Jazz Street	INDIFFERENT	u7i5ng6yZbE	MPREb_GXuEzoXeEX3	UCkXJwXhlIntJtreL39DDyGA
 111	Discovery	Brian Bennett	Luke Vibert's Nuggets 3	INDIFFERENT	pNbY2bt5Ecw	MPREb_E1UHyNLUUoI	UCHj5_hc6Qjp60kOD8qiDP4g
 86	Eleanor Rigby	Booker T. & The M.G.'s	The Best Of Booker T. & The MGs	INDIFFERENT	Vn5qCPGF7eo	MPREb_bFZc7eK6CgV	UCArwMp9q2N-UvSXih_0ahTA
