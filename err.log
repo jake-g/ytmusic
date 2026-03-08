@@ -1,0 +1,22 @@
+Fetched playlist and saved playlist .tsv files in 56.16 minutes
+Fetching library tracks (approx 7 min)...
+Fetched and saved 4000 tracks to _library.tsv in 0.31 minutes
+
+Traceback (most recent call last):
+  File "D:\Projects\_Projects_Synced\music-library\ytmusic\ytmusic_library.py", line 1430, in <module>
+    Y.run_backup(skip_playlist_tsv_backup=SKIP_PLAYLIST_BACKUP)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\_Projects_Synced\music-library\ytmusic\ytmusic_library.py", line 1061, in run_backup
+    tracks_no_meta = self.backup_playlists_and_collect_tracks(
+        remove_disliked=True,
+        include_library_tracks=True)
+  File "D:\Projects\_Projects_Synced\music-library\ytmusic\ytmusic_library.py", line 1215, in backup_playlists_and_collect_tracks
+    'videoId').apply(_merge_duplicates).set_index('videoId')
+                                        ~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\jake\AppData\Roaming\Python\Python314\site-packages\pandas\core\frame.py", line 6977, in set_index
+    raise KeyError(f"None of {missing} are in the columns")
+KeyError: "None of ['videoId'] are in the columns"
+[master cb28cce4] update ytmusic playlists
+ 58 files changed, 13612 insertions(+), 17236 deletions(-)
+Total pages to retrieve: 1440.
+         timestamps             datetime
