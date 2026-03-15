@@ -13,11 +13,11 @@ from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
-SKIP_PLAYLIST_BACKUP = False
+SKIP_PLAYLIST_BACKUP = True
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
-PLAYLIST_LIMIT = 4000
+PLAYLIST_LIMIT = 4500
 
 # Settings for automated radio playlist like dislike not like cleanup.
 SKIP_PLAYLIST_CLEAN = False
@@ -1077,8 +1077,7 @@ class YTMusicPlaylists:
             tracks_no_meta = self.backup_playlists_and_collect_tracks(
                 remove_disliked=True,
                 include_library_tracks=True)
-            tracks_no_meta.to_csv(self.tracks_no_meta_tsv,
-                                  sep='\t', header=True)
+            self._save_tsv(tracks_no_meta, self.tracks_no_meta_tsv)
 
         # Reload tsb dbs
         track_db = pd.read_csv(self.track_db_tsv, sep='\t', index_col=0)
@@ -1088,7 +1087,7 @@ class YTMusicPlaylists:
         new_tracks_no_meta = self._track_db_new_or_newly_liked_tracks(
             track_db, tracks_no_meta)
         track_db = self._track_db_update(track_db, new_tracks_no_meta)
-        track_db.to_csv(self.track_db_tsv, sep='\t', header=True)
+        self._save_tsv(track_db, self.track_db_tsv)
 
         # Update combined like and not_like tsvs
         not_like_tracks = self.collect_all_not_like_tracks_from_tsvs()
@@ -1134,6 +1133,20 @@ class YTMusicPlaylists:
 
         print(f'Completed in {(time.time() - start_time) / 60:.1f}',
               'minutes', flush=True)
+    
+    def _save_tsv(self, df, path, index=True):
+        df = df.copy()
+        # 1. Ensure index alignment
+        if index and df.index.name is None:
+            df.index.name = 'videoId'
+
+        # 2. THE FIX: Add r'\\': '/' to the replacement dictionary.
+        # This prevents a backslash from escaping the Tab character and shifting columns.
+        df = df.astype(str).replace(
+            {r'\t': ' ', r'[\r\n]+': ' ', '"': "'", r'\\': '/'}, regex=True)
+
+        # 3. Save as the strict text grid
+        df.to_csv(path, sep='\t', index=index, quoting=3, encoding='utf-8')
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
                           remove_disliked=False):
@@ -1152,15 +1165,13 @@ class YTMusicPlaylists:
                 except Exception as e:
                   print(f"Failed to remove dislike, error:\n{e}")
         if len(tracks):  # Sort tsv deterministically by adding tie-breakers
-            # Strip tabs/newlines, and swap double quotes for single quotes
-            tracks = tracks.replace({r'[\t\n\r]': ' ', '"': "'"}, regex=True)
-            tracks = tracks.sort_values(
-                ['likeStatus', 'artist', 'album', 'title', 'videoId'],
-                ascending=False
-            )
-            fname = os.path.join(self.playlist_tsv_dir,
-                                 f"{pl_info['title']}.tsv")
-            tracks[track_cols].to_csv(fname, sep='\t', header=True)
+            fname = os.path.join(
+                self.playlist_tsv_dir, f"{pl_info['title']}.tsv")
+            # Filter columns and sort before saving
+            tracks = tracks[track_cols + ['playlists']].sort_values(
+                ['likeStatus', 'artist', 'album', 'title', 'videoId'], ascending=False
+            )   # index=False if videoId is a col
+            self._save_tsv(tracks, fname, index=False)
         return tracks, metadata
 
     def backup_playlists_and_collect_tracks(self,
@@ -1229,8 +1240,8 @@ class YTMusicPlaylists:
                   f'{library_elapsed:.2f} minutes\n')
             library_tracks = library_tracks.sort_values('artist')
             fname = os.path.join(self.playlist_tsv_dir, '_library.tsv')
-            library_tracks[track_cols].to_csv(fname, sep='\t', header=True)
-
+            self._save_tsv(library_tracks[track_cols], fname, index=False)
+            
         print("\nNormalizing and Concatenating tracks...")
         cleaned_tracks = []
         for i, df in enumerate(all_tracks):
