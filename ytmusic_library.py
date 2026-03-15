@@ -13,7 +13,7 @@ from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
-SKIP_PLAYLIST_BACKUP = True
+SKIP_PLAYLIST_BACKUP = False
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
@@ -257,7 +257,7 @@ class YTMusicPlaylists:
         count_df_cols = ['title', 'track_count', 'privacy', 'playlist_id']
         # 'duration_hours',
         playlists = []
-        print('Getting playlist track count for playlists (takes ~5 minutes)')
+        print('Getting playlist track count for playlists (takes ~5 minutes)', flush=True)
         if filter_title:
             print(f'Only for playlists with {filter_title} in the title')
         for i, row in self.playlists.iterrows():
@@ -312,12 +312,12 @@ class YTMusicPlaylists:
         like_impacted_playlists = []
         new_likes = set()
         skip_not_like = set()
-        print('Processing LIKE tracks (takes ~10 minutes)')
+        print('Processing LIKE tracks (takes ~10 minutes)', flush=True)
         for fuzzy_track_id in like_fuzzy_ids:
             matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
             if not len(matches):
                 print(f"WARNING: Liked track with fuzzy ID '{fuzzy_track_id}'",
-                      "not found in main track database. Skipping...")
+                      "not found in main track database. Skipping...", flush=True)
                 continue
             for match in matches.itertuples():
                 if match.likeStatus == 'LIKE' or match.Index in like_vids:
@@ -337,12 +337,12 @@ class YTMusicPlaylists:
         not_like_impacted_playlists = []
         new_not_likes = set()
         skip_is_like = set()
-        print('\nProcessing NOT LIKE tracks (takes ~3 minutes)')
+        print('\nProcessing NOT LIKE tracks (takes ~3 minutes)', flush=True)
         for fuzzy_track_id in not_like_fuzzy_ids:
             matches = all_df.loc[all_df['fuzzy_track_id'] == fuzzy_track_id]
             if not len(matches):
                 print(f"WARNING: Not-Like track with fuzzy ID '{fuzzy_track_id}'",
-                      "not found in main track database. Skipping...")
+                      "not found in main track database. Skipping...", flush=True)
                 continue
             for match in matches.itertuples():
                 if match.Index in not_like_vids:
@@ -369,6 +369,7 @@ class YTMusicPlaylists:
             df['decoded_list'] = df['decoded_list'].str.strip("'")
             print(f"\nTop {top_n} playlists impacted:")
             print(df['decoded_list'].value_counts().head(top_n))
+
         display_top_impacted_playlist_df(like_impacted_playlists, top_n=10)
         # display_top_impacted_playlist_df(not_like_impacted_playlists, top_n=10)
 
@@ -408,18 +409,16 @@ class YTMusicPlaylists:
             'need_not_like': all_df.loc[all_df.index.isin(new_not_likes)],
             'need_not_like_but_is_like': all_df.loc[all_df.index.isin(skip_is_like)],
         }
-        # Original notes
-        # need_like: Most of these were LIKE, but some overridden to NOT_LIKE or INDIFFERENT (around 2000)
-        # need_not_like: Most of these were NOT_LIKE, but some overridden t0 INDIFFERENT (around 4000)
-        # need_like_but_is_not_like: Manualy reviewed (around 100)
-        # need_not_like_but_is_like: Manualy reviewed (around 100)
+
         # Manually screeen these in sheets, llabel as LIKE, INDIFFERENT or NOT_LIKE
         need_review = pd.concat([v.assign(category=k)
                                 for k, v in like_not_like_res.items()])
-        print(f'{len(need_review)} entries need like or not like manual review')
+        print(f'{len(need_review)} entries need like or not like',
+              'manual review', flush=True)
         need_review['manual_rating'] = ''
         need_review = need_review.drop_duplicates(keep='last')
-        need_review[review_cols].to_csv(self.need_rate_tsv, sep='\t', index=True)
+        need_review[review_cols].to_csv(
+            self.need_rate_tsv, sep='\t', index=True)
         return need_review
 
     def playlist_get_info(self, playlistId,
@@ -1133,7 +1132,7 @@ class YTMusicPlaylists:
 
         print(f'Completed in {(time.time() - start_time) / 60:.1f}',
               'minutes', flush=True)
-    
+
     def _save_tsv(self, df, path, index=True):
         df = df.copy()
         # 1. Ensure index alignment
@@ -1241,7 +1240,7 @@ class YTMusicPlaylists:
             library_tracks = library_tracks.sort_values('artist')
             fname = os.path.join(self.playlist_tsv_dir, '_library.tsv')
             self._save_tsv(library_tracks[track_cols], fname, index=False)
-            
+
         print("\nNormalizing and Concatenating tracks...")
         cleaned_tracks = []
         for i, df in enumerate(all_tracks):
@@ -1303,7 +1302,7 @@ class YTMusicPlaylists:
             if liked_percent < 80:
                 print('\nWARNING: Low Like Percentage!')
             print(f'{pl}\t{liked_percent:0.1f}% currently liked '
-                  f'(of {len(track_df)} total tracks)')
+                  f'(of {len(track_df)} total tracks)', flush=True)
         like_tracks = pd.concat(
             like_tracks).sort_values('artist')
         like_tracks = like_tracks.loc[
