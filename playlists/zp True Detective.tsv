@@ -1,21 +1,21 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-7	Protect Ya Neck (Shao Lin Version)	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	iEWnv4cQBKA	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA
-8	Lungs	Townes Van Zandt	Townes Van Zandt	LIKE	jmBiNrOeMlQ	MPREb_9jiO7CIjG9T	UC0nXgIL3q7dp3-QRNDYkdFg
-9	Stand By Me	The Staple Singers	Gospel Music	LIKE	RMzgDBUEe28	MPREb_tDiVmJyiPvY	UCES6P3frdkIMVkj95rxvLaw
-2	Tired of Waiting for You	The Kinks	Kinda Kinks	LIKE	ZG68hKQ8xUE	MPREb_CQ731twA0iy	UCsQHS0_Fw1vIXm3TEbPokvA
-6	Roller Coaster	The 13th Floor Elevators	The Psychedelic World Of The 13th Floor Elevators CD1	LIKE	U2W4W7VF7bo	MPREb_MJUFFc1wEKZ	UCCxO66yIzeD8pjy-FvmLcLw
-5	Meet Me in the Alleyway	Steve Earle	I'll Never Get Out of This World Alive	LIKE	ip-zT953cqE	MPREb_l5DQow9awi2	UCOFb6pfPUawqjZmIim-ykZQ
-0	Rainin' In My Heart	Slim Harpo	Sings Raining In My Heart	LIKE	FkOoxzgJ6XM	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg
-14	Aquarian	Sleep	Sleep's Holy Mountain	LIKE	UcZQvO2SDCg	MPREb_DkHSPitvF83	UCWBYenygd5SMBbBPQbS77JQ
-17	American Life	Primus	Sailing The Seas Of Cheese	LIKE	old-VkM6SjM	MPREb_tJFcZE4JwVJ	UC_g748A40yHw0fQjXRqZYug
-11	Disgusted	Lucinda Williams	Ramblin'	LIKE	-tBNXuQpfPQ	MPREb_5bghbl2wtES	UCGoF7aZZdqGLusNy9zEOkog
-13	Angel Of The Morning	Juice Newton	Juice	LIKE	fN5YZb6X8to	MPREb_pqrCoGVGAzc	UCpgPkRzgQeI6D6KMUZzQ4eA
-1	One Bourbon, One Scotch, One Beer	John Lee Hooker	The Real Folk Blues	LIKE	diXGcCGzb9c	MPREb_PKuVg9gLwH9	UCcWk0Z6iOwjUeycdoh7mIMQ
-12	Every Night	John Lee Hooker	The Real Blues	LIKE	vk3JdHAqGyA	MPREb_GSbIuk3CRJO	UCcWk0Z6iOwjUeycdoh7mIMQ
-18	Tupelo	John Lee Hooker	John Lee Hooker	LIKE	mufsr6JHVmE	MPREb_AIR8bqlrl78	UCcWk0Z6iOwjUeycdoh7mIMQ
-3	Everyman Needs a Companion	Father John Misty	Fear Fun	LIKE	QV73v0PfOgM	MPREb_GZHW0BvnFO3	UCbDizOzZ4qTxDBAVc5xbbAw
-4	Mister Sandman	Emmylou Harris	Emmylou Harris Anthology: The Warner/Reprise Years	LIKE	pD2hj8R_xF4	MPREb_1lAFmZlUuLD	UCVq1-9pb-o24ri5P2ZicJlA
-19	Cryin' Time	Dwight Yoakam	Dwight Sings Buck	LIKE	sFjjQUERgxU	MPREb_Rtckd3JIrdJ	UCYHQtLvZheLBlWV-ep78CZg
-10	La Louisana	Delma Lachney	Early American Cajun Music: Classic Recordings From the 1920's	LIKE	5cYko7PbW-4	MPREb_jLe0chwPosT	
-15	Clear Spot	Captain Beefheart And The Magic Band	Clear Spot	LIKE	eOJHnfSURF4	MPREb_wW2r8b3RVLA	UCRlJs9KpXAXdQI36nkZRYTQ
-16	Illegal Business	Boogie Down Productions	By All Means Necessary (Expanded Edition)	LIKE	yHeBotnrwEI	MPREb_ArPlXlJXcCI	UCAdeA8wHp2-09EYtu4V3nsg
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Protect Ya Neck (Shao Lin Version)	Wu-Tang Clan	Enter The Wu-Tang (36 Chambers) [Expanded Edition]	LIKE	iEWnv4cQBKA	MPREb_eRevYdOLt8G	UCdQKMtGgbbahJWE3rkPaGoA	zp True Detective
+Lungs	Townes Van Zandt	Townes Van Zandt	LIKE	jmBiNrOeMlQ	MPREb_9jiO7CIjG9T	UC0nXgIL3q7dp3-QRNDYkdFg	zp True Detective
+Stand By Me	The Staple Singers	Gospel Music	LIKE	RMzgDBUEe28	MPREb_tDiVmJyiPvY	UCES6P3frdkIMVkj95rxvLaw	zp True Detective
+Tired of Waiting for You	The Kinks	Kinda Kinks	LIKE	ZG68hKQ8xUE	MPREb_CQ731twA0iy	UCsQHS0_Fw1vIXm3TEbPokvA	zp True Detective
+Roller Coaster	The 13th Floor Elevators	The Psychedelic World Of The 13th Floor Elevators CD1	LIKE	U2W4W7VF7bo	MPREb_MJUFFc1wEKZ	UCCxO66yIzeD8pjy-FvmLcLw	zp True Detective
+Meet Me in the Alleyway	Steve Earle	I'll Never Get Out of This World Alive	LIKE	ip-zT953cqE	MPREb_l5DQow9awi2	UCOFb6pfPUawqjZmIim-ykZQ	zp True Detective
+Rainin' In My Heart	Slim Harpo	Sings Raining In My Heart	LIKE	FkOoxzgJ6XM	MPREb_MeRiWBajV61	UCrcFb_S9sHwwfAkfijuNxrg	zp True Detective
+Aquarian	Sleep	Sleep's Holy Mountain	LIKE	UcZQvO2SDCg	MPREb_DkHSPitvF83	UCWBYenygd5SMBbBPQbS77JQ	zp True Detective
+American Life	Primus	Sailing The Seas Of Cheese	LIKE	old-VkM6SjM	MPREb_tJFcZE4JwVJ	UC_g748A40yHw0fQjXRqZYug	zp True Detective
+Disgusted	Lucinda Williams	Ramblin'	LIKE	-tBNXuQpfPQ	MPREb_5bghbl2wtES	UCGoF7aZZdqGLusNy9zEOkog	zp True Detective
+Angel Of The Morning	Juice Newton	Juice	LIKE	fN5YZb6X8to	MPREb_pqrCoGVGAzc	UCpgPkRzgQeI6D6KMUZzQ4eA	zp True Detective
+One Bourbon, One Scotch, One Beer	John Lee Hooker	The Real Folk Blues	LIKE	diXGcCGzb9c	MPREb_PKuVg9gLwH9	UCcWk0Z6iOwjUeycdoh7mIMQ	zp True Detective
+Every Night	John Lee Hooker	The Real Blues	LIKE	vk3JdHAqGyA	MPREb_GSbIuk3CRJO	UCcWk0Z6iOwjUeycdoh7mIMQ	zp True Detective
+Tupelo	John Lee Hooker	John Lee Hooker	LIKE	mufsr6JHVmE	MPREb_AIR8bqlrl78	UCcWk0Z6iOwjUeycdoh7mIMQ	zp True Detective
+Everyman Needs a Companion	Father John Misty	Fear Fun	LIKE	QV73v0PfOgM	MPREb_GZHW0BvnFO3	UCbDizOzZ4qTxDBAVc5xbbAw	zp True Detective
+Mister Sandman	Emmylou Harris	Emmylou Harris Anthology: The Warner/Reprise Years	LIKE	pD2hj8R_xF4	MPREb_1lAFmZlUuLD	UCVq1-9pb-o24ri5P2ZicJlA	zp True Detective
+Cryin' Time	Dwight Yoakam	Dwight Sings Buck	LIKE	sFjjQUERgxU	MPREb_Rtckd3JIrdJ	UCYHQtLvZheLBlWV-ep78CZg	zp True Detective
+La Louisana	Delma Lachney	Early American Cajun Music: Classic Recordings From the 1920's	LIKE	5cYko7PbW-4	MPREb_jLe0chwPosT		zp True Detective
+Clear Spot	Captain Beefheart And The Magic Band	Clear Spot	LIKE	eOJHnfSURF4	MPREb_wW2r8b3RVLA	UCRlJs9KpXAXdQI36nkZRYTQ	zp True Detective
+Illegal Business	Boogie Down Productions	By All Means Necessary (Expanded Edition)	LIKE	yHeBotnrwEI	MPREb_ArPlXlJXcCI	UCAdeA8wHp2-09EYtu4V3nsg	zp True Detective

@@ -1,28 +1,28 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-25	She's My Best Friend	The Wedding Present	Seamonsters	LIKE	kpOSL4sA6Ks	MPREb_TQ9P5Ihg7Jx	UC9J89_iX5XBzP3Q04Zi58Dw
-20	One Of These Days ('1969' / 2014 Mix)	The Velvet Underground	The Velvet Underground (45th Anniversary / Super Deluxe)	LIKE	4DVjtcHwPcA	MPREb_nBpxyw0EJ1u	UCXNWrugB_J3sRBYR9idQWzg
-1	Pale Blue Eyes	The Velvet Underground	The Velvet Underground (45th Anniversary / Deluxe Edition)	LIKE	MA3aKUwu-Dk	MPREb_xT5IebzU8rB	UCXNWrugB_J3sRBYR9idQWzg
-9	Venus In Furs	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	1qQ0MG9OPzA	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
-12	I'm Waiting For The Man	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	YbigVkiAe0s	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
-5	Heroin	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	yN-EZW0Plsg	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg
-15	Rock & Roll (Full Length Version; 2015 Remaster)	The Velvet Underground	Loaded	LIKE	J_bQMsqUoD4	MPREb_Xi6tzkPzoO5	UCXNWrugB_J3sRBYR9idQWzg
-14	Tranquilize (feat. Lou Reed)	The Killers	Sawdust	LIKE	xh-FN2uuArs	MPREb_p2QSw3mrnmh	UCneQ7UWyu9USLDgMya6T7IA
-13	Leave Her for Me	The Jades	All Tomorrow's Dance Parties	LIKE	KjGCV0v_pbw	MPREb_ZyweUOxKk7z	UCZiubabgGWyH1VNIg5KSxVw
-10	White Light / White Heat	Ralph Stanley	Lawless	LIKE	3Wt4yQwMjYA	MPREb_DfLkpBJ5M7b	UCUCg80A4o9AM6t4EcCqjkWw
-3	Here She Comes Now (Smart Sessions)	Nirvana	Nevermind (Deluxe Edition)	LIKE	U0MPque4rOI	MPREb_d8vgAvq1kPj	UCrPe3hLA51968GwxHSZ1llw
-0	Walk On the Wild Side	Lou Reed	Transformer	LIKE	Qu6F-mMAQhk	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw
-11	Satellite of Love	Lou Reed	Transformer	LIKE	SL2uvTvaHEA	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw
-4	Perfect Day	Lou Reed	Transformer	LIKE	V0--emrNth8	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw
-24	Nobody but You	Lou Reed	Songs For Drella	LIKE	KR58NaOHMnI	MPREb_tOH6CrJLxbM	UCRG5sTutjbCCru6kPN1j-Bw
-19	Dirty Blvd.	Lou Reed	New York	LIKE	wbVoFFC_198	MPREb_Nt6Xfa3Ny65	UCRG5sTutjbCCru6kPN1j-Bw
-21	Crazy Feeling	Lou Reed	Coney Island Baby	LIKE	S87QdrcOipU	MPREb_TDdcFKyGwuo	UCRG5sTutjbCCru6kPN1j-Bw
-7	Velvet Underground	Jonathan Richman	I, Jonathan	LIKE	olJCQCe3b14	MPREb_Dr6zvEAYwXq	UCe1wtZi7EpCcc7tkzlK2-wQ
-8	Some Kind of Nature (feat. Lou Reed)	Gorillaz	Plastic Beach	LIKE	tjWZ4GQd49c	MPREb_RZdSdgE12kU	UCNIV5B_aJnLrKDSnW_MOmcQ
-16	Here She Comes Now	Galaxie 500	This is Our Music	LIKE	RVeRXzOrEQw	MPREb_fbWGZxBbAuI	UCfteAdNqNAwCKV-9PZOVD8g
-17	If You Rescue Me (Chanson des Chats)	Gael Garcia Bernal	The Science of Sleep	LIKE	kL2-bLOI6Fg	MPREb_Hfhls1Bvjiy	UCBYQgXFD-wUOD0b74Qvg2Eg
-26	The Bronx (feat. Lou Reed)	Booker T. Jones	The Road From Memphis (Deluxe Edition)	LIKE	RsGCHyysPlg	MPREb_7fCxRgN4GH2	UCzMJQlQnFbGJxxHZyO5fZDg
-23	Femme Fatale	Big Star	Keep An Eye On The Sky	LIKE	_LZ5LBM-CEQ	MPREb_f9kiT519geG	UC69gEkJdDElyttI0Z2oK9Vg
-6	Fistful Of Love	Antony and the Johnsons	I Am A Bird Now	LIKE	mxon4OX8HSA	MPREb_0Xq7moTa7ZL	UCkOSeADcaBYjxquA6QjPZsw
-2	Can I Kick It?	A Tribe Called Quest	The Anthology	LIKE	FGZoJS8bSeM	MPREb_L84iMEzN7Be	UCiOPPAw9e2Fj-i2uMNpoRNQ
-18	Sweet Jane (Live)	Cowboy Junkies	200 More Miles Live Performances 1985-1994	INDIFFERENT	ER26afhWpZc	MPREb_H029pPbH1Lt	UCA3yc69zhGL0TmBo-w9PPzg
-22	Foggy notion	The Modern Lovers	Live at the longbranch and more		72YIX0ifQ9I		
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+She's My Best Friend	The Wedding Present	Seamonsters	LIKE	kpOSL4sA6Ks	MPREb_TQ9P5Ihg7Jx	UC9J89_iX5XBzP3Q04Zi58Dw	zp world of velvet underground
+One Of These Days ('1969' / 2014 Mix)	The Velvet Underground	The Velvet Underground (45th Anniversary / Super Deluxe)	LIKE	4DVjtcHwPcA	MPREb_nBpxyw0EJ1u	UCXNWrugB_J3sRBYR9idQWzg	zp world of velvet underground
+Pale Blue Eyes	The Velvet Underground	The Velvet Underground (45th Anniversary / Deluxe Edition)	LIKE	MA3aKUwu-Dk	MPREb_xT5IebzU8rB	UCXNWrugB_J3sRBYR9idQWzg	zp world of velvet underground
+Venus In Furs	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	1qQ0MG9OPzA	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg	zp world of velvet underground
+I'm Waiting For The Man	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	YbigVkiAe0s	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg	zp world of velvet underground
+Heroin	The Velvet Underground	The Velvet Underground & Nico (45th Anniversary / Super Deluxe Edition)	LIKE	yN-EZW0Plsg	MPREb_OjjaAKPXuWQ	UCXNWrugB_J3sRBYR9idQWzg	zp world of velvet underground
+Rock & Roll (Full Length Version; 2015 Remaster)	The Velvet Underground	Loaded	LIKE	J_bQMsqUoD4	MPREb_Xi6tzkPzoO5	UCXNWrugB_J3sRBYR9idQWzg	zp world of velvet underground
+Tranquilize (feat. Lou Reed)	The Killers	Sawdust	LIKE	xh-FN2uuArs	MPREb_p2QSw3mrnmh	UCneQ7UWyu9USLDgMya6T7IA	zp world of velvet underground
+Leave Her for Me	The Jades	All Tomorrow's Dance Parties	LIKE	KjGCV0v_pbw	MPREb_ZyweUOxKk7z	UCZiubabgGWyH1VNIg5KSxVw	zp world of velvet underground
+White Light / White Heat	Ralph Stanley	Lawless	LIKE	3Wt4yQwMjYA	MPREb_DfLkpBJ5M7b	UCUCg80A4o9AM6t4EcCqjkWw	zp world of velvet underground
+Here She Comes Now (Smart Sessions)	Nirvana	Nevermind (Deluxe Edition)	LIKE	U0MPque4rOI	MPREb_d8vgAvq1kPj	UCrPe3hLA51968GwxHSZ1llw	zp world of velvet underground
+Walk On the Wild Side	Lou Reed	Transformer	LIKE	Qu6F-mMAQhk	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw	zp world of velvet underground
+Satellite of Love	Lou Reed	Transformer	LIKE	SL2uvTvaHEA	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw	zp world of velvet underground
+Perfect Day	Lou Reed	Transformer	LIKE	V0--emrNth8	MPREb_91qVtnKmETP	UCRG5sTutjbCCru6kPN1j-Bw	zp world of velvet underground
+Nobody but You	Lou Reed	Songs For Drella	LIKE	KR58NaOHMnI	MPREb_tOH6CrJLxbM	UCRG5sTutjbCCru6kPN1j-Bw	zp world of velvet underground
+Dirty Blvd.	Lou Reed	New York	LIKE	wbVoFFC_198	MPREb_Nt6Xfa3Ny65	UCRG5sTutjbCCru6kPN1j-Bw	zp world of velvet underground
+Crazy Feeling	Lou Reed	Coney Island Baby	LIKE	S87QdrcOipU	MPREb_TDdcFKyGwuo	UCRG5sTutjbCCru6kPN1j-Bw	zp world of velvet underground
+Velvet Underground	Jonathan Richman	I, Jonathan	LIKE	olJCQCe3b14	MPREb_Dr6zvEAYwXq	UCe1wtZi7EpCcc7tkzlK2-wQ	zp world of velvet underground
+Some Kind of Nature (feat. Lou Reed)	Gorillaz	Plastic Beach	LIKE	tjWZ4GQd49c	MPREb_RZdSdgE12kU	UCNIV5B_aJnLrKDSnW_MOmcQ	zp world of velvet underground
+Here She Comes Now	Galaxie 500	This is Our Music	LIKE	RVeRXzOrEQw	MPREb_fbWGZxBbAuI	UCfteAdNqNAwCKV-9PZOVD8g	zp world of velvet underground
+If You Rescue Me (Chanson des Chats)	Gael Garcia Bernal	The Science of Sleep	LIKE	kL2-bLOI6Fg	MPREb_Hfhls1Bvjiy	UCBYQgXFD-wUOD0b74Qvg2Eg	zp world of velvet underground
+The Bronx (feat. Lou Reed)	Booker T. Jones	The Road From Memphis (Deluxe Edition)	LIKE	RsGCHyysPlg	MPREb_7fCxRgN4GH2	UCzMJQlQnFbGJxxHZyO5fZDg	zp world of velvet underground
+Femme Fatale	Big Star	Keep An Eye On The Sky	LIKE	_LZ5LBM-CEQ	MPREb_f9kiT519geG	UC69gEkJdDElyttI0Z2oK9Vg	zp world of velvet underground
+Fistful Of Love	Antony and the Johnsons	I Am A Bird Now	LIKE	mxon4OX8HSA	MPREb_0Xq7moTa7ZL	UCkOSeADcaBYjxquA6QjPZsw	zp world of velvet underground
+Can I Kick It?	A Tribe Called Quest	The Anthology	LIKE	FGZoJS8bSeM	MPREb_L84iMEzN7Be	UCiOPPAw9e2Fj-i2uMNpoRNQ	zp world of velvet underground
+Sweet Jane (Live)	Cowboy Junkies	200 More Miles Live Performances 1985-1994	INDIFFERENT	ER26afhWpZc	MPREb_H029pPbH1Lt	UCA3yc69zhGL0TmBo-w9PPzg	zp world of velvet underground
+Foggy notion	The Modern Lovers	Live at the longbranch and more		72YIX0ifQ9I			zp world of velvet underground

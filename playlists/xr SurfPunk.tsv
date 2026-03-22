@@ -1,25 +1,25 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-18	Heavy Metal Detox	Wavves	V	LIKE	eImRcza9Oro	MPREb_Hm4XgiKv0M1	UCBYaFtXX67SKAvMqQ4m0NMQ
-17	Linus Spacehead	Wavves	King of the Beach	LIKE	c2CNaY-BsPU	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-3	King of the Beach	Wavves	King of the Beach	LIKE	OPE57o751g8	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ
-7	Imaginary Person	Ty Segall	Melted	LIKE	CdtJymRKxwU	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw
-10	Girlfriend	Ty Segall	Melted	LIKE	m5wRcnhpIRM	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw
-21	Rainbow	Thee Oh Sees	Help	LIKE	bSJiCiliO3s	MPREb_FtTK9KDh5QR	UCy-Gzb-aCE1vWkbwQZaoIXQ
-1	Government Center	The Modern Lovers	The Modern Lovers (Expanded Version)	LIKE	wZ3JNZ6tWhk	MPREb_f8oIO6KVTs5	UCCAA_uQg_Qe-M6O17CBy4KA
-0	Going Gets Tough	The Growlers	Chinese Fountain	LIKE	sdTByHWOgos	MPREb_I5RT4Z95wov	UCJNle5_HHB85Hsm8kM7aTHg
-15	Black Memories	The Growlers	Chinese Fountain	LIKE	gev79Yeqqsk	MPREb_I5RT4Z95wov	UCJNle5_HHB85Hsm8kM7aTHg
-14	Smoko	The Chats	Get This In Ya	LIKE	gfKJgVADv1o	MPREb_ObEuGHAHlc9	UC1tx68pTtbA4fDwQ9nENaYw
-12	Stoned and Starving	Parquet Courts	Light Up Gold	LIKE	KtYQtlKDrpE	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g
-23	Slow Dance II	Naked Giants	Sluff	LIKE	LG9t7Q9a-iQ	MPREb_Ktf3CFvwqql	UCOhQm30oipKTkxVv7ARNhAg
-9	Cellophane	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	FpEl3AvpcoE	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA
-16	Glazin'	Jacuzzi Boys	Glazin'	LIKE	7RIMJlra9ro	MPREb_seCNms4bCkX	UC-i0MRws7MZutdYyhbq2vMw
-19	Lost My Mind	Froth	Patterns	LIKE	JfWjTV1F3oE	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow
-8	Let's Dance	David Bowie	Let's Dance	LIKE	gHlwJvPv9C0	MPREb_zTDmoyR1UYS	UCvY1eVE6lTebXsdFbbXUtkQ
-6	Drugs	Black Lips	200 Million Thousand	LIKE	UwEyqvP4GNw	MPREb_Jim8qyQ2WKh	UClAClLwMYeeJS28cid9HkSw
-20	Birthday	Beach Fossils	Clash the Truth	LIKE	QBx1BxfvBp4	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg
-4	No Demons	Bass Drum Of Death	Bass Drum of Death	LIKE	D1Fcos7Fhis	MPREb_SPo9EppjZFE	UCT4pJ5jzFXrDFdYToBwvHXQ
-11	Archie, Marry Me	Alvvays	Alvvays	LIKE	YMqiIroCbiY	MPREb_hcXnen4eYhp	UCijE8N5dNSqbRkhOcmsxWKw
-22	You Make Me Wanna Die	The Shivas	You Know What to Do	INDIFFERENT	-B0arpMVQYQ	MPREb_xZmtHEOLdXG	UCXXvv2FiLoF7fFvgU0AA1dA
-5	Let's Go Trippin'	Dick Dale	Wanna Surf?	INDIFFERENT	6OFu7AvmKjI	MPREb_9pZPf0IdyVj	UCsIBLw01R85QwRft8D_ONgQ
-13	When It Comes To You	Dead Ghosts	S/T		d6GN_Nj-0IQ		
-2	Shred	All My Friends Hate Me	Shred		uIje155pSLU		
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Heavy Metal Detox	Wavves	V	LIKE	eImRcza9Oro	MPREb_Hm4XgiKv0M1	UCBYaFtXX67SKAvMqQ4m0NMQ	xr SurfPunk
+Linus Spacehead	Wavves	King of the Beach	LIKE	c2CNaY-BsPU	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ	xr SurfPunk
+King of the Beach	Wavves	King of the Beach	LIKE	OPE57o751g8	MPREb_85YXq9P0DNI	UCBYaFtXX67SKAvMqQ4m0NMQ	xr SurfPunk
+Imaginary Person	Ty Segall	Melted	LIKE	CdtJymRKxwU	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw	xr SurfPunk
+Girlfriend	Ty Segall	Melted	LIKE	m5wRcnhpIRM	MPREb_Fi1XaLjTHme	UC-Z_sxJOcuEGSq822j9VqNw	xr SurfPunk
+Rainbow	Thee Oh Sees	Help	LIKE	bSJiCiliO3s	MPREb_FtTK9KDh5QR	UCy-Gzb-aCE1vWkbwQZaoIXQ	xr SurfPunk
+Government Center	The Modern Lovers	The Modern Lovers (Expanded Version)	LIKE	wZ3JNZ6tWhk	MPREb_f8oIO6KVTs5	UCCAA_uQg_Qe-M6O17CBy4KA	xr SurfPunk
+Going Gets Tough	The Growlers	Chinese Fountain	LIKE	sdTByHWOgos	MPREb_I5RT4Z95wov	UCJNle5_HHB85Hsm8kM7aTHg	xr SurfPunk
+Black Memories	The Growlers	Chinese Fountain	LIKE	gev79Yeqqsk	MPREb_I5RT4Z95wov	UCJNle5_HHB85Hsm8kM7aTHg	xr SurfPunk
+Smoko	The Chats	Get This In Ya	LIKE	gfKJgVADv1o	MPREb_ObEuGHAHlc9	UC1tx68pTtbA4fDwQ9nENaYw	xr SurfPunk
+Stoned and Starving	Parquet Courts	Light Up Gold	LIKE	KtYQtlKDrpE	MPREb_YiSMUaUqarb	UC9mjOu5Vl7zQo-DvNeMES_g	xr SurfPunk
+Slow Dance II	Naked Giants	Sluff	LIKE	LG9t7Q9a-iQ	MPREb_Ktf3CFvwqql	UCOhQm30oipKTkxVv7ARNhAg	xr SurfPunk
+Cellophane	King Gizzard & The Lizard Wizard	I'm In Your Mind Fuzz	LIKE	FpEl3AvpcoE	MPREb_jDCcIZdXHd0	UC-3mACkWPK3QluQYi5dHQCA	xr SurfPunk
+Glazin'	Jacuzzi Boys	Glazin'	LIKE	7RIMJlra9ro	MPREb_seCNms4bCkX	UC-i0MRws7MZutdYyhbq2vMw	xr SurfPunk
+Lost My Mind	Froth	Patterns	LIKE	JfWjTV1F3oE	MPREb_9c3ChifkvpB	UC07KISmM9WHrT6pwPZHOvow	xr SurfPunk
+Let's Dance	David Bowie	Let's Dance	LIKE	gHlwJvPv9C0	MPREb_zTDmoyR1UYS	UCvY1eVE6lTebXsdFbbXUtkQ	xr SurfPunk
+Drugs	Black Lips	200 Million Thousand	LIKE	UwEyqvP4GNw	MPREb_Jim8qyQ2WKh	UClAClLwMYeeJS28cid9HkSw	xr SurfPunk
+Birthday	Beach Fossils	Clash the Truth	LIKE	QBx1BxfvBp4	MPREb_vglTpNKEsYk	UCa3Tz2g-TF1oumK2paiC9yg	xr SurfPunk
+No Demons	Bass Drum Of Death	Bass Drum of Death	LIKE	D1Fcos7Fhis	MPREb_SPo9EppjZFE	UCT4pJ5jzFXrDFdYToBwvHXQ	xr SurfPunk
+Archie, Marry Me	Alvvays	Alvvays	LIKE	YMqiIroCbiY	MPREb_hcXnen4eYhp	UCijE8N5dNSqbRkhOcmsxWKw	xr SurfPunk
+You Make Me Wanna Die	The Shivas	You Know What to Do	INDIFFERENT	-B0arpMVQYQ	MPREb_xZmtHEOLdXG	UCXXvv2FiLoF7fFvgU0AA1dA	xr SurfPunk
+Let's Go Trippin'	Dick Dale	Wanna Surf?	INDIFFERENT	6OFu7AvmKjI	MPREb_9pZPf0IdyVj	UCsIBLw01R85QwRft8D_ONgQ	xr SurfPunk
+When It Comes To You	Dead Ghosts	S/T		d6GN_Nj-0IQ			xr SurfPunk
+Shred	All My Friends Hate Me	Shred		uIje155pSLU			xr SurfPunk

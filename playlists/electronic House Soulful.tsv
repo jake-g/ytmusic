@@ -1,21 +1,21 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-19	Cocola	Weast	About You E.P.	LIKE	5-O-RN6EPxM	MPREb_xHIUdYNTmcm	
-6	Seal of Approval	Seb Wildblood	Jazz, Vol. 1	LIKE	As6zmKEqUkc	MPREb_D9EZyWkZb5r	UCGpqjuAaer-07iFMjHHjBpw
-13	Soldiers Listen	Roy Davis Jr	Water for Thirsty Children	LIKE	p2fDqlfGkf8	MPREb_OKzxQQZm8UX	UCN6cDOohgeZNAJkyLUa_Nrw
-17	Oh Yes (feat. Marvin Gaye & Tammi Terrell)	Paris Green	Oh Yes	LIKE	hGulEu73EmM	MPREb_AFgTKpg5gNx	UCyFXCHjWFkQTPhGD9kDomJQ
-8	Chimes (Radio Edit)	OTHERLiiNE	Chimes	LIKE	gPsH3jihsig	MPREb_soXDExAWPQe	UCSnr7vEXuZ-50ifgG-iLvhg
-14	Maybe Tomorrow	Moomin	Yesterday's Tomorrows	LIKE	MY5UO763n6g	MPREb_4Bd6XzqbF9r	UC9qAVolarFPCzrIJ0GeNh3A
-9	It's A Groove Thang (Black Glitter LB Extended MixX)	Mike Dunn	It’s A Groove Thang	LIKE	p9oi0xzOLYM	MPREb_MGdj418311r	UCvodb3xaLZRpMAbpPvbP3BQ
-5	Reach Out	Marc Rebillet	Loop Daddy	LIKE	2Z-lzB4A52w	MPREb_9UW90WjB1Xm	UC3Bs1QaL7efNNOgI0rMVclA
-1	Les Mur	Laurence Guy	Les Mur	LIKE	KMQphQP1lbE	MPREb_QoiULImLG33	UCHFCBxMRv-68aB3J86EqYzQ
-16	Both Of Us	Jayda G	Both Of Us	LIKE	6RIGa2rkG5Q	MPREb_CK3uTQNFwAf	UCk8T6DWOYj6BbnluxcKI36g
-2	SS Anne	JVXTA	Orange Islands	LIKE	Xr6iGO06vL0	MPREb_7nMURU9S8gO	UCtYu2uJBVkEZ1-uAWlno-zA
-12	12.00	HNNY	YUM001	LIKE	NX5M-hFPwlE	MPREb_bzveR9iqOQa	UC4DKHX9ZgQI-taK1AbXdZgg
-3	Marea (we’ve lost dancing)	Fred again..	Marea (we’ve lost dancing)	LIKE	5JScYWHBxcw	MPREb_0lY9O9dj7av	UCvA7ExlBsBUb5XQEYzJC1ww
-7	Kind of Blue	Felipe Gordon	Azucena Malagon	LIKE	NLvE8nW77kA	MPREb_756zSTsTc8O	UC4DRCmHa9QxAjnTsrDALw5w
-18	Greatest Love	Dj Streaks	Greatest Love	LIKE	93XYGjk0FYI	MPREb_EOvSTfp86Tj	UCqmga86_qao0u2o4Arwh4Ew
-11	Free (Andrés Remix) (feat. Billy Love, Amp Fiddler, Mike Grant & Andrés)	Cool Peepl	Free Pt. I	LIKE	bTxsJe8PbpE	MPREb_YFdo6VkHe9S	UCIx1Rhzd__SPa4SNS2t0h3w
-4	Topdown	Channel Tres	Channel Tres	LIKE	Rhd2EAXD3nk	MPREb_xL77DfWfAU8	UCuUoV0laYhlYUpDKPCYnKXA
-0	Chain of Fools	Aretha Franklin	Lady Soul (With Bonus Selections)	LIKE	o0s5CP2kXsc	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ
-15	No Need (Edit)	Oscar Jerome	No Need	INDIFFERENT	pL0K-Vf6kFI	MPREb_E92u87vm7k7	UCLmzJ2n3yiGd7Y1JEjNGWBQ
-10	Like It Is	COEO	Disco Volante EP	INDIFFERENT	16IL_NAB9u4	MPREb_HMeHnscTwu9	UCTKOc5nKCyYDHPlacAGt-bg
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Cocola	Weast	About You E.P.	LIKE	5-O-RN6EPxM	MPREb_xHIUdYNTmcm		electronic House Soulful
+Seal of Approval	Seb Wildblood	Jazz, Vol. 1	LIKE	As6zmKEqUkc	MPREb_D9EZyWkZb5r	UCGpqjuAaer-07iFMjHHjBpw	electronic House Soulful
+Soldiers Listen	Roy Davis Jr	Water for Thirsty Children	LIKE	p2fDqlfGkf8	MPREb_OKzxQQZm8UX	UCN6cDOohgeZNAJkyLUa_Nrw	electronic House Soulful
+Oh Yes (feat. Marvin Gaye & Tammi Terrell)	Paris Green	Oh Yes	LIKE	hGulEu73EmM	MPREb_AFgTKpg5gNx	UCyFXCHjWFkQTPhGD9kDomJQ	electronic House Soulful
+Chimes (Radio Edit)	OTHERLiiNE	Chimes	LIKE	gPsH3jihsig	MPREb_soXDExAWPQe	UCSnr7vEXuZ-50ifgG-iLvhg	electronic House Soulful
+Maybe Tomorrow	Moomin	Yesterday's Tomorrows	LIKE	MY5UO763n6g	MPREb_4Bd6XzqbF9r	UC9qAVolarFPCzrIJ0GeNh3A	electronic House Soulful
+It's A Groove Thang (Black Glitter LB Extended MixX)	Mike Dunn	It’s A Groove Thang	LIKE	p9oi0xzOLYM	MPREb_MGdj418311r	UCvodb3xaLZRpMAbpPvbP3BQ	electronic House Soulful
+Reach Out	Marc Rebillet	Loop Daddy	LIKE	2Z-lzB4A52w	MPREb_9UW90WjB1Xm	UC3Bs1QaL7efNNOgI0rMVclA	electronic House Soulful
+Les Mur	Laurence Guy	Les Mur	LIKE	KMQphQP1lbE	MPREb_QoiULImLG33	UCHFCBxMRv-68aB3J86EqYzQ	electronic House Soulful
+Both Of Us	Jayda G	Both Of Us	LIKE	6RIGa2rkG5Q	MPREb_CK3uTQNFwAf	UCk8T6DWOYj6BbnluxcKI36g	electronic House Soulful
+SS Anne	JVXTA	Orange Islands	LIKE	Xr6iGO06vL0	MPREb_7nMURU9S8gO	UCtYu2uJBVkEZ1-uAWlno-zA	electronic House Soulful
+12.00	HNNY	YUM001	LIKE	NX5M-hFPwlE	MPREb_bzveR9iqOQa	UC4DKHX9ZgQI-taK1AbXdZgg	electronic House Soulful
+Marea (we’ve lost dancing)	Fred again..	Marea (we’ve lost dancing)	LIKE	5JScYWHBxcw	MPREb_0lY9O9dj7av	UCvA7ExlBsBUb5XQEYzJC1ww	electronic House Soulful
+Kind of Blue	Felipe Gordon	Azucena Malagon	LIKE	NLvE8nW77kA	MPREb_756zSTsTc8O	UC4DRCmHa9QxAjnTsrDALw5w	electronic House Soulful
+Greatest Love	Dj Streaks	Greatest Love	LIKE	93XYGjk0FYI	MPREb_EOvSTfp86Tj	UCqmga86_qao0u2o4Arwh4Ew	electronic House Soulful
+Free (Andrés Remix) (feat. Billy Love, Amp Fiddler, Mike Grant & Andrés)	Cool Peepl	Free Pt. I	LIKE	bTxsJe8PbpE	MPREb_YFdo6VkHe9S	UCIx1Rhzd__SPa4SNS2t0h3w	electronic House Soulful
+Topdown	Channel Tres	Channel Tres	LIKE	Rhd2EAXD3nk	MPREb_xL77DfWfAU8	UCuUoV0laYhlYUpDKPCYnKXA	electronic House Soulful
+Chain of Fools	Aretha Franklin	Lady Soul (With Bonus Selections)	LIKE	o0s5CP2kXsc	MPREb_9RZJdtzkeMw	UCW02f_MjH8n1uMZhSds4mQQ	electronic House Soulful
+No Need (Edit)	Oscar Jerome	No Need	INDIFFERENT	pL0K-Vf6kFI	MPREb_E92u87vm7k7	UCLmzJ2n3yiGd7Y1JEjNGWBQ	electronic House Soulful
+Like It Is	COEO	Disco Volante EP	INDIFFERENT	16IL_NAB9u4	MPREb_HMeHnscTwu9	UCTKOc5nKCyYDHPlacAGt-bg	electronic House Soulful

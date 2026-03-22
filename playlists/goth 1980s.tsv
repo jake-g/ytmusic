@@ -1,16 +1,16 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-6	A Forest	The Cure	Seventeen Seconds	LIKE	SbAxbmAHgx4	MPREb_ufYzEkwkqDN	UCKuG9-MGolUuWbEcoz5qijw
-1	Primary (2005 Remaster)	The Cure	Faith (Deluxe Edition)	LIKE	zvAYSG5wvno	MPREb_FPGF2LHlhar	UCKuG9-MGolUuWbEcoz5qijw
-13	Don't Fall	The Chameleons	Script Of The Bridge - 25th Anniversary Edition	LIKE	mL9x27Lq8u0	MPREb_Ifd657ItQgw	UCEgl7o7hPiqoGWseLmRtOkg
-5	Cities In Dust	Siouxsie And The Banshees	Tinderbox	LIKE	Ruq33iAxL5k	MPREb_ASvfbA3jkOE	UCjCD5fzt7QaWpuGE9KNXN0g
-8	The Mercy Seat	Nick Cave & The Bad Seeds	Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014)	LIKE	x3vbx7oshyk	MPREb_HN2GQzY6Sf9	UCO3bMONL-69xY-dqqo5Cnew
-10	Dreams Never End	New Order	Movement	LIKE	qGHDPbDYJdY	MPREb_9Wr2tPW6JnT	UCXExK7We8VKsIzFFQYNEgBg
-3	Blue Monday	New Order	Blue Monday	LIKE	R1MBI2tSHe0	MPREb_AdFhWLz5OID	UCXExK7We8VKsIzFFQYNEgBg
-14	Love Like Blood	Killing Joke	Night Time	LIKE	eXkbVtrBrsM	MPREb_fnyugpbj8Hp	UCpeXRNHIht_B4pCfCcxSW3A
-11	Primitive (2005 Digital Remaster)	Killing Joke	Killing Joke	LIKE	Wwm2v5-s6pM	MPREb_rYT2qj0sGL3	UCpeXRNHIht_B4pCfCcxSW3A
-9	She's Lost Control (2019 Digital Master)	Joy Division	Unknown Pleasures (2019 Digital Master)	LIKE	4KyakbA43cI	MPREb_emrL3Cq1sl5	UCj9bYSgqVuUxqd3x9myLWKA
-7	Love Will Tear Us Apart	Joy Division	Love Will Tear Us Apart	LIKE	aYCshYyFzls	MPREb_yxjvL3tnPqI	UCj9bYSgqVuUxqd3x9myLWKA
-12	Twenty Four Hours (2007 Remaster)	Joy Division	Closer (Collector's Edition)	LIKE	ULEUPSHCb2Y	MPREb_wYxApLL0tVf	UCj9bYSgqVuUxqd3x9myLWKA
-0	Decades (2007 Remaster)	Joy Division	Closer (Collector's Edition)	LIKE	5-SZraSMiEc	MPREb_wYxApLL0tVf	UCj9bYSgqVuUxqd3x9myLWKA
-4	The Killing Moon	Echo And The Bunnymen	Ocean Rain	LIKE	aVD1HRV8NqA	MPREb_rBT0Mmv5r0w	UCUc_GvRm-HCUuNcUHE53s8A
-2	She's in Parties (Single Edit)	Bauhaus	Singles	LIKE	PNUxpU__H9Y	MPREb_xBKrd16FalT	UCLzFMmUiduO9G93Vi8fM3_g
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+A Forest	The Cure	Seventeen Seconds	LIKE	SbAxbmAHgx4	MPREb_ufYzEkwkqDN	UCKuG9-MGolUuWbEcoz5qijw	goth 1980s
+Primary (2005 Remaster)	The Cure	Faith (Deluxe Edition)	LIKE	zvAYSG5wvno	MPREb_FPGF2LHlhar	UCKuG9-MGolUuWbEcoz5qijw	goth 1980s
+Don't Fall	The Chameleons	Script Of The Bridge - 25th Anniversary Edition	LIKE	mL9x27Lq8u0	MPREb_Ifd657ItQgw	UCEgl7o7hPiqoGWseLmRtOkg	goth 1980s
+Cities In Dust	Siouxsie And The Banshees	Tinderbox	LIKE	Ruq33iAxL5k	MPREb_ASvfbA3jkOE	UCjCD5fzt7QaWpuGE9KNXN0g	goth 1980s
+The Mercy Seat	Nick Cave & The Bad Seeds	Lovely Creatures - The Best of Nick Cave and The Bad Seeds (1984-2014)	LIKE	x3vbx7oshyk	MPREb_HN2GQzY6Sf9	UCO3bMONL-69xY-dqqo5Cnew	goth 1980s
+Dreams Never End	New Order	Movement	LIKE	qGHDPbDYJdY	MPREb_9Wr2tPW6JnT	UCXExK7We8VKsIzFFQYNEgBg	goth 1980s
+Blue Monday	New Order	Blue Monday	LIKE	R1MBI2tSHe0	MPREb_AdFhWLz5OID	UCXExK7We8VKsIzFFQYNEgBg	goth 1980s
+Love Like Blood	Killing Joke	Night Time	LIKE	eXkbVtrBrsM	MPREb_fnyugpbj8Hp	UCpeXRNHIht_B4pCfCcxSW3A	goth 1980s
+Primitive (2005 Digital Remaster)	Killing Joke	Killing Joke	LIKE	Wwm2v5-s6pM	MPREb_rYT2qj0sGL3	UCpeXRNHIht_B4pCfCcxSW3A	goth 1980s
+She's Lost Control (2019 Digital Master)	Joy Division	Unknown Pleasures (2019 Digital Master)	LIKE	4KyakbA43cI	MPREb_emrL3Cq1sl5	UCj9bYSgqVuUxqd3x9myLWKA	goth 1980s
+Love Will Tear Us Apart	Joy Division	Love Will Tear Us Apart	LIKE	aYCshYyFzls	MPREb_yxjvL3tnPqI	UCj9bYSgqVuUxqd3x9myLWKA	goth 1980s
+Twenty Four Hours (2007 Remaster)	Joy Division	Closer (Collector's Edition)	LIKE	ULEUPSHCb2Y	MPREb_wYxApLL0tVf	UCj9bYSgqVuUxqd3x9myLWKA	goth 1980s
+Decades (2007 Remaster)	Joy Division	Closer (Collector's Edition)	LIKE	5-SZraSMiEc	MPREb_wYxApLL0tVf	UCj9bYSgqVuUxqd3x9myLWKA	goth 1980s
+The Killing Moon	Echo And The Bunnymen	Ocean Rain	LIKE	aVD1HRV8NqA	MPREb_rBT0Mmv5r0w	UCUc_GvRm-HCUuNcUHE53s8A	goth 1980s
+She's in Parties (Single Edit)	Bauhaus	Singles	LIKE	PNUxpU__H9Y	MPREb_xBKrd16FalT	UCLzFMmUiduO9G93Vi8fM3_g	goth 1980s

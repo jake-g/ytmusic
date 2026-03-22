@@ -1,26 +1,26 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-23	Plattenbau O.S.T.	Zugezogen Maskulin	Plattenbau O.S.T.	INDIFFERENT	u0ELG35jBo8	MPREb_He6eh0KQYEp	UC1SuLm9g0z8AzcN1l1RG0tw
-10	GARE DU NORD	Yvnnis	GARE DU NORD	INDIFFERENT	EuB4WDVfWj0	MPREb_jyy2zbqg68w	UCWuiRQKENg8YnJ8R0mHcZmw
-17	Anunnaki	Vald	V	INDIFFERENT	D1oYyHUOX_E	MPREb_iGBIHtht9o0	UCuoYUPZjt45iE_kPMN241IA
-4	Gotaga (feat. Vald)	Vald	Echelon, Vol. 1	INDIFFERENT	csecYdnNrUc	MPREb_TgikfJD1Yvj	UCuoYUPZjt45iE_kPMN241IA
-1	American Airlines (feat. SCH)	Sofiane	La Direction	INDIFFERENT	mRomaCGxO18	MPREb_G9Hn7ToPTWD	UCadt6VEgGw7QCG4VuTNt5Yg
-20	Titi parisien 2 (feat. Jarod, Haroun, Davodka & L.I.K)	Seth Gueko	TITI PARISIEN 2	INDIFFERENT	z0ke2zOqFic	MPREb_vsdielEpejf	UCe0W4vofrk30EGW6YiPih_A
-22	BWL	SSIO	BWL	INDIFFERENT	gk6-aoxVEpI	MPREb_ej7Pp1iSOQA	UCpDPnl4xIsueUFVidM_A6xg
-3	Ne pas m'aimer (feat. MC Solaar)	Oxmo Puccino	LA HAUTEUR DE LA LUNE	INDIFFERENT	pKRP2D7kgGc	MPREb_CwttWaostnw	UCzkMMZx1Da8fWTfwSYtjmhw
-5	L'odeur de l'essence	Orelsan	Civilisation	INDIFFERENT	j3Ot_46Xxyc	MPREb_kzQJgJcSvMu	UCUvTgU3Ph690heH5EVhomCg
-16	Jour meilleur	Orelsan	Civilisation	INDIFFERENT	GvShgLpychE	MPREb_kzQJgJcSvMu	UCUvTgU3Ph690heH5EVhomCg
-0	Cheddar	Népal	Cheddar	INDIFFERENT	8hImPCimx9Y	MPREb_VQK45uZ4pyY	UCdWGxWejEXZrKMz8Br37Glg
-14	Trajectoire	Népal	Adios Bahamas	INDIFFERENT	abrmqTNHUa0	MPREb_2UARfVHFHBc	UCdWGxWejEXZrKMz8Br37Glg
-12	Sundance	Népal	Adios Bahamas	INDIFFERENT	8obCzuhp3cg	MPREb_2UARfVHFHBc	UCdWGxWejEXZrKMz8Br37Glg
-15	paramount	Mairo	LA FIEV	INDIFFERENT	8DilNHIw1T4	MPREb_8oxUSZRnzUI	UCQLW20NyN2i1-M34ysF0JcA
-6	Les songes que nous pouvons	Lucio Bukowski	ASADACHI TAPE 4	INDIFFERENT	QXtog2D2lnA	MPREb_M3qmr41Kkb8	UClWcUAi9T4k46OcAZCeYBFQ
-21	Bitch (feat. Vald)	Lefa	FAME	INDIFFERENT	UgjnhCRwiJ0	MPREb_MYVO5jjUI0w	UC1vuLLoTbF2W0kHMqTURY0A
-13	En Avance Napz x SZH / Palmashow - (Klugg Remix)	Klugg	En Avance Napz x SZH / Palmashow - (Klugg Remix)	INDIFFERENT	s_s7D7ZyU-c	MPREb_okxFEgfNhws	
-11	64 mesures de spleen	Jazzy Bazz	Sur la Route du 3.14	INDIFFERENT	ck9INMT1xXE	MPREb_wzClPyXDDzY	UCijiNMshgLSMHD2sDS90y8A
-9	HUSTLE HARD	Hologram Lo', Jungle Jack, & Lesram	HUSTLE HARD	INDIFFERENT	cjjNIfffS94	MPREb_Cr5CY3GOiTk	
-8	God Bless (feat. Damso)	Hamza	Santa Sauce 2	INDIFFERENT	_4E2CrffLqU	MPREb_dgJltodjfBv	UCGknrJk5kJypRpbWdqQOhXQ
-2	Desiigner - A COLORS SHOW	Freeze corleone	Desiigner - A COLORS SHOW	INDIFFERENT	qq4DWymRoQI	MPREb_0FuRKPmeSlL	UC7S5NYPe5IQqJW2_kQ9xO7w
-18	Smog	Damso	Lithopédion	INDIFFERENT	QUxoHho78Gs	MPREb_Rx2uxEm6Guh	UCSx2kcfRgmDovMzbw3lfmAA
-7	Ma définition	Booba	Temps mort	INDIFFERENT	NXNarQIDOUY	MPREb_tBDLWpz6pdy	UCM2z1XL2kr4uVQoA2elbCgw
-19	JOLIES DAMES	BBYLAMELO	JOLIES DAMES	INDIFFERENT	iqLeQ7EEzMU	MPREb_KGh5vv7ItgY	UCjYTM8wqyt1NnPWhZKjVgsA
-24	bissu dumm ¿ MEGALODON REMIX	AchtVier	bissu dumm ¿ MEGALODON REMIX	INDIFFERENT	P0BfCTiUyMc	MPREb_Oqr4naRu3gn	UC44EFCD4Z_FZJKZpKF-XRPw
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Plattenbau O.S.T.	Zugezogen Maskulin	Plattenbau O.S.T.	INDIFFERENT	u0ELG35jBo8	MPREb_He6eh0KQYEp	UC1SuLm9g0z8AzcN1l1RG0tw	xr foreignrap radio
+GARE DU NORD	Yvnnis	GARE DU NORD	INDIFFERENT	EuB4WDVfWj0	MPREb_jyy2zbqg68w	UCWuiRQKENg8YnJ8R0mHcZmw	xr foreignrap radio
+Anunnaki	Vald	V	INDIFFERENT	D1oYyHUOX_E	MPREb_iGBIHtht9o0	UCuoYUPZjt45iE_kPMN241IA	xr foreignrap radio
+Gotaga (feat. Vald)	Vald	Echelon, Vol. 1	INDIFFERENT	csecYdnNrUc	MPREb_TgikfJD1Yvj	UCuoYUPZjt45iE_kPMN241IA	xr foreignrap radio
+American Airlines (feat. SCH)	Sofiane	La Direction	INDIFFERENT	mRomaCGxO18	MPREb_G9Hn7ToPTWD	UCadt6VEgGw7QCG4VuTNt5Yg	xr foreignrap radio
+Titi parisien 2 (feat. Jarod, Haroun, Davodka & L.I.K)	Seth Gueko	TITI PARISIEN 2	INDIFFERENT	z0ke2zOqFic	MPREb_vsdielEpejf	UCe0W4vofrk30EGW6YiPih_A	xr foreignrap radio
+BWL	SSIO	BWL	INDIFFERENT	gk6-aoxVEpI	MPREb_ej7Pp1iSOQA	UCpDPnl4xIsueUFVidM_A6xg	xr foreignrap radio
+Ne pas m'aimer (feat. MC Solaar)	Oxmo Puccino	LA HAUTEUR DE LA LUNE	INDIFFERENT	pKRP2D7kgGc	MPREb_CwttWaostnw	UCzkMMZx1Da8fWTfwSYtjmhw	xr foreignrap radio
+L'odeur de l'essence	Orelsan	Civilisation	INDIFFERENT	j3Ot_46Xxyc	MPREb_kzQJgJcSvMu	UCUvTgU3Ph690heH5EVhomCg	xr foreignrap radio
+Jour meilleur	Orelsan	Civilisation	INDIFFERENT	GvShgLpychE	MPREb_kzQJgJcSvMu	UCUvTgU3Ph690heH5EVhomCg	xr foreignrap radio
+Cheddar	Népal	Cheddar	INDIFFERENT	8hImPCimx9Y	MPREb_VQK45uZ4pyY	UCdWGxWejEXZrKMz8Br37Glg	xr foreignrap radio
+Trajectoire	Népal	Adios Bahamas	INDIFFERENT	abrmqTNHUa0	MPREb_2UARfVHFHBc	UCdWGxWejEXZrKMz8Br37Glg	xr foreignrap radio
+Sundance	Népal	Adios Bahamas	INDIFFERENT	8obCzuhp3cg	MPREb_2UARfVHFHBc	UCdWGxWejEXZrKMz8Br37Glg	xr foreignrap radio
+paramount	Mairo	LA FIEV	INDIFFERENT	8DilNHIw1T4	MPREb_8oxUSZRnzUI	UCQLW20NyN2i1-M34ysF0JcA	xr foreignrap radio
+Les songes que nous pouvons	Lucio Bukowski	ASADACHI TAPE 4	INDIFFERENT	QXtog2D2lnA	MPREb_M3qmr41Kkb8	UClWcUAi9T4k46OcAZCeYBFQ	xr foreignrap radio
+Bitch (feat. Vald)	Lefa	FAME	INDIFFERENT	UgjnhCRwiJ0	MPREb_MYVO5jjUI0w	UC1vuLLoTbF2W0kHMqTURY0A	xr foreignrap radio
+En Avance Napz x SZH / Palmashow - (Klugg Remix)	Klugg	En Avance Napz x SZH / Palmashow - (Klugg Remix)	INDIFFERENT	s_s7D7ZyU-c	MPREb_okxFEgfNhws		xr foreignrap radio
+64 mesures de spleen	Jazzy Bazz	Sur la Route du 3.14	INDIFFERENT	ck9INMT1xXE	MPREb_wzClPyXDDzY	UCijiNMshgLSMHD2sDS90y8A	xr foreignrap radio
+HUSTLE HARD	Hologram Lo', Jungle Jack, & Lesram	HUSTLE HARD	INDIFFERENT	cjjNIfffS94	MPREb_Cr5CY3GOiTk		xr foreignrap radio
+God Bless (feat. Damso)	Hamza	Santa Sauce 2	INDIFFERENT	_4E2CrffLqU	MPREb_dgJltodjfBv	UCGknrJk5kJypRpbWdqQOhXQ	xr foreignrap radio
+Desiigner - A COLORS SHOW	Freeze corleone	Desiigner - A COLORS SHOW	INDIFFERENT	qq4DWymRoQI	MPREb_0FuRKPmeSlL	UC7S5NYPe5IQqJW2_kQ9xO7w	xr foreignrap radio
+Smog	Damso	Lithopédion	INDIFFERENT	QUxoHho78Gs	MPREb_Rx2uxEm6Guh	UCSx2kcfRgmDovMzbw3lfmAA	xr foreignrap radio
+Ma définition	Booba	Temps mort	INDIFFERENT	NXNarQIDOUY	MPREb_tBDLWpz6pdy	UCM2z1XL2kr4uVQoA2elbCgw	xr foreignrap radio
+JOLIES DAMES	BBYLAMELO	JOLIES DAMES	INDIFFERENT	iqLeQ7EEzMU	MPREb_KGh5vv7ItgY	UCjYTM8wqyt1NnPWhZKjVgsA	xr foreignrap radio
+bissu dumm ¿ MEGALODON REMIX	AchtVier	bissu dumm ¿ MEGALODON REMIX	INDIFFERENT	P0BfCTiUyMc	MPREb_Oqr4naRu3gn	UC44EFCD4Z_FZJKZpKF-XRPw	xr foreignrap radio

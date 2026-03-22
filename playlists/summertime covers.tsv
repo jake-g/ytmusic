@@ -1,23 +1,23 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-20	Summertime	The Zombies	Begin Here	LIKE	f1OB3kPuREI	MPREb_v1HxEiWyE21	UCweKPvb6MUhb8X4X0nbObBw
-12	Summertime (Instrumental; Live at the Matrix)	The Doors	Strange Nights of Stone	LIKE	j5C_Z9O65QY	MPREb_csfR6eZuEyY	UCdx4iSJpg33jNmd9auQT04Q
-15	Doin' Time	Sublime	Sublime	LIKE	H3ypeugNzYA	MPREb_NEUtjdYRHVt	UCPu227hd28pLRBC-S6i5e6g
-3	Summertime	Stan Getz	West Coast Jazz (Expanded Edition)	LIKE	b9Xh2xIqdM4	MPREb_8ECGkuYZwkK	UCITWDrIiWv0Y-zj8xrvoY-Q
-13	Summertime	Sarah Vaughan	After Hours	LIKE	J6fp6fu2q-s	MPREb_3JiMNLqxn8z	UCVIvDAZP_e1e3bKzKFaPfig
-17	Summertime (Da Porgy and Bess)	Rossana Casale	Jazz in me	LIKE	_mrTd4vf2jQ	MPREb_FEEpgl7tXfk	UCbGBscvzh7H9Xs3cER9R48w
-14	Summertime	Nina Simone	Masters Of The Last Century: Best of Nina Simone	LIKE	D6v2nktxThk	MPREb_PlgbJVXQ9W4	UCqj1HtTq76Bo6rBXNwrF5Uw
-1	Summertime	Miles Davis	Porgy And Bess	LIKE	EPj22GjTUzw	MPREb_WrPxPSzddLs	UCIev2PktTH5mI-QlGmbUkiw
-10	Summertime (Acoustic Version)	Melody Gardot	Bye Bye Blackbird EP	LIKE	I36D1URmXPM	MPREb_0as8tnb5afb	UCDFCfcSFCmT1pZE5ySOBX8A
-0	Summertime The Gershwin Version	Lana Del Rey	Summertime (The Gershwin Version)	LIKE	Ku_knRls53A	MPREb_RQMw5Ml5610	UCyqq-aiu3vEHuf5NhwmOJcw
-6	Summertime	John Coltrane	My Favorite Things (Deluxe Edition)	LIKE	wG6Is9XXmzw	MPREb_O8MgFmBaj23	UCH4T2kv7rr9qnuP0DOXLxMA
-21	Summertime (Mono) [2022 Remaster]	John Coltrane	My Favorite Things (2022 Remaster)	LIKE	gDUoy1syL_k	MPREb_XVvpJ4JN78Y	UCH4T2kv7rr9qnuP0DOXLxMA
-18	Summertime	Herbie Hancock	Gershwin's World	LIKE	HrU73XFKkjM	MPREb_Z4KxOKLkwRM	UCq_O_14tCKbx9U9uUT_LEPA
-9	Summertime	Gábor Szabó	Jazz Raga	LIKE	JGRvcCrKD4o	MPREb_CkyjTXsER1S	UCOR9UO5R0ISybK33CZhFqUw
-7	Summertime	Ella Fitzgerald	Porgy And Bess	LIKE	ii_YKr5UhAU	MPREb_9fxvqn90BSd	UCuMHq8jMRZXpUxSGLBuCa9g
-11	Summertime	Chet Baker & Radio Orchestra Hanover	My Favourite Songs - The Last Great Concert	LIKE	8Y3FfjESXpU	MPREb_wZf9y5hTBfx	
-5	Summertime	Charlie Parker	April In Paris: The Genius Of Charlie Parker #2	LIKE	UuoqD7L8NKc	MPREb_2RWeI4dpPQJ	UCPFmyRluI7yvEdbHCrecUng
-2	Summertime	Caetano Veloso	A Foreign Sound	LIKE	g2GwztnM0lk	MPREb_HYukSWhuHA8	UCo7VN5w1PpeBOapTqtal75Q
-8	Summertime	Billy Strings	Rock Of Ages	LIKE	YYz_Zw0RiQE	MPREb_q7GQo5XBxmx	UCgswh903MyFOXFEMA9lVUBg
-19	Summertime	Billy Stewart	By George And Ira: Red Hot On Gershwin	LIKE	ZvpnIOXna0Y	MPREb_wohXPCJ5qm0	UCATenkbGJuZeE2RBKzEwzWg
-4	Summertime	Big Brother & The Holding Company	Cheap Thrills	LIKE	ZC_Ghf3OPnw	MPREb_HKBTNxs7YyA	UC7_X7oXO73abqsd-mlzfMVQ
-16	Summertime	Bille Holiday	Cinema Sounds, Vol. 3		0oYxqeqQXYo		
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Summertime	The Zombies	Begin Here	LIKE	f1OB3kPuREI	MPREb_v1HxEiWyE21	UCweKPvb6MUhb8X4X0nbObBw	summertime covers
+Summertime (Instrumental; Live at the Matrix)	The Doors	Strange Nights of Stone	LIKE	j5C_Z9O65QY	MPREb_csfR6eZuEyY	UCdx4iSJpg33jNmd9auQT04Q	summertime covers
+Doin' Time	Sublime	Sublime	LIKE	H3ypeugNzYA	MPREb_NEUtjdYRHVt	UCPu227hd28pLRBC-S6i5e6g	summertime covers
+Summertime	Stan Getz	West Coast Jazz (Expanded Edition)	LIKE	b9Xh2xIqdM4	MPREb_8ECGkuYZwkK	UCITWDrIiWv0Y-zj8xrvoY-Q	summertime covers
+Summertime	Sarah Vaughan	After Hours	LIKE	J6fp6fu2q-s	MPREb_3JiMNLqxn8z	UCVIvDAZP_e1e3bKzKFaPfig	summertime covers
+Summertime (Da Porgy and Bess)	Rossana Casale	Jazz in me	LIKE	_mrTd4vf2jQ	MPREb_FEEpgl7tXfk	UCbGBscvzh7H9Xs3cER9R48w	summertime covers
+Summertime	Nina Simone	Masters Of The Last Century: Best of Nina Simone	LIKE	D6v2nktxThk	MPREb_PlgbJVXQ9W4	UCqj1HtTq76Bo6rBXNwrF5Uw	summertime covers
+Summertime	Miles Davis	Porgy And Bess	LIKE	EPj22GjTUzw	MPREb_WrPxPSzddLs	UCIev2PktTH5mI-QlGmbUkiw	summertime covers
+Summertime (Acoustic Version)	Melody Gardot	Bye Bye Blackbird EP	LIKE	I36D1URmXPM	MPREb_0as8tnb5afb	UCDFCfcSFCmT1pZE5ySOBX8A	summertime covers
+Summertime The Gershwin Version	Lana Del Rey	Summertime (The Gershwin Version)	LIKE	Ku_knRls53A	MPREb_RQMw5Ml5610	UCyqq-aiu3vEHuf5NhwmOJcw	summertime covers
+Summertime	John Coltrane	My Favorite Things (Deluxe Edition)	LIKE	wG6Is9XXmzw	MPREb_O8MgFmBaj23	UCH4T2kv7rr9qnuP0DOXLxMA	summertime covers
+Summertime (Mono) [2022 Remaster]	John Coltrane	My Favorite Things (2022 Remaster)	LIKE	gDUoy1syL_k	MPREb_XVvpJ4JN78Y	UCH4T2kv7rr9qnuP0DOXLxMA	summertime covers
+Summertime	Herbie Hancock	Gershwin's World	LIKE	HrU73XFKkjM	MPREb_Z4KxOKLkwRM	UCq_O_14tCKbx9U9uUT_LEPA	summertime covers
+Summertime	Gábor Szabó	Jazz Raga	LIKE	JGRvcCrKD4o	MPREb_CkyjTXsER1S	UCOR9UO5R0ISybK33CZhFqUw	summertime covers
+Summertime	Ella Fitzgerald	Porgy And Bess	LIKE	ii_YKr5UhAU	MPREb_9fxvqn90BSd	UCuMHq8jMRZXpUxSGLBuCa9g	summertime covers
+Summertime	Chet Baker & Radio Orchestra Hanover	My Favourite Songs - The Last Great Concert	LIKE	8Y3FfjESXpU	MPREb_wZf9y5hTBfx		summertime covers
+Summertime	Charlie Parker	April In Paris: The Genius Of Charlie Parker #2	LIKE	UuoqD7L8NKc	MPREb_2RWeI4dpPQJ	UCPFmyRluI7yvEdbHCrecUng	summertime covers
+Summertime	Caetano Veloso	A Foreign Sound	LIKE	g2GwztnM0lk	MPREb_HYukSWhuHA8	UCo7VN5w1PpeBOapTqtal75Q	summertime covers
+Summertime	Billy Strings	Rock Of Ages	LIKE	YYz_Zw0RiQE	MPREb_q7GQo5XBxmx	UCgswh903MyFOXFEMA9lVUBg	summertime covers
+Summertime	Billy Stewart	By George And Ira: Red Hot On Gershwin	LIKE	ZvpnIOXna0Y	MPREb_wohXPCJ5qm0	UCATenkbGJuZeE2RBKzEwzWg	summertime covers
+Summertime	Big Brother & The Holding Company	Cheap Thrills	LIKE	ZC_Ghf3OPnw	MPREb_HKBTNxs7YyA	UC7_X7oXO73abqsd-mlzfMVQ	summertime covers
+Summertime	Bille Holiday	Cinema Sounds, Vol. 3		0oYxqeqQXYo			summertime covers

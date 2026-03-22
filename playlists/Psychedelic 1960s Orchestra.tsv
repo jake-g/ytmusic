@@ -1,18 +1,18 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-4	Space Odditty	The Wallis Blue Orchestra	Diamond Light	LIKE	HfUzXeVVICY	MPREb_FON8lEnF15W	UCLUhBz_IlCUJtuw8opT6rTA
-3	Wonderful Land	The Shadows	20 Golden Greats	LIKE	oqmJKPxOPRs	MPREb_msQoW7kYEeD	UCcjz131E-j2SQhQ_mO8eY5w
-8	Yesterday	The Percy Faith Strings	The Beatles Album	LIKE	Obccj7Qg45c	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA
-14	The Fool On the Hill	The Percy Faith Strings	The Beatles Album	LIKE	2Q9dUVtcEeE	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA
-13	Michelle	The Percy Faith Strings	The Beatles Album	LIKE	u7-s2rFvRIE	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA
-12	Lucy In the Sky with Diamonds	The Percy Faith Strings	The Beatles Album	LIKE	ZfrbOJpsFOk	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA
-1	Because	The Percy Faith Strings	The Beatles Album	LIKE	9V3ne9vK92w	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA
-16	Strawberry Fields Forever	The Hollyridge Strings	The Best Of The Beatles Songbook	LIKE	WIm5QtU1LJk	MPREb_50FGjquzpNP	UCymIAeZ0BjoGGEpG6Lr6eLQ
-2	God Only Knows	The Hollyridge Strings	The Beach Boys Songbook Vol. 2	LIKE	7Je5dzCU_BQ	MPREb_HLkFsGgFJwh	UCymIAeZ0BjoGGEpG6Lr6eLQ
-0	Caroline, No	The Hollyridge Strings	The Beach Boys Songbook Vol. 2	LIKE	Hp6H3sXnY0E	MPREb_HLkFsGgFJwh	UCymIAeZ0BjoGGEpG6Lr6eLQ
-7	Love Me Tender	The Hollyridge Strings	Play Hit Songs Made Famous By Elvis Presley	LIKE	aPsLZDQ8sDc	MPREb_JwS75y5QJkE	UCymIAeZ0BjoGGEpG6Lr6eLQ
-5	Penny Lane	Paul Mauriat	Definitive Collection	LIKE	NowYyU5Ztvw	MPREb_zoDZ8oCzZC0	UCznti8RQiNaTopM3fXliJDQ
-15	Eleanor Rigby	Paul Mauriat	Definitive Collection	LIKE	fJJAN8-kOG4	MPREb_zoDZ8oCzZC0	UCznti8RQiNaTopM3fXliJDQ
-10	Incense And Peppermints/A Beautiful Morning (Medley)	Martin Denny	Ultra-Lounge: On The Rocks (Part One)	LIKE	LWMOw_th0ag	MPREb_tKbgsR7Xrvy	UC_0WxaNFE8VZ8y8_MfCdPeQ
-6	Light My Fire	Lex DeAzevedo	Lex de Azevedo & His Orchestra, Vol. 2	LIKE	zy7kc_fNyRQ	MPREb_5XWRISj4DhX	UCuFRtGYOcpvjAxvMX8tlQ1Q
-9	Never My Love (Original Musicor Recordings)	Hugo Winterhalter	16 Beautiful Hits - Gusto's Top Hits (Original Musicor Recordings)	LIKE	GKydL1BqP28	MPREb_C4ZwYJQelbx	UCjmwRbnHjyqnkqHo1Cz1hCA
-11	Karma Sitar	101 Strings	Spectrum	LIKE	rvvgcYeRzz4	MPREb_DIcqtGzxvtm	UCvFc1QQopO0BjaGQ-QWmTDg
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Space Odditty	The Wallis Blue Orchestra	Diamond Light	LIKE	HfUzXeVVICY	MPREb_FON8lEnF15W	UCLUhBz_IlCUJtuw8opT6rTA	Psychedelic 1960s Orchestra
+Wonderful Land	The Shadows	20 Golden Greats	LIKE	oqmJKPxOPRs	MPREb_msQoW7kYEeD	UCcjz131E-j2SQhQ_mO8eY5w	Psychedelic 1960s Orchestra
+Yesterday	The Percy Faith Strings	The Beatles Album	LIKE	Obccj7Qg45c	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA	Psychedelic 1960s Orchestra
+The Fool On the Hill	The Percy Faith Strings	The Beatles Album	LIKE	2Q9dUVtcEeE	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA	Psychedelic 1960s Orchestra
+Michelle	The Percy Faith Strings	The Beatles Album	LIKE	u7-s2rFvRIE	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA	Psychedelic 1960s Orchestra
+Lucy In the Sky with Diamonds	The Percy Faith Strings	The Beatles Album	LIKE	ZfrbOJpsFOk	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA	Psychedelic 1960s Orchestra
+Because	The Percy Faith Strings	The Beatles Album	LIKE	9V3ne9vK92w	MPREb_j23fKsVBxNW	UC5SejbIMOSTKELjENUKfHOA	Psychedelic 1960s Orchestra
+Strawberry Fields Forever	The Hollyridge Strings	The Best Of The Beatles Songbook	LIKE	WIm5QtU1LJk	MPREb_50FGjquzpNP	UCymIAeZ0BjoGGEpG6Lr6eLQ	Psychedelic 1960s Orchestra
+God Only Knows	The Hollyridge Strings	The Beach Boys Songbook Vol. 2	LIKE	7Je5dzCU_BQ	MPREb_HLkFsGgFJwh	UCymIAeZ0BjoGGEpG6Lr6eLQ	Psychedelic 1960s Orchestra
+Caroline, No	The Hollyridge Strings	The Beach Boys Songbook Vol. 2	LIKE	Hp6H3sXnY0E	MPREb_HLkFsGgFJwh	UCymIAeZ0BjoGGEpG6Lr6eLQ	Psychedelic 1960s Orchestra
+Love Me Tender	The Hollyridge Strings	Play Hit Songs Made Famous By Elvis Presley	LIKE	aPsLZDQ8sDc	MPREb_JwS75y5QJkE	UCymIAeZ0BjoGGEpG6Lr6eLQ	Psychedelic 1960s Orchestra
+Penny Lane	Paul Mauriat	Definitive Collection	LIKE	NowYyU5Ztvw	MPREb_zoDZ8oCzZC0	UCznti8RQiNaTopM3fXliJDQ	Psychedelic 1960s Orchestra
+Eleanor Rigby	Paul Mauriat	Definitive Collection	LIKE	fJJAN8-kOG4	MPREb_zoDZ8oCzZC0	UCznti8RQiNaTopM3fXliJDQ	Psychedelic 1960s Orchestra
+Incense And Peppermints/A Beautiful Morning (Medley)	Martin Denny	Ultra-Lounge: On The Rocks (Part One)	LIKE	LWMOw_th0ag	MPREb_tKbgsR7Xrvy	UC_0WxaNFE8VZ8y8_MfCdPeQ	Psychedelic 1960s Orchestra
+Light My Fire	Lex DeAzevedo	Lex de Azevedo & His Orchestra, Vol. 2	LIKE	zy7kc_fNyRQ	MPREb_5XWRISj4DhX	UCuFRtGYOcpvjAxvMX8tlQ1Q	Psychedelic 1960s Orchestra
+Never My Love (Original Musicor Recordings)	Hugo Winterhalter	16 Beautiful Hits - Gusto's Top Hits (Original Musicor Recordings)	LIKE	GKydL1BqP28	MPREb_C4ZwYJQelbx	UCjmwRbnHjyqnkqHo1Cz1hCA	Psychedelic 1960s Orchestra
+Karma Sitar	101 Strings	Spectrum	LIKE	rvvgcYeRzz4	MPREb_DIcqtGzxvtm	UCvFc1QQopO0BjaGQ-QWmTDg	Psychedelic 1960s Orchestra

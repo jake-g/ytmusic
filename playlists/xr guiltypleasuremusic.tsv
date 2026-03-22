@@ -1,28 +1,28 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-1	Take on Me	a-ha	Hunting High and Low	LIKE	HzdD8kbDzZA	MPREb_5xYAryDnQqC	UCx00XxqRCfPS6zaTzRm3H2A
-9	Low Rider	War	Why Can't We Be Friends?	LIKE	qMkwuz0iXQg	MPREb_RaGsFffxYkX	UCY9rJimufdb8imofVY8taNw
-15	Africa	Toto	Toto IV	LIKE	QAo_Ycocl1E	MPREb_dL9I6V1S1Ta	UCewH1MBbYlEZMWx3ZUNywyg
-2	I'm Gonna Be (500 Miles)	The Proclaimers	Sunshine on Leith	LIKE	oUv0NbjbGzQ	MPREb_Jpuy6UA4Mx1	UCu-HnUpd4F7OW2kYqjiVwvw
-19	Your Love	The Outfield	Play Deep	LIKE	W2a8Ng1qM8Q	MPREb_xwBJwx1f3xG	UC5TJtEuZGgv1Ci7cGF8gfCw
-12	In Hell I'll Be in Good Company	The Dead South	Good Company	LIKE	4MSufMK1lvs	MPREb_2ocnaSjH49i	UCdjP-gQY5u002PhCJroUxfQ
-7	Sexy Sadie (Remastered 2009)	The Beatles	The Beatles	LIKE	tSk5U4oHhu0	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ
-24	Gives You Hell	The All-American Rejects	When The World Comes Down	LIKE	r0xX02BMwic	MPREb_pWi8kuPgCTs	UCIo16EqSZ0A4HXA-kf5rSuQ
-8	Fuck Her Gently	Tenacious D	Tenacious D	LIKE	k1NxreLH6hA	MPREb_6xOcwH8wtDd	UChThjXuCoIJlougReIFCV1Q
-13	Everybody Wants To Rule The World	Tears For Fears	Songs From The Big Chair	LIKE	U4zA0xnBEJU	MPREb_FddgzCgpNMC	UCcozhiTOkGB1HCOgdBlEFPA
-22	Waterfalls	TLC	Crazysexycool	LIKE	A_iTphwVNYs	MPREb_8NKGfscJeeF	UCs6cmuHkS7U7Az22s18lQXw
-10	It Wasn't Me (feat. Ricardo Ducent)	Shaggy	Hot Shot	LIKE	sTMgX1PDGAE	MPREb_xgXrd8TGEe9	UCUqmn42LCN5JJ6-0lQl0vPg
-5	Just A Girl	No Doubt	Tragic Kingdom	LIKE	liSwJDJtmPw	MPREb_DtYBEhtCDw1	UCc-WjJ7FgjeD4eARSlRYqwg
-18	The Safety Dance (Extended Dance Version)	Men Without Hats	Rhythm Of Youth (Expanded Edition)	LIKE	_Mm7c7vGCGU	MPREb_88ICj4e6536	UCfiWm7YQpPf-4PnHEUQskqA
-16	Who Can It Be Now?	Men At Work	Business As Usual	LIKE	Lc1Ll-euRSg	MPREb_C8OiRA75O9L	UCX1qTEuhbyV7Ie4T8TZsX_Q
-3	Down Under	Men At Work	Business As Usual	LIKE	hfmxO-HQ5rU	MPREb_C8OiRA75O9L	UCX1qTEuhbyV7Ie4T8TZsX_Q
-11	Steal My Sunshine	Len	You Can't Stop The Bum Rush	LIKE	Cl6-1MvzMWY	MPREb_CqMFvKYfWlH	UCqMw1Zw73Vjru5n0aawKrHA
-4	Estranged	Guns N' Roses	Use Your Illusion II	LIKE	8VgRL8Htv7k	MPREb_BWthKEBKL9Y	UCSLbbBoUqpin6BE34whSOvA
-0	Hey Jealousy	Gin Blossoms	New Miserable Experience	LIKE	EARps6chiMA	MPREb_gySpSq3PHZO	UCup4ypLJDrJ0uxfh0mdYcZQ
-20	Rock Me Amadeus	Falco	Falco 3	LIKE	OKxBk4V79Co	MPREb_F8jAh04pzzb	UC2IxXopNUjjBCC78s_01mnw
-17	Bring Me To Life	Evanescence	Fallen	LIKE	-eGM0IJc70Y	MPREb_Ol2Ip1ndtbE	UC1ObIyFsDJn62iAZYLWcNxA
-26	You Make My Dreams (Come True)	Daryl Hall & John Oates	Voices	LIKE	E4CZuj7solw	MPREb_QdlWmily9V4	UC8zbYR5i0gecEZ3iPgm-i9g
-14	My Band	D12	D-12 World	LIKE	xwyOQp2Zrwg	MPREb_ZaCfN85sioA	UCu8bzuEDvKGVNTUuANGPMwg
-25	Karma Chameleon (Remastered 2002)	Culture Club	Colour By Numbers (Remastered / Expanded Edition)	LIKE	S8Cv5XbG428	MPREb_3yvfKLrNTKx	UChva71IdUXvTn8uHGtJkB_w
-21	One Week	Barenaked Ladies	Stunt (20th Anniversary Edition)	LIKE	cL2IZ6-QvjU	MPREb_6A3jLDPSKYs	UCk1VTZtKTDV1Zo1mHyoPyZA
-6	Take A Chance On Me	ABBA	The Album	LIKE	DkkQ8dCPiwA	MPREb_ugHqljEUmsl	UCuubAXN9AYgtcmSrD0frggQ
-23	Dancing Queen	ABBA	Arrival	LIKE	YkLLcIKhJ64	MPREb_teWeMEZeVOQ	UCuubAXN9AYgtcmSrD0frggQ
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Take on Me	a-ha	Hunting High and Low	LIKE	HzdD8kbDzZA	MPREb_5xYAryDnQqC	UCx00XxqRCfPS6zaTzRm3H2A	xr guiltypleasuremusic
+Low Rider	War	Why Can't We Be Friends?	LIKE	qMkwuz0iXQg	MPREb_RaGsFffxYkX	UCY9rJimufdb8imofVY8taNw	xr guiltypleasuremusic
+Africa	Toto	Toto IV	LIKE	QAo_Ycocl1E	MPREb_dL9I6V1S1Ta	UCewH1MBbYlEZMWx3ZUNywyg	xr guiltypleasuremusic
+I'm Gonna Be (500 Miles)	The Proclaimers	Sunshine on Leith	LIKE	oUv0NbjbGzQ	MPREb_Jpuy6UA4Mx1	UCu-HnUpd4F7OW2kYqjiVwvw	xr guiltypleasuremusic
+Your Love	The Outfield	Play Deep	LIKE	W2a8Ng1qM8Q	MPREb_xwBJwx1f3xG	UC5TJtEuZGgv1Ci7cGF8gfCw	xr guiltypleasuremusic
+In Hell I'll Be in Good Company	The Dead South	Good Company	LIKE	4MSufMK1lvs	MPREb_2ocnaSjH49i	UCdjP-gQY5u002PhCJroUxfQ	xr guiltypleasuremusic
+Sexy Sadie (Remastered 2009)	The Beatles	The Beatles	LIKE	tSk5U4oHhu0	MPREb_S5TiUIYvI78	UC2XdaAVUannpujzv32jcouQ	xr guiltypleasuremusic
+Gives You Hell	The All-American Rejects	When The World Comes Down	LIKE	r0xX02BMwic	MPREb_pWi8kuPgCTs	UCIo16EqSZ0A4HXA-kf5rSuQ	xr guiltypleasuremusic
+Fuck Her Gently	Tenacious D	Tenacious D	LIKE	k1NxreLH6hA	MPREb_6xOcwH8wtDd	UChThjXuCoIJlougReIFCV1Q	xr guiltypleasuremusic
+Everybody Wants To Rule The World	Tears For Fears	Songs From The Big Chair	LIKE	U4zA0xnBEJU	MPREb_FddgzCgpNMC	UCcozhiTOkGB1HCOgdBlEFPA	xr guiltypleasuremusic
+Waterfalls	TLC	Crazysexycool	LIKE	A_iTphwVNYs	MPREb_8NKGfscJeeF	UCs6cmuHkS7U7Az22s18lQXw	xr guiltypleasuremusic
+It Wasn't Me (feat. Ricardo Ducent)	Shaggy	Hot Shot	LIKE	sTMgX1PDGAE	MPREb_xgXrd8TGEe9	UCUqmn42LCN5JJ6-0lQl0vPg	xr guiltypleasuremusic
+Just A Girl	No Doubt	Tragic Kingdom	LIKE	liSwJDJtmPw	MPREb_DtYBEhtCDw1	UCc-WjJ7FgjeD4eARSlRYqwg	xr guiltypleasuremusic
+The Safety Dance (Extended Dance Version)	Men Without Hats	Rhythm Of Youth (Expanded Edition)	LIKE	_Mm7c7vGCGU	MPREb_88ICj4e6536	UCfiWm7YQpPf-4PnHEUQskqA	xr guiltypleasuremusic
+Who Can It Be Now?	Men At Work	Business As Usual	LIKE	Lc1Ll-euRSg	MPREb_C8OiRA75O9L	UCX1qTEuhbyV7Ie4T8TZsX_Q	xr guiltypleasuremusic
+Down Under	Men At Work	Business As Usual	LIKE	hfmxO-HQ5rU	MPREb_C8OiRA75O9L	UCX1qTEuhbyV7Ie4T8TZsX_Q	xr guiltypleasuremusic
+Steal My Sunshine	Len	You Can't Stop The Bum Rush	LIKE	Cl6-1MvzMWY	MPREb_CqMFvKYfWlH	UCqMw1Zw73Vjru5n0aawKrHA	xr guiltypleasuremusic
+Estranged	Guns N' Roses	Use Your Illusion II	LIKE	8VgRL8Htv7k	MPREb_BWthKEBKL9Y	UCSLbbBoUqpin6BE34whSOvA	xr guiltypleasuremusic
+Hey Jealousy	Gin Blossoms	New Miserable Experience	LIKE	EARps6chiMA	MPREb_gySpSq3PHZO	UCup4ypLJDrJ0uxfh0mdYcZQ	xr guiltypleasuremusic
+Rock Me Amadeus	Falco	Falco 3	LIKE	OKxBk4V79Co	MPREb_F8jAh04pzzb	UC2IxXopNUjjBCC78s_01mnw	xr guiltypleasuremusic
+Bring Me To Life	Evanescence	Fallen	LIKE	-eGM0IJc70Y	MPREb_Ol2Ip1ndtbE	UC1ObIyFsDJn62iAZYLWcNxA	xr guiltypleasuremusic
+You Make My Dreams (Come True)	Daryl Hall & John Oates	Voices	LIKE	E4CZuj7solw	MPREb_QdlWmily9V4	UC8zbYR5i0gecEZ3iPgm-i9g	xr guiltypleasuremusic
+My Band	D12	D-12 World	LIKE	xwyOQp2Zrwg	MPREb_ZaCfN85sioA	UCu8bzuEDvKGVNTUuANGPMwg	xr guiltypleasuremusic
+Karma Chameleon (Remastered 2002)	Culture Club	Colour By Numbers (Remastered / Expanded Edition)	LIKE	S8Cv5XbG428	MPREb_3yvfKLrNTKx	UChva71IdUXvTn8uHGtJkB_w	xr guiltypleasuremusic
+One Week	Barenaked Ladies	Stunt (20th Anniversary Edition)	LIKE	cL2IZ6-QvjU	MPREb_6A3jLDPSKYs	UCk1VTZtKTDV1Zo1mHyoPyZA	xr guiltypleasuremusic
+Take A Chance On Me	ABBA	The Album	LIKE	DkkQ8dCPiwA	MPREb_ugHqljEUmsl	UCuubAXN9AYgtcmSrD0frggQ	xr guiltypleasuremusic
+Dancing Queen	ABBA	Arrival	LIKE	YkLLcIKhJ64	MPREb_teWeMEZeVOQ	UCuubAXN9AYgtcmSrD0frggQ	xr guiltypleasuremusic

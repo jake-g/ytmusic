@@ -1,19 +1,19 @@
-	title	artist	album	likeStatus	videoId	albumId	artistId
-15	Born Slippy (Nuxx) (Radio Edit)	Underworld	Born Slippy (Nuxx) (Radio Edit)	LIKE	GjXpOolPUBc	MPREb_Ssx6O0vprgR	UCahiOREGlmLx7vi-35NbdBg
-7	Jumbo	Underworld	Beaucoup Fish	LIKE	resjuUn7mH4	MPREb_15Y8L2V1Hvc	UCahiOREGlmLx7vi-35NbdBg
-9	Start the Commotion	The Wiseguys	Off the Wall: Ten Years of Wall of Sound	LIKE	BH5nd5Zx1dg	MPREb_wp7Xn9Th9sO	UCi7Po74NM5tPoZyBItytH-Q
-16	Busy Child	The Crystal Method	Vegas	LIKE	U2TBfh5I0CE	MPREb_J9t7gPJWekN	UCvnLTMY2XQzMeD5wTgVGNhw
-14	Star Guitar	The Chemical Brothers	Come With Us	LIKE	pkkEGSnRvGs	MPREb_0PzajhD3qz4	UCyPCkwR4gcQNybC2XzMNFTA
-1	HALCYON + ON + ON	Orbital	Orbital 2	LIKE	Np_NsRgb4Eg	MPREb_tDaRJRgqxOJ	UCAObJYwBDFQWmIcT57UAptQ
-17	Bodyrock	Moby	Play & Play: B Sides	LIKE	SmBf69QCtH4	MPREb_FCtGx1wteYN	UC35GdXKfexT9GAZv3SJq0uA
-11	Original	Leftfield	Leftism (Remastered)	LIKE	CUgeEeEoFko	MPREb_9Okuv9Q0oeu	UCOrpszBwWhM6a1a67ezZhTQ
-12	Freak	LFO	Sheath	LIKE	ubVaw5FXVPM	MPREb_O4oT2ePlaYH	UCKcZ1lDiG-91sMD92L7etZQ
-4	At the River	Groove Armada	Vertigo	LIKE	wzCt7ABUU9Y	MPREb_ac8Lu2Uzo1x	UCWt6pVRI7yUZyxTwFVBjsdA
-3	Praise You	Fatboy Slim	You've Come A Long Way Baby	LIKE	wXaRyNgIMCw	MPREb_3putnvXTPSD	UCNekatqy_ys1SX8NfjpwixA
-8	Gangster Trippin	Fatboy Slim	You've Come A Long Way Baby	LIKE	rMvRjRz2B0c	MPREb_3putnvXTPSD	UCNekatqy_ys1SX8NfjpwixA
-10	Going Out of My Head	Fatboy Slim	Better Living Through Chemistry	LIKE	O7XQgo6ssoY	MPREb_HGrs9QE8ib7	UCNekatqy_ys1SX8NfjpwixA
-13	One More Time (Radio Edit)	Daft Punk	One More Time	LIKE	WYhv-hR6Q2U	MPREb_uWQeJO6Z53u	UCRr1xG_2WIDs18a6cIiCxeA
-2	Da Funk	Daft Punk	Homework	LIKE	d7woYjGWs6k	MPREb_dMHztPsrDgN	UCRr1xG_2WIDs18a6cIiCxeA
-0	Harder, Better, Faster, Stronger	Daft Punk	Discovery	LIKE	JhulBGMA7G4	MPREb_7ltM34kr0mH	UCRr1xG_2WIDs18a6cIiCxeA
-6	Ain't Talkin' 'Bout Dub	Apollo 440	Electro Glide In Blue	LIKE	nvZsJv4Sct0	MPREb_GA67usHZoWw	UC3xpMOab-fhnrYZpP1Is91A
-5	Windowlicker	Aphex Twin	Windowlicker	LIKE	go6-MliYCAs	MPREb_k9JghfnD35M	UCWmnkYUzoOiOztmPBhIlZjg
+title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Born Slippy (Nuxx) (Radio Edit)	Underworld	Born Slippy (Nuxx) (Radio Edit)	LIKE	GjXpOolPUBc	MPREb_Ssx6O0vprgR	UCahiOREGlmLx7vi-35NbdBg	electronic big beats
+Jumbo	Underworld	Beaucoup Fish	LIKE	resjuUn7mH4	MPREb_15Y8L2V1Hvc	UCahiOREGlmLx7vi-35NbdBg	electronic big beats
+Start the Commotion	The Wiseguys	Off the Wall: Ten Years of Wall of Sound	LIKE	BH5nd5Zx1dg	MPREb_wp7Xn9Th9sO	UCi7Po74NM5tPoZyBItytH-Q	electronic big beats
+Busy Child	The Crystal Method	Vegas	LIKE	U2TBfh5I0CE	MPREb_J9t7gPJWekN	UCvnLTMY2XQzMeD5wTgVGNhw	electronic big beats
+Star Guitar	The Chemical Brothers	Come With Us	LIKE	pkkEGSnRvGs	MPREb_0PzajhD3qz4	UCyPCkwR4gcQNybC2XzMNFTA	electronic big beats
+HALCYON + ON + ON	Orbital	Orbital 2	LIKE	Np_NsRgb4Eg	MPREb_tDaRJRgqxOJ	UCAObJYwBDFQWmIcT57UAptQ	electronic big beats
+Bodyrock	Moby	Play & Play: B Sides	LIKE	SmBf69QCtH4	MPREb_FCtGx1wteYN	UC35GdXKfexT9GAZv3SJq0uA	electronic big beats
+Original	Leftfield	Leftism (Remastered)	LIKE	CUgeEeEoFko	MPREb_9Okuv9Q0oeu	UCOrpszBwWhM6a1a67ezZhTQ	electronic big beats
+Freak	LFO	Sheath	LIKE	ubVaw5FXVPM	MPREb_O4oT2ePlaYH	UCKcZ1lDiG-91sMD92L7etZQ	electronic big beats
+At the River	Groove Armada	Vertigo	LIKE	wzCt7ABUU9Y	MPREb_ac8Lu2Uzo1x	UCWt6pVRI7yUZyxTwFVBjsdA	electronic big beats
+Praise You	Fatboy Slim	You've Come A Long Way Baby	LIKE	wXaRyNgIMCw	MPREb_3putnvXTPSD	UCNekatqy_ys1SX8NfjpwixA	electronic big beats
+Gangster Trippin	Fatboy Slim	You've Come A Long Way Baby	LIKE	rMvRjRz2B0c	MPREb_3putnvXTPSD	UCNekatqy_ys1SX8NfjpwixA	electronic big beats
+Going Out of My Head	Fatboy Slim	Better Living Through Chemistry	LIKE	O7XQgo6ssoY	MPREb_HGrs9QE8ib7	UCNekatqy_ys1SX8NfjpwixA	electronic big beats
+One More Time (Radio Edit)	Daft Punk	One More Time	LIKE	WYhv-hR6Q2U	MPREb_uWQeJO6Z53u	UCRr1xG_2WIDs18a6cIiCxeA	electronic big beats
+Da Funk	Daft Punk	Homework	LIKE	d7woYjGWs6k	MPREb_dMHztPsrDgN	UCRr1xG_2WIDs18a6cIiCxeA	electronic big beats
+Harder, Better, Faster, Stronger	Daft Punk	Discovery	LIKE	JhulBGMA7G4	MPREb_7ltM34kr0mH	UCRr1xG_2WIDs18a6cIiCxeA	electronic big beats
+Ain't Talkin' 'Bout Dub	Apollo 440	Electro Glide In Blue	LIKE	nvZsJv4Sct0	MPREb_GA67usHZoWw	UC3xpMOab-fhnrYZpP1Is91A	electronic big beats
+Windowlicker	Aphex Twin	Windowlicker	LIKE	go6-MliYCAs	MPREb_k9JghfnD35M	UCWmnkYUzoOiOztmPBhIlZjg	electronic big beats
