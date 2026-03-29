@@ -3,6 +3,8 @@ import time
 import json
 import ast
 import datetime
+import sys
+import io
 import unicodedata
 import random
 import pandas as pd
@@ -11,9 +13,16 @@ from ytmusicapi import YTMusic
 
 from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
+# Force stdout to use UTF-8 and replace characters it can't encode 
+# This prevents the UnicodeEncodeError during print() calls.
+# Only wrap the stream if we are in a standard terminal and NOT in IPython/Jupyter
+if hasattr(sys.stdout, 'buffer'):
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+
+
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
-SKIP_PLAYLIST_BACKUP = False
+SKIP_PLAYLIST_BACKUP = True
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
@@ -1354,10 +1363,12 @@ class YTMusicPlaylists:
         # Force it to be a string, or an empty string if it's missing/NaN
         artist_id = str(raw_id) if pd.notna(raw_id) else ""
         if not artist_id:
-            # Grab the title for the log so we know which track has the missing ID
             track_title = row.get('title', 'Unknown Title')
-            print('WARNING: Missing artistId (NaN) for track:',
-                  f'"{track_title}". Processing anyway...')
+            # Normalize and encode to ASCII to strip accents for the terminal log
+            safe_title = unicodedata.normalize('NFKD', str(track_title)).encode(
+                'ascii', 'ignore').decode('ascii')
+            print(f'WARNING: Missing artistId (NaN) for track:',
+                  f'"{safe_title}". Processing anyway...')
         elif 'privately_owned' in artist_id:
             print(f'\nSkipping privately owned track...')
         song = self.yt.get_song(row.name)  # row.name is videoId
@@ -1488,10 +1499,16 @@ class YTMusicPlaylists:
         except ValueError:
             return False
 
-    def _decode(self, string, encode_key='latin-1', decode_key='windows-1252'):
-        return str(string).encode(encode_key, errors='replace').decode(
-            decode_key, errors='replace')
-
+    def _decode(self, string):
+        if not string:
+            return ""
+        # Convert to string and ensure it's treated as UTF-8
+        # We use 'backslashreplace' or 'replace' to ensure the print() 
+        # statement never hits a character it can't handle.
+        try:
+            return str(string).encode('utf-8', errors='ignore').decode('utf-8')
+        except Exception:
+            return str(string)
 
 if __name__ == "__main__":
     print('Running main ytmusic library backup task')
