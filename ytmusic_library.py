@@ -22,7 +22,7 @@ if hasattr(sys.stdout, 'buffer'):
 
 # Global Prams
 # When True, will reuse playlist tsvs from last backup
-SKIP_PLAYLIST_BACKUP = False
+SKIP_PLAYLIST_BACKUP = True
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
@@ -75,6 +75,8 @@ RADIO_TO_LIKE_MAP_FILE = '_ytmusic_radio_to_like_pl_map.tsv'
 # Other subsets
 SKIP_STARTS_WITH_TOKS = ['zz']
 ALBUM_TOKS = ['_albums', '  album', 'albums']
+# Quoting for TSV track list files
+TSV_TRACK_QUOTING = 3
 
 # For get_like_not_like_tracks_to_review()
 MANUALLY_RATED_TSV_FILE = '_ytmusic_new_like_and_not_like_manual_rated.tsv'
@@ -1088,9 +1090,12 @@ class YTMusicPlaylists:
             self._save_tsv(tracks_no_meta, self.tracks_no_meta_tsv)
 
         # Reload tsb dbs
-        track_db = pd.read_csv(self.track_db_tsv, sep='\t', index_col=0)
+        track_db = pd.read_csv(
+          self.track_db_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING, 
+          on_bad_lines='warn', low_memory=False)
         tracks_no_meta = pd.read_csv(
-            self.tracks_no_meta_tsv, sep='\t', index_col=0)
+          self.tracks_no_meta_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING, 
+          on_bad_lines='warn', low_memory=False)
         # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
         new_tracks_no_meta = self._track_db_new_or_newly_liked_tracks(
             track_db, tracks_no_meta)
@@ -1154,7 +1159,8 @@ class YTMusicPlaylists:
             {r'\t': ' ', r'[\r\n]+': ' ', '"': "'", r'\\': '/'}, regex=True)
 
         # 3. Save as the strict text grid
-        df.to_csv(path, sep='\t', index=index, quoting=3, encoding='utf-8')
+        df.to_csv(path, sep='\t', index=index,
+                  quoting=TSV_TRACK_QUOTING, encoding='utf-8')
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
                           remove_disliked=False):
@@ -1302,8 +1308,9 @@ class YTMusicPlaylists:
               f'the {len(playlist_files)} total')
         like_tracks = []
         for pl in like_playlists:
-            track_df = pd.read_csv(os.path.join(
-                self.playlist_tsv_dir, pl), sep='\t', index_col=0)
+            track_df = pd.read_csv(
+              os.path.join(self.playlist_tsv_dir, pl), sep='\t', index_col=0,
+              quoting=TSV_TRACK_QUOTING, on_bad_lines='warn', low_memory=False)
             tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
             tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
             like_tracks.append(tracks_db_liked)
@@ -1337,8 +1344,9 @@ class YTMusicPlaylists:
               f'out of the {len(playlist_files)} total', flush=True)
         not_like_tracks = []
         for pl in not_like_playlists:
-            tracks_db_not_liked = pd.read_csv(os.path.join(
-                self.playlist_tsv_dir, pl), sep='\t', index_col=0)
+            tracks_db_not_liked = pd.read_csv(
+              os.path.join(self.playlist_tsv_dir, pl), sep='\t', index_col=0, 
+              quoting=TSV_TRACK_QUOTING, on_bad_lines='warn', low_memory=False)
             tracks_db_not_liked = tracks_db_not_liked.set_index(
                 'videoId', drop=True)
             not_like_tracks.append(tracks_db_not_liked)
