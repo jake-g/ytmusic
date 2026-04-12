@@ -652,10 +652,23 @@ class YTMusicPlaylists:
                 res = self.query_by_title(like_pl)
                 if res is not None:
                     like_pl_id = res.playlistId
-                like_orig_vids = frozenset([t['videoId'] for t in
-                                            self.playlist_get_info(
-                                                like_pl_id, use_cache=True).get('tracks', [])
-                                            ])
+                if like_pl_id is None:
+                    if create_like_playlist:
+                        print(f"Mapped LIKE playlist '{like_pl}' not found. Creating it...")
+                        like_pl_id = self.yt.create_playlist(
+                            title=like_pl.strip(),
+                            description=f'Favorite tracks from {pl_info["title"]} [{DATE}]',
+                            privacy_status='PRIVATE', video_ids=like_vids)
+                        time.sleep(2 * sleep)
+                        like_orig_vids = frozenset(like_vids) # We just added them all
+                    else:
+                        print(f"WARNING: Mapped LIKE playlist '{like_pl}' does not exist! Skipping LIKE move.")
+                        return {}
+                else:
+                    like_orig_vids = frozenset([t['videoId'] for t in
+                                                self.playlist_get_info(
+                                                    like_pl_id, use_cache=True).get('tracks', [])
+                                                ])
                 like_new_vids = frozenset(like_vids) - like_orig_vids
                 like_dedupe_num = len(like_vids) - len(like_new_vids)
                 if like_dedupe_num > 0:
@@ -1309,7 +1322,7 @@ class YTMusicPlaylists:
         like_tracks = []
         for pl in like_playlists:
             track_df = pd.read_csv(
-              os.path.join(self.playlist_tsv_dir, pl), sep='\t', index_col=0,
+              os.path.join(self.playlist_tsv_dir, pl), sep='\t',
               quoting=TSV_TRACK_QUOTING, on_bad_lines='warn', low_memory=False)
             tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
             tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
@@ -1345,7 +1358,7 @@ class YTMusicPlaylists:
         not_like_tracks = []
         for pl in not_like_playlists:
             tracks_db_not_liked = pd.read_csv(
-              os.path.join(self.playlist_tsv_dir, pl), sep='\t', index_col=0, 
+              os.path.join(self.playlist_tsv_dir, pl), sep='\t',
               quoting=TSV_TRACK_QUOTING, on_bad_lines='warn', low_memory=False)
             tracks_db_not_liked = tracks_db_not_liked.set_index(
                 'videoId', drop=True)
