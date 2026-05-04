@@ -1,9 +1,10 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
 Tecumseh Valley	Townes Van Zandt	For the Sake of the Song	LIKE	3i8TQDzN3Uw	MPREb_vQ5cWsmyeuo	UC0nXgIL3q7dp3-QRNDYkdFg	Folk radio
 Barbara Allen	Shirley Collins / Dolly Collins	Sweet England	LIKE	9f2IC57kMR4	MPREb_plP2sWJRnqS	UCw12gHkTVDOkfxEKcmBEzTA	Folk radio
-Pastures of Plenty	Ramblin' Jack Elliott	South Coast	LIKE	mwVFpLpFTe4	MPREb_7TUU9YsQWV1	UCw83BRUoneD9rW3kmyFB2Iw	Folk radio
+Pastures of Plenty	Ramblin' Jack Elliott	South Coast	LIKE	mwVFpLpFTe4	MPREb_7TUU9YsQWV1	UCXOl1W-Zc94rX9b24CtSJkw	Folk radio
 In the Aeroplane Over the Sea	Neutral Milk Hotel	In the Aeroplane Over the Sea	LIKE	r3DqBk9YNXA	MPREb_W0LXV3Jg2OV	UCvMA46Xu1xApqZyXFIrnukw	Folk radio
 The Mountain	Lost Dog Street Band	The Magnolia Sessions	LIKE	R2x1OLsZ4FY	MPREb_7ca8KWjaLRH	UCWsDX-bKdgOwTvEIsGMiijA	Folk radio
+Over The Hill	John Martyn	Solid Air	LIKE	Yn7fOhFVGbQ	MPREb_DuhK45whMh1	UC-VbcmO6rzcMzJGkjma3rUQ	Folk radio
 Shady Grove	Jerry Garcia	Shady Grove	LIKE	wRPRI0iYLQw	MPREb_h6Tj9CPgfD9	UCGZ-ePa-J8bm_TfglDQYWkg	Folk radio
 Baltimore Blues No. 1	Deer Tick	War Elephant	LIKE	iL5WdakdFZY	MPREb_j1cmraZIt76	UCEfnosbF_Cfm4fTlOzodOVQ	Folk radio
 Pints of Guinness Make You Strong	Against Me!	Reinventing Axl Rose	LIKE	mvVVyAEl-BY	MPREb_i3x60jyoIU3	UCRwwD9ZIZsJfYzkp40ohgxw	Folk radio
@@ -90,7 +91,6 @@ Slow Dance	The Tallest Man On Earth	Dark Bird Is Home	INDIFFERENT	2iCIMq_SVzY	MP
 Wild Horses	The Sundays	Blind	INDIFFERENT	wscB1ckO_Ew	MPREb_ZkDMLOTkdr7	UC2-FSdgJuTx7XoKjzAku4TQ	Folk radio
 I'll Never Leave You Alone	The Staves	I'll Never Leave You Alone	INDIFFERENT	_dV04B0v4Mw	MPREb_LA2pj122XXX	UCTG67fTJLbkrktof_y_VXMg	Folk radio
 I'll Never Find Another You	The Seekers	The Seekers	INDIFFERENT	LstbyXXHups	MPREb_OUhw48eDy05	UCcj48pxM96D8MyCL0slr8JA	Folk radio
-Georgy Girl (Stereo) [1999 Remaster] (Stereo; 1999 Remaster)	The Seekers	Come the Day	INDIFFERENT	bGyixX7QJVE	MPREb_ZRvfQhg6Ekb	UCcj48pxM96D8MyCL0slr8JA	Folk radio
 Green and Red of Mayo	The Saw Doctors	All The Way From Tuam	INDIFFERENT	ztdq5qLm9KY	MPREb_DSy3qx4Ycp6	UCKNj0H8o6A3p8YSrUu2rcXA	Folk radio
 Ramblin'	The Red Clay Strays	Made by These Moments	INDIFFERENT	xqN87pAWRzo	MPREb_sdCRgMvyZQB	UCyS6m85UvoFq0zxTVM0MW-g	Folk radio
 Victim & Villain	The Rayo Brothers	Victim & Villain	INDIFFERENT	j_klh1KX3sw	MPREb_CN5SZqc5hPy	UCFKXQgMk1cUe4u_A4rn4oug	Folk radio
@@ -184,7 +184,7 @@ The Witch of the Westmorland	Stan Rogers	Between the Breaks Live!	INDIFFERENT	D1
 The Mary Ellen Carter	Stan Rogers	Between the Breaks Live!	INDIFFERENT	2LIulHktCEk	MPREb_LbCD9Tjzy52	UC2JYFK6CDwE8Sk9LpDOMfPQ	Folk radio
 Barrett's Privateers	Stan Rogers	Between the Breaks Live!	INDIFFERENT	EyyseSXgsZQ	MPREb_LbCD9Tjzy52	UC2JYFK6CDwE8Sk9LpDOMfPQ	Folk radio
 Rolling on	Spencer Burton	North Wind	INDIFFERENT	pE_T-gi5SgE	MPREb_yVZftg0zgK1	UCF1VZS0-gw3TBH5EuAnRrIQ	Folk radio
-Nightfall	Sophie Janna	Nightfall	INDIFFERENT	zt43ejIksoQ	MPREb_NoxvoOB1USG	UCGa2QEFKolhIP1umT4-v6Xw	Folk radio
+Nightfall	Sophie Janna	Nightfall	INDIFFERENT	zt43ejIksoQ	MPREb_NoxvoOB1USG	UC-cOh84ITTj4QOZwMgXblpg	Folk radio
 Tavern Green	Sophie Janna	Laurels	INDIFFERENT	bWXEcR1GKpE	MPREb_X5wjxTfMNF6	UC-cOh84ITTj4QOZwMgXblpg	Folk radio
 The Dangling Conversation	Simon & Garfunkel	Parsley, Sage, Rosemary And Thyme	INDIFFERENT	M4_9uGIo6Ks	MPREb_TwXBO2e9qC7	UCOovQ5kcvRFGh4ix6Q1SsKA	Folk radio
 Fakin' It	Simon & Garfunkel	Bookends	INDIFFERENT	Q_JunmMb1f0	MPREb_PpcSnnJxOXu	UCOovQ5kcvRFGh4ix6Q1SsKA	Folk radio
@@ -243,10 +243,10 @@ Build A House (with Yo-Yo Ma & Francesco Turrisi) (feat. Francesco Turrisi & Yo-
 Jullundur	Renaud Garcia-Fons	Oriental Bass	INDIFFERENT	TcM0FwspvQM	MPREb_Ydb9XpKXScc	UCTI7lYOTw_H09ag46Jm450w	Folk radio
 Seven Sins	Ren	Sick Boi	INDIFFERENT	a_TCZoG-JLo	MPREb_DlFOpNPUyfG	UC-XnL5n9r4PkP9XDEX6MPgg	Folk radio
 Devil on My Trail	Red Revision	Lucky Man	INDIFFERENT	DGm-qUlAxbo	MPREb_CsaN3BDN0vj	UC6y1hPrlq-x0A63ZKGNSkQQ	Folk radio
-Old Blue	Ramblin' Jack Elliott	The Lost Topic Tapes: Isle of Wight 1957	INDIFFERENT	UA-mzdvHHBM	MPREb_TUO2DKGNhrP	UCw83BRUoneD9rW3kmyFB2Iw	Folk radio
-Car Song	Ramblin' Jack Elliott	The Ballad Of Ramblin' Jack	INDIFFERENT	lbrjQ2ZttXc	MPREb_By2AEzT8u39	UCw83BRUoneD9rW3kmyFB2Iw	Folk radio
-Buskin'	Ramblin' Jack Elliott	The Ballad Of Ramblin' Jack	INDIFFERENT	GnqfsvC4-BE	MPREb_By2AEzT8u39	UCw83BRUoneD9rW3kmyFB2Iw	Folk radio
-Acne	Ramblin' Jack Elliott	The Ballad Of Ramblin' Jack	INDIFFERENT	OuJnUiKpId0	MPREb_By2AEzT8u39	UCw83BRUoneD9rW3kmyFB2Iw	Folk radio
+Old Blue	Ramblin' Jack Elliott	The Lost Topic Tapes: Isle of Wight 1957	INDIFFERENT	UA-mzdvHHBM	MPREb_TUO2DKGNhrP	UCXOl1W-Zc94rX9b24CtSJkw	Folk radio
+Car Song	Ramblin' Jack Elliott	The Ballad Of Ramblin' Jack	INDIFFERENT	lbrjQ2ZttXc	MPREb_By2AEzT8u39	UCXOl1W-Zc94rX9b24CtSJkw	Folk radio
+Buskin'	Ramblin' Jack Elliott	The Ballad Of Ramblin' Jack	INDIFFERENT	GnqfsvC4-BE	MPREb_By2AEzT8u39	UCXOl1W-Zc94rX9b24CtSJkw	Folk radio
+Acne	Ramblin' Jack Elliott	The Ballad Of Ramblin' Jack	INDIFFERENT	OuJnUiKpId0	MPREb_By2AEzT8u39	UCXOl1W-Zc94rX9b24CtSJkw	Folk radio
 Unwavering	Rainbow Girls	Welcome To Whatever	INDIFFERENT	nSFP-QZq8U4	MPREb_Ixc12JznPTB	UCrz8e3aJ5RxHEhm8pctvwDQ	Folk radio
 Doesn't Make Any Sense	Rainbow Girls	Doesn't Make Any Sense	INDIFFERENT	Fl0jxOD2W9w	MPREb_2gFmLpiNBIu	UCrz8e3aJ5RxHEhm8pctvwDQ	Folk radio
 In fondo ai tuoi occhi	Radiodervish	Dal pesce alla luna	INDIFFERENT	2c6LhVqQHlw	MPREb_C3hLmPZaB1d	UC-9XOGEan857Er0LOoNvMug	Folk radio
@@ -473,7 +473,6 @@ You Don't Care for Me Enough to Cry (Live)	John Moreland	Live at Third Man Recor
 Break My Heart Sweetly	John Moreland	In the Throes	INDIFFERENT	eDD_NPbVmd0	MPREb_ABF20JZ5sYB	UCsnz_M1b4Xo-bZOL6Xvq4ug	Folk radio
 You Don't Care for Me Enough to Cry	John Moreland	High on Tulsa Heat	INDIFFERENT	96D-C_MIV_U	MPREb_cszLRfSUuRP	UCsnz_M1b4Xo-bZOL6Xvq4ug	Folk radio
 Every Kind of Wrong	John Moreland	Big Bad Luv	INDIFFERENT	ZZ1bZqWpRGk	MPREb_XdjiSAvz7S8	UCsnz_M1b4Xo-bZOL6Xvq4ug	Folk radio
-Over The Hill	John Martyn	Solid Air	INDIFFERENT	Yn7fOhFVGbQ	MPREb_DuhK45whMh1	UC-VbcmO6rzcMzJGkjma3rUQ	Folk radio
 Cocain	John Martyn	London Conversation	INDIFFERENT	rCD_8Y31jWc	MPREb_OZZH2c3ZALb	UC-VbcmO6rzcMzJGkjma3rUQ	Folk radio
 In Tall Buildings	John Hartford	Radio John	INDIFFERENT	JAqpBTaq4MU	MPREb_DAzeApF1hVT	UChrkgc4pe3yQKLpLsk9DgpA	Folk radio
 Gentle On My Mind	John Hartford	Live At College Station Pennsylvania	INDIFFERENT	aFWsWa8u_tA	MPREb_eFKj6n5y8mA	UChrkgc4pe3yQKLpLsk9DgpA	Folk radio
@@ -543,7 +542,7 @@ Far from the Outcries	Heartmeat	Original Franksta	INDIFFERENT	w0rSpw6SWpE	MPREb_
 Two Souls	Heartmeat	A Frank Storey	INDIFFERENT	7zuwRbyC6Ug	MPREb_6pu5bDKAm3W	UCoswj9MxM5FyPUySKTLvR6Q	Folk radio
 The Wreck Of The Edmund Fitzgerald	Headstones	The Wreck Of The Edmund Fitzgerald	INDIFFERENT	WOvlzSPk-IA	MPREb_mevjpjMNA68	UC9Rg9W30HGuzs0AwkBP6Ebw	Folk radio
 Scarborough Fair	Hayley Westenra	Celtic Treasures	INDIFFERENT	BFfgkaVBHp4	MPREb_m1jvdqxuI9i	UCnFb9eL17CT89WEBd4XWPSw	Folk radio
-Yellow Lights	Harry Hudson	Yesterday's Tomorrow Night	INDIFFERENT	piz5Msd4VPc	MPREb_Xavf5FkURnx	UCb3opEZjvCEnfkChqxhM_bw	Folk radio
+Yellow Lights	Harry Hudson	Yesterday's Tomorrow Night	INDIFFERENT	piz5Msd4VPc	MPREb_Xavf5FkURnx	UCIgqzyoPC1hdM5EXkqkyzkQ	Folk radio
 On The Atchison, Topeka and The Santa Fe	Harry Connick Jr.	'25'	INDIFFERENT	yHA6xNlVDMs	MPREb_tJVwXxfJ9mf	UCszRRvZcF3FoWaUo4KiBKUQ	Folk radio
 Green Eyes	Haroula Rose	Green Eyes	INDIFFERENT	l0wraF6SVLA	MPREb_LD8PnfnrKZD	UCaxzMlZy3sUm3pweUp2QFuQ	Folk radio
 Sweet Memories	Harbana	Sweet Memories	INDIFFERENT	p3wjE0ZSXV0	MPREb_BnOcV4JcvgN	UCL5pB8Asgs55_r6cG_GF-iA	Folk radio
@@ -652,7 +651,7 @@ The Creggan White Hare	Daoirí Farrell	The First Turn	INDIFFERENT	BjEV-BKHSwM	MP
 This Too Shall Pass	Danny Schmidt	Parables and Primes	INDIFFERENT	Tg5kB4UcAuA	MPREb_gWUXjLl5sF9	UCxFQi0zWejFo_DootLA67yA	Folk radio
 Stained Glass	Danny Schmidt	Parables and Primes	INDIFFERENT	lxshe7onfwA	MPREb_gWUXjLl5sF9	UCxFQi0zWejFo_DootLA67yA	Folk radio
 Life In Vain	Daniel Johnston	90's alt rock	INDIFFERENT	zF5Ox1VjegQ	MPREb_eW7jxpnsAbA	UCRjlG1MBlEr9Sn-J2T7N88A	Folk radio
-The Suilin	Dan Walsh	Verging on the Perpendicular	INDIFFERENT	1iyst1p7ZU8	MPREb_hK2dZpgjnSQ	UCAwvf5AztrPROvCGl3wYmOQ	Folk radio
+The Suilin	Dan Walsh	Verging on the Perpendicular	INDIFFERENT	1iyst1p7ZU8	MPREb_hK2dZpgjnSQ	UC6q5TRnj9oLzQ4nif44zmPQ	Folk radio
 I Scare Myself	Dan Hicks & His Hot Licks	The Blue Thumb Years 1971-1973	INDIFFERENT	cPwgFV585o0	MPREb_W8o6mK5BwfH	UCEqUyabGBNoARJ0Ub3TUOaA	Folk radio
 Light Step	DJ Slam	Drum 'n' Bass	INDIFFERENT	WbKa4rXAaR8	MPREb_fdCVmtsxquY	UCeNdNafeUpp2ETPX8IV2kuw	Folk radio
 True Colors	Cyndi Lauper	Twelve Deadly Cyns...And Then Some	INDIFFERENT	ExkmlgRNIhM	MPREb_hwGSjSexBck	UC9I3hbllzsS4QZqNekPE76g	Folk radio
@@ -677,7 +676,7 @@ Jerry's Breakdown	Chet Atkins	Me And Chet	INDIFFERENT	u6DphV5kV8k	MPREb_uHUl1aQU
 La Llorona	Chavela Vargas	Chavela Vargas Con el Cuarteto Lara Foster	INDIFFERENT	5yxYh1DbaPA	MPREb_X2XpHx1rdi2	UC2JsVoD8LuW8roJN1cwla-w	Folk radio
 Mississippi Bo Weavil Blues (2010 Remastered)	Charlie Patton	Founder of the Delta Blues (2010 Remastered)	INDIFFERENT	CFHn27kkwno	MPREb_kMSjQww8hyM	UChgqUv_teGypvyjv4BpsLEA	Folk radio
 A Spoonful Blues (2010 Remastered)	Charlie Patton	Founder of the Delta Blues (2010 Remastered)	INDIFFERENT	fexTCinVRHA	MPREb_kMSjQww8hyM	UChgqUv_teGypvyjv4BpsLEA	Folk radio
-Last of the Better Days Ahead	Charlie Parr	Last of the Better Days Ahead	INDIFFERENT	AfjLRRMSAqc	MPREb_Owt54q814OH	UClAkuUD6ECmPMDKPWUN0SEQ	Folk radio
+Last of the Better Days Ahead	Charlie Parr	Last of the Better Days Ahead	INDIFFERENT	AfjLRRMSAqc	MPREb_Owt54q814OH	UCv0rUsRp49IQVSK-V7i5bEg	Folk radio
 The Philippine Soldier	Charlie O' Brien	Hy Brasil: Songs of the Irish in Latin America	INDIFFERENT	JUqmGoAKOPc	MPREb_nlUXdnYSkQN	UCYhq6LNZrqxSgTmn1xCdw8Q	Folk radio
 Bleak is the Pampa	Charlie O' Brien	Bleak is the Pampa	INDIFFERENT	sl-3Q62sld4	MPREb_TnJ68LvvuMy	UCYhq6LNZrqxSgTmn1xCdw8Q	Folk radio
 Yesterday, When I Was Young (Live au Carnegie Hall, New York / 1995)	Charles Aznavour	Au Carnegie Hall (Live / 1995)	INDIFFERENT	wx0110LPAGw	MPREb_HIs383XkHmn	UCBXuYofc_KsFOp-LxYz_exg	Folk radio
