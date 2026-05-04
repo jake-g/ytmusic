@@ -705,16 +705,25 @@ class YTMusicPlaylists:
         if remove_not_like and len(remove_not_like_tracks):
             if remove_dislike and len(remove_dislike_tracks):
                 remove_not_like_tracks += remove_dislike_tracks
-            status = self.yt.remove_playlist_items(
-                pl_info["id"], remove_not_like_tracks)
-            err_msg = (f'Bad Status for {pl_info["id"]} remove '
-                       f'{len(remove_not_like_tracks)} NOT LIKE tracks: {status}')
-            assert str(status) == 'STATUS_SUCCEEDED', err_msg
-            if verbose:
-                print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
-                      f'entries from {pl_info["title"]}')
-            time.sleep(sleep)
-
+                
+            # YouTube API throws HTTP 400 if you try to remove too many items at once.
+            # Chunk the removals into safe batches of 50.
+            status = None
+            chunk_size = 100 # TODO make a heper for chinking all remove_playlist_items
+            for i in range(0, len(remove_not_like_tracks), chunk_size):
+                chunk = remove_not_like_tracks[i:i + chunk_size]
+                try:
+                    status = self.yt.remove_playlist_items(pl_info["id"], chunk)
+                    err_msg = (f'Bad Status for {pl_info["id"]} remove '
+                              f'{len(remove_not_like_tracks)} NOT LIKE tracks: {status}')
+                    assert str(status) == 'STATUS_SUCCEEDED', err_msg
+                    if verbose:
+                        print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
+                              f'entries from {pl_info["title"]}')
+                    time.sleep(sleep)
+                except Exception as e:
+                    print(f"  -> Warning: Failed to remove chunk of tracks: {e}")
+                    
         elif remove_dislike and len(remove_dislike_tracks):
             status = self.yt.remove_playlist_items(
                 pl_info["id"], remove_dislike_tracks)
