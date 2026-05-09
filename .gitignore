@@ -6,3 +6,5 @@ TODO.md
 old/
 logs/
 .DS_Store
+browser.json
+notebooks/legacy/

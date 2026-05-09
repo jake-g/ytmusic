@@ -1,0 +1,23 @@
+exclude: '^(logs/|playlists/|notebooks/|.*\.(csv|tsv|m3u|log|txt|ipynb))$'
+
+repos:
+  - repo: https://github.com/google/yapf
+    rev: v0.43.0
+    hooks:
+      - id: yapf
+        args: [--style, '{based_on_style: google, indent_width: 2, column_limit: 80}']
+
+  - repo: https://github.com/PyCQA/isort
+    rev: 5.13.2
+    hooks:
+      - id: isort
+        args: [--profile, google]
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+        args: ['--maxkb=5000']

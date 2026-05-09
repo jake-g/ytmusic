@@ -1,6 +1,6 @@
 import json
-import shlex
 import os
+import shlex
 import sys
 
 # Change working directory to the script's directory (./ytmusic) immediately
@@ -8,7 +8,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def main():
     print("Paste your full cURL command below. Press Enter twice when finished:\n")
-    
+
     lines = []
     empty_lines = 0
     while empty_lines < 2:
@@ -16,20 +16,20 @@ def main():
             line = input()
         except EOFError:
             break
-        
+
         if not line.strip():
             empty_lines += 1
         else:
             empty_lines = 0
             lines.append(line)
-            
+
     # Strip data payload so shlex doesn't break on escaped binary characters
     curl_input = '\n'.join(lines).split('--data')[0]
-    
+
     if not curl_input.strip():
         print("No input provided. Exiting.")
         sys.exit(1)
-        
+
     tokens = shlex.split(curl_input)
     headers = {}
     cookies = ""
@@ -65,16 +65,16 @@ def main():
 
     # --- Validation Block ---
     print("Testing new authentication with ytmusic_library...")
-    
+
     from ytmusic_library import YTMusicPlaylists
 
     # Path to playlists is relative to this script's location
     playlist_tsv_dir = './playlists'
-    
+
     # Will throw an error if the TSV files or directories do not exist
     Y = YTMusicPlaylists(header=filepath, playlist_tsv_dir=playlist_tsv_dir)
     Y.test_ytmusic_api()
-    
+
     print(f"Auth verified. Loaded {len(Y.playlists['title'].unique())} playlists.")
 
 if __name__ == "__main__":

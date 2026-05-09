@@ -1,19 +1,19 @@
-import os
-import time
-import json
 import ast
-import datetime
-import sys
-import io
-import unicodedata
-import random
-import pandas as pd
 from collections import defaultdict
-from ytmusicapi import YTMusic
+import datetime
+import io
+import json
+import os
+import random
+import sys
+import time
+import unicodedata
 
+import pandas as pd
+from ytmusicapi import YTMusic
 from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
-# Force stdout to use UTF-8 and replace characters it can't encode 
+# Force stdout to use UTF-8 and replace characters it can't encode
 # This prevents the UnicodeEncodeError during print() calls.
 # Only wrap the stream if we are in a standard terminal and NOT in IPython/Jupyter
 if hasattr(sys.stdout, 'buffer'):
@@ -705,7 +705,7 @@ class YTMusicPlaylists:
         if remove_not_like and len(remove_not_like_tracks):
             if remove_dislike and len(remove_dislike_tracks):
                 remove_not_like_tracks += remove_dislike_tracks
-                
+
             # YouTube API throws HTTP 400 if you try to remove too many items at once.
             # Chunk the removals into safe batches of 50.
             status = None
@@ -723,7 +723,7 @@ class YTMusicPlaylists:
                     time.sleep(sleep)
                 except Exception as e:
                     print(f"  -> Warning: Failed to remove chunk of tracks: {e}")
-                    
+
         elif remove_dislike and len(remove_dislike_tracks):
             status = self.yt.remove_playlist_items(
                 pl_info["id"], remove_dislike_tracks)
@@ -1113,10 +1113,10 @@ class YTMusicPlaylists:
 
         # Reload tsb dbs
         track_db = pd.read_csv(
-          self.track_db_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING, 
+          self.track_db_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING,
           on_bad_lines='warn', low_memory=False)
         tracks_no_meta = pd.read_csv(
-          self.tracks_no_meta_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING, 
+          self.tracks_no_meta_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING,
           on_bad_lines='warn', low_memory=False)
         # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
         new_tracks_no_meta = self._track_db_new_or_newly_liked_tracks(
@@ -1533,7 +1533,7 @@ class YTMusicPlaylists:
         if not string:
             return ""
         # Convert to string and ensure it's treated as UTF-8
-        # We use 'backslashreplace' or 'replace' to ensure the print() 
+        # We use 'backslashreplace' or 'replace' to ensure the print()
         # statement never hits a character it can't handle.
         try:
             return str(string).encode('utf-8', errors='ignore').decode('utf-8')

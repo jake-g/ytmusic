@@ -57,4 +57,3 @@ Create a `browser.json` file in your project root. Copy the template below and m
 ## 3. Verify
 
 Ensure `browser.json` is located in the same directory as your main Python script. The application will automatically detect it and use it to authenticate.
-
