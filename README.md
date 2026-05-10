@@ -1,21 +1,20 @@
-# README
+# YTMusic Library
 
-## Updated 2021
+YouTube Music library management, metadata extraction, and playlist automation.
 
-### Update authentication
+## Authentication Setup
 
-1. got to [youtube music](https://music.youtube.com/library) in Chrome incogneto
-2. Open developer tools to `Network` tab, it should start recording
-3. Sign into account
-4. Filter `Network` requests to `browse?`, click on one of them (should all be the same cookie)
-5. Scroll to `Request Headers` section
-6. Copy fields into `headers_auth.json`
-7. Close window, dont log out
+This module requires browser-based authentication to manage playlists and library data.
 
-## Highlight Changelog
+1. **Capture Session**: Log into [music.youtube.com](https://music.youtube.com) in Chrome. Use Developer Tools (F12) -> Network tab to find a `browse` POST request.
+2. **Copy as cURL**: Right-click the request and select **Copy as cURL (bash)**.
+3. **Update `browser.json`**: Run `python browser_auth_update.py` and paste the cURL command, or manually update the `Cookie` and `Authorization` fields in `browser.json`.
 
-- **May 2026**: Modularized YTMusic directory with independent tests and CI workflows
-- **Feb 2021**: Added detailed authentication instructions for browser session usage
-- **Dec 2020**: Integrated "like mining" into the backup workflow and reorganized playlist subsets
-- **Nov 2020**: Expanded track database to include all playlist and library tracks
-- **Oct 2020**: Initial commit and first automated playlist backup
+For detailed instructions, troubleshooting, and template examples, see **[browser_auth_readme.md](file:///d:/Projects/_Projects_Synced/music-library/ytmusic/browser_auth_readme.md)**.
+
+## Features
+
+- **Automated Backups**: Exports library and playlists to TSV format with full metadata.
+- **Metadata Enrichment**: Fetches release year, album type, and average ratings via `ytmusicapi`.
+- **Playlist Automation**: Automated cleaning of "Radio" and "Album" playlists based on `LIKE`/`DISLIKE` status.
+- **Cross-Platform Sync**: Synchronizes ratings and top tracks from MusicBee and Last.fm.
