@@ -1,5 +1,7 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Junk	Paul McCartney	McCartney (Archive Collection)	LIKE	3svS8Nk6-Jk	MPREb_7CvTjzxfWn9	UC0guXwTSf4hAOvCSgmViojw	folk 1970s radio
 Woodstock	Matthews Southern Comfort	Later That Same Year	LIKE	4S1BEH2crEs	MPREb_nnBqtvVTHMd	UCCUUzma6HkSloNEcuSk8y0g	folk 1970s radio
+My Sweet Lord (2009 Remaster)	George Harrison	Let It Roll - Songs of George Harrison	LIKE	XWTvkcHlOPQ	MPREb_vlGwk5IcHB8	UCGVnHHo1u7Xfyht_psktcUQ	folk 1970s radio
 Night Moves	Bob Seger & The Silver Bullet Band	Greatest Hits	LIKE	27k0iaN2uOs	MPREb_pk04uALndFv	UC1ogcUuxsz76nYV5bZaItSw	folk 1970s radio
 Lonely People	America	America's Greatest Hits - History	LIKE	tYIo1pXakkI	MPREb_HFkk7gqxECU	UCfh0qsQYH1TEyTt0LrRgLOw	folk 1970s radio
 Dear Friend	Wings	Wild Life	INDIFFERENT	aQNMkB_T9k0	MPREb_NYyQOvG0gmi	UCyyYmEud7d9iGVOYNMG9sAA	folk 1970s radio
@@ -13,10 +15,6 @@ Emily's Song	The Moody Blues	Every Good Boy Deserves Favour	INDIFFERENT	lQtgWQHu
 Two Of Us (Remastered 2009)	The Beatles	Let It Be	INDIFFERENT	cLQox8e9688	MPREb_Z7UaZFpBuZe	UC2XdaAVUannpujzv32jcouQ	folk 1970s radio
 The Long And Winding Road (Remastered 2009)	The Beatles	Let It Be	INDIFFERENT	fR4HjTH_fTM	MPREb_Z7UaZFpBuZe	UC2XdaAVUannpujzv32jcouQ	folk 1970s radio
 Don't Let It Show	The Alan Parsons Project	The Best of The Alan Parsons Project	INDIFFERENT	_pXWdLls6B8	MPREb_oHp3WXkL2te	UCvb0RGY80J8LSG1kIwNSXHA	folk 1970s radio
-Supertramp - Two Of Us (Official Audio)	Supertramp 		INDIFFERENT	vngyvAGGRa0		UColTsKEMf0kaZjkoOx7-Cww	folk 1970s radio
-Supertramp - If Everyone Was Listening (Official Audio)	Supertramp 		INDIFFERENT	-KQ8iqGpwHY		UColTsKEMf0kaZjkoOx7-Cww	folk 1970s radio
-Supertramp - Even In The Quietest Moments (Official Audio)	Supertramp 		INDIFFERENT	Bfgu31KtKZE		UColTsKEMf0kaZjkoOx7-Cww	folk 1970s radio
-Supertramp - A Soapbox Opera (Official Audio)	Supertramp 		INDIFFERENT	K7MwbRvsbKs		UColTsKEMf0kaZjkoOx7-Cww	folk 1970s radio
 Just A Normal Day	Supertramp	Crisis? What Crisis?	INDIFFERENT	uk-C5lmJigk	MPREb_11n3Cmjr1Wb	UCpS0hJ21amjA5eBApEOiIFw	folk 1970s radio
 Casual Conversations	Supertramp	Breakfast In America (Deluxe Edition)	INDIFFERENT	Rt4AVUa8wb0	MPREb_PJEQd8cWAdJ	UCpS0hJ21amjA5eBApEOiIFw	folk 1970s radio
 Suite Madame Blue	Styx	Equinox	INDIFFERENT	CkkQPxoxJJY	MPREb_XGUaEl2LYKz	UCigTxDNbQ3mIIyZgsTFWLMg	folk 1970s radio
@@ -33,7 +31,6 @@ Ram On	Paul McCartney	RAM (Archive Collection)	INDIFFERENT	IrZDCpyTGpY	MPREb_E0B
 Long Haired Lady	Paul McCartney	RAM (Archive Collection)	INDIFFERENT	ZStOefwQZwU	MPREb_E0BijTqzlf2	UC0guXwTSf4hAOvCSgmViojw	folk 1970s radio
 That Would Be Something	Paul McCartney	McCartney (Archive Collection)	INDIFFERENT	WrCppWWmIGQ	MPREb_7CvTjzxfWn9	UC0guXwTSf4hAOvCSgmViojw	folk 1970s radio
 Teddy Boy	Paul McCartney	McCartney (Archive Collection)	INDIFFERENT	pxd5UG1_NTc	MPREb_7CvTjzxfWn9	UC0guXwTSf4hAOvCSgmViojw	folk 1970s radio
-Junk	Paul McCartney	McCartney (Archive Collection)	INDIFFERENT	3svS8Nk6-Jk	MPREb_7CvTjzxfWn9	UC0guXwTSf4hAOvCSgmViojw	folk 1970s radio
 When I'm Yours	Murray Head	Say It Ain't So	INDIFFERENT	YkMSzWOKsf0	MPREb_8gyLuGPDnV8	UCzZz8mqp7kNVF7FEhlMi4sA	folk 1970s radio
 Say It Ain't So	Murray Head	Say It Ain't So	INDIFFERENT	IT5cqphuqoU	MPREb_8gyLuGPDnV8	UCzZz8mqp7kNVF7FEhlMi4sA	folk 1970s radio
 Never Even Thought	Murray Head	Say It Ain't So	INDIFFERENT	9um5R2653pQ	MPREb_8gyLuGPDnV8	UCzZz8mqp7kNVF7FEhlMi4sA	folk 1970s radio
@@ -50,7 +47,6 @@ Pour Un Instant	Harmonium	Harmonium	INDIFFERENT	GI0vKFg0HB4	MPREb_0TguPht8DDe	UC
 Song for a Winter's Night	Gordon Lightfoot	Gord's Gold	INDIFFERENT	JRIlTvYp0ok	MPREb_EEciMtCZAQ2	UCEx92reYe5I762oF5knkO2w	folk 1970s radio
 Rainy Day People	Gordon Lightfoot	Gord's Gold	INDIFFERENT	phcDgM2Mazk	MPREb_EEciMtCZAQ2	UCEx92reYe5I762oF5knkO2w	folk 1970s radio
 Don Quixote	Gordon Lightfoot	Gord's Gold	INDIFFERENT	LJB0nCv0qxk	MPREb_EEciMtCZAQ2	UCEx92reYe5I762oF5knkO2w	folk 1970s radio
-My Sweet Lord (2009 Remaster)	George Harrison	Let It Roll - Songs of George Harrison	INDIFFERENT	XWTvkcHlOPQ	MPREb_vlGwk5IcHB8	UCGVnHHo1u7Xfyht_psktcUQ	folk 1970s radio
 Run of the Mill (2020 Mix)	George Harrison	All Things Must Pass (50th Anniversary;Super Deluxe)	INDIFFERENT	ILHHth40tqM	MPREb_zYvwH0fsqaw	UCGVnHHo1u7Xfyht_psktcUQ	folk 1970s radio
 My Sweet Lord (2020 Mix)	George Harrison	All Things Must Pass (50th Anniversary;Super Deluxe)	INDIFFERENT	th1vGHFm8WI	MPREb_zYvwH0fsqaw	UCGVnHHo1u7Xfyht_psktcUQ	folk 1970s radio
 Hear Me Lord (2020 Mix)	George Harrison	All Things Must Pass (50th Anniversary;Super Deluxe)	INDIFFERENT	TiI0ee0swOM	MPREb_zYvwH0fsqaw	UCGVnHHo1u7Xfyht_psktcUQ	folk 1970s radio
@@ -94,3 +90,7 @@ I Never Cry	Alice Cooper	Alice Cooper Goes to Hell	INDIFFERENT	3AUkUfH29yA	MPREb
 The Wind - Cat Stevens	2minstral		INDIFFERENT	cd2jXsmSaKc		UCol_6-ekz5u65eheDD7CT8A	folk 1970s radio
 Rock And Roll Song	Valdy	20th Century Masters / The Best Of Valdy		A3rr9wE7r24			folk 1970s radio
 A Good Song	Valdy	20th Century Masters / The Best Of Valdy		hyWCY8FVKbY			folk 1970s radio
+If Everyone Was Listening	Supertramp	The Very Best Of Supertramp 2		hP5d17IsiCI			folk 1970s radio
+Even In The Quietest Moments	Supertramp	The Very Best Of Supertramp 2		4GDXOU50pwY			folk 1970s radio
+A Soapbox Opera	Supertramp	The Very Best Of Supertramp 2		VnRzMd4OhCM			folk 1970s radio
+Two Of Us	Supertramp	Retrospectacle - The Supertramp Anthology		W_yhQGaQ_34			folk 1970s radio
