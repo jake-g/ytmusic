@@ -1,4 +1,5 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+1,000 Miles Away	case/lang/veirs	case/lang/veirs	LIKE	Swpur460tfA	MPREb_qAZsEQVMJQ8	UCqeK0bIA4Ra8Mj6L2e2okMw	folk country americana
 Going Down the Road Feeling Bad (feat. Cisco Houston & Sonny Terry)	Woody Guthrie	Woody Guthrie Sings Folk Songs, Vol. 2	LIKE	pTHBn5XOJIA	MPREb_mUoPtokBlNI	UCgbCJIqwRQbo8xuVWvQFqYg	folk country americana
 Blue Skies	Willie Nelson	Stardust	LIKE	9oxgdoZdsDE	MPREb_MPqdfLnEi87	UCPmpbAuktEPbIVpwGrY_c4g	folk country americana
 Rainbow Connection	Willie Nelson	Rainbow Connection	LIKE	3kih6sGyxCQ	MPREb_xwllkZD7UGW	UCPmpbAuktEPbIVpwGrY_c4g	folk country americana
@@ -88,7 +89,6 @@ I'm Not Sayin'	Nico	Slip Crop	LIKE	Y1LkJxJjd-M	MPREb_wkyY2JuM2NC	UCjk87eFr83Lr7i
 Pink Moon	Nick Drake	Pink Moon	LIKE	ZgHdUeMHTwc	MPREb_ZoUBeZ7Af62	UCiryJZISyBldwm9ocAE-QfQ	folk country americana
 Northern Sky	Nick Drake	Bryter Layter	LIKE	BBBkFWXiL9Q	MPREb_Bh7K4Z0zaCl	UCiryJZISyBldwm9ocAE-QfQ	folk country americana
 Hazey Jane II	Nick Drake	Bryter Layter	LIKE	lCaDp1gb6D4	MPREb_Bh7K4Z0zaCl	UCiryJZISyBldwm9ocAE-QfQ	folk country americana
-1,000 Miles Away	Neko Case, k.d. lang, & Laura Veirs	case/lang/veirs	LIKE	Swpur460tfA	MPREb_qAZsEQVMJQ8		folk country americana
 Old Man (Live)	Neil Young	Young Shakespeare (Live)	LIKE	65ozJGYk_lo	MPREb_MWHAXiPk1xC	UC6JhadLTf6g6f-ZdeEaAqBQ	folk country americana
 Harvest Moon	Neil Young	Harvest Moon	LIKE	HDzHhqWZMD0	MPREb_qOu7Yb8P7D1	UC6JhadLTf6g6f-ZdeEaAqBQ	folk country americana
 Sugar Mountain	Neil Young	Decade	LIKE	B0dD0EjPeQ4	MPREb_ZqCjWn3LZOM	UC6JhadLTf6g6f-ZdeEaAqBQ	folk country americana
@@ -220,7 +220,7 @@ Russian Lullaby	Jerry Garcia	Jerry Garcia & David Grisman	INDIFFERENT	Ru-XBnrdWc
 Easy Come Easy Go	Hayes Carll	Flowers and Liquor	INDIFFERENT	l_QCsWDOHsg	MPREb_qD1CtYbNOEN	UC7dMJwf1te5QB-4MtW02h1w	folk country americana
 Sunny (feat. Kevin Breit)	Harry Manx	Strictly Whatever	INDIFFERENT	LZAr_DiZAbY	MPREb_ECvnZSF15dP	UC4QDeqgIKRBYTuCnwpLd00Q	folk country americana
 L.A. Freeway	Guy Clark	Heartworn Highways (Original Motion Picture Soundtrack)	INDIFFERENT	bz-Fv-zC3IQ	MPREb_isLwYJO6t0k	UCj173OYs0WDR57-N0CYRPpQ	folk country americana
-Can't Find My Way Home (Live)	Bonnie Raitt	Folk Masters	INDIFFERENT	3G0w7MALe20	MPREb_gkwS3aKtWfU	UCt3dWNI94rZKmfzuwZyD5Fw	folk country americana
 The L&N Don't Stop Here Anymore	Billy Bragg	The L&N Don't Stop Here Anymore	INDIFFERENT	7_13zu9aVGM	MPREb_1yjPsnj9d67	UC2T-eENRX7bSeLAZtO1jQbA	folk country americana
 Hobo's Lullaby	Billy Bragg	Hobo's Lullaby	INDIFFERENT	_vICaCFdXTM	MPREb_TbstbHpcn8K	UC2T-eENRX7bSeLAZtO1jQbA	folk country americana
 Perfect Timing	Drive-By Truckers	Brighter Than Creation's Dark		6i-lkXDjCOI			folk country americana
+Can't Find My Way Home (Live)	Bonnie Raitt	The Lost Broadcast - Philadelphia 1972 (Live)		HGlRpJlsuCI			folk country americana
