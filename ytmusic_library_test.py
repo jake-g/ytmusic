@@ -373,6 +373,53 @@ class TestYTMusicUtils(unittest.TestCase):
         mock_save_tsv.assert_called_once_with(
             unittest.mock.ANY, expected_path, index=False)
 
+    @patch('os.path.exists')
+    @patch.object(YTMusicPlaylists, 'playlist_get_info')
+    @patch.object(YTMusicPlaylists, 'save_playlist_tsv')
+    @patch.object(YTMusicPlaylists, '_read_tsv')
+    def test_backup_playlists_incremental(self, mock_read_tsv, mock_save, mock_get_info, mock_exists):
+        """Test that playlist backup skips API fetch if local TSV count matches API count."""
+        mock_exists.return_value = True
+
+        # Local TSV has 10 tracks with all required columns
+        local_df = pd.DataFrame([
+            {
+                'videoId': f'vid_{i}',
+                'artist': f'Artist {i}',
+                'album': f'Album {i}',
+                'title': f'Song {i}',
+                'likeStatus': 'LIKE',
+                'albumId': f'al_{i}',
+                'artistId': f'ar_{i}'
+            } for i in range(10)
+        ])
+        # We need to return different DataFrames based on the path.
+        # But to keep it simple, we can return local_df (len 10) for all.
+        # pl1 ('my favorites') has count=10 (matches local_df len 10) -> should skip!
+        # pl2 ('rock radio') has count=20 (mismatches local_df len 10) -> should fetch!
+        mock_read_tsv.return_value = local_df
+
+        # Mock save_playlist_tsv to avoid actual saves, returning all metadata_cols
+        mock_metadata = {
+            'id': 'pl2',
+            'title': 'rock radio',
+            'privacy': 'PUBLIC',
+            'description': 'rock',
+            'trackCount': 20,
+            'author': 'Jake G'
+        }
+        mock_save.return_value = (local_df, mock_metadata)
+
+        # Call backup (we set include_library_tracks=False to avoid empty library tracks errors)
+        self.yt_pl.backup_playlists_and_collect_tracks(
+            remove_disliked=False, include_library_tracks=False)
+
+        # Verify pl1 (id='pl1') was skipped (not in get_info calls)
+        # Verify pl2 (id='pl2') was fetched (is in get_info calls)
+        called_playlist_ids = [call[0][0] for call in mock_get_info.call_args_list]
+        self.assertNotIn('pl1', called_playlist_ids)
+        self.assertIn('pl2', called_playlist_ids)
+
 
 if __name__ == "__main__":
     unittest.main()
