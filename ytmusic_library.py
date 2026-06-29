@@ -1356,13 +1356,15 @@ class YTMusicPlaylists:
         all_playlist_info = []
         all_tracks = []
         start_time = time.time()
-        print(f'Fetching and backing up playlists to',
-              f'{self.playlist_tsv_dir} (~10 min)')
+        print(f'Fetching and backing up playlists to:\n'
+              f'  {os.path.abspath(self.playlist_tsv_dir)}\n'
+              f'(skips unchanged, up to ~10 min)')
         for i, row in self.playlists.iterrows():
             try:
                 pl_title = self._decode(row['title'])
-                print(f'\n\n({i+1}/{len(self.playlists)})\t'
-                      f'{pl_title}', flush=True)
+                eta = self._get_eta(start_time, i, len(self.playlists))
+                eta_str = f" (~{eta})" if eta else ""
+                print(f'[{i+1}/{len(self.playlists)}]{eta_str} {pl_title}', flush=True)
                 if i < PLAYLIST_START_INDEX:
                     print(f'Skipping {i}: {pl_title}...')
                     continue
@@ -1628,7 +1630,11 @@ class YTMusicPlaylists:
             #     track_str += self._decode(f" ({row['release']})")
             # if 'albumType' in row:
             #     track_str += self._decode(f" | {row['albumType']}")
-            print(f"({i}/{len(new_tracks)}): {track_str}")
+            # Calculate dynamic ETA
+            eta = self._get_eta(t0, i, len(new_tracks), min_idx=6)
+            eta_str = f" (~{eta})" if eta else ""
+            
+            print(f"[{i}/{len(new_tracks)}]{eta_str} {track_str}")
 
             # Save checkpoint to allow seamless resuming if interrupted
             if i % CHECKPOINT_INTERVAL == 0:
@@ -1683,6 +1689,14 @@ class YTMusicPlaylists:
         print(f"Removed {_length - len(track_db)} duplicate index rows")
         print(f"Final length of track_db: {len(track_db)}")
         return track_db
+
+    def _get_eta(self, start_time, current, total, min_idx=1):
+        if current < min_idx:
+            return ""
+        elapsed = time.time() - start_time
+        avg_time = elapsed / current
+        remaining = total - current
+        return f"{((remaining * avg_time) / 60):.1f}m"
 
     def _is_valid_date(self, date_str):
         try:
