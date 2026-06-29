@@ -1,5 +1,5 @@
 import ast
-from collections import defaultdict
+from collections import defaultdict, Counter
 import datetime
 import functools
 import io
@@ -29,7 +29,7 @@ DUPLICATE_THRESHOLD = 3
 # For requesting large playlists from api
 PLAYLIST_LIMIT = 4500
 # Save checkpoint during track scraping every N tracks
-CHECKPOINT_INTERVAL = 100
+CHECKPOINT_INTERVAL = 500
 # Chunk size when processing items in batches (e.g. removing from a playlist) to avoid API errors
 PROCESS_CHUNK_SIZE = 100
 
@@ -39,6 +39,9 @@ PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
 PLAYLIST_CLEAN_MOVE_LIKE = True
 PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST = True
 PLAYLIST_CLEAN_DRY_RUN = False
+# Force-rate songs in LIKE playlists to be LIKE on server. If your liked library exceeds
+# the 20,000 song limit (FIFO), setting True will cause an endless unliking/re-liking loop.
+PLAYLIST_CLEAN_FORCE_RATE_LIKES = False
 PLAYLIST_SLEEP = 0.5
 PLAYLIST_START_INDEX = 0
 PLAYLIST_CLEAN_SKIP_IF_DISLIKE = True
@@ -86,8 +89,9 @@ TSV_TRACK_QUOTING = 3
 # For get_like_not_like_tracks_to_review()
 MANUALLY_RATED_TSV_FILE = '_ytmusic_new_like_and_not_like_manual_rated.tsv'
 NEED_RATE_TSV_FILE = '_ytmusic_new_like_and_not_like_need_manual_rating.tsv'
-# For get_playlist_counts()
 PLAYLIST_RADIO_COUNT_TSV_FILE = '_playlist_radio_counts.tsv'
+# Duplicate tracks we don't want to re-scrape
+DUPLICATE_TRACKS_TSV_FILE = '_ytmusic_duplicate_tracks.tsv'
 # Results for automated radio playlist like dislike not like cleanup.
 RADIO_PLAYLIST_CLEANUP_TSV_FILE = '_ytmusic_cleanup_radio_playlists_results.tsv'
 LIKE_PLAYLIST_CLEANUP_TSV_FILE = '_ytmusic_cleanup_like_playlists_results.tsv'
@@ -165,6 +169,7 @@ class YTMusicPlaylists:
         self.like_playlist_file = jn(self.playlist_tsv_dir, like_playlist_file)
         self.playlist_limit = playlist_limit
         self.radio_like_map_file = jn(self.playlist_tsv_dir, radio_to_like_map_file)
+        self.duplicate_tracks_tsv = jn(self.playlist_tsv_dir, DUPLICATE_TRACKS_TSV_FILE)
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header, client)
         # In-memory caching for liked/not-liked tracks to minimize disk I/O
@@ -312,27 +317,62 @@ class YTMusicPlaylists:
                 print(f"Playlist: {playlist_name} has a",
                       f"special character in {special_chars}.")
 
-    def get_playlist_counts(self, verbose=False, filter_title=None):
+    def get_playlist_counts(self, verbose=False, filter_title=None, use_local_tsvs=False):
         count_df_cols = ['title', 'track_count', 'privacy', 'playlist_id']
         # 'duration_hours',
         playlists = []
-        print('Getting playlist track count for playlists (takes ~5 minutes)', flush=True)
+
+        matching_rows = self.playlists
         if filter_title:
-            print(f'Only for playlists with {filter_title} in the title')
+            matching_rows = self.playlists[
+                self.playlists['title'].str.lower().str.contains(filter_title.lower(), na=False)
+            ]
+        total_to_process = len(matching_rows)
+
+        if filter_title:
+            print(f'Getting playlist track count for {total_to_process} playlists matching "{filter_title}"', flush=True)
+        else:
+            print(f'Getting playlist track count for all {total_to_process} playlists (takes ~5 minutes)', flush=True)
+
+        processed = 0
+        t0 = time.time()
         for i, row in self.playlists.iterrows():
             if filter_title and filter_title.lower() not in row.title.lower():
                 if verbose:
                     print(f'{i}: Skipping: {row.title},',
                           f'filter: {filter_title}')
                 continue
-            playlist_info = self.playlist_get_info(row['playlistId'])
+
+            eta = self._get_eta(t0, processed, total_to_process)
+            eta_str = f" (~{eta})" if eta else ""
+            print(f"[{processed+1}/{total_to_process}]{eta_str} Getting count for {row.title}...", flush=True)
+
+            track_count = None
+            privacy = row.get('privacy', '')
+
+            if use_local_tsvs:
+                tsv_filename = f"{row['title']}.tsv".replace('"', "'")
+                tsv_path = os.path.join(self.playlist_tsv_dir, tsv_filename)
+                if os.path.exists(tsv_path):
+                    try:
+                        local_df = self._read_tsv(tsv_path)
+                        track_count = len(local_df)
+                    except Exception:
+                        pass
+
+            if track_count is None:
+                playlist_info = self.playlist_get_info(row['playlistId'])
+                track_count = len(playlist_info.get('tracks', []))
+                privacy = playlist_info.get('privacy', '')
+
             playlists.append({
                 'title': row['title'],
                 'playlist_id': row['playlistId'],
-                'track_count': len(playlist_info.get('tracks', [])),
-                'privacy': playlist_info.get('privacy', ''),
+                'track_count': track_count,
+                'privacy': privacy,
                 # 'duration_hours': round(float(playlist_info.get('duration_seconds', 1)) / 3600)
             })
+            processed += 1
             if verbose:
                 print(f'{i}: {playlists[-1]}')
         return pd.DataFrame(playlists)[count_df_cols].sort_values(['track_count', 'title'], ascending=True)
@@ -496,7 +536,7 @@ class YTMusicPlaylists:
         print(f'{len(need_review)} entries need like or not like',
               'manual review', flush=True)
         need_review['manual_rating'] = ''
-        need_review = need_review.drop_duplicates(keep='last', verbose=False)
+        need_review = need_review.drop_duplicates(keep='last')
         need_review[review_cols].to_csv(
             self.need_rate_tsv, sep='\t', index=True)
         return need_review
@@ -653,9 +693,9 @@ class YTMusicPlaylists:
         pl_id = self.yt.create_playlist(
             title=pl_info["title"], description=desc,
             privacy_status='PRIVATE', video_ids=video_ids)
-        self._safe_sleep(sleep_time)
+        time.sleep(sleep_time)
         self.yt.delete_playlist(pl_info["id"])
-        self._safe_sleep(sleep_time)
+        time.sleep(sleep_time)
         print(f'Created sorted pl: {pl_str} {pl_id}, and ',
               f'deleted original pl: {pl_info["id"]}')
         return pc
@@ -765,9 +805,48 @@ class YTMusicPlaylists:
             elif track['videoId'] in not_like_vids:
                 pl_counters['removed_not_like'] += 1
                 remove_not_like_tracks.append(track)
+        # Check if we actually need to do any modifications
+        has_removals = (
+            (move_like and len(move_like_tracks) > min_num_like) or
+            (remove_not_like and len(remove_not_like_tracks) > 0) or
+            (remove_dislike and len(remove_dislike_tracks) > 0)
+        )
+
+        if not has_removals:
+            return pl_counters
+
         if verbose:
-            _counters = {k: v for k, v in pl_counters.items() if v > 0}
-            print(f"Playlist {pl_info['title']} counters: {_counters}")
+            # Estimate time: ~1.5s per batch add/remove chunk of 100
+            num_ops = 0
+            if move_like and len(move_like_tracks) > min_num_like:
+                num_ops += (len(move_like_tracks) // PROCESS_CHUNK_SIZE) + 2
+            num_ops += sum(
+                (len(t) // PROCESS_CHUNK_SIZE) + 1
+                for t in [remove_not_like_tracks, remove_dislike_tracks]
+                if t
+            )
+            est = int(num_ops * 1.5)
+            est_str = f"{est // 60}m {est % 60}s" if est >= 60 else f"{est}s"
+            print(
+                f'Playlist {pl_info["title"]}: '
+                f'Cleaning tracks (approx {est_str})...'
+            )
+
+        # If loaded from local TSV, we must fetch from API to get setVideoIds
+        if len(pl_info.get('tracks', [])) > 0 and 'setVideoId' not in pl_info['tracks'][0]:
+            pl_info = self.playlist_get_info(pl_info['id'], playlist_limit=self.playlist_limit, use_cache=False)
+            
+            # Re-categorize with live info to get correct setVideoIds
+            remove_dislike_tracks = []
+            remove_not_like_tracks = []
+            move_like_tracks = []
+            for track in pl_info.get('tracks', []):
+                if track['likeStatus'] == 'DISLIKE':
+                    remove_dislike_tracks.append(track)
+                elif track['likeStatus'] == 'LIKE':
+                    move_like_tracks.append(track)
+                elif track['videoId'] in not_like_vids:
+                    remove_not_like_tracks.append(track)
 
         # Step 2: Apply playlist type constraints (only "radio" or "albums" playlists can be modified)
         if 'radio' not in pl_info["title"] and 'albums' not in pl_info["title"]:
@@ -884,15 +963,22 @@ class YTMusicPlaylists:
                         skip_if_dislike=True, like_playlist_min_like_pct=80,
                         not_like_playlist_max_like_pct=20,
                         radio_playlist_max_like_pct=50, duplicate_threshold=5,
-                        playlist_skip_starts_with=PLAYLIST_SKIP_STARTS_WITH):
-        pl_ct = defaultdict(int)
+                        playlist_skip_starts_with=PLAYLIST_SKIP_STARTS_WITH,
+                        use_local_tsvs=True):
+        """
+        Cleans up playlists by moving liked/disliked tracks to appropriate locations.
+        """
+        pl_ct = Counter()
         like_results, radio_results = {}, {}
         playlists_kinds = {k: set() for k in self._valid_playlist_kinds}
         n_playlists = len(self.playlists)
+        start_time = time.time()
         print(f'Attempting to clean {n_playlists} playlists')
         for i, p in self.playlists.iterrows():
-            if (i+1) % 100 == 0:
-                print(f'{i+1} of {n_playlists} playlists processed', flush=True)
+            if i < PLAYLIST_START_INDEX:
+                continue
+            eta = self._get_eta(start_time, i, n_playlists)
+            eta_str = f" (~{eta})" if eta else ""
             pl_ct['playlists_processed'] += 1
 
             # Correctly skip outer loop using a boolean flag
@@ -900,15 +986,23 @@ class YTMusicPlaylists:
             for skip_str in playlist_skip_starts_with:
                 if p.title.startswith(skip_str):
                     pl_ct[f'playlist_skip_starts_with_{skip_str}'] += 1
-                    print(f'SKIPPING playlist: {p.title} starts with {skip_str}')
+                    print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (starts with {skip_str})')
                     skip_playlist = True
                     break
             if skip_playlist:
                 continue
 
-            if verbose:
-                print(f"Playlist: {p.title} ({p.playlistId})",
-                      f"has {p['count']} tracks")
+            # Check playlist privacy early using library metadata
+            if p.get('privacy') == 'PUBLIC':
+                pl_ct['playlist_is_public'] += 1
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (privacy is PUBLIC)')
+                continue
+
+            # Check playlist count early using library metadata
+            if 'count' in p and (pd.isna(p['count']) or p['count'] == 0):
+                pl_ct['playlist_is_empty'] += 1
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (empty)')
+                continue
 
             # Infer playlist kind from title, default to LIKE if nothing inferred
             pl_kind = self.infer_playlist_kind(p)
@@ -917,8 +1011,7 @@ class YTMusicPlaylists:
             # Skip when unable to infer kind (ideally this is not called)
             if not pl_kind:
                 pl_ct['playlist_kind_not_inferred'] += 1
-                print(f'SKIPPING playlist: {p.title} can not infer kind',
-                      f'for playlist need manual fix (add to _like_playlists.tsv?)')
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (cannot infer kind)')
                 continue
             pl_ct[f'playlist_kind_is_{pl_kind.lower()}'] += 1
 
@@ -926,43 +1019,59 @@ class YTMusicPlaylists:
             playlists_kinds[pl_kind].add(p.title)
             if pl_kind in playlist_skip_kinds:
                 pl_ct['playlist_kind_in_playlist_skip_list'] += 1
-                if verbose:
-                    print(f'SKIPPING playlist: {p.title} as it is',
-                          f'a kind flagged for skipping: {pl_kind}')
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (kind: {pl_kind})')
                 continue
 
             # Query playlist tracks and other metadata
-            p_info = self.playlist_get_info(
-                p.playlistId, playlist_limit=self.playlist_limit)
-            if 'tracks' not in p_info:  # try without cache
-                p_info = self.playlist_get_info(
-                    p.playlistId, playlist_limit=self.playlist_limit, use_cache=False)
-                if 'tracks' not in p_info:
-                    pl_ct['playlist_is_empty'] += 1
-                    print(f'SKIPPING playlist: {p.title} No "tracks" key in playlist')
+            p_info = None
+            if use_local_tsvs:
+                tsv_filename = f"{p.title}.tsv".replace('"', "'")
+                tsv_path = os.path.join(self.playlist_tsv_dir, tsv_filename)
+                if os.path.exists(tsv_path):
+                    try:
+                        local_df = self._read_tsv(tsv_path)
+                        p_info = {
+                            'id': p.playlistId,
+                            'playlistId': p.playlistId,
+                            'title': p.title,
+                            'privacy': p.get('privacy', 'PRIVATE'),
+                            'trackCount': len(local_df),
+                            'tracks': local_df.to_dict('records')
+                        }
+                    except Exception:
+                        pass
 
+            if p_info is None:
+                try:
+                    print(f"[{i+1}/{n_playlists}]{eta_str} Local TSV missing. Fetching from API: {p.title}...", flush=True)
+                    p_info = self.playlist_get_info(
+                        p.playlistId, playlist_limit=self.playlist_limit)
+                    if 'tracks' not in p_info:  # try without cache
+                        p_info = self.playlist_get_info(
+                            p.playlistId, playlist_limit=self.playlist_limit, use_cache=False)
+                except Exception as e:
+                    pl_ct['playlist_fetch_failed'] += 1
+                    print(f'[{i+1}/{n_playlists}]{eta_str} ERROR: Failed to fetch playlist info for {p.title}: {e}')
+                    continue
+
+            if 'tracks' not in p_info:
+                pl_ct['playlist_is_empty'] += 1
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (no tracks key)')
                 continue
             if p_info['trackCount'] == 0:
                 pl_ct['playlist_is_empty'] += 1
-                print(f'SKIPPING playlist: {p.title} No tracks in playlist')
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (empty)')
                 continue
             # Check max length of playlist
             if len(p_info['tracks']) >= self.playlist_limit:
                 pl_ct[f'playlist_has_>{self.playlist_limit}_limit'] += 1
-                print(f'SKIPPING playlist: {p.title} which has',
-                      f'{self.playlist_limit} or more tracks ({len(p_info["tracks"])})')
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (exceeds limit: {len(p_info["tracks"])})')
                 continue
             # Check playlist privacy
             if p_info['privacy'] == 'PUBLIC':
                 pl_ct['playlist_is_public'] += 1
-                print(f'SKIPPING playlist: {p.title} which has',
-                      f'privacy: {p_info["privacy"]}')
+                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (privacy is PUBLIC)')
                 continue
-            elif p_info['privacy'] == 'UNLISTED':
-                pl_ct['playlist_privacy_is_unlisted'] += 1
-                if verbose:
-                    print(f' playlist: {p.title} has',
-                          f'privacy {p_info["privacy"]}')
 
             # Get ratings for playlist tracks
             ratings = {k: set() for k in self._valid_ratings}
@@ -994,29 +1103,61 @@ class YTMusicPlaylists:
                 continue
 
             # Remove duplicates from playlist
-            new_pl_id = self.playlist_remove_duplicates(
+            n_dupes = self.playlist_remove_duplicates(
                 p_info, duplicate_threshold, verbose=verbose)
-            if p.playlistId != new_pl_id:
-                p.playlistId = new_pl_id
+            if n_dupes > 0:
                 pl_ct['playlist_removed_duplicates'] += 1
-                p_info = self.playlist_get_info(
-                    new_pl_id, playlist_limit=self.playlist_limit, use_cache=False)
 
             # Like all tracks in playlist if kind is LIKE
             if pl_kind == 'LIKE':
-                like_results[p.title] = self.playlist_rate_all_songs(
-                    p_info, rating=pl_kind, skip_if_dislike=skip_if_dislike,
-                    verbose=verbose, sleep_time=sleep)
+                if PLAYLIST_CLEAN_FORCE_RATE_LIKES:
+                    rate_ct = self.playlist_rate_all_songs(
+                        p_info, rating=pl_kind, skip_if_dislike=skip_if_dislike,
+                        verbose=verbose, sleep_time=sleep)
+                else:
+                    rate_ct = {
+                        'track_rated': 0,
+                        'track_skip_dislike': 0,
+                        'track_already_rated': len(p_info["tracks"])
+                    }
+                like_results[p.title] = rate_ct
+                
+                dupe_str = f" (removed {n_dupes} duplicates)" if n_dupes > 0 else ""
+                print(
+                    f'[{i+1}/{n_playlists}]{eta_str} Playlist {p.title}: '
+                    f'Checked {len(p_info["tracks"])} tracks{dupe_str}... '
+                    f'Rated {rate_ct["track_rated"]} new tracks as LIKE '
+                    f'({rate_ct["track_already_rated"]} already rated, '
+                    f'{rate_ct["track_skip_dislike"]} skipped dislike)'
+                )
                 continue
-            # Split radio playlist into LIKE vs RADIO
             elif pl_kind == 'INDIFFERENT':
-                radio_results[p.title] = self.clean_up_radio_playlist(
-                    pl_info=self.playlist_get_info(
-                        p.playlistId, use_cache=True),
+                rate_ct = self.clean_up_radio_playlist(
+                    pl_info=p_info,
                     verbose=verbose, sleep=sleep,
                     move_like=move_like, min_num_like=min_num_like,
                     create_like_playlist=create_like_playlist,
                     remove_dislike=remove_dislike,  remove_not_like=remove_not_like)
+                radio_results[p.title] = rate_ct
+                
+                dupe_str = f" (removed {n_dupes} duplicates)" if n_dupes > 0 else ""
+                changes_str = []
+                if rate_ct.get('moved_like', 0) > 0:
+                    changes_str.append(f"moved {rate_ct['moved_like']} LIKE")
+                if rate_ct.get('removed_not_like', 0) > 0:
+                    changes_str.append(f"removed {rate_ct['removed_not_like']} NOT_LIKE")
+                if rate_ct.get('removed_dislike', 0) > 0:
+                    changes_str.append(f"removed {rate_ct['removed_dislike']} DISLIKE")
+                
+                if changes_str:
+                    clean_str = "... Cleaned: " + ", ".join(changes_str)
+                else:
+                    clean_str = "... No changes"
+                print(
+                    f'[{i+1}/{n_playlists}]{eta_str} Playlist {p.title}: '
+                    f'Checked {len(p_info["tracks"])} tracks{dupe_str}'
+                    f'{clean_str}'
+                )
                 continue
 
         # Package results
@@ -1037,39 +1178,69 @@ class YTMusicPlaylists:
             'total_changes', ascending=False)
         return like_results, radio_results, pl_ct
 
+    def _safe_sleep(self, seconds: float, jitter_ratio: float = 0.3) -> None:
+        """Sleeps for a given duration with random jitter to mimic human behavior."""
+        if seconds <= 0:
+            return
+        jitter = random.uniform(-seconds * jitter_ratio, seconds * jitter_ratio)
+        actual_sleep = max(0.05, seconds + jitter)
+        time.sleep(actual_sleep)
+
     def playlist_rate_all_songs(self, pl_info, rating, sleep_time=0.5,
                                 verbose=False, skip_if_dislike=False,
                                 valid_ratings=VALID_TRACK_RATINGS):
         if rating not in valid_ratings:
             raise ValueError(f"Invalid rating '{rating}'. Expected one of: {valid_ratings}")
-        if verbose:
-            print(f'Playlist {pl_info["title"]}: Found',
-                  f'{len(pl_info["tracks"])} tracks to rate as {rating}')
-        rate_ct = {'track_rated': 0, 'track_skip_dislike': 0,
-                   'track_already_rated': 0}
+            
+        tracks_to_rate = []
+        already_rated = 0
+        skipped_dislike = 0
         for track in pl_info["tracks"]:
-            if skip_if_dislike and track["likeStatus"] == 'DISLIKE':
-                rate_ct['track_skip_dislike'] += 1
+            if skip_if_dislike and track.get("likeStatus") == 'DISLIKE':
+                skipped_dislike += 1
                 continue
-            if track["likeStatus"] == rating:
-                rate_ct['track_already_rated'] += 1
+            if track.get("likeStatus") == rating:
+                already_rated += 1
                 continue
-            if verbose:
-                print(f'Setting rating for {track["videoId"]} to {rating}')
+            tracks_to_rate.append(track)
+            
+        num_to_rate = len(tracks_to_rate)
+        if num_to_rate > 0 and verbose:
+            # Estimate time: (sleep_time + 0.5s avg API latency) per track
+            est = int(num_to_rate * (sleep_time + 0.5))
+            est_str = f"{est // 60}m {est % 60}s" if est >= 60 else f"{est}s"
+            print(
+                f'Playlist {pl_info["title"]}: {num_to_rate} tracks '
+                f'to rate as {rating} (approx {est_str})...'
+            )
+            
+        rate_ct = {
+            'track_rated': 0,
+            'track_skip_dislike': skipped_dislike,
+            'track_already_rated': already_rated
+        }
+                   
+        for track in tracks_to_rate:
             self.yt.rate_song(track["videoId"], rating=rating)
             rate_ct['track_rated'] += 1
             self._safe_sleep(sleep_time)
-        if verbose:
-            print(f'Playlist {pl_info["title"]}: Rated {rate_ct["track_rated"]}',
-                  f'of {len(pl_info["tracks"])} tracks as {rating}')
+            
         return rate_ct
 
     def playlist_remove_duplicates(self, pl_info,
                                    duplicate_threshold=DUPLICATE_THRESHOLD,
                                    sleep_time=0.5, verbose=False, shuffle=False):
-        if verbose:
-            print(f'Playlist {pl_info["title"]}: Found {len(pl_info["tracks"])}',
-                  'tracks to check for duplicates')
+        # 1. Check if we actually have duplicates
+        unique_vids = set(t['videoId'] for t in pl_info['tracks'])
+        num_duplicates = len(pl_info['tracks']) - len(unique_vids)
+
+        if num_duplicates < duplicate_threshold and not shuffle:
+            return 0
+
+        # 2. We have duplicates. If loaded from local TSV, we must fetch from API to get setVideoIds
+        if len(pl_info['tracks']) > 0 and 'setVideoId' not in pl_info['tracks'][0]:
+            pl_info = self.playlist_get_info(pl_info['id'], playlist_limit=self.playlist_limit, use_cache=False)
+
         track_ids = [(t['videoId'], t['setVideoId'])
                      for t in pl_info['tracks']]
 
@@ -1095,10 +1266,12 @@ class YTMusicPlaylists:
             self.yt.remove_playlist_items(
                 playlistId=pl_info['id'], videos=tracks_to_remove)
             self._safe_sleep(sleep_time)
-            print(f'Playlist {pl_info["title"]}: {n_dupes} duplicate tracks',
-                  f'removed ({len(tracks_to_keep)} of {len(pl_info["tracks"])} unique)')
             self._invalidate_playlist_cache(pl_info['id'])
-        return 0
+            pl_info['tracks'] = tracks_to_keep
+            pl_info['trackCount'] = len(tracks_to_keep)
+        else:
+            n_dupes = 0
+        return n_dupes
 
     def sort_playlist(self, playlist_id, sort_by="artist", reverse=False):
         """Sorts a playlist by artist, album, like status, or randomly."""
@@ -1143,7 +1316,7 @@ class YTMusicPlaylists:
 
         # Adjust sleep time based on number of tracks and API limits
         sleep_time_adjusted = 0.5 + (len(playlist["tracks"]) // 100) * 0.5
-        self._safe_sleep(sleep_time_adjusted)
+        time.sleep(sleep_time_adjusted)
 
         video_ids_sorted = [track["videoId"] for track in playlist["tracks"]]
         self.yt.add_playlist_items(
@@ -1255,10 +1428,10 @@ class YTMusicPlaylists:
 
         # Update combined like and not_like tsvs
         not_like_tracks = self.collect_all_not_like_tracks_from_tsvs()
-        not_like_tracks.to_csv(self.not_like_tsv, sep='\t', header=True)
+        self._save_tsv(not_like_tracks, self.not_like_tsv)
         self._not_like_df = not_like_tracks  # Update cache
         like_tracks = self.collect_all_like_tracks_from_tsvs()
-        like_tracks.to_csv(self.like_tsv, sep='\t', header=True)
+        self._save_tsv(like_tracks, self.like_tsv)
         self._like_df = like_tracks  # Update cache
 
         # Update like or not_like tracks that need manual review
@@ -1267,7 +1440,7 @@ class YTMusicPlaylists:
 
         # Update playlist counts for radio playlists
         radio_counts_df = self.get_playlist_counts(
-            filter_title='radio', verbose=False)
+            filter_title='radio', verbose=False, use_local_tsvs=True)
         radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
 
         # General automated task playlist todos
@@ -1278,7 +1451,7 @@ class YTMusicPlaylists:
         # Clean radio playlists, move like, dislike, not_like.
         if not SKIP_PLAYLIST_CLEAN:
             like_results, radio_results, pl_counters = self.clean_playlists(
-                verbose=False, sleep=PLAYLIST_SLEEP,
+                verbose=True, sleep=PLAYLIST_SLEEP,
                 do_dry_run=PLAYLIST_CLEAN_DRY_RUN,
                 move_like=PLAYLIST_CLEAN_MOVE_LIKE,
                 min_num_like=PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT,
@@ -1362,10 +1535,10 @@ class YTMusicPlaylists:
               f'  {os.path.abspath(self.playlist_tsv_dir)}\n'
               f'(skips unchanged, up to ~10 min)')
         for i, row in self.playlists.iterrows():
+            eta = self._get_eta(start_time, i, len(self.playlists))
+            eta_str = f" (~{eta})" if eta else ""
             try:
                 pl_title = self._decode(row['title'])
-                eta = self._get_eta(start_time, i, len(self.playlists))
-                eta_str = f" (~{eta})" if eta else ""
                 print(f'[{i+1}/{len(self.playlists)}]{eta_str} {pl_title}', flush=True)
                 if i < PLAYLIST_START_INDEX:
                     print(f'Skipping {i}: {pl_title}...')
@@ -1629,12 +1802,14 @@ class YTMusicPlaylists:
                 track_str += self._decode(f" -> {row['likeStatus']}")
             if 'albumYear' in row:
                 track_str += self._decode(f" ({row['albumYear']})")
+            
             # if 'averageRating' in row:
             #     track_str += self._decode(f" rating={round(row['averageRating'],2)}")
             # if 'release' in row:
             #     track_str += self._decode(f" ({row['release']})")
             # if 'albumType' in row:
             #     track_str += self._decode(f" | {row['albumType']}")
+
             # Calculate dynamic ETA
             eta = self._get_eta(t0, i, len(new_tracks), min_idx=6)
             eta_str = f" (~{eta})" if eta else ""
@@ -1658,7 +1833,7 @@ class YTMusicPlaylists:
             {r'[\t\n\r]': ' ', '"': "'"}, regex=True)
         print(f'Scraped info for {len(tracks_w_info)} tracks')
         track_db = pd.concat([track_db, tracks_w_info])
-        track_db = self._track_db_dedupe(track_db, keep='last', verbose=False)
+        track_db = self._track_db_dedupe(track_db, keep='last')
         track_db = track_db.sort_values(['artist', 'album'])
         # Ensure final save is written
         self._save_tsv(track_db, self.track_db_tsv)
@@ -1706,14 +1881,6 @@ class YTMusicPlaylists:
 
       return track_db
 
-    def _get_eta(self, start_time, current, total, min_idx=1):
-        if current < min_idx:
-            return ""
-        elapsed = time.time() - start_time
-        avg_time = elapsed / current
-        remaining = total - current
-        return f"{((remaining * avg_time) / 60):.1f}m"
-
     def _add_to_duplicate_tracks(self, video_ids):
         existing = set()
         if os.path.exists(self.duplicate_tracks_tsv):
@@ -1722,14 +1889,6 @@ class YTMusicPlaylists:
         if new_ids:
             df = pd.DataFrame(sorted(list(existing | new_ids)), columns=['videoId'])
             self._save_tsv(df, self.duplicate_tracks_tsv, index=False)
-
-    def _safe_sleep(self, seconds: float, jitter_ratio: float = 0.3) -> None:
-        """Sleeps for a given duration with random jitter to mimic human behavior."""
-        if seconds <= 0:
-            return
-        jitter = random.uniform(-seconds * jitter_ratio, seconds * jitter_ratio)
-        actual_sleep = max(0.05, seconds + jitter)
-        time.sleep(actual_sleep)
 
     def _is_valid_date(self, date_str):
         try:
@@ -1748,6 +1907,14 @@ class YTMusicPlaylists:
             return str(string).encode('utf-8', errors='ignore').decode('utf-8')
         except Exception:
             return str(string)
+
+    def _get_eta(self, start_time, current, total, min_idx=1):
+        if current < min_idx:
+            return ""
+        elapsed = time.time() - start_time
+        avg_time = elapsed / current
+        remaining = total - current
+        return f"{((remaining * avg_time) / 60):.1f}m"
 
 
 if __name__ == "__main__":
