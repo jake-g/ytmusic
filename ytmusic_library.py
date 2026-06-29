@@ -39,7 +39,7 @@ PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE = True
 PLAYLIST_CLEAN_MOVE_LIKE = True
 PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST = True
 PLAYLIST_CLEAN_DRY_RUN = False
-PLAYLIST_SLEEP = 5
+PLAYLIST_SLEEP = 0.5
 PLAYLIST_START_INDEX = 0
 PLAYLIST_CLEAN_SKIP_IF_DISLIKE = True
 PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT = 20
@@ -653,9 +653,9 @@ class YTMusicPlaylists:
         pl_id = self.yt.create_playlist(
             title=pl_info["title"], description=desc,
             privacy_status='PRIVATE', video_ids=video_ids)
-        time.sleep(sleep_time)
+        self._safe_sleep(sleep_time)
         self.yt.delete_playlist(pl_info["id"])
-        time.sleep(sleep_time)
+        self._safe_sleep(sleep_time)
         print(f'Created sorted pl: {pl_str} {pl_id}, and ',
               f'deleted original pl: {pl_info["id"]}')
         return pc
@@ -1058,7 +1058,7 @@ class YTMusicPlaylists:
                 print(f'Setting rating for {track["videoId"]} to {rating}')
             self.yt.rate_song(track["videoId"], rating=rating)
             rate_ct['track_rated'] += 1
-            time.sleep(sleep_time)
+            self._safe_sleep(sleep_time)
         if verbose:
             print(f'Playlist {pl_info["title"]}: Rated {rate_ct["track_rated"]}',
                   f'of {len(pl_info["tracks"])} tracks as {rating}')
@@ -1094,11 +1094,11 @@ class YTMusicPlaylists:
         if n_dupes >= duplicate_threshold:
             self.yt.remove_playlist_items(
                 playlistId=pl_info['id'], videos=tracks_to_remove)
-            time.sleep(sleep_time)
+            self._safe_sleep(sleep_time)
             print(f'Playlist {pl_info["title"]}: {n_dupes} duplicate tracks',
                   f'removed ({len(tracks_to_keep)} of {len(pl_info["tracks"])} unique)')
             self._invalidate_playlist_cache(pl_info['id'])
-        return pl_info['id']
+        return 0
 
     def sort_playlist(self, playlist_id, sort_by="artist", reverse=False):
         """Sorts a playlist by artist, album, like status, or randomly."""
@@ -1143,7 +1143,7 @@ class YTMusicPlaylists:
 
         # Adjust sleep time based on number of tracks and API limits
         sleep_time_adjusted = 0.5 + (len(playlist["tracks"]) // 100) * 0.5
-        time.sleep(sleep_time_adjusted)
+        self._safe_sleep(sleep_time_adjusted)
 
         video_ids_sorted = [track["videoId"] for track in playlist["tracks"]]
         self.yt.add_playlist_items(
@@ -1313,9 +1313,11 @@ class YTMusicPlaylists:
         df = df.astype(str).replace(
             {r'\t': ' ', r'[\r\n]+': ' ', '"': "'", r'\\': '/'}, regex=True)
 
-        # 3. Save as the strict text grid
-        df.to_csv(path, sep='\t', index=index,
+        # 3. Save as the strict text grid atomically to avoid file locks
+        tmp_path = path + '.tmp'
+        df.to_csv(tmp_path, sep='\t', index=index,
                   quoting=TSV_TRACK_QUOTING, encoding='utf-8')
+        os.replace(tmp_path, path)
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
                           remove_disliked=False):
@@ -1720,6 +1722,14 @@ class YTMusicPlaylists:
         if new_ids:
             df = pd.DataFrame(sorted(list(existing | new_ids)), columns=['videoId'])
             self._save_tsv(df, self.duplicate_tracks_tsv, index=False)
+
+    def _safe_sleep(self, seconds: float, jitter_ratio: float = 0.3) -> None:
+        """Sleeps for a given duration with random jitter to mimic human behavior."""
+        if seconds <= 0:
+            return
+        jitter = random.uniform(-seconds * jitter_ratio, seconds * jitter_ratio)
+        actual_sleep = max(0.05, seconds + jitter)
+        time.sleep(actual_sleep)
 
     def _is_valid_date(self, date_str):
         try:
