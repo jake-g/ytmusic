@@ -133,8 +133,9 @@ class TestYTMusicUtils(unittest.TestCase):
         self.assertEqual(deduped.loc['vid_1']['playlists'], 'List 1')
         self.assertEqual(deduped.loc['vid_1']['inLibrary'], True)
 
+    @patch('os.replace')
     @patch('pandas.DataFrame.to_csv', autospec=True)
-    def test_save_tsv_nan_handling_and_escaping(self, mock_to_csv):
+    def test_save_tsv_nan_handling_and_escaping(self, mock_to_csv, mock_os_replace):
         """Test that NaNs are converted to empty strings and special characters are escaped."""
         data = {
             'title': ['Song\tWith\tTabs', 'Normal Song', None],
@@ -419,6 +420,40 @@ class TestYTMusicUtils(unittest.TestCase):
         called_playlist_ids = [call[0][0] for call in mock_get_info.call_args_list]
         self.assertNotIn('pl1', called_playlist_ids)
         self.assertIn('pl2', called_playlist_ids)
+
+    @patch('ytmusic_library.CHECKPOINT_INTERVAL', 2)
+    @patch.object(YTMusicPlaylists, '_track_db_get_track_info')
+    @patch.object(YTMusicPlaylists, '_save_tsv')
+    @patch.object(YTMusicPlaylists, '_track_db_dedupe')
+    def test_track_db_update_checkpointing(self, mock_dedupe, mock_save_tsv, mock_get_info):
+        """Test that _track_db_update saves checkpoints and final database correctly."""
+        track_db = pd.DataFrame(columns=['title', 'artist', 'album'])
+        new_tracks = pd.DataFrame([
+            {'title': 'Song 1', 'artist': 'Artist 1', 'album': 'Album 1'},
+            {'title': 'Song 2', 'artist': 'Artist 2', 'album': 'Album 2'},
+            {'title': 'Song 3', 'artist': 'Artist 3', 'album': 'Album 3'}
+        ], index=['vid_1', 'vid_2', 'vid_3'])
+        new_tracks.index.name = 'videoId'
+
+        mock_get_info.side_effect = lambda row: {
+            'videoId': row.name,
+            'title': row['title'],
+            'artist': row['artist'],
+            'album': row['album']
+        }
+        mock_dedupe.side_effect = lambda df, **kwargs: df
+        self.yt_pl.track_db_tsv = 'mock_track_db.tsv'
+
+        self.yt_pl._track_db_update(track_db, new_tracks, verbose=True)
+
+        # Verify checkpoint dedupe called with verbose=False
+        mock_dedupe.assert_any_call(unittest.mock.ANY, keep='last', verbose=False)
+
+        # Verify final dedupe called with default verbose=True
+        mock_dedupe.assert_any_call(unittest.mock.ANY, keep='last')
+
+        # Verify self._save_tsv was called for both checkpoint (i=2) and final save
+        self.assertEqual(mock_save_tsv.call_count, 2)
 
 
 if __name__ == "__main__":
