@@ -42,6 +42,11 @@ PLAYLIST_CLEAN_DRY_RUN = False
 # Force-rate songs in LIKE playlists to be LIKE on server. If your liked library exceeds
 # the 20,000 song limit (FIFO), setting True will cause an endless unliking/re-liking loop.
 PLAYLIST_CLEAN_FORCE_RATE_LIKES = False
+
+# If True, performs a FULL backup (ignores local TSVs and refetches all playlists, track
+# counts, and tracklists from the API). If False, performs an INCREMENTAL backup (skips
+# API fetches for playlists whose local TSV track count matches the server's count).
+PLAYLIST_BACKUP_FULL_RUN = False
 PLAYLIST_SLEEP = 0.5
 PLAYLIST_START_INDEX = 0
 PLAYLIST_CLEAN_SKIP_IF_DISLIKE = True
@@ -1440,7 +1445,7 @@ class YTMusicPlaylists:
 
         # Update playlist counts for radio playlists
         radio_counts_df = self.get_playlist_counts(
-            filter_title='radio', verbose=False, use_local_tsvs=True)
+            filter_title='radio', verbose=False, use_local_tsvs=not PLAYLIST_BACKUP_FULL_RUN)
         radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
 
         # General automated task playlist todos
@@ -1556,7 +1561,7 @@ class YTMusicPlaylists:
                         pass
 
                 # Check if TSV exists and matches the count
-                if os.path.exists(tsv_path) and api_track_count > 0:
+                if not PLAYLIST_BACKUP_FULL_RUN and os.path.exists(tsv_path) and api_track_count > 0:
                     try:
                         local_df = self._read_tsv(tsv_path)
                         if len(local_df) == api_track_count:

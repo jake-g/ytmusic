@@ -7,6 +7,8 @@ from unittest.mock import patch
 
 import pandas as pd
 
+import tempfile
+import shutil
 from ytmusic_library import YTMusicPlaylists
 
 
@@ -14,6 +16,9 @@ class TestYTMusicUtils(unittest.TestCase):
     """Tests for utility functions and logic in YTMusicPlaylists."""
 
     def setUp(self):
+        # Create a temporary directory for test TSV files to avoid overwriting real data
+        self.test_dir = tempfile.mkdtemp()
+
         # Create a mock instance for tests that need self attributes
         # We patch __init__ so it doesn't try to connect to the API or load files
         with patch.object(YTMusicPlaylists, '__init__', return_value=None):
@@ -35,13 +40,26 @@ class TestYTMusicUtils(unittest.TestCase):
             ])
             self.yt_pl.yt = MagicMock()
             self.yt_pl.playlist_limit = 4500
-            self.yt_pl.playlist_tsv_dir = './playlists'
+            self.yt_pl.playlist_tsv_dir = self.test_dir
+            self.yt_pl.like_tsv = os.path.join(self.test_dir, '_liked_tracks.tsv')
+            self.yt_pl.not_like_tsv = os.path.join(self.test_dir, '_not_liked_tracks.tsv')
+            self.yt_pl.track_db_tsv = os.path.join(self.test_dir, '_tracks_db.tsv')
+            self.yt_pl.duplicate_tracks_tsv = os.path.join(self.test_dir, '_duplicate_tracks.tsv')
+            self.yt_pl.radio_count_file = os.path.join(self.test_dir, '_playlist_radio_counts.tsv')
+            self.yt_pl.like_cleanup_file = os.path.join(self.test_dir, '_ytmusic_cleanup_like_playlists_results.tsv')
+            self.yt_pl.radio_cleanup_file = os.path.join(self.test_dir, '_ytmusic_cleanup_radio_playlists_results.tsv')
+            self.yt_pl.cleanup_counters_file = os.path.join(self.test_dir, '_ytmusic_cleanup_playlist_counters.tsv')
+
             self.yt_pl.banned_vid_set = frozenset(['banned_1'])
             self.yt_pl._radio_to_like_map = pd.DataFrame([
                 {'radio_playlist': 'rock radio', 'like_playlist': 'my favorites'}
             ])
             self.yt_pl.playlist_titles = frozenset(
                 ['my favorites', 'rock radio', 'zz not like rap'])
+
+    def tearDown(self):
+        # Clean up the temporary directory after each test
+        shutil.rmtree(self.test_dir)
 
     def test_is_valid_date(self):
         self.assertTrue(self.yt_pl._is_valid_date("2020-01-01"))
@@ -419,6 +437,56 @@ class TestYTMusicUtils(unittest.TestCase):
         # Verify pl2 (id='pl2') was fetched (is in get_info calls)
         called_playlist_ids = [call[0][0] for call in mock_get_info.call_args_list]
         self.assertNotIn('pl1', called_playlist_ids)
+        self.assertIn('pl2', called_playlist_ids)
+
+    @patch('ytmusic_library.PLAYLIST_BACKUP_FULL_RUN', True)
+    @patch('os.path.exists')
+    @patch.object(YTMusicPlaylists, 'playlist_get_info')
+    @patch.object(YTMusicPlaylists, 'save_playlist_tsv')
+    @patch.object(YTMusicPlaylists, '_read_tsv')
+    def test_backup_playlists_full_run(self, mock_read_tsv, mock_save, mock_get_info, mock_exists):
+        """Test that playlist backup fetches all playlists from API if PLAYLIST_BACKUP_FULL_RUN is True."""
+        mock_exists.return_value = True
+
+        local_df = pd.DataFrame([
+            {
+                'videoId': f'vid_{i}',
+                'artist': f'Artist {i}',
+                'album': f'Album {i}',
+                'title': f'Song {i}',
+                'likeStatus': 'LIKE',
+                'albumId': f'al_{i}',
+                'artistId': f'ar_{i}'
+            } for i in range(10)
+        ])
+        mock_read_tsv.return_value = local_df
+
+        # Mock save_playlist_tsv to avoid actual saves
+        mock_metadata_1 = {
+            'id': 'pl1',
+            'title': 'my favorites',
+            'privacy': 'PUBLIC',
+            'description': 'favs',
+            'trackCount': 10,
+            'author': 'Jake G'
+        }
+        mock_metadata_2 = {
+            'id': 'pl2',
+            'title': 'rock radio',
+            'privacy': 'PUBLIC',
+            'description': 'rock',
+            'trackCount': 20,
+            'author': 'Jake G'
+        }
+        mock_save.side_effect = [(local_df, mock_metadata_1), (local_df, mock_metadata_2)]
+
+        # Call backup
+        self.yt_pl.backup_playlists_and_collect_tracks(
+            remove_disliked=False, include_library_tracks=False)
+
+        # Verify that both pl1 and pl2 were fetched from the API (since FULL_RUN is True)
+        called_playlist_ids = [call[0][0] for call in mock_get_info.call_args_list]
+        self.assertIn('pl1', called_playlist_ids)
         self.assertIn('pl2', called_playlist_ids)
 
     @patch('ytmusic_library.CHECKPOINT_INTERVAL', 2)
