@@ -17,7 +17,8 @@ from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 # This prevents the UnicodeEncodeError during print() calls.
 # Only wrap the stream if we are in a standard terminal and NOT in IPython/Jupyter
 if hasattr(sys.stdout, 'buffer'):
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    sys.stdout = io.TextIOWrapper(
+        sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 
 # Global Prams
@@ -144,12 +145,12 @@ class YTMusicPlaylists:
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header, client)
         # Load small files right away
-        self._like_playlist_titles = pd.read_csv(self.like_playlist_file, sep='\t')[
-            'title'].str.lower().tolist()
-        self._radio_to_like_map = pd.read_csv(
-            self.radio_like_map_file, sep='\t')
-        self.banned_vid_set = frozenset(pd.read_csv(
-            self.not_like_tsv, sep='\t', index_col=0).index)
+        self._like_playlist_titles = self._read_tsv(
+            self.like_playlist_file, index_col=None)['title'].str.lower().tolist()
+        self._radio_to_like_map = self._read_tsv(
+            self.radio_like_map_file, index_col=None)
+        self.banned_vid_set = frozenset(
+            self._read_tsv(self.not_like_tsv).index)
         # Load this later, intialize empty for now
         self._playcount_map = pd.DataFrame([])
         # fetch playlists (needed for many downstream function, takes some time)
@@ -300,12 +301,12 @@ class YTMusicPlaylists:
             sys.path.append(module_path)
         import unify_lib as uni
 
-        all_df = pd.read_csv(self.track_db_tsv, sep='\t', index_col=0)
+        all_df = self._read_tsv(self.track_db_tsv, use_track_defaults=True)
         all_df['fuzzy_track_id'] = all_df.apply(
             uni.make_ytmusic_fuzzy_slugified_track_id, axis=1)
 
-        like_df = pd.read_csv(self.like_tsv, sep='\t', index_col=0)
-        not_like_df = pd.read_csv(self.not_like_tsv, sep='\t', index_col=0)
+        like_df = self._read_tsv(self.like_tsv)
+        not_like_df = self._read_tsv(self.not_like_tsv)
 
         print(f'Loaded {len(like_df)} like, {len(not_like_df)} not like entries,',
               f'and {len(all_df)} total tracks')
@@ -385,8 +386,8 @@ class YTMusicPlaylists:
         # display_top_impacted_playlist_df(not_like_impacted_playlists, top_n=10)
 
         # Load previous manual ratings and remove duplicates
-        manual_picks = pd.read_csv(
-            self.manual_rate_tsv, sep='\t', index_col=0).drop_duplicates(keep='first')
+        manual_picks = self._read_tsv(
+            self.manual_rate_tsv).drop_duplicates(keep='first')
         old_like = manual_picks.loc[manual_picks['manual_rating'] == 'LIKE']
         old_not_like = manual_picks.loc[manual_picks['manual_rating'] == 'NOT_LIKE']
         print(f'Loaded {len(manual_picks)} manually labeled entries, '
@@ -495,7 +496,7 @@ class YTMusicPlaylists:
                           ignore_banned=False, pl_name=None, sleep=3,
                           public='PRIVATE', dry=False):
         assert tsv_path.endswith('.tsv')
-        df = pd.read_csv(tsv_path, sep='\t', index_col=0)
+        df = self._read_tsv(tsv_path, index_col=0)
         if not pl_name:
           pl_name = os.path.basename(tsv_path).split('.tsv')[0]
         if sort_by_index:
@@ -552,8 +553,7 @@ class YTMusicPlaylists:
             self, pl_info, max_playcount_str=50,
             ignore_banned=True, sleep_time=1, verbose=True):
         if not len(self._playcount_map):
-            self._playcount_map = pd.read_csv(
-                self.lastfm_tsv, sep='\t', index_col=0)
+            self._playcount_map = self._read_tsv(self.lastfm_tsv)
             if verbose:
                 print(f'Loaded {self._playcount_map["lastfm_playcount"].sum()}',
                       f'playounts from {len(self._playcount_map)} tracks')
@@ -585,6 +585,81 @@ class YTMusicPlaylists:
         print(f'Created sorted pl: {pl_str} {pl_id}, and ',
               f'deleted original pl: {pl_info["id"]}')
         return pc
+
+    def _read_tsv(self, filepath, index_col=0, use_track_defaults=False, low_memory=False):
+        """Helper to read TSV files with consistent defaults."""
+        kwargs = {'low_memory': low_memory}
+        if use_track_defaults:
+            kwargs.update({
+                'quoting': TSV_TRACK_QUOTING,
+                'on_bad_lines': 'warn',
+                'low_memory': False
+            })
+        return pd.read_csv(filepath, sep='\t', index_col=index_col, **kwargs)
+
+    def _collect_tracks_from_playlists(self, playlist_filter_fn, track_filter_fn=None, tsv_header=LIKE_TRACKS_HEADER, print_stats=False):
+        """Common logic to collect and merge tracks from a filtered subset of playlist TSVs."""
+        playlist_files = sorted(os.listdir(self.playlist_tsv_dir))
+        filtered_playlists = [pl for pl in playlist_files
+                              if playlist_filter_fn(pl.replace('.tsv', ''))]
+
+        print_label = "like" if playlist_filter_fn == self._playlist_is_like else "not like"
+        print(
+            f'Found {len(filtered_playlists)} {print_label} playlists out of the {len(playlist_files)} total')
+
+        tracks_list = []
+        for pl in filtered_playlists:
+            track_df = self._read_tsv(
+                os.path.join(self.playlist_tsv_dir, pl),
+                index_col=None,
+                use_track_defaults=True
+            )
+            total_len = len(track_df)
+
+            if track_filter_fn:
+                track_df = track_filter_fn(track_df)
+
+            tracks_db_filtered = track_df.set_index('videoId', drop=True)
+            tracks_list.append(tracks_db_filtered)
+
+            if print_stats:
+                liked_percent = 100 * \
+                    len(tracks_db_filtered) / total_len if total_len > 0 else 0
+                if liked_percent < 80:
+                    print('\nWARNING: Low Like Percentage!')
+                print(
+                    f'{pl}\t{liked_percent:0.1f}% currently liked (of {total_len} total tracks)', flush=True)
+
+        if not tracks_list:
+            df = pd.DataFrame(columns=tsv_header)
+            df.index.name = 'videoId'
+            return df
+
+        combined_tracks = pd.concat(tracks_list).sort_values('artist')
+        combined_tracks = combined_tracks.loc[
+            ~combined_tracks.index.duplicated(keep='first'), tsv_header]
+        return combined_tracks
+
+    def remove_playlist_items_chunked(
+        self, playlist_id, tracks, chunk_size=100, sleep=1, label="tracks", verbose=False
+    ):
+        """Removes tracks from a playlist in chunks to avoid API/size errors."""
+        if not tracks:
+            return
+        for i in range(0, len(tracks), chunk_size):
+            chunk = tracks[i:i + chunk_size]
+            try:
+                status = self.yt.remove_playlist_items(playlist_id, chunk)
+                err_msg = (f'Bad Status for {playlist_id} remove '
+                           f'{len(chunk)} {label} tracks: {status}')
+                assert str(status) == 'STATUS_SUCCEEDED', err_msg
+                if verbose:
+                    print(
+                        f'  -> Removed {len(chunk)} {label} entries from playlist {playlist_id}')
+                time.sleep(sleep)
+            except Exception as e:
+                print(
+                    f"  -> Warning: Failed to remove chunk of {label} tracks: {e}")
 
     def clean_up_radio_playlist(
             self, pl_info, verbose=False,
@@ -654,15 +729,18 @@ class YTMusicPlaylists:
                     like_pl_id = res.playlistId
                 if like_pl_id is None:
                     if create_like_playlist:
-                        print(f"Mapped LIKE playlist '{like_pl}' not found. Creating it...")
+                        print(
+                            f"Mapped LIKE playlist '{like_pl}' not found. Creating it...")
                         like_pl_id = self.yt.create_playlist(
                             title=like_pl.strip(),
                             description=f'Favorite tracks from {pl_info["title"]} [{DATE}]',
                             privacy_status='PRIVATE', video_ids=like_vids)
                         time.sleep(2 * sleep)
-                        like_orig_vids = frozenset(like_vids) # We just added them all
+                        # We just added them all
+                        like_orig_vids = frozenset(like_vids)
                     else:
-                        print(f"WARNING: Mapped LIKE playlist '{like_pl}' does not exist! Skipping LIKE move.")
+                        print(
+                            f"WARNING: Mapped LIKE playlist '{like_pl}' does not exist! Skipping LIKE move.")
                         return {}
                 else:
                     like_orig_vids = frozenset([t['videoId'] for t in
@@ -692,13 +770,9 @@ class YTMusicPlaylists:
                           f'so not moving {len(move_like_tracks)} LIKE tracks')
                 return {}
 
-            status = self.yt.remove_playlist_items(
-                pl_info["id"], move_like_tracks)
-            err_msg = (f'Bad Status for {pl_info["id"]} remove '
-                       f'{len(move_like_tracks)} LIKE tracks: {status}')
-            assert str(status) == 'STATUS_SUCCEEDED', err_msg
-            time.sleep(sleep)
-            if verbose:
+            self.remove_playlist_items_chunked(
+                pl_info["id"], move_like_tracks, sleep=sleep, label="LIKE", verbose=verbose)
+            if verbose and len(move_like_tracks):
                 print(f'Moved {len(move_like_tracks)} LIKE entries '
                       f'from {pl_info["title"]} to {like_pl_id}')
 
@@ -706,34 +780,18 @@ class YTMusicPlaylists:
             if remove_dislike and len(remove_dislike_tracks):
                 remove_not_like_tracks += remove_dislike_tracks
 
-            # YouTube API throws HTTP 400 if you try to remove too many items at once.
-            # Chunk the removals into safe batches of 50.
-            status = None
-            chunk_size = 100 # TODO make a heper for chinking all remove_playlist_items
-            for i in range(0, len(remove_not_like_tracks), chunk_size):
-                chunk = remove_not_like_tracks[i:i + chunk_size]
-                try:
-                    status = self.yt.remove_playlist_items(pl_info["id"], chunk)
-                    err_msg = (f'Bad Status for {pl_info["id"]} remove '
-                              f'{len(remove_not_like_tracks)} NOT LIKE tracks: {status}')
-                    assert str(status) == 'STATUS_SUCCEEDED', err_msg
-                    if verbose:
-                        print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
-                              f'entries from {pl_info["title"]}')
-                    time.sleep(sleep)
-                except Exception as e:
-                    print(f"  -> Warning: Failed to remove chunk of tracks: {e}")
+            self.remove_playlist_items_chunked(
+                pl_info["id"], remove_not_like_tracks, sleep=sleep, label="NOT_LIKE", verbose=verbose)
+            if verbose and len(remove_not_like_tracks):
+                print(f'Removed {len(remove_not_like_tracks)} NOT_LIKE '
+                      f'entries from {pl_info["title"]}')
 
         elif remove_dislike and len(remove_dislike_tracks):
-            status = self.yt.remove_playlist_items(
-                pl_info["id"], remove_dislike_tracks)
-            err_msg = (f'Bad Status for {pl_info["id"]} remove '
-                       f'{len(remove_dislike_tracks)} noly DISLIKE tracks: {status}')
-            assert str(status) == 'STATUS_SUCCEEDED', err_msg
-            if verbose:
+            self.remove_playlist_items_chunked(
+                pl_info["id"], remove_dislike_tracks, sleep=sleep, label="DISLIKE", verbose=verbose)
+            if verbose and len(remove_dislike_tracks):
                 print(f'Removed {len(remove_dislike_tracks)} DISLIKE '
                       f'entries from {pl_info["title"]}')
-            time.sleep(sleep)
         return pl_counters
 
     def clean_playlists(self, do_dry_run=False, verbose=False, move_like=True,
@@ -1052,52 +1110,37 @@ class YTMusicPlaylists:
             return False
         return True
 
-    def _playlist_is_not_like(self, name,
-                              not_like_toks=NOT_LIKE_TOKS):
+    def _playlist_is_not_like(self, name, not_like_toks=NOT_LIKE_TOKS):
         name = name.lower()
         if name.startswith('_'):
             return False
         if NOT_LIKE_PREFIX in name:
             return True
-        for tok in not_like_toks:
-            if tok in name:
-                return True
+        return any(tok in name for tok in not_like_toks)
 
     def _playlist_is_like(self, name, like_toks=LIKE_TOKS):
         name = name.lower()
-        if name.startswith('_'):
-            return False
-        if name.endswith('albums'):
+        if name.startswith('_') or name.endswith('albums'):
             return False
         if self._playlist_is_not_like(name):
             return False
-        for t in self._like_playlist_titles:
-            if t.lower() == name:
-                return True
-        for tok in like_toks:
-            if tok in name:
-                return True
-        return False
+        if any(t.lower() == name for t in self._like_playlist_titles):
+            return True
+        return any(tok in name for tok in like_toks)
 
     def _playlist_is_radio(self, name, radio_toks=RADIO_TOKS):
         name = name.lower()
         if self._playlist_is_like(name):
             return False
-        for tok in radio_toks:
-            if tok in name:
-                return True
+        return any(tok in name for tok in radio_toks)
 
     def _playlist_is_albums(self, name, album_toks=ALBUM_TOKS):
         name = name.lower()
-        for tok in album_toks:
-            if tok in name:
-                return True
+        return any(tok in name for tok in album_toks)
 
     def _playlist_skip_starts_with(self, name, start_toks=SKIP_STARTS_WITH_TOKS):
         name = name.lower()
-        for tok in start_toks:
-            if name.startswith(tok):
-                return True
+        return any(name.startswith(tok) for tok in start_toks)
 
     # Backup Job for yt playlists, library and weekly management
     def run_backup(self, skip_playlist_tsv_backup=SKIP_PLAYLIST_BACKUP):
@@ -1112,12 +1155,9 @@ class YTMusicPlaylists:
             self._save_tsv(tracks_no_meta, self.tracks_no_meta_tsv)
 
         # Reload tsb dbs
-        track_db = pd.read_csv(
-          self.track_db_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING,
-          on_bad_lines='warn', low_memory=False)
-        tracks_no_meta = pd.read_csv(
-          self.tracks_no_meta_tsv, sep='\t', index_col=0, quoting=TSV_TRACK_QUOTING,
-          on_bad_lines='warn', low_memory=False)
+        track_db = self._read_tsv(self.track_db_tsv, use_track_defaults=True)
+        tracks_no_meta = self._read_tsv(
+            self.tracks_no_meta_tsv, use_track_defaults=True)
         # Get ytmusic metadata for new tracks from tracks_no_meta, update tracks_db
         new_tracks_no_meta = self._track_db_new_or_newly_liked_tracks(
             track_db, tracks_no_meta)
@@ -1323,61 +1363,36 @@ class YTMusicPlaylists:
 
     # Functions for aggregating from playlist tsvs
     def collect_all_like_tracks_from_tsvs(self, tsv_header=LIKE_TRACKS_HEADER):
-        playlist_files = sorted(os.listdir(self.playlist_tsv_dir))
-        like_playlists = [pl for pl in playlist_files
-                          if self._playlist_is_like(pl.replace('.tsv', ''))]
-        print(f'Found {len(like_playlists)} like playlists out of '
-              f'the {len(playlist_files)} total')
-        like_tracks = []
-        for pl in like_playlists:
-            track_df = pd.read_csv(
-              os.path.join(self.playlist_tsv_dir, pl), sep='\t',
-              quoting=TSV_TRACK_QUOTING, on_bad_lines='warn', low_memory=False)
-            tracks_db_liked = track_df.loc[track_df['likeStatus'] == 'LIKE']
-            tracks_db_liked = tracks_db_liked.set_index('videoId', drop=True)
-            like_tracks.append(tracks_db_liked)
-            liked_percent = 100 * len(tracks_db_liked) / len(track_df)
-            if liked_percent < 80:
-                print('\nWARNING: Low Like Percentage!')
-            print(f'{pl}\t{liked_percent:0.1f}% currently liked '
-                  f'(of {len(track_df)} total tracks)', flush=True)
-        like_tracks = pd.concat(
-            like_tracks).sort_values('artist')
-        like_tracks = like_tracks.loc[
-            ~like_tracks.index.duplicated(keep='first'), tsv_header]
+        collected_like_tracks = self._collect_tracks_from_playlists(
+            self._playlist_is_like,
+            track_filter_fn=lambda df: df.loc[df['likeStatus'] == 'LIKE'],
+            tsv_header=tsv_header,
+            print_stats=True
+        )
+
         # Load already existing like list tsv
-        like_tracks = pd.read_csv(self.like_tsv, sep='\t', index_col=0)
+        like_tracks_existing = self._read_tsv(self.like_tsv)
         assert_msg = (f'Expected {self.like_tsv} to have header {tsv_header}, '
-                      f'not: {like_tracks.columns}')
-        assert list(like_tracks.columns) == tsv_header, assert_msg
+                      f'not: {like_tracks_existing.columns}')
+        assert list(like_tracks_existing.columns) == tsv_header, assert_msg
+
         # Update and save tsv, append new like tracks in db but not in like list
-        new_like_tracks = like_tracks.loc[frozenset(
-            like_tracks.index) - frozenset(like_tracks.index)]
-        all_like_tracks = pd.concat([like_tracks, new_like_tracks])
+        new_like_tracks = collected_like_tracks.loc[frozenset(
+            collected_like_tracks.index) - frozenset(like_tracks_existing.index)]
+        all_like_tracks = pd.concat([like_tracks_existing, new_like_tracks])
+
         print(f'Updated liked tracks with {len(new_like_tracks)} new entries '
-              f'(from {len(like_tracks)} to {len(all_like_tracks)}).', flush=True)
-        return like_tracks
+              f'(from {len(like_tracks_existing)} to {len(all_like_tracks)}).', flush=True)
+        return all_like_tracks
 
     def collect_all_not_like_tracks_from_tsvs(self, tsv_header=LIKE_TRACKS_HEADER):
-        playlist_files = sorted(os.listdir(self.playlist_tsv_dir))
-        not_like_playlists = [pl for pl in playlist_files
-                              if self._playlist_is_not_like(pl.replace('.tsv', ''))]
-        print(f'Found {len(not_like_playlists)} not like playlists',
-              f'out of the {len(playlist_files)} total', flush=True)
-        not_like_tracks = []
-        for pl in not_like_playlists:
-            tracks_db_not_liked = pd.read_csv(
-              os.path.join(self.playlist_tsv_dir, pl), sep='\t',
-              quoting=TSV_TRACK_QUOTING, on_bad_lines='warn', low_memory=False)
-            tracks_db_not_liked = tracks_db_not_liked.set_index(
-                'videoId', drop=True)
-            not_like_tracks.append(tracks_db_not_liked)
-        not_like_tracks = pd.concat(
-            not_like_tracks).sort_values('artist')
-        not_like_tracks = not_like_tracks.loc[~not_like_tracks.index.duplicated(
-            keep='first'), tsv_header]
-        print(f'Updated not liked tracks, contains',
-              f'{len(not_like_tracks)} entries.', flush=True)
+        not_like_tracks = self._collect_tracks_from_playlists(
+            self._playlist_is_not_like,
+            tsv_header=tsv_header,
+            print_stats=False
+        )
+        print(
+            f'Updated not liked tracks, contains {len(not_like_tracks)} entries.', flush=True)
         return not_like_tracks
 
     # Functions for dealing with track db tsv
@@ -1446,7 +1461,7 @@ class YTMusicPlaylists:
     def _track_db_new_or_newly_liked_tracks(self, track_db, tracks_no_meta):
         new_track_ids = set(tracks_no_meta.index) - set(track_db.index)
         # Update likes on existing tracks
-        existing = tracks_no_meta[~tracks_no_meta.isin(new_track_ids)]
+        existing = tracks_no_meta[~tracks_no_meta.index.isin(new_track_ids)]
         tracks_no_meta_liked = existing[existing['likeStatus'] == 'LIKE']
         track_db_not_liked = track_db[track_db['likeStatus'] != 'LIKE']
         new_track_rating = set(track_db_not_liked.index) & set(
@@ -1539,6 +1554,7 @@ class YTMusicPlaylists:
             return str(string).encode('utf-8', errors='ignore').decode('utf-8')
         except Exception:
             return str(string)
+
 
 if __name__ == "__main__":
     print('Running main ytmusic library backup task')

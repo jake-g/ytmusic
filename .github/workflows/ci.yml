@@ -27,4 +27,4 @@ jobs:
 
       - name: 🧪 Run Tests
         run: |
-          python ytmusic_tests.py
+          python ytmusic_library_test.py
