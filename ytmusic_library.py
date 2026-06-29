@@ -496,7 +496,7 @@ class YTMusicPlaylists:
         print(f'{len(need_review)} entries need like or not like',
               'manual review', flush=True)
         need_review['manual_rating'] = ''
-        need_review = need_review.drop_duplicates(keep='last')
+        need_review = need_review.drop_duplicates(keep='last', verbose=False)
         need_review[review_cols].to_csv(
             self.need_rate_tsv, sep='\t', index=True)
         return need_review
@@ -1595,7 +1595,10 @@ class YTMusicPlaylists:
         return row
 
     def _track_db_new_or_newly_liked_tracks(self, track_db, tracks_no_meta):
-        new_track_ids = set(tracks_no_meta.index) - set(track_db.index)
+        ignored = set()
+        if os.path.exists(self.duplicate_tracks_tsv):
+            ignored = set(self._read_tsv(self.duplicate_tracks_tsv, index_col=None)['videoId'])
+        new_track_ids = set(tracks_no_meta.index) - set(track_db.index) - ignored
         # Find existing tracks whose status changed to LIKE, and queue them for re-scraping
         existing = tracks_no_meta[~tracks_no_meta.index.isin(new_track_ids)]
         tracks_no_meta_liked = existing[existing['likeStatus'] == 'LIKE']
@@ -1641,7 +1644,7 @@ class YTMusicPlaylists:
                 checkpoint_df = pd.concat(
                     [track_db, pd.DataFrame(tracks_w_info)])
                 checkpoint_df = self._track_db_dedupe(
-                    checkpoint_df, keep='last')
+                    checkpoint_df, keep='last', verbose=False)
                 self._save_tsv(checkpoint_df, self.track_db_tsv)
                 if verbose:
                     print(f"Saved checkpoint at {i}/{len(new_tracks)} tracks")
@@ -1653,7 +1656,7 @@ class YTMusicPlaylists:
             {r'[\t\n\r]': ' ', '"': "'"}, regex=True)
         print(f'Scraped info for {len(tracks_w_info)} tracks')
         track_db = pd.concat([track_db, tracks_w_info])
-        track_db = self._track_db_dedupe(track_db, keep='last')
+        track_db = self._track_db_dedupe(track_db, keep='last', verbose=False)
         track_db = track_db.sort_values(['artist', 'album'])
         # Ensure final save is written
         self._save_tsv(track_db, self.track_db_tsv)
@@ -1662,33 +1665,44 @@ class YTMusicPlaylists:
         print(f'Track database now has {len(track_db)} tracks')
         return track_db
 
-    def _track_db_dedupe(self, track_db, keep='last'):
-        # Deduplication Level 1: Remove exact row duplicates
-        _length = len(track_db)
-        track_db = track_db.drop_duplicates(keep=keep)
-        print(f"Removed {_length - len(track_db)} exact duplicate rows")
+    def _track_db_dedupe(self, track_db, keep='last', verbose=True):
+      original_ids = set(track_db.index)
+      stats_msgs = []
 
-        # Deduplication Level 2: Remove duplicates ignoring volatile/metadata columns
-        _length = len(track_db)
-        ignore_cols = ['playlists',  'inLibrary',  'artistId', 'albumId']
-        # 'duration',
-        track_db = track_db.drop_duplicates(
-            subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
-        print(f"Removed {_length - len(track_db)} row duplicates",
-              f"(ignoring columns: {ignore_cols})")
-        _length = len(track_db)
-        ignore_cols = ['title',  'album']
-        track_db = track_db.drop_duplicates(
-            subset=[c for c in track_db.columns if c not in ignore_cols], keep=keep)
-        print(f"Removed {_length - len(track_db)} row duplicates",
-              f"(ignoring columns: {ignore_cols})")
+      # 1. Exact row duplicates
+      prev_len = len(track_db)
+      track_db = track_db.drop_duplicates(keep=keep)
+      stats_msgs.append(
+          f"Removed {prev_len - len(track_db)} exact duplicate rows")
 
-        # Deduplication Level 3: Remove duplicate index rows (videoId)
-        _length = len(track_db)
-        track_db = track_db[~track_db.index.duplicated(keep=keep)]
-        print(f"Removed {_length - len(track_db)} duplicate index rows")
-        print(f"Final length of track_db: {len(track_db)}")
-        return track_db
+      # 2. Duplicate subsets ignoring specific columns
+      for ignore in [['playlists', 'inLibrary', 'artistId', 'albumId'],
+                     ['title', 'album']]:
+        prev_len = len(track_db)
+        cols = [c for c in track_db.columns if c not in ignore]
+        track_db = track_db.drop_duplicates(subset=cols, keep=keep)
+        stats_msgs.append(
+            f"Removed {prev_len - len(track_db)} row duplicates "
+            f"(ignoring columns: {ignore})"
+        )
+
+      # 3. Duplicate index rows
+      prev_len = len(track_db)
+      track_db = track_db[~track_db.index.duplicated(keep=keep)]
+      stats_msgs.extend([
+          f"Removed {prev_len - len(track_db)} duplicate index rows",
+          f"Final length of track_db: {len(track_db)}"
+      ])
+
+      if verbose:
+        print("\n".join(stats_msgs))
+
+      # Save removed videoIds as duplicates to prevent re-scraping them
+      removed_ids = original_ids - set(track_db.index)
+      if removed_ids:
+          self._add_to_duplicate_tracks(removed_ids)
+
+      return track_db
 
     def _get_eta(self, start_time, current, total, min_idx=1):
         if current < min_idx:
@@ -1697,6 +1711,15 @@ class YTMusicPlaylists:
         avg_time = elapsed / current
         remaining = total - current
         return f"{((remaining * avg_time) / 60):.1f}m"
+
+    def _add_to_duplicate_tracks(self, video_ids):
+        existing = set()
+        if os.path.exists(self.duplicate_tracks_tsv):
+            existing = set(self._read_tsv(self.duplicate_tracks_tsv, index_col=None)['videoId'])
+        new_ids = set(video_ids) - existing
+        if new_ids:
+            df = pd.DataFrame(sorted(list(existing | new_ids)), columns=['videoId'])
+            self._save_tsv(df, self.duplicate_tracks_tsv, index=False)
 
     def _is_valid_date(self, date_str):
         try:
