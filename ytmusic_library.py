@@ -840,7 +840,7 @@ class YTMusicPlaylists:
         # If loaded from local TSV, we must fetch from API to get setVideoIds
         if len(pl_info.get('tracks', [])) > 0 and 'setVideoId' not in pl_info['tracks'][0]:
             pl_info = self.playlist_get_info(pl_info['id'], playlist_limit=self.playlist_limit, use_cache=False)
-            
+
             # Re-categorize with live info to get correct setVideoIds
             remove_dislike_tracks = []
             remove_not_like_tracks = []
@@ -1126,7 +1126,7 @@ class YTMusicPlaylists:
                         'track_already_rated': len(p_info["tracks"])
                     }
                 like_results[p.title] = rate_ct
-                
+
                 dupe_str = f" (removed {n_dupes} duplicates)" if n_dupes > 0 else ""
                 print(
                     f'[{i+1}/{n_playlists}]{eta_str} Playlist {p.title}: '
@@ -1144,7 +1144,7 @@ class YTMusicPlaylists:
                     create_like_playlist=create_like_playlist,
                     remove_dislike=remove_dislike,  remove_not_like=remove_not_like)
                 radio_results[p.title] = rate_ct
-                
+
                 dupe_str = f" (removed {n_dupes} duplicates)" if n_dupes > 0 else ""
                 changes_str = []
                 if rate_ct.get('moved_like', 0) > 0:
@@ -1153,7 +1153,7 @@ class YTMusicPlaylists:
                     changes_str.append(f"removed {rate_ct['removed_not_like']} NOT_LIKE")
                 if rate_ct.get('removed_dislike', 0) > 0:
                     changes_str.append(f"removed {rate_ct['removed_dislike']} DISLIKE")
-                
+
                 if changes_str:
                     clean_str = "... Cleaned: " + ", ".join(changes_str)
                 else:
@@ -1196,7 +1196,7 @@ class YTMusicPlaylists:
                                 valid_ratings=VALID_TRACK_RATINGS):
         if rating not in valid_ratings:
             raise ValueError(f"Invalid rating '{rating}'. Expected one of: {valid_ratings}")
-            
+
         tracks_to_rate = []
         already_rated = 0
         skipped_dislike = 0
@@ -1208,7 +1208,7 @@ class YTMusicPlaylists:
                 already_rated += 1
                 continue
             tracks_to_rate.append(track)
-            
+
         num_to_rate = len(tracks_to_rate)
         if num_to_rate > 0 and verbose:
             # Estimate time: (sleep_time + 0.5s avg API latency) per track
@@ -1218,18 +1218,18 @@ class YTMusicPlaylists:
                 f'Playlist {pl_info["title"]}: {num_to_rate} tracks '
                 f'to rate as {rating} (approx {est_str})...'
             )
-            
+
         rate_ct = {
             'track_rated': 0,
             'track_skip_dislike': skipped_dislike,
             'track_already_rated': already_rated
         }
-                   
+
         for track in tracks_to_rate:
             self.yt.rate_song(track["videoId"], rating=rating)
             rate_ct['track_rated'] += 1
             self._safe_sleep(sleep_time)
-            
+
         return rate_ct
 
     def playlist_remove_duplicates(self, pl_info,
@@ -1807,7 +1807,7 @@ class YTMusicPlaylists:
                 track_str += self._decode(f" -> {row['likeStatus']}")
             if 'albumYear' in row:
                 track_str += self._decode(f" ({row['albumYear']})")
-            
+
             # if 'averageRating' in row:
             #     track_str += self._decode(f" rating={round(row['averageRating'],2)}")
             # if 'release' in row:
@@ -1818,7 +1818,7 @@ class YTMusicPlaylists:
             # Calculate dynamic ETA
             eta = self._get_eta(t0, i, len(new_tracks), min_idx=6)
             eta_str = f" (~{eta})" if eta else ""
-            
+
             print(f"[{i}/{len(new_tracks)}]{eta_str} {track_str}")
 
             # Save checkpoint to allow seamless resuming if interrupted
