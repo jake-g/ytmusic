@@ -3,8 +3,8 @@ playlists_processed	507
 playlist_is_empty	10
 playlist_kind_is_like	230
 track_processed	120973
-track_rating_exists	118102
-track_rating_is_none	2871
+track_rating_exists	118098
+track_rating_is_none	2875
 playlist_kind_is_album	20
 playlist_kind_in_playlist_skip_list	20
 playlist_skip_starts_with_zz not like	3

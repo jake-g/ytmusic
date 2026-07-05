@@ -19,7 +19,7 @@ else
     endif
 endif
 
-.PHONY: help run run-no-backup test format auth auth-update clean commit-playlists
+.PHONY: help run run-no-backup analytics test format auth auth-update clean commit-playlists
 
 # Default target
 help:
@@ -43,6 +43,11 @@ run:
 run-no-backup:
 	@echo "Starting YTMusic Library Backup (skipping playlist backups)..."
 	@$(PYTHON) ytmusic_library.py --skip-backup
+
+analytics:
+	@echo "Running YTMusic Analytics..."
+	@$(PYTHON) ../music-sources-unified/analytics.py --variant ytmusic
+
 
 test:
 	@echo "Running Unit Tests..."

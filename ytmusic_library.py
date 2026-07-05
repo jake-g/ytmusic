@@ -14,6 +14,7 @@ import pandas as pd
 from ytmusicapi import YTMusic
 from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
+
 # Force stdout to use UTF-8 and replace characters it can't encode
 # This prevents the UnicodeEncodeError during print() calls.
 # Only wrap the stream if we are in a standard terminal and NOT in IPython/Jupyter
