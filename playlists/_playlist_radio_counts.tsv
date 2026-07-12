@@ -10,7 +10,7 @@ xr BinauralMusic radio	31		PLWptjpDqazOwg0uL9JgZpUWJK58HlV7_E
 xr frisson radio	42		PLWptjpDqazOzZWeXU9wroauyqrzaP5Os4
 xr liftingmusic radio	43		PLWptjpDqazOwRVPONTkoaD4yp5lYYwwI4
 xr choralmusic radio	44		PLWptjpDqazOzHJTYUkpPkF3WMX0n-8sj7
-folk acoustic radio	46		PLWptjpDqazOxv5a0XEcSdpXpKiERCIHZA
+folk acoustic radio	45		PLWptjpDqazOxv5a0XEcSdpXpKiERCIHZA
 xr darkjazz radio	47		PLWptjpDqazOwswjQ8WLlW2a5LXTzkZPZ4
 xr soca radio	49		PLWptjpDqazOzEa1OnXz5rfEisTfaqyBTJ
 folk 1960s radio	50		PLWptjpDqazOzR_Gm0Jeng-XUcYqwCIwVs
@@ -58,8 +58,9 @@ Indie 1990s Rock radio	121		PLWptjpDqazOy357qk6ZUWDrPK4XOqz6LS
 xr DoomMetal radio	125		PLWptjpDqazOwCR-iB-2uRFyYAefCGwwA8
 xr bluegrass radio	129		PLWptjpDqazOwtRi1RNDc1LXZf0yJVsGHV
 xr SoundsVintage radio	130		PLWptjpDqazOwIBICDxom1a2PfS_bL8YEN
-xr HeadNodders radio	133		PLWptjpDqazOyqVztZW7UcBYG43OGjTyVE
+xr HeadNodders radio	132		PLWptjpDqazOyqVztZW7UcBYG43OGjTyVE
 instrumental ambient piano radio	135		PLWptjpDqazOzZp_I1RtUs6eYuuwwjwkhS
+xr 70sMusic radio	135		PLWptjpDqazOzBY8ZXXdtCf4qBJPrw6gzU
 botanica radio	140		PLWptjpDqazOwwR1QXjRfD_x5SFJSb2O_7
 jazz guitar radio	140		PLWptjpDqazOzwhDKGzVvgS1dO8-dXROS3
 xr Instrumentals radio	141		PLWptjpDqazOxJEL4nOTL5VufEHStGi_D5
@@ -77,7 +78,6 @@ xr baroque radio	176		PLWptjpDqazOxAFEft4QAXkSrxiEiYLyIl
 xr synthwave radio	185		PLWptjpDqazOxG_dRC1bMvt4EWde0ksdlb
 xr elitistclassical radio	188		PLWptjpDqazOyetngsnZ2VzowlZXxukoND
 xr 2020smusic radio	191		PLWptjpDqazOwUp6grtZJrXrg_Y-LwGRs3
-xr 70sMusic radio	192		PLWptjpDqazOzBY8ZXXdtCf4qBJPrw6gzU
 xr SpaceMusic radio	212		PLWptjpDqazOxGj_rV9vIPsASmecw_1G9Q
 xr funkhouse radio	216		PLWptjpDqazOyXxRd9Glpqo3_iuuqc_PiA
 xr indierock radio	225		PLWptjpDqazOzJNUNrn0iSo7tXMOHH7CPi
@@ -109,7 +109,7 @@ Hip Hop 1990s radio	337		PLWptjpDqazOxkLrKWowWTFY0TwpsXwu9Q
 rock classic radio	348		PLWptjpDqazOxf9JS-rMkqEJWgSnEneI-W
 soul kings and queens radio	351		PLWptjpDqazOycU2NdKn8zBiTR7E8QC__O
 xr AtmosphericDnB radio	352		PLWptjpDqazOznxVQ9JuSWiXPTTReBjARa
-xr 90sMusic radio	360		PLWptjpDqazOxSkjANK2Sw-lpiK1TgEaWN
+xr 90sMusic radio	359		PLWptjpDqazOxSkjANK2Sw-lpiK1TgEaWN
 xr OldskoolRave radio	361		PLWptjpDqazOw0SVUCMnfmTrx5PTtMONgi
 Bossa Nova radio	365		PLWptjpDqazOxycC8vFspD7a9hMy5KF4Fn
 xr Techno radio	367		PLWptjpDqazOziGGNoJ469KdbabQIgJbOA
@@ -149,12 +149,12 @@ xr futuresynth radio	637		PLWptjpDqazOwmyH_k1wyP2jrAqndbv4El
 hiphop modern radio	673		PLWptjpDqazOxqDpnhNMi8Mc6waEkmcVqA
 hiphop old school radio	696		PLWptjpDqazOyDleWuTJvHExPPekVqV0Y3
 xr chillwave radio	700		PLWptjpDqazOzC5eck1Ifq-33m5ce_i8iQ
+Folk radio	725		PLWptjpDqazOxVYGzs9mh2U9xhh9_fFjlw
 Beats Lofi radio	730		PLWptjpDqazOxEBjXnbzEc5oYwoarwWPos
 xr WorldMusic radio	745		PLWptjpDqazOzG64V8eP4Jg-n6P9STP-At
 trip hop radio	759		PLWptjpDqazOyrCxoA4GO8IzRmRLWMCm4x
 xr VintageObscura radio	765		PLWptjpDqazOzx3Mtv_Rs3JXifuAFsptYv
 xr theOverload radio	773		PLWptjpDqazOxPr2qi9Bzq8_P63kI6UKJH
-Folk radio	774		PLWptjpDqazOxVYGzs9mh2U9xhh9_fFjlw
 xr deephouse radio	807		PLWptjpDqazOzYSVHOH6103EV9A-xp9PaJ
 xr DreamPop radio	834		PLWptjpDqazOzTmTFu__bQXSk77MGqE4jE
 xr metal radio	836		PLWptjpDqazOzBOdbZ8rQH6LbJSZBKVFb3

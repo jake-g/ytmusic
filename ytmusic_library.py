@@ -945,7 +945,7 @@ class YTMusicPlaylists:
                     status = self.yt.add_playlist_items(
                         playlistId=like_pl_id, videoIds=like_vids, duplicates=False)
                     if status.get('status') == 'STATUS_SUCCEEDED':
-                        if like_pl_id in self._info_cache:
+                        if hasattr(self, '_info_cache') and like_pl_id in self._info_cache:
                             new_tracks_added = [t for t in move_like_tracks if t['videoId'] in like_new_vids]
                             self._info_cache[like_pl_id]['tracks'].extend(new_tracks_added)
                             self._info_cache[like_pl_id]['trackCount'] = len(self._info_cache[like_pl_id]['tracks'])

@@ -70,7 +70,7 @@ xr frisson radio	0	3	0	0	3
 xr newretrowave radio	0	3	0	0	3
 folk acoustic radio	0	3	0	0	3
 xr deepcuts radio	0	3	0	0	3
-xr neopsychedelia radio	0	3	0	0	3
+rock proto metal radio	0	3	0	0	3
 xr chillwave radio	0	3	0	0	3
 future beats radio	0	3	0	0	3
 xr synthrock radio	0	3	0	0	3
@@ -78,72 +78,72 @@ Indie 1990s Rock radio	0	3	0	0	3
 xr 90sAlternative radio	0	3	0	0	3
 xr ModernRockMusic radio	0	3	0	0	3
 rock stoner sludge dank radio	0	3	0	0	3
-rock proto metal radio	0	3	0	0	3
+xr SurfPunk radio	0	2	0	0	2
 xr industrialmusic radio	0	2	0	0	2
-xr animemusic radio	0	2	0	0	2
+christmas crooners radio	0	2	0	0	2
 Grunge radio	0	2	0	0	2
 xr disco radio	0	2	0	0	2
 xr futuresynth radio	0	2	0	0	2
 xr realdubstep radio	0	2	0	0	2
 jazz fusion cross radio	0	2	0	0	2
-xr SurfPunk radio	0	2	0	0	2
-xr witchHouse radio	0	2	0	0	2
+xr animemusic radio	0	2	0	0	2
+soul radio	0	2	0	0	2
 xr synthwave radio	0	2	0	0	2
 xr unheardof radio	0	2	0	0	2
+xr witchHouse radio	0	2	0	0	2
 xr AfricanMusic radio	0	2	0	0	2
-christmas crooners radio	0	2	0	0	2
 Rock modern The New Age of Classic radio	0	2	0	0	2
 xr psybient radio	0	2	0	0	2
-xr downtempo radio	0	2	0	0	2
-xr bluegrass radio	0	2	0	0	2
-xr kindie radio	0	2	0	0	2
 xr Elephant6 radio	0	2	0	0	2
+xr bluegrass radio	0	2	0	0	2
 jazz blue note radio	0	2	0	0	2
+xr kindie radio	0	2	0	0	2
+xr downtempo radio	0	2	0	0	2
 xr triphop radio	0	2	0	0	2
-rock pop 66-69 radio	0	1	0	0	1
 xr VintageObscura radio	0	1	0	0	1
-xr Exotica radio	0	1	0	0	1
-xr kpop radio	0	1	0	0	1
+rock pop 66-69 radio	0	1	0	0	1
+xr AtmosphericDnB radio	0	1	0	0	1
 post rock slow core radio	0	1	0	0	1
+xr Exotica radio	0	1	0	0	1
 electronic Underjord radio	0	1	0	0	1
 xr funkhouse radio	0	1	0	0	1
 Reggae Dub radio	0	1	0	0	1
-xr AtmosphericDnB radio	0	1	0	0	1
+punk 1970s radio	0	1	0	0	1
 xr PunkRock radio	0	1	0	0	1
+punk skate or die radio	0	1	0	0	1
 instrumental ambient piano radio	0	1	0	0	1
 xr krautrock radio	0	1	0	0	1
-xr futurebass radio	0	1	0	0	1
 Hip Hop 1990s radio	0	1	0	0	1
-xr 70sMusic radio	0	1	0	0	1
+xr kpop radio	0	1	0	0	1
 xr OldElectronicMusic radio	0	1	0	0	1
+xr futurebass radio	0	1	0	0	1
 xr indierock radio	0	1	0	0	1
-soul radio	0	1	0	0	1
 xr guiltypleasuremusic radio	0	1	0	0	1
 xr glitchhop radio	0	1	0	0	1
 xr icm radio	0	1	0	0	1
 xr koreanrock radio	0	1	0	0	1
 xr elitistclassical radio	0	1	0	0	1
 xr treemusic radio	0	1	0	0	1
-punk 1970s radio	0	1	0	0	1
-xr altcountry radio	0	1	0	0	1
-punk skate or die radio	0	1	0	0	1
-xr dubtechno radio	0	1	0	0	1
 xr choralmusic radio	0	1	0	0	1
+xr altcountry radio	0	1	0	0	1
+xr dubtechno radio	0	1	0	0	1
+xr stonerrock radio	0	0	0	0	0
+xr bassheavy radio	0	0	0	0	0
 hiphop modern radio	0	0	0	0	0
 xr ebm radio	0	0	0	0	0
 rock garage radio	0	0	0	0	0
-xr bassheavy radio	0	0	0	0	0
+xr complextro radio	0	0	0	0	0
 xr GypsyJazz radio	0	0	0	0	0
 xr WorldMusic radio	0	0	0	0	0
-Bossa Nova radio	0	0	0	0	0
 electronic deep house radio	0	0	0	0	0
-folk 1960 radio	0	0	0	0	0
+folk 1960s radio	0	0	0	0	0
+Bossa Nova radio	0	0	0	0	0
 Rock 1980s New Wave radio	0	0	0	0	0
 electronic radio	0	0	0	0	0
-xr complextro radio	0	0	0	0	0
+xr neopsychedelia radio	0	0	0	0	0
 xr futuregarage radio	0	0	0	0	0
-xr stonerrock radio	0	0	0	0	0
 xr afrobeat radio	0	0	0	0	0
+xr earlymusic radio	0	0	0	0	0
 xr contemporary radio	0	0	0	0	0
 xr celticpunk radio	0	0	0	0	0
 xr darkjazz radio	0	0	0	0	0
@@ -151,15 +151,15 @@ xr soca radio	0	0	0	0	0
 xr liftingmusic radio	0	0	0	0	0
 xr gamemusic radio	0	0	0	0	0
 xr 2000smusic radio	0	0	0	0	0
-xr 90sPunk radio	0	0	0	0	0
+xr 70sMusic radio	0	0	0	0	0
 xr jazznoir radio	0	0	0	0	0
-xr ElectronicMusic radio	0	0	0	0	0
+xr 90sPunk radio	0	0	0	0	0
 xr dubstep radio	0	0	0	0	0
 xr hiphop radio	0	0	0	0	0
 Folk radio	0	0	0	0	0
 xr foreignrap radio	0	0	0	0	0
 ambient radio	0	0	0	0	0
-xr earlymusic radio	0	0	0	0	0
+xr ElectronicMusic radio	0	0	0	0	0
 jazz radio	0	0	0	0	0
 xr idm radio	0	0	0	0	0
 hiphop old school radio	0	0	0	0	0
