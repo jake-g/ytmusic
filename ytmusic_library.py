@@ -1,5 +1,6 @@
 import ast
-from collections import defaultdict, Counter
+from collections import Counter
+from collections import defaultdict
 import datetime
 import functools
 import io
@@ -13,7 +14,6 @@ import unicodedata
 import pandas as pd
 from ytmusicapi import YTMusic
 from ytmusicapi.auth.oauth.credentials import OAuthCredentials
-
 
 # Force stdout to use UTF-8 and replace characters it can't encode
 # This prevents the UnicodeEncodeError during print() calls.
@@ -549,14 +549,38 @@ class YTMusicPlaylists:
 
     @retry(retries=3, delay=1)
     def playlist_get_info(self, playlistId,
-                          playlist_limit=PLAYLIST_LIMIT, use_cache=True):
+                          playlist_limit=PLAYLIST_LIMIT, use_cache=True,
+                          use_local_tsvs=False):
         if not playlist_limit:
             playlist_limit = self.playlist_limit
         if use_cache and playlistId in self._info_cache:
             info = self._info_cache[playlistId]
         else:
-            info = self.yt.get_playlist(playlistId, limit=playlist_limit)
-            self._info_cache[playlistId] = info
+            info = None
+            if use_local_tsvs:
+                # Find title in self.playlists
+                match = self.playlists.loc[self.playlists['playlistId'] == playlistId]
+                if len(match):
+                    title = match.iloc[0]['title']
+                    tsv_filename = f"{title}.tsv".replace('"', "'")
+                    tsv_path = os.path.join(self.playlist_tsv_dir, tsv_filename)
+                    if os.path.exists(tsv_path):
+                        try:
+                            local_df = self._read_tsv(tsv_path)
+                            info = {
+                                'id': playlistId,
+                                'playlistId': playlistId,
+                                'title': title,
+                                'privacy': match.iloc[0].get('privacy', 'PRIVATE'),
+                                'trackCount': len(local_df),
+                                'tracks': local_df.to_dict('records')
+                            }
+                            self._info_cache[playlistId] = info
+                        except Exception as e:
+                            print(f"Warning: Failed to read local TSV for {title}: {e}")
+            if info is None:
+                info = self.yt.get_playlist(playlistId, limit=playlist_limit)
+                self._info_cache[playlistId] = info
         return info
 
     def playlist_from_yt_vids(self, vids, pl_name=None, sleep=3, public='PRIVATE', desc='',
@@ -788,7 +812,8 @@ class YTMusicPlaylists:
             self, pl_info, verbose=False,
             move_like=False, min_num_like=10,
             sleep=1, create_like_playlist=False,
-            remove_dislike=True, remove_not_like=False):
+            remove_dislike=True, remove_not_like=False,
+            use_local_tsvs=True):
         not_like_vids = self.banned_vid_set
 
         remove_dislike_tracks = []
@@ -909,7 +934,8 @@ class YTMusicPlaylists:
                 else:
                     like_orig_vids = frozenset([t['videoId'] for t in
                                                 self.playlist_get_info(
-                                                    like_pl_id, use_cache=True).get('tracks', [])
+                                                    like_pl_id, use_cache=True,
+                                                    use_local_tsvs=use_local_tsvs).get('tracks', [])
                                                 ])
                 like_new_vids = frozenset(like_vids) - like_orig_vids
                 like_dedupe_num = len(like_vids) - len(like_new_vids)
@@ -918,7 +944,13 @@ class YTMusicPlaylists:
                 if len(like_vids):
                     status = self.yt.add_playlist_items(
                         playlistId=like_pl_id, videoIds=like_vids, duplicates=False)
-                    self._invalidate_playlist_cache(like_pl_id)
+                    if status.get('status') == 'STATUS_SUCCEEDED':
+                        if like_pl_id in self._info_cache:
+                            new_tracks_added = [t for t in move_like_tracks if t['videoId'] in like_new_vids]
+                            self._info_cache[like_pl_id]['tracks'].extend(new_tracks_added)
+                            self._info_cache[like_pl_id]['trackCount'] = len(self._info_cache[like_pl_id]['tracks'])
+                    else:
+                        self._invalidate_playlist_cache(like_pl_id)
                     err_msg = (f'Bad Status for {pl_info["title"]} add '
                                f'{len(move_like_tracks)} LIKE tracks: {status}')
                     if status.get('status') != 'STATUS_SUCCEEDED':
@@ -1143,7 +1175,8 @@ class YTMusicPlaylists:
                     verbose=verbose, sleep=sleep,
                     move_like=move_like, min_num_like=min_num_like,
                     create_like_playlist=create_like_playlist,
-                    remove_dislike=remove_dislike,  remove_not_like=remove_not_like)
+                    remove_dislike=remove_dislike,  remove_not_like=remove_not_like,
+                    use_local_tsvs=use_local_tsvs)
                 radio_results[p.title] = rate_ct
 
                 dupe_str = f" (removed {n_dupes} duplicates)" if n_dupes > 0 else ""
