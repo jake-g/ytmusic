@@ -5,10 +5,8 @@ import datetime
 import functools
 import io
 import json
-import logging
 import os
 import random
-import shutil
 import sys
 import time
 import unicodedata
@@ -1531,19 +1529,14 @@ class YTMusicPlaylists:
         tmp_path = path + '.tmp'
         df.to_csv(tmp_path, sep='\t', index=index,
                   quoting=TSV_TRACK_QUOTING, encoding='utf-8')
-        for attempt in range(5):
+        try:
+            os.replace(tmp_path, path)
+        except PermissionError:
+            time.sleep(0.5)
             try:
                 os.replace(tmp_path, path)
-                break
-            except PermissionError:
-                if attempt < 4:
-                    time.sleep(0.5)
-                else:
-                    try:
-                        shutil.copyfile(tmp_path, path)
-                        os.remove(tmp_path)
-                    except Exception as e:
-                        logging.warning("Could not overwrite locked file %s: %s", path, e)
+            except Exception as e:
+                print(f"Warning: Could not overwrite locked file {path}: {e}")
 
     def save_playlist_tsv(self, pl_info, track_cols=TRACK_TSV_COLS,
                           remove_disliked=False):
