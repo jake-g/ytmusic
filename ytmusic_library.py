@@ -60,9 +60,15 @@ PLAYLIST_SKIP_STARTS_WITH = ('zz not like', 'y ', 'zp ', 'zq ')
 PLAYLIST_CLEAN_SKIP_KINDS = ('SKIP', 'ALBUM', 'YT_GENERATED')
 
 # Files
-HEADER_FILE = 'browser.json'  # Updated to use browser auth
-CLIENT_FILE = 'client_auth.json'  # legacy as of 2026
-PLAYLIST_TSV_DIR = './playlists/'
+HEADER_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), 'browser.json'
+)
+CLIENT_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), 'client_auth.json'
+)
+PLAYLIST_TSV_DIR = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), 'playlists'
+)
 
 # Track DB Files
 TRACK_DB_FILE = '_tracks_db.tsv'
@@ -152,6 +158,7 @@ class YTMusicPlaylists:
                  like_cleanup_file=LIKE_PLAYLIST_CLEANUP_TSV_FILE,
                  cleanup_counters_file=PLAYLIST_CLEANUP_COUNTERS_TSV_FILE,
                  manual_rate_tsv=MANUALLY_RATED_TSV_FILE,
+                 duplicate_tracks_file=DUPLICATE_TRACKS_TSV_FILE,
                  valid_playlist_kinds=VALID_PLAYLIST_KINDS,
                  valid_track_ratings=VALID_TRACK_RATINGS,
                  playlist_limit=PLAYLIST_LIMIT):
@@ -175,7 +182,7 @@ class YTMusicPlaylists:
         self.like_playlist_file = jn(self.playlist_tsv_dir, like_playlist_file)
         self.playlist_limit = playlist_limit
         self.radio_like_map_file = jn(self.playlist_tsv_dir, radio_to_like_map_file)
-        self.duplicate_tracks_tsv = jn(self.playlist_tsv_dir, DUPLICATE_TRACKS_TSV_FILE)
+        self.duplicate_tracks_tsv = jn(self.playlist_tsv_dir, duplicate_tracks_file)
         self._info_cache = {}
         self.yt = self.init_ytmusic_api(header, client)
         # In-memory caching for liked/not-liked tracks to minimize disk I/O
@@ -385,167 +392,14 @@ class YTMusicPlaylists:
 
     # Generate a tsv for tracks to review LIKE/NOT_LIKE status
     def get_like_not_like_tracks_to_review(self):
-        review_cols = ['category', 'manual_rating', 'likeStatus', 'title', 'album', 'artist',
-                       'date_modified', 'playlists', 'averageRating', 'viewCount', 'release',
-                       'albumYear', 'albumType', 'albumTrackCount', 'keywords', 'fuzzy_track_id']
-        module_path = os.path.abspath(os.path.join('../music-sources-unified'))
-        if module_path not in sys.path:
-            sys.path.append(module_path)
-        import unify_lib as uni
-
-        # Step 1: Normalize track database and assign fuzzy IDs for cross-matching
-        all_df = self._read_tsv(self.track_db_tsv, use_track_defaults=True)
-        all_df['fuzzy_track_id'] = all_df.apply(
-            uni.make_ytmusic_fuzzy_slugified_track_id, axis=1)
-
-        like_df = self._get_like_df()
-        not_like_df = self._get_not_like_df()
-
-        print(f'Loaded {len(like_df)} like, {len(not_like_df)} not like entries,',
-              f'and {len(all_df)} total tracks')
-        like_df = all_df.loc[all_df.index.isin(like_df.index)]
-        not_like_df = all_df.loc[all_df.index.isin(not_like_df.index)]
-        print(f'Loaded {len(not_like_df)} not like entries,',
-              f'that have an entry in ALL_TRACKS')
-        not_like_df = not_like_df.loc[not_like_df['likeStatus'] != 'LIKE']
-        print(f'Keeping {len(not_like_df)} not like after remove LIKE')
-
-        not_like_vids = frozenset(not_like_df.index)
-        like_vids = frozenset(like_df.index)
-
-        # Step 2: Find tracks to LIKE (matched via fuzzy ID but not yet marked LIKE)
-        like_fuzzy_ids = frozenset(like_df['fuzzy_track_id'])
-        like_impacted_playlists = []
-        new_likes = set()
-        skip_not_like = set()
-        print('Processing LIKE tracks...', flush=True)
-        # Vectorized matching for LIKE tracks
-        matched_like_df = all_df.loc[all_df['fuzzy_track_id'].isin(like_fuzzy_ids)]
-
-        # Filter out already liked tracks
-        new_likes_df = matched_like_df.loc[
-            (matched_like_df['likeStatus'] != 'LIKE') &
-            (~matched_like_df.index.isin(like_vids))
-        ]
-
-        # Split into new_likes and skip_not_like
-        skip_not_like_df = new_likes_df.loc[new_likes_df.index.isin(not_like_vids)]
-        new_likes_df = new_likes_df.loc[~new_likes_df.index.isin(not_like_vids)]
-
-        new_likes = set(new_likes_df.index)
-        skip_not_like = set(skip_not_like_df.index)
-        like_impacted_playlists = new_likes_df['playlists'].dropna().tolist()
-
-        # Print warnings for missing fuzzy IDs
-        found_like_fuzzy_ids = frozenset(matched_like_df['fuzzy_track_id'])
-        missing_like_fuzzy_ids = like_fuzzy_ids - found_like_fuzzy_ids
-        for fuzzy_id in missing_like_fuzzy_ids:
-            print(f"WARNING: Liked track with fuzzy ID '{fuzzy_id}'",
-                  "not found in main track database. Skipping...", flush=True)
-
-        print(f' Found {len(new_likes)} new tracks to LIKE')
-        print(f' Found {len(skip_not_like)} tracks to LIKE',
-              f'but already in NOT LIKE', flush=True)
-
-        # Step 3: Find tracks to NOT LIKE (matched via fuzzy ID but not yet marked NOT LIKE)
-        not_like_fuzzy_ids = frozenset(not_like_df['fuzzy_track_id'])
-        not_like_impacted_playlists = []
-        new_not_likes = set()
-        skip_is_like = set()
-        print('\nProcessing NOT LIKE tracks...', flush=True)
-        # Vectorized matching for NOT LIKE tracks
-        matched_not_like_df = all_df.loc[all_df['fuzzy_track_id'].isin(not_like_fuzzy_ids)]
-
-        # Filter out already not-liked tracks
-        new_not_likes_df = matched_not_like_df.loc[~matched_not_like_df.index.isin(not_like_vids)]
-
-        # Split into new_not_likes and skip_is_like (if in like_vids or new_likes)
-        skip_is_like_df = new_not_likes_df.loc[
-            new_not_likes_df.index.isin(like_vids) |
-            new_not_likes_df.index.isin(new_likes)
-        ]
-        new_not_likes_df = new_not_likes_df.loc[
-            ~(new_not_likes_df.index.isin(like_vids) |
-              new_not_likes_df.index.isin(new_likes))
-        ]
-
-        new_not_likes = set(new_not_likes_df.index)
-        skip_is_like = set(skip_is_like_df.index)
-        not_like_impacted_playlists = new_not_likes_df['playlists'].dropna().tolist()
-
-        # Print warnings for missing fuzzy IDs
-        found_not_like_fuzzy_ids = frozenset(matched_not_like_df['fuzzy_track_id'])
-        missing_not_like_fuzzy_ids = not_like_fuzzy_ids - found_not_like_fuzzy_ids
-        for fuzzy_id in missing_not_like_fuzzy_ids:
-            print(f"WARNING: Not-Like track with fuzzy ID '{fuzzy_id}'",
-                  "not found in main track database. Skipping...", flush=True)
-
-        print(f' Found {len(new_not_likes)} new tracks to NOT LIKE')
-        print(f' Found {len(skip_is_like)} tracks to NOT LIKE',
-              f'but they are already in LIKE', flush=True)
-
-        # optional extra info
-        def display_top_impacted_playlist_df(impacted_playlists, top_n=10):
-            df = pd.DataFrame(impacted_playlists, columns=['encoded_list'])
-            df['encoded_list'] = df['encoded_list'].dropna(
-            ).str.replace('[nan]', "['nan']")
-            df['decoded_list'] = df['encoded_list'].str.lstrip(
-                '[').str.rstrip(']').str.split(', ')
-            df = df.explode('decoded_list')
-            df['decoded_list'] = df['decoded_list'].str.strip("'")
-            print(f"\nTop {top_n} playlists impacted:")
-            print(df['decoded_list'].value_counts().head(top_n))
-
-        display_top_impacted_playlist_df(like_impacted_playlists, top_n=10)
-        # display_top_impacted_playlist_df(not_like_impacted_playlists, top_n=10)
-
-        # Step 4: Subtract previously reviewed manual ratings to avoid redundant reviews
-        manual_picks = self._read_tsv(
-            self.manual_rate_tsv).drop_duplicates(keep='first')
-        old_like = manual_picks.loc[manual_picks['manual_rating'] == 'LIKE']
-        old_not_like = manual_picks.loc[manual_picks['manual_rating'] == 'NOT_LIKE']
-        print(f'Loaded {len(manual_picks)} manually labeled entries, '
-              f'{len(old_like)} are LIKE, {len(old_not_like)} NOT_LIKE')
-        old_like_vids = frozenset(old_like.index)
-        old_not_like_vids = frozenset(old_not_like.index)
-        old_all = old_like_vids & old_not_like_vids
-
-        # Compare old and new
-        new_likes_len = len(new_likes)
-        new_likes -= old_like_vids
-        print(f'Reduced new LIKE from {new_likes_len} to {len(new_likes)}'
-              f' entries after removing reviewed matches')
-        new_not_likes_len = len(new_not_likes)
-        new_not_likes -= old_not_like_vids
-        print(f'Reduced new NOT_LIKE from {new_not_likes_len} to {len(new_not_likes)}'
-              f' entries after removing reviewed matches')
-        skip_not_like_len = len(skip_not_like)
-        skip_not_like -= old_all
-        print(f'Reduced skip_not_like from {skip_not_like_len} to {len(skip_not_like)}'
-              f' entries after removing reviewed matches')
-        skip_is_like_len = len(skip_is_like)
-        skip_is_like -= old_all
-        print(f'Reduced skip_is_like from {skip_is_like_len} to {len(skip_is_like)}'
-              f' entries after removing reviewed matches')
-
-        # Manually screeen these in sheets, llabel as LIKE, INDIFFERENT or NOT_LIKE
-        like_not_like_res = {
-            'need_like': all_df.loc[all_df.index.isin(new_likes)],
-            'need_like_but_is_not_like': all_df.loc[all_df.index.isin(skip_not_like)],
-            'need_not_like': all_df.loc[all_df.index.isin(new_not_likes)],
-            'need_not_like_but_is_like': all_df.loc[all_df.index.isin(skip_is_like)],
-        }
-
-        # Manually screeen these in sheets, llabel as LIKE, INDIFFERENT or NOT_LIKE
-        need_review = pd.concat([v.assign(category=k)
-                                for k, v in like_not_like_res.items()])
-        print(f'{len(need_review)} entries need like or not like',
-              'manual review', flush=True)
-        need_review['manual_rating'] = ''
-        need_review = need_review.drop_duplicates(keep='last')
-        need_review[review_cols].to_csv(
-            self.need_rate_tsv, sep='\t', index=True)
-        return need_review
+        unify_path = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), '../music-sources-unified')
+        )
+        if unify_path not in sys.path:
+            sys.path.append(unify_path)
+        from update_ytmusic_likes_from_mb import \
+            get_like_not_like_tracks_to_review
+        return get_like_not_like_tracks_to_review(self)
 
     @retry(retries=3, delay=1)
     def playlist_get_info(self, playlistId,
@@ -1486,6 +1340,7 @@ class YTMusicPlaylists:
         # TODO add playlist to super playlists if exist see pdf
         # TODO auto generate some date based like playlists
         # TODO move based on playcount (if not LIKE infer NOT_LIKE based on large playcount)
+        # TODO track each run in a log and perhaps have a run monthly that runs if 30 days haave past
 
         # Clean radio playlists, move like, dislike, not_like.
         if not SKIP_PLAYLIST_CLEAN:
@@ -1962,18 +1817,14 @@ class YTMusicPlaylists:
         remaining = total - current
         return f"{((remaining * avg_time) / 60):.1f}m"
 
-
 if __name__ == "__main__":
     import argparse
 
     import ytmusicapi as yt
 
-    parser = argparse.ArgumentParser(
-        description="YTMusic Library Backup & Automation")
-    parser.add_argument("--skip-backup", action="store_true",
-                        help="Skip backing up playlists to TSV")
-    parser.add_argument("--no-log", action="store_true",
-                        help="Disable logging to ytmusic_library.log")
+    parser = argparse.ArgumentParser(description="Backup YTMusic Playlists and Liked Tracks")
+    parser.add_argument("--skip-backup", action="store_true", help="Skip backing up playlists to TSV")
+    parser.add_argument("--no-log", action="store_true", help="Disable logging to ytmusic_library.log")
     args = parser.parse_args()
 
     # Automatically redirect stdout/stderr to log file and console (like tee)
@@ -1996,12 +1847,10 @@ if __name__ == "__main__":
         sys.stdout = Tee("ytmusic_library.log")
         sys.stderr = sys.stdout
 
-    print('Running main ytmusic library backup task')
+    print('Running main ytmusic library task')
     print("Pandas Version:", pd.__version__)
     print("YTMusic Version:", yt.__version__)
     print("Date:", DATE)
 
-    # TODO track each run in a log and perhaps have a run monthly that runs if 30 days haave past
     Y = YTMusicPlaylists(header=HEADER_FILE, playlist_tsv_dir=PLAYLIST_TSV_DIR)
-    Y.run_backup(
-        skip_playlist_tsv_backup=args.skip_backup or SKIP_PLAYLIST_BACKUP)
+    Y.run_backup(skip_playlist_tsv_backup=args.skip_backup or SKIP_PLAYLIST_BACKUP)

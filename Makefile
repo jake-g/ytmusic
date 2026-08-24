@@ -26,18 +26,20 @@ help:
 	@echo "========================================================="
 	@echo "YTMusic Library Automation Console"
 	@echo "========================================================="
-	@echo "Available commands:"
-	@echo "  make run              - Run the full library backup (logged to file)"
-	@echo "  make run-no-backup    - Run backup skipping playlist downloads"
-	@echo "  make test             - Run the unit test suite"
-	@echo "  make format           - Format python files using AUTOPEP8 & ISORT"
-	@echo "  make auth-update      - Update browser auth credentials (browser.json)"
-	@echo "  make commit-playlists - Git commit updated playlists and logs"
-	@echo "  make clean            - Clean up log files, pycache, and temp files"
+	@echo "Library Sync & Backup:"
+	@echo "  make run                 - Run full library backup & sync"
+	@echo "  make run-no-backup       - Run backup skipping playlist TSV downloads"
+	@echo ""
+	@echo "Maintenance & Quality:"
+	@echo "  make test                - Run the offline unit test suite"
+	@echo "  make format              - Format python files using AUTOPEP8 & ISORT"
+	@echo "  make auth-update         - Update browser auth credentials (browser.json)"
+	@echo "  make commit-playlists    - Git commit updated playlists and logs"
+	@echo "  make clean               - Clean up log files, pycache, and temp files"
 	@echo "========================================================="
 
 run:
-	@echo "Starting YTMusic Library Backup..."
+	@echo "Starting YTMusic Library Backup & Sync..."
 	@$(PYTHON) ytmusic_library.py
 
 run-no-backup:
@@ -48,15 +50,15 @@ analytics:
 	@echo "Running YTMusic Analytics..."
 	@$(PYTHON) ../music-sources-unified/analytics.py --variant ytmusic
 
-
 test:
 	@echo "Running Unit Tests..."
 	@$(PYTHON) ytmusic_library_test.py
+	@$(PYTHON) ../music-sources-unified/update_ytmusic_likes_from_mb_test.py
 
 format:
 	@echo "Formatting code with AUTOPEP8 & ISORT (2-space indent)..."
-	-@$(AUTOPEP8) -i --indent-size=2 ytmusic_library.py ytmusic_library_test.py
-	-@$(ISORT) --profile google ytmusic_library.py ytmusic_library_test.py
+	-@$(AUTOPEP8) -i --indent-size=2 ytmusic_library.py ytmusic_library_test.py ../music-sources-unified/update_ytmusic_likes_from_mb.py ../music-sources-unified/update_ytmusic_likes_from_mb_test.py
+	-@$(ISORT) --profile google ytmusic_library.py ytmusic_library_test.py ../music-sources-unified/update_ytmusic_likes_from_mb.py ../music-sources-unified/update_ytmusic_likes_from_mb_test.py
 	@echo "Running pre-commit validation..."
 	-@$(PRE_COMMIT) run --all-files
 	@echo "Formatting completed!"
@@ -74,6 +76,6 @@ commit-playlists:
 	-git commit -m "update ytmusic playlists"
 
 clean:
-	@echo "Cleaning up temporary files, caches, and logs..."
-	@$(PYTHON) -c "import os, shutil; [os.remove(f) for f in os.listdir('.') if f.endswith('.log')]; [shutil.rmtree(d) for d in ['__pycache__', '.pytest_cache'] if os.path.exists(d)]"
+	@echo "Cleaning temporary files and cache..."
+	-rm -rf __pycache__ ../music-sources-unified/__pycache__ *.pyc *.log
 	@echo "Clean completed!"
