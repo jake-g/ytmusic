@@ -27,8 +27,10 @@ if hasattr(sys.stdout, 'buffer'):
 SKIP_PLAYLIST_BACKUP = False
 # Regnerate playlists with more than this amount of duplicates
 DUPLICATE_THRESHOLD = 3
-# For requesting large playlists from api
-PLAYLIST_LIMIT = 4500
+# Maximum number of tracks/songs to fetch per playlist from API (YouTube limit is 5,000)
+PLAYLIST_LIMIT = 5000
+# Maximum number of library playlists to fetch when enumerating user's library
+LIBRARY_PLAYLISTS_LIMIT = 1000
 # Save checkpoint during track scraping every N tracks
 CHECKPOINT_INTERVAL = 500
 # Chunk size when processing items in batches (e.g. removing from a playlist) to avoid API errors
@@ -161,7 +163,8 @@ class YTMusicPlaylists:
                  duplicate_tracks_file=DUPLICATE_TRACKS_TSV_FILE,
                  valid_playlist_kinds=VALID_PLAYLIST_KINDS,
                  valid_track_ratings=VALID_TRACK_RATINGS,
-                 playlist_limit=PLAYLIST_LIMIT):
+                 playlist_limit=PLAYLIST_LIMIT,
+                 library_playlist_limit=LIBRARY_PLAYLISTS_LIMIT):
         self.playlist_tsv_dir = os.path.abspath(playlist_tsv_dir)
         self._valid_playlist_kinds = valid_playlist_kinds
         self._valid_ratings = valid_track_ratings
@@ -181,6 +184,7 @@ class YTMusicPlaylists:
             self.playlist_tsv_dir, cleanup_counters_file)
         self.like_playlist_file = jn(self.playlist_tsv_dir, like_playlist_file)
         self.playlist_limit = playlist_limit
+        self.library_playlist_limit = library_playlist_limit
         self.radio_like_map_file = jn(self.playlist_tsv_dir, radio_to_like_map_file)
         self.duplicate_tracks_tsv = jn(self.playlist_tsv_dir, duplicate_tracks_file)
         self._info_cache = {}
@@ -197,7 +201,7 @@ class YTMusicPlaylists:
             self._get_not_like_df().index)
         # Load this later, intialize empty for now
         self._playcount_map = pd.DataFrame([])
-        # fetch playlists (needed for many downstream function, takes some time)
+        # fetch library playlists with safe continuation recovery
         self.playlists = pd.DataFrame(
             self.yt.get_library_playlists(limit=playlist_limit))
         self.playlist_titles = frozenset(self.playlists['title'])
@@ -235,7 +239,9 @@ class YTMusicPlaylists:
             print(f'Parsing client auth file: {client}',
                   '(Requires client_secret)')
             oauth_creds = self._get_client_credentials_from_json(client)
-            return YTMusic(header, oauth_credentials=oauth_creds)
+            yt = YTMusic(header, oauth_credentials=oauth_creds)
+            # yt.params = ''
+            return yt
 
         else:
             raise ValueError(
@@ -433,7 +439,13 @@ class YTMusicPlaylists:
                         except Exception as e:
                             print(f"Warning: Failed to read local TSV for {title}: {e}")
             if info is None:
-                info = self.yt.get_playlist(playlistId, limit=playlist_limit)
+                if playlistId == 'LM':
+                    info = self.yt.get_liked_songs(limit=playlist_limit)
+                    if isinstance(info, dict) and not info.get('id'):
+                        info['id'] = 'LM'
+                        info['playlistId'] = 'LM'
+                else:
+                    info = self.yt.get_playlist(playlistId, limit=playlist_limit)
                 self._info_cache[playlistId] = info
         return info
 
@@ -1467,7 +1479,8 @@ class YTMusicPlaylists:
                                 'title': row['title'],
                                 'description': row.get('description', ''),
                                 'trackCount': api_track_count,
-                                'author': row.get('author', '')
+                                'author': row.get('author', ''),
+                                # 'privacy': row.get('privacy', 'PRIVATE'),
                             }
                             all_playlist_info.append(metadata)
                             all_tracks.append(local_df)
