@@ -134,6 +134,9 @@ def retry(retries=3, delay=2, backoff=2, exceptions=(Exception,)):
                 try:
                     return func(*args, **kwargs)
                 except exceptions as e:
+                    # Do not retry non-transient schema errors (e.g. unbrowsable radios)
+                    if isinstance(e, KeyError) and "'contents'" in str(e):
+                        raise
                     if attempt == retries - 1:
                         raise
                     print(f"WARNING: API call {func.__name__} failed: {e}. Retrying in {t_delay}s (Attempt {attempt + 1}/{retries})...")
@@ -413,7 +416,7 @@ class YTMusicPlaylists:
                           use_local_tsvs=False):
         if not playlist_limit:
             playlist_limit = self.playlist_limit
-        if use_cache and playlistId in self._info_cache:
+        if use_cache and hasattr(self, '_info_cache') and playlistId in self._info_cache:
             info = self._info_cache[playlistId]
         else:
             info = None
@@ -445,8 +448,23 @@ class YTMusicPlaylists:
                         info['id'] = 'LM'
                         info['playlistId'] = 'LM'
                 else:
-                    info = self.yt.get_playlist(playlistId, limit=playlist_limit)
-                self._info_cache[playlistId] = info
+                    try:
+                        info = self.yt.get_playlist(playlistId, limit=playlist_limit)
+                    except (KeyError, Exception) as e:
+                        # Radio mixes (e.g. VLRDEM...) lack standard contents/tabs shelf
+                        if isinstance(e, KeyError) or "contents" in str(e) or playlistId.startswith(("RD", "VLRD")):
+                            print(f"Notice: Playlist {playlistId} cannot be browsed as standard playlist: {e}")
+                            info = {
+                                "id": playlistId,
+                                "playlistId": playlistId,
+                                "title": "",
+                                "trackCount": 0,
+                                "tracks": []
+                            }
+                        else:
+                            raise
+                if hasattr(self, '_info_cache'):
+                    self._info_cache[playlistId] = info
         return info
 
     def playlist_from_yt_vids(self, vids, pl_name=None, sleep=3, public='PRIVATE', desc='',
@@ -1309,6 +1327,103 @@ class YTMusicPlaylists:
         name = name.lower()
         return any(name.startswith(tok) for tok in start_toks)
 
+    def remove_deleted_playlist_tsvs(self, dry_run: bool = False):
+        """Removes local TSVs for playlists deleted on YouTube Music backend.
+
+        Compares existing TSV files in playlist_tsv_dir against currently
+        active playlists in self.playlists. Any non-internal TSV file
+        (files not starting with '_') that does not correspond to an active
+        playlist title is removed.
+
+        Args:
+            dry_run (bool): If True, logs deletions without removing files.
+
+        Returns:
+            list: List of deleted TSV filenames.
+        """
+        if self.playlists.empty or len(self.playlists) < 5:
+            print("Notice: Skipping deleted TSV prune (safety check: empty or small playlist count).")
+            return []
+
+        active_tsv_names = set()
+        for _, row in self.playlists.iterrows():
+            if "title" in row and pd.notna(row["title"]):
+                sanitized_title = self._decode(row["title"]).replace('"', "'")
+                active_tsv_names.add(f"{sanitized_title}.tsv")
+
+        removed_files = []
+        if not os.path.exists(self.playlist_tsv_dir):
+            return []
+
+        for filename in sorted(os.listdir(self.playlist_tsv_dir)):
+            if not filename.endswith(".tsv") or filename.startswith("_"):
+                continue
+
+            if filename not in active_tsv_names:
+                target_path = os.path.join(self.playlist_tsv_dir, filename)
+                if dry_run:
+                    print(f"[Dry Run] Would remove orphaned playlist TSV: {filename}")
+                    removed_files.append(filename)
+                else:
+                    print(f"Removing orphaned playlist TSV: {filename}")
+                    try:
+                        os.remove(target_path)
+                        removed_files.append(filename)
+                    except OSError as err:
+                        print(f"Error removing {filename}: {err}")
+
+        if removed_files:
+            action_verb = "Would prune" if dry_run else "Pruned"
+            print(f"{action_verb} {len(removed_files)} orphaned playlist TSVs.")
+        return removed_files
+
+    def update_radio_counts(self, verbose: bool = False,
+                            use_local_tsvs: bool = True):
+        """Calculates radio playlist counts and writes to _playlist_radio_counts.tsv.
+
+        Args:
+            verbose (bool): Whether to log verbose progress.
+            use_local_tsvs (bool): Prefer local TSVs for fast offline counting.
+
+        Returns:
+            pd.DataFrame: DataFrame containing radio playlist counts.
+        """
+        start_time = time.time()
+        print("Calculating radio playlist track counts...")
+        radio_counts_df = self.get_playlist_counts(
+            filter_title="radio", verbose=verbose, use_local_tsvs=use_local_tsvs)
+        radio_counts_df.to_csv(self.radio_count_file, sep="\t", index=False)
+        elapsed = (time.time() - start_time) / 60
+        print(f"Saved radio playlist counts to {self.radio_count_file} ({elapsed:.2f}m)")
+        print("\nTop 20 radio playlists by size:")
+        print(radio_counts_df.head(20).to_string(index=False))
+        return radio_counts_df
+
+    def run_playlist_cleanup(self, do_dry_run: bool = PLAYLIST_CLEAN_DRY_RUN):
+        """Runs one-off radio playlist cleanup (splitting likes, removing dislikes)."""
+        print("Starting one-off radio playlist cleanup...")
+        like_results, radio_results, pl_counters = self.clean_playlists(
+            verbose=True, sleep=PLAYLIST_SLEEP,
+            do_dry_run=do_dry_run,
+            move_like=PLAYLIST_CLEAN_MOVE_LIKE,
+            min_num_like=PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT,
+            create_like_playlist=PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST,
+            remove_dislike=PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
+            remove_not_like=PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
+            playlist_skip_kinds=PLAYLIST_CLEAN_SKIP_KINDS,
+            skip_if_dislike=PLAYLIST_CLEAN_SKIP_IF_DISLIKE,
+            like_playlist_min_like_pct=PLAYLIST_CLEAN_LIKE_MIN_LIKE_PCT,
+            not_like_playlist_max_like_pct=PLAYLIST_CLEAN_NOT_LIKE_MAX_LIKE_PCT,
+            radio_playlist_max_like_pct=PLAYLIST_CLEAN_RADIO_MAX_LIKE_PCT,
+            duplicate_threshold=PLAYLIST_CLEAN_DUPLICATE_THRESH,
+            playlist_skip_starts_with=PLAYLIST_SKIP_STARTS_WITH
+        )
+        like_results.to_csv(self.like_cleanup_file, sep="\t")
+        radio_results.to_csv(self.radio_cleanup_file, sep="\t")
+        pl_counters.to_csv(self.cleanup_counters_file, sep="\t")
+        print("Playlist cleanup completed successfully.")
+        return like_results, radio_results, pl_counters
+
     # Backup Job for yt playlists, library and weekly management
     def run_backup(self, skip_playlist_tsv_backup=SKIP_PLAYLIST_BACKUP):
         start_time = time.time()
@@ -1316,6 +1431,7 @@ class YTMusicPlaylists:
         # and library tracks. The set of tracks are missing ytmusic
         # metadata like release year.
         if not skip_playlist_tsv_backup:  # regenerate tracks_no_meta
+            self.remove_deleted_playlist_tsvs()
             tracks_no_meta = self.backup_playlists_and_collect_tracks(
                 remove_disliked=True,
                 include_library_tracks=True)
@@ -1344,9 +1460,8 @@ class YTMusicPlaylists:
         need_review.to_csv(self.need_rate_tsv, sep='\t', index=True)
 
         # Update playlist counts for radio playlists
-        radio_counts_df = self.get_playlist_counts(
-            filter_title='radio', verbose=False, use_local_tsvs=not PLAYLIST_BACKUP_FULL_RUN)
-        radio_counts_df.to_csv(self.radio_count_file, sep='\t', index=False)
+        self.update_radio_counts(
+            verbose=False, use_local_tsvs=not PLAYLIST_BACKUP_FULL_RUN)
 
         # General automated task playlist todos
         # TODO add playlist to super playlists if exist see pdf
@@ -1356,25 +1471,7 @@ class YTMusicPlaylists:
 
         # Clean radio playlists, move like, dislike, not_like.
         if not SKIP_PLAYLIST_CLEAN:
-            like_results, radio_results, pl_counters = self.clean_playlists(
-                verbose=True, sleep=PLAYLIST_SLEEP,
-                do_dry_run=PLAYLIST_CLEAN_DRY_RUN,
-                move_like=PLAYLIST_CLEAN_MOVE_LIKE,
-                min_num_like=PLAYLIST_CLEAN_MIN_LIKE_TO_SPLIT,
-                create_like_playlist=PLAYLIST_CLEAN_CREATE_LIKE_PLAYLIST,
-                remove_dislike=PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
-                remove_not_like=PLAYLIST_CLEAN_RM_NOT_LIKE_AND_DISLIKE,
-                playlist_skip_kinds=PLAYLIST_CLEAN_SKIP_KINDS,
-                skip_if_dislike=PLAYLIST_CLEAN_SKIP_IF_DISLIKE,
-                like_playlist_min_like_pct=PLAYLIST_CLEAN_LIKE_MIN_LIKE_PCT,
-                not_like_playlist_max_like_pct=PLAYLIST_CLEAN_NOT_LIKE_MAX_LIKE_PCT,
-                radio_playlist_max_like_pct=PLAYLIST_CLEAN_RADIO_MAX_LIKE_PCT,
-                duplicate_threshold=PLAYLIST_CLEAN_DUPLICATE_THRESH,
-                playlist_skip_starts_with=PLAYLIST_SKIP_STARTS_WITH
-            )
-            like_results.to_csv(self.like_cleanup_file, sep='\t')
-            radio_results.to_csv(self.radio_cleanup_file, sep='\t')
-            pl_counters.to_csv(self.cleanup_counters_file, sep='\t')
+            self.run_playlist_cleanup(do_dry_run=PLAYLIST_CLEAN_DRY_RUN)
 
         print(f'Completed in {(time.time() - start_time) / 60:.1f}',
               'minutes', flush=True)
@@ -1835,8 +1932,12 @@ if __name__ == "__main__":
 
     import ytmusicapi as yt
 
-    parser = argparse.ArgumentParser(description="Backup YTMusic Playlists and Liked Tracks")
+    parser = argparse.ArgumentParser(description="Backup and Manage YTMusic Playlists and Liked Tracks")
     parser.add_argument("--skip-backup", action="store_true", help="Skip backing up playlists to TSV")
+    parser.add_argument("--clean-playlists", action="store_true", help="Run one-off radio playlist cleanup")
+    parser.add_argument("--radio-counts", action="store_true", help="Calculate radio playlist track counts")
+    parser.add_argument("--prune-deleted", action="store_true", help="Remove local TSVs for deleted playlists")
+    parser.add_argument("--dry-run", action="store_true", help="Dry run mode for cleanup operations")
     parser.add_argument("--no-log", action="store_true", help="Disable logging to ytmusic_library.log")
     args = parser.parse_args()
 
@@ -1866,4 +1967,11 @@ if __name__ == "__main__":
     print("Date:", DATE)
 
     Y = YTMusicPlaylists(header=HEADER_FILE, playlist_tsv_dir=PLAYLIST_TSV_DIR)
-    Y.run_backup(skip_playlist_tsv_backup=args.skip_backup or SKIP_PLAYLIST_BACKUP)
+    if args.clean_playlists:
+        Y.run_playlist_cleanup(do_dry_run=args.dry_run or PLAYLIST_CLEAN_DRY_RUN)
+    elif args.radio_counts:
+        Y.update_radio_counts(verbose=False, use_local_tsvs=not PLAYLIST_BACKUP_FULL_RUN)
+    elif args.prune_deleted:
+        Y.remove_deleted_playlist_tsvs(dry_run=args.dry_run)
+    else:
+        Y.run_backup(skip_playlist_tsv_backup=args.skip_backup or SKIP_PLAYLIST_BACKUP)

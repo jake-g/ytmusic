@@ -19,22 +19,25 @@ else
     endif
 endif
 
-.PHONY: help run run-no-backup analytics test format auth auth-update clean commit-playlists
+.PHONY: help run run-no-backup clean-playlists radio-counts prune-deleted analytics test format auth auth-update clean commit-playlists
 
 # Default target
 help:
 	@echo "========================================================="
 	@echo "YTMusic Library Automation Console"
 	@echo "========================================================="
-	@echo "Library Sync & Backup:"
+	@echo "Library Sync:"
 	@echo "  make run                 - Run full library backup & sync"
 	@echo "  make run-no-backup       - Run backup skipping playlist TSV downloads"
 	@echo ""
-	@echo "Maintenance & Quality:"
+	@echo "Maintenance:"
 	@echo "  make test                - Run the offline unit test suite"
 	@echo "  make format              - Format python files using AUTOPEP8 & ISORT"
 	@echo "  make auth-update         - Update browser auth credentials (browser.json)"
 	@echo "  make commit-playlists    - Git commit updated playlists and logs"
+	@echo "  make clean-playlists     - Run one-off radio playlist cleanup"
+	@echo "  make radio-counts        - Calculate radio playlist track counts"
+	@echo "  make prune-deleted       - Remove local TSVs for deleted playlists"
 	@echo "  make clean               - Clean up log files, pycache, and temp files"
 	@echo "========================================================="
 
@@ -74,6 +77,18 @@ commit-playlists:
 	-git add playlists/*.tsv
 	-git add *.log
 	-git commit -m "update ytmusic playlists"
+
+clean-playlists:
+	@echo "Starting YTMusic Radio Playlist Cleanup..."
+	@$(PYTHON) ytmusic_library.py --clean-playlists
+
+radio-counts:
+	@echo "Calculating YTMusic Radio Playlist Track Counts..."
+	@$(PYTHON) ytmusic_library.py --radio-counts
+
+prune-deleted:
+	@echo "Pruning local TSVs for deleted playlists..."
+	@$(PYTHON) ytmusic_library.py --prune-deleted
 
 clean:
 	@echo "Cleaning temporary files and cache..."

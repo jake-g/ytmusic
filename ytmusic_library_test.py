@@ -50,6 +50,7 @@ class TestYTMusicUtils(unittest.TestCase):
             self.yt_pl.radio_cleanup_file = os.path.join(self.test_dir, '_ytmusic_cleanup_radio_playlists_results.tsv')
             self.yt_pl.cleanup_counters_file = os.path.join(self.test_dir, '_ytmusic_cleanup_playlist_counters.tsv')
 
+            self.yt_pl._info_cache = {}
             self.yt_pl.banned_vid_set = frozenset(['banned_1'])
             self.yt_pl._radio_to_like_map = pd.DataFrame([
                 {'radio_playlist': 'rock radio', 'like_playlist': 'my favorites'}
@@ -522,6 +523,118 @@ class TestYTMusicUtils(unittest.TestCase):
 
         # Verify self._save_tsv was called for both checkpoint (i=2) and final save
         self.assertEqual(mock_save_tsv.call_count, 2)
+
+
+    def test_remove_deleted_playlist_tsvs_safety_guard(self):
+        """Test that prune is skipped if playlist list is empty or too small."""
+        self.yt_pl.playlists = pd.DataFrame([])
+        # Create a dummy TSV in the temp directory
+        dummy_file = os.path.join(self.test_dir, "dummy_playlist.tsv")
+        with open(dummy_file, "w", encoding="utf-8") as f:
+            f.write("test")
+
+        removed = self.yt_pl.remove_deleted_playlist_tsvs(dry_run=False)
+        self.assertEqual(removed, [])
+        self.assertTrue(os.path.exists(dummy_file))
+
+    def test_remove_deleted_playlist_tsvs_pruning(self):
+        """Test pruning deleted playlists while protecting active and internal TSVs."""
+        # Active playlists: my favorites, rock radio, zz not like rap, great albums, zz skip this, YT Generated Mix
+        active_file_1 = os.path.join(self.test_dir, "my favorites.tsv")
+        active_file_2 = os.path.join(self.test_dir, "rock radio.tsv")
+        deleted_file_1 = os.path.join(self.test_dir, "old deleted playlist.tsv")
+        deleted_file_2 = os.path.join(self.test_dir, "purged mix.tsv")
+        internal_file_1 = os.path.join(self.test_dir, "_tracks_db.tsv")
+        internal_file_2 = os.path.join(self.test_dir, "_playlists.tsv")
+        non_tsv_file = os.path.join(self.test_dir, "notes.txt")
+
+        for f in [active_file_1, active_file_2, deleted_file_1, deleted_file_2,
+                  internal_file_1, internal_file_2, non_tsv_file]:
+            with open(f, "w", encoding="utf-8") as fh:
+                fh.write("sample content")
+
+        removed = self.yt_pl.remove_deleted_playlist_tsvs(dry_run=False)
+
+        # Verify deleted files were removed
+        self.assertIn("old deleted playlist.tsv", removed)
+        self.assertIn("purged mix.tsv", removed)
+        self.assertFalse(os.path.exists(deleted_file_1))
+        self.assertFalse(os.path.exists(deleted_file_2))
+
+        # Verify active and internal files were preserved
+        self.assertTrue(os.path.exists(active_file_1))
+        self.assertTrue(os.path.exists(active_file_2))
+        self.assertTrue(os.path.exists(internal_file_1))
+        self.assertTrue(os.path.exists(internal_file_2))
+        self.assertTrue(os.path.exists(non_tsv_file))
+
+    def test_remove_deleted_playlist_tsvs_dry_run(self):
+        """Test that dry_run identifies deleted TSVs without removing them from disk."""
+        deleted_file = os.path.join(self.test_dir, "abandoned_mix.tsv")
+        with open(deleted_file, "w", encoding="utf-8") as f:
+            f.write("sample")
+
+        removed = self.yt_pl.remove_deleted_playlist_tsvs(dry_run=True)
+        self.assertIn("abandoned_mix.tsv", removed)
+        self.assertTrue(os.path.exists(deleted_file))
+
+    def test_remove_deleted_playlist_tsvs_sanitization(self):
+        """Parameterized test verifying special characters and sanitized quotes in titles."""
+        cases = [
+            ('Rock "Anthems"', "Rock 'Anthems'.tsv"),
+            ("90's Grunge", "90's Grunge.tsv"),
+            ("Special & Cool Radio", "Special & Cool Radio.tsv"),
+        ]
+        for raw_title, expected_filename in cases:
+            with self.subTest(title=raw_title, filename=expected_filename):
+                test_playlists = self.yt_pl.playlists.copy()
+                test_playlists = pd.concat([test_playlists, pd.DataFrame([{
+                    'title': raw_title,
+                    'playlistId': 'pl_special',
+                    'author': 'Jake G',
+                    'count': 10
+                }])], ignore_index=True)
+                self.yt_pl.playlists = test_playlists
+
+                test_path = os.path.join(self.test_dir, expected_filename)
+                with open(test_path, "w", encoding="utf-8") as f:
+                    f.write("content")
+
+                removed = self.yt_pl.remove_deleted_playlist_tsvs(dry_run=False)
+                self.assertNotIn(expected_filename, removed)
+                self.assertTrue(os.path.exists(test_path))
+
+    def test_playlist_get_info_unbrowsable_radio(self):
+        """Test that KeyError: contents for unbrowsable radio mixes returns empty playlist cleanly."""
+        self.yt_pl.yt.get_playlist.side_effect = KeyError("Unable to find 'contents'")
+        res = self.yt_pl.playlist_get_info("VLRDEM87t6wGDSjPDwdghYsFky9g", use_cache=False)
+        self.assertEqual(res['id'], "VLRDEM87t6wGDSjPDwdghYsFky9g")
+        self.assertEqual(res['trackCount'], 0)
+        self.assertEqual(res['tracks'], [])
+
+    @patch.object(YTMusicPlaylists, 'get_playlist_counts')
+    def test_update_radio_counts(self, mock_counts):
+        """Test update_radio_counts calculates and writes _playlist_radio_counts.tsv."""
+        mock_counts.return_value = pd.DataFrame([
+            {'title': 'rock radio', 'track_count': 20, 'privacy': 'PUBLIC', 'playlist_id': 'pl2'}
+        ])
+        df = self.yt_pl.update_radio_counts(verbose=False, use_local_tsvs=True)
+        self.assertEqual(len(df), 1)
+        self.assertTrue(os.path.exists(self.yt_pl.radio_count_file))
+        saved_df = pd.read_csv(self.yt_pl.radio_count_file, sep="\t")
+        self.assertEqual(len(saved_df), 1)
+        self.assertEqual(saved_df.iloc[0]['title'], 'rock radio')
+
+    @patch.object(YTMusicPlaylists, 'clean_playlists')
+    def test_run_playlist_cleanup(self, mock_clean):
+        """Test run_playlist_cleanup executes clean_playlists and writes output files."""
+        dummy_df = pd.DataFrame([{'result': 'ok'}])
+        mock_clean.return_value = (dummy_df, dummy_df, dummy_df)
+        res_like, res_radio, res_counters = self.yt_pl.run_playlist_cleanup(do_dry_run=True)
+        self.assertEqual(len(res_like), 1)
+        self.assertTrue(os.path.exists(self.yt_pl.like_cleanup_file))
+        self.assertTrue(os.path.exists(self.yt_pl.radio_cleanup_file))
+        self.assertTrue(os.path.exists(self.yt_pl.cleanup_counters_file))
 
 
 if __name__ == "__main__":
