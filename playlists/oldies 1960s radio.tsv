@@ -1,6 +1,7 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
 Hole In My Shoe	Traffic	Mr. Fantasy	LIKE	MPPe8-1G2s0	MPREb_1bPf5nFPDJo	UCFh-Yyaep1Gl5c0O1JTvEBQ	oldies 1960s radio
 Tonight	The Move	Hits & Rarities - Singles a’s & B’s - The Move	LIKE	wiipwSLpxNc	MPREb_xUdI9RbkSVm	UCtbCrMJTL8j407hGEIHAq7g	oldies 1960s radio
+Michael (Row the Boat Ashore)	The Highwaymen	Folk Essentials	LIKE	iZE_jd1vNEM	MPREb_9eBdhgEJc2w	UCZZ6mEgkU7cx6hGI3eNOGsw	oldies 1960s radio
 Afterglow of Your Love (Stereo)	Small Faces	Ogdens' Nut Gone Flake (Deluxe Edition)	LIKE	oHSD8loGbcA	MPREb_qce1vJfRBzr	UCqmvlahzkVOFPipBAotsQ7w	oldies 1960s radio
 There's Always Something There to Remind Me	Sandie Shaw	There's Always Something There to Remind Me	LIKE	hp-FnGb4wbY	MPREb_MQvDL3ynMTJ	UCiVfV10yZAZSYKbuxuwnlGg	oldies 1960s radio
 End Of The World (Mono)	Herman's Hermits	Herman's Hermits Retrospective	LIKE	jss8VCx0VSA	MPREb_z8199IgwA0C	UCjPKB_pkXvC5ym0jOa25YNw	oldies 1960s radio
@@ -32,7 +33,6 @@ The Dawn of Correction	The Spokesmen	The Dawn of Correction	INDIFFERENT	UF7BS1Bq
 Itchycoo Park	The Small Faces	The Immediate Years - Volume Two	INDIFFERENT	LEGO-10bdnw	MPREb_6fh45ojGAWM	UCqmvlahzkVOFPipBAotsQ7w	oldies 1960s radio
 Mama Said	The Shirelles	Twist And Shout	INDIFFERENT	HNKxS70iJnw	MPREb_L7OVqExeglp	UC5mRtMvmUCwSGLQK4A8lSyg	oldies 1960s radio
 Give Him A Great Big Kiss	The Shangri-Las	Leader Of The Pack	INDIFFERENT	YeueJa6EWkw	MPREb_nulwCdV58gU	UCOQZHdy6mFgXNOaZhvCsceA	oldies 1960s radio
-Don't Let The Rain Come Down (Crooked Little Man)	The Serendipity Singers	Don't Let The Rain Come Down: The Best Of The Serendipity Singers	INDIFFERENT	lDnDVlTtP6Y	MPREb_gfcgUslfS9W	UCy9_gxAIZWtO8Z2lhzMzUog	oldies 1960s radio
 Sweet Nothin's (Live at the Star Club, 1963)	The Searchers	Hearts In Their Eyes	INDIFFERENT	k67pKdiQwS0	MPREb_F2yA6q0s14n	UCDCnk3Qj_Dgexq8EErav5Sg	oldies 1960s radio
 What a Guy	The Raindrops	The Raindrops [Digital Version]	INDIFFERENT	EfwK2LHbP6U	MPREb_FZIuFb89x6h	UCVxpcG3kjdP5Rdl_6zUmU6Q	oldies 1960s radio
 The Kind of Boy You Can't Forget	The Raindrops	The Raindrops [Digital Version]	INDIFFERENT	pFa_ZYcLHB4	MPREb_FZIuFb89x6h	UCVxpcG3kjdP5Rdl_6zUmU6Q	oldies 1960s radio
@@ -54,7 +54,6 @@ Seasons In The Sun	The Kingston Trio	The Capitol Collector's Series	INDIFFERENT	
 Greenback Dollar	The Kingston Trio	The Capitol Collector's Series	INDIFFERENT	YvGxZD-HNCM	MPREb_R1FbtgFP02v	UC-hN1E13BXX05U7Z3ReN54g	oldies 1960s radio
 Alley Oop	The Hollywood Argyles featuring Gary S. Paxton	Grandpa Rock & Friends, Vol. 1	INDIFFERENT	Nc06BFh2gY8	MPREb_roThbbiKVGv	UCtTPk17nynKYYPtOpSydqcg	oldies 1960s radio
 I Can't Let Go	The Hollies	20 Golden Greats	INDIFFERENT	hvCZ8hD5zXk	MPREb_IdHq5MgUflI	UC4lSAGYiQVrDIqE_cQf6GQQ	oldies 1960s radio
-Michael (Row the Boat Ashore)	The Highwaymen	Folk Essentials	INDIFFERENT	iZE_jd1vNEM	MPREb_9eBdhgEJc2w	UCZZ6mEgkU7cx6hGI3eNOGsw	oldies 1960s radio
 Bus Rider	The Guess Who	Share The Land	INDIFFERENT	sydRLhuexYg	MPREb_ZUwCajP9rty	UCeJzOtrRt4ToYZj336gNElg	oldies 1960s radio
 Star Baby (2003 Remastered)	The Guess Who	Road Food	INDIFFERENT	I8sRNMjDCaU	MPREb_4Dk36GpIVut	UCeJzOtrRt4ToYZj336gNElg	oldies 1960s radio
 8.15 (2024 Remaster)	The Guess Who	American Woman (Expanded Edition)	INDIFFERENT	e3vbw7i6Qo4	MPREb_7zL71FDgPhB	UCeJzOtrRt4ToYZj336gNElg	oldies 1960s radio
@@ -127,7 +126,6 @@ Rockin' Little Angel	Ray Smith	Travelin' With Ray	INDIFFERENT	4OsJWmCO38I	MPREb_
 The Wonder of You	Ray Peterson	Presenting Ray Peterson	INDIFFERENT	L85U_VU1Aes	MPREb_TVqmawhXLFC	UCiYDZAjvmojQjLCAFrD5zNA	oldies 1960s radio
 Corinna, Corinna	Ray Peterson	Presenting Ray Peterson	INDIFFERENT	_veNF7tYPjQ	MPREb_TVqmawhXLFC	UCiYDZAjvmojQjLCAFrD5zNA	oldies 1960s radio
 Tell Laura I Love Her	Ray Peterson	Nipper's Greatests Hits 60's Vol. 1	INDIFFERENT	eD_Wo_uWtWM	MPREb_KDR3iZCjlT3	UCiYDZAjvmojQjLCAFrD5zNA	oldies 1960s radio
-Shakin' All Over	Randy Bachman	Shakin' All Over	INDIFFERENT	uG78FMoLBG8	MPREb_0M2T1fBbehM	UCc_z_kvf-CpGy4mJlx0NpkQ	oldies 1960s radio
 Little Star	Randy & The Rainbows	2002 Millennium Collection	INDIFFERENT	SMfDtJ0nuVM	MPREb_OyuOBLNejAz	UC2OxeblRYc6np4OX-jyRHKw	oldies 1960s radio
 The World Song	Petula Clark	The Pye Anthology	INDIFFERENT	qmVYWJyVjPw	MPREb_sRx4HDkOk2U	UC3jmJJDAET2fZ0Wpdd8kVkw	oldies 1960s radio
 To Know You Is to Love You	Peter And Gordon	The Ultimate Peter And Gordon	INDIFFERENT	_3fQpVw7xSM	MPREb_2P9ASkM1JeR	UCtsF3aggUHhStCT_Vbpxkyw	oldies 1960s radio
@@ -277,8 +275,8 @@ Everybody Loves A Clown	Gary Lewis & The Playboys	The Legendary Masters Series	I
 Count Me In	Gary Lewis & The Playboys	The Legendary Masters Series	INDIFFERENT	jYpZ8ks0ZRo	MPREb_BqhLlAiwTV7	UCBJhzJHyx0c9XcGeHLtVewg	oldies 1960s radio
 Everybody Loves A Clown	Gary Lewis & The Playboys	Everybody Loves A Clown	INDIFFERENT	rowkJcfv5ks	MPREb_Zjh51xTN5Ty	UCBJhzJHyx0c9XcGeHLtVewg	oldies 1960s radio
 We’ll Sing in the Sunshine	GALE GARNETT	Greatest Folk Songs of All	INDIFFERENT	egJVd2jDvmU	MPREb_I8W1io30eZ5	UCuGEbYfN51J-EGiaDb4ts2g	oldies 1960s radio
-Transistor Sister	Freddy Cannon	Transistor Sister	INDIFFERENT	OoSx0NCEZwo	MPREb_ZnrGmBSUDei	UCqCby1AAbpLp556xnzh7e4A	oldies 1960s radio
-Palisades Park	Freddy Cannon	Palisades Park	INDIFFERENT	snEqBY1WiCg	MPREb_C6wn2Wx3NtR	UCqCby1AAbpLp556xnzh7e4A	oldies 1960s radio
+Transistor Sister	Freddy Cannon	The Complete Releases 1959-62	INDIFFERENT	-nxUSwwEzT8	MPREb_iJnQPHTgIlk	UCqCby1AAbpLp556xnzh7e4A	oldies 1960s radio
+Palisades Park	Freddy Cannon	The Best of Freddy Cannon - Big Blast from Boston!	INDIFFERENT	JfMCDyVhGQc	MPREb_LqR14IuFPEG	UCqCby1AAbpLp556xnzh7e4A	oldies 1960s radio
 Bye Bye Baby (Baby Goodbye)	Frankie Valli & The Four Seasons	The Very Best of Frankie Valli & The 4 Seasons	INDIFFERENT	_3cuYTGq6Ao	MPREb_aQ0vjSed3OJ	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
 Dawn (Go Away)	Frankie Valli & The Four Seasons	Dawn (Go Away) and 11 Other Hits	INDIFFERENT	nf8jDkR97kQ	MPREb_Rzz50lBghg4	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
 Candy Girl	Frankie Valli & The Four Seasons	Ain't That a Shame and 11 Other Hits	INDIFFERENT	2L4wSggY0Hw	MPREb_AB9SGrooBKc	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
@@ -422,7 +420,7 @@ The Great Snowman	Bob Luman	Let's Think About Living	INDIFFERENT	wLqCSdPSlKQ	MPR
 The Fool	Bob Luman	Gems From 1957-1962, Vol. 6	INDIFFERENT	emdEnNr0OeI	MPREb_pGbIhCg5tsJ	UCw5Ep1g1RbB9zWPU01JoDVQ	oldies 1960s radio
 Wheels	Billy Vaughn	Sail Along Silv'ry Moon	INDIFFERENT	eC-jPaaLCZQ	MPREb_dsZZvSs9mgb	UCkJ8n0wIK3qYc3XfEnYvV9w	oldies 1960s radio
 Down in the Boondocks	Billy Joe Royal	Down in the Boondocks	INDIFFERENT	v4CeR9Mkjs4	MPREb_hkqCmMiJlWf	UCqh5-tGzcaJytanCMOlzXLQ	oldies 1960s radio
-Let the Little Girl Dance	Billy Bland	Let the Little Girl Sing	INDIFFERENT	YckS-jzBT-s	MPREb_DXUhkwZCLSj	UCHBmp0MxnwMPp3IQCGDbzeQ	oldies 1960s radio
+Let the Little Girl Dance	Billy Bland	Let the Little Girl Sing	INDIFFERENT	ocUyddIBsMU	MPREb_4Gk16Yy1dmy	UCHBmp0MxnwMPp3IQCGDbzeQ	oldies 1960s radio
 Don't Be Cruel	Bill Black's Combo	The Greatest Hits In Britain - Back In 1960 Vol.1	INDIFFERENT	R_2XrCQajgI	MPREb_uv1QnH7U0hD	UClk5gHwYM-ohlME3xIRI0Ag	oldies 1960s radio
 School Days	Bill Black's Combo	Plays Tunes by Chuck Berry	INDIFFERENT	HYhNs4S5S_Y	MPREb_1MDsNVz5ThP	UClk5gHwYM-ohlME3xIRI0Ag	oldies 1960s radio
 Twist-Her	Bill Black's Combo	Night Train	INDIFFERENT	2mTNVrUsnpo	MPREb_Gsr8TjvI9q5	UClk5gHwYM-ohlME3xIRI0Ag	oldies 1960s radio

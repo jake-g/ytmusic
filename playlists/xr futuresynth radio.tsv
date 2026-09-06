@@ -1,4 +1,5 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
+Calcify	The Omega Point	Calcify	LIKE	_yy9NFpfG60	MPREb_EAyMmGaUBxL	UC-2iMoUdjReYM7ir1ZhQ4bQ	xr futuresynth radio
 Ocean Drive	Duke Dumont	Blasé Boys Club (Pt. 1)	LIKE	dmaE78oaVLg	MPREb_OA3zubxgX3W	UCmOc5q8hTHMhurRJE5wDb0Q	xr futuresynth radio
 Around the World (Radio Edit)	Daft Punk	Around the World	LIKE	ARfJ55bUAw0	MPREb_ePmUY37w4pZ	UCRr1xG_2WIDs18a6cIiCxeA	xr futuresynth radio
 Sun	憂鬱	Sun	INDIFFERENT	RakcYpzOI8A	MPREb_lmWFnR4g3sc	UCJ-UfxhyKasO3y-mo_Gb-_w	xr futuresynth radio
@@ -69,7 +70,6 @@ Purple Eyes (feat. Sophie-Tith)	The Toxic Avenger	Globe, Vol. 1	INDIFFERENT	HWhO
 A Night at the Movies	The Scary Jokes	April Fools	INDIFFERENT	7V9AdxWpWIk	MPREb_Joh27IJeitQ	UCDGJp9bh3Zf8aRZa5yFUtUA	xr futuresynth radio
 This Boy's In Love (Lifelike Remix)	The Presets	This Boy's In Love	INDIFFERENT	CQrT1XKz69k	MPREb_dw3Y4vztTyq	UCD0elVKHwVBMEUgJ3eJm1Vw	xr futuresynth radio
 Miami	The Present Sound	Miami	INDIFFERENT	A6cwGjy6a5U	MPREb_WPXoOx1jtxi	UCxby1zH8CblryoXwdYR6DVw	xr futuresynth radio
-Calcify	The Omega Point	Calcify	INDIFFERENT	_yy9NFpfG60	MPREb_EAyMmGaUBxL	UC-2iMoUdjReYM7ir1ZhQ4bQ	xr futuresynth radio
 Cerulean	The Ocean Blue	Cerulean	INDIFFERENT	4Ju62hLiLQM	MPREb_fHvKXwbfdDv	UCxDXflQxz3YbQP-45yJDhuw	xr futuresynth radio
 The Stars Are Ours	The Nylons	The Best of the Nylons	INDIFFERENT	Dz3OxVm5Nv8	MPREb_VY4oqh4jx6m	UC56CFyNaMUi7LUWK_QbTWPw	xr futuresynth radio
 What Is Love	The Nu Now	What Is Love	INDIFFERENT	_04s18Id83Y	MPREb_jU4xNtQahDT	UCRDIDu6KfW-rZ3V-x6IHrDg	xr futuresynth radio
@@ -124,8 +124,8 @@ Vis a Vis	Skykot	Skywalk	INDIFFERENT	Qz8tvcnuIqU	MPREb_vgOZSWfzewy	UClpLDafCTpke
 Pulses	Skykot	Skywalk	INDIFFERENT	hXBtoIFWk3U	MPREb_vgOZSWfzewy	UClpLDafCTpkeJrMdE77rCHQ	xr futuresynth radio
 The Missing Song	Skinner Project	Sound Connections	INDIFFERENT	Pz0M7z2O6zg	MPREb_YDllVK5498J	UCKQB2EPK64XE_Lg1QPsnRKA	xr futuresynth radio
 Jaded Shadow (feat. Cody Darr)	Signal Void	Jaded Shadow	INDIFFERENT	zwNoeOxJfe8	MPREb_eHc6f3NKSRL	UC2F-zSfE7vsDD4QpX2Z1MwQ	xr futuresynth radio
-Alone in the Dark (Instrumental)	Shadowrunner	The Stranger (The Instrumentals)	INDIFFERENT	wMDLpGWsy1A	MPREb_MLNENukRFA3	UCufJVf0TzjvBbt8juCNmQWA	xr futuresynth radio
-Eastbound Plane//Mattaei	Shadowrunner	Eastbound Plane//Mattaei	INDIFFERENT	iYcxKFW8Z7I	MPREb_4Rhjv5g58yG	UCufJVf0TzjvBbt8juCNmQWA	xr futuresynth radio
+Alone in the Dark (Instrumental)	Shadowrunner	The Stranger (The Instrumentals)	INDIFFERENT	wMDLpGWsy1A	MPREb_MLNENukRFA3	UCb96fvGNSoN3vTFVXk-COQg	xr futuresynth radio
+Eastbound Plane//Mattaei	Shadowrunner	Eastbound Plane//Mattaei	INDIFFERENT	iYcxKFW8Z7I	MPREb_4Rhjv5g58yG	UCb96fvGNSoN3vTFVXk-COQg	xr futuresynth radio
 Bad Dream Baby	September 87	Bad Dream Baby	INDIFFERENT	v6Cd5pSObTY	MPREb_KLhLwWihT3i	UCoNaVFpKmD59-l6pBADb6BA	xr futuresynth radio
 Meet Me at the Dance	September 87	Act 1 (Original Motion Picture Soundtrack)	INDIFFERENT	2R2OLpXDq_A	MPREb_iXdgAPS43u5	UCoNaVFpKmD59-l6pBADb6BA	xr futuresynth radio
 Flashback	Sellorekt / LA Dreams	Flashback 1986	INDIFFERENT	zn3SE886Sd4	MPREb_zRDDXKcfrtI	UCqtzSuac8PuWNuR3q4m14SA	xr futuresynth radio
@@ -183,9 +183,8 @@ Power Core	Power Glove	Far Cry 3: Blood Dragon (Original Game Soundtrack)	INDIFF
 Motorcycle Cop	Power Glove	EP II	INDIFFERENT	VNIb-8mAB4I	MPREb_RJASVPIX2Ow	UCisR-Mm8KX5PrWGAvMmBkhA	xr futuresynth radio
 Streets of 2043	Power Glove	EP 1	INDIFFERENT	Hj1dhyFOin4	MPREb_PDLUCCeYSjT	UCisR-Mm8KX5PrWGAvMmBkhA	xr futuresynth radio
 Red Moon	Polystation	Red Moon	INDIFFERENT	ECuNOJSr23E	MPREb_ieCy1mtA5Xf	UCzR6QSSe980opHaCQy47uSw	xr futuresynth radio
-Surrender	PolarBear	When Record Labels Collide Vol. 1	INDIFFERENT	XryhkmK8leA	MPREb_y7EMHaA8qoG		xr futuresynth radio
 Pyscho	Planet Wave	Mind Behavior EP	INDIFFERENT	6fqj23do5Ic	MPREb_P7FLee5WlMc	UCjTNehwkXQFBGn6vTEenIhQ	xr futuresynth radio
-Critical Demolition	Phyter	Critical Demolition	INDIFFERENT	oBMyBj3oN48	MPREb_i4dgfkizKZi	UC0Xa_U474ItOIaspRvfcNIw	xr futuresynth radio
+Critical Demolition	Phyter	Critical Demolition	INDIFFERENT	oBMyBj3oN48	MPREb_i4dgfkizKZi	UC2GNTOQPMNocozXBXppSiRg	xr futuresynth radio
 In the Air Tonight ('88 Remix)	Phil Collins	Remixed Sides	INDIFFERENT	vOQo-lheXS0	MPREb_S8hQYZcn8bj	UCzt9gB3XNQYs_2UHvolUZog	xr futuresynth radio
 Brand New Dimensions	Phaserland	Brand New Dimensions	INDIFFERENT	OPfV_QAy6rY	MPREb_ggP0CdmMArg	UCbtFEc_ahu6ulaxsQtXarlA	xr futuresynth radio
 Vers / Us (Demo Version)	Perturbator	The Uncanny Valley (Expansion)	INDIFFERENT	wVu_tX6pik4	MPREb_2G6whNCYk76	UCbyUJ5kOv-n05lAKqPdR6ig	xr futuresynth radio
@@ -290,13 +289,11 @@ Steve McQueen	M83	Hurry Up We're Dreaming	INDIFFERENT	93q6wLDyNPQ	MPREb_EMwa8nVu
 Penthouse Views	Luxe & Leisure	Penthouse Views	INDIFFERENT	7N3iw8eE9eQ	MPREb_TNibM25kZ5I	UCeRhuJPI7yVI0jNYyjx1AyQ	xr futuresynth radio
 1987	Lucy In Disguise	1987 EP	INDIFFERENT	-2MVpYtybBY	MPREb_PURmBR7DFYG	UC2yVqYL9wXXriWXaM6FRRbQ	xr futuresynth radio
 Pump	Lost Years	Nuclear	INDIFFERENT	IBzmxay6vqw	MPREb_z4N4UnpO72u	UC2cjP3I1PAmhzYr4UJQxYSg	xr futuresynth radio
-SEGA SUNSET	Lorn	RARITIES	INDIFFERENT	C2xvePQ3ejo	MPREb_gfFFfjWZNh5	UCCIJUG17meyqvnQ8yNBz3SQ	xr futuresynth radio
 Go for Silver	Lorenz Rhode	Go for Silver	INDIFFERENT	weQu0iFKmNU	MPREb_xEmvoxnf7u5	UCRFkQPJgsRWPly71zf-k-Iw	xr futuresynth radio
 Nothing Left, Something More	Lorelei Dreaming	Retold Fables	INDIFFERENT	8rWh2Tw1SNc	MPREb_QgCKeLopNu2	UCx93PRGygspJud8QKKVx4Iw	xr futuresynth radio
 Trailer	Lil KIDS	간절	INDIFFERENT	zeHODnSpch8	MPREb_3LHrCLK3Yzx		xr futuresynth radio
 Run Away	Lights A.M	Run Away	INDIFFERENT	v6V8ok5Accg	MPREb_YLdgFtQxPui	UC3Rr2Tt9-xqqlFADzeuCjcw	xr futuresynth radio
 Sequencer	Lifelike	Sunset	INDIFFERENT	Tk7mkwbIRKo	MPREb_a8gLLmRntzN	UCYwLnNHnVF6TRQ8O0Gg653g	xr futuresynth radio
-So Electric	Lifelike	So Electric	INDIFFERENT	sfMvl2nLW90	MPREb_J32ivTWi8Jt	UCYwLnNHnVF6TRQ8O0Gg653g	xr futuresynth radio
 Italo Disco	Lifelike	Italo Disco	INDIFFERENT	JBpqq4Wwpx0	MPREb_ZOqxhwsoXDo	UCYwLnNHnVF6TRQ8O0Gg653g	xr futuresynth radio
 Regentropfen (Synthwave Remix)	Lichtfall	Regentropfen (Synthwave Remix)	INDIFFERENT	aTisknfT2pw	MPREb_jd8brOtcTWp	UCSybPqUVImgc3a2zgTdyjRQ	xr futuresynth radio
 Aquarella	Levantis	Relaxing	INDIFFERENT	jmn6_YST4dI	MPREb_93QbAeAaUDy	UCGggaR7Og4ebxcRiHD0GGYg	xr futuresynth radio
@@ -456,9 +453,6 @@ Launch Sequence	Downware Communications	Digital Sunshine	INDIFFERENT	acEQEAS1Z0U
 Virtual Diva	Don Omar	Virtual Diva	INDIFFERENT	SJCkQGsmpfE	MPREb_K7gZDGo7ssV	UCTrIOPtBeAN2E0R-sgU9JxA	xr futuresynth radio
 Highway Cruisin	Don Dellpiero	Ocean Breeze	INDIFFERENT	6I-Dl03Hv7Y	MPREb_IwDJGSdO3CP	UCh1Niiw-Gnf4kQchlj3klrw	xr futuresynth radio
 Solar Genesis	Domyeah	Classics From the Golden Era (2015)	INDIFFERENT	lhFaxR9VxNw	MPREb_hR4Z5fmMOms	UCeKXt-r7gy4qsicEKTg4PIw	xr futuresynth radio
-Sideways (feat. Matthew Chen)	Dizzy Spins	False Permanence	INDIFFERENT	kpWiiH8JGV8	MPREb_THduOnl5RWq	UCkSkmnOrySNyxT0DezQbrZg	xr futuresynth radio
-Borderline	Dizzy Spins	False Permanence	INDIFFERENT	FLRuJsCEDp8	MPREb_THduOnl5RWq	UCkSkmnOrySNyxT0DezQbrZg	xr futuresynth radio
-Corner of My Eye (feat. Landon Sears)	Dizzy Spins	Corner of My Eye	INDIFFERENT	zi9r7SV3MSs	MPREb_T9rRCQRE2Rn	UCkSkmnOrySNyxT0DezQbrZg	xr futuresynth radio
 Waves	Division Street	Waves	INDIFFERENT	LIchfCXu0sU	MPREb_sViDPHEkasY	UCsHhHUBr_N5JVMePq9aKu4Q	xr futuresynth radio
 Mysteries Unknown (feat. Janie Kelley)	DisKatch	Mysteries Unknown	INDIFFERENT	ArCJbg_b6AA	MPREb_kpjQnQDID6P	UCTXyiwSL8hbT6ZIG28kb5yw	xr futuresynth radio
 Not Holding Back	Dimi Kaye	Not Holding Back	INDIFFERENT	yQENvWw7q0k	MPREb_C1sQbcearsR	UCixiwTVVhKm6jgl8KEGFwmQ	xr futuresynth radio
@@ -534,7 +528,6 @@ Mandarin's Claws	Carpenter Brut	Fangoria Presents: Hollydoom (Original Magazine 
 Fab Tool (feat. David Eugene Edwards)	Carpenter Brut	Fab Tool	INDIFFERENT	31-Eop1WLlw	MPREb_rBC2gLkdmuy	UCLZeFBZ-PRQsYaNMzPOnReA	xr futuresynth radio
 The Good Old Call (Live)	Carpenter Brut	CARPENTERBRUTLIVE	INDIFFERENT	J55pQL8iGmY	MPREb_KjTLjsLTrBH	UCLZeFBZ-PRQsYaNMzPOnReA	xr futuresynth radio
 The Girl and the Black Sun	Carbon Killer	VR SUN	INDIFFERENT	nHHWdyfDXXE	MPREb_0u2BY8KFM3S	UCXhrPysihqA9Le7O-CDMISw	xr futuresynth radio
-Seeds to your Garden	CMPT	Seeds to your Garden	INDIFFERENT	Ux8JjSH93Ko	MPREb_Mdk6BH4Au1a	UC7pUjDOgy4D7EBaKmMM1EvQ	xr futuresynth radio
 Still Human	Buddypal	Still Human	INDIFFERENT	6xSEvBzfGjg	MPREb_SzNNz7pxsA8	UCJP6T6wggaj7eYZJlRSZ6lw	xr futuresynth radio
 Burnout	Budakat	Burnout	INDIFFERENT	YCBIdo57NEI	MPREb_7MUcHgxOo51	UC54eEKxxps7aXicfuRBPSvA	xr futuresynth radio
 One Out Of Two (Oliver Remix) (feat. Irfane)	Breakbot	One Out Of Two	INDIFFERENT	14I4LLq-Ans	MPREb_UzTnHYpsbO3	UC2hW8YWmspFv-nWNdGMUcSg	xr futuresynth radio
@@ -620,17 +613,23 @@ Watch Me Fall	Royston Charmaine	Watch Me Fall		3Uv206nL8vo			xr futuresynth radi
 Dreams	Royston Charmaine	Dreams of You		z3oAEKyy4Pw			xr futuresynth radio
 Beyond This Room	Royston Charmaine	Beyond This Room		5SOb0VQEaGk			xr futuresynth radio
 FutureEnergy	Royston Charmaine	ApproachingSentience		QjuO-EbjNjE			xr futuresynth radio
+Surrender	PolarBear	When Record Labels Collide Vol. 1		XryhkmK8leA			xr futuresynth radio
 Neon Night	Peter Zimmermann & Daria Danatelli	<3lips		h_X1vHXzBjM			xr futuresynth radio
 Excess	Perturbator & She Past Away	Excess		lB6toW-mj18			xr futuresynth radio
 Nightcrawl	Neon Lipstick	Neon Lipstick		FvPX0zN9ovE			xr futuresynth radio
+So Electric	Lifelike	So Electric		sfMvl2nLW90			xr futuresynth radio
 Summer Love	JBT & Joe Bills	Summer Love		X_Aj8F5n5Bc			xr futuresynth radio
 Panorama Drive	First Impressions	Modern Thrills		u-XI-E5iPDo			xr futuresynth radio
 Doomed to the Pyre	Dune Hunter	Doomed to the Pyre		AvO18wNM-LM			xr futuresynth radio
-My Life in a Window	Downtown Space	Coordinate X		_Do-piLfw4Y			xr futuresynth radio
+My Life in a Window	Downtown Space	My Life in a Window		tnChEJ2lMvA			xr futuresynth radio
 Midnight Close	Downtown Space	Coordinate X		eV_Uu3zVyug			xr futuresynth radio
+Borderline	Dizzy Spins & Evan Braddock	False Permanence		FLRuJsCEDp8			xr futuresynth radio
+Sideways	Dizzy Spins	False Permanence		kpWiiH8JGV8			xr futuresynth radio
+Corner of My Eye	Dizzy Spins	False Permanence		yAo-mvt-2vw			xr futuresynth radio
 Paranoia	Cominous	Documentary		xS5B_5_NfqI			xr futuresynth radio
 Invaders	Chris Keya	Invaders		5jKAJ81uBjs			xr futuresynth radio
 Insurgency	Chris Keya	Insurgency		wxWxrjLJ0vY			xr futuresynth radio
+Seeds to your Garden	CMPT	Seeds to your Garden		Ux8JjSH93Ko			xr futuresynth radio
 Morrowind Theme (Synthwave version)	BeatBoyNinja	But It's a Synthwave		r8c3gOvUG4g			xr futuresynth radio
 Silver Bullet	BLOODYSABBATH	Silver Bullet		ZF3WbbnZra0			xr futuresynth radio
 Flower Girl	Arka Levi	Flower Girl		f1pU6E2l9_o			xr futuresynth radio
