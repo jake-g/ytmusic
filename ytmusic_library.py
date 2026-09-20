@@ -86,6 +86,12 @@ LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
 # LIKE subset
 LIKE_TOKS = ['thumbs up', ' like', '_like', ' likes', ' top']
 LIKE_TRACKS_TSV_FILE = '_liked_tracks.tsv'
+# Date a videoId first entered the append-only liked-tracks ledger. Rows that
+# predate this column stay blank, since their real first-liked date is unknown.
+LIKE_FIRST_DATE_COL = 'first_liked_date'
+# Ledger entries whose live likeStatus is no longer LIKE. Reported only, never
+# auto-removed: the ledger never forgetting is what stops re-like loops.
+UNLIKED_DETECTED_TSV_FILE = '_unliked_detected.tsv'
 
 # NOT LIKE subset
 NOT_LIKE_PREFIX = 'zz not like'
@@ -178,6 +184,8 @@ class YTMusicPlaylists:
         self.lastfm_tsv = jn(self.playlist_tsv_dir, lastfm_playcount_file)
         self.not_like_tsv = jn(self.playlist_tsv_dir, not_like_tsv_file)
         self.like_tsv = jn(self.playlist_tsv_dir, like_tsv_file)
+        self.unliked_detected_tsv = jn(self.playlist_tsv_dir,
+                                       UNLIKED_DETECTED_TSV_FILE)
         self.manual_rate_tsv = jn(self.playlist_tsv_dir, manual_rate_tsv)
         self.need_rate_tsv = jn(self.playlist_tsv_dir, need_rate_tsv)
         self.radio_count_file = jn(self.playlist_tsv_dir, radio_count_file)
@@ -204,8 +212,9 @@ class YTMusicPlaylists:
             self._get_not_like_df().index)
         # Load this later, intialize empty for now
         self._playcount_map = pd.DataFrame([])
-        # Fetch library playlists. Empty result means the cookies expired.
-        # continuing would make playlist lookups miss and create duplicate playlists.
+        # Fetch library playlists. An empty result means the browser cookies
+        # expired: continuing would make playlist lookups miss and create
+        # duplicate playlists, so fail fast with an actionable message instead.
         raw_playlists = self.yt.get_library_playlists(limit=playlist_limit)
         if not raw_playlists:
             raise RuntimeError(
@@ -1693,14 +1702,22 @@ class YTMusicPlaylists:
 
         # Load already existing like list tsv
         like_tracks_existing = self._get_like_df()
-        assert_msg = (f'Expected {self.like_tsv} to have header {tsv_header}, '
-                      f'not: {like_tracks_existing.columns}')
-        if list(like_tracks_existing.columns) != tsv_header:
+        # Ledgers written before LIKE_FIRST_DATE_COL existed lack the column.
+        # Add it blank rather than backdating entries to today, which would
+        # falsely claim every historical like happened on this run.
+        if LIKE_FIRST_DATE_COL not in like_tracks_existing.columns:
+            like_tracks_existing[LIKE_FIRST_DATE_COL] = ''
+        dated_header = list(tsv_header) + [LIKE_FIRST_DATE_COL]
+        assert_msg = (f'Expected {self.like_tsv} to have header '
+                      f'{dated_header}, not: {like_tracks_existing.columns}')
+        if list(like_tracks_existing.columns) != dated_header:
             raise ValueError(assert_msg)
 
         # Update and save tsv, append new like tracks in db but not in like list
         new_like_tracks = collected_like_tracks.loc[frozenset(
             collected_like_tracks.index) - frozenset(like_tracks_existing.index)]
+        new_like_tracks = new_like_tracks.copy()
+        new_like_tracks[LIKE_FIRST_DATE_COL] = DATE
         all_like_tracks = pd.concat([like_tracks_existing, new_like_tracks])
 
         print(f'Updated liked tracks with {len(new_like_tracks)} new entries '
