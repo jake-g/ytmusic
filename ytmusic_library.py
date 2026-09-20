@@ -204,9 +204,16 @@ class YTMusicPlaylists:
             self._get_not_like_df().index)
         # Load this later, intialize empty for now
         self._playcount_map = pd.DataFrame([])
-        # fetch library playlists with safe continuation recovery
-        self.playlists = pd.DataFrame(
-            self.yt.get_library_playlists(limit=playlist_limit))
+        # Fetch library playlists. Empty result means the cookies expired.
+        # continuing would make playlist lookups miss and create duplicate playlists.
+        raw_playlists = self.yt.get_library_playlists(limit=playlist_limit)
+        if not raw_playlists:
+            raise RuntimeError(
+                f'YTMusic returned 0 library playlists using {header}. '
+                'Authentication has likely expired - refresh credentials with '
+                '`make auth-update` in the ytmusic directory.'
+            )
+        self.playlists = pd.DataFrame(raw_playlists)
         self.playlist_titles = frozenset(self.playlists['title'])
 
     def _get_like_df(self):
