@@ -1,7 +1,7 @@
 	title	trackCount	privacy	id
 29	zz not like 2	5000.0	PRIVATE	PLWptjpDqazOwrksGupWCshkk8NjhYng6j
 30	zz not like 1	4998.0	PRIVATE	PLWptjpDqazOzObLohDWnVTTDrgG87MDwD
-4	zz not like 0	3002.0	PRIVATE	PLWptjpDqazOzXVGZ4OcnjuyhfAyiCkLWP
+1	zz not like 0	3025.0	PRIVATE	PLWptjpDqazOzXVGZ4OcnjuyhfAyiCkLWP
 278	zq dj thumbs up	340.0	PRIVATE	PLWptjpDqazOwqMTsUps2PvNbVRUP3BJnU
 501	zq dj remix	72.0		PLWptjpDqazOzG07M2D5oPCt-SBjp6ihVo
 363	zq dj mixes library	279.0		PLWptjpDqazOwjsVYghWWURLjxjf_XO0Ib
@@ -105,7 +105,7 @@
 161	xr jazz radio	445.0	PRIVATE	PLWptjpDqazOxfhwfZM1ql8dOX6TLC7LIN
 327	xr industrialmusic radio	91.0		PLWptjpDqazOw3o7yoGdny-qsEuGfudU6Y
 213	xr indierock radio	225.0		PLWptjpDqazOzJNUNrn0iSo7tXMOHH7CPi
-201	xr indie radio	1030.0	PRIVATE	PLWptjpDqazOxiDLxxdqpRz9tFlZczrFN9
+201	xr indie radio	1029.0	PRIVATE	PLWptjpDqazOxiDLxxdqpRz9tFlZczrFN9
 311	xr idm radio	330.0		PLWptjpDqazOyPfmECKIsKdsSvD9HXlU1S
 320	xr idm albums	110.0		PLWptjpDqazOwTPGnVsNOO9SJFmksR3rsu
 253	xr icm radio	30.0		PLWptjpDqazOwIeSpwFTzviniXIDxo7tIL
@@ -117,7 +117,7 @@
 254	xr guiltypleasuremusic	27.0		PLWptjpDqazOxEk1gJCpm8Cyqm2gHHu5ZW
 256	xr glitchhop radio	61.0		PLWptjpDqazOxVLm2YSC81rbrzdhIfiG0w
 257	xr gamemusic radio	27.0		PLWptjpDqazOyYqtWSh1_cyv_IDFvs8KS7
-328	xr futuresynth radio	636.0		PLWptjpDqazOwmyH_k1wyP2jrAqndbv4El
+328	xr futuresynth radio	635.0	PRIVATE	PLWptjpDqazOwmyH_k1wyP2jrAqndbv4El
 159	xr futuresynth albums	297.0		PLWptjpDqazOznIFYjUnrSPfHEeysVDJ3H
 329	xr futuresynth	35.0		PLWptjpDqazOx3z9jsMzNxLWAoKHuz9B1J
 169	xr futuregarage radio	1196.0	PRIVATE	PLWptjpDqazOy5-mqAsn5glmXNtCd5DTKU
@@ -149,7 +149,7 @@
 264	xr contemporary radio	70.0		PLWptjpDqazOxN9FUWDfbC3wbRLcqyeEW4
 167	xr complextro radio	114.0		PLWptjpDqazOwfxHwRllkhiBGi_dwpTZQe
 265	xr choralmusic radio	44.0		PLWptjpDqazOzHJTYUkpPkF3WMX0n-8sj7
-7	xr chillwave radio	667.0		PLc_aDDSUWmxA
+7	xr chillwave radio	663.0	PRIVATE	PLc_aDDSUWmxA
 322	xr chillwave albums	262.0		PLWptjpDqazOx7zES4ZLvYXiSDhWYLDIw-
 8	xr chillwave	384.0		PLWptjpDqazOxbNvaT6XpFErXsFQZ4JCF6
 168	xr chillmusic albums	210.0		PLWptjpDqazOylAeE0dryTfPVewK6JFI8L
@@ -340,11 +340,11 @@
 65	jazz	1367.0	PUBLIC	PLWptjpDqazOzLqvCA9cCkPUWjrE1-w-Kp
 470	instrumental piano classical radio	72.0		PLWptjpDqazOwr-paqiRZlCtaB26xqCheu
 419	instrumental ambient piano radio	135.0		PLWptjpDqazOzZp_I1RtUs6eYuuwwjwkhS
-3	indie twang	42.0	PRIVATE	PLDsdY14asSrM
+4	indie twang	42.0		PLDsdY14asSrM
 288	indie sleeze	46.0		PLWptjpDqazOy9gIDO6itVzQo1dI90mZBk
 99	indie loose	1698.0	PUBLIC	PLWptjpDqazOygyoaRpT447v7SENKpPNfi
-2	indie krill vibe radio	84.0	PRIVATE	PLUqboU17RjvI
-1	indie krill vibe	511.0	PUBLIC	PLWptjpDqazOx_3UfI2hhpXc9PlSRD0-CD
+3	indie krill vibe radio	17.0	PRIVATE	PLUqboU17RjvI
+2	indie krill vibe	540.0	PUBLIC	PLWptjpDqazOx_3UfI2hhpXc9PlSRD0-CD
 11	indie folk	326.0		PLWptjpDqazOzUx53oyA5Z7HEPhf3tH8Us
 16	indie banger	45.0		PLFbX6pssH0dI
 10	indie	1180.0	PUBLIC	PLWptjpDqazOzPbRAeZPDeMIS0s8Zh0phK
@@ -369,7 +369,7 @@
 121	good	87.0	PUBLIC	
 240	garage rock	405.0		PLWptjpDqazOwqojQ__XYIweYTp-Uu-B5R
 230	future garage	204.0		PLWptjpDqazOz3-7tjSYEpkPjtx8ItFstc
-183	future beats radio	1606.0	PRIVATE	PLWptjpDqazOyLQNffYGQqgFemOOqiAVsv
+183	future beats radio	1605.0	PRIVATE	PLWptjpDqazOyLQNffYGQqgFemOOqiAVsv
 14	future beats	1364.0	PUBLIC	PLWptjpDqazOzGd-Mg61nE0VYG8xmWDkRe
 218	future bass	256.0		PLWptjpDqazOxP6qNE-EbnjbnPEmiG7SVV
 464	folk fall indie chill	338.0		PLWptjpDqazOyByGaJGoT2hdbU1RqnAv-2
@@ -404,7 +404,7 @@
 364	electronic big beats	18.0		PLWptjpDqazOyZ15J53QAtxSx9Jm7vNQQj
 294	electronic Underjord radio	229.0		PLWptjpDqazOyptYSRY5APSKlvEmCaWXpV
 28	electronic Underjord	284.0		PLWptjpDqazOxwrcVg0IbdOdJouqoRUJ5c
-293	electronic Sine Language radio	1521.0	PRIVATE	PLWptjpDqazOzpvFbmM_traIiLIreurZj6
+293	electronic Sine Language radio	1520.0	PRIVATE	PLWptjpDqazOzpvFbmM_traIiLIreurZj6
 77	electronic Sine Language	774.0		PLWptjpDqazOzRhuXgE5MNv8EFkTBEkoYj
 283	electronic New Wave old and new radio	281.0		PLWptjpDqazOxVn3NCQF0fuWocvSsPzq-X
 285	electronic New Wave old and new	116.0		PLWptjpDqazOzOoWyB-rBEEVIDS2TdRzvl
