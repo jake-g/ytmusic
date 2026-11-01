@@ -1,5 +1,7 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
 Hole In My Shoe	Traffic	Mr. Fantasy	LIKE	MPPe8-1G2s0	MPREb_1bPf5nFPDJo	UCFh-Yyaep1Gl5c0O1JTvEBQ	oldies 1960s radio
+Anyway That You Want Me	The Troggs	Hit Single Anthology	LIKE	eBlec1PChNI	MPREb_mBrOYTV33SU	UCHN3v9j_PgirkSPp9nFUcpg	oldies 1960s radio
+L.S.D.	The Pretty Things	Get The Picture?	LIKE	0g5_JkeYIY4	MPREb_7rrQHhGLVkT	UCy_gWSTLrwaserTXU-HHh5A	oldies 1960s radio
 Tonight	The Move	Hits & Rarities - Singles a’s & B’s - The Move	LIKE	wiipwSLpxNc	MPREb_xUdI9RbkSVm	UCtbCrMJTL8j407hGEIHAq7g	oldies 1960s radio
 Michael (Row the Boat Ashore)	The Highwaymen	Folk Essentials	LIKE	iZE_jd1vNEM	MPREb_9eBdhgEJc2w	UCZZ6mEgkU7cx6hGI3eNOGsw	oldies 1960s radio
 Afterglow of Your Love (Stereo)	Small Faces	Ogdens' Nut Gone Flake (Deluxe Edition)	LIKE	oHSD8loGbcA	MPREb_qce1vJfRBzr	UCqmvlahzkVOFPipBAotsQ7w	oldies 1960s radio
@@ -26,8 +28,6 @@ Hurt	Timi Yuro	Unforgettable	INDIFFERENT	TpxJm5L1zMU	MPREb_QIAAf7t7uut	UCc-Iig8a
 442 Glenwood Avenue (feat. The Pixies Three)	Those East Coast Girls	Compilation CD	INDIFFERENT	rAqiMKGyBLc	MPREb_CQFXWFYsiz7	UCFEYoG3NK3vcTKpuLNcqPCQ	oldies 1960s radio
 I'm A Man (feat. Eric Clapton & Jeff Beck)	The Yardbirds	The Ultimate Collection CD1	INDIFFERENT	Ab4QR2KAyKA	MPREb_373Pwk0k2CO	UC--CUY9RbIaFjKM3wZkIEOA	oldies 1960s radio
 Caravan (Live)	The Ventures	Live In Japan 1993	INDIFFERENT	Qxr3x-LZAHY	MPREb_etdb0705JOg	UCBTyn_Hs6HQQ6poBYsiQiVw	oldies 1960s radio
-Anyway That You Want Me	The Troggs	Hit Single Anthology	INDIFFERENT	eBlec1PChNI	MPREb_mBrOYTV33SU	UCHN3v9j_PgirkSPp9nFUcpg	oldies 1960s radio
-Even the Bad Times Are Good (Stereo Version)	The Tremeloes	Good Times : The Ultimate Collection	INDIFFERENT	qjWDFVtIK0s	MPREb_NKjUaxYN1iB	UCWIjj2R1CqChRfUEhxyvJCA	oldies 1960s radio
 Surfin' Bird	The Trashmen	Bird Call! Twin City Stomp	INDIFFERENT	Qgmh0BjLKVM	MPREb_RTxOI0CHhcD	UCKA351cmhCe3QBKk73X1xMw	oldies 1960s radio
 The Dawn of Correction	The Spokesmen	The Dawn of Correction	INDIFFERENT	UF7BS1BqG_Y	MPREb_4yvLmEKPYzs	UCK2-PW7C4_Ix_G1nbrHJ5TA	oldies 1960s radio
 Itchycoo Park	The Small Faces	The Immediate Years - Volume Two	INDIFFERENT	LEGO-10bdnw	MPREb_6fh45ojGAWM	UCqmvlahzkVOFPipBAotsQ7w	oldies 1960s radio
@@ -36,7 +36,6 @@ Give Him A Great Big Kiss	The Shangri-Las	Leader Of The Pack	INDIFFERENT	YeueJa6
 Sweet Nothin's (Live at the Star Club, 1963)	The Searchers	Hearts In Their Eyes	INDIFFERENT	k67pKdiQwS0	MPREb_F2yA6q0s14n	UCDCnk3Qj_Dgexq8EErav5Sg	oldies 1960s radio
 What a Guy	The Raindrops	The Raindrops [Digital Version]	INDIFFERENT	EfwK2LHbP6U	MPREb_FZIuFb89x6h	UCVxpcG3kjdP5Rdl_6zUmU6Q	oldies 1960s radio
 The Kind of Boy You Can't Forget	The Raindrops	The Raindrops [Digital Version]	INDIFFERENT	pFa_ZYcLHB4	MPREb_FZIuFb89x6h	UCVxpcG3kjdP5Rdl_6zUmU6Q	oldies 1960s radio
-L.S.D.	The Pretty Things	Get The Picture?	INDIFFERENT	0g5_JkeYIY4	MPREb_7rrQHhGLVkT	UCy_gWSTLrwaserTXU-HHh5A	oldies 1960s radio
 Come Be My Love	The Poni-Tails	Born Too Late	INDIFFERENT	Q29bHk8LOu0	MPREb_NXBCYda4dm4	UCAzMbiFXNKCBfEfcwCO51XQ	oldies 1960s radio
 Before We Say Goodnight	The Poni-Tails	Born Too Late	INDIFFERENT	D4jjV5Nrt1s	MPREb_NXBCYda4dm4	UCAzMbiFXNKCBfEfcwCO51XQ	oldies 1960s radio
 Sentimental Journey	The Platters	The Platters, Vintage Collection	INDIFFERENT	MGBmOOWa278	MPREb_683dbSxqCOs	UC5AYr3HMVGWEselwAxdRuxA	oldies 1960s radio
@@ -53,12 +52,13 @@ Theme From 'A Summer Place'	The Lettermen	All Time Greatest Hits	INDIFFERENT	nbN
 Seasons In The Sun	The Kingston Trio	The Capitol Collector's Series	INDIFFERENT	3Tyhv_rh6Ko	MPREb_R1FbtgFP02v	UC-hN1E13BXX05U7Z3ReN54g	oldies 1960s radio
 Greenback Dollar	The Kingston Trio	The Capitol Collector's Series	INDIFFERENT	YvGxZD-HNCM	MPREb_R1FbtgFP02v	UC-hN1E13BXX05U7Z3ReN54g	oldies 1960s radio
 Alley Oop	The Hollywood Argyles featuring Gary S. Paxton	Grandpa Rock & Friends, Vol. 1	INDIFFERENT	Nc06BFh2gY8	MPREb_roThbbiKVGv	UCtTPk17nynKYYPtOpSydqcg	oldies 1960s radio
-I Can't Let Go	The Hollies	20 Golden Greats	INDIFFERENT	hvCZ8hD5zXk	MPREb_IdHq5MgUflI	UC4lSAGYiQVrDIqE_cQf6GQQ	oldies 1960s radio
 Bus Rider	The Guess Who	Share The Land	INDIFFERENT	sydRLhuexYg	MPREb_ZUwCajP9rty	UCeJzOtrRt4ToYZj336gNElg	oldies 1960s radio
 Star Baby (2003 Remastered)	The Guess Who	Road Food	INDIFFERENT	I8sRNMjDCaU	MPREb_4Dk36GpIVut	UCeJzOtrRt4ToYZj336gNElg	oldies 1960s radio
 8.15 (2024 Remaster)	The Guess Who	American Woman (Expanded Edition)	INDIFFERENT	e3vbw7i6Qo4	MPREb_7zL71FDgPhB	UCeJzOtrRt4ToYZj336gNElg	oldies 1960s radio
 Midnight Confessions (alternate version)	The Grass Roots	The Grass Roots - Greatest Hits	INDIFFERENT	CKfAExPEZCg	MPREb_MzqvDN0P0Br	UCLEbAV4KupKJ9wJHT2M9tYw	oldies 1960s radio
 A Little Loving	The Fourmost	The Best Of The Fourmost	INDIFFERENT	VJZojNRaz1U	MPREb_iNa2fY2p53a	UC3vFynrTRCm3bFnCI9X5tqw	oldies 1960s radio
+Bye Bye Baby (Baby Goodbye)	The Four Seasons	The Very Best of Frankie Valli & The 4 Seasons	INDIFFERENT	_3cuYTGq6Ao	MPREb_aQ0vjSed3OJ	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
+Dawn (Go Away)	The Four Seasons	Dawn (Go Away) and 11 Other Hits	INDIFFERENT	nf8jDkR97kQ	MPREb_Rzz50lBghg4	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
 Before And After (Losing You)	The Fleetwoods	Come Softly To Me: The Very Best Of The Fleetwoods	INDIFFERENT	_extSP3DKm8	MPREb_Z4WZbab0Nzd	UCzyuXqlK3fdSOR3qCtd9LEQ	oldies 1960s radio
 Mule Skinner Blues	The Fendermen	Take Me Back To The Sixties	INDIFFERENT	r_ync-O_RdQ	MPREb_WtnJZM9K5ke	UCSTrYh-yB4dv_40oxm_6kbg	oldies 1960s radio
 Tell 'Em I'm Surfin'	The Fantastic Baggys	Ultra-Surf Presents: Hit The Surf!	INDIFFERENT	ynlAtH-811c	MPREb_ilUTLS6W4ZP	UC6QyAN7DVEbZFVZdJl5QgwQ	oldies 1960s radio
@@ -94,7 +94,6 @@ Wow Wow Wee (He's The Boy For Me)	The Angels	My Boyfriend's Back	INDIFFERENT	z96
 I Adore Him	The Angels	My Boyfriend's Back	INDIFFERENT	PuhJkvSj7K4	MPREb_KKnygoxPjQh	UCuA-vcxgCacwwyTtbb0JuUA	oldies 1960s radio
 He's a Doll	THE HONEYS	60's Girl Groups	INDIFFERENT	YHORcWq_daQ	MPREb_vVgvp2gg5fU	UCoLclnDtG0OKW7slqa6IgYA	oldies 1960s radio
 Footsteps	Steve Lawrence	The Best Of	INDIFFERENT	gGLlA0hyMBE	MPREb_4zO206dm7GQ	UCnD61Af--FpSLTxYmipfXog	oldies 1960s radio
-My Mind's Eye	Small Faces	From The Beginning	INDIFFERENT	OM7LIoabbk0	MPREb_qx05XvTmzQD	UCqmvlahzkVOFPipBAotsQ7w	oldies 1960s radio
 A Dear John Letter	Skeeter Davis	Tunes for Two	INDIFFERENT	d_FBx01SCKc	MPREb_rqb1U5FVMzu	UCpvg7DpGRI7Ef6-3cZgfC0Q	oldies 1960s radio
 I Can't Stay Mad at You	Skeeter Davis	The Essential Skeeter Davis	INDIFFERENT	eqP2RD17Ev4	MPREb_uMiEY4c864y	UCpvg7DpGRI7Ef6-3cZgfC0Q	oldies 1960s radio
 Moon River	Shirley Bassey	Sings the Standards	INDIFFERENT	VDsq1kjTQTk	MPREb_RqCIV7KG8VT	UC_Ab-oQobPd9SEFRUsiR4FQ	oldies 1960s radio
@@ -277,8 +276,6 @@ Everybody Loves A Clown	Gary Lewis & The Playboys	Everybody Loves A Clown	INDIFF
 We’ll Sing in the Sunshine	GALE GARNETT	Greatest Folk Songs of All	INDIFFERENT	egJVd2jDvmU	MPREb_I8W1io30eZ5	UCuGEbYfN51J-EGiaDb4ts2g	oldies 1960s radio
 Transistor Sister	Freddy Cannon	The Complete Releases 1959-62	INDIFFERENT	-nxUSwwEzT8	MPREb_iJnQPHTgIlk	UCqCby1AAbpLp556xnzh7e4A	oldies 1960s radio
 Palisades Park	Freddy Cannon	The Best of Freddy Cannon - Big Blast from Boston!	INDIFFERENT	JfMCDyVhGQc	MPREb_LqR14IuFPEG	UCqCby1AAbpLp556xnzh7e4A	oldies 1960s radio
-Bye Bye Baby (Baby Goodbye)	Frankie Valli & The Four Seasons	The Very Best of Frankie Valli & The 4 Seasons	INDIFFERENT	_3cuYTGq6Ao	MPREb_aQ0vjSed3OJ	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
-Dawn (Go Away)	Frankie Valli & The Four Seasons	Dawn (Go Away) and 11 Other Hits	INDIFFERENT	nf8jDkR97kQ	MPREb_Rzz50lBghg4	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
 Candy Girl	Frankie Valli & The Four Seasons	Ain't That a Shame and 11 Other Hits	INDIFFERENT	2L4wSggY0Hw	MPREb_AB9SGrooBKc	UCriObxa7ZsImmXTIpTc8QxA	oldies 1960s radio
 The 3:10 to Yuma (Version 2)	Frankie Laine	Hell Bent For Leather!	INDIFFERENT	LuPrvsxFpGo	MPREb_KJxi8KfDV7q	UCIl7zxRAVLzwDr4dz7Cyd1A	oldies 1960s radio
 All of Everything	Frankie Avalon	The Myth of Frankie Avalon	INDIFFERENT	XDm47cwUKbA	MPREb_iZbkHNcV1Ex	UCYNMdpYtg_WUiK1Q6Dk-HBA	oldies 1960s radio
@@ -292,7 +289,6 @@ Sally Was a Good Old Girl	Fats Domino	Fats Domino	INDIFFERENT	tNabIDgdPzM	MPREb_
 Put Your Arms Around Me Honey	Fats Domino	A Lot Of Dominos	INDIFFERENT	uBFMO4PydtE	MPREb_aTX3JpjZqoL	UCo4FEyMG8_-D-aXK7FrNIcg	oldies 1960s radio
 Blame It on the Bossa Nova	Eydie Gorme	Blame It on the Bossa Nova	INDIFFERENT	sn4Fly9cOn0	MPREb_bR3icNJiYYA	UCN_V0kRUFVu7pYtgnfc2qcA	oldies 1960s radio
 Mother-In-Law	Ernie K-Doe	Mother-in-Law	INDIFFERENT	S6WubUKyE8w	MPREb_fALC60IGkbH	UCFsUrVpMUPv5LeRjLDH3evg	oldies 1960s radio
-Release Me	Engelbert Humperdinck	Release Me	INDIFFERENT	s2gNZ04s8_w	MPREb_XhcZ7UfhzaT	UCUkG0_7gXD3jurU3HEiS-pw	oldies 1960s radio
 You Don't Know (Mono)	Ellie Greenwich	I Wanna Love Him So Bad: '60s Pop Hits & Rarities	INDIFFERENT	pbs9-z0yLt0	MPREb_AtvhqrlSwEU	UCC3h2a0_EW32vzCOu-PXwSA	oldies 1960s radio
 Make the World Go Away	Eddy Arnold	My World	INDIFFERENT	EeFxoL36Jac	MPREb_qa3EVn0vol3	UC-59zy0DSejXOzQZjMxPabg	oldies 1960s radio
 I'm Gonna Knock on Your Door	Eddie Hodges	Hit Singles - EP	INDIFFERENT	4sdX5JxoqHg	MPREb_Ve1cevcOvlw	UCHrRkmvZ-pFKFKPRbcSG0KQ	oldies 1960s radio
@@ -442,15 +438,15 @@ The French Song	'Bob & Lucille'	Eeny Meeny Miney Moe	INDIFFERENT	uwSKJyfkSPc	MPR
 The Great Impostor	The Piltdown Men	Hillbilly Rock, Vol. 2		ZgEF8Gsj0-0			oldies 1960s radio
 Surfin' Down the Swannee River	The Honeys	Saturday Pop Night, Vol. 4 		s9USjXcTDqs			oldies 1960s radio
 Pretty Blue Eyes	The Crickets	Great Jukebox & Doo Wop Hits, Vol. 2		BZr3ToRSOhQ			oldies 1960s radio
-Till	The Angels	Till / A Moment Ago (Digital 45)		sUefH4I_Fsw			oldies 1960s radio
+Till	The Angels	Till / A Moment Ago		sUefH4I_Fsw			oldies 1960s radio
 Gimme a Little Kiss	Michael Landon	Rock & Roll Tribute, Vol. 3		5OdcN45RuTE			oldies 1960s radio
 My Daddy Is President	Little Jo Ann	The Best of Doo Wop Harmonies, Vol. 5		X5fpI5CO_KI			oldies 1960s radio
 Kentucky Waltz	Johnny Burnette	The Wonder of Doo Wop, Vol. 2		kh0BgHVyLAw			oldies 1960s radio
 There She Goes	Jerry Wallace	There She Goes		Gb_hHGUVzEc			oldies 1960s radio
 Just Like Eddie	Heinz	Ritchie Blackmore Getaway Groups & Sessions, Pt. 2		enE2Hl3Ry9M			oldies 1960s radio
 Blue Skies	Freddy Cannon	Sunshine On My Shoulders		Be_NlzSox9M			oldies 1960s radio
-You Are Mine	Frankie Avalon & Bobby Comstock	Pop Hits, Vol. 2		2bbkZWfPLXk			oldies 1960s radio
-True True Love	Frankie Avalon & Bobby Comstock	Pop Hits, Vol. 2		HreisddNAuc			oldies 1960s radio
+You Are Mine	Frankie Avalon	Pop Hits, Vol. 2		2bbkZWfPLXk			oldies 1960s radio
+True True Love	Frankie Avalon	Pop Hits, Vol. 2		HreisddNAuc			oldies 1960s radio
 Great Shakin' Fever	Dorsey Burnette	Miracles Do Come True		B_ay2fCVkYk			oldies 1960s radio
 Young and in Love	Dick & Dee Dee	Popular and Loved Hits, Vol. 1		GvqlWU1hleQ			oldies 1960s radio
 S'wonderful	Della Reese	More Jukebox & Doo Wop Hits, Vol. 2		kU-kkOKoj2A			oldies 1960s radio
