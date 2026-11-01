@@ -17,10 +17,11 @@ from ytmusicapi.auth.oauth.credentials import OAuthCredentials
 
 # Force stdout to use UTF-8 and replace characters it can't encode
 # This prevents the UnicodeEncodeError during print() calls.
-# Only wrap the stream if we are in a standard terminal and NOT in IPython/Jupyter
-if hasattr(sys.stdout, 'buffer'):
-    sys.stdout = io.TextIOWrapper(
-        sys.stdout.buffer, encoding='utf-8', errors='replace')
+# Use reconfigure() rather than wrapping sys.stdout.buffer in a new
+# TextIOWrapper: if two modules wrap the same buffer, the first wrapper is
+# garbage-collected and closes the buffer, killing stdout for the process.
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 
 # When True, will reuse playlist tsvs from last backup
@@ -395,8 +396,9 @@ class YTMusicPlaylists:
                     try:
                         local_df = self._read_tsv(tsv_path)
                         track_count = len(local_df)
-                    except Exception:
-                        pass
+                    except Exception as e:
+                        print(f'Warning: could not read local TSV '
+                              f'{tsv_filename}: {e}')
 
             if track_count is None:
                 playlist_info = self.playlist_get_info(row['playlistId'])
@@ -976,8 +978,9 @@ class YTMusicPlaylists:
                             'trackCount': len(local_df),
                             'tracks': local_df.to_dict('records')
                         }
-                    except Exception:
-                        pass
+                    except Exception as e:
+                        print(f'Warning: could not load local playlist '
+                              f'{p.title}: {e}')
 
             if p_info is None:
                 try:
@@ -1498,8 +1501,10 @@ class YTMusicPlaylists:
         if index and df.index.name is None:
             df.index.name = 'videoId'
 
-        # Fill NaN values with empty strings before converting to string
-        df = df.fillna('')
+        # Fill NaN values with empty strings before converting to string.
+        # Cast to object first: pandas 3 warns (4 raises) on filling a
+        # float column with a str.
+        df = df.astype(object).fillna('')
 
         # Prevent backslashes from escaping tabs and breaking TSV columns
         df = df.astype(str).replace(
@@ -1524,8 +1529,15 @@ class YTMusicPlaylists:
         tracks['playlists'] = pl_info['title']
         if remove_disliked:
             tracks_disliked = tracks.loc[tracks['likeStatus'] == 'DISLIKE']
-            # metadata['author']['name'] == 'Jake G' # author storage changed in yt?
-            if len(tracks_disliked):
+            # YT-generated mixes report owned=False / id=None and reject
+            # remove_playlist_items ("setVideoId is missing"), so only call
+            # the API for playlists we actually own.
+            is_owned = (metadata.get('owned', True) is not False
+                        and bool(metadata.get('id')))
+            if len(tracks_disliked) and not is_owned:
+                print(f'Skipping removal of {len(tracks_disliked)} disliked',
+                      f'tracks: playlist not owned ({pl_info["title"]})')
+            elif len(tracks_disliked):
                 try:
                   print(f'Removing {len(tracks_disliked)}',
                         f'tracks:\n{tracks_disliked["title"]}')
@@ -1739,6 +1751,9 @@ class YTMusicPlaylists:
     def _track_db_get_track_info(self, row):
         copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
         copy_album_cols = ['type', 'trackCount', 'year']  # 'duration',
+        # Rows from a str-dtype frame can't hold the ints/lists copied in
+        # below (pandas 3 warns, 4 raises), so widen to object first.
+        row = row.astype(object)
         # Safe extraction if strings are missing
         track_str = f"{row.get('artist', '')} - {row.get('album', '')} - {row.get('title', '')}"
         track_str = unicodedata.normalize(

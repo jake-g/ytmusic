@@ -393,6 +393,31 @@ class TestYTMusicUtils(unittest.TestCase):
         mock_save_tsv.assert_called_once_with(
             unittest.mock.ANY, expected_path, index=False)
 
+    @patch.object(YTMusicPlaylists, '_save_tsv')
+    @patch.object(YTMusicPlaylists, 'parse_playlist')
+    def test_save_playlist_tsv_not_owned(self, mock_parse, mock_save_tsv):
+        """YT-generated mixes (owned=False, id=None) must not hit the API."""
+        df = pd.DataFrame({
+            'title': ['Song A', 'Song B'],
+            'artist': ['Artist A', 'Artist B'],
+            'album': ['Album A', 'Album B'],
+            'likeStatus': ['LIKE', 'DISLIKE'],
+            'videoId': ['vid_1', 'vid_2'],
+            'albumId': ['al_1', 'al_2'],
+            'artistId': ['ar_1', 'ar_2'],
+        })
+        metadata = {'id': None, 'owned': False, 'title': 'Chill Supermix'}
+        mock_parse.return_value = (df, metadata)
+
+        tracks, _ = self.yt_pl.save_playlist_tsv(
+            {'title': 'Chill Supermix', 'playlistId': 'RDTMAK'},
+            remove_disliked=True)
+
+        self.yt_pl.yt.remove_playlist_items.assert_not_called()
+        # Track stays on YT, so it stays in the TSV too.
+        self.assertEqual(len(tracks), 2)
+        mock_save_tsv.assert_called_once()
+
     @patch('os.path.exists')
     @patch.object(YTMusicPlaylists, 'playlist_get_info')
     @patch.object(YTMusicPlaylists, 'save_playlist_tsv')
