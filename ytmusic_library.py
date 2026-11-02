@@ -125,6 +125,8 @@ LIKE_PLAYLISTS_TSV_FILE = '_like_playlists.tsv'
 VALID_TRACK_RATINGS = ('LIKE', 'DISLIKE', 'INDIFFERENT', 'NONE')
 VALID_PLAYLIST_KINDS = ('LIKE', 'NOT_LIKE', 'INDIFFERENT',
                         'ALBUM', 'SKIP', 'YT_GENERATED')
+TRACK_LIKE_SCORE_MAP = {'LIKE': 9, 'INDIFFERENT': 5, 'DISLIKE': 1}
+DEFAULT_ALBUM_SEARCH_LIMIT = 50
 
 
 # Format the date as "month-day-year"
@@ -484,6 +486,107 @@ class YTMusicPlaylists:
                 if hasattr(self, '_info_cache'):
                     self._info_cache[playlistId] = info
         return info
+
+    @retry(retries=3, delay=1)
+    def album_get_info(self, album_id, use_cache=True):
+        """Fetches album metadata and tracklist by albumId, caching in _info_cache."""
+        cache_key = f'album:{album_id}'
+        if use_cache and hasattr(self, '_info_cache') and cache_key in self._info_cache:
+            return self._info_cache[cache_key]
+        album = self.yt.get_album(str(album_id))
+        if hasattr(self, '_info_cache'):
+            self._info_cache[cache_key] = album
+        return album
+
+    @retry(retries=3, delay=1)
+    def search_album(self, query, year=None, limit=DEFAULT_ALBUM_SEARCH_LIMIT,
+                     allow_singles=False, use_cache=True):
+        """Searches YouTube Music for an album and returns its full metadata dict."""
+        cache_key = f'album_search:{query}:{year}:{allow_singles}'
+        if use_cache and hasattr(self, '_info_cache') and cache_key in self._info_cache:
+            return self._info_cache[cache_key]
+        results = self.yt.search(query, filter='albums', limit=limit)
+        if not allow_singles:
+            results = [r for r in results if r.get('type') != 'Single']
+        if year is not None:
+            year_matches = [
+                r for r in results
+                if str(r.get('year', '')).isdigit() and int(r['year']) == int(year)
+            ]
+            if year_matches:
+                results = year_matches
+        if not results:
+            return None
+        album = self.album_get_info(results[0]['browseId'], use_cache=use_cache)
+        if hasattr(self, '_info_cache'):
+            self._info_cache[cache_key] = album
+        return album
+
+    def get_albums_tracks_and_meta(self, entries, year=None, skip_names=(),
+                                   verbose=True):
+        """Fetches parsed track DataFrames and album like/view metrics for releases."""
+        release_names = (
+            list(entries.index)
+            if isinstance(entries, (pd.DataFrame, pd.Series))
+            else list(entries)
+        )
+        skip_set = set(skip_names)
+        raw_tracks = []
+        album_meta = {}
+        t0 = time.time()
+
+        for idx, name in enumerate(release_names, 1):
+            release_name = str(name)
+            if release_name in skip_set:
+                continue
+            query = release_name.replace(' - ', ' ')
+            album = self.search_album(query, year=year)
+            if not album or not album.get('tracks'):
+                continue
+
+            my_like_score = 0.0
+            yt_total_views = 0
+            for track in album['tracks']:
+                vid = track.get('videoId')
+                if not vid:
+                    continue
+                song_key = f'song:{vid}'
+                if hasattr(self, '_info_cache') and song_key in self._info_cache:
+                    song_info = self._info_cache[song_key]
+                else:
+                    song_info = self.yt.get_song(vid)
+                    if hasattr(self, '_info_cache'):
+                        self._info_cache[song_key] = song_info
+
+                details = song_info.get('videoDetails', {}) if song_info else {}
+                status = str(track.get('likeStatus', 'INDIFFERENT'))
+                my_like_score += TRACK_LIKE_SCORE_MAP.get(
+                    status, TRACK_LIKE_SCORE_MAP['INDIFFERENT']
+                )
+                views = int(details.get('viewCount', 0) or 0)
+                track['viewCount'] = views
+                yt_total_views += views
+                raw_tracks.append(track)
+
+            my_like_score /= float(len(album['tracks']))
+            album_meta[release_name] = {
+                'year': album.get('year'),
+                'trackCount': album.get('trackCount'),
+                'my_like_score': round(my_like_score, 2),
+                'yt_total_views': yt_total_views,
+            }
+            if verbose:
+                eta = self._get_eta(t0, idx, len(release_names))
+                eta_str = f' (~{eta})' if eta else ''
+                print(
+                    f'[{idx}/{len(release_names)}]{eta_str} '
+                    f'{release_name}: {album_meta[release_name]}'
+                )
+
+        tracks_df = (
+            self.parse_tracks(raw_tracks) if raw_tracks else pd.DataFrame()
+        )
+        return tracks_df, pd.DataFrame(album_meta).T
 
     def playlist_from_yt_vids(self, vids, pl_name=None, sleep=3, public='PRIVATE', desc='',
                               dry=False, set_rating=None, remove_dupes=False, verbose=False,
@@ -1790,7 +1893,7 @@ class YTMusicPlaylists:
         # Safely check if albumId exists and is valid before fetching
         if pd.notna(album_id) and str(album_id).strip() not in ['', 'nan', 'None']:
             try:
-                album = self.yt.get_album(str(album_id))
+                album = self.album_get_info(str(album_id))
             except Exception as e:
                 print(f'ERROR running: get_album(albumID)\n',
                       f'{e} for row: {track_str}')
@@ -1965,6 +2068,7 @@ class YTMusicPlaylists:
         avg_time = elapsed / current
         remaining = total - current
         return f"{((remaining * avg_time) / 60):.1f}m"
+
 
 if __name__ == "__main__":
     import argparse

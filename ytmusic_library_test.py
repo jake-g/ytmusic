@@ -661,6 +661,77 @@ class TestYTMusicUtils(unittest.TestCase):
         self.assertTrue(os.path.exists(self.yt_pl.radio_cleanup_file))
         self.assertTrue(os.path.exists(self.yt_pl.cleanup_counters_file))
 
+    def test_album_get_info_and_search_album_caching(self):
+        """Test album_get_info and search_album filter singles/years and cache in _info_cache."""
+        self.yt_pl.yt.search.return_value = [
+            {'browseId': 'b_single', 'type': 'Single', 'year': '2026'},
+            {'browseId': 'b_2025', 'type': 'Album', 'year': '2025'},
+            {'browseId': 'b_2026', 'type': 'Album', 'year': '2026'},
+        ]
+        self.yt_pl.yt.get_album.return_value = {
+            'title': 'Matched 2026',
+            'year': '2026',
+            'trackCount': 2,
+        }
+
+        alb1 = self.yt_pl.search_album('Artist Album', year=2026)
+        alb2 = self.yt_pl.search_album('Artist Album', year=2026)
+        self.assertEqual(alb1['title'], 'Matched 2026')
+        self.assertIs(alb1, alb2)
+        self.yt_pl.yt.search.assert_called_once()
+        self.yt_pl.yt.get_album.assert_called_once_with('b_2026')
+
+    def test_get_albums_tracks_and_meta(self):
+        """Test get_albums_tracks_and_meta reuses search_album, _info_cache, and parse_tracks."""
+        self.yt_pl.yt.search.return_value = [
+            {'browseId': 'b_gorillaz', 'type': 'Album', 'year': '2026'}
+        ]
+        self.yt_pl.yt.get_album.return_value = {
+            'year': '2026',
+            'trackCount': 2,
+            'tracks': [
+                {
+                    'videoId': 'v1',
+                    'title': 'Song 1',
+                    'likeStatus': 'LIKE',
+                    'artists': [{'name': 'Gorillaz', 'id': 'ar1'}],
+                    'album': {'name': 'The Mountain', 'id': 'al1'},
+                },
+                {
+                    'videoId': 'v2',
+                    'title': 'Song 2',
+                    'likeStatus': 'DISLIKE',
+                    'artists': [{'name': 'Gorillaz', 'id': 'ar1'}],
+                    'album': {'name': 'The Mountain', 'id': 'al1'},
+                },
+            ],
+        }
+        self.yt_pl.yt.get_song.side_effect = [
+            {'videoDetails': {'viewCount': '1000'}},
+            {'videoDetails': {'viewCount': '500'}},
+        ]
+
+        entries = pd.DataFrame(
+            index=['Gorillaz - The Mountain', 'Skip Artist - Skip Album']
+        )
+        tracks_df, meta_df = self.yt_pl.get_albums_tracks_and_meta(
+            entries,
+            year=2026,
+            skip_names=('Skip Artist - Skip Album',),
+            verbose=False,
+        )
+        self.assertEqual(len(tracks_df), 2)
+        self.assertEqual(tracks_df.iloc[0]['artist'], 'Gorillaz')
+        self.assertAlmostEqual(
+            float(meta_df.loc['Gorillaz - The Mountain', 'my_like_score']),
+            5.0,
+        )
+        self.assertEqual(
+            int(meta_df.loc['Gorillaz - The Mountain', 'yt_total_views']),
+            1500,
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
+
