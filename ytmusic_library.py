@@ -245,6 +245,35 @@ class YTMusicPlaylists:
         if hasattr(self, '_info_cache') and playlist_id in self._info_cache:
             del self._info_cache[playlist_id]
 
+    def _configure_ytmusic_session(self, yt, max_retries=5):
+        """Wraps yt._session.post to retry transient HTTP 403/429/5xx responses."""
+        if not hasattr(yt, '_session') or not hasattr(yt._session, 'post'):
+            return yt
+        orig_post = yt._session.post
+        retry_statuses = {403, 429, 500, 502, 503, 504}
+
+        def post_with_retry(url, **kwargs):
+            response = None
+            for attempt in range(max_retries):
+                response = orig_post(url, **kwargs)
+                is_json = response.text.lstrip().startswith('{')
+                if response.status_code not in retry_statuses and is_json:
+                    return response
+                if response.status_code < 400 and is_json:
+                    return response
+                if attempt < max_retries - 1:
+                    time.sleep(1.0 * (attempt + 1))
+            if response is not None and not response.text.lstrip().startswith('{'):
+                snippet = response.text.strip().replace('\n', ' ')[:200]
+                raise RuntimeError(
+                    f'YTMusic returned non-JSON response '
+                    f'(HTTP {response.status_code} {response.reason}): {snippet}'
+                )
+            return response
+
+        yt._session.post = post_with_retry
+        return yt
+
     def init_ytmusic_api(self, header, client):
         # Browser oauth: http://ytmusicapi.readthedocs.io/en/stable/setup/browser.html
         # Old tv client oauth: https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html
@@ -254,7 +283,7 @@ class YTMusicPlaylists:
         if filename == 'browser.json':
             print(f'Using header file: {header}')
             print(' Browser Authentication (cookies). Skipping OAuth client init.')
-            return YTMusic(header)
+            return self._configure_ytmusic_session(YTMusic(header))
 
         elif filename == 'oauth.json':
             print(f'Using header file: {header}')
@@ -263,7 +292,7 @@ class YTMusicPlaylists:
             oauth_creds = self._get_client_credentials_from_json(client)
             yt = YTMusic(header, oauth_credentials=oauth_creds)
             # yt.params = ''
-            return yt
+            return self._configure_ytmusic_session(yt)
 
         else:
             raise ValueError(

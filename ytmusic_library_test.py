@@ -731,7 +731,41 @@ class TestYTMusicUtils(unittest.TestCase):
             1500,
         )
 
+    @patch('time.sleep')
+    def test_configure_ytmusic_session_retries_html_403(self, mock_sleep):
+        """Test _configure_ytmusic_session retries transient 403 HTML and raises on exhaustion."""
+        mock_yt = MagicMock()
+        resp_403 = MagicMock(status_code=403, reason='Forbidden', text='<html>Sorry...</html>')
+        resp_200 = MagicMock(status_code=200, reason='OK', text='{"contents": {}}')
+        mock_yt._session.post.side_effect = [resp_403, resp_200]
+
+        self.yt_pl._configure_ytmusic_session(mock_yt, max_retries=3)
+        res = mock_yt._session.post('https://music.youtube.com/youtubei/v1/browse')
+        self.assertEqual(res.status_code, 200)
+        mock_sleep.assert_called_once_with(1.0)
+
+        mock_yt2 = MagicMock()
+        mock_yt2._session.post.return_value = resp_403
+        self.yt_pl._configure_ytmusic_session(mock_yt2, max_retries=2)
+        with self.assertRaises(RuntimeError):
+            mock_yt2._session.post('https://music.youtube.com/youtubei/v1/browse')
+
+    def test_browser_auth_update_parse_curl_input(self):
+        """Test parse_curl_input extracts cookies, auth, and optional headers."""
+        from browser_auth_update import parse_curl_input
+
+        lines = [
+            "curl 'https://music.youtube.com/youtubei/v1/browse?prettyPrint=false' \\",
+            "  -H 'authorization: SAPISIDHASH 123_abc' \\",
+            "  -H 'x-goog-visitor-id: visitor123' \\",
+            "  -b 'VISITOR_INFO1_LIVE=xyz; __Secure-3PAPISID=sapisid_val; SID=sid_val' \\",
+            "  --data-raw '{\"browseId\":\"FEmusic_library_landing\"}'",
+        ]
+        res = parse_curl_input(lines)
+        self.assertEqual(res['Authorization'], 'SAPISIDHASH 123_abc')
+        self.assertEqual(res['x-goog-visitor-id'], 'visitor123')
+        self.assertIn('__Secure-3PAPISID=sapisid_val', res['Cookie'])
+
 
 if __name__ == "__main__":
     unittest.main()
-
