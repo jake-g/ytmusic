@@ -1,5 +1,6 @@
 title	artist	album	likeStatus	videoId	albumId	artistId	playlists
 867-5309 / Jenny	Tommy Tutone	Tommy Tutone - 2	LIKE	tHL2XeuA6Yg	MPREb_dkxdRLHhgoK	UCGYRrl9tcG0k711X-tRVAGw	Rock 1980s New Wave radio
+Talking In Your Sleep (2023 Remaster)	The Romantics	In Heat (2023 Remaster)	LIKE	B4yVmBdXwfw	MPREb_6kJXKrGknim	UCttBg8HRtzHy4EIJLFSdG1A	Rock 1980s New Wave radio
 Maneater	Daryl Hall	H2O	LIKE	wAeDVL-SBbU	MPREb_NMv48u7dvqc	UC8zbYR5i0gecEZ3iPgm-i9g	Rock 1980s New Wave radio
 awake	岩崎琢	ジョジョの奇妙な冒険 O.S.T Battle Tendency [leicht verwendbar]	INDIFFERENT	-W8MBjTk2E8	MPREb_YzvUJYk2obD	UCJa9Q9fkv62ufebEIbUD--Q	Rock 1980s New Wave radio
 Aeiou Sometimes Y	Ēbn-Ōzn	Feeling Cavalier	INDIFFERENT	MaZJSWb58VU	MPREb_s66CPje7peW	UCdS8qH-cJYCf9AcWKFo3Wig	Rock 1980s New Wave radio
@@ -157,7 +158,6 @@ On My Radio	The Selecter	On My Radio	INDIFFERENT	aSaVj6vZ0MA	MPREb_Df6Oz9C48qj	U
 Matchbox Car	The Scabs	The Singles	INDIFFERENT	FmCpKNWPde0	MPREb_sYBvCOZFwN7	UC85IGItz43ab9ftp_wbMogw	Rock 1980s New Wave radio
 If I Had You Back	The Rubinoos	Party Of Two - Deluxe Edition (Original Album, plus bonus tracks)	INDIFFERENT	WA7yEOcsqE4	MPREb_oEkDlJLDzg0	UCVA4oxMxdh0FsWYzVEVGDSg	Rock 1980s New Wave radio
 Talking in Your Sleep	The Romantics	What I Like About You                   (And Other Romantic Hits)	INDIFFERENT	YpZgagU50KE	MPREb_e576B7JiUUU	UCttBg8HRtzHy4EIJLFSdG1A	Rock 1980s New Wave radio
-Talking In Your Sleep (2023 Remaster)	The Romantics	In Heat (2023 Remaster)	INDIFFERENT	B4yVmBdXwfw	MPREb_6kJXKrGknim	UCttBg8HRtzHy4EIJLFSdG1A	Rock 1980s New Wave radio
 When It Began	The Replacements	All Shook Down	INDIFFERENT	FvssnYLd0jI	MPREb_d9ePBulpQtU	UCXwcsxJcdxfvsFiVtrOgy4Q	Rock 1980s New Wave radio
 Terror in My Heart	The Reds	Cry Tomorrow	INDIFFERENT	7Gw6gX846wQ	MPREb_EHSjS4Fsx4V	UC6iL0GzwKvt6OUT6pZBLZvQ	Rock 1980s New Wave radio
 Brighter	The Railway Children	Reunion Wilderness	INDIFFERENT	q1DDEFKu7lU	MPREb_iQXL8c9Uf0a	UCkaC4dd9jGp-x7c3IcNfjLA	Rock 1980s New Wave radio
@@ -640,7 +640,7 @@ Mama Mama	Kliché	De Samlede Klichéer	INDIFFERENT	kYdqZQZwwnI	MPREb_yik3Q5jIOaC
 Ansigt til ansigt (2011 Digital Remaster)	Kliché	De Samlede Klichéer	INDIFFERENT	3tuM0AwDOL8	MPREb_yik3Q5jIOaC	UCaAN05UqD3dzbU8tFnkRjtw	Rock 1980s New Wave radio
 Valentine's Day	Klaus Nomi	Za Bakdaz: The Unfinished Opera	INDIFFERENT	bo0nn6MUqMw	MPREb_huGg5pMHgLI	UCgK8Ptueh_K9KK1ZxS_Rxfg	Rock 1980s New Wave radio
 Total Eclipse	Klaus Nomi	Klaus Nomi	INDIFFERENT	GBgTl3WuCkA	MPREb_VNaJAs3R5iC	UCgK8Ptueh_K9KK1ZxS_Rxfg	Rock 1980s New Wave radio
-Away From Home	Klark Kent	Klark Kent (Deluxe)	INDIFFERENT	90q17McIzg4	MPREb_8Qd2l6ISmea	UCI13XuPUPzHIsG_ZB0iJLrw	Rock 1980s New Wave radio
+Away From Home	Klark Kent	Klark Kent (Deluxe)	INDIFFERENT	90q17McIzg4	MPREb_8Qd2l6ISmea	UCO3dZYJmRGG_VR-nunfVlwA	Rock 1980s New Wave radio
 Big Man Restless	Kissing The Pink	Naked	INDIFFERENT	4bwFrouadjY	MPREb_lZowQfRwjdu	UCarz57Gv-7ao4wgqIeMDkDw	Rock 1980s New Wave radio
 Sleepless	King Crimson	Three of a Perfect Pair (Expanded Edition)	INDIFFERENT	K334DvZCIPs	MPREb_BXBkV9xO8Tu	UCXRfLRK3qq6aMo33p-UK7xw	Rock 1980s New Wave radio
 Love & Pride	King	Steps In Time	INDIFFERENT	UjyLp4X9dPU	MPREb_CXWvsrnIeWA	UCBgknEnKZtMO1pkmMAmyd9Q	Rock 1980s New Wave radio
@@ -725,7 +725,7 @@ Things Can Only Get Better	Howard Jones	Dream Into Action (2010 Remastered Editi
 No One Is To Blame	Howard Jones	Dream Into Action (2010 Remastered Edition)	INDIFFERENT	Kd2G-p5wdl0	MPREb_LponmnuYJxS	UCgj954kyDI39_WQofPzy2UA	Rock 1980s New Wave radio
 Dream Into Action	Howard Jones	Dream Into Action	INDIFFERENT	KLSJlXS5weo	MPREb_XZrZvL1tf9w	UCgj954kyDI39_WQofPzy2UA	Rock 1980s New Wave radio
 Tell That Girl To Shut Up	Holly & The Italians	Tell That Girl To Shut Up	INDIFFERENT	mhV39CSf3CA	MPREb_MEuHx952X5W	UCBuZWp70nx7040PTgNf-Gaw	Rock 1980s New Wave radio
-Long Cool Woman in a Black Dress	Hollies	Listen to Me - Hollies - Best	INDIFFERENT	FhM948Dc7_0	MPREb_U4j5kZHz1Sz		Rock 1980s New Wave radio
+Long Cool Woman in a Black Dress	Hollies	Listen to Me - Hollies - Best	INDIFFERENT	FhM948Dc7_0	MPREb_U4j5kZHz1Sz	UCO87x1YfAsx0OASJIhuzzLQ	Rock 1980s New Wave radio
 Calling All Girls	Hilly Michaels	Pop This!	INDIFFERENT	PwJ_0UkHMZk	MPREb_GChDR8AKeDA	UC2yU_vAv4NWLJqruqa5kyfw	Rock 1980s New Wave radio
 We Live So Fast (Remastered 2006)	Heaven 17	The Luxury Gap	INDIFFERENT	iaPFBADjTw4	MPREb_ouk2W4y87RG	UCg9vhiHvzyBJktIVfqnrouA	Rock 1980s New Wave radio
 Let Me Go	Heaven 17	Best Of Heaven 17	INDIFFERENT	Zjt7poJXd4I	MPREb_gVebQsWtSFe	UCg9vhiHvzyBJktIVfqnrouA	Rock 1980s New Wave radio
