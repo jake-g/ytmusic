@@ -812,5 +812,74 @@ class PlaylistMergeTests(unittest.TestCase):
         self.yt_pl.save_playlist_tsv.assert_called_once()
 
 
+class BugfixRegressionTests(unittest.TestCase):
+  """Regression tests for private tracks, NaN title backfill, and local TSVs."""
+
+  def setUp(self):
+    self._tmp = tempfile.TemporaryDirectory()
+    self.addCleanup(self._tmp.cleanup)
+    with patch.object(YTMusicPlaylists, '__init__', return_value=None):
+      self.yt_pl = YTMusicPlaylists()
+    self.yt_pl.yt = MagicMock()
+    self.yt_pl._info_cache = {}
+    self.yt_pl.playlist_tsv_dir = self._tmp.name
+    self.yt_pl.duplicate_tracks_tsv = os.path.join(self._tmp.name, '_dup.tsv')
+    self.yt_pl.playlists = pd.DataFrame([
+        {'title': 'Liked Music', 'playlistId': 'LM', 'count': float('nan'),
+         'author': float('nan')},
+        {'title': 'my mix', 'playlistId': 'p1', 'count': 1, 'author': 'Jake G'},
+    ])
+
+  def test_private_track_and_invalid_album_do_not_retry(self):
+    """Verifies private uploads skip API calls and MPRE errors do not retry."""
+    row = pd.Series(
+        {
+            'title': 'Track 11',
+            'artist': 'Jay Dee',
+            'artistId': float('nan'),
+            'albumId': 'FEmusic_library_privately_owned_release_detail123',
+        },
+        name='v_priv',
+    )
+    out = self.yt_pl._track_db_get_track_info(row)
+    self.assertEqual(out['title'], 'Track 11')
+    self.yt_pl.yt.get_song.assert_not_called()
+    self.yt_pl.yt.get_album.assert_not_called()
+
+    self.yt_pl.yt.get_album.side_effect = Exception(
+        'Invalid browseId provided. This must start with MPRE.'
+    )
+    with self.assertRaises(Exception):
+      self.yt_pl.album_get_info('OLAK5uy_bad')
+    self.assertEqual(self.yt_pl.yt.get_album.call_count, 1)
+
+  def test_track_db_requeues_missing_titles(self):
+    """Verifies missing titles in track_db are re-queued from tracks_no_meta."""
+    track_db = pd.DataFrame(
+        {'title': [float('nan'), 'Valid'], 'likeStatus': ['LIKE', 'LIKE']},
+        index=pd.Index(['v1', 'v2'], name='videoId'),
+    )
+    no_meta = pd.DataFrame(
+        {'title': ['Choke Enough', 'Valid'], 'likeStatus': ['LIKE', 'LIKE']},
+        index=pd.Index(['v1', 'v2'], name='videoId'),
+    )
+    queued = self.yt_pl._track_db_new_or_newly_liked_tracks(track_db, no_meta)
+    self.assertEqual(list(queued.index), ['v1'])
+    self.assertEqual(queued.loc['v1', 'title'], 'Choke Enough')
+
+  def test_local_tsv_preserves_title_column(self):
+    """Verifies playlist_get_info(use_local_tsvs=True) keeps title column."""
+    tsv = os.path.join(self._tmp.name, 'my mix.tsv')
+    pd.DataFrame([{'title': 'TEXAS HOLD EM', 'videoId': 'v1'}]).to_csv(
+        tsv, sep='\t', index=False
+    )
+    info = self.yt_pl.playlist_get_info('p1', use_local_tsvs=True)
+    self.assertEqual(info['tracks'][0]['title'], 'TEXAS HOLD EM')
+    self.assertEqual(
+        self.yt_pl.infer_playlist_kind(self.yt_pl.playlists.iloc[0]),
+        'YT_GENERATED',
+    )
+
+
 if __name__ == '__main__':
     unittest.main()

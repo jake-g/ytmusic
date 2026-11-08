@@ -147,8 +147,12 @@ def retry(retries=3, delay=2, backoff=2, exceptions=(Exception,)):
                 try:
                     return func(*args, **kwargs)
                 except exceptions as e:
-                    # Do not retry non-transient schema errors (e.g. unbrowsable radios)
-                    if isinstance(e, KeyError) and "'contents'" in str(e):
+                    # Do not retry non-transient validation or schema errors
+                    is_no_contents = (
+                        isinstance(e, KeyError) and "'contents'" in str(e)
+                    )
+                    if (isinstance(e, ValueError) or is_no_contents
+                            or 'must start with MPRE' in str(e)):
                         raise
                     if attempt == retries - 1:
                         raise
@@ -429,7 +433,8 @@ class YTMusicPlaylists:
                 tsv_path = os.path.join(self.playlist_tsv_dir, tsv_filename)
                 if os.path.exists(tsv_path):
                     try:
-                        local_df = self._read_tsv(tsv_path)
+                        local_df = self._read_tsv(
+                            tsv_path, index_col=None, use_track_defaults=True)
                         track_count = len(local_df)
                     except Exception as e:
                         print(f'Warning: could not read local TSV '
@@ -482,7 +487,9 @@ class YTMusicPlaylists:
                     tsv_path = os.path.join(self.playlist_tsv_dir, tsv_filename)
                     if os.path.exists(tsv_path):
                         try:
-                            local_df = self._read_tsv(tsv_path)
+                            local_df = self._read_tsv(
+                                tsv_path, index_col=None,
+                                use_track_defaults=True)
                             info = {
                                 'id': playlistId,
                                 'playlistId': playlistId,
@@ -1124,28 +1131,26 @@ class YTMusicPlaylists:
                 print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (privacy is PUBLIC)')
                 continue
 
-            # Check playlist count early using library metadata
-            if 'count' in p and (pd.isna(p['count']) or p['count'] == 0):
-                pl_ct['playlist_is_empty'] += 1
-                print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (empty)')
-                continue
-
-            # Infer playlist kind from title, default to LIKE if nothing inferred
+            # Infer kind first so YT mixes (count=NaN) log YT_GENERATED
             pl_kind = self.infer_playlist_kind(p)
-
-            # Maybe skip playlist right away
-            # Skip when unable to infer kind (ideally this is not called)
             if not pl_kind:
                 pl_ct['playlist_kind_not_inferred'] += 1
                 print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (cannot infer kind)')
                 continue
             pl_ct[f'playlist_kind_is_{pl_kind.lower()}'] += 1
 
-            # Decide to skip playlist based on playlist kind
             playlists_kinds[pl_kind].add(p.title)
             if pl_kind in playlist_skip_kinds:
                 pl_ct['playlist_kind_in_playlist_skip_list'] += 1
                 print(f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} (kind: {pl_kind})')
+                continue
+
+            # Check playlist count early when count is explicitly 0
+            if 'count' in p and pd.notna(p['count']) and p['count'] == 0:
+                pl_ct['playlist_is_empty'] += 1
+                print(
+                    f'[{i+1}/{n_playlists}]{eta_str} SKIPPING: {p.title} '
+                    '(empty)')
                 continue
 
             # Query playlist tracks and other metadata
@@ -1155,7 +1160,8 @@ class YTMusicPlaylists:
                 tsv_path = os.path.join(self.playlist_tsv_dir, tsv_filename)
                 if os.path.exists(tsv_path):
                     try:
-                        local_df = self._read_tsv(tsv_path)
+                        local_df = self._read_tsv(
+                            tsv_path, index_col=None, use_track_defaults=True)
                         p_info = {
                             'id': p.playlistId,
                             'playlistId': p.playlistId,
@@ -1782,7 +1788,8 @@ class YTMusicPlaylists:
                 # Check if TSV exists and matches the count
                 if not PLAYLIST_BACKUP_FULL_RUN and os.path.exists(tsv_path) and api_track_count > 0:
                     try:
-                        local_df = self._read_tsv(tsv_path)
+                        local_df = self._read_tsv(
+                            tsv_path, index_col=None, use_track_defaults=True)
                         if len(local_df) == api_track_count:
                             print(f'Skipping API fetch: {pl_title} matches local TSV count ({api_track_count} tracks)')
                             metadata = {
@@ -1873,8 +1880,12 @@ class YTMusicPlaylists:
         dupe_cols = combined_df.columns.duplicated()
         combined_df = combined_df.loc[:, ~dupe_cols].copy()
         print(f"Deduplicating {len(combined_df)} tracks...")
+        sort_cols = ['likeStatus', 'artist'] + (
+            ['title'] if 'title' in combined_df.columns else []
+        )
         combined_df = combined_df.sort_values(
-            ['likeStatus', 'artist'], ascending=[False, True])
+            sort_cols, ascending=[False] + [True] * (len(sort_cols) - 1)
+        )
         unique_tracks = combined_df.drop_duplicates(
             subset=['videoId']).set_index('videoId')
         if 'playlists' in combined_df.columns:
@@ -1937,32 +1948,34 @@ class YTMusicPlaylists:
     def _track_db_get_track_info(self, row):
         copy_song_cols = ['keywords', 'averageRating', 'viewCount', 'release']
         copy_album_cols = ['type', 'trackCount', 'year']  # 'duration',
-        # Rows from a str-dtype frame can't hold the ints/lists copied in
-        # below (pandas 3 warns, 4 raises), so widen to object first.
-        row = row.astype(object)
+        video_id = row.name
+        row = row.to_dict()
         # Safe extraction if strings are missing
-        track_str = f"{row.get('artist', '')} - {row.get('album', '')} - {row.get('title', '')}"
+        alb = row.get('album')
+        alb_str = str(alb) if pd.notna(alb) and str(alb).strip() not in ('', 'nan', 'None') else 'Single/Unknown Album'
+        track_str = f"{row.get('artist', '')} - {alb_str} - {row.get('title', '')}"
         track_str = unicodedata.normalize(
             'NFKD', track_str).encode('ascii', 'ignore').decode('ascii')
-        # Safely handle missing artistId (NaN from TSV)
         raw_id = row.get('artistId')
-        # Force it to be a string, or an empty string if it's missing/NaN
         artist_id = str(raw_id) if pd.notna(raw_id) else ""
+        raw_alb_id = row.get('albumId')
+        album_id = str(raw_alb_id).strip() if pd.notna(raw_alb_id) else ''
+        if any('privately_owned' in str(row.get(k) or '').lower()
+               for k in ('artistId', 'albumId', 'videoType')):
+            print(f'Skipping privately owned track: {track_str}')
+            return pd.Series(row, name=video_id, dtype=object)
         if not artist_id:
             track_title = row.get('title', 'Unknown Title')
-            # Normalize and encode to ASCII to strip accents for the terminal log
             safe_title = unicodedata.normalize('NFKD', str(track_title)).encode(
                 'ascii', 'ignore').decode('ascii')
             print(f'WARNING: Missing artistId (NaN) for track:',
                   f'"{safe_title}". Processing anyway...')
-        elif 'privately_owned' in artist_id:
-            print(f'\nSkipping privately owned track...')
         try:
-            song = self.yt.get_song(row.name)  # row.name is videoId
+            song = self.yt.get_song(video_id)
         except Exception as e:
             print(
-                f"WARNING: Failed to fetch song info for videoId {row.name} ({track_str}): {e}")
-            return row
+                f"WARNING: Failed to fetch song info for videoId {video_id} ({track_str}): {e}")
+            return pd.Series(row, name=video_id, dtype=object)
 
         for col in copy_song_cols:
             if col not in song:
@@ -1972,15 +1985,14 @@ class YTMusicPlaylists:
                       f'not a valid date: {track_str}')
                 continue
             row[col] = song[col]
-        album_id = row.get('albumId')
-        # Safely check if albumId exists and is valid before fetching
-        if pd.notna(album_id) and str(album_id).strip() not in ['', 'nan', 'None']:
+        # Safely check if albumId exists and is a valid MPRE browseId before fetching
+        if album_id.startswith('MPRE'):
             try:
-                album = self.album_get_info(str(album_id))
+                album = self.album_get_info(album_id)
             except Exception as e:
                 print(f'ERROR running: get_album(albumID)\n',
                       f'{e} for row: {track_str}')
-                return row
+                return pd.Series(row, name=video_id, dtype=object)
             # Get values or default to empty list if they are None
             album_artists = album.get('artists') or []
             album_tracks = album.get('tracks') or []
@@ -2000,16 +2012,19 @@ class YTMusicPlaylists:
                 else:
                     print(f'\nERROR column {col} not in',
                           f'albums: {track_str}')
-        else:
+        elif album_id:
             print("Warning: No valid albumId found for track:",
                   f"{track_str}. Skipping album metadata.")
-        return row
+        return pd.Series(row, name=video_id, dtype=object)
 
     def _track_db_new_or_newly_liked_tracks(self, track_db, tracks_no_meta):
         ignored = set()
         if os.path.exists(self.duplicate_tracks_tsv):
             ignored = set(self._read_tsv(self.duplicate_tracks_tsv, index_col=None)['videoId'])
         new_track_ids = set(tracks_no_meta.index) - set(track_db.index) - ignored
+        if 'title' in track_db.columns:
+            missing_ids = set(track_db.index[track_db['title'].isna()])
+            new_track_ids |= (missing_ids & set(tracks_no_meta.index)) - ignored
         # Find existing tracks whose status changed to LIKE, and queue them for re-scraping
         existing = tracks_no_meta[~tracks_no_meta.index.isin(new_track_ids)]
         tracks_no_meta_liked = existing[existing['likeStatus'] == 'LIKE']
@@ -2031,9 +2046,12 @@ class YTMusicPlaylists:
         t0 = time.time()
         for _, row in new_tracks.iterrows():
             i += 1
-            tracks_w_info.append(self._track_db_get_track_info(row))
+            row = self._track_db_get_track_info(row)
+            tracks_w_info.append(row)
+            alb = row.get('album')
+            alb_str = str(alb) if pd.notna(alb) and str(alb).strip() not in ('', 'nan', 'None') else 'Single'
             track_str = self._decode(
-                f"{row['artist']} - {row['album']} - {row['title']}")
+                f"{row.get('artist', '')} - {alb_str} - {row.get('title', '')}")
             if 'likeStatus' in row:
                 track_str += self._decode(f" -> {row['likeStatus']}")
             if 'albumYear' in row:
