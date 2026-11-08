@@ -794,6 +794,18 @@ class PlaylistMergeTests(unittest.TestCase):
         self.yt_pl.yt.create_playlist.assert_not_called()
 
     @patch('ytmusic_library.time.sleep')
+    def test_create_chunks_large_playlist(self, _sleep):
+        self.yt_pl.yt.create_playlist.return_value = 'pl_new'
+        self.yt_pl.playlist_get_info = MagicMock(return_value={'tracks': []})
+        vids = [f'v{i}' for i in range(120)]
+        pl_id = self.yt_pl.playlist_from_yt_vids(vids, 'big pl', sleep=0)
+        self.assertEqual(pl_id, 'pl_new')
+        self.assertEqual(
+            len(self.yt_pl.yt.create_playlist.call_args.kwargs['video_ids']),
+            50)
+        self.assertEqual(self.yt_pl.yt.add_playlist_items.call_count, 2)
+
+    @patch('ytmusic_library.time.sleep')
     def test_albums_to_playlist(self, _sleep):
         self.yt_pl.search_album = MagicMock(side_effect=[
             {'browseId': 'a', 'tracks': [{'videoId': 'v1'}, {'videoId': 'v2'}]},

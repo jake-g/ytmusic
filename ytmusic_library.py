@@ -639,28 +639,34 @@ class YTMusicPlaylists:
             print('DRY:', end=' ')
         pl_id = None
         vids = list(dict.fromkeys(v for v in vids if v))  # keep order, dedupe
-        if pl_name in self.playlists['title'].unique():
+        is_update = pl_name in self.playlists['title'].unique()
+        if is_update:
             # Merge into existing: only append videoIds not already present.
             pl_id = self.query_by_title(pl_name).playlistId
             present = set(self.playlist_video_ids(pl_id))
-            new_vids = [v for v in vids if v not in present]
-            if not dry:
-                for i in range(0, len(new_vids), PLAYLIST_ADD_CHUNK):
-                    self.yt.add_playlist_items(
-                        playlistId=pl_id,
-                        videoIds=new_vids[i:i + PLAYLIST_ADD_CHUNK],
-                        duplicates=False)
-                self._invalidate_playlist_cache(pl_id)
-            print(f'Updated {pl_name}: {len(present)} present, '
-                  f'{len(new_vids)} added, playlist id: {pl_id}'
-                  f'...waiting {sleep} seconds...')
-        else:  # Create new
+            to_add = [v for v in vids if v not in present]
+        else:  # Create new (seed first chunk in create_playlist, append rest)
             if not dry:
                 pl_id = self.yt.create_playlist(
                     title=pl_name, description=desc,
-                    privacy_status=public, video_ids=vids
+                    privacy_status=public,
+                    video_ids=vids[:PLAYLIST_ADD_CHUNK],
                 )
                 self.playlist_titles = self.playlist_titles | {pl_name}
+            to_add = vids[PLAYLIST_ADD_CHUNK:]
+        if not dry:
+            for i in range(0, len(to_add), PLAYLIST_ADD_CHUNK):
+                self.yt.add_playlist_items(
+                    playlistId=pl_id,
+                    videoIds=to_add[i:i + PLAYLIST_ADD_CHUNK],
+                    duplicates=False)
+            if is_update:
+                self._invalidate_playlist_cache(pl_id)
+        if is_update:
+            print(f'Updated {pl_name}: {len(present)} present, '
+                  f'{len(to_add)} added, playlist id: {pl_id}'
+                  f'...waiting {sleep} seconds...')
+        else:
             print(f'Saved {pl_name} playlist with {len(vids)} tracks and playlist id:',
                   f'{pl_id}, waiting {sleep} seconds...')
         time.sleep(sleep)
