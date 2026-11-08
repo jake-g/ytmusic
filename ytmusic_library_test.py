@@ -767,5 +767,50 @@ class TestYTMusicUtils(unittest.TestCase):
         self.assertIn('__Secure-3PAPISID=sapisid_val', res['Cookie'])
 
 
-if __name__ == "__main__":
+
+class PlaylistMergeTests(unittest.TestCase):
+    """playlist_from_yt_vids merges; albums_to_playlist resolves + merges."""
+
+    def setUp(self):
+        with patch.object(YTMusicPlaylists, '__init__', return_value=None):
+            self.yt_pl = YTMusicPlaylists()
+        self.yt_pl.yt = MagicMock()
+        self.yt_pl.playlists = pd.DataFrame(
+            [{'title': 'y 2024 top 50 albums', 'playlistId': 'pl_old'}])
+        self.yt_pl.playlist_titles = set(self.yt_pl.playlists['title'])
+        self.yt_pl._info_cache = {}
+        self.yt_pl.playlist_tsv_dir = tempfile.mkdtemp()
+
+    @patch('ytmusic_library.time.sleep')
+    def test_update_only_adds_missing_vids(self, _sleep):
+        self.yt_pl.yt.get_playlist.return_value = {
+            'id': 'pl_old', 'title': 'y 2024 top 50 albums',
+            'tracks': [{'videoId': 'v1'}, {'videoId': 'vX'}]}
+        pl_id = self.yt_pl.playlist_from_yt_vids(
+            ['v1', 'v2', 'v2'], 'y 2024 top 50 albums', sleep=0)
+        self.assertEqual(pl_id, 'pl_old')
+        self.yt_pl.yt.add_playlist_items.assert_called_once_with(
+            playlistId='pl_old', videoIds=['v2'], duplicates=False)
+        self.yt_pl.yt.create_playlist.assert_not_called()
+
+    @patch('ytmusic_library.time.sleep')
+    def test_albums_to_playlist(self, _sleep):
+        self.yt_pl.search_album = MagicMock(side_effect=[
+            {'browseId': 'a', 'tracks': [{'videoId': 'v1'}, {'videoId': 'v2'}]},
+            None, None,  # second album not found (year + fallback)
+        ])
+        self.yt_pl.playlist_from_yt_vids = MagicMock(return_value='pl_old')
+        self.yt_pl.save_playlist_tsv = MagicMock()
+        self.yt_pl.playlist_get_info = MagicMock(return_value={'id': 'pl_old'})
+        pl_id, found, missing = self.yt_pl.albums_to_playlist(
+            [('A', 'One'), ('a', 'one'), ('B', 'Two')],
+            'y 2024 top 50 albums', year=2024)
+        self.assertEqual((pl_id, found, missing), ('pl_old', 1, ['B - Two']))
+        self.yt_pl.playlist_from_yt_vids.assert_called_once()
+        self.assertEqual(
+            self.yt_pl.playlist_from_yt_vids.call_args[0][0], ['v1', 'v2'])
+        self.yt_pl.save_playlist_tsv.assert_called_once()
+
+
+if __name__ == '__main__':
     unittest.main()

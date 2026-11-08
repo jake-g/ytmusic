@@ -83,6 +83,10 @@ TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
 PLAYLIST_METADATA_TSV_COLS = [
     'title', 'trackCount', 'privacy', 'id']  # 'duration',
 LIKE_TRACKS_HEADER = ['title', 'album', 'artist']
+# add_playlist_items(duplicates=False) rejects the whole batch if any track
+# is already present, so updates filter present videoIds first and append in
+# chunks of this size.
+PLAYLIST_ADD_CHUNK = 50
 
 # LIKE subset
 LIKE_TOKS = ['thumbs up', ' like', '_like', ' likes', ' top']
@@ -627,15 +631,22 @@ class YTMusicPlaylists:
         if dry:
             print('DRY:', end=' ')
         pl_id = None
+        vids = list(dict.fromkeys(v for v in vids if v))  # keep order, dedupe
         if pl_name in self.playlists['title'].unique():
-            # Update existing
+            # Merge into existing: only append videoIds not already present.
             pl_id = self.query_by_title(pl_name).playlistId
+            present = set(self.playlist_video_ids(pl_id))
+            new_vids = [v for v in vids if v not in present]
             if not dry:
-                _ = self.yt.add_playlist_items(
-                    playlistId=pl_id, videoIds=vids, duplicates=False)
+                for i in range(0, len(new_vids), PLAYLIST_ADD_CHUNK):
+                    self.yt.add_playlist_items(
+                        playlistId=pl_id,
+                        videoIds=new_vids[i:i + PLAYLIST_ADD_CHUNK],
+                        duplicates=False)
                 self._invalidate_playlist_cache(pl_id)
-            print(f'Updated {pl_name} playlist with {len(vids)} tracks, playlist id:',
-                  f'{pl_id}...waiting {sleep} seconds...')
+            print(f'Updated {pl_name}: {len(present)} present, '
+                  f'{len(new_vids)} added, playlist id: {pl_id}'
+                  f'...waiting {sleep} seconds...')
         else:  # Create new
             if not dry:
                 pl_id = self.yt.create_playlist(
@@ -665,6 +676,49 @@ class YTMusicPlaylists:
                 self.sort_playlist(pl_id, sort_by=sort_by)
 
         return pl_id
+
+    def playlist_video_ids(self, playlist_id):
+        """Returns the videoIds currently in a playlist (fresh, not cached)."""
+        info = self.playlist_get_info(playlist_id, use_cache=False) or {}
+        return [str(t['videoId']) for t in info.get('tracks') or []
+                if isinstance(t, dict) and t.get('videoId')]
+
+    def albums_to_playlist(self, albums, pl_name, year=None, desc='',
+                           public='PRIVATE', dry=False, sleep=1):
+        """Resolves (artist, album) pairs and merges their tracks into a playlist.
+
+        Albums are searched in order (year-preferred, then unfiltered) and
+        de-duplicated; tracks are merged into any existing playlist of the
+        same name via playlist_from_yt_vids and the playlist TSV is rewritten
+        from the resulting playlist contents.
+
+        Returns:
+            (playlist_id or None, found_albums, missing_album_names)
+        """
+        vids, seen, missing, found = [], set(), [], 0
+        for artist, album in albums:
+            artist, album = str(artist).strip(), str(album).strip()
+            key = ''.join(ch for ch in f'{artist}|{album}'.casefold()
+                          if ch.isalnum() or ch == '|')
+            if not artist or not album or key in seen:
+                continue
+            seen.add(key)
+            res = self.search_album(f'{artist} {album}', year=year)
+            if not (res and res.get('tracks')):
+                res = self.search_album(f'{artist} {album}')
+            if not (res and res.get('tracks')):
+                missing.append(f'{artist} - {album}')
+                continue
+            found += 1
+            vids.extend(t.get('videoId') for t in res['tracks'])
+        if not vids:
+            return None, found, missing
+        pl_id = self.playlist_from_yt_vids(
+            vids, pl_name, sleep=sleep, public=public, desc=desc, dry=dry)
+        if pl_id and not dry:
+            self.save_playlist_tsv(
+                self.playlist_get_info(pl_id, use_cache=False))
+        return pl_id, found, missing
 
     def playlist_from_tsv(self, tsv_path, sort_by_index=True,
                           ignore_banned=False, pl_name=None, sleep=3,
