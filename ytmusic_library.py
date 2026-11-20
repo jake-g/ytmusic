@@ -76,7 +76,7 @@ PLAYLIST_TSV_DIR = os.path.join(
 # Track DB Files
 TRACK_DB_FILE = '_tracks_db.tsv'
 TRACKS_NO_META_FILE = '_tracks_no_meta.tsv'
-LASTFM_PLAYCOUNT_FILE = '_ytmusic_lastfm_playcount.tsv'
+LASTFM_PLAYCOUNT_FILE = '_ytmusic_listenbrainz_playcount.tsv'
 TRACK_TSV_COLS = ['title', 'artist', 'album', 'likeStatus',
                   'videoId', 'albumId', 'artistId']  # 'duration',
 TRACK_REMOVE_COLS = ['setVideoId', 'feedbackTokens']
@@ -800,23 +800,23 @@ class YTMusicPlaylists:
         if not len(self._playcount_map):
             self._playcount_map = self._read_tsv(self.lastfm_tsv)
             if verbose:
-                print(f'Loaded {self._playcount_map["lastfm_playcount"].sum()}',
+                print(f'Loaded {self._playcount_map["listenbrainz_playcount"].sum()}',
                       f'playounts from {len(self._playcount_map)} tracks')
         pl_str = f'{pl_info["title"]} [{DATE}]'
         tracks = pd.DataFrame(pl_info.get('tracks', None))
         tracks = tracks.set_index('videoId', drop=True)
-        desc = f'generated sorting by lastfm playcount for {pl_str}'
+        desc = f'generated sorting by listenbrainz playcount for {pl_str}'
         if not ignore_banned:
             orig_len = len(tracks)
             tracks = tracks.loc[~tracks.index.isin(self.banned_vid_set)]
             desc += f'\n\nremoved {orig_len - len(tracks)} ' + \
                 f'banned tracks, keeping {len(tracks)}'
         tracks = tracks.join(self._playcount_map).sort_values(
-            'lastfm_playcount', ascending=False)
+            'listenbrainz_playcount', ascending=False)
         # generate description string with top playcounts
-        pc = tracks.loc[tracks['lastfm_playcount']
+        pc = tracks.loc[tracks['listenbrainz_playcount']
                         > 0].head(max_playcount_str)
-        pc_str = pc['lastfm_playcount'].astype(
+        pc_str = pc['listenbrainz_playcount'].astype(
             int).astype('str') + '\t|  ' + pc['title']
         desc += f'\n\nTop {len(pc)} Playcounts:\t\n' + \
             '\n'.join(pc_str.to_list())
