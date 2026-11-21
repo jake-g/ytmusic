@@ -59,7 +59,9 @@ PLAYLIST_CLEAN_LIKE_MIN_LIKE_PCT = 80
 PLAYLIST_CLEAN_NOT_LIKE_MAX_LIKE_PCT = 20
 PLAYLIST_CLEAN_RADIO_MAX_LIKE_PCT = 50
 PLAYLIST_CLEAN_DUPLICATE_THRESH = 5
-PLAYLIST_SKIP_STARTS_WITH = ('zz not like', 'y ', 'zp ', 'zq ')
+NOT_LIKE_PREFIXES = ('zz not like', 'azz not like')
+SKIP_STARTS_WITH_TOKS = ('zz', 'azz')
+PLAYLIST_SKIP_STARTS_WITH = (*SKIP_STARTS_WITH_TOKS, 'y ', 'zp ', 'zq ')
 PLAYLIST_CLEAN_SKIP_KINDS = ('SKIP', 'ALBUM', 'YT_GENERATED')
 
 # Files
@@ -99,14 +101,12 @@ LIKE_FIRST_DATE_COL = 'first_liked_date'
 UNLIKED_DETECTED_TSV_FILE = '_unliked_detected.tsv'
 
 # NOT LIKE subset
-NOT_LIKE_PREFIX = 'zz not like'
 NOT_LIKE_TOKS = ['not like', '_not_like', ' dislike', 'thumbs_down']
 NOT_LIKE_TRACKS_TSV_FILE = '_not_liked_tracks.tsv'
 # Radio subset
 RADIO_TOKS = [' radio', '_radio', '_indifferent']
 RADIO_TO_LIKE_MAP_FILE = '_ytmusic_radio_to_like_pl_map.tsv'
 # Other subsets
-SKIP_STARTS_WITH_TOKS = ['zz']
 ALBUM_TOKS = ['_albums', '  album', 'albums']
 # Quoting for TSV track list files
 TSV_TRACK_QUOTING = 3
@@ -352,7 +352,9 @@ class YTMusicPlaylists:
 
     def get_playlists_by_privacy(
             self, privacy='PUBLIC',
-            skip_if_contains=('zz not', 'zzz ', 'yyz ', 'Episodes for ', 'Liked Music', 'Podcast Queue')):
+            skip_if_contains=(
+                *NOT_LIKE_PREFIXES, 'zz lb ', 'zzz ', 'yyz ',
+                'Episodes for ', 'Liked Music', 'Podcast Queue')):
         rows = []
         for i, p in self.playlists.iterrows():
             if len(p) == self.playlist_limit:
@@ -1516,15 +1518,13 @@ class YTMusicPlaylists:
         name = name.lower()
         if name.startswith('_'):
             return False
-        if NOT_LIKE_PREFIX in name:
-            return True
-        return any(tok in name for tok in not_like_toks)
+        return any(tok in name for tok in (*NOT_LIKE_PREFIXES, *not_like_toks))
 
     def _playlist_is_like(self, name, like_toks=LIKE_TOKS):
         name = name.lower()
-        if name.startswith('_') or name.endswith('albums'):
-            return False
-        if self._playlist_is_not_like(name):
+        if (name.startswith('_') or name.endswith('albums')
+                or self._playlist_is_not_like(name)
+                or self._playlist_skip_starts_with(name)):
             return False
         if any(t.lower() == name for t in self._like_playlist_titles):
             return True

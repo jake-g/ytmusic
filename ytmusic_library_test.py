@@ -75,6 +75,7 @@ class TestYTMusicUtils(unittest.TestCase):
 
     def test_playlist_is_not_like(self):
         self.assertTrue(self.yt_pl._playlist_is_not_like("zz not like music"))
+        self.assertTrue(self.yt_pl._playlist_is_not_like("azz not like 0"))
         self.assertTrue(self.yt_pl._playlist_is_not_like("music dislike"))
         self.assertTrue(self.yt_pl._playlist_is_not_like("thumbs_down"))
         self.assertFalse(self.yt_pl._playlist_is_not_like("my favorite music"))
@@ -90,6 +91,9 @@ class TestYTMusicUtils(unittest.TestCase):
         self.assertTrue(self.yt_pl._playlist_is_like("thumbs up tracks"))
         self.assertTrue(self.yt_pl._playlist_is_like(" top 100"))
         self.assertFalse(self.yt_pl._playlist_is_like("zz not like rap"))
+        self.assertFalse(self.yt_pl._playlist_is_like("azz not like 1"))
+        self.assertFalse(
+            self.yt_pl._playlist_is_like("zz lb top discoveries 2025"))
         self.assertFalse(self.yt_pl._playlist_is_like("rock radio"))
         self.assertFalse(self.yt_pl._playlist_is_like("_ignored"))
 
@@ -101,6 +105,8 @@ class TestYTMusicUtils(unittest.TestCase):
 
     def test_playlist_skip_starts_with(self):
         self.assertTrue(self.yt_pl._playlist_skip_starts_with("zz skip this"))
+        self.assertTrue(self.yt_pl._playlist_skip_starts_with("azz not like 0"))
+        self.assertFalse(self.yt_pl._playlist_skip_starts_with("rock radio"))
         self.assertFalse(self.yt_pl._playlist_skip_starts_with("my favorites"))
 
     def test_infer_playlist_kind(self):
