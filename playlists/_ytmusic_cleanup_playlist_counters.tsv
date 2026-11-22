@@ -1,16 +1,15 @@
 	count
-playlists_processed	548
-playlist_kind_is_yt_generated	9
-playlist_kind_in_playlist_skip_list	32
+playlists_processed	546
+playlist_kind_is_yt_generated	7
+playlist_kind_in_playlist_skip_list	30
+playlist_skip_starts_with_y 	43
 playlist_skip_starts_with_zz	21
 playlist_kind_is_indifferent	174
-track_processed	128340
-track_rating_exists	125368
+track_processed	128315
+track_rating_exists	125343
 track_rating_is_none	2972
 playlist_kind_is_like	238
-playlist_removed_duplicates	1
 playlist_kind_not_inferred	20
-playlist_skip_starts_with_y 	43
 playlist_kind_is_album	23
 playlist_skip_starts_with_zq 	5
 playlist_skip_starts_with_zp 	15
